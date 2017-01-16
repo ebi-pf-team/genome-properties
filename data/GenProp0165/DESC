@@ -1,0 +1,49 @@
+AC  GenProp0165
+DE  minCDE system
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  12766229
+RT  Division site selection in Escherichia coli involves dynamic
+RT  redistribution of Min proteins within coiled structures that extend
+RT  between the two cell poles.
+RA  Shih YL, Le T, Rothfield L;
+RL  Proc Natl Acad Sci U S A. 2003;100:7865-7870.
+RN  [2]
+RM  11806906
+RT  A dynamic model for determining the middle of Escherichia coli.
+RA  Kruse K;
+RL  Biophys J. 2002;82:618-627.
+CC  The MinCDE proteins are organized into extended membrane-associated
+CC  coiled structures that wind around the cell between the two poles. 
+CC  These structures, and changes (pole-to-pole oscillations) in the
+CC  distribution of the MinCDE proteins within them over time are required
+CC  for the proper placement of the cell division septum at midcell [1,2].
+CC  This system is aparrently absent from Archaea, Actinobacteria,
+CC  Bacteroides, Chlamydia, Staphylococci, Steptococci, Mollicutes and
+CC  Spirochaetes. 
+**  testing stage for now.  Hey, in genome gcs, looks like it points to DNA
+**  repeats. Is that general?
+--
+SN  minC
+ID  MinC protein
+DN  septum site-determining protein MinC
+RQ  1
+EV  IPR013033; TIGR01222; sufficient;
+TG  GO:0000918;
+--
+SN  minD
+ID  MinD protein
+DN  septum site-determining protein MinD
+RQ  1
+EV  IPR010223; TIGR01968; sufficient;
+TG  GO:0000918;
+--
+SN  minE
+ID  MinE protein
+DN  cell division topological specificity factor MinE
+RQ  1
+EV  IPR005527; TIGR01215; sufficient;
+TG  GO:0000918;
+//

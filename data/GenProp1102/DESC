@@ -1,0 +1,28 @@
+AC  GenProp1102
+DE  protein sorting system, CGP-CTERM/unknown of Thermococcaceae
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  This C-terminal protein sorting signal domain CGP-CTERM (TIGR04288) is
+CC  restricted to the the family Thermococcaceae (including Thermococcus,
+CC  Pyrococcus, and Palaeococcus) within the Euryarchaeota. It may be
+CC  universal in that family. The sorting family is unknown. By analogy to
+CC  the sortase, exosortase/archaeosortase, and rhombosortase systems, it
+CC  is predicted that some protein sorting and processing enzyme recognizes
+CC  and cleaves the C-terminal region. The unknown putative sorting enzyme
+CC  may act as a transpeptidase. 
+--
+SN  CGP_sort
+ID  unknown sorting enzyme for CGP-CTERM domain
+RQ  0
+--
+SN  CGP_term
+ID  CGP-CTERM domain
+RQ  1
+EV  IPR027552; TIGR04288;
+--
+SN  GCP_A
+ID  Cys-rich CGP-CTERM protein
+RQ  0
+EV  IPR027556; TIGR04292;
+//

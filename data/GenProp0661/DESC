@@ -1,0 +1,166 @@
+AC  GenProp0661
+DE  photosystem II
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  Photosystem II is found in cyanobacteria and in chloroplasts. It
+CC  oxidizes water (removes hydrogen) to evolve 02, and the protein
+CC  families in this model are all markers for oxygenic photosynthesis.
+CC  Most components of this property are shared from Synechocystis to
+CC  vascular plants. Variant forms of photosystem II in those Cyanobacteria
+CC  that lack thylakoid lack some proteins otherwise expected. Photosystem
+CC  II is found in the same species as photosystem I but assembles into a
+CC  different supracomplex; both may receive light energy from
+CC  light-harvesting antennae.
+**  psbG is chloroplast-only, and matches TIGR01957, the family of
+**  NADH-quinone oxidoreductase B subunit. psbS is chloroplast-only and a
+**  member of family PF00504, chlorophyll A-B binding protein.  NOTE: there
+**  are many cofactors (pigments, ions) connected to this property in
+**  principle. Non-oxygenic photosynthesis as in alpha-purple bacteria
+**  shares no proteins with photosystems I and II.
+--
+SN  S4_dom
+ID  photosystem II S4 domain protein
+RQ  1
+EV  IPR017506; TIGR03069; sufficient;
+--
+SN  psb27
+ID  photosystem II protein Psb27
+RQ  1
+EV  IPR017488; TIGR03044; sufficient;
+--
+SN  psb28
+ID  photosystem II reaction center protein Psb28
+RQ  1
+EV  IPR005610; TIGR03047; sufficient;
+--
+SN  psb29
+ID  photosystem II biogenesis protein Psp29
+RQ  1
+EV  IPR017499; TIGR03060; sufficient;
+--
+SN  psbA
+ID  photosystem II, DI subunit
+RQ  1
+EV  IPR005867; TIGR01151; sufficient;
+--
+SN  psbB
+ID  photosystem II chlorophyll-binding protein CP47
+RQ  1
+EV  IPR017486; TIGR03039; sufficient;
+--
+SN  psbC
+ID  photosystem II, 44K reaction center protein
+RQ  1
+EV  IPR005869; TIGR01153; sufficient;
+--
+SN  psbD
+ID  photosystem II, D2 subunit
+RQ  1
+EV  IPR005868; TIGR01152; sufficient;
+--
+SN  psbE
+ID  cytochrome b559, alpha subunit
+RQ  1
+EV  IPR006217; TIGR01332; sufficient;
+--
+SN  psbF
+ID  cytochrome b559, beta subunit
+RQ  1
+EV  IPR006241; TIGR01333; sufficient;
+--
+SN  psbH
+ID  photosystem II, 10 kd phosphoprotein PsbH
+RQ  1
+EV  IPR001056; PF00737; sufficient;
+--
+SN  psbI
+ID  photosystem II reaction center protein PsbI
+RQ  1
+EV  IPR003686; PF02532; sufficient;
+--
+SN  psbJ
+ID  photosystem II protein PsbJ
+RQ  1
+EV  IPR002682; PF01788; sufficient;
+--
+SN  psbK
+ID  photosystem II 4 kDa reaction center protein
+RQ  1
+EV  IPR003687; PF02533; sufficient;
+--
+SN  psbL
+ID  photosystem II protein PsbL
+RQ  1
+EV  IPR003372; PF02419; sufficient;
+--
+SN  psbM
+ID  photosystem II reaction center protein M
+RQ  1
+EV  IPR007826; TIGR03038; sufficient;
+--
+SN  psbN
+ID  photosystem II reaction center protein PsbN
+RQ  1
+EV  IPR003398; PF02468; sufficient;
+--
+SN  psbO
+ID  photosystem II extrinsic protein PsbO
+RQ  1
+EV  IPR002628; PF01716; sufficient;
+--
+SN  psbP
+ID  photosystem II extrinsic protein PsbP
+RQ  1
+EV  IPR002683; PF01789; sufficient;
+--
+SN  psbQ
+ID  photosystem II protein PsbQ
+RQ  1
+EV  IPR017487; TIGR03042; sufficient;
+--
+SN  psbR
+ID  photosystem II 10 kDa polypeptide PsbR
+RQ  0
+EV  IPR006814; PF04725; sufficient;
+--
+SN  psbTc
+ID  photosystem II reaction center T protein
+RQ  1
+EV  IPR001743; PF01405; sufficient;
+--
+SN  psbU
+ID  photosystem II 12 kDa extrinsic protein PsbU
+RQ  1
+EV  IPR010527; PF06514; sufficient;
+--
+SN  psbV
+ID  cytochrome c-550
+RQ  1
+EV  IPR017851; TIGR03045; sufficient;
+--
+SN  psbW
+ID  photosystem II reaction center protein PsbW
+RQ  1
+EV  IPR005610; PF03912; sufficient;
+--
+SN  psbW_pl
+ID  photosystem II reaction center protein (plant)
+RQ  0
+EV  IPR009806; PF07123; sufficient;
+--
+SN  psbX
+ID  photosystem II reaction center protein PsbX
+RQ  1
+EV  IPR009518; PF06596; sufficient;
+--
+SN  psbY
+ID  photosystem II protein PsbY
+RQ  1
+EV  IPR009388; PF06298; sufficient;
+--
+SN  psbZ
+ID  photosystem II reaction center protein PsbZ
+RQ  1
+EV  IPR002644; TIGR03043; sufficient;
+//

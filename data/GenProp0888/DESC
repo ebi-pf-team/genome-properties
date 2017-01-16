@@ -1,0 +1,18 @@
+AC  GenProp0888
+DE  mobilization system MobA/MobB/MobC
+TP  SYSTEM
+AU  Haft D
+TH  0
+**  Stalling on reports of MobB being an alternate frame in the MobA coding
+**  region. Maybe will not finish building this one.
+--
+SN  MobA
+ID  mobilisation protein MobA
+RQ  1
+EV  IPR005053; PF03389;
+--
+SN  MobC
+ID  mobilisation protein MobC
+RQ  1
+EV  IPR008687; PF05713;
+//

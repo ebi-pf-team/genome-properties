@@ -1,0 +1,34 @@
+AC  GenProp0859
+DE  protein sorting system, proteobacterial dedicated sortase type
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  This property represents a specialization of SrtA-like sortase systems
+CC  in the Proteobacteria, including many marine species. In contrast to
+CC  sortase A systems in the Firmicutes, where a single transpeptidase
+CC  serves multiple target proteins, this system is characterized by a
+CC  single sorting target protein, conserved across species, adjacent to
+CC  the sorting enzyme itself. In a majority of species with this system,
+CC  the sortase and target pair are accompanied by a histidine kinase and
+CC  response regulator pair.
+--
+SN  pdsHK
+ID  proteobacterial dedicated sortase system histidine kinase
+RQ  0
+EV  IPR022510; TIGR03785;
+--
+SN  pdsLPXT
+ID  LPXTG-anchored VIT/VWA domain protein
+RQ  1
+EV  IPR022440; TIGR03788;
+--
+SN  pdsRR
+ID  proteobacterial dedicated sortase system response regulator
+RQ  0
+EV  IPR022305; TIGR03787;
+--
+SN  pdsSRT
+ID  sortase, proteobacterial dedicated type
+RQ  1
+EV  IPR022445; TIGR03784;
+//

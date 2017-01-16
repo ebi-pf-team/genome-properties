@@ -1,0 +1,80 @@
+AC  GenProp0491
+DE  recFOR recombination pathway
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  16132081
+RT  Comparative and evolutionary analysis of the bacterial homologous
+RT  recombination systems.
+RA  Rocha EP, Cornet E, Michel B;
+RL  PLoS Genet. 2005;1:e15.
+RN  [2]
+RM  15687199
+RT  Effects of recJ, recQ, and recFOR mutations on recombination in
+RT  nuclease-deficient recB recD double mutants of Escherichia coli.
+RA  Ivancic-Bace I, Salaj-Smic E, Brcic-Kostic K;
+RL  J Bacteriol. 2005;187:1350-1356.
+CC  RecFOR is a system for homologous recombination, a nearly universal
+CC  housekeeping process especially important for repair. RecFOR acts
+CC  independently from the RecBCD system, or the AddAB system that replaces
+CC  RecBCD in certain lineages, and the presence of RecFOR is actually
+CC  positively correlated with the presence of RecBCD/AddAB, so these two
+CC  presynaptic systems that act in loading RecA may be regarded as
+CC  complementary. RecFOR especially repairs single-stranded gaps while
+CC  RecBCD/AddAB repairs double-stranded DNA ends, although roles for
+CC  RecFOR in double stranded break repair are shown in discussion of RecN
+CC  and RecQ function and of recBCD mutants. RecFOR systems often are
+CC  assisted in an early step by the exonuclease RecJ. Following strand
+CC  exchange by RecA, Holliday junction resolution may be done by RuvABC or
+CC  RecG. The action of the RecFOR pathway involves formation of RecOR
+CC  complexes, and RecFR complexes, but no complex of all three. Of the
+CC  three genes, either RecO or RecF may be missing while the other two
+CC  components are present, but RecR must be present in genomes with any
+CC  part of this system.
+**  PMID:11807051 says RecN belongs to both systems: RecFOR and RecBCD.
+**  However, the Rocha, et al. paper Fig 2 shows it clearly more correlated
+**  to RecFOR (although they do NOT discuss recN). DHH.
+--
+SN  RecF
+ID  RecF
+DN  DNA replication and repair protein RecF
+RQ  1
+EV  IPR001238; TIGR00611; sufficient;
+TG  GO:0000724;
+--
+SN  RecJ
+ID  exonuclease RecJ
+DN  single-stranded-DNA-specific exonuclease RecJ (EC:3.1.-.-)
+RQ  1
+EV  IPR004610; TIGR00644; sufficient;
+TG  GO:0000724;
+--
+SN  RecN
+ID  RecN
+DN  DNA repair protein RecN
+RQ  0
+EV  IPR004604; TIGR00634; sufficient;
+TG  GO:0000724;
+--
+SN  RecO
+ID  RecO
+DN  DNA repair protein RecO
+RQ  1
+EV  IPR003717; TIGR00613; sufficient;
+TG  GO:0000724;
+--
+SN  RecQ
+ID  helicase RecQ
+DN  ATP-dependent DNA helicase RecQ (EC:3.6.1.-)
+RQ  0
+EV  IPR006293; TIGR01389; sufficient;
+TG  GO:0000724;
+--
+SN  RecR
+ID  RecR
+DN  recombination protein RecR
+RQ  1
+EV  IPR000093; TIGR00615; sufficient;
+TG  GO:0000724;
+//

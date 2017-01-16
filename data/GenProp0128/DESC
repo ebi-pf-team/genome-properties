@@ -1,0 +1,66 @@
+AC  GenProp0128
+DE  F1/F0 ATPase
+TP  SYSTEM
+AU  Haft D
+TH  1
+DC  ATP synthesis
+DR  KEGG; map00193;
+CC   F1/F0 ATP synthase: F1 and F0 represent two major clusters of
+CC  subunits. F1 is the peripheral membrane associated cluster. The F1
+CC  subunits: alpha, beta, gamma, delta, epsilon, have the same names both
+CC  in prokaryotes and eukaryotes. F0 is the integral membrane cluster. In
+CC  F0, nomenclatures differ. For example, prokaryotic chain A matches
+CC  eukaryotic chain 6.
+**  See egad groups 10022.
+--
+SN  F0_Asub
+ID  A subunit of ATP synthase F0 cluster
+DN  ATP synthase subunit A (EC 3.6.3.14)
+RQ  1
+EV  IPR000568; TIGR01131; sufficient;
+--
+SN  F0_Bsub
+ID  B subunit of ATP synthase F0 cluster
+DN  ATP synthase subunit B (EC 3.6.3.14)
+RQ  1
+EV  IPR005864; TIGR01144; sufficient;
+EV  IPR002146; PF00430; sufficient;
+--
+SN  F0_Csub
+ID  C subunit of ATP synthase F0 cluster
+DN  ATP synthase subunit C (EC 3.6.3.14)
+RQ  1
+EV  IPR005953; TIGR01260; sufficient;
+EV  IPR002379; PF00137; sufficient;
+--
+SN  F1_alph
+ID  F1 alpha subunit of F1/F0 ATP synthase
+DN  ATP synthase subunit alpha (EC 3.6.3.14)
+RQ  1
+EV  IPR005294; TIGR00962; sufficient;
+--
+SN  F1_beta
+ID  F1 beta subunit of F1/F0 ATP synthase
+DN  ATP synthase subunit beta (EC 3.6.3.14)
+RQ  1
+EV  IPR005722; TIGR01039; sufficient;
+--
+SN  F1_delta
+ID  F1 delta subunit of F1/F0 ATP synthase
+DN  ATP synthase subunit delta (EC 3.6.3.14)
+RQ  1
+EV  IPR000711; TIGR01145; sufficient;
+--
+SN  F1_epsil
+ID  F1 epsilon subunit of F1/F0 ATP synthase
+DN  ATP synthase subunit epsilon (EC 3.6.3.14)
+RQ  1
+EV  IPR001469; TIGR01216; sufficient;
+EV  IPR020546; PF02823; sufficient;
+--
+SN  F1_gamma
+ID  F1 gamma subunit of F1/F0 ATP synthase
+DN  ATP synthase subunit gamma (EC 3.6.3.14)
+RQ  1
+EV  IPR000131; TIGR01146; sufficient;
+//

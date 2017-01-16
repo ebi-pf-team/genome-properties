@@ -1,0 +1,58 @@
+AC  GenProp0860
+DE  tryptophan tryptophylquinone modification of methylamine dehydrogenase
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  19196017
+RT  Kinetic mechanism for the initial steps in MauG-dependent tryptophan
+RT  tryptophylquinone biosynthesis.
+RA  Lee S, Shin S, Li X, Davidson VL;
+RL  Biochemistry. 2009;48:2442-2447.
+RN  [2]
+RM  22314272
+RT  Tryptophan tryptophylquinone biosynthesis: a radical approach to
+RT  posttranslational modification.
+RA  Davidson VL, Liu A;
+RL  Biochim Biophys Acta. 2012;1824:1299-1305.
+CC  The maturation enzyme MauG completes the modification and cross-linking
+CC  of a pair of Trp residues into the novel cofactor tryptophan
+CC  tryptophylquinone, or TTQ, in the light chain (MauA) of methylamine
+CC  dehydrogenase. While some analogous enzyme cofactors are produced
+CC  autocatalytically from amino acids in the precursor polypeptide, TTQ is
+CC  produced with aid of the maturation enzyme MauG. MauG is a di-heme
+CC  enzyme with peroxidase activity, similar to di-heme cytochrome c
+CC  peroxidases of other biological systems. Interestingly, the pair of
+CC  modified Trp residues is conserved in MauA homologs in species that
+CC  have no MauG homolog in the vicinity, suggesting no modification,
+CC  autocatalytic modification, or a different modification enzyme.
+**  Looks like TIGR02659 homologs all have the Tyr-Trp pair that gets
+**  modified to become TTG, and has other critical residues as well, and
+**  this includes homologs at subfamily rather than equivalog level, yet
+**  strangely neighboring to MauG is not conserved except for the top few
+**  hits. KEEP EQUIVALOG WITH RESTRICTIVE CUTOFF!  Radical mechanism BUT
+**  NOT RADICAL SAM. The MauA light (beta) chain is a genomic marker to
+**  help discern MauG from homologs. Good candidate for using FIGfams/the
+**  SEED to figure out extent of this subsystem, since cutoffs seem to vary
+**  wildly in number of hits.  And what about PF07291 MauE?
+--
+SN  MauA
+ID  methylamine dehydrogenase, light chain
+RQ  1
+EV  IPR004229; TIGR02659;
+--
+SN  MauB
+ID  methylamine dehydrogenase heavy chain
+RQ  1
+EV  IPR013476; TIGR02658;
+--
+SN  MauD
+ID  methylamine dehydrogenase accessory protein MauD
+RQ  1
+EV  IPR013478; TIGR02661;
+--
+SN  MauG
+ID  TTQ maturation di-heme protein MauG
+RQ  1
+EV  IPR022394; TIGR03791;
+//

@@ -1,0 +1,99 @@
+AC  GenProp0542
+DE  Tol-Pal system
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  11200223
+RT  Organisation and evolution of the tol-pal gene cluster.
+RA  Sturgis JN;
+RL  J Mol Microbiol Biotechnol. 2001;3:113-122.
+RN  [2]
+RM  16207916
+RT  Tol-Pal proteins are critical cell envelope components of Erwinia
+RT  chrysanthemi affecting cell morphology and virulence.
+RA  Dubuisson JF, Vianney A, Hugouvieux-Cotte-Pattat N, Lazzaroni JC;
+RL  Microbiology. 2005;151:3337-3347.
+RN  [3]
+RM  12486055
+RT  Transcriptional organization of the Pseudomonas putida tol-oprL genes.
+RA  Llamas MA, Ramos JL, Rodríguez-Herva JJ;
+RL  J Bacteriol. 2003;185:184-195.
+RN  [4]
+RM  11959124
+RT  The YbgC protein encoded by the ybgC gene of the tol-pal gene cluster
+RT  of Haemophilus influenzae catalyzes acyl-coenzyme A thioester
+RT  hydrolysis.
+RA  Zhuang Z, Song F, Martin BM, Dunaway-Mariano D;
+RL  FEBS Lett. 2002;516:161-163.
+RN  [5]
+RM  11722743
+RT  The TolQ-TolR proteins energize TolA and share homologies with the
+RT  flagellar motor proteins MotA-MotB.
+RA  Cascales E, Lloubès R, Sturgis JN;
+RL  Mol Microbiol. 2001;42:795-807.
+RN  [6]
+RM  14731286
+RT  Deletion analyses of the peptidoglycan-associated lipoprotein Pal
+RT  reveals three independent binding sequences including a TolA box.
+RA  Cascales E, Lloubès R;
+RL  Mol Microbiol. 2004;51:873-885.
+RN  [7]
+RM  12896989
+RT  Role of Pseudomonas putida tol-oprL gene products in uptake of solutes
+RT  through the cytoplasmic membrane.
+RA  Llamas MA, Rodríguez-Herva JJ, Hancock RE, Bitter W, Tommassen J,
+RA  Ramos JL;
+RL  J Bacteriol. 2003;185:4707-4716.
+CC  A complex of TolQ, TolR, and TolA in the inner membrane, interacting
+CC  through TolA with a complex of TolB and Pal (also called OprL) present
+CC  at the outer membrane, is pivotal to maintaining morphology and outer
+CC  membrane integrity in many Gram-negative bacteria. The tol operon(s)
+CC  routinely also contain ybgC (orf1) and ybgF (orf2) genes, although
+CC  these are not clearly associated with mutant phenotypes. The TolA
+CC  protein, homologous to TonB from a similar complex, is the most
+CC  divergent, as it consists largely of very low complexity sequence. TolB
+CC  contains a variable number of beta-propellar repeats.
+**  This system is exploited for uptake of bacteriotoxins (colicins) and
+**  filamentous phage DNA (PMID:15701516). The TonB system has some
+**  homologous parts, and a species may have both. Previously, PF04055 was
+**  in as HMM-CLUST, but it appears this was an artifact of a regular
+**  positioning next to preQ0 biosynthesis (e.g. TIGR00364 QueC), and the
+**  common neighboring radical SAM may be a QueE, given TIGR03963 is top
+**  miss. So, removing the rSAM HMM-CLUST.
+--
+SN  Pal
+ID  tol-pal system protein Pal (OprL)
+RQ  1
+EV  IPR014169; TIGR02802; sufficient;
+--
+SN  TolA
+ID  TolA
+RQ  1
+EV  IPR014161; TIGR02794; sufficient;
+--
+SN  TolB
+ID  TolB
+RQ  1
+EV  IPR014167; TIGR02800; sufficient;
+--
+SN  TolQ
+ID  TolQ
+RQ  1
+EV  IPR014163; TIGR02796; sufficient;
+--
+SN  TolR
+ID  TolR
+RQ  1
+EV  IPR014168; TIGR02801; sufficient;
+--
+SN  YbgC
+ID  tol-pal region thioesterase YbgC
+RQ  0
+EV  IPR014166; TIGR02799; sufficient;
+--
+SN  YbgF
+ID  tol-pal region protein YbgF
+RQ  0
+EV  IPR014162; TIGR02795; sufficient;
+//

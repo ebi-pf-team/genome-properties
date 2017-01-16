@@ -1,0 +1,12 @@
+AC  GenProp0239
+DE  propionyl-CoA catabolism
+TP  SUMMARY
+AU  Haft D
+TH  0
+CC  At least five pathways exist for propionate catabolism in prokaryotes:
+CC  the malonic semialdehyde-CoA pathway, acrylate pathway,
+CC  methylmalonyl-CoA mutase pathway, alpha-hydroxyglutaric acid pathway,
+CC  and methylcitric acid cycle pathway.
+**  methylcitric acid has a variant in S. typhimurium: PduW/Pta parallel to
+**  PrpE.
+//

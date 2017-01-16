@@ -1,0 +1,113 @@
+AC  GenProp0053
+DE  type II secretion
+TP  SYSTEM
+AU  Haft D
+TH  1
+RN  [1]
+RM  11309111
+RT  Biology of type II secretion.
+RA  Sandkvist M;
+RL  Mol Microbiol. 2001;40:271-283.
+DC  Type II secretion system
+DR  KEGG; map03090;
+CC  Type II secretion is also called the main terminal branch of the
+CC  general secretion pathway. Type II secretion systems transport across
+CC  the outer membrane proteins that came unfolded across the inner
+CC  membrane by the general secretory pathway (Sec) and then folded fully
+CC  in the periplasm. One report (PMID:11726509) describes proteins that
+CC  cross the inner membrane by Tat (Sec-independent) protein export rather
+CC  than by Sec prior to type II secretion.
+**  Do not expect unless species has an outer membrane.
+--
+SN  GspC
+ID  type II secretion system protein C
+DN  type II secretion system protein C
+RQ  0
+EV  IPR001639; TIGR01713; sufficient;
+TG  GO:0015628;
+--
+SN  GspD
+ID  type II secretion system protein D
+DN  type II secretion system protein D
+RQ  1
+EV  IPR013356; TIGR02517; sufficient;
+TG  GO:0015628;
+--
+SN  GspE
+ID  type II secretion system protein E
+DN  type II secretion system protein E
+RQ  1
+EV  IPR013369; TIGR02533; sufficient;
+TG  GO:0015628;
+--
+SN  GspF
+ID  type II secretion system protein F
+DN  type II secretion system protein F
+RQ  1
+EV  IPR011850; TIGR02120; sufficient;
+TG  GO:0015628;
+--
+SN  GspG
+ID  type II secretion system protein G
+DN  type II secretion system protein G
+RQ  1
+EV  IPR010054; TIGR01710; sufficient;
+TG  GO:0015628;
+--
+SN  GspH
+ID  type II secretion system protein H
+DN  type II secretion system protein H
+RQ  1
+EV  IPR002416; TIGR01708; sufficient;
+TG  GO:0015628;
+--
+SN  GspI
+ID  type II secretion system protein I
+DN  type II secretion system protein I
+RQ  1
+EV  IPR010052; TIGR01707; sufficient;
+TG  GO:0015628;
+--
+SN  GspJ
+ID  type II secretion system protein J
+DN  type II secretion system protein J
+RQ  1
+EV  IPR010055; TIGR01711; sufficient;
+TG  GO:0015628;
+EV  IPR010055; PF11612;
+TG  GO:0015628;
+--
+SN  GspK
+ID  type II secretion system protein K
+DN  type II secretion system protein K
+RQ  1
+EV  IPR005628; PF03934; sufficient;
+TG  GO:0015628;
+--
+SN  GspL
+ID  type II secretion system protein L
+DN  type II secretion system protein L
+RQ  1
+EV  IPR007812; TIGR01709; sufficient;
+TG  GO:0015628;
+--
+SN  GspM
+ID  type II secretion system protein M
+DN  type II secretion system protein M
+RQ  0
+EV  IPR007690; PF04612; sufficient;
+TG  GO:0015628;
+EV  IPR030927; TIGR04412; sufficient;
+TG  GO:0015628;
+EV  IPR007690; PF10741;
+TG  GO:0015628;
+--
+SN  GspN
+ID  type II secretion system protein N
+DN  type II secretion system protein N
+RQ  0
+EV  IPR022792; PF01203; sufficient;
+TG  GO:0015628;
+EV  IPR030925; TIGR04411;
+TG  GO:0015628;
+//

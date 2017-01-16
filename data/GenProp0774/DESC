@@ -1,0 +1,61 @@
+AC  GenProp0774
+DE  ferric citrate transport system
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  16193283
+RT  Occurrence and regulation of the ferric citrate transport system in
+RT  Escherichia coli B, Klebsiella pneumoniae, Enterobacter aerogenes, and
+RT  Photorhabdus luminescens.
+RA  Mahren S, Schnell H, Braun V;
+RL  Arch Microbiol. 2005;184:175-186.
+CC  Siderophores are chelators for ferric iron, that is, iron(III).
+CC  Specific uptake systems for siderophores and their strong avidity for
+CC  ferric iron compensate for the low availability of iron in certain
+CC  environments. While some siderophores are derived from citrate, citrate
+CC  itself chelates iron. Escherichia coli K-12, and some related
+CC  enterobacteria, have a dedicated transport system for chelated iron in
+CC  the form diferric dicitrate. This system exploits locally available
+CC  citrate and obviates the need for siderophore biosynthesis and export.
+CC  FecA is both a ferric citrate outer membrane transporter and signaling
+CC  molecule that regulates transcription of the ferric citrate update
+CC  system. FecBCDE is an ABC transporter complex. It appears that the iron
+CC  ion is transported without the chelating citrate. FecR and FecI are
+CC  regulatory proteins.
+**  Finding IucA/C family proteins nearby will suggest that homologous
+**  systems are NOT  ferric citrate transport system.  FOR NOW, it is
+**  easier not to include regulatory protein FecI, FecR, which work with
+**  FecA, and may be called the same in siderophore-proper systems as well
+**  as citrate system.
+--
+SN  FecA
+ID  TonB-dependent ferric citrate receptor FecA
+RQ  1
+EV  IPRXXXX; 2172;
+TG  GO:0015682;
+--
+SN  FecB
+ID  citrate-dependent iron(III) ABC transporter, periplasmic binding protein FecB
+RQ  1
+EV  IPRXXXX; 2173;
+TG  GO:0015682;
+--
+SN  FecC
+ID  citrate-dependent iron(III) ABC transporter, permease protein FecC
+RQ  1
+EV  IPRXXXX; 2174;
+TG  GO:0015682;
+--
+SN  FecD
+ID  citrate-dependent iron(III) ABC transporter, permease protein FecD
+RQ  1
+EV  IPRXXXX; 2175;
+TG  GO:0015682;
+--
+SN  FecE
+ID  citrate-dependent iron(III) ABC transporter, ATP-binding protein FecE
+RQ  1
+EV  IPRXXXX; 2176;
+TG  GO:0015682;
+//

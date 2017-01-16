@@ -1,0 +1,67 @@
+AC  GenProp1101
+DE  quinoprotein cytochrome relay system
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  18174148
+RT  Identification of proteins involved in formaldehyde metabolism by
+RT  Rhodobacter sphaeroides.
+RA  Wilson SM, Gleisten MP, Donohue TJ;
+RL  Microbiology. 2008;154:296-305.
+RN  [2]
+RM  12686160
+RT  The role of the MxaD protein in the respiratory chain of
+RT  Methylobacterium extorquens during growth on methanol.
+RA  Toyama H, Inagaki H, Matsushita K, Anthony C, Adachi O;
+RL  Biochim Biophys Acta. 2003;1647:372-375.
+RN  [3]
+RM  19224199
+RT  Quinoprotein ethanol dehydrogenase from Pseudomonas aeruginosa: the
+RT  unusual disulfide ring formed by adjacent cysteine residues is
+RT  essential for efficient electron transfer to cytochrome c550.
+RA  Mennenga B, Kay CW, Görisch H;
+RL  Arch Microbiol. 2009;191:361-367.
+CC  This system features a putative carrier protein, TIGR04557, related to
+CC  the SoxY and SoxZ carrier complex of the sulfate oxidation cycle, as
+CC  well as PQQ-dependent enzymes that have a Cys-Cys motif, and
+CC  specialized cytochromes involved in electron transport. Authentic SoxY
+CC  (see TIGR04488) is a carrier protein for sulfur oxidation, with a
+CC  covalent attachment site near its C-terminus, a Cys residue in the
+CC  context GGCGG or GGCG. The  carrier Cys of SoxY is conserved in
+CC  TIGR04557, but what might be attached in the latter is unknown. Note
+CC  that GenProp0895 (alcohol ABC transporter, PedABC-type) describes a
+CC  four-gene operon closely tied to this system.
+**  Some of this, mostly the fusion, may be new discovery. Property should
+**  require PQQ biosynthesis (but that would make TIGR03075 count twice!).
+**  TIGR03871 needs annotation help. Some of the additional correlated
+**  proteins are subfamilies with multiple equivalogs, none universal and
+**  often several paralogs per genome. Beware.
+--
+SN  qu_ABCbn
+ID  probable periplasmic binding protein
+RQ  0
+EV  IPR022448; TIGR03871;
+--
+SN  quin_Cyt
+ID  relay cytochrome
+RQ  1
+EV  IPR022411; TIGR03874;
+EV  IPR030991; TIGR04494;
+--
+SN  quin_PQQ
+ID  PQQ-dependent dehydrogenase, CysCys motif family
+RQ  1
+EV  IPR017512; TIGR03075;
+--
+SN  quin_YZ
+ID  SoxYZ-like carrier
+RQ  1
+EV  IPR030831; TIGR04557;
+--
+SN  quin_Zn
+ID  quinoprotein relay system zinc metallohydrolase
+RQ  1
+EV  IPR030811; TIGR04558;
+EV  IPR030829; TIGR04559;
+//

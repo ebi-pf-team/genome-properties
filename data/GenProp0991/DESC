@@ -1,0 +1,32 @@
+AC  GenProp0991
+DE  ATP-grasp maturase system, microviridin/marinostatin class
+TP  PATHWAY
+AU  Haft D
+TH  0
+RN  [1]
+RM  19035375
+RT  Post-translational modification in microviridin biosynthesis.
+RA  Philmus B, Christiansen G, Yoshida WY, Hemscheidt TK;
+RL  Chembiochem. 2008;9:3066-3073.
+CC  Microviridins, marinostatins, and related peptide natural products
+CC  become circularized into tricyclic depsipeptides, and serve as
+CC  proteinase inhibitors. Characteristic proteins of their biosynthesis
+CC  cassettes include a pair of closely related ATP-grasp proteins.
+**  The six described genes are two ATP-grasp (RimK homologs), two targets,
+**  and acetyltransferase, and an ABC transporter (single gene?).
+--
+SN  GRASP1
+ID  ATP-grasp family maturase 1
+RQ  1
+EV  IPR026446; TIGR04185;
+--
+SN  GRASP2
+ID  ATP-grasp family maturase 2
+RQ  1
+EV  IPR026439; TIGR04184;
+--
+SN  precur
+ID  microviridin/marinostatin family precursor
+RQ  1
+EV  IPR022217; PF12559;
+//

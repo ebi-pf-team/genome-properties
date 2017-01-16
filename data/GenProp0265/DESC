@@ -1,0 +1,43 @@
+AC  GenProp0265
+DE  trehalose biosynthesis, OtsAB pathway
+TP  PATHWAY
+AU  Haft D
+TH  0
+RN  [1]
+RM  12890033
+RT  Three pathways for trehalose metabolism in Corynebacterium glutamicum
+RT  ATCC13032 and their significance in response to osmotic stress.
+RA  Wolf A, Krämer R, Morbach S;
+RL  Mol Microbiol. 2003;49:1119-1134.
+RN  [2]
+RM  8045430
+RT  Analysis of the otsBA operon for osmoregulatory trehalose synthesis in
+RT  Escherichia coli and homology of the OtsA and OtsB proteins to the
+RT  yeast trehalose-6-phosphate synthase/phosphatase complex.
+RA  Kaasen I, McDougall J, Strøm AR;
+RL  Gene. 1994;145:9-15.
+CC  Trehalose is compatible solute, an osmolyte that protects cells against
+CC  osmotic stress. It is built from two glucose molecules in an
+CC  alpha,alpha linkage and can be made by at least three different
+CC  pathways. In the OtsAB pathway (ots stands for osmotically regulated
+CC  trehalose synthesis), OtsA (EC 2.4.1.15) makes trehalose-6-phosphate
+CC  from UDP-glucose and D-glucose 6-phosphate. OtsB (EC 3.1.3.12) removes
+CC  the phosphate. 
+**  UDP-glucose pyrophosphorylase, GalU, TIGR01099, was a part of this
+**  family but turns out to give little info: not clustered, present in
+**  more than half the negatives, and often >= 2 per genome.  
+--
+SN  otsA
+ID  Trehalose-6-phosphate synthase
+DN  alpha,alpha-trehalose-phosphate synthase (UDP-forming) (EC 2.4.1.15)
+RQ  1
+EV  IPR012766; TIGR02400; sufficient;
+TG  GO:0006970;
+--
+SN  otsB
+ID  trehalose-phosphatase
+DN  trehalose-phosphatase (EC 3.1.3.12)
+RQ  1
+EV  IPR003337; TIGR00685; sufficient;
+TG  GO:0006970;
+//

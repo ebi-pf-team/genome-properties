@@ -1,0 +1,26 @@
+AC  GenProp0875
+DE  decarboxylation/antiport proton-motive cycle: tyrosine-tyramine
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  12089039
+RT  Identification of the Enterococcus faecalis tyrosine decarboxylase
+RT  operon involved in tyramine production.
+RA  Connil N, Le Breton Y, Dousset X, Auffray Y, Rincé A, Prévost H;
+RL  Appl Environ Microbiol. 2002;68:3537-3544.
+CC  The decarboxylation of tyrosine to tyramine consumes a proton. Exchange
+CC  of tyrosine for tyramine by an antiporter completes a cycle that
+CC  effectively removes a cytosolic proton. Decarboxylation/antiporter
+CC  systems for this and other (e.g. aspartate-alanine) substrate pairs can
+CC  provide protection against acidic pH.  
+--
+SN  TyrAnti
+ID  tyrosine-tyramine antiporter
+RQ  1
+--
+SN  Tyr_CO2
+ID  tyrosine decarboxylase
+RQ  1
+EV  IPR022397; TIGR03811;
+//

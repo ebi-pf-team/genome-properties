@@ -1,0 +1,59 @@
+AC  GenProp0481
+DE  urea carboxylase/allophanate hydrolase pathway
+TP  PATHWAY
+AU  Haft D
+TH  0
+RN  [1]
+RM  15090492
+RT  Enzymatic characterization of a prokaryotic urea carboxylase.
+RA  Kanamori T, Kanou N, Atomi H, Imanaka T;
+RL  J Bacteriol. 2004;186:2532-2539.
+CC  This two-step, ATP-dependent pathway for urea hydrolysis is an
+CC  alternative to urease. Urease requires a transporter and accessory
+CC  proteins to produce its nickel metallocenter, while this two-step
+CC  system uses biotin. Urea carboxylase acts first in this pathway,
+CC  requiring ATP and bicarbonate as substrates. Allophanate hydrolase acts
+CC  next, but note that this enzyme may be found in systems that do not
+CC  contain a urea carboxylase. In yeasts such as Saccaromyces cerevisiae,
+CC  the two activities of this pathway are encoded in a fusion protein,
+CC  designated urea amidolyase. This pathway appears to function primarily
+CC  for the purpose of obtaining nitrogen in the form of ammonia. A pair of
+CC  uncharacterized, tandem, homologous genes, restricted to organisms with
+CC  this system and adjacent to the known genes, has been added to this
+CC  Genome Property.
+--
+SN  ABC_bin
+ID  ABC transporter periplasmic binding protein, urea carboxylase region
+DN  ABC transporter periplasmic binding protein, urea carboxylase region
+RQ  0
+EV  IPR017793; TIGR03427;
+TG  GO:0043419;
+--
+SN  alloph
+ID  allophanate hydrolase
+DN  allophanate hydrolase (EC:3.5.1.54)
+RQ  1
+EV  IPR014085; TIGR02713; sufficient;
+TG  GO:0043419;
+--
+SN  uca
+ID  urea carboxylase
+DN  UreA carboxylase (EC:6.3.4.6)
+RQ  1
+EV  IPR014084; TIGR02712; sufficient;
+TG  GO:0043419;
+--
+SN  unchar1
+ID  urea carboxylase-associated protein 1
+DN  UreA carboxylase-associated protein 1
+RQ  1
+EV  IPR017791; TIGR03424;
+TG  GO:0043419;
+--
+SN  unchar2
+ID  urea carboxylase-associated protein 2
+DN  UreA carboxylase-associated protein 2
+RQ  1
+EV  IPR017792; TIGR03425;
+TG  GO:0043419;
+//

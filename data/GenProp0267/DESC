@@ -1,0 +1,22 @@
+AC  GenProp0267
+DE  osmolyte biosynthesis
+TP  CATEGORY
+AU  Haft D
+TH  0
+RN  [1]
+RM  9818351
+RT  Uptake and synthesis of compatible solutes as microbial stress
+RT  responses to high-osmolality environments.
+RA  Kempf B, Bremer E;
+RL  Arch Microbiol. 1998;170:319-330.
+CC  Cells can resist dessication, high salt, and other osmotic stresses by
+CC  modulating levels of osmolytes, compatible solutes that can exists in
+CC  high concentrations without damaging cells. Some osmolytes may have
+CC  secondary functions for carbon and energy storage molecules or for
+CC  further biosynthetic reactions. Widely distributed compatible solutes
+CC  induced by osmotic stress include trehalose, glucosylglycerol, sucrose,
+CC  mannitol, glycine betaine and other betaines, ectoine and
+CC  hydroxyectoine, glutamate, N-acetylglutaminylglutamine amide, etc.
+**  Related to storage polymers, but for small, soluble molecules like
+**  disaccharides.
+//

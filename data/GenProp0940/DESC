@@ -1,0 +1,24 @@
+AC  GenProp0940
+DE  metallo-mystery pair
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  The two genes described here are a subfamily related to MauG and to
+CC  di-heme cytochrome c peroxidase, and an adjacent gene family in which
+CC  members share a four-Cys motif. Additional homologs to this second
+CC  protein family exist in which the four Cys residues motif is not
+CC  preserved. Some members are found near TonB-dependent transporter
+CC  system proteins and/or copper transport ATPases.
+**  PRIVATE! A gene pair whose species include two in which a methanobactin
+**  cluster includes the pair.
+--
+SN  MMP_hem
+ID  metallo-mystery pair system di-heme enzyme
+RQ  1
+EV  IPR023929; TIGR04039;
+--
+SN  MMPcccc
+ID  metallo-mystery pair system AZL_007920/MXAN_0976 family protein
+RQ  1
+EV  IPR023977; TIGR04052;
+//

@@ -1,0 +1,45 @@
+AC  GenProp0822
+DE  poly(gamma-glutamic acid) biosynthesis
+TP  PATHWAY
+AU  Haft D
+TH  0
+RN  [1]
+RM  16267300
+RT  CapE, a 47-amino-acid peptide, is necessary for Bacillus anthracis
+RT  polyglutamate capsule synthesis.
+RA  Candela T, Mock M, Fouet A;
+RL  J Bacteriol. 2005;187:7765-7772.
+RN  [2]
+RM  19483793
+RT  Fusobacterium nucleatum, the first Gram-negative bacterium demonstrated
+RT  to produce polyglutamate.
+RA  Candela T, Moya M, Haustant M, Fouet A;
+RL  Can J Microbiol. 2009;55:627-632.
+CC  Poly(gamma-glutamic acid) (PGA) is an extracellular structural polymer
+CC  found Bacillus subtilis and a number of other species. Differences in
+CC  stereochemistry are reported, with poly-(gamma-D-glutamate) in Bacillus
+CC  anthracis but a mixture of D- and L-glutamates in Bacillus subtilis
+CC  168, Staphylococcus epidermidis ATCC 12228, and Bacillus licheniformis
+CC  ATCC 14580. Because the gene symbol pgsA (nomenclature from Bacillus
+CC  subtilis natto) refers to a different gene in Bacillus subtilis 168, we
+CC  will use instead capB (pgsB, ywsC), capC (pgsC, ywtA), capA (pgsA,
+CC  ywtB), etc. This property describes only the biosynthesis (PgsB and
+CC  PgsC), and not the export or attachment machinery that differs between
+CC  Gram-positive and Gram-negative systems, and between capsule-forming
+CC  and secretory forms of system.
+**  anchored in B. anthracis but not others.  BEWARE GO troubles! The
+**  capsule made is NOT polysaccharide.  Based on my request, there is now
+**  a GO term: capsule poly-gamma-glutamate biosynthetic process GO:0070502
+--
+SN  pgsB
+ID  poly-gamma-glutamate synthase
+RQ  1
+EV  IPR008337; TIGR04012;
+TG  GO:0070501;
+--
+SN  pgsC
+ID  poly-gamma-glutamate biosynthesis protein PgsC
+RQ  1
+EV  IPR008338; TIGR04011;
+TG  GO:0070501;
+//

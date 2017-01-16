@@ -1,0 +1,77 @@
+AC  GenProp1036
+DE  O11(Ec) antigen biosynthesis
+TP  METAPATH
+AU  Haft D
+TH  0
+RN  [1]
+RM  21205000
+RT  Structural and genetic relationships of two pairs of closely related
+RT  O-antigens of Escherichia coli and Salmonella enterica: E. coli O11/S.
+RT  enterica O16 and E. coli O21/S. enterica O38.
+RA  Li Y, Perepelov AV, Guo D, Shevelev SD, Senchenkova SN, Shahskov AS,
+RA  Liu B, Wang L, Knirel YA;
+RL  FEMS Immunol Med Microbiol. 2011;61:258-268.
+CC  The E. coli O11 antigen (which is identical to the S. enterica O16
+CC  antigen) consists of a branched pentasaccharide with the structure
+CC  [->4)aDGalNAc{(3<-1)aLFuc}(1->6)aDMan(1->3)aLFuc(1->3)bDGalNAc(1->].
+CC  The paper reporting the structure of the antigen [1] also reported a
+CC  separate disaccharide of unknown provenance. Subsequent genome
+CC  sequencing of an O11 strain found no evidence of the machinery required
+CC  to synthesize the reported sugars, so it would appear at the very least
+CC  to have nothing to do with O11. The four glycosyltransferases WdaDEFG
+CC  correspond to the four glycosidic linkages in the antigen monomer. WdaG
+CC  shows a high similarity (>95% identity) to enzymes of uncharacterized
+CC  specificity from the E. coli O125 and O41 antigens. The structure of
+CC  O41(Ec) is undetermined, but O125(Ec) shares a very similar
+CC  trisaccharide structure at the end of the monomer with O11(Ec)
+CC  containing the linkages: [aDMan(1->3)LFuc], and [aLFuc(1->3)DGalNAc].
+CC  O11(Ec) also contains a second [aLFuc(1-3)DGalNAc] linkage, but at the
+CC  branching linkage. Interestingly, WdaD is most similar to the same set
+CC  of homologs as WdaG, but only at around 35% identity, consistent with
+CC  it being responsible for the branching linkage. WdaF is similar (~29%
+CC  identity) to some mannose mannosyltransferases and thus may be
+CC  responsible for the [aDGalNAc(1->6)DMan] transfer. Based on these three
+CC  assignments, WdaE can be assigned the final activity [DMan(1->3)aLFuc]
+CC  by process of elimination. WdaE also has the lowest degree of
+CC  similarity to other glycosyltransferases and is consistent with
+CC  L-fucose being quite rare in known E. coil O-antigen structures.
+--
+SN  Fuc
+ID  source of L-fucose
+RQ  1
+EV  GenProp1024;
+--
+SN  GalE
+ID  O11(Ec)-associated UDP-glucose 4-epimerase
+RQ  0
+EV  IPR005886; TIGR01179;
+--
+SN  Man
+ID  source of D-mannose
+RQ  1
+EV  GenProp1017;
+--
+SN  WdaD
+ID  putative DGalNAc-a(1,3)-LFuc transferase WdaD
+RQ  1
+--
+SN  WdaE
+ID  putative LFuc-a(1,3)-DMan transferase WdaE
+RQ  1
+--
+SN  WdaF
+ID  putative DMan-a(1,6)-DGalNAc transferase
+RQ  1
+--
+SN  WdaG
+ID  putative DGalNAc-a(1,3)-LFuc transferase WdaG
+RQ  1
+--
+SN  wzx11
+ID  O11(Ec)-antigen specific transporter (flippase) wzx
+RQ  1
+--
+SN  wzy11
+ID  O11(Ec)-antigen specific polymerase wzy
+RQ  1
+//

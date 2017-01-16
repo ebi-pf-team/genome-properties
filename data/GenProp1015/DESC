@@ -1,0 +1,33 @@
+AC  GenProp1015
+DE  dTDP-3-amino-3,6-dideoxy-D-glucose (Qui3N) biosynthesis from
+DE  4,6-dideoxy-4-oxo-dTDP-D-glucose
+TP  METAPATH
+AU  Haft D
+TH  0
+CC  dTDP-3-amino-3,6-dideoxy-D-glucose is a precursor of (at least) two
+CC  exopolysaccharide components, 3-acetamido-3,6-dideoxy-D-glucose
+CC  (D-Qui3NAc), found in the E. coli O5, O65 and O71 antigens (as well as
+CC  others), and a variant containing an N-acetyl-L-seryl group in place of
+CC  the acetyl observed in the O114 antigen. It is synthesized in the O5
+CC  antigen biosynthesis cluster from the common intermediate
+CC  4,6-dideoxy-4-oxo-dTDP-D-glucose by the RfbA and RfbB genes. The
+CC  pathway to Qui3NAc is parallel to that generating Fuc3NAc from the same
+CC  intermediate, utilizing an isomerase (FdtA ~ QdtA), an aminotransferase
+CC  (FdtB ~ QdtB) and an acetyltransferase (FdtC ~ QdtC). The two sugars
+CC  differ only in the chirality at C4.
+--
+SN  QdtA
+ID  dTDP-6-deoxy-3,4-keto-hexulose isomerase QdtA
+RQ  1
+EV  IPRXXXX; 2862;
+--
+SN  QdtB
+ID  dTDP-6-deoxy-D-glucohex-4-ulose 3-aminotransferase
+RQ  1
+EV  IPRXXXX; 2863;
+--
+SN  ddodtDg
+ID  source of 4,6-dideoxy-4-oxo-dTDP-D-glucose
+RQ  1
+EV  GenProp0950;
+//

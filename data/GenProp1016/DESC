@@ -1,0 +1,81 @@
+AC  GenProp1016
+DE  seadornavirus protein set
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  10811934
+RT  Complete sequence determination and genetic analysis of Banna virus and
+RT  Kadipiro virus: proposal for assignment to a new genus (Seadornavirus)
+RT  within the family Reoviridae.
+RA  Attoui H, Billoir F, Biagini P, de Micco P, de Lamballerie X;
+RL  J Gen Virol. 2000;81:1507-1515.
+CC  The seadornavirus group belongs to the parent group Reoviridae, and
+CC  more specifically, subgroup B in the Coltivirus group. Examples include
+CC  Banna virus, Kadipiro virus, and Liao ning virus. The VP-series names
+CC  differ, so Banna virus designations will be used when a functional name
+CC  cannot be assigned. These segmented RNA viruses have twelve segments
+CC  with one recognized coding region on each.
+**  As annotated, 12 RNA segments at one protein per segment.
+--
+SN  VP1
+ID  RNA-dependent RNA polymerase
+RQ  1
+EV  IPR026381; TIGR04234;
+--
+SN  VP10
+ID  seadornavirus VP10 protein
+RQ  1
+EV  IPR009930; PF07322;
+--
+SN  VP11
+ID  seadornavirus VP11 protein
+RQ  1
+EV  IPR026378; TIGR04230;
+--
+SN  VP12
+ID  seadornavirus dsRNA-binding protein
+RQ  1
+EV  IPR026388; TIGR04238;
+--
+SN  VP2
+ID  seadornavirus VP2 protein
+RQ  1
+EV  IPR026384; TIGR04236;
+--
+SN  VP3
+ID  seadornavirus VP3 protein
+RQ  1
+EV  IPR026379; TIGR04232;
+--
+SN  VP4
+ID  seadornavirus VP4 protein
+RQ  1
+EV  IPR026383; TIGR04235;
+--
+SN  VP5
+ID  seadornavirus VP5 protein
+RQ  1
+EV  IPR026373; TIGR04231;
+--
+SN  VP6
+ID  seadornavirus VP6 protein
+RQ  1
+EV  IPR009982; PF07407;
+--
+SN  VP7
+ID  seadornavirus VP7 protein
+RQ  1
+EV  IPR009973; PF07387;
+--
+SN  VP8
+ID  seadornavirus VP8 protein
+RQ  1
+EV  IPR026380; TIGR04233;
+--
+SN  VP9
+ID  seadornavirus VP9 protein
+RQ  1
+EV  IPR015072; PF08978;
+EV  IPR015072; TIGR04237;
+//

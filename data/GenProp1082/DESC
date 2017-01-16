@@ -1,0 +1,27 @@
+AC  GenProp1082
+DE  16S rRNA C1402 m(4)Cm modification
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  19965768
+RT  Fine-tuning of the ribosomal decoding center by conserved
+RT  methyl-modifications in the Escherichia coli 16S rRNA.
+RA  Kimura S, Suzuki T;
+RL  Nucleic Acids Res. 2010;38:1341-1352.
+CC  RsmH (previously MraW) and RsmI (previously YraL) together make a
+CC  dimethyl modification to an invariant cytidine nucleotide found in the
+CC  16S rRNA of all bacteria (site in C1402 in E. coli).
+--
+SN  RsmH
+ID  16S rRNA (cytosine(1402)-N(4))-methyltransferase
+RQ  1
+EV  IPR002903; TIGR00006;
+TG  GO:0000154;
+--
+SN  RsmI
+ID  16S rRNA (cytidine(1402)-2'-O)-methyltransferase
+RQ  1
+EV  IPR008189; TIGR00096;
+TG  GO:0000154;
+//

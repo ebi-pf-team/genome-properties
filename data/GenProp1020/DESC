@@ -1,0 +1,55 @@
+AC  GenProp1020
+DE  O91(Ec) antigen biosynthesis
+TP  METAPATH
+AU  Haft D
+TH  0
+RN  [1]
+RM  10493787
+RT  Structural determination and biosynthetic studies of the O-antigenic
+RT  polysaccharide from the enterohemorrhagic Escherichia coli O91 using
+RT  13C-enrichment and NMR spectroscopy.
+RA  Kjellberg A, Weintraub A, Widmalm G;
+RL  Biochemistry. 1999;38:12205-12211.
+CC  The O91 antigen in E. coli is a linear pentasaccharide with the
+CC  structure:
+CC  [-->4)-a-D-Qui3NAcyl-(1-->4)-b-D-Gal-(1-->4)-b-D-GlcNAc-(1-->4)-b-D-Glc
+CC  A6NGly-(1-->3)-b-D-GlcNAc-(1-->], where Acyl=(R)-3-hydroxybutyryl (Note
+CC  that this is the structure as reported in the ECODAB database, whereas
+CC  the original publication [1] has this permuted such that the
+CC  b-D-galactose sugar is in the first position).
+--
+SN  Qui3NAcy
+ID  source of 3-hydroxybutyramido-quinovose
+RQ  1
+EV  GenProp1021;
+--
+SN  WbsA
+ID  b-D-GlcA6NGly-(1->3)-b-D-GlcNAc transferase
+RQ  1
+EV  IPRXXXX; 2867;
+--
+SN  WbsE
+ID  a-D-Qui3NAcyl-(1->4)-b-D-Gal transferase
+RQ  1
+EV  IPRXXXX; 2869;
+--
+SN  WbsF
+ID  b-D-GlcNAc-(1->4)-b-D-GlcA6NGly transferase
+RQ  1
+EV  IPRXXXX; 2872;
+--
+SN  WbsG
+ID  b-D-Gal-(1->4)-b-D-GlcNAc transferase
+RQ  1
+EV  IPRXXXX; 2873;
+--
+SN  wzx91
+ID  O91-specific transporter (flippase)
+RQ  1
+EV  IPRXXXX; 2864;
+--
+SN  wzy91
+ID  O91-specific polymerase
+RQ  1
+EV  IPRXXXX; 2865;
+//

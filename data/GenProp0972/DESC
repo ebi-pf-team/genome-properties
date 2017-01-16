@@ -1,0 +1,25 @@
+AC  GenProp0972
+DE  dTDP-4-acetamido-4,6-dideoxy-D-galactose (dTDP-Fuc4NAc) biosynthesis
+TP  METAPATH
+AU  Haft D
+TH  0
+CC  A surface polysaccharide common to all Enterobacteria (the
+CC  enterobacterial common antigen, or ECA) consists of a trisaccharide
+CC  repeating unit: Fuc4NAc-ManNAcA-GlcNAc.  Fuc4NAc is
+CC  4-acetamido-4,6-dideoxy-D-galactose.
+--
+SN  WecD
+ID  TDP-D-fucosamine acetyltransferase, WecD, RffC
+RQ  1
+EV  IPR012752; TIGR02382;
+--
+SN  WecE
+ID  TDP-4-keto-6-deoxy-D-glucose transaminase
+RQ  1
+EV  IPR012749; TIGR02379;
+--
+SN  ddodtDg
+ID  source of 4,6-dideoxy-4-oxo-dTDP-D-glucose
+RQ  1
+EV  GenProp0950;
+//

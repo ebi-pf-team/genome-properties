@@ -1,0 +1,37 @@
+AC  GenProp0928
+DE  OMP chaperone system: SurA-Skp-DegP
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  17908933
+RT  Defining the roles of the periplasmic chaperones SurA, Skp, and DegP in
+RT  Escherichia coli.
+RA  Sklar JG, Wu T, Kahne D, Silhavy TJ;
+RL  Genes Dev. 2007;21:2473-2484.
+CC  Outer membrane beta-barrel proteins are translocated into the periplasm
+CC  by the Sec system and subsequently properly folded and inserted into
+CC  the outer membrane by the beta-barrel assembly machine (Bam).  In the
+CC  periplasm chaperones prevent misfolding and aggregation and facilitate
+CC  the transit across the periplasmic space.  The SurA protein appears to
+CC  be the primary chaperone, at least in E. coli [1], while Skp and DegP
+CC  may act to rescue any OMPs which fall off of the SurA complex.
+--
+SN  DegP
+ID  chaperone DegP
+RQ  1
+EV  IPR011782; TIGR02037;
+TG  GO:0006886;
+--
+SN  Skp
+ID  chaperone Skp
+RQ  1
+EV  IPR005632; PF03938;
+TG  GO:0006886;
+--
+SN  SurA
+ID  chaperone SurA
+RQ  1
+EV  IPR015391; PF09312;
+TG  GO:0006886;
+//

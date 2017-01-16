@@ -1,0 +1,25 @@
+AC  GenProp0453
+DE  uncharacterized gene pair TIGR02612/TIGR02613
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  This uncharacterized operon may be an addiction module, although the
+CC  two proteins, especially the second, are larger than typical for
+CC  addiction modules. In five species in which it occurs so far, two loci
+CC  are on plasmids and one in a CRISPR region. The upstream gene
+CC  (TIGR02612) is a helix-turn-helix DNA-binding protein in the family of
+CC  PF01381. The downstream gene (TIGR02613) belongs to the Fic family,
+CC  where Fic itself regulates cell division. We have named the upstream
+CC  and downstream proteins mobile mystery protein A and B, respectively.
+**  a probable addiction module.
+--
+SN  mmp-A
+ID  mobile mystery protein A
+RQ  1
+EV  IPR013435; TIGR02612; sufficient;
+--
+SN  mmp-B
+ID  mobile mystery protein B
+RQ  1
+EV  IPR013436; TIGR02613; sufficient;
+//

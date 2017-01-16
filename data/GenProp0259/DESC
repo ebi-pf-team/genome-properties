@@ -1,0 +1,26 @@
+AC  GenProp0259
+DE  tRNA-Asn direct aminoacylation
+TP  PATHWAY
+AU  Haft D
+TH  0
+CC  The tRNA for Asn can be produced in either of two ways: direct
+CC  aminoacylation with Asn, and misacylation with Asp that is subsequently
+CC  amidated to Asn. This is analogous to the system for charging tRNA with
+CC  Gln, and may share some of the same machinery. This property describes
+CC  a single polypeptide chain tRNA ligase responsible for direct
+CC  aminoacylation with Asn.
+**  For use with other tRNA charging properties in building a summary
+**  property.
+--
+SN  Asn
+ID  source of asparagine
+RQ  0
+EV  IPR004618; TIGR00669;
+EV  IPR006426; TIGR01536;
+--
+SN  Asn_lig
+ID  asparaginyl-tRNA synthetase
+DN  asparaginyl-tRNA synthetase
+RQ  1
+EV  IPR004522; TIGR00457; sufficient;
+//

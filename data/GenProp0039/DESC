@@ -1,0 +1,57 @@
+AC  GenProp0039
+DE  phenylalanine biosynthesis from chorismate
+TP  PATHWAY
+AU  Haft D
+TH  0
+DC  Phenylalanine and Tyrosine Biosynthesis
+DR  IUBMB; AminoAcid; PheTyr;
+DC  Phenylalanine Metabolism
+DR  KEGG; map00360;
+CC  The aromatic amino acid phenylalanine is synthesized via a three step
+CC  pathway from chorismate. The first two steps, isomerization of
+CC  chorismate to prephenate and dehydration of prephenate to
+CC  phenylpyruvate are modelled by specific HMMs. The third step,
+CC  transamination of phenylpyruvate to form phenylalanine has not been
+CC  ascribed to a specific transaminase in non-mammals. The YES state for
+CC  this pathway is therefore indicative of the presence of the two
+CC  characterized steps.
+--
+SN  1
+ID  chorismate mutase
+DN  chorismate mutase (EC 5.4.99.5)
+RQ  1
+EV  IPR010950; TIGR01791; sufficient;
+TG  GO:0009094;
+EV  IPR010951; TIGR01795; sufficient;
+TG  GO:0009094;
+EV  IPR008243; TIGR01796; sufficient;
+TG  GO:0009094;
+EV  IPR010952; TIGR01797; sufficient;
+TG  GO:0009094;
+EV  IPR011277; TIGR01799; sufficient;
+TG  GO:0009094;
+EV  IPR010954; TIGR01801; sufficient;
+TG  GO:0009094;
+EV  IPR008238; TIGR01802; sufficient;
+TG  GO:0009094;
+EV  IPR011279; TIGR01805; sufficient;
+TG  GO:0009094;
+EV  IPR008240; TIGR01806; sufficient;
+EV  IPR010957; TIGR01807; sufficient;
+TG  GO:0009094;
+EV  IPR010958; TIGR01808; sufficient;
+TG  GO:0009094;
+--
+SN  2
+ID  prephenate dehydratase
+DN  prephenate dehydratase (EC 4.2.1.51)
+RQ  1
+EV  IPR001086; PF00800; sufficient;
+TG  GO:0009094;
+--
+SN  3
+ID  a transaminase
+RQ  0
+EV  IPRXXXX; PF00155;
+TG  GO:0009094;
+//

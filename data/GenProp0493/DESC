@@ -1,0 +1,35 @@
+AC  GenProp0493
+DE  addAB pathway
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  The recBCD pathway, important in double stranded break DNA repair by
+CC  homologous recombination, is replaced by AddAB in several bacterial
+CC  lineages. The AddAB gene pairs are quite distant, in terms of sequence
+CC  similarity, between that of Gram-positive bacteria and that of
+CC  alphaproteobacteria. Note that an alternative, less common method of
+CC  repair of double stranded breaks is nonhomologous end-joining (NHEJ),
+CC  and that pathway may coexist with AddAB in a genome. In some species,
+CC  AddAB is called RexAB.
+**  Probably should always be a gene pair.
+--
+SN  AddA
+ID  AddA protein
+DN  double-strand break repair protein AddA
+RQ  1
+EV  IPR014151; TIGR02784; sufficient;
+TG  GO:0000724;
+EV  IPR014152; TIGR02785; sufficient;
+TG  GO:0000724;
+--
+SN  AddB
+ID  AddB protein
+DN  double-strand break repair protein AddB
+RQ  1
+EV  IPR014153; TIGR02786; sufficient;
+TG  GO:0000724;
+EV  IPR014140; TIGR02773; sufficient;
+TG  GO:0000724;
+EV  IPR014141; TIGR02774; sufficient;
+TG  GO:0000724;
+//

@@ -1,0 +1,45 @@
+AC  GenProp1078
+DE  sporulation killing factor system
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  23282011
+RT  Two [4Fe-4S] clusters containing radical SAM enzyme SkfB catalyze
+RT  thioether bond formation during the maturation of the sporulation
+RT  killing factor.
+RA  Flühe L, Burghaus O, Wieckowski BM, Giessen TW, Linne U, Marahiel MA;
+RL  J Am Chem Soc. 2013;135:959-962.
+RN  [2]
+RM  16816204
+RT  Phosphate starvation induces the sporulation killing factor of Bacillus
+RT  subtilis.
+RA  Allenby NE, Watts CA, Homuth G, Prágai Z, Wipat A, Ward AC, Harwood
+RA  CR;
+RL  J Bacteriol. 2006;188:5299-5303.
+CC  This system is characterized in Bacillus subtilis 168, but occurs also
+CC  in Bacillus sp. M 2-6 and Paenibacillus larvae subsp. larvae B-3650.
+CC  Sporulation killing factor is ribosomally translated,
+CC  posttranslationally modified sactipeptide, meaning it has a
+CC  Sulfur-to-Alpha-Carbon covalent crosslink from a Cys residue, catalyzed
+CC  by radical SAM enzyme.
+**  Here are four more families. 1=NTL01BS0194,389572675,357007126
+**  ABC-transport. 2=NTL01BS0197,389572672,357007129.
+**  3=NTL01BS0196,389572673,357007128. 4=NTL01BS0193,389572676,357007125
+**  caax.
+--
+SN  SkfA
+ID  sporulation killing factor
+RQ  1
+EV  IPR030919; TIGR04404;
+--
+SN  SkfB
+ID  sporulation killing factor maturase
+RQ  1
+EV  IPR030915; TIGR04403;
+--
+SN  SkfF
+ID  sporulation killing factor system SkfF protein
+RQ  1
+EV  IPR030920; TIGR04405;
+//

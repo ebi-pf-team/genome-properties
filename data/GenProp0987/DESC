@@ -1,0 +1,30 @@
+AC  GenProp0987
+DE  protein sorting system, cyano-PEP-CTERM class
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  This Genome Property describes a uniquely cyanobacterial subclass of
+CC  the PEP-CTERM/exosortase system, restricted to but found in nearly
+CC  every cyanobacterium outside of Prochlorococcus. The PEP-CTERM variant
+CC  is somewhat longer at its C-terminus, with much stronger conservation
+CC  throughout the transmembrane region. At leas one of two forms of
+CC  cyanobacterial-restricted exosortase (cyanosortase) occurs always
+CC  occurs as well, occasionally adjacent to a PEP-CTERM protein.
+--
+SN  cya_EXO
+ID  exosortase, cyanobacterial-specific
+RQ  1
+EV  IPR022505; TIGR03763;
+EV  IPR026492; TIGR04156;
+--
+SN  cya_PEP
+ID  PEP-CTERM protein, cyanosortase-specific
+RQ  1
+EV  IPR026374; TIGR04155;
+--
+SN  cya_acc1
+ID  cyanoexosortase accessory protein 1
+RQ  0
+EV  IPR026411; TIGR04153;
+EV  IPR030917; TIGR04533;
+//

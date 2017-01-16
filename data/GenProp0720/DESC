@@ -1,0 +1,37 @@
+AC  GenProp0720
+DE  2-aminoethylphosphonate utilization
+TP  METAPATH
+AU  Haft D
+TH  0
+CC  2-aminoethylphosphonate (2-AEP) is a common phosphonate compound found
+CC  in the environment and at least two related pathways are known for its
+CC  catabolism.  The critical enzyme, PhnW (2-AEP:pyruvate
+CC  aminotransferase) is found in both of these pathways as well as
+CC  (working in the opposite direction), biosynthetic pathways. 
+CC  Additionally, two different ABC transporter complexes are likely
+CC  responsible for the import of 2-AEP.
+--
+SN  AEPcat
+ID  2-aminoethylphosphonate catabolic pathways
+RQ  1
+EV  GenProp0238;
+EV  GenProp0713;
+--
+SN  AEPimp
+ID  2-aminoethylphosphonate transport systems
+RQ  1
+EV  GenProp0712;
+EV  GenProp0721;
+--
+SN  oxido
+ID  associated FAD-dependent oxidoreductase
+RQ  0
+EV  IPR017715; TIGR03329;
+--
+SN  regul
+ID  associated transcriptional regulators
+RQ  0
+EV  IPR017722; TIGR03337;
+EV  IPR017723; TIGR03338;
+EV  IPR017724; TIGR03339;
+//

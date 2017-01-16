@@ -1,0 +1,26 @@
+AC  GenProp0786
+DE  lysine biosynthesis via diaminopimelate (DAP), succinylated branch
+TP  PATHWAY
+AU  Haft D
+TH  0
+--
+SN  DapC
+ID  succinyl-diaminopimelate transaminase
+RQ  0
+EV  IPR019877; TIGR03537;
+EV  IPR019878; TIGR03538;
+EV  IPR019880; TIGR03539;
+--
+SN  DapD
+ID  2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+RQ  1
+EV  IPR005664; TIGR00965; sufficient;
+EV  IPR019875; TIGR03535;
+EV  IPR019876; TIGR03536;
+--
+SN  DapE
+ID  succinyl-diaminopimelate desuccinylase (DapE)
+RQ  1
+EV  IPR005941; TIGR01246; sufficient;
+EV  IPR010174; TIGR01900; sufficient;
+//

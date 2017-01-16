@@ -1,0 +1,54 @@
+AC  GenProp0716
+DE  glucarate utilization via tartronate semi-aldehyde
+TP  SYSTEM
+AU  Haft D
+TH  1
+RN  [1]
+RM  9772162
+RT  Evolution of enzymatic activities in the enolase superfamily:
+RT  characterization of the (D)-glucarate/galactarate catabolic pathway in
+RT  Escherichia coli.
+RA  Hubbard BK, Koch M, Palmer DR, Babbitt PC, Gerlt JA;
+RL  Biochemistry. 1998;37:14369-14375.
+CC  D-glucarate may be utilized by this pathway involving the lyase
+CC  (aldolase) GarL which produces pyruvate and tartronate semi-aldehyde
+CC  which may then be furter converted to 3-phosphoglycerate. GarD, the
+CC  dehydratase and GarR, the reductase, may be present in the absence of
+CC  GarL and where each is part of different processes. When this can be
+CC  convincingly demonstrated, this property may be manually annotated as
+CC  NO.
+**  The rule that I want here is: IF (GarD and NOT GarL) AND (GenProp0717 =
+**  YES) THEN (THIS PROPERTY = NO)
+--
+SN  GarK
+ID  glycerate kinase (2.7.1.31)
+RQ  0
+EV  IPR004381; TIGR00045; sufficient;
+TG  GO:0019394;
+EV  IPR004381; TIGR00045; sufficient;
+TG  GO:0019394;
+--
+SN  GarL
+ID  5-dehydro-4-deoxy-D-glucarate lyase (4.1.2.20)
+RQ  1
+EV  IPR017648; TIGR03239; sufficient;
+TG  GO:0019394;
+--
+SN  GarR
+ID  tartronate semialdehyde reductase (1.1.1.60)
+RQ  1
+EV  IPR006398; TIGR01505; sufficient;
+TG  GO:0019394;
+--
+SN  GudD
+ID  glucarate dehydratase (4.2.1.40)
+RQ  1
+EV  IPR017653; TIGR03247; sufficient;
+TG  GO:0019394;
+--
+SN  transp
+ID  D-glucarate transporter, putative
+RQ  0
+EV  IPRXXXX; TIGR00893;
+TG  GO:0019394;
+//

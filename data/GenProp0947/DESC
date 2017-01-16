@@ -1,0 +1,58 @@
+AC  GenProp0947
+DE  O55(Ec) antigen biosynthesis
+TP  METAPATH
+AU  Haft D
+TH  0
+RN  [1]
+RM  7030487
+RT  Structural studies of the O-specific side-chain of the
+RT  lipopolysaccharide from Escherichia coli O 55.
+RA  Lindberg B, Lindh F, Lönngren J;
+RL  Carbohydr Res. 1981;97:105-112.
+CC  The O55 O-antigen is observed in E. coli strain CB9615 and AE. The
+CC  structure of the O55 antigen is a branched pentasaccharide containing
+CC  one colitose sugar [1].  The O55 biosynthetic cluster encodes four
+CC  sugar transferases WbgMNOP, the wzx, wzy and wzz components as well as
+CC  the enzymes for the biosynthesis of GDP-L-colitose from D-fructose-6P
+CC  via GDP-mannose.
+--
+SN  GDP-Col
+ID  source of GDP-colitose
+RQ  1
+EV  GenProp0946;
+--
+SN  WbgM
+ID  a-D-Gal-(1->3)-b-D-GalNAc transferase
+RQ  1
+EV  IPRXXXX; 2753;
+--
+SN  WbgN
+ID  a-Col-(1->2)-b-D-Gal transferase
+RQ  1
+EV  IPRXXXX; 2752;
+--
+SN  WbgO
+ID  b-D-Gal-(1->3)-b-D-GlcNAc transferase
+RQ  1
+EV  IPRXXXX; 2747;
+--
+SN  WbgP
+ID  b-D-GlcNAc-(1->3)-a-D-Gal transferase
+RQ  1
+EV  IPRXXXX; 2746;
+--
+SN  wzx55
+ID  O55-specific transporter (flippase)
+RQ  1
+EV  IPRXXXX; 2750;
+--
+SN  wzy55
+ID  O55-specific polymerase
+RQ  1
+EV  IPRXXXX; 2751;
+--
+SN  wzz
+ID  chain length determinant protein
+RQ  0
+EV  IPR003856; PF02706;
+//

@@ -1,0 +1,19 @@
+AC  GenProp1092
+DE  toxin-antitoxin system, type III
+TP  GUILD
+AU  Haft D
+TH  0
+RN  [1]
+RM  23267117
+RT  Selectivity and self-assembly in the control of a bacterial toxin by an
+RT  antitoxic noncoding RNA pseudoknot.
+RA  Short FL, Pei XY, Blower TR, Ong SL, Fineran PC, Luisi BF, Salmond GP;
+RL  Proc Natl Acad Sci U S A. 2013;110:e241-9.
+CC  A type III toxin-antitoxin system consists of a toxic peptide and
+CC  structural RNA antitoxin. 
+--
+SN  toxin
+ID  toxin, type III toxin-antitoxin system
+RQ  1
+EV  IPR025911; PF13958;
+//

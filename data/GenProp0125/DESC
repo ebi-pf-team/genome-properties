@@ -1,0 +1,96 @@
+AC  GenProp0125
+DE  lysine biosynthesis via diaminopimelate (DAP)
+TP  METAPATH
+AU  Haft D
+TH  1
+RN  [1]
+RM  17093042
+RT  L,L-diaminopimelate aminotransferase, a trans-kingdom enzyme shared by
+RT  Chlamydia and plants for synthesis of diaminopimelate/lysine.
+RA  McCoy AJ, Adams NE, Hudson AO, Gilvarg C, Leustek T, Maurelli AT;
+RL  Proc Natl Acad Sci U S A. 2006;103:17909-17914.
+DC  Lysine biosynthesis (early stages)
+DR  IUBMB; AminoAcid; Lys1;
+DC  Lysine biosynthesis (later stages)
+DR  IUBMB; AminoAcid; Lys2;
+DC  Lysine biosynthesis
+DR  KEGG; map00300;
+DC  Lysine biosynthesis I
+DR  MetaCyc; DAPLYSINESYN-PWY;
+DC  Lysine biosynthesis II
+DR  MetaCyc; PWY-2941;
+CC  The basic amino acid lysine is synthesized in most bacteria and plants
+CC  via a nine step pathway from aspartate (via aspartate semialdehyde
+CC  which is also used in a number of other pathways). Most species utilize
+CC  succinate (from succinyl-CoA) to make an important amide linkage in the
+CC  ring-opening of piperidine dicarboxylate.  The succinate is then
+CC  hydrolyzed several steps later.  Other species carry out analogous
+CC  transformations with acetate (from acetyl-CoA).  Chlamydia and
+CC  cyanobacteria have been shown to utilize a direct aminotransferase path
+CC  without the acylation/deacylation steps, and a number of other species
+CC  apparently also use this variant.  Each of these variants are included
+CC  within this property.       A closely related variant (GenProp0788)
+CC  utilizes the NADPH-dependent enzyme diaminopimelate dehydrogenase (ddh)
+CC  which incorporates ammonia directly and creates the meso-isomer of
+CC  diaminopimelate, bypassing the need for the epimerase, DapE.  A
+CC  completely different pathway via alpha-amino adipate exists in fungi
+CC  and certain bacteria (GenProp0193).     Certain obligate intracellular
+CC  organisms such as Coxiella, Rickettsia and Wolbachia contain all but
+CC  the final step of this pathway (diaminopimelate decarboxylase).
+CC  Presumably these organisms have no need of lysine biosynthesis, being
+CC  able to obtain it from their hosts. The products of the penultimate two
+CC  steps, however, (LL- and meso-diaminopimelate) are required components
+CC  of the bacterial cell wall and so the rest of the pathway persists. 
+CC  The formal possibility that the decarboxylase exists in these organsims
+CC  but is undetected requires that the state of this property remain "some
+CC  evidence"  as opposed to "NO".
+--
+SN  Asp-SA
+ID  Source of aspartate-semialdehyde
+RQ  1
+EV  GenProp0160;
+TG  GO:0009089;
+--
+SN  BRANCH
+ID  aminotransferase pathways
+DN  LL-diaminopimelate aminotransferase (EC 2.6.1.83)
+RQ  0
+EV  GenProp0787;
+TG  GO:0009089;
+EV  GenProp0786;
+TG  GO:0009089;
+EV  IPR019881; TIGR03540;
+TG  GO:0009089;
+EV  IPR019942; TIGR03542;
+TG  GO:0009089;
+--
+SN  DHPR
+ID  dihydrodipicolinate reductase
+DN  dihydrodipicolinate reductase (EC 1.3.1.26)
+RQ  1
+EV  IPR023940; TIGR00036; sufficient;
+TG  GO:0009089;
+EV  IPR011859; TIGR02130; sufficient;
+TG  GO:0009089;
+--
+SN  DHPS
+ID  dihydrodipicolinate synthase
+DN  dihydrodipicolinate synthase (EC 4.2.1.52)
+RQ  1
+EV  IPR005263; TIGR00674; sufficient;
+TG  GO:0009089;
+--
+SN  DapF
+ID  diaminopimelate epimerase
+DN  diaminopimelate epimerase (EC 5.1.1.7)
+RQ  1
+EV  IPR001653; TIGR00652; sufficient;
+TG  GO:0009089;
+--
+SN  LysA
+ID  diaminopimelate decarboxylase
+DN  diaminopimelate decarboxylase (EC 4.1.1.20)
+RQ  1
+EV  IPR002986; TIGR01048; sufficient;
+TG  GO:0009089;
+//

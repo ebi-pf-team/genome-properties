@@ -1,0 +1,18 @@
+AC  GenProp0223
+DE  5-aminolevulinate biosynthesis from succinyl-CoA and glycine
+TP  PATHWAY
+AU  Haft D
+TH  0
+CC  This property is an alternative to the biosynthesis of
+CC  5-aminolevulinate through the glutamate pathway. 5-aminolevulinate is
+CC  used in the biosynthesis of uroporphyrinogen III and farther
+CC  downstream, in the biosynthesis of heme.  This enzyme appears
+CC  restricted to the alpha Proteobacteria and mitochondrial derivatives.
+--
+SN  hemA
+ID  5-aminolevulinic acid synthase
+DN  5-aminolevulinic acid synthase
+RQ  1
+EV  IPR010961; TIGR01821; sufficient;
+TG  GO:0006783;
+//

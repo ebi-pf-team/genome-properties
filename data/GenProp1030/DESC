@@ -1,0 +1,48 @@
+AC  GenProp1030
+DE  O88(Ec) antigen biosynthesis
+TP  METAPATH
+AU  Haft D
+TH  0
+RN  [1]
+RM  8901274
+RT  NMR analysis of the structure of the O88 polysaccharide (O88 antigen)
+RT  of Escherichia coli O88:K-:H25.
+RA  Torgov VI, Shashkov AS, Kochanowski H, Jann B, Jann K;
+RL  Carbohydr Res. 1996;283:223-227.
+CC  The E. coli O88 antigen monomer is a branched tetrasaccharide with the
+CC  structure: [->4)aDMan{(3<-1)aL6dTal}(1->3)aDMan(1->3)bDGlcNAc(1->] [1].
+CC  There is currently no experimental literature on the genes involved in
+CC  the biosynthesis. The expectation, however is that there should be
+CC  three distinct glycosytransferases and genes for the biosynthesis of
+CC  GDP-D-mannose and a nucleotide-activated L-6-deoxy-talose. 
+--
+SN  6dLTal
+ID  source of dTDP-6-deoxy-L-talose
+RQ  1
+EV  GenProp1033;
+--
+SN  GT-1
+ID  O88(Ec)-associated glycosyltransferase GT-1
+RQ  1
+--
+SN  GT-2
+ID  O88(Ec)-associated glycosyltransferase GT-2
+RQ  1
+--
+SN  GT-3
+ID  O88(Ec)-associated glycosyltransferase GT-3
+RQ  1
+--
+SN  dMan
+ID  source of GDP-D-mannose
+RQ  1
+EV  GenProp1017;
+--
+SN  wzx88
+ID  O88(Ec)-antigen specific transporter (flippase) wzx
+RQ  1
+--
+SN  wzy88
+ID  O88(Ec)-antigen specific polymerase wzy
+RQ  1
+//

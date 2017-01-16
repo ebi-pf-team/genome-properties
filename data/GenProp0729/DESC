@@ -1,0 +1,61 @@
+AC  GenProp0729
+DE  methionine salvage from methylthioadenosine
+TP  METAPATH
+AU  Haft D
+TH  0
+RN  [1]
+RM  15102328
+RT  Bacterial variations on the methionine salvage pathway.
+RA  Sekowska A, Dénervaud V, Ashida H, Michoud K, Haas D, Yokota A,
+RA  Danchin A;
+RL  BMC Microbiol. 2004;4:9.
+CC  Methylthioadenosine (MTA) is a sulfur-containing by-product from the
+CC  use of S-adenosylmethionine in spermidine or polyamine biosynthesis and
+CC  certain other pathways. A series of reactions, with considerable
+CC  species-specific variation, recycles MTA to methionine in a wide range
+CC  of organisms. In a new nomenclature, these genes are now designated mtn
+CC  (MethylThioNucleoside). An interesting enzyme in this system is MtnD,
+CC  the aci-reductone dioxygenase. This enzyme has two different enzymatic
+CC  activities, depending on whether Ni2+ or Fe2+ is bound. The action of
+CC  the single enzyme MtnP is replaced by two enzymes, MtnN and MtnK in
+CC  some species. Likewise, the enolase-phosphatase MtnC is replaced by
+CC  MtnW and MtnX in the Bacillus lineage. The final step in the pathway, a
+CC  transamination that generates methionine from
+CC  2-keto-4-methylthiobutyrate, apparantly can be catalyzed by a large
+CC  number of functional analogs using different amino donors, and so is
+CC  not included explicitly in the reconstruction.
+--
+SN  mtnA
+ID  methylthioribose-1-phosphate isomerase
+RQ  1
+EV  IPR005251; TIGR00512;
+TG  GO:0019509;
+--
+SN  mtnB
+ID  methylthioribulose-1-phosphate dehydratase
+RQ  1
+EV  IPR017714; TIGR03328;
+TG  GO:0019509;
+--
+SN  mtnC
+ID  2,3-diketo-5-methylthiopentyl-1-P to aci-reductone
+RQ  1
+EV  IPR023943; TIGR01691;
+TG  GO:0019509;
+EV  GenProp0732;
+TG  GO:0019509;
+--
+SN  mtnD
+ID  aci-reductone dioxygenase
+RQ  1
+EV  IPR004313; PF03079;
+TG  GO:0019509;
+--
+SN  mtnP
+ID  MTA to MTR-1-P
+RQ  1
+EV  IPR010044; TIGR01694;
+TG  GO:0019509;
+EV  GenProp0730;
+TG  GO:0019509;
+//

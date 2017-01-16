@@ -1,0 +1,69 @@
+AC  GenProp0193
+DE  lysine biosynthesis via alpha-aminoadipate (AAA pathway)
+TP  PATHWAY
+AU  Haft D
+TH  6
+RN  [1]
+RM  10613839
+RT  A prokaryotic gene cluster involved in synthesis of lysine through the
+RT  amino adipate pathway: a key to the evolution of amino acid
+RT  biosynthesis.
+RA  Nishida H, Nishiyama M, Kobashi N, Kosuge T, Hoshino T, Yamane H;
+RL  Genome Res. 1999;9:1175-1183.
+CC  Lysine biosynthesis in fungi has been characterized and begins with the
+CC  condensation of 2-oxoglutarate and acetyl-CoA to homocitrate and
+CC  continues through the distinctive intermediate, alpha-aminoadipate. 
+CC  This pathway is distinct in every respect from the diaminopimelate
+CC  pathway commonly found in bacteria and animals.  Recently, an
+CC  alpha-aminoadipate pathway closely related to the fungal version has
+CC  been characterized in Thermus thermophilus [1] and appears to be widely
+CC  distributed among the archaea.
+--
+SN  Lys?
+ID  homocitrate dehydrogenase
+RQ  0
+--
+SN  LysJ
+ID  aminotransferase
+RQ  1
+EV  IPR004636; TIGR00707; sufficient;
+--
+SN  LysK
+ID  acylase
+RQ  1
+EV  IPR010175; TIGR01902; sufficient;
+--
+SN  LysS
+ID  homocitrate synthase
+DN  homocitrate synthase (EC 2.3.3.14)
+RQ  1
+EV  IPR005675; TIGR00977; sufficient;
+EV  IPR011830; TIGR02090; sufficient;
+EV  IPR011872; TIGR02146; sufficient;
+--
+SN  LysT
+ID  homoaconitate hydratase, LysT subunit
+RQ  1
+EV  IPR011823; TIGR02083; sufficient;
+EV  IPR006251; TIGR01343; sufficient;
+--
+SN  LysU
+ID  homoaconitate hydratase, LysU subunit
+RQ  1
+EV  IPR011827; TIGR02087; sufficient;
+--
+SN  LysX
+ID  alpha-aminoadipate acylase (proposed)
+RQ  1
+EV  IPR011870; TIGR02144; sufficient;
+--
+SN  LysY
+ID  epsilon-dehydrogenase (proposed)
+RQ  1
+EV  IPR000706; TIGR01850; sufficient;
+--
+SN  LysZ
+ID  epsilon-carboxykinase (proposed)
+RQ  1
+EV  IPR004662; TIGR00761; sufficient;
+//

@@ -1,0 +1,48 @@
+AC  GenProp1008
+DE  phlebovirus protein set
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  This Genome Property collects HMMs that describe characteristic
+CC  proteins from examples of Phlebovirus, segmented ssRNA animal viruses
+CC  within the Bunyaviridae. Segment M: polyprotein with G1 and G2, and NSm
+CC  (the 1-375 not described?). Segment S (ambisense): N and NS (NSs).
+CC  Segment L (negative): polymerase.
+**  Organization is quite similar to GenProp1007 orthobunyavirus protein
+**  set, and RNA polymerase model is shared.
+--
+SN  Phl_G1
+ID  glycoprotein G1
+RQ  1
+EV  IPR010826; PF07243;
+--
+SN  Phl_G2
+ID  glycoprotein G2
+RQ  1
+EV  IPR009878; PF07245;
+--
+SN  Phl_L_n
+ID  RNA polymerase N-terminal domain
+RQ  0
+EV  IPR022531; PF12603;
+--
+SN  Phl_N
+ID  nucleocapsid protein
+RQ  1
+EV  IPR009522; PF05733;
+--
+SN  Phl_NSm
+ID  nonstructural protein NSm
+RQ  0
+EV  IPR009879; PF07246;
+--
+SN  Phl_NSs
+ID  nonstructural protein NSs
+RQ  0
+EV  IPRXXXX; PF11073;
+--
+SN  Phl_pol
+ID  RNA dependent RNA polymerase
+RQ  1
+EV  IPR007322; PF04196;
+//

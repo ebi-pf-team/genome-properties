@@ -1,0 +1,49 @@
+AC  GenProp0192
+DE  molybdate ABC transporter
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  11421278
+RT  Molybdate transport.
+RA  Self WT, Grunden AM, Hasona A, Shanmugam KT;
+RL  Res Microbiol. 2001;152:311-321.
+CC  The high-affinity molybdate ABC transporter imports molybdate for the
+CC  biosythesis of cofactors such as molybdopterin. Three structural
+CC  components of this typical ABC transporter are the ATPase subunit
+CC  (TIGR02142), permease (TIGR02141), and binding protein (TIGR01256).
+CC  These structural components appear in three gene clusters. A molybdate
+CC  transport repressor (TIGR00637) is included as a non-required part of
+CC  the system. It is noted (PMID:11421278) that molybdate can also be
+CC  transported by some sulfate/thiosulfate ABC transporters and
+CC  non-specific anion transporters. 
+**  look into idea that weak hits to  TIGR00638 (molybdenum-pterin binding
+**  domain) help confirm TIGR02142. DHH.
+--
+SN  ABCmodC
+ID  molybdate ABC transporter, ATP-binding protein (EC 3.6.3.29)
+DN  molybdate ABC transporter, ATP-binding protein (EC 3.6.3.29)
+RQ  1
+EV  IPR011868; TIGR02142; sufficient;
+TG  GO:0015689;
+--
+SN  binding
+ID  molybdate ABC transporter, molybdate binding protein
+DN  NOT APPLICABLE
+RQ  1
+EV  IPR005950; TIGR01256; sufficient;
+TG  GO:0015689;
+--
+SN  prmModB
+ID  molybdate ABC transporter, permease
+DN  molybdate ABC transporter, permease protein
+RQ  1
+EV  IPR011867; TIGR02141; sufficient;
+TG  GO:0015689;
+--
+SN  repress
+ID  molybdate transport repressor
+DN  molybdate transport repressor ModE
+RQ  0
+EV  IPR003725; TIGR00637; sufficient;
+//

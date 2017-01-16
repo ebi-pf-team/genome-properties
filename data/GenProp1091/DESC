@@ -1,0 +1,30 @@
+AC  GenProp1091
+DE  toxin-antitoxin system, type I
+TP  GUILD
+AU  Haft D
+TH  0
+RN  [1]
+RM  23324552
+RT  Bacterial type I toxin-antitoxin systems.
+RA  Brantl S;
+RL  RNA Biol. 2012;9:1488-1490.
+CC  In a type I toxin-antitoxin system, the toxin is a small peptide and
+CC  the antitoxin is an antisense RNA. This arrangement contrast with type
+CC  2 systems, in which both toxin and antidote are small proteins.
+**  Not ready to add features for the antisense RNA. PMID- 23182878
+**  insertion gave me trouble. 12/2013.
+--
+SN  antisen
+ID  antisense RNA
+RQ  0
+--
+SN  toxin
+ID  toxic peptide, type I toxin-antitoxin system
+RQ  1
+EV  IPR025211; TIGR04459;
+EV  IPR025211; PF13939;
+EV  IPR025253; PF13940;
+EV  IPR025882; PF13955;
+EV  IPR025881; PF13956;
+EV  IPR014944; PF08845;
+//

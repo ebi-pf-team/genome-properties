@@ -1,0 +1,41 @@
+AC  GenProp0178
+DE  glycine cleavage system
+TP  SYSTEM
+AU  Haft D
+TH  1
+DC  Glycine Cleavage System
+DR  IUBMB; AminoAcid; GlyCleave;
+DC  Glycine, serine and threonine metabolism
+DR  KEGG; map00260;
+CC  Three distinctive components of the glycine cleavage enzyme are the P
+CC  protein, H protein, and T protein. Dihydrolipoamide dehydrogenase may
+CC  be a part of a number of different enzyme contexts, and is the L
+CC  protein of the glycine cleavage system.
+--
+SN  gcvH
+ID  glycine cleavage system H protein
+DN  glycine cleavage system H protein
+RQ  1
+EV  IPR017453; TIGR00527; sufficient;
+TG  GO:0006546;
+--
+SN  gcvL
+ID  dihydrolipoamide dehydrogenase
+DN  dihydrolipoamide dehydrogenase (EC 1.8.1.4)
+RQ  1
+EV  IPR006258; TIGR01350; sufficient;
+--
+SN  gcvP
+ID  glycine cleavage system P protein
+DN  glycine cleavage system P protein (EC 1.4.4.2)
+RQ  1
+EV  IPR020581; PF02347; sufficient;
+TG  GO:0006546;
+--
+SN  gcvT
+ID  glycine cleavage system T protein
+DN  glycine cleavage system T protein (EC 2.1.2.10)
+RQ  1
+EV  IPR006223; TIGR00528; sufficient;
+TG  GO:0006546;
+//

@@ -1,0 +1,32 @@
+AC  GenProp1057
+DE  radical SAM/SPASM system GeoRSP
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  This Genome Property represents a functional cassette (with unknown
+CC  boundaries) in several species of Geobacter, in genomic regions that
+CC  include high-molecular-weight cytochrome c family proteins. The
+CC  cassette has a PqqD family protein, a radical SAM/SPASM domain protein
+CC  similar to PqqE, and an additional SPASM domain protein that appears
+CC  also to have a degenerate radical SAM-like region. Unlike the
+CC  SynChlorMet system, with similar components, no putative precursor
+CC  peptide for ribosomal natural product formation has been found.
+**  Producing a heme variant, like NirJ proteins, is a possibility. Why did
+**  I call it GeoRSP?  It is in Geobacter, with a Radical Sam enzyme and a
+**  SPASM domain (PseudoSAM) protein
+--
+SN  GeoPqqD
+ID  GeoRSP system PqqD family protein
+RQ  1
+EV  IPR027569; TIGR04302;
+--
+SN  GeoSPAS
+ID  GeoRSP system SPASM domain protein
+RQ  1
+EV  IPR027571; TIGR04304;
+--
+SN  GeorSAM
+ID  GeoRSP system radical SAM/SPASM protein
+RQ  1
+EV  IPR027570; TIGR04303;
+//

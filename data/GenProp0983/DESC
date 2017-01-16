@@ -1,0 +1,23 @@
+AC  GenProp0983
+DE  protein sorting system, VPXXXP-CTERM/archaeosortase B
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  This Genome Property is a strictly archaeal, narrowly distributed
+CC  protein sorting system, featuring a variant class of exosortase
+CC  (TIGR04144) and five to nine target  proteins per genome with the
+CC  VPXXXP-CTERM target sequence (TIGR04143). Target proteins tend to be
+CC  repetitive and most show extensive mutual sequence homology. The first
+CC  identified species with this system are Methanohalophilus mahii DSM
+CC  5219 and Methanohalobium evestigatum Z-7303.
+--
+SN  CTERM
+ID  VPXXXP-CTERM archaeal exosortase target domain
+RQ  1
+EV  IPR026428; TIGR04143;
+--
+SN  EXOSORT
+ID  exosortase, archaeal VPXXXP-CTERM-specific
+RQ  1
+EV  IPR026430; TIGR04144;
+//

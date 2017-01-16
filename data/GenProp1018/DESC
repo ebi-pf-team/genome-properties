@@ -1,0 +1,75 @@
+AC  GenProp1018
+DE  O8(Ec) antigen biosynthesis
+TP  METAPATH
+AU  Haft D
+TH  0
+RN  [1]
+RM  15184370
+RT  Nonreducing terminal modifications determine the chain length of
+RT  polymannose O antigens of Escherichia coli and couple chain termination
+RT  to polymer export via an ATP-binding cassette transporter.
+RA  Clarke BR, Cuthbertson L, Whitfield C;
+RL  J Biol Chem. 2004;279:35709-35718.
+RN  [2]
+RM  3912042
+RT  Structural studies of the O-antigen polysaccharides of Klebsiella O5
+RT  and Escherichia coli O8.
+RA  Jansson PE, Lönngren J, Widmalm G, Leontein K, Slettengren K, Svenson
+RA  SB, Wrangsell G, Dell A, Tiller PR;
+RL  Carbohydr Res. 1985;145:59-66.
+CC  The O8 monomer is a linear trisaccharide consisting of three D-mannose
+CC  units [-->3)-b-D-Man-(1-->2)-a-D-Man-(1-->2)-a-D-Man-(1-->]. This units
+CC  are handled in an ABC-transporter dependent process in which
+CC  polymerization occurs on the cytoplasmic face of the plasma membrane
+CC  followed by transport (flipping) of the undecaprenyl-linked full-length
+CC  polymer. The O8 antigen is reported to consist of 9 monomer units
+CC  terminated by a single D-Man3Me residue. There are three
+CC  mannosyltransferase enzymes involved in this process (MtfABC; in the
+CC  identical Klebsiella O5, WbdABC). MtfB and MtfC are typical
+CC  single-domain GT enzymes, while MtfA is much larger consisting of 3
+CC  distinct domains, each from the GT1 superfamily (cdd03809, cdd03822 and
+CC  cdd03801). MtfC and MtfB are believed to be involved in the synthesis
+CC  of the post-priming adaptor, a disaccharide of mannose that precedes
+CC  the regular monomer repeat pattern. MtfA and B are responsible for the
+CC  monomer synthesis, with the long MtfA having a likely patterning role.
+CC  The methyltransferase MtfD is the terminator and chain-length
+CC  determinant, acting when the chain is the appropriate length by
+CC  blocking the O3 position of the growing polymer. The ABC transporter
+CC  appears to require the presence of the methylated final residue to move
+CC  the polymer to the periplasmic side of the membrane.
+--
+SN  Man
+ID  source of GDP-D-mannose
+RQ  1
+EV  GenProp1017;
+--
+SN  WbdA
+ID  mannosyltransferase A
+RQ  1
+EV  IPRXXXX; 2852;
+--
+SN  WbdB
+ID  mannosyltransferase B
+RQ  1
+EV  IPRXXXX; 2853;
+--
+SN  WbdC
+ID  mannosyltransferase C
+RQ  1
+EV  IPRXXXX; 2854;
+--
+SN  WbdD
+ID  terminating methyltransferase and chain-length determinant protein
+RQ  1
+EV  IPRXXXX; 2855;
+--
+SN  wzm
+ID  ABC transporter, transmembrane domain
+RQ  1
+EV  IPRXXXX; 2861;
+--
+SN  wzt
+ID  ABC transporter, ATP-binding domain and substrate specificity determinant domain
+RQ  1
+EV  IPRXXXX; 2859;
+//

@@ -1,0 +1,61 @@
+AC  GenProp0921
+DE  radical SAM pair and His-Xaa-Ser repeats peptide
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  21478363
+RT  Biological systems discovery in silico: radical S-adenosylmethionine
+RT  protein families and their target peptides for posttranslational
+RT  modification.
+RA  Haft DH, Basu MK;
+RL  J Bacteriol. 2011;193:2745-2755.
+CC  This Genome Property represents a pair of radical SAM proteins that
+CC  occur as tandem genes in bacteria. The most likely function for this
+CC  system is post-translational modification of ribosomally produced
+CC  peptides. TIGR03979 describes a family with low levels of sequence
+CC  similarity overall, a C-terminal putative peptidoglycan-binding domain,
+CC  but also a striking region with five to seven repeats of His-Xaa-Ser.
+CC  This family only occurs next to the radical SAM pair. Surprisingly, a
+CC  search based on the His-Xaa-Ser repeat region and just a few flanking
+CC  amino acids finds that essentially every radical SAM pair has a
+CC  His-Xaa-Ser repeats region peptide nearby. TIGR03976 describes an
+CC  additional protein in this system, including one branch of the family
+CC  with the signature motif LLNDYxLRE.
+**  I am getting ready to deprecate claims on TIGR03981, TIGR03982 now that
+**  I have extended TIGR03976 (pending) and TIGR03979 and see species with
+**  both. In Leptospira, the conserved His-Xaa-Ser cassette includes
+**  non-coding regions, and the last coding region is a member of family
+**  TIGR04402, a mobilome CxxCx(11)CxxC protein that is often
+**  plasmid-borne.
+--
+SN  aux_B2
+ID  conserved hypothetical protein TIGR03982
+RQ  0
+EV  IPR023814; TIGR03982;
+--
+SN  aux_B3
+ID  putative quinone modification maturase
+RQ  0
+EV  IPR023893; TIGR03981;
+--
+SN  hxsD
+ID  LLNDYxLRE motif rSAM-associated protein
+RQ  1
+EV  IPR023974; TIGR03976;
+--
+SN  hxsRPT
+ID  His/Ser-rich radical SAM pair-associated protein
+RQ  0
+EV  IPR023928; TIGR03979;
+--
+SN  hxsSAM1
+ID  upstream radical SAM protein
+RQ  1
+EV  IPR024023; TIGR03978;
+--
+SN  hxsSAM2
+ID  downstream radical SAM protein
+RQ  1
+EV  IPR024032; TIGR03977;
+//

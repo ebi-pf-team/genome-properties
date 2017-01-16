@@ -1,0 +1,18 @@
+AC  GenProp0992
+DE  radical SAM maturase system, methanogen
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  This system, absolutely restricted to a subset of archaea, always
+CC  contains a radical SAM enzyme belonging to the peptide maturase
+CC  subclass. A small protein encoded nearby in a couple of cases, 
+CC  TIGR04165, is Cys-rich because of two CXXCG motifs, but that
+CC  arrangement suggests ligand activity rather than post-translational
+CC  modification. 
+**  Modification target must not be nearby.
+--
+SN  rSAM
+ID  radical SAM probable peptide maturase
+RQ  1
+EV  IPR024018; TIGR04083;
+//

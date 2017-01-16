@@ -1,0 +1,77 @@
+AC  GenProp0963
+DE  O2(Ec) antigen biosynthesis
+TP  METAPATH
+AU  Haft D
+TH  0
+RN  [1]
+RM  3555792
+RT  Structural studies of the O-specific side-chains of the Escherichia
+RT  coli O2 lipopolysaccharide.
+RA  Jansson PE, Lennholm H, Lindberg B, Lindquist U, Svenson SB;
+RL  Carbohydr Res. 1987;161:273-279.
+RN  [2]
+RM  20453897
+RT  Escherichia coli serogroup O2 and O28ac O-antigen gene cluster
+RT  sequences and detection of pathogenic E. coli O2 and O28ac by PCR.
+RA  Fratamico PM, Yan X, Liu Y, DebRoy C, Byrne B, Monaghan A, Fanning S,
+RA  Bolton D;
+RL  Can J Microbiol. 2010;56:308-316.
+CC  The O2 antigen is a branched pentasaccharide observed in strains 1.2741
+CC  and 9.1649. It consists of the repeating unit
+CC  [->3)a-L-Rha-((2<-1)-a-D-Fuc3NAc)-(1->2)-a-L-Rha-(1->3)-b-L-Rha-(1->4)-
+CC  b-D-GlcNAc-(1->]. Genes for the biosynthesis of Rhamnose and
+CC  3-acylamino-fucose (Fuc3NAc), both of which arise from the same
+CC  intermediate, 4,6-dideoxy-4-oxo-dTDP-D-glucose, are found within the
+CC  cluster.
+**  Identical to (?) cross-reacts with O74
+--
+SN  Fuc3NAc
+ID  source of 3-acetamidofucose
+RQ  1
+EV  GenProp0964;
+--
+SN  GTR-1
+ID  b-L-Rha-(1->4)-b-D-GlcNAc transferase
+RQ  1
+EV  IPRXXXX; 2770;
+--
+SN  GTR-2,3
+ID  a-L-Rha-(1->2)-a-L-Rha, ->3)-b-L-Rha transferase
+RQ  1
+EV  IPRXXXX; 2769;
+--
+SN  GTR-4
+ID  a-D-Fuc3NAc-(1->2)-a-L-Rha transferase
+RQ  1
+EV  IPRXXXX; 2768;
+--
+SN  Rha
+ID  source of Rhamnose
+RQ  1
+EV  GenProp0183;
+--
+SN  galF
+ID  regulatory protein GalF
+RQ  1
+EV  IPR005774; TIGR01105;
+--
+SN  gnd
+ID  clustered gnd enzyme
+RQ  0
+EV  IPR006113; TIGR00873;
+--
+SN  wzx2
+ID  O2-antigen specific transporter (flippase)
+RQ  1
+EV  IPRXXXX; 2767;
+--
+SN  wzy
+ID  clustered wzy protein
+RQ  1
+EV  IPRXXXX; 2848;
+--
+SN  wzz
+ID  O-antigen specific chain length determinant protein wzz
+RQ  1
+EV  IPRXXXX; 2846;
+//

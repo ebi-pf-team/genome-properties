@@ -1,0 +1,25 @@
+AC  GenProp1056
+DE  rhizo-twelve system
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  This Genome Property describes an uncharacterized oligosaccharide
+CC  biosynthesis system, containing twelve or thirteen conserved sugar
+CC  epimerases, glycosyltransferases, and uncharacterized enzymes. This
+CC  system is common in plant-associated and soil bacteria, including
+CC  multiple species of  Bradyrhizobium, Mesorhizobium, and
+CC  Methylobacterium. The designation rhizo-twelve reflects the species
+CC  distribution favoring rhizobial bacteria and the size of the cassette.
+CC  Note that this Genome Property should be regarded as still under
+CC  construction until the number of components defined reaches twelve.
+--
+SN  RhTw01
+ID  methyltransferase, Rta_06860 family
+RQ  1
+EV  IPR027554; TIGR04290;
+--
+SN  RhTw02
+ID  B12-binding domain/radical SAM domain protein
+RQ  0
+EV  IPR027559; TIGR04295;
+//

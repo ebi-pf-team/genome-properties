@@ -1,0 +1,31 @@
+AC  GenProp0156
+DE  cyanophycin-like storage polymers
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  Cyanophycin is a characteristically Cyanobacterial storage polymer for
+CC  nitrogen, carbon, and energy. It is made by cyanophycin synthetase and
+CC  degraded by cyanophycinase. Cyanophycinase is also found in an
+CC  extracellular form by some species that can utilize exogenous
+CC  cyanophycin. The polymer has a backbone of L-aspartic acid residues
+CC  (Asp), with the side chain COOH linked to the NH2 of arginine (Arg)
+CC  residues. The native cyanobacterial form is insoluble, while
+CC  heterogenously expressed cyanophycin synthetases in E. coli may produce
+CC  a soluble form with some level of Lys substituting for Arg.  This
+CC  polymer is analogous to polyhydroxyalkanoic acid biosynthesis systems
+CC  with which it sometimes co-occurs.
+--
+SN  degrade
+ID  cyanophycinase
+DN  cyanophycinase (EC:3.4.15.6)
+RQ  1
+EV  IPR011811; TIGR02069; sufficient;
+TG  GO:0006112;
+--
+SN  synth
+ID  cyanophycin synthetase
+DN  cyanophycin synthase (L-arginine-adding) (EC:6.3.2.30)
+RQ  1
+EV  IPR011810; TIGR02068; sufficient;
+TG  GO:0006112;
+//

@@ -1,0 +1,43 @@
+AC  GenProp0672
+DE  citrate lyase system
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  16952946
+RT  Both subunits of ATP-citrate lyase from Chlorobium tepidum contribute
+RT  to catalytic activity.
+RA  Kim W, Tabita FR;
+RL  J Bacteriol. 2006;188:6544-6552.
+CC  ghi as start point. description to follow.
+--
+SN  citC
+ID  [citrate (pro-3S)-lyase] ligase
+RQ  1
+EV  IPR005216; TIGR00124; sufficient;
+--
+SN  citD
+ID  citrate lyase acyl carrier protein
+RQ  1
+EV  IPR006495; TIGR01608; sufficient;
+--
+SN  citE
+ID  citrate lyase, beta subunit
+RQ  1
+EV  IPR006475; TIGR01588; sufficient;
+--
+SN  citF
+ID  citrate lyase, alpha subunit
+RQ  1
+EV  IPR006472; TIGR01584; sufficient;
+--
+SN  citG
+ID  triphosphoribosyl-dephospho-CoA synthase
+RQ  1
+EV  IPR017551; TIGR03125; sufficient;
+--
+SN  citX
+ID  apo-citrate lyase phosphoribosyl-dephospho-CoA transferase
+RQ  1
+EV  IPR005551; TIGR03124; sufficient;
+//

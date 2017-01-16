@@ -1,0 +1,224 @@
+AC  GenProp1044
+DE  Transposon components
+TP  METAPATH
+AU  Haft D
+TH  0
+CC  This property collects transposases and related integrases.
+--
+SN  87kDa
+ID  87kDa Transposase
+RQ  1
+EV  IPR022242; PF12596;
+--
+SN  Hermes
+ID  hermes transposase DNA-binding domain
+RQ  1
+EV  IPR018473; PF10683;
+--
+SN  IS1
+ID  IS1 transposase
+RQ  1
+EV  IPR005063; PF03400;
+--
+SN  IS150
+ID  IS 150 transposase orfA
+RQ  1
+EV  IPRXXXX; 2920;
+--
+SN  IS166_C
+ID  transposase C of IS166 homeodomain
+RQ  1
+EV  IPR024463; PF13007;
+--
+SN  IS200
+ID  IS200 like transposase (Transposase_17)
+RQ  1
+EV  IPR002686; PF01797;
+--
+SN  IS4
+ID  transposase, IS4 family
+RQ  1
+EV  IPR002559; PF01609;
+--
+SN  IS4_N
+ID  insertion element 4 transposase N-terminal
+RQ  1
+EV  IPR024473; PF13006;
+--
+SN  IS605-B
+ID  transposase, IS605 OrfB family
+RQ  1
+EV  IPR001959; PF01385;
+EV  IPR010095; TIGR01766;
+--
+SN  IS66
+ID  Transposase IS66 family
+RQ  1
+EV  IPR004291; PF03050;
+--
+SN  IS66_HTH
+ID  putative helix-turn-helix domain of transposase IS66
+RQ  1
+EV  IPR024474; PF13005;
+--
+SN  ISC1217
+ID  archaeal putative transposase ISC1217
+RQ  1
+EV  IPR006783; PF04693;
+--
+SN  ISPsy8
+ID  ISPsy8, transposase OrfA
+RQ  1
+EV  IPRXXXX; 2916;
+--
+SN  Igr-core
+ID  integrase core domain protein
+RQ  1
+EV  IPR001584; PF00665;
+--
+SN  MULE
+ID  MULE transposase domain
+RQ  1
+EV  IPR018289; PF10551;
+--
+SN  PDDEXK
+ID  PD-(D/E)XK nuclease family transposase
+RQ  1
+EV  IPRXXXX; PF12784;
+--
+SN  Tc3
+ID  Tc3 transposase
+RQ  1
+EV  IPR025898; PF11427;
+--
+SN  Tc5_C
+ID  Tc5 transposase C-terminal domain
+RQ  1
+EV  IPR007350; PF04236;
+--
+SN  Tc5_DNA
+ID  Tc5 transposase DNA-binding domain
+RQ  1
+EV  IPR006600; PF03221;
+--
+SN  Tn3-DDE
+ID  Tn3 transposase DDE domain
+RQ  1
+EV  IPR002513; PF01526;
+--
+SN  Tn5_dim
+ID  Transposase Tn5 dimerisation domain
+RQ  1
+EV  IPR003201; PF02281;
+--
+SN  Ts8-IS3
+ID  PFAM Transposase_8 (IS3 family)
+RQ  1
+EV  IPR002514; PF01527;
+--
+SN  Tsp_1
+ID  Transposase_1, includes mariner
+RQ  1
+EV  IPR001888; PF01359;
+--
+SN  Tsp_12
+ID  Transposase_12, DDE_Tnp_ISL3
+RQ  1
+EV  IPR002560; PF01610;
+--
+SN  Tsp_14
+ID  Transposase_14, HTH_Tnp_IS630
+RQ  1
+EV  IPR002622; PF01710;
+--
+SN  Tsp_19
+ID  transposase, IS116/IS110/IS902 family
+RQ  1
+EV  IPR003346; PF02371;
+--
+SN  Tsp_21
+ID  transposase family Tnp2
+RQ  1
+EV  IPR004242; PF02992;
+--
+SN  Tsp_23
+ID  TNP1/EN/SPM transposase
+RQ  1
+EV  IPR004264; PF03017;
+--
+SN  Tsp_32
+ID  Transposase_32, Putative transposase, Y2_Tnp
+RQ  1
+EV  IPR007069; PF04986;
+--
+SN  Tsp_35
+ID  Transposase_35, putative transposase DNA-binding domain, OrfB_Zn_ribbon
+RQ  1
+EV  IPR010095; PF07282;
+--
+SN  Tsp_36
+ID  Transposase_36, Rhodopirellula transposase, DDE_Tnp_ISAZ013
+RQ  1
+EV  IPR011518; PF07592;
+--
+SN  Tsp_37
+ID  Transposase_37, transposase protein, Tnp_P_element
+RQ  1
+EV  IPR021896; PF12017;
+--
+SN  Tsp_38
+ID  Transposase_38, ISXO2-like transposase domain
+RQ  1
+EV  IPR024445; PF12762;
+--
+SN  Tsp_9
+ID  Transposase_9, DEDD_Tnp_IS110
+RQ  1
+EV  IPR002525; PF01548;
+--
+SN  Tsp_Mu
+ID  bacteriophage Mu transposase
+RQ  1
+EV  IPR004189; PF02914;
+--
+SN  Tsp_MuC
+ID  Mu transposase, C-terminal
+RQ  1
+EV  IPR015378; PF09299;
+--
+SN  Tsp_MuDR
+ID  MuDR family transposase
+RQ  1
+EV  IPR004332; PF03108;
+--
+SN  Tsp_Ptta
+ID  plant transposase, Ptta/En/Spm family
+RQ  1
+EV  IPR004252; PF03004;
+--
+SN  Tsp_Tc
+ID  HTH_Tnp_Tc3_2, C. elegans, mariner related
+RQ  1
+EV  IPR002492; PF01498;
+--
+SN  Tsp_Teng
+ID  transposase, putative, N-terminal domain
+RQ  1
+EV  IPR010094; TIGR01765;
+--
+SN  Tsp_Zn3
+ID  Zn_ribbon_3, transposase zinc-ribbon domain, Zn_Tnp_IS1595
+RQ  1
+EV  IPR024442; PF12760;
+--
+SN  YhgA-lk
+ID  putative transposase, YhgA-like
+RQ  1
+EV  IPR006842; PF04754;
+EV  IPR010106; TIGR01784;
+--
+SN  mutator
+ID  transposase, mutator family
+RQ  1
+EV  IPR001207; PF00872;
+//

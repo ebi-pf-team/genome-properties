@@ -1,0 +1,53 @@
+AC  GenProp1043
+DE  O145(Ec) antigen biosynthesis
+TP  METAPATH
+AU  Haft D
+TH  0
+CC  The E. coli O145 antigen monomer consists of a linear trimer with the
+CC  structure: [->4)aNeu5Ac(2->3)aLFucNAm(1->3)bDGlcNAc(1->], where Neu5Ac
+CC  is N-acetyl-neuraminic acid and L-FucNAm is
+CC  2-acetamidoylamino-2,6-dideoxy-L-galactose. The LFucNAm transferase
+CC  (WbuB) is 98% identical to enzymes in the O151 and O118 antigens where
+CC  the same linkage is O145 is found. These are, in turn members of a
+CC  clade of such enzymes carrying out the same linkage (with either
+CC  LFucNAc or LFucNAm), always at the end of the monomer chain, in
+CC  antigens O4, O26, O29, O118, O145, O151, and O172. The WbuW enzyme is
+CC  very divergent from other known glycosyltransferases, consistent with
+CC  the rare aNeu5Ac(2->3)LFucNAm reaction that it must be carrying out as
+CC  inferred by the process of elimination.
+--
+SN  LFucNAc
+ID  source of UDP-L-FucNAc
+RQ  1
+EV  GenProp0976;
+--
+SN  Neu5Ac
+ID  source of CDP-N-acetyl-neuraminate (Neu5Ac)
+RQ  1
+EV  GenProp0793;
+--
+SN  WbuB
+ID  DGlcNAc-alpha-1,3-LFucNAm transferase WbuB
+RQ  1
+EV  IPRXXXX; 2917;
+--
+SN  WbuW
+ID  LFucNAm alpha-2,3-Neu5Ac transferase WbuW
+RQ  1
+EV  IPRXXXX; 2919;
+--
+SN  WbuXYZ
+ID  N-acetyl sugar amidation module WbuXYZ
+RQ  1
+EV  GenProp0794;
+--
+SN  wzx145
+ID  O145(Ec)-antigen specific transporter (flippase) wzx
+RQ  1
+EV  IPRXXXX; 2922;
+--
+SN  wzy145
+ID  O145(Ec)-antigen specific polymerase wzy
+RQ  1
+EV  IPRXXXX; 2921;
+//

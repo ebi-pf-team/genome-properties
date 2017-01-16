@@ -1,0 +1,31 @@
+AC  GenProp1066
+DE  uncharacterized cassette GAK (Grasp, Amphipathic, Kinase)
+TP  SYSTEM
+AU  Haft D
+TH  0
+--
+SN  gakA
+ID  amphi-Trp domain protein, GAK system
+RQ  1
+EV  IPRXXXX; TIGR04354;
+--
+SN  gakCH
+ID  XXXCH domain protein
+RQ  0
+EV  IPR027588; TIGR04358;
+--
+SN  gakD
+ID  CofD-related protein, GAK system
+RQ  1
+EV  IPR027591; TIGR04357;
+--
+SN  gakG
+ID  ATP-grasp enzyme, GAK system
+RQ  1
+EV  IPR027592; TIGR04356;
+--
+SN  gakK
+ID  HprK-related kinase, GAK system
+RQ  1
+EV  IPR027597; TIGR04355;
+//

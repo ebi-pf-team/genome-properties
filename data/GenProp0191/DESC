@@ -1,0 +1,66 @@
+AC  GenProp0191
+DE  sulfate/thiosulfate ABC transporter
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  7608089
+RT  Sulfate and thiosulfate transport in Escherichia coli K-12: evidence
+RT  for a functional overlapping of sulfate- and thiosulfate-binding
+RT  proteins.
+RA  Sirko A, Zatyka M, Sadowy E, Hulanicka D;
+RL  J Bacteriol. 1995;177:4134-4136.
+RN  [2]
+RM  3897189
+RT  Single transporter for sulfate, selenate, and selenite in Escherichia
+RT  coli K-12.
+RA  Lindblow-Kull C, Kull FJ, Shrift A;
+RL  J Bacteriol. 1985;163:1267-1269.
+RN  [3]
+RM  11421278
+RT  Molybdate transport.
+RA  Self WT, Grunden AM, Hasona A, Shanmugam KT;
+RL  Res Microbiol. 2001;152:311-321.
+CC  This property describes an ATP-binding cassette (ABC) transporter
+CC  complex for sulfate and some related anions. Gene symbols for these
+CC  proteins reflect a role of sulfate import in cysteine biosynthesis. The
+CC  complex consists of four proteins, an ATP-binding protein CysA, two
+CC  homologous permeases CysT and CysW, and a binding protein. In the model
+CC  bacterium Escherichia coli, two binding proteins designated Sbp and
+CC  CysP are present, and appear to facilitate transport of both sulfate
+CC  and thiosulfate ions [1]. Unlike the case for phosphate uptake, ABC
+CC  transport appears to be the only mechanism for sulfate uptake. An older
+CC  report finds the sulfate transporter in E. coli also the sole
+CC  transporter for selenate and selenite [2], and a review on the
+CC  molybdate ABC transporter notes that, in absense of such a transporter,
+CC  the sulfate transporter can take up molybdate [3].
+**  Originally, CysP described as mostly responsible for thiosulfate.
+--
+SN  ATPcysA
+ID  sulfate transporter ATP-binding cassette protein CysA
+DN  sulfate ABC transporter ATP-binding protein CysA (EC 3.6.3.25)
+RQ  1
+EV  IPR005666; TIGR00968; sufficient;
+TG  GO:0015709;
+--
+SN  permT
+ID  sulfate ABC transporter, permease permT
+DN   sulfate ABC transporter, permease protein CysT
+RQ  1
+EV  IPR011865; TIGR02139; sufficient;
+TG  GO:0015709;
+--
+SN  permW
+ID  sulfate ABC transporter, permease protein CysW
+DN  sulfate ABC transporter, permease protein CysW
+RQ  1
+EV  IPR011866; TIGR02140; sufficient;
+TG  GO:0015709;
+--
+SN  sul_bnd
+ID  sulfate ABC transporter, binding protein
+DN  NOT APPLICABLE
+RQ  1
+EV  IPR005669; TIGR00971; sufficient;
+TG  GO:0015709;
+//

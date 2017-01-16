@@ -1,0 +1,36 @@
+AC  GenProp0693
+DE  fructose utilization as fructose-1,6-bisphosphate
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  Fructose may be imported into the cell as a carbon source via the
+CC  fructose-specific phosphotransferase system (PTS) and converted to the
+CC  glycolysis pathway intermediate fructose-1,6-bisphosphate by the action
+CC  of 1-phosphofructokinase.
+--
+SN  PTS-core
+ID  PTS core components
+RQ  1
+EV  GenProp0119;
+--
+SN  fru-IIA
+ID  PTS IIA, fructose-specific
+RQ  1
+EV  IPR004715; TIGR00848; sufficient;
+--
+SN  fru-IIB
+ID  PTS IIB, fructose-specific
+RQ  1
+EV  IPR003353; TIGR00829; sufficient;
+--
+SN  fru-IIC
+ID  PTS IIC, fructose-specific
+RQ  1
+EV  IPR006327; TIGR01427; sufficient;
+--
+SN  pfkB
+ID  1-phosphofructokinase
+RQ  1
+EV  IPRXXXX; TIGR03168;
+EV  IPR022463; TIGR03828; sufficient;
+//

@@ -1,0 +1,60 @@
+AC  GenProp0768
+DE  CRISPR system, Pging subtype
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  16292354
+RT  A guild of 45 CRISPR-associated (Cas) protein families and multiple
+RT  CRISPR/Cas subtypes exist in prokaryotic genomes.
+RA  Haft DH, Selengut J, Mongodin EF, Nelson KE;
+RL  PLoS Comput Biol. 2005;1:e60.
+CC  CRISPR repeats are by definition Clustered Regularly Interspaced Short
+CC  Palindromic Repeats. Certain proteins are found only in genomes with
+CC  CRISPR repeats and are near these repeats. We have shown that certain
+CC  families of CRISPR-associated (cas) proteins, unlike the cas1-cas4
+CC  genes common to nearly all loci, are relatively uncommon and mark
+CC  distinct subclasses of CRISPR/cas system. This Genome Property
+CC  describes a rare CRISPR/cas subtype, named Pging for its occurence in
+CC  Porphyromonas gingivalis W83.
+--
+SN  Cas1
+ID  Cas1, Pging region
+RQ  1
+EV  IPR002729; TIGR00287;
+--
+SN  Cas2
+ID  Cas2, Pging region
+RQ  1
+EV  IPR021127; TIGR01573;
+--
+SN  Cas3
+ID  Cas3, Pging region
+RQ  1
+EV  IPR006474; TIGR01587;
+--
+SN  Cas4
+ID  Cas4, Pging region
+RQ  1
+EV  IPR013343; TIGR00372;
+--
+SN  Cas5p
+ID  Cas5, Pging subtype variant
+RQ  1
+EV  IPR020031; TIGR03488;
+--
+SN  Cas6
+ID  Cas6, Pging region
+RQ  1
+EV  IPR010156; TIGR01877;
+--
+SN  Csp1
+ID  Csp1 family TIGR03489
+RQ  1
+EV  IPR020032; TIGR03489;
+--
+SN  Csp2
+ID  Csp2 family TIGR03487
+RQ  1
+EV  IPR020029; TIGR03487;
+//

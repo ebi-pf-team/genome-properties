@@ -1,0 +1,89 @@
+AC  GenProp1014
+DE  O5(Ec) antigen biosynthesis
+TP  METAPATH
+AU  Haft D
+TH  0
+RN  [1]
+RM  9404639
+RT  Structural characterization of the serotype O:5 O-polysaccharide
+RT  antigen of the lipopolysaccharide of Escherichia coli O:5.
+RA  MacLean LL, Perry MB;
+RL  Biochem Cell Biol. 1997;75:199-205.
+CC  The O5 antigen monomer is a linear tetrasaccharide observed in E. coli
+CC  strain 97.0246. It consists of the repeating unit
+CC  [->4)-b-D-Gal-(1->3)-a-D-GalNAc-(1->4)-b-D-Qui3NAc-(1->3)-b-D-Rib-(1->]
+CC  [1]. Note that the structure reported at ECODAB for O5 actually refers
+CC  to a different antigen, that from strain 180/C3 [2], which differs in
+CC  the position of the linkage to the D-Qui3NAc sugar, as well as the
+CC  reported order of the residues in the monomer unit which are cyclically
+CC  permuted (this may result in similar antigenic properties while
+CC  resulting from biosynthetic machinery that is relatively less-well
+CC  conserved than expected from the overall structural similarity). This
+CC  alternate structure from 180/C3, for which there is no sequence data,
+CC  is more similar to the structure of the O114(Ec) antigen which is
+CC  similarly permuted, and accordingly, the O5 and O114 biosynthetic
+CC  clusters have only moderate similarity. Qui3NAc is
+CC  3-acetamido-3,6-dideoxy-D-glucose, and is likely made from
+CC  4,6-dideoxy-4-oxo-dTDP-D-glucose, the product of the RfbA and RfbB
+CC  enzymes found in the cluster. This would then be converted to the
+CC  desired product via an aminotransferase and an acetyltransferase, both
+CC  also found in the cluster. UDP-GalNAc is made from UDP-GlcNAc by the
+CC  product of the gne gene found in the cluster in a similar fashion to
+CC  the biosynthesis of the O104 monomer. Ribose and Galactose are both
+CC  generally bioavailable. The cluster should require three distinct
+CC  glycosyltransferases, but only two genes with known glycosyltransferase
+CC  domains are present (the same situation is found in the O114 cluster).
+CC  Both O5 and O114 contain homologs of the WbuN and WbuO genes, both of
+CC  unknown function. WbuN is a member of the HAD superfamily which is not
+CC  known to contain any glycosyltransferases, activities more typically
+CC  being restricted to hydrolysis reactions. Note that ECODAB includes an
+CC  assignment of the WbuL gene to the third glycosyltransferase reaction,
+CC  but that gene has no particular homology support for the assignment,
+CC  has no homolog in the O5 cluster, and is positioned among the
+CC  D-Qui3NAcyl biosynthetic genes of the O114 cluster, and is more likely
+CC  to be the D-Qui3N seryl or D-QuiNSer acetyl-transferase enzyme. If WbuN
+CC  or WbuO (or both) are responsible for the third glycosyltransfer
+CC  reaction in O5 and O114, it calls into question the reported difference
+CC  in the order of the sugars in the monomer since O5 and O114 would have
+CC  very distinct linkages as the third activity if this were the case.
+--
+SN  GT-1
+ID  O5(Ec)-associated D-Qui3NAc transferase
+RQ  1
+EV  IPRXXXX; 2953;
+--
+SN  GT-3
+ID  O5(Ec)-associated D-galactose transferase
+RQ  1
+EV  IPRXXXX; 2956;
+--
+SN  Qui3NAc
+ID  source of TDP-Qui3NAc
+RQ  1
+EV  GenProp1050;
+--
+SN  WbuN
+ID  WbuN-like HAD superfamily enzyme of unknown function
+RQ  1
+EV  IPRXXXX; 2954;
+--
+SN  WbuO
+ID  WbuO-like enzyme of unknown function
+RQ  1
+EV  IPRXXXX; 2955;
+--
+SN  gne
+ID  source of UDP-GalNAc
+RQ  1
+EV  IPRXXXX; 2732;
+--
+SN  wzx5
+ID  O5(Ec) antigen transporter (flippase) wzx
+RQ  1
+EV  IPRXXXX; 2951;
+--
+SN  wzy5
+ID  O5(Ec) antigen polymerase wzy
+RQ  1
+EV  IPRXXXX; 2952;
+//

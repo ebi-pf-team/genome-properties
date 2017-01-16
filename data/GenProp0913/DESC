@@ -1,0 +1,45 @@
+AC  GenProp0913
+DE  E. coli O-antigen monomer biosynthesis clusters
+TP  METAPATH
+AU  Haft D
+TH  0
+CC  blast database at /usr/local/projects/GSTEC/BLAST/    gstec01 : 1.2741
+CC  : O2/H4 : GenProp0963  gstec02 : 97.0246 : O5/H-  gstec03 : 5.0588 :
+CC  O8/H-  gstec04 : 97.0259 : O11/H-  gstec05 : H30 : O26/H11  gstec06 :
+CC  95.0941 : O45/H2  gstec07 : 1.2264 : O76/H-  gstec08 : 97.0264 :
+CC  O88/H25  gstec09 : 96.0497 : O91/H21  gstec10 : 99.0741 : O91/H- 
+CC  gstec11 : 3.2608 : O103/H2 : GenProp0953  gstec12 : 93.0624 : O103/H6 :
+CC  GenProp0953  gstec13 : 4.0522 : O111/H- : GenProp0949  gstec14 : JB1-95
+CC  : O111/H- : GenProp0949  gstec15 : 96.154 : O113/H12  gstec16 : 5.0959
+CC  : O121/H19  gstec17 : 9.1649 : O2/H- : GenProp0963  gstec18 : 9.0111 :
+CC  O128/H2  gstec19 : 4.0967 : O145/H2  gstec20 : 2.3916 : O147/H- 
+CC  gstec21 : 3.3884 : O153/H-  gstec22 : 2.4168 : O157/H12  gstec23 :
+CC  3.2303 : O157/H16  gstec24 : 3003 : O157/H45  gstec25 : TW07793 :
+CC  O157/H39  gstec26 : B41 : O101/NHM  gstec27 : 900105 (10e) : O26/H11 
+--
+SN  ANY
+ID  any O-antigen monomer system
+RQ  1
+EV  GenProp0953;
+EV  GenProp0932;
+EV  GenProp0949;
+EV  GenProp0963;
+EV  GenProp0974;
+EV  GenProp0947;
+EV  GenProp1018;
+EV  GenProp1019;
+EV  GenProp1014;
+EV  GenProp1020;
+EV  GenProp1023;
+EV  GenProp1030;
+EV  GenProp1031;
+EV  GenProp1035;
+EV  GenProp1036;
+EV  GenProp1038;
+EV  GenProp1042;
+EV  GenProp1043;
+EV  GenProp1045;
+EV  GenProp1046;
+EV  GenProp1047;
+EV  GenProp1049;
+//

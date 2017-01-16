@@ -1,0 +1,102 @@
+AC  GenProp0784
+DE  carbon fixation via 3-hydroxypropionate and 4-hydroxybutyrate
+TP  PATHWAY
+AU  Haft D
+TH  0
+CC  This fifth discovered carbon assimilation pathway is found mainly in
+CC  Archaea and consists of a cycle of 16 steps in which two molecules of
+CC  carbonate are consumed and one molecule of acetyl-CoA is produced. The
+CC  acetyl-CoA pruduced is further condensed with another molecule of
+CC  carbon dioxide to form pyruvate. To the point of pyruvate four
+CC  molecules of ATP are converted to two ADPs and two AMPs, and five
+CC  molecules NADPH and two molecules of ferredoxin are oxidized while one
+CC  molecule of NAD+ is reduced.
+--
+SN  1
+ID  acetyl-CoA carboxylase
+RQ  1
+--
+SN  10
+ID  succinyl-CoA reductase (NADPH)
+RQ  1
+--
+SN  11
+ID  succinate semialdehyde reductase (NADPH)
+RQ  1
+--
+SN  12
+ID  4-hydroxybutyryl-CoA synthetase (AMP-forming)
+RQ  1
+--
+SN  13
+ID  4-hydroxybutyryl-CoA dehydratase
+RQ  1
+--
+SN  14
+ID  crotonyl-CoA hydratase
+RQ  1
+--
+SN  15
+ID  3-hydroxybutyryl-CoA dehydrogenase (NAD+)
+RQ  1
+--
+SN  16
+ID  acetoacetyl-CoA beta-ketothiolase
+RQ  1
+--
+SN  17
+ID  pyruvate synthase
+RQ  0
+--
+SN  1b
+ID  acetyl-CoA carboxylase, subunit b
+RQ  1
+--
+SN  1c
+ID  acetyl-CoA carboxylase, subunit c
+RQ  1
+--
+SN  2
+ID  malonyl-CoA reductase
+RQ  1
+--
+SN  3
+ID  malonate semialdehyde reductase (NADPH)
+RQ  1
+--
+SN  4
+ID  3-hydroxypropionyl-CoA synthetase (AMP-forming)
+RQ  1
+--
+SN  5
+ID  3-hydroxypropionyl-CoA dehydratase
+RQ  1
+--
+SN  6
+ID  acryloyl-CoA reductase (NADPH)
+RQ  1
+--
+SN  7
+ID  propionyl-CoA carboxylase
+RQ  1
+--
+SN  7b
+ID  propionyl-CoA carboxylase, subunit b
+RQ  1
+--
+SN  7c
+ID  propionyl-CoA carboxylase, subunit c
+RQ  1
+--
+SN  8
+ID  methylmalonyl-CoA epimerase
+RQ  1
+--
+SN  9
+ID  methylmalonyl-CoA mutase
+RQ  1
+--
+SN  9b
+ID  methylmalonyl-CoA mutase, subunit b
+RQ  1
+//

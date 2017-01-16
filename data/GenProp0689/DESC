@@ -1,0 +1,37 @@
+AC  GenProp0689
+DE  glyoxalate conversion to phosphoglycerate
+TP  PATHWAY
+AU  Haft D
+TH  0
+CC  Glyoxalate is a common intermediate produced by a number of catabolic
+CC  and anapleurotic pathways, notably the breakdown for allantoate,
+CC  proline and glycine and the glyoxalate shunt. This pathway is initiated
+CC  by the incorporation of carbon dioxide utilizing the TPP-dependent
+CC  enzyme, tartronate-semialdehyde synthase (aka glyoxalate carbo-ligase,
+CC  gcl).  Note that this is not a carbon-fixation pathway.  For instance,
+CC  in the case of allantoate catabolism, the production of glyoxalate also
+CC  produces one or more molecules of carbon dioxide.  Intermediates in
+CC  this pathway (tartronate semialdehyde, and glycerate) may be diverted
+CC  to other final products involved, for instance in covactor
+CC  biosynthesis. Phosphoglycerate may be put to a large number of
+CC  metabolic uses.
+--
+SN  gcl
+ID  glyoxalate carbo-ligase
+RQ  1
+EV  IPR006397; TIGR01504; sufficient;
+--
+SN  glxK
+ID  glycerate kinase (2.7.1.31)
+RQ  1
+--
+SN  glxR
+ID  tartronate semialdehyde reductase (1.1.1.60)
+RQ  1
+EV  IPR006398; TIGR01505; sufficient;
+--
+SN  hyi
+ID  hydroxypyruvate isomerase
+RQ  0
+EV  IPR017643; TIGR03234; sufficient;
+//

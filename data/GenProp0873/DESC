@@ -1,0 +1,17 @@
+AC  GenProp0873
+DE  ion-motive antiporter cycles
+TP  CATEGORY
+AU  Haft D
+TH  0
+CC  This Genome Property describes the general class of biological system
+CC  in which an essentially irreversible enzymatic process (such as
+CC  decarboxylation) converts one substrate of an antiporter into the
+CC  other, so that extrusion of the enzymatic product leads to import of
+CC  new substrate. An example of such a system is the pairing of asparate
+CC  decarboxylase (with produces alanine plus CO2) with an aspartate
+CC  alanine antiporter. The net result of each cycle is removal of one
+CC  cytosolic proton, so such systems can and do confer acid resistance.
+CC  Sample antiporter pairs related by decarboxylation include
+CC  aspartate:alanine, arginine:agmatine, histidine:histamine,
+CC  lysine:cadaverine, and ornithine:putrescine.
+//

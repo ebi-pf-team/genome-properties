@@ -1,0 +1,71 @@
+AC  GenProp0209
+DE  Sec system preprotein translocase
+TP  SYSTEM
+AU  Haft D
+TH  1
+CC  This property describes the bacterial preprotein translocase Sec. The
+CC  analogous process occurs in eukaryotes and archaea (little studied in
+CC  the archaea), but the component proteins are different enough not to be
+CC  described by the same set of hidden Markov models. SecB is a cytosolic
+CC  export-specific chaperone in E. coli and some related species, but is
+CC  not broadly distributed. SecA, the ATPase that powers the translocase,
+CC  is a peripheral membrane protein. SecY, SecE, and SecG form the
+CC  heterotrimeric translocase, although SecG is not essential at some
+CC  temperatures. SecD, SecG, and YajC form an accessory complex that may
+CC  prevent backsliding of proteins being translocated, and may not be
+CC  essential proteins.
+--
+SN  OxaA
+ID  Inner membrane protein oxaA
+RQ  0
+EV  IPR028053; TIGR03593;
+EV  IPR028055; TIGR03592;
+EV  IPR001708; PF02096;
+--
+SN  SecA
+ID  SecA peripheral ATPase
+DN  preprotein translocase, SecA subunit
+RQ  1
+EV  IPR000185; TIGR00963; sufficient;
+--
+SN  SecB
+ID  SecB cytosolic chaperone
+RQ  0
+EV  IPR003708; TIGR00809; sufficient;
+--
+SN  SecD
+ID  SecD accessory complex subunit
+DN  protein-export membrane protein SecD
+RQ  0
+EV  IPR005791; TIGR01129; sufficient;
+--
+SN  SecE
+ID  SecE core heterotrimer subunit
+DN  preprotein translocase, SecE subunit
+RQ  1
+EV  IPR005807; TIGR00964; sufficient;
+--
+SN  SecF
+ID  SecF accessory complex subunit
+DN  protein-export membrane protein SecF
+RQ  0
+EV  IPR005665; TIGR00966; sufficient;
+--
+SN  SecG
+ID  SecG core heterotrimer subunit
+DN  preprotein translocase, SecG subunit
+RQ  1
+EV  IPR004692; TIGR00810; sufficient;
+--
+SN  SecY
+ID  SecY core heterotrimer subunit
+DN  preprotein translocase, SecY subunit
+RQ  1
+EV  IPR002208; TIGR00967; sufficient;
+--
+SN  YajC
+ID  YajC accessory complex subunit
+DN  preprotein translocase, YajC subunit
+RQ  0
+EV  IPR003849; TIGR00739; sufficient;
+//

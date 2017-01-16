@@ -1,0 +1,37 @@
+AC  GenProp0823
+DE  violacein biosynthesis
+TP  PATHWAY
+AU  Haft D
+TH  0
+RN  [1]
+RM  18171677
+RT  Crystal structure of VioE, a key player in the construction of the
+RT  molecular skeleton of violacein.
+RA  Hirano S, Asamizu S, Onaka H, Shiro Y, Nagano S;
+RL  J Biol Chem. 2008;283:6459-6466.
+CC  Violacein is a purple bisindole toxin derived from a pair of tryptophan
+CC  residues, made by bacteria that include Chromobacterium violaceum ATCC
+CC  12472, Janthinobacterium lividum, and Pseudoalteromonas tunicata. The
+CC  first two steps are shared with pathways for indolocarbazoles
+CC  (rebeccamycin, staurosporine), but action by VioE at the third step
+CC  produces protodeoxyviolaceinic acid, rather than allowing the
+CC  non-enzymatic conversion to chromopyrrolic acid that occurs during
+CC  staurosporine biosynthesis. VioE therefore is a good marker for the
+CC  biosynthesis of violacein or closely related compounds. 
+**  vioE seems to have no functionally different homologs.
+--
+SN  vioC
+ID  violacein biosynthesis monooxygenase VioC
+RQ  1
+EV  IPRXXXX; 2336;
+--
+SN  vioD
+ID  violacein biosynthesis enzyme VioD
+RQ  1
+EV  IPRXXXX; 2337;
+--
+SN  vioE
+ID  violacein biosynthesis enzyme VioE
+RQ  1
+EV  IPR019902; TIGR03650;
+//

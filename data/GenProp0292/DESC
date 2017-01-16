@@ -1,0 +1,168 @@
+AC  GenProp0292
+DE  ethanolamine degradation organelle
+TP  SYSTEM
+AU  Haft D
+TH  4
+RN  [1]
+RM  1550360
+RT  Overexpression, purification, and some properties of the
+RT  AdoCbl-dependent ethanolamine ammonia-lyase from Salmonella
+RT  typhimurium.
+RA  Faust LP, Babior BM;
+RL  Arch Biochem Biophys. 1992;294:50-54.
+RN  [2]
+RM  15466038
+RT  Identification of a reactivating factor for adenosylcobalamin-dependent
+RT  ethanolamine ammonia lyase.
+RA  Mori K, Bando R, Hieda N, Toraya T;
+RL  J Bacteriol. 2004;186:6845-6854.
+RN  [3]
+RM  15516577
+RT  Evidence that a B12-adenosyl transferase is encoded within the
+RT  ethanolamine operon of Salmonella enterica.
+RA  Sheppard DE, Penrod JT, Bobik T, Kofoid E, Roth JR;
+RL  J Bacteriol. 2004;186:7635-7644.
+RN  [4]
+RM  15466042
+RT  A pH-sensitive function and phenotype: evidence that EutH facilitates
+RT  diffusion of uncharged ethanolamine in Salmonella enterica.
+RA  Penrod JT, Mace CC, Roth JR;
+RL  J Bacteriol. 2004;186:6885-6890.
+RN  [5]
+RM  23585538
+RT  Evidence that a metabolic microcompartment contains and recycles
+RT  private cofactor pools.
+RA  Huseby DL, Roth JR;
+RL  J Bacteriol. 2013;195:2864-2879.
+DC  Glycerophospholipid metabolism
+DR  KEGG; map00564;
+CC  Ethanolamine can be broken down to acetaldehyde by the action of
+CC  ethanolamine ammonia lyase, an adenosyl cobalamin (vitamin B12)
+CC  dependent enzyme. In its simplest form this system consists only of the
+CC  two subunits of the enzyme, but ususally also includes a transporter
+CC  for ethanolamine and may include a coexpressed acetaldehyde
+CC  dehydrogenase to ensure that the toxic aldehyde is efficiently
+CC  converted to acetyl-CoA. This property encompasses the more complex
+CC  version of this system which includes additional genes coding for the
+CC  proteinaceous coat of a specialized organelle as well as other genes
+CC  for the efficienct maintenance and regulation of the lyase, handling of
+CC  the product and import of the substrate. Presumably, this organellar
+CC  system in organisms which may rely on ethanolamine as a primary carbon
+CC  source.
+**  How widespread is the polyhedral corboxysome shell protein association
+**  into a ethanolamine degradation organelle?  a gene for the processing
+**  of acetaldehyde to something less toxic should be present as well as
+**  genes for the rescue of dead B12-enzyme
+--
+SN  PtrnsAc
+ID  phosphotransacetylase
+RQ  0
+EV  IPRXXXX; PF01515;
+TG  GO:0046336;
+--
+SN  eut-chp
+ID  conserved hypothetical in ethanolamine operon
+RQ  0
+EV  IPR013372; TIGR02536; sufficient;
+TG  GO:0046336;
+--
+SN  eutA
+ID  reactivating factor for ethanolamine ammonia lyase
+RQ  1
+EV  IPR009377; PF06277; sufficient;
+TG  GO:0046336;
+--
+SN  eutB
+ID  ethanolamine ammonia lyase, large subunit
+RQ  1
+EV  IPR010628; PF06751; sufficient;
+TG  GO:0046336;
+--
+SN  eutC
+ID  ethanolamine ammonia lyase, small subunit
+RQ  1
+EV  IPR009246; PF05985; sufficient;
+TG  GO:0046336;
+--
+SN  eutE
+ID  acetaldehyde dehydrogenase (acetylating)
+RQ  1
+EV  IPR013357; TIGR02518;
+TG  GO:0046336;
+EV  IPRXXXX; PF00171;
+TG  GO:0046336;
+--
+SN  eutG
+ID  alcohol dehydrogenase, ethanolamine operon related
+RQ  1
+EV  IPRXXXX; PF00465;
+TG  GO:0046336;
+--
+SN  eutH
+ID  ethanolamine permease
+RQ  1
+EV  IPR004757; TIGR00908; sufficient;
+TG  GO:0046336;
+EV  IPR007441; PF04346; sufficient;
+TG  GO:0046336;
+--
+SN  eutJ
+ID  ethanolamine utilization protein EutJ
+RQ  0
+EV  IPR013366; TIGR02529; sufficient;
+TG  GO:0046336;
+--
+SN  eutM
+ID  microcompartment coat protein
+RQ  1
+EV  IPRXXXX; PF00936;
+TG  GO:0046336;
+--
+SN  eutN
+ID  carboxysome coat protein homolog
+RQ  1
+EV  IPRXXXX; PF03319;
+TG  GO:0046336;
+--
+SN  eutP
+ID  ethanolamine utilization protein, EutP
+RQ  0
+EV  IPRXXXX; TIGR02528;
+TG  GO:0046336;
+--
+SN  eutPduL
+ID  ethanolamine utilization protein, PduL homolog
+RQ  0
+EV  IPRXXXX; PF06130;
+TG  GO:0046336;
+--
+SN  eutPduT
+ID  carboxysome coat protein homolog
+RQ  0
+EV  IPR013501; TIGR02526; sufficient;
+TG  GO:0046336;
+--
+SN  eutQ
+ID  ethanolamine utilization protein, EutQ
+RQ  0
+EV  IPRXXXX; PF06249;
+TG  GO:0046336;
+--
+SN  eutT
+ID  cob(I)alamin adenosyltransferase
+RQ  0
+EV  IPR016030; PF01923;
+TG  GO:0046336;
+--
+SN  regul
+ID  regulatory components
+RQ  0
+EV  IPRXXXX; PF00007;
+TG  GO:0046336;
+EV  IPRXXXX; PF07568;
+TG  GO:0046336;
+EV  IPRXXXX; PF00072;
+TG  GO:0046336;
+EV  IPRXXXX; PF00165;
+TG  GO:0046336;
+//

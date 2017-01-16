@@ -1,0 +1,36 @@
+AC  GenProp0889
+DE  Mycoplasma terminal organelle
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  The terminal organelle in Mycoplasma is responsible for both
+CC  cytadherence and gliding motility. At least eleven proteins are known
+CC  to be unique to this system. Names for these proteins in M. pneumoniae
+CC  include HMW1, HMW2, HMW3, B, C, P65, and P1.
+**  See MG217, MG218, MG317, MG312, MG_191=P140, MG192=P110, MG200 and
+**  MG386 (shared N-term MG312, MG200 MG386)  Refreshing searches. MG200
+**  and MG386 needed for gliding motility but not for cytadherence.
+--
+SN  MG191
+ID  terminal organelle adhesin P1
+RQ  1
+EV  IPR022400; TIGR03839;
+--
+SN  MG192
+ID  terminal organelle adhesin P110
+RQ  1
+--
+SN  MG317
+ID  terminal organelle protein HMW3
+RQ  0
+--
+SN  MG318
+ID  adhesin P30/P32
+RQ  1
+EV  IPR009896; PF07271;
+--
+SN  TopJ
+ID  terminal organelle assembly protein TopJ
+RQ  1
+EV  IPR022465; TIGR03835;
+//

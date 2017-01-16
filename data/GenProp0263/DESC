@@ -1,0 +1,81 @@
+AC  GenProp0263
+DE  DNA polymerase III, bacterial
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  11432857
+RT  The delta and delta ' subunits of the DNA polymerase III holoenzyme are
+RT  essential for initiation complex formation and processive elongation.
+RA  Song MS, Pham PT, Olson M, Carter JR, Franden MA, Schaaper RM, McHenry
+RA  CS;
+RL  J Biol Chem. 2001;276:35165-35175.
+RN  [2]
+RM  10878011
+RT  The DNA replication machine of a gram-positive organism.
+RA  Bruck I, O'Donnell M;
+RL  J Biol Chem. 2000;275:28971-28983.
+CC  This property represents bacterial DNA polymerase III, a multisubunit
+CC  replicative enzyme. In addition to core subunits, various bacteria may
+CC  have accessory proteins that confer special properties such as greater
+CC  speed and processivity. The single subunit in Gram-positive bacteria
+CC  that carries polymerase and 3'-5' proofreading exonuclease activities
+CC  corresponds to separate alpha (dnaE) and epsilon (dnaQ) subunits in E.
+CC  coli. The polymerase works together with a clamp (beta, dnaN) and a
+CC  clamp-loading complex of delta, delta-prime, and tau. In some species,
+CC  a gamma subunit is related to tau by a translational frameshift from
+CC  the same gene, dnaX. Some known accessory subunits include chi, psi,
+CC  and theta.
+**  The list of in_rule=1 needs to be revised, and Gram-positive families
+**  upgraded. DHH 10/6/2006
+--
+SN  dnaE
+ID  DNA polymerase III, alpha subunit (DnaE)
+RQ  1
+EV  IPR004805; TIGR00594; sufficient;
+--
+SN  dnaN
+ID  DNA polymerase III, beta subunit (dnaN)
+RQ  1
+EV  IPR001001; TIGR00663; sufficient;
+--
+SN  dnaQ
+ID  DNA polymerase III, epsilon subunit (dnaQ)
+RQ  1
+EV  IPR006309; TIGR01406; sufficient;
+--
+SN  dnaX
+ID  DNA polymerase III, gamma and tau subunits (dnaX)
+RQ  1
+EV  IPR012763; TIGR02397; sufficient;
+--
+SN  holA
+ID  DNA polymerase III, delta subunit
+RQ  1
+EV  IPR005790; TIGR01128; sufficient;
+--
+SN  holB
+ID  DNA polymerase III, delta prime subunit
+RQ  1
+EV  IPR004622; TIGR00678; sufficient;
+--
+SN  holC
+ID  DNA polymerase III, chi subunit (holC)
+RQ  1
+EV  IPR007459; PF04364; sufficient;
+--
+SN  holD
+ID  DNA polymerase III, psi subunit (holD)
+RQ  1
+EV  IPR018382; TIGR00664; sufficient;
+--
+SN  holE
+ID  DNA polymerase III, theta subunit (holE)
+RQ  0
+EV  IPR009052; PF06440; sufficient;
+--
+SN  polC
+ID  DNA polymerase III, alpha subunit, PolC-type
+RQ  0
+EV  IPR006308; TIGR01405; sufficient;
+//

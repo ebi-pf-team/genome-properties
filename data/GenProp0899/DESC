@@ -1,0 +1,45 @@
+AC  GenProp0899
+DE  nitrile hydratase
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  15096062
+RT  Fe(III) and Co(III) centers with carboxamido nitrogen and modified
+RT  sulfur coordination: lessons learned from nitrile hydratase.
+RA  Harrop TC, Mascharak PK;
+RL  Acc Chem Res. 2004;37:253-260.
+CC  The enzyme nitrile hydratase (EC 4.2.1.84) catalyzes the
+CC  interconversion of an aliphatic amide to a nitrile plus H20. The enzyme
+CC  is closely related to thiocyanate hydrolase (EC 3.5.5.8). The nitrile
+CC  hydratase alpha subunit contains active site Cys residues that undergo
+CC  covalent modification, after which it binds either Fe(III) or Co(III).
+CC  A CXCC-containing protein related to the cobalamin biosynthesis protein
+CC  CobW is described as a nitrile hydratase activator and is often found
+CC  in the nitrile hydratase operon. However, the protein family described
+CC  by TIGR03889, also commonly annotated as a nitrile hydratase accessory
+CC  protein, is found in a larger fraction of nitrile hydratase operons. 
+**  Because some are Fe(III) and some are Co(III), the accessory protein
+**  would be expected to vary. There are common clustered proteins, but not
+**  universal - possibly may be used to tell Fe from Co.
+--
+SN  nitCXCC
+ID  nitrile hydratase activator, CobW family
+RQ  0
+EV  IPRXXXX; PF02492;
+--
+SN  nit_acc
+ID  nitrile hydratase accessory protein
+RQ  0
+EV  IPR023808; TIGR03889;
+--
+SN  nit_alp
+ID  nitrile hydratase, alpha subunit
+RQ  1
+EV  IPR018141; TIGR01323;
+--
+SN  nit_bet
+ID  nitrile hydratase, beta subunit
+RQ  1
+EV  IPR003168; TIGR03888;
+//

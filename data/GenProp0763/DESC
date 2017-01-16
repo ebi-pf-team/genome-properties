@@ -1,0 +1,78 @@
+AC  GenProp0763
+DE  nicotinate fermentation to pyruvate and propionate
+TP  PATHWAY
+AU  Haft D
+TH  0
+RN  [1]
+RM  16894175
+RT  Molecular and functional analysis of nicotinate catabolism in
+RT  Eubacterium barkeri.
+RA  Alhapel A, Darley DJ, Wagener N, Eckel E, Elsner N, Pierik AJ;
+RL  Proc Natl Acad Sci U S A. 2006;103:12341-12346.
+CC  This property represents one of a number of distinct catabolic pathways
+CC  for nicotinate (niacin, vitamin B3), a nine-enzyme anaerobic
+CC  fermentation to pyruvate and propionate as in the anaerobic soil
+CC  bacterium Eubacterium barkeri. The nicotinate dehydrogenase in E.
+CC  barkeri is a four-subunit enzyme with a non-selenocysteine selenium
+CC  that belongs to a family of selenium-dependent molybdenum hydroxylases.
+**  I have zero models for the nine EC numbers. This will be a BrainGrab
+**  pathway, and model for projecting from high-confidence BrainGrab to
+**  secondary annotations. Deciding here, against doing the four-subunit
+**  first enzyme, nicotinate dehydrogenase, as a separate property.
+--
+SN  n1_ndhF
+ID  nicotinate dehydrogenase, FAD subunit
+RQ  1
+EV  IPRXXXX; 2080;
+TG  GO:0046497;
+--
+SN  n1_ndhL
+ID  nicotinate dehydrogenase, NdhL subunit
+RQ  1
+--
+SN  n1_ndhM
+ID  nicotinate dehydrogenase, NdhM subunit
+RQ  1
+--
+SN  n1_ndhS
+ID  nicotinate dehydrogenase, 2x[2Fe-2S] subunit
+RQ  1
+EV  IPRXXXX; 2081;
+TG  GO:0046497;
+--
+SN  nic_2
+ID  6-hydroxynicotinate reductase (1.3.7.1)
+RQ  1
+--
+SN  nic_3
+ID  enamidase (3.5.2.18)
+RQ  1
+EV  IPRXXXX; 2082;
+TG  GO:0046497;
+--
+SN  nic_4
+ID  2-hydroxymethylglutarate dehydrogenase (1.1.1.291)
+RQ  1
+--
+SN  nic_5
+ID  2-hydroxymethylglutarate dehydratase
+RQ  1
+--
+SN  nic_6
+ID  2-methyleneglutarate mutase (5.4.99.4)
+RQ  1
+EV  IPRXXXX; 2079;
+TG  GO:0046497;
+--
+SN  nic_7
+ID  methylitaconate Delta-isomerase (5.3.3.6)
+RQ  1
+--
+SN  nic_8
+ID  dimethylmaleate hydratase (4.2.1.85)
+RQ  1
+--
+SN  nic_9
+ID  2,3-dimethylmalate lyase (4.1.3.32)
+RQ  1
+//

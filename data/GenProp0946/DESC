@@ -1,0 +1,32 @@
+AC  GenProp0946
+DE  GDP-L-colitose biosynthesis
+TP  METAPATH
+AU  Haft D
+TH  0
+RN  [1]
+RM  15610039
+RT  Biosynthesis of colitose: expression, purification, and mechanistic
+RT  characterization of GDP-4-keto-6-deoxy-D-mannose-3-dehydrase (ColD) and
+RT  GDP-L-colitose synthase (ColC).
+RA  Alam J, Beyer N, Liu HW;
+RL  Biochemistry. 2004;43:16450-16460.
+CC  GDP-L-colitose, a 3,6-dideoxy hexose sugar is formed from
+CC  GDP-4-ket-6-deoxymannose in a two-step reaction carried out by the ColC
+CC  and ColD gene products.  Colitose is a component of the O111 and O55 E.
+CC  coli O-antigens.
+--
+SN  ColC
+ID  GDP-L-colitose synthase
+RQ  1
+EV  IPRXXXX; 2745;
+--
+SN  ColD
+ID  GDP-4-keto-6-deoxy-D-mannose-3-dehydratase
+RQ  1
+EV  IPRXXXX; 2744;
+--
+SN  GDP-KDM
+ID  source of GDP-4-keto-6-deoxymannose
+RQ  1
+EV  GenProp0930;
+//

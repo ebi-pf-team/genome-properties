@@ -1,0 +1,18 @@
+AC  GenProp0181
+DE  count of TRAP transporter clusters
+TP  SUMMARY
+AU  Haft D
+TH  0
+RN  [1]
+RM  11524131
+RT  The tripartite ATP-independent periplasmic (TRAP) transporters of
+RT  bacteria and archaea.
+RA  Kelly DJ, Thomas GH;
+RL  FEMS Microbiol Rev. 2001;25:405-424.
+CC  TRAP-T family transporters consists of three components, a
+CC  four-transmembrane helix protein, a twelve-transmembrane helix protein
+CC  and an extracytoplasmic solute receptor.  These are often found in gene
+CC  clusters and the number of independent systems present in the genome
+CC  may be estimated by counting the number of clusters consisting of each
+CC  of the three components.
+//

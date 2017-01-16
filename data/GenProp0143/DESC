@@ -1,0 +1,39 @@
+AC  GenProp0143
+DE  Leloir pathway (galactose/glucose interconversion)
+TP  PATHWAY
+AU  Haft D
+TH  0
+DC  Galactose metabolism
+DR  KEGG; map00052;
+CC  The Leloir pathway can interconvert galactose and glucose, often for
+CC  galactose degradation. It tends to be found in the Firmicutes. It
+CC  includes galactokinase, galactose-1-P uridylyltransferase, and
+CC  UDP-galactose 4-epimerase.
+**  (was in groups table first).  This property has just (July 2005) been
+**  revised by adding the mutarotase (Pfam subfamily version), with
+**  TIGRFAMs version on the way, I hope. DHH.
+--
+SN  GalE
+ID  UDP-glucose 4-epimerase
+DN  UDP-glucose 4-epimerase
+RQ  1
+EV  IPR005886; TIGR01179; sufficient;
+--
+SN  g1P_uri
+ID  galactose-1-phosphate uridylyltransferase
+DN  galactose-1-phosphate uridylyltransferase
+RQ  1
+EV  IPR001937; TIGR00209; sufficient;
+EV  IPR000766; TIGR01239; sufficient;
+--
+SN  gal_kin
+ID  galactokinase
+DN  galactokinase
+RQ  1
+EV  IPR000705; TIGR00131; sufficient;
+--
+SN  mutarot
+ID  aldose 1-epimerase (mutarotase)
+RQ  1
+EV  IPR013458; TIGR02636; sufficient;
+//

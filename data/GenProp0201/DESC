@@ -1,0 +1,55 @@
+AC  GenProp0201
+DE  SMC-ScpA-ScpB complex
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  12100548
+RT  Discovery of two novel families of proteins that are proposed to
+RT  interact with prokaryotic SMC proteins, and characterization of the
+RT  Bacillus subtilis family members ScpA and ScpB.
+RA  Soppa J, Kobayashi K, Noirot-Gros MF, Oesterhelt D, Ehrlich SD, Dervyn
+RA  E, Ogasawara N, Moriya S;
+RL  Mol Microbiol. 2002;45:59-71.
+RN  [2]
+RM  15009890
+RT  The bacterial condensin/cohesin-like protein complex acts in DNA repair
+RT  and regulation of gene expression.
+RA  Dervyn E, Noirot-Gros MF, Mervelet P, McGovern S, Ehrlich SD, Polard P,
+RA  Noirot P;
+RL  Mol Microbiol. 2004;51:1629-1640.
+CC  scpA and scpB (segregation and condensation) are proposed [1,2] to act
+CC  with SMC (structural maintenance of chromosome). SMC is not universal,
+CC  but is found in Eukaryotes, Archaea, and Bacteria. It is homodimeric in
+CC  Archaea and Bacteria. A mutation study [2] has shown a role for scpA in
+CC  DNA repair in addition to its role in chromosome condensation and
+CC  segregation. Proteins that act with SMC may be termed kleisins;
+CC  Different SMC/kleisin complexes are termed cohesins and condensins. 
+CC  ScpA and ScpB are clustered in most bacteria.  SMC and scpA tend to be
+CC  clustered in the archaea.
+**   ScpA and ScpB are clustered in most bacteria.  SMC and scpA tend to be
+**  clustered in the archaea. 
+--
+SN  SMC
+ID  smc protein
+DN  chromosome segregation protein SMC
+RQ  1
+EV  IPR011890; TIGR02168; sufficient;
+TG  GO:0030261;
+EV  IPR011890; TIGR02169; sufficient;
+TG  GO:0030261;
+--
+SN  scpA
+ID  ScpA protein
+DN  segregation and condensation protein A
+RQ  1
+EV  IPR003768; PF02616; sufficient;
+TG  GO:0030261;
+--
+SN  scpB
+ID  ScpB protein
+DN  segregation and condensation protein B
+RQ  1
+EV  IPR005234; TIGR00281; sufficient;
+TG  GO:0030261;
+//

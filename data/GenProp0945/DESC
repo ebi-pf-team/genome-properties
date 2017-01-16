@@ -1,0 +1,39 @@
+AC  GenProp0945
+DE  radical SAM maturase bacteriocin system, CLI_3235 type
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  21478363
+RT  Biological systems discovery in silico: radical S-adenosylmethionine
+RT  protein families and their target peptides for posttranslational
+RT  modification.
+RA  Haft DH, Basu MK;
+RL  J Bacteriol. 2011;193:2745-2755.
+CC  This Genome Property represents mostly Clostridial bacteriocin
+CC  precursors adjacent to a radical SAM protein family and, often, to an
+CC  additional uncharacterized family. The bacteriocin precursors in this
+CC  system, can be different enough in sequence that construction of
+CC  separate models to represent different subsets appears necessary.
+--
+SN  ocinACP
+ID  peptide maturation system acyl carrier-related protein
+RQ  0
+EV  IPR023972; TIGR04069;
+--
+SN  ocin_oc
+ID  bacteriocin precursor, CLI_3235-class
+RQ  1
+EV  IPR023968; TIGR04065;
+EV  IPR023964; TIGR04067;
+--
+SN  ocin_rS
+ID  radical SAM bacterocin maturase, CLI_3235 system
+RQ  1
+EV  IPR024001; TIGR04068;
+--
+SN  ocin_xx
+ID  CLI_3235-class bacteriocin system protein
+RQ  0
+EV  IPR023823; TIGR04066;
+//

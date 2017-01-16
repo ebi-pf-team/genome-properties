@@ -1,0 +1,59 @@
+AC  GenProp0198
+DE  ruvABC Holliday junction complex
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  12423347
+RT  The RuvABC resolvasome.
+RA  Dickman MJ, Ingleston SM, Sedelnikova SE, Rafferty JB, Lloyd RG, Grasby
+RA  JA, Hornby DP;
+RL  Eur J Biochem. 2002;269:5492-5501.
+RN  [2]
+RM  12382111
+RT  Holliday junction-resolving enzymes from eight hyperthermophilic
+RT  archaea differ in reactions with cruciform DNA.
+RA  Neef K, Birkenbihl RP, Kemper B;
+RL  Extremophiles. 2002;6:359-367.
+RN  [3]
+RM  11251805
+RT  The X philes: structure-specific endonucleases that resolve Holliday
+RT  junctions.
+RA  Sharples GJ;
+RL  Mol Microbiol. 2001;39:823-834.
+CC  RuvA, RuvB and RuvC proteins together act on Holliday junctions for
+CC  homologous recombination and DNA repair. RuvAB is the branch migration
+CC  complex and RuvC the resolvase. The system is strictly bacterial;
+CC  proteins with little or no detectable sequence similarity process
+CC  Holliday junctions in Archaea, eukaryotes, and some phage. A variety of
+CC  Holliday junction-cleaving (Hjc) enzymes have been found in the Archaea
+CC  (PMID:12382111). Holliday junction resolvases, including RuvC, Hjc and
+CC  Hje, CCE1 (yeast) and A22R (poxviruses) are reviewed by Sharples
+CC  (PMID:11251805). RuvC is replaced by RecU in firmicutes and mollicutes.
+**  RusA in Aquifex aeolicus (and many phage) instead of RuvC says
+**  PMID:11972790.  See Koonin PMID:10982859 2000  to see how his RuvC
+**  alternative compares to my RuvC alternative.
+--
+SN  ruvA
+ID  RuvA subunit, Holliday junction DNA helicase
+DN  Holliday junction DNA helicase RuvA
+RQ  1
+EV  IPR000085; TIGR00084; sufficient;
+TG  GO:0006310;
+--
+SN  ruvB
+ID  RuvB subunit, Holliday junction DNA helicase
+DN  Holliday junction DNA helicase RuvB
+RQ  1
+EV  IPR004605; TIGR00635; sufficient;
+TG  GO:0006310;
+--
+SN  ruvC
+ID  RuvC (or RecU) resolvase
+DN  crossover junction endodeoxyribonuclease RuvC
+RQ  1
+EV  IPR002176; TIGR00228; sufficient;
+TG  GO:0006310;
+EV  IPR004612; TIGR00648; sufficient;
+TG  GO:0006310;
+//

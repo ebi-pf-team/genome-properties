@@ -1,0 +1,134 @@
+AC  GenProp0800
+DE  bacterial core gene set, 1 or more per genome
+TP  GUILD
+AU  Haft D
+TH  0
+RN  [1]
+RM  11574053
+RT  Two C or not two C: recurrent disruption of Zn-ribbons, gene
+RT  duplication, lineage-specific gene loss, and horizontal gene transfer
+RT  in evolution of bacterial ribosomal proteins.
+RA  Makarova KS, Ponomarev VA, Koonin EV;
+RL  Genome Biol. 2001;2:research 0033.
+CC  This set of genes includes those which are found in every bacterial
+CC  genome but may be present in multiple copies generally or in greater
+CC  than 5% of genomes.  An evaluation of 311 publicly available bacterial
+CC  genomes found greater than 95% having at least one copy of each of
+CC  these genes. 
+--
+SN  GroES
+ID  chaperonin GroS
+RQ  1
+EV  IPR020818; PF00166;
+--
+SN  atpA
+ID  ATP synthase F1, alpha subunit
+RQ  1
+EV  IPR005294; TIGR00962;
+--
+SN  dnaB
+ID  replicative DNA helicase
+RQ  1
+EV  IPR007692; TIGR00665;
+--
+SN  dnaE
+ID  DNA polymerase III, alpha subunit
+RQ  1
+EV  IPR004805; TIGR00594;
+--
+SN  efp
+ID  translation elongation factor P
+RQ  1
+EV  IPR011768; TIGR00038;
+--
+SN  eno
+ID  phosphopyruvate hydratase, enolase
+RQ  1
+EV  IPR000941; TIGR01060;
+--
+SN  fusA
+ID  translation elongation factor G
+RQ  1
+EV  IPR004540; TIGR00484;
+--
+SN  gltX
+ID  glutamyl-tRNA synthetase
+RQ  1
+EV  IPR004527; TIGR00464;
+--
+SN  glyA
+ID  serine hydroxymethyltransferase
+RQ  1
+EV  IPR001085; PF00464;
+--
+SN  groEL
+ID  Class I heat shock protein (TCP-1/cpn60 chaperonin family)
+RQ  1
+EV  IPR002423; PF00118;
+--
+SN  hflB
+ID  ATP-dependent metallopeptidase HflB
+RQ  1
+EV  IPR005936; TIGR01241;
+--
+SN  infA
+ID  translation initiation factor IF-1
+RQ  1
+EV  IPR004368; TIGR00008;
+--
+SN  lysS
+ID  lysyl-tRNA synthetase
+RQ  1
+EV  IPR002904; TIGR00467;
+EV  IPR002313; TIGR00499;
+--
+SN  metK
+ID  methionine adenosyltransferase
+RQ  1
+EV  IPR002133; TIGR01034;
+--
+SN  prsA
+ID  ribose-phosphate diphosphokinase
+RQ  1
+EV  IPR005946; TIGR01251;
+--
+SN  rpmE
+ID  ribosomal protein L31
+RQ  1
+EV  IPR002150; TIGR00105;
+--
+SN  rpmG
+ID  ribosomal protein L33
+RQ  1
+EV  IPR001705; TIGR01023;
+--
+SN  rpsN
+ID  ribosomal protein S14
+RQ  1
+EV  IPR001209; PF00253;
+--
+SN  ssb
+ID  single-strand binding protein
+RQ  1
+EV  IPR011344; TIGR00621;
+--
+SN  trpS
+ID  tryptophanyl-tRNA synthetase
+RQ  1
+EV  IPR002306; TIGR00233;
+--
+SN  trxA
+ID  thioredoxin
+RQ  1
+EV  IPR005746; TIGR01068;
+--
+SN  tufA
+ID  translation elongation factor Tu
+RQ  1
+EV  IPR004541; TIGR00485;
+--
+SN  yidC
+ID  membrane protein insertase, YidC/Oxa1 family
+RQ  1
+EV  IPR028055; TIGR03592;
+//

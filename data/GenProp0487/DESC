@@ -1,0 +1,52 @@
+AC  GenProp0487
+DE  repABC-type alpha-proteobacterial replicon(s)
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  15659174
+RT  The expression of a novel antisense gene mediates incompatibility
+RT  within the large repABC family of alpha-proteobacterial plasmids.
+RA  MacLellan SR, Smallbone LA, Sibley CD, Finan TM;
+RL  Mol Microbiol. 2005;55:611-623.
+CC  Plasmids and second chromosomes in the alpha-proteobacteria, that is,
+CC  replicons other than main chromosome, often are maintained by repABC
+CC  systems (an example of an alternative system is replicator region type
+CC  A).  RepA and RepB are partitioning proteins, while RepC is a
+CC  replication protein. In species with multiple plasmids, different
+CC  classes of repABC system work in parallel; it appears that the
+CC  incompatability system that separates the different RepABC subtypes is
+CC  mediated by an untranslated RNA gene, incA, encoded between repB and
+CC  repC and transcribed in the antisense direction (see PMID: 15659174).
+CC  IncA is not modelled as part of this Genome Property. Note that
+CC  homologs to RepA and RepB occur as gene pairs in smaller replicons
+CC  outside the alpha-proteobacteria, such as on the smaller chromosome of
+CC  Vibrio cholerae (a gamma-proteobacterium). These more distantly related
+CC  systems, however, fall outside the definition of repABC systems as
+CC  adapted here from literature.
+**  NOTE: accidentally removed Vibrio wings of the model, despite starting
+**  from gvc by PPP, but that is OK, definintion here fits only
+**  alpha-Proteos. Related properties probably needed for related systems. 
+**  This property USED TO BE TIGR00180 as generalized RepB, and PF01656 by
+**  HMM-CLUST as a way to tease out the RepA, and existed to try to make a
+**  RepA model. This strategy has been abandoned, in favor of a partial
+**  phylogenetic profiling approach, from gvc and gbr for genomes with
+**  multiple replicons. This gives a much narrower RepA clade, so the
+**  pairing TIGR00180/PF01656 is becoming an unused thing, maybe to need a
+**  new property.
+--
+SN  repA
+ID  repA plasmid partitioning protein
+RQ  1
+EV  IPR017818; TIGR03453;
+--
+SN  repB
+ID  repB plasmid partitioning protein
+RQ  1
+EV  IPR017819; TIGR03454; sufficient;
+--
+SN  repC
+ID  repC replication initiator protein
+RQ  1
+EV  IPR005090; PF03428; sufficient;
+//

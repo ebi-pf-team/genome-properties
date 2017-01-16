@@ -1,0 +1,69 @@
+AC  GenProp0312
+DE  pyrrolysine
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  15314242
+RT  An aminoacyl-tRNA synthetase that specifically activates pyrrolysine.
+RA  Polycarpo C, Ambrogelly A, Bérubé A, Winbush SM, McCloskey JA, Crain
+RA  PF, Wood JL, Söll D;
+RL  Proc Natl Acad Sci U S A. 2004;101:12450-12454.
+RN  [2]
+RM  17204561
+RT  A natural genetic code expansion cassette enables transmissible
+RT  biosynthesis and genetic encoding of pyrrolysine.
+RA  Longstaff DG, Larue RC, Faust JE, Mahapatra A, Zhang L, Green-Church
+RA  KB, Krzycki JA;
+RL  Proc Natl Acad Sci U S A. 2007;104:1021-1026.
+CC  In methanogens, methylamine methyltransferases have an in-frame TAG
+CC  codon that is translated with a lysine amide-linked to
+CC  (4R,5R)-4-substituted-pyrroline-5-carboxylate. This residue is called
+CC  pyrrolysine, and is considered the 22nd amino acid, where
+CC  selenocysteine is the 21st. Pyrrrolysine occurs also in
+CC  Desulfitobacterium hafniense and related species; proteins in which
+CC  pyrrolysine occurs are not necessarily homologous to each other. A
+CC  three-gene cassette, pylBCD, produces the pyrrolysine prior to its
+CC  attachment to its cognate tRNA.
+**  >PylT pyrrolyinse tRNA
+**  GGGAACCTGATCATGTAGATCGAATGGACTCTAAATCCGTTTAGCCGGGTTAGATTCCCG
+**  GGGTTTCCGCCA So far, restricted among complete genomes to two species
+**  Methanosarcina. DHH.  Three different non-homologous enzymes all with
+**  PyL take methyl group from trimethyl (see PF06253), dimethyl, and
+**  monomethylamine (PF05369) (sequentially) in Methanosarcina.
+--
+SN  example
+ID   
+RQ  1
+--
+SN  pylB
+ID  pyrrolysine biosynthesis radical SAM protein
+RQ  1
+EV  IPR023891; TIGR03910;
+--
+SN  pylC
+ID  pyrrolysine biosynthesis protein PylC
+RQ  1
+EV  IPR023890; TIGR03909;
+--
+SN  pylD
+ID  pyrrolysine biosynthesis protein PylD
+RQ  1
+EV  IPR023914; TIGR03911;
+--
+SN  pylSc
+ID  pyrrolysyl-tRNA synthetase, C-terminal region
+DN  pyrrolysyl-tRNA synthetase (EC 6.1.1.26)
+RQ  1
+EV  IPR023877; TIGR02367; sufficient;
+--
+SN  pylSn
+ID  pyrrolysyl-tRNA synthetase, N-terminal region
+RQ  1
+EV  IPR023878; TIGR03912;
+--
+SN  pylT
+ID  pyrrolysine tRNA
+DN  pyrrolysine tRNA
+RQ  1
+//

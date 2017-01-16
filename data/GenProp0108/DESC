@@ -1,0 +1,9 @@
+AC  GenProp0108
+DE  amino acid abundance (order)
+TP  SUMMARY
+AU  Haft D
+TH  0
+CC  This property expresses amino acid abundance as a compressed string of
+CC  the 20 single-letter amino acid codes.  The most abundant amino acid
+CC  comes first followed by the rest in decreasing order.
+//

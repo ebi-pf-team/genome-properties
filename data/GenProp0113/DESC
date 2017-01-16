@@ -1,0 +1,175 @@
+AC  GenProp0113
+DE  cobyrinic acid diamide biosynthesis, aerobic pathway
+TP  PATHWAY
+AU  Haft D
+TH  10
+RN  [1]
+RM  12869542
+RT  Comparative genomics of the vitamin B12 metabolism and regulation in
+RT  prokaryotes.
+RA  Rodionov DA, Vitreschak AG, Mironov AA, Gelfand MS;
+RL  J Biol Chem. 2003;278:41148-41159.
+DC  Corrin Biosynthesis (part 1)
+DR  IUBMB; tetrapyr; corrin1;
+DC  Corrin and Siroheme Biosynthesis (part 2)
+DR  IUBMB; tetrapyr; corrin2;
+DC  Corrin Biosynthesis (part 3)
+DR  IUBMB; tetrapyr; corrin3;
+DC  Corrin Biosynthesis (anaerobic)
+DR  IUBMB; tetrapyr; corrinA;
+DC  Corrin Biosynthesis (part 4)
+DR  IUBMB; tetrapyr; corrin4;
+DC  Corrin Biosynthesis (part 5)
+DR  IUBMB; tetrapyr; corrin5;
+DC  Corrin Biosynthesis (part 6)
+DR  IUBMB; tetrapyr; corrin6;
+DC  Corrin Biosynthesis (part 7)
+DR  IUBMB; tetrapyr; corrin7;
+DC  Corrin Biosynthesis (part 8)
+DR  IUBMB; tetrapyr; corrin8;
+CC  Coenzyme B12 (5-Deoxyadenosyl cobalamin) is biosynthesized in
+CC  prokaryotes via a complex pathway from uroporphyrinogen III (an
+CC  intermediate in the biosynthesis of heme) and S-adenosylmethionine,
+CC  glutamine, cobalt, glycine, acetyl-CoA, beta-nicotinate mononucleotide
+CC  and dimethylbenzimidazole. This property is the first section, from
+CC  uroporphyrinogen III to just after colbalt insertion. This version of
+CC  the pathway includes an oxygen-requiring enzyme (CobG) and differs from
+CC  the anaerobic pathway in which the cobalt is inserted early in the
+CC  process by an ATP-independent chelatase (CbiK or CbiX). The other
+CC  distinctive feature of the aerobic pathway is the C-1 methylase (CobF)
+CC  which is replaced by the non-homologous CbiD in the anaerobic process. 
+CC    The cobalt(II) reductase (BluB) which constitutes the final step of
+CC  this property is also distinctive for the aerobic path, although the
+CC  anaerobic enzyme(s) have not been well studied.    The
+CC  well-characterized trimeric ATP-dependent cobaltochelatase (CobNST) is
+CC  completely detected only in a narrow range of prokaryotes. In a number
+CC  of other species which appear to otherwise utilize the aerobic pathway,
+CC  CobST is apparently replaced with another subunit repated to magnesium
+CC  chelatases which we tentatively refer to here as CobX. For this reason,
+CC  only the CobN subunit is relied upon here for the assertion of the YES
+CC  state.    Many species exhibit ony one or two of the components
+CC  distinctive of the aerobic pathway (and are either aerobes,
+CC  microaerophiles or facultative anaerobes), possibly indicating
+CC  non-homologous families as-of-yet uncharacterized.
+--
+SN  1
+ID  C-2, C-7 methylase (CobA)
+DN  uroporphyrin-III C-methyltransferase (EC:2.1.1.107)
+RQ  1
+EV  IPR006366; TIGR01469; sufficient;
+TG  GO:0019250;
+--
+SN  10
+ID  hydrogencobyrinate diamide synthase (CobB)
+DN  cobyrinic acid a,c-diamide synthase (EC:6.3.1.-)
+RQ  1
+EV  IPR004484; TIGR00379; sufficient;
+TG  GO:0019250;
+--
+SN  11a
+ID  cobaltochelatase, CobN subunit
+DN  cobaltochelatase CobN (EC:6.6.1.2)
+RQ  1
+EV  IPR011953; TIGR02257; sufficient;
+TG  GO:0019250;
+--
+SN  11b
+ID  cobaltochelatase, CobS subunit
+DN  cobaltochelatase CobT (EC:6.6.1.2)
+RQ  0
+EV  IPR006538; TIGR01651; sufficient;
+TG  GO:0019250;
+--
+SN  11bc?
+ID  proposed CobX subunit of cobaltochelatase
+DN  cobaltochelatase subunit (EC: 6.6.1.2)
+RQ  0
+EV  IPR012804; TIGR02442; sufficient;
+TG  GO:0019250;
+--
+SN  11c
+ID  cobaltochelatase, CobT subunit
+DN  cobaltochelatase CobS (EC:6.6.1.2)
+RQ  0
+EV  IPR006537; TIGR01650; sufficient;
+TG  GO:0019250;
+--
+SN  12
+ID  CobW cobaltochelatase-associated protein
+DN  cobalamin biosynthesis protein CobW
+RQ  0
+EV  IPR012824; TIGR02475; sufficient;
+TG  GO:0019250;
+--
+SN  13
+ID  cobalt reductase (NOT BluB)
+DN  cob(II)yrinic acid a,c-diamide reductase (EC:1.16.8.1)
+RQ  1
+--
+SN  2
+ID  C-20 methylase (CobI)
+DN  precorrin-2 C20-methyltransferase (EC:2.1.1.130)
+RQ  1
+EV  IPR006364; TIGR01467; sufficient;
+TG  GO:0019250;
+--
+SN  3
+ID  precorrin 3B synthase (CobG/CobZ)
+DN  precorrin-3B synthase (EC:1.14.13.83)
+RQ  1
+EV  IPR012798; TIGR02435; sufficient;
+TG  GO:0019250;
+EV  IPR012831; TIGR02485; sufficient;
+TG  GO:0019250;
+--
+SN  4
+ID  C-17 methylase (CobJ)
+DN  precorrin-3B C17-methyltransferase (EC:2.1.1.131)
+RQ  1
+EV  IPR006363; TIGR01466; sufficient;
+TG  GO:0019250;
+--
+SN  5
+ID  C-11 methylase (CobM)
+DN  precorrin-4 C11-methyltransferase (EC:2.1.1.133)
+RQ  1
+EV  IPR006362; TIGR01465; sufficient;
+TG  GO:0019250;
+--
+SN  6
+ID  C1 methylase (CobF)
+DN  precorrin-6A synthase (deacetylating) (EC:2.1.1.152)
+RQ  1
+EV  IPR012797; TIGR02434; sufficient;
+TG  GO:0019250;
+--
+SN  7
+ID  precorrin 6 reductase (CobK)
+DN  precorrin-6X reductase (EC:1.3.1.54)
+RQ  1
+EV  IPR003723; TIGR00715; sufficient;
+TG  GO:0019250;
+EV  IPR003723; PF02571; sufficient;
+TG  GO:0019250;
+--
+SN  8a
+ID  CbiE domain, C-5, C-15 methylase/C-12 decarboxylase (CobL)
+DN  precorrin-6Y C5,15-methyltransferase (decarboxylating), CbiE subunit (EC:2.1.1.132)
+RQ  1
+EV  IPR012818; TIGR02467; sufficient;
+TG  GO:0019250;
+--
+SN  8b
+ID  CbiT domain, C-5, C-15 methylase/C-12 decarboxylase (CobL)
+DN  precorrin-6Y C5,15-methyltransferase (decarboxylating), CbiT subunit (EC:2.1.1.132)
+RQ  1
+EV  IPR014008; TIGR02469; sufficient;
+TG  GO:0019250;
+--
+SN  9
+ID  C-11, C-12 mutase (CobH)
+DN  precorrin-8X methylmutase (EC: 5.4.1.2)
+RQ  1
+EV  IPR003722; PF02570; sufficient;
+TG  GO:0019250;
+//

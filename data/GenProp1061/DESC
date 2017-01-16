@@ -1,0 +1,41 @@
+AC  GenProp1061
+DE  CRISPR system, PreFran subtype
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  CRISPR repeats are by definition Clustered Regularly Interspaced Short
+CC  Palindromic Repeats. The repeats vary in size from 24 to 48 bp,
+CC  interspaced by similarly sized non-repetitive sequences. These spacers
+CC  often are derived from phage and other exogenous DNA, are transcribed
+CC  into RNA, and confer resistance to those same phage. Several
+CC  CRISPR-associated sequences (cas genes) are nearly as widespread as
+CC  CRISPR itself and nearly always are found near repeat loci. Others
+CC  represent minor cas genes that serve as markers for specific subtypes
+CC  of CRISPR/cas system, each with characteristic cas gene makeup, repeat
+CC  structure, and spacer length. The PreFran subtype is found in multiple
+CC  reference genomes of Prevotella and Francisella, and found also in
+CC  several additional species. It has a single long protein, Cpf1 (Cas
+CC  protein 1 of PreFran subtype), in addition to Cas4, Cas1, and Cas2. The
+CC  typical repeat has length 36.
+**  specialty Cas4 and Cas1, generic Cas2, a novel gene.
+--
+SN  Cas1
+ID  Cas1, PreFran subtype
+RQ  1
+EV  IPR027617; TIGR04329;
+--
+SN  Cas2
+ID  Cas2
+RQ  1
+EV  IPR021127; TIGR01573;
+--
+SN  Cas4
+ID  Cas4, PreFran subtype
+RQ  1
+EV  IPR027616; TIGR04328;
+--
+SN  Cpf1
+ID  CRISPR-associated protein Cpf1
+RQ  1
+EV  IPR027620; TIGR04330;
+//

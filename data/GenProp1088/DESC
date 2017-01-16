@@ -1,0 +1,58 @@
+AC  GenProp1088
+DE  thiosulfate oxidation to sulfate
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  21833341
+RT  Mechanisms and evolution of oxidative sulfur metabolism in green sulfur
+RT  bacteria.
+RA  Gregersen LH, Bryant DA, Frigaard NU;
+RL  Front Microbiol. 2011;2:116.
+RN  [2]
+RM  16995898
+RT  Thiosulphate oxidation in the phototrophic sulphur bacterium
+RT  Allochromatium vinosum.
+RA  Hensen D, Sperling D, Trüper HG, Brune DC, Dahl C;
+RL  Mol Microbiol. 2006;62:794-810.
+RN  [3]
+RM  19535341
+RT  Mechanism for the hydrolysis of a sulfur-sulfur bond based on the
+RT  crystal structure of the thiosulfohydrolase SoxB.
+RA  Sauvé V, Roversi P, Leath KJ, Garman EF, Antrobus R, Lea SM, Berks BC;
+RL  J Biol Chem. 2009;284:21707-21718.
+CC  The sulfate ion consists of one sulfur (S) and four bound oxygen (O).
+CC  In thiosulfate, one O is replace by S. This property describes the
+CC  oxidation of thiosulfate to sulfate. In most species, sulfur oxidation
+CC  begins further upstream, with sulfide or elemental sulfur. Molecular
+CC  markers of those processes are not included here. Key proteins in
+CC  thiosulfate oxidation to sulfate include SoxA, SoxB, SoxX, SoxY, and
+CC  SoxZ. SoxYZ is a heterodimer. SoxXA is a heterodimeric c-type
+CC  cytochrome. SoxB is monomeric.
+**  TIGR04488 is specific SoxY when PF13501 is not.
+--
+SN  SoxA
+ID  sulfur oxidation c-type cytochrome SoxA
+RQ  1
+EV  IPR025710; TIGR04484;
+--
+SN  SoxB
+ID  sulfur oxidation protein SoxB
+RQ  1
+EV  IPR030998; TIGR04486;
+--
+SN  SoxX
+ID  sulfur oxidation c-type cytochrome SoxX
+RQ  1
+EV  IPR030999; TIGR04485;
+--
+SN  SoxY
+ID  sulfur oxidation protein SoxY
+RQ  1
+EV  IPR016568; TIGR04488;
+--
+SN  SoxZ
+ID  sulfur oxidation protein SoxZ
+RQ  1
+EV  IPR030995; TIGR04490;
+//

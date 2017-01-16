@@ -1,0 +1,29 @@
+AC  GenProp0870
+DE  decarboxylation/antiport proton-motive cycle: lysine-cadaverine
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  16877381
+RT  Identification of the cadaverine recognition site on the
+RT  cadaverine-lysine antiporter CadB.
+RA  Soksawatmaekhin W, Uemura T, Fukiwake N, Kashiwagi K, Igarashi K;
+RL  J Biol Chem. 2006;281:29213-29220.
+CC  The decarboxylation of lysine to cadaverine consumes a proton. Exchange
+CC  of lysine for cadaverine by an antiporter completes a cycle that
+CC  effectively removes a cytosolic proton. Decarboxylation/antiporter
+CC  systems for this and other (e.g. aspartate-alanine) substrate pairs can
+CC  provide protection against acidic pH.
+--
+SN  CadA
+ID  lysine decarboxylase
+RQ  1
+EV  IPRXXXX; 2645;
+TG  GO:0010248;
+--
+SN  CadB
+ID  cadaverine-lysine antiporter
+RQ  1
+EV  IPRXXXX; 2644;
+TG  GO:0010248;
+//

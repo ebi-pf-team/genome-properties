@@ -1,0 +1,37 @@
+AC  GenProp0304
+DE  cysteine biosynthesis, tRNA-dependent
+TP  PATHWAY
+AU  Haft D
+TH  0
+RN  [1]
+RM  15790858
+RT  RNA-dependent cysteine biosynthesis in archaea.
+RA  Sauerwald A, Zhu W, Major TA, Roy H, Palioura S, Jahn D, Whitman WB,
+RA  Yates JR, Ibba M, Söll D;
+RL  Science. 2005;307:1969-1972.
+CC  Methanocaldococcus jannaschii is a model archaeal species that lacks a
+CC  direct cys--tRNA ligase. In a system analogous to pyrrolysine and (in
+CC  many species) asparagine tRNA aminoacylation, the tRNA is misacylated
+CC  and then the attached amino acid is modified. This two-step pathway is
+CC  conducted by proteins in the families of MJ1660 (sepS) and MJ1678
+CC  (pscS). This pathway assumes 0-phosphoserine, whose biosynthesis is 
+CC  proposed to require D-3-phosphoglycerate dehydrogenase (TIGR01327) and
+CC  an unidentified aminotransferase.
+**  Consider adding to this property TIGR01327, as in MJ1018,
+**  D-3-phosphoglycerate dehydrogenase, in route to phosphoserine
+**  biosynthesis along with an unknown aminotransferase.
+--
+SN  pscS
+ID  Sep-tRNA:Cys-tRNA synthase
+DN  Sep-tRNA:Cys-tRNA synthase
+RQ  1
+EV  IPR013375; TIGR02539; sufficient;
+TG  GO:0019344;
+--
+SN  sepS
+ID  O-phosphoseryl-tRNA synthetase
+DN  O-phosphoseryl-tRNA(Cys) synthetase
+RQ  1
+EV  IPR005246; TIGR00470; sufficient;
+TG  GO:0019344;
+//

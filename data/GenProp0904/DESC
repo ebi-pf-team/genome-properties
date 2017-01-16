@@ -1,0 +1,67 @@
+AC  GenProp0904
+DE  type VII secretion, Actinobacteria form
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  19876390
+RT  Systematic genetic nomenclature for type VII secretion systems.
+RA  Bitter W, Houben EN, Bottai D, Brodin P, Brown EJ, Cox JS, Derbyshire
+RA  K, Fortune SM, Gao LY, Liu J, Gey van Pittius NC, Pym AS, Rubin EJ,
+RA  Sherman DR, Cole ST, Brosch R;
+RL  PLoS Pathog. 2009;5:e1000507.
+CC  Type VII secretion (T7S) is also called ESAT-6-, SNM-, and
+CC  ESX-secretion. It occurs in Mycobacterium, which has an impermeable
+CC  cell envelope that contains long-chain mycolic acids in an outer
+CC  membrane, and T7S provides a means to transport proteins through this
+CC  barrier. Multiple T7S loci can occur in one species, with different
+CC  secretion targets for different systems. The system includes a
+CC  subtilisin-like protease called mycosin and membrane proteins with a
+CC  new nomenclature in starting with ecc (esx conserved component).
+**  GO:0009306 is general.  Type VII go terms (transport, complex) not yet
+**  available.  EccC not built yet because fusion protein gets split. 
+**  Additional secreted proteins include Rv3616c, Rv3881c, Rv3615c, Rv3864,
+**  Rv3865
+--
+SN  T7_EccA
+ID  type VII secretion AAA-ATPase EccA
+RQ  1
+EV  IPR023835; TIGR03922;
+--
+SN  T7_EccB
+ID  type VII secretion transmembrane protein EccB
+RQ  1
+EV  IPR007795; TIGR03919;
+--
+SN  T7_EccC
+ID  type VII secretion protein EccC
+RQ  1
+EV  IPR023836; TIGR03924;
+EV  IPR023837; TIGR03925;
+--
+SN  T7_EccD
+ID  type VII secretion integral membrane protein EccD
+RQ  1
+EV  IPR006707; TIGR03920;
+--
+SN  T7_EccE
+ID  type VII secretion transmembrane protein EccE
+RQ  1
+EV  IPR021368; TIGR03923;
+--
+SN  T7_WxG
+ID  WXG100 family type VII secretion target
+RQ  1
+EV  IPRXXXX; PF06013;
+EV  IPRXXXX; TIGR03930;
+--
+SN  T7_a
+ID  type VII secretion-associated protein, Rv3446c family
+RQ  0
+EV  IPR023840; TIGR03931;
+--
+SN  T7_myco
+ID  mycosin
+RQ  1
+EV  IPR023834; TIGR03921;
+//

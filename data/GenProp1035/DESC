@@ -1,0 +1,81 @@
+AC  GenProp1035
+DE  O113(Ec) antigen biosynthesis
+TP  METAPATH
+AU  Haft D
+TH  0
+RN  [1]
+RM  7534644
+RT  The structure of the O-specific polysaccharide from Escherichia coli
+RT  O113 lipopolysaccharide.
+RA  Parolis H, Parolis LA;
+RL  Carbohydr Res. 1995;267:263-269.
+RN  [2]
+RM  10531250
+RT  Molecular characterization of the locus encoding biosynthesis of the
+RT  lipopolysaccharide O antigen of Escherichia coli serotype O113.
+RA  Paton AW, Paton JC;
+RL  Infect Immun. 1999;67:5930-5937.
+CC  The E. coli O113 antigen monomer [1] consists of a branched
+CC  pentasaccharide of relatively simple galactose and glucose-derived
+CC  units:
+CC  [->4)aDGalNAc{(3<-1)bDGal}(1->4)aDGalA(1->3)aDGal(1->3)bDGlcNAc(1->].
+CC  Additionally, there is some degree of O-acetylation, the position and
+CC  extent of which has not yet been determined. The biosynthesis cluster
+CC  contains four corresponding glycosyltransferases, WbnABDE. Assignments
+CC  of activity have been predicted at ECODAB, but are not as strong as
+CC  some and may be in error. These are based on the following homology
+CC  data and logic: Of the four, WbnE has the strongest similarity to other
+CC  known enzymes, in the range 37-46% identity, the top four of which are
+CC  all predicted to carry out the aDGal(1->3)bDGlcNAc reaction. WbnA has
+CC  the next strongest similarities, in the range 33-37% identity, and
+CC  although the reactions predicted to be carried out by these homologs
+CC  are similar to both the aDGalNAc(1->4)aDGalA and the
+CC  aDGalNAc{(3<-1)bDGal} reactions, one homolog carries out precisely the
+CC  former reaction and has been experimentally confirmed. Of the remaining
+CC  two transferases, WbnB and WbnD, both of which show similarities to
+CC  other glycosyltransferases only in the 26-29% identity range, the
+CC  correlation between the homologs activities and the ones needed in the
+CC  O113 cluster are weak and ambiguous. So although ECODAB makes
+CC  predictions, we do not regard them as sufficiently strong to drive
+CC  transitive annotations.
+--
+SN  GalE
+ID  UDP-glucose 4-epimerase
+RQ  1
+EV  IPR005886; TIGR01179;
+--
+SN  WbnA
+ID  galactosyl transferase WbnA
+RQ  1
+EV  IPRXXXX; 2897;
+--
+SN  WbnB
+ID  galactosyl transferase WbnB
+RQ  1
+EV  IPRXXXX; 2895;
+--
+SN  WbnC
+ID  sugar O-acetyl transferase WbnC
+RQ  1
+EV  IPRXXXX; 2894;
+--
+SN  WbnD
+ID  galactosyl transferase WbnD
+RQ  1
+EV  IPRXXXX; 2893;
+--
+SN  WbnE
+ID  aDGal(1->3)bDGlcNAc transferase
+RQ  1
+EV  IPRXXXX; 2892;
+--
+SN  wzx113
+ID  O113(Ec)-antigen specific transporter (flippase) wzx
+RQ  1
+EV  IPRXXXX; 2898;
+--
+SN  wzy113
+ID  O113(Ec)-antigen specific polymerase wzy
+RQ  1
+EV  IPRXXXX; 2896;
+//

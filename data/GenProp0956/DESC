@@ -1,0 +1,29 @@
+AC  GenProp0956
+DE  radical SAM maturase/selenobacteriocin system
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  21478363
+RT  Biological systems discovery in silico: radical S-adenosylmethionine
+RT  protein families and their target peptides for posttranslational
+RT  modification.
+RA  Haft DH, Basu MK;
+RL  J Bacteriol. 2011;193:2745-2755.
+CC  This property describes a peptide modification radical SAM family and
+CC  its cognate target peptides, a number of which appear to be
+CC  selenocysteine-containing peptides. Two homologous SECIS elements are
+CC  found for GSU_1558, for example, by bSECISearch:
+CC  UGAGGCAAGUCUUCCGGCGCCGGGAGCGCCAAGGAGAAG and
+CC  UGAGGCGGAUCGUCCGGCGCCGGUGGCGCCGCAAAGAAG.
+--
+SN  mod_SAM
+ID  peptide modification radical SAM enzyme, GSU_1560 family
+RQ  1
+EV  IPR023807; TIGR04082;
+--
+SN  mod_pep
+ID  radical SAM modification target peptide, GSU_1558 family
+RQ  1
+EV  IPR023971; TIGR04081;
+//

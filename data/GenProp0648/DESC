@@ -1,0 +1,102 @@
+AC  GenProp0648
+DE  phage shock protein regulon
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  1712397
+RT  Characterization and sequence of the Escherichia coli stress-induced
+RT  psp operon.
+RA  Brissette JL, Weiner L, Ripmaster TL, Model P;
+RL  J Mol Biol. 1991;220:35-48.
+RN  [2]
+RM  8606168
+RT  Identification, nucleotide sequence, and characterization of PspF, the
+RT  transcriptional activator of the Escherichia coli stress-induced psp
+RT  operon.
+RA  Jovanovic G, Weiner L, Model P;
+RL  J Bacteriol. 1996;178:1936-1945.
+RN  [3]
+RM  15485810
+RT  Identification of a new member of the phage shock protein response in
+RT  Escherichia coli, the phage shock protein G (PspG).
+RA  Lloyd LJ, Jones SE, Jovanovic G, Gyaneshwar P, Rolfe MD, Thompson A,
+RA  Hinton JC, Buck M;
+RL  J Biol Chem. 2004;279:55707-55714.
+RN  [4]
+RM  16709570
+RT  Induction and function of the phage shock protein extracytoplasmic
+RT  stress response in Escherichia coli.
+RA  Jovanovic G, Lloyd LJ, Stumpf MP, Mayhew AJ, Buck M;
+RL  J Biol Chem. 2006;281:21147-21161.
+RN  [5]
+RM  16707685
+RT  6S RNA regulation of pspF transcription leads to altered cell survival
+RT  at high pH.
+RA  Trotochaud AE, Wassarman KM;
+RL  J Bacteriol. 2006;188:3936-3943.
+CC  This property describes a regulon present in E. coli and a number of
+CC  other species induced by various stresses including osmotic shock,
+CC  ethanol, heat, and expression of various secretins, as occurs with
+CC  infection by certain filamentous phage. A common thread to these
+CC  stressors may be compromise of the inner membrane and decrease of the
+CC  protonmotive force. Most proteins of the regulon occur in a single
+CC  operon, but at least one member, pspG, is located elsewhere in most
+CC  genomes. The signature genes of the the phage shock regulon are the
+CC  sigma-54-dependent positive regulator PspF, PspA which binds to and
+CC  inhibits PspF, and PspB and PspC which act together as both regulatory
+CC  and effector proteins of the phage shock regulon. PspG occurs in most
+CC  but not all phage shock-positive genomes, while PspD and PspE are found
+CC  only in a minority of phage shock operons.
+**  Probably there is very little generality to the inclusion of PspD and
+**  PspE in the regulon across large numbers of species.
+--
+SN  pspA
+ID  phage shock protein PspA
+DN  phage shock protein A
+RQ  1
+EV  IPR014319; TIGR02977; sufficient;
+TG  GO:0006950;
+--
+SN  pspB
+ID  phage shock protein PspB
+DN  phage shock protein B
+RQ  1
+EV  IPR009554; TIGR02976; sufficient;
+TG  GO:0006950;
+--
+SN  pspC
+ID  phage shock protein PspC
+DN  phage shock protein C
+RQ  1
+EV  IPR014320; TIGR02978; sufficient;
+TG  GO:0006950;
+--
+SN  pspD
+ID  phage shock protein PspD
+DN  phage shock protein D
+RQ  0
+EV  IPR014321; TIGR02979; sufficient;
+TG  GO:0006950;
+--
+SN  pspE
+ID  rhodanese PspE
+DN  phage shock protein E
+RQ  0
+EV  IPR014323; TIGR02981; sufficient;
+TG  GO:0006950;
+--
+SN  pspF
+ID  signa-54-dependent activagtor PspF
+DN  psp operon transcriptional activator
+RQ  1
+EV  IPR014317; TIGR02974; sufficient;
+TG  GO:0006950;
+--
+SN  pspG
+ID  phage shock protein PspG (YjbO)
+DN  phage shock protein G
+RQ  0
+EV  IPR014318; TIGR02975; sufficient;
+TG  GO:0006950;
+//

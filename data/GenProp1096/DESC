@@ -1,0 +1,51 @@
+AC  GenProp1096
+DE  coenzyme B biosynthesis
+TP  PATHWAY
+AU  Haft D
+TH  0
+RN  [1]
+RM  9665716
+RT  Alpha-keto acid chain elongation reactions involved in the biosynthesis
+RT  of coenzyme B (7-mercaptoheptanoyl threonine phosphate) in methanogenic
+RT  Archaea.
+RA  Howell DM, Harich K, Xu H, White RH;
+RL  Biochemistry. 1998;37:10108-10117.
+RN  [2]
+RM  10940051
+RT  Identification of enzymes homologous to isocitrate dehydrogenase that
+RT  are involved in coenzyme B and leucine biosynthesis in methanoarchaea.
+RA  Howell DM, Graupner M, Xu H, White RH;
+RL  J Bacteriol. 2000;182:5013-5016.
+RN  [3]
+RM  18765671
+RT  Methanogen homoaconitase catalyzes both hydrolyase reactions in
+RT  coenzyme B biosynthesis.
+RA  Drevland RM, Jia Y, Palmer DR, Graham DE;
+RL  J Biol Chem. 2008;283:28888-28896.
+RN  [4]
+RM  21402221
+RT  2-oxoacid metabolism in methanogenic CoM and CoB biosynthesis.
+RA  Graham DE;
+RL  Methods Enzymol. 2011;494:301-326.
+CC  Coenzyme B is 7-mercaptoheptanoylthreoninephosphate. Coenzyme M and
+CC  coenzyme B for a heterodisulfide during a key step in methanogenesis.
+CC  This property is inactive: equivalog-level HMMs to provide evidence for
+CC  computing this pathway are not yet available.
+**  alpha-ketosuberate is a precursor of this and biotin.
+**  7-mercaptoheptanoic acid is a constituent of coenzyme B and an
+**  intermediate in its biosynthesis. INTERPRO MODEL GENOME PROPERTY? See
+**  MJ1596, MJ0503, MJ1003, MJ1271, though Some headed to
+**  alpha-ketosuberate
+--
+SN  HACN_lg
+ID  methanogen homoaconitase, large subunit
+RQ  1
+--
+SN  HACN_sm
+ID  methanogen homoaconitase, small subunit
+RQ  1
+--
+SN  HICDH
+ID  homoisocitrate dehydrogenase
+RQ  1
+//

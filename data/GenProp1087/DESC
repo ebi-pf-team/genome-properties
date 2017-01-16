@@ -1,0 +1,22 @@
+AC  GenProp1087
+DE  protein sorting system, vault protein/exosortase N
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  This dedicated protein-sorting system occurs so far only in the class
+CC  Bacteriodetes or in the genus Leptospira. The two proteins are
+CC  exosortase N and a member of the vault protein inter-alpha-trypsin
+CC  inhibitor (VIT) family. The VIT family protein PEP-CTERM region usually
+CC  begins VPEPxEWxL, but usually scores poorly to the generic PEP-CTERM
+CC  model TIGR02595.
+--
+SN  EXOxrtN
+ID  exosortase N
+RQ  1
+EV  IPR031006; TIGR04476;
+--
+SN  target
+ID  VIT domain PEP-CTERM protein
+RQ  1
+EV  IPR031005; TIGR04477;
+//

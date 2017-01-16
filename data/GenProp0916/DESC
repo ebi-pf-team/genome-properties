@@ -1,0 +1,23 @@
+AC  GenProp0916
+DE  radical SAM/uncharacterized protein TIGR03936 system
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  This Genome Property describes a two-gene system, usually occurring as
+CC  a fusion protein. One member is an uncharacterized radical SAM protein.
+CC  The other member is uncharacterized protein TIGR03936.
+**  probably housekeeping. Exploring just with sporulating Actinobacteria
+**  (tiny fraction of range), 49 of first 53 homologs to TIGR03936 were
+**  among the 64 sporulators, meaning inheritance (if not universal
+**  conservation) from parent node down, not lateral transfer.
+--
+SN  partner
+ID  uncharacterized protein TIGR03936
+RQ  1
+EV  IPR018768; TIGR03936;
+--
+SN  rSAM
+ID  uncharacterized radical SAM protein
+RQ  1
+EV  IPR023862; TIGR03960;
+//

@@ -1,0 +1,58 @@
+AC  GenProp0880
+DE  flagellar basal body complex
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  The flagellar basal body is that portion of the bacterial flagellum
+CC  proximal to the cell, passing through the cytoplasmic and outer
+CC  membranes. The basal body includes the proximal and distal basal body
+CC  rod, the MS, P and L rings and (for the purposes of this property)
+CC  excludes the rotor (switch), stator and export apparatus.
+--
+SN  flgB
+ID  flagellar basal body rod protein FlgB
+DN  flagellar basal-body rod protein FlgB
+RQ  1
+EV  IPR006300; TIGR01396; sufficient;
+--
+SN  flgC
+ID  flagellar basal body rod protein FlgC
+DN  flagellar basal-body rod protein FlgC
+RQ  1
+EV  IPR006299; TIGR01395; sufficient;
+--
+SN  flgF
+ID  flagellar basal body rod protein FlgF
+RQ  1
+EV  IPR012836; TIGR02490; sufficient;
+--
+SN  flgG
+ID  flagellar basal body rod protein FlgG
+DN  flagellar basal-body rod protein FlgG
+RQ  1
+EV  IPR012834; TIGR02488; sufficient;
+--
+SN  flgH
+ID  flagellar basal body L-ring protein FlgH
+DN  flagellar L-ring protein FlgH
+RQ  1
+EV  IPR000527; PF02107; sufficient;
+--
+SN  flgI
+ID  flagellar basal body P-ring protein FlgI
+DN  flagellar P-ring protein FlgI
+RQ  1
+EV  IPR001782; PF02119; sufficient;
+--
+SN  fliE
+ID  flagellar basal body protein FliE
+DN  flagellar hook-basal body complex protein FliE
+RQ  1
+EV  IPR001624; TIGR00205; sufficient;
+--
+SN  fliF
+ID  flagellar basal-body MS-ring and collar protein FliF
+DN  flagellar M-ring protein FliF
+RQ  1
+EV  IPR000067; TIGR00206; sufficient;
+//

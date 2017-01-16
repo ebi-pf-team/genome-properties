@@ -1,0 +1,41 @@
+AC  GenProp0252
+DE  thiamine/TPP ABC transporter ThiBPQ
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  9535878
+RT  thiBPQ encodes an ABC transporter required for transport of thiamine
+RT  and thiamine pyrophosphate in Salmonella typhimurium.
+RA  Webb E, Claas K, Downs D;
+RL  J Biol Chem. 1998;273:8946-8950.
+DC  Thiamine metabolism
+DR  KEGG; map00730;
+CC  This property describes a three-component ABC transporter, ThiBPQ, for
+CC  thiamine and/or thiamine derivatives. It is demonstrated experimentally
+CC  in Salmonella typhimurium and E. coli (PMID:9535878) and is inferred
+CC  from gene location next to genes for thiamine salvage enzymes in
+CC  Brucella suis, Sinorhizobium meliloti, etc. All known examples are in
+CC  the Proteobacteria.
+--
+SN  binding
+ID  thiamine binding protein
+DN  thiamin/thiamin pyrophosphate ABC transporter, thiamin/thiamin pyrophospate-binding protein
+RQ  1
+EV  IPR005967; TIGR01276; sufficient;
+TG  GO:0030974;
+--
+SN  permase
+ID  thiamine transporter permease
+DN  thiamine/thiamine pyrophosphate ABC transporter, permease protein
+RQ  1
+EV  IPR005947; TIGR01253; sufficient;
+TG  GO:0030974;
+--
+SN  thiATP
+ID  thiamine transporter ATP-binding protein
+DN  thiamine ABC transporter, ATP-binding protein
+RQ  1
+EV  IPR005968; TIGR01277; sufficient;
+TG  GO:0030974;
+//

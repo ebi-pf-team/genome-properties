@@ -1,0 +1,35 @@
+AC  GenProp1064
+DE  ovothiol biosynthesis
+TP  PATHWAY
+AU  Haft D
+TH  0
+RN  [1]
+RM  21247153
+RT  Identification and characterization of the first ovothiol biosynthetic
+RT  enzyme.
+RA  Braunshausen A, Seebeck FP;
+RL  J Am Chem Soc. 2011;133:1757-1759.
+CC  The first step in ovothiol A biosynthesis is conversion of cysteine and
+CC  histidine to 5-histidylcysteine sulfoxide conjugate by
+CC  5-histidylcysteine sulfoxide synthase. The conjugate is trimmed by a
+CC  currently unknown mechanism (perhaps different enzymes in different
+CC  species) to 5-thiohistidine, and is N-methylated at the pi position of
+CC  the imidazole ring. Many OvaA (5-histidylcysteine sulfoxide synthase)
+CC  have an additional C-terminal methyltransferase domain likely to
+CC  provide this methyltransferase activity. Ovothiols B and C differ from
+CC  ovothiol A by having additional methylations of the histidine-derived
+CC  amino group.
+**  PMID:3651433 says ovothiol A is 1-methyl-4-mercaptohistidine. Ovothiol
+**  B is 1-methyl-N alpha-methyl-4-mercaptohistidine. 1-methyl-N alpha,N
+**  alpha-dimethyl-4-mercaptohistidine is ovothiol C.
+--
+SN  ovo_Cter
+ID  4-mercaptohistidine N1-methyltransferase
+RQ  1
+EV  IPR027625; TIGR04345;
+--
+SN  ovo_Nter
+ID  5-histidylcysteine sulfoxide synthase
+RQ  1
+EV  IPR027577; TIGR04344;
+//

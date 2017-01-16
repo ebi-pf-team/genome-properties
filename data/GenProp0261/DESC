@@ -1,0 +1,12 @@
+AC  GenProp0261
+DE  thiamin pyrophosphate (TPP) de novo biosynthesis
+TP  SUMMARY
+AU  Haft D
+TH  0
+CC  This property combined the three parts of thiamin pyrophosphate
+CC  biosynthesis, Synthesis of hydroxyethylthiazole phosphate (HET-P,
+CC  GenProp0250), hydroxymethylpyrimidine pyrophosphate (HMP-PP,
+CC  GenProp0253) and their ligation and conversion to TPP (GenProp0254). 
+CC  Only by finding YES states for all three of these child properties will
+CC  this property be automatically assigned a YES state.
+//

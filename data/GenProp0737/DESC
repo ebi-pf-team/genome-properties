@@ -1,0 +1,33 @@
+AC  GenProp0737
+DE  anaerobic glycerol-3-phosphate dehydrogenase complex
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  3286606
+RT  Nucleotide sequence and gene-polypeptide relationships of the glpABC
+RT  operon encoding the anaerobic sn-glycerol-3-phosphate dehydrogenase of
+RT  Escherichia coli K-12.
+RA  Cole ST, Eiglmeier K, Ahmed S, Honore N, Elmes L, Anderson WF, Weiner
+RA  JH;
+RL  J Bacteriol. 1988;170:2448-2456.
+CC  A three-protein complex, the anaerobic glycerol-3-phosphate
+CC  dehydrogenase, product of the glpABC genes, is found in Escherichia
+CC  coli and related species. GlpA and GlpB are catalytic, while GlpC
+CC  anchors the complex to the plasma membrane.
+--
+SN  glpA
+ID  glycerol-3-phosphate dehydrogenase, anaerobic, A subunit
+RQ  1
+EV  IPR017752; TIGR03377;
+--
+SN  glpB
+ID  glycerol-3-phosphate dehydrogenase, anaerobic, B subunit
+RQ  1
+EV  IPR009158; TIGR03378;
+--
+SN  glpC
+ID  glycerol-3-phosphate dehydrogenase, anaerobic, anchor subunit
+RQ  1
+EV  IPR017753; TIGR03379;
+//

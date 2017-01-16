@@ -1,0 +1,32 @@
+AC  GenProp1011
+DE  quorum-sensing system, cyclic peptide-mediated
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  16980448
+RT  Revised model for Enterococcus faecalis fsr quorum-sensing system: the
+RT  small open reading frame fsrD encodes the gelatinase
+RT  biosynthesis-activating pheromone propeptide corresponding to
+RT  staphylococcal agrd.
+RA  Nakayama J, Chen S, Oyama N, Nishiguchi K, Azab EA, Tanaka E, Kariyama
+RA  R, Sonomoto K;
+RL  J Bacteriol. 2006;188:8321-8326.
+CC  The four characterized component of the staphylococcal agr system are a
+CC  propeptide, a processing enzyme, a histidine kinase (AgrC), and a
+CC  response regulator (AgrA). In the related Enterococcus faecalis fsr
+CC  system, the propeptide occurs as an extension of the processing enzyme,
+CC  may be autoprocessed from it, and may also be independently translated. 
+**  SACOL2023 - SACOL2026. In gef, EF_1821 is odd because it is a AgrB with
+**  an appendage (AgrD-like, but not very) that it autoprocesses.
+--
+SN  AgrB
+ID  processing enzyme
+RQ  1
+EV  IPR006741; PF04647;
+--
+SN  AgrD
+ID  autoinducing peptide
+RQ  1
+EV  IPR009229; PF05931;
+//

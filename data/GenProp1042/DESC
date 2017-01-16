@@ -1,0 +1,70 @@
+AC  GenProp1042
+DE  O128(Ec) antigen biosynthesis
+TP  METAPATH
+AU  Haft D
+TH  0
+RN  [1]
+RM  14550554
+RT  Sequence of Escherichia coli O128 antigen biosynthesis cluster and
+RT  functional identification of an alpha-1,2-fucosyltransferase.
+RA  Shao J, Li M, Jia Q, Lu Y, Wang PG;
+RL  FEBS Lett. 2003;553:99-103.
+CC  O128 is one of the most common atypical enteropathogenic Escherichia
+CC  coli isolated from diarrhea patients worldwide. The O128(Ec) antigen
+CC  monomer is a branched pentasaccharide in which an L-fucose sugar is
+CC  appended, at the first sugar) to a DGal/DGalNAc linear tetramer. The
+CC  WbsJ glycosyltransferase has been experimentally confirmed as the
+CC  L-fucosyltransferase [1]. The terminal [aDGal(1->3)DGalNAc] linkage is
+CC  assigned to the WbsH enzyme due to its high similarity to the O55
+CC  antigen WbgM enzyme that carries out the same reaction. WbsK is
+CC  assigned to the [bDGal(1->3)DGalNAc] reaction based in similarity to
+CC  the WbnA (O113), WbnJ (O86) and WbiP (O127) enzymes carrying out the
+CC  same reaction. The final enzyme, WbsL, having little similarity to
+CC  other enzymes of known specificity is assigned the [bDGalNAc(1->4)DGal]
+CC  reaction by process of elimination. (NOTE that the ECODAB site assigns
+CC  the opposite reactions to WbsK and WbsL; we believe this to be an
+CC  error.) The presence of an O-acetyltransferase (WbsI) in the
+CC  biosynthetic cluster implies some degree of O-acetylation in the final
+CC  O-antigen, but the location(s) and fraction of modification are not yet
+CC  determined.
+--
+SN  Fuc
+ID  source of L-fucose
+RQ  1
+EV  GenProp1024;
+--
+SN  WbsH
+ID  D-GalNAc alpha-1,3-D-Gal transferase WbsH
+RQ  1
+EV  IPRXXXX; 2753;
+--
+SN  WbsI
+ID  O128(Ec)-specific O-acetyltransferase WbsI
+RQ  1
+EV  IPRXXXX; 2910;
+--
+SN  WbsJ
+ID  D-Gal alpha-1,2-L-fucosyl transferase WbsJ
+RQ  1
+EV  IPRXXXX; 2912;
+--
+SN  WbsK
+ID  D-GalNAc beta-1,3-D-Gal transferase WbsK
+RQ  1
+EV  IPRXXXX; 2913;
+--
+SN  WbsL
+ID  D-Gal beta-1,4-D-GalNAc transferase WbsL
+RQ  1
+EV  IPRXXXX; 2914;
+--
+SN  wzx128
+ID  O128(Ec)-antigen specific transporter (flippase) wzx
+RQ  1
+EV  IPRXXXX; 2911;
+--
+SN  wzy128
+ID  O128-antigen specific polymerase wzy
+RQ  1
+EV  IPRXXXX; 2915;
+//

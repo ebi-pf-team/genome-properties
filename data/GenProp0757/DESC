@@ -1,0 +1,43 @@
+AC  GenProp0757
+DE  quorum-sensing, autoinducer-2 system
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  16101288
+RT  Mutational analysis of a nucleosidase involved in quorum-sensing
+RT  autoinducer-2 biosynthesis.
+RA  Lee JE, Luong W, Huang DJ, Cornell KA, Riscoe MK, Howell PL;
+RL  Biochemistry. 2005;44:11049-11057.
+RN  [2]
+RM  15456522
+RT  Is autoinducer-2 a universal signal for interspecies communication: a
+RT  comparative genomic and phylogenetic analysis of the synthesis and
+RT  signal transduction pathways.
+RA  Sun J, Daniel R, Wagner-Döbler I, Zeng AP;
+RL  BMC Evol Biol. 2004;4:36.
+CC  S-ribosylhomocysteine lyase, 4.4.1.21, is LuxS, an iron(2+)-containing
+CC  protein. Its immediate product, 4,5-dihydroxypentan-2,3-dione, cyclizes
+CC  spontaneously and binds borate to become autoinducer-2 (AI-2), a
+CC  quorum-sensing molecule produced and recognized by a wide range of
+CC  bacteria. LuxS serves as a marker for this system, while MTA/SAH
+CC  nucleosidase is essential both for this and other systems. Many
+CC  clade-specific proteins interact with this system but are not currently
+CC  represented as part of this genome property.
+**  Role for the nucleotidase picked up by PPP which pointed me to
+**  PMID:16101288. I am also seeing a PTS transporter family role.
+--
+SN  LuxS
+ID  S-ribosylhomocysteine lyase
+DN  S-ribosylhomocysteine lyase (EC 4.4.1.21)
+RQ  1
+EV  IPR003815; PF02664;
+TG  GO:0009372;
+--
+SN  nuc_ase
+ID  methylthioadenosine nucleosidase/adenosylhomocysteine nucleosidase
+DN  methylthioadenosine nucleosidase (EC 3.2.2.16)/adenosylhomocysteine nucleosidase (EC 3.2.2.9)
+RQ  1
+EV  IPR010049; TIGR01704;
+TG  GO:0009372;
+//

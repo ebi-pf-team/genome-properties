@@ -1,0 +1,35 @@
+AC  GenProp0942
+DE  alkane biosynthesis, cyanobacterial
+TP  PATHWAY
+AU  Haft D
+TH  0
+RN  [1]
+RM  20671186
+RT  Microbial biosynthesis of alkanes.
+RA  Schirmer A, Rude MA, Li X, Popova E, del Cardayre SB;
+RL  Science. 2010;329:559-562.
+CC  This two gene system converts even-numbered saturated and unsaturated
+CC  fatty acids (largely C16 and C18) into n-1 odd-numbered alkanes or
+CC  alkenes [1].  The most commonly observed alkanes in cyanobacteria,
+CC  where this system is found, are heptadecane, pentadecane and
+CC  methyl-heptadecane [1].  Fatty acyl-acyl carrier protein (ACP)
+CC  substrates are first converted to fatty aldehydes by the action of an
+CC  NAD(P)H-dependent Acyl-ACP reductase.  This reductase is distantly
+CC  related to the short-chain dehydrogenase or reductase (SDR) family
+CC  (PF00106).  The fatty aldehyde is subsequently converted to
+CC  hydrocarbons by an aldehyde decarbonylase, releasing CO.  This
+CC  decarbonylase is distantly related to a family of di-iron-containing
+CC  reductases including ribonucleotide reductase.
+--
+SN  AcACP_R
+ID  acyl-ACP reductase
+RQ  1
+EV  IPR016836; TIGR04058;
+TG  GO:0043447;
+--
+SN  Al_DeCO
+ID  aldehyde decarbonylase
+RQ  1
+EV  IPR022612; TIGR04059;
+TG  GO:0043447;
+//

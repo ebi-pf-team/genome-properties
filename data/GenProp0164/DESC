@@ -1,0 +1,99 @@
+AC  GenProp0164
+DE  leucine biosynthesis from pyruvate and acetyl-CoA
+TP  PATHWAY
+AU  Haft D
+TH  2
+DC  Valine, leucine and isoleucine biosynthesis
+DR  KEGG; map00290;
+CC  The branched amino acid leucine is biosynthesized from the central
+CC  intermediary metabolites pyruvate and acetyl-CoA via a seven step
+CC  pathway.  Four of these steps are shared with the valine and isoleucine
+CC  pathways, although specialized versions of these enzymes may exist in
+CC  certain species which have a narrowed substrate range or amino
+CC  acid-specific regulatory mechanisms.  The product of the third step in
+CC  this pathway, 2-oxoisovalerate is a branchpoint metabolite required for
+CC  the biosynthesis of Coenzyme A, branched-chain fatty acids and valine. 
+CC  Similarly, the product of the first step, (S)-2-acetolactate is common
+CC  to the pathway to (R,R)-2,3-butanediol in the mixed-acid fermentation
+CC  of pyruvate.  The first step of the pathway, acetolactate synthase,
+CC  requires thiamine pyrophosphate and two molecules of pyruvate, one of
+CC  which is decarboxylated to the acetoacetate adduct,
+CC  2-(alpha-hydroxyethyl)-ThPP.  The acetyl-CoA required for the fourth
+CC  step, 2-isopropylmalate synthase, may also derive from this ThPP adduct
+CC  by oxidation.
+--
+SN  Leu_1a
+ID  acetohydroxyacid synthase, large subunit
+DN  acetohydroxyacid synthase, large subunit (EC 2.2.1.6)
+RQ  1
+EV  IPR012846; TIGR00118; sufficient;
+TG  GO:0009098;
+--
+SN  Leu_1b
+ID  acetohydroxyacid synthase, small subunit
+DN  acetohydroxyacid synthase, small subunit (EC 2.2.1.6)
+RQ  0
+EV  IPR004789; TIGR00119; sufficient;
+TG  GO:0009098;
+--
+SN  Leu_2
+ID  ketol-acid reductoisomerase
+DN  ketol-acid reductoisomerase (EC 1.1.1.86)
+RQ  1
+EV  IPR013023; TIGR00465; sufficient;
+TG  GO:0009098;
+--
+SN  Leu_3
+ID  dihydroxy-acid dehydratase
+DN  dihydroxy-acid dehydratase (EC 4.2.1.9)
+RQ  1
+EV  IPR004404; TIGR00110; sufficient;
+TG  GO:0009098;
+--
+SN  Leu_4
+ID  2-isopropylmalate synthase
+DN  2-isopropylmalate synthase (EC 2.3.3.13)
+RQ  1
+EV  IPR005671; TIGR00973; sufficient;
+TG  GO:0009098;
+EV  IPR005668; TIGR00970; sufficient;
+TG  GO:0009098;
+EV  IPR011830; TIGR02090; sufficient;
+--
+SN  Leu_5a
+ID  3-isopropylmalate dehydratase, large subunit
+DN  3-isopropylmalate dehydratase, large subunit (EC 4.2.1.33)
+RQ  1
+EV  IPR004430; TIGR00170; sufficient;
+TG  GO:0009098;
+EV  IPR011823; TIGR02083; sufficient;
+TG  GO:0009098;
+EV  IPR011826; TIGR02086; sufficient;
+--
+SN  Leu_5b
+ID  3-isopropylmalate dehydratase, small subunit
+DN  3-isopropylmalate dehydratase, small subunit (EC 4.2.1.33)
+RQ  1
+EV  IPR004431; TIGR00171; sufficient;
+TG  GO:0009098;
+EV  IPR011824; TIGR02084; sufficient;
+TG  GO:0009098;
+EV  IPR011827; TIGR02087; sufficient;
+--
+SN  Leu_6
+ID  3-isopropylmalate dehydrogenase
+DN  3-isopropylmalate dehydrogenase (EC 1.1.1.85)
+RQ  1
+EV  IPR004429; TIGR00169; sufficient;
+TG  GO:0009098;
+EV  IPR011828; TIGR02088; sufficient;
+--
+SN  Leu_7
+ID  branched-chain amino acid aminotransferase
+DN  branched-chain amino acid aminotransferase (EC 2.6.1.42)
+RQ  0
+EV  IPR005785; TIGR01122; sufficient;
+TG  GO:0009098;
+EV  IPR005786; TIGR01123; sufficient;
+TG  GO:0009098;
+//

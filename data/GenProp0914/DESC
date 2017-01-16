@@ -1,0 +1,55 @@
+AC  GenProp0914
+DE  hydrogenase, [FeFe]-dependent
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  15082711
+RT  Discovery of two novel radical S-adenosylmethionine proteins required
+RT  for the assembly of an active [Fe] hydrogenase.
+RA  Posewitz MC, King PW, Smolinski SL, Zhang L, Seibert M, Ghirardi ML;
+RL  J Biol Chem. 2004;279:25711-25720.
+RN  [2]
+RM  19855833
+RT  Tyrosine, cysteine, and S-adenosyl methionine stimulate in vitro [FeFe]
+RT  hydrogenase activation.
+RA  Kuchenreuther JM, Stapleton JA, Swartz JR;
+RL  PLoS One. 2009;4:e7565.
+CC  This system consists of two radical SAM proteins and a GTP-binding
+CC  protein involved in [Fe] hydrogenase maturation.
+**  Look up HymB (see projects 3488, 3489) for examples of proteins found
+**  near FeFe hydrogenase in rare species without hydEFG.
+--
+SN  Fe_larg
+ID  iron hydrogenase, large subunit
+RQ  1
+EV  IPR013352; TIGR02512;
+--
+SN  Fe_smal
+ID  iron hydrogenase, small subunit
+RQ  1
+EV  IPR003149; PF02256;
+--
+SN  hydE
+ID  hydrogenase accessory rSAM protein HydE
+RQ  1
+EV  IPR024021; TIGR03956;
+TG  GO:0051188;
+--
+SN  hydF
+ID  hydrogenase accessory GTP-binding protein HydF
+RQ  1
+EV  IPR023873; TIGR03918;
+TG  GO:0051188;
+--
+SN  hydG
+ID  hydrogenase accessory rSAM protein HydG
+RQ  1
+EV  IPR024007; TIGR03955;
+TG  GO:0051188;
+--
+SN  hyd_TF
+ID  hydrogenase putative regulator
+RQ  0
+EV  IPR023860; TIGR03959;
+//

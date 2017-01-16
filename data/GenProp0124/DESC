@@ -1,0 +1,48 @@
+AC  GenProp0124
+DE  pantothenate biosynthesis from aspartate and 2-oxoisovalerate
+TP  PATHWAY
+AU  Haft D
+TH  0
+DC  Coenzyme A Biosynthesis (early stages)
+DR  IUBMB; misc; CoA1;
+CC  This Genome Property tracks four proteins of pantothenate biosynthesis
+CC  from aspartate. PanD, aspartate 1-decarboxylase, EC 4.1.1.11, makes
+CC  beta-alanine. PanB, 3-methyl-2-oxobutanoate hydroxymethyltransferase,
+CC  makes 2-dehydropantoate from 3-methyl-2-oxobutanoate. PanC,
+CC  pantoate--beta-alanine ligase, EC 6.3.2.1, produces (R)-pantothenate
+CC  from beta-alanine and (R)-pantoate. The genes for these three proteins
+CC  tend to be clustered in bacterial genomes. The protein family
+CC  distribution for a fourth component, PanE, is very different. The
+CC  production of (R)-pantoate from 2-dehydropantoate can occur in more
+CC  than one way (NADH or NADPH-dependent), and may be catalyzed by enzymes
+CC  that may have additional important substrates (an example is the
+CC  D-mandelate dehydrogenase of Enterococcus faecalis) and several such
+CC  enzymes may be found in a genome.
+**  TIGR00745 had been marked equivalog for PanE and is now downgraded to
+**  subfamily, 7/2009 DHH.
+--
+SN  panB
+ID  3-methyl-2-oxobutanoate hydroxymethyltransferase
+DN  3-methyl-2-oxobutanoate hydroxymethyltransferase
+RQ  1
+EV  IPR003700; TIGR00222; sufficient;
+--
+SN  panC
+ID  pantoate--beta-alanine ligase
+DN  pantoate--beta-alanine ligase
+RQ  1
+EV  IPR003721; TIGR00018; sufficient;
+--
+SN  panD
+ID  aspartate 1-decarboxylase
+DN  aspartate 1-decarboxylase
+RQ  1
+EV  IPR003190; TIGR00223; sufficient;
+EV  IPR022517; TIGR03799;
+--
+SN  panE
+ID  2-dehydropantoate 2-reductase
+DN  2-dehydropantoate 2-reductase
+RQ  0
+EV  IPR003710; TIGR00745; sufficient;
+//

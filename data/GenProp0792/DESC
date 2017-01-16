@@ -1,0 +1,50 @@
+AC  GenProp0792
+DE  7,8-didemethyl-8-hydroxy-5-deazariboflavin (FO) biosynthesis
+TP  PATHWAY
+AU  Haft D
+TH  0
+RN  [1]
+RM  2110564
+RT  DNA photoreactivating enzyme from the cyanobacterium Anacystis
+RT  nidulans.
+RA  Eker AP, Kooiman P, Hessels JK, Yasui A;
+RL  J Biol Chem. 1990;265:8009-8015.
+RN  [2]
+RM  11948155
+RT  Demonstration that fbiC is required by Mycobacterium bovis BCG for
+RT  coenzyme F(420) and FO biosynthesis.
+RA  Choi KP, Kendrick N, Daniels L;
+RL  J Bacteriol. 2002;184:2420-2428.
+RN  [3]
+RM  14593448
+RT  Identification of the 7,8-didemethyl-8-hydroxy-5-deazariboflavin
+RT  synthase required for coenzyme F(420) biosynthesis.
+RA  Graham DE, Xu H, White RH;
+RL  Arch Microbiol. 2003;180:455-464.
+CC  7,8-didemethyl-8-hydroxy-5-deazariboflavin, or FO, is the chromophore
+CC  of coenzyme F420. Several enzymatic steps convert FO to F420 (see
+CC  GenProp0791). FO is also the chromophore of a cyanobacterial DNA
+CC  photoreactivating enzyme. The two key enzymes of this pathway, encoded
+CC  by CofG and CofH in Methanocaldococcus jannaschii, are encoded by
+CC  fusion proteins in certain lineages. The fusion protein in
+CC  Mycobacterium smegmatis is designated FbiC (F420 BIosynthesis C). The
+CC  precursors are a pyrimidine intermediate from riboflavin biosynthesis
+CC  and the 4-hydroxyphenylpyruvate precursor of tyrosine, so expressing
+CC  FbiC in Escherichia coli is sufficient for FO biosynthesis.
+**  Used in a METAPATH for F420 biosynthesis, since FO can be used other
+**  than in F420 biosynthesis.
+--
+SN  CofG
+ID  FO synthase, CofG subunit
+DN  7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase, CofG subunit (EC 2.5.1.-)
+RQ  1
+EV  IPR019939; TIGR03550;
+TG  GO:0009108;
+--
+SN  CofH
+ID  FO synthase, CofH subunit
+DN  7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase, CofH subunit (EC 2.5.1.-)
+RQ  1
+EV  IPR019940; TIGR03551;
+TG  GO:0009108;
+//

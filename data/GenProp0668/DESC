@@ -1,0 +1,27 @@
+AC  GenProp0668
+DE  acetyltransferase/synthase/peptidase cassette
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  This genome property represents an uncharacterized three gene cassette.
+CC  One gene resembles GNAT-family acetyltransferases, another resembles a
+CC  peptidase, and a third resembles glutamine-hydrolyzing asparagine
+CC  synthases. This cassette is sparsely and somewhat broadly distributed,
+CC  occurring in the Mycobacteria and a member of the Chlorobi as well as
+CC  in numerous alpha, beta, and gamma Proteobacteria.
+--
+SN  GNAT
+ID  GNAT-family acetyltransferase TIGR03103
+RQ  1
+EV  IPR017534; TIGR03103; sufficient;
+--
+SN  am_tran
+ID  asparagine synthase family amidotransferase
+RQ  1
+EV  IPR017535; TIGR03104; sufficient;
+--
+SN  hydro
+ID  putative peptidase
+RQ  1
+EV  IPR017537; TIGR03106; sufficient;
+//

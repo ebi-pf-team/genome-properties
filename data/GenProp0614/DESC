@@ -1,0 +1,61 @@
+AC  GenProp0614
+DE  cytochrome c oxidase, mitochondrial, caa3-type
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  9380672
+RT  Structure at 2.7 A resolution of the Paracoccus denitrificans
+RT  two-subunit cytochrome c oxidase complexed with an antibody FV
+RT  fragment.
+RA  Ostermeier C, Harrenga A, Ermler U, Michel H;
+RL  Proc Natl Acad Sci U S A. 1997;94:10547-10553.
+RN  [2]
+RM  1847686
+RT  The Bacillus subtilis cytochrome-c oxidase. Variations on a conserved
+RT  protein theme.
+RA  Saraste M, Metso T, Nakari T, Jalli T, Lauraeus M, Van der Oost J;
+RL  Eur J Biochem. 1991;195:517-525.
+CC  The cytochrome c oxidase complex is responsible for coupling the
+CC  oxidation of the reduced cytochrome c protein to the reduction of
+CC  molecular oxygen to form water with the concomitant pumping of protons
+CC  out of the cell. This complex is the type found in mitochondria and
+CC  prokaryotes which utilize mitochondrial-type aerobic respiration.  The
+CC  complex in Bacilli [2] is somewhat different but included here and
+CC  carrys the gene symbols CtaD/CtaC.
+--
+SN  CoxA
+ID  oxidase subunit I CoxA/CtaD/Cox1
+RQ  1
+EV  IPR014241; TIGR02891; sufficient;
+--
+SN  CoxB
+ID  oxidase subunit II, CoxB
+RQ  1
+EV  IPR014222; TIGR02866; sufficient;
+--
+SN  CoxC
+ID  oxidase subunit III, CoxC
+RQ  1
+--
+SN  CoxD
+ID  oxidase subunit IV, CoxD
+RQ  0
+EV  IPR011743; TIGR02229; sufficient;
+EV  IPR005171; PF03626; sufficient;
+--
+SN  CoxE?
+ID  protoheme IX farnesyltransferase, CtaB/Cox10
+RQ  0
+EV  IPR006369; TIGR01473; sufficient;
+--
+SN  CoxG
+ID  assembly protein CoxG/CtaG/Cox11
+RQ  0
+EV  IPR007533; PF04442; sufficient;
+--
+SN  CoxW
+ID  assembly protein CoxW/CtaA/Cox15
+RQ  0
+EV  IPR003780; PF02628; sufficient;
+//

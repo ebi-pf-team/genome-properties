@@ -1,0 +1,32 @@
+AC  GenProp0631
+DE  nitrogenase, Fe-only
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  Three homologous types of nitrogenase are the common
+CC  molybdenum-containing, the alternative vanadium (V)-containing, and the
+CC  alterantive iron (Fe)-only. This Genome Property represents presence in
+CC  a genome of the Fe-only nitrogenase system, which acts in nitrogen
+CC  fixation, and its accessory proteins.
+**  UNFINISHED:  so far only the three subunits of the iron-iron protein
+--
+SN  alph_Fe
+ID  Fe-only nitrogenase, alpha subunit
+RQ  1
+EV  IPR011290; TIGR01861; sufficient;
+--
+SN  anfO_Fe
+ID  Fe-only nitrogenase, anfO/anf1 accessory protein
+RQ  0
+EV  IPR014287; TIGR02940; sufficient;
+--
+SN  beta_Fe
+ID  Fe-only nitrogenase, beta subunit
+RQ  1
+EV  IPR014280; TIGR02931; sufficient;
+--
+SN  delt_Fe
+ID  Fe-only nitrogenase, delta subunit
+RQ  1
+EV  IPR014278; TIGR02929; sufficient;
+//

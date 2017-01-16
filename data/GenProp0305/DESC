@@ -1,0 +1,18 @@
+AC  GenProp0305
+DE  cysteine biosynthesis
+TP  METAPATH
+AU  Haft D
+TH  0
+CC  The biosynthesis of the amino acid cysteine may be achieved via several
+CC  routes.  Most commonly serine is the starting point (GenProp0218),
+CC  while in the archaea a mis-charged cys-tRNA bearing O-phosphoserine is
+CC  modified (GenProp0304).
+--
+SN  biosyn
+ID  cysteine biosynthesis
+RQ  1
+EV  GenProp0218;
+TG  GO:0019344;
+EV  GenProp0304;
+TG  GO:0019344;
+//

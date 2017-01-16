@@ -1,0 +1,139 @@
+AC  GenProp0210
+DE  phenylacetic acid catabolism
+TP  PATHWAY
+AU  Haft D
+TH  1
+RN  [1]
+RM  11260461
+RT  The phenylacetyl-CoA catabolon: a complex catabolic unit with broad
+RT  biotechnological applications.
+RA  Luengo JM, García JL, Olivera ER;
+RL  Mol Microbiol. 2001;39:1434-1442.
+CC  The degradation of phenylacetic acid via phenylacetyl-CoA to TCA
+CC  intermediates is the core of an extended catabolon [1] for the
+CC  degradation of various monosubstituted phenyl compounds and polymers
+CC  including styrene, tropic acid, ethylbenzene, 2-phenylethylamine,
+CC  phenylacetyl amide, phenyl alkanoates, poly-hydroxyphenylalkanoates,
+CC  and trans-styrylacetic acid.    The pathway consists of four major
+CC  stages: ligation of phenylacetic acid with CoA, hydroxylation of the
+CC  phenyl ring at the 2-position, oxidative ring opening and fatty-acid
+CC  beta-oxidation like steps on the acyclic compound. The precise nature
+CC  of the intermediates following 2-hydroxyphenylacetyl-CoA are not known.
+CC     The gene symbol nomenclature for the enzymes in this pathway has
+CC  been standardized in [1] due to the heterogeneity among the various
+CC  organisms studied. This new standard is different from all of the old
+CC  gene symbols, and may add somewhat to the confusion. A key is
+CC  reproduced below as an aid to the bewildered.    The genes of this
+CC  pathway are typically organized into a single divergon.  Some of the
+CC  genes involved in the final fatty-acid-like degradation (paaABCDE) are
+CC  occasionally absent and presumably substituted with genes of similar
+CC  function found elsewhere in the genome.  paaA and paaB both code for
+CC  genes having the same general function (enoyl-CoA hydratases), but
+CC  often paaA is absent (possibly paaB in these organisms provides both
+CC  activities).  paaD is the most reliable marker of this part of the
+CC  pathway, nearly always detectable as a distinct homolog within the gene
+CC  clusters.  paaN, which codes for the ring-opening enzyme, is generally
+CC  related to aldehyde dehydrogenases, but at least three different
+CC  homology families appear to have evolved members into the specific paaN
+CC  role.  Pseudomonas putida appears to include a transport system
+CC  (paaLM), but as this has not been reported in any other organism it has
+CC  not been included in this Genome Property at this time.    Gene Name  
+CC  Gene-sym (E.coli/P.putida/A.evansii) 
+CC  -------------------------------------  Phenylacetyl-CoA ligase   paaF
+CC  (paaK/phaE/pacD)  Ring-hydroxylating complex. Protein 1   paaG
+CC  (paaA/phaF/pacE)  Ring-hydroxylating complex. Protein 2   paaH
+CC  (paaB/phaO/pacF)  Ring-hydroxylating complex. Protein 3   paaI
+CC  (paaC/phaG/pacG)  Ring-hydroxylating complex. Protein 4   paaJ
+CC  (paaD/phaH/pacH)  Ring-hydroxylating complex. Protein 5   paaK
+CC  (paaE/phaI/pacI)  Ring-opening enzyme   paaN (paaZ/phaL/pacL) 
+CC  Enoyl-CoA hydratase 1   paaA (paaF/phaA/----)  Enoyl-CoA hydratase 2  
+CC  paaB (paaG/phaB/pacA)  3-OH-acyl-CoA dehydrogenase   paaC
+CC  (paaH/phaC/pacB)  Putative thioesterase   paaD (paaI/----/pacC) 
+CC  Ketothiolase   paaE (paaJ/phaD/----)  Permease    paaL (----/phaJ/----)
+CC   Porine   paaM (----/phaK/----)  Repressor protein   paaX
+CC  (paaX/phaN/----)  Putative regulator   paaY (paaY/phaM/pacM)
+**  Lauren built some of these HMMs  And the Jeremy built some more and
+**  broadened Lauren's
+--
+SN  paaA
+ID  enoyl-CoA hydratase
+RQ  0
+--
+SN  paaB
+ID  enoyl-CoA hydratase/isomerase, PaaB
+RQ  0
+EV  IPR011968; TIGR02280; sufficient;
+TG  GO:0010124;
+--
+SN  paaC
+ID  3-hydroxyacyl-CoA dehydrogenase, PaaC
+RQ  0
+EV  IPR011967; TIGR02279; sufficient;
+TG  GO:0010124;
+--
+SN  paaD
+ID  putative thioesterase, PaaD
+RQ  1
+EV  IPR011973; TIGR02286; sufficient;
+TG  GO:0010124;
+--
+SN  paaE
+ID  beta-ketothiolase, PaaE
+RQ  0
+--
+SN  paaF
+ID  phenylacetate-CoA ligase
+RQ  1
+EV  IPR011880; TIGR02155; sufficient;
+TG  GO:0010124;
+--
+SN  paaG
+ID  phenylacetate-CoA oxygenase, PaaG subunit
+RQ  1
+EV  IPR011881; TIGR02156; sufficient;
+TG  GO:0010124;
+--
+SN  paaH
+ID  phenylacetate-CoA oxygenase, PaaH subunit
+RQ  1
+EV  IPR009359; TIGR02157; sufficient;
+TG  GO:0010124;
+--
+SN  paaI
+ID  phenylacetate-CoA oxygenase, PaaI subunit
+RQ  1
+EV  IPR011882; TIGR02158; sufficient;
+TG  GO:0010124;
+--
+SN  paaJ
+ID  phenylacetate-CoA oxygenase, PaaJ subunit
+RQ  1
+EV  IPR011883; TIGR02159; sufficient;
+TG  GO:0010124;
+--
+SN  paaK
+ID  phenylacetate-CoA oxygenase/reductase, PaaK subunit
+RQ  1
+EV  IPR011884; TIGR02160; sufficient;
+TG  GO:0010124;
+--
+SN  paaN
+ID  putative ring-opening aldehyde dehydrogenase, PaaN
+RQ  1
+EV  IPR011966; TIGR02278; sufficient;
+TG  GO:0010124;
+EV  IPR011975; TIGR02288; sufficient;
+TG  GO:0010124;
+--
+SN  paaX
+ID  negative transcriptional regulator
+RQ  0
+EV  IPR011965; TIGR02277; sufficient;
+TG  GO:0010124;
+--
+SN  paaY
+ID  putative regulator (?)
+RQ  0
+EV  IPR011974; TIGR02287; sufficient;
+TG  GO:0010124;
+//

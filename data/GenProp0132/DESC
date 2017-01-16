@@ -1,0 +1,57 @@
+AC  GenProp0132
+DE  transcription termination - antitermination Nus factors
+TP  SYSTEM
+AU  Haft D
+TH  1
+RN  [1]
+RM  16946247
+RT  Rho-dependent terminators and transcription termination.
+RA  Ciampi MS;
+RL  Microbiology. 2006;152:2515-2528.
+CC  This Genome Property describes the set of Nus factors NusA, NusB, and
+CC  NusG, as well as ribosomal protein S10 which is known as NusE. The name
+CC  Nus, for N-utilization substance, reflects the phenomenology of
+CC  exploitation of N factors for phage lambda in Escherichia coli. Much of
+CC  the literature of these transcription termination/anti-termination
+CC  factors revolves around the interaction with the transcription
+CC  termination factor Rho, but factor Rho and cis-acting rho-utilization
+CC  sites are less well distributed than the N-factors, which are
+CC  essentially universal in bacteria. In species with Rho, Nus factors
+CC  improve transcriptase turnover speeds. Nus factors can block Rho
+CC  action, a process called anti-termination. See GenProp0812 for a
+CC  treatment of rho-dependent transcription termination.
+--
+SN  S10/nusE
+ID  ribosomal protein S10, rpsJ/nusE
+RQ  1
+EV  IPR001848; TIGR01049; sufficient;
+TG  GO:0006353;
+--
+SN  nusA
+ID  transcription termination factor NusA
+DN  transcription termination factor NusA
+RQ  1
+EV  IPR010213; TIGR01953; sufficient;
+TG  GO:0006353;
+--
+SN  nusA-C
+ID  NusA C-terminal duplication
+DN  NOT APPLICABLE
+RQ  0
+EV  IPR010214; TIGR01954; sufficient;
+--
+SN  nusB
+ID  transcription termination-antitermination factor NusB
+DN  transcription antitermination factor NusB
+RQ  1
+EV  IPR011605; TIGR01951; sufficient;
+TG  GO:0006353;
+--
+SN  nusG
+ID  transcription termination-antitermination factor NusG
+DN  transcription antitermination protein NusG
+RQ  1
+EV  IPR001062; TIGR00922; sufficient;
+TG  GO:0006353;
+EV  IPR010216; TIGR01956; sufficient;
+//

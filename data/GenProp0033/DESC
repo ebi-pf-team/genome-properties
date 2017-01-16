@@ -1,0 +1,148 @@
+AC  GenProp0033
+DE  TCA cycle
+TP  METAPATH
+AU  Haft D
+TH  5
+DC  Citric acid cycle
+DR  IUBMB; misc; CAcycle;
+DC  Citrate Cycle (TCA cycle)
+DR  KEGG; map00020;
+CC  YES  NO  PARTIAL  The TCA cycle, also called the Krebs cycle, citrate
+CC  cycle, and tricarboxylic acid cycle, is performed in eukaryotic
+CC  mitochondria and in many prokaryotes. This property refers to the
+CC  forward direction: from oxaloacetate and acetate to citrate, to
+CC  isocitrate, to 2-oxoglutarate, to succinate, to fumarate, to malate, to
+CC  oxaloacetate, with the release of two molecules of C02. It runs only
+CC  under aerobic conditions. The state YES means the cycle is complete. A
+CC  complete TCA cycle may correlate with use of TCA intermediates as
+CC  biosynthetic precursors and with anaplerotic (TCA cycle
+CC  intermediate-replenishing) reactions such as the glyoxylate shunt. The
+CC  PARTIAL state indicates the pathway does not form a cycle but may
+CC  contain several consecutive steps. The direction of flux through this
+CC  arc is not specified when the state is set and may be in the reductive
+CC  (reverse) direction. The reverse TCA cycle, an alternative to the
+CC  Calvin cycle for carbon dioxide fixation, is covered by a separate
+CC  property.
+**  Same state YES no matter what malate dehydrogenase reduces - different
+**  EC number for differet choices, e.g. NAD vs. quinones.
+--
+SN  1
+ID  citrate synthase
+DN  citrate (Si)-synthase (EC 2.3.3.1)
+RQ  1
+EV  IPR010953; TIGR01798; sufficient;
+TG  GO:0006099;
+EV  IPR011278; TIGR01800; sufficient;
+TG  GO:0006099;
+EV  IPR010109; TIGR01793; sufficient;
+TG  GO:0006099;
+--
+SN  2
+ID  aconitate hydratase
+DN  aconitate hydratase (EC 4.2.1.3)
+RQ  1
+EV  IPR006249; TIGR01341; sufficient;
+TG  GO:0006099;
+EV  IPR004406; TIGR00117; sufficient;
+TG  GO:0006099;
+EV  IPR006248; TIGR01340; sufficient;
+TG  GO:0006099;
+--
+SN  3
+ID  isocitrate dehydrogenase
+DN  isocitrate dehydrogenase (EC 1.1.1.42 1.1.1.41)
+RQ  1
+EV  IPR004434; TIGR00175; sufficient;
+TG  GO:0006099;
+EV  IPR004790; TIGR00127; sufficient;
+TG  GO:0006099;
+EV  IPR004436; TIGR00178; sufficient;
+TG  GO:0006099;
+EV  IPR004439; TIGR00183; sufficient;
+TG  GO:0006099;
+EV  IPR014273; TIGR02924; sufficient;
+TG  GO:0006099;
+--
+SN  4
+ID  2-oxoglutarate dehydrogenase system
+DN  oxoglutarate dehydrogenase (succinyl-transferring) (EC 1.2.4.2)
+RQ  1
+EV  GenProp0630;
+TG  GO:0006099;
+--
+SN  5A
+ID  succinyl-CoA synthetase, alpha subunit
+DN  succinate--CoA ligase, alpha subunit (EC 6.2.1.-)
+RQ  1
+EV  IPR005810; TIGR01019; sufficient;
+TG  GO:0006099;
+--
+SN  5B
+ID  succinyl-CoA synthetase, beta subunit
+DN  succinate--CoA ligase, beta subunit (EC 6.2.1.-)
+RQ  1
+EV  IPR005809; TIGR01016; sufficient;
+TG  GO:0006099;
+--
+SN  6A
+ID  succinate dehydrogenase, flavoprotein subunit
+DN  succinate dehydrogenase, flavoprotein subunit (EC 1.3.99.1)
+RQ  1
+EV  IPR011281; TIGR01816; sufficient;
+TG  GO:0006099;
+EV  IPR011280; TIGR01811; sufficient;
+TG  GO:0006099;
+--
+SN  6B
+ID  succinate dehydrogenase, iron-sulfur protein
+DN  succinate dehydrogenase, iron-sulfur subunit (EC 1.3.99.1)
+RQ  1
+EV  IPR004489; TIGR00384; sufficient;
+TG  GO:0006099;
+--
+SN  6C
+ID  succinate dehydrogenase, cytochrome b subunit
+DN  succinate dehydrogenase, cytochrome b subunit (EC 1.3.99.1)
+RQ  1
+EV  IPR014314; TIGR02970; sufficient;
+TG  GO:0006099;
+EV  IPR011138; TIGR02046; sufficient;
+--
+SN  6D
+ID  succinate dehydrogenase, hydrophobic membrane anchor
+DN  succinate dehydrogenase, hydrophobic membrane anchor protein (EC 1.3.99.1)
+RQ  0
+EV  IPR014312; TIGR02968; sufficient;
+TG  GO:0006099;
+--
+SN  7iC/7ii
+ID  fumarate hydratase, class I C-term or class II
+DN  fumarate hydratase (EC 4.2.1.2)
+RQ  1
+EV  IPR005677; TIGR00979; sufficient;
+TG  GO:0006099;
+EV  IPR004647; PF05683; sufficient;
+TG  GO:0006099;
+--
+SN  7iN/7ii
+ID  fumarate hydratase, class I N-term or class II
+DN  fumarate hydratase (EC 4.2.1.2)
+RQ  1
+EV  IPR005677; TIGR00979; sufficient;
+TG  GO:0006099;
+EV  IPR004646; PF05681; sufficient;
+--
+SN  8
+ID  malate dehydrogenase
+DN  malate dehydrogenase (EC 1.1.1.37)
+RQ  1
+EV  IPR010945; TIGR01759; sufficient;
+EV  IPR011274; TIGR01758; sufficient;
+TG  GO:0006099;
+EV  IPR011275; TIGR01763; sufficient;
+TG  GO:0006099;
+EV  IPR010097; TIGR01772; sufficient;
+TG  GO:0006099;
+EV  IPR006231; TIGR01320; sufficient;
+TG  GO:0006099;
+//

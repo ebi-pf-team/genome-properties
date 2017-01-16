@@ -1,0 +1,50 @@
+AC  GenProp0753
+DE  mycothiol biosynthesis
+TP  PATHWAY
+AU  Haft D
+TH  0
+RN  [1]
+RM  16674910
+RT  A coupled spectrophotometric assay for l-cysteine:1-D-myo-inosityl
+RT  2-amino-2-deoxy-alpha-D-glucopyranoside ligase and its application for
+RT  inhibitor screening.
+RA  Newton GL, Ta P, Sareen D, Fahey RC;
+RL  Anal Biochem. 2006;353:167-173.
+CC  Mycothiol is a thiol, a glutathione analog, found in Mycobacterium
+CC  tuberculosis, Corynebacterium glutamicum, Streptomyces coelicolor, and
+CC  related species. Four genes associated with its biosynthesis,
+CC  designated mshA, mshB, mshC, and mshD, are scattered in the M.
+CC  tuberculosis genome rather than arranged as an operon. A fifth reaction
+CC  associated with this biosynthesis, a phosphatase designated MsaA2, has
+CC  been described by, apparently, not yet assigned to a specific protein.
+CC  Genomes with this biosynthesis system will have other proteins that
+CC  make use of mycothiol.
+--
+SN  MshA
+ID  D-inositol-3-phosphate glycosyltransferase
+DN  mycothiol biosynthesis glycosyltransferase, MshA (EC 2.4.1.-)
+RQ  1
+EV  IPR017814; TIGR03449;
+TG  GO:0010125;
+--
+SN  MshB
+ID  mycothiol biosynthesis protein B
+DN  mycothiol biosynthesis protein B (EC 2.4.1.-)
+RQ  1
+EV  IPR017810; TIGR03445;
+TG  GO:0010125;
+--
+SN  MshC
+ID  mycothiol biosynthesis Cys ligase
+DN  cysteinyl-tRNA ligase (EC 6.1.1.-)
+RQ  1
+EV  IPR017812; TIGR03447;
+TG  GO:0010125;
+--
+SN  MshD
+ID  mycothiol biosynthesis acetyltransferase
+DN  mycothiol biosynthesis acetyltransferase protein, MshD (EC 2.3.1.-)
+RQ  1
+EV  IPR017813; TIGR03448;
+TG  GO:0010125;
+//

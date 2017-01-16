@@ -1,0 +1,71 @@
+AC  GenProp0190
+DE  phosphate ABC transporter (pstSCAB-phoU)
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  This property represents an ABC-type transporter for inorganic
+CC  phosphate, P(i), consisting of genes related to the pstSCAB genes in
+CC  Escherichia coli. In E. coli,  pstSCAB represents a high-affinity
+CC  transporter and is induced by low external P(i) concentrations; a
+CC  constitutive, low affinity transporter PitA, also is found. Included in
+CC  this property is PhoU, a regulatory protein of unknown mechanism,
+CC  generally found adjacent to the pstSCAB genes.
+**  Note some variation in PstA and PstC between species, e.g. long
+**  hydrophilic inserts. PstS (binding protein) is split into separate
+**  families. Some info above from PMID: 11489853. DHH.
+--
+SN  phoB
+ID  regulatory protein PhoB
+DN  phosphate regulon transcriptional regulatory protein phoB
+RQ  0
+EV  IPR011879; TIGR02154; sufficient;
+TG  GO:0051049;
+--
+SN  phoR
+ID  regulatory protein PhoR
+DN  phosphate regulon sensor protein phoR (EC 2.7.13.3)
+RQ  0
+EV  IPR014310; TIGR02966; sufficient;
+TG  GO:0006817;
+--
+SN  phoU
+ID  regulatory protein PhoU
+DN  phosphate transport system regulatory protein PhoU
+RQ  0
+EV  IPR026022; PF01895; sufficient;
+TG  GO:0051049;
+EV  IPR028366; TIGR02135; sufficient;
+TG  GO:0051049;
+--
+SN  pstA
+ID  permease pstA
+DN  phosphate ABC transporter, permease protein PtsA
+RQ  1
+EV  IPR005672; TIGR00974; sufficient;
+TG  GO:0006817;
+--
+SN  pstB
+ID  phosphate transporter, ATP-binding protein PstB
+DN  phosphate ABC transporter, ATP-binding protein pstB (EC 3.6.3.27)
+RQ  1
+EV  IPR005670; TIGR00972; sufficient;
+TG  GO:0006817;
+--
+SN  pstC
+ID  permease pstC
+DN  phosphate ABC transporter, permease protein PstC
+RQ  1
+EV  IPR011864; TIGR02138; sufficient;
+TG  GO:0006817;
+--
+SN  pstS
+ID  periplasmic protein
+DN  NOT APPLICABLE
+RQ  1
+EV  IPR005673; TIGR00975; sufficient;
+TG  GO:0006817;
+EV  IPR011862; TIGR02136; sufficient;
+TG  GO:0006817;
+EV  IPR030980; TIGR04505;
+TG  GO:0006817;
+//

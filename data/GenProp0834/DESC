@@ -1,0 +1,27 @@
+AC  GenProp0834
+DE  proteasome, bacterial
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  The proteasome, a large complex formed of alpha and beta subunits,
+CC  performs protein degradation in eukaryotes, archaea, and bacteria. This
+CC  Genome Property describes a bacterial 20S proteasome that approximates
+CC  being restricted to and universal in the Actinobacteria. Nearly all
+CC  bacterial with this proteasomal system use pupylation to tag proteins
+CC  as proteasomal targets. The HslVU system in many bacteria is related,
+CC  with HslV homologous to the proteasome beta subunit, but that system is
+CC  outside the scope of the archaeal-type bacterial 20S proteasome
+CC  described here.  
+--
+SN  prcA
+ID  proteasome, alpha subunit
+RQ  1
+EV  IPR022296; TIGR03691;
+TG  GO:0010498;
+--
+SN  prcB
+ID  proteasome, beta subunit
+RQ  1
+EV  IPR022483; TIGR03690;
+TG  GO:0010498;
+//

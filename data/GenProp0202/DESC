@@ -1,0 +1,9 @@
+AC  GenProp0202
+DE  nitrogen metabolism
+TP  CATEGORY
+AU  Haft D
+TH  0
+DC  Nitrogen metabolism
+DR  KEGG; map00910;
+CC  Processes handling and interconverting nitrogen-containing molecules.
+//

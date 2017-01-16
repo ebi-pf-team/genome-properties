@@ -1,0 +1,21 @@
+AC  GenProp0194
+DE  siroheme biosynthesis from uroporphrinogen-III
+TP  PATHWAY
+AU  Haft D
+TH  0
+--
+SN  1
+ID  C-methyltransferase
+RQ  1
+EV  IPR006366; TIGR01469; sufficient;
+--
+SN  2
+ID  oxidase
+RQ  1
+EV  IPR006367; TIGR01470; sufficient;
+--
+SN  3
+ID  ferrochelatase
+RQ  1
+EV  IPR006367; TIGR01470; sufficient;
+//

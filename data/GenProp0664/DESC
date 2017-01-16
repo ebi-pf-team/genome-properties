@@ -1,0 +1,38 @@
+AC  GenProp0664
+DE  protein sorting system, sortase type, SrtB class
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  15028680
+RT  Sortase B, a new class of sortase in Listeria monocytogenes.
+RA  Bierne H, Garandeau C, Pucciarelli MG, Sabet C, Newton S, Garcia-del
+RA  Portillo F, Cossart P, Charbit A;
+RL  J Bacteriol. 2004;186:1972-1982.
+RN  [2]
+RM  15317792
+RT  A novel sortase, SrtC2, from Streptococcus pyogenes anchors a surface
+RT  protein containing a QVPTGV motif to the cell wall.
+RA  Barnett TC, Patel AR, Scott JR;
+RL  J Bacteriol. 2004;186:5865-5875.
+CC  This is a family of sortases and their substrates, less abundant than
+CC  the housekeeping sortase, SrtA, and the LPXTG-like target sequences.
+CC  SrtB is Listeria monocytogenes appears to process two classes of
+CC  signal, NXZTN and NPKXZ (see PMID:16247833). Note that the protein
+CC  called SrtB in Streptococcus pyogenes (see PMID:11914350) is a member
+CC  of the SrtA family, not the family described here, while the protein
+CC  called SrtC2 is a member of the SrtB family (see PMID:15317792).
+--
+SN  SrtB
+ID  sortase, SrtB family
+RQ  1
+EV  IPRXXXX; PF07170; sufficient;
+EV  IPR009835; TIGR03064; sufficient;
+--
+SN  target
+ID  sortase B target sequence
+RQ  1
+EV  IPR017502; TIGR03063; sufficient;
+EV  IPR017503; TIGR03065; sufficient;
+EV  IPR017505; TIGR03068; sufficient;
+//

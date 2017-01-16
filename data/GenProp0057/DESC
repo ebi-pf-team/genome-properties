@@ -1,0 +1,71 @@
+AC  GenProp0057
+DE  NAD(P) biosynthesis from L-aspartate and DHAP
+TP  PATHWAY
+AU  Haft D
+TH  0
+RN  [1]
+RM  12496312
+RT  Aspartate dehydrogenase, a novel enzyme identified from structural and
+RT  functional studies of TM1643.
+RA  Yang Z, Savchenko A, Yakunin A, Zhang R, Edwards A, Arrowsmith C, Tong
+RA  L;
+RL  J Biol Chem. 2003;278:8804-8808.
+DC  Nicotinate and nicotinamide metabolism
+DR  KEGG; map00760;
+CC  Nicotinamide adenine dinucleotide (NAD+) and nicotinamide adenine
+CC  dinucleotide phosphate (NADP+) also known as pyridine nucleotides, are
+CC  cofactors involved in numerous redox reactions through reversible
+CC  reactions to their reduced forms NADH and NADPH.      In bacteria, NAD+
+CC  is synthesized in a 5 step reaction (NadABCDE) from L-aspartate and
+CC  NADP+ is made from NAD+ by the action of NAD kinase.    In mammals, an
+CC  altenative pathway exists in which the intermediate quinolinate is made
+CC  from L-tryptophan.    NAD+ may also be recycled from nicotinamide after
+CC  nucleosidease cleavage, or synthesized from imported nicotinate
+CC  (niacin).
+--
+SN  1
+ID  L-aspartate oxidase (or dehydrogenase)
+DN  L-aspartate oxidase (EC 1.4.3.16)
+RQ  0
+EV  IPR005288; TIGR00551; sufficient;
+TG  GO:0009435;
+EV  IPR022487; TIGR03855;
+TG  GO:0009435;
+--
+SN  2
+ID  quinolinate synthetase complex, A subunit
+DN  quinolinate synthetase A
+RQ  1
+EV  IPR003473; TIGR00550; sufficient;
+TG  GO:0009435;
+--
+SN  3
+ID  nicotinate-nucleotide pyrophosphorylase
+DN  nicotinate-nucleotide pyrophosphorylase (EC 2.4.2.19)
+RQ  1
+EV  IPR004393; TIGR00078; sufficient;
+TG  GO:0009435;
+--
+SN  4
+ID  nicotinate nucleotide adenylyltransferase
+DN  nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+RQ  1
+EV  IPR005248; TIGR00482; sufficient;
+TG  GO:0009435;
+EV  IPR006418; TIGR01527; sufficient;
+TG  GO:0009435;
+--
+SN  5
+ID  NAD+ synthetase
+DN  NAD+ synthase (EC 6.3.1.5)
+RQ  1
+EV  IPR003694; TIGR00552; sufficient;
+TG  GO:0009435;
+--
+SN  6
+ID  NAD kinase
+DN  NAD+ kinase (EC 2.7.1.23)
+RQ  0
+EV  IPR002504; PF01513; sufficient;
+TG  GO:0009435;
+//

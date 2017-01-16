@@ -1,0 +1,68 @@
+AC  GenProp0678
+DE  c-type cytochrome biogenesis, system I
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  15513913
+RT  CcmD is involved in complex formation between CcmC and the heme
+RT  chaperone CcmE during cytochrome c maturation.
+RA  Ahuja U, Thöny-Meyer L;
+RL  J Biol Chem. 2005;280:236-243.
+CC  Assembling c-type cytochromes outside the bacterial inner membrane
+CC  requires apocytochome export, heme export, heme ligation, and
+CC  chaperones for both heme and apocytochromes, Of three different c-type
+CC  cytochrome biogenesis systems, this is system I. It features the operon
+CC  ccmABCDEFGHI in Escherichia coli and the equivalent genes in many other
+CC  bacterial species.
+**  Several of the HMMs have definitions WAY too narrow, so property is
+**  zero-ed out in gdv Desulfovibrio, ntmm01 Methanosarcina, etc. Just
+**  built TIGR04391 for a subfamily that seems to include an alternate form
+**  of CcmD, November 2012. NEEDS WORK.
+--
+SN  CcmA
+ID  heme ABC exporter, ATP-binding protein CcmA
+RQ  1
+EV  IPR005895; TIGR01189; sufficient;
+--
+SN  CcmB
+ID  heme exporter protein CcmB
+RQ  1
+EV  IPR026031; TIGR01190; sufficient;
+--
+SN  CcmC
+ID  heme exporter protein CcmC
+RQ  1
+EV  IPR003557; TIGR01191; sufficient;
+--
+SN  CcmD
+ID  heme exporter protein CcmD
+RQ  1
+EV  IPR007078; PF04995; sufficient;
+EV  IPRO30888; TIGR04391; sufficient;
+--
+SN  CcmE
+ID  cytochrome c-type biogenesis protein CcmE
+RQ  1
+EV  IPR004329; PF03100; sufficient;
+--
+SN  CcmF
+ID  cytochrome c-type biogenesis protein CcmF
+RQ  1
+EV  IPR003568; TIGR00353; sufficient;
+--
+SN  CcmG
+ID  CcmG protein
+RQ  1
+EV  IPR004799; TIGR00385; sufficient;
+--
+SN  CcmH
+ID  cytochrome C biogenesis protein CcmH/CycL/NrfF/Ccl2
+RQ  1
+EV  IPR005616; PF03918; sufficient;
+--
+SN  CcmI
+ID  cytochrome c-type biogenesis protein CcmI
+RQ  0
+EV  IPR017560; TIGR03142; sufficient;
+//

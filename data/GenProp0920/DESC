@@ -1,0 +1,26 @@
+AC  GenProp0920
+DE  radical SAM Y_X(10)_GDL system
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  21478363
+RT  Biological systems discovery in silico: radical S-adenosylmethionine
+RT  protein families and their target peptides for posttranslational
+RT  modification.
+RA  Haft DH, Basu MK;
+RL  J Bacteriol. 2011;193:2745-2755.
+CC  This Genome Property consists of radical SAM protein family TIGR03913
+CC  and its presumptive target family PF08898, which may exist in multiple
+CC  copies.
+--
+SN  GDL_SAM
+ID  Y_X(10)_GDL-associated radical SAM protein
+RQ  1
+EV  IPR023820; TIGR03913;
+--
+SN  GDL_dom
+ID  Y_X(10)_GDL domain protein
+RQ  1
+EV  IPR014994; PF08898;
+//

@@ -1,0 +1,19 @@
+AC  GenProp0960
+DE  protein sorting system, MYXO-CTERM/unknown of Deltaproteobacteria
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  The sorting signal is TIGR03382/TIGR03901 (accidentally built twice,
+CC  and not yet clear which is better). The handling machinery is not yet
+CC  worked out.
+--
+SN  sorter
+ID  unknown C-terminal GC-motif sorting enzyme
+RQ  1
+--
+SN  target
+ID  Deltaproteobacterial GC-motif protein sorting domain
+RQ  1
+EV  IPR017756; TIGR03382;
+EV  IPR024038; TIGR03901;
+//

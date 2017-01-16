@@ -1,0 +1,45 @@
+AC  GenProp0984
+DE  radical SAM maturase system, GG-Bacteroidales group
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  21478363
+RT  Biological systems discovery in silico: radical S-adenosylmethionine
+RT  protein families and their target peptides for posttranslational
+RT  modification.
+RA  Haft DH, Basu MK;
+RL  J Bacteriol. 2011;193:2745-2755.
+CC  This Genome Property is one of many in which a ribosomally translated
+CC  peptide is modified post-translationally. Many of the natural products
+CC  generated are bacteriocins, although bacteriocin activity cannot be
+CC  presumed. An odd feature of this system is the pairing of a radical SAM
+CC  enzyme (TIGR04148) with a degenerate radical SAM (pseudo-SAM) protein
+CC  (TIGR04150). In family TIGR04150, despite full-length homology, some
+CC  members have but other lack the radical SAM signature 4Fe4S-binding
+CC  site. All members, however, are best conserved at the C-terminus, where
+CC  the signature motif for the SPASM domain (as in Subtilosin, PQQ,
+CC  Anaearobic Sulfatase and Mycofactocin maturases) homology 4Fe4S binding
+CC  site (see TIGR04085) is invariant. This system occurs, so far, only in
+CC  the Bacteroidales.
+--
+SN  CFB_gly
+ID  glycosyltransferase, GG-Bacteroidales peptide system
+RQ  1
+EV  IPR026419; TIGR04157;
+--
+SN  CFB_mod
+ID  peptide-modifying radical SAM enzyme, GG-Bacteroidales family
+RQ  1
+EV  IPR026407; TIGR04148;
+--
+SN  CFB_pep
+ID  natural product precursor, GG-Bacteroidales family
+RQ  1
+EV  IPR026408; TIGR04149;
+--
+SN  CFB_pse
+ID  pseudo-rSAM protein, GG-Bacteroidales system
+RQ  1
+EV  IPR026418; TIGR04150;
+//

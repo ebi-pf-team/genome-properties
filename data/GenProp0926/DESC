@@ -1,0 +1,17 @@
+AC  GenProp0926
+DE  rSAM/TIGR03995 system
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  A radical SAM protein and NT01HMA3380
+--
+SN  CGCGGHV
+ID  putative rSAM target CGCGGHV motif protein
+RQ  1
+EV  IPR023906; TIGR03995;
+--
+SN  CG_rSAM
+ID  putative CGCGHHV-modifying radical SAM protein
+RQ  1
+EV  IPRXXXX; TIGR04053;
+//

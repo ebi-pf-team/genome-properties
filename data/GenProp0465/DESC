@@ -1,0 +1,30 @@
+AC  GenProp0465
+DE  circadian clock system KaiABC
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  Cyanobacteria have a system of proteins, KaiABC, capable of generating
+CC  rhythmic oscillations in the expression of other genes with a period of
+CC  about a day. KaiC performs autophosphorylations, modulated by its
+CC  interactions with the other clock proteins, and appears to act as
+CC  transcriptional repressor. This remarkable system can continue its
+CC  oscillations even in the absence of transcription and translation of
+CC  kaiABC itself. KaiB and KaiC, at least, may be universal among the
+CC  Cyanobacteria. Homologs outside the Cyanobacteria and paralogs within,
+CC  both with uncertain function, occur for KaiB and KaiC.
+--
+SN  KaiA
+ID  circadian clock protein KaiA
+RQ  1
+EV  IPR011648; PF07688; sufficient;
+--
+SN  KaiB
+ID  circadian clock protein KaiB
+RQ  1
+EV  IPR013474; TIGR02654; sufficient;
+--
+SN  KaiC
+ID  circadian clock protein KaiC
+RQ  1
+EV  IPR013503; TIGR02655; sufficient;
+//

@@ -1,0 +1,37 @@
+AC  GenProp0811
+DE  S-layer homology domain-mediated cell wall binding
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  10970841
+RT  Bacterial SLH domain proteins are non-covalently anchored to the cell
+RT  surface via a conserved mechanism involving wall polysaccharide
+RT  pyruvylation.
+RA  Mesnage S, Fontaine T, Mignot T, Delepierre M, Mock M, Fouet A;
+RL  EMBO J. 2000;19:4473-4484.
+CC  Two classes of S-layer homology domain (SLH) proteins are S-layer
+CC  proteins themselves and porin-like outer membrane proteins with
+CC  N-terminal SLH domains. Mesnage, et al. [1] have shown that CsaB (cell
+CC  surface anchoring B) in Bacillus anthracis catalyzes a pyruvyl group
+CC  addition to an LPS-associated polysaccharide, an addition that enables
+CC  non-covalent binding by SLH domain proteins to the cell wall. We have
+CC  built the model TIGR03609, representing a special clade within the
+CC  larger family described by Pfam model PF04230, and find that it tracks
+CC  closely with the SLH domain in its phylogenetic distribution. 
+**  Made the property initially with PF04230 for the pyruvoyl attachment
+**  protein, but then working from this Genome Property showed that the
+**  family could/should be split.
+--
+SN  S_layer
+ID  S-layer homology domain
+RQ  1
+EV  IPR001119; PF00395;
+--
+SN  S_poly
+ID  polysaccharide pyruvyl transferase
+DN  S-layer domain protein
+RQ  1
+EV  IPR019896; TIGR03609;
+TG  GO:0042545;
+//

@@ -1,0 +1,23 @@
+AC  GenProp0479
+DE  acetate -- acetyl-CoA interconversions
+TP  METAPATH
+AU  Haft D
+TH  0
+CC  acetate and acetyl-CoA can be interconverted for a number of purposes
+CC  including utilization of acetate as in acetate fermentation, excretion
+CC  of acetate in the fermentation of other compounds and the biosynthesis
+CC  of acetyl-CoA for other purposes.  Several different single-step and
+CC  multi-step pathways are summarized in this property.  The state of this
+CC  property will be YES if any of the component pathways are found and the
+CC  value field will hold the number of pathways found.
+--
+SN  dir ATP
+ID  direct with ATP/AMP: GenProp0480
+RQ  1
+EV  GenProp0480;
+--
+SN  via AcP
+ID  via acetyl phosphate: GenProp0478
+RQ  1
+EV  GenProp0478;
+//

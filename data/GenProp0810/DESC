@@ -1,0 +1,40 @@
+AC  GenProp0810
+DE  encapsulin proteinaceous organelle
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  22046962
+RT  Self-assembling, protein-based intracellular bacterial organelles:
+RT  emerging vehicles for encapsulating, targeting and delivering
+RT  therapeutical cargoes.
+RA  Corchero JL, Cedano J;
+RL  Microb Cell Fact. 2011;10:92.
+CC  The protein previously called linocin M18 is now recognized as
+CC  encapsulin, a self-assembling protein forming that associates with an
+CC  enzyme (typically a peroxidase) and forms a proteinaceous organelle.
+CC  Two quite different families, one a peroxidase, the other resembling
+CC  ferritins, can be packaged by encapsulin and have a similar C-terminal
+CC  motif, resembling DGSL[SGN]IGSL[KR], separated by a disordered region
+CC  from their respective core homology regions.
+**  Was not a bacteriocin after all. The two known families were known to
+**  rely on their tails, which are similar. I was able to find the same
+**  tail on heremrythrin-like and on an unknown family, adjacent to the
+**  encapsulin.  There could be others. Note: the best new science in this
+**  Genome Property is that I built TIGR04537 successfully.  But it does
+**  not hit anything in Thermotoga (it should) and may be missing the whole
+**  ferritin-like group - needs a twin.
+--
+SN  encap
+ID  encapsulin
+RQ  1
+EV  IPR007544; PF04454;
+--
+SN  inside
+ID  encapsulin-associated protein
+RQ  0
+EV  IPRXXXX; TIGR01413;
+EV  IPRXXXX; TIGR04535;
+EV  IPR030909; TIGR04536;
+EV  IPRXXXX; TIGR04537;
+//

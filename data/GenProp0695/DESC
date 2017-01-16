@@ -1,0 +1,28 @@
+AC  GenProp0695
+DE  cytochrome b558/566
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  15632423
+RT  Respiratory gene clusters of Metallosphaera sedula - differential
+RT  expression and transcriptional organization.
+RA  Kappler U, Sly LI, McEwan AG;
+RL  Microbiology. 2005;151:35-43.
+CC  Cytochrome b558/566 is a heterodimeric, highly glycosylated, mono-heme
+CC  cytochrome. It was described originally in Sulfolobus acidocaldarius, a
+CC  hyperthermoacidophilic member of the Crenarchaeota, and is found also
+CC  in related Crenarchaeota. It is suggested to work in a system analogous
+CC  to cytochrome bc1.
+**  still needs SoxL2 (working), SoxN.
+--
+SN  cbsA
+ID  cytochrome b558/566, subunit A
+RQ  1
+EV  IPR017572; TIGR03154; sufficient;
+--
+SN  cbsB
+ID  cytochrome b558/566, subunit B
+RQ  1
+EV  IPR017573; TIGR03155; sufficient;
+//

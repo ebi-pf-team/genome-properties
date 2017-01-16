@@ -1,0 +1,73 @@
+AC  GenProp0171
+DE  coenzyme A biosynthesis from pantothenate
+TP  PATHWAY
+AU  Haft D
+TH  1
+DC  Coenzyme A Biosynthesis (late stages)
+DR  IUBMB; misc; CoA2;
+CC  This property represents a 5-step pathway for the biosynthesis of
+CC  coenzyme A (CoA) from pantothenate. The first step, catalyzed by
+CC  pantothenate kinase, is carried out by at least two different known
+CC  protein families. One is found in most bacteria, including E. coli
+CC  (TIGR00554). Another is present in eukaryotes and in a few
+CC  Gram-positive bacteria (e.g. Staphylococcus aureus, Bacillus anthracis)
+CC  (TIGR00555). The enzyme, if present, has not been identified in a
+CC  number of species. The second and third enzymes are usually found
+CC  together in a multifunctional protein, phosphopantothenoylcysteine
+CC  decarboxylase/phosphopantothenate--cysteine ligase, once thought to
+CC  affect DNA metabolism as well. In Streptococcus and allies, and some
+CC  other species, the enzymes are encoded in tandem genes rather than
+CC  fused. CoaD and CoaE are, respectively, pantetheine-phosphate
+CC  adenylyltransferase and dephospho-CoA kinase.
+**  still need about 100 coaA including archaeal,  need archaeal coaD,
+**  coaE, and need to know YES/NO for chlamydias. DHH.
+--
+SN  coaA
+ID  pantothenate kinase
+DN  pantothenate kinase
+RQ  0
+EV  IPR004566; TIGR00554; sufficient;
+TG  GO:0015937;
+EV  IPR004567; TIGR00555; sufficient;
+TG  GO:0015937;
+EV  IPR004619; TIGR00671;
+TG  GO:0015937;
+--
+SN  coaB
+ID  phosphopantothenate--cysteine ligase
+DN  phosphopantothenate--cysteine ligase
+RQ  1
+EV  IPR005252; TIGR00521; sufficient;
+TG  GO:0015937;
+EV  IPR011848; TIGR02114; sufficient;
+TG  GO:0015937;
+--
+SN  coaC
+ID  phosphopantothenoylcysteine decarboxylase
+DN  phosphopantothenoylcysteine decarboxylase
+RQ  1
+EV  IPR005252; TIGR00521; sufficient;
+TG  GO:0015937;
+EV  IPR011847; TIGR02113; sufficient;
+TG  GO:0015937;
+--
+SN  coaD
+ID  pantetheine-phosphate adenylyltransferase
+DN  pantetheine-phosphate adenylyltransferase
+RQ  1
+EV  IPR001980; TIGR01510; sufficient;
+TG  GO:0015937;
+--
+SN  coaE
+ID  dephospho-CoA kinase
+DN  dephospho-CoA kinase
+RQ  1
+EV  IPR001977; TIGR00152; sufficient;
+TG  GO:0015937;
+--
+SN  panF
+ID  sodium/pantothenate symporter
+RQ  0
+EV  IPR011849; TIGR02119;
+TG  GO:0015937;
+//

@@ -1,0 +1,77 @@
+AC  GenProp0724
+DE  phosphonoacetaldehyde biosynthesis from phosphoenolpyruvate
+TP  PATHWAY
+AU  Haft D
+TH  0
+RN  [1]
+RM  1337066
+RT  Studies on the biosynthesis of bialaphos (SF-1293). 14. Nucleotide
+RT  sequence of phosphoenolpyruvate phosphomutase gene isolated from a
+RT  bialaphos producing organism, Streptomyces hygroscopicus, and its
+RT  expression in Streptomyces lividans.
+RA  Hidaka T, Hidaka M, Seto H;
+RL  J Antibiot (Tokyo). 1992;45:1977-1980.
+RN  [2]
+RM  9673017
+RT  Isolation and characterization of the PEP-phosphomutase and the
+RT  phosphonopyruvate decarboxylase genes from the phosphinothricin
+RT  tripeptide producer Streptomyces viridochromogenes Tü494.
+RA  Schwartz D, Recktenwald J, Pelzer S, Wohlleben W;
+RL  FEMS Microbiol Lett. 1998;163:149-157.
+RN  [3]
+RM  11035722
+RT  Bacteroides fragilis NCTC9343 produces at least three distinct capsular
+RT  polysaccharides: cloning, characterization, and reassignment of
+RT  polysaccharide B and C biosynthesis loci.
+RA  Coyne MJ, Kalka-Moll W, Tzianabos AO, Kasper DL, Comstock LE;
+RL  Infect Immun. 2000;68:6176-6181.
+CC  Phosphonacetaldehyde is a precursor of natural products, lipids and
+CC  polysaccharides containing phosphonates (C-P linkages).  Often this is
+CC  converted by an aminotransferase to the most common naturally occuring
+CC  phosphonate, 2-aminoethylphosphonate.
+--
+SN  AepX
+ID  PEP phosphomutase
+RQ  1
+EV  IPR012698; TIGR02320; sufficient;
+TG  GO:0006796;
+--
+SN  AepY
+ID  phosphonopyruvate decarboxylase
+RQ  1
+EV  IPR017684; TIGR03297; sufficient;
+TG  GO:0006796;
+--
+SN  AepZ
+ID  2-aminophosphonate transaminase
+RQ  0
+--
+SN  EPS
+ID  proximal marker of exopolysaccharide biosynthesis
+RQ  0
+EV  IPR002797; PF01943;
+--
+SN  Lipid
+ID  proximal marker of lipid biosynthesis
+RQ  0
+EV  IPRXXXX; PF01066;
+--
+SN  NatPrd
+ID  proximal marker of natural products biosynthesis
+RQ  0
+EV  IPRXXXX; TIGR01787;
+--
+SN  nuc-tr
+ID  proximal nucleotidyltransferase domain
+RQ  0
+EV  IPRXXXX; PF01467;
+EV  IPRXXXX; PF00483;
+EV  IPRXXXX; PF02348;
+--
+SN  oxido
+ID  proximal oxidoreductases/oxygenases
+RQ  0
+EV  IPRXXXX; PF00465;
+EV  IPR017656; TIGR03250;
+EV  IPRXXXX; PF03171;
+//

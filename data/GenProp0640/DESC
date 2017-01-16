@@ -1,0 +1,36 @@
+AC  GenProp0640
+DE  xanthine dehydrogenase
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  16597619
+RT  Rhodobacter capsulatus XdhC is involved in molybdenum cofactor binding
+RT  and insertion into xanthine dehydrogenase.
+RA  Neumann M, Schulte M, Jünemann N, Stöcklein W, Leimkühler S;
+RL  J Biol Chem. 2006;281:15701-15708.
+CC  Xanthine dehydrogenase is a molydbopterin-containing enzyme. It
+CC  converts xanthine, from the purine pool, to urate, which is
+CC  subsequently degraded. In bacteria, the enzyme usually is encoded as a
+CC  small subunit, XdhA, that contains FAD and 2Fe2S cofactors and a large
+CC  subunit, XdhB, that contains the molybdopterin cofactor. The accessory
+CC  protein XdhC is usually but not always encoded next to the XdhAB gene
+CC  pair.
+**  A source of molybdopterin is assumed, but not written into the property
+**  yet.
+--
+SN  xdhA
+ID  xanthine dehydrogenase, 2Fe2S/FAD subunit
+RQ  1
+EV  IPR014307; TIGR02963; sufficient;
+--
+SN  xdhB
+ID  xanthine dehydrogenase, molybdopterin subunit
+RQ  1
+EV  IPR014309; TIGR02965; sufficient;
+--
+SN  xdhC
+ID  xanthine dehydrogenase accessory protein XdhC
+RQ  1
+EV  IPR014308; TIGR02964; sufficient;
+//

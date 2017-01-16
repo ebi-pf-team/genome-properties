@@ -1,0 +1,25 @@
+AC  GenProp0703
+DE  4-hydroxybenzoyl-CoA reductase
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  This property represents an enzyme, 4-hydroxybenzoyl-CoA reductase,
+CC  that occurs as alpha2,beta2,gamma2 heterohexamer. This enzyme converts
+CC  4-hydroxybenzoyl-CoA, a metabolite of phenolic compounds, to
+CC  benzoyl-CoA.
+--
+SN  hcrA
+ID  4-hydroxybenzoyl-CoA reductase, alpha subunit
+RQ  1
+EV  IPR017607; TIGR03194; sufficient;
+--
+SN  hcrB
+ID  4-hydroxybenzoyl-CoA reductase, beta subunit
+RQ  1
+EV  IPR017608; TIGR03195; sufficient;
+--
+SN  hcrC
+ID  4-hydroxybenzoyl-CoA reductase, gamma subunit
+RQ  1
+EV  IPR017606; TIGR03193; sufficient;
+//

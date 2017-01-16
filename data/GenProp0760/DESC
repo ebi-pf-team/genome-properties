@@ -1,0 +1,43 @@
+AC  GenProp0760
+DE  putrescine degradation to GABA via gamma-glutamylation
+TP  PATHWAY
+AU  Haft D
+TH  0
+RN  [1]
+RM  15590624
+RT  A novel putrescine utilization pathway involves gamma-glutamylated
+RT  intermediates of Escherichia coli K-12.
+RA  Kurihara S, Oda S, Kato K, Kim HG, Koyanagi T, Kumagai H, Suzuki H;
+RL  J Biol Chem. 2005;280:4602-4608.
+CC  Four sequential enzymatic steps catalyze the degradation of putrescine
+CC  to GABA (gamma-aminobutyrate) in Escherichia coli and related species
+CC  by way of gamma-glutamylated intermediates. This modification prevents
+CC  occurrence of the unstable compound gamma-aminobutyraldhyde as an
+CC  intermediate. Note that mammalian cells appear to achieve a similar
+CC  protection for putrescine degradation by acetylation rather than
+CC  gamma-glutamylation. Genes for regulation of the system (puuR,
+CC  previously ycjC), for import of putrescine (puuP, previously ycjJ), and
+CC  for the conversion of GABA to succination semialdehyde (goaG) and then
+CC  succinate (gabD) are associated with this pathway but not modeled at
+CC  present as part of this Genome Property.
+--
+SN  puuA
+ID  glutamate--putrescine ligase
+RQ  1
+EV  IPRXXXX; 60;
+--
+SN  puuB
+ID  gamma-glutamylputrescine oxidase
+RQ  1
+EV  IPRXXXX; 61;
+--
+SN  puuC
+ID  gamma-glutamyl-gamma-aminobutyraldehyde dehydrogenase
+RQ  1
+EV  IPRXXXX; 62;
+--
+SN  puuD
+ID  gamma-glutamyl-gamma-aminobutyrate hydrolase
+RQ  1
+EV  IPRXXXX; 63;
+//

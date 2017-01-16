@@ -1,0 +1,30 @@
+AC  GenProp1010
+DE  accessory Sec system, Actinobacterial type
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  11717254
+RT  Two nonredundant SecA homologues function in mycobacteria.
+RA  Braunstein M, Brown AM, Kurtz S, Jacobs WR;
+RL  J Bacteriol. 2001;183:6979-6990.
+RN  [2]
+RM  17496088
+RT  Identification of two Mycobacterium smegmatis lipoproteins exported by
+RT  a SecA2-dependent pathway.
+RA  Gibbons HS, Wolschendorf F, Abshire M, Niederweis M, Braunstein M;
+RL  J Bacteriol. 2007;189:5090-5100.
+CC  The gene symbol secA2 arose twice in the literature for accessory
+CC  secretory systems acting in addition to the SecA (pre)protein
+CC  translocase system. This genome property describes the form as it
+CC  occurs in Mycobacterium tuberculosis and M. smegmatis. The two SecA2
+CC  families are both related to SecA but probably are not orthologous to
+CC  each other.
+**  Msmeg1712 and Msmeg1704 are SecA2 targets (lipoproteins). SodA MT_3960
+**  also.
+--
+SN  SecA2
+ID  accessory Sec system translocase SecA2
+RQ  1
+EV  IPR026389; TIGR04221;
+//

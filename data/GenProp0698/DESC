@@ -1,0 +1,25 @@
+AC  GenProp0698
+DE  xanthine catabolism to urate
+TP  METAPATH
+AU  Haft D
+TH  0
+CC  The committed step in the catabolism of purines is the oxidation of the
+CC  purine ring of xanthine (via hypoxanthine) to urate (uric acid).  The
+CC  xanthine may result from the deamination of guanine (or hypoxanthine
+CC  from adenine), or may be imported via a permease.  Several systems
+CC  exist for the conversion of xanthine to urate including the XdhABC
+CC  xanthine dehydrogenase complex (GenProp0640), xanthine oxidase and
+CC  other less well-described oxidoreductases.
+--
+SN  X->U
+ID  xanthine conversion to urate (uric acid)
+RQ  1
+EV  GenProp0640;
+--
+SN  Xan-in
+ID  source of xanthine
+RQ  1
+EV  IPR017588; TIGR03173; sufficient;
+EV  IPR006679; TIGR01178; sufficient;
+EV  IPR014311; TIGR02967; sufficient;
+//

@@ -1,0 +1,75 @@
+AC  GenProp0151
+DE  resistance to mercury
+TP  SYSTEM
+AU  Haft D
+TH  1
+RN  [1]
+RM  12917805
+RT  Operon mer: bacterial resistance to mercury and potential for
+RT  bioremediation of contaminated environments.
+RA  Nascimento AM, Chartone-Souza E;
+RL  Genet Mol Res. 2003;2:92-101.
+CC  Detoxification of inorganic and organic mercury compounds involves the
+CC  enzymatic reduction of extracellular mercuric ions or organomercurials
+CC  into less-toxic metallic mercury, where it is released into the
+CC  cytoplasm and volatiles from the cell. Mercuric ions diffuse across the
+CC  outer membrane by a mer transport system, which binds and transfers
+CC  mercury ions via a pair of cysteine residues to the active site of a
+CC  mercuric reductase. Alternatively, an organomercurial lyase is required
+CC  for hydrolysis of the carbon-mercury bond of organomercurial compounds
+CC  before reduction proceeds. Transcribed separately and divergently, a
+CC  mercury-sensitive transcriptional activator both positively and
+CC  negatively regulates mer expression, while a co-transcribed secondary
+CC  regulatory protein down-regulates this mer operon. This resistance
+CC  system, often encoded on plasmids and transferred via transposons, is
+CC  found in both gram-positive and gram-negative bacteria [1].
+--
+SN  MerA
+ID  mercuric reductase
+DN  mercuric reductase (EC 1.16.1.1)
+RQ  1
+EV  IPR021179; TIGR02053; sufficient;
+TG  GO:0050787;
+--
+SN  MerB
+ID  organomercurial lyase
+DN  alkylmercury lyase (EC 4.99.1.2)
+RQ  0
+EV  IPR004927; PF03243; sufficient;
+TG  GO:0046689;
+--
+SN  MerC
+ID  mercury transporter, MerC
+DN  mercuric resistance protein MerC
+RQ  1
+EV  IPR004891; PF03203; sufficient;
+TG  GO:0046689;
+--
+SN  MerD
+ID  transcriptional co-regulator, MerD
+DN  mercuric resistance transcriptional repressor MerD
+RQ  1
+EV  IPR011797; TIGR02054; sufficient;
+TG  GO:0046689;
+--
+SN  MerP
+ID  periplasmic mercury binding protein, MerP
+DN  mercuric transport protein periplasmic component MerP
+RQ  1
+EV  IPR011795; TIGR02052; sufficient;
+TG  GO:0050787;
+--
+SN  MerR
+ID  mercury responsive transcriptional activator
+DN  mercuric-responsive transcriptional activator MerR
+RQ  1
+EV  IPR011794; TIGR02051; sufficient;
+TG  GO:0046689;
+--
+SN  MerT
+ID  mercury transporter, MerT
+DN  mercuric transport protein MerT
+RQ  1
+EV  IPR003457; PF02411; sufficient;
+TG  GO:0046689;
+//

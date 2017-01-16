@@ -1,0 +1,24 @@
+AC  GenProp0219
+DE  spermidine biosynthesis from arginine (via agmatine)
+TP  METAPATH
+AU  Haft D
+TH  0
+CC  This pathway uses arginine decarboxylase followed by agmatinase
+CC  (agmatine ureohydrolase) instead of arginase (arginine ureohydrolase)
+CC  followed by ornithine decarboxylase to get to putrescine, the immediate
+CC  precursor of sperimidine.  One of several possible arginine degradation
+CC  pathways (see role_id 109) continues 3) putrescine transaminase 4)
+CC  pyrroline dehydrogenase 5) glutamate-succinic semialdehyde transaminase
+CC  6) succinic semialdehyde dehydrogenase.
+**  May want to make this a branched property later.
+--
+SN  1
+ID  putrescine biosynthesis from arginine (GenProp0642)
+RQ  1
+EV  GenProp0642;
+--
+SN  2
+ID  spermidine biosynthesis from putrescine (GenProp0641)
+RQ  1
+EV  GenProp0641;
+//

@@ -1,0 +1,32 @@
+AC  GenProp0896
+DE  proposed F420-0 transporter
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  This small clade of ABC-type transporters are found in Actinobacteria
+CC  containing numerous genes requiring the coenzyme F420.  This property
+CC  was defined based on five such organisms, four of which are lacking all
+CC  F420 biosynthetic capability save the final side-chain polyglutamate
+CC  attachment step (via the gene cofE: TIGR01916).  In Jonesia
+CC  denitrificans DSM 20603 and marine actinobacterium PHSC20C1 this
+CC  cassette is in an apparent operon with the cofE gene and, in PHSC20C1,
+CC  also with a F420-dependent glucose-6-phosphate dehydrogenase
+CC  (TIGR03554).  Based on these observations we propose that this is an
+CC  f420-0 (that is, F420 lacking only the polyglutamate tail) ABC
+CC  transporter.
+--
+SN  ATPase
+ID  proposed F420-0 transporter ATP-binding protein
+RQ  1
+EV  IPR022286; TIGR03873;
+--
+SN  peri
+ID  proposed F420-0 periplasmic binding protein
+RQ  1
+EV  IPR022287; TIGR03868;
+--
+SN  perm
+ID  proposed F420-0 permease
+RQ  1
+EV  IPR022410; TIGR03869;
+//

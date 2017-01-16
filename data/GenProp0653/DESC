@@ -1,0 +1,47 @@
+AC  GenProp0653
+DE  ectoine catabolism
+TP  PATHWAY
+AU  Haft D
+TH  0
+RN  [1]
+RM  15687193
+RT  Ectoine-induced proteins in Sinorhizobium meliloti include an Ectoine
+RT  ABC-type transporter involved in osmoprotection and ectoine catabolism.
+RA  Jebbar M, Sohn-Bösser L, Bremer E, Bernard T, Blanco C;
+RL  J Bacteriol. 2005;187:1293-1304.
+CC  This property describes a set of five genes, found together in an
+CC  operon in a number of bacteria, for ectoine catabolism. In
+CC  Sinorhizobium meliloti, where the system is partially characterized,
+CC  these genes occur together four genes for an ectoine/hydroxyectoine ABC
+CC  transporter for ectoine uptake.
+--
+SN  eutA
+ID  ectoine utilization protein EutA
+RQ  1
+EV  IPR014332; TIGR02990; sufficient;
+TG  GO:0042400;
+--
+SN  eutB
+ID  ectoine utilization protein EutB
+RQ  1
+EV  IPR014333; TIGR02991; sufficient;
+TG  GO:0042400;
+--
+SN  eutC
+ID  ectoine utilization protein EutC
+RQ  1
+EV  IPR014334; TIGR02992; sufficient;
+TG  GO:0042400;
+--
+SN  eutD
+ID  ectoine utilization protein EutD
+RQ  1
+EV  IPR014335; TIGR02993; sufficient;
+TG  GO:0042400;
+--
+SN  eutE
+ID  ectoine utilization protein EutE
+RQ  1
+EV  IPR014336; TIGR02994; sufficient;
+TG  GO:0042400;
+//

@@ -1,0 +1,22 @@
+AC  GenProp0808
+DE  bacteriocin system, TIGR01847 leader group
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  Get a better class name later. Conserved signal peptide.
+--
+SN  ABCtran
+ID  ABC-type bacteriocin transporter
+RQ  1
+EV  IPR005897; TIGR01193;
+--
+SN  leader
+ID  TIGR01847
+RQ  1
+EV  IPR010133; TIGR01847;
+--
+SN  sec_acc
+ID  secretion accessory protein
+RQ  1
+EV  IPR005696; TIGR01000;
+//

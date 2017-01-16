@@ -1,0 +1,39 @@
+AC  GenProp0023
+DE  glyoxylate shunt
+TP  PATHWAY
+AU  Haft D
+TH  0
+DC  Glyoxylate Cycle
+DR  IUBMB; misc; glyox;
+DC  Glyoxylate and Dicarboxylate Metabolism
+DR  KEGG; map00630;
+CC  The glyxoylate shunt consists of two enzymes, isocitrate lyase and
+CC  malate synthase. Its function is generally anaplerotic, meaning that it
+CC  replenishes TCA cycle intermediates. Isocitrate (one intermediate)
+CC  becomes succinate (one intermediate) plus glyoxylate. Glyoxylate plus
+CC  an acetyl group from acetyl-CoA becomes malate, a second intermediate,
+CC  for a gain of one. Acetyl groups, such as from fatty acid metabolism,
+CC  by means of this pathway, can provide TCA cycle intermediates for use
+CC  in amino acid biosynthesis and other biosynthetic pathways.
+**  I have still never seen the glyoxylate shunt enzymes unless the TCA
+**  cycle is complete.  Note: these genes should be upregulated by a shift
+**  from glycolytic (glucose is supplied) to gluconeogenic (acetate is
+**  supplied) conditions : let-s build an acetate update property to
+**  correlate. DHH.
+--
+SN  1
+ID  isocitrate lyase
+DN  isocitrate lyase (EC 4.1.3.1)
+RQ  1
+EV  IPR006254; TIGR01346; sufficient;
+TG  GO:0006097;
+--
+SN  2
+ID  malate synthase
+DN  malate synthase (EC 2.3.3.9)
+RQ  1
+EV  IPR006252; TIGR01344; sufficient;
+TG  GO:0006097;
+EV  IPR006253; TIGR01345; sufficient;
+TG  GO:0006097;
+//

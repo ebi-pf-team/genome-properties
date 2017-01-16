@@ -1,0 +1,47 @@
+AC  GenProp0719
+DE  methyl-coenzyme M reductase
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  Methyl-coenzyme M reductase is a nickel-containing, alpha2/beta2/gamma2
+CC  hexameric enzyme that catalyzes the final step in methanogenesis. This
+CC  enzyme has several novel post-translational modifications; it is found
+CC  in methanogenic archaea, many of which are hyperthermophiles. Many
+CC  archaea have two versions of this enzyme. It appears that some Archaea
+CC  are methanotrophic; homologous proteins act in the anaerobic oxidation
+CC  of methane rather than in methanogenesis.
+**  Because of post-translational modifications, define as system and
+**  include accessory proteins. Four of the five are a thiopeptide, an
+**  S-methylcysteine, a 1-N-methylhistidine and a 5-methylarginine (PMID:
+**  11023796)
+--
+SN  alpha
+ID  methyl-coenzyme M reductase, alpha subunit
+RQ  1
+EV  IPR016212; TIGR03256; sufficient;
+--
+SN  beta
+ID  methyl-coenzyme M reductase, beta subunit
+RQ  1
+EV  IPR003179; TIGR03257; sufficient;
+--
+SN  gamma
+ID  methyl-coenzyme M reductase, gamma subunit
+RQ  1
+EV  IPR003178; TIGR03259; sufficient;
+--
+SN  mcr_A2
+ID  methyl coenzyme M reductase system, component A2
+RQ  1
+EV  IPR017669; TIGR03269; sufficient;
+--
+SN  oper_C
+ID  methyl-coenzyme M reductase I operon protein C
+RQ  1
+EV  IPR007687; TIGR03264; sufficient;
+--
+SN  oper_D
+ID  methyl-coenzyme M reductase operon protein D
+RQ  1
+EV  IPR003901; TIGR03260; sufficient;
+//

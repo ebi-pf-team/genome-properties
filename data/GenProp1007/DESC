@@ -1,0 +1,44 @@
+AC  GenProp1007
+DE  orthobunyavirus protein set
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  This Genome Property collects HMMs that describe characteristic
+CC  proteins from examples of bunyavirus such as Oropouche virus, a
+CC  segmented, negative-strand ssRNA animal virus. Notable features include
+CC  a polyprotein with glycoprotein G2, nonstructural protein NSm, and
+CC  glycoprotein G1 encoded by the M segment, an RNA polymerase encoded on
+CC  segment L, and overlapping reading frames on the S segment encoding
+CC  nucleocapsid protein N and nonstructural protein NSs.
+**  The ends of the L protein (Bun_pol) are not modeled.
+--
+SN  Bun_G1
+ID  glycoprotein G1
+RQ  1
+EV  IPR005167; PF03557;
+--
+SN  Bun_G2
+ID  glycoprotein G2
+RQ  1
+EV  IPR005168; PF03563;
+--
+SN  Bun_N
+ID  bunyavirus nucleocapsid protein
+RQ  1
+EV  IPR001784; PF00952;
+--
+SN  Bun_NSm
+ID  non-structural protein NS-m
+RQ  1
+EV  IPR026400; TIGR04210;
+--
+SN  Bun_NSs
+ID  non-structural protein NS-s
+RQ  1
+EV  IPR000797; PF01104;
+--
+SN  Bun_pol
+ID  RNA-dependent RNA polymerase
+RQ  1
+EV  IPR007322; PF04196;
+//

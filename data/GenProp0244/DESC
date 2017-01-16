@@ -1,0 +1,51 @@
+AC  GenProp0244
+DE  chaperone system: DnaK-DnaJ-GrpE
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  15102842
+RT  Influence of GrpE on DnaK-substrate interactions.
+RA  Brehmer D, Gässler C, Rist W, Mayer MP, Bukau B;
+RL  J Biol Chem. 2004;279:27957-27964.
+CC  DnaK, DnaJ, and GrpE form a chaperone system. DnaK has ATPase activity.
+CC  DnaJ and GrpE are co-chaperones for DnaK, that is, stimulate this
+CC  activity. This system is also called the hsp70 heat-shock system.
+CC  Excluded from this system are the heat shock cognate (Hsc) homologs,
+CC  which are associated specifically with iron-sulfur cluster biosynthesis
+CC  (see GenProp0138, the iron-sulfur cluster assembly iscSUA-hscBA-fdx
+CC  system). The heat shock repressor HrcA is found in about half of
+CC  bacterial genomes with the DnaK-DnaJ-GrpE heat shock system, usually
+CC  encoded upstream in a heat shock operon; it is included here as an
+CC  optional component.
+**  When the HcrA model hits nothing, there generally is no upstream gene
+**  in operon - true negative.
+--
+SN  DnaJ
+ID  co-chaperone DnaJ
+DN  molecular chaperone DnaJ
+RQ  1
+EV  IPR012724; TIGR02349; sufficient;
+TG  GO:0006457;
+--
+SN  DnaK
+ID  chaperone DnaK
+DN  molecular chaperone DnaK
+RQ  1
+EV  IPR012725; TIGR02350; sufficient;
+TG  GO:0006457;
+--
+SN  GrpE
+ID  co-chaperone GrpE
+DN  molecular chaperone GrpE
+RQ  1
+EV  IPR000740; PF01025; sufficient;
+TG  GO:0006457;
+--
+SN  HrcA
+ID  heat shock gene repressor HrcA
+DN  heat-inducible transcription repressor HrcA
+RQ  0
+EV  IPR002571; TIGR00331; sufficient;
+TG  GO:0016481;
+//

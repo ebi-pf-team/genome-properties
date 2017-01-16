@@ -1,0 +1,38 @@
+AC  GenProp0311
+DE  competence-related genes
+TP  SYSTEM
+AU  Haft D
+TH  0
+**  Some uptake sequences: Neisseria ATGCCGTCTGAA, most Pasteurellacaea
+**  AAAGTGCGGT, and alternative Actinobacillus pleuropneumoniae ACAAGCGGTC
+--
+SN  ComEA
+ID  competence protein ComE/CelA
+RQ  1
+EV  IPR004509; TIGR00426; sufficient;
+--
+SN  ComEB
+ID  ComEB: CTP/dCTP deaminase family protein
+RQ  0
+EV  IPR013404; TIGR02571; sufficient;
+--
+SN  ComEC
+ID  DNA internalization-related competence protein ComEC/Rec2
+DN  DNA internalization-related competence protein ComEC/Rec2
+RQ  1
+EV  IPR004797; TIGR00361; sufficient;
+--
+SN  ComED
+ID  ComED
+RQ  0
+--
+SN  ComF
+ID  ComF
+RQ  0
+EV  IPR005222; TIGR00201; sufficient;
+--
+SN  ComK
+ID  ComK
+RQ  0
+EV  IPR010461; PF06338; sufficient;
+//

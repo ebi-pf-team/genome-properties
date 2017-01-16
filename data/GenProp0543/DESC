@@ -1,0 +1,44 @@
+AC  GenProp0543
+DE  TonB-dependent transport
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  The components of a TonB-dependent transport system include ExbB, ExbD,
+CC  and TonB, respectively homologous to TolQ, TolR, and TolA of related
+CC  tol-pal system. But while the tol-pal system includes seven genes
+CC  altogether, including the peptidoglycan associated lipoprotein Pal, and
+CC  seems required for maintaining integrity of the outer membrane, TonB
+CC  systems tend to be required for siderophore or B12 uptake when mutant
+CC  phenotypes are observed. At least two different exbB/exbD gene pair
+CC  families exist, and two different pairs of HMMs currently model two
+CC  different classes. The capacity for TonB-dependent transport is also
+CC  marked by the presence of TonB-dependent transporters, which share a
+CC  region of homology and may number more than 50 in a single genome.
+--
+SN  TonB
+ID  TonB C-terminal domain
+RQ  1
+EV  IPRXXXX; TIGR01352;
+--
+SN  barrel
+ID  barrel domain, tonB-dependent receptor
+RQ  0
+EV  IPR000531; PF00593; sufficient;
+--
+SN  exbB
+ID  tonB-system energizer ExbB
+RQ  1
+EV  IPR014164; TIGR02797; sufficient;
+EV  IPR014172; TIGR02805; sufficient;
+--
+SN  exbD
+ID  tonB-system energizer ExbD
+RQ  1
+EV  IPR014170; TIGR02803; sufficient;
+EV  IPR014171; TIGR02804; sufficient;
+--
+SN  plug
+ID  plug domain, tonB-dependent receptor
+RQ  0
+EV  IPR012910; PF07715; sufficient;
+//

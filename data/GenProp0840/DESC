@@ -1,0 +1,58 @@
+AC  GenProp0840
+DE  polyphosphate kinase/exopolyphosphatase system
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  15520374
+RT  Inorganic polyphosphate in the origin and survival of species.
+RA  Brown MR, Kornberg A;
+RL  Proc Natl Acad Sci U S A. 2004;101:16085-16087.
+CC  This property describes systems for polyphosphate metabolism, featuring
+CC  a polyphosphate kinase (PPK1) and an exopolyphosphatase that often are
+CC  encoded by adjacent genes. Polyphosphate can provide functions of
+CC  phosphate and energy storage and may form granules. Genes from this
+CC  system are often found next to genes of the inorganic phosphate
+CC  transport system ( GenProp0190). Performing the comparative genomics
+CC  for this system is tricky in part because of numbers of numerous
+CC  apparent bifunctional proteins, exopolyphosphatase/guanosine
+CC  pentaphosphate phosphohydrolase. Proteins of the polyphosphate kinase 2
+CC  (PPK2) family are largely restricted to species with PPK1 and help
+CC  produce GTP from GDP and polyphosphate.
+**  PF02541 Ppx/GppA phosphatase family  PF02503 PFAM_equivalog
+**  polyphosphate kinase   But I made a bunch of pairs for TIGRFAMs/GenProp
+**  versions.  Now I am adding PPK2 stuff, which is actually a broad family
+**  that I am splitting at least three ways.
+--
+SN  PP_ppk1
+ID  polyphosphate kinase 1
+RQ  1
+EV  IPR024953; PF02503;
+EV  IPR003414; TIGR03705;
+--
+SN  PP_ppx
+ID  exopolyphosphatase
+RQ  1
+EV  IPR022371; TIGR03706;
+EV  IPRXXXX; PF02541;
+--
+SN  PP_useA
+ID  polyphosphate kinase 2, PA0141 family
+RQ  0
+EV  IPR022486; TIGR03707;
+--
+SN  PP_useB
+ID  polyphosphate:AMP phosphotransferase
+RQ  0
+EV  IPR022489; TIGR03708;
+--
+SN  PP_useC
+ID  putative polyphosphate kinase
+RQ  0
+EV  IPR022300; TIGR03709;
+--
+SN  PP_useX
+ID  polyphosphate kinase 2
+RQ  0
+EV  IPR022488; PF03976;
+//

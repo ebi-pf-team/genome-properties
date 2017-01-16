@@ -1,0 +1,25 @@
+AC  GenProp0468
+DE  Entner-Doudoroff pathway
+TP  PATHWAY
+AU  Haft D
+TH  0
+CC  Glucose (in the first two steps of the pentose phosphate pathway) or
+CC  gluconate (in one step) can be converted to 6-phospho-D-gluconate. The
+CC  Entner-Doudoroff pathway is the degradation of 6-phospho-D-gluconate in
+CC  two steps to pyruvate and D-glyceraldehyde 3-phosphate. The
+CC  D-glyceraldehyde 3-phosphate can then be converted to pyruvate by
+CC  enzymes from glycolysis. This bacterial pathway is less widespread than
+CC  glycolysis and is an alternative to the early steps of glycolysis. 
+**  The aldolase part scares me, and it is clustered often enough that I
+**  elect to require clustering for preliminary form of this property.
+--
+SN  aldolas
+ID  2-dehydro-3-deoxyphosphogluconate aldolase
+RQ  1
+EV  IPRXXXX; TIGR01182;
+--
+SN  dehytase
+ID  6-phosphogluconate dehydratase
+RQ  1
+EV  IPR004786; TIGR01196; sufficient;
+//

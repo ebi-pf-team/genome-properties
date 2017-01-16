@@ -1,0 +1,35 @@
+AC  GenProp0744
+DE  glyoxalase pathway, glutathione dependent
+TP  PATHWAY
+AU  Haft D
+TH  0
+RN  [1]
+RM  17196158
+RT  Escherichia coli glyoxalase II is a binuclear zinc-dependent
+RT  metalloenzyme.
+RA  O'Young J, Sukdeo N, Honek JF;
+RL  Arch Biochem Biophys. 2007;459:20-26.
+CC  Glyoxalase I and glyoxalase II are the enzymes lactoylglutathione lyase
+CC  (EC 4.4.1.5) and hydroxyacylglutathione hydrolase (EC 3.1.2.6),
+CC  respectively. This system detoxifies methylglyoxal and other highly
+CC  reactive aldehydes. Glutathione serves a cofactor; variants of this
+CC  pathway may occur where glutathione is replaced by another cofactor
+CC  such as trypanothione in Trypanosoma cruzi (see PMID:16958620).  
+**  I found glyoxalase II by PPP vs. the glutathione biosynthesis property.
+**  While glutathione import is possible, it should always be present
+**  somehow. NOTE: I am seeing two different descriptions of what
+**  glyoxalase I is doing: isomerizing a spontaneous gluthione adduct, or
+**  adding glutathione !!.    It does both. JDS
+--
+SN  glox_I
+ID  lactoylglutathione lyase (glyoxalase I)
+RQ  1
+EV  IPR004361; TIGR00068;
+TG  GO:0051596;
+--
+SN  glox_II
+ID  hydroxyacylglutathione hydrolase (glyoxalase II)
+RQ  1
+EV  IPR017782; TIGR03413;
+TG  GO:0051596;
+//

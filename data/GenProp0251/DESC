@@ -1,0 +1,41 @@
+AC  GenProp0251
+DE  clpXP degradation machine
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  This property describes an energy-dependent protease, one of whose
+CC  tasks is degradation of abortively translated proteins tagged by the
+CC  tmRNA trans-translation system. ClpX is an ATPase that unfolds target
+CC  proteins for degradation; ClpP is a protease in complex with ClpX. SspB
+CC  is an example of an adaptor that brings targets, including but not
+CC  restricted to proteins tagged by trans-translation, to the ClpXP
+CC  machine.
+**  Explore idea of this property testing state of tmRNA property.
+--
+SN  SspB
+ID  adaptor SspB
+RQ  0
+EV  IPR007481; PF04386; sufficient;
+--
+SN  clpA
+ID  temp clpA
+RQ  0
+EV  IPR013461; TIGR02639; sufficient;
+--
+SN  clpP
+ID  Clp protease proteolytic subunit ClpP
+DN  ATP-dependent Clp protease, proteolytic subunit ClpP
+RQ  1
+EV  IPR001907; TIGR00493; sufficient;
+--
+SN  clpS
+ID  temp clpS
+RQ  0
+EV  IPR003769; PF02617; sufficient;
+--
+SN  clpX
+ID  Clp protease ATP-binding subunit ClpX
+DN  ATP-dependent Clp protease, ATP-binding subunit ClpX
+RQ  1
+EV  IPR004487; TIGR00382; sufficient;
+//

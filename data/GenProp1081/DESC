@@ -1,0 +1,45 @@
+AC  GenProp1081
+DE  replication restart, PriA/PriB primosome pathway
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  17588514
+RT  A hand-off mechanism for primosome assembly in replication restart.
+RA  Lopper M, Boonsombat R, Sandler SJ, Keck JL;
+RL  Mol Cell. 2007;26:781-793.
+RN  [2]
+RM  21641914
+RT  Binding of two PriA-PriB complexes to the primosome assembly site
+RT  initiates primosome formation.
+RA  Szymanski MR, Jezewska MJ, Bujalowski W;
+RL  J Mol Biol. 2011;411:123-142.
+CC  The bacterial primosome, as in E. coli, restarts replication at sites
+CC  away from oriC (where DnaA acts), the normal origin of replication.
+CC  PriB is a member of the larger family of single-stranded DNA-binding
+CC  (ssb) protein. It is nearly always located between the genes for
+CC  ribosomal protein S6 and S18, but appears to be only a subset of such
+CC  ssb family members. The ssb member from the same location in most
+CC  genomes is longer, and more closely related to a paralog of E. coli
+CC  PriB than to PriB itself.
+**  Lopper, et al quote: Two distinct replisome loading systems have been
+**  biochemically defined, one requiring PriA, PriB, and DnaT, and the
+**  other requiring only PriC (Heller and Marians, 2005). DnaT is rare and
+**  looks like a RelB addiction module antidote protein.
+--
+SN  DnaT
+ID  primosomal protein DnaT
+RQ  0
+--
+SN  PriA
+ID  primosome helicase PriA
+RQ  1
+EV  IPR005259; TIGR00595;
+TG  GO:0006269;
+--
+SN  PriB
+ID  primosome protein PriB
+RQ  1
+EV  IPR023646; TIGR04418;
+TG  GO:0006269;
+//

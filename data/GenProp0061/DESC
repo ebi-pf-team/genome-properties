@@ -1,0 +1,37 @@
+AC  GenProp0061
+DE  lipoprotein system lgt/lsp/lnt
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  YES  NO    Some membrane proteins are anchored to the membrane by a
+CC  lipid moiety attached to a modified N-terminus rather than by a
+CC  transmembrane helix. The characteristic enzymes of this modification
+CC  system are  lsp: prolipoprotein signal peptidase  lgt: prolipoprotein
+CC  diacylglycerol transferase  lnt: apolipoprotein N-acyltransferase  The
+CC  modifications are cleavage (by Lsp) of the lipoprotein signal sequence
+CC  at a motif resembling L-X-G/A-C to leave Cys as the new N-terminal
+CC  residue, then modification of the Cys sulfhydryl by prolipoprotein
+CC  diacylglyceryl transferase (Lgt), then acylation of the Cys NH2 by
+CC  apolipoprotein N-acyltransferase (Lnt).
+--
+SN  lgt
+ID  prolipoprotein diacylglyceryl transferase
+DN  prolipoprotein diacylglyceryl transferase (EC:2.4.99.-)
+RQ  1
+EV  IPR001640; TIGR00544; sufficient;
+TG  GO:0042158;
+--
+SN  lnt
+ID  apolipoprotein N-acyltransferase
+DN  apolipoprotein N-acyltransferase (EC:2.3.1.-)
+RQ  0
+EV  IPR004563; TIGR00546; sufficient;
+TG  GO:0042158;
+--
+SN  lsp
+ID  prolipoprotein signal peptidase
+DN  signal peptidase II (EC:3.4.23.36)
+RQ  1
+EV  IPR001872; TIGR00077; sufficient;
+TG  GO:0042158;
+//

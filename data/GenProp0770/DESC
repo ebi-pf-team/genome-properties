@@ -1,0 +1,23 @@
+AC  GenProp0770
+DE  siderophore biosynthesis
+TP  CATEGORY
+AU  Haft D
+TH  0
+CC  A siderophore is an iron-chelating molecule produced by various
+CC  bacteria, especially pathogens, when iron is limiting. Bacteria will
+CC  export the siderophore and re-import the iron-bound form; some species
+CC  successfully import siderophores that they themselves cannot make. Here
+CC  are some examples of siderophores that may be defined as Genome
+CC  Properties: Enterobactin (a catecholate) siderophore. Corynebactin.
+CC  Aerobactin (a hydroxamate). Yersiniabactin (a phenolate). Vibriobactin.
+CC  Malleobactin. Exochelin. Pyochelin. Marine amphiphilic siderophores.
+CC  Salmochelins. There are also fungal siderophores fusarinine C.
+**  and more: alcaligin (Bordetella pertussis, B.bronchiseptica),
+**  legiobactin , rhizobactin, rhizoferrin are, I think, all the same
+**  class. Burkholderia species have ornibactin, pyochelin, cepabactin and
+**  cepaciachelin. In Vibrio, also vibrioferrin, vanchrobactin,
+**  anguibactin, vulnibactinn. acinetobactin (Acinetobacter baumannii ATCC
+**  19606) a lot like anguibactin. Oh, and the polyhydroxycarboxylate type
+**  includes rhizobactin, rhizoferrin, vibrioferring, staphyloferrin B,
+**  achromobactin
+//

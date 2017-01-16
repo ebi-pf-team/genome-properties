@@ -1,0 +1,43 @@
+AC  GenProp0014
+DE  polyketide biosynthesis, type I
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  Allowed states:  YES  NO    Polyketides are an important class of
+CC  natural product which are assembled by the sequential addition of units
+CC  containing at minimum one acetate group.  Polyketides include many
+CC  antibiotics and other compounds of biological and economic importance. 
+CC  Polyketides may be synthesized by large multi-domain proteins (Type I
+CC  polyketide synthetases) which carry out a so-called thio-template
+CC  program in which successive modules of domains add single units to the
+CC  growing end of the polyketide chain, modify the newly added piece
+CC  (usually a series of reductions) and pass the chain on to the next
+CC  module.  The overall mechanism is similar to that observed in the
+CC  biosynthesis of fatty acids in animals via the Type I fatty acid
+CC  synthases.  By contrast, Type II polyketide synthetases, which are
+CC  similar to the Type II fatty acid synthases found in bacteria and
+CC  plants, consist of separate proteins for each of the various functions
+CC  involved in the overall process.  Plant chalcones and stilbenes are
+CC  synthesized by yet a third style of synthetase in which a single
+CC  condensing enzyme is active for all condensation steps.    Many of the
+CC  constituent domains of type I polyketide synthetases have been defined
+CC  by HMM models.  These include acyl transferase (PF00698),
+CC  beta-ketoacyl-synthase (PF00109, PF02801), acyl carrier protein
+CC  (PF00550) and thioesterase (PF00975) domains.  Other commonly found
+CC  domains which have not yet been represented by HMMs include
+CC  ketoreductase, dehydratase and enoyl reductase domains.    This genome
+CC  property will be set to YES if any single gene in the genome contains
+CC  domains corresponding to PF00698, PF00109, PF02801 and PF00550.  (These
+CC  correspond to the minimum set of domains for production of a polyketide
+CC  chain.)  Failing that condition, a YES will be set if two consecutive
+CC  genes in combination contain all of these domains (as type I polyketide
+CC  synthetases are sometimes found as multiple genes broken up between
+CC  some, but not all, of the domains).  Otherwise, the propery will be set
+CC  to NO.  A NULL value indicates that the genome has not yet been
+CC  evaluated with regard to this property.
+--
+SN  AT+KS+TE
+ID  acyl trans, keto synth and thioest domains in the same ORF
+DN  NOT APPLICABLE
+RQ  1
+//

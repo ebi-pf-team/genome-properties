@@ -1,0 +1,53 @@
+AC  GenProp0869
+DE  decarboxylation/antiport proton-motive cycle: arginine-agmatine
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  18790867
+RT  Outer and inner membrane proteins compose an arginine-agmatine exchange
+RT  system in Chlamydophila pneumoniae.
+RA  Smith CB, Graham DE;
+RL  J Bacteriol. 2008;190:7431-7440.
+RN  [2]
+RM  19298070
+RT  Crystal structure of the acid-induced arginine decarboxylase from
+RT  Escherichia coli: reversible decamer assembly controls enzyme activity.
+RA  Andréll J, Hicks MG, Palmer T, Carpenter EP, Iwata S, Maher MJ;
+RL  Biochemistry. 2009;48:3915-3927.
+CC  This Genome Property represents a proton-motive cycle. A cycle of
+CC  decarboxylating an arginine to agmatine plus CO2, then exchanging the
+CC  cytosolic agmatine for an extracellular arginine, has the net effect of
+CC  consuming one proton. The Chlamydophila pneumoniae system, unlike the
+CC  E. coli system, has a third component, and outer membrane porin.
+CC  Analogous systems for antiport of substrates related by decarboxylation
+CC  include, for example, the pairing of an asparate decarboxylase with an
+CC  aspartate-alanine antiporter, as in Tetragenococcus halophila. 
+**  An apparent projection into Yersinina (adjacent genes homologous to
+**  each) might be same substrate pair, might be more generic. Investigate,
+**  or use as demo for class-level extrapolation. The enzyme 4.1.1.19 shows
+**  up also in other contexts (see TIGR00286 and the biosynthetic form
+**  TIGR01273).
+--
+SN  aaxA
+ID  arginine/agmatine exchange system porin
+RQ  0
+EV  IPRXXXX; 2638;
+TG  GO:0010248;
+--
+SN  adiA
+ID  arginine decarboxylase, acid-induced
+RQ  1
+EV  IPRXXXX; 2635;
+TG  GO:0010248;
+EV  IPRXXXX; 2636;
+TG  GO:0010248;
+--
+SN  adiC
+ID  arginine/agmatine antiporter
+RQ  1
+EV  IPRXXXX; 2634;
+TG  GO:0010248;
+EV  IPRXXXX; 2637;
+TG  GO:0010248;
+//

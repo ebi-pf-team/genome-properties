@@ -1,0 +1,52 @@
+AC  GenProp0861
+DE  bacteriocin system, NHLP (nif11/nitrile hydratase leader peptide)
+DE  transport group
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  Model TIGR03793 describes a leader peptide region (homologous to the
+CC  nitrile hydratase alpha subunit) for peptides subject to modification
+CC  by bacteriocin-like maturation enzyme clusters, typically including
+CC  either a cyclodehydratase and a dehydrogenase (producing TOMMS -
+CC  Thiazole/Oxazole-Modified Microcins) or a lantibiotic synthase. Radical
+CC  SAM enzymes are commonly found as well. While sequences of the mature
+CC  peptides are highly variable, as are their modification clusters, the
+CC  leader peptide region shows a close phylogenetic correlation to a three
+CC  gene transporter operon, one subunit of which includes a protease
+CC  domain for cleavage at the Gly-Gly motif at the end of the leader
+CC  peptide region. This property describes the transport operon as well as
+CC  the leader peptide family. 
+--
+SN  NHLP
+ID  bacteriocin, nitrile hydratase-homologous leader family
+RQ  1
+EV  IPR022513; TIGR03793;
+EV  IPR022516; TIGR03798;
+TG  GO:0043213;
+--
+SN  NHLP_A
+ID  NHLP bacteriocin system ABC transporter, peptidase/ATP-binding protein
+RQ  1
+EV  IPR022515; TIGR03797;
+TG  GO:0043213;
+--
+SN  NHLP_H
+ID  NHLP class bacteriocin export protein, HlyD family
+RQ  1
+EV  IPR022275; TIGR03794;
+TG  GO:0043213;
+--
+SN  NHLP_X
+ID  NHLM bacteriocin system ABC transporter, peptidase/ATP-binding protein
+RQ  1
+EV  IPR022514; TIGR03796;
+TG  GO:0043213;
+--
+SN  NHLP_rS
+ID  NHLP bacteriocin system radical SAM enzyme
+RQ  0
+EV  IPR023984; TIGR03975;
+TG  GO:0043213;
+EV  IPR024016; TIGR04064;
+TG  GO:0043213;
+//

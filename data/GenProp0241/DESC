@@ -1,0 +1,54 @@
+AC  GenProp0241
+DE  phosphonate catabolism
+TP  METAPATH
+AU  Haft D
+TH  0
+RN  [1]
+RM  1556070
+RT  Evidence for two phosphonate degradative pathways in Enterobacter
+RT  aerogenes.
+RA  Lee KS, Metcalf WW, Wanner BL;
+RL  J Bacteriol. 1992;174:2501-2510.
+RN  [2]
+RM  8335257
+RT  Evidence for a fourteen-gene, phnC to phnP locus for phosphonate
+RT  metabolism in Escherichia coli.
+RA  Metcalf WW, Wanner BL;
+RL  Gene. 1993;129:27-32.
+RN  [3]
+RM  15231805
+RT  Two C-P lyase operons in Pseudomonas stutzeri and their roles in the
+RT  oxidation of phosphonates, phosphite, and hypophosphite.
+RA  White AK, Metcalf WW;
+RL  J Bacteriol. 2004;186:4730-4739.
+RN  [4]
+RM  11952414
+RT  Phosphonates and their degradation by microorganisms.
+RA  Kononova SV, Nesmeyanova MA;
+RL  Biochemistry (Mosc). 2002;67:184-195.
+CC  The capability to degrade phosphonates is believed to consist minimally
+CC   of a system for transporting phosphonate compounds (those with
+CC  carbon-PO3 linkages) coupled with a pathway for the hydrolysis of such
+CC  bonds. Two classes of system are known, those that handle broad classes
+CC  of phosphonate compounds and those that handle specific molecules.
+CC  Genomes with evidence for either system will be assigned the YES state
+CC  for this property.
+**  Futher transport and hydrolysis systems as of yet unmodelled most
+**  likely exist.
+--
+SN  assoc
+ID  Phosphonate catabolism operons associated proteins
+RQ  0
+EV  IPR017741; TIGR03364; sufficient;
+TG  GO:0019700;
+EV  IPR017670; TIGR03276; sufficient;
+TG  GO:0019700;
+--
+SN  phn_cat
+ID  phosphonate utilization systems
+RQ  1
+EV  GenProp0232;
+TG  GO:0019700;
+EV  GenProp0720;
+TG  GO:0019700;
+//

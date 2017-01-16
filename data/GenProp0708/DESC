@@ -1,0 +1,56 @@
+AC  GenProp0708
+DE  catechol meta-cleavage pathway
+TP  PATHWAY
+AU  Haft D
+TH  0
+CC  The metabolism of many aromatic compounds proceeds by way of catechol,
+CC  a compound chemically similar to benzene except that a pair of adjacent
+CC  H atoms of benzene are replaced by OH groups of catechol. This property
+CC  describes the meta-cleavage pathway, in which catechol 2,3-dioxygenase
+CC  cleaves the ring at the meta position. Degradation continues to
+CC  pyruvate and acetyl-CoA. Some compounds degraded by way of catechol and
+CC  this pathway include benzoate, toluene, salicylate, phenol, napthalene,
+CC  and 3,4-dimethylphenol (dmp).
+**  For now, steps labeled as for 3,4-dimethylphenol (dmp) operon. The 234
+**  step is shown as an alternative to steps 2,3,and 4, but for now all are
+**  in_rule=1. 
+--
+SN  1_dmpB
+ID  catechol 2,3-dioxygenase
+RQ  1
+EV  IPR017624; TIGR03211; sufficient;
+--
+SN  234dmpD
+ID  2-hydroxymuconic semialdehyde hydrolase
+RQ  1
+--
+SN  2_dmpC
+ID  2-hydroxymuconic semialdehyde dehydrogenase
+RQ  1
+EV  IPR017628; TIGR03216; sufficient;
+--
+SN  3_dmpI
+ID  4-oxalocrotonate isomerase
+RQ  1
+EV  IPR018191; TIGR00013; sufficient;
+--
+SN  4_dmpH
+ID  4-oxalocrotonate decarboxylase
+RQ  1
+EV  IPR017630; TIGR03218; sufficient;
+--
+SN  5_dmpE
+ID  2-oxopent-4-enoate hydratase
+RQ  1
+EV  IPR017632; TIGR03220; sufficient;
+--
+SN  6_dmpG
+ID  2-oxo-4-hydroxypentanoate aldolase
+RQ  1
+EV  IPR017629; TIGR03217; sufficient;
+--
+SN  7_dmpF
+ID  acetaldehyde dehydrogenase (acetylating)
+RQ  1
+EV  IPR003361; TIGR03215; sufficient;
+//

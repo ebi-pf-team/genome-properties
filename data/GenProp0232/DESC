@@ -1,0 +1,140 @@
+AC  GenProp0232
+DE  phosphonates C-P lyase system
+TP  SYSTEM
+AU  Haft D
+TH  2
+RN  [1]
+RM  15231805
+RT  Two C-P lyase operons in Pseudomonas stutzeri and their roles in the
+RT  oxidation of phosphonates, phosphite, and hypophosphite.
+RA  White AK, Metcalf WW;
+RL  J Bacteriol. 2004;186:4730-4739.
+RN  [2]
+RM  11952414
+RT  Phosphonates and their degradation by microorganisms.
+RA  Kononova SV, Nesmeyanova MA;
+RL  Biochemistry (Mosc). 2002;67:184-195.
+CC  Phosphonates are compounds similar to phosphates, but in which a direct
+CC  carbon-phosphorous bond replaces a carbon-oxygen-phosphorous linkage.
+CC  They chelate metals, adsorb strongly to surfaces, and are produced and
+CC  used industrially to prevent formation of scale on surfaces. The C-P
+CC  bond is remarkably stable compared to phosphate bonds, and phosphonate
+CC  utilization is rather uncommon. While some enzymes with fairly narrow
+CC  specificity are known that cleave the most common naturally occurring
+CC  phosphonates, this property describes a multisubunit C-P lyase system
+CC  with broad specificity. The specificity may differ from one case to
+CC  another, and two systems with overlapping but non-identical
+CC  specificities may occur in a single genome.
+**  PMID:11481431 All members of the Rhizobiaceae, including strain Rm1021,
+**  have been reported to be able to use phosphonates as a source of
+**  phosphate (56); several gene clusters involved in phosphonate
+**  degradation are located on pSymB (phnA, phnGHIJKL, phnM, and phoCDET).
+**  See also Nowack: Environmental chemistry of phosphonates in Water
+**  Research.  phnN is dual-use, also is a ribose 1,5-bisphosphokinase, NAD
+**  biosynthesis.
+--
+SN  PhnC
+ID  ABC transporter phosphonates ATP-binding protein
+DN  phosphonate ABC transporter, ATP-binding protein
+RQ  1
+EV  IPRXXXX; TIGR02315;
+TG  GO:0019700;
+--
+SN  PhnD
+ID  ABC transporter phosphonates-binding protein
+RQ  1
+EV  IPR017797; TIGR03431;
+TG  GO:0019700;
+--
+SN  PhnE
+ID  ABC transporter phosphonates permease
+DN  phosphonate ABC transporter, permease protein
+RQ  1
+EV  IPRXXXX; TIGR01097;
+TG  GO:0019700;
+--
+SN  PhnO
+ID  alkylamine acetyltransferase, PhnO
+RQ  0
+EV  IPR000182; PF00583;
+TG  GO:0019700;
+--
+SN  phn01
+ID  phosphonate metabolism protein, uncharacterized
+RQ  0
+EV  IPR009389; TIGR03223; sufficient;
+TG  GO:0019700;
+--
+SN  phn02
+ID  phosphonate metabolism protein, transferase hexapeptide repeat family
+RQ  0
+EV  IPR017694; TIGR03308; sufficient;
+TG  GO:0019700;
+--
+SN  phnF
+ID  PhnF transcriptional regulator
+RQ  0
+EV  IPR012702; TIGR02325; sufficient;
+--
+SN  phnG
+ID  PhnG unchar. phosphonate metabolism protein
+DN  phosphonate metabolism protein PhnG
+RQ  1
+EV  IPR009609; PF06754; sufficient;
+TG  GO:0019700;
+EV  IPR009609; TIGR03293; sufficient;
+TG  GO:0019700;
+--
+SN  phnH
+ID  PhnH unchar. phosphonate metabolism protein
+RQ  1
+EV  IPR008772; PF05845; sufficient;
+TG  GO:0019700;
+EV  IPR008772; TIGR03292; sufficient;
+TG  GO:0019700;
+--
+SN  phnI
+ID  PhnI unchar. phosphonate metabolism protein
+DN  phosphonate metabolism protein PhnI
+RQ  1
+EV  IPR008773; PF05861; sufficient;
+TG  GO:0019700;
+--
+SN  phnJ
+ID  PhnJ unchar. phosphonate metaboism protein
+DN  phosphonate metabolism protein PhnJ
+RQ  1
+EV  IPR010306; PF06007; sufficient;
+TG  GO:0019700;
+--
+SN  phnK
+ID  PhnK (ABC-like) C-P lyase protein, putative
+RQ  1
+EV  IPR012700; TIGR02323; sufficient;
+TG  GO:0019700;
+--
+SN  phnL
+ID  phosphonate C-P lyase system PhnL subunit
+RQ  1
+EV  IPR012701; TIGR02324; sufficient;
+TG  GO:0019700;
+--
+SN  phnM
+ID  PhnM unchar. phosphonate metabolism protein
+DN  phosphonate metabolism protein PhnM
+RQ  1
+EV  IPR012696; TIGR02318; sufficient;
+TG  GO:0019700;
+--
+SN  phnN
+ID  PhnN unchar. phosphonate metabolism protein
+RQ  0
+EV  IPR012699; TIGR02322; sufficient;
+TG  GO:0019700;
+--
+SN  phnP
+ID  PhnP unchar. phosphonate metabolism protein
+RQ  0
+EV  IPR017693; TIGR03307; sufficient;
+TG  GO:0019700;
+//

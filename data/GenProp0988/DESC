@@ -1,0 +1,52 @@
+AC  GenProp0988
+DE  elongation factor P beta-lysylation
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  20070887
+RT  Predicting the pathway involved in post-translational modification of
+RT  elongation factor P in a subset of bacterial species.
+RA  Bailly M, de Crécy-Lagard V;
+RL  Biol Direct. 2010;5:3.
+RN  [2]
+RM  20729861
+RT  A paralog of lysyl-tRNA synthetase aminoacylates a conserved lysine
+RT  residue in translation elongation factor P.
+RA  Yanagisawa T, Sumida T, Ishii R, Takemoto C, Yokoyama S;
+RL  Nat Struct Mol Biol. 2010;17:1136-1143.
+RN  [3]
+RM  22128152
+RT  Post-translational modification by β-lysylation is required for
+RT  activity of Escherichia coli elongation factor P (EF-P).
+RA  Park JH, Johansson HE, Aoki H, Huang BX, Kim HY, Ganoza MC, Park MH;
+RL  J Biol Chem. 2012;287:2579-2590.
+RN  [4]
+RM  22706199
+RT  Lys34 of translation elongation factor EF-P is hydroxylated by YfcM.
+RA  Peil L, Starosta AL, Virumäe K, Atkinson GC, Tenson T, Remme J, Wilson
+RA  DN;
+RL  Nat Chem Biol. 2012;8:695-697.
+CC  This system consists of a lysyl-tRNA ligase homolog and a lysine
+CC  2,3-aminomutase homolog frequently encoded next to elongation factor P
+CC  in bacteria and responsible for post-translational modification.
+**  A lysine, and maybe a spermide, added to a lysine. In euks, the site is
+**  hypusine. Some of the lysine 2,3-aminomutase models may be too finely
+**  split, too narrow in scope. Additional hydroxylation of EF-P at the
+**  same lysine residue by the YfcM protein.
+--
+SN  EFPepmC
+ID  Elongation Factor P Lys34 hydroxylase
+RQ  0
+EV  IPR007411; PF04315;
+--
+SN  EFPgenX
+ID  EF-P lysine aminoacylase GenX
+RQ  1
+EV  IPR004525; TIGR00462;
+--
+SN  EFPyjeK
+ID  EF-P lysine modification enzyme
+RQ  1
+EV  IPR022462; TIGR03821;
+//

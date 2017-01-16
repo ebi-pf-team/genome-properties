@@ -1,0 +1,32 @@
+AC  GenProp0961
+DE  heme metabolism pair HutWX
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  The hutW and hutX genes are found in Vibrio cholerae next to hutZ,
+CC  which is essential for heme utilization. HutW is homologous to the heme
+CC  carrier protein HemS, while HutW is homologous to (but does not
+CC  complement) the heme biosynthesis protein HemN. The gene pair is
+CC  occasionally fused, and may perform a salvage-like function, converting
+CC  one form of heme into another. HutZ, which resembles the PPOX class
+CC  heme oxidase HugZ, accompanies roughly half of the occurrences of HutW
+CC  and HutX.
+--
+SN  HutW
+ID  heme utilization radical SAM enzyme HutW
+RQ  1
+EV  IPR026332; TIGR04107;
+TG  GO:0042168;
+--
+SN  HutX
+ID  putative heme utilization carrier protein HutX
+RQ  1
+EV  IPR010413; TIGR04108;
+TG  GO:0042168;
+--
+SN  HutZ
+ID  heme utilization protein HutZ
+RQ  0
+EV  IPR014419; TIGR04110;
+TG  GO:0042168;
+//

@@ -1,0 +1,38 @@
+AC  GenProp0739
+DE  iron-sulfur cluster assembly CsdA-CsdE system
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  15901727
+RT  Analysis of the heteromeric CsdA-CsdE cysteine desulfurase, assisting
+RT  Fe-S cluster biogenesis in Escherichia coli.
+RA  Loiseau L, Ollagnier-de Choudens S, Lascoux D, Forest E, Fontecave M,
+RA  Barras F;
+RL  J Biol Chem. 2005;280:26760-26769.
+CC  The heteromeric complex of CsdA and CsdE plays a role in iron-sulfur
+CC  (Fe-S) cluster biosynthesis, as do the better-known systems ISC, SUF,
+CC  and NIF. CdsA, a homolog of SufS, IscS, and NifS, is a cysteine
+CC  desulfurase catalytic subunit. CdsE, a SufE homolog, physically
+CC  interacts and accepts a sulfur at Cys-61 (numbered as in Escherichia
+CC  coli). In contrast to sulfur-accepting components such as NifU and
+CC  IscU, CsdE does not bind iron and is not viewed as a scaffold on which
+CC  Fe-S cluster biosynthesis can be completed prior to transfer to other
+CC  proteins. Rather, this simplicity of this system may reflect a limited
+CC  role for the maturation of specific Fe-S cluster-containing proteins. 
+**  such as quinolinate synthetase, NadA, they say. That is, maybe
+**  S-donation is enough because the target protein itself is the scaffold.
+--
+SN  FeSCsdA
+ID  cysteine desulfurase, catalytic subunit CdsA
+DN  cysteine desulfurase, catalytic subunit CdsA (EC 2.8.1.7)
+RQ  1
+EV  IPR022471; TIGR03392;
+TG  GO:0016226;
+--
+SN  FeSCsdE
+ID  cysteine desulfurase, sulfur acceptor subunit CsdE
+RQ  1
+EV  IPR017763; TIGR03391;
+TG  GO:0016226;
+//

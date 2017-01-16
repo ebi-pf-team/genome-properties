@@ -1,0 +1,25 @@
+AC  GenProp0998
+DE  archaeal class III signal peptide system
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  17114255
+RT  Identification of diverse archaeal proteins with class III signal
+RT  peptides cleaved by distinct archaeal prepilin peptidases.
+RA  Szabó Z, Stahl AO, Albers SV, Kissinger JC, Driessen AJ, Pohlschröder
+RA  M;
+RL  J Bacteriol. 2007;189:772-778.
+CC  PF04021 describes class III signal peptide as in MJ_1469.
+**  UNFINISHED!!! PF04021 with lowered cutoff 18.0/18.0 gives 145 hits in
+**  44 species.
+--
+SN  III_ase
+ID  class III prepilin peptidase
+RQ  1
+--
+SN  III_sig
+ID  class III signal peptide
+RQ  1
+EV  IPR007166; PF04021;
+//

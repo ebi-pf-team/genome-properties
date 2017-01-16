@@ -1,0 +1,50 @@
+AC  GenProp0492
+DE  nonhomologous end-joining, bacterial type
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  16132081
+RT  Comparative and evolutionary analysis of the bacterial homologous
+RT  recombination systems.
+RA  Rocha EP, Cornet E, Michel B;
+RL  PLoS Genet. 2005;1:e15.
+RN  [2]
+RM  16046407
+RT  Essential constituents of the 3'-phosphoesterase domain of bacterial
+RT  DNA ligase D, a nonhomologous end-joining enzyme.
+RA  Zhu H, Wang LK, Shuman S;
+RL  J Biol Chem. 2005;280:33707-33715.
+CC  This property describes nonhomologous end-joining (NHEJ), a mechanism
+CC  for DNA repair of double-stranded breaks that appears significantly
+CC  less common in bacteria than, and uncorrelated with, recombinational
+CC  repair. The bacterial Ku protein typically is encoded next to the
+CC  multidomain, multifunctional DNA ligase, LidD. The domains of LigD,
+CC  which may be permuted, carry separable 3'-phosphoesterase (PE), DNA
+CC  ligase, and polymerase activities.
+**  See RecBCD/AddAB/RexAB for recombinational repair.
+--
+SN  Ku
+ID  Ku protein, bacterial type
+RQ  1
+EV  IPR009187; TIGR02772; sufficient;
+TG  GO:0006303;
+--
+SN  PE
+ID  3-prime phosphoesterase domain
+RQ  0
+EV  IPR014144; TIGR02777; sufficient;
+TG  GO:0006303;
+--
+SN  ligase
+ID  ligase domain
+RQ  1
+EV  IPR014146; TIGR02779; sufficient;
+TG  GO:0006303;
+--
+SN  poly
+ID  polymerase domain
+RQ  1
+EV  IPR014145; TIGR02778; sufficient;
+TG  GO:0006303;
+//

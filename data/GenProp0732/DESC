@@ -1,0 +1,22 @@
+AC  GenProp0732
+DE  methionine salvage enolase-phosphate pair MtnW/MtnX
+TP  PATHWAY
+AU  Haft D
+TH  0
+CC  In many species with methionine salvage from methylthioadenosine, a
+CC  single protein (MtnC) acts as an enolase-phosphatase. However, in
+CC  Bacillus subtilis and related species, the enolase and phosphate are
+CC  separate proteins designated MtnW and MtnX. The former resembles
+CC  RuBisCO and the latter belongs to the HAD superfamily hydrolases.
+**  Made to fit an alternate piece of property 60457
+--
+SN  mtnW
+ID  2,3-diketo-5-methylthiopentyl-1-phosphate enolase
+RQ  1
+EV  IPR017717; TIGR03332;
+--
+SN  mtnX
+ID  2-hydroxy-3-keto-5-methylthiopentenyl-1-phosphate phosphatase
+RQ  1
+EV  IPR017718; TIGR03333;
+//

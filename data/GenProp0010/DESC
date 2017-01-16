@@ -1,0 +1,25 @@
+AC  GenProp0010
+DE  inteins
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  YES  NO    This describes the property of having at least one intein
+CC  encoded anywhere in the genome, including within proteins that belong
+CC  to plasmids or phage regions.  An intein should appear as a large
+CC  insert in just one or two sequences of a multiple alignment with a hit
+CC  region for TIGR01445 toward the left end of the insert and a hit to
+CC  TIGR01443 toward the right. The region between may show endonuclease
+CC  homology.  
+--
+SN  C-TERM
+ID  intein C-terminal splicing region
+DN  NOT APPLICABLE
+RQ  1
+EV  IPR030934; TIGR01443; sufficient;
+--
+SN  N-TERM
+ID  intein N-terminal splicing region
+DN  NOT APPLICABLE
+RQ  1
+EV  IPR006141; TIGR01445; sufficient;
+//

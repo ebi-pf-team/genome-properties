@@ -1,0 +1,69 @@
+AC  GenProp0112
+DE  riboflavin, FAD and FMN from GTP and ribulose-5-P
+TP  PATHWAY
+AU  Haft D
+TH  2
+CC  Flavin-adenine dinucleotide (FAD) is synthesized via
+CC  flavinmononucleotide (FMN) and riboflavin (vitamin B2) from GTP,
+CC  ribulose-5-phosphate and ATP in a 9-step pathway.  FAD and FMN are
+CC  important carriers of hydrogen and electrons which are usually found
+CC  tightly bound or covalently linked to enzymes such as dehydrogenases,
+CC  oxidases and monooxygenases.  The pathway in bacteria and archaea/fungi
+CC  vary slightly with the order in which  a pair of reductase and
+CC  deaminase steps take place.
+**  The KEGG entry for step 5, riboflavin synthase, EC 2.5.1.9, is
+**  apparently in error, subsuming step 4 (which does not have an EC#) and
+**  representing that incorrectly to boot. (1/05, JDS)
+--
+SN  1
+ID  GTP cyclohydrolase II (3.5.4.25)
+DN  GTP cyclohydrolase II (EC 3.5.4.25)
+RQ  1
+EV  IPR000926; TIGR00505; sufficient;
+EV  IPR032677; PF00925; sufficient;
+--
+SN  2
+ID  pyrimidine deaminase (3.5.4.26)
+DN  diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26)
+RQ  1
+EV  IPR004794; TIGR00326; sufficient;
+EV  IPR011549; TIGR00227; sufficient;
+--
+SN  3
+ID  uracil reductase (1.1.1.193)
+DN  5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
+RQ  1
+EV  IPR004794; TIGR00326; sufficient;
+EV  IPR002734; PF01872; sufficient;
+EV  IPR006401; TIGR01508; sufficient;
+--
+SN  4
+ID  6,7-dimethyl-8-ribityllumazine synthase
+DN  6,7-dimethyl-8-ribityllumazine synthase (EC 6.3.3.-)
+RQ  1
+EV  IPR002180; TIGR00114; sufficient;
+--
+SN  5
+ID  riboflavin synthase (2.5.1.9)
+DN  riboflavin synthase (EC 2.5.1.9)
+RQ  1
+EV  IPR001783; TIGR00187; sufficient;
+--
+SN  6--FMN
+ID  riboflavin kinase (2.7.1.26)
+DN  riboflavin kinase/FAD synthetase (EC 2.7.1.26 2.7.7.2)
+RQ  1
+EV  IPR002606; TIGR00083; sufficient;
+--
+SN  7--FAD
+ID  FAD synthetase (2.7.7.2)
+DN  riboflavin kinase/FAD synthetase (EC 2.7.1.26 2.7.7.2)
+RQ  1
+EV  IPR002606; TIGR00083; sufficient;
+--
+SN  ribB
+ID  3,4-dihydroxy-2-butanone 4-phosphate synthase
+DN  3,4-dihydroxy-2-butanone-4-phosphate synthase (EC 4.1.99.12)
+RQ  1
+EV  IPR000422; TIGR00506; sufficient;
+//

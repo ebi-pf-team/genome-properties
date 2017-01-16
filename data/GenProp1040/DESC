@@ -1,0 +1,20 @@
+AC  GenProp1040
+DE  dTDP-D-viosamine (dTDP-DQui4N) biosynthesis from
+DE  4,6-dideoxy-4-oxo-dTDP-D-glucose
+TP  METAPATH
+AU  Haft D
+TH  0
+CC  dTDP-D-viosamine (dTDP-4-amino-4-deoxy-D-quinovose) is a precursor of
+CC  various 6-deoxy, 4-amino and 4-substituted sugars found in various E.
+CC  coli O-antigens.
+--
+SN  VioA
+ID  dTDP-D-viosamine synthase
+RQ  1
+EV  IPRXXXX; 2900;
+--
+SN  ddodtDg
+ID  source of 4,6-dideoxy-4-oxo-dTDP-D-glucose
+RQ  1
+EV  GenProp0950;
+//

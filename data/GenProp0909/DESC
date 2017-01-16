@@ -1,0 +1,40 @@
+AC  GenProp0909
+DE  capreomycidine biosynthesis
+TP  PATHWAY
+AU  Haft D
+TH  0
+RN  [1]
+RM  19490124
+RT  Structural basis for the erythro-stereospecificity of the L-arginine
+RT  oxygenase VioC in viomycin biosynthesis.
+RA  Helmetag V, Samel SA, Thomas MG, Marahiel MA, Essen LO;
+RL  FEBS J. 2009;276:3669-3682.
+RN  [2]
+RM  15368582
+RT  Conversion of (2S)-arginine to (2S,3R)-capreomycidine by VioC and VioD
+RT  from the viomycin biosynthetic pathway of Streptomyces sp. strain
+RT  ATCC11861.
+RA  Ju J, Ozanick SG, Shen B, Thomas MG;
+RL  Chembiochem. 2004;5:1281-1285.
+CC  (2S,3R)-capreomycidine is made as a relatively rare precursor for
+CC  non-ribosomal peptide synthesis. The first enzyme (VioC), an
+CC  alpha-ketoglutarate-dependent and Fe(II)-dependent L-arginine
+CC  beta-hydroxylase, produces (2S,3S)-hydroxyarginine. The second enzyme
+CC  (VioD), capreomycidine synthase, converts the product to
+CC  (2S,3R)-capreomycidine.
+**  VioD looks like an aminotransferase. There are many non-heme
+**  Fe(2+)/alpha-ketoglutarate-dependent oxygenase (VioC-like) - see
+**  clavaminate synthase system.  228886494 like VioD.
+--
+SN  VioC
+ID  arginine oxygenase VioC
+RQ  1
+EV  IPR023966; TIGR03946;
+TG  GO:0042398;
+--
+SN  VioD
+ID  capreomycidine synthase
+RQ  1
+EV  IPR023965; TIGR03947;
+TG  GO:0042398;
+//

@@ -1,0 +1,36 @@
+AC  GenProp0238
+DE  2-aminoethylphosphonate catabolism to acetaldehyde
+TP  PATHWAY
+AU  Haft D
+TH  0
+RN  [1]
+RM  12107130
+RT  The 2-aminoethylphosphonate-specific transaminase of the
+RT  2-aminoethylphosphonate degradation pathway.
+RA  Kim AD, Baker AS, Dunaway-Mariano D, Metcalf WW, Wanner BL, Martin BM;
+RL  J Bacteriol. 2002;184:4134-4140.
+DC  Aminophosphonate metabolism
+DR  KEGG; map00440;
+CC  The enzyme 2-aminoethylphosphonate--pyruvate transaminase (PhnW, EC
+CC  2.6.1.37) interconverts 2-aminoethylphosphonate plus pyruvate with
+CC  2-phosphonoacetaldehyde plus alanine. The enzyme phosphonoacetaldehyde
+CC  hydrolase, a HAD superfamily hydrolase, breaks the C-P bond, yielding
+CC  acetaldehyde plus inorganic phosphate. In species that appear to encode
+CC  a phosphonate ABC transporter, this property is likely to be present
+CC  only when the large phosphonate operon proposed to encode a
+CC  multisubunit C-P lyase, as found in Escherichia coli, is not found.
+--
+SN  phnW
+ID  2-aminoethylphosphonate--pyruvate transaminase
+DN  2-aminoethylphosphonate--pyruvate transaminase (EC:2.6.1.37)
+RQ  1
+EV  IPR012703; TIGR02326; sufficient;
+TG  GO:0019635;
+--
+SN  phnX
+ID  phosphonoacetaldehyde hydrolase
+DN  phosphonoacetaldehyde hydrolase (EC:3.11.1.1)
+RQ  1
+EV  IPR006323; TIGR01422; sufficient;
+TG  GO:0019635;
+//

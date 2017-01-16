@@ -1,0 +1,52 @@
+AC  GenProp1046
+DE  O153(Ec)-antigen biosynthesis
+TP  METAPATH
+AU  Haft D
+TH  0
+RN  [1]
+RM  7834647
+RT  Structural studies of the enterotoxigenic Escherichia coli (ETEC) O153
+RT  O-antigenic polysaccharide.
+RA  Ratnayake S, Weintraub A, Widmalm G;
+RL  Carbohydr Res. 1994;265:113-120.
+CC  The E. coli O153 antigen is a linear pentasaccharide with the structure
+CC  [->2)bDRibf(1->4)bDGal(1->4)aDGlcNAc(1->4)bDGal(1->3)aDGlcNAc(1->]. The
+CC  four glycosidic linkages may be carried out by only three
+CC  glycosyltransferases as the 2nd and 4th linkages only differ by
+CC  position at which the transfer occurs (1->4, vs. 1->3), and only three
+CC  genes are obviously glycosyltransferases in the biosynthetic cluster.
+CC  On the other hand, there is one gene of unknown function which shares
+CC  some homology with glycosyltransferases in the cluster, and there does
+CC  not seem to be a need for any other function other than a fourth
+CC  glycosyltransferase in the assembly of this O-antigen.
+--
+SN  GT-1
+ID  N-acetyl-D-glucosamine beta-1,3/4-D-galactosyltransferase
+RQ  1
+EV  IPRXXXX; 2929;
+--
+SN  GT-2
+ID  putative D-galactose beta-1,4-ribofuranosyltransferase
+RQ  1
+EV  IPRXXXX; 2932;
+--
+SN  GT-3
+ID  D-galactose alpha-1,4-N-acetyl-D-glucosaminyltransferase
+RQ  1
+EV  IPRXXXX; 2933;
+--
+SN  unk
+ID  O153(Ec)-associated gene of unknown function
+RQ  1
+EV  IPRXXXX; 2930;
+--
+SN  wzx153
+ID  O153(Ec)-antigen specific transporter (flippase) wzx
+RQ  1
+EV  IPRXXXX; 2927;
+--
+SN  wzy153
+ID  O153(Ec)-antigen specific polymerase wzy
+RQ  1
+EV  IPRXXXX; 2928;
+//

@@ -1,0 +1,63 @@
+AC  GenProp1047
+DE  O101(Ec) antigen biosynthesis
+TP  METAPATH
+AU  Haft D
+TH  0
+RN  [1]
+RM  9060191
+RT  Structure determination of the O-antigenic polysaccharide from the
+RT  enterotoxigenic Escherichia coli (ETEC) O101.
+RA  Staaf M, Urbina F, Weintraub A, Widmalm G;
+RL  Carbohydr Res. 1997;297:297-299.
+CC  The E. coli O101 antigen repeating unit is reported to consist of a
+CC  linear dimer with the structure: [->6)aDGlcNAc(1->4)aDGalNAc(1->] [1].
+CC  Unlike most E. coli O-antigen biosynthesis clusters, the genes
+CC  responsible for O101 in strain B41 are not found adjacent to the
+CC  histidine biosynthesis operon. Bounded by a second copy of the GalF
+CC  gene and an IS4 transposase also found in the vicinity of the His
+CC  operon, this cluster may have shifted out of the normal place by
+CC  homologous recombination. Adjacent to the His operon is now found an
+CC  apparent transposon-disrupted relict of the O9a cluster and a probably
+CC  functional K30 cluster, both closely related to the E69 strain.    The
+CC  O101 cluster has an analagous structure to the O8 and O9 antigens,
+CC  containing an ABC-type O-antigen transport system and a methylase
+CC  presumably acting as a chain length determinant. Despite the simplicity
+CC  of the repeat pattern, the O101 cluster contains four
+CC  glycosyltransferases, two of them twice the length of typical enzymes.
+CC  These likely carry out priming, patterning and scaffolding roles.
+--
+SN  GT-1
+ID  O101-associated glycosyltransferase
+RQ  1
+EV  IPRXXXX; 2941;
+--
+SN  GT-2
+ID  putative N-acetyl-glucosamine alpha-1,4-N-acetyl-galactosaminyltransferase, O101-associated
+RQ  1
+EV  IPRXXXX; 2938;
+--
+SN  GT-3
+ID  putative N-acetyl-galactosamine alpha-1,6-N-acetyl-glucosaminyltransferase, O101-associated
+RQ  1
+EV  IPRXXXX; 2937;
+--
+SN  GT-4
+ID  O101(Ec)-associated double glycosyltransferase domain protein
+RQ  1
+EV  IPRXXXX; 2936;
+--
+SN  MT-CLD
+ID  terminating methylase and chain-length determinant protein
+RQ  1
+EV  IPRXXXX; 2935;
+--
+SN  wzm101
+ID  O-antigen ABC transporter, transmembrane protein
+RQ  1
+EV  IPRXXXX; 2940;
+--
+SN  wzt101
+ID  ABC transporter, ATP-binding domain and O101(Ec) specificity domain
+RQ  1
+EV  IPRXXXX; 2939;
+//

@@ -1,0 +1,26 @@
+AC  GenProp1090
+DE  radical SAM/SPASM maturase system XYE
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  This system consists of XyeA as the precursor peptide for a peptide
+CC  post-translational modification system, XyeB as the radical SAM/SPASM
+CC  domain peptide maturase, and neighboring cleavage/export proteins.
+**  Closest property is the FxS property, which this one was built to
+**  support.
+--
+SN  XyeA
+ID  XYE system RiPP precursor XyeA
+RQ  1
+EV  IPR030990; TIGR04495;
+--
+SN  XyeB
+ID  XYE system radical SAM/SPASM maturase
+RQ  1
+EV  IPR030989; TIGR04496;
+--
+SN  XyeT
+ID  XYE system cleavage/export protein
+RQ  0
+EV  IPR005074; PF03412;
+//

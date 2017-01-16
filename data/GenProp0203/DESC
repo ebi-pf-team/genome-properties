@@ -1,0 +1,77 @@
+AC  GenProp0203
+DE  LPS inner core biosynthesis, ketodeoxyoctonate and heptose type
+TP  PATHWAY
+AU  Haft D
+TH  0
+CC  Lipopolysaccharide (LPS) occurs broadly in Gram-negative bacterial
+CC  outer membrane. Three parts are termed lipid A, the oligosaccharide
+CC  core, and O antigen. If lacking the repeating O-antigen, it may be
+CC  termed Lipooligosaccharide (LOS). The core is often described as having
+CC  inner and outer regions, and is variable among species that contain
+CC  LPS/LOS. This property describes a widely distributed common chemistry
+CC  for the inner core. At least two residues of
+CC  3-deoxy-D-manno-oct-2-ulosonic acid (Kdo) are present, to one of which
+CC  the lipid A moeity is attached. The inner core in E. coli and many
+CC  other bacteria also contains at least two heptose residues, added by
+CC  distinct heptosyltransferases I and II.
+**  kbl is in theater but not part of property.  KdsA (KDO-8-phosphate
+**  synthase) helps make Kdo, in Moraxella catarrhalis from
+**  arabinose-5-phosphate and PEP. In operon pyrG-kdsA-eno, PyrG is a CTP
+**  synthase, eno make PEP.
+--
+SN  GmhA
+ID  D-sedoheptulose 7-phosphate isomerase
+RQ  1
+EV  IPR004515; TIGR00441;
+--
+SN  GmhB
+ID  D,D-heptose 1,7-bisphosphate phosphatase
+RQ  1
+EV  IPR004446; TIGR00213;
+--
+SN  HldD
+ID  ADP-L-glycero-D-mannoheptose-6-epimerase
+DN  ADP-L-glycero-D-mannoheptose-6-epimerase
+RQ  1
+EV  IPR011912; TIGR02197; sufficient;
+--
+SN  HldE_C
+ID  RfaE bifunc, domain II
+RQ  1
+EV  IPR011914; TIGR02199; sufficient;
+--
+SN  HldE_N
+ID  RfaE bifunc, domain I
+RQ  1
+EV  IPR011913; TIGR02198; sufficient;
+--
+SN  WaaC
+ID  heptosyltransferase I
+RQ  1
+EV  IPR011908; TIGR02193; sufficient;
+--
+SN  WaaF
+ID  heptosyltransferase II
+RQ  1
+EV  IPR011910; TIGR02195; sufficient;
+--
+SN  WaaP
+ID  lipopolysaccharide core biosynthesis protein RfaP
+RQ  0
+EV  IPR010440; PF06293;
+--
+SN  WaaQ
+ID  heptosyltransferase III
+RQ  0
+EV  IPR011916; TIGR02201; sufficient;
+--
+SN  WaaY
+ID  lipopolysaccharide core biosynthesis protein RfaY
+RQ  0
+EV  IPR009330; PF06176;
+--
+SN  WaaZ
+ID  Kdo-III transferase
+RQ  0
+EV  IPR031026; TIGR04437;
+//

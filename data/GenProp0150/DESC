@@ -1,0 +1,27 @@
+AC  GenProp0150
+DE  chlorophyll biosynthesis from chlorophyllide a
+TP  PATHWAY
+AU  Haft D
+TH  0
+DC  Chlorophyll Biosynthesis (later stages)
+DR  IUBMB; tetrapyr; porphyrin5;
+CC  Chlorophyll is formed directly from chlorophyllide a by the addition of
+CC  a phytyl side chain, or by addition of a geranylgeranyl side chain and
+CC  subsequent reduction of the side chain.  The synthetase and reductase
+CC  responsible for this conversion are closely related to the enzymes
+CC  which carry out the analagous steps of bacteriochlorophyll biosynthesis
+--
+SN  ChlG
+ID  chlorophyll synthase
+DN  clorophyll synthase ChlG (EC 2.5.1.62)
+RQ  1
+EV  IPR011799; TIGR02056; sufficient;
+TG  GO:0015995;
+--
+SN  ChlP
+ID  geranylgeranyl reductase
+DN  geranylgeranyl reductase ChlP
+RQ  1
+EV  IPR011774; TIGR02028; sufficient;
+TG  GO:0015995;
+//

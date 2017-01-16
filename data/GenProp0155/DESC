@@ -1,0 +1,57 @@
+AC  GenProp0155
+DE  dissimilatory sulfate reduction
+TP  PATHWAY
+AU  Haft D
+TH  2
+RN  [1]
+RM  9308173
+RT  Towards the phylogeny of APS reductases and sirohaem sulfite reductases
+RT  in sulfate-reducing and sulfur-oxidizing prokaryotes.
+RA  Hipp WM, Pott AS, Thum-Schmitz N, Faath I, Dahl C, Trüper HG;
+RL  Microbiology. 1997;143 ( Pt 9):2891-2902.
+DC  Sulfur metabolism
+DR  KEGG; map00920;
+DC  Dissimilatory sulfate reduction
+DR  MetaCyc; DISSULFRED-PWY;
+CC  During anaerobic respiration, sulfate reducing bacteria catalyze the
+CC  six electron reduction of sulfate to hydrogen sulfide. These sulfate
+CC  reducers comprise both gram-positive and gram-negative bacteria, as
+CC  well as archeae [1]. Sulfur oxidizing bacterium, such as Chromatium
+CC  vinosum, can reversibly catalyze this pathway freeing electrons and ATP
+CC  [1].
+--
+SN  1-sat
+ID  sulfate adenylyltransferase
+DN  sulfate adenylyltransferase (EC 2.7.7.4)
+RQ  1
+EV  IPR002650; TIGR00339; sufficient;
+TG  GO:0019419;
+--
+SN  2-AprA
+ID  Adenylylsulfate reductase, alpha subunit
+DN  adenylyl-sulfate reductase, subunit A (EC 1.8.99.2)
+RQ  1
+EV  IPR011803; TIGR02061; sufficient;
+TG  GO:0019419;
+--
+SN  2-AprB
+ID  Adenylylsulfate reductase, beta subunit
+DN  adenylyl-sulfate reductase, subunit B (EC 1.8.99.2)
+RQ  1
+EV  IPR011802; TIGR02060; sufficient;
+TG  GO:0019419;
+--
+SN  3-DsrA
+ID  Sulfite reductase, dissimilatory-type alpha subunit
+DN  hydrogensulfite reductase, alpha subunit (EC 1.8.99.3)
+RQ  1
+EV  IPR011806; TIGR02064; sufficient;
+TG  GO:0019419;
+--
+SN  3-DsrB
+ID  Sulfite reductase, dissimilatory-type beta subunit
+DN  hydrogensulfite reductase, beta subunit (EC 1.8.99.3)
+RQ  1
+EV  IPR011808; TIGR02066; sufficient;
+TG  GO:0019419;
+//

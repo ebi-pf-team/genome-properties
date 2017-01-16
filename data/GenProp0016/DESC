@@ -1,0 +1,81 @@
+AC  GenProp0016
+DE  selenocysteine system
+TP  SYSTEM
+AU  Haft D
+TH  1
+DC  Selenoamino Acid Metabolism
+DR  KEGG; map00450;
+CC  The property of incorporating selenocysteine as an alternate amino acid
+CC  during protein translation from mRNA. The site of incorporation often
+CC  aligns to an active site Cys residue of a homologous protein in a
+CC  selenocysteine-negative species. One required element is a
+CC  selenocysteine-specific tRNA (selC) to recognize a TGA codon in the
+CC  appropriate context. Two required proteins are a
+CC  selenocysteine-specific elongation factor (SelB), and a selenium donor
+CC  protein (selD) that may participate in other systems in addition or
+CC  instead (selenouridine biosynthesis, and selenium-dependent molybdenum
+CC  hydroxylase maturation). Finally, a mechanism for converting the serine
+CC  placed on selenocysteine-specific tRNA into selenocysteine is required.
+CC  This is achieved by seryl-t RNA(sec) selenium transferase (SelA) in
+CC  bacteria, but in a two-step process starting with phosphorylation in
+CC  the Archaea and Eukaryota.  Note that SelD may itself be a
+CC  selenoprotein, and so may appear truncated by a stop codon, thus not
+CC  triggering the rule to assign the selenocysteine property
+CC  automatically. Before the state of this property is set to "YES", an
+CC  example of a potential  selenocysteine-containing protein must be
+CC  manually annotated. Commonly observed selenoproteins include the
+CC  selenium donor protein SelD (selenide, water dikinase) and subunits of
+CC  formate dehydrogenase, thioredoxin reductase, glycine reductase,
+CC  heterodisulfide reductase, methylviologen-reducing hydrogenase and
+CC  glutathione peroxidase.  In certain species all components of the
+CC  system can be found save the SelC tRNA (including examples) even after
+CC  a manual search. These are given the state "PARTIAL" to indicate the
+CC  possibility that either the ability to incorporate selenocysteine has
+CC  been lost (and the examples are actually truncated or not expressed) or
+CC  an as-of-yet undescribed tRNA system exists in these species.  The
+CC  selenium donor protein seems to occur in some species that lack the
+CC  selenium-specific tRNA, elongation factor, and transferase. This
+CC  usually reflects the incorporation of selenium into certain tRNAs. Note
+CC  also that selenium is sometimes used to label proteins in vitro, so not
+CC  every literature reference to selenocysteine implies incorporation
+CC  during translation.  An analogous system, discovered more recently,
+CC  incorporates pyrrolysine at specific TAG codons.
+**  Partial edit: SelA in the archaea actually changes Ser-tRNA(Sec) to
+**  Sep-tRNA(Sec). The phosphorylated ser gets selenium by TIGR03531.  A
+**  tRNA in mycoplasma species is identified by the tRNA-finding software
+**  as SelC, but in fact corresponds to a Trp-specific tRNA due to an
+**  alternative genetic code in these species.
+--
+SN  example
+ID  selenocysteine-containing proteins
+DN  NOT APPLICABLE
+RQ  1
+--
+SN  selA
+ID  Sec-tRNA(Sec) synthesis
+DN  L-seryl-tRNA(Sec) selenium transferase
+RQ  1
+EV  IPR004534; TIGR00474; sufficient;
+TG  GO:0016260;
+EV  GenProp0797;
+TG  GO:0016260;
+--
+SN  selB
+ID  selenocysteine-specific translation elongation factor
+DN  selenocysteine-specific translation elongation factor
+RQ  1
+EV  IPR004535; TIGR00475; sufficient;
+TG  GO:0001514;
+--
+SN  selC
+ID  selenocysteine-specific tRNA (tRNA-SeC)
+DN  NOT APPLICABLE
+RQ  1
+--
+SN  selD
+ID  selenide, water dikinase
+DN  selenide, water dikinase
+RQ  1
+EV  IPR004536; TIGR00476; sufficient;
+TG  GO:0016260;
+//

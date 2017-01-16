@@ -1,0 +1,11 @@
+AC  GenProp0551
+DE  regulatory systems
+TP  CATEGORY
+AU  Haft D
+TH  0
+CC  Properties which describe various systems for the regulation of gene
+CC  activity.  This may occur at the level of DNA modification, translation
+CC  to RNA, RNA stability RNA conformation, RNA degradation, transcription
+CC  to protein, protein conformation, protein stability and/or protein
+CC  degradation.
+//

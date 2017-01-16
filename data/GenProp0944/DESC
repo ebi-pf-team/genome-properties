@@ -1,0 +1,17 @@
+AC  GenProp0944
+DE  cohesin/dockerin (cellulosome-like) system
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  Signature proteins of the cellulosome include cohesins and dockerins.
+--
+SN  cohesin
+ID  cohesin
+RQ  1
+EV  IPR002102; PF00963;
+--
+SN  docker
+ID  dockerin
+RQ  1
+EV  IPR002105; PF00404;
+//

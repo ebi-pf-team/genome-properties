@@ -1,0 +1,30 @@
+AC  GenProp0812
+DE  rho-dependent termination
+TP  METAPATH
+AU  Haft D
+TH  0
+RN  [1]
+RM  16554712
+RT  Rho-dependent transcription termination: more questions than answers.
+RA  Banerjee S, Chalissery J, Bandey I, Sen R;
+RL  J Microbiol. 2006;44:11-22.
+CC  Transcriptional termination in bacteria occurs in two modes, one of
+CC  them dependent on the termination factor rho. Rho occurs in the
+CC  overwhelming majority of bacteria, and is an essential protein in most
+CC  but not all of those species. When Rho is present, the Nus factors
+CC  (NusA, NusB, and NusG) participate in rho-dependent termination,
+CC  although those proteins have other functions as well and are more
+CC  nearly universal than Rho itself.
+--
+SN  Nus
+ID  Nus factors (NusA, NusB, NusG, and NexE/S10)
+RQ  1
+EV  GenProp0132;
+TG  GO:0003715;
+--
+SN  rho
+ID  rho termination factor
+RQ  1
+EV  IPR004665; TIGR00767;
+TG  GO:0003715;
+//

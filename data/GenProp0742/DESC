@@ -1,0 +1,55 @@
+AC  GenProp0742
+DE  iron-sulfur cluster assembly NIF system
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  10639125
+RT  NifS-directed assembly of a transient [2Fe-2S] cluster within the NifU
+RT  protein.
+RA  Yuvaniyama P, Agar JN, Cash VL, Johnson MK, Dean DR;
+RL  Proc Natl Acad Sci U S A. 2000;97:599-604.
+RN  [2]
+RM  15667274
+RT  NifU and NifS are required for the maturation of nitrogenase and cannot
+RT  replace the function of isc-gene products in Azotobacter vinelandii.
+RA  Johnson DC, Dos Santos PC, Dean DR;
+RL  Biochem Soc Trans. 2005;33:90-93.
+CC  Iron-sulfur (FeS) cluster assembly systems include the NIF system,
+CC  which is part of nitrogen fixation clusters in a number of bacteria, as
+CC  well as the ISC and SUF systems. The latter two make FeS clusters for a
+CC  wide variety of proteins, while NIF and a related system called
+CC  CsdA-CsdE may produce FeS clusters for only a small range of target
+CC  proteins. The defining components of the NIF-type systems described
+CC  here are the cysteine desulfurase NifS and the FeS cluster assembly
+CC  scaffold protein NifU. The terms NifS and NifU are applied not only to
+CC  components of nitrogen fixation systems, but also to tandem gene pairs
+CC  in other organisms such as Helicobacter pylori. These NifU-like and
+CC  NifS-like proteins largely fall into separate clades, and are best
+CC  modeled by separate HMMs, but are included in this Genome Property as
+CC  components of NIF-type systems. NifS/NifU or NifS-like/NifU-like pairs
+CC  may produce FeS clusters for a limited range of target proteins, as in
+CC  Azotobacter vinelandii, or uniquely within the cell, as in Helicobacter
+CC  pylori.
+**  Now I'm growing unhappy.  The NifU and NifS names propagate into
+**  several clades, One S-like and one U-like seems to be enough for folks,
+**  with some transitivity. But NifS/NifU is targeted nitrogen fixation,
+**  the pair in H. pylori is general, others are like their clade-mates,
+**  and it is like there are really many two-gene systems.
+--
+SN  NifS
+ID  cysteine desulfurase NifS
+RQ  1
+EV  IPR017772; TIGR03402;
+TG  GO:0016226;
+EV  IPR017773; TIGR03403;
+TG  GO:0016226;
+--
+SN  NifU
+ID  FeS cluster formation protein NifU
+RQ  1
+EV  IPR010238; TIGR02000; sufficient;
+TG  GO:0016226;
+EV  IPR017787; TIGR03419;
+TG  GO:0016226;
+//

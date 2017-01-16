@@ -1,0 +1,31 @@
+AC  GenProp0919
+DE  SCIFF/radical SAM Clostridial gene pair
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  21478363
+RT  Biological systems discovery in silico: radical S-adenosylmethionine
+RT  protein families and their target peptides for posttranslational
+RT  modification.
+RA  Haft DH, Basu MK;
+RL  J Bacteriol. 2011;193:2745-2755.
+CC  This property describes a radical SAM protein and its 45-amino acid
+CC  partner with six conserved Cysteine residues. The system appears to be
+CC  universal in the Clostridia, and rare outside the Clostridia. This
+CC  pattern suggests a house-keeping role rather than a role such as
+CC  bacteriocin production. Meanwhile, among all characterized radical SAM
+CC  proteins, those closest by homology to the member of this system are
+CC  modification enzymes for short peptides.
+**  Wrote to Doug Mitchell to suggest he characterize this one.
+--
+SN  gut6Cys
+ID  six-Cys-in-45 protein
+RQ  1
+EV  IPR023975; TIGR03973;
+--
+SN  gutrSAM
+ID  six-Cys-in-45 modification radical SAM protein
+RQ  1
+EV  IPR024025; TIGR03974;
+//

@@ -1,0 +1,40 @@
+AC  GenProp1074
+DE  type V secretion
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  22411980
+RT  Type V secretion: mechanism(s) of autotransport through the bacterial
+RT  outer membrane.
+RA  Leo JC, Grin I, Linke D;
+RL  Philos Trans R Soc Lond B Biol Sci. 2012;367:1088-1101.
+CC  Type V secretion systems (T5SS) are most commonly the classical
+CC  monomeric autotransporters (type Va), in which a C-terminal outer
+CC  membrane (OM) beta barrel domain functions as a translocator through
+CC  the OM for an N-terminal passenger domain of the same polypeptide
+CC  chain. Many type Va autotransporters cleave autocatalytically to
+CC  release the passenger domain. In type Vb systems, called two-partner
+CC  secretion systems, the passenger and translocator domains are in
+CC  separate polypeptides. Additional variant forms Vc, Vd, and Ve have
+CC  also been described. A special type of signal peptide (PF13018) tethers
+CC  the nascent polypeptide chain to the Sec apparatus in some
+CC  autotransporters to allow proper completion of C-terminal domain
+CC  folding in the OM.
+**  So far, no passenger domains, no chaperones, no beta barrel assembly
+**  (BAM) system included in property.
+--
+SN  T5SSsig
+ID  type V secretion system signal peptide
+RQ  0
+EV  IPR024973; PF13018;
+TG  GO:0046819;
+--
+SN  autotran
+ID  T5SS outer membrane translocator
+RQ  1
+EV  IPR006315; TIGR01414;
+TG  GO:0046819;
+EV  IPR005565; PF03865;
+TG  GO:0046819;
+//

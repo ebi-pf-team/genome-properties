@@ -1,0 +1,31 @@
+AC  GenProp1103
+DE  protein sorting system, Synergist-CTERM/unknown of Synergistetes
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  This HMM describes a putative bacterial C-terminal protein-sorting
+CC  system restricted to the Synergistetes, but not universal in that
+CC  lineage. Model genomes from at least seven genera average ten proteins
+CC  apiece with the Synergist-CTERM signal. Some protein-sorting signals
+CC  have the signature motif separated from the transmembrane helix (TM) by
+CC  a spacer region (e.g. LPXTG and MYXO-CTERM) while others are have it
+CC  flush against the TM (PGF-CTERM, GlyGly-CTERM, and this one). The lack
+CC  of spacer suggests that the unknown sorting enzyme is a multiple
+CC  membrane-spanning protein, like archaeosortase and rhombosortase,
+CC  rather than a predominantly hydrophilic enzyme like sortase, whose
+CC  targets have a spacer.
+**  Jonquetella lacks. Pyramidobacter piscolens, its twin, also lacks.
+**  Thermovirga lienii lacks. May be sporadic. Dethiosulfovibrio
+**  peptidovorans, Aminiphilus circumscriptus, Aminomonas paucivorans,
+**  Fretibacterium fastidiosum, Cloacibacillus evryensis, Synergistes
+**  jonesii all have.
+--
+SN  sorter
+ID  unknown sorting enzyme for Synergist-CTERM
+RQ  1
+--
+SN  target
+ID  Synergist_CTERM protein sorting domain
+RQ  1
+EV  IPR030821; TIGR04564;
+//

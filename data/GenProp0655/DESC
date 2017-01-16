@@ -1,0 +1,65 @@
+AC  GenProp0655
+DE  exopolysaccharide biosynthesis, exosortase B-associated
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  12624205
+RT  Genes involved in the synthesis of the exopolysaccharide methanolan by
+RT  the obligate methylotroph Methylobacillus sp strain 12S.
+RA  Yoshida T, Ayabe Y, Yasunaga M, Usami Y, Habe H, Nojiri H, Omori T;
+RL  Microbiology. 2003;149:431-444.
+RN  [2]
+RM  16930487
+RT  Exopolysaccharide-associated protein sorting in environmental
+RT  organisms: the PEP-CTERM/EpsH system. Application of a novel
+RT  phylogenetic profiling heuristic.
+RA  Haft DH, Paulsen IT, Ward N, Selengut JD;
+RL  BMC Biol. 2006;4:29.
+CC  At least 30 different bacterial species known so far have the 
+CC  PEP-CTERM/exosortase system believed to process proteins analogously to
+CC  the LPXTG/sortase system. Genes associated with this processing are
+CC  found among exopolysaccharide biosynthesis genes, suggesting that
+CC  PEP-CTERM proteins are part of this exopolysaccharide system, and
+CC  therefore are likely to be transported across the outer membrane. This
+CC  property represents a panel of exopolysaccharide biosynthesis genes
+CC  where each belongs to a subfamily that marks its host gene as  carrying
+CC  the PEP-CTERM/exopolysaccharide system.    This type 2 version of the
+CC  system is found in Methylobacillus sp. strain 12S where it is embedded
+CC  in a region for the biosynthesis of the exopolysaccharide mthanolan.
+--
+SN  EpsA
+ID  Transcriptional regulator EpsA
+RQ  0
+EV  IPR017470; TIGR03020; sufficient;
+--
+SN  EpsB
+ID  Undecaprenyl-phosphate glucose phosphotransferase EpsB
+RQ  1
+EV  IPR017473; TIGR03023;
+--
+SN  EpsE
+ID  polysaccharide export protein
+RQ  1
+EV  IPR017478; TIGR03028; sufficient;
+--
+SN  EpsF
+ID  chain length determinant protein EpsF
+RQ  1
+EV  IPR017468; TIGR03017; sufficient;
+--
+SN  EpsG
+ID  protein tyrosine kinase EpsG
+RQ  1
+EV  IPR017479; TIGR03029; sufficient;
+--
+SN  EpsH-2
+ID  exosortase 2
+RQ  1
+EV  IPR017544; TIGR03113; sufficient;
+--
+SN  EpsL
+ID  EpsL protein
+RQ  1
+EV  IPR017465; TIGR03014; sufficient;
+//

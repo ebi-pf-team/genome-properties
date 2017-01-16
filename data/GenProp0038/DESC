@@ -1,0 +1,69 @@
+AC  GenProp0038
+DE  tetrahydrofolate biosynthesis from GTP and PABA
+TP  PATHWAY
+AU  Haft D
+TH  2
+RN  [1]
+RM  14982635
+RT  Transfection studies to explore essential folate metabolism and
+RT  antifolate drug synergy in the human malaria parasite Plasmodium
+RT  falciparum.
+RA  Wang P, Wang Q, Aspinall TV, Sims PF, Hyde JE;
+RL  Mol Microbiol. 2004;51:1425-1438.
+DC  Folate Biosynthesis (early stages)
+DR  IUBMB; misc; folate1;
+DC  Folate Biosynthesis (late stages)
+DR  IUBMB; misc; folate2;
+DC  Folate Biosynthesis
+DR  KEGG; map00790;
+CC  Polyglutamylated tetrahydrofolate is the central cofactor of one-carbon
+CC  metabolism and is biosynthesized from GTP, para-aminobenzoate (from
+CC  chorismate), and glutamate in a six step reaction.[1] The first enzyme,
+CC  GTP cyclohydrolase I, in the biosynthesis of tetrahydrofolate in
+CC  prokaryotes, of tetrahydrobiopterin in vertebrates, and of
+CC  pteridine-containing pigments in insects catalizes dihydroneopterin
+CC  triphosphate from GTP. This pathway is carried out by 6 enzymes, and
+CC  the complete pathway is absent in animals.
+--
+SN  1
+ID  GTP cyclohydrolase I
+DN  GTP cyclohydrolase I (EC 3.5.4.16)
+RQ  0
+EV  IPR001474; TIGR00063; sufficient;
+TG  GO:0046654;
+--
+SN  2
+ID  dihydroneopterin aldolase
+DN  dihydroneopterin aldolase (EC 4.1.2.25)
+RQ  1
+EV  IPR006156; TIGR00525; sufficient;
+TG  GO:0046654;
+--
+SN  3
+ID  2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+DN  2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase (EC 2.7.6.3)
+RQ  1
+EV  IPR000550; TIGR01498; sufficient;
+TG  GO:0046654;
+--
+SN  4
+ID  dihydropteroate synthase
+DN  dihydropteroate synthase (EC 2.5.1.15)
+RQ  1
+EV  IPR006390; TIGR01496; sufficient;
+TG  GO:0046654;
+--
+SN  5
+ID  dihydrofolate synthase
+DN  dihydrofolate synthase/folylpolyglutamate synthase (EC 6.3.2.12 6.3.2.17)
+RQ  1
+EV  IPR001645; TIGR01499; sufficient;
+TG  GO:0046654;
+--
+SN  6
+ID  dihydrofolate reductase
+DN  dihydrofolate reductase (EC 1.5.1.3)
+RQ  1
+EV  IPR001796; PF00186; sufficient;
+TG  GO:0046654;
+//

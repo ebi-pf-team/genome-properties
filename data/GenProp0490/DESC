@@ -1,0 +1,75 @@
+AC  GenProp0490
+DE  Ti-type conjugation system
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  8763953
+RT  The tra region of the nopaline-type Ti plasmid is a chimera with
+RT  elements related to the transfer systems of RSF1010, RP4, and F.
+RA  Farrand SK, Hwang I, Cook DM;
+RL  J Bacteriol. 1996;178:4233-4247.
+CC  This type IV secretion system for the exchange of plasmid DNA is found
+CC  in the Agrobacterium tumefaciens Ti plasmid.  This (tra/trb) system is
+CC  separate from the vir system which is responsible for targetting the
+CC  T-region DNA to eukaryotic host cells in the process of tumor
+CC  formation.
+--
+SN  TraA
+ID  Ti conjugation system relaxase TraA
+RQ  1
+EV  IPR014136; TIGR02768; sufficient;
+TG  GO:0009291;
+--
+SN  TraB
+ID  Ti conjugation system protein TraB
+RQ  0
+EV  IPRXXXX; PF07186; sufficient;
+TG  GO:0009291;
+--
+SN  TraC
+ID  Ti conjugation system protein TraC
+RQ  0
+EV  IPR012930; PF07820; sufficient;
+TG  GO:0009291;
+--
+SN  TraD
+ID  Ti conjugation system protein TraD
+RQ  0
+EV  IPR009444; PF06412; sufficient;
+TG  GO:0009291;
+--
+SN  TraF
+ID  Ti conjugation system signal peptidase TraF
+RQ  0
+EV  IPR014139; TIGR02771; sufficient;
+TG  GO:0009291;
+--
+SN  TraG
+ID  Ti conjugation system protein TraG
+RQ  1
+EV  IPR014135; TIGR02767; sufficient;
+TG  GO:0009291;
+--
+SN  TraH
+ID  Ti conjugation system protein TraH
+RQ  0
+EV  IPR010680; PF06871; sufficient;
+TG  GO:0009291;
+--
+SN  TrbB
+ID  Ti/vir system protein TrbB/VirB11
+RQ  0
+EV  IPR014149; TIGR02782; sufficient;
+TG  GO:0009291;
+EV  IPR014155; TIGR02788; sufficient;
+TG  GO:0009291;
+--
+SN  TrbF
+ID  Ti/vir system protein TrbF/VirB8
+RQ  1
+EV  IPRXXXX; PF04585; sufficient;
+TG  GO:0009291;
+EV  IPR007430; PF04335; sufficient;
+TG  GO:0009291;
+//

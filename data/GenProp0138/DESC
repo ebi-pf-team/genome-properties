@@ -1,0 +1,75 @@
+AC  GenProp0138
+DE  iron-sulfur cluster assembly iscSUA-hscBA-fdx system
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  At least three different systems have been described for 2fe-2S cluster
+CC  assembly. The NIF system provides an iron-sulfur cluster to nitrogenase
+CC  in certain nitrogen-fixing species. SUF, described the most recently,
+CC  can operate despite aerobic stress. This property describes the  ISC
+CC  system as found in E. coli and many other proteobacteria, containing at
+CC  least the following elements: a characteristic cysteine desulfurase
+CC  IscS, a characteristic ferredoxin, chaperones called heat shock cognate
+CC  proteins A and B, and an assembly scaffold protein resembling the
+CC  N-terminus of the scaffold protein of the NIF system. 
+**  PMID: 12699687
+--
+SN  CyaY
+ID  FeS assembly iron donor CyaY
+DN  FeS assembly iron donor CyaY
+RQ  1
+EV  IPR002908; TIGR03421;
+TG  GO:0016226;
+--
+SN  HscA
+ID  FeS assembly chaperone HscA
+DN  FeS assembly chaperone HscA
+RQ  1
+EV  IPR010236; TIGR01991; sufficient;
+TG  GO:0016226;
+--
+SN  HscB
+ID  FeS assembly chaperone HscB
+RQ  1
+EV  IPR004640; TIGR00714; sufficient;
+TG  GO:0016226;
+--
+SN  IscA
+ID  FeS assembly protein IscA
+DN  iron-sulfur cluster assembly protein IscA
+RQ  1
+EV  IPR011302; TIGR02011; sufficient;
+TG  GO:0016226;
+--
+SN  IscR
+ID  iron-sulfur cluster assembly transcription factor IscR
+DN  iron-sulfur cluster assembly transcription factor IscR
+RQ  1
+EV  IPR010242; TIGR02010; sufficient;
+--
+SN  IscS
+ID  cysteine desulfurase
+RQ  1
+EV  IPR010240; TIGR02006; sufficient;
+TG  GO:0016226;
+--
+SN  IscU
+ID  iron-sulfur cluster assembly scaffold
+DN  FeS cluster assembly scaffold IscU
+RQ  1
+EV  IPR011339; TIGR01999; sufficient;
+TG  GO:0016226;
+--
+SN  IscX
+ID  FeS assembly protein IscX/YfhJ
+RQ  0
+EV  IPR007479; TIGR03412;
+TG  GO:0016226;
+--
+SN  fdx
+ID  Isc-system ferredoxin
+DN  ferredoxin, 2Fe-2S type, ISC system
+RQ  1
+EV  IPR011536; TIGR02007; sufficient;
+TG  GO:0016226;
+//

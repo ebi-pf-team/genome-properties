@@ -1,0 +1,40 @@
+AC  GenProp1034
+DE  decarboxylation/antiport proton-motive cycle: oxalate-formate
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  7823041
+RT  Bacterial anion exchange: reductionist and integrative approaches to
+RT  membrane biology.
+RA  Maloney PC, Yan RT, Abe K;
+RL  J Exp Biol. 1994;196:471-482.
+RN  [2]
+RM  2708365
+RT  Oxalate:formate exchange. The basis for energy coupling in Oxalobacter.
+RA  Anantharam V, Allison MJ, Maloney PC;
+RL  J Biol Chem. 1989;264:7244-7250.
+RN  [3]
+RM  18359395
+RT  The roles and mechanisms of intestinal oxalate transport in oxalate
+RT  homeostasis.
+RA  Hatch M, Freel RW;
+RL  Semin Nephrol. 2008;28:143-151.
+CC  This Genome Property represents a proton-motive cycle. The cycle of
+CC  decarboxylating oxalate, a dicarboxylic acid, to formate plus CO2, then
+CC  exchanging the cytosolic formate for an extracellular oxalate, has the
+CC  net effect of consuming one proton. This property has been studied
+CC  extensively in Oxalobacter formigenes, which appears in the human
+CC  microbiome and affects oxalate homeostasis.
+**  I wonder if there is a direct oxalate decarboxylase form (4.1.1.2).
+--
+SN  decarb
+ID  decarboxylation
+RQ  1
+EV  GenProp0718;
+--
+SN  oxlT
+ID  oxalate/formate antiporter
+RQ  1
+EV  IPR026355; TIGR04259;
+//

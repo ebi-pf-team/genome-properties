@@ -1,0 +1,48 @@
+AC  GenProp0483
+DE  cytochrome c oxidase, cbb3-type
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  16343536
+RT  Multi-step assembly pathway of the cbb3-type cytochrome c oxidase
+RT  complex.
+RA  Kulajta C, Thumfart JO, Haid S, Daldal F, Koch HG;
+RL  J Mol Biol. 2006;355:989-1004.
+CC  Cytochrome cbb(3) oxidase belongs to the family of heme-copper oxidases
+CC  and couples using oxygen as a terminal electron acceptor with pumping
+CC  protons across the membrane. This oxidase is related to, yet
+CC  signficantly different from the mitochondrial cytochrome c oxidase and
+CC  is largely restricted to the Proteobacteria.
+--
+SN  1_ccoN
+ID  subunit I (CcoN)
+RQ  1
+EV  IPR004677; TIGR00780; sufficient;
+--
+SN  2_ccoO
+ID  subunit II (CcoO)
+RQ  1
+EV  IPR003468; TIGR00781; sufficient;
+--
+SN  3_ccoP
+ID  subunit III (CcoP)
+RQ  1
+EV  IPR004678; TIGR00782; sufficient;
+--
+SN  4_ccoQ
+ID  subunit CcoQ
+RQ  0
+EV  IPR008621; PF05545; sufficient;
+EV  IPR014107; TIGR02736; sufficient;
+--
+SN  CcoS
+ID  insertion/maturation protein CcoS
+RQ  1
+EV  IPR004714; TIGR00847; sufficient;
+--
+SN  FixG
+ID  accessory, ferredoxin-like, FixG
+RQ  1
+EV  IPR014116; TIGR02745; sufficient;
+//

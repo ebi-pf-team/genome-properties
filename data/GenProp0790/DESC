@@ -1,0 +1,25 @@
+AC  GenProp0790
+DE  sporadic pair TIGR03545/TIGR03546
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  This Genome Property describes an uncommon two-gene pair, sporadically
+CC  distributed in and restricted to bacteria that possess an outer
+CC  membrane. Fused forms do occur. Bacteria with this system include
+CC  Treponema denticola ATCC 35405, Bdellovibrio bacteriovorus, Hahella
+CC  chejuensis KCTC 2396, Rhodopirellula baltica SH 1, Thiomicrospira
+CC  crunogena, etc.
+**  In Francisella tularensis, the long form differs enough to fall below
+**  cutoffs for the model TIGR03545. I think that one is a fusion that hits
+**  TIGR03546.
+--
+SN  sporad1
+ID  sporadic gene pair, small protein
+RQ  1
+EV  IPR019935; TIGR03546;
+--
+SN  sporad2
+ID  sporadic gene pair, large protein
+RQ  1
+EV  IPR019934; TIGR03545;
+//

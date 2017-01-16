@@ -1,0 +1,30 @@
+AC  GenProp0982
+DE  radical SAM maturase system, FibroRumin system
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  21478363
+RT  Biological systems discovery in silico: radical S-adenosylmethionine
+RT  protein families and their target peptides for posttranslational
+RT  modification.
+RA  Haft DH, Basu MK;
+RL  J Bacteriol. 2011;193:2745-2755.
+CC  This rare system consists of a peptide-modifying radical SAM enzyme and
+CC  its cysteine-rich targets. In this system, the targets are encoded by
+CC  tandem gene pairs. The maturase is similar in sequence, and the targets
+CC  in their cysteine richness, to the analogous components of the SCIFF
+CC  (Six Cysteines in Forty-Five) system. This system is known so far in
+CC  Fibrobacter succinogenes subsp. succinogenes S85 (targets missed in
+CC  gene-calling) and in Ruminococcus albus 8.
+--
+SN  FR_rSAM
+ID  radical SAM peptide maturase, FibroRumin system
+RQ  1
+EV  IPR026426; TIGR04136;
+--
+SN  FR_targ
+ID  Cys-rich radical SAM target, FibroRumin family
+RQ  1
+EV  IPR026425; TIGR04135;
+//

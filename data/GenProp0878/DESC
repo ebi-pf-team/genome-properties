@@ -1,0 +1,34 @@
+AC  GenProp0878
+DE  N(epsilon)-acetyl-beta-lysine biosynthesis
+TP  PATHWAY
+AU  Haft D
+TH  0
+RN  [1]
+RM  14532061
+RT  Lysine-2,3-aminomutase and beta-lysine acetyltransferase genes of
+RT  methanogenic archaea are salt induced and are essential for the
+RT  biosynthesis of Nepsilon-acetyl-beta-lysine and growth at high
+RT  salinity.
+RA  Pflüger K, Baumann S, Gottschalk G, Lin W, Santos H, Müller V;
+RL  Appl Environ Microbiol. 2003;69:6047-6055.
+CC  N(epsilon)-acetyl-beta-lysine is a compatible solute produced in
+CC  methanogenic archaea under salt stress. Note that the first enzyme in
+CC  this two-step pathway can instead serve as the first step in lysine
+CC  catabolism, as in Clostridium subterminale SB4 (see PMID:10629195).
+**  Includes Methanosarcina mazei, Methanosarcina acetivorans,
+**  Methanosarcina barkeri and Methanococcus maripaludis. I wrote a letter
+**  9/14/2009 to Prof. Dr. Erhard Bremer, who works on compatible solutes
+**  in Bacillus, to ask about AblA/AlbB predictions outside the archaea.
+--
+SN  ablA
+ID  lysine-2,3-aminomutase
+RQ  1
+EV  IPR022459; TIGR03820;
+TG  GO:0042398;
+--
+SN  ablB
+ID  beta-lysine acetyltransferase
+RQ  1
+EV  IPR022525; TIGR03827;
+TG  GO:0042398;
+//

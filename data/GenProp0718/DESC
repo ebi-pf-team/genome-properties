@@ -1,0 +1,42 @@
+AC  GenProp0718
+DE  oxalate degradation
+TP  PATHWAY
+AU  Haft D
+TH  0
+RN  [1]
+RM  16517636
+RT  Transcriptional and functional analysis of oxalyl-coenzyme A (CoA)
+RT  decarboxylase and formyl-CoA transferase genes from Lactobacillus
+RT  acidophilus.
+RA  Azcarate-Peril MA, Bruno-Bárcena JM, Hassan HM, Klaenhammer TR;
+RL  Appl Environ Microbiol. 2006;72:1891-1899.
+RN  [2]
+RM  12844490
+RT  The crystal structure of the Escherichia coli YfdW gene product reveals
+RT  a new fold of two interlaced rings identifying a wide family of CoA
+RT  transferases.
+RA  Gruez A, Roig-Zamboni V, Valencia C, Campanacci V, Cambillau C;
+RL  J Biol Chem. 2003;278:34582-34586.
+CC  A two-enzyme pathway degrades oxalate, a toxic metabolite. Formyl-CoA
+CC  transferase transfers coenzyme A from formyl-CoA to oxalate, leaving
+CC  formate. Oxalyl-CoA decarboxylase, a TPP-containing enzyme, removes C02
+CC  to regenerate formyl-CoA. The net result is conversion of oxalate to
+CC  formate and CO2. This system was originally described in Oxalobacter
+CC  formigenes from the human gut, and is found in a number of other gut
+CC  bacteria.
+**  Note that there is some equivocation on the specicity of the E. coli
+**  frc entry, YfdW. I guess formyl-CoA is unstable, so reactions on it are
+**  tricky to measure, and perhaps the enzyme can also work on related
+**  substrates. But the YfdW. crystallographers say it is likely
+**  functionally equivalent, and gene neighborhood agrees.
+--
+SN  1_frc
+ID  formyl-CoA transferase
+RQ  1
+EV  IPR017659; TIGR03253; sufficient;
+--
+SN  2_oxc
+ID  oxalyl-CoA decarboxylase
+RQ  1
+EV  IPR017660; TIGR03254; sufficient;
+//

@@ -1,0 +1,45 @@
+AC  GenProp0654
+DE  intracellular sulfur oxidation
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  16387657
+RT  Mechanistic insights into sulfur relay by multiple sulfur mediators
+RT  involved in thiouridine biosynthesis at tRNA wobble positions.
+RA  Ikeuchi Y, Shigi N, Kato J, Nishimura A, Suzuki T;
+RL  Mol Cell. 2006;21:97-108.
+RN  [2]
+RM  15687204
+RT  Novel genes of the dsr gene cluster and evidence for close interaction
+RT  of Dsr proteins during sulfur oxidation in the phototrophic sulfur
+RT  bacterium Allochromatium vinosum.
+RA  Dahl C, Engels S, Pott-Sperling AS, Schulte A, Sander J, Lübbe Y,
+RA  Deuster O, Brune DC;
+RL  J Bacteriol. 2005;187:1392-1404.
+CC  This system, usually associated with the dissimatory sulfite reductase
+CC  (dsr) locus, includes proteins DsrE, DsrF, DshH, and DsrC, which are
+CC  small, soluble proteins required for the oxidation of intracellular
+CC  sulfur.
+**  What about DsrM, DsrK? See if these should be added.
+--
+SN  DsrC
+ID  putative dissimilatory sulfite reductase gamma subunit
+RQ  0
+EV  IPR007453; TIGR03342;
+--
+SN  DsrE
+ID  DsrE protein
+RQ  1
+EV  IPR017463; TIGR03012; sufficient;
+--
+SN  DsrF
+ID  DsrF protein
+RQ  1
+EV  IPR017462; TIGR03010; sufficient;
+--
+SN  DsrH
+ID  DsrH protein
+RQ  1
+EV  IPR007215; TIGR03011; sufficient;
+//

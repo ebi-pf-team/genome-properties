@@ -1,0 +1,11 @@
+AC  GenProp1048
+DE  quorum-sensing, biofilm formation, and developmental systems
+TP  CATEGORY
+AU  Haft D
+TH  0
+CC  This category unites properties the describe microbial processes that
+CC  coordinate behavior between cells. These include quorum-sensing,
+CC  biofilm formation, and various other signal-mediated interactions.
+**  But let us exclude mating type behaviors, mostly. Contact mediated and
+**  signal-mediated both?
+//

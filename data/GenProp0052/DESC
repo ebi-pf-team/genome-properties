@@ -1,0 +1,307 @@
+AC  GenProp0052
+DE  type III secretion
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  11018143
+RT  Assembly and function of type III secretory systems.
+RA  Cornelis GR, Van Gijsegem F;
+RL  Annu Rev Microbiol. 2000;54:735-774.
+RN  [2]
+RM  15629935
+RT  The Erwinia chrysanthemi type III secretion system is required for
+RT  multicellular behavior.
+RA  Yap MN, Yang CH, Barak JD, Jahn CE, Charkowski AO;
+RL  J Bacteriol. 2005;187:639-648.
+RN  [3]
+RM  15808742
+RT  Bioinformatics, genomics and evolution of non-flagellar type-III
+RT  secretion systems: a Darwinian perspective.
+RA  Pallen MJ, Beatson SA, Bailey CM;
+RL  FEMS Microbiol Rev. 2005;29:201-229.
+DC  Type III secretion system
+DR  KEGG; map03070;
+CC  Type III secretion systems are found in a number of pathogenenic
+CC  gram-negative bacteria. These systems consist of approximately
+CC  twenty-five translocation proteins, as well as those proteins that are
+CC  transported either across the bacterial inner and outer membrane, into
+CC  the medium, or further across a eukaryotic target cell membrane.
+CC  Substrates for type III secretion are not cleaved during transport,
+CC  although the signal for transport appears to lie near the N-terminus
+CC  (or in the RNA); chaperones act as well for some substrates and may be
+CC  a second signal. Proteins delivered to the target cell cytosol and
+CC  active in pathogenesis are termed effectors. Type III secretion systems
+CC  resemble some of the flagellar export apparatus. In some cases, a type
+CC  III pilus is observed and required for effector delivery. Gene
+CC  nomeclature transposes across genomes: ysc in Yersinia, bsc in
+CC  Bordetella, esc in enteropathogenic E. coli, hrc in plant pathogens,
+CC  etc., so that Ysc, EscD, HrcD, etc. are homologous and functionally
+CC  analogous [1,2].
+**  It looks like there is a type III secretion system in Desulfovibrio
+**  vulgaris.  THIS NEEDS SOME EXPLANATION.  Eleven proteins are said to be
+**  well-conserved across type III systems: YscC,D,J,L,N,Q,R,S,T,U,V.  HRP
+**  refers to Hypersensitive Response/Pathogenesis.  Harpins into the
+**  medium, avirulence proteins into plant cell.
+--
+SN  HpaP
+ID  HpaP
+RQ  0
+EV  IPR013390; TIGR02557; sufficient;
+TG  GO:0030254;
+--
+SN  HrpB1
+ID  HrpB1/HrpK
+RQ  0
+EV  IPR013394; TIGR02561; sufficient;
+TG  GO:0030254;
+--
+SN  HrpB2
+ID  HrpB2
+RQ  0
+EV  IPR013391; TIGR02558; sufficient;
+TG  GO:0030254;
+--
+SN  HrpB4
+ID  HrpB4
+RQ  0
+EV  IPR013393; TIGR02560; sufficient;
+TG  GO:0030254;
+--
+SN  HrpB7
+ID  HrpB7
+RQ  0
+EV  IPR013392; TIGR02559; sufficient;
+TG  GO:0030254;
+--
+SN  LcrE
+ID  LcrE/YopN/InvE/MxiC
+RQ  0
+EV  IPR013401; TIGR02568; sufficient;
+TG  GO:0030254;
+--
+SN  LcrG
+ID  LcrG/PcrG
+RQ  0
+EV  IPR009863; TIGR02573; sufficient;
+TG  GO:0030254;
+--
+SN  LcrH
+ID  LcrH/SycD/SpaT
+RQ  0
+EV  IPR005415; TIGR02552; sufficient;
+TG  GO:0030254;
+--
+SN  LcrR
+ID  regulatory component LcrR
+RQ  0
+EV  IPR013405; TIGR02572; sufficient;
+TG  GO:0030254;
+--
+SN  OrgA
+ID  OrgA/MxiK
+RQ  0
+EV  IPR013388; TIGR02555; sufficient;
+TG  GO:0030254;
+--
+SN  PrgH
+ID  PrgH
+RQ  0
+EV  IPR013387; TIGR02554; sufficient;
+TG  GO:0030254;
+--
+SN  SpaK
+ID  SpaK/InvB/YsaK
+RQ  0
+EV  IPR003065; PF03519; sufficient;
+TG  GO:0030254;
+--
+SN  SseC
+ID  SseC/YopB/EspD
+RQ  0
+EV  IPR006972; PF04888; sufficient;
+TG  GO:0030254;
+--
+SN  SycH
+ID  type III secretion chaperone SycH
+RQ  0
+EV  IPR010261; PF05932; sufficient;
+TG  GO:0030254;
+--
+SN  SycN
+ID  type III secretion chaperone SycN
+RQ  0
+EV  IPR012673; TIGR02503; sufficient;
+TG  GO:0030254;
+--
+SN  TyeA
+ID  type III secretion effector delivery regulator, TyeA family
+RQ  1
+EV  IPR013351; TIGR02511; sufficient;
+TG  GO:0030254;
+--
+SN  YopD
+ID  YopD
+RQ  0
+EV  IPR008898; PF05844; sufficient;
+TG  GO:0030254;
+--
+SN  ndl_len
+ID  needle length determinant
+RQ  0
+EV  IPR013354; TIGR02514; sufficient;
+TG  GO:0030254;
+--
+SN  needle
+ID  type III secretion system needle protein
+RQ  1
+EV  IPR011841; TIGR02105; sufficient;
+TG  GO:0030254;
+--
+SN  operon
+ID  in operon: flanked by, co-oriented and tight with evidence
+RQ  0
+--
+SN  regulato
+ID  Proximal regulatory components
+RQ  0
+EV  IPRXXXX; PF00165;
+EV  IPRXXXX; PF00816;
+--
+SN  secretin
+ID  secretin, type III associated
+RQ  0
+EV  IPRXXXX; PF03958;
+TG  GO:0030254;
+--
+SN  specific
+ID  Narrow clade specific components
+RQ  0
+--
+SN  target
+ID  secreted proteins, effectors
+RQ  0
+EV  IPRXXXX; PF03518; sufficient;
+EV  IPR005427; TIGR02101; sufficient;
+EV  IPR013386; TIGR02553; sufficient;
+--
+SN  y_B
+ID  type III secretion system chaperone, YscB family
+RQ  0
+EV  IPR013353; TIGR02513; sufficient;
+TG  GO:0030254;
+--
+SN  y_C_h_C
+ID  type III secretion outer membrane pore, YscC/HrcC family
+RQ  1
+EV  IPR003522; TIGR02516; sufficient;
+TG  GO:0030254;
+--
+SN  y_D_h_Q
+ID  type III secretion apparatus protein, YscD/HrpQ family
+RQ  1
+EV  IPR012843; TIGR02500; sufficient;
+TG  GO:0030254;
+--
+SN  y_E
+ID  type III secretion system protein, YseE family
+RQ  0
+EV  IPR012671; TIGR02501; sufficient;
+TG  GO:0030254;
+--
+SN  y_G
+ID  type III secretion protein, YscG family
+RQ  0
+EV  IPR013348; TIGR02508; sufficient;
+TG  GO:0030254;
+--
+SN  y_H
+ID  type III secretion protein YopR(YscH)
+RQ  0
+EV  IPR013349; TIGR02509; sufficient;
+TG  GO:0030254;
+--
+SN  y_I_h_B
+ID  type III secretion apparatus protein, YscI/HrpB
+RQ  1
+EV  IPR012670; TIGR02497; sufficient;
+TG  GO:0030254;
+--
+SN  y_J_h_J
+ID  type III apparatus lipoprotein,
+RQ  1
+EV  IPR003282; TIGR02544; sufficient;
+TG  GO:0030254;
+--
+SN  y_K
+ID  YOP proteins translocation protein K
+RQ  0
+EV  IPR009510; PF06578; sufficient;
+TG  GO:0030254;
+--
+SN  y_L_h_E
+ID  type III secretion apparatus protein, HrpE/YscL family
+RQ  1
+EV  IPR012842; TIGR02499; sufficient;
+TG  GO:0030254;
+--
+SN  y_N_ATP
+ID  type III secretion ATPase
+RQ  1
+EV  IPR013380; TIGR02546; sufficient;
+TG  GO:0030254;
+--
+SN  y_O
+ID  type III secretion protein YscO
+RQ  0
+EV  IPR009929; PF07321; sufficient;
+TG  GO:0030254;
+--
+SN  y_Q_h_Q
+ID  YscQ/HrcQ/SpaO
+RQ  1
+EV  IPR013385; TIGR02551; sufficient;
+TG  GO:0030254;
+--
+SN  y_R_h_R
+ID  type III secretion apparatus protein, YscR/HrcR family
+RQ  1
+EV  IPR005773; TIGR01102; sufficient;
+TG  GO:0030254;
+--
+SN  y_S_h_S
+ID  YscS/HrcS/SctS/EscS
+RQ  1
+EV  IPR006306; TIGR01403; sufficient;
+TG  GO:0030254;
+--
+SN  y_T_h_X
+ID  type III secretion protein, YscT/HrpX family
+RQ  1
+EV  IPR006304; TIGR01401; sufficient;
+TG  GO:0030254;
+--
+SN  y_U_h_Y
+ID  type III secretion protein, YscU/HrpY family
+RQ  1
+EV  IPR006307; TIGR01404; sufficient;
+TG  GO:0030254;
+--
+SN  y_V
+ID  type III secretion protein, HrcV
+RQ  1
+EV  IPR006302; TIGR01399; sufficient;
+TG  GO:0030254;
+--
+SN  y_W
+ID  type III secretion chaperone YscW
+RQ  0
+EV  IPR013400; TIGR02567; sufficient;
+TG  GO:0030254;
+--
+SN  y_X
+ID  type III secretion protein, YscX family
+RQ  0
+EV  IPR012672; TIGR02502; sufficient;
+TG  GO:0030254;
+//

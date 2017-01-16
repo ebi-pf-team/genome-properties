@@ -1,0 +1,38 @@
+AC  GenProp1000
+DE  ATP-grasp maturase system, uncharacterized
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  20023723
+RT  Amidoligases with ATP-grasp, glutamine synthetase-like and
+RT  acetyltransferase-like domains: synthesis of novel metabolites and
+RT  peptide modifications of proteins.
+RA  Iyer LM, Abhiman S, Maxwell Burroughs A, Aravind L;
+RL  Mol Biosyst. 2009;5:1636-1660.
+CC  The microviridin family (see PF12559) is an example family of
+CC  ribosomally produced, post-translationally modified peptides (RiPP) for
+CC  which the peptide maturases come from the ATP-grasp ligase family. This
+CC  Genome Property describes a cassette with a related ATP-grasp enzyme
+CC  (TIGR04187), a putative target family (TIGR04186), and a
+CC  methyltransferase (TIGR04188). We propose the name TgmABC
+CC  (Target/Grasp/Methyltransferase ABC) for system.
+**  A Dan Haft invention. Um, turns out Iyer had published something on
+**  this, have not read.
+--
+SN  GRASP
+ID  ATP-grasp family maturase
+RQ  1
+EV  IPR026449; TIGR04187;
+--
+SN  methyl
+ID  methyltransferase
+RQ  1
+EV  IPR026448; TIGR04188;
+--
+SN  precur
+ID  ribosomal peptide modification target
+RQ  1
+EV  IPR026496; TIGR04186;
+EV  IPR025744; PF14404;
+//

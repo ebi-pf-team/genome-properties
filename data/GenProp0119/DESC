@@ -1,0 +1,143 @@
+AC  GenProp0119
+DE  PTS transport system
+TP  SYSTEM
+AU  Haft D
+TH  2
+--
+SN  EIIA
+ID  phosphotransferase system, EIIA
+DN  NOT APPLICABLE
+RQ  1
+EV  IPR003188; PF02255; sufficient;
+TG  GO:0009401;
+EV  IPR004701; PF03610; sufficient;
+TG  GO:0009401;
+EV  IPR004716; PF03829; sufficient;
+TG  GO:0009401;
+EV  IPR013789; TIGR00824; sufficient;
+TG  GO:0009401;
+EV  IPR001127; TIGR00830; sufficient;
+TG  GO:0009401;
+EV  IPR004715; TIGR00848; sufficient;
+TG  GO:0009401;
+EV  IPR018454; TIGR00849; sufficient;
+TG  GO:0009401;
+EV  IPR011297; TIGR01995; sufficient;
+TG  GO:0009401;
+EV  IPR002178; PF00359; sufficient;
+TG  GO:0009401;
+EV  IPR001127; PF00358; sufficient;
+TG  GO:0009401;
+--
+SN  EIIB
+ID  phosphotransferase system, EIIB
+DN  NOT APPLICABLE
+RQ  1
+EV  IPR003501; PF02302; sufficient;
+TG  GO:0009401;
+EV  IPRXXXX; PF02379; sufficient;
+TG  GO:0009401;
+EV  IPR004720; PF03830; sufficient;
+TG  GO:0009401;
+EV  IPR004702; TIGR00825; sufficient;
+TG  GO:0009401;
+EV  IPR001996; TIGR00826; sufficient;
+TG  GO:0009401;
+EV  IPR003353; TIGR00829; sufficient;
+TG  GO:0009401;
+EV  IPR013012; TIGR00853; sufficient;
+TG  GO:0009401;
+EV  IPR018455; TIGR00854; sufficient;
+TG  GO:0009401;
+EV  IPR011296; TIGR01992; sufficient;
+TG  GO:0009401;
+EV  IPR011297; TIGR01995; sufficient;
+TG  GO:0009401;
+EV  IPR010973; TIGR01996; sufficient;
+TG  GO:0009401;
+EV  IPR010974; TIGR01998; sufficient;
+TG  GO:0009401;
+EV  IPR011299; TIGR02002; sufficient;
+TG  GO:0009401;
+EV  IPR011300; TIGR02003; sufficient;
+TG  GO:0009401;
+EV  IPR011301; TIGR02004; sufficient;
+TG  GO:0009401;
+EV  IPR010975; TIGR02005; sufficient;
+TG  GO:0009401;
+EV  IPR018113; PF00367; sufficient;
+TG  GO:0009401;
+--
+SN  EIIC
+ID  phosphotransferase system, EIIC
+DN  NOT APPLICABLE
+RQ  1
+EV  IPR004703; PF03611; sufficient;
+TG  GO:0009401;
+EV  IPR004796; TIGR00359; sufficient;
+TG  GO:0009401;
+EV  IPR004801; TIGR00394; sufficient;
+TG  GO:0009401;
+EV  IPR004501; TIGR00410; sufficient;
+TG  GO:0009401;
+EV  IPR004699; TIGR00821; sufficient;
+TG  GO:0009401;
+EV  IPR004700; TIGR00822; sufficient;
+TG  GO:0009401;
+EV  IPR004702; TIGR00825; sufficient;
+TG  GO:0009401;
+EV  IPR013853; TIGR00827; sufficient;
+TG  GO:0009401;
+EV  IPR004718; TIGR00851; sufficient;
+TG  GO:0009401;
+EV  IPR004719; TIGR00852; sufficient;
+TG  GO:0009401;
+EV  IPR006327; TIGR01427; sufficient;
+TG  GO:0009401;
+EV  IPR011296; TIGR01992; sufficient;
+TG  GO:0009401;
+EV  IPR011297; TIGR01995; sufficient;
+TG  GO:0009401;
+EV  IPR010973; TIGR01996; sufficient;
+TG  GO:0009401;
+EV  IPR010974; TIGR01998; sufficient;
+TG  GO:0009401;
+EV  IPR011299; TIGR02002; sufficient;
+TG  GO:0009401;
+EV  IPR011300; TIGR02003; sufficient;
+TG  GO:0009401;
+EV  IPR011301; TIGR02004; sufficient;
+TG  GO:0009401;
+EV  IPR010975; TIGR02005; sufficient;
+TG  GO:0009401;
+EV  IPR003352; PF02378; sufficient;
+TG  GO:0009401;
+--
+SN  EIID
+ID  phosphotransferase system, EIID
+DN  NOT APPLICABLE
+RQ  0
+EV  IPR018405; TIGR00828; sufficient;
+TG  GO:0009401;
+--
+SN  HPr
+ID  phosphocarrier protein HPr
+DN  phosphocarrier protein HPr
+RQ  1
+EV  IPR000032; TIGR01003; sufficient;
+TG  GO:0009401;
+--
+SN  hprK
+ID  HPr(Ser) kinase/phosphatase
+DN  HPr(Ser) kinase/phosphatase
+RQ  0
+EV  IPR003755; TIGR00679; sufficient;
+TG  GO:0009401;
+--
+SN  ptsI
+ID  phosphoenolpyruvate-protein phosphotransferase
+DN  phosphoenolpyruvate-protein phosphotransferase (EC 2.7.3.9)
+RQ  1
+EV  IPR006318; TIGR01417; sufficient;
+TG  GO:0009401;
+//

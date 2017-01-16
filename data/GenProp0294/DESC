@@ -1,0 +1,56 @@
+AC  GenProp0294
+DE  ethanolamine degradation proteinaceous organelle
+TP  SYSTEM
+AU  Haft D
+TH  1
+RN  [1]
+RM  3045078
+RT  Ethanolamine utilization in Salmonella typhimurium.
+RA  Roof DM, Roth JR;
+RL  J Bacteriol. 1988;170:3855-3863.
+CC  Ethanolamine can be broken down to acetaldehyde by the action of
+CC  ethanolamine ammonia lyase, an adenosyl cobalamin (vitamin B12)
+CC  dependent enzyme.  In its simplest form this system consists only of
+CC  the two subunits of the enzyme, but ususally also includes a
+CC  transporter for ethanolamine and may include a coexpressed acetaldehyde
+CC  dehydrogenase to ensure that the toxic aldehyde is efficiently
+CC  converted to acetyl-CoA.  A more complex version of this system exists
+CC  (GenProp0292) which includes additional genes coding for the
+CC  proteinaceous coat of a specialized organelle as well as other genes
+CC  for the efficienct maintenance and regulation of the lyase, handling of
+CC  the product and import of the substrate.  Presumably, this organellar
+CC  system in organisms which may rely on ethanolamine as a primary carbon
+CC  source.
+--
+SN  eutB
+ID  ethanolamine ammonia-lyase, large subunit
+DN  ethanolamine ammonia-lyase, large subunit (EC 4.3.1.7)
+RQ  1
+EV  IPR010628; PF06751; sufficient;
+TG  GO:0046336;
+--
+SN  eutC
+ID  ethanolamine ammonia-lyase, small subunit
+DN  ethanolamine ammonia-lyase, small subunit (EC 4.3.1.7)
+RQ  1
+EV  IPR009246; PF05985; sufficient;
+TG  GO:0046336;
+--
+SN  eutE
+ID  putative acetaldehyde dehydrogenase (acetylating)
+DN  putative acetaldehyde dehydrogenase (acetylating)
+RQ  0
+EV  IPR013357; TIGR02518; sufficient;
+TG  GO:0046336;
+EV  IPRXXXX; PF00171;
+TG  GO:0046336;
+--
+SN  eutH
+ID  ethanolamine diffusion facilitator
+DN  ethanolamine diffusion facilitator
+RQ  0
+EV  IPR004757; TIGR00908; sufficient;
+TG  GO:0046336;
+EV  IPR007441; PF04346; sufficient;
+TG  GO:0046336;
+//

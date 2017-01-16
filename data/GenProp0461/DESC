@@ -1,0 +1,40 @@
+AC  GenProp0461
+DE  utilization of deoxynucleosides
+TP  PATHWAY
+AU  Haft D
+TH  0
+**  Property seems to be in rough shape - too general, with existing models
+**  covering perhaps too little. For the DeoA step, seems any pyrimidine
+**  phosphorylase is allowed, while the choice of three now in seem each
+**  too strict.  Removed some EC number and com_name-based evidences for
+**  DeoA.  This feels more like a KEGG broad bin and less like a specific
+**  JCVI Genome Property. 
+--
+SN  DeoA
+ID  thymidine phosphorylase
+RQ  1
+EV  IPR013465; TIGR02643; sufficient;
+EV  IPR018090; TIGR02644; sufficient;
+EV  IPR013466; TIGR02645; sufficient;
+--
+SN  DeoB
+ID  phosphopentomutase
+RQ  1
+EV  IPR010045; TIGR01696; sufficient;
+--
+SN  DeoC
+ID  deoxyribose-phosphate aldolase
+RQ  1
+EV  IPR011343; TIGR00126; sufficient;
+--
+SN  DeoD
+ID  purine nucleoside phosphorylase
+RQ  1
+EV  IPR004402; TIGR00107; sufficient;
+EV  IPR011268; TIGR01697; sufficient;
+--
+SN  NupC
+ID  nucleoside transporter
+RQ  0
+EV  IPRXXXX; TIGR00804;
+//

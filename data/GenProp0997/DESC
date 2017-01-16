@@ -1,0 +1,43 @@
+AC  GenProp0997
+DE  proposed nine-carbon sugar biosynthesis cassette
+TP  PATHWAY
+AU  Haft D
+TH  0
+CC  The seven genes that form the core of this apparently laterally
+CC  transferred cassette include four genes homologous to the NeuABCD genes
+CC  producing acetyl-modified CMP-neuraminic (sialic) acids. This
+CC  nine-carbon sugar is formed from the condensation of UMP-GlcNAc and
+CC  phosphoenolpyruvate. In addition to these genes are an
+CC  epimerase/dehydratase gene distantly similar to 4,6-dehydratases and a
+CC  aminotransferase distantly similar to perosamine synthetase.  It is
+CC  reasonable to propose that these two genes act on UDP-GlcNAc or a
+CC  similar sugar to remove the 6-hydroxyl group and replace the 4-hydroxyl
+CC  group with an amino group, possibly changing the chirality of one or
+CC  both of those centers in the process.  The purpose of the final
+CC  additional gene in the cassette, a nucleotidyltransferase is unclear,
+CC  although the production of a bis-nucleotidylsugar, or alternatively,
+CC  two different nucleotidylsugars are possibilities.  In many organisms
+CC  additional genes are observed intercalated with these seven, suggesting
+CC  additional modifications to the product such as methyl- and
+CC  formyl-transferases, redox enzymes, etc. 
+--
+SN  ACT
+ID  NeuD-like acetyltransferase
+RQ  1
+EV  IPRXXXX; TIGR03570;
+--
+SN  EDH
+ID  epimerase/dehydratase, LLPSF__EDH_00030 family
+RQ  1
+EV  IPR026390; TIGR04180;
+--
+SN  NCT0029
+ID  cytidylyltransferase, LLPSF_NCT_000029 family
+RQ  1
+EV  IPRXXXX; 2810;
+--
+SN  NHT
+ID  aminotransferase, LLPSF_NHT_00031 family
+RQ  1
+EV  IPR026385; TIGR04181;
+//

@@ -1,0 +1,38 @@
+AC  GenProp0936
+DE  bacteriocin system, sporulation delay protein group
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  19775247
+RT  Cannibalism enhances biofilm development in Bacillus subtilis.
+RA  López D, Vlamakis H, Losick R, Kolter R;
+RL  Mol Microbiol. 2009;74:609-618.
+CC  This Genome Property describes a three-gene system of antimicrobial
+CC  peptide and two export proteins modeled on SdpC (sporulation delay
+CC  protein C) from Bacillus subtilis, a killing peptide that allows
+CC  cannibalism to obtain nutrients and avoid the irreversible sporulation
+CC  cascade. Related systems are sparsely but widely distributed.
+CC  Additional components of the SdpABC system itself, such as immunity
+CC  protein SdpI and regulatory proteins, were not recognized as universal
+CC  to such systems by phylogenetic profiling mechanisms and are not
+CC  modeled within this Genome Property.
+--
+SN  SdpA
+ID  antimicrobial peptide system protein, SdpA family
+RQ  1
+EV  IPR023902; TIGR04034;
+TG  GO:0030152;
+--
+SN  SdpB
+ID  antimicrobial peptide system protein, SdpB family
+RQ  1
+EV  IPR023894; TIGR04033;
+TG  GO:0030152;
+--
+SN  SdpC
+ID  antimicrobial peptide, SdpC family
+RQ  1
+EV  IPR023888; TIGR04032;
+TG  GO:0030152;
+//

@@ -1,0 +1,39 @@
+AC  GenProp0685
+DE  CRISPR system, I-D/Cyano subtype
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  This property describes a set of CRISPR-Associated Sequence (Cas)
+CC  proteins found in at least three Cyanobacteria, as well as in a diverse
+CC  set of Archaea. Associated repeats are typically 35-37 nucleotides
+CC  long.
+**  GTCGAGACGGACTGAAAACCCAGAACGGGATTGAAAC in ntnp01 
+**  GTTACTTACCATCACTTCCCCGCAAGGGGATGGAAAC in ntns01  GTTTCCATCCCCGTGAGGGGT 
+**  AAAGGAATTAAAAC
+--
+SN  Cas1
+ID  CRISPR-associated protein Cas1, Cyano-type
+RQ  1
+EV  IPR002729; TIGR00287;
+EV  IPR023843; TIGR04093;
+--
+SN  Cy_cas3
+ID  CRISPR-associated helicase, Cyano-type
+RQ  1
+EV  IPR017575; TIGR03158; sufficient;
+--
+SN  Cyano1
+ID  CRISPR-associated protein Csc1
+RQ  1
+EV  IPR017576; TIGR03159; sufficient;
+--
+SN  Cyano2
+ID  CRISPR-associated protein Csc2
+RQ  1
+EV  IPR017574; TIGR03157; sufficient;
+--
+SN  Cyano3
+ID  CRISPR-associated protein Csc3
+RQ  0
+EV  IPR017589; TIGR03174; sufficient;
+//

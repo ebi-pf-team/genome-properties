@@ -1,0 +1,18 @@
+AC  GenProp1027
+DE  GDP-4-acetamido-D-rhamnose (D-Rha4NAc) biosynthesis from D-perosamine
+TP  METAPATH
+AU  Haft D
+TH  0
+CC  GDP-4-acetamido-D-rhamnose (D-Rha4NAc) is the 4-N-acetylated form of
+CC  GDP-perosamine, and is observed in the E. coli O157 antigen.
+--
+SN  Per
+ID  source of GDP-perosamine
+RQ  1
+EV  GenProp1025;
+--
+SN  PerB
+ID  GDP-perosamine 4-N-acetyltransferase
+RQ  1
+EV  IPRXXXX; 2876;
+//

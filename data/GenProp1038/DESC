@@ -1,0 +1,64 @@
+AC  GenProp1038
+DE  O121(Ec) antigen biosynthesis
+TP  METAPATH
+AU  Haft D
+TH  0
+CC  The E. coli O121 antigen monomer is a linear tetrasaccharide with the
+CC  structure
+CC  [->3)bDQui4NGlyAc(1->4)aDGalNAcAN(1->4)aDGalNAcA(1->3)aDGlcNAc(1->]. 
+CC  The 4-aminoquinovose sugar is also known as viosamine and the NGlyAc is
+CC  an acetylglycylamido group; GalNAcA is N-acetylgalturonic acid, and
+CC  GalNAcAN is N-acetylgalacturonamide. Additionally, the DGalNAcAN is
+CC  reported to be 60% O-acetylated at the 3-position. Three
+CC  glycosyltransferases are present in the sequenced O121(Ec) cluster,
+CC  WbqEHI. WbqI shares 47% identity with the WfaH enzyme from the O138(Ec)
+CC  antigen cluster, and O138 shares the [DGlcNAc-a-1,3-DGalNAcA] reaction.
+CC  WbqE shares 37% identity with WfbE from the O123(Ec) antigen cluster,
+CC  and O123 also includes a 4-substituted quinovose sugar in the first
+CC  position of the monomer, although the incorporated amino acid is
+CC  alanine instead of glycine. By process of elimination, the WbqH enzyme
+CC  is assigned to the middle linkage. The N-acetylgalacturonamide is
+CC  likely derived from N-acetylgalturonic acid by the action of the
+CC  asparagine synthase homolog WbqG. The O-acetylation is likely carried
+CC  out by WbqF.
+--
+SN  Q4NGAc
+ID  source of 4-acetylglycylamido-D-quinovose
+RQ  1
+EV  GenProp1039;
+--
+SN  WbqE
+ID  D-GalNAcAN-b-1,4-D-Qui4NAcGly transferase
+RQ  1
+EV  IPRXXXX; 2904;
+--
+SN  WbqF
+ID  D-GalNAcAN 3-O-acetyltransferase
+RQ  1
+EV  IPRXXXX; 2905;
+--
+SN  WbqG
+ID  D-GalNAcA amido-ligase
+RQ  1
+EV  IPRXXXX; 2907;
+--
+SN  WbqH
+ID  D-GalNAcA-a-1,4-D-GalNAcAN transferase
+RQ  1
+EV  IPRXXXX; 2908;
+--
+SN  WbqI
+ID  D-GlcNAc a-1,3-DGalNAcA transferase
+RQ  1
+EV  IPRXXXX; 2909;
+--
+SN  wzx121
+ID  O121(Ec)-specific O-antigen transporter (flippase) wzx
+RQ  1
+EV  IPRXXXX; 2903;
+--
+SN  wzy121
+ID  O121(Ec)-specific O-antigen polymerase wzy
+RQ  1
+EV  IPRXXXX; 2906;
+//

@@ -1,0 +1,69 @@
+AC  GenProp0048
+DE  IPP biosynthesis via deoxyxylulose
+TP  PATHWAY
+AU  Haft D
+TH  2
+DC  Non-Mevalonate Terpenoid biosynthesis
+DR  IUBMB; terp; nonMVA;
+DC  Sterol biosynthesis
+DR  KEGG; map00100;
+CC  The pathway for the biosynthesis of isoprenyl pyrophosphate (IPP) in
+CC  most bacteria has been variously referred to as the non-mevalonate
+CC  pathway (in contrast to the pathway found in eukaryotes), the
+CC  glyceraldehyde-3-phosphate(GAP)-pyruvate pathway and the deoxyxylulose
+CC  pathway. This pathway contains six characterized enzymes and may
+CC  involve additional proteins as well.
+**  I added IspG, TIGR00612, but now I'm wondering if this is to make IPP
+**  or use IPP. But it is OK : PMID:11274098 says adding mevalonate fixes
+**  the problem, which means this gene is involved in making IPP, not using
+**  it.
+--
+SN  1
+ID  deoxyxylulose-5-phosphate synthase
+DN  1-deoxy-D-xylulose-5-phosphate synthase (EC 2.2.1.7)
+RQ  1
+EV  IPR005477; TIGR00204; sufficient;
+TG  GO:0019288;
+--
+SN  2
+ID  1-deoxy-D-xylulose 5-phosphate reductoisomerase
+DN  1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+RQ  1
+EV  IPR003821; TIGR00243; sufficient;
+TG  GO:0019288;
+--
+SN  ispD
+ID  2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+DN  2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)
+RQ  1
+EV  IPR001228; TIGR00453; sufficient;
+TG  GO:0019288;
+--
+SN  ispE
+ID  4-diphosphocytidyl-2C-methyl-D-erythritol kinase
+DN  4-diphosphocytidyl-2C-methyl-D-erythritol kinase (EC 2.7.1.148)
+RQ  1
+EV  IPR004424; TIGR00154; sufficient;
+TG  GO:0019288;
+--
+SN  ispF
+ID  2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+DN  2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+RQ  1
+EV  IPR003526; TIGR00151; sufficient;
+TG  GO:0019288;
+--
+SN  ispG
+ID  4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+DN  4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (EC 1.17.4.3)
+RQ  1
+EV  IPR004588; TIGR00612;
+TG  GO:0019288;
+--
+SN  ispH
+ID  4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+DN  4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.1.2)
+RQ  1
+EV  IPR003451; TIGR00216;
+TG  GO:0019288;
+//

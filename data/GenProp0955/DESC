@@ -1,0 +1,29 @@
+AC  GenProp0955
+DE  modified peptide/radical SAM maturase system, YydFG family
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  17921301
+RT  The yydFGHIJ operon of Bacillus subtilis encodes a peptide that induces
+RT  the LiaRS two-component system.
+RA  Butcher BG, Lin YP, Helmann JD;
+RL  J Bacteriol. 2007;189:8616-8625.
+CC  The pairing of a precursor to a modified peptide with a cognate radical
+CC  SAM maturase is a common theme in bacteriocin and peptide pheromone
+CC  biosynthesis in bacteria. This system includes peptides related to YydF
+CC  from Bacillus subtilis and radical SAM enzymes similar to YydG.
+**  Looked to me like the peptide occurs even when the radical SAM does
+**  NOT, and that the transporter is better linked to peptide than the
+**  rSAM.
+--
+SN  YydF
+ID  exported signaling peptide, YydF/SAG_2028 family
+RQ  1
+EV  IPR023898; TIGR04077;
+--
+SN  YydG
+ID  peptide modification radical SAM enzyme, YydG family
+RQ  1
+EV  IPR023904; TIGR04078;
+//

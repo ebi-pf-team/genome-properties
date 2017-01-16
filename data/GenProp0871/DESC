@@ -1,0 +1,46 @@
+AC  GenProp0871
+DE  decarboxylation/antiport proton-motive cycle: ornithine-putrescine
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  1584788
+RT  Excretion of putrescine by the putrescine-ornithine antiporter encoded
+RT  by the potE gene of Escherichia coli.
+RA  Kashiwagi K, Miyamoto S, Suzuki F, Kobayashi H, Igarashi K;
+RL  Proc Natl Acad Sci U S A. 1992;89:4529-4533.
+RN  [2]
+RM  17578420
+RT  Gene organization of the ornithine decarboxylase-encoding region in
+RT  Morganella morganii.
+RA  de las Rivas B, Marcobal A, Muñoz R;
+RL  J Appl Microbiol. 2007;102:1551-1560.
+RN  [3]
+RM  22247134
+RT  Evidence of two functionally distinct ornithine decarboxylation systems
+RT  in lactic acid bacteria.
+RA  Romano A, Trip H, Lonvaud-Funel A, Lolkema JS, Lucas PM;
+RL  Appl Environ Microbiol. 2012;78:1953-1961.
+CC  The decarboxylation of L-ornithine to putrescine consumes a proton.
+CC  Exchange of putrescine for L-ornithine by an antiporter completes a
+CC  cycle that effectively removes a cytosolic protein.
+CC  Decarboxylation/antiporter systems for this and other (e.g.
+CC  aspartate-alanine) substrate pairs can provide protection against
+CC  acidic pH.
+--
+SN  PotE
+ID  ornithine-putrescine antiporter
+RQ  1
+EV  IPRXXXX; 2647;
+TG  GO:0010248;
+EV  IPR027566; TIGR04299;
+TG  GO:0010248;
+--
+SN  SpeF
+ID  ornithine decarboxylase
+RQ  1
+EV  IPRXXXX; 2646;
+TG  GO:0010248;
+EV  IPR027568; TIGR04301;
+TG  GO:0010248;
+//

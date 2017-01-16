@@ -1,0 +1,19 @@
+AC  GenProp0488
+DE  superoxide dismutase, nickel-type
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  This property consists of a nickel-dependent superoxide dismutase and a
+CC  cognate protease necessary to process an N-terminal sequence.
+**  I have not added nickel transport to this property at this time.
+--
+SN  SOD
+ID  superoxide dismutase [Ni]
+RQ  1
+EV  IPR014123; TIGR02753; sufficient;
+--
+SN  cleave
+ID  SOD [Ni] protease
+RQ  1
+EV  IPR014124; TIGR02754; sufficient;
+//

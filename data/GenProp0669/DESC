@@ -1,0 +1,47 @@
+AC  GenProp0669
+DE  protein sorting system, putative, exosortase G class
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  For several non-pathogenic Gram-positive bacteria, a protein family
+CC  (TIGR03110) showing considerable sequence similarity to the proposed
+CC  exosortases of Gram-negative bacteria (TIGR02602) occurs in a conserved
+CC  gene neighborhood. This property describes that neighborhood, which
+CC  also includes a glycosyltransferase (TIGR03111) and a domain
+CC  (TIGR03112) related to 6-pyruvoyl tetrahydropterin synthases. These
+CC  regions also include a family of proteins in the which the
+CC  well-conserved C-terminal region (TIGR04145) resembles PEP-CTERM and
+CC  LPXTG protein C-terminal regions. This last family may be the
+CC  protein-sorting target.
+**  Experimental for now, PEP-CTERM/Exosortase-related. The model TIGR03766
+**  was built to add to this property, next to the region in at least three
+**  genomes, but phylogenetic match is highly imperfect. Also, the
+**  conserved motif at the tail end of TIGR03766 is much much broader, and
+**  also a disappointment in phylogenetic profile explorations (iso_id
+**  27433).
+--
+SN  Gtran2
+ID  putative glycosyltransferase TIGR03111
+RQ  1
+EV  IPR017542; TIGR03111; sufficient;
+--
+SN  chp_mem
+ID  conserved hypothetical integral membrane protein
+RQ  0
+EV  IPR021200; TIGR03766;
+--
+SN  cleave
+ID  EpsH core region-related protein
+RQ  1
+EV  IPR017541; TIGR03110; sufficient;
+--
+SN  pterin
+ID  6-pyruvoyl tetrahydropterin synthase-related domain
+RQ  1
+EV  IPR017543; TIGR03112; sufficient;
+--
+SN  target
+ID  Firmicu-CTERM domain
+RQ  1
+EV  IPR026409; TIGR04145;
+//

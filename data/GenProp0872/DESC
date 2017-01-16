@@ -1,0 +1,34 @@
+AC  GenProp0872
+DE  decarboxylation/antiport proton-motive cycle: histidine-histamine
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  15817789
+RT  Sequencing, characterization and transcriptional analysis of the
+RT  histidine decarboxylase operon of Lactobacillus buchneri.
+RA  Martín MC, Fernández M, Linares DM, Alvarez MA;
+RL  Microbiology. 2005;151:1219-1228.
+CC  The decarboxylation of histidine to histamine consumes a proton.
+CC  Exchange of histamine for histadine by an antiporter completes a cycle
+CC  that effectively removes a cytosolic proton. Decarboxylation/antiporter
+CC  systems for this and other (e.g. aspartate-alanine) substrate pairs can
+CC  provide protection against acidic pH.
+**  NTL06LR1829 NTL06LR1828 looks good standin for CAG44457.1, CAG44458.1
+--
+SN  HdcA
+ID  histidine decarboxylase
+RQ  1
+EV  IPR003427; TIGR00541;
+TG  GO:0010248;
+--
+SN  HdcC
+ID  histidine-histamine antiporter
+RQ  1
+EV  IPRXXXX; 2639;
+TG  GO:0010248;
+EV  IPRXXXX; 2642;
+TG  GO:0010248;
+EV  IPR027562; TIGR04298;
+TG  GO:0010248;
+//

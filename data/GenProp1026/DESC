@@ -1,0 +1,42 @@
+AC  GenProp1026
+DE  nodulation factor production
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  8986807
+RT  The common nodABC genes of Rhizobium meliloti are host-range
+RT  determinants.
+RA  Roche P, Maillet F, Plazanet C, Debellé F, Ferro M, Truchet G, Promé
+RA  JC, Dénarié J;
+RL  Proc Natl Acad Sci U S A. 1996;93:15305-15310.
+RN  [2]
+RM  8930915
+RT  The NodA proteins of Rhizobium meliloti and Rhizobium tropici specify
+RT  the N-acylation of Nod factors by different fatty acids.
+RA  Debellé F, Plazanet C, Roche P, Pujol C, Savagnac A, Rosenberg C,
+RA  Promé JC, Dénarié J;
+RL  Mol Microbiol. 1996;22:303-314.
+CC  The gene trio nodABC, found in non-photosynthetic rhizobia such as
+CC  Rhizobium meliloti that form root (not stem) nodules, produce the
+CC  enzymes that create Nod factors. These mono-N-acylated
+CC  chitooligosaccharide signals not only trigger the establishment of
+CC  nitrogen-fixing root nodules, but also vary in ways that determine host
+CC  range. 
+**  PF02474 (NodA) is about ten percent too broad.
+--
+SN  nodA
+ID  nodulation N-acyltransferase NodA
+RQ  1
+EV  IPR003484; TIGR04245;
+--
+SN  nodB
+ID  chitooligosaccharide deacetylase NodB
+RQ  1
+EV  IPR026402; TIGR04243;
+--
+SN  nodC
+ID  chitooligosaccharide synthase NodC
+RQ  1
+EV  IPR026463; TIGR04242;
+//

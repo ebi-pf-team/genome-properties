@@ -1,0 +1,58 @@
+AC  GenProp0939
+DE  rSAM-containing biosynthetic cluster, MSMEG_0568 system
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  This Genome Property describes a broadly but sparsely distributed gene
+CC  cluster that appears to be biosynthetic. The cluster includes a radical
+CC  SAM protein, an N-acetyltransferase, a probable nitrilase, a
+CC  flavin-dependent oxidoreductase, and several uncharacterized
+CC  proteins.This assortment of functions suggests a biosynthetic rather
+CC  than catabolic role for the cluster.
+--
+SN  M_0565
+ID  glycosyltransferase, MSMEG_0565 family
+RQ  0
+EV  IPR023986; TIGR04047;
+--
+SN  M_0567c
+ID  AIR synthase-related protein, sll0787 family
+RQ  1
+EV  IPR024030; TIGR04049;
+EV  IPR023911; TIGR04050;
+--
+SN  M_0567n
+ID  GNAT class N-acetyltransferase, MSMEG_0567 family
+RQ  1
+EV  IPR024035; TIGR04045;
+--
+SN  M_0568
+ID  radical SAM protein, MSMEG_0568 family
+RQ  1
+EV  IPR016779; TIGR04043;
+--
+SN  M_0569
+ID  flavin-dependent oxidoreductase, MSMEG_0569 family
+RQ  1
+EV  IPR024000; TIGR04046;
+--
+SN  M_0570
+ID  MSMEG_0570 family protein
+RQ  1
+EV  IPR023846; TIGR04042;
+--
+SN  M_0572
+ID  MSMEG_0572 family protein
+RQ  1
+EV  IPR023847; TIGR04044;
+--
+SN  M_extr_1
+ID  biosynthetic protein, Pnap_2097 family
+RQ  0
+EV  IPR024092; TIGR04099;
+--
+SN  M_nitr
+ID  putative nitrilase, sll0784 family
+RQ  1
+EV  IPR023919; TIGR04048;
+//

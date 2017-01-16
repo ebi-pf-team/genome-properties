@@ -1,0 +1,71 @@
+AC  GenProp0466
+DE  molybdopterin biosynthesis
+TP  PATHWAY
+AU  Haft D
+TH  1
+RN  [1]
+RM  15632135
+RT  In vitro molybdenum ligation to molybdopterin using purified
+RT  components.
+RA  Nichols JD, Rajagopalan KV;
+RL  J Biol Chem. 2005;280:7817-7822.
+CC  Molybdenum, in every enzyme containing it except nitrogenase, is a
+CC  single atom coordinated by the two sulfur atoms of molybdopterin (MPT).
+CC  MoaA and MoaC synthesize precursor Z from guanine. MoaD (supported by
+CC  MoeB) and MoaE synthesize MPT from precursor Z. MoeA and MogA add
+CC  molybdenum to the dithiolene of MPT. A molybdenum transport system (see
+CC  GenProp0192) must also be present. In bacteria, MPT most often occurs
+CC  as the derivative molybdopterin guanine dinucleotide (MGG); MobA
+CC  catalyzes the addition of GMP to MPT. In hyperthermophiles, tungsten
+CC  may substitute for molybdenum. In species with a member of family
+CC  TIGR03309 (YqeB family), selenium can substitute for sulfur.
+**  There may be other proteins involved.  ModE - molybdate-dependent
+**  transcriptional regulation.  MoaB - crystallized, not really assigned
+**  (TIGR02667).  Archaeal homolog TIGR02668 to bacterial moaA TIGR02666
+**  uncharacterized.  The MobA model TIGR02665 is only for Proteobacteria. 
+**  The MoaB model TIGR02667 is only for Proteobacteria.
+--
+SN  moaA
+ID  molybdenum cofactor biosynthesis protein A
+RQ  1
+EV  IPR013483; TIGR02666; sufficient;
+TG  GO:0032324;
+EV  IPR013485; TIGR02668; sufficient;
+TG  GO:0032324;
+--
+SN  moaB
+ID  molybdenum cofactor biosynthesis protein B
+RQ  0
+EV  IPR013484; TIGR02667; sufficient;
+TG  GO:0032324;
+--
+SN  moaC
+ID  molybdenum cofactor biosynthesis protein C
+RQ  1
+EV  IPR023045; TIGR00581; sufficient;
+TG  GO:0032324;
+--
+SN  moaD
+ID  molybdopterin converting factor, subunit 1
+RQ  1
+EV  IPR010034; TIGR01682; sufficient;
+TG  GO:0032324;
+--
+SN  moaE
+ID  molybdopterin converting factor, subunit 2
+RQ  1
+EV  IPR003448; PF02391; sufficient;
+TG  GO:0032324;
+--
+SN  mobA
+ID  molybdopterin-guanine dinucleotide biosynthesis protein A
+RQ  0
+EV  IPR013482; TIGR02665; sufficient;
+TG  GO:0032324;
+--
+SN  mobB
+ID  molybdopterin-guanine dinucleotide biosynthesis protein B
+RQ  1
+EV  IPR004435; TIGR00176; sufficient;
+TG  GO:0032324;
+//

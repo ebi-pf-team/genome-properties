@@ -1,0 +1,36 @@
+AC  GenProp0281
+DE  mannosylglycerate biosynthesis
+TP  PATHWAY
+AU  Haft D
+TH  0
+RN  [1]
+RM  12788726
+RT  The bacterium Thermus thermophilus, like hyperthermophilic archaea,
+RT  uses a two-step pathway for the synthesis of mannosylglycerate.
+RA  Empadinhas N, Albuquerque L, Henne A, Santos H, da Costa MS;
+RL  Appl Environ Microbiol. 2003;69:3272-3279.
+CC  Mannosylglycerate is a compatible solute (cf. trehalose, ectoine,
+CC  sucrose, glucosylglycerol, etc.) that tends to be found in highly
+CC  thermophilic prokaryotes of various lineages. The more common
+CC  biosynthetic pathway is a two-step pathway. Mannosyl-3-phosphoglycerate
+CC  synthase (EC 2.4.1.217) combines GDP-mannose with
+CC  3-phospho-D-glycerate. The resultant mannosyl-3-phosphoglycerate is
+CC  dephosphorylated by mannosyl-3-phosphoglycerate phosphatase (EC
+CC  3.1.3.70). The two enzymes are fused in Dehalococcoides ethenogenes, a
+CC  rare mesophile to have this pathway.  
+**  WARNING: THERE IS ALSO the supposed one-step pathway (though it
+**  coexists with the two-step and I wonder if it is for degradation. I
+**  should read the paper). DHH.
+--
+SN  mpgP
+ID  mannosyl-3-phosphoglycerate phosphatase
+DN  mannosyl-3-phosphoglycerate phosphatase (EC 3.1.3.70)
+RQ  1
+EV  IPRXXXX; TIGR02461; sufficient;
+--
+SN  mpgS
+ID  mannosyl-3-phosphoglycerate synthase
+DN  mannosyl-3-phosphoglycerate synthase (EC 2.4.1.217)
+RQ  1
+EV  IPR012812; TIGR02460; sufficient;
+//

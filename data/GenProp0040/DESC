@@ -1,0 +1,53 @@
+AC  GenProp0040
+DE  thiotemplate type non-ribosomal peptide biosynthesis
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  Non-ribosomal peptides are an important class of natural product which
+CC  are assembled by the sequential addition of units containing amino acid
+CC  groups in peptide linkages.  These natural products include
+CC  antibiotics, siderophores, toxins and other compounds of biological and
+CC  economic importance.      These products are synthesized on large
+CC  proteins called non-ribosomal peptide synthetases (NRPSs) which specify
+CC  the amino acids to be added by the sequence of amino acid adenylation
+CC  (activation) domains along the synthetase.  NRPSs may utilize many more
+CC  amino acids than the 20 to which the ribosomes are limited.  In
+CC  addition, NRPSs may form linkages between side-chain amino and
+CC  carboxylate groups and may contain domains which catalyze
+CC  epimerization, methylation, cross-linking, cyclization, oxidation,
+CC  reduction and other modifications to the growing peptide chain.  Chain
+CC  initiation may incorporate fatty acids (in the case of
+CC  lipodepsipeptides) or other non-amino acid, carboxylate-containing
+CC  compounds and NRPSs may work in concert with polyketide synthetases to
+CC  form hybrid peptide-ketide natural products.    NRPSs, like type I
+CC  polyketide synthetases, work via a thio-template mechanism in which the
+CC  activated units are transferred to the thiol of bound pantetheine
+CC  groups in a thio-ester linkage (of the amino acid carboxylates). 
+CC  Condensation domains then join two thioester-bound units to form a
+CC  peptide bond.  Release of the complete polypeptide chain may be via
+CC  cyclization or through the action of a thioesterase or thioester
+CC  reductase.     Many of the constituent domains of NRPSs have been
+CC  defined by HMM models.  These include adenylation (AMP-binding enzyme,
+CC  PF00501), condensation (PF00668), acyl/peptidyl carrier protein
+CC  (thiolation, pantetheine-binding, PF00550), thioesterase (PF00975) and
+CC  thioester reductase (TIGR01746) domains.  In addition, the pantetheine
+CC  binding domains are identified by a pair of PROSITE motifs (PS00012,
+CC  PS50075).    The minimal components of an NRPS are the C
+CC  (condensation), A (adenylation) and T (thiolation) domains which are
+CC  commonly organized into CAT modules.  NRPSs are detected as genes which
+CC  contain hits to all three of these domains.  Genomes with at least one
+CC  ORF which fulfills this condition will be assigned the YES state for
+CC  this property.  The value field will hold the number of ORFs found to
+CC  be NRPSs.  NRPSs may, however, be broken up into multiple genes at
+CC  domain boundaries and thus the possibility exists of missing NRPS genes
+CC  which are short and broken up into pieces having only two of the three
+CC  essential domains.  If the state NO has been set, this indicates that
+CC  the genome has been manually reviewed.     
+**  At present, the rule for this property does not enter the feat_names
+**  into the prop_feat_link table
+--
+SN  C+A+T
+ID  condensation, adenylation and thiloation domains in a single ORF
+DN  NOT APPLICABLE
+RQ  1
+//

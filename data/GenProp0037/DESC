@@ -1,0 +1,108 @@
+AC  GenProp0037
+DE  tryptophan biosynthesis from ribose-5-phosphate
+TP  PATHWAY
+AU  Haft D
+TH  2
+RN  [1]
+RM  12966138
+RT  Ancient origin of the tryptophan operon and the dynamics of
+RT  evolutionary change.
+RA  Xie G, Keyhani NO, Bonner CA, Jensen RA;
+RL  Microbiol Mol Biol Rev. 2003;67:303-42, table of contents.
+DC  Tryptophan Biosynthesis
+DR  IUBMB; AminoAcid; Trp;
+DC  Tryptophan metabolism
+DR  KEGG; map00380;
+CC  The essential amino acid tryptophan is synthesized in prokaryotes,
+CC  plants, and fungi via a conserved six step pathway from the branchpoint
+CC  compound chrosimate, a common precursor in the biosynthesis of aromatic
+CC  amino acids [1]. Seven catalytic domains and two alpha/beta subunit
+CC  complexes comprise this pathway. Individually expressed in some
+CC  organisms, gene fusions encoding single proteins possessing two or more
+CC  of these catalytic domains have been observed for every trp gene.
+CC  Although the occurance of gene fusions have been shown to be
+CC  phylogenetically unrelated, a conserved gene order can be discerned
+CC  within the domain Bacteria. Occasionally gene(s) dissociations disrupt
+CC  gene order as in Campylobacter jejuni and Deinococcus radiodurans, or
+CC  the pathway is found split between two separate chromosomes as in
+CC  Rhodobacter sphaeroides. In cyanobacteria, such as Nostoc and Anabaena,
+CC  it is not uncommon to observe paralogous trp genes as part of a larger
+CC  "supraoperon" including other aromatic amino acid synthesizing genes as
+CC  well as their trp counterparts [2].
+**  Step 1A, anthranilate synthase component I is tricky because of
+**  similarity to PABA synthase component I.  ECNUM evidence cannot be used
+**  because the ECNUM for step 1A is identical to the ECNUM for step 1B
+**  {grrrr}.
+--
+SN  0
+ID  ribose-phosphate pyrophosphokinase
+DN  ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+RQ  1
+EV  IPR005946; TIGR01251; sufficient;
+TG  GO:0000162;
+--
+SN  1A
+ID  anthranilate synthase component I
+DN  anthranilate synthase component I (EC 4.1.3.27)
+RQ  1
+EV  IPR005256; TIGR00564; sufficient;
+TG  GO:0000162;
+EV  IPR005257; TIGR00565; sufficient;
+TG  GO:0000162;
+EV  IPR010112; TIGR01815; sufficient;
+TG  GO:0000162;
+EV  IPR010116; TIGR01820; sufficient;
+TG  GO:0000162;
+--
+SN  1B
+ID  anthranilate synthase component II
+DN  anthranilate synthase component II (EC 4.1.3.27)
+RQ  1
+EV  IPR006221; TIGR00566; sufficient;
+TG  GO:0000162;
+--
+SN  2
+ID  anthranilate phosphoribosyltransferase
+DN  anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+RQ  1
+EV  IPR005940; TIGR01245; sufficient;
+TG  GO:0000162;
+--
+SN  3
+ID  N-(5'phosphoribosyl)anthranilate isomerase
+DN  N-(5'phosphoribosyl)anthranilate isomerase (EC 5.3.1.24)
+RQ  1
+EV  IPR001240; PF00697; sufficient;
+TG  GO:0000162;
+EV  IPR010188; TIGR01919; sufficient;
+TG  GO:0000162;
+--
+SN  4
+ID  indole-3-glycerol phosphate synthase
+DN  indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+RQ  1
+EV  IPR013798; PF00218; sufficient;
+TG  GO:0000162;
+--
+SN  5
+ID  tryptophan synthase, alpha subunit
+DN  tryptophan synthase, alpha subunit (EC 4.2.1.20)
+RQ  1
+EV  IPR002028; TIGR00262; sufficient;
+TG  GO:0000162;
+--
+SN  6
+ID  tryptophan synthase, beta subunit
+DN  tryptophan synthase, beta subunit (EC 4.2.1.20)
+RQ  1
+EV  IPR006654; TIGR00263; sufficient;
+TG  GO:0000162;
+EV  IPR006316; TIGR01415; sufficient;
+--
+SN  repres
+ID  trp operon repressor
+DN  trp operon repressor
+RQ  0
+EV  IPR013335; TIGR01321; sufficient;
+TG  GO:0006355;
+//

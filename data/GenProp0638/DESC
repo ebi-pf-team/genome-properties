@@ -1,0 +1,49 @@
+AC  GenProp0638
+DE  trimethylamine N-oxide reductase system
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  11562502
+RT  An unsuspected autoregulatory pathway involving apocytochrome TorC and
+RT  sensor TorS in Escherichia coli.
+RA  Gon S, Jourlin-Castelli C, Théraulaz L, Méjean V;
+RL  Proc Natl Acad Sci U S A. 2001;98:11615-11620.
+CC  For now, TorA, TorC, chaperone TorD.
+**  PF06192 hits all over, needs to be HMM-CLUST and needs a TIGRFAMs
+**  equivalog.
+--
+SN  TorA
+ID  trimethylamine-N-oxide reductase TorA
+RQ  1
+EV  IPR011887; TIGR02164; sufficient;
+--
+SN  TorC
+ID  TMAO reductase sytem c-type cytochrome
+RQ  1
+EV  IPR009154; TIGR02162; sufficient;
+--
+SN  TorD
+ID  TMAO reductase sytem chaperone TorD
+RQ  1
+EV  IPRXXXX; PF06192;
+--
+SN  TorE
+ID  membrane protein TorE
+RQ  0
+EV  IPR014316; TIGR02972; sufficient;
+--
+SN  TorR
+ID  response regulator TorR
+RQ  1
+--
+SN  TorS
+ID  sensor histidine kinase TorS
+RQ  1
+EV  IPR014302; TIGR02956; sufficient;
+--
+SN  TorT
+ID  periplasmic protein TorT
+RQ  1
+EV  IPR014301; TIGR02955; sufficient;
+//

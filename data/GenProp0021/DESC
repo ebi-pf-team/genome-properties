@@ -1,0 +1,300 @@
+AC  GenProp0021
+DE  CRISPR region
+TP  GUILD
+AU  Haft D
+TH  1
+RN  [1]
+RM  16292354
+RT  A guild of 45 CRISPR-associated (Cas) protein families and multiple
+RT  CRISPR/Cas subtypes exist in prokaryotic genomes.
+RA  Haft DH, Selengut J, Mongodin EF, Nelson KE;
+RL  PLoS Comput Biol. 2005;1:e60.
+RN  [2]
+RM  21552286
+RT  Evolution and classification of the CRISPR-Cas systems.
+RA  Makarova KS, Haft DH, Barrangou R, Brouns SJ, Charpentier E, Horvath P,
+RA  Moineau S, Mojica FJ, Wolf YI, Yakunin AF, van der Oost J, Koonin EV;
+RL  Nat Rev Microbiol. 2011;9:467-477.
+RN  [3]
+RM  11952905
+RT  Identification of genes that are associated with DNA repeats in
+RT  prokaryotes.
+RA  Jansen R, Embden JD, Gaastra W, Schouls LM;
+RL  Mol Microbiol. 2002;43:1565-1575.
+CC  CRISPR repeats are by definition Clustered Regularly Interspaced Short
+CC  Palindromic Repeats, described by Jansen [3]. Certain proteins,
+CC  including Cas1 to Cas4, are found only in genomes with CRISPR repeats,
+CC  and are near these repeats. Jansen, et al. describe CRISPR loci as
+CC  having direct repeats, varying in size from 21 to 37 bp, interspaced by
+CC  similarly sized non-repetitive sequences. We (Haft, et al.) described
+CC  subtypes in which certain groups of subtype-specific genes are found in
+CC  addition to characteristic sets of the more widely distributed cas
+CC  genes [2]. A number of strictly CRISPR-associated genes with narrow
+CC  species distributions have not yet been assigned to subtypes and have
+CC  been collected into an _other_category. A recent review of CRISPR
+CC  families [3] has identified broader categories of CRISPR systems. Apern
+CC  is I-A, Tneap/Hmari is I-B, Dvulg is I-C, Cyano is I-D, Ecoli is I-E,
+CC  Ypest is I-F, Nmeni is type II, Mtube is type III-A, and the RAMP
+CC  module is type III-B.
+--
+SN  Aferr
+ID  Aferr subtype specific proteins
+RQ  0
+EV  IPR017545; TIGR03114;
+TG  GO:0043571;
+EV  IPR017546; TIGR03115;
+TG  GO:0043571;
+EV  IPR017547; TIGR03116;
+TG  GO:0043571;
+EV  IPR017548; TIGR03117;
+TG  GO:0043571;
+--
+SN  Apern
+ID  Apern subtype specific proteins
+RQ  0
+EV  IPR010153; TIGR01874; sufficient;
+TG  GO:0043571;
+EV  IPR010157; TIGR01878; sufficient;
+TG  GO:0043571;
+EV  IPR010163; TIGR01884; sufficient;
+TG  GO:0043571;
+EV  IPR009260; TIGR01896; sufficient;
+TG  GO:0043571;
+EV  IPR010184; TIGR01914; sufficient;
+TG  GO:0043571;
+EV  IPR002764; TIGR02583; sufficient;
+TG  GO:0043571;
+EV  IPR013488; TIGR02671; sufficient;
+TG  GO:0043571;
+EV  IPR022297; TIGR03876;
+TG  GO:0043571;
+--
+SN  Cas1
+ID  Cas1
+DN  CRISPR-associated protein Cas1
+RQ  1
+EV  IPR002729; TIGR00287; sufficient;
+TG  GO:0043571;
+--
+SN  Cas2
+ID  Cas2
+DN  CRISPR-associated protein Cas2
+RQ  0
+EV  IPR021127; TIGR01573; sufficient;
+TG  GO:0043571;
+EV  IPR010152; TIGR01873; sufficient;
+TG  GO:0043571;
+--
+SN  Cas3
+ID  Cas3 (core, HD domain, Ypest-specific)
+DN  CRISPR-associated helicase Cas3
+RQ  0
+EV  IPR006474; TIGR01587; sufficient;
+TG  GO:0043571;
+EV  IPR006483; TIGR01596; sufficient;
+TG  GO:0043571;
+EV  IPR013395; TIGR02562; sufficient;
+TG  GO:0043571;
+EV  IPR013444; TIGR02621; sufficient;
+TG  GO:0043571;
+--
+SN  Cas4
+ID  Cas4
+DN  CRISPR-associated protein Cas4
+RQ  0
+EV  IPR013343; TIGR00372; sufficient;
+TG  GO:0043571;
+--
+SN  Cas5
+ID  Cas5
+DN  CRISPR-associated protein, TM1801 family
+RQ  0
+EV  IPR013422; TIGR02593; sufficient;
+TG  GO:0043571;
+--
+SN  Cas6
+ID  Cas6
+DN  CRISPR-associated protein, CT1133 family
+RQ  0
+EV  IPR010156; TIGR01877; sufficient;
+TG  GO:0043571;
+--
+SN  Dpsyc
+ID  Dpsyc subtype specific proteins
+RQ  0
+EV  IPR019089; TIGR02165; sufficient;
+TG  GO:0043571;
+EV  IPR013403; TIGR02570; sufficient;
+TG  GO:0043571;
+EV  IPR026391; TIGR04106;
+TG  GO:0043571;
+EV  IPR026483; TIGR04113;
+TG  GO:0043571;
+--
+SN  Dvulg
+ID  Dvulg subtype specific proteins
+RQ  0
+EV  IPR010144; TIGR01863; sufficient;
+TG  GO:0043571;
+EV  IPR010155; TIGR01876; sufficient;
+TG  GO:0043571;
+EV  IPR013418; TIGR02589; sufficient;
+TG  GO:0043571;
+--
+SN  Ecoli
+ID  Ecoli subtype specific proteins
+RQ  0
+EV  IPR010147; TIGR01868; sufficient;
+TG  GO:0043571;
+EV  IPR010148; TIGR01869; sufficient;
+TG  GO:0043571;
+EV  IPR010179; TIGR01907; sufficient;
+TG  GO:0043571;
+EV  IPR013381; TIGR02547; sufficient;
+TG  GO:0043571;
+EV  IPR013382; TIGR02548; sufficient;
+TG  GO:0043571;
+--
+SN  Hmari
+ID  Hmari subtype specific proteins
+RQ  0
+EV  IPR013420; TIGR02591; sufficient;
+TG  GO:0043571;
+EV  IPR013419; TIGR02590; sufficient;
+TG  GO:0043571;
+EV  IPR013421; TIGR02592; sufficient;
+TG  GO:0043571;
+--
+SN  Mtube
+ID  Mtube subtype specific proteins
+RQ  0
+EV  IPR010149; TIGR01870; sufficient;
+TG  GO:0043571;
+EV  IPR013408; TIGR02578; sufficient;
+TG  GO:0043571;
+EV  IPR013412; TIGR02582; sufficient;
+TG  GO:0043571;
+EV  IPR005510; TIGR01903; sufficient;
+TG  GO:0043571;
+EV  IPR010173; TIGR01899; sufficient;
+TG  GO:0043571;
+EV  IPR013489; TIGR02672; sufficient;
+TG  GO:0043571;
+--
+SN  Myxan
+ID  Myxan subtype specific proteins
+RQ  0
+EV  IPR019989; TIGR03485;
+TG  GO:0043571;
+EV  IPR027811; TIGR03486;
+TG  GO:0043571;
+EV  IPR013415; TIGR02586;
+TG  GO:0043571;
+--
+SN  Nmeni
+ID  Nmeni subtype specific proteins
+RQ  0
+EV  IPR028629; TIGR01865; sufficient;
+TG  GO:0043571;
+EV  IPR010146; TIGR01866; sufficient;
+TG  GO:0043571;
+--
+SN  Pging
+ID  Pging subtype specific proteins
+RQ  0
+EV  IPR020032; TIGR03489;
+TG  GO:0043571;
+EV  IPR020029; TIGR03487;
+TG  GO:0043571;
+--
+SN  PreFran
+ID  PreFran subtype specific proteins
+RQ  0
+EV  IPR027620; TIGR04330;
+TG  GO:0043571;
+--
+SN  R-module
+ID  RAMP module proteins
+RQ  0
+EV  IPR010160; TIGR01881; sufficient;
+TG  GO:0043571;
+EV  IPR013407; TIGR02577; sufficient;
+TG  GO:0043571;
+EV  IPR007522; TIGR01894; sufficient;
+TG  GO:0043571;
+EV  IPR010165; TIGR01888; sufficient;
+TG  GO:0043571;
+EV  IPR013410; TIGR02580; sufficient;
+TG  GO:0043571;
+EV  IPR010172; TIGR01898; sufficient;
+TG  GO:0043571;
+--
+SN  RAMP-new
+ID  RAMPs not otherwise accounted for
+RQ  0
+EV  IPR013411; TIGR02581; sufficient;
+TG  GO:0043571;
+EV  IPR013490; TIGR02674; sufficient;
+TG  GO:0043571;
+--
+SN  Tneap
+ID  Tneap subtype specific proteins
+RQ  0
+EV  IPR010180; TIGR01908; sufficient;
+TG  GO:0043571;
+EV  IPR013337; TIGR01895; sufficient;
+TG  GO:0043571;
+EV  IPR013414; TIGR02585; sufficient;
+TG  GO:0043571;
+--
+SN  Ypest
+ID  Ypest subtype specific proteins
+RQ  0
+EV  IPR013396; TIGR02563; sufficient;
+TG  GO:0043571;
+EV  IPR013399; TIGR02566; sufficient;
+TG  GO:0043571;
+EV  IPR013398; TIGR02565; sufficient;
+TG  GO:0043571;
+EV  IPR013397; TIGR02564; sufficient;
+TG  GO:0043571;
+--
+SN  other
+ID  other CRISPR-associated families
+RQ  0
+EV  IPR010171; TIGR01897; sufficient;
+TG  GO:0043571;
+EV  IPR011742; TIGR02221; sufficient;
+TG  GO:0043571;
+EV  IPR013409; TIGR02579; sufficient;
+TG  GO:0043571;
+EV  IPR013413; TIGR02584; sufficient;
+TG  GO:0043571;
+EV  IPR013443; TIGR02620; sufficient;
+TG  GO:0043571;
+EV  IPR013487; TIGR02670; sufficient;
+TG  GO:0043571;
+EV  IPR013492; TIGR03031; sufficient;
+TG  GO:0043571;
+EV  IPR013442; TIGR02619;
+TG  GO:0043571;
+EV  IPR014055; TIGR02682;
+TG  GO:0043571;
+EV  IPR023815; TIGR03984;
+TG  GO:0043571;
+EV  IPR023816; TIGR03985;
+TG  GO:0043571;
+EV  IPR023825; TIGR03986;
+TG  GO:0043571;
+EV  IPR014082; TIGR02710;
+TG  GO:0043571;
+EV  IPR019848; TIGR03642;
+TG  GO:0043571;
+EV  IPR013389; TIGR02556;
+TG  GO:0043571;
+--
+SN  rpt
+ID  CRISPR
+DN  NOT APPLICABLE
+RQ  0
+//

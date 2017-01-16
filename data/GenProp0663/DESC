@@ -1,0 +1,40 @@
+AC  GenProp0663
+DE  Verrucomicrobium/Chthoniobacter four-plus-PEP_CTERM cassette
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  Verrucomicrobium spinosum DSM 4136 and Chthoniobacter flavus Ellin428,
+CC  both members of the Verrucomicrobia, have multiple homologous operons
+CC  featuring four proteins with similarly narrow species distributions.
+CC  Three of these families have N-terminal signal sequences typical of
+CC  type IV pilus modification target proteins (see TIGR02523). The fourth
+CC  is a large protein, usually > 1300 residues. The majority of these
+CC  four-gene cassettes are adjacent to a PEP-CTERM protein (see
+CC  TIGR02595), among the largest PEP-CTERM proteins from any species, with
+CC  repetitive structure that suggests outer membrane autotransporter
+CC  function (see TIGR02601). The surface structures that these cassettes
+CC  may from are not yet understood.
+**  I think these cassettes need a paper. The autotransporter/PEP-CTERM
+**  protein is not included in the property. Proteins renamed Verru_Chthon
+**  cassette protein A-D (vccABCD).
+--
+SN  FOUR
+ID  operon position FOUR protein
+RQ  1
+EV  IPR019836; TIGR02596; sufficient;
+--
+SN  ONE_BIG
+ID  V. spinosum long paralogous protein
+RQ  1
+EV  IPR019840; TIGR02600; sufficient;
+--
+SN  THREE
+ID  mid-operon protein
+RQ  1
+EV  IPR019839; TIGR02599; sufficient;
+--
+SN  TWO
+ID  V. spinosum short paralogous protein
+RQ  1
+EV  IPR019838; TIGR02598; sufficient;
+//

@@ -1,0 +1,28 @@
+AC  GenProp0477
+DE  copper resistance system: CopZA
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  This genome property (under development) includes a P-type ATPase
+CC  copper transporter, a copper response regulatory protein and a copper
+CC  chaperone. Copper is a cofactor in some enzymes and is reportedly
+CC  essential in all living organisms, but too much copper can be toxic. A
+CC  copper response operon may include two copper transporters to achieve
+CC  copper homeostatis and include efflux capability. Different copper
+CC  transport systems rely on transporters of other types.
+--
+SN  P_ATP
+ID  P-type ATPase copper transporter
+RQ  1
+EV  IPRXXXX; TIGR01511; sufficient;
+--
+SN  chaper
+ID  copper chaperone
+RQ  1
+EV  IPR006122; TIGR00003;
+--
+SN  regul
+ID  copper transport repressor
+RQ  0
+EV  IPR014071; TIGR02698; sufficient;
+//

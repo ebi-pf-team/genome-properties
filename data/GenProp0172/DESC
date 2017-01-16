@@ -1,0 +1,59 @@
+AC  GenProp0172
+DE  Potassium-transporting ATPase KdpFABC
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  14604015
+RT  The roles and regulation of potassium in bacteria.
+RA  Epstein W;
+RL  Prog Nucleic Acid Res Mol Biol. 2003;75:293-320.
+RN  [2]
+RM  11248697
+RT  Analysis of KdpC of the K(+)-transporting KdpFABC complex of
+RT  Escherichia coli.
+RA  Gassel M, Altendorf K;
+RL  Eur J Biochem. 2001;268:1772-1781.
+DC  Two-component system
+DR  KEGG; map02020;
+CC  The Kdp complex is a high affinity P-type ATPase potassium ion
+CC  transport system, found widely distributed among prokaryotes. Regulated
+CC  by increases in osmolarity and/or reduction in external potassium, Kdp
+CC  is the only K+ transport system whose expression is regulated by
+CC  environmental conditions [1]. Kdp is composed of four membrane-bound
+CC  subunits responsible for potassium ion binding and transport, ATP
+CC  hydrolysis, and complex assembly and stability [2]. Not defined by this
+CC  property are the sensor kinase and response regulator components, which
+CC  once stimulated by specific environmental signals, induce expression of
+CC  the adjacent Kdp gene cluster [1,2].
+**  should enable KdpD (regulator) building KdpA TIGR00680 KdpB TIGR01497
+**  KdpC TIGR00681 KdpF TIGR02115
+--
+SN  KdpA
+ID  KdpA subunit
+DN  K+-transporting ATPase, A subunit (EC 3.6.3.12)
+RQ  1
+EV  IPR004623; TIGR00680; sufficient;
+TG  GO:0010107;
+--
+SN  KdpB
+ID  KdpB subunit
+DN  K+-transporting ATPase, B subunit (EC 3.6.3.12)
+RQ  1
+EV  IPR006391; TIGR01497; sufficient;
+TG  GO:0010107;
+--
+SN  KdpC
+ID  KdpC subunit
+DN  K+-transporting ATPase, C subunit (EC 3.6.3.12)
+RQ  1
+EV  IPR003820; TIGR00681; sufficient;
+TG  GO:0010107;
+--
+SN  KdpF
+ID  KdpF peptide
+DN  K+-transporting ATPase, F subunit (EC 3.6.3.12)
+RQ  0
+EV  IPR011726; TIGR02115; sufficient;
+TG  GO:0010107;
+//

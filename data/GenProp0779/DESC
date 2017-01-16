@@ -1,0 +1,34 @@
+AC  GenProp0779
+DE  Shewanella-type decaheme system
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  17675441
+RT  Characterization of protein-protein interactions involved in iron
+RT  reduction by Shewanella oneidensis MR-1.
+RA  Ross DE, Ruebush SS, Brantley SL, Hartshorne RS, Clarke TA, Richardson
+RA  DJ, Tien M;
+RL  Appl Environ Microbiol. 2007;73:5797-5808.
+CC  An experimental property to look at protein systems that include the
+CC  two types of deca-heme c-type cytochromes, modeled by TIGR03507 and
+CC  TIGR03508.
+**  MtrA and MtrB homologs in Phototrophic Fe(II)-oxidizing
+**  Rhodopseudomonas palustris TIE-1 pathway of PMID: 17189359 looks
+**  relevant.
+--
+SN  LG_deca
+ID  large decaheme c-type cytochrome
+RQ  1
+EV  IPR020014; TIGR03507;
+--
+SN  OMPdeca
+ID  outer membrane protein, MtrB/PioB family
+RQ  1
+EV  IPR020016; TIGR03509;
+--
+SN  SM_deca
+ID  small decaheme c-type cytochrome
+RQ  1
+EV  IPR020015; TIGR03508;
+//

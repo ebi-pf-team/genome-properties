@@ -1,0 +1,132 @@
+AC  GenProp0158
+DE  peptidoglycan(murein) biosynthesis
+TP  METAPATH
+AU  Haft D
+TH  2
+DC  Peptidoglycan Biosynthesis (Part 1)
+DR  IUBMB; polysacc; PepGly1;
+DC  Peptidoglycan Biosynthesis (Part 2)
+DR  IUBMB; polysacc; PepGly2;
+DC  Peptidoglycan Biosynthesis (Part 3)
+DR  IUBMB; polysacc; PepGly3;
+DC  Peptidoglycan biosynthesis I
+DR  MetaCyc; PEPTIDOGLYCANSYN-PWY;
+DC  Peptidoglycan biosynthesis II
+DR  MetaCyc; PWY-5265;
+CC  This property describes 10 well-conserved steps in the biosynthesis of
+CC  UDP-N-acetylmuramoyl-pentapeptide, a precursor of murein
+CC  (peptidoglycan), from UDP-N-acetyl-D-glucosamine. A few pathogenic
+CC  genera, such as Borrelia and Rickettsia, appear to import
+CC  UDP-N-acetyl-D-glucosamine from their host rather than synthesize it
+CC  from fructose-6-phosphate (see GenProp0750).
+--
+SN  DAP
+ID  Source of meso-2,6-diaminopimelate (DAP)
+RQ  0
+EV  GenProp0125;
+TG  GO:0009252;
+EV  GenProp0788;
+TG  GO:0009252;
+--
+SN  UDPAG
+ID  Source of UDP-N-acetyl-D-glucosamine
+RQ  0
+EV  GenProp0750;
+TG  GO:0009252;
+--
+SN  alr
+ID  alanine racemase
+DN  alanine racemase (EC 5.1.1.1)
+RQ  1
+EV  IPR000821; TIGR00492; sufficient;
+TG  GO:0009252;
+--
+SN  ddl
+ID  D-alanine--D-alanine ligase
+DN  D-alanine--D-alanine ligase (EC 6.3.2.4)
+RQ  1
+EV  IPR005905; TIGR01205; sufficient;
+TG  GO:0009252;
+--
+SN  mpl
+ID  UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase
+DN  UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase (EC 6.3.2.-)
+RQ  0
+EV  IPR005757; TIGR01081; sufficient;
+TG  GO:0009252;
+--
+SN  mraY
+ID  phospho-N-acetylmuramoyl-pentapeptide-transferase
+DN  phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+RQ  1
+EV  IPR003524; TIGR00445; sufficient;
+TG  GO:0009252;
+--
+SN  murA
+ID  UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+DN  UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)
+RQ  1
+EV  IPR005750; TIGR01072; sufficient;
+TG  GO:0009252;
+--
+SN  murB
+ID  UDP-N-acetylenolpyruvoylglucosamine reductase
+DN  UDP-N-acetylmuramate dehydrogenase (EC 1.1.1.158)
+RQ  1
+EV  IPR003170; TIGR00179; sufficient;
+TG  GO:0009252;
+--
+SN  murC
+ID  UDP-N-acetylmuramate--alanine ligase
+DN  UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+RQ  1
+EV  IPR005758; TIGR01082; sufficient;
+TG  GO:0009252;
+--
+SN  murD
+ID  UDP-N-acetylmuramoylalanine--D-glutamate ligase
+DN  UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase (EC 6.3.2.9)
+RQ  1
+EV  IPR005762; TIGR01087; sufficient;
+TG  GO:0009252;
+--
+SN  murE
+ID  UDP-N-acetylmuramyl-tripeptide synthetase
+RQ  1
+EV  IPR005761; TIGR01085; sufficient;
+TG  GO:0009252;
+--
+SN  murF
+ID  UDP-N-acetylmuramyl-pentapeptide synthetase
+RQ  1
+EV  IPR005863; TIGR01143; sufficient;
+TG  GO:0009252;
+--
+SN  murG
+ID  UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+DN  undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase (EC 2.4.1.227)
+RQ  1
+EV  IPR006009; TIGR01133; sufficient;
+TG  GO:0009252;
+--
+SN  murI
+ID  glutamate racemase
+DN  glutamate racemase (EC 5.1.1.3)
+RQ  1
+EV  IPR004391; TIGR00067; sufficient;
+TG  GO:0009252;
+--
+SN  trnsGly
+ID  peptidoglycan biosynthetic transglycosylases
+DN  NOT APPLICABLE
+RQ  1
+EV  IPR001264; PF00912; sufficient;
+TG  GO:0009252;
+--
+SN  trnsPep
+ID  peptidoglycan-biosynthetic transpeptidases
+DN  NOT APPLICABLE
+RQ  1
+EV  IPR001460; PF00905; sufficient;
+TG  GO:0009252;
+//

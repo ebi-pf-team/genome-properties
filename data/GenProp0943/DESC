@@ -1,0 +1,41 @@
+AC  GenProp0943
+DE  pyruvate formate-lyase system
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  11444864
+RT  YfiD of Escherichia coli and Y06I of bacteriophage T4 as autonomous
+RT  glycyl radical cofactors reconstituting the catalytic center of
+RT  oxygen-fragmented pyruvate formate-lyase.
+RA  Wagner AF, Schultz S, Bomke J, Pils T, Lehmann WD, Knappe J;
+RL  Biochem Biophys Res Commun. 2001;285:456-462.
+CC  This property consists of the glycine radical enzyme, pyruvate-formate
+CC  lyase (EC 2.3.1.54, also called formate C-acetyltransferase) and its
+CC  activating enzyme, [Formate-C-acetyltransferase]-activating enzyme (EC
+CC  1.97.1.4). In most Proteobacteria, the gene pair is accompanied by the
+CC  formate channel gene focA. FocA forms a pentameric channel that can
+CC  pass formate but not water, and that belongs to the same transporter
+CC  family as nitrate transporter NirC.
+--
+SN  PFL
+ID  pyruvate formate-lyase
+RQ  1
+EV  IPR010098; TIGR01774;
+EV  IPR005949; TIGR01255;
+--
+SN  PFLA
+ID  pyruvate formate-lyase activating enzyme
+RQ  1
+EV  IPR012838; TIGR02493;
+--
+SN  PF_FocA
+ID  formate transporter
+RQ  0
+EV  IPRXXXX; PF01226;
+--
+SN  spare
+ID  autonomous glycyl radical cofactor
+RQ  0
+EV  IPR011140; TIGR04365;
+//

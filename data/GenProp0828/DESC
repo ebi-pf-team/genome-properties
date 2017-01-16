@@ -1,0 +1,106 @@
+AC  GenProp0828
+DE  heme uptake system, NEAT-domain mediated
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  18676371
+RT  Demonstration of the iron-regulated surface determinant (Isd) heme
+RT  transfer pathway in Staphylococcus aureus.
+RA  Muryoi N, Tiedemann MT, Pluym M, Cheung J, Heinrichs DE, Stillman MJ;
+RL  J Biol Chem. 2008;283:28125-28136.
+RN  [2]
+RM  17229211
+RT  Haem recognition by a Staphylococcus aureus NEAT domain.
+RA  Grigg JC, Vermeiren CL, Heinrichs DE, Murphy ME;
+RL  Mol Microbiol. 2007;63:139-149.
+RN  [3]
+RM  18725935
+RT  Bacillus anthracis secretes proteins that mediate heme acquisition from
+RT  hemoglobin.
+RA  Maresso AW, Garufi G, Schneewind O;
+RL  PLoS Pathog. 2008;4:e1000132.
+RN  [4]
+RM  14570922
+RT  IsdG and IsdI, heme-degrading enzymes in the cytoplasm of
+RT  Staphylococcus aureus.
+RA  Skaar EP, Gaspar AH, Schneewind O;
+RL  J Biol Chem. 2004;279:436-443.
+CC  This system is found in certain lineages of the Bacillus/Clostridium
+CC  group, including a number of pathogenic species.  In order to obtain
+CC  iron, this system utilizes a number of NEAT domain (PF05031) containing
+CC  proteins to scavenge heme from host hemoproteins and convey them across
+CC  the cell wall to an ABC transporter in the cytoplasmic membrane.  Cell
+CC  wall localization of these components is generally mediated by
+CC  sortases, SrtB being particularly critical to this system in many
+CC  organisms.  Heme is often oxidized to biliverdin by heme oxygenases in
+CC  the cytoplasm, releasing iron.  Genes of this system are generally
+CC  given "isd" gene symbols where isd stands for Iron-regulated Surface
+CC  Determinant proteins. 
+**  Redundant property 66552 was created, no steps, but this comment:
+**  Bacillus anthracis and related bacilli has the ability to remove heme
+**  from hemoglobin, import the heme and utilize the iron. This process is
+**  encoded by the isd locus. This locus includes sortase B (SrtB) which
+**  functions to localize the IsdC protein to the cell wall peptidoglycan.
+**  IsdC is a NEAT domain protein (PF05031) as are IsdX1 and IsdX2. The
+**  NEAT domain is proposed to be involved in iron-siderophore transport
+**  processes and is likely to mediate heme binding in this system. IsdX1
+**  and IsdX2 are secreted proteins which have the ability to remove heme
+**  from hemoglobin, apparently by a direct hemoglobin binding mechanism
+**  (as opposed to by virtue of a tighter binding of heme). IsdE-IsdE2-IsdF
+**  are an ABC membrane transporter complex, presumably transporting heme
+**  into the cell. Finally, IsdG is a cytoplasmic monooxygenase involved in
+**  the cleavahe of the heme ring and the liberation of iron.
+--
+SN  HO
+ID  heme oxygenase
+RQ  1
+EV  IPR007138; PF03992;
+TG  GO:0015886;
+EV  IPR016053; PF01126;
+TG  GO:0015886;
+--
+SN  IsdE
+ID  heme ABC transporter, heme-binding protein IsdE
+RQ  1
+EV  IPR019957; TIGR03659;
+TG  GO:0015886;
+--
+SN  IsdF
+ID  heme ABC transporter, permease protein IsdF
+RQ  1
+EV  IPRXXXX; PF01032;
+TG  GO:0015886;
+--
+SN  NEAT
+ID  NEAT-domain proteins
+RQ  1
+EV  IPR006635; PF05031;
+TG  GO:0015886;
+--
+SN  isdD
+ID  heme ABC transporter, ATP-binding protein
+RQ  0
+EV  IPRXXXX; PF00005;
+TG  GO:0015886;
+--
+SN  mNss
+ID  multi-NEAT, srt-signal component
+RQ  0
+EV  IPR019930; TIGR03658;
+TG  GO:0015886;
+EV  IPR019929; TIGR03657;
+TG  GO:0015886;
+--
+SN  sN
+ID  single-NEAT domain (secreted?) component
+RQ  0
+--
+SN  sNss
+ID  single-NEAT, srt-signal component
+RQ  1
+EV  IPR019909; TIGR03656;
+TG  GO:0015886;
+EV  IPRXXXX; 2352;
+TG  GO:0015886;
+//

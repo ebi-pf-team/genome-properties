@@ -1,0 +1,115 @@
+AC  GenProp1019
+DE  O9(Ec) antigen biosynthesis
+TP  METAPATH
+AU  Haft D
+TH  0
+RN  [1]
+RM  786626
+RT  The O9 antigen of Escherichia coli. Structure of the polysaccharide
+RT  chain.
+RA  Prehm P, Jann B, Jann K;
+RL  Eur J Biochem. 1976;67:53-56.
+RN  [2]
+RM  11454340
+RT  Structure of the O-specific polysaccharide of Citrobacter braakii
+RT  O7a,3b,1c.
+RA  Kocharova NA, Zatonsky GV, Bystrova OV, Shashkov AS, Knirel YA,
+RA  Kholodkova EV, Stanislavsky ES;
+RL  Carbohydr Res. 2001;333:335-338.
+RN  [3]
+RM  7536735
+RT  Expression of the O9 polysaccharide of Escherichia coli: sequencing of
+RT  the E. coli O9 rfb gene cluster, characterization of mannosyl
+RT  transferases, and evidence for an ATP-binding cassette transport
+RT  system.
+RA  Kido N, Torgov VI, Sugiyama T, Uchiya K, Sugihara H, Komatsu T, Kato N,
+RA  Jann K;
+RL  J Bacteriol. 1995;177:2178-2187.
+RN  [4]
+RM  10762260
+RT  A single amino acid substitution in a mannosyltransferase, WbdA,
+RT  converts the Escherichia coli O9 polysaccharide into O9a: generation of
+RT  a new O-serotype group.
+RA  Kido N, Kobayashi H;
+RL  J Bacteriol. 2000;182:2567-2573.
+RN  [5]
+RM  22169179
+RT  Identification of the methyl phosphate substituent at the non-reducing
+RT  terminal mannose residue of the O-specific polysaccharides of
+RT  Klebsiella pneumoniae O3, Hafnia alvei PCM 1223 and Escherichia coli
+RT  O9/O9a LPS.
+RA  Kubler-Kielb J, Whitfield C, Katzenellenbogen E, Vinogradov E;
+RL  Carbohydr Res. 2012;347:186-188.
+RN  [6]
+RM  15184370
+RT  Nonreducing terminal modifications determine the chain length of
+RT  polymannose O antigens of Escherichia coli and couple chain termination
+RT  to polymer export via an ATP-binding cassette transporter.
+RA  Clarke BR, Cuthbertson L, Whitfield C;
+RL  J Biol Chem. 2004;279:35709-35718.
+CC  The E. coli O9 monomer is a linear pentasaccharide consisting solely of
+CC  mannose units
+CC  [->3)aDMan(1->3)aDMan(1->2)aDMan(1->2)aDMan(1->2)aDMan(1->] [1]. This
+CC  structure is identical to the Citrobacter braakii O7a,3b,1c, Klebsiella
+CC  pneumoniae O3, and Hafnia alvei PCM 1223 antigens [2]. It is believed
+CC  that the MtfC mannosyltransferase is solely involved with the
+CC  initiating transfer onto the LPS core, while MtfB and MtfA handle all
+CC  the subsequent mannose 1->3 and 1->2 transfers respectively [3]. The O9
+CC  antigen is very similar to the E. coli O8 antigen (GenProp1018),
+CC  differing only in the number of consecutive 1->3 and 1->2 linkages.
+CC  While the MtfC and MtfB are extremely similar to the corresponding O8
+CC  enzymes WbdC and WbdB, MtfA and WbdA are quite distinct, exhibiting
+CC  only 35% amino acid identity and 2 and 3 glycosyltransferase domains,
+CC  respectively. Thus, these enzymes are likely responsible for the length
+CC  and patterning of the monomer. Indeed, it has been shown that the O9a
+CC  variant (which is one mannose shorter than O9) found in some E. coli
+CC  strains is entirely due to a mutation in the MtfA gene [4]. These
+CC  monomer units are handled in an ABC-transporter dependent process in
+CC  which polymerization occurs on the cytoplasmic face of the plasma
+CC  membrane followed by transport (flipping) of the undecaprenyl-linked
+CC  full-length polymer. It has been shown that the overall antigen chain
+CC  length is determined by the addition of a methylphosphate moiety on the
+CC  O3 position of the terminal mannose residue [5], and that this
+CC  modification is carried out by the MtfD (WbdD(O9)) enzyme, which
+CC  carries out the sequential kinase and methyltransferase functions [6].
+CC  This is in contrast to the mechanism in the O8 antigen where only a
+CC  methylase reaction is involved, and where the corresponding WbdD(O8)
+CC  enzyme lacks a kinase domain. The ABC transporter appears to require
+CC  the presence of the  modified final residue to move the polymer to the
+CC  periplasmic side of the membrane in both systems.
+--
+SN  Man
+ID  source of GDP-D-mannose
+RQ  1
+EV  GenProp1017;
+--
+SN  MtfA
+ID  mannosyltransferase A
+RQ  1
+EV  IPRXXXX; 2886;
+--
+SN  MtfB
+ID  mannosyltransferase B
+RQ  1
+EV  IPRXXXX; 2853;
+--
+SN  MtfC
+ID  mannosyltransferase C
+RQ  1
+EV  IPRXXXX; 2854;
+--
+SN  MtfD
+ID  terminating kinase/methyltransferase and chain-length determinant protein
+RQ  1
+EV  IPRXXXX; 2887;
+--
+SN  wzm
+ID  ABC transporter, transmembrane protein
+RQ  1
+EV  IPRXXXX; 2888;
+--
+SN  wzt
+ID  ABC transporter, ATP-binding domain and substrate specificity determinant protein
+RQ  1
+EV  IPRXXXX; 2889;
+//

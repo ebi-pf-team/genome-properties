@@ -1,0 +1,56 @@
+AC  GenProp0773
+DE  aerobactin biosynthesis
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  3087960
+RT  Characterization of iucA and iucC genes of the aerobactin system of
+RT  plasmid ColV-K30 in Escherichia coli.
+RA  de Lorenzo V, Neilands JB;
+RL  J Bacteriol. 1986;167:350-355.
+RN  [2]
+RM  17600077
+RT  Analysis of the aerobactin and ferric hydroxamate uptake systems of
+RT  Yersinia pestis.
+RA  Forman S, Nagiec MJ, Abney J, Perry RD, Fetherston JD;
+RL  Microbiology. 2007;153:2332-2341.
+CC  Aerobactin is a siderophore of the hydroxamate class. Four biosynthetic
+CC  genes, iucABCD (Iron Uptake Chelate) synthesize it from two lysines and
+CC  a citrate. IucD is L-lysine 6-monooxygenase (NADPH) (EC 1.14.13.59).
+CC  IucB is N(6)-hydroxylysine O-acetyltransferase (EC 2.3.1.102). The
+CC  actions of IucA, followed by IucC, attach two molecules of
+CC  6-N-acetyl-6-N-hydroxy-L-lysine to a citrate backbone; it is
+CC  convenient, for now, to regard these two steps together as 6.3.2.27.
+**  1.14.13.59 2.3.1.102 6.3.2.27
+--
+SN  iucA
+ID  aerobactin synthase, IucA component
+RQ  1
+EV  IPRXXXX; 2205;
+TG  GO:0019270;
+--
+SN  iucB
+ID  N(6)-hydroxylysine O-acetyltransferase
+RQ  1
+EV  IPRXXXX; 2210;
+TG  GO:0019270;
+--
+SN  iucC
+ID  aerobactin synthase, iucC component
+RQ  1
+EV  IPRXXXX; 2206;
+TG  GO:0019270;
+--
+SN  iucD
+ID  L-lysine 6-monooxygenase (NADPH)
+RQ  1
+EV  IPRXXXX; 2211;
+TG  GO:0019270;
+--
+SN  iutA
+ID  ferric aerobactin receptor IutA
+RQ  1
+EV  IPRXXXX; 2209;
+TG  GO:0019271;
+//

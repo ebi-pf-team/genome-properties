@@ -1,0 +1,19 @@
+AC  GenProp1032
+DE  dTDP-4-dehydro-L-rhamnose biosynthesis from
+DE  4,6-dideoxy-4-oxo-dTDP-D-glucose
+TP  METAPATH
+AU  Haft D
+TH  0
+CC  dTDP-4-dehydro-L-rhamnose is a precursor of both dTDP-L-rhamnose and
+CC  dTDP-6-deoxy-L-talose.
+--
+SN  ddodtDg
+ID  source of 4,6-dideoxy-4-oxo-dTDP-D-glucose
+RQ  1
+EV  GenProp0950;
+--
+SN  rfbC
+ID  dTDP-4-dehydrorhamnose 3,5-epimerase
+RQ  1
+EV  IPR000888; TIGR01221;
+//

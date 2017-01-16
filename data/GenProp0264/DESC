@@ -1,0 +1,49 @@
+AC  GenProp0264
+DE  glucosylglycerol biosynthesis
+TP  PATHWAY
+AU  Haft D
+TH  1
+RN  [1]
+RM  9733686
+RT  The ggpS gene from Synechocystis sp. strain PCC 6803 encoding
+RT  glucosyl-glycerol-phosphate synthase is involved in osmolyte synthesis.
+RA  Marin K, Zuther E, Kerstan T, Kunert A, Hagemann M;
+RL  J Bacteriol. 1998;180:4843-4849.
+CC  Glucosylglycerol is an osmolyte, a solute compatible with biological
+CC  function inside cells that serves as an osmoprotectant. Other osmolytes
+CC  include trehalose, sucrose, and glycine betaine and other betaines.
+CC  Betaines offer stronger osmoprotection than glucosylglycerol but are
+CC  nitrogen-requiring. The key enzyme, glucosylglycerol-phosphate
+CC  synthase, uses ADP-glucose + sn-glycerol 3-phosphate.
+CC  Glucose-1-phosphate adenylyltransferase, which synthesizes ADP-glucose,
+CC  is therefore included in this property although it also has other
+CC  roles, such as in glycogen biosynthesis. 
+**  The transporter that recovers leaked glucosylglycerol might
+**  legitimately be part, making this system, but the ggsA gene looks like
+**  part of a multi-specificity sugar transporter group, has no specific
+**  HMM. TIGR02091 2.7.7.27 TIGR02399 3.1.3.69 stpA TIGR02398 2.4.1.213
+**  ggpS.  Note: I disbelieved ntxc01 member until I found a 
+**  Stenotrophomonas sequence in NCBI, running ahead of NIAA, very close in
+**  sequence. DHH.
+--
+SN  ADPgluc
+ID  glucose-1-phosphate adenylyltransferase
+DN  glucose-1-phosphate adenylyltransferase (EC 2.7.7.27)
+RQ  1
+EV  IPR011831; TIGR02091; sufficient;
+TG  GO:0006970;
+--
+SN  Pase
+ID  glucosylglycerol 3-phosphatase
+DN  glucosylglycerol 3-phosphatase (EC 3.1.3.69)
+RQ  1
+EV  IPR012765; TIGR02399; sufficient;
+TG  GO:0006970;
+--
+SN  synth
+ID  glucosylglycerol-phosphate synthase
+DN  glucosylglycerol-phosphate synthase (EC 2.4.1.213)
+RQ  1
+EV  IPR012764; TIGR02398; sufficient;
+TG  GO:0006970;
+//

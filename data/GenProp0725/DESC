@@ -1,0 +1,77 @@
+AC  GenProp0725
+DE  outer membrane protein assembly complex
+TP  METAPATH
+AU  Haft D
+TH  0
+RN  [1]
+RM  16824102
+RT  YfiO stabilizes the YaeT complex and is essential for outer membrane
+RT  protein assembly in Escherichia coli.
+RA  Malinverni JC, Werner J, Kim S, Sklar JG, Kahne D, Misra R, Silhavy TJ;
+RL  Mol Microbiol. 2006;61:151-164.
+RN  [2]
+RM  17090219
+RT  Assembly factor Omp85 recognizes its outer membrane protein substrates
+RT  by a species-specific C-terminal motif.
+RA  Robert V, Volokhina EB, Senf F, Bos MP, Van Gelder P, Tommassen J;
+RL  PLoS Biol. 2006;4:e377.
+RN  [3]
+RM  17015657
+RT  Differential effects of yfgL mutation on Escherichia coli outer
+RT  membrane proteins and lipopolysaccharide.
+RA  Charlson ES, Werner JN, Misra R;
+RL  J Bacteriol. 2006;188:7186-7194.
+RN  [4]
+RM  20378773
+RT  Reconstitution of outer membrane protein assembly from purified
+RT  components.
+RA  Hagan CL, Kim S, Kahne D;
+RL  Science. 2010;328:890-892.
+CC  Correct assembly of proteins in the bacterial outer membrane is
+CC  facilitated by a protein complex, consisting largely of lipoproteins,
+CC  plus a member of the Omp85 protein family, named YaeT in Escherichia
+CC  coli.
+**  Interested because one component, YfgL, appears to be a PQQ repeat
+**  proteins that is not involved in PQQ binding. PF03696 was retired.
+--
+SN  BamA
+ID  OMP insertion complex protein BamA/YaeT
+RQ  1
+EV  IPR023707; TIGR03303; sufficient;
+TG  GO:0061077;
+--
+SN  BamB
+ID  OMP insertion complex lipoprotein BamB/YfgL
+RQ  0
+EV  IPR017687; TIGR03300; sufficient;
+TG  GO:0061077;
+--
+SN  BamC
+ID  OMP insertion complex lipoprotein BamC/NlpB
+RQ  0
+EV  IPR010653; PF06804; sufficient;
+TG  GO:0061077;
+--
+SN  BamD
+ID  OMP insertion complex lipoprotein BamD/YfiO
+RQ  1
+EV  IPR017689; TIGR03302; sufficient;
+TG  GO:0061077;
+--
+SN  BamE
+ID  OMP insertion complex lipoprotein BamE/SmpA
+RQ  0
+EV  IPR007450; PF04355;
+TG  GO:0061077;
+--
+SN  OM_targ
+ID  OMP insertion C-terminal signal
+RQ  0
+EV  IPR017690; TIGR03304; sufficient;
+--
+SN  chaperon
+ID  OMP chaperone system: SurA-Skp-DegP
+RQ  1
+EV  GenProp0928;
+TG  GO:0061077;
+//

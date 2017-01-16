@@ -1,0 +1,26 @@
+AC  GenProp0976
+DE  UDP-L-2-acetamidofucose (UDP-L-FucNAc) biosynthesis from UDP-GlcNAc
+TP  METAPATH
+AU  Haft D
+TH  0
+--
+SN  FnlA
+ID  UDP-GlcNAc 4,6-dehydratase/5-epimerase
+RQ  1
+EV  IPR026415; TIGR04130;
+--
+SN  FnlB
+ID  UDP-FucNAc biosynthesis 3-epimerase
+RQ  1
+EV  IPRXXXX; 2774;
+--
+SN  FnlC
+ID  UDP-L-PneNAc 2-epimerase
+RQ  1
+EV  IPRXXXX; 2775;
+--
+SN  UGlcNAc
+ID  source of UDP-GlcNAc
+RQ  1
+EV  GenProp0750;
+//

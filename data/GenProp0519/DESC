@@ -1,0 +1,11 @@
+AC  GenProp0519
+DE  host-symbiote relationship types
+TP  CATEGORY
+AU  Haft D
+TH  0
+CC  Genome Properties organized under this one describe the types of
+CC  relationships (parasitism, commensalism and mutualism) which may exist
+CC  between host and symbiote organisms.  For the purposes of these
+CC  properties, the sequenced microbial organism is always considered the
+CC  symbiote.
+//

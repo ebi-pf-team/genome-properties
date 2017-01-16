@@ -1,0 +1,32 @@
+AC  GenProp0253
+DE  thiamine: hydroxymethylpyrimidine pyrophosphate from aminoimidazole
+DE  ribotide
+TP  PATHWAY
+AU  Haft D
+TH  1
+CC  Hydroxymethylpyrimidine pyrophosphate (HMP-PP) and hydroxyethylthiazole
+CC  phosphate (HET-P) are the two components attached by ThiE to yield
+CC  thiamine phosphate, which is subsequently converted to the active form
+CC  thiamine pyrophosphate (TPP). HMP and HET may be imported and converted
+CC  to HMP-PP and HET-P, respectively, as an alternative to de novo
+CC  biosynthesis. This property reflects known steps of HMP-P de novo
+CC  biosynthesis from the purine biosynthesis metabolite aminoimidazole
+CC  ribotide (AIR), starting with the ThiC enzyme.
+--
+SN  ThiC
+ID  ThiC protein
+DN  thiamine biosynthesis protein ThiC
+RQ  1
+EV  IPR002817; TIGR00190; sufficient;
+--
+SN  tenA
+ID  tenA domain/protein
+RQ  0
+EV  IPR004305; PF03070; sufficient;
+--
+SN  thiD
+ID  phosphomethylpyrimidine kinase
+DN  phosphomethylpyrimidine kinase
+RQ  1
+EV  IPR004399; TIGR00097; sufficient;
+//

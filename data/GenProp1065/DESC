@@ -1,0 +1,23 @@
+AC  GenProp1065
+DE  radical SAM/SPASM TIGR04347/TIGR04031 system
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  This Genome Property describes a system with two known components,
+CC  restricted so far to halophilic archaea. One is a radical SAM (or
+CC  occasionally pseudo-SAM)/SPASM domain enzyme, family TIGR04347. The
+CC  other, family TIGR04031, resembles the PaaH (or PaaB) subunit of the
+CC  phenylacetate-CoA oxygenase complex. Unlike systems in which a radical
+CC  SAM/SPASM enzyme acts on a peptide substrate, this system may instead
+CC  act on a(n unknown) small molecule substrate.
+--
+SN  partner
+ID  rSAM-partnered protein, Htur_1727 family
+RQ  1
+EV  IPR023976; TIGR04031;
+--
+SN  r_p_SAM
+ID  pseudo-rSAM protein/SPASM domain protein
+RQ  1
+EV  IPR027626; TIGR04347;
+//

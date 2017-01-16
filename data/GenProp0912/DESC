@@ -1,0 +1,103 @@
+AC  GenProp0912
+DE  Leptospira exopolysaccharide biosynthesis clusters
+TP  GUILD
+AU  Haft D
+TH  0
+--
+SN  activ
+ID  sugar activating enzymes: nucleotidyltransferases, cytidyltransferases, kinases
+RQ  0
+EV  IPRXXXX; PF02348;
+EV  IPRXXXX; PF00483;
+EV  IPR005907; TIGR01207;
+EV  IPRXXXX; PF00294;
+--
+SN  glyctr
+ID  glycosyltransferases
+RQ  1
+EV  IPRXXXX; PF00535;
+EV  IPRXXXX; PF00534;
+--
+SN  isom
+ID  sugar isomerizatation and epimerization enzymes
+RQ  0
+EV  IPR029767; TIGR00236;
+EV  IPRXXXX; PF05523;
+EV  IPR000888; TIGR01221;
+EV  IPRXXXX; PF02350;
+EV  IPRXXXX; PF03275;
+--
+SN  modif
+ID  sugar ring modification enzymes: synthases, lyases, aldolases, lactonases
+RQ  0
+EV  IPRXXXX; PF03102;
+EV  IPRXXXX; PF03328;
+EV  IPR005900; TIGR01198;
+EV  IPRXXXX; PF04055;
+--
+SN  other
+ID  other known EPS enzymes (from synteny)
+RQ  0
+EV  IPRXXXX; PF08889;
+--
+SN  prime
+ID  EPS biosynthesis priming polyprenyl glycosylphosphotransferase
+RQ  1
+EV  IPR017475; TIGR03025;
+--
+SN  redox
+ID  sugar redox enzymes: dehydrogenases, epimerase/dehydratases, oxidases, reductases
+RQ  0
+EV  IPRXXXX; PF01370;
+EV  IPRXXXX; PF00465;
+EV  IPRXXXX; PF00107;
+EV  IPRXXXX; PF01408;
+EV  IPRXXXX; PF00106;
+EV  IPRXXXX; PF00248;
+EV  IPRXXXX; PF00389;
+EV  IPRXXXX; PF01370;
+EV  IPRXXXX; PF01266;
+--
+SN  regul
+ID  transcriptional activators
+RQ  0
+--
+SN  sugDUF
+ID  sugar-associated domain of unknown function
+RQ  0
+EV  IPRXXXX; PF01380;
+--
+SN  transf
+ID  sugar modification transferases: amino-, carbamoyl-, acetyl-, methyl-, amido-
+RQ  0
+EV  IPRXXXX; PF02543;
+EV  IPRXXXX; PF01041;
+EV  IPRXXXX; PF08241;
+EV  IPRXXXX; TIGR01444;
+EV  IPR020022; TIGR03573;
+EV  IPR010139; TIGR01855;
+EV  IPR020021; TIGR03572;
+EV  IPRXXXX; PF00202;
+EV  IPR000182; PF00583;
+EV  IPRXXXX; PF02388;
+EV  IPRXXXX; PF08242;
+EV  IPRXXXX; PF00551;
+--
+SN  trim
+ID  sugar trimming enzymes: phosphatases, deacetylases, esterases
+RQ  0
+EV  IPRXXXX; PF00459;
+EV  IPRXXXX; PF01522;
+EV  IPRXXXX; PF02585;
+--
+SN  tspsase
+ID  transposases
+RQ  0
+EV  IPR002525; PF01548;
+--
+SN  wz-xyz
+ID  EPS biosynthesis wzx/wzy/wzz system
+RQ  1
+EV  IPR003856; PF02706;
+EV  IPR002797; PF01943;
+//

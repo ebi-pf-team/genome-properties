@@ -1,0 +1,30 @@
+AC  GenProp0666
+DE  membrane-associated monooxygenase (methane/ammonia)
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  This property represents a membrane-associated three-protein enzyme
+CC  complex. The enzyme, designated methane monooxygenase shows a broad
+CC  specificiy for methane (to methanol), ammonia (to hydroxylamine), and
+CC  various alkanes and alkenes. However, this enzyme is commonly named
+CC  according to its relavant biological role in species in which it
+CC  occurs: methane monooxygenase in methanotrophs, ammonia monooxygenase
+CC  in nitrifiers.
+**  PF02461 PF04744 PF04896 are the Pfam A, B, C. bmc ntne01 ntno01 ntnm03
+**  are the four genomes at last check.
+--
+SN  monoxA
+ID  methane monooxygenase/ammonia monooxygenase, subunit A
+RQ  1
+EV  IPR003393; TIGR03080; sufficient;
+--
+SN  monoxB
+ID  methane monooxygenase/ammonia monooxygenase, subunit B
+RQ  1
+EV  IPR006833; TIGR03079; sufficient;
+--
+SN  monoxC
+ID  methane monooxygenase/ammonia monooxygenase, subunit C
+RQ  1
+EV  IPR006980; TIGR03078; sufficient;
+//

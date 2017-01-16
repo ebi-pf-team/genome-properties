@@ -1,0 +1,36 @@
+AC  GenProp0649
+DE  heterocyst-related ABC exporter DevBCA
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  11371545
+RT  NtcA-dependent expression of the devBCA operon, encoding a
+RT  heterocyst-specific ATP-binding cassette transporter in Anabaena spp.
+RA  Fiedler G, Muro-Pastor AM, Flores E, Maldener I;
+RL  J Bacteriol. 2001;183:3795-3799.
+CC  Most genomes in which the set of three tandemly-encoded genes for the
+CC  ATP-binding cassette (ABC) exporter complex similar to the DevBCA
+CC  complex of Anabaena are Cyanobacteria capable of heterocyst formation.
+CC  Roughly every tenth cell in colonies of certain species of
+CC  cyanobacteria differentiate into heterocysts under conditions of
+CC  nitrogen starvation, with a loss of CO2 fixation, reduction of O2
+CC  permeability, and development of the ability to fix nitrogen. The
+CC  DevBCA transporter most likely acts by exporting a glycolipid (or an
+CC  enzyme) specific to heterocyst formation.
+--
+SN  DevA
+ID  ABC exporter ATP-binding subunit, DevA family
+RQ  1
+EV  IPR014324; TIGR02982; sufficient;
+--
+SN  DevB
+ID  ABC exporter membrane fusion protein, DevB family
+RQ  1
+EV  IPR014315; TIGR02971; sufficient;
+--
+SN  DevC
+ID  ABC exporter, DevC family protein
+RQ  1
+EV  IPR005891; TIGR01185; sufficient;
+//

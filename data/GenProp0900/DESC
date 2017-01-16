@@ -1,0 +1,31 @@
+AC  GenProp0900
+DE  bacteriocin, lantibiotic family
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  This model is being roughed in. Lantibiotics are ribosomoally
+CC  translated peptides with lanthionine bridges. Dehydroalanine is a
+CC  standard modification in these same peptides. New families needed!
+--
+SN  PF04737
+ID  PF04737 - Lantibiotic dehydratase, N terminus
+RQ  1
+EV  IPRXXXX; PF04737;
+--
+SN  PF04738
+ID  PF04738 - Lantibiotic dehydratase, C terminus
+RQ  1
+EV  IPR006827; PF04738;
+--
+SN  PF05147
+ID  PF05147 - Lanthionine synthetase C-like protein
+RQ  1
+EV  IPR007822; PF05147;
+--
+SN  protox
+ID  lantibiotic protoxin
+RQ  1
+EV  IPR007682; PF04604;
+EV  IPR006079; TIGR03731;
+EV  IPR012519; PF08130;
+//

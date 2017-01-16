@@ -1,0 +1,55 @@
+AC  GenProp0807
+DE  bacteriocin system, heterocycle biosynthesis group
+TP  GUILD
+AU  Haft D
+TH  0
+RN  [1]
+RM  18375757
+RT  Discovery of a widely distributed toxin biosynthetic gene cluster.
+RA  Lee SW, Mitchell DA, Markley AL, Hensler ME, Gonzalez D, Wohlrab A,
+RA  Dorrestein PC, Nizet V, Dixon JE;
+RL  Proc Natl Acad Sci U S A. 2008;105:5879-5884.
+RN  [2]
+RM  22522320
+RT  YcaO domains use ATP to activate amide backbones during peptide
+RT  cyclodehydrations.
+RA  Dunbar KL, Melby JO, Mitchell DA;
+RL  Nat Chem Biol. 2012;8:569-575.
+CC  This Genome Property is a working space for the guild of bacteriocin
+CC  production, focusing on heterocycle-containing in the style of the SagA
+CC  system of S. pyogenes. Sets of proteins performing various chemistries
+CC  sit nearby, most failing to form cliques among related proteins that
+CC  could serve as markers. However, some narrow-scope, high-precision
+CC  search models (HMM or BrainGrab) will make strong identifications on
+CC  some components. See the article "Discovery of a widely distributed
+CC  toxin biosynthetic gene cluster.", PMID: 18375757
+**  curated protoxins include NTL02CB0485, NTL11SA1381, ORF03586(blm),
+**  ORFB01064(gpp), NTL16SP0616, and some others.
+--
+SN  cyclode
+ID  cyclodehydratase(SagC)
+RQ  1
+EV  IPR019892; TIGR03603;
+EV  IPRXXXX; 2374;
+EV  IPR022291; TIGR03882;
+--
+SN  dehyd
+ID  SagB-type dehydrogenase domain
+RQ  1
+EV  IPR020051; TIGR03605;
+--
+SN  docking
+ID  docking scaffold protein
+RQ  1
+EV  IPR027624; TIGR03604;
+--
+SN  protox
+ID  heterocyclic bacteriocin protoxin
+RQ  1
+EV  IPR019890; TIGR03601;
+EV  IPR019891; TIGR03602;
+EV  IPR022264; TIGR03678;
+EV  IPR022513; TIGR03793;
+EV  IPR022516; TIGR03798;
+EV  IPR023895; TIGR03892;
+//

@@ -1,0 +1,63 @@
+AC  GenProp0458
+DE  fucose catabolism
+TP  SYSTEM
+AU  Haft D
+TH  1
+RN  [1]
+RM  3325779
+RT  The organization of the fuc regulon specifying L-fucose dissimilation
+RT  in Escherichia coli K12 as determined by gene cloning.
+RA  Chen YM, Zhu Y, Lin EC;
+RL  Mol Gen Genet. 1987;210:331-337.
+CC  L-fucose to fuculose by 5.3.1.25 L-fucose ketol-isomerase  then to
+CC  L-fuculose 1P by 2.7.1.51 L-fuculokinase  then to L-lactaldehyde and
+CC  glycerone phosphate by 4.1.2.17  L-fuculose-phosphate aldolase  Plus
+CC  transporter to import fucose  Plus transcription factors
+**  PMID:2664711
+--
+SN  ADH
+ID  lactaldehyde oxidoreductases
+RQ  0
+EV  IPRXXXX; PF00465;
+TG  GO:0019317;
+--
+SN  ald_ase
+ID  L-fuculose-phosphate aldolase
+RQ  1
+EV  IPR004782; TIGR01086; sufficient;
+TG  GO:0019317;
+EV  IPRXXXX; PF00596;
+TG  GO:0019317;
+--
+SN  fuc_iso
+ID  L-fucose isomerase
+RQ  1
+EV  IPR005763; TIGR01089; sufficient;
+TG  GO:0019317;
+--
+SN  fuc_kin
+ID  L-fuculokinase
+RQ  1
+EV  IPR013450; TIGR02628; sufficient;
+TG  GO:0019317;
+EV  IPRXXXX; PF00370;
+TG  GO:0019317;
+--
+SN  regulat
+ID  clustered regulatory genes
+RQ  0
+EV  IPRXXXX; PF00455;
+TG  GO:0043468;
+EV  IPRXXXX; PF00165;
+TG  GO:0043468;
+EV  IPRXXXX; PF00392;
+TG  GO:0043468;
+--
+SN  transpo
+ID  fucose transport components
+RQ  1
+EV  IPR005275; TIGR00885; sufficient;
+TG  GO:0019317;
+EV  IPRXXXX; PF05025;
+TG  GO:0019317;
+//

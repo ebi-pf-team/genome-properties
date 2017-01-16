@@ -1,0 +1,88 @@
+AC  GenProp0629
+DE  A1/A0 ATPase
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  8702544
+RT  Subunit structure and organization of the genes of the A1A0 ATPase from
+RT  the Archaeon Methanosarcina mazei Gö1.
+RA  Wilms R, Freiberg C, Wegerle E, Meier I, Mayer F, Müller V;
+RL  J Biol Chem. 1996;271:18843-18852.
+RN  [2]
+RM  12782317
+RT  Defined subcomplexes of the A1 ATPase from the archaeon Methanosarcina
+RT  mazei Gö1: biochemical properties and redox regulation.
+RA  Lemker T, Grüber G, Schmid R, Müller V;
+RL  FEBS Lett. 2003;544:206-209.
+RN  [3]
+RM  14988401
+RT  Three-dimensional organization of the archaeal A1-ATPase from
+RT  Methanosarcina mazei Gö1.
+RA  Coskun U, Radermacher M, Müller V, Ruiz T, Grüber G;
+RL  J Biol Chem. 2004;279:22759-22764.
+RN  [4]
+RM  10340845
+RT  Structure and function of the A1A0-ATPases from methanogenic Archaea.
+RA  Müller V, Ruppert C, Lemker T;
+RL  J Bioenerg Biomembr. 1999;31:15-27.
+RN  [5]
+RM  9642200
+RT  The A1A0 ATPase from Methanosarcina mazei: cloning of the 5' end of the
+RT  aha operon encoding the membrane domain and expression of the
+RT  proteolipid in a membrane-bound form in Escherichia coli.
+RA  Ruppert C, Wimmers S, Lemker T, Müller V;
+RL  J Bacteriol. 1998;180:3448-3452.
+CC  This ATP synthase is the archaebacterial version of the F1/F0 ATP
+CC  synthase found in bacteria in the sense that it functions in the ATP
+CC  synthetic direction [1], although it also has similarities to the V1/V0
+CC  (V-type, vacuolar) ATPase in eucarya which hydrolyzes ATP in order to
+CC  acidify cellular compartments.
+--
+SN  AhaA
+ID  A1 stalk complex, A subunit
+RQ  1
+EV  IPR005726; TIGR01043; sufficient;
+--
+SN  AhaB
+ID  A1 stalk complex, B subunit
+RQ  1
+EV  IPR005724; TIGR01041; sufficient;
+--
+SN  AhaC
+ID  A1 stalk complex, C subunit
+RQ  1
+EV  IPR014272; TIGR02923; sufficient;
+--
+SN  AhaD
+ID  A1 stalk complex, D subunit
+RQ  1
+EV  IPR002699; TIGR00309; sufficient;
+--
+SN  AhaE
+ID  A1 stalk complex, E subunit
+RQ  1
+EV  IPR002842; PF01991; sufficient;
+--
+SN  AhaF
+ID  A1 stalk complex, F subunit
+RQ  1
+EV  IPR008218; PF01990; sufficient;
+--
+SN  AhaG
+ID  A1 stalk complex, G subunit
+RQ  0
+--
+SN  AhaH
+ID  H subunit
+RQ  0
+EV  IPR014275; TIGR02926; sufficient;
+--
+SN  AhaI
+ID  A0 membrane complex, I subunit
+RQ  0
+--
+SN  AhaK
+ID  A0 membrane complex, K subunit
+RQ  0
+//

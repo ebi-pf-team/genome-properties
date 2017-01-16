@@ -1,0 +1,64 @@
+AC  GenProp0144
+DE  chlorophyllide a biosynthesis from protoporphyrin IX
+TP  PATHWAY
+AU  Haft D
+TH  1
+RN  [1]
+RM  10648776
+RT  DNA sequence analysis of the photosynthesis region of Rhodobacter
+RT  sphaeroides 2.4.1.
+RA  Choudhary M, Kaplan S;
+RL  Nucleic Acids Res. 2000;28:862-867.
+DC  Heme and Chlorophyll Biosynthesis
+DR  IUBMB; tetrapyr; porphyrin3;
+DC  Chlorophyll Biosynthesis (earlier stages)
+DR  IUBMB; tetrapyr; porphyrin4;
+DC  Chlorophyll Biosynthesis (later stages)
+DR  IUBMB; tetrapyr; porphyrin5;
+--
+SN  1-ChlD
+ID  Mg-chelatase, ChlD-subunit
+RQ  1
+EV  IPR011776; TIGR02031; sufficient;
+TG  GO:0015995;
+--
+SN  1-ChlH
+ID  Mg-chelatase, ChlH-subunit
+RQ  1
+EV  IPR011771; TIGR02025; sufficient;
+TG  GO:0015995;
+--
+SN  1-ChlI
+ID  Mg-chelatase, ChlI-subunit
+RQ  1
+EV  IPR011775; TIGR02030; sufficient;
+TG  GO:0015995;
+--
+SN  2-ChlM
+ID  magnesium protoporphyrin IX methyltransferase
+RQ  1
+EV  IPR010251; TIGR02021; sufficient;
+TG  GO:0015995;
+--
+SN  3-BchE
+ID  magnesium protoporphyrin IX monomethylester oxidative cyclase
+RQ  1
+EV  IPR011772; TIGR02026; sufficient;
+TG  GO:0015995;
+EV  IPR008434; TIGR02029; sufficient;
+TG  GO:0015995;
+--
+SN  4-BchJ
+ID  magnesium-2,4-divinylpheoporphyrin a5-monomethyl ester vinyl reductase
+RQ  0
+EV  IPR010249; TIGR02019; sufficient;
+TG  GO:0015995;
+--
+SN  5-Por
+ID  protochlorophyllide reductase
+RQ  1
+EV  IPR005979; TIGR01289; sufficient;
+TG  GO:0015995;
+EV  GenProp1004;
+TG  GO:0015995;
+//

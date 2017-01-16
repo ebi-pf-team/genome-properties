@@ -1,0 +1,61 @@
+AC  GenProp0793
+DE  CMP-N-acetylneuraminate biosynthesis from UDP-N-acetylglucosamine
+TP  METAPATH
+AU  Haft D
+TH  0
+RN  [1]
+RM  15629947
+RT  Structural and genetic characterization of enterohemorrhagic
+RT  Escherichia coli O145 O antigen and development of an O145
+RT  serogroup-specific PCR assay.
+RA  Feng L, Senchenkova SN, Tao J, Shashkov AS, Liu B, Shevelev SD, Reeves
+RA  PR, Xu J, Knirel YA, Wang L;
+RL  J Bacteriol. 2005;187:758-764.
+DC  Aminosugars Metabolism
+DR  KEGG; map00530;
+CC  CMP-N5-acetylneuraminate (CMP-Neu5Ac) is the activated version of a
+CC  sugar unit found in certain glycolipids and glycoproteins. Neuraminic
+CC  acid is also commonly known as sialic acid. In particular, Neu5Ac is
+CC  observed in certain versions of the E. coli O-antigen [1]. CMP-Neu5Ac
+CC  is synthesized in three steps: isomerization of UDP-GlcNAc to
+CC  N-Acetyl-D-Mannosamine (ManNAc) catalyzed by NeuC (5.1.3.14), a
+CC  condensation with phosphoenolpyruvate to form NeuNAc catalyzed by NeuB
+CC  (2.5.1.56) and an activation with CTPcatalyzed by NeuA (2.7.7.43). A
+CC  fourth gene product, NeuD is believed to carry out O-acetyltransfers
+CC  onto sialic acid but is often missing and is also found more broadly
+CC  than NeuABC
+--
+SN  NeuA
+ID  CTP:N-acylneuraminate cytidyltransferase (2.7.7.43)
+DN  CTP:N-acylneuraminate cytidyltransferase (EC 2.7.7.43)
+RQ  1
+EV  IPRXXXX; PF02348;
+TG  GO:0006054;
+--
+SN  NeuB
+ID  N-acetylneuraminate synthase (2.5.1.56)
+DN  N-acetylneuraminate synthase (EC 2.5.1.56)
+RQ  1
+EV  IPR020007; TIGR03569;
+TG  GO:0006054;
+--
+SN  NeuC
+ID  UDP-N-acetyl-D-glucosamine 2-epimerase, UDP-hydrolysing
+DN  UDP-N-acetyl-D-glucosamine 2-epimerase (EC 5.1.3.14)
+RQ  1
+EV  IPR020004; TIGR03568;
+TG  GO:0006054;
+--
+SN  NeuD
+ID  sialic acid O-acetyltransferase NeuD
+DN  sialic acid O-acetyltransferase NeuD
+RQ  0
+EV  IPRXXXX; TIGR03570;
+TG  GO:0006054;
+--
+SN  UGlcNAc
+ID  source of UDP-N-acetyl-D-glucosamine
+RQ  0
+EV  GenProp0750;
+TG  GO:0006054;
+//

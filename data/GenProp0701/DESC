@@ -1,0 +1,95 @@
+AC  GenProp0701
+DE  DNA sulfur modification system dnd
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  16102010
+RT  A novel DNA modification by sulphur.
+RA  Zhou X, He X, Liang J, Li A, Xu T, Kieser T, Helmann JD, Deng Z;
+RL  Mol Microbiol. 2005;57:1428-1438.
+RN  [2]
+RM  17439960
+RT  DNA modification by sulfur: analysis of the sequence recognition
+RT  specificity surrounding the modification sites.
+RA  Liang J, Wang Z, He X, Li J, Zhou X, Deng Z;
+RL  Nucleic Acids Res. 2007;35:2944-2954.
+RN  [3]
+RM  19232083
+RT  DNA phosphorothioation in Streptomyces lividans: mutational analysis of
+RT  the dnd locus.
+RA  Xu T, Liang J, Chen S, Wang L, He X, You D, Wang Z, Li A, Xu Z, Zhou X,
+RA  Deng Z;
+RL  BMC Microbiol. 2009;9:41.
+CC  Several bacteria have an unusual DNA phenotype, Dnd (degradation during
+CC  electrophoresis). This property results from a sulfur modification on a
+CC  G residue, shown in one example to occur at a rate of about one sulfur
+CC  per 6000 base pairs. Study of Streptomyces lividans 1326 showed a
+CC  stringent requirement for a core motif GGCC within a longer recognition
+CC  region represented as cGGCCgccg (see PMID: 17439960). Five
+CC  characteristic genes, including a predicted cysteine sulfurtransferase
+CC  related to IscS, appear responsible for the dnd phenotype. Through
+CC  comparative genomic studies, we find that the, beyond a core set of the
+CC  three genes dndC, dndD, and dndE, other proteins may be associated.
+CC  That is, they show up specifically in genomes that carry dndCDE and
+CC  occur nearby, but do not show up in all such genomes. Models TIGR03236,
+CC  TIGR03237, and TIGR03238 are examples of such dnd-associated protein
+CC  families.
+**  Try to treat in a similar way properties 58195 sporadically distributed
+**  four-gene operon, 58196 uncharacterized gene pair TIGR02683/TIGR02684,
+**  58197 uncharacterized gene pair TIGR02687/TIGR02688 .
+--
+SN  DndA
+ID  dnd system cysteine sulfurtransferase
+DN  cysteine desulfurase (EC:2.8.1.7)
+RQ  0
+EV  IPRXXXX; PF00266;
+EV  IPR017644; TIGR03235; sufficient;
+--
+SN  DndB
+ID  dnd operon putative ATPase DndB
+DN  DNA sulfur modification protein DndB
+RQ  0
+EV  IPR017642; TIGR03233; sufficient;
+--
+SN  DndC
+ID  dnd operon putative sulfurtransferase DndC
+DN  putative sulfurtransferase DndC
+RQ  1
+EV  IPR017598; TIGR03183; sufficient;
+--
+SN  DndD
+ID  dnd operon putative ATPase DndD
+DN  DNA sulphur modification protein DndD
+RQ  1
+EV  IPR017599; TIGR03185; sufficient;
+--
+SN  DndE
+ID  dnd operon putative carboxylase DndE
+DN  DNA sulphur modification protein DndE
+RQ  1
+EV  IPR014969; TIGR03184; sufficient;
+--
+SN  DptF
+ID  DNA phosphorothioation-dependent restriction protein DptF
+DN  dnd system-associated protein 3
+RQ  0
+EV  IPR017647; TIGR03238; sufficient;
+--
+SN  DptG
+ID  DNA phosphorothioation-dependent restriction protein DptG
+DN  dnd system-associated protein 1
+RQ  0
+EV  IPR017645; TIGR03236; sufficient;
+--
+SN  DptH
+ID  DNA phosphorothioation-dependent restriction protein DptH
+DN  dnd system-associated protein 2
+RQ  0
+EV  IPR017646; TIGR03237; sufficient;
+--
+SN  assoc4
+ID  dnd system-associated protein 4
+RQ  0
+EV  IPR023983; TIGR04062;
+//

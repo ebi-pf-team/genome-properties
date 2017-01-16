@@ -1,0 +1,49 @@
+AC  GenProp0460
+DE  gas vesicle
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  Gas vesicles are gas-filled hollow protein structures, visible by
+CC  phase-contrast microscopy, that confer bouyancy. They occur in 
+CC  cyanobacteria, anoxyphototrophic bacteria, halophilic archaea, at least
+CC  one soil bacterium (Bacillus megaterium). GvpA and GvpC are the
+CC  characterized structural proteins, but it seems at least 10 genes are
+CC  required. 
+--
+SN  GvpC
+ID  gas vesicle structural protein GvpC
+RQ  1
+EV  IPR002003; PF01304; sufficient;
+EV  IPR008639; PF05465; sufficient;
+EV  IPR002003; TIGR02641; sufficient;
+--
+SN  GvpG_fm
+ID  gas vesicle protein, GvpG family
+RQ  0
+EV  IPR007804; PF05120; sufficient;
+--
+SN  GvpK
+ID  gas vesicle protein, GvpK family
+RQ  0
+EV  IPR007805; PF05121; sufficient;
+--
+SN  GvpN
+ID  gas vesicle protein GvpN
+RQ  0
+EV  IPR013462; TIGR02640; sufficient;
+--
+SN  GvpO
+ID  gas vesicle protein, GvpO family
+RQ  0
+EV  IPR008634; PF05800; sufficient;
+--
+SN  Gvp_L_F
+ID  gas vesicle protein, GvpL/GvpF family
+RQ  0
+EV  IPR009430; PF06386; sufficient;
+--
+SN  MAJOR
+ID  gas vesicle major structural protein GvpA
+RQ  1
+EV  IPR000638; PF00741; sufficient;
+//

@@ -1,0 +1,63 @@
+AC  GenProp0207
+DE  lipoprotein localization system lolABCDE
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  12823819
+RT  A mutation in the membrane subunit of an ABC transporter LolCDE complex
+RT  causing outer membrane localization of lipoproteins against their inner
+RT  membrane-specific signals.
+RA  Narita S, Kanamaru K, Matsuyama S, Tokuda H;
+RL  Mol Microbiol. 2003;49:167-177.
+RN  [2]
+RM  11673422
+RT  Deletion of lolB, encoding an outer membrane lipoprotein, is lethal for
+RT  Escherichia coli and causes accumulation of lipoprotein localization
+RT  intermediates in the periplasm.
+RA  Tanaka K, Matsuyama SI, Tokuda H;
+RL  J Bacteriol. 2001;183:6538-6542.
+CC  Bacterial lipoproteins have a modified amino terminal Cys residue with
+CC  a covalently attached lipid moiety that serves as a membrane anchor.
+CC  The lol system is responsible for moving lipoproteins from the
+CC  periplasmic side of the inner membrane to the periplasmic side of the
+CC  outer membrane. LolD is homologous to the ATP-binding cassette (ABC)
+CC  transport family. LolC and LolE are homologous to each other (in
+CC  species that have both rather than just one) and have several
+CC  membrane-spanning segments, much like ABC transport permeases. However,
+CC  the LolCDE complex differs from other ABC transporters in that is does
+CC  not move a substrate across a membrane. Instead, it detaches
+CC  lipoproteins from the inner membrane. LolA and LolB act to chaperone
+CC  lipoproteins, including LolB itself, to the outer membrane. This system
+CC  is less broadly distributed than the lgt/lsp/lnt system for lipoprotein
+CC  N-terminal modification.
+**  quote PMID:10783239 and others.  Should be districtly limited 
+--
+SN  LolA
+ID  lipoprotein carrier LolA
+DN  outer membrane lipoprotein carrier protein LolA
+RQ  1
+EV  IPR018323; TIGR00547; sufficient;
+TG  GO:0006886;
+--
+SN  LolB
+ID  outer membrane LP LolB
+DN  outer membrane lipoprotein LolB
+RQ  1
+EV  IPR004565; TIGR00548; sufficient;
+TG  GO:0006886;
+--
+SN  LolCE
+ID  lipoprotein export, LolC and LolE family
+DN  lipoprotein releasing system, transmembrane protein, LolC/E family
+RQ  1
+EV  IPR011925; TIGR02212; sufficient;
+TG  GO:0006886;
+--
+SN  LolD
+ID  transporter ATP-binding subunit LolD
+DN  lipoprotein-releasing system ATP-binding protein
+RQ  1
+EV  IPR011924; TIGR02211; sufficient;
+TG  GO:0006886;
+//

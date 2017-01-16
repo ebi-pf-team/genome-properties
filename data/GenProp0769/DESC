@@ -1,0 +1,37 @@
+AC  GenProp0769
+DE  Neisseria lipooligosaccharide, lacto-N-neotetraose biosynthesis
+TP  PATHWAY
+AU  Haft D
+TH  0
+CC  In Neisseria, lipooligosaccharide (LOS) is a highly variable virulence
+CC  determinant. This Genome Property describes a set of three
+CC  glycosyltransferases (lgtA, lgtB, and lgtE) that work together in the
+CC  formation of lacto-N-neotetraose, a component of the LOS alpha chain.
+CC  Additional genes may also be present and lead to different types of
+CC  LOS.
+**  Might want to convert this property to a guild-sufficiency study of
+**  Neisseria LOS biosynthesis, or, less broadly, to a generalized lgt
+**  locus (LgtA,B,C,D,E, take em or leave em).  Rules exists for LgtC,
+**  LgtF, LgtH. Need rules for LgtD, Z at least. Some of these genes have
+**  polyG (A,C,D) or polyC  (lgtG) tracts for frameshift variation of the
+**  LOS type, and th e literature has a mapping of functional lgt sets to
+**  LOS type. 
+--
+SN  lgtA
+ID  lacto-N-neotetraose biosynthesis glycosyl transferase LgtA
+RQ  1
+EV  IPRXXXX; 2122;
+TG  GO:0009103;
+--
+SN  lgtB
+ID  lacto-N-neotetraose biosynthesis glycosyl transferase LgtB
+RQ  1
+EV  IPRXXXX; 2120;
+TG  GO:0009103;
+--
+SN  lgtE
+ID  lacto-N-neotetraose biosynthesis glycosyl transferase LgtE
+RQ  1
+EV  IPRXXXX; 2121;
+TG  GO:0009103;
+//

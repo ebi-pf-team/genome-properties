@@ -1,0 +1,28 @@
+AC  GenProp0665
+DE  peptide chain release operon, RctB-like/PrfH
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  16970810
+RT  Diverse bacterial genomes encode an operon of two genes, one of which
+RT  is an unusual class-I release factor that potentially recognizes
+RT  atypical mRNA signals other than normal stop codons.
+RA  Baranov PV, Vestergaard B, Hamelryck T, Gesteland RF, Nyborg J, Atkins
+RA  JF;
+RL  Biol Direct. 2006;1:28.
+CC  This genome property describes a novel two-gene operon that consists of
+CC  PrfH, which is a member of the bacterial class I peptide chain release
+CC  factors, and a homolog of RctB, which is a protein of unknown function
+CC  thought suggest to act in RNA processing.
+--
+SN  prfH
+ID  peptide chain release factor H
+RQ  1
+EV  IPR017509; TIGR03072; sufficient;
+--
+SN  rtcB_lk
+ID  translationally-coupled RctB family protein
+RQ  1
+EV  IPR017510; TIGR03073; sufficient;
+//

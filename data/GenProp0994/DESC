@@ -1,0 +1,149 @@
+AC  GenProp0994
+DE  Leptospira interrogans-specific LPS components
+TP  GUILD
+AU  Haft D
+TH  0
+CC  These families of genes are observed in the LPS biosynthesis locus of
+CC  Leptospira interrogans strains, but not in other Leptospira species
+CC  such as L. borgpetersenii or L. biflexa.
+--
+SN  ACT0022
+ID  putative sugar acetyltransferase, LLPSF_ACT_00022 family
+RQ  1
+EV  IPRXXXX; 2799;
+--
+SN  CCT0010
+ID  transketolase, LLPSF_CCT_00010 and _00011 subunits
+RQ  1
+EV  GenProp0995;
+--
+SN  CSSTE_2
+ID  Sugar biosynthesis cassette 2
+RQ  1
+EV  GenProp0997;
+--
+SN  EDH0005
+ID  NAD dependent epimerase/dehydratase, LLPSF_EDH_00005 family
+RQ  1
+EV  IPRXXXX; 2781;
+--
+SN  EDH0008
+ID  NAD dependent epimerase/dehydratase, LLPSF_EDH_00008
+RQ  1
+EV  IPRXXXX; 2785;
+--
+SN  EDH0030
+ID  NAD dependent epimerase/dehydratase, LLPSF_EDH_00030 family
+RQ  1
+EV  IPRXXXX; 2811;
+--
+SN  FMT0020
+ID  formyl transferase, LLPSF_FMT_00020 family
+RQ  1
+EV  IPRXXXX; 2797;
+--
+SN  GLT0027
+ID  glycosyltransferase, group 2 family, LLPSF_GLT_0027 family
+RQ  1
+EV  IPRXXXX; 2806;
+--
+SN  ISO0004
+ID  putative sugar isomerase, LLPSF_ISO_00004 family
+RQ  1
+EV  IPRXXXX; 2780;
+--
+SN  ISO0025
+ID  WxcM-like protein, LLPSF_ISO_0025 family
+RQ  1
+EV  IPRXXXX; 2803;
+--
+SN  MET0015
+ID  methyltransferase domain protein, LLPSF_MET_00015 family
+RQ  1
+EV  IPRXXXX; 2792;
+--
+SN  MET0016
+ID  methyltransferase domain protein, LLPSF_MET_00016 family
+RQ  1
+EV  IPRXXXX; 2793;
+--
+SN  MET0018
+ID  methyltransferase domain protein, LLPSF_MET_00018 family
+RQ  1
+EV  IPRXXXX; 2795;
+--
+SN  MET0026
+ID  methyltransferase domain protein, LLPSF_MET_00026 family
+RQ  1
+EV  IPRXXXX; 2805;
+--
+SN  NCT0006
+ID  nucleotidyl transferase, LLPSF_NCT_00006 family
+RQ  1
+EV  IPRXXXX; 2782;
+--
+SN  NCT0007
+ID  nucleotidyltransferase/carbohydrate kinase, LLPSF_NCT_00007 family
+RQ  1
+EV  IPRXXXX; 2783;
+--
+SN  NHT0019
+ID  DegT/DnrJ/EryC1/StrS aminotransferase family protein, LLPS_NHT_00019 family
+RQ  1
+EV  IPRXXXX; 2796;
+--
+SN  OXR0003
+ID  FAD dependent oxidoreductase, LLPSF_OXR_00003 family
+RQ  1
+EV  IPRXXXX; 2779;
+--
+SN  PHH0014
+ID  hydrolase, NUDIX family, LLPSF_PHH_00014 family
+RQ  1
+EV  IPRXXXX; 2791;
+--
+SN  PHT0007
+ID  nucleotidyltransferase/carbohydrate kinase, LLPSF_PHT_00007 family
+RQ  1
+EV  IPRXXXX; 2783;
+--
+SN  PHT0009
+ID  putative phosphotransferase, LLPSF_PHT_00009 family
+RQ  1
+EV  IPRXXXX; 2786;
+--
+SN  TSP0024
+ID  ABC transporter, ATP-binding/permease protein, LLPSF_TSP_0024 family
+RQ  1
+EV  IPRXXXX; 2802;
+--
+SN  UNK0012
+ID  putative lipopolysaccharide biosynthesis protein, LLPSF_UNK_00012 family
+RQ  1
+EV  IPRXXXX; 2789;
+--
+SN  UNK0013
+ID  putative lipopolysaccharide biosynthesis protein, LLPSF_UNK_00013 family
+RQ  1
+EV  IPRXXXX; 2790;
+--
+SN  UNK0017
+ID  putative lipopolysaccharide biosynthesis protein, LLPSF_UNK_00017 family
+RQ  1
+EV  IPRXXXX; 2794;
+--
+SN  UNK0021
+ID  putative lipopolysaccharide biosynthesis protein, LLPSF_UNK_00021 family
+RQ  1
+EV  IPRXXXX; 2798;
+--
+SN  UNK0023
+ID  putative lipopolysaccharide biosynthesis protein, LLPSF_UNK_00023 family
+RQ  1
+EV  IPRXXXX; 2801;
+--
+SN  UNK0028
+ID  putative lipopolysaccharide biosynthesis protein, LLPSF_UNK_00028 family
+RQ  1
+EV  IPRXXXX; 2808;
+//

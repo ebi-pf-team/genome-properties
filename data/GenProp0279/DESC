@@ -1,0 +1,45 @@
+AC  GenProp0279
+DE  cobalt import systems
+TP  METAPATH
+AU  Haft D
+TH  0
+CC  This summary property includes several different cobalt import
+CC  transporter systems.  It will have a state of YES if any one of these
+CC  child properties has a state of YES and will have a value of the number
+CC  of distinct cobalt import systems with a state of YES.
+--
+SN  CbiMNQO
+ID  CbiMNOQ ABC transporter: GenProp0277
+RQ  1
+EV  GenProp0277;
+--
+SN  CbtAB
+ID  CbtAB - proposed: GenProp0280
+RQ  1
+EV  GenProp0280;
+--
+SN  CbtC
+ID   
+RQ  1
+--
+SN  CbtD
+ID   
+RQ  1
+--
+SN  CbtE
+ID   
+RQ  1
+--
+SN  CbtF
+ID   
+RQ  1
+--
+SN  CbtG
+ID   
+RQ  1
+--
+SN  adapt
+ID  adapted HoxN or HupE: GenProp0278
+RQ  1
+EV  GenProp0278;
+//

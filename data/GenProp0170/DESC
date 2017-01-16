@@ -1,0 +1,73 @@
+AC  GenProp0170
+DE  coenzyme PQQ biosynthesis
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  18371220
+RT  The pyrroloquinoline quinone biosynthesis pathway revisited: a
+RT  structural approach.
+RA  Puehringer S, Metlitzky M, Schwarzenbacher R;
+RL  BMC Biochem. 2008;9:8.
+CC  Coenzyme PQQ (coenzyme pyrrolo-quinoline-quinone) production is
+CC  associated with an operon that includes a small protein, PqqA, proposed
+CC  to act as a molecular precursor. PQQ is a cofactor of certain alcohol
+CC  dehydrogenases and glucose dehydrogenases.
+--
+SN  PQQ_rpt
+ID  PQQ-binding repeats
+DN  PQQ enzyme repeat domain protein
+RQ  0
+EV  IPR002372; PF01011; sufficient;
+--
+SN  pqqA
+ID  PqqA protein
+DN  coenzyme PQQ biosynthesis protein A
+RQ  1
+EV  IPR011725; TIGR02107; sufficient;
+TG  GO:0018189;
+--
+SN  pqqB
+ID  PqqB protein
+DN  coenzyme PQQ biosynthesis protein B
+RQ  1
+EV  IPR011842; TIGR02108; sufficient;
+TG  GO:0018189;
+--
+SN  pqqC
+ID  PqqC protein
+DN  coenzyme PQQ biosynthesis protein C
+RQ  1
+EV  IPR011845; TIGR02111; sufficient;
+TG  GO:0018189;
+--
+SN  pqqD
+ID  PqqD protein
+DN  coenzyme PQQ biosynthesis protein D
+RQ  1
+EV  IPR022479; TIGR03859;
+TG  GO:0018189;
+--
+SN  pqqE
+ID  PqqE protein
+DN  coenzyme PQQ biosynthesis protein E
+RQ  1
+EV  IPR011843; TIGR02109; sufficient;
+TG  GO:0018189;
+--
+SN  pqqF
+ID  peptidase PqqF
+DN  coenzyme PQQ biosynthesis protein PqqF (EC:3.4.24.-)
+RQ  0
+EV  IPR011844; TIGR02110; sufficient;
+TG  GO:0018189;
+--
+SN  usePQQ
+ID  PQQ-dependent enzyme example
+DN  PQQ-dependent dehydrogenase glucose/quinate/shikimate family protein (EC:1.1.5.2)
+RQ  1
+EV  IPR017511; TIGR03074; sufficient;
+TG  GO:0018189;
+EV  IPR017512; TIGR03075; sufficient;
+TG  GO:0018189;
+//

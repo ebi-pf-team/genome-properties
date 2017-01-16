@@ -1,0 +1,71 @@
+AC  GenProp0772
+DE  yersiniabactin biosynthesis
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  11927258
+RT  Yersiniabactin synthetase: a four-protein assembly line producing the
+RT  nonribosomal peptide/polyketide hybrid siderophore of Yersinia pestis.
+RA  Miller DA, Luo L, Hillson N, Keating TA, Walsh CT;
+RL  Chem Biol. 2002;9:333-344.
+RN  [2]
+RM  16751485
+RT  Yersiniabactin production by Pseudomonas syringae and Escherichia coli,
+RT  and description of a second yersiniabactin locus evolutionary group.
+RA  Bultreys A, Gheysen I, de Hoffmann E;
+RL  Appl Environ Microbiol. 2006;72:3814-3825.
+CC  Yersiniabactin is a siderophore found in a number of enterobacteria,
+CC  including Yersinia pestis and some strains of Escherichia coli. Its
+CC  biosynthesis and utilization may coexist in an organism with other
+CC  siderophore systems such as enterobactin and aerobactin. Yersiniabactin
+CC  is made from salicylate, three cysteines, and a malonyl group by a
+CC  nonribosomal peptide synthetase/polyketide synthase.
+--
+SN  ybtA
+ID  yersiniabactin transcriptional regulator YbtA
+RQ  0
+EV  IPRXXXX; 2159;
+--
+SN  ybtE
+ID  salicyl-AMP ligase, yersiniabactin biosynthetic
+RQ  1
+EV  IPRXXXX; 2163;
+TG  GO:0019290;
+--
+SN  ybtS
+ID  salicylate synthase, yersiniabactin system
+RQ  1
+EV  IPRXXXX; 2167;
+TG  GO:0019290;
+--
+SN  ybtT
+ID  yersiniabactin biosynthesis thioesterase YbtT
+RQ  1
+EV  IPRXXXX; 2165;
+TG  GO:0019290;
+--
+SN  ybtU
+ID  yersiniabactin synthetase, YbtU component
+RQ  1
+EV  IPRXXXX; 2164;
+TG  GO:0019290;
+--
+SN  ybtX
+ID  yersiniabactin region putative transporter YbtX
+RQ  0
+EV  IPRXXXX; 2166;
+TG  GO:0019290;
+--
+SN  ybt_HM1
+ID  yersiniabactin synthetase, HMWP1 component
+RQ  1
+EV  IPRXXXX; 2162;
+TG  GO:0019290;
+--
+SN  ybt_HM2
+ID  yersiniabactin synthetase, HMWP2 component
+RQ  1
+EV  IPRXXXX; 2161;
+TG  GO:0019290;
+//

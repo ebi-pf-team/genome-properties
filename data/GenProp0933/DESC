@@ -1,0 +1,36 @@
+AC  GenProp0933
+DE  bacillithiol utilization
+TP  GUILD
+AU  Haft D
+TH  0
+RN  [1]
+RM  20308541
+RT  Biosynthesis and functions of bacillithiol, a major
+RT  low-molecular-weight thiol in Bacilli.
+RA  Gaballa A, Newton GL, Antelmann H, Parsonage D, Upton H, Rawat M,
+RA  Claiborne A, Fahey RC, Helmann JD;
+RL  Proc Natl Acad Sci U S A. 2010;107:6482-6486.
+CC  This property describes the guild of proteins dependent on bacillithiol
+CC  in microbial genomes.Bacillithiol, a thiol analog of glutathione and
+CC  mycothiol, is a 398-Da alpha-anomeric glycoside of
+CC  L-cysteinyl-D-glucosamine with L-malic acid. A separate property
+CC  (GenProp0927) describes the biosynthesis of bacillithiol.
+--
+SN  B_YpdA
+ID  putative bacillithiol TDOR, YpdA family
+RQ  0
+EV  IPR023856; TIGR04018;
+TG  GO:0071792;
+--
+SN  B_YphP
+ID  putative bacillithiol TDOR, YphP/YqiW family
+RQ  0
+EV  IPR009474; PF06491;
+TG  GO:0071792;
+--
+SN  B_YtxJ
+ID  putative bacillithiol TDOR, YtxJ family
+RQ  0
+EV  IPR022551; TIGR04019;
+TG  GO:0071792;
+//

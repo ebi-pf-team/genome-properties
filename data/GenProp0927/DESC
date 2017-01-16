@@ -1,0 +1,48 @@
+AC  GenProp0927
+DE  bacillithiol biosynthesis
+TP  PATHWAY
+AU  Haft D
+TH  0
+RN  [1]
+RM  20308541
+RT  Biosynthesis and functions of bacillithiol, a major
+RT  low-molecular-weight thiol in Bacilli.
+RA  Gaballa A, Newton GL, Antelmann H, Parsonage D, Upton H, Rawat M,
+RA  Claiborne A, Fahey RC, Helmann JD;
+RL  Proc Natl Acad Sci U S A. 2010;107:6482-6486.
+RN  [2]
+RM  20799687
+RT  Characterization of the N-acetyl-α-D-glucosaminyl l-malate synthase
+RT  and deacetylase functions for bacillithiol biosynthesis in Bacillus
+RT  anthracis .
+RA  Parsonage D, Newton GL, Holder RC, Wallace BD, Paige C, Hamilton CJ,
+RA  Dos Santos PC, Redinbo MR, Reid SD, Claiborne A;
+RL  Biochemistry. 2010;49:8398-8414.
+CC  This property describes the biosynthesis of bacillithiol, a thiol
+CC  analog of glutathione and mycothiol. Bacillithiol is a 398-Da
+CC  alpha-anomeric glycoside of L-cysteinyl-D-glucosamine with L-malic acid
+**  YpjH NTL01BS2334 is now BshA, YpjG/BA1557 is now BshB1, BshB2(YojG)
+**  NTL13BA1836, yllA bshC BA_4058. Note: YpdA, YqiW, YphP, and YtxJ are
+**  all probable thiol:disulfide oxidoreductases. GO term has been
+**  requested.
+--
+SN  BshA
+ID  glycosyltransferase BshA
+RQ  1
+EV  IPR023881; TIGR03999;
+TG  GO:0071793;
+--
+SN  BshB
+ID  N-acetylhydrolase BshB
+RQ  1
+EV  IPR023841; TIGR04000;
+TG  GO:0071793;
+EV  IPR023842; TIGR04001;
+TG  GO:0071793;
+--
+SN  BshC
+ID  cysteine-adding enzyme BshC
+RQ  1
+EV  IPR011199; TIGR03998;
+TG  GO:0071793;
+//

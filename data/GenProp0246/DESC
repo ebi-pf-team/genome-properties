@@ -1,0 +1,46 @@
+AC  GenProp0246
+DE  chaperone system: thermosome/prefoldin
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  10550210
+RT  Group II chaperonins: new TRiC(k)s and turns of a protein folding
+RT  machine.
+RA  Gutsche I, Essen LO, Baumeister W;
+RL  J Mol Biol. 1999;293:295-312.
+RN  [2]
+RM  9678597
+RT  The thermosome: archetype of group II chaperonins.
+RA  Klumpp M, Baumeister W;
+RL  FEBS Lett. 1998;430:73-77.
+CC  The archaeal thermosome system is a group II chaperonin, closely
+CC  related to the CCT complex of eukaryotes. Thermosome subunits show
+CC  clear remote sequence similarity to GroEL of the bacterial group I
+CC  chaperonin system. Prefoldin, with alpha and beta subunits, works with
+CC  the chaperonin. The number of distinct but homologous genes for
+CC  subunits of the thermosome ranges from one to five in the archaea, and
+CC  this property is based simply on finding at least one, plus the two
+CC  subunits of the archaeal form of prefoldin.
+--
+SN  prefldA
+ID  prefoldin, alpha subunit
+DN  prefoldin, alpha subunit
+RQ  1
+EV  IPR011599; TIGR00293; sufficient;
+TG  GO:0006457;
+--
+SN  prefldB
+ID  prefoldin, beta subunit
+DN  prefoldin, beta subunit
+RQ  1
+EV  IPR012713; TIGR02338; sufficient;
+TG  GO:0006457;
+--
+SN  thrmsom
+ID  thermosome subunit(s)
+DN  thermosome subunit
+RQ  1
+EV  IPR012714; TIGR02339; sufficient;
+TG  GO:0006457;
+//

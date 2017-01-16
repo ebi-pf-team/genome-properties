@@ -1,0 +1,49 @@
+AC  GenProp0854
+DE  ParB-rel/ThiF-rel cassette PRTRC
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  A novel genetic system characterized by six major proteins, including a
+CC  ParB homolog and a ThiF homolog, is designated PRTRC, or
+CC  ParB-Related,ThiF-Related Cassette. It is often found on plasmids.
+--
+SN  PRTRC_1
+ID  PRTRC system ParB family protein
+RQ  1
+EV  IPR022396; TIGR03734;
+--
+SN  PRTRC_2
+ID  PRTRC system protein E
+RQ  1
+EV  IPR022273; TIGR03741;
+--
+SN  PRTRC_3
+ID  PRTRC system protein C
+RQ  1
+EV  IPR022289; TIGR03738;
+--
+SN  PRTRC_4
+ID  PRTRC system protein F
+RQ  1
+EV  IPR022283; TIGR03742;
+--
+SN  PRTRC_5
+ID  PRTRC system protein B
+RQ  1
+EV  IPR022280; TIGR03737;
+--
+SN  PRTRC_6
+ID  PRTRC system protein A
+RQ  1
+EV  IPR022499; TIGR03735;
+--
+SN  PRTRC_7
+ID  PRTRC system ThiF family protein
+RQ  1
+EV  IPR022500; TIGR03736;
+--
+SN  PRTRC_X
+ID  PRTRC system protein D
+RQ  0
+EV  IPR022389; TIGR03739;
+//

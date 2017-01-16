@@ -1,0 +1,53 @@
+AC  GenProp0876
+DE  decarboxylation/antiport proton-motive cycle: glutamate-GABA
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  19114477
+RT  Characterization of the Escherichia coli O157:H7 Sakai GadE regulon.
+RA  Kailasan Vanaja S, Bergholz TM, Whittam TS;
+RL  J Bacteriol. 2009;191:1868-1877.
+CC  The decarboxylation of glutamate to 4-aminobutanoate, also known as
+CC  gamma-aminobutyrate or GABA, coupled with glutamate-GABA antiport,
+CC  provides a robust mechanism of glutamate-based acid resistance for
+CC  Escherichia coli and other organisms that need to survive transient
+CC  exposures to highly acidic pH. Import of the negatively charged
+CC  glutamate, decarboxylation with the consumption of a proton, and export
+CC  of the neutral molecule GABA serves to reduce cytosolic acidity.
+CC  Similar cycles are driven by the decarboxylation of other amino acids.
+**  NTL01BMA0910 represents a distinctive clade of probable antiporter,
+**  next to the glutamate decarboxylase but also, usually near a
+**  glutaminase (converts Gln to Glu plus NH3), so what antiports is a
+**  question.
+--
+SN  gadAB
+ID  glutamate decarboxylase
+RQ  1
+EV  IPR010107; TIGR01788;
+TG  GO:0010447;
+--
+SN  gadC
+ID  glutamate/GABA antiporter
+RQ  1
+EV  IPR004759; TIGR00910;
+TG  GO:0010447;
+--
+SN  gadE
+ID  transcriptional activator GadE
+RQ  0
+EV  IPRXXXX; 2656;
+TG  GO:0010447;
+--
+SN  gadW
+ID  transcriptional activator GadW
+RQ  0
+EV  IPRXXXX; 2655;
+TG  GO:0010447;
+--
+SN  gadX
+ID  transcriptional regulator GadX
+RQ  0
+EV  IPRXXXX; 2657;
+TG  GO:0010447;
+//

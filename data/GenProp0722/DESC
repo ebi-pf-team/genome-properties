@@ -1,0 +1,197 @@
+AC  GenProp0722
+DE  methanogenesis marker set
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  16385054
+RT  The genome sequence of Methanosphaera stadtmanae reveals why this human
+RT  intestinal archaeon is restricted to methanol and H2 for methane
+RT  formation and ATP synthesis.
+RA  Fricke WF, Seedorf H, Henne A, Krüer M, Liesegang H, Hedderich R,
+RA  Gottschalk G, Thauer RK;
+RL  J Bacteriol. 2006;188:642-658.
+CC  Members of this genome property are, at least for now, largely
+CC  uncharacterized proteins that appear to represent marker proteins for
+CC  methanogenic archaea, as detected by our novel algorithm, partial
+CC  phylogenetic profiling. Substrates that can be reduced wih H2 to
+CC  methane may include methanol only, as in Methanosphaera stadtmanae, or
+CC  carbon dioxide and other compounds. This Genome Property represents
+CC  proteins that both are universal in the first ten completed genomes of
+CC  archaeal methanogens and can serve as markers for methanogenesis (are
+CC  found nowhere else). These markers have the same phylogenetic
+CC  distribution, among completely sequenced genomes, as the enzyme
+CC  methyl-coenzyme M reductase, whose components (for now) are represented
+CC  in a separate Genome Property, GenProp0719. This analysis was performed
+CC  without the availability of an anaerobic methane-oxidizing archaeal
+CC  genome sequence, and it is unclear how such a genome would affect the
+CC  results.
+**  Note. This property superseded by more recent publications. Note that
+**  nickel is important to methanogenesis - not necessarily reflected in
+**  marker set so far.
+--
+SN  me_hdrB
+ID  CoB--CoM heterodisulfide reductase, subunit B
+RQ  1
+EV  IPR017678; TIGR03288; sufficient;
+--
+SN  me_hdrC
+ID  CoB--CoM heterodisulfide reductase, subunit C
+RQ  1
+EV  IPR017680; TIGR03290; sufficient;
+--
+SN  me_mcr2
+ID  methyl coenzyme M reductase system, component A2
+RQ  1
+EV  IPR017669; TIGR03269;
+--
+SN  me_mcrA
+ID  methyl-coenzyme M reductase, alpha subunit
+RQ  1
+EV  IPR016212; TIGR03256; sufficient;
+--
+SN  me_mcrB
+ID  methyl-coenzyme M reductase, beta subunit
+RQ  1
+EV  IPR003179; TIGR03257; sufficient;
+--
+SN  me_mcrC
+ID  methyl-coenzyme M reductase I operon protein C
+RQ  1
+EV  IPR007687; TIGR03264;
+--
+SN  me_mcrD
+ID  methyl-coenzyme M reductase operon protein D
+RQ  1
+EV  IPR003901; TIGR03260;
+--
+SN  me_mcrG
+ID  methyl-coenzyme M reductase, gamma subunit
+RQ  1
+EV  IPR003178; TIGR03259; sufficient;
+--
+SN  me_mtrA
+ID  tetrahydromethanopterin S-methyltransferase, subunit A
+RQ  1
+EV  IPR005778; TIGR01111;
+--
+SN  me_mtrB
+ID  tetrahydromethanopterin S-methyltransferase, subunit B
+RQ  1
+EV  IPR008690; TIGR04166;
+--
+SN  me_mtrC
+ID  tetrahydromethanopterin S-methyltransferase, subunit C
+RQ  1
+EV  IPR005865; TIGR01148;
+--
+SN  me_mtrD
+ID  tetrahydromethanopterin S-methyltransferase, subunit D
+RQ  1
+EV  IPR005779; TIGR01112;
+--
+SN  me_mtrE
+ID  tetrahydromethanopterin S-methyltransferase, subunit E
+RQ  1
+EV  IPR005780; TIGR01113;
+--
+SN  me_mtrF
+ID  tetrahydromethanopterin S-methyltransferase, subunit F
+RQ  1
+EV  IPR013347; TIGR02507;
+--
+SN  me_mtrG
+ID  tetrahydromethanopterin S-methyltransferase, subunit G
+RQ  1
+EV  IPR005866; TIGR01149;
+--
+SN  me_mtrH
+ID  tetrahydromethanopterin S-methyltransferase, subunit H
+RQ  1
+EV  IPR023467; TIGR01114;
+--
+SN  meth_01
+ID  methanogenesis marker protein 1
+RQ  1
+EV  IPR017667; TIGR03266; sufficient;
+--
+SN  meth_02
+ID  methanogenesis marker protein 2
+RQ  1
+EV  IPR017668; TIGR03267; sufficient;
+--
+SN  meth_03
+ID  methanogenesis marker protein 3
+RQ  1
+EV  IPR016466; TIGR03268; sufficient;
+--
+SN  meth_04
+ID  methanogenesis marker protein 4
+RQ  1
+EV  IPR016764; TIGR03270; sufficient;
+--
+SN  meth_05
+ID  methanogenesis marker protein 5
+RQ  1
+EV  IPR012356; TIGR03271; sufficient;
+--
+SN  meth_06
+ID  methanogenesis marker protein 6
+RQ  1
+EV  IPR012025; TIGR03272; sufficient;
+--
+SN  meth_07
+ID  methanogenesis marker protein 7
+RQ  1
+EV  IPR011312; TIGR03274; sufficient;
+--
+SN  meth_08
+ID  methanogenesis marker protein 8
+RQ  1
+EV  IPR009181; TIGR03275; sufficient;
+--
+SN  meth_09
+ID  methanogenesis marker domain 9
+RQ  1
+EV  IPR017671; TIGR03277; sufficient;
+--
+SN  meth_10
+ID  methanogenesis radical SAM marker protein
+RQ  1
+EV  IPR017672; TIGR03278; sufficient;
+--
+SN  meth_11
+ID  methanogenesis imperfect marker 11
+RQ  1
+EV  IPR017674; TIGR03280; sufficient;
+--
+SN  meth_12
+ID  methanogenesis marker protein 12
+RQ  1
+EV  IPR016735; TIGR03281; sufficient;
+--
+SN  meth_13
+ID  methanogenesis marker 13 metalloprotein
+RQ  1
+EV  IPR017675; TIGR03282; sufficient;
+--
+SN  meth_14
+ID  methanogenesis marker protein 14
+RQ  1
+EV  IPR008303; TIGR03285; sufficient;
+--
+SN  meth_15
+ID  methanogenesis marker protein 15
+RQ  1
+EV  IPR017676; TIGR03286; sufficient;
+--
+SN  meth_16
+ID  methanogenesis marker 16 metalloprotein
+RQ  1
+EV  IPR017677; TIGR03287; sufficient;
+--
+SN  meth_17
+ID  methanogenesis marker protein 17
+RQ  1
+EV  IPR016762; TIGR03291; sufficient;
+//

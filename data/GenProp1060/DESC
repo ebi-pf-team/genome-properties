@@ -1,0 +1,49 @@
+AC  GenProp1060
+DE  tRNA N6-threonylcarbamoyladenosine modification
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  21873492
+RT  Effects on transcription of mutations in ygjD, yeaZ, and yjeE genes,
+RT  which are involved in a universal tRNA modification in Escherichia
+RT  coli.
+RA  Hashimoto C, Sakaguchi K, Taniguchi Y, Honda H, Oshima T, Ogasawara N,
+RA  Kato J;
+RL  J Bacteriol. 2011;193:6075-6079.
+RN  [2]
+RM  22378793
+RT  Biosynthesis of threonylcarbamoyl adenosine (t6A), a universal tRNA
+RT  nucleoside.
+RA  Deutsch C, El Yacoubi B, de Crécy-Lagard V, Iwata-Reuyl D;
+RL  J Biol Chem. 2012;287:13666-13673.
+CC  E. coli genes ygjD, yeaZ, yrdC (rimN) and yjeE encode proteins involved
+CC  in a universal tRNA modification, N6-threonylcarbamoyladenosine.
+**  Ecogene says yrdC = rimN, proposed to be a threonine-bicarbonate
+**  ligase. ygjD is previously (incorrectly) gcp. Is it really all four
+**  genes? gmg is two yes, two no!
+--
+SN  N6_YeaZ
+ID  YeaZ protein
+RQ  1
+EV  IPR022496; TIGR03725;
+TG  GO:0006400;
+--
+SN  N6_YgjD
+ID  YgjD protein
+RQ  1
+EV  IPR022450; TIGR03723;
+TG  GO:0006400;
+--
+SN  N6_YjeE
+ID  YjeE protein
+RQ  1
+EV  IPR003442; TIGR00150;
+TG  GO:0006400;
+--
+SN  N6_YrdC
+ID  YrdC protein
+RQ  1
+EV  IPR006070; TIGR00057;
+TG  GO:0006400;
+//

@@ -1,0 +1,54 @@
+AC  GenProp0902
+DE  quinohemoprotein amine dehydrogenase
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  16546999
+RT  Involvement of a putative [Fe-S]-cluster-binding protein in the
+RT  biogenesis of quinohemoprotein amine dehydrogenase.
+RA  Ono K, Okajima T, Tani M, Kuroda S, Sun D, Davidson VL, Tanizawa K;
+RL  J Biol Chem. 2006;281:13672-13684.
+RN  [2]
+RM  11704672
+RT  Crystal structure of quinohemoprotein amine dehydrogenase from
+RT  Pseudomonas putida. Identification of a novel quinone cofactor encaged
+RT  by multiple thioether cross-bridges.
+RA  Satoh A, Kim JK, Miyahara I, Devreese B, Vandenberghe I, Hacisalihoglu
+RA  A, Okajima T, Kuroda S, Adachi O, Duine JA, Van Beeumen J, Tanizawa K,
+RA  Hirotsu K;
+RL  J Biol Chem. 2002;277:2830-2834.
+CC  This system is characterized by three subunits of the mature enzyme,
+CC  plus one radical SAM protein involved in modification of the gamma
+CC  subunit. The gamma subunit contains two unusual modifications. One is a
+CC  cysteine tryptophylquinone, which unlike PQQ is derived from the
+CC  polypeptide precursor. The other is intrapeptidyl thioether
+CC  cross-linking.
+**  Note that there are two modifications in the gamma subunit. One is
+**  cysteine tryptophylquinone. The other is intrapeptidyl thioether
+**  cross-links. Radical SAM may be for the latter.
+--
+SN  QH_SAM
+ID  quinohemoprotein amine dehydrogenase maturation protein
+RQ  1
+EV  IPR023886; TIGR03906;
+TG  GO:0043687;
+--
+SN  QH_alp
+ID  quinohemoprotein amine dehydrogenase, alpha subunit
+RQ  1
+EV  IPR023887; TIGR03908;
+TG  GO:0030058;
+--
+SN  QH_bet
+ID  quinohemoprotein amine dehydrogenase, beta subunit
+RQ  1
+EV  IPR023879; TIGR03907;
+TG  GO:0030058;
+--
+SN  QH_gam
+ID  quinohemoprotein amine dehydrogenase, gamma subunit
+RQ  1
+EV  IPR015084; PF08992;
+TG  GO:0030058;
+//

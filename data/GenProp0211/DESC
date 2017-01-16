@@ -1,0 +1,28 @@
+AC  GenProp0211
+DE  tmRNA trans-translation system
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  Defective mRNA can lead to a stalled ribosome with no stop codon to
+CC  release the mRNA and nascent polypeptide. A structural RNA called tmRNA
+CC  (or SsrA), charged like a tRNA with an Ala, can restart stranslation.
+CC  The tmRNA, while resembling a tRNA, contains a stretch that acts as
+CC  mRNA with a short coding region and stop codon. The coding region
+CC  encodes a 10-amino acid tag that marks the nascent protein, once
+CC  released, for rapid degradation. Small protein B (SmpB) is required for
+CC  tmRNA function and has no other known function.
+--
+SN  SmpB
+ID  tmRNA-binding protein SmpB
+RQ  1
+EV  IPR000037; TIGR00086; sufficient;
+--
+SN  sspB
+ID  SspB adaptor to clpXP
+RQ  0
+EV  IPR007481; PF04386; sufficient;
+--
+SN  tmRNA
+ID  tmRNA structural RNA
+RQ  1
+//

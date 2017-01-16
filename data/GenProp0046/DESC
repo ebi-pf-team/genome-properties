@@ -1,0 +1,28 @@
+AC  GenProp0046
+DE  IPP biosynthesis
+TP  METAPATH
+AU  Haft D
+TH  0
+DC  Non-Mevalonate Terpenoid biosynthesis
+DR  IUBMB; terp; nonMVA;
+DC  Terpenoid biosynthesis
+DR  IUBMB; terp; terp;
+DC  Mevalonate Biosynthesis
+DR  IUBMB; terp; MVA;
+CC  Isopentenyl pyrophosphate (IPP) is the common intermediate of
+CC  isoprenoid metabolism which includes the biosynthesis of terpenoid
+CC  natural products, sterols, bile acids, carotenoids, vitamins K and E,
+CC  isoprene and other prenylated compounds. IPP may be synthesized via one
+CC  of two separate pathways, the mevalonate pathway is typical of
+CC  eukaryotes while the deoxyxylulose pathway is typical of prokaryotes.
+CC  This property summarizes the states of the two child properties, IPP
+CC  biosynthesis via mevalonate and IPP biosynthesis from deoxyxylulose.
+--
+SN  IPP
+ID  IPP biosynthesis
+RQ  1
+EV  GenProp0047;
+TG  GO:0009240;
+EV  GenProp0048;
+TG  GO:0009240;
+//

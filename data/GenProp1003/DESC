@@ -1,0 +1,28 @@
+AC  GenProp1003
+DE  cysteine S-glycopeptide biosynthesis, sublancin family
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  21196935
+RT  Sublancin is not a lantibiotic but an S-linked glycopeptide.
+RA  Oman TJ, Boettcher JM, Wang H, Okalibe XN, van der Donk WA;
+RL  Nat Chem Biol. 2011;7:78-80.
+CC  Sublancin is an antibiotic bacterial peptide with a monosaccharide
+CC  (glucose) added to a Cys side chain sulfur, in addition to having two
+CC  disulfide bonds. This Genome Property represents components of the
+CC  system, including the precursor and the S-glycosyltransferase.
+**  More than two components, but these are the two key ones. YolF is now
+**  immunity protein SunI.
+--
+SN  SunA
+ID  S-glycopeptide, SunA family
+RQ  1
+EV  IPR026479; TIGR04196;
+--
+SN  SunS
+ID  peptide cysteine S-glycosyltransferase, SunS family
+RQ  1
+EV  IPR026499; TIGR04195;
+TG  GO:0016144;
+//

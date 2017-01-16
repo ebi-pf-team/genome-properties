@@ -1,0 +1,52 @@
+AC  GenProp0776
+DE  pyochelin biosynthesis
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  15375116
+RT  PchC thioesterase optimizes nonribosomal biosynthesis of the peptide
+RT  siderophore pyochelin in Pseudomonas aeruginosa.
+RA  Reimmann C, Patel HM, Walsh CT, Haas D;
+RL  J Bacteriol. 2004;186:6367-6373.
+CC  Pyochelin is a siderophore derived from salicylate and cysteine. Note
+CC  that, in Pseudomonas aeruginosa, some of these enzymes also play a role
+CC  in making the antibiotic dihydroaeruginoate.
+**  pchC is editing enzyme PMID:15375116.
+--
+SN  pchA
+ID  isochorismate synthase, PchA family
+RQ  1
+EV  IPRXXXX; 2191;
+TG  GO:0042864;
+--
+SN  pchB
+ID  isochorismate pyruvate-lyase, PchB family
+RQ  1
+EV  IPRXXXX; 2192;
+TG  GO:0042864;
+--
+SN  pchC
+ID  pyochelin biosynthesis editing thioesterase PchC
+RQ  1
+EV  IPRXXXX; 2194;
+TG  GO:0042864;
+--
+SN  pchD
+ID  salicyl-AMP ligase, PchD family
+RQ  1
+EV  IPRXXXX; 2188;
+TG  GO:0042864;
+--
+SN  pchE
+ID  pyochelin biosynthesis peptide synthase PchE
+RQ  1
+EV  IPRXXXX; 2196;
+TG  GO:0042864;
+--
+SN  pchF
+ID  pyochelin biosynthesis peptide synthase PchF
+RQ  1
+EV  IPRXXXX; 2195;
+TG  GO:0042864;
+//

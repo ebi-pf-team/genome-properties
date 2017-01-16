@@ -1,0 +1,43 @@
+AC  GenProp0214
+DE  acetyl-CoA carboxylase complex
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  12121720
+RT  Multi-subunit acetyl-CoA carboxylases.
+RA  Cronan JE, Waldrop GL;
+RL  Prog Lipid Res. 2002;41:407-435.
+CC  This property describes the acetyl-CoA carboxylase complex, which
+CC  catalyzes the first committed step of fatty acid biosynthesis, the
+CC  carboxylation of acetyl-CoA to malonyl-CoA.  The four-subunit version
+CC  usually found in prokaryotes is described by this property.
+--
+SN  accA
+ID  acetyl-CoA carboxylase, carboxyl transferase, alpha subunit
+DN  acetyl-CoA carboxylase, carboxyl transferase, alpha subunit
+RQ  1
+EV  IPR001095; TIGR00513; sufficient;
+TG  GO:0009317;
+--
+SN  accB
+ID  acetyl-CoA carboxylase, biotin carboxyl carrier protein
+DN  acetyl-CoA carboxylase, biotin carboxyl carrier protein
+RQ  1
+EV  IPR001249; TIGR00531; sufficient;
+TG  GO:0009317;
+--
+SN  accC
+ID  acetyl-CoA carboxylase, biotin carboxylase
+DN  acetyl-CoA carboxylase, biotin carboxylase
+RQ  1
+EV  IPR004549; TIGR00514; sufficient;
+TG  GO:0009317;
+--
+SN  accD
+ID  acetyl-CoA carboxylase, carboxyl transferase, beta subunit
+DN  acetyl-CoA carboxylase, carboxyl transferase, beta subunit
+RQ  1
+EV  IPR000438; TIGR00515; sufficient;
+TG  GO:0009317;
+//

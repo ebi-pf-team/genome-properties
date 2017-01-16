@@ -1,0 +1,86 @@
+AC  GenProp0036
+DE  biotin biosynthesis
+TP  PATHWAY
+AU  Haft D
+TH  1
+DC  Biotin Metabolism
+DR  KEGG; map00780;
+CC  Biotin is an essential cofactor for many carboxylation (addition of
+CC  C02) reactions. This property reflects biosynthesis from pimeloyl-CoA.
+CC  The source of pimeloyl-CoA may vary. BioF (EC 2.3.1.47,
+CC  8-amino-7-oxononanoate synthase, also called 7-keto-8-aminopelargonic
+CC  acid synthetase) converts pimeloyl-CoA to 8-amino-7-oxononanoate. BioA
+CC  (EC 2.6.1.62, adenosylmethionine-8-amino-7-oxononanoate
+CC  aminotransferase) converts the product to 7,8-diaminononanoate, from
+CC  which BioD (EC 6.3.3.3, dethiobiotin synthase) makes dethiobiotin. BioB
+CC  (EC 2.8.1.6, biotin synthase) then makes biotin itself. Enzymes such as
+CC  BioH involved in pimeloyl-CoA biosynthesis typically receive
+CC  biotin-related annotations but may also appear in genomes in which
+CC  biotin is not synthesized and pimeloyl-CoA is used for something else.
+**  Enzymes involved in the production of pimeloyl-CoA may be designated
+**  bio(x) in some species, but pimelate does not necessarily lead to
+**  biotin.
+--
+SN  2
+ID  8-amino-7-oxononanoate synthase
+DN  8-amino-7-oxononanoate synthase (EC 2.3.1.47)
+RQ  1
+EV  IPR004723; TIGR00858; sufficient;
+TG  GO:0009102;
+--
+SN  3
+ID  adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+DN  adenosylmethionine-8-amino-7-oxononanoate aminotransferase (EC 2.6.1.62)
+RQ  1
+EV  IPR005815; TIGR00508; sufficient;
+TG  GO:0009102;
+--
+SN  4
+ID  dethiobiotin synthase
+DN  dethiobiotin synthase (EC 6.3.3.3)
+RQ  1
+EV  IPR004472; TIGR00347; sufficient;
+TG  GO:0009102;
+--
+SN  5
+ID  biotin synthase
+DN  biotin synthase (EC 2.8.1.6)
+RQ  1
+EV  IPR002684; TIGR00433; sufficient;
+TG  GO:0009102;
+--
+SN  bioC
+ID  BioC
+DN  biotin biosynthesis protein BioC
+RQ  0
+EV  IPR011814; TIGR02072; sufficient;
+TG  GO:0009102;
+--
+SN  bioH
+ID  bioH protein
+DN  carboxylesterase bioH protein (EC 3.1.1.1)
+RQ  0
+EV  IPR010076; TIGR01738; sufficient;
+TG  GO:0009102;
+--
+SN  bioY
+ID  BioY family protein
+DN  BioY family protein
+RQ  0
+EV  IPR003784; PF02632; sufficient;
+TG  GO:0009102;
+--
+SN  birA
+ID  biotin ligase domain protein
+DN  biotin-[acetyl-CoA-carboxylase] ligase (EC 6.3.4.15)
+RQ  0
+EV  IPR004408; TIGR00121; sufficient;
+TG  GO:0018065;
+--
+SN  represso
+ID  biotin repressor
+DN  biotin operon repressor
+RQ  0
+EV  IPR004409; TIGR00122; sufficient;
+TG  GO:0009102;
+//

@@ -1,0 +1,141 @@
+AC  GenProp0110
+DE  purine (inosine-5'-phosphate) biosynthesis from ribose-5-phosphate
+TP  PATHWAY
+AU  Haft D
+TH  4
+DC  Purine Biosynthesis (early stages)
+DR  IUBMB; misc; purine1;
+DC  Purine Biosynthesis (late stages)
+DR  IUBMB; misc; purine2;
+DC  Purine metabolism
+DR  KEGG; map00230;
+CC  Inosine-5-phosphate (IMP) is synthesized in a ten step pathway from
+CC  phosphoribosyl- pyrophosphate (PRPP) and is the precursor of all purine
+CC  nucleosides (adenosine,  guanosine, inosine and xanthosine).  The
+CC  purine ring is build from glutamine (2  nitrogens), glycine (2 carbons
+CC  and a nitrogen), 10-formyl-THF (2 carbons), carbon  dioxide (1 carbon)
+CC  and aspartate (1 nitrogen).  An intermediate, AICAR-P, is  formed
+CC  during the process of histidine biosynthesis in a 1:1 ratio with
+CC  histidine but this route is generally insufficient for fulfilling the
+CC  purine needs of a  dividing cell and is not considered _de novo_ purine
+CC  biosynthesis.
+--
+SN  0
+ID  ribose-phosphate pyrophosphokinase
+DN  ribose-phosphate diphosphokinase (EC 2.7.6.1)
+RQ  1
+EV  IPR005946; TIGR01251; sufficient;
+TG  GO:0006189;
+--
+SN  1
+ID  amidophosphoribosyltransferase
+DN  amidophosphoribosyltransferase (EC 2.4.2.14)
+RQ  1
+EV  IPR005854; TIGR01134; sufficient;
+TG  GO:0006189;
+--
+SN  10
+ID  IMP cyclohydrolase
+DN  IMP cyclohydrolase (EC 3.5.4.10)
+RQ  1
+EV  IPR002695; TIGR00355; sufficient;
+TG  GO:0006189;
+EV  IPR010191; TIGR01922; sufficient;
+TG  GO:0006189;
+EV  IPR002695; PF01808; sufficient;
+TG  GO:0006189;
+--
+SN  2
+ID  phosphoribosylamine--glycine ligase
+DN  phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+RQ  1
+EV  IPR000115; TIGR00877; sufficient;
+TG  GO:0006189;
+--
+SN  3
+ID  phosphoribosylglycinamide formyltransferase
+DN  phosphoribosylglycinamide formyltransferase (EC 2.1.2.-)
+RQ  1
+EV  IPR005862; TIGR01142; sufficient;
+TG  GO:0006189;
+EV  IPR004607; TIGR00639; sufficient;
+TG  GO:0006189;
+--
+SN  4A
+ID  phosphoribosylformylglycinamidine synthase I
+DN  phosphoribosylformylglycinamidine synthase I (EC 6.3.5.3)
+RQ  1
+EV  IPR010073; TIGR01735; sufficient;
+TG  GO:0006189;
+EV  IPR010075; TIGR01737; sufficient;
+TG  GO:0006189;
+EV  IPR010141; TIGR01857; sufficient;
+TG  GO:0006189;
+--
+SN  4B
+ID  phosphoribosylformylglycinamidine synthase II
+DN  phosphoribosylformylglycinamidine synthase II (EC 6.3.5.3)
+RQ  1
+EV  IPR010073; TIGR01735; sufficient;
+TG  GO:0006189;
+EV  IPR010074; TIGR01736; sufficient;
+TG  GO:0006189;
+EV  IPR010141; TIGR01857; sufficient;
+TG  GO:0006189;
+--
+SN  4C
+ID  phosphoribosylformylglycinamidine synthase III
+RQ  0
+EV  IPR010073; TIGR01735; sufficient;
+TG  GO:0006189;
+EV  IPR003850; TIGR00302; sufficient;
+TG  GO:0006189;
+EV  IPR010141; TIGR01857; sufficient;
+TG  GO:0006189;
+--
+SN  5
+ID  phosphoribosylformylglycinamidine cyclo-ligase
+DN  phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+RQ  1
+EV  IPR004733; TIGR00878; sufficient;
+TG  GO:0006189;
+--
+SN  6A
+ID  phosphoribosylaminoimidazole carboxylase, catalytic subunit
+DN  phosphoribosylaminoimidazole carboxylase, catalytic subunit (EC 4.1.1.21)
+RQ  1
+EV  IPR000031; TIGR01162; sufficient;
+TG  GO:0006189;
+--
+SN  6B
+ID  phosphoribosylaminoimidazole carboxylase, ATPase subunit
+DN  phosphoribosylaminoimidazole carboxylase, ATPase subunit (EC 4.1.1.21)
+RQ  0
+EV  IPR005875; TIGR01161; sufficient;
+TG  GO:0006189;
+--
+SN  7
+ID  phosphoribosylaminoimidazole-succinocarboxamide synthase
+DN  phosphoribosylaminoimidazolesuccinocarboxamide synthase (EC 6.3.2.6)
+RQ  1
+EV  IPR001636; TIGR00081; sufficient;
+TG  GO:0006189;
+EV  IPR014106; TIGR02735; sufficient;
+TG  GO:0006189;
+--
+SN  8
+ID  adenylosuccinate lyase
+DN  adenylosuccinate lyase (EC 4.3.2.2)
+RQ  1
+EV  IPR004769; TIGR00928; sufficient;
+TG  GO:0006189;
+--
+SN  9
+ID  phosphoribosylaminoimidazolecarboxamide formyltransferase
+DN  phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase (EC 2.1.2.3 3.5.4.10)
+RQ  0
+EV  IPR002695; TIGR00355; sufficient;
+TG  GO:0006189;
+EV  IPR002695; PF01808; sufficient;
+TG  GO:0006189;
+//

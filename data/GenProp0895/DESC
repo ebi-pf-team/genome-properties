@@ -1,0 +1,40 @@
+AC  GenProp0895
+DE  alcohol ABC transporter, PedABC-type
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  18177365
+RT  Genetic analyses and molecular characterization of the pathways
+RT  involved in the conversion of 2-phenylethylamine and 2-phenylethanol
+RT  into phenylacetic acid in Pseudomonas putida U.
+RA  Arias S, Olivera ER, Arcos M, Naharro G, Luengo JM;
+RL  Environ Microbiol. 2008;10:413-432.
+CC  A conserved four-gene operon, found regularly in genomes with PQQ
+CC  biosynthesis and with PQQ-dependent enzymes for catabolism of various
+CC  alcohols, appears to represent an alcohol import ABC transporter. This
+CC  conclusion is based partly on recognizing one member of the operon as a
+CC  likely periplasmic substrate-binding protein. An earlier view
+CC  (PMID:18177365) imagines this system to be an efflux transporter for
+CC  removal of toxic intermediates during catabolism.
+--
+SN  PQQbind
+ID  alcohol ABC transporter, substrate-binding subunit
+RQ  1
+EV  IPR022478; TIGR03863;
+--
+SN  PQQpedA
+ID  alcohol ABC transporter, beta-propeller protein
+RQ  1
+EV  IPR022456; TIGR03866;
+--
+SN  PQQpedB
+ID  alcohol ABC transporter, ATP-binding subunit
+RQ  1
+EV  IPR022467; TIGR03864;
+--
+SN  PQQpedC
+ID  alcohol ABC transporter, permease subunit
+RQ  1
+EV  IPR022403; TIGR03861;
+//

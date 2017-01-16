@@ -1,0 +1,148 @@
+AC  GenProp0175
+DE  ribosome, bacterial, small subunit
+TP  SYSTEM
+AU  Haft D
+TH  8
+RN  [1]
+RM  24524803
+RT  A new system for naming ribosomal proteins.
+RA  Ban N, Beckmann R, Cate JH, Dinman JD, Dragon F, Ellis SR, Lafontaine
+RA  DL, Lindahl L, Liljas A, Lipton JM, McAlear MA, Moore PB, Noller HF,
+RA  Ortega J, Panse VG, Ramakrishnan V, Spahn CM, Steitz TA, Tchorzewski M,
+RA  Tollervey D, Warren AJ, Williamson JR, Wilson D, Yonath A, Yusupov M;
+RL  Curr Opin Struct Biol. 2014;24:165-169.
+CC  Ribosome, bacterial, small subunit. This property allows HMMs specific
+CC  for ribosomal proteins to be tested in phylogenetic profiles
+**  A work in progress
+--
+SN  bS1
+ID  S1
+DN  ribosomal protein S1
+RQ  0
+EV  IPR000110; TIGR00717; sufficient;
+--
+SN  bS16
+ID  S16
+DN  ribosomal protein S16
+RQ  1
+EV  IPR000307; TIGR00002; sufficient;
+--
+SN  bS18
+ID  S18
+DN  ribosomal protein S18
+RQ  1
+EV  IPR001648; TIGR00165; sufficient;
+--
+SN  bS20
+ID  S20
+DN  ribosomal protein S20
+RQ  1
+EV  IPR002583; TIGR00029; sufficient;
+--
+SN  bS21
+ID  S21
+DN  ribosomal protein S21
+RQ  0
+EV  IPR001911; TIGR00030; sufficient;
+--
+SN  bS6
+ID  S6
+DN  ribosomal protein S6
+RQ  1
+EV  IPR000529; TIGR00166; sufficient;
+--
+SN  bTHX
+ID  THX
+RQ  0
+EV  IPR030826; TIGR04560;
+--
+SN  uS10
+ID  S10
+DN  ribosomal protein S10
+RQ  1
+EV  IPR001848; TIGR01049; sufficient;
+--
+SN  uS11
+ID  S11
+DN  ribosomal protein S11
+RQ  1
+EV  IPR001971; PF00411; sufficient;
+--
+SN  uS12
+ID  S12
+DN  ribosomal protein S12
+RQ  1
+EV  IPR005679; TIGR00981; sufficient;
+--
+SN  uS13
+ID  S13
+DN  ribosomal protein S13
+RQ  1
+EV  IPR001892; PF00416; sufficient;
+--
+SN  uS14
+ID  S14
+DN  ribosomal protein S14
+RQ  1
+EV  IPR001209; PF00253; sufficient;
+--
+SN  uS15
+ID  S15
+DN  ribosomal protein S15
+RQ  1
+EV  IPR005290; TIGR00952; sufficient;
+--
+SN  uS17
+ID  S17
+DN  ribosomal protein S17
+RQ  1
+EV  IPR000266; PF00366; sufficient;
+--
+SN  uS19
+ID  S19
+DN  ribosomal protein S19
+RQ  1
+EV  IPR005732; TIGR01050; sufficient;
+--
+SN  uS2
+ID  S2
+DN  ribosomal protein S2
+RQ  1
+EV  IPR005706; TIGR01011; sufficient;
+--
+SN  uS3
+ID  S3
+DN  ribosomal protein S3
+RQ  1
+EV  IPR005704; TIGR01009; sufficient;
+--
+SN  uS4
+ID  S4
+DN  ribosomal protein S4
+RQ  1
+EV  IPR005709; TIGR01017; sufficient;
+--
+SN  uS5
+ID  S5
+DN  ribosomal protein S5
+RQ  1
+EV  IPR005712; TIGR01021; sufficient;
+--
+SN  uS7
+ID  S7
+DN  ribosomal protein S7
+RQ  1
+EV  IPR005717; TIGR01029; sufficient;
+--
+SN  uS8
+ID  S8
+DN  ribosomal protein S8
+RQ  1
+EV  IPR000630; PF00410; sufficient;
+--
+SN  uS9
+ID  S9
+DN  ribosomal protein S9
+RQ  1
+EV  IPR000754; PF00380; sufficient;
+//

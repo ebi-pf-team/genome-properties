@@ -1,0 +1,119 @@
+AC  GenProp0231
+DE  4-hydroxyphenylacetate degradation
+TP  PATHWAY
+AU  Haft D
+TH  3
+RN  [1]
+RM  11729263
+RT  Biodegradation of aromatic compounds by Escherichia coli.
+RA  Díaz E, Ferrández A, Prieto MA, García JL;
+RL  Microbiol Mol Biol Rev. 2001;65:523-69, table of contents.
+DC  Tyrosine metabolism - reference pathway
+DR  KEGG; map00350;
+CC  4-hydroxyphenylacetic acid, a degradation product of tyrosine via one
+CC  of several routes, of phenylalanine via phenylacetate, and of
+CC  environmental DDT is metabolized in this pathway to the common
+CC  metabolites succinate and pyruvate via homoprotocatechuate. 
+CC  4-hydroxyphenylacetic acid may also be found in the environment and
+CC  transported into the cell.  The genes encoding the components of this
+CC  pathway are often organized into apparent operons which include
+CC  regulatory elements as well as a variety of transport systems.  A
+CC  number of genomes show partial evidence of the pathway based on
+CC  homologs of the well-characterized enzymes from other species.  Often,
+CC  promising candidates for the missing steps are found in the vicinity. 
+CC  These are suggestive of enzymes which have been adapted from ancestral
+CC  sequences having a different function.  Of course, the possibility
+CC  exists that it is the entire pathway that has been modified in these
+CC  species and it is other structurally related compounds that are being
+CC  metabolized instead of 4-hydroxyphenylacetic acid.
+**  Note the first use here of a step for disrupted reading frames to hold
+**  the feat_names of those things marked as FRAMESHIFT or POINT_MUTATION
+**  in other steps.
+--
+SN  DISRPT
+ID  APPARENT DISRUPTED READING FRAMES
+RQ  0
+--
+SN  SSDH
+ID  succinate-semialdehyde dehydrogenase
+RQ  1
+EV  IPR010102; TIGR01780; sufficient;
+--
+SN  hpaA
+ID  regulatory protein, HpaA
+RQ  0
+EV  IPR011983; TIGR02297; sufficient;
+TG  GO:0009894;
+--
+SN  hpaB
+ID  4-hydroxyphenylacetate 3-monooxygenase, large subunit
+RQ  1
+EV  IPR012687; TIGR02309; sufficient;
+TG  GO:0042537;
+EV  IPR012688; TIGR02310; sufficient;
+TG  GO:0042537;
+--
+SN  hpaC
+ID  4-hydroxyphenylacetate 3-monooxygenase, small subunit
+RQ  1
+EV  IPR011982; TIGR02296; sufficient;
+TG  GO:0042537;
+--
+SN  hpaD
+ID  3,4-dihydroxyphenylacetate 2,3-dioxygenase (1.13.11.15)
+RQ  1
+EV  IPR011981; TIGR02295; sufficient;
+TG  GO:0042537;
+EV  IPR011984; TIGR02298; sufficient;
+TG  GO:0042537;
+--
+SN  hpaE
+ID  5-carboxymethyl-2-hydroxymuconic-semialdehyde dehydrogenase (1.2.1.60)
+RQ  1
+EV  IPR011985; TIGR02299; sufficient;
+TG  GO:0042537;
+--
+SN  hpaF
+ID  5-carboxymethyl-2-hydroxymuconate delta-isomerase (5.3.3.10)
+RQ  1
+EV  IPR004220; PF02962; sufficient;
+TG  GO:0042537;
+--
+SN  hpaG-C
+ID  bifunctional decarboxylase/isomerase, C-terminal
+RQ  1
+EV  IPR012684; TIGR02303; sufficient;
+TG  GO:0042537;
+--
+SN  hpaG-N
+ID  bifunctional decarboxylase/isomerase, N-terminal
+RQ  1
+EV  IPR012686; TIGR02305; sufficient;
+TG  GO:0042537;
+--
+SN  hpaH
+ID  2-oxo-hepta-3-ene-1,7-dioate hydratase
+RQ  1
+EV  IPR012690; TIGR02312; sufficient;
+TG  GO:0042537;
+--
+SN  hpaI
+ID  2,4-dihydroxyhept-2-ene-1,7-dioic acid aldolase
+RQ  1
+EV  IPR012689; TIGR02311; sufficient;
+TG  GO:0042537;
+EV  IPR012691; TIGR02313; sufficient;
+TG  GO:0042537;
+--
+SN  hpaR
+ID  regulatory protein, HpaR
+RQ  0
+EV  IPR012712; TIGR02337; sufficient;
+TG  GO:0009894;
+--
+SN  trnsprt
+ID  probable 4-hydroxyphenylacetate transporters
+RQ  0
+EV  IPR012707; TIGR02332; sufficient;
+TG  GO:0046942;
+//

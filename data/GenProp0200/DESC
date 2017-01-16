@@ -1,0 +1,112 @@
+AC  GenProp0200
+DE  periplasmic nitrate reductase
+TP  SYSTEM
+AU  Haft D
+TH  1
+RN  [1]
+RM  11450112
+RT  Nitrate reduction in the periplasm of gram-negative bacteria.
+RA  Potter L, Angove H, Richardson D, Cole J;
+RL  Adv Microb Physiol. 2001;45:51-112.
+RN  [2]
+RM  12823811
+RT  Electron transport to periplasmic nitrate reductase (NapA) of Wolinella
+RT  succinogenes is independent of a NapC protein.
+RA  Simon J, Sänger M, Schuster SC, Gross R;
+RL  Mol Microbiol. 2003;49:69-79.
+RN  [3]
+RM  14674886
+RT  NapGH components of the periplasmic nitrate reductase of Escherichia
+RT  coli K-12: location, topology and physiological roles in quinol
+RT  oxidation and redox balancing.
+RA  Brondijk TH, Nilavongse A, Filenko N, Richardson DJ, Cole JA;
+RL  Biochem J. 2004;379:47-55.
+RN  [4]
+RM  17901208
+RT  Structural diversity in twin-arginine signal peptide-binding proteins.
+RA  Maillard J, Spronk CA, Buchanan G, Lyall V, Richardson DJ, Palmer T,
+RA  Vuister GW, Sargent F;
+RL  Proc Natl Acad Sci U S A. 2007;104:15641-15646.
+DC  Nitrogen metabolism
+DR  KEGG; map00910;
+CC  Denitrifying bacteria reduce nitrate via three distinct nitrate
+CC  reductase systems. Two of these are assciated with energy-conserving
+CC  electron transport systems, distinguished by cellular location and
+CC  generation of a proton motive force, and the other with nitrate
+CC  assimilation. All three types involve binding of molybdopterin to the
+CC  active site of nitrate reductase where reduction occurs. Unlike
+CC  membrane-associated nitrate reductases, periplasmic nitrate reductase
+CC  cannot itself act as a coupling site for proton translocation, but can
+CC  participate indirectly in respiration by virtue of the consumption of
+CC  electrons derived from NADH via the proton translocating NADH
+CC  dehydrogenase. Expressed aerobically as well as anearobically in
+CC  gram-negative bacteria, periplasmic nitrate reductase is a two-subunit
+CC  enzyme comprised of a catalytic subunit binding molybdopterin and
+CC  containing a twin-arginine signal motif, and a cytochrome subunit,
+CC  whose redox partner is a membrane-bound electron transfer protein.
+CC  Other essential components for this denitrifying system include a
+CC  proposed chaperone, and at least five other components identified in
+CC  different combinations in different bacteria [1]. Lacking the
+CC  membrane-bound c-type cytochrome component, in Wolinella succinogenes
+CC  electron transport to nitrate reductase from one or more of these other
+CC  gene products has been demonstrated [2].
+**  In E. coli, a 7-gene operon (no NapE). NapGH is required in strains
+**  deficient in naphthoquinone synthesis, and in vitro work shows quinol
+**  dehydrogenase role.
+--
+SN  NapA
+ID  periplasmic nitrate reductase, large subunit
+DN  nitrate reductase (EC:1.7.99.4)
+RQ  1
+EV  IPR010051; TIGR01706; sufficient;
+TG  GO:0042126;
+--
+SN  NapB
+ID  nitrate reductase cytochrome c-type subunit
+DN  periplasmic nitrate reductase, diheme cytochrome c subunit
+RQ  1
+EV  IPR005591; PF03892; sufficient;
+TG  GO:0042126;
+--
+SN  NapC
+ID  NapC electron transfer protein
+DN  periplasmic nitrate (or nitrite) reductase C-type cytochrome,NapC/NirT family
+RQ  1
+EV  IPR011885; TIGR02161; sufficient;
+TG  GO:0042126;
+--
+SN  NapD
+ID  TAT signal chaperone NapD
+DN  periplasmic nitrate reductase NapD
+RQ  1
+EV  IPR005623; PF03927; sufficient;
+TG  GO:0042126;
+--
+SN  NapE
+ID  periplasmic nitrate reductase, NapE
+DN  periplasmic nitrate reductase NapE
+RQ  0
+EV  IPR004448; TIGR02973; sufficient;
+TG  GO:0042126;
+--
+SN  NapF
+ID  ferredoxin - type protein NapF
+DN  ferredoxin-type protein NapF
+RQ  0
+EV  IPR004496; TIGR00402; sufficient;
+TG  GO:0042126;
+--
+SN  NapG
+ID  periplasmic nitrate reductase, NapG subunit
+DN  ferredoxin-type protein NapG
+RQ  0
+EV  IPRXXXX; 2263;
+TG  GO:0042126;
+--
+SN  NapH
+ID  periplasmic nitrate reductase, NapH subunit
+DN  ferredoxin-type protein NapH
+RQ  0
+EV  IPRXXXX; 2262;
+TG  GO:0042126;
+//

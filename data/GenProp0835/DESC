@@ -1,0 +1,29 @@
+AC  GenProp0835
+DE  ATP-dependent protease HslVU
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  9288941
+RT  The heat-shock protein HslVU from Escherichia coli is a
+RT  protein-activated ATPase as well as an ATP-dependent proteinase.
+RA  Seol JH, Yoo SJ, Shin DH, Shim YK, Kang MS, Goldberg AL, Chung CH;
+RL  Eur J Biochem. 1997;247:1143-1150.
+CC  HslVU, also known as ClpQY, is an ATP-dependent protease that resembles
+CC  proteasomes. The ATPase HslU acts in protein unfolding, while the
+CC  threonine-type endopeptidase HslV is homologous to the proteasome beta
+CC  subunit and acts in protein degradation. Members of this family
+CC  frequently are described as heat shock proteins.
+--
+SN  hslU
+ID  ATP-dependent protease HslVU, ATPase subunit
+RQ  1
+EV  IPR004491; TIGR00390;
+TG  GO:0006510;
+--
+SN  hslV
+ID  ATP-dependent protease HslVU, peptidase subunit
+RQ  1
+EV  IPR022281; TIGR03692;
+TG  GO:0006510;
+//

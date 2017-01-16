@@ -1,0 +1,37 @@
+AC  GenProp0562
+DE  formaldehyde detoxification, glutathione-dependent
+TP  PATHWAY
+AU  Haft D
+TH  0
+CC  Formaldehyde, a toxic metabolite because it reacts easily with protein
+CC  or DNA, naturally combines with reduced glutathione (GSH) to form
+CC  S-hydroxymethyl-glutathione. In some species, this reaction is
+CC  accelerated by the enzyme  S-(hydroxymethyl)glutathione synthase, also
+CC  called glutathione-dependent formaldehyde activating enzyme. A class
+CC  III alcohol dehydrogenase, with activity for a variety of medium chain
+CC  alcohols (but poor activity for ethanol) can convert
+CC  S-(hydroxymethyl)glutathione to S-formylglutathione, and therefore has
+CC  been called glutathione-dependent formaldehyde dehydrogenase but is
+CC  more properly called S-(hydroxymethyl)glutathione dehydrogenase for
+CC  this activity. Finally, S-formylglutathione is converted to glutathione
+CC  and formate by S-formylglutathione hydrolase, which has a dual role as
+CC  a broadly specific esterase, called esterase D in animals. While the
+CC  two essential enzymes of this pathway both have broad specificities,
+CC  the pairing in operons in so many genomes demonstrates the recurring
+CC  importance of formaldehyde detoxification.
+--
+SN  add_GSH
+ID  S-(hydroxymethyl)glutathione synthase
+RQ  0
+EV  IPR014185; TIGR02820; sufficient;
+--
+SN  cleave
+ID  S-formylglutathione hydrolase
+RQ  1
+EV  IPR014186; TIGR02821; sufficient;
+--
+SN  oxidize
+ID  S-(hydroxymethyl)glutathione dehydrogenase
+RQ  1
+EV  IPR014183; TIGR02818; sufficient;
+//

@@ -1,0 +1,75 @@
+AC  GenProp1049
+DE  O1(Ec) antigen biosynthesis
+TP  METAPATH
+AU  Haft D
+TH  0
+RN  [1]
+RM  1773429
+RT  Structural studies of the Escherichia coli O1A O-polysaccharide, using
+RT  the computer program CASPER.
+RA  Baumann H, Jansson PE, Kenne L, Widmalm G;
+RL  Carbohydr Res. 1991;211:183-190.
+RN  [2]
+RM  1281148
+RT  Structures of the O1B and O1C lipopolysaccharide antigens of
+RT  Escherichia coli.
+RA  Gupta DS, Shashkov AS, Jann B, Jann K;
+RL  J Bacteriol. 1992;174:7963-7970.
+CC  The E. coli O1A antigen is a branched pentasaccharide with the
+CC  structure
+CC  [->3)aLRha{(2<-1)bDManNAc}(1->3)aLRha(1->3)bLRha(1->4)bDGlcNAc(1->]
+CC  [1]. A structure with different boundaries for the repeating unit was
+CC  reported [http://dx.doi.org/10.1016/0144-8617(92)90187-U], but is less
+CC  likely considering the genomic evidence (the lack of a candidate GlcNAc
+CC  transferase) and the propensity for a GlcNAc residue to be the final
+CC  one in the monomer structure of many E. coli O-antigens. Slightly
+CC  different structures have been reported for the O1B and O1C variants
+CC  [2]. It has been suggested that the epitopic commonality is related to
+CC  the branching ManNAc group [3]. The genomic data for this property
+CC  derived from the APEC O1 strain, for which a detailed sub-typing is not
+CC  available. Confusing matters further, the two genes which should be
+CC  responsible for the pendant ManNAc group (WecB and a putative
+CC  N-acetyl-D-mannosyltransferase) appear to be disrupted by single
+CC  frameshifts in this genome (and both were excluded from the GenBank
+CC  record). To determine rules for these two genes, the reconstructed
+CC  whole genes were used as references. Although there are three
+CC  rhamnosyltransferase-dependent linkages expected in the O1 structures,
+CC  only two ramnosyltransferase genes are observed. Two of these linkaged
+CC  are essentially identical and could easily be catalyzed by the same
+CC  enzyme.
+--
+SN  D-ManNAc
+ID  source of N-acetyl-D-mannosamine
+RQ  1
+EV  GenProp0975;
+--
+SN  GT-1
+ID  putative D-ManNAc transferase
+RQ  1
+EV  IPRXXXX; 2948;
+--
+SN  GT-2
+ID  O1(Ec)-associated L-rhamnose transferase
+RQ  1
+EV  IPRXXXX; 2946;
+--
+SN  GT-3
+ID  O1(Ec)-associated L-rhamnose transferase
+RQ  1
+EV  IPRXXXX; 2945;
+--
+SN  L-Rha
+ID  source of L-rhamnose
+RQ  1
+EV  GenProp0183;
+--
+SN  wzx01
+ID  O1(Ec)-antigen transporter (flippase) wzx
+RQ  1
+EV  IPRXXXX; 2949;
+--
+SN  wzy01
+ID  O1(Ec)-antigen polymerase wzy
+RQ  1
+EV  IPRXXXX; 2947;
+//

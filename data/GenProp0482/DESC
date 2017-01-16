@@ -1,0 +1,50 @@
+AC  GenProp0482
+DE  6S RNA (eubacterial RNA polymerase regulator)
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  15811922
+RT  6S RNA is a widespread regulator of eubacterial RNA polymerase that
+RT  resembles an open promoter.
+RA  Barrick JE, Sudarsan N, Weinberg Z, Ruzzo WL, Breaker RR;
+RL  RNA. 2005;11:774-784.
+RN  [2]
+RM  15814812
+RT  Experimental RNomics in Aquifex aeolicus: identification of small
+RT  non-coding RNAs and the putative 6S RNA homolog.
+RA  Willkomm DK, Minnerup J, Hüttenhofer A, Hartmann RK;
+RL  Nucleic Acids Res. 2005;33:1949-1960.
+RN  [3]
+RM  16707685
+RT  6S RNA regulation of pspF transcription leads to altered cell survival
+RT  at high pH.
+RA  Trotochaud AE, Wassarman KM;
+RL  J Bacteriol. 2006;188:3936-3943.
+CC  6S RNA is a structural RNA widely distributed in bacteria. It is
+CC  considered non-coding, but in many Proteobacteria such as Escherichia
+CC  coli its ssrS gene is cotranscribed with ygfA, a putative
+CC  methenyltetrahydrofolate synthetase gene found immediately downstream.
+CC  6S RNA functions by binding to the sigma-70 RNA polymerase holoenzyme
+CC  during stationary phase and suppressing transcription from a subset of
+CC  sigma-70-dependent promoters. In alpha- and gamma-proteobacteria, the
+CC  ygfA gene, encoding a putative methylenetetrahydrofolate synthetase,
+CC  regularly is found immediately downstream of ssrS in a conserved
+CC  operon. While the meaning of this association is unclear, other than
+CC  coordination in gene expression, ygfA is included as an optional
+CC  element for this genome property.
+**  The endpoints of our prediction for the 6S RNA gene will be taken as
+**  the extent of the gene. Also, a decision is PENDING on whether a 6S
+**  will count if, as in Bacillus, it is a second 6S and has inverse
+**  regulation.  WE NEED to update property, then DO PARTIAL PHYLOGENETIC
+**  PROFILING. DHH.
+--
+SN  6S
+ID  6S structural RNA
+RQ  1
+--
+SN  ygfA
+ID  ygfA linked gene
+RQ  0
+EV  IPRXXXX; TIGR02727;
+//

@@ -1,0 +1,43 @@
+AC  GenProp0962
+DE  methanobactin biosynthesis, Mb-OB3b family
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  20961038
+RT  A comparison of methanobactins from Methylosinus trichosporium OB3b and
+RT  Methylocystis strain Sb2 predicts methanobactins are synthesized from
+RT  diverse peptide precursors modified to create a common core for binding
+RT  and reducing copper ions.
+RA  Krentz BD, Mulheron HJ, Semrau JD, Dispirito AA, Bandow NL, Haft DH,
+RA  Vuilleumier S, Murrell JC, McEllistrem MT, Hartsel SC, Gallagher WH;
+RL  Biochemistry. 2010;49:10117-10130.
+CC  Methanobactins are siderophore-like copper chelators. The charter
+CC  member for this Genome Property is Methylosinus trichosporium OB3b, in
+CC  which the methanobactin is made from a 30-residue ribosomally
+CC  translated precursor. The only other system known so far is in
+CC  Azospirillum sp. B510. Protein families TIGR04039, TIGR04052, and
+CC  TIGR04061 contain proteins in which the Methylosinus and Azospirillum
+CC  are mutually the best hits among all genomes, suggesting they act in
+CC  the methanobactin system.
+**  See TIGR04039 plus TIGR04052 = GenProp0940  metallo-mystery pair. See
+**  TIGR04061 = AZL_007950_fam.
+--
+SN  mbnA
+ID  methanobactin precursor, Mb-OB3b family
+RQ  1
+EV  IPR023963; TIGR04071;
+TG  GO:0015677;
+--
+SN  mbnB
+ID  methanobactin biosynthesis cassette protein MbnB
+RQ  1
+EV  IPR026431; TIGR04159;
+TG  GO:0015677;
+--
+SN  mbnC
+ID  methanobactin biosynthesis cassette protein MbnC
+RQ  1
+EV  IPR026434; TIGR04160;
+TG  GO:0015677;
+//

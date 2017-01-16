@@ -1,0 +1,44 @@
+AC  GenProp0848
+DE  actin-based motility of invasive bacteria
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  15694855
+RT  Actin-based motility of intracellular pathogens.
+RA  Gouin E, Welch MD, Cossart P;
+RL  Curr Opin Microbiol. 2005;8:35-45.
+RN  [2]
+RM  16415925
+RT  Actin-dependent movement of bacterial pathogens.
+RA  Stevens JM, Galyov EE, Stevens MP;
+RL  Nat Rev Microbiol. 2006;4:91-101.
+RN  [3]
+RM  8748026
+RT  The unrelated surface proteins ActA of Listeria monocytogenes and IcsA
+RT  of Shigella flexneri are sufficient to confer actin-based motility on
+RT  Listeria innocua and Escherichia coli respectively.
+RA  Kocks C, Marchand JB, Gouin E, d'Hauteville H, Sansonetti PJ, Carlier
+RA  MF, Cossart P;
+RL  Mol Microbiol. 1995;18:413-423.
+CC  Actin-based motility is the process by which a bacterial pathogen uses
+CC  host cell actin dynamics to achieve movement within or between cells.
+CC  Bacteria known to have this capacity include Mycobacterium marinum,
+CC  Burkholderia pseudomallei, and and Listeria, Rickettsia, and Shigella
+CC  species. Proteins responsible for actin-dependent movement in different
+CC  species share actin-binding function but may have no sequence homology
+CC  from one to another.
+**  Beware the incompleteness of signatures for detecting. Listeria ActA is
+**  PF05058. Have ActA, IcsA, BimA, but not the one from Mycobacterium
+**  marinum. DHH.
+--
+SN  actin
+ID  actin-based motility protein
+RQ  1
+EV  IPR007752; PF05058;
+TG  GO:0070358;
+EV  IPRXXXX; 2401;
+TG  GO:0070358;
+EV  IPRXXXX; 2371;
+TG  GO:0070358;
+//

@@ -1,0 +1,100 @@
+AC  GenProp0485
+DE  F and P-type conjugation systems (type IV secretion), common components
+TP  SYSTEM
+AU  Haft D
+TH  1
+CC  Both the F-type (F factor like) and P-type (Ti plasmid like)
+CC  conjucation systems use a core set of structures for the elaboration of
+CC  a conjugative pilus.  Components specific to these two systems are
+CC  found in related Genome Properties.
+--
+SN  IGNORE
+ID  checked, decided not to include
+RQ  0
+--
+SN  TraA
+ID  pilin, TraA/TrbC/VirB2
+RQ  1
+EV  IPR008873; PF05513; sufficient;
+TG  GO:0009291;
+EV  IPR008873; TIGR02758; sufficient;
+TG  GO:0009291;
+EV  IPR007039; PF04956; sufficient;
+TG  GO:0009291;
+--
+SN  TraB
+ID  T4SS protein TraB/TrbI/VirB10
+RQ  1
+EV  IPRXXXX; PF06447; sufficient;
+TG  GO:0009291;
+EV  IPR005498; PF03743; sufficient;
+TG  GO:0009291;
+--
+SN  TraC
+ID  ATPase, TraC/TrbE/VirB4
+RQ  1
+EV  IPR014117; TIGR02746; sufficient;
+TG  GO:0009291;
+EV  IPR004346; TIGR00929; sufficient;
+TG  GO:0009291;
+EV  IPR018145; PF03135; sufficient;
+TG  GO:0009291;
+--
+SN  TraD
+ID  coupling factor, DNA-pumping ATPase TraD
+RQ  1
+EV  IPR014128; TIGR02759; sufficient;
+TG  GO:0009291;
+--
+SN  TraE
+ID  T4SS protein TraE/TrbJ/VirB5
+RQ  1
+EV  IPR007973; PF05309; sufficient;
+TG  GO:0009291;
+EV  IPR007973; TIGR02761; sufficient;
+TG  GO:0009291;
+EV  IPR014147; TIGR02780; sufficient;
+TG  GO:0009291;
+EV  IPR014158; TIGR02791; sufficient;
+TG  GO:0009291;
+--
+SN  TraG
+ID  mate-pair stab. TraG/TrbL/VirB6
+RQ  1
+EV  IPR012931; PF07916; sufficient;
+TG  GO:0009291;
+EV  IPR007688; PF04610; sufficient;
+TG  GO:0009291;
+EV  IPR014150; TIGR02783; sufficient;
+TG  GO:0009291;
+--
+SN  TraK
+ID  T4SS protein TraK/TrbG/VirB9
+RQ  1
+EV  IPR010563; PF06586; sufficient;
+TG  GO:0009291;
+EV  IPR014126; TIGR02756; sufficient;
+TG  GO:0009291;
+EV  IPR014142; TIGR02775; sufficient;
+TG  GO:0009291;
+EV  IPR014148; TIGR02781; sufficient;
+TG  GO:0009291;
+--
+SN  TraL
+ID  T4SS protein TraL/TrbD/VirB3
+RQ  1
+EV  IPR009838; PF07178; sufficient;
+TG  GO:0009291;
+EV  IPR009838; TIGR02762; sufficient;
+TG  GO:0009291;
+EV  IPRXXXX; PF05245; sufficient;
+TG  GO:0009291;
+EV  IPR007792; PF05101; sufficient;
+TG  GO:0009291;
+--
+SN  TraV
+ID  T4SS protein TraV/TrbH/VirB7
+RQ  1
+EV  IPR014118; TIGR02747; sufficient;
+TG  GO:0009291;
+//

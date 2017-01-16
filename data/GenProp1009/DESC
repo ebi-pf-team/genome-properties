@@ -1,0 +1,99 @@
+AC  GenProp1009
+DE  coronavirus protein set
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  A coronavirus is an unsegmented ssRNA positive-strand enveloped virus
+CC  with no DNA stage. A -1 frameshift can occur in production of the
+CC  replicase polyprotein.
+**  starting with 11714968 (open access), bovine coronavirus, 31028
+**  nucleotides and 13 ORFs, as short as 29 residues. PF02710 hits a region
+**  inside PF03996. Spike glycoproteins S1 and S2 fusion is cleaved.
+**  ribosomal_slippage in replicase gene.  PF08716 nsp7 needs rebuild.
+**  PF01661 macro domain (ADP-ribose binding) in replicase polyprotein.
+--
+SN  NS3_envE
+ID  nonstructural protein NS3/small envelope
+RQ  1
+EV  IPR003873; PF02723;
+--
+SN  NSP1
+ID  coronavirus nonstructural protein NS1
+RQ  0
+EV  IPR009314; PF06145;
+--
+SN  NSP10
+ID  replicase polyprotein NSP10 region
+RQ  1
+EV  IPR018995; PF09401;
+--
+SN  NSP11
+ID  coronavirus replicase polyprotein NSP11 region
+RQ  1
+EV  IPR009466; PF06471;
+--
+SN  NSP13
+ID  replicase polyprotein NSP13 region
+RQ  1
+EV  IPR009461; PF06460;
+--
+SN  NSP2
+ID  coronavirus nonstructural protein NS2
+RQ  1
+EV  IPR006841; PF04753;
+--
+SN  NSP3
+ID  main protease
+RQ  1
+EV  IPR008740; PF05409;
+--
+SN  NSP7
+ID  replicase polyprotein NSP7 region
+RQ  1
+EV  IPR014828; PF08716;
+--
+SN  NSP8
+ID  replicase polyprotein NSP8 region
+RQ  1
+EV  IPR014829; PF08717;
+--
+SN  NSP9
+ID  replicase polyprotein NSP9 region
+RQ  1
+EV  IPR014822; PF08710;
+--
+SN  PLpro
+ID  papain-like protease
+RQ  1
+EV  IPR014827; PF08715;
+--
+SN  RNA_pol
+ID  RNA-directed RNA Polymerase (N-terminal region)
+RQ  1
+EV  IPR009469; PF06478;
+--
+SN  coron_M
+ID  coronavirus M matrix/glycoprotein
+RQ  1
+EV  IPR002574; PF01635;
+--
+SN  ncaps_I
+ID  corona nucleocapsid I protein
+RQ  1
+EV  IPR004876; PF03187;
+--
+SN  ncapsid
+ID  coronavirus nucleocapsid protein
+RQ  1
+EV  IPR001218; PF00937;
+--
+SN  spi_S1
+ID  coronavirus S1 glycoprotein
+RQ  0
+EV  IPR002551; PF01600;
+--
+SN  spi_S2
+ID  coronavirus S2 glycoprotein
+RQ  1
+EV  IPR002552; PF01601;
+//

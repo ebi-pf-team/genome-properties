@@ -1,0 +1,18 @@
+AC  GenProp1050
+DE  dTDP-3-acetamido-3,6-dideoxy-D-glucose (D-Qui3NAc) biosynthesis from
+DE  dTDP-3-amino-3,6-dideoxy-D-glucose (Qui3N)
+TP  METAPATH
+AU  Haft D
+TH  0
+CC  D-Qui3NAc is found as a component of the E. coli O5 and O65 antigens.
+--
+SN  DQui3N
+ID  source of D-Qui3N
+RQ  1
+EV  GenProp1015;
+--
+SN  QdtC
+ID  D-Qui3N 3-N-acetyltransferase
+RQ  1
+EV  IPRXXXX; 2950;
+//

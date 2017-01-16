@@ -1,0 +1,22 @@
+AC  GenProp0683
+DE  cytochrome c nitrite reductase NrfHA
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  This property describes a heterodimeric cytochrome c nitrite reductase.
+CC  NrfA, or cytochrome c552, is the catalytic subunit. NrfH, the small
+CC  subunit, is a tetraheme cytochrome c that binds NrfA, anchors it to the
+CC  membrane, and couples the enzyme to the quinone pool for electron
+CC  transport.
+**  No rule - running off SIMPLE-CLUST.
+--
+SN  NrfA
+ID  cytochrome c nitrite reductase, c552 subunit
+RQ  1
+EV  IPR003321; PF02335;
+--
+SN  NrfH
+ID  cytochrome c nitrate reductase, small subunit
+RQ  1
+EV  IPR017571; TIGR03153; sufficient;
+//

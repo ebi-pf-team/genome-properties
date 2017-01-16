@@ -1,0 +1,39 @@
+AC  GenProp0967
+DE  radical SAM maturase system, CXXX repeats type
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  21478363
+RT  Biological systems discovery in silico: radical S-adenosylmethionine
+RT  protein families and their target peptides for posttranslational
+RT  modification.
+RA  Haft DH, Basu MK;
+RL  J Bacteriol. 2011;193:2745-2755.
+CC  The three components of this system are a peptide maturase class
+CC  radical SAM enzyme, a conserved hypothetical protein that may be a
+CC  chaperone or a bacteriocin immunity protein, and a peptide that
+CC  contains low-complexity sequence in which every fourth residue is Cys.
+--
+SN  C4_chp
+ID  CXXX repeat peptide modification system protein
+RQ  1
+EV  IPR026413; TIGR04116;
+--
+SN  C4_matu
+ID  CXXX repeat peptide maturase
+RQ  1
+EV  IPR026401; TIGR04119;
+--
+SN  C4_pep
+ID  CXXX repeats rSAM maturase target
+RQ  0
+EV  IPR026393; TIGR04114;
+EV  IPR026484; TIGR04117;
+EV  IPR026424; TIGR04118;
+--
+SN  C4_rSAM
+ID  radical SAM peptide maturase, CXXXX repeats system
+RQ  1
+EV  IPR026412; TIGR04115;
+//

@@ -1,0 +1,32 @@
+AC  GenProp0853
+DE  lantibiotic system, gallidermin/epidermin family
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  A specialized ABC transporter occurs both in species that make
+CC  lantibiotics in the gallidermin family and as orphans in species that
+CC  lack both the lantibiotic precursor molecule and the corresponding
+CC  synthases. It appears these transporters are responsible for
+CC  self-protection in species that make lantibiotics, and defense in those
+CC  that do not.
+--
+SN  lanMutE
+ID  lantibiotic protection ABC transporter, MutE family permease subunit
+RQ  1
+EV  IPR021205; TIGR03732;
+--
+SN  lanMutG
+ID  lantibiotic protection ABC transporter, MutG family permease subunit
+RQ  1
+EV  IPR022294; TIGR03733;
+--
+SN  lan_ABC
+ID  lantibiotic protection ABC transporter, ATP-binding subunit
+RQ  1
+EV  IPR022501; TIGR03740;
+--
+SN  lan_pre
+ID  lantibiotic precursor, gallidermin/epidermin family
+RQ  1
+EV  IPR006079; TIGR03731;
+//

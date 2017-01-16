@@ -1,0 +1,19 @@
+AC  GenProp0710
+DE  generic phosphonates utilization
+TP  METAPATH
+AU  Haft D
+TH  0
+CC  Phosphonates, compounds with carbon-phosphorous bonds may be
+CC  specifically imported with a transport system and the CP-bond lysed by
+CC  the C-P lyase system.
+--
+SN  CP-cat
+ID  phosphonate degradation system
+RQ  1
+EV  GenProp0232;
+--
+SN  CP-imp
+ID  phosphonate import system
+RQ  1
+EV  GenProp0236;
+//

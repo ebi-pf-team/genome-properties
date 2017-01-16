@@ -1,0 +1,49 @@
+AC  GenProp0891
+DE  coenzyme M biosynthesis
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  19761441
+RT  Convergent evolution of coenzyme M biosynthesis in the
+RT  Methanosarcinales: cysteate synthase evolved from an ancestral
+RT  threonine synthase.
+RA  Graham DE, Taylor SM, Wolf RZ, Namboori SC;
+RL  Biochem J. 2009;424:467-478.
+RN  [2]
+RM  10940029
+RT  Identification of the gene encoding sulfopyruvate decarboxylase, an
+RT  enzyme involved in biosynthesis of coenzyme M.
+RA  Graupner M, Xu H, White RH;
+RL  J Bacteriol. 2000;182:4862-4867.
+RN  [3]
+RM  21402221
+RT  2-oxoacid metabolism in methanogenic CoM and CoB biosynthesis.
+RA  Graham DE;
+RL  Methods Enzymol. 2011;494:301-326.
+CC  Coenzyme M (2-mercaptoethanesulfonic acid) acts in methanogenesis in
+CC  methanogenic archaea. It is also used as a carrier in a bacterium,
+CC  Xanthobacter autotrophicus Py2, in aerobic propylene metabolism.
+CC  Pathways differ from Methanococcus jannaschi to Methanosarcina
+CC  acetivorans, and again to Xanthobacter autotrophicus Py2. This Genome
+CC  Property represents the parent property.
+**  Note. GenProp1096 for coenzyme B biosynthesis is just started, no
+**  evidence.
+--
+SN  M_S_pyr
+ID  sulfopyruvate biosynthesis
+RQ  1
+EV  GenProp0892;
+EV  GenProp0893;
+--
+SN  M_comD
+ID  sulfopyruvate decarboxylase, alpha subunit
+RQ  1
+EV  IPR022502; TIGR03845;
+--
+SN  M_comE
+ID  sulfopyruvate decarboxylase, beta subunit
+RQ  1
+EV  IPR022494; TIGR03846;
+EV  IPRXXXX; 2690;
+//

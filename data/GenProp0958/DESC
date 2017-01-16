@@ -1,0 +1,59 @@
+AC  GenProp0958
+DE  D-alanyl-lipoteichoic acid biosynthesis
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  19324056
+RT  Crystal structure of Bacillus cereus D-alanyl carrier protein ligase
+RT  (DltA) in complex with ATP.
+RA  Osman KT, Du L, He Y, Luo Y;
+RL  J Mol Biol. 2009;388:345-355.
+RN  [2]
+RM  16885447
+RT  A functional dlt operon, encoding proteins required for incorporation
+RT  of d-alanine in teichoic acids in gram-positive bacteria, confers
+RT  resistance to cationic antimicrobial peptides in Streptococcus
+RT  pneumoniae.
+RA  Kovács M, Halfmann A, Fedtke I, Heintz M, Peschel A, Vollmer W,
+RA  Hakenbeck R, Brückner R;
+RL  J Bacteriol. 2006;188:5797-5805.
+CC  The DltABCD operon, responsible for D-alanylation of LipoTeichoic acids
+CC  (hence DLT) is near-universal in low-GC Gram-positive bacteria,
+CC  although absent in Clostridium perfringens, Oceanobacillus iheyensis,
+CC  etc. This Genome Property describes the DltABCD system, rather than LTA
+CC  biosynthesis itself. Note that lipoteichoic acids (LTA), anionic
+CC  polymers, are variable among species or strains, with backbones that
+CC  often consist of polyglycerolphosphate (e.g. Staphylococcus aureus) but
+CC  with additional modifications. LTA are covalently linked to membrane
+CC  components, and differ from wall teichoic acids (WTA), such as the
+CC  polyribitol phosphate WTAs in S. aureus and B. subtilis W23. 
+**  polyglycerolphosphate backbone synthesis by LtaS in gsa for LTA. WTA is
+**  based instead on polyribitolphosphate, and DltA/DltC in SwissProt seem
+**  misnamed to 6.1.1.13,  D-alanine--poly(phosphoribitol) ligase (letter
+**  sent!).
+--
+SN  dltA
+ID  D-alanine-D-alanyl carrier protein ligase
+RQ  1
+EV  IPR010072; TIGR01734;
+TG  GO:0070394;
+--
+SN  dltB
+ID  D-alanyl-lipoteichoic acid biosynthesis protein DltB
+RQ  1
+EV  IPR024024; TIGR04091;
+TG  GO:0070394;
+--
+SN  dltC
+ID  D-alanine-D-alanyl carrier protein
+RQ  1
+EV  IPR003230; TIGR01688;
+TG  GO:0070394;
+--
+SN  dltD
+ID  D-alanyl-lipoteichoic acid biosynthesis protein DltD
+RQ  1
+EV  IPR023896; TIGR04092;
+TG  GO:0070394;
+//

@@ -1,0 +1,10 @@
+AC  GenProp0196
+DE  sulfur metabolism
+TP  CATEGORY
+AU  Haft D
+TH  0
+DC  Sulfur metabolism
+DR  KEGG; map00920;
+CC  Processes handling and interconverting sulfur-containing molecules. 
+CC  This does not include cysteine and methionine-containing proteins.
+//

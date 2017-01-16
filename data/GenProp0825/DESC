@@ -1,0 +1,36 @@
+AC  GenProp0825
+DE  bacteriocin system, circular bacteriocin group
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  18034824
+RT  Genetic features of circular bacteriocins produced by Gram-positive
+RT  bacteria.
+RA  Maqueda M, Sánchez-Hidalgo M, Fernández M, Montalbán-López M,
+RA  Valdivia E, Martínez-Bueno M;
+RL  FEMS Microbiol Rev. 2008;32:2-22.
+CC  This Genome Property describes a class of bacteriocin in which
+CC  polypeptide produced on a ribosome is circularized. Within this
+CC  Property are several non-homologous subgroups, described by different
+CC  protein family signatures. Many bacteriocins are described as cyclic,
+CC  but this subclass is distinguished by having the N-terminal and
+CC  C-terminal amino acids linked from a precursor translated on a
+CC  ribosome. They tend to be produced by Gram-positive bacteria, and to
+CC  have less post-translational modification than the lantibiotic class of
+CC  bacteriocin. Members of this subclass of the circular bacteriocins
+CC  include circularin A from Clostridium beijerinckii, bacteriocin AS-48
+CC  from Enterococcus faecalis,  uberolysin from Streptococcus uberis, and
+CC  carnocyclin A from Carnobacterium maltaromaticum.
+**  For now, structural proteins only.
+--
+SN  active
+ID  circular bacteriocin
+RQ  1
+EV  IPR020038; TIGR03651;
+TG  GO:0030152;
+EV  IPRXXXX; 2339;
+TG  GO:0030152;
+EV  IPRXXXX; 2340;
+TG  GO:0030152;
+//

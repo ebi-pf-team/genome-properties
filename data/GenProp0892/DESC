@@ -1,0 +1,34 @@
+AC  GenProp0892
+DE  sulfopyruvate biosynthesis from phoshoenolpyruvate
+TP  PATHWAY
+AU  Haft D
+TH  0
+RN  [1]
+RM  10850983
+RT  Identification of an archaeal 2-hydroxy acid dehydrogenase catalyzing
+RT  reactions involved in coenzyme biosynthesis in methanoarchaea.
+RA  Graupner M, Xu H, White RH;
+RL  J Bacteriol. 2000;182:3688-3692.
+CC  This pathway represents the first three steps in coenzyme M
+CC  biosynthesis as it occurs in Methanococcus jannaschii. Alternative
+CC  pathway to sulfopyruvate, from L-phosphoserine via L-cysteate, has been
+CC  described in Methanosarcina acetivorans.
+**  Both rules for ComA (TIGR03849, BGRB:2692) are likely to be a bit too
+**  narrow, as a cost for avoiding false-positives.
+--
+SN  M_comA
+ID  (2R)-phospho-3-sulfolactate synthase
+RQ  1
+EV  IPRXXXX; 2692;
+EV  IPR022370; TIGR03849;
+--
+SN  M_comB
+ID  2-phosphosulfolactate phosphatase
+RQ  1
+EV  IPR027639; TIGR00298;
+--
+SN  M_comC
+ID  (R)-2-hydroxyacid dehydrogenase
+RQ  0
+EV  IPRXXXX; 2691;
+//

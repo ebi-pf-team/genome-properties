@@ -1,0 +1,38 @@
+AC  GenProp0704
+DE  tRNA U34 carboxymethylaminomethyl modification
+TP  PATHWAY
+AU  Haft D
+TH  0
+CC  GidA and MnmE act as a heterotetramer for the cmnmU34 modification in
+CC  bacteria and eukarya. They are absent from the Archaea. Their action
+CC  may be followed by that of the bifunctional MnmC (YfcK) protein. 
+**  MnmA / IscS should come before. MnmC (yfcK) comes after, but not in all
+**  species. Actually, the sulfur modification (MnmA,IscS) is a separate
+**  site, might happen in either order, maybe ought to be a separate
+**  property.
+--
+SN  GidA
+ID  U34 modification protein GidA
+RQ  1
+EV  IPR004416; TIGR00136; sufficient;
+--
+SN  IscS
+ID  cysteine desulfurase IscS
+RQ  1
+EV  IPR010240; TIGR02006; sufficient;
+--
+SN  MnmA
+ID  tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+RQ  1
+EV  IPR004506; TIGR00420; sufficient;
+--
+SN  MnmC_C
+ID  MnmC, C-term model
+RQ  0
+EV  IPR017610; TIGR03197; sufficient;
+--
+SN  MnmE
+ID  U34 modification protein MnmE
+RQ  1
+EV  IPR004520; TIGR00450; sufficient;
+//

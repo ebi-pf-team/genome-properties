@@ -1,0 +1,37 @@
+AC  GenProp0723
+DE  hydrogenase, nickel and F420-dependent
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  2207102
+RT  Cloning, sequence determination, and expression of the genes encoding
+RT  the subunits of the nickel-containing 8-hydroxy-5-deazaflavin reducing
+RT  hydrogenase from Methanobacterium thermoautotrophicum delta H.
+RA  Alex LA, Reeve JN, Orme-Johnson WH, Walsh CT;
+RL  Biochemistry. 1990;29:7237-7244.
+CC  This nickel hydrogenase reduces coenzyme F420 and is found exclusively
+CC  in methanogenic archaea, but not universally. It is lacking from at
+CC  least four Methanosarcinales.
+**  These have been removed from methanogen marker set.
+--
+SN  frhA
+ID  coenzyme F420 hydrogenase, subunit alpha
+RQ  1
+EV  IPR017682; TIGR03295; sufficient;
+--
+SN  frhB
+ID  coenzyme F420 hydrogenase, subunit beta
+RQ  1
+EV  IPR017679; TIGR03289; sufficient;
+--
+SN  frhD
+ID  coenzyme F420 hydrogenase, maturation protease
+RQ  1
+EV  IPR004411; TIGR00130; sufficient;
+--
+SN  frhG
+ID  coenzyme F420 hydrogenase, subunit gamma
+RQ  1
+EV  IPR017681; TIGR03294; sufficient;
+//

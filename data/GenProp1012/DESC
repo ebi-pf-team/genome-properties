@@ -1,0 +1,67 @@
+AC  GenProp1012
+DE  influenzae A virus protein set
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  Segment 1 has PB2. Segment 2 has PB1 and PB1-F2 (overlapped). Segment 3
+CC  has PA. Segment 4 has hemagglutinin. Segment 5 has nucleocapsid.
+CC  Segment 6 has neuraminidase. Segment 7 has M1 and M2. Segment 8 has NS2
+CC  and NS1.
+**  Matrix protein 1 C-term hit by PF08289. Genes unique to Influenzae B
+**  include PF02942 and PF04772, and (overlapping neuraminidase) PF04159.
+--
+SN  f_PB1F2
+ID  nonstructural protein PB1-F2
+RQ  1
+EV  IPR021045; PF11986;
+--
+SN  flu_M1
+ID  matrix protein 1
+RQ  1
+EV  IPR001561; PF00598;
+--
+SN  flu_M2
+ID  matrix protein 2
+RQ  1
+EV  IPR002089; PF00599;
+--
+SN  flu_NA
+ID  neuraminidase
+RQ  1
+EV  IPR001860; PF00064;
+--
+SN  flu_NP
+ID  nucleocapsid
+RQ  1
+EV  IPR002141; PF00506;
+--
+SN  flu_NS1
+ID  nonstructural protein 1
+RQ  1
+EV  IPR000256; PF00600;
+--
+SN  flu_NS2
+ID  nuclear export protein
+RQ  1
+EV  IPR000968; PF00601;
+--
+SN  flu_PA
+ID  RNA-dependent RNA polymerase subunit PA
+RQ  1
+EV  IPR001009; PF00603;
+--
+SN  flu_PB1
+ID  RNA-dependent RNA polymerase subunit PB1
+RQ  1
+EV  IPR001407; PF00602;
+--
+SN  flu_PB2
+ID  influenza RNA-dependent RNA polymerase subunit PB2
+RQ  1
+EV  IPR001591; PF00604;
+--
+SN  flu_hem
+ID  hemagglutinin
+RQ  1
+EV  IPR001364; PF00509;
+//

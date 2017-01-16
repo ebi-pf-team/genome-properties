@@ -1,0 +1,30 @@
+AC  GenProp0847
+DE  exosporium
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  18761690
+RT  Targeting of the BclA and BclB proteins to the Bacillus anthracis spore
+RT  surface.
+RA  Thompson BM, Stewart GC;
+RL  Mol Microbiol. 2008;70:421-434.
+RN  [2]
+RM  23411372
+RT  A genetic approach for the identification of exosporium assembly
+RT  determinants of Bacillus anthracis.
+RA  Spreng KA, Thompson BM, Stewart GC;
+RL  J Microbiol Methods. 2013;93:58-67.
+CC  The exosporium is an outermost extra surface layer of spores formed by
+CC  some members of the genus Bacillus, including pathogens B. anthracis
+CC  and B. cereus. It consists of a basal layer and a nap of hair-like
+CC  filaments.
+**  Ah, but I have not read the pay-walled reference 2, which does not give
+**  its findings in the abstract.
+--
+SN  exs_ldr
+ID  exosporium leader peptide
+RQ  1
+EV  IPR021201; TIGR03720;
+TG  GO:0043592;
+//

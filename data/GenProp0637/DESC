@@ -1,0 +1,26 @@
+AC  GenProp0637
+DE  anaerobic dimethyl sulfoxide reductase
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  16221580
+RT  Microbial dimethylsulfoxide and trimethylamine-N-oxide respiration.
+RA  McCrindle SL, Kappler U, McEwan AG;
+RL  Adv Microb Physiol. 2005;50:147-198.
+--
+SN  dmsA
+ID  anaerobic dimethylsulfoxide reductase, chain A
+RQ  1
+EV  IPR011888; TIGR02166; sufficient;
+--
+SN  dmsB
+ID  anaerobic dimethylsulfoxide reductase, chain B
+RQ  1
+EV  IPR014297; TIGR02951; sufficient;
+--
+SN  dmsC
+ID  anaerobic dimethylsulfoxide reductase, chain C
+RQ  1
+EV  IPR007059; PF04976; sufficient;
+//

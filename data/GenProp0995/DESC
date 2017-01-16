@@ -1,0 +1,20 @@
+AC  GenProp0995
+DE  Leptospira interrogans LPS associated transketolase
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  This two subunit transketolase enzyme is very likely acting on a sugar
+CC  other than sedoheptulose-7-phosphate.  The two models included here are
+CC  expected to narrowly detect this enzyme in strains of Leptospira
+CC  interrogans.
+--
+SN  CCT0010
+ID  Transketolase, thiamine diphosphate binding domain, LLPSF_CCT_00010 family
+RQ  1
+EV  IPRXXXX; 2787;
+--
+SN  CCT0011
+ID  Transketolase, C-terminal domain, LLPSF_CCT_00011 family
+RQ  1
+EV  IPRXXXX; 2788;
+//

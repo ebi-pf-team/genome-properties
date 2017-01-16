@@ -1,0 +1,33 @@
+AC  GenProp1080
+DE  protein O-heptosyltransferase with autotransporter target
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  22221153
+RT  N for AsN - O for strOcture? A strand-loop-strand motif for prokaryotic
+RT  O-glycosylation.
+RA  Otzen D;
+RL  Mol Microbiol. 2012;83:879-883.
+CC  Aah and TibC are protein O-heptosyltransferases that glycosylate
+CC  certain repeat-rich proteins at multiple sites. Their targets are the
+CC  autotransporter (T5SS) proteins AIDA (autotransporter adhesin involved
+CC  in diffuse adherence) and TibA, respectively. Similar tandem gene pairs
+CC  occur in Burkholderia vietnamiensis G4, Granulibacter bethesdensis
+CC  CGDNIH1, Cronobacter sakazakii ATCC BAA-894, and Bradyrhizobium sp.
+CC  ORS278. In Burkholderia mallei, the heptosyltransferase occurs next to
+CC  BimA, an autotransporter virulence factor involved in actin-based
+CC  motility, suggesting glycosylation, although BimA lacks the repeat
+CC  structure recognized by model TIGR04415.
+**  BMA_A0749, BimA, is in right context but TIGR04415 does not hit it.
+--
+SN  O_hept
+ID  autotransporter strand-loop-strand O-heptosyltransferase
+RQ  1
+EV  IPR030929; TIGR04414;
+--
+SN  O_targ
+ID  autotransporter strand-loop-strand repeat
+RQ  1
+EV  IPRXXXX; TIGR04415;
+//

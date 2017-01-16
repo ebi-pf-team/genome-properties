@@ -1,0 +1,26 @@
+AC  GenProp0806
+DE  replication initiation, bacterial
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  16036556
+RT  Protein--protein interactions in the eubacterial replisome.
+RA  Schaeffer PM, Headlam MJ, Dixon NE;
+RL  IUBMB Life. 2005;57:5-12.
+--
+SN  DnaA
+ID  chromosomal replication initiator protein DnaA
+RQ  1
+EV  IPR001957; TIGR00362;
+--
+SN  DnaB
+ID  replicative DNA helicase
+RQ  1
+EV  IPR007692; TIGR00665;
+--
+SN  DnaG
+ID  DNA primase
+RQ  1
+EV  IPR006295; TIGR01391;
+//

@@ -1,0 +1,62 @@
+AC  GenProp1031
+DE  O76(Ec) antigen biosynthesis
+TP  METAPATH
+AU  Haft D
+TH  0
+CC  The O76(Ec) antigen is currently only known from its antibody reaction,
+CC  no information about the monomer structure or the genes involved is
+CC  found in the literature. Genomic information from O76(Ec)-antigen
+CC  regions sequenced at JCVI (ostec16 and gstec07) provides the basis for
+CC  this property. From this data we postulate that the antigen is
+CC  assembled using the wzx/wzy/wzz system, and consistent with this
+CC  mechanism the three glycosyltransferases present in the locus suggest
+CC  that there are at least three distinct linkages and at least four
+CC  sugars in the repeating monomer unit. The sugar composition of the
+CC  antigen can be guessed at since the locus appear to lack any extra
+CC  sugar biosynthesis genes beyond those converting UDP-glucose to
+CC  UDP-galactose and a single putative acetyltransferase. Additionally,
+CC  two of the glycosyltransferases show homology to transferases
+CC  associated with the O128(Ec) (GT-1), and the O86(Ec) and O127(Ec)
+CC  antigens (GT-3). Each of these is composed entirely of L-fucose and
+CC  D-galactose residues (or their N-acetylated forms). L-fucose is not
+CC  bioavailable in E. coli without the presence of specialized genes for
+CC  its biosynthesis, and these are nearly always present in the O-antigen
+CC  locus when needed. Taken together, we postulate that the O76(Ec)
+CC  antigen monomer is composed primarily if not exclusively of D-Gal and
+CC  D-GalNAc residues.
+--
+SN  AcTR
+ID  O76(Ec)-associated putative acetyltransferase
+RQ  1
+EV  IPRXXXX; 2959;
+--
+SN  GT-1
+ID  O76(Ec)-associated glycosyltransferase GT-1
+RQ  1
+EV  IPRXXXX; 2958;
+--
+SN  GT-2
+ID  O76(Ec)-associated glycosyltransferase GT-2
+RQ  1
+EV  IPRXXXX; 2961;
+--
+SN  GT-3
+ID  O76(Ec)-associated glycosyltransferase GT-3
+RQ  1
+EV  IPRXXXX; 2962;
+--
+SN  GalE
+ID  O76(Ec)-associated UDP-glucose 4-epimerase
+RQ  0
+EV  IPR005886; TIGR01179;
+--
+SN  wzx76
+ID  O76(Ec)-antigen specific transporter (flippase)
+RQ  1
+EV  IPRXXXX; 2957;
+--
+SN  wzy76
+ID  O76(Ec)-antigen specific polymerase
+RQ  1
+EV  IPRXXXX; 2960;
+//

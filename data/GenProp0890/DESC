@@ -1,0 +1,52 @@
+AC  GenProp0890
+DE  copper homeostasis system CopRS/CopABCD
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  19557345
+RT  Molecular analysis of the copper-responsive CopRSCD of a pathogenic
+RT  Pseudomonas fluorescens strain.
+RA  Hu YH, Wang HL, Zhang M, Sun L;
+RL  J Microbiol. 2009;47:277-286.
+CC  This property describes a copper resistance (or copper homeostasis)
+CC  system. The CopA/CopB pair has been shown in Xanthomonas axonopodis
+CC  pathovar citri to be necessary for copper resistance. The CopC/CopD
+CC  pair, occasionally found fused, has been implicated in copper
+CC  resistance in some species, copper uptake in others. These two pairs
+CC  commonly occur independently but occasionally occur together. CopS and
+CC  CopR are copper-sensing histidine kinase and DNA-binding response
+CC  regulator. 
+**  PMID: 19557345 demonstrates system in gpf. Note that my sensor kinase
+**  model is broader, heavy metals, needs copper focus.
+--
+SN  copA
+ID  copper-resistance protein, CopA family
+RQ  1
+EV  IPR006376; TIGR01480;
+--
+SN  copB
+ID  copper-resistance protein, CopB family
+RQ  1
+EV  IPR007939; PF05275;
+--
+SN  copC
+ID  copper resistance protein, CopC family
+RQ  1
+EV  IPR007348; PF04234;
+--
+SN  copD
+ID  copper resistance protein, CopD family
+RQ  1
+EV  IPR008457; PF05425;
+--
+SN  copR
+ID  copper resistance response regulator
+RQ  0
+EV  IPRXXXX; 2679;
+--
+SN  copS
+ID  heavy metal sensor kinase
+RQ  1
+EV  IPR006290; TIGR01386;
+//

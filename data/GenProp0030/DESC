@@ -1,0 +1,59 @@
+AC  GenProp0030
+DE  glutathione biosynthesis
+TP  PATHWAY
+AU  Haft D
+TH  0
+DC  Glutathione Metabolism
+DR  KEGG; map00480;
+CC  YES  NO  Glutathione (GSH) is gamma-Glu-Cys-Gly, a thiol whose -SH
+CC  group is an important reductant in many systems. Some species use
+CC  thiols other than glutathione: mycothione in Mycobacterium
+CC  tuberculosis, gamma-glutamylcysteine in Halobacterium, trypanothione in
+CC  trypanosomes. Cysteine and CoA may also serve. Glutathione biosynthesis
+CC  is accomplished by two enzymes. First, glutamate--cysteine ligase links
+CC  the gamma-COOH of Glu to the NH2 of Cys. Next, glutathione synthase
+CC  creates a peptide bond from the COOH of Cys to the NH2 of Gly. Species
+CC  that synthesize glutathione are likely to have a reductase for oxidized
+CC  glutathione and a number of glutathione-dependent enzymes.
+**  Hallmarks of a glutathione system are  obtaining it (biosynthesis from
+**  Glu, Cys, Gly, ATP, or import),  using it (glutathione-dependent
+**  enzymes), and  regenerating it (e.g. glutathione reductase).  TIGR01434
+**  gshA 6.3.2.2 (biosynthesis) glutamate--cysteine ligase  TIGR01436 ----
+**  6.3.2.2 (biosynthesis) glutamate--cysteine ligase  TIGR01380 gshB
+**  6.3.2.3 (biosynthesis) glutathione synthetase  TIGR00066 ggt 2.3.2.2 
+**  (cycle) gamma-glutamyltranspeptidase  TIGR01421 gor 1.6.4.2 (cycle)
+**  glutathione reductase  TIGR01424 gor 1.6.4.2 (cycle) glutathione
+**  reductase  TIGR00068 gloA 4.4.1.5 (uses) lactoylglutathione lyase 
+**  PF00043 GST (uses) Glutathione S-transferases  Roles: biosynthesis is
+**  86.  Actinomyces use a different small, cysteine-derived thiol,
+**  mycothione.  Also used are gamma-glutamylcysteine in Halobacterium,
+**  trypanothione  in trypanosomes. Cysteine and CoA may also serve.
+--
+SN  GSH_1
+ID  glutamate--cysteine ligase
+DN  glutamate--cysteine ligase (EC 6.3.2.2)
+RQ  1
+EV  IPR006334; TIGR01434; sufficient;
+TG  GO:0006750;
+EV  IPR011556; TIGR01436; sufficient;
+TG  GO:0006750;
+EV  IPR004308; PF03074; sufficient;
+TG  GO:0006750;
+EV  IPR011718; TIGR02049; sufficient;
+TG  GO:0006750;
+EV  IPR011792; TIGR02048; sufficient;
+TG  GO:0006750;
+EV  IPR006335; TIGR01435;
+TG  GO:0006750;
+--
+SN  GSH_2
+ID  glutathione synthetase
+DN  glutathione synthase (EC 6.3.2.3)
+RQ  1
+EV  IPR006284; TIGR01380; sufficient;
+TG  GO:0006750;
+EV  IPR005615; TIGR01986; sufficient;
+TG  GO:0006750;
+EV  IPR006335; TIGR01435;
+TG  GO:0006750;
+//

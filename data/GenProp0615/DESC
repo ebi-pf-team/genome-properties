@@ -1,0 +1,24 @@
+AC  GenProp0615
+DE  cytochrome c based oxygen reduction and quinone re-oxidation
+TP  METAPATH
+AU  Haft D
+TH  0
+CC  Mitochondria and many aerobic bacteria utilize cytochrome c as a mobile
+CC  electron carrier to couple the processes of oxygen reduction to water
+CC  and quinone re-oxidation.  These two processes occur on two separate
+CC  complexes, cytochrome c oxidase and cytochrome c reductase,
+CC  respectively.  Both of these processes als o result in the pumping of
+CC  protons across the cell membrane to generate the proton gradient
+CC  necessary for ATP generation.
+--
+SN  oxidase
+ID  a cytochrome c oxidase
+RQ  1
+EV  GenProp0483;
+EV  GenProp0614;
+--
+SN  reduct
+ID  a cytochrome c reductase
+RQ  1
+EV  GenProp0613;
+//

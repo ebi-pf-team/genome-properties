@@ -1,0 +1,58 @@
+AC  GenProp1089
+DE  B12-dependent trimeric diol/glycerol dehydratase
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  10498708
+RT  The propanediol utilization (pdu) operon of Salmonella enterica serovar
+RT  Typhimurium LT2 includes genes necessary for formation of polyhedral
+RT  organelles involved in coenzyme B(12)-dependent 1, 2-propanediol
+RT  degradation.
+RA  Bobik TA, Havemann GD, Busch RJ, Williams DS, Aldrich HC;
+RL  J Bacteriol. 1999;181:5967-5975.
+RN  [2]
+RM  18469107
+RT  Lactobacillus reuteri DSM 20016 produces cobalamin-dependent diol
+RT  dehydratase in metabolosomes and metabolizes 1,2-propanediol by
+RT  disproportionation.
+RA  Sriramulu DD, Liang M, Hernandez-Romero D, Raux-Deery E, Lünsdorf H,
+RA  Parsons JB, Warren MJ, Prentice MB;
+RL  J Bacteriol. 2008;190:4559-4567.
+RN  [3]
+RM  21040475
+RT  Diol dehydratase-reactivating factor is a reactivase--evidence for
+RT  multiple turnovers and subunit swapping with diol dehydratase.
+RA  Mori K, Hosokawa Y, Yoshinaga T, Toraya T;
+RL  FEBS J. 2010;277:4931-4943.
+CC  This Genome Property describes a trimeric, B12-dependent enzyme in a
+CC  polyhedral microcompartment, or metabolosome, related to (but distinct
+CC  from) the RuBisCO-containing carboxysome. Described examples include
+CC  the propanediol dehydratase PduCDE (Pdu means propane diol utilization)
+CC  and the glycerol dehydratase (also called PduCDE) of Lactobacillus
+CC  reuteri. The latter converts glycerol in one step to
+CC  3-hydroxypropionaldehyde, also called reuterin, a compound that confers
+CC  probiotic effects. 
+**  Form of B12 in L. reuteri said to be a pseudo-B12 (PMID:17888910).
+**  tax_id 491077.
+--
+SN  PduC
+ID  diol/glycerol dehydratase, large subunit
+RQ  1
+EV  IPR003206; PF02286;
+--
+SN  PduD
+ID  diol/glycerol dehydratase, medium subunit
+RQ  1
+EV  IPR003208; PF02288;
+--
+SN  PduE
+ID  diol/glycerol dehydratase, small subunit
+RQ  1
+EV  IPR003207; PF02287;
+--
+SN  PduG
+ID  diol dehydratase reactivation protein PduG
+RQ  1
+EV  IPR009191; TIGR04491;
+//

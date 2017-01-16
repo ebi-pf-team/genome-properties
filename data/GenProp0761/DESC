@@ -1,0 +1,110 @@
+AC  GenProp0761
+DE  hopanoid lipid biosynthesis
+TP  PATHWAY
+AU  Haft D
+TH  1
+RN  [1]
+RM  9714766
+RT  Cloning of conserved genes from Zymomonas mobilis and Bradyrhizobium
+RT  japonicum that function in the biosynthesis of hopanoid lipids.
+RA  Perzl M, Reipen IG, Schmitz S, Poralla K, Sahm H, Sprenger GA,
+RA  Kannenberg EL;
+RL  Biochim Biophys Acta. 1998;1393:108-118.
+CC  Hopanoids are pentacyclic steroid-like compounds derived from squalene
+CC  (a diterpene) by cyclization and various elaborations of the side
+CC  chain.  Methylations of the polycyclic body of the molecule have also
+CC  been reported.  The essential enzymes are squalene synthase which
+CC  condenses two molecules of farnesyl-pyrophosphate and squalene-hopene
+CC  cyclase.
+--
+SN  HpnA
+ID  nucleotide-sugar epimerase/dehydratase
+RQ  0
+EV  IPR017829; TIGR03466;
+TG  GO:0019746;
+--
+SN  HpnB
+ID  glycosyl transferase, family 2, HpnB
+RQ  0
+EV  IPR017832; TIGR03469;
+TG  GO:0019746;
+--
+SN  HpnCD
+ID  squalene synthase, HpnC and/or HpnD subunits
+RQ  1
+EV  IPR017827; TIGR03464;
+TG  GO:0019746;
+EV  IPR017828; TIGR03465;
+TG  GO:0019746;
+--
+SN  HpnE
+ID  FAD-dependent desaturase, HpnE
+RQ  0
+EV  IPR017830; TIGR03467;
+TG  GO:0019746;
+--
+SN  HpnG
+ID  phosphorylase, HpnG
+RQ  0
+EV  IPR017831; TIGR03468;
+TG  GO:0019746;
+--
+SN  HpnH
+ID  radical SAM enzyme, HpnH
+RQ  1
+EV  IPR017833; TIGR03470;
+TG  GO:0019746;
+--
+SN  HpnI
+ID  glycosyl transferase, family 2, HpnI
+RQ  0
+EV  IPR017835; TIGR03472;
+TG  GO:0019746;
+--
+SN  HpnJ
+ID  radical SAM enzyme, HpnJ
+RQ  0
+EV  IPR017834; TIGR03471;
+TG  GO:0019746;
+--
+SN  HpnK
+ID  YdjC-like enzyme, HpnK
+RQ  0
+EV  IPR017836; TIGR03473;
+TG  GO:0019746;
+--
+SN  HpnL
+ID  putative membrane protein, TIGR00374 superfamily, HpnL
+RQ  0
+EV  IPRXXXX; TIGR03476;
+TG  GO:0019746;
+--
+SN  HpnM
+ID  toluene tolerance protein homolog, HpnM
+RQ  0
+EV  IPR017842; TIGR03481;
+TG  GO:0019746;
+--
+SN  HpnN
+ID  RND efflux transporter homolog, HpnN
+RQ  0
+EV  IPR017841; TIGR03480;
+--
+SN  HpnO
+ID  VacJ like lipoprotein
+RQ  0
+EV  IPRXXXX; PF04333;
+TG  GO:0019746;
+--
+SN  HpnR
+ID  hopanoid C-3 methylase
+RQ  0
+EV  IPR027564; TIGR04367;
+TG  GO:0019746;
+--
+SN  SHC
+ID  squalene-hopene cyclase
+RQ  1
+EV  IPR006400; TIGR01507;
+TG  GO:0019746;
+//

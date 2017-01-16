@@ -1,0 +1,28 @@
+AC  GenProp0934
+DE  dimethyl sulphone utilization (aerobic)
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  A pathway has been described in which two FMNH2-dependent members of
+CC  the bacterial luciferase-like monooxygenase (LLM) family convert
+CC  dimethyl sulfone (DMS02) first to methanesulfonate (MSA), then from MSA
+CC  to inorganic form. The enzymes are the dimethyl sulphone monooxygenase
+CC  SfnG (TIGR04021) and methanesulfonate sulfonatase (an alkanesulfonate
+CC  monooxygenase) SsuD.
+**  might be changed to mere pathway.
+--
+SN  SfnB
+ID  acyl-CoA dehydrogenase family protein, SfnB type
+RQ  1
+EV  IPR023922; TIGR04022;
+--
+SN  SfnG
+ID  dimethyl sulphone monooxygenase SfnG
+RQ  1
+EV  IPR024014; TIGR04021;
+--
+SN  SsuD
+ID  methanesulfonate sulfonatase SsuD
+RQ  1
+EV  IPR019911; TIGR03565;
+//

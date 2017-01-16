@@ -1,0 +1,52 @@
+AC  GenProp0268
+DE  ectoine biosynthesis
+TP  PATHWAY
+AU  Haft D
+TH  0
+RN  [1]
+RM  11823218
+RT  Osmotically regulated synthesis of the compatible solute ectoine in
+RT  Bacillus pasteurii and related Bacillus spp.
+RA  Kuhlmann AU, Bremer E;
+RL  Appl Environ Microbiol. 2002;68:772-783.
+RN  [2]
+RM  22885758
+RT  Ectoine biosynthesis in Mycobacterium smegmatis.
+RA  Ofer N, Wishkautzan M, Meijler M, Wang Y, Speer A, Niederweis M, Gur E;
+RL  Appl Environ Microbiol. 2012;78:7483-7486.
+CC  Ectoine is a compatible solute used as an osmoprotectant by a number of
+CC  bacterial species, including Vibrio cholerae, Halomonas variabilis,
+CC  Bacillus pasteurii, Mycobacterium smegmatis, etc. Key enzymes are
+CC  diaminobutyric acid acetyltransferase (EctA), diaminobutyric acid
+CC  aminotransferase (EctB), and ectoine synthase (EctC). Ectoine is
+CC  1,4,5,6-tetrahydro-2-methyl-4-pyrimidinecarboxylic acid. Many
+CC  ectoine-producing species contain the enzyme ectoine hydroxylase
+CC  (EctD), and also produce hydroxyectoine.
+--
+SN  ectA
+ID  diaminobutyrate acetyltransferase
+DN  diaminobutyrate acetyltransferase (EC 2.3.1.178)
+RQ  1
+EV  IPR012772; TIGR02406; sufficient;
+TG  GO:0019491;
+--
+SN  ectB
+ID  diaminobutyrate--2-oxoglutarate transaminase
+DN  diaminobutyrate--2-oxoglutarate transaminase (EC 2.6.1.76)
+RQ  1
+EV  IPR012773; TIGR02407; sufficient;
+TG  GO:0019491;
+--
+SN  ectC
+ID  ectoine synthase
+DN  ectoine synthase (EC 4.2.1.108)
+RQ  1
+EV  IPR010462; PF06339; sufficient;
+TG  GO:0019491;
+--
+SN  ectD
+ID  ectoine hydroxylase
+DN  ectoine hydroxylase (EC 1.17.-.-)
+RQ  0
+EV  IPR012774; TIGR02408; sufficient;
+//

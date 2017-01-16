@@ -1,0 +1,23 @@
+AC  GenProp0821
+DE  putative Na:solute symporter two-gene cassette
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  This Genome Property describes an unusual two-gene cassette for a
+CC  probable transporter system. The longer protein belongs to the
+CC  sodium:solute symporter family. The shorter, found almost invariably
+CC  immediately upstream, is highly hydrophobic but uncharacterized. The
+CC  pair is found in about one in six completed prokaryotic genomes.
+**  The two HMMs are both broad enough that the pair should represent a
+**  type of transporter, and multiple substrates.
+--
+SN  sodi_L
+ID  Na+/solute symporter, large subunit
+RQ  1
+EV  IPR019899; TIGR03648;
+--
+SN  sodi_S
+ID  Na+/solute symporter, small subunit
+RQ  1
+EV  IPR019886; TIGR03647;
+//

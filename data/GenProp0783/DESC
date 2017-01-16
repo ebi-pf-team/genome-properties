@@ -1,0 +1,65 @@
+AC  GenProp0783
+DE  petrobactin biosynthesis
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  17346033
+RT  Characterization and analysis of early enzymes for petrobactin
+RT  biosynthesis in Bacillus anthracis.
+RA  Pfleger BF, Lee JY, Somu RV, Aldrich CC, Hanna PC, Sherman DH;
+RL  Biochemistry. 2007;46:4147-4157.
+RN  [2]
+RM  17579415
+RT  Enzymatic logic of anthrax stealth siderophore biosynthesis: AsbA
+RT  catalyzes ATP-dependent condensation of citric acid and spermidine.
+RA  Oves-Costales D, Kadi N, Fogg MJ, Song L, Wilson KS, Challis GL;
+RL  J Am Chem Soc. 2007;129:8416-8417.
+RN  [3]
+RM  17189355
+RT  Biosynthetic analysis of the petrobactin siderophore pathway from
+RT  Bacillus anthracis.
+RA  Lee JY, Janes BK, Passalacqua KD, Pfleger BF, Bergman NH, Liu H,
+RA  Håkansson K, Somu RV, Aldrich CC, Cendrowski S, Hanna PC, Sherman DH;
+RL  J Bacteriol. 2007;189:1698-1710.
+CC  Petrobactin was discovered in the oil-degrading marine bacterium
+CC  Marinobacter hydrocarbonoclasticus. It has also been called
+CC  anthrachelin. Bacillus anthracis makes petrobactin and bacillobactin. 
+**  A rough-in only, partial list of steps, and no evidence.
+--
+SN  AsbA
+ID  petrobactin biosynthesis enzyme AsbA
+RQ  1
+EV  IPRXXXX; 2257;
+TG  GO:0019290;
+--
+SN  AsbB
+ID  petrobactin biosynthesis enzyme AsbB
+RQ  1
+EV  IPRXXXX; 2256;
+TG  GO:0019290;
+--
+SN  AsbC
+ID  3,4-dihydroxybenzoic acid-AMP ligase AsbC
+RQ  1
+EV  IPRXXXX; 2258;
+TG  GO:0019290;
+--
+SN  AsbD
+ID  petrobactin biosynthesis aryl carrier protein AsbD
+RQ  1
+EV  IPRXXXX; 2259;
+TG  GO:0019290;
+--
+SN  AsbE
+ID  petrobactin biosynthesis enzyme AsbE
+RQ  1
+EV  IPRXXXX; 2260;
+TG  GO:0019290;
+--
+SN  AsbF
+ID  petrobactin biosynthesis protein AsbF
+RQ  1
+EV  IPRXXXX; 2261;
+TG  GO:0019290;
+//

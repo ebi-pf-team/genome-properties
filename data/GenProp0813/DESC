@@ -1,0 +1,65 @@
+AC  GenProp0813
+DE  pyrimidine utilization  operon, RutABCDEFGR
+TP  PATHWAY
+AU  Haft D
+TH  0
+RN  [1]
+RM  16540542
+RT  A previously undescribed pathway for pyrimidine catabolism.
+RA  Loh KD, Gyaneshwar P, Markenscoff Papadimitriou E, Fong R, Kim KS,
+RA  Parales R, Zhou Z, Inwood W, Kustu S;
+RL  Proc Natl Acad Sci U S A. 2006;103:5114-5119.
+CC  This seven-gene operon described in E. coli K-12 [1] is responsible for
+CC  the degradation of uracil, and to a lesser extent, thymine. This has
+CC  been determined by growth and mutation experiments. The operon contains
+CC  a luciferase family member (RutA) which likely catalyzes the
+CC  FMN-dependent critical oxidation for the ring opening as well as RutF
+CC  which may be involved in recycling the FMN cofactor. Other seemingly
+CC  essential components are an isochorismate mutase family protein (RutB),
+CC  a hydrolase (RutD) and a member of the L-PSP endoribonuclease family
+CC  (RutC) and a regulatory protein (RutR). The transporter RutG found in
+CC  E. coli is not found in all genomes harboring the rest of the operon
+CC  and may be replaced by other non-homologous transporters located
+CC  elsewhere in the genomes.  This property appears to be limited to the
+CC  alpha and gamma proteobacteria.  
+--
+SN  RutA
+ID  FMN-dependent luciferase family monoxygenase RutA
+RQ  1
+EV  IPR019914; TIGR03612;
+--
+SN  RutB
+ID  isochorismate mutase family protein RutB
+RQ  1
+EV  IPR019916; TIGR03614;
+--
+SN  RutC
+ID  L-PSP endoribonuclease family protein RutC
+RQ  1
+EV  IPR019898; TIGR03610;
+--
+SN  RutD
+ID  hydrolase protein RutD
+RQ  1
+EV  IPR019913; TIGR03611;
+--
+SN  RutE
+ID  nitroreductase family protein RutE
+RQ  0
+EV  IPRXXXX; PF00881;
+--
+SN  RutF
+ID  flavin reductase RutF
+RQ  1
+EV  IPR019917; TIGR03615;
+--
+SN  RutG
+ID  uracil-xanthine permease family protein RutG
+RQ  0
+EV  IPR019918; TIGR03616;
+--
+SN  RutR
+ID  clustered regulatory protein
+RQ  0
+EV  IPR019915; TIGR03613;
+//

@@ -1,0 +1,19 @@
+AC  GenProp0322
+DE  addiction module, hig class
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  This addiction module consists of homologs of the killer HigB and the
+CC  antidote HigA. It is unusual in that the killer protein is encoded by
+CC  the upstream gene.
+--
+SN  A-HigA
+ID  antidote protein HigA - TIGR02607
+RQ  1
+EV  IPR013430; TIGR02607; sufficient;
+--
+SN  K-HigB
+ID  killer protein HigB - PF05015
+RQ  1
+EV  IPR007711; PF05015; sufficient;
+//

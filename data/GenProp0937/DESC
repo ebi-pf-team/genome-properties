@@ -1,0 +1,22 @@
+AC  GenProp0937
+DE  cofactor-coupled enzyme system, CE1758/CE1759 type
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  This system describes a two-enzyme system that at least occasionally
+CC  occurs as an enzyme pair. TIGR04036 describes a subset of the
+CC  luciferase-like monooxygenase (LLM) family with members largely from
+CC  species that do not synthesize F420, a cofactor alternative to FMN in
+CC  some species. Therefore, the cofactor is likely to FMN itself.
+CC  TIGR04037 describes a homolog to 
+--
+SN  FMN-LLM
+ID  FMN-dependent luciferase-like monooxygenase, CE1759 family
+RQ  1
+EV  IPR023934; TIGR04036;
+--
+SN  FMN-red
+ID  FMN reductase, CE1759 family
+RQ  1
+EV  IPR023932; TIGR04037;
+//

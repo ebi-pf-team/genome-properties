@@ -1,0 +1,40 @@
+AC  GenProp0789
+DE  homocysteine regeneration from S-adenosylhomocysteine
+TP  METAPATH
+AU  Haft D
+TH  0
+CC  S-adenosylmethionine (SAM) is used in cells as a methyl donor by a
+CC  large guild of methyltransferases, leaving S-adenosylhomocysteine
+CC  (SAH). SAH can be cleaved in one step to adenosine and homocysteine by
+CC  adenosylhomocysteinase (EC 3.3.1.1). The homocysteine can then be used
+CC  to regenerate methionine. Alternatively, it can be cleaved in two
+CC  steps. First adenine is removed by adenosylhomocysteine nucleosidase
+CC  (EC 3.2.2.9, a fascinating enzyme that, with a different bound
+CC  cofactor, acts instead in the pathway of methionine salvage from
+CC  methylthioadenosine - see TIGR01704) to leave S-ribosylhomocysteine.
+CC  Next, S-ribosylhomocysteinase acts to produce homocysteine and
+CC  4,5-dihydroxypentan-2,3-dione, which cyclizes spontaneously and  binds
+CC  borate to become autoinducer-2 (AI-2), a quorum-sensing molecule
+CC  produced and recognized by a wide range of bacteria. This property
+CC  represents the presence at least one of these two mechanisms to
+CC  regenerate homocysteine.
+**  The idea is that homocysteine is one step away from methionine, by
+**  2.1.1.14 MetE TIGR01371 or various other chemistries. The use of the
+**  methyl group from SAM is a large guild. TIGR01034 represents methionine
+**  to SAM, but have not checked on how complete that is, and it can
+**  represent other SAM uses.  The top hit by PPP is MoaA (TIGR02666), a
+**  SAM-dependent enzyme or molybdenum cofactor biosynthesis, followed by
+**  other Mo-related proteins.
+--
+SN  SAH_clv
+ID  SAH to homocysteine
+RQ  1
+EV  IPR000043; TIGR00936;
+EV  GenProp0757;
+--
+SN  SAM_syn
+ID  methionine adenosyltransferase
+RQ  1
+EV  IPR002133; TIGR01034;
+EV  IPR027790; PF01941;
+//

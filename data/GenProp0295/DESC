@@ -1,0 +1,26 @@
+AC  GenProp0295
+DE  prokaryotic N-terminal cleavage/methylation, type IV pilin-like
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  This property describes the system found in many prokaryotes for
+CC  recognition, leader peptide cleavage, and N-terminal methylation of
+CC  sequences targeted to the cell surface, as found in type IV pilus
+CC  components, competence proteins, type II secretion proteins, and some
+CC  other systems.
+--
+SN  cleav
+ID  prepilin peptidase
+RQ  1
+EV  IPR000045; PF01478; sufficient;
+--
+SN  methyl
+ID  N-term residue-methylating domain
+RQ  1
+EV  IPR010627; PF06750; sufficient;
+--
+SN  site
+ID  prokaryotic N-term cleave/methyl site
+RQ  1
+EV  IPR012902; TIGR02532; sufficient;
+//

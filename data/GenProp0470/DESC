@@ -1,0 +1,34 @@
+AC  GenProp0470
+DE  sporadically distributed four-gene operon
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  A conserved gene four-gene neighborhood is found sporadically in a
+CC  phylogenetically broad range of bacteria: Nocardia farcinica,
+CC  Symbiobacterium thermophilum, and Streptomyces avermitilis
+CC  (Actinobacteria), Geobacillus kaustophilus (Firmicutes), and Azoarcus
+CC  sp. EbN1 and Ralstonia solanacearum (Betaproteobacteria). It is found
+CC  near CRISPR repeats in Geobacillus kaustophilus HTA426, whose genome
+CC  has no identified Cas proteins. It is found near a cas gene cluster and
+CC  its CRISPR repeats in another species. 
+--
+SN  A
+ID  sporadic operon protein A - TIGR02677
+RQ  1
+EV  IPR013493; TIGR02677; sufficient;
+--
+SN  B
+ID  sporadic operon protein B - TIGR02678
+RQ  1
+EV  IPR013494; TIGR02678; sufficient;
+--
+SN  C
+ID  sporadic operon protein C - TIGR02680
+RQ  1
+EV  IPR013496; TIGR02680; sufficient;
+--
+SN  D
+ID  sporadic operon protein D - TIGR02679
+RQ  1
+EV  IPR013495; TIGR02679; sufficient;
+//

@@ -1,0 +1,65 @@
+AC  GenProp0147
+DE  glycine betaine biosynthesis from choline
+TP  PATHWAY
+AU  Haft D
+TH  0
+RN  [1]
+RM  1741624
+RT  Prokaryotic osmoregulation: genetics and physiology.
+RA  Csonka LN, Hanson AD;
+RL  Annu Rev Microbiol. 1991;45:569-606.
+RN  [2]
+RM  3065456
+RT  Molecular cloning, physical mapping and expression of the bet genes
+RT  governing the osmoregulatory choline-glycine betaine pathway of
+RT  Escherichia coli.
+RA  Andresen PA, Kaasen I, Styrvold OB, Boulnois G, Strøm AR;
+RL  J Gen Microbiol. 1988;134:1737-1746.
+RN  [3]
+RM  8752328
+RT  Synthesis of the osmoprotectant glycine betaine in Bacillus subtilis:
+RT  characterization of the gbsAB genes.
+RA  Boch J, Kempf B, Schmid R, Bremer E;
+RL  J Bacteriol. 1996;178:5121-5129.
+DC  Glycine, serine and threonine metabolism
+DR  KEGG; map00260;
+CC  As a coping mechanism against osmotic stress, prokaryotic organisms
+CC  accumulate osmolytes or osmoprotectants from exogenous sources, to
+CC  counterbalance elevated osmolarities in the environment without
+CC  affecting overall cell metabolism and structural integrity [1]. One of
+CC  the most efficient osmoprotectants found in the environment is the
+CC  compound glycine betaine [1]. Both gram positive and gram negative
+CC  bacteria mediate osmotolerance either by direct uptake of glycine
+CC  betaine from the environment, or by synthesis from exogenously supplied
+CC  choline [2,3]. This property reflects the biosynthesis of the
+CC  osmoprotectant glycine betaine from choline [4,5]. Biosynthesis of
+CC  glycine betaine occurs via a two-step oxidative reaction requiring a
+CC  terminal electron acceptor [2,3]. Choline dehydrogenase first catalyzes
+CC  the conversion of exogenously supplied choline into the intermediate
+CC  glycine betaine aldehyde, with subsequent oxidization by betaine
+CC  aldehyde dehydrogenase into the osmoprotectant glycine betaine [2,3].
+CC  Both choline dehydrogenase and betaine aldehyde dehydrogenase are
+CC  required for conversion of choline into glycine betaine [2,3].
+**  cf. glucosylglycerol biosynthesis, another osmoprotectant. Make
+**  properties for trehalose stuff as well.
+--
+SN  1_BetA
+ID  choline dehydrogenase
+DN  choline dehydrogenase
+RQ  1
+EV  IPR011533; TIGR01810; sufficient;
+TG  GO:0019285;
+--
+SN  2_BetB
+ID  glycine betaine dehydrogenase
+DN  betaine aldehyde dehydrogenase
+RQ  1
+EV  IPR011264; TIGR01804; sufficient;
+TG  GO:0019285;
+--
+SN  BetI
+ID  choline-responsive transcriptional repressor BetI
+RQ  0
+EV  IPR017757; TIGR03384;
+TG  GO:0019285;
+//

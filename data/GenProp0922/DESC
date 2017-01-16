@@ -1,0 +1,58 @@
+AC  GenProp0922
+DE  CRISPR system, Myxan subtype
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  This Genome Property describes a subtype of CRISPR/Cas system as found
+CC  in Myxococcus xanthus near locus MXAN_7263, in Leptospira interrogans,
+CC  in Anabaena variabilis ATCC 29413, Lyngbya sp. PCC 8106, Cyanothece,
+CC  etc. Repeats average about 36 base pairs in length. A typical repeat is
+CC  GTGCCGCTCGCCGTGATGCCGGAAGGCGTTGAGCAC. Interestingly, this system
+CC  includes the DevR and DevS proteins of Myxococcus, which have been
+CC  recruited to demonstrable roles in fruiting body development.
+--
+SN  cas1cmx
+ID  CRISPR-associated protein Cas1, MYXAN subtype
+RQ  1
+EV  IPR023844; TIGR03983;
+--
+SN  cas2cmx
+ID  CRISPR-associated protein Cas2, MYXAN subtype
+RQ  1
+EV  IPR021127; TIGR01573;
+--
+SN  cas3cmx
+ID  Cas3, MYXAN region
+RQ  1
+EV  IPR006474; TIGR01587;
+--
+SN  cas4cmx
+ID  CRISPR-associated protein Cas4, MYXAN subtype
+RQ  1
+EV  IPR013343; TIGR00372;
+--
+SN  cmx1C
+ID  CRISPR-associated protein Csx13, C-terminal region
+RQ  1
+EV  IPR027811; TIGR03486;
+--
+SN  cmx1N
+ID  CRISPR-associated protein Csx13, N-terminal region
+RQ  1
+EV  IPR019989; TIGR03485;
+--
+SN  cmx5
+ID  CRISPR-associated protein DevS
+RQ  1
+EV  IPR013415; TIGR02586;
+--
+SN  cmx6
+ID  CRISPR-associated protein Cas6, MYXAN subtype
+RQ  1
+EV  IPR014174; TIGR02807;
+--
+SN  cmxREG
+ID  CRISPR-associated autoregulator, MYXAN subtype
+RQ  1
+EV  IPRXXXX; TIGR01875;
+//

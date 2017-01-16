@@ -1,0 +1,22 @@
+AC  GenProp0738
+DE  agmatine to putrescine via N-carbamoylputrescine
+TP  PATHWAY
+AU  Haft D
+TH  0
+CC  Agmatine deiminase (aguA) converts agmatine to N-carbamoylputrescine.
+CC  N-carbamoylputrescine amidase (aguB) then releases CO2 and NH4+ to
+CC  yield putrescine. The aguAB pathway replaces agmatinase (speB), which
+CC  simply releases urea from agmatine to yield putrescine.
+--
+SN  aguA
+ID  agmatine deiminase
+RQ  1
+EV  IPR017754; TIGR03380;
+TG  GO:0009445;
+--
+SN  aguB
+ID  N-carbamoylputrescine amidase
+RQ  1
+EV  IPR017755; TIGR03381;
+TG  GO:0009445;
+//

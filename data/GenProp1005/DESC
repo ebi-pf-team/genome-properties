@@ -1,0 +1,27 @@
+AC  GenProp1005
+DE  protein sorting system, putative, exosortase J class
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  This Genome Property describes a paralogous system from Acidobacterium
+CC  sp. MP5ACTX8. One component is a novel exosortase subtype designated
+CC  XrtJ, with a large unique C-terminal region. The other component is its
+CC  putative target, consisting of an N-terminal signal sequence ending in
+CC  a suggestive GC motif, then a PEP-CTERM-like motif PExP, then a
+CC  C-terminal transmembrane domain ending in a basic cluster, all in ~ 62
+CC  residues. 
+**  The very small size of the PExP motif protein (and the GC at end of
+**  signal peptide), and our speculation that XrtJ (and Xrt in general) are
+**  transpeptidases makes it tempting to speculate that some part of the
+**  PExP protein becomes attached to a different protein.
+--
+SN  EXOxrtJ
+ID  exosortase J
+RQ  1
+EV  IPR026478; TIGR04199;
+--
+SN  PExPT
+ID  TM-motif-TM protein, XrtJ-associated
+RQ  1
+EV  IPR026477; TIGR04200;
+//

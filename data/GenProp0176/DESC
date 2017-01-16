@@ -1,0 +1,57 @@
+AC  GenProp0176
+DE  TRAP-T (tripartite ATP-independent periplasmic transporters) family
+DE  transporters
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  11524131
+RT  The tripartite ATP-independent periplasmic (TRAP) transporters of
+RT  bacteria and archaea.
+RA  Kelly DJ, Thomas GH;
+RL  FEMS Microbiol Rev. 2001;25:405-424.
+RN  [2]
+RM  10627041
+RT  TRAP transporters: an ancient family of extracytoplasmic
+RT  solute-receptor-dependent secondary active transporters.
+RA  Rabus R, Jack DL, Kelly DJ, Saier MH;
+RL  Microbiology. 1999;145 ( Pt 12):3431-3445.
+CC  This property represents the presence of three-subunit transporters
+CC  related to the DctPQM system for dicarboxylate transport in Rhodobacter
+CC  capsulatus. These are secondary transporters, energized by ion
+CC  gradients, rather than primary transporters powered by ATP directly.
+CC  The acronym TRAP, or TRAP-T, stands for Tripartite ATP-independent
+CC  Periplasmic Transporters. The characteristic architecture includes an
+CC  integral membrane protein with 12 predicted transmembrane (TM) regions
+CC  (e.g.DctM) and another with 4 predicted TM regions (e.g. DctQ). These
+CC  two are fused in some species. Also present is an extracytoplasmic
+CC  solute receptor (ESR), for which at least three families are known:
+CC  DegP (TIGR00787), SmoM (PF03480), and TAXI (TIGR02122). In addition to
+CC  C4 dicarboxylates, substrates moved by related transporters appear to
+CC  include mannitol, aspartate derivative ectoine, and other as yet
+CC  uncharacterized solutes. Some bacteria, such as Bradyrhizobium
+CC  japonicum, may contain over a dozen such transporters. 
+--
+SN  12TM
+ID  DctM-like 12-transmembrane helix protein
+DN  TRAP transporter, DctM subunit
+RQ  1
+EV  IPR004681; TIGR00786; sufficient;
+EV  IPR010656; PF06808; sufficient;
+EV  IPR011853; TIGR02123; sufficient;
+--
+SN  4TM
+ID  DctQ-like 4-transmembrane helix protein
+DN  TRAP transporter, DctQ-like membrane protein
+RQ  1
+EV  IPR007387; PF04290; sufficient;
+EV  IPR011853; TIGR02123; sufficient;
+--
+SN  bindng
+ID  TRAP extracytoplasmic solute receptor (ESR)
+DN  TRAP transporter solute receptor, DctP family
+RQ  1
+EV  IPR004682; TIGR00787; sufficient;
+EV  IPR018389; PF03480; sufficient;
+EV  IPR011852; TIGR02122; sufficient;
+//

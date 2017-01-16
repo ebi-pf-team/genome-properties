@@ -1,0 +1,36 @@
+AC  GenProp0935
+DE  uptake/catabolism system KPN_01854/KPN_01858
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  This Genome Property describes an uncharacterized system with an ABC
+CC  transporter both co-clustered and phylogenetically co-distributed
+CC  (although not perfectly) with a putative FMN-dependent luciferase-like
+CC  monooxygenase (LLM). This system is distributed sporadically from
+CC  Gram-negative (e.g. Klebsiella pneumoniae) to Gram-positive (e.g.
+CC  Kineococcus radiotolerans). The substrate-binding protein contains
+CC  enough information to guide construction of the two permease protein
+CC  families, but these additional markers are not yet built.
+**  Built this property because I was interested in ppp2d and a particular
+**  subfamily of LLM (TIGR04028).
+--
+SN  uti_Cter
+ID  alkylhydroperoxidase domain protein, Avi_7169 family
+RQ  1
+EV  IPR023923; TIGR04030;
+--
+SN  uti_FMN
+ID  utilization system luciferase-like monooxygenase
+RQ  1
+EV  IPR024003; TIGR04027;
+--
+SN  uti_Nter
+ID  CMD domain protein, Avi_7170 family
+RQ  1
+EV  IPR023982; TIGR04029;
+--
+SN  uti_SBP
+ID  utilization system ABC transporter substrate binding protein
+RQ  1
+EV  IPR023920; TIGR04028;
+//

@@ -1,0 +1,17 @@
+AC  GenProp1033
+DE  dTDP-6-deoxy-L-talose biosynthesis from dTDP-4-dehydro-L-rhamnose
+TP  METAPATH
+AU  Haft D
+TH  0
+CC  dTDP-6-deoxy-L-talose (dTDP-6dLTal) is a component of the E. coli O45,
+CC  O66 and O88 antigen monomers.
+--
+SN  4dhLRha
+ID   source of dTDP-4-dehydro-L-rhamnose
+RQ  1
+EV  GenProp1032;
+--
+SN  6dLTalS
+ID  dTDP-6-deoxy-L-talose synthase
+RQ  1
+//

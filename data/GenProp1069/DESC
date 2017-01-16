@@ -1,0 +1,35 @@
+AC  GenProp1069
+DE  FxLD lantipeptide system
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  This Genome Property describes a putative lantipeptide-type
+CC  Post-Ribosomal Natural Product (PRNP) system in which the putative
+CC  precursor peptide is described by TIGRFAMs model TIGR04363. Genes
+CC  always found in the vicinity include lanthionine synthetase and
+CC  lantibiotic dehydratase proteins, as well a close homolog
+CC  protein-L-isoaspartate(D-aspartate) O-methyltransferase, a repair
+CC  enzyme for age-damaged proteins. 
+**  Is finding a protein repair enzyme homolog in a PRNP cluster
+**  unprecedented?
+--
+SN  fxlA
+ID  FxLD family lantipeptide
+RQ  1
+EV  IPR027575; TIGR04363;
+--
+SN  fxlD
+ID  lantibiotic dehydratase
+RQ  1
+EV  IPR006827; PF04738;
+--
+SN  fxlM
+ID  FxLD system methyltransferase
+RQ  1
+EV  IPR027573; TIGR04364;
+--
+SN  fxlS
+ID  lanthionine synthetase
+RQ  1
+EV  IPR007822; PF05147;
+//

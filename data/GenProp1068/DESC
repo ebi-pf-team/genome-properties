@@ -1,0 +1,32 @@
+AC  GenProp1068
+DE  FxS-tail radical SAM-containing system
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  This property includes a radical SAM enzyme, a long protein (~ 1300
+CC  amino acids) with a C-terminal TPR repeat region, and a very short
+CC  protein with an FxS motif at its C-terminus.
+--
+SN  FxS_TPR
+ID  FxSxx system tetratricopeptide repeat protein
+RQ  1
+--
+SN  FxsA
+ID  FXSXX-COOH protein
+RQ  1
+EV  IPR026334; TIGR04268;
+--
+SN  FxsB
+ID  radical SAM enzyme FxsB
+RQ  1
+EV  IPR026335; TIGR04269;
+--
+SN  FxsC_C
+ID  FxsC protein, C-terminal domain
+RQ  0
+EV  IPR026367; TIGR04276;
+--
+SN  FxsC_N
+ID  FxsC protein, N-terminal domain
+RQ  1
+//

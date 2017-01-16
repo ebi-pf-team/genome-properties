@@ -1,0 +1,31 @@
+AC  GenProp0767
+DE  very short patch repair
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  8736526
+RT  Very short patch repair: reducing the cost of cytosine methylation.
+RA  Lieb M, Bhagwat AS;
+RL  Mol Microbiol. 1996;20:467-473.
+CC  Very short patch (VSP) repair is a repair system that recognizes
+CC  mismatches caused by deamination of 5-methylcytosine (5meC). Cytosine
+CC  is modified to 5meC by the product of the dcm gene. Vsr is an
+CC  endonuclease that creates a nick to allow the repair. In Escherichia
+CC  coli, the second C of the DNA motif CCWGG (where W is A or T) is
+CC  methylated; deamination yields T:G mispairs reccognized by the vsr gene
+CC  product. The vsr gene typically is found very close to the dcm gene,
+CC  and is essentially restricted to a subset of those genomes that carry
+CC  dcm.
+**  Starting with TIGR00632, very short patch repair.
+--
+SN  dcm
+ID  DNA-cytosine methyltransferase
+RQ  1
+EV  IPRXXXX; TIGR00675;
+--
+SN  vsr
+ID  very short patch repair
+RQ  1
+EV  IPR004603; TIGR00632;
+//

@@ -1,0 +1,69 @@
+AC  GenProp0690
+DE  F1F0 ATPase, Methanosarcina type
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  9425287
+RT  F0F1-ATPase genes from an archaebacterium, Methanosarcina barkeri.
+RA  Sumi M, Yohda M, Koga Y, Yoshida M;
+RL  Biochem Biophys Res Commun. 1997;241:427-433.
+CC  Methanosarcina, which has a V-type ATPase, and certain bacteria that
+CC  have F1F0 ATPases, appear to have an additional novel F1F0 ATPase. It
+CC  is broadly and sparsely distributed, occurring in about 2 % of
+CC  prokaryotic genomes but in at least five different deeply branched
+CC  lineages for the first ten systems sequenced. This form of F1F0 ATPase
+CC  is uncharacterized and may reflect operation under different
+CC  conditions, or in the opposite direction, or transporting a different
+CC  cation.
+**  It appears I did not finish building this property. It is NOT public,
+**  has no rule, and has not been run. It will need more steps than it
+**  currently has. Should try double-partial phylogenetic profiling for,
+**  say, CT_1032. DONE: the result is CT_1033 (8/8), CT_1029 (14/16),
+**  CT_1031 (13/13).
+--
+SN  altF1_A
+ID  alternate F1F0 ATP synthase, F0 A subunit
+RQ  1
+EV  IPR017692; TIGR03306; sufficient;
+--
+SN  altF1_B
+ID  alternate F1F0 ATPase, F0 subunit B
+RQ  1
+EV  IPR017707; TIGR03321;
+--
+SN  altF1_C
+ID  alternate F1F0 ATPase, F0 subunit C
+RQ  1
+EV  IPR017708; TIGR03322;
+--
+SN  altF1_a
+ID  alternate F1F0 ATP synthase, membrane protein 1
+RQ  1
+EV  IPR011744; TIGR02230; sufficient;
+--
+SN  altF1_b
+ID  alternate F1F0 ATP synthase, membrane protein 2
+RQ  1
+EV  IPR017581; TIGR03165; sufficient;
+--
+SN  altF1al
+ID  alternate F1F0 ATP synthase, F1 alpha subunit
+RQ  1
+EV  IPR017710; TIGR03324;
+--
+SN  altF1be
+ID  alternate F1F0 ATP synthase, F1 beta subunit
+RQ  1
+EV  IPR017691; TIGR03305; sufficient;
+--
+SN  altF1ep
+ID  alternate F1F0 ATP synthase, F1 epsilon subunit
+RQ  1
+EV  IPR024037; TIGR03166; sufficient;
+--
+SN  altF1ga
+ID  alternate F1F0 ATP synthase, F1 gamma subunit
+RQ  1
+EV  IPR017709; TIGR03323;
+//

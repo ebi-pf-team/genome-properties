@@ -1,0 +1,19 @@
+AC  GenProp0836
+DE  menaquinone biosynthesis
+TP  METAPATH
+AU  Haft D
+TH  0
+CC  Menaquinone may be synthesized by one of two independent pathways. The
+CC  better known pathway, which includes MenA, MenB, etc., as found in
+CC  Escherichia coli, passes through the intermediate SEPHCHC (see
+CC  GenProp0058). An alternate pathway, found in both Helicobacter pylori
+CC  and Streptomyces coelicolor, involves the intermediate futalosine (see
+CC  GenProp0829). This property evaluates to YES is either menaquinone
+CC  biosynthesis pathway is complete.
+--
+SN  menaquin
+ID  menaquinone biosynthesis: SEPHCHC or futalosine
+RQ  1
+EV  GenProp0058;
+EV  GenProp0829;
+//

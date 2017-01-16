@@ -1,0 +1,40 @@
+AC  GenProp1072
+DE  cyanase system
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  8444806
+RT  A physiological role for cyanate-induced carbonic anhydrase in
+RT  Escherichia coli.
+RA  Guilloton MB, Lamblin AF, Kozliak EI, Gerami-Nejad M, Tu C, Silverman
+RA  D, Anderson PM, Fuchs JA;
+RL  J Bacteriol. 1993;175:1443-1451.
+CC  The cyanase system in Escherichia coli is a divergon, with the
+CC  transcriptional regulator CynR gene transcribed divergently from an
+CC  operon consisting of a carbonic anhydrase, cyanase, and cyanate
+CC  transporter.
+--
+SN  cynR
+ID  cyn operon transcriptional activator CynR
+RQ  0
+EV  IPRXXXX; PF03466;
+--
+SN  cynS
+ID  cyanase
+RQ  1
+EV  IPR008076; TIGR00673;
+TG  GO:0009440;
+--
+SN  cynT
+ID  carbonic anhydrase, cyanate-induced
+RQ  0
+EV  IPRXXXX; PF00484;
+TG  GO:0009440;
+--
+SN  cynX
+ID  cyanate transporter
+RQ  0
+EV  IPRXXXX; TIGR00896;
+TG  GO:0015704;
+//

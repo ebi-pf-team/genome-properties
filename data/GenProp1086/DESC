@@ -1,0 +1,36 @@
+AC  GenProp1086
+DE  Firmicutes/Treponema mobile radical SAM system
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  This Genome Property is a cassette of two tandem radical SAM enzymes of
+CC  unknown function, usually accompanied by a MarR family transcriptional
+CC  regulator. Species with the system include both members of the genus
+CC  Treponema from the human oral microbiome and from the phylum Firmicutes
+CC  (class Clostridia) from gut microbiome. Sequence identity for enzymes
+CC  spanning this taxonomic divide can exceed 95 percent, certain to
+CC  indicate lateral gene transfer. 
+**  Viewing in PubSeed showed no additional conserved proteins.
+**  Neighborhoods had scant to no evidence of mobility markers. The high
+**  identity suggests to me recent, such as resistance systems for
+**  human-synthesized antibiotics/antimicrobials (e.g. fluoride?). But
+**  using two radical SAM enzymes made me wonder if the system converts a
+**  received antibiotic into a different antibiotic to which lineages with
+**  the enzymes are insensitive. That would be an interesting phenomenon.
+**  8/26/2013.
+--
+SN  FT_MarR
+ID  mobile rSAM pair MarR family regulator
+RQ  1
+EV  IPR031011; TIGR04472;
+--
+SN  FTsam1
+ID  radical SAM mobile pair protein A
+RQ  1
+EV  IPR031010; TIGR04471;
+--
+SN  FTsam2
+ID  radical SAM mobile pair protein B
+RQ  1
+EV  IPR031012; TIGR04470;
+//

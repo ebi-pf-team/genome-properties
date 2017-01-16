@@ -1,0 +1,50 @@
+AC  GenProp0780
+DE  xanthosine utilization system XapABR
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  7559336
+RT  Identification and characterization of genes (xapA, xapB, and xapR)
+RT  involved in xanthosine catabolism in Escherichia coli.
+RA  Seeger C, Poulsen C, Dandanell G;
+RL  J Bacteriol. 1995;177:5506-5516.
+RN  [2]
+RM  16707709
+RT  Xanthosine utilization in Salmonella enterica serovar Typhimurium is
+RT  recovered by a single aspartate-to-glycine substitution in xanthosine
+RT  phosphorylase.
+RA  Hansen MR, Tranekjaer Jørgensen J, Dandanell G;
+RL  J Bacteriol. 2006;188:4153-4157.
+CC  The three components of this system are xanthosine phosphorylase
+CC  (XapA), xanthosine permease (XapB), together in a two-gene operon, and
+CC  a constituitively expressed LysR-family positive regulator XapR, whose
+CC  gene is just downstream from the xapAB operon. An open reading frame
+CC  about 50 codons in length, found between xapB and xapR in Escherichia
+CC  coli, although not characterized, appears to be conserved in species
+CC  with XapABR and to have homologs in other genomic contexts in more
+CC  distantly related species. Analysis by PSI-BLAST showed this is a
+CC  conserved domain (see TIGR03510), and we name this small protein XapX.
+**  The small hypothetical, ~ 50 amino acids, turns out to be real protein,
+**  needs new HMM, project 2766.
+--
+SN  XapA
+ID  xanthosine phosphorylase
+RQ  1
+EV  IPR010943; TIGR01699;
+--
+SN  XapB
+ID  xanthosine permease
+RQ  1
+EV  IPRXXXX; 2219;
+--
+SN  XapR
+ID  xanthosine operon regulatory protein XapR
+RQ  1
+EV  IPRXXXX; 2244;
+--
+SN  XapX
+ID  XapX protein
+RQ  0
+EV  IPRXXXX; TIGR03510;
+//

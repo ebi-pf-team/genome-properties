@@ -1,0 +1,37 @@
+AC  GenProp0948
+DE  RNA repair, Hen1/Pnkp system
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  17986465
+RT  Characterization of the 2',3' cyclic phosphodiesterase activities of
+RT  Clostridium thermocellum polynucleotide kinase-phosphatase and
+RT  bacteriophage lambda phosphatase.
+RA  Keppetipola N, Shuman S;
+RL  Nucleic Acids Res. 2007;35:7721-7732.
+RN  [2]
+RM  20007328
+RT  Bacterial Hen1 is a 3' terminal RNA ribose 2'-O-methyltransferase
+RT  component of a bacterial RNA repair cassette.
+RA  Jain R, Shuman S;
+RL  RNA. 2010;16:316-323.
+CC  This property describe the combination of an RNA modification enzyme,
+CC  the methyltransferase Hen1, and an RNA repair enzyme, polynucleotide
+CC  kinase-phosphatase, as found in model species Clostridium thermocellum
+CC  and in many other bacteria in a two-gene cassette. This pairing may
+CC  allow RNA cleaved by ribotoxins to be repaired, and to be modified at
+CC  the site of repair to prevent the same breakage from occurring again.
+--
+SN  Hen1
+ID  3' terminal RNA ribose 2'-O-methyltransferase Hen1
+RQ  1
+EV  IPR024026; TIGR04074;
+TG  GO:0042245;
+--
+SN  Pnkp
+ID  polynucleotide kinase-phosphatase
+RQ  1
+EV  IPR024028; TIGR04075;
+TG  GO:0042245;
+//

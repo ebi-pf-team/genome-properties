@@ -1,0 +1,44 @@
+AC  GenProp0673
+DE  ribulose monophosphate pathway
+TP  PATHWAY
+AU  Haft D
+TH  0
+RN  [1]
+RM  16788179
+RT  The ribulose monophosphate pathway substitutes for the missing pentose
+RT  phosphate pathway in the archaeon Thermococcus kodakaraensis.
+RA  Orita I, Sato T, Yurimoto H, Kato N, Atomi H, Imanaka T, Sakai Y;
+RL  J Bacteriol. 2006;188:4698-4704.
+RN  [2]
+RM  16237021
+RT  Ribose-5-phosphate biosynthesis in Methanocaldococcus jannaschii occurs
+RT  in the absence of a pentose-phosphate pathway.
+RA  Grochowski LL, Xu H, White RH;
+RL  J Bacteriol. 2005;187:7382-7389.
+RN  [3]
+RM  15978081
+RT  HxlR, a member of the DUF24 protein family, is a DNA-binding protein
+RT  that acts as a positive regulator of the formaldehyde-inducible hxlAB
+RT  operon in Bacillus subtilis.
+RA  Yurimoto H, Hirai R, Matsuno N, Yasueda H, Kato N, Sakai Y;
+RL  Mol Microbiol. 2005;57:511-519.
+CC  The ribulose monophosphate pathway consists of two enzyme,
+CC  3-hexulose-6-phosphate synthase (HPS) and 6-phospho-3-hexuloisomerase
+CC  (PHI). In one direction, this pathway removes the toxic metabolite
+CC  formaldehyde by assimilation. In the other direction, in certain
+CC  species lacking the complete pentose phosphate pathway, this pathway
+CC  produces consumes fructose 6-phosphate and releases formaldehyde in
+CC  order to produce ribulose-5-phosphate, essential for nucleotide
+CC  biosynthesis. The two enzymes may occur as a fusion protein, as in
+CC  Thermococcus kodakaraensis.
+--
+SN  HPS
+ID  3-hexulose-6-phosphate synthase
+RQ  1
+EV  IPR017553; TIGR03128; sufficient;
+--
+SN  PHI
+ID  6-phospho-3-hexuloisomerase
+RQ  1
+EV  IPR017552; TIGR03127; sufficient;
+//

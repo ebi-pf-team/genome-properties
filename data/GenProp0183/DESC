@@ -1,0 +1,27 @@
+AC  GenProp0183
+DE  dTDP-L-rhamnose biosynthesis from dTDP-4-dehydro-L-rhamnose
+TP  METAPATH
+AU  Haft D
+TH  0
+RN  [1]
+RM  10802738
+RT  RmlC, the third enzyme of dTDP-L-rhamnose pathway, is a new class of
+RT  epimerase.
+RA  Giraud MF, Leonard GA, Field RA, Berlind C, Naismith JH;
+RL  Nat Struct Biol. 2000;7:398-402.
+DC  Streptomycin biosynthesis
+DR  KEGG; map00521;
+DC  dTDP-L-rhamnose biosynthesis I
+DR  MetaCyc; Rhamnose-Biosynthesis;
+--
+SN  4dhLRha
+ID  source of dTDP-4-dehydro-L-rhamnose
+RQ  1
+EV  GenProp1032;
+--
+SN  rfbD
+ID  dTDP-4-dehydrorhamnose reductase
+DN  dTDP-4-dehydrorhamnose reductase
+RQ  1
+EV  IPR005913; TIGR01214; sufficient;
+//

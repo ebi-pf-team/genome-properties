@@ -1,0 +1,38 @@
+AC  GenProp0456
+DE  attenuation system: tryptophanase
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  9045840
+RT  Regulation of the Escherichia coli tna operon: nascent leader peptide
+RT  control at the tnaC stop codon.
+RA  Konan KV, Yanofsky C;
+RL  J Bacteriol. 1997;179:1774-1779.
+CC  This property is characterized by two components. One is the enzyme
+CC  tryptophanase, capabable of degrading tryptophan. The other is the
+CC  tryptophanase leader peptide, TnaC, encoded upstream of the enzyme. The
+CC  ribosome that translates the leader peptide may stall at either of two
+CC  points: the trp codon (when trp is scarce) or the stop codon. The
+CC  leader peptide may interact with ribosome to delay release at its stop
+CC  codon. Whether the ribosome stalls at the trp codon or continues to the
+CC  stop codon controls what mRNA secondary structure may form as
+CC  trytophanase message is synthesized. When trp is scarce, and the enzyme
+CC  should not made, a terminator forms and transcription ends. Examples of
+CC  this mechanism for controlling transcription at termination are called
+CC  transcriptional attenuation.
+**  BEWARE: often the leader peptide gene is not called. The PFAM version
+**  HMM hits only seed members.
+--
+SN  TnaA
+ID  tryptophanase TnaA
+DN  tryptophanase (EC:4.1.99.1)
+RQ  1
+EV  IPR013440; TIGR02617; sufficient;
+--
+SN  leader
+ID  tryptophanase leader pep TnaC
+DN  tryptophanase leader peptide
+RQ  1
+EV  IPR012620; TIGR02616; sufficient;
+//

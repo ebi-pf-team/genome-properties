@@ -1,0 +1,39 @@
+AC  GenProp0266
+DE  trehalose biosynthesis, TreYZ pathway
+TP  PATHWAY
+AU  Haft D
+TH  0
+RN  [1]
+RM  10658666
+RT  Three pathways for trehalose biosynthesis in mycobacteria.
+RA  De Smet KA, Weston A, Brown IN, Young DB, Robertson BD;
+RL  Microbiology. 2000;146 ( Pt 1):199-208.
+RN  [2]
+RM  12626396
+RT  New insights on trehalose: a multifunctional molecule.
+RA  Elbein AD, Pan YT, Pastuszak I, Carroll D;
+RL  Glycobiology. 2003;13:17r-27r.
+CC  Trehalose is an alpha,alpha glucose disaccharide that serves as a
+CC  highly protective osmoprotectant in many species in all three domains
+CC  of life. Trehalose may also be a component of more complex molecules
+CC  such as cell wall glycolipids in Actinomycetes. The TreYZ is one of
+CC  several pathways for trehalose biosynthesis and is dependent on the
+CC  presence of glycogen-like glucose polymers. It is alternative to the
+CC  OtsAB (osmotically regulated trehalose synthesis A and B) system. In
+CC  some species with both, the TreYZ rather then the OtsAB system is
+CC  induced by osmotic stress.
+--
+SN  treY
+ID  maltooligosyltrehalose synthase
+DN  (1->4)-alpha-D-glucan 1-alpha-D-glucosylmutase (EC 5.4.99.15)
+RQ  1
+EV  IPR012767; TIGR02401; sufficient;
+TG  GO:0006970;
+--
+SN  treZ
+ID  malto-oligosyltrehalose trehalohydrolase
+DN  4-alpha-D-{(1->4)-alpha-D-glucano} trehalose trehalohydrolase (EC 3.2.1.141)
+RQ  1
+EV  IPR012768; TIGR02402; sufficient;
+TG  GO:0006970;
+//

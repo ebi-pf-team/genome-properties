@@ -1,0 +1,92 @@
+AC  GenProp0187
+DE  pyrimidine (uridine-5'-phosphate) de novo biosynthesis
+TP  PATHWAY
+AU  Haft D
+TH  4
+DC  Pyrimidine Biosynthesis
+DR  IUBMB; misc; pyrimid;
+DC  Pyrimidine metabolism
+DR  KEGG; map00240;
+CC  De novo pyrimidine biosynthesis procedes from CO2 (bicarbonate), an NH2
+CC  group from glutamine or free ammonia, and aspartate. A ring compound,
+CC  N-carbomoyl-L-aspartate is formed, then converted in two more steps
+CC  into orotate. The ribose moiety is then added from
+CC  alpha-D-5-P-ribosylpyrophosphate (PRPP), which is also a precursor of
+CC  purines, histidine, and tryptophan. The resulting orotidine
+CC  monophosphate is decarboxylated to uridine monophosphate (UMP), a
+CC  pyrimidine nucleotide from which other pyrimidines are made.  The few
+CC  species lacking pyrimidine de novo biosynthesis include some members of
+CC  the Chlamydiae, Mycoplasmatales, Rickettsiales, and Spirochaetes.
+--
+SN  PRPPsyn
+ID  ribose-phosphate pyrophosphokinase
+DN  ribose-phosphate pyrophosphokinase
+RQ  1
+EV  IPR005946; TIGR01251; sufficient;
+TG  GO:0006222;
+--
+SN  carA
+ID  carbamoyl-phosphate synthase, small subunit
+DN  carbamoyl-phosphate synthase, small subunit
+RQ  1
+EV  IPR006274; TIGR01368; sufficient;
+TG  GO:0006222;
+--
+SN  carB
+ID  carbamoyl-phosphate synthase, large subunit
+DN  carbamoyl-phosphate synthase, large subunit
+RQ  1
+EV  IPR006275; TIGR01369; sufficient;
+TG  GO:0006222;
+--
+SN  pyrB
+ID  aspartate carbamoyltransferase
+DN  aspartate carbamoyltransferase
+RQ  1
+EV  IPR002082; TIGR00670; sufficient;
+TG  GO:0006222;
+--
+SN  pyrC
+ID  dihydroorotase
+DN  dihydroorotase
+RQ  1
+EV  IPR004721; TIGR00856; sufficient;
+TG  GO:0006222;
+EV  IPR004722; TIGR00857; sufficient;
+--
+SN  pyrD
+ID  dihydroorotate dehydrogenase
+DN  dihydroorotate dehydrogenase
+RQ  1
+EV  IPR005719; TIGR01036; sufficient;
+TG  GO:0006222;
+EV  IPR005720; TIGR01037; sufficient;
+TG  GO:0006222;
+EV  IPR005720; PF01180; sufficient;
+TG  GO:0006222;
+--
+SN  pyrE
+ID  orotate phosphoribosyltransferase
+DN  orotate phosphoribosyltransferase
+RQ  1
+EV  IPR004467; TIGR00336; sufficient;
+TG  GO:0006222;
+EV  IPR006273; TIGR01367; sufficient;
+TG  GO:0006222;
+--
+SN  pyrF
+ID  orotidine 5'-phosphate decarboxylase
+DN  orotidine 5'-phosphate decarboxylase
+RQ  1
+EV  IPR014732; TIGR01740; sufficient;
+TG  GO:0006222;
+EV  IPR011995; TIGR02127; sufficient;
+TG  GO:0006222;
+--
+SN  pyrI
+ID  aspartate carbamoyltransferase, regulatory subunit
+DN  aspartate carbamoyltransferase, regulatory subunit
+RQ  0
+EV  IPR002801; TIGR00240; sufficient;
+TG  GO:0006222;
+//

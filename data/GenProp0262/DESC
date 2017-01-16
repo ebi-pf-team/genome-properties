@@ -1,0 +1,74 @@
+AC  GenProp0262
+DE  RNA polymerase, bacterial
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  12949700
+RT  The phylogenetic relationships of cyanobacteria inferred from 16S rRNA,
+RT  gyrB, rpoC1 and rpoD1 gene sequences.
+RA  Seo PS, Yokota A;
+RL  J Gen Appl Microbiol. 2003;49:191-203.
+RN  [2]
+RM  12426327
+RT  The rpoZ gene, encoding the RNA polymerase omega subunit, is required
+RT  for antibiotic production and morphological differentiation in
+RT  Streptomyces kasugaensis.
+RA  Kojima I, Kasuga K, Kobayashi M, Fukasawa A, Mizuno S, Arisawa A,
+RA  Akagawa H;
+RL  J Bacteriol. 2002;184:6417-6423.
+DC  RNA polymerase
+DR  KEGG; map03020;
+CC  This property describes the bacterial multisubunit DNA-directed RNA
+CC  polymerase (EC 2.7.7.6). This property does not include sigma factors
+CC  (at present), which are regulatory and varied, and so by definition
+CC  describes the core enzyme rather than the holoenzyme. Subunit
+CC  stochiometry is two alpha subunits to one each of beta and beta'. In
+CC  Cyanobacteria and plastids, beta' is replaced by two proteins, one like
+CC  the N-term of beta' (called gamma in Cyanobacteria and, confusingly,
+CC  beta' in plastids) and one like the C-term of beta' (called beta' in
+CC  Cyanobacteria and beta'' in plastids).
+**  PMID: 12426327 says omega subunit universal in free-living bacteria to
+**  date.
+--
+SN  DISRPT
+ID  APPARENT DISRUPTED READING FRAMES
+DN  NOT APPLICABLE
+RQ  0
+--
+SN  rnaPdlt
+ID  RNA polymerase delta
+DN  DNA-directed RNA polymerase, delta subunit
+RQ  0
+EV  IPR029757; TIGR04567; sufficient;
+--
+SN  rpoA
+ID  RNA polymerase alpha
+DN  DNA-directed RNA polymerase, alpha subunit
+RQ  1
+EV  IPR011773; TIGR02027; sufficient;
+--
+SN  rpoB
+ID  RNA polymerase beta
+DN  DNA-directed RNA polymerase, beta subunit
+RQ  1
+EV  IPR010243; TIGR02013; sufficient;
+--
+SN  rpoC_C
+ID  RNA polymerase beta', C-terminal region
+RQ  1
+EV  IPR012756; TIGR02388; sufficient;
+EV  IPR012754; TIGR02386; sufficient;
+--
+SN  rpoC_N
+ID  RNA polymerase beta', C-terminal
+RQ  1
+EV  IPR012755; TIGR02387; sufficient;
+EV  IPR012754; TIGR02386; sufficient;
+--
+SN  rpoZ
+ID  RNA polymerase omega
+DN  DNA-directed RNA polymerase, omega subunit
+RQ  0
+EV  IPR003716; TIGR00690; sufficient;
+//

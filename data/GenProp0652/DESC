@@ -1,0 +1,138 @@
+AC  GenProp0652
+DE  exopolysaccharide biosynthesis, exosortase A-associated
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  16930487
+RT  Exopolysaccharide-associated protein sorting in environmental
+RT  organisms: the PEP-CTERM/EpsH system. Application of a novel
+RT  phylogenetic profiling heuristic.
+RA  Haft DH, Paulsen IT, Ward N, Selengut JD;
+RL  BMC Biol. 2006;4:29.
+CC  At least 30 different bacterial species known so far have the
+CC  PEP-CTERM/exosortase system believed to process proteins analogously to
+CC  the LPXTG/sortase system. Genes associated with this processing are
+CC  found among exopolysaccharide biosynthesis genes, suggesting that
+CC  PEP-CTERM proteins are part of this exopolysaccharide system, and
+CC  therefore are likely to be transported across the outer membrane. This
+CC  property represents a panel of exopolysaccharide biosynthesis genes
+CC  where each belongs to a subfamily that marks its host gene as carrying
+CC  the PEP-CTERM/exopolysaccharide system.
+--
+SN  ATPase
+ID  ATPase, exosortase type 1 region
+RQ  1
+EV  IPR017466; TIGR03015; sufficient;
+--
+SN  EpsH1
+ID  exosortase EpsH, type 1
+RQ  1
+EV  IPR013426; TIGR02602;
+EV  IPR017540; TIGR03109; sufficient;
+--
+SN  EpsI
+ID  EpsI
+RQ  0
+EV  IPR014263; TIGR02914;
+--
+SN  Hydrol
+ID  hydrolases (1 and 2), exosortase system type 1 associated
+RQ  0
+EV  IPR017531; TIGR03100; sufficient;
+EV  IPR017532; TIGR03101; sufficient;
+--
+SN  L_unchr
+ID  uncharacterized protein, EpsL-related
+RQ  1
+EV  IPR017467; TIGR03016; sufficient;
+--
+SN  Lig1
+ID  acyl-CoA ligase, PEP-CTERM/EpsH1 associated
+RQ  0
+EV  IPR017529; TIGR03098; sufficient;
+--
+SN  Nsynth
+ID  clustered asparagine synthase homolog
+RQ  0
+EV  IPR006426; TIGR01536;
+EV  IPR017539; TIGR03108; sufficient;
+--
+SN  PrsK
+ID  putative transmembrane histidine kinase, PEP-CTERM system
+RQ  1
+EV  IPR014265; TIGR02916; sufficient;
+--
+SN  PrsR
+ID  putative response regulator, PEP-CTERM system
+RQ  1
+EV  IPR014264; TIGR02915; sufficient;
+--
+SN  PrsT
+ID  TPR repeat putative lipoprotein, PEP-CTERM system
+RQ  1
+EV  IPR014266; TIGR02917; sufficient;
+--
+SN  dCO2ase
+ID  decarboxylase, exosortase system type 1 associated
+RQ  0
+EV  IPR017530; TIGR03099; sufficient;
+--
+SN  de_acet
+ID  polysaccharide deacetylase
+RQ  1
+EV  IPR014344; TIGR03006; sufficient;
+--
+SN  export
+ID  polysaccharide export protein
+RQ  1
+EV  IPR017477; TIGR03027; sufficient;
+--
+SN  femAB
+ID  FemAB-related protein
+RQ  1
+EV  IPR017469; TIGR03019; sufficient;
+--
+SN  prsB
+ID  sugar transferase
+RQ  1
+EV  IPR017464; TIGR03013; sufficient;
+--
+SN  stp1
+ID  sugar transferase, PEP-CTERM/EpsH1-associated
+RQ  0
+EV  IPR017521; TIGR03087; sufficient;
+--
+SN  stp2
+ID  sugar transferase, PEP-CTERM/EpsH1-associated
+RQ  0
+EV  IPR017522; TIGR03088; sufficient;
+--
+SN  stp3
+ID  sugar transferase, PEP-CTERM/exosortase 1-associated
+RQ  0
+EV  IPR024004; TIGR04063;
+--
+SN  up?
+ID  conserved region, upstream of non-CTERM gene
+RQ  0
+--
+SN  upstream
+ID  conserved region upstream of CTERM genes in proteobacteria
+RQ  0
+--
+SN  waaL
+ID  probable O-glycosylation ligase
+RQ  0
+EV  IPR017528; TIGR03097; sufficient;
+--
+SN  wzc1
+ID  tryosine autokinase
+RQ  1
+EV  IPR031045; TIGR03018; sufficient;
+--
+SN  wzz1
+ID  polysaccharide chain length determinant
+RQ  1
+EV  IPR014345; TIGR03007; sufficient;
+//

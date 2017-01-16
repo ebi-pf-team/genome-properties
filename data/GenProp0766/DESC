@@ -1,0 +1,40 @@
+AC  GenProp0766
+DE  anhydro-N-acetylmuramic acid to N-acetylglucosamine-phosphate
+TP  PATHWAY
+AU  Haft D
+TH  0
+RN  [1]
+RM  15901686
+RT  Recycling of the anhydro-N-acetylmuramic acid derived from cell wall
+RT  murein involves a two-step conversion to N-acetylglucosamine-phosphate.
+RA  Uehara T, Suefuji K, Valbuena N, Meehan B, Donegan M, Park JT;
+RL  J Bacteriol. 2005;187:3643-3649.
+RN  [2]
+RM  16452451
+RT  MurQ Etherase is required by Escherichia coli in order to metabolize
+RT  anhydro-N-acetylmuramic acid obtained either from the environment or
+RT  from its own cell wall.
+RA  Uehara T, Suefuji K, Jaeger T, Mayer C, Park JT;
+RL  J Bacteriol. 2006;188:1660-1662.
+CC  Components of the bacterial murein cell wall, including
+CC  1,6-anhydro-N-acetylmuramic acid (anhMurNAc), N-acetyl-D-glucosamine
+CC  (GlcNAc), D-alanine, and murein tripeptide are released during in
+CC  murein recycling as bacteria grow. Pathways exist to recycle these
+CC  components for the biosynthesis of new cell wall. This pathway
+CC  describes a two-enzyme pathway for converting anhMurNAc into
+CC  N-acetylglucosamine-phosphate.
+**  Oddly, in far to many genomes it is one enzyme or the other, but a
+**  failure to have both. I explored this by PPP, but unsuccessfully.
+--
+SN  anmK
+ID  anhydro-N-acetylmuramic acid kinase
+RQ  1
+EV  IPR005338; PF03702;
+TG  GO:0009254;
+--
+SN  murQ
+ID  N-acetylmuramic acid-phosphate etherase
+RQ  1
+EV  IPR005488; TIGR00274;
+TG  GO:0009254;
+//

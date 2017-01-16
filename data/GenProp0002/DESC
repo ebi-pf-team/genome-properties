@@ -1,0 +1,93 @@
+AC  GenProp0002
+DE  coenzyme F420 utilization
+TP  GUILD
+AU  Haft D
+TH  0
+DC  Methane Biosynthesis
+DR  IUBMB; misc; methane;
+DC  Coenzyme F420 hydrogenase
+DR  IUBMB; single; 112981;
+CC  Coenzyme F420 (a 7,8-didemethyl-8-hydroxy 5-deazaflavin) is found in
+CC  methanogenic archaea, the Mycobacteria, and some other species. Forms
+CC  differ in the number of glutamyl residues attached. The chromophore by
+CC  itself, FO, often can replace intact F420, so the literature will
+CC  occasionally describe an enzyme dependent on FO. This does not
+CC  necessarily mean the FO is not typically part of coenzyme F420 in vivo.
+CC  However, it appears that only FO, and not F420, occurs in the
+CC  Cyanobacteria. This property describes the presence of enzymes that use
+CC  F420 as an electron donor or receptor, as opposed to enzymes of its
+CC  biosynthesis.
+**  PMID:11726492 says methanogenic archaea, sulfate-reducing archaea,
+**  haloarchaea,  mycobacteria, Streptomyces, cyanobacteria and some
+**  eukaryotes. Reactions so far:  F420-dependent
+**  N5,N10-methylenetetrahydromethanopterin reductase  F420-dependent
+**  alcohol dehydrogenase  F420-dependent glucose-6-phosphate dehydrogenase
+**   F420-reducing hydrogenase  F420-dependent formate dehydrogenase 
+**  F420H2 dehydrogenase complex  F420-dependent
+**  N5,N10-methylenetetrahydromethanopterin dehydrogenase  F420H2:NADP+
+**  oxidoreductase
+--
+SN  420_LLM
+ID  LLM-family F420-associated subfamilies
+RQ  0
+EV  IPR019944; TIGR03554;
+EV  IPR019946; TIGR03555;
+EV  IPR019945; TIGR03557;
+EV  IPR019951; TIGR03559;
+EV  IPR019952; TIGR03560;
+EV  IPR019910; TIGR03564;
+EV  IPR019919; TIGR03617;
+EV  IPR019921; TIGR03619;
+EV  IPR019922; TIGR03620;
+EV  IPR019923; TIGR03621;
+EV  IPR022526; TIGR03841;
+EV  IPR022315; TIGR03842;
+EV  IPR022480; TIGR03856;
+EV  IPR022402; TIGR03854;
+EV  IPR022378; TIGR03857;
+EV  IPR023909; TIGR04024;
+--
+SN  420_MTD
+ID  methylene-5,6,7,8-tetrahydromethanopterin dehydrogenase
+RQ  0
+EV  IPR002844; PF01993;
+--
+SN  420_POX
+ID  PPOX-class probable F420-dependent enzyme
+RQ  0
+EV  IPR019920; TIGR03618;
+EV  IPR019965; TIGR03666;
+EV  IPR019966; TIGR03667;
+EV  IPR019967; TIGR03668;
+EV  IPR024031; TIGR04023;
+--
+SN  420_nit
+ID  PA-824 prodrug activation accessory family
+RQ  0
+EV  IPR004378; TIGR00026;
+--
+SN  F420_DUF
+ID  F420-associated branch of DUF2342 family
+RQ  0
+EV  IPR022454; TIGR03883;
+--
+SN  biosynth
+ID  Biosynthesis of F420
+RQ  1
+EV  GenProp0791;
+--
+SN  mer
+ID  5,10-methylenetetrahydromethanopterin reductase
+RQ  0
+EV  IPR019946; TIGR03555;
+--
+SN  nic_hyd
+ID  hydrogenase, nickel and F420-dependent
+RQ  0
+EV  GenProp0723;
+--
+SN  npdG
+ID  NADPH-dependent F420 reductase
+RQ  0
+EV  IPR010185; TIGR01915;
+//

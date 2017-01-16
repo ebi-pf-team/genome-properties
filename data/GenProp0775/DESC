@@ -1,0 +1,67 @@
+AC  GenProp0775
+DE  mycobactin biosynthesis
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  The closest homologs outside the Mycobacteria to most of these enzymes
+CC  are found in Nocardia asteroides, which makes the closely related
+CC  siderophore nocobactin NA.
+**  Being done by BrainGrab, including some rules based on minimally
+**  annotated genes.
+--
+SN  mbtA
+ID  salicyl-AMP ligase MbtA
+RQ  1
+EV  IPRXXXX; 2181;
+TG  GO:0019290;
+--
+SN  mbtB
+ID  mycobactin biosynthesis probable phenyloxazoline synthase
+RQ  1
+EV  IPRXXXX; 2185;
+TG  GO:0019290;
+--
+SN  mbtC
+ID  mycobactin biosynthesis enzyme MbtC
+RQ  1
+EV  IPRXXXX; 2180;
+TG  GO:0019290;
+--
+SN  mbtD
+ID  mycobactin biosynthesis enzyme MbtD
+RQ  1
+EV  IPRXXXX; 2182;
+TG  GO:0019290;
+--
+SN  mbtE
+ID  mycobactin biosynthesis enzyme MbtE
+RQ  1
+EV  IPRXXXX; 2183;
+TG  GO:0019290;
+--
+SN  mbtF
+ID  mycobactin biosynthesis peptide synthase MbtF
+RQ  1
+EV  IPRXXXX; 2186;
+TG  GO:0019290;
+--
+SN  mbtG
+ID  mycobactin biosynthesis enzyme MbtG
+RQ  1
+EV  IPRXXXX; 2184;
+TG  GO:0019290;
+--
+SN  mbtH
+ID  mycobactin biosynthesis protein MbtH
+RQ  0
+EV  IPRXXXX; PF03621;
+TG  GO:0019290;
+EV  IPRXXXX; 2187;
+TG  GO:0019290;
+--
+SN  mbtI
+ID  salicylate synthase MbtI
+RQ  1
+EV  IPRXXXX; 2178;
+TG  GO:0019290;
+//

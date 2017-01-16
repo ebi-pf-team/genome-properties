@@ -1,0 +1,58 @@
+AC  GenProp1071
+DE  myo-inositol catabolism
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  18310071
+RT  myo-Inositol catabolism in Bacillus subtilis.
+RA  Yoshida K, Yamaguchi M, Morinaga T, Kinehara M, Ikeuchi M, Ashida H,
+RA  Fujita Y;
+RL  J Biol Chem. 2008;283:10415-10424.
+RN  [2]
+RM  9805393
+RT  A model for the catabolism of rhizopine in Rhizobium leguminosarum
+RT  involves a ferredoxin oxygenase complex and the inositol degradative
+RT  pathway.
+RA  Bahar M, de Majnik J, Wexler M, Fry J, Poole PS, Murphy PJ;
+RL  Mol Plant Microbe Interact. 1998;11:1057-1068.
+**  iolF is transport (secondary), iolT is transport (primary), iolR is
+**  repressor, iolS next to iolR. TIGR01722 (iolA) may act as both
+**  1.2.1.27, 1.2.1.18 (same polypeptide as 1.2.1.27). iolI seems to be
+**  2-keto-myo-inositol isomerase, rare. Myo-inositol as sole carbon source
+**  in ntsm01, ntrl01, ntbs01, ntcg01
+--
+SN  1_iolG
+ID  inositol 2-dehydrogenase
+RQ  1
+EV  IPR030827; TIGR04380;
+--
+SN  2_iolE
+ID  myo-inosose-2 dehydratase
+RQ  1
+EV  IPR030823; TIGR04379;
+--
+SN  3_iolD
+ID  3,5/4-trihydroxycyclohexa-1,2-dione hydrolase
+RQ  1
+EV  IPR030817; TIGR04377;
+--
+SN  4_iolB
+ID  5-deoxy-glucuronate isomerase
+RQ  1
+EV  IPR024203; TIGR04378;
+--
+SN  5_iolC
+ID  5-dehydro-2-deoxygluconokinase
+RQ  1
+EV  IPR030830; TIGR04382;
+--
+SN  6_iolJ
+ID  5-dehydro-2-deoxyphosphogluconate aldolase
+RQ  0
+--
+SN  7_iolA
+ID  malonate-semialdehyde dehydrogenase (acetylating)
+RQ  1
+EV  IPR010061; TIGR01722;
+//

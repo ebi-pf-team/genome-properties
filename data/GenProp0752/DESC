@@ -1,0 +1,59 @@
+AC  GenProp0752
+DE  ergothioneine biosynthesis
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  20420449
+RT  In vitro reconstitution of Mycobacterial ergothioneine biosynthesis.
+RA  Seebeck FP;
+RL  J Am Chem Soc. 2010;132:6632-6633.
+CC  In actinobacteria, ergothioneine biosynthesis begins with EgtD, a
+CC  SAM-dependent enzyme that trimethylates the histidine alpha-amino group
+CC  to produce hercynine, the histidine-betaine. EgtA gamma-ligates Cys to
+CC  Glu, as occurs in glutathione biosynthesis. Next, EgtB attaches
+CC  hercynine to gammaglutamyl cysteine, with sulfur attachment to the
+CC  histidine-derived ring. EgtC then releases glutamate . Finally, EgtE, a
+CC  pyridoxal phosphate-dependent enzyme related to selenocysteine lyase,
+CC  cleaves the hercynylcysteine sulfoxide to leave ergothioneine.
+CC  Ergothioneine production is known also in cyanobacteria and mushrooms,
+CC  and is predicted to be more widely distributed. 
+**  June 2012 realized this system is ergothioneine biosynthesis, which is
+**  not just bacterial - major in mushrooms. Selenium analog is called
+**  selenoneine. Changed name and step_nums. Unfinished: need MSMEG_6246 to
+**  become EgtE. Need to hit in mushrooms too.  Hercynine, which is
+**  histidine betaine, is a precursor, suggesting the methytransferase does
+**  an independent step that might be part also of other properties. 
+**  PROBABLY NEED TO PROMOTE EgtC to REQUIRED TO PREVENT CONFUSION WITH
+**  SELENONEINE.
+--
+SN  egtA
+ID  glutamate--cysteine ligase family protein
+RQ  0
+EV  IPR017809; TIGR03444;
+TG  GO:0052699;
+--
+SN  egtB
+ID  ergothioneine biosynthesis protein EgtB
+RQ  1
+EV  IPR017806; TIGR03440;
+TG  GO:0052699;
+--
+SN  egtC
+ID  ergothioneine biosynthesis protein EgtC
+RQ  0
+EV  IPR017808; TIGR03442;
+TG  GO:0052699;
+--
+SN  egtD
+ID  ergothioneine biosynthesis methyltransferase EgtD
+RQ  1
+EV  IPR017804; TIGR03438;
+TG  GO:0052699;
+--
+SN  egtE
+ID  ergothioneine biosynthesis PLP-binding protein EgtE
+RQ  0
+EV  IPR027563; TIGR04343;
+TG  GO:0052699;
+//

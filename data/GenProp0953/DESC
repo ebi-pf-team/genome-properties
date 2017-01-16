@@ -1,0 +1,68 @@
+AC  GenProp0953
+DE  O103(Ec) antigen biosynthesis
+TP  METAPATH
+AU  Haft D
+TH  0
+RN  [1]
+RM  20555398
+RT  Structural determination of the O-antigenic polysaccharide of
+RT  enteropathogenic Escherichia coli O103:H2.
+RA  Vinogradov E, Maclean LL, Perry MB;
+RL  Can J Microbiol. 2010;56:366-372.
+RN  [2]
+RM  16121232
+RT  DNA sequence of the Escherichia coli O103 O antigen gene cluster and
+RT  detection of enterohemorrhagic E. coli O103 by PCR amplification of the
+RT  wzx and wzy genes.
+RA  Fratamico PM, DebRoy C, Strobaugh TP, Chen CY;
+RL  Can J Microbiol. 2005;51:515-522.
+CC  The E. coli O103 antigen structure has been determined [1], and the
+CC  biosynthetic cluster analyzed [2]. The monomer unit is a linear
+CC  pentasaccharide including one
+CC  3-deoxy-3-(R)-3-hydroxybutyramido-D-fucose per unit. The cluster
+CC  includes four glycosyltransferases (WbtDEFG), but accurate assignment
+CC  of which enzyme carries out each reaction has not yet been determined.
+CC  The needed reactions are: 1) aDGalNAc-(1->3)-bDGlcNAc, 2)
+CC  aDGlcNAc-(1->4)-aDGalNAc, 3) bDFuc3NBu-(1->6)-aDGlcNAc, and 4)
+CC  bDGlc-(1->2)-bDFuc3NBu.
+--
+SN  Fuc3NBu
+ID  source of dTDP-DFuc3NBu
+RQ  1
+EV  GenProp0952;
+--
+SN  WbtD
+ID  O103(Ec)-associated glycosyltransferase WbtD
+RQ  1
+EV  IPRXXXX; 2760;
+--
+SN  WbtE
+ID  O103(Ec)-associated glycosyltransferase WbtE
+RQ  1
+EV  IPRXXXX; 2761;
+--
+SN  WbtF
+ID  O103(Ec)-associated glycosyltransferase WbtF
+RQ  1
+EV  IPRXXXX; 2763;
+--
+SN  WbtG
+ID  O103(Ec)-associated glycosyltransferase WbtG
+RQ  1
+EV  IPRXXXX; 2764;
+--
+SN  wzx103
+ID  O103(Ec)-specific transporter (flippase) wzx
+RQ  1
+EV  IPRXXXX; 2759;
+--
+SN  wzy103
+ID  O103(Ec)-specific polymerase wzy
+RQ  1
+EV  IPRXXXX; 2762;
+--
+SN  wzz
+ID  chain length determinant protein
+RQ  0
+EV  IPR003856; PF02706;
+//

@@ -1,0 +1,42 @@
+AC  GenProp1053
+DE  rSAM/selenodomain system
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  In this uncharacterized system, the radical SAM domain protein (see
+CC  TIGR04167) has a Cys-rich suffix domain modeled by PF12345. In at least
+CC  eight reference genomes, one Cys is replaced by selenocysteine,
+CC  suggesting enzymatic activity and a distinctive role. In a large number
+CC  of genomes, the radical SAM enzyme is co-clustered with a member of
+CC  family TIGR04169.
+**  Version 3 of ProPhylo, 151 genomes, about 7.6 percent of genomes when
+**  based on selenoSammy. First couple by PPP were 4 to 5 gene
+**  neighborhoods, well-separated, but halves of larger families. Adding
+**  two additional families, glycosyltransferases, one like CofC, one like
+**  MftF (mycofactocin).
+--
+SN  P_ester
+ID  phosphoesterase family protein
+RQ  0
+EV  IPR027629; TIGR04168;
+--
+SN  glycCof
+ID  putative glycosyltransferase, CofC-like
+RQ  1
+EV  IPR018641; TIGR04282;
+--
+SN  glycMft
+ID  putative glycosyltransferase, MftF-like
+RQ  1
+EV  IPR026461; TIGR04283;
+--
+SN  peroxFam
+ID  alkylhydroperoxidase/carboxymuconolactone decarboxylase family protein
+RQ  1
+EV  IPR026445; TIGR04169;
+--
+SN  rSAM_SeC
+ID  radical SAM/selenodomain protein
+RQ  1
+EV  IPR026351; TIGR04167;
+//

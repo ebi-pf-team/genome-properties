@@ -1,0 +1,56 @@
+AC  GenProp0314
+DE  CRISPR system, II/Nmeni subtype
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  15822923
+RT  Predicted roles for hypothetical proteins in the low-temperature
+RT  expressed proteome of the Antarctic archaeon Methanococcoides burtonii.
+RA  Saunders NF, Goodchild A, Raftery M, Guilhaus M, Curmi PM, Cavicchioli
+RA  R;
+RL  J Proteome Res. 2005;4:464-472.
+RN  [2]
+RM  16292354
+RT  A guild of 45 CRISPR-associated (Cas) protein families and multiple
+RT  CRISPR/Cas subtypes exist in prokaryotic genomes.
+RA  Haft DH, Selengut J, Mongodin EF, Nelson KE;
+RL  PLoS Comput Biol. 2005;1:e60.
+CC  CRISPR repeats are by definition Clustered Regularly Interspaced Short
+CC  Palindromic Repeats. The repeats vary in size from 24 to 48 bp,
+CC  interspaced by similarly sized non-repetitive sequences. These spacers
+CC  often are derived from phage and other exogenous DNA, are transcribed
+CC  into RNA, and confer resistance to those same phage. Several
+CC  CRISPR-associated sequences (cas genes) are nearly as widespread as
+CC  CRISPR itself and nearly always are found near repeat loci. Others
+CC  represent minor cas genes that serve as markers for specific subtypes
+CC  of CRISPR/cas system, each with characteristic cas gene makeup, repeat
+CC  structure, and spacer length. The Nmeni subtype, so named because this
+CC  subtype is the only one found in the genome of Neisseria meningitidis,
+CC  consists of cas1 and cas2 and the subtype specific genes csn1-2. This
+CC  subtype has the most limited suite of cas core genes of any subtype
+CC  defined thus far.  The repeats associated with this subtype tend to
+CC  have a periodicity of 66 nucleotides. This subtype is found only in
+CC  Bacteria, and notably it would seem only in known or potential (i.e.
+CC  containing virulence genes) vertebrate pathogens.                       
+--
+SN  Cas1
+ID  Cas1, Nmeni region
+RQ  1
+EV  IPR019855; TIGR03639;
+--
+SN  Cas2
+ID  Cas2, Nmeni region
+RQ  1
+EV  IPR021127; TIGR01573;
+--
+SN  Cas9
+ID  RNA-guided endonuclease Cas9/Csn1
+RQ  1
+EV  IPR028629; TIGR01865; sufficient;
+--
+SN  Csn2
+ID  Csn2
+RQ  0
+EV  IPR010146; TIGR01866; sufficient;
+//

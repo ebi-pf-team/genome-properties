@@ -1,0 +1,114 @@
+AC  GenProp0917
+DE  mycofactocin system
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  21223593
+RT  Bioinformatic evidence for a widely distributed, ribosomally produced
+RT  electron carrier precursor, its maturation proteins, and its
+RT  nicotinoprotein redox partners.
+RA  Haft DH;
+RL  BMC Genomics. 2011;12:21.
+RN  [2]
+RM  9249038
+RT  Tetrazolium-dye-linked alcohol dehydrogenase of the methylotrophic
+RT  actinomycete Amycolatopsis methanolica is a three-component complex.
+RA  Bystrykh LV, Govorukhina NI, Dijkhuizen L, Duine JA;
+RL  Eur J Biochem. 1997;247:280-287.
+CC  This Genome Property describes the proposed mycofactocin system, in
+CC  which the four absolutely conserved elements are a radical SAM protein,
+CC  a glycosyltransferase, a small protein with a strongly conserved
+CC  central motif, and a very small protein with an invariant C-terminal
+CC  motif GCVY. This last component, the proposed mycofactocin precursor
+CC  MftA, often is not apparent because of faulty gene calling. Species
+CC  with this system in addition always have at least a few examples
+CC  (usually co-clustered) of nicotinoproteins with tightly bound NAD(P)
+CC  cofactors that cannot be exchanged, requiring an extrinsic mechanism
+CC  (such as the artifical electron acceptor NDMA) to be able to cycle. 
+CC  Mycofactocin is proposed to undergo modification and become the
+CC  required electron exchange cofactor. 
+**  Note that the tetrazolium-dye-linked alcohol dehydrogenase paper
+**  PMID:9249038 describes an uncharacterized yellow chromophore and
+**  describes a connection to 5'-deazaflavin (coenzyme F420).
+--
+SN  ac_AD_4
+ID  oxidoreductase, FAD/FMN-binding
+RQ  0
+EV  IPR023987; TIGR03997;
+TG  GO:0055114;
+EV  IPR023967; TIGR03996;
+TG  GO:0051188;
+--
+SN  ac_aux1
+ID  dehydrogenase, Rv0697 family
+RQ  0
+EV  IPR023978; TIGR03970;
+TG  GO:0055114;
+EV  IPR030900; TIGR04542;
+TG  GO:0051188;
+--
+SN  mftA
+ID  mycofactocin precursor
+RQ  1
+EV  IPR023988; TIGR03969;
+TG  GO:0051188;
+--
+SN  mftB
+ID  RPExGFAL protein
+RQ  1
+EV  IPR023850; TIGR03967;
+TG  GO:0051188;
+--
+SN  mftCSAM
+ID  radical SAM mycofactocin maturase
+RQ  1
+EV  IPR023913; TIGR03962;
+TG  GO:0051188;
+--
+SN  mftDflv
+ID  heme/FMN protein,
+RQ  1
+EV  IPR023989; TIGR03966;
+TG  GO:0055114;
+--
+SN  mftEcre
+ID  creatininase family protein
+RQ  1
+EV  IPR023871; TIGR03964;
+TG  GO:0051188;
+--
+SN  mftFgly
+ID  glycosyltransferase
+RQ  1
+EV  IPR023981; TIGR03965;
+TG  GO:0051188;
+--
+SN  mftR
+ID  mycofactocin system transcriptional regulator
+RQ  0
+EV  IPR023851; TIGR03968;
+TG  GO:0051193;
+--
+SN  mft_AD1
+ID  dehydrogenase, SDR family
+RQ  0
+EV  IPR023985; TIGR03971;
+TG  GO:0055114;
+EV  IPR030981; TIGR04504;
+TG  GO:0051188;
+--
+SN  mft_AD2
+ID  dehydrogenase, Rxyl_3153 family
+RQ  1
+EV  IPR023921; TIGR03989;
+TG  GO:0055114;
+--
+SN  mft_AD3
+ID  dehydrogenase, iron-activated family
+RQ  0
+EV  IPRXXXX; PF00465;
+TG  GO:0055114;
+EV  IPR026338; TIGR04266;
+TG  GO:0055114;
+//

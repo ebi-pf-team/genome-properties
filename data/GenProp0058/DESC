@@ -1,0 +1,89 @@
+AC  GenProp0058
+DE  menaquinone biosynthesis via SEPHCHC
+TP  PATHWAY
+AU  Haft D
+TH  3
+RN  [1]
+RM  18284213
+RT  Identification and characterization of
+RT  (1R,6R)-2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+RT  in the menaquinone biosynthesis of Escherichia coli.
+RA  Jiang M, Chen X, Guo ZF, Cao Y, Chen M, Guo Z;
+RL  Biochemistry. 2008;47:3426-3434.
+RN  [2]
+RM  17760421
+RT  Menaquinone biosynthesis in Escherichia coli: identification of
+RT  2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate as a
+RT  novel intermediate and re-evaluation of MenD activity.
+RA  Jiang M, Cao Y, Guo ZF, Chen M, Chen X, Guo Z;
+RL  Biochemistry. 2007;46:10979-10989.
+DC  Ubiquinone metabolism
+DR  KEGG; map00130;
+CC  Menaquinone (also known as Vitamin K2) is one of the quinone cofactors
+CC  which play an essential role in hydrogen transfer reactions,
+CC  particularly during anaerobic respiration. Menaquinone in E. coli and
+CC  various other bacteria is synthesized from chorismate, 2-oxoglutarate,
+CC  polyprenyl-pyrophosphate and S-adenosylmethionine. A very similar
+CC  molecule (phylloquinone, vitamin K1) is found in cyanobacteria and
+CC  plants which contains a shorter isoprenoid (phytyl) chain which in
+CC  which three of the four double bonds are reduced. In animals, both
+CC  vitamins K1 and K2 act as cofactors for gamma-carboxylation of
+CC  glutamate (Glu -> Gla) which is critical for coagulation factors. Note
+CC  that an alternative pathway to menaquinone biosynthesis operates in
+CC  Helicobacter pylori, Campylobacter jejuni, Streptomyces, and other
+CC  species (see PMID:18801996). That pathway is not described here.
+--
+SN  1_menF
+ID  isochorismate synthase
+DN  isochorismate synthase (EC 5.4.4.2)
+RQ  1
+EV  IPR004561; TIGR00543; sufficient;
+--
+SN  2_menD
+ID  SEPHCHC synthase
+DN  2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylic acid synthase/2-oxoglutarate decarboxylase
+RQ  1
+EV  IPR004433; TIGR00173; sufficient;
+TG  GO:0009234;
+--
+SN  7
+ID  demethylmenaquinone methyltransferase
+RQ  0
+EV  IPR004033; TIGR01934; sufficient;
+TG  GO:0009234;
+--
+SN  menA
+ID  1,4-dihydroxy-2-naphthoate prenyl-transferase
+RQ  1
+EV  IPRXXXX; TIGR00751; sufficient;
+TG  GO:0009234;
+--
+SN  menB
+ID  naphthoate synthase
+DN  naphthoate synthase
+RQ  1
+EV  IPR010198; TIGR01929; sufficient;
+TG  GO:0009234;
+--
+SN  menC
+ID  o-succinylbenzoate synthase
+DN  o-succinylbenzoate synthase
+RQ  1
+EV  IPRXXXX; TIGR01927; sufficient;
+TG  GO:0009234;
+EV  IPR010197; TIGR01928; sufficient;
+TG  GO:0009234;
+--
+SN  menE
+ID  o-succinylbenzoate--CoA ligase
+DN  o-succinylbenzoate--CoA ligase
+RQ  1
+EV  IPR010192; TIGR01923; sufficient;
+TG  GO:0009234;
+--
+SN  menH
+ID  SHCHC synthase
+RQ  0
+EV  IPR022485; TIGR03695;
+TG  GO:0009234;
+//

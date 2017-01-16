@@ -1,0 +1,95 @@
+AC  GenProp0137
+DE  iron-sulfur cluster assembly SUF system
+TP  SYSTEM
+AU  Haft D
+TH  1
+RN  [1]
+RM  12089140
+RT  A third bacterial system for the assembly of iron-sulfur clusters with
+RT  homologs in archaea and plastids.
+RA  Takahashi Y, Tokumoto U;
+RL  J Biol Chem. 2002;277:28380-28383.
+RN  [2]
+RM  12876288
+RT  Biogenesis of Fe-S cluster by the bacterial Suf system: SufS and SufE
+RT  form a new type of cysteine desulfurase.
+RA  Loiseau L, Ollagnier-de-Choudens S, Nachin L, Fontecave M, Barras F;
+RL  J Biol Chem. 2003;278:38352-38359.
+RN  [3]
+RM  12554644
+RT  SufC: an unorthodox cytoplasmic ABC/ATPase required for [Fe-S]
+RT  biogenesis under oxidative stress.
+RA  Nachin L, Loiseau L, Expert D, Barras F;
+RL  EMBO J. 2003;22:427-437.
+CC  The iron-sulfur cluster assembly SUF system is one of three iron-sulfur
+CC  assembly systems present in a wide range of bacteria, Archeae, and
+CC  Plastids. The other two mechanisms for iron-sulfur cluster assembly are
+CC  the ISC (iron-sulfur cluster) system, composed of at least six
+CC  components and found broadly distributed from bacteria to higher
+CC  eukaryotes, and the NIF (nitrogen fixation) system, which is required
+CC  for nitrogenase maturation [1]. The SUF (mobilization of sulfur) system
+CC  is composed of a six gene cluster with protein complexes responsible
+CC  for cysteine desulfuration of sulfur atoms from cysteine, cytosolic
+CC  ATPase activity, and a protein scaffold for iron and sulfur cluster
+CC  assembly and transfer to protein targets [2]. Operational under
+CC  stressful growth conditions, such as iron limitation and oxidative
+CC  stress, the SUF system has been shown to be an important factor for
+CC  bacterial pathogenicity [3].
+--
+SN  SufA
+ID  iron-sulfur cluster assembly scaffold SufA
+RQ  0
+EV  IPR011298; TIGR01997; sufficient;
+TG  GO:0016226;
+EV  IPRXXXX; TIGR01994; sufficient;
+TG  GO:0016226;
+--
+SN  SufB
+ID  FeS assembly protein SufB
+DN  FeS assembly protein SufB
+RQ  1
+EV  IPR010231; TIGR01980; sufficient;
+TG  GO:0016226;
+--
+SN  SufC
+ID  cytosolic ATPase SufC
+DN  FeS assembly ATPase SufC
+RQ  1
+EV  IPR010230; TIGR01978; sufficient;
+TG  GO:0016226;
+--
+SN  SufD
+ID  FeS assembly protein SufD
+DN  FeS assembly protein SufD
+RQ  1
+EV  IPR011542; TIGR01981; sufficient;
+TG  GO:0016226;
+--
+SN  SufE
+ID  cysteine desulfurase auxiliary chain SufE
+RQ  0
+EV  IPR003808; PF02657; sufficient;
+TG  GO:0016226;
+--
+SN  SufR
+ID  transcriptional regulatory SufR
+RQ  0
+EV  IPR014075; TIGR02702; sufficient;
+TG  GO:0016226;
+EV  IPR014290; TIGR02944; sufficient;
+TG  GO:0016226;
+--
+SN  SufS
+ID  cysteine desulfurases, SufS subfamily
+DN  cysteine desulfurase SufS
+RQ  1
+EV  IPR010970; TIGR01979; sufficient;
+--
+SN  novel
+ID  proteobacterial novel SUF protein SufT
+RQ  0
+EV  IPR014291; TIGR02945; sufficient;
+TG  GO:0016226;
+EV  IPR017776; TIGR03406;
+TG  GO:0016226;
+//

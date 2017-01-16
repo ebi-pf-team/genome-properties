@@ -1,0 +1,40 @@
+AC  GenProp1075
+DE  ferrous iron transport Feo system
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  23104801
+RT  Solution structure of Escherichia coli FeoA and its potential role in
+RT  bacterial ferrous iron transport.
+RA  Lau CK, Ishida H, Liu Z, Vogel HJ;
+RL  J Bacteriol. 2013;195:46-55.
+RN  [2]
+RM  23024345
+RT  Crystal structure of the Klebsiella pneumoniae NFeoB/FeoC complex and
+RT  roles of FeoC in regulation of Fe2+ transport by the bacterial Feo
+RT  system.
+RA  Hung KW, Tsai JY, Juan TH, Hsu YL, Hsiao CD, Huang TH;
+RL  J Bacteriol. 2012;194:6518-6526.
+CC  The proteins FeoA, FeoB, and FeoC are a bacterial ferrous iron
+CC  transport system. No siderophores are involved. Ferrous iron (Fe(2+))
+CC  typically is present only during oxygen limitation.
+--
+SN  feoA
+ID  ferrous iron transport protein A
+RQ  1
+EV  IPRXXXX; PF04023;
+TG  GO:0015684;
+--
+SN  feoB
+ID  ferrous iron transport protein B
+RQ  1
+EV  IPR003373; TIGR00437;
+TG  GO:0015684;
+--
+SN  feoC
+ID  ferrous iron transport protein C
+RQ  0
+EV  IPRXXXX; PF09012;
+TG  GO:1900390;
+//

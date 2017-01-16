@@ -1,0 +1,23 @@
+AC  GenProp0480
+DE  acetyl-CoA biosynthesis from acetate, direct
+TP  PATHWAY
+AU  Haft D
+TH  0
+RN  [1]
+RM  13367067
+RT  Acyl adenylates; an enzymatic mechanism of acetate activation.
+RA  BERG P;
+RL  J Biol Chem. 1956;222:991-1013.
+CC  This property's sole component is the enzyme acetyl-CoA ligase which
+CC  hydrolyses ATP to AMP in the process of ligating acetate to coenzyme A.
+CC   This enzyme acts essentially irreversibly in the direction of AcCoA
+CC  biosynthesis and utilizes an enzyme-bound acyl-adeylate (AMP-Ac)
+CC  intermediate [1]. The purpose of this property is for comparison with
+CC  the various other ways of interconverting acetate and acetyl-CoA.
+--
+SN  ligase
+ID  acetate--CoA ligase
+RQ  1
+EV  IPR011904; TIGR02188; sufficient;
+TG  GO:0019427;
+//

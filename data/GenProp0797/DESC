@@ -1,0 +1,40 @@
+AC  GenProp0797
+DE  selenocysteinyl-tRNA, PSTK/SepSecS pathway
+TP  PATHWAY
+AU  Haft D
+TH  0
+RN  [1]
+RM  18174226
+RT  Characterization and evolutionary history of an archaeal kinase
+RT  involved in selenocysteinyl-tRNA formation.
+RA  Sherrer RL, O'Donoghue P, Söll D;
+RL  Nucleic Acids Res. 2008;36:1247-1259.
+RN  [2]
+RM  15317934
+RT  Identification and characterization of phosphoseryl-tRNA[Ser]Sec
+RT  kinase.
+RA  Carlson BA, Xu XM, Kryukov GV, Rao M, Berry MJ, Gladyshev VN, Hatfield
+RA  DL;
+RL  Proc Natl Acad Sci U S A. 2004;101:12848-12853.
+CC  This pathway is the archaeal and eukaryotic system for converting the
+CC  serine on selenocysteine-tRNA to selenocysteine. This first enzyme is a
+CC  kinase, L-seryl-tRNA(Sec) kinase (PSTK). The second is
+CC  Sep-tRNA:Sec-tRNA synthase (SepSecS). In bacteria, this two-enzyme
+CC  pathway is replaced by SelA (TIGR00474).
+**  April 2008. This property a component of the new prop_def 16. arg,
+**  ntmm04, ntmk01.
+--
+SN  pstK
+ID  L-seryl-tRNA(Sec) kinase
+DN  L-seryl-tRNA(Sec) kinase (EC 2.7.1.-)
+RQ  1
+EV  IPR020024; TIGR03574;
+TG  GO:0016260;
+--
+SN  spcS
+ID  O-phosphoseryl-tRNA(Sec) selenium transferase
+DN  O-phosphoseryl-tRNA(Sec) selenium transferase (EC 2.9.1.-)
+RQ  1
+EV  IPR019872; TIGR03531;
+TG  GO:0016260;
+//

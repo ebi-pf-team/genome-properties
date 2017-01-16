@@ -1,0 +1,91 @@
+AC  GenProp0287
+DE  ribonucleotide reduction
+TP  METAPATH
+AU  Haft D
+TH  0
+RN  [1]
+RM  15158709
+RT  Structure, function, and mechanism of ribonucleotide reductases.
+RA  Kolberg M, Strand KR, Graff P, Andersson KK;
+RL  Biochim Biophys Acta. 2004;1699:1-34.
+RN  [2]
+RM  12714050
+RT  Di-iron-tyrosyl radical ribonucleotide reductases.
+RA  Stubbe J;
+RL  Curr Opin Chem Biol. 2003;7:183-188.
+RN  [3]
+RM  11802741
+RT  Crystal structure of the di-iron/radical protein of ribonucleotide
+RT  reductase from Corynebacterium ammoniagenes.
+RA  Högbom M, Huque Y, Sjöberg BM, Nordlund P;
+RL  Biochemistry. 2002;41:1381-1389.
+RN  [4]
+RM  9818192
+RT  The function of adenosylcobalamin in the mechanism of ribonucleoside
+RT  triphosphate reductase from Lactobacillus leichmannii.
+RA  Lawrence CC, Stubbe J;
+RL  Curr Opin Chem Biol. 1998;2:650-655.
+RN  [5]
+RM  12206460
+RT  Deoxyribonucleotide synthesis in anaerobic microorganisms: the class
+RT  III ribonucleotide reductase.
+RA  Fontecave M, Mulliez E, Logan DT;
+RL  Prog Nucleic Acid Res Mol Biol. 2002;72:95-127.
+RN  [6]
+RM  15949864
+RT  Identification of a bacterial regulatory system for ribonucleotide
+RT  reductases by phylogenetic profiling.
+RA  Rodionov DA, Gelfand MS;
+RL  Trends Genet. 2005;21:385-389.
+DC  Purine metabolism
+DR  KEGG; map00230;
+DC  Pyrimidine metabolism
+DR  KEGG; map00240;
+CC  The reduction of the ribose sugar of ribonucleotide triphosphates to
+CC  deoxyribose is one of the essential steps in the biosynthesis of DNA.
+CC  This chemically challenging step is carried out be a number of
+CC  distinctly different enzyme systems [1]. Each of these systems utilizes
+CC  a different mechanism for the generation of a transient cysteine-thiyl
+CC  radical which initiates the reduction of the substrate. Class I enzymes
+CC  utilize a diferric non-heme iron cluster to generate a stable tyrosine
+CC  radical [2]. Note that earlier reports of a manganese-based class IV
+CC  system related to class I in high GC gram positive species was proved
+CC  to be spurious [3].  Class II enzymes utilize adenosylcobalamin
+CC  (vitamin B12) [4].  Class III enzymes utilize radical-SAM domain
+CC  proteins to generate stable glycine radicals [5].    A very small
+CC  number of genomes appear to be devoid of ribonucleotide reductase
+CC  sequences, Mycoplasma arthritidis 158L3-1, Mycoplasma bovis Donetta
+CC  PG45, Ureaplasma urealyticum parvum biovar serovar 3, Borrelia
+CC  burgdorferi B31 and Borrelia garinii PBi.  Each of these is a reduced
+CC  genome with a limited metabolic portfolio, however other mycoplasma
+CC  species do contain RNRs.  Three possibilities are likely, 1) these
+CC  genomes harbor a non-orthologous RNR, 2) these genes are located on
+CC  plasmids or small chromosomes which were lost prior to genomic
+CC  sequencing (Borrelia, in particular has a number of small chromosomes
+CC  and plasmids which were sequenced) or 3) these species strictly rely on
+CC  import of deoxyribonucleic acid from the host environment.
+--
+SN  I
+ID  class I (aerobic) ribonucleotide reductase: GenProp0289
+RQ  1
+EV  GenProp0289;
+TG  GO:0009265;
+--
+SN  II
+ID  class II (B12-dependent) ribonucleotide reductase: GenProp0290
+RQ  1
+EV  GenProp0290;
+TG  GO:0009265;
+--
+SN  III
+ID  class III (anaerobic) ribonucleotide reductase: GenProp0291
+RQ  1
+EV  GenProp0291;
+TG  GO:0009265;
+--
+SN  NrdR
+ID  transcriptional regulator NrdR
+RQ  0
+EV  IPR003796; TIGR00244; sufficient;
+TG  GO:0009265;
+//

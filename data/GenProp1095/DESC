@@ -1,0 +1,34 @@
+AC  GenProp1095
+DE  exodeoxyribonuclease VII
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  22718974
+RT  Delineation of structural domains and identification of functionally
+RT  important residues in DNA repair enzyme exonuclease VII.
+RA  Poleszak K, Kaminska KH, Dunin-Horkawicz S, Lupas A, Skowronek KJ,
+RA  Bujnicki JM;
+RL  Nucleic Acids Res. 2012;40:8163-8174.
+RN  [2]
+RM  18812402
+RT  Identification of two conserved aspartic acid residues required for DNA
+RT  digestion by a novel thermophilic Exonuclease VII in Thermotoga
+RT  maritima.
+RA  Larrea AA, Pedroso IM, Malhotra A, Myers RS;
+RL  Nucleic Acids Res. 2008;36:5992-6003.
+CC  Exonuclease VII, consisting of a large subunit XseA and small subunit
+CC  XseB, hydrolyzes single-stranded DNA. It acts in DNA mismatch repair
+CC  and homologous recombination. 
+--
+SN  XseA
+ID  exodeoxyribonuclease VII large subunit
+RQ  1
+EV  IPR003753; TIGR00237;
+--
+SN  XseB
+ID  exodeoxyribonuclease VII small subunit
+RQ  1
+EV  IPR003761; PF02609;
+EV  IPR003761; TIGR01280;
+//

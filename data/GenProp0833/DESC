@@ -1,0 +1,53 @@
+AC  GenProp0833
+DE  proteasome-targeting modification by pupylation
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  18832610
+RT  Ubiquitin-like protein involved in the proteasome pathway of
+RT  Mycobacterium tuberculosis.
+RA  Pearce MJ, Mintseris J, Ferreyra J, Gygi SP, Darwin KH;
+RL  Science. 2008;322:1104-1107.
+RN  [2]
+RM  17277063
+RT  Characterization of the proteasome accessory factor (paf) operon in
+RT  Mycobacterium tuberculosis.
+RA  Festa RA, Pearce MJ, Darwin KH;
+RL  J Bacteriol. 2007;189:3044-3050.
+CC  Pupylation is the process by which the small protein Pup is conjugated
+CC  to proteins through its C-terminus to a lysine epsilon-amino group of
+CC  the target. This modification, analogous to ubiquitination in
+CC  eukaryotes, targets proteins for degradation by archaeal-type
+CC  proteasomes in Mycobacterium tuberculosis and related Actinobacteria.
+**  Add Aravind paper on pupylation. Note that the Actinobacterial
+**  proteasome subunits are not yet a property - that system should be
+**  built and include this system. This system IS sporadically distributed
+**  OUTSIDE Actinobacteria, yet we have no examples in house.
+--
+SN  PROSOME
+ID  20S proteasome
+RQ  1
+EV  GenProp0834;
+TG  GO:0019941;
+--
+SN  pup
+ID  ubiquitin-like protein Pup
+RQ  1
+EV  IPR008515; TIGR03687;
+TG  GO:0019941;
+--
+SN  pup_AAA
+ID  AAA family ATPase, pupylation-associated
+RQ  1
+EV  IPR022482; TIGR03689;
+TG  GO:0019941;
+--
+SN  pup_lig
+ID  Pup ligase
+RQ  1
+EV  IPR022279; TIGR03686;
+TG  GO:0019941;
+EV  IPR022366; TIGR03688;
+TG  GO:0019941;
+//

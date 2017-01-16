@@ -1,0 +1,72 @@
+AC  GenProp0318
+DE  CRISPR system, III-A/Mtube subtype
+TP  SYSTEM
+AU  Haft D
+TH  3
+RN  [1]
+RM  16292354
+RT  A guild of 45 CRISPR-associated (Cas) protein families and multiple
+RT  CRISPR/Cas subtypes exist in prokaryotic genomes.
+RA  Haft DH, Selengut J, Mongodin EF, Nelson KE;
+RL  PLoS Comput Biol. 2005;1:e60.
+CC  CRISPR repeats are by definition Clustered Regularly Interspaced Short
+CC  Palindromic Repeats, described by Jansen [1]. Certain proteins,
+CC  including Cas1 to Cas4, are found only in genomes with CRISPR repeats,
+CC  and are near these repeats. Jansen, et al. describe CRISPR loci as
+CC  having direct repeats, varying in size from 21 to 37 bp, interspaced by
+CC  similarly sized non-repetitive sequences. Variants of CRISP/Cas loci
+CC  (subtypes) have been described (Haft, Selengut, et al., submitted) in
+CC  which certain groups of subtype-specific genes are found in addition to
+CC  characteristic sets of the more widely distributed cas genes. The Mtube
+CC  subtype, so named because this subtype is the only one found in the
+CC  genome of Mycobacterium tuberculosis, consists of cas1, cas2, and the
+CC  subtype specific genes csm1-5.  Csm3, 4 and 5 are members of the RAMP
+CC  superfamily, and this subtype shares some similarities with the CRISPR
+CC  RAMP module in that it tends to be associated with other subtypes and
+CC  often forms hybrid-subtype loci. 
+--
+SN  Cas1
+ID  Cas1, Mtube region
+RQ  1
+EV  IPR002729; TIGR00287;
+--
+SN  Cas2
+ID  Cas2, Mtube region
+RQ  1
+EV  IPR021127; TIGR01573;
+--
+SN  Cas6
+ID  Cas6, Mtube region
+RQ  1
+EV  IPR010156; TIGR01877;
+--
+SN  Csm1
+ID  Csm1
+RQ  1
+EV  IPR013408; TIGR02578; sufficient;
+--
+SN  Csm2
+ID  Csm2
+RQ  1
+EV  IPR010149; TIGR01870; sufficient;
+--
+SN  Csm3
+ID  Csm3
+RQ  1
+EV  IPR013412; TIGR02582; sufficient;
+--
+SN  Csm4
+ID  Csm4
+RQ  1
+EV  IPR005510; TIGR01903; sufficient;
+--
+SN  Csm5
+ID  Csm5
+RQ  1
+EV  IPR010173; TIGR01899; sufficient;
+--
+SN  Csm6
+ID  Csm6
+RQ  0
+EV  IPR013489; TIGR02672; sufficient;
+//

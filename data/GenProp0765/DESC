@@ -1,0 +1,64 @@
+AC  GenProp0765
+DE  glycerol fermentation to  1,3-propanediol, using glycerol dehydratase
+TP  PATHWAY
+AU  Haft D
+TH  0
+RN  [1]
+RM  11298756
+RT  Identification and expression of the genes and purification and
+RT  characterization of the gene products involved in reactivation of
+RT  coenzyme B12-dependent glycerol dehydratase of Citrobacter freundii.
+RA  Seifert C, Bowien S, Gottschalk G, Daniel R;
+RL  Eur J Biochem. 2001;268:2369-2378.
+RN  [2]
+RM  9675846
+RT  Properties and sequence of the coenzyme B12-dependent glycerol
+RT  dehydratase of Clostridium pasteurianum.
+RA  Macis L, Daniel R, Gottschalk G;
+RL  FEMS Microbiol Lett. 1998;164:21-28.
+CC  Glycerol can be converted anaerobically to 1,3-propanediol in two
+CC  steps. Glycerol dehydratase (EC 4.2.1.30), which needs B12, removes a
+CC  water and gives 3-hydroxypropionaldehyde. 1,3-propanediol dehydrogenase
+CC  then converts 3-hydroxypropionaldehyde and NADH 1,3-propanediol and
+CC  NAD+. Model species for this pathway include Citrobacter freundii,
+CC  Klebsiella pneumoniae, and Clostridium pasteurianum.
+**  Note that a closely related (but different) enzyme, diol dehydratase,
+**  can do the same thing with glycerol. Should set property name to
+**  establish that it shows this difference.  Note that the glycerol
+**  dehydratase has alpha, beta, and gamma subunits, and is assisted by a
+**  two-subunit chaperone, glycerol dehydratase reactivase, which removes
+**  B12 cofactor that can be suicide-inactivated by the substrate,
+**  glycerol.  Note that BRAINGRAB rules of proteobacterial sequences do
+**  not necessarily hit Clostridium past. seqs, so models cannot say "NO"
+**  very well.
+--
+SN  dhaB
+ID  glycerol dehydratase, alpha subunit
+RQ  1
+EV  IPRXXXX; 2099;
+--
+SN  dhaC
+ID  glycerol dehydratase, beta subunit
+RQ  1
+EV  IPRXXXX; 2098;
+--
+SN  dhaE
+ID  glycerol dehydratase, gamma subunit
+RQ  1
+EV  IPRXXXX; 2096;
+--
+SN  dhaF
+ID  glycerol dehydratase reactivase, large subunit
+RQ  1
+EV  IPRXXXX; 2097;
+--
+SN  dhaG
+ID  glycerol dehydratase reactivase, small subunit
+RQ  1
+EV  IPRXXXX; 2095;
+--
+SN  dhaT
+ID  1,3-propanediol dehydrogenase
+RQ  1
+EV  IPRXXXX; 2094;
+//

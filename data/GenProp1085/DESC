@@ -1,0 +1,35 @@
+AC  GenProp1085
+DE  pyranoside core peptidyl nucleoside antibiotic biosynthesis
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  22753012
+RT  Analysis of the mildiomycin biosynthesis gene cluster in
+RT  Streptoverticillum remofaciens ZJU5119 and characterization of MilC, a
+RT  hydroxymethyl cytosyl-glucuronic acid synthase.
+RA  Wu J, Li L, Deng Z, Zabriskie TM, He X;
+RL  Chembiochem. 2012;13:1613-1621.
+RN  [2]
+RM  23874663
+RT  Discovery and characterization of BlsE, a radical
+RT  S-adenosyl-L-methionine decarboxylase involved in the blasticidin S
+RT  biosynthetic pathway.
+RA  Feng J, Wu J, Dai N, Lin S, Xu HH, Deng Z, He X;
+RL  PLoS One. 2013;8:e68545.
+CC  Blasticidin S and mildiomycin are examples of peptidyl nucleoside
+CC  antibiotics with a pyranoside core moiety. The two key enzymes to make
+CC  this moeity are cytosylglucuronate (or hydroxymethylcytosylglucuronate)
+CC  synthase and cytosylglucuronate decarboxylase. The latter is a radical
+CC  SAM enzyme.
+--
+SN  MilC
+ID  cytosylglucuronate synthase
+RQ  1
+EV  IPR031016; TIGR04467;
+--
+SN  MilG
+ID  cytosylglucuronate decarboxylase
+RQ  1
+EV  IPR031014; TIGR04466;
+//

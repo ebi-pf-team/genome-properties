@@ -1,0 +1,30 @@
+AC  GenProp0837
+DE  1-acylglycerol-3-phosphate biosynthesis, PlsX/Y pathway
+TP  PATHWAY
+AU  Haft D
+TH  0
+RN  [1]
+RM  17645809
+RT  Involvement of the YneS/YgiH and PlsX proteins in phospholipid
+RT  biosynthesis in both Bacillus subtilis and Escherichia coli.
+RA  Yoshimura M, Oshima T, Ogasawara N;
+RL  BMC Microbiol. 2007;7:69.
+CC  This two-enzyme pathway for 1-acylglycerol-3-phosphate biosynthesis can
+CC  replace the enzyme glycerol-3-phosphate O-acyltransferase (2.3.1.15) of
+CC  E. coli, and is more widely distributed. PlsX synthesizes the
+CC  acylphosphate from an acyl group on a carrier (CoA or acyl carrier
+CC  protein), and PlsY (YgiH, YneS) transfers the acyl group to
+CC  glycerol-3-phosphate.
+--
+SN  plsX
+ID  plsX
+RQ  1
+EV  IPR012281; TIGR00182; sufficient;
+TG  GO:0006654;
+--
+SN  plsY
+ID  acylphosphate:glycerol 3-phosphate acyltransferase
+RQ  1
+EV  IPR003811; TIGR00023;
+TG  GO:0006654;
+//

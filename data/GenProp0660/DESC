@@ -1,0 +1,87 @@
+AC  GenProp0660
+DE  photosystem I
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  Photosystem I
+**  One of two properties under development in parallel, photosystems I and
+**  II.
+--
+SN  psaA
+ID  photosystem I core protein PsaA
+RQ  1
+EV  IPR006243; TIGR01335; sufficient;
+TG  GO:0030094;
+--
+SN  psaB
+ID  photosystem I core protein PsaB
+RQ  1
+EV  IPR006244; TIGR01336; sufficient;
+TG  GO:0030094;
+--
+SN  psaC
+ID  photosystem I iron-sulfur center
+RQ  1
+EV  IPR017491; TIGR03048; sufficient;
+TG  GO:0030094;
+--
+SN  psaD
+ID  photosystem I reaction center subunit II
+RQ  1
+EV  IPR003685; PF02531; sufficient;
+TG  GO:0030094;
+--
+SN  psaE
+ID  photosystem I reaction center subunit IV
+RQ  1
+EV  IPR003375; PF02427; sufficient;
+TG  GO:0030094;
+--
+SN  psaF
+ID  photosystem I reaction center subunit III
+RQ  1
+EV  IPR003666; PF02507; sufficient;
+TG  GO:0030094;
+--
+SN  psaH
+ID  photosystem I reaction center subunit VI
+RQ  0
+EV  IPR004928; PF03244; sufficient;
+TG  GO:0030094;
+--
+SN  psaI
+ID  photosystem I reaction center subunit VIII
+RQ  1
+EV  IPR001302; TIGR03052; sufficient;
+TG  GO:0030094;
+--
+SN  psaJ
+ID  Photosystem I reaction center subunit IX
+RQ  1
+EV  IPR002615; PF01701; sufficient;
+TG  GO:0030094;
+--
+SN  psaK
+ID  photosystem I reaction center subunit X
+RQ  1
+EV  IPR017492; TIGR03049; sufficient;
+TG  GO:0030094;
+--
+SN  psaL
+ID  photosystem I reaction center subunit XI
+RQ  1
+EV  IPR003757; PF02605; sufficient;
+TG  GO:0030094;
+--
+SN  psaM
+ID  photosystem I protein M
+RQ  1
+EV  IPR010010; TIGR03053; sufficient;
+TG  GO:0030094;
+--
+SN  psaN
+ID  photosystem I reaction centre subunit N
+RQ  0
+EV  IPR008796; PF05479; sufficient;
+TG  GO:0030094;
+//

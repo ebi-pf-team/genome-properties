@@ -1,0 +1,36 @@
+AC  GenProp0611
+DE  aerobic respiration
+TP  METAPATH
+AU  Haft D
+TH  0
+CC  Aerobic respiration is the complex series of pathways in which a common
+CC  organic intermediate (generally pyruvate) is broken down into carbon
+CC  dioxide (CO2) and water (H20) with the concomitant production of ATP in
+CC  the presence of oxygen. Pyruvate is generated from glucose via
+CC  glycolysis. The first step of this process is conversion of pyruvate to
+CC  acetyl-CoA which then enters the Krebs (or, TCA) cycle. Acetyl-CoA may
+CC  also be generated independently of pyruvate via the breakdown of other
+CC  organic compounds. The TCA cycle generates reducing equivalents in the
+CC  form of NADH. NADH, in turn delivers the electrons to the top of the
+CC  electron transport chain (oxidative phosphorylation). This chain
+CC  results in the pumping of protons (and/or sodium ions) to form a
+CC  gradient. Ions flowing back with this gradient power the ATP-generation
+CC  machines of the cell. Oxygen acts as the terminal electron acceptor for
+CC  the electron-transport chain. 
+--
+SN  ATPsynth
+ID  Generation of a ATP from ADP utilizing a proton (or sodium ion) gradient
+RQ  1
+EV  GenProp0128;
+EV  GenProp0629;
+--
+SN  ETC
+ID  Generation of a proton (or sodium ion) gradient by the coupling of NADH oxidation (to NAD+) with oxygen reduction (to water)
+RQ  1
+EV  GenProp0612;
+--
+SN  TCAcyc
+ID  Generation of NADH from NAD+ by oxidation of electron donor molecules
+RQ  1
+EV  GenProp0033;
+//

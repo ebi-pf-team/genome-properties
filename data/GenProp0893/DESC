@@ -1,0 +1,19 @@
+AC  GenProp0893
+DE  sulfopyruvate biosynthesis via L-cysteate
+TP  PATHWAY
+AU  Haft D
+TH  0
+CC  Two different pathways for coenzyme M biosynthesis pass through the
+CC  intermediate sulfopyruvate. This Genome Property describes a pathway
+CC  for the creation of sulfopyruvate via L-cysteate. Cysteate synthase
+CC  converts L-phosphoserine to L-cysteate. An aspartate aminotransferase
+CC  (not represented explicitly in this Genome Property) can then convert
+CC  L-cysteate to sulfopyruvate.
+**  The figure shows the same enzyme removing a phosphate, proposed
+**  intermediate of dehydroalanine, and adding a sulfate.
+--
+SN  M_cyst
+ID  cysteate synthase
+RQ  1
+EV  IPR022401; TIGR03844;
+//

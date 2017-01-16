@@ -1,0 +1,29 @@
+AC  GenProp0849
+DE  quorum-sensing, Bacillus PlcR-PapR system
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  18492723
+RT  Molecular basis for group-specific activation of the virulence
+RT  regulator PlcR by PapR heptapeptides.
+RA  Bouillaut L, Perchat S, Arold S, Zorrilla S, Slamti L, Henry C, Gohar
+RA  M, Declerck N, Lereclus D;
+RL  Nucleic Acids Res. 2008;36:3791-3801.
+CC  Activity of the Bacillus cereus virulence transcriptional activator
+CC  PlcR depends on binding to the C-terminal heptapeptide of PapR. PapR is
+CC  exported, cleaved extracellularly by the NprB protease, and the active
+CC  peptide imported by the oligopeptide permease system OppABCDF.
+--
+SN  papR
+ID  cell-cell signalling protein PapR
+RQ  1
+EV  IPR009239; PF05968;
+TG  GO:0052100;
+--
+SN  plcR
+ID  global transcriptional regulator PlcR
+RQ  1
+EV  IPRXXXX; 2403;
+TG  GO:0052100;
+//

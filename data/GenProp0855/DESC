@@ -1,0 +1,124 @@
+AC  GenProp0855
+DE  integrating conjugative element, PFGI-1 class
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  19144133
+RT  Mobile genetic elements in the genome of the beneficial rhizobacterium
+RT  Pseudomonas fluorescens Pf-5.
+RA  Mavrodi DV, Loper JE, Paulsen IT, Thomashow LS;
+RL  BMC Microbiol. 2009;9:8.
+RN  [2]
+RM  12107144
+RT  Genomic and functional analyses of SXT, an integrating antibiotic
+RT  resistance gene transfer element derived from Vibrio cholerae.
+RA  Beaber JW, Hochhut B, Waldor MK;
+RL  J Bacteriol. 2002;184:4259-4269.
+CC  This Genome Property represents a collection of mostly uncharacterized
+CC  proteins typical of integrative conjugative elements (ICE) in the 
+CC  class of PFGI-1 of Pseudomonas fluorescens Pf-5. Defining HMMs for this
+CC  property closely follow the scope of PFL_4697 (TIGR03747), one of a
+CC  number of component families that occur only in this context and can
+CC  serve as a marker for the system.
+--
+SN  PFL4666
+ID  integrating conjugative element ParB-related protein
+RQ  1
+EV  IPR022304; TIGR03764;
+--
+SN  PFL4669
+ID  integrating conjugative element protein, PFL_4669 family
+RQ  1
+EV  IPR014996; TIGR03761;
+--
+SN  PFL4675
+ID  integrating conjugative element protein PilL, PFGI-1 class
+RQ  1
+EV  IPR022260; TIGR03748;
+--
+SN  PFL4693
+ID  integrating conjugative element protein PFL4693
+RQ  1
+EV  IPR022293; TIGR03759;
+--
+SN  PFL4695
+ID  integrating conjugative element protein, PFL4695 family
+RQ  1
+EV  IPR021300; TIGR03765;
+--
+SN  PFL4696
+ID  integrating conjugative element TraD protein, PFGI-1 class
+RQ  1
+EV  IPR022503; TIGR03754;
+--
+SN  PFL4697
+ID  integrating conjugative element membrane protein PFL4697
+RQ  1
+EV  IPR022266; TIGR03747;
+--
+SN  PFL4700
+ID  integrating conjugative element protein, RAQPRD family
+RQ  1
+EV  IPR019110; TIGR01690;
+--
+SN  PFL4701
+ID  integrating conjugative element protein membrane PFL4701
+RQ  1
+EV  IPR021676; TIGR03758;
+--
+SN  PFL4702
+ID  integrating conjugative element membrane protein PFL4702
+RQ  1
+EV  IPR021356; TIGR03745;
+--
+SN  PFL4703
+ID  integrating conjugative element protein, PFL4703 family
+RQ  1
+EV  IPR021548; TIGR03746;
+--
+SN  PFL4704
+ID  integrating conjugative element protein, PFL4704 family
+RQ  1
+EV  IPR021844; TIGR03749;
+--
+SN  PFL4705
+ID  integrating conjugative element protein, PFL4705 family
+RQ  1
+EV  IPR021207; TIGR03752;
+--
+SN  PFL4706
+ID  conjugative transfer ATPase, PFL_4706 family
+RQ  1
+EV  IPR022303; TIGR03744;
+--
+SN  PFL4709
+ID  integrating conjugative element protein PFL4709
+RQ  1
+EV  IPR011090; TIGR03757;
+--
+SN  PFL4710
+ID  integrating conjugative element protein, PFL4710 family
+RQ  1
+EV  IPR026331; TIGR03756;
+--
+SN  PFL4711
+ID  integrating conjugative element protein, PFL4711 family
+RQ  1
+EV  IPR021204; TIGR03755;
+--
+SN  PFL4751
+ID  integrating conjugative element relaxase, PFGI-1 class
+RQ  1
+EV  IPR022391; TIGR03760;
+--
+SN  p47202.1
+ID  conjugative transfer region protein, TIGR03750
+RQ  0
+EV  IPR021877; TIGR03750;
+--
+SN  p47205.1
+ID  conjugative transfer region protein, TIGR03751 family
+RQ  0
+EV  IPR022262; TIGR03751;
+//

@@ -1,0 +1,48 @@
+AC  GenProp0240
+DE  propionyl-CoA catabolism via methylcitric acid
+TP  PATHWAY
+AU  Haft D
+TH  0
+CC  This property describes one of at least five pathways for propionyl-CoA
+CC  catabolism in prokaryotes. This pathway requires oxaloacetate and later
+CC  releases succinate, both of which are TCA cycle intermediates. TCA
+CC  cycle enzymes convert succinate back to oxaloacetate, and so this
+CC  pathway is a cycle. Propionyl-CoA may derive from propionate,
+CC  propionaldehyde, or other compounds. Propionyl-CoA plus oxaloacetate is
+CC  converted by PrpC to 2-methylcitrate, which is then converted in two
+CC  steps, by PrpD and an aconitase, to 2-methylisocitrate.
+CC  2-methylisocitrate is cleaved by PrpB to pyruvate and succinate. The
+CC  TCA cycle enzymes needed to complete the cycle are not modelled here as
+CC  part of the pathway
+--
+SN  acnD
+ID  2-methylisocitrate dehydratase
+RQ  1
+EV  IPR012708; TIGR02333; sufficient;
+--
+SN  prpB
+ID  methylisocitrate lyase PrpB
+RQ  1
+EV  IPR012695; TIGR02317; sufficient;
+--
+SN  prpC
+ID  2-methylcitrate synthase family
+RQ  1
+EV  IPR011278; TIGR01800; sufficient;
+--
+SN  prpD
+ID  2-methylcitrate dehydratase
+DN  2-methylcitrate dehydratase
+RQ  1
+EV  IPR012705; TIGR02330; sufficient;
+--
+SN  prpF
+ID  AcnD-accessory protein PrpF
+RQ  1
+EV  IPR012709; TIGR02334; sufficient;
+--
+SN  prpR
+ID  propionate catabolism operon regulator PrpR
+RQ  0
+EV  IPR012704; TIGR02329; sufficient;
+//

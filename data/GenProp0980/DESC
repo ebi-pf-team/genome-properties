@@ -1,0 +1,22 @@
+AC  GenProp0980
+DE  protein sorting system, putative, exosortase F class
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  This system occurs in the lineage Bacteriodetes, and contains a homolog
+CC  to exosortase (EpsH). Like archaeal homologs, it is shorter by about 70
+CC  amino acids towards the N-terminus, and it lacks an EpsI-like domain.
+CC  Species with this system lack a classical PEP-CTERM, PEF-CTERM, or
+CC  PGF-CTERM-like protein sorting C-terminal domain.
+**  Probably should add more from neighborhood.
+--
+SN  AlsoFlv
+ID  exosortase-related protein-associated protein
+RQ  1
+EV  IPR026414; TIGR04127;
+--
+SN  EXO_flv
+ID  exosortase-related protein, flavobacterial
+RQ  1
+EV  IPR026323; TIGR04128;
+//

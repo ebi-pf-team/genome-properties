@@ -1,0 +1,30 @@
+AC  GenProp0748
+DE  choline ABC transporter, ChoXWV family
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  This Genome Property describes a family of quaternary amine
+CC  transporters that appears, based on physical characterization in
+CC  Sinorhizobium meliloti and on bioinformatic methods to import choline.
+CC  The presence of paralogs in some bacteria and their association with
+CC  choline sulfatase genes suggests choline sulfate may also be a
+CC  substrate.
+**  WARNING: MUST REINVESTIGATE having three times as many binding proteins
+**  as permease or ATP-binding. Maybe the binding include secondary
+**  substrates, like choline-sulfate binding, next to choline sulfatase.
+--
+SN  cho_ATP
+ID  choline ABC transporter, ATP-binding protein
+RQ  1
+EV  IPR022473; TIGR03415;
+--
+SN  cho_bin
+ID  choline ABC transporter, periplasmic binding protein
+RQ  1
+EV  IPRXXXX; TIGR03414;
+--
+SN  cho_prm
+ID  choline ABC transporter, permease protein
+RQ  1
+EV  IPR017784; TIGR03416;
+//

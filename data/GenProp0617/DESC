@@ -1,0 +1,61 @@
+AC  GenProp0617
+DE  cytochrome (quinone) oxidase, bd type
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  14749831
+RT  The strict anaerobe Bacteroides fragilis grows in and benefits from
+RT  nanomolar concentrations of oxygen.
+RA  Baughn AD, Malamy MH;
+RL  Nature. 2004;427:441-444.
+RN  [2]
+RM  16299377
+RT  Mass spectrometric analysis of the ubiquinol-binding site in cytochrome
+RT  bd from Escherichia coli.
+RA  Matsumoto Y, Murai M, Fujita D, Sakamoto K, Miyoshi H, Yoshida M, Mogi
+RA  T;
+RL  J Biol Chem. 2006;281:1905-1912.
+RN  [3]
+RM  15474037
+RT  Interaction of the bacterial terminal oxidase cytochrome bd with nitric
+RT  oxide.
+RA  Borisov VB, Forte E, Konstantinov AA, Poole RK, Sarti P, Giuffrè A;
+RL  FEBS Lett. 2004;576:201-204.
+CC  The cytochrome bd complex is a quinol oxidase, oxygen reductase.
+CC  Usually this complex functions to couple the reduced quinone pool to
+CC  the oxygen terminal electron acceptor in aerobic respiration. It has
+CC  been reported that certain anaerobes or microaerophiles may utilize
+CC  this system to reduce the amount of oxygen present in their local
+CC  environment [1]. The complex is composed of two subunits: Subunit I
+CC  (CydA) contains the quinone binding site [2] and is also a component of
+CC  the cytochrome b0 complex.  Subunit II (CydB) contains the binding site
+CC  for heme b558.  Additionally, the complex contains two other hemes,
+CC  b595 and d which make up the oxygen reduction site [3].
+--
+SN  CydA
+ID  subunit I, CydA
+RQ  1
+EV  IPR002585; PF01654; sufficient;
+--
+SN  CydB
+ID  subunit II, CydB
+RQ  1
+EV  IPR003317; PF02322; sufficient;
+EV  IPR003317; TIGR00203; sufficient;
+--
+SN  CydC
+ID  Transporter for assembly, CydC
+RQ  0
+EV  IPR014223; TIGR02868; sufficient;
+--
+SN  CydD
+ID  Transporter for assembly, CydD
+RQ  0
+EV  IPR014216; TIGR02857; sufficient;
+--
+SN  YbgT
+ID  cyd operon protein YbgT (Proteobacterial)
+RQ  0
+EV  IPR011724; TIGR02106; sufficient;
+//

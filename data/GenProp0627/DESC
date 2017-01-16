@@ -1,0 +1,26 @@
+AC  GenProp0627
+DE  gene pair involved in iron and oxygen metabolism
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  16600046
+RT  Knock-out of SO1377 gene, which encodes the member of a conserved
+RT  hypothetical bacterial protein family COG2268, results in alteration of
+RT  iron metabolism, increased spontaneous mutation and hydrogen peroxide
+RT  sensitivity in Shewanella oneidensis MR-1.
+RA  Gao W, Liu Y, Giometti CS, Tollaksen SL, Khare T, Wu L, Klingeman DM,
+RA  Fields MW, Zhou J;
+RL  BMC Genomics. 2006;7:76.
+CC  The knockout of SO1377 in Shewanella oneidensis results in oxidative
+CC  damage related to changes in iron metabolism [1].  The adjacent gene,
+CC  SO1366 is phylogenomically linked and part of an apparent operon.
+--
+SN  SO1376
+ID  SO1376 gene family
+RQ  1
+--
+SN  SO1377
+ID  SO1377 gene family: part of COG2268
+RQ  1
+//

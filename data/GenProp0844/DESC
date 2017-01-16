@@ -1,0 +1,86 @@
+AC  GenProp0844
+DE  accessory Sec system for serine-rich glycoprotein transport
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  15901716
+RT  Two additional components of the accessory sec system mediating export
+RT  of the Streptococcus gordonii platelet-binding protein GspB.
+RA  Takamatsu D, Bensing BA, Sullam PM;
+RL  J Bacteriol. 2005;187:3878-3883.
+RN  [2]
+RM  18621893
+RT  Characterization of the accessory Sec system of Staphylococcus aureus.
+RA  Siboo IR, Chaffin DO, Rubens CE, Sullam PM;
+RL  J Bacteriol. 2008;190:6188-6196.
+CC  A number of Gram-positive pathogens express serine-rich glycoproteins
+CC  such as the platelet-binding glycoprotein GspB of Streptococcus
+CC  gordonii. At least 5 core proteins contribute to the export of these
+CC  proteins, including SecY2 and SecA2, homologs respectively of the SecY
+CC  and SecA proteins of the Sec system. Additional proteins are required
+CC  for glycosylation rather than export.
+**  SecY2, Asp1, Asp2, Asp3, and SecA2 should all be transport not
+**  glycosylation. Important examples of the target serine-rich proteins
+**  include SAG_1462, SP_1772, SACOL2676. Look at all species with paralog
+**  to SecA (TIGR00963), and species with putative TIGR03715 signal
+**  peptide. TIGR04224 hits too narrowly (just Strep).
+--
+SN  S_rich
+ID  serine-rich glycoprotein
+RQ  0
+EV  IPR022263; TIGR03715;
+EV  IPR026465; TIGR04224;
+--
+SN  SecA2
+ID  accessory Sec system translocase SecA2
+RQ  1
+EV  IPR022490; TIGR03714;
+TG  GO:0034436;
+--
+SN  SecY2
+ID  accessory Sec system translocase SecY2
+RQ  1
+EV  IPR014269; TIGR02920; sufficient;
+TG  GO:0034436;
+--
+SN  accSec1
+ID  accessory Sec system protein Asp1
+RQ  1
+EV  IPR022372; TIGR03713;
+TG  GO:0034436;
+--
+SN  accSec2
+ID  accessory Sec system protein Asp2
+RQ  1
+EV  IPR022267; TIGR03712;
+TG  GO:0034436;
+--
+SN  accSec3
+ID  accessory Sec system protein Asp3
+RQ  1
+EV  IPR022259; TIGR03711;
+TG  GO:0034436;
+--
+SN  accSec4
+ID  accessory Sec system protein Asp4
+RQ  0
+EV  IPRXXXX; 2379;
+TG  GO:0034436;
+--
+SN  accSec5
+ID  accessory Sec system protein Asp5
+RQ  0
+EV  IPRXXXX; 2378;
+TG  GO:0034436;
+--
+SN  gtfA
+ID  accessory Sec system glycosyltransferase GtfA
+RQ  0
+EV  IPR014267; TIGR02918; sufficient;
+--
+SN  gtfB
+ID  accessory Sec system glycosyltransferase GtfB
+RQ  0
+EV  IPR014268; TIGR02919; sufficient;
+//

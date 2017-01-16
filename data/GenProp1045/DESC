@@ -1,0 +1,47 @@
+AC  GenProp1045
+DE  O147(Ec) antigen biosynthesis
+TP  METAPATH
+AU  Haft D
+TH  0
+RN  [1]
+RM  9492329
+RT  Structural determination of the O-antigenic polysaccharide from the
+RT  enterotoxigenic Escherichia coli O147.
+RA  Hygge Blakeman K, Weintraub A, Widmalm G;
+RL  Eur J Biochem. 1998;251:534-537.
+CC  The E. coli O147 antigen is a linear tetrasaccharide with the structure
+CC  [->2)aLRha(1->2)aLRha(1->4)bDGalA(1->3)bDGalNAc(1->]. The Shigella
+CC  flexneri O6 antogen is identical except for an additional 3-O-linked
+CC  acetyl group on the second rhamnose [1]. Despite requiring three
+CC  glycosidic linkages in the monomer unit, there are only two
+CC  glycosyltransferases in the antigen biosynthesis cluster. The WfbY
+CC  transferase is most closely related (32% identical) to WvwB from the
+CC  O146 cluster, which is purported to transfer L-rhamnose in two
+CC  different positions. WfbZ, on the other hand, is most closely related
+CC  to a series of Gal->GalNAc transferases.
+--
+SN  L-Rha
+ID  source of L-rhamnose
+RQ  1
+EV  GenProp0183;
+--
+SN  WfbY
+ID  alpha-L-rhamnosyltransferase WfbY
+RQ  1
+EV  IPRXXXX; 2925;
+--
+SN  WfbZ
+ID  N-acetyl-D-galactose beta-1,3-D-galctosuronyltransferase WfbZ
+RQ  1
+EV  IPRXXXX; 2926;
+--
+SN  wzx147
+ID  O147(Ec)-antigen specific transporter (flippase) wzx
+RQ  1
+EV  IPRXXXX; 2924;
+--
+SN  wzy147
+ID  O147(Ec)-antigen specific polymerase wzy
+RQ  1
+EV  IPRXXXX; 2923;
+//

@@ -1,0 +1,35 @@
+AC  GenProp0756
+DE  fumarate reductase complex
+TP  SYSTEM
+AU  Haft D
+TH  1
+CC  Fumarate reductase reversibly converts succinate to fumarate with the
+CC  concomitant production of FADH2. It consists of four components, a
+CC  flavoprotein, an iron-sulfur protein, ad two other subunits.  It is a
+CC  component of the reverse TCA carbon fixation pathway as well as certain
+CC  fermentation pathways. Although reversible, certain enzymes have
+CC  evolved to prefer one direction over the other, this property captures
+CC  those which are likely to function in the process of fumarate
+CC  reduction.
+--
+SN  FrdA
+ID  flavoprotein subunit
+RQ  1
+EV  IPR011280; TIGR01811;
+EV  IPR005884; TIGR01176;
+--
+SN  FrdB
+ID  iron-sulfur protein subunit
+RQ  1
+EV  IPR004489; TIGR00384;
+--
+SN  FrdC
+ID  subunit C
+RQ  1
+EV  IPR003510; PF02300;
+--
+SN  FrdD
+ID  subunit D
+RQ  1
+EV  IPR003418; PF02313;
+//

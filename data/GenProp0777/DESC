@@ -1,0 +1,99 @@
+AC  GenProp0777
+DE  staphylobactin biosynthesis
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  14688077
+RT  Role of siderophore biosynthesis in virulence of Staphylococcus aureus:
+RT  identification and characterization of genes involved in production of
+RT  a siderophore.
+RA  Dale SE, Doherty-Kirby A, Lajoie G, Heinrichs DE;
+RL  Infect Immun. 2004;72:29-37.
+RN  [2]
+RM  15576785
+RT  Involvement of SirABC in iron-siderophore import in Staphylococcus
+RT  aureus.
+RA  Dale SE, Sebulsky MT, Heinrichs DE;
+RL  J Bacteriol. 2004;186:8356-8362.
+RN  [3]
+RM  15547261
+RT  Ralstonia solanacearum iron scavenging by the siderophore
+RT  staphyloferrin B is controlled by PhcA, the global virulence regulator.
+RA  Bhatt G, Denny TP;
+RL  J Bacteriol. 2004;186:7896-7904.
+CC  A nine-gene operon, sbn, encodes genes for staphylobactin biosynthesis
+CC  and export. This siderophore, or ferric iron (Fe3+) chelator,
+CC  contributes to survival, and therefore virulence, by Staphylococcus
+CC  aureus in host tissues. Its reported size by m/z is 822, larger than
+CC  staphyloferrins A (480) or B (448). SbnD appears to be the efflux
+CC  transporter, SbnI is not homologous to known enzymes, and the other
+CC  seven all appear by homology to be enzymes. Mutation of SbnE leads to a
+CC  defect in staphylobactin biosynthesis, and an adjacent ABC transporter
+CC  system, not currently part of this genome property, takes up ferric
+CC  staphylobactin. Note that staphylobactin may be closely to
+CC  staphyloferrin B, as all proteins but sbnI have close homologs in
+CC  Ralstonia solanacearum GMI1000, which is phylogenetically extremely
+CC  distant. R. solanacearum, however, makes staphyloferrin B like most
+CC  strains of Staphylococcus aureus. S. aureus RN6390, meanwhile, appears
+CC  to makes staphylobactin in place of staphyloferrin B.
+**  Suggestion in PMID:15547261 hints that Dale, et al. are frankly wrong
+**  (calls the assertion unexpected) when they say their siderophore
+**  differs in weight from staphyloferrin B, which both Ralstonia
+**  solanacearum and Staphylococcus aureus make. Looks like Shewanella
+**  denitrificans OS217 has the same eight genes.
+--
+SN  sbnA
+ID  staphylobactin biosynthesis enzyme SbnA
+RQ  1
+EV  IPRXXXX; 2226;
+TG  GO:0019290;
+--
+SN  sbnB
+ID  staphylobactin biosynthesis enzyme SbnB
+RQ  1
+EV  IPRXXXX; 2227;
+TG  GO:0019290;
+--
+SN  sbnC
+ID  staphylobactin biosynthesis enzyme SbnC
+RQ  1
+EV  IPRXXXX; 2228;
+TG  GO:0019290;
+--
+SN  sbnD
+ID  staphylobactin exporter SbnD
+RQ  1
+EV  IPRXXXX; 2229;
+TG  GO:0015891;
+--
+SN  sbnE
+ID  staphylobactin biosynthesis enzyme SbnE
+RQ  1
+EV  IPRXXXX; 2225;
+TG  GO:0019290;
+--
+SN  sbnF
+ID  staphylobactin biosynthesis enzyme SbnF
+RQ  1
+EV  IPRXXXX; 2230;
+TG  GO:0019290;
+--
+SN  sbnG
+ID  staphylobactin biosynthesis enzyme SbnG
+RQ  1
+EV  IPRXXXX; 2231;
+TG  GO:0019290;
+--
+SN  sbnH
+ID  staphylobactin biosynthesis enzyme SbnH
+RQ  1
+EV  IPRXXXX; 2232;
+TG  GO:0019290;
+--
+SN  sbnI
+ID  staphylobactin biosynthesis operon protein SbnI
+RQ  0
+EV  IPRXXXX; 2233;
+TG  GO:0019290;
+//

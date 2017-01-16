@@ -1,0 +1,32 @@
+AC  GenProp0676
+DE  alkylhydroperoxide reductase AhpCF (peroxiredoxin)
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  10482511
+RT  Role of the alkyl hydroperoxide reductase (ahpCF) gene in oxidative
+RT  stress defense of the obligate Anaerobe bacteroides fragilis.
+RA  Rocha ER, Smith CJ;
+RL  J Bacteriol. 1999;181:5701-5710.
+CC  This two-gene peroxiredoxin consists of ahpC and ahpF, ususally as
+CC  tandem genes in an apparent operon. Peroxiredoxin detoxifies alkyl
+CC  hydroperoxides by catalyzing the oxidation of an active site cysteine
+CC  (on AhpC) to a sulfenic acid. This subsequently becomes a disulfide
+CC  which is then resolved by reduction. AhpF contains an FAD-binding
+CC  domain along with a NAD(P)H binding domain (PF07992).
+--
+SN  ahpC
+ID  subunit C
+RQ  1
+EV  IPR017559; TIGR03137; sufficient;
+TG  GO:0006800;
+--
+SN  ahpF
+ID  subunit F
+RQ  1
+EV  IPR012081; TIGR03140; sufficient;
+TG  GO:0006800;
+EV  IPR017561; TIGR03143; sufficient;
+TG  GO:0006800;
+//

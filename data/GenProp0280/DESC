@@ -1,0 +1,31 @@
+AC  GenProp0280
+DE  cobalt import system (CbtAB - proposed)
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  12869542
+RT  Comparative genomics of the vitamin B12 metabolism and regulation in
+RT  prokaryotes.
+RA  Rodionov DA, Vitreschak AG, Mironov AA, Gelfand MS;
+RL  J Biol Chem. 2003;278:41148-41159.
+CC  The pair of genes making up this property have been proposed to
+CC  comprise a cobalt ion imorter for the biosynthesis of vitamin B12
+CC  (cobalamin).  Evidence for this assignment includes 1) prediction of
+CC  five trans-membrane segments in CbtA and a single additional
+CC  trans-membrane segment and a C-terminal histidine-rich motif likely to
+CC  be a metal-binding site in CbtB, 2) positional gene linkage with known
+CC  B12 biosynthesis genes, 3) upstream proximity of B12 transcriptional
+CC  regulatory sites, 4) the absence of other known cobalt import systems
+CC  and 5) the obligate co-localization of CbtA and CbtB.
+--
+SN  CbtA
+ID  cobalt transporter subunit CbtA
+RQ  1
+EV  IPR012666; TIGR02458; sufficient;
+--
+SN  CbtB
+ID  cobalt transporter subunit CbtB
+RQ  1
+EV  IPR012667; TIGR02459; sufficient;
+//

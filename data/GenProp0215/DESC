@@ -1,0 +1,26 @@
+AC  GenProp0215
+DE  SOS response
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  The SOS response controls both accurate and potentially mutagenic DNA
+CC  repair functions, and requires the recA and lexA gene products. LexA is
+CC  a repressor protein that binds to a site (the SOS box) located near the
+CC  promoters of the SOS response genes and interferes with the binding of
+CC  RNA polymerase. The recA gene product is required not only for the
+CC  regulation of the SOS response but also for homologous recombination
+CC  and for various other DNA repair and damage tolerance pathways.
+**  Unsure whether or not to include recBCD and others into this property.
+--
+SN  lexA
+ID  LexA repressor
+DN  LexA repressor
+RQ  1
+EV  IPR006200; TIGR00498; sufficient;
+--
+SN  recA
+ID  recA protein
+DN  recA protein
+RQ  1
+EV  IPR013765; TIGR02012; sufficient;
+//

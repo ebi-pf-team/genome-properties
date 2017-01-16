@@ -1,0 +1,75 @@
+AC  GenProp0802
+DE  ribosome biogenesis proteins, bacteria
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  A number of well-conserved bacterial proteins, including various
+CC  members of a family of GTPases, appear to aid in ribosome biogenesis in
+CC  bacteria. This Genome Property collects some of these together and
+CC  allows analysis of the degree to which each can be considered part of
+CC  the universal bacterial core genome.
+**  prop_steps are r_ for ribosomal, as in rRNA. May use G for GTPase, R
+**  for RNA maturation. Maybe. ::Accumulating evidence indicates that the
+**  proteins Era, Obg, YjeQ, YlqF and RimM are chaperones which may be
+**  crucial to bacterial ribosome assembly...::
+--
+SN  rG_CgtA
+ID  Obg family GTPase CgtA
+RQ  1
+EV  IPR014100; TIGR02729;
+--
+SN  rG_Der
+ID  ribosome biogenesis GTPase Der (EngA)
+RQ  1
+EV  IPR016484; TIGR03594;
+--
+SN  rG_Era
+ID  ribosome biogenesis GTPase Era
+RQ  0
+EV  IPR005662; TIGR00436;
+--
+SN  rG_RsgA
+ID  ribosome biogenesis GTPase RsgA
+RQ  0
+EV  IPR004881; TIGR00157;
+--
+SN  rG_YlqF
+ID  ribosome biogenesis GTPase YlqF
+RQ  0
+EV  IPR019991; TIGR03596;
+--
+SN  rG_YqeH
+ID  ribosome biogenesis GTPase YqeH
+RQ  0
+EV  IPR019988; TIGR03597;
+--
+SN  rG_YsxC
+ID  ribosome biogenesis GTPase YsxC
+RQ  0
+EV  IPR019987; TIGR03598;
+--
+SN  rM_RsmA
+ID  rRNA small subunit methyltransferase A
+RQ  1
+EV  IPR011530; TIGR00755;
+--
+SN  rM_RsmG
+ID  16S RNA methyltransferase RsmG
+RQ  0
+EV  IPR003682; TIGR00138;
+--
+SN  rM_RsmH
+ID  16S rRNA methyltransferase RsmH
+RQ  0
+EV  IPR002903; TIGR00006;
+--
+SN  rR_RimM
+ID  ribosome maturation protein RimM
+RQ  1
+EV  IPR011961; TIGR02273;
+--
+SN  rR_RimP
+ID  ribosome maturation protein RimP
+RQ  0
+EV  IPR003728; PF02576;
+//

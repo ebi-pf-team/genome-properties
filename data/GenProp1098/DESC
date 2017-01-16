@@ -1,0 +1,38 @@
+AC  GenProp1098
+DE  3-methylarginine biosynthesis
+TP  PATHWAY
+AU  Haft D
+TH  0
+RN  [1]
+RM  20190091
+RT  Identification of the biosynthetic gene cluster for 3-methylarginine, a
+RT  toxin produced by Pseudomonas syringae pv. syringae 22d/93.
+RA  Braun SD, Hofmann J, Wensing A, Ullrich MS, Weingart H, Völksch B,
+RA  Spiteller D;
+RL  Appl Environ Microbiol. 2010;76:2500-2508.
+RN  [2]
+RM  24907335
+RT  Biosynthesis of the β-methylarginine residue of peptidyl nucleoside
+RT  arginomycin in Streptomyces arginensis NRRL 15941.
+RA  Feng J, Wu J, Gao J, Xia Z, Deng Z, He X;
+RL  Appl Environ Microbiol. 2014;80:5021-5027.
+CC  3-methylarginine can be a natural product in its own right, or a
+CC  precursor of another natural product, such as arginomycin. The
+CC  aminotransferase catalyzes the first and third steps of the pathway,
+CC  removing the alpha-amino group from arginine, later replacing it on the
+CC  beta-methylated form. The second step is catalyzed by a
+CC  C-methyltransferase that acts on 2-ketoarginine at the 3-position.
+**  A similar pathway, TyrB and MppJ, requires PLP and SAM, found in
+**  mannopeptimycin biosynthesis, converts phenylalanine to
+**  (2S,3S)-beta-methylphenylalanine
+--
+SN  MrsA
+ID  2-ketoarginine methyltransferase
+RQ  1
+EV  IPR030899; TIGR04543;
+--
+SN  MrsB
+ID  aminotransferase, 3-methylarginine-biosynthetic
+RQ  1
+EV  IPR030898; TIGR04544;
+//

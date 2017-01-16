@@ -1,0 +1,28 @@
+AC  GenProp0632
+DE  nitrogenase, V-containing
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  Three homologous types of nitrogenase are the common
+CC  molybdenum-containing, the alternative vanadium (V)-containing, and the
+CC  alterantive iron (Fe)-only. This Genome Property represents presence in
+CC  a genome of the  V-containing nitrogenase, which acts in nitrogen
+CC  fixation, and its accessory proteins.
+**  WARNING: ONLY THE THREE SUBUNITS OF THE VANADIUM-IRON PROTEIN AT THIS
+**  TIME
+--
+SN  alph_V
+ID  V-containing nitrogenase, alpha subunit
+RQ  1
+EV  IPR010142; TIGR01860; sufficient;
+--
+SN  beta_V
+ID  V-containing nitrogenase, beta subunit
+RQ  1
+EV  IPR014281; TIGR02932; sufficient;
+--
+SN  delt_V
+ID  V-containing nitrogenase, delta subunit
+RQ  1
+EV  IPR014279; TIGR02930; sufficient;
+//

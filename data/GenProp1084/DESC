@@ -1,0 +1,43 @@
+AC  GenProp1084
+DE  enduracididine biosynthesis
+TP  PATHWAY
+AU  Haft D
+TH  0
+RN  [1]
+RM  17005978
+RT  The enduracidin biosynthetic gene cluster from Streptomyces
+RT  fungicidicus.
+RA  Yin X, Zabriskie TM;
+RL  Microbiology. 2006;152:2969-2983.
+RN  [2]
+RM  23758195
+RT  Structural and functional characterization of MppR, an enduracididine
+RT  biosynthetic enzyme from streptomyces hygroscopicus: functional
+RT  diversity in the acetoacetate decarboxylase-like superfamily.
+RA  Burroughs AM, Hoppe RW, Goebel NC, Sayyed BH, Voegtline TJ, Schwabacher
+RA  AW, Zabriskie TM, Silvaggi NR;
+RL  Biochemistry. 2013;52:4492-4506.
+CC  Proteins MppR (homologous to acetoacetate decarboxylases), and MppP and
+CC  MppQ (both pyridoxal phosphate enzymes related to aminotransferases)
+CC  are responsible for the biosynthesis of enduracididine, a rare
+CC  non-proteinogenic amino acid incorporated by some non-ribosomal peptide
+CC  synthases (NRPS).
+--
+SN  MppP
+ID  enduracididine biosynthesis enzyme MppP
+RQ  1
+EV  IPR031020; TIGR04462;
+TG  GO:0042398;
+--
+SN  MppQ
+ID  enduracididine biosynthesis enzyme MppQ
+RQ  1
+EV  IPR031021; TIGR04461;
+TG  GO:0042398;
+--
+SN  MppR
+ID  enduracididine biosynthesis enzyme MppR
+RQ  1
+EV  IPR031022; TIGR04460;
+TG  GO:0042398;
+//

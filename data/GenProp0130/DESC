@@ -1,0 +1,69 @@
+AC  GenProp0130
+DE  Rnf-type electron transport complex
+TP  SYSTEM
+AU  Haft D
+TH  1
+RN  [1]
+RM  10671439
+RT  Enhanced nitrogenase activity in strains of Rhodobacter capsulatus that
+RT  overexpress the rnf genes.
+RA  Jeong HS, Jouanneau Y;
+RL  J Bacteriol. 2000;182:1208-1214.
+RN  [2]
+RM  12773378
+RT  A reducing system of the superoxide sensor SoxR in Escherichia coli.
+RA  Koo MS, Lee JH, Rah SY, Yeo WS, Lee JW, Lee KL, Koh YS, Kang SO, Roe
+RA  JH;
+RL  EMBO J. 2003;22:2614-2622.
+CC  The six subunit complex RnfABCDGE in Rhodobacter capsulatus encodes an
+CC  apparent NADH oxidoreductase responsible for electron transport to
+CC  nitrogenase, necessary for nitrogen fixation. A closely related complex
+CC  in E. coli, RsxABCDGE (Reducer of SoxR), reduces the 2Fe-2S-containing
+CC  superoxide sensor SoxR, active as a transcription factor when oxidized.
+CC  This family of putative NADH oxidoreductase complexes exists in many of
+CC  the same species as the related NQR, a Na(+)-translocating NADH-quinone
+CC  reductase, but is distinct.
+**  RM  9154934  RM  12773378    
+--
+SN  RnfA
+ID  A subunit
+DN  electron transport complex, RnfABCDGE type, A subunit
+RQ  1
+EV  IPR011293; TIGR01943; sufficient;
+TG  GO:0006118;
+--
+SN  RnfB
+ID  B subunit
+DN  electron transport complex, RnfABCDGE type, B subunit
+RQ  1
+EV  IPR010207; TIGR01944; sufficient;
+TG  GO:0006118;
+--
+SN  RnfC
+ID  C subunit
+DN  electron transport complex, RnfABCDGE type, C subunit
+RQ  1
+EV  IPR010208; TIGR01945; sufficient;
+TG  GO:0006118;
+--
+SN  RnfD
+ID  D subunit
+DN  electron transport complex, RnfABCDGE type, D subunit
+RQ  1
+EV  IPR011303; TIGR01946; sufficient;
+TG  GO:0006118;
+--
+SN  RnfE
+ID  E subunit
+DN  electron transport complex, RnfABCDGE type, E subunit
+RQ  1
+EV  IPR010968; TIGR01948; sufficient;
+TG  GO:0006118;
+--
+SN  RnfG
+ID  G subunit
+DN  electron transport complex, RnfABCDGE type, G subunit
+RQ  1
+EV  IPR010209; TIGR01947; sufficient;
+TG  GO:0006118;
+//

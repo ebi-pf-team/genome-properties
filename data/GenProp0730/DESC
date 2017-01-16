@@ -1,0 +1,19 @@
+AC  GenProp0730
+DE  methylthioadenosine to methylthioribose-1-phosphate via MTR
+TP  PATHWAY
+AU  Haft D
+TH  0
+CC  This property exists to describe a branch in the methionine salvage
+CC  pathway in which MtnN followed by mtnK replaces the single step of
+CC  MtnP.
+--
+SN  mtnK
+ID  5-methylthioribose kinase
+RQ  1
+EV  IPR009212; TIGR01767;
+--
+SN  mtnN
+ID  methylthioadenosine nucleosidase
+RQ  1
+EV  IPR010049; TIGR01704;
+//

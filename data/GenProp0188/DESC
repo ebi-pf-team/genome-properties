@@ -1,0 +1,39 @@
+AC  GenProp0188
+DE  GatABC aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase complex
+TP  PATHWAY
+AU  Haft D
+TH  0
+DC  Glu-tRNA(Gln) amidotransferase
+DR  MetaCyc; 6.3.5.7-RXN;
+CC  The GatABC heterotrimer acts as an alternative to direct aminoacylation
+CC  of tRNA(Gln), tRNA(Asn), or both with its respective amino acid.
+CC  Rather, the tRNA may be misacylated with Glu in the place of Gln, or
+CC  Asp in the place of Asn. The phylogenetic ranges over which GatABC
+CC  orthologs act on Glu-tRNA(Gln), Asp-tRNA(Asn), or both are not fully
+CC  worked out. It is both in Chlamydia, the Thermus-Deinococcus lineage,
+CC  and Acidithiobacillus ferrooxidans. In the Archaea, GatDE act on
+CC  Glu-tRNA(Gln) while GatABC act on Asp-tRNA(Asn). In Lactobacillus and
+CC  possibly all Firmicutes, GatABC acts on Glu-tRNA(Gln) only. Note that
+CC  the amidotransferase reaction is a mechanism not only to charge a tRNA
+CC  with Asn or Gln, but to complete the synthesis of that amino acid.
+--
+SN  gatA
+ID  glutamyl-tRNA(Gln) amidotransferase, A subunit
+DN  aspartyl-tRNA(Asn)/glutamyl-tRNA (Gln) amidotransferase subunit A (EC:6.3.5.6 6.3.5.7)
+RQ  1
+EV  IPR004412; TIGR00132; sufficient;
+--
+SN  gatB
+ID  glutamyl-tRNA(Gln) amidotransferase, B subunit
+DN  aspartyl-tRNA(Asn)/glutamyl-tRNA (Gln) amidotransferase subunit B (EC:6.3.5.6 6.3.5.7)
+RQ  1
+EV  IPR004413; TIGR00133; sufficient;
+EV  IPRXXXX; PF01162; sufficient;
+--
+SN  gatC
+ID  glutamyl-tRNA(Gln) amidotransferase, C subunit
+DN  aspartyl-tRNA(Asn)/glutamyl-tRNA (Gln) amidotransferase subunit C (EC:6.3.5.6 6.3.5.7)
+RQ  1
+EV  IPR003837; TIGR00135; sufficient;
+EV  IPR003837; PF02686; sufficient;
+//

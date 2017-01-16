@@ -1,0 +1,98 @@
+AC  GenProp0051
+DE  urease
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  2651866
+RT  Microbial ureases: significance, regulation, and molecular
+RT  characterization.
+RA  Mobley HL, Hausinger RP;
+RL  Microbiol Rev. 1989;53:85-108.
+RN  [2]
+RM  11373617
+RT  Supramolecular assembly and acid resistance of Helicobacter pylori
+RT  urease.
+RA  Ha NC, Oh ST, Sung JY, Cha KA, Lee MH, Oh BH;
+RL  Nat Struct Biol. 2001;8:505-509.
+RN  [3]
+RM  9209019
+RT  Characterization of UreG, identification of a UreD-UreF-UreG complex,
+RT  and evidence suggesting that a nucleotide-binding site in UreG is
+RT  required for in vivo metallocenter assembly of Klebsiella aerogenes
+RT  urease.
+RA  Moncrief MB, Hausinger RP;
+RL  J Bacteriol. 1997;179:4081-4086.
+CC  Urease is a multi-subunit, nickel-containing enzyme required for the
+CC  hydrolysis of urea to carbon dioxide and ammonia [1]. Its three
+CC  structural genes are located in an unidirectionally transcribed gene
+CC  cluster consisting either as separate alpha, beta, and gamma subunits,
+CC  or as in Helicobacter pylori, a fusion of beta and gamma subunits [2].
+CC  Associated with these structural subunits are accessory factors
+CC  functioning to assemble and incorporate its nickel-containing
+CC  metallocenter [3]. This property predicts a urease system to be present
+CC  if both its three structural subunits and four accessory proteins are
+CC  all found. In Bacillus subtilis, the accessory proteins are not found
+CC  by homology but urease function has been shown experimentally. This
+CC  finding raises the question of what alternative mechanism can enable
+CC  the assembly of functional urease.
+--
+SN  Ni_trans
+ID  nickel transporter (UreH)
+RQ  0
+EV  IPR004688; TIGR00802; sufficient;
+--
+SN  ureA
+ID  urease, gamma subunit
+DN  urease, gamma subunit
+RQ  1
+EV  IPR002026; TIGR00193; sufficient;
+TG  GO:0019627;
+--
+SN  ureB
+ID  urease, beta subunit
+DN  urease, beta subunit
+RQ  1
+EV  IPR002019; TIGR00192; sufficient;
+TG  GO:0019627;
+--
+SN  ureC
+ID  urease, alpha subunit
+DN  urease, alpha subunit
+RQ  1
+EV  IPR005848; TIGR01792; sufficient;
+--
+SN  ureC-N
+ID  alpha-subunit, N-terminal domain
+RQ  1
+EV  IPR011612; PF00449; sufficient;
+TG  GO:0019627;
+--
+SN  ureD
+ID  urease accessory protein UreD
+DN  urease accessory protein UreD
+RQ  1
+EV  IPR002669; PF01774; sufficient;
+TG  GO:0019627;
+--
+SN  ureE
+ID  urease accessory protein UreE
+DN  urease accessory protein UreE
+RQ  1
+EV  IPR004029; PF02814; sufficient;
+TG  GO:0019627;
+--
+SN  ureF
+ID  urease accessory protein UreF
+DN  urease accessory protein UreF
+RQ  1
+EV  IPR002639; PF01730; sufficient;
+TG  GO:0019627;
+--
+SN  ureG
+ID  urease accessory protein UreG
+DN  urease accessory protein UreG
+RQ  1
+EV  IPR004400; TIGR00101; sufficient;
+TG  GO:0019627;
+//

@@ -1,0 +1,22 @@
+AC  GenProp0694
+DE  glucose utilization as fructose-1,6-bisphosphate
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  Glucose may be imported into the cell as a carbon source via the
+CC  glucose-specific phosphotransferase system (PTS) and converted to the
+CC  glycolysis pathway intermediate fructose-1,6-bisphosphate by the action
+CC  of phosphoglucose isomerase (PGI) and 6-phosphofructokinase (6-PFK).
+--
+SN  PFK
+ID  phosphofructokinase
+RQ  1
+EV  IPR009161; TIGR02478; sufficient;
+EV  IPR012828; TIGR02482; sufficient;
+--
+SN  PGI
+ID  glucose-6-phosphate isomerase
+RQ  1
+EV  IPR001672; PF00342; sufficient;
+EV  IPR011857; TIGR02128; sufficient;
+//

@@ -1,0 +1,48 @@
+AC  GenProp0858
+DE  conjugative transposon, Bacteroides type
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  10869083
+RT  Integration and excision of a Bacteroides conjugative transposon,
+RT  CTnDOT.
+RA  Cheng Q, Paszkiet BJ, Shoemaker NB, Gardner JF, Salyers AA;
+RL  J Bacteriol. 2000;182:4035-4043.
+CC  This property describes a class of conjugative transposon, including
+CC  CTnDOT and related elements, from various Bacteroides and related
+CC  species. These self-transmissable elements can be fairly large, 50-100
+CC  Kb, and contain proteins required for integration, excision, and
+CC  conjugation. A single genome, such as Bacteroides thetaiotaomicron
+CC  VPI-5482, may contain several such elements.
+**  Note that the first set of markers built (GJKMN) all are conjugation
+**  system, type IV secretion-like, and not really specific to the
+**  conjugative transposon. Bacteroides plasmids that are non-chromosomal
+**  are also included by these models. Do not yet have markers limiting to
+**  CTnDOT, and choosing among hits in ntbt01, for example.
+--
+SN  CnjTr_G
+ID  Bacteroides conjugative transposon TraG protein
+RQ  1
+EV  IPR022509; TIGR03783;
+--
+SN  CnjTr_J
+ID  Bacteroides conjugative transposon TraJ protein
+RQ  1
+EV  IPR022393; TIGR03782;
+--
+SN  CnjTr_K
+ID  Bacteroides conjugative transposon TraK protein
+RQ  1
+EV  IPR022276; TIGR03781;
+--
+SN  CnjTr_M
+ID  Bacteroides conjugative transposon TraM protein
+RQ  1
+EV  IPR022187; TIGR03779;
+--
+SN  CnjTr_N
+ID  Bacteroides conjugative transposon TraN protein
+RQ  1
+EV  IPR022298; TIGR03780;
+//

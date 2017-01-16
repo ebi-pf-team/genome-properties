@@ -1,0 +1,30 @@
+AC  GenProp0950
+DE  4,6-dideoxy-4-oxo-dTDP-D-glucose biosynthesis from glucose-1-phosphate
+TP  PATHWAY
+AU  Haft D
+TH  0
+RN  [1]
+RM  12773151
+RT  A structural perspective on the enzymes that convert dTDP-d-glucose
+RT  into dTDP-l-rhamnose.
+RA  Dong C, Beis K, Giraud MF, Blankenfeldt W, Allard S, Major LL, Kerr ID,
+RA  Whitfield C, Naismith JH;
+RL  Biochem Soc Trans. 2003;31:532-536.
+DC  6-Deoxyhexose Biosynthesis
+DR  IUBMB; polysacc; deoxyhex;
+CC  4,6-dideoxy-4-oxo-dTDP-D-glucose is an intermediate in the biosynthesis
+CC  of L-rhamnose and D-fucosamine derivatives.
+--
+SN  rfbA
+ID  glucose-1-phosphate thymidylyltransferase
+DN  glucose-1-phosphate thymidylyltransferase
+RQ  1
+EV  IPR005907; TIGR01207; sufficient;
+EV  IPR005908; TIGR01208; sufficient;
+--
+SN  rfbB
+ID  dTDP-glucose 4,6-dehydratase
+DN  dTDP-glucose 4,6-dehydratase
+RQ  1
+EV  IPR005888; TIGR01181; sufficient;
+//

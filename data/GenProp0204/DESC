@@ -1,0 +1,126 @@
+AC  GenProp0204
+DE  KDO(2)-lipid A (Re LPS) biosynthesis and delivery
+TP  METAPATH
+AU  Haft D
+TH  0
+RN  [1]
+RM  17056748
+RT  Characterization of lptA and lptB, two essential genes implicated in
+RT  lipopolysaccharide transport to the outer membrane of Escherichia coli.
+RA  Sperandeo P, Cescutti R, Villa R, Di Benedetto C, Candia D, Dehò G,
+RA  Polissi A;
+RL  J Bacteriol. 2007;189:244-253.
+DC  Lipid-A-precursor biosynthesis
+DR  MetaCyc; NAGLIPASYN-PWY;
+CC  Lipid A is a component of the outer leaflet of the outer membrane of
+CC  most gram-negative bacteria. It is one of three regions of bacterial
+CC  lipopolysaccharide (LPS), along with the oligosaccharide core and the
+CC  repeating O-antigen. In some strains, O-antigen may be missing and the
+CC  lipid A-containing material may be designated lipooligosaccharide
+CC  (LOS). Lipid A consists of a disaccharide (often
+CC  beta-D-GlcN-(1-->6)-D-GlcN) with four attached acyl groups. Lipid A is
+CC  attached to a 3-deoxy-D-manno-oct-2-ulosonic acid (KDO), a sugar moeity
+CC  that becomes part of the LPS oligosaccharide inner core. Two of acyl
+CC  groups of lipid A are then modified by further acylations into branched
+CC  structures; acylation varies somewhat by species, and sometimes
+CC  according to conditions within a species. The inner core typically
+CC  contains at least two KDO and two heptose residues. The outer core and
+CC  O-antigen regions are far more variable, and their biosynthesis is
+CC  modeled in this property. LPS biosynthesis mutational studies have
+CC  shown that, in a number of species, lipid A with two KDO residues but
+CC  no additional residues of the inner core is the minimum required form
+CC  of LPS for viability, called Re LPS or Re endotoxin. This genome
+CC  property describes a set of well-conserved enzymes for biosynthesis of
+CC  KDO(2)-lipid A that resembles but is not necessarily identical to the
+CC  Re endotoxin of E. coli (nor as active in endotoxin assays), as well as
+CC  a transporter, or flippase, responsible in most Proteobacteria for
+CC  positioning lipid A in the outer membrane.
+**  Note: KdtA adds both first and second KDO.  Also, adding lauroyl and
+**  myristoyl groups to convert two acyl groups to branched acyloxyacyl
+**  groups happens after KDO addition: KDO(2)-lipid IV(A) is made and
+**  converted to KDO(2)-lipid A.  htrB encodes the lauroyl transferase 
+**  msbB acylates (Kdo)2-(lauroyl)-lipid IVA.  Note: just added LptA, but
+**  need to add LptB.
+--
+SN  UDPAG
+ID  Source of UDP-N-acetylglucosamine
+RQ  0
+EV  GenProp0750;
+--
+SN  export
+ID  lipid A exporter MsbA
+RQ  0
+EV  IPR011917; TIGR02203; sufficient;
+--
+SN  kdsA
+ID  KDO-8 phosphate synthetase
+RQ  1
+EV  IPR006269; TIGR01362; sufficient;
+--
+SN  kdsB
+ID  KDO cytidylyltransferase
+RQ  0
+EV  IPR004528; TIGR00466; sufficient;
+--
+SN  kdsC
+ID  KDO 8-P phosphatase
+RQ  1
+EV  IPR010023; TIGR01670; sufficient;
+--
+SN  lpxA
+ID  UDP-N-acetylglucosamine O-acyltransferase
+DN  acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+RQ  1
+EV  IPR010137; TIGR01852; sufficient;
+--
+SN  lpxB
+ID  lipid-A-disaccharide synthase
+DN  lipid-A-disaccharide synthase
+RQ  1
+EV  IPR003835; TIGR00215; sufficient;
+--
+SN  lpxC
+ID  UDP-3-0-acyl N-acetylglucosamine deacetylase
+DN  UDP-3-0-acyl N-acetylglucosamine deacetylase
+RQ  1
+EV  IPR004463; TIGR00325; sufficient;
+--
+SN  lpxD
+ID  UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase
+DN  UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase
+RQ  1
+EV  IPR007691; TIGR01853; sufficient;
+--
+SN  lpxH
+ID  UDP-2,3-diacylglucosamine hydrolase
+DN  UDP-2,3-diacylglucosamine hydrolase
+RQ  1
+EV  IPR010138; TIGR01854; sufficient;
+EV  IPR010415; PF06230;
+--
+SN  lpxK
+ID  tetraacyldisaccharide 4'-kinase
+DN  tetraacyldisaccharide 4'-kinase
+RQ  1
+EV  IPR003758; TIGR00682; sufficient;
+--
+SN  lpxL
+ID  add lauroyl to lipid IV-A
+RQ  1
+EV  IPR011920; TIGR02207; sufficient;
+EV  IPR004960; PF03279; sufficient;
+--
+SN  msbB
+ID  acylate lauroyl-lipid IV-A
+RQ  0
+EV  IPR011921; TIGR02208; sufficient;
+--
+SN  tmp_lpxH
+ID  temporary_lpxH candidate
+RQ  0
+--
+SN  waaA
+ID  transferase
+RQ  1
+EV  IPR007507; PF04413; sufficient;
+//

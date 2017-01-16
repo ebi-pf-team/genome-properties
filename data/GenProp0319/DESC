@@ -1,0 +1,93 @@
+AC  GenProp0319
+DE  CRISPR system, I-A/Apern subtype
+TP  SYSTEM
+AU  Haft D
+TH  4
+RN  [1]
+RM  11952905
+RT  Identification of genes that are associated with DNA repeats in
+RT  prokaryotes.
+RA  Jansen R, Embden JD, Gaastra W, Schouls LM;
+RL  Mol Microbiol. 2002;43:1565-1575.
+CC  CRISPR repeats are by definition Clustered Regularly Interspaced Short
+CC  Palindromic Repeats, described by Jansen [1]. Certain proteins,
+CC  including Cas1 to Cas4, are found only in genomes with CRISPR repeats,
+CC  and are near these repeats. Jansen, et al. describe CRISPR loci as
+CC  having direct repeats, varying in size from 21 to 37 bp, interspaced by
+CC  similarly sized non-repetitive sequences. Variants of CRISP/Cas loci
+CC  (subtypes) have been described (Haft, Selengut, et al., submitted) in
+CC  which certain groups of subtype-specific genes are found in addition to
+CC  characteristic sets of the more widely distributed cas genes. The Apern
+CC  subtype, so named because this subtype is the only one found in the
+CC  genome of Archaeoglobus pernix, consists of cas1-6, the subtype
+CC  specific genes csa1-3 and either csa4 or csa5. The repeats associated
+CC  with this subtype tend to have a periodicity of 66 nucleotides. This
+CC  subtype is found exclusively in Archaea, primarily in the
+CC  Chrenarchaeota. 
+--
+SN  Cas1
+ID  Cas1, Apern region
+RQ  1
+EV  IPR002729; TIGR00287;
+--
+SN  Cas2
+ID  Cas2, Apern region
+RQ  1
+EV  IPR021127; TIGR01573;
+--
+SN  Cas3
+ID  Cas3, Apern region
+RQ  1
+EV  IPR006474; TIGR01587;
+--
+SN  Cas3b
+ID  Cas3b, Apern region
+RQ  1
+EV  IPR006483; TIGR01596;
+--
+SN  Cas4
+ID  Cas4, Apern region
+RQ  1
+EV  IPR013343; TIGR00372;
+--
+SN  Cas5a
+ID  Cas5, Apern specific variant
+RQ  1
+EV  IPR010153; TIGR01874; sufficient;
+--
+SN  Cas6
+ID  Cas6, Apern region
+RQ  1
+EV  IPR010156; TIGR01877;
+--
+SN  Csa1
+ID  Csa1
+RQ  1
+EV  IPR009260; TIGR01896; sufficient;
+--
+SN  Csa2
+ID  Csa2, regulatory protein
+RQ  1
+EV  IPR002764; TIGR02583; sufficient;
+--
+SN  Csa3
+ID  Csa3, DNA-binding protein
+RQ  1
+EV  IPR010163; TIGR01884; sufficient;
+--
+SN  Csa4
+ID  Csa4
+RQ  0
+EV  IPR010184; TIGR01914; sufficient;
+EV  IPR013488; TIGR02671;
+--
+SN  Csa5
+ID  Csa5
+RQ  0
+EV  IPR010157; TIGR01878; sufficient;
+--
+SN  CsaX
+ID  CRISPR-associated protein, CsaX family
+RQ  0
+EV  IPR022297; TIGR03876;
+//

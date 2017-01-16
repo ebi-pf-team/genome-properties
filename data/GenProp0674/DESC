@@ -1,0 +1,80 @@
+AC  GenProp0674
+DE  malonate decarboxylase
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  11902724
+RT  Enzymic and genetic basis for bacterial growth on malonate.
+RA  Dimroth P, Hilbi H;
+RL  Mol Microbiol. 1997;25:3-10.
+RN  [2]
+RM  12619701
+RT  Functions of malonate decarboxylase subunits from Pseudomonas putida.
+RA  Chohnan S, Akagi K, Takamura Y;
+RL  Biosci Biotechnol Biochem. 2003;67:214-217.
+CC  Malonate decarboxylase as found in Klebsiella pneumoniae is a
+CC  multi-subunit water-soluble enzyme. In some species, such as
+CC  Malonomonas rubra, soluble components are linked to membrane-bound
+CC  enzymes and the system on the whole acts as a sodium pump. This
+CC  property contains as required elements the subunits of the
+CC  water-soluble enzyme and accessory proteins for biosynthesis and
+CC  attachment of the 2'-(5''-phosphoribosyl)-3'-dephospho-CoA prosthetic
+CC  group. The sodium pumping form can be recognized by the presence of a
+CC  carboxybiotin decarboxylase subunit (TIGR03136) in the operon. 
+**  Biotin-independent enzyme is 4.1.1.88. Biotin-dependent form is
+**  4.1.1.89. Several components belong to both (TIGR03133, TIGR03130,
+**  TIGR01110, variant of TIGR03132). Biotin use may be tied to Na+ pump
+**  use as transporter. Individual subunits often have their own EC
+**  numbers.
+--
+SN  Na_biot
+ID  Na+-transporting malonate decarboxylase, carboxybiotin decarboxylase subunit
+RQ  0
+EV  IPR017558; TIGR03136; sufficient;
+--
+SN  madL
+ID  malonate transporter, MadL subunit
+RQ  0
+EV  IPR004690; TIGR00807; sufficient;
+--
+SN  madM
+ID  malonate transporter, MadM subunit
+RQ  0
+EV  IPR004691; TIGR00808; sufficient;
+--
+SN  mdcA
+ID  malonate decarboxylase, alpha subunit
+RQ  1
+EV  IPR005777; TIGR01110; sufficient;
+--
+SN  mdcB
+ID  triphosphoribosyl-dephospho-CoA synthase MdcB
+RQ  1
+EV  IPR017555; TIGR03132; sufficient;
+--
+SN  mdcC
+ID  malonate decarboxylase acyl carrier protein
+RQ  1
+EV  IPR009662; TIGR03130; sufficient;
+--
+SN  mdcD
+ID  malonate decarboxylase, beta subunit
+RQ  1
+EV  IPR017556; TIGR03133; sufficient;
+--
+SN  mdcE
+ID  malonate decarboxylase, gamma subunit
+RQ  1
+EV  IPR009648; TIGR03134; sufficient;
+--
+SN  mdcG
+ID  holo ACP synthase MdcG
+RQ  1
+EV  IPR017557; TIGR03135; sufficient;
+--
+SN  mdcH
+ID  malonate decarboxylase, epsilon subunit
+RQ  1
+EV  IPR017554; TIGR03131; sufficient;
+//

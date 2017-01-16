@@ -1,0 +1,31 @@
+AC  GenProp0954
+DE  radical SAM-cylized peptide, Pep1357C family
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  17921293
+RT  Control of the transcription of a short gene encoding a cyclic peptide
+RT  in Streptococcus thermophilus: a new quorum-sensing system?
+RA  Ibrahim M, Guillot A, Wessner F, Algaron F, Besset C, Courtin P, Gardan
+RA  R, Monnet V;
+RL  J Bacteriol. 2007;189:8844-8854.
+CC  Pep1357C from Streptococcus thermophilus is a secreted modified peptide
+CC  whose 9-amino acid mature form AKGDGWKVM is cyclized between residues 2
+CC  (Lys) and 6 (Trp), probably via a dehydrogenation catalyzed by the
+CC  adjacent radical SAM enzyme. Similar peptides with the same core
+CC  sequence KGDGW and pairing with a radical SAM enzyme occur elsewhere,
+CC  such as Lactococcus lactis subsp. cremoris MG1363. The Pep1357C system
+CC  probably provides signaling rather than bacteriocin activity.
+**  ABC transporter should be added. Protease not identified yet.
+--
+SN  cyc_SAM
+ID  KxxxW-cyclizing radical SAM enzyme
+RQ  1
+EV  IPR024017; TIGR04080;
+--
+SN  cyc_pep
+ID  KxxxW-cyclized secreted peptide
+RQ  1
+EV  IPR023903; TIGR04079;
+//

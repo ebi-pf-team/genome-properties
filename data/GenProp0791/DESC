@@ -1,0 +1,85 @@
+AC  GenProp0791
+DE  coenzyme F420 biosynthesis
+TP  METAPATH
+AU  Haft D
+TH  1
+RN  [1]
+RM  18260642
+RT  Identification and characterization of the 2-phospho-L-lactate
+RT  guanylyltransferase involved in coenzyme F420 biosynthesis.
+RA  Grochowski LL, Xu H, White RH;
+RL  Biochemistry. 2008;47:3033-3037.
+RN  [2]
+RM  11888293
+RT  Characterization of the 2-phospho-L-lactate transferase enzyme involved
+RT  in coenzyme F(420) biosynthesis in Methanococcus jannaschii.
+RA  Graupner M, Xu H, White RH;
+RL  Biochemistry. 2002;41:3754-3761.
+RN  [3]
+RM  12911320
+RT  CofE catalyzes the addition of two glutamates to F420-0 in F420
+RT  coenzyme biosynthesis in Methanococcus jannaschii.
+RA  Li H, Graupner M, Xu H, White RH;
+RL  Biochemistry. 2003;42:9771-9778.
+RN  [4]
+RM  11717263
+RT  Use of transposon Tn5367 mutagenesis and a nitroimidazopyran-based
+RT  selection system to demonstrate a requirement for fbiA and fbiB in
+RT  coenzyme F(420) biosynthesis by Mycobacterium bovis BCG.
+RA  Choi KP, Bair TB, Bae YM, Daniels L;
+RL  J Bacteriol. 2001;183:7058-7066.
+CC  The chromophore of coenzyme F420 is
+CC  7,8-didemethyl-8-hydroxy-5-deazaflavin, or FO, which is also used in a
+CC  cyanobacterial DNA photoreactivating enzyme. Modification of FO to
+CC  create coenzyme F420 includes the GTP-dependent addition of two
+CC  glutamate residues in Methanococcus jannaschii and five or six in
+CC  Mycobacterium bovis. CofF, which caps the gamma-glutamyl tail after two
+CC  glutamates, occurs only the archaea.
+**  MJ_1418 generates lactaldehyde  cofA (MJ_1411) generates L-lactate from
+**  lactaldehyde  cofB uses GTP to make 2-phospho-L-lactate from L-lactate 
+**  cofG (MJ_0446)  cofH (MJ_1431)  cofE (MJ_0768) = Nterm of FbiB (M.
+**  bovis)  cofD (MJ_1256) = FbiA (M. bovis)  cofC (MJ_0887)  cofF
+**  (MJ_1001)  It appears that Anacystis nidulans (e.g.) make the precursor
+**  FO (the chromophore of F420) but not F420 itself.
+--
+SN  3_CofC
+ID  lactoylphosphate guanylyltransferase
+RQ  1
+EV  IPR002835; TIGR03552;
+TG  GO:0009108;
+--
+SN  4_CofD
+ID  LPPG:Fo 2-phospho-L-lactate transferase
+RQ  1
+EV  IPR010115; TIGR01819;
+TG  GO:0009108;
+--
+SN  5_CofE
+ID  F420-O:gamma-glutamyl ligase
+RQ  1
+EV  IPR008225; TIGR01916;
+TG  GO:0009108;
+--
+SN  6_CofF
+ID  coenzyme gamma-F420-2:alpha-L-glutamate ligase
+RQ  0
+EV  IPR031039; TIGR04443;
+TG  GO:0009108;
+--
+SN  FO_syn
+ID  FO biosynthesis
+RQ  1
+EV  GenProp0792;
+TG  GO:0009108;
+--
+SN  FbiB_C
+ID  F420 biosynthesis protein FbiB, C-terminal domain
+RQ  0
+EV  IPR019943; TIGR03553;
+TG  GO:0009108;
+--
+SN  reduct
+ID  NADPH-dependent F420 reductase
+RQ  0
+EV  IPR010185; TIGR01915;
+//

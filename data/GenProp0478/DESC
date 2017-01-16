@@ -1,0 +1,50 @@
+AC  GenProp0478
+DE  acetyl-CoA -- acetate interconversion via acetyl phosphate
+TP  PATHWAY
+AU  Haft D
+TH  1
+RN  [1]
+RM  13221579
+RT  Enzymatic phosphorylation of acetate.
+RA  ROSE IA, GRUNBERG-MANAGO M, KOREY SR, OCHOA S;
+RL  J Biol Chem. 1954;211:737-756.
+RN  [2]
+RM  10894724
+RT  Regulation of acetyl coenzyme A synthetase in Escherichia coli.
+RA  Kumari S, Beatty CM, Browning DF, Busby SJ, Simel EJ, Hovel-Miner G,
+RA  Wolfe AJ;
+RL  J Bacteriol. 2000;182:4173-4179.
+RN  [3]
+RM  10074080
+RT  Purification and characterization of two extremely thermostable
+RT  enzymes, phosphate acetyltransferase and acetate kinase, from the
+RT  hyperthermophilic eubacterium Thermotoga maritima.
+RA  Bock AK, Glasemacher J, Schmidt R, Schönheit P;
+RL  J Bacteriol. 1999;181:1861-1867.
+CC  Acetate and acetyl-CoA can be interconverted by any of several routes.
+CC  This pathway utilizes acetyl phosphate as an intermediate. This system
+CC  is used in E. coli and other bacteria for the utilization of acetate as
+CC  a carbon source [1].  Alternatively, the reactions may be run in the
+CC  catabolic direction in fermentations in order to produce ATP and
+CC  excrete acetate.  Detection of the phosphate acetyltransferase is via a
+CC  TIGRFAMs equivalog in some cases, while in others the discrimination
+CC  between substrate specificities for acetate and butyrate (PF01515) is
+CC  unclear.  In the absence of an equivalog hit, when a gene adjacent to
+CC  the kinase and in an apparent operon and hits the PFAM subfamily and
+CC  the genomic context does not otherwise indicate the handling of
+CC  butyrate, the gene will be manually included.  A member of PF01515
+CC  which is distal from the acetate kinase in Thermotoga has been
+CC  experimentally characterized [3] and has also been manually included.
+--
+SN  Ac-tran
+ID  phosphate acetyltransferase
+RQ  1
+EV  IPR004614; TIGR00651; sufficient;
+TG  GO:0019427;
+--
+SN  kinase
+ID  acetyl kinase
+RQ  1
+EV  IPR004372; TIGR00016; sufficient;
+TG  GO:0019427;
+//

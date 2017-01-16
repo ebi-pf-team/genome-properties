@@ -1,0 +1,45 @@
+AC  GenProp0906
+DE  poly-beta-1,6 N-acetyl-D-glucosamine system, IcaADBC type
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  Many pathogenic bacteria produce an exopolysaccharide based on
+CC  poly-N-acetylglucosamine. It is an important factor in biofilm
+CC  formation and therefore virulence. Modifications (as by polysaccharide
+CC  N-deacetylase) and attachments differ from system to system. This
+CC  Genome Property describes the variant associated with the IcaADBC
+CC  operon as found in Staphylococcus epidermidis. Biosynthesis begins with
+CC  UDP-N-acetylglucosamine, polymerized with beta-1,6 linkages, followed
+CC  by incomplete deacetylation. 
+**  Saw it described as a glycan of beta-1,6-linked
+**  2-acetamido-2-deoxy-D-glucopyranosyl.
+--
+SN  icaA
+ID  intercellular adhesin protein A
+RQ  1
+EV  IPRXXXX; 2726;
+TG  GO:0045226;
+--
+SN  icaB
+ID  intercellular adhesin protein B
+RQ  1
+EV  IPR023872; TIGR03933;
+TG  GO:0045226;
+--
+SN  icaC
+ID  intercellular adhesin protein C
+RQ  1
+EV  IPRXXXX; 2728;
+TG  GO:0045226;
+--
+SN  icaD
+ID  intercellular adhesin protein D
+RQ  1
+EV  IPR020510; TIGR03932;
+TG  GO:0045226;
+--
+SN  icaR
+ID  intercellular adhesin regulator
+RQ  0
+EV  IPRXXXX; 2727;
+//

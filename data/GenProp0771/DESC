@@ -1,0 +1,69 @@
+AC  GenProp0771
+DE  enterobactin (enterochelin) biosynthesis
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  Enterobactin, also called enterochelin, is a catecholate siderophore
+CC  found in most enterobacterial strains, where it may exist alongside
+CC  other siderophore systems. It is a a cyclic trimeric lactone of
+CC  N-(2,3-dihydroxybenzoyl)serine. The proteins EntA, EntB, and EntC
+CC  produce 2,3-dihydroxybenzoate. Enterobactin synthetase is a
+CC  non-ribosomal peptide synthase (NRPS) that builds enterobactin from
+CC  three molecules of 2,3-dihydroxybenzoate and three of L-serine. The
+CC  components of the enterobactin synthetase are designated EntB, EntE,
+CC  and EntF. EntD is an accessory protein that phosphopantetheinylates
+CC  EntB (PMID:9214294). EntH is a proofreading enzyme, a thioesterase,
+CC  while EntS is a specific exporter across the plasma membrane.
+**  Note that enterobactin is a triscatechol deriv. of a cyclic triserine
+**  lactone. The closely related corynebactin (improperly renamed
+**  bacillibactin) is a trithreonine derivative:
+**  2,3-Dihydroxybenzoate-Glycine-Threonine Trimeric Ester, needs property,
+**  look vicinity of NTL01BS3193 BCE_2400
+--
+SN  entA
+ID  2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase
+RQ  1
+EV  IPRXXXX; 2147;
+TG  GO:0009239;
+--
+SN  entBG
+ID  isochorismatase/enterobactin synthetase, component EntB
+RQ  1
+EV  IPRXXXX; 2150;
+TG  GO:0009239;
+--
+SN  entC
+ID  isochorismate synthase EntC
+RQ  1
+EV  IPRXXXX; 2151;
+TG  GO:0009239;
+--
+SN  entD
+ID  4'-phosphopantetheinyl transferase EntD
+RQ  1
+EV  IPRXXXX; 2152;
+TG  GO:0009239;
+--
+SN  entE
+ID  enterobactin synthetase, (2,3-dihydroxybenzoyl)adenylate synthase component
+RQ  1
+EV  IPRXXXX; 2155;
+TG  GO:0009239;
+--
+SN  entF
+ID  enterobactin synthetase, component EntF
+RQ  1
+EV  IPRXXXX; 2156;
+TG  GO:0009239;
+--
+SN  entH
+ID  enterobactin biosynthesis proofreading thioesterase EntH
+RQ  0
+EV  IPRXXXX; 2149;
+TG  GO:0009239;
+--
+SN  entS
+ID  enterobactin exporter EntS
+RQ  1
+EV  IPRXXXX; 2153;
+//

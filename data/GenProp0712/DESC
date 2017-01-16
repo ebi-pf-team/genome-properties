@@ -1,0 +1,36 @@
+AC  GenProp0712
+DE  2-aminoethylphosphonate (AEP) ABC transporter, type I, PhnSTUV
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  7592415
+RT  Molecular cloning, mapping, and regulation of Pho regulon genes for
+RT  phosphonate breakdown by the phosphonatase pathway of Salmonella
+RT  typhimurium LT2.
+RA  Jiang W, Metcalf WW, Lee KS, Wanner BL;
+RL  J Bacteriol. 1995;177:6411-6421.
+CC  A multisubunit ABC transporter for the import of
+CC  2-aminoethylphosphonate (AEP, ciliatine) which is then subject to
+CC  catabolism.
+--
+SN  PhnS
+ID  periplasmic AEP binding protein
+RQ  1
+EV  IPR017637; TIGR03227; sufficient;
+--
+SN  PhnT
+ID  ATP-binding component
+RQ  1
+EV  IPR017662; TIGR03258; sufficient;
+--
+SN  PhnU
+ID  permease component
+RQ  1
+EV  IPR017636; TIGR03226; sufficient;
+--
+SN  PhnV
+ID  permease component
+RQ  1
+EV  IPR017661; TIGR03255; sufficient;
+//

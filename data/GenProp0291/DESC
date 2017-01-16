@@ -1,0 +1,38 @@
+AC  GenProp0291
+DE  class III (anaerobic) ribonucleotide reductase
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  12206460
+RT  Deoxyribonucleotide synthesis in anaerobic microorganisms: the class
+RT  III ribonucleotide reductase.
+RA  Fontecave M, Mulliez E, Logan DT;
+RL  Prog Nucleic Acid Res Mol Biol. 2002;72:95-127.
+CC  Ribonucleotide reductases (RNRs) are responsible for the conversion of
+CC  the ribose sugar of RNA into the deoxyribose sugar of DNA. This is the
+CC  rate-limiting step of DNA biosynthesis. The class III RNRs consist of
+CC  two components, the catalytic enzyme (NrdD) and a radical-SAM domain
+CC  enzyme (NrdG) which activates the catalytic enzyme by the generation of
+CC  a protein-centered radical. 
+--
+SN  NrdD
+ID  anaerobic ribonucleoside-triphosphate reductase
+DN  ribonucleoside-triphosphate reductase(EC:1.17.4.2)
+RQ  1
+EV  IPR012833; TIGR02487; sufficient;
+TG  GO:0009265;
+EV  IPR014192; TIGR02827; sufficient;
+TG  GO:0009265;
+--
+SN  NrdG
+ID  activating protein for anaerobic ribonucleotide triphosphate reductase
+DN  [formate-C-acetyltransferase]-activating enzyme (EC:1.97.1.4)
+RQ  1
+EV  IPR012837; TIGR02491; sufficient;
+TG  GO:0009265;
+EV  IPR012840; TIGR02495; sufficient;
+TG  GO:0009265;
+EV  IPR014191; TIGR02826; sufficient;
+TG  GO:0009265;
+//

@@ -1,0 +1,43 @@
+AC  GenProp0907
+DE  poly-beta-1,6 N-acetyl-D-glucosamine system, PgaABCD type
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  18359807
+RT  Roles of pgaABCD genes in synthesis, modification, and export of the
+RT  Escherichia coli biofilm adhesin poly-beta-1,6-N-acetyl-D-glucosamine.
+RA  Itoh Y, Rice JD, Goller C, Pannuri A, Taylor J, Meisner J, Beveridge
+RA  TJ, Preston JF, Romeo T;
+RL  J Bacteriol. 2008;190:3670-3680.
+CC  This property describes the biosynthesis and delivery of a
+CC  polysaccharide adhesin based on poly-beta-1,6-N-acetyl-D-glucosamine,
+CC  partially N-deacetylated, as the system occurs in Gram-negative
+CC  bacteria with a requirement for transit across the outer membrane. A
+CC  related system, termed PIA (polysaccharide intercellular adhesin),
+CC  occurs in certain Gram-positive species.
+--
+SN  PgaA
+ID  poly-beta-1,6 N-acetyl-D-glucosamine export porin
+RQ  1
+EV  IPR023870; TIGR03939;
+TG  GO:0042710;
+--
+SN  PgaB
+ID  poly-beta-1,6-N-acetyl-D-glucosamine N-deacetylase
+RQ  1
+EV  IPR023854; TIGR03938;
+TG  GO:0045226;
+--
+SN  PgaC
+ID  poly-beta-1,6 N-acetyl-D-glucosamine synthase
+RQ  1
+EV  IPR023853; TIGR03937;
+TG  GO:0045226;
+--
+SN  PgaD
+ID  poly-beta-1,6-N-acetyl-D-glucosamine biosynthesis protein PgaD
+RQ  1
+EV  IPR023829; TIGR03940;
+TG  GO:0045226;
+//

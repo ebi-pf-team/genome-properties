@@ -1,0 +1,29 @@
+AC  GenProp0626
+DE  protein sorting system, sortase type, LPXTG/SrtA class
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  This property describes the common subtype of the sortase system for
+CC  targeting cell wall proteins in the Firmicutes by recognition of the
+CC  LPXTG C-terminal motif. The presence of one or more sortases and their
+CC  target sequences should be universal in Gram-positive organisms with
+CC  cell walls. Sortase is a transpeptidase; sortases belonging to this
+CC  Genome Property resemble SrtA, and the sorting signal generally
+CC  resembles LPXTG. Several SrtA paralogs can be found in some genomes, as
+CC  well as the substantially different SrtB and other families of sortase
+CC  and their cognate sequences.
+**  There are LPXTG variants/ SrtA sortases. 60390 - GenProp0664 is sortase
+**  system, SrtB class.
+--
+SN  LPXTG
+ID  LPXTG-like C-terminal region
+DN  LPXTG-motif cell wall anchor domain protein
+RQ  1
+EV  IPR019931; TIGR01167; sufficient;
+--
+SN  sortase
+ID  sortase (transpeptidase)
+DN  sortase family protein
+RQ  1
+EV  IPR005754; TIGR01076; sufficient;
+//

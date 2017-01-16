@@ -1,0 +1,39 @@
+AC  GenProp0225
+DE  mismatch repair
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  The combination of MutS (the MutS1 branch but not the MutS2 branch of
+CC  the MutS family) and MutL leads to a general mechanism for mismatch
+CC  exision and repair (MMR). Other proteins, recruited by MutS1 and MutL,
+CC  act to clip (MutH or other endonuclease), remove (UvrD), and
+CC  resynthesize one strand in the region containing the mismatch. MMR
+CC  constrasts in its generality with the targeting of specific mismatches
+CC  by various base excision repair (BER) glycosylases and with variants of
+CC  MMR that act on specific mismatches. In Escherichia coli and related
+CC  species that contain the endonuclease MutH and the DNA adenine
+CC  methylation protein Dam, lack of methylation marks the newly
+CC  synthesized strand; the mismatch is resolved by excision, removal, and
+CC  resynthesis of a piece of that strand. MMR is referred to as
+CC  methyl-directed mismatch repair in this subset of species with MMR.
+**  As of 1999, all species lacking MutL but having a MutS family member
+**  have a MutS2 rather than a MutS1. Eisen review.
+--
+SN  endonuc
+ID  MutH (or other) mismatch endonuclease
+DN  NOT APPLICABLE
+RQ  0
+EV  IPR004230; TIGR02248; sufficient;
+--
+SN  mutL
+ID  DNA mismatch repair protein MutL
+DN  DNA mismatch repair protein MutL
+RQ  1
+EV  IPR002099; TIGR00585; sufficient;
+--
+SN  mutS1
+ID  DNA mismatch repair protein MutS (mutS1)
+DN  DNA mismatch repair protein MutS
+RQ  1
+EV  IPR005748; TIGR01070; sufficient;
+//

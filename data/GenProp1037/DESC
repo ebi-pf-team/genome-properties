@@ -1,0 +1,29 @@
+AC  GenProp1037
+DE  radical SAM/SPASM system GRRM
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  This system contains at least two proteins. One is a protein about 150
+CC  amino acids in length, with the last 60 highly repetitive and usually
+CC  Gly-rich. In a number of genomes, the gene call was not made. The other
+CC  is a radical SAM/SPASM domain protein (see PF04055 and TIGR04085) that
+CC  may be a protein maturase active on the amino acids in the repeat
+CC  region of the Gly-rich protein.
+**  Cyanobacterial members have, in addition, a putative ABC transporter
+**  substrate binding protein nearby.
+--
+SN  grrA
+ID  rSAM-associated Gly-rich repeat protein
+RQ  1
+EV  IPR026356; TIGR04260;
+--
+SN  grrM
+ID  radical SAM/SPASM domain protein, GRRM system
+RQ  1
+EV  IPR026357; TIGR04261;
+--
+SN  grrP
+ID  extracellular substrate-binding orphan protein
+RQ  0
+EV  IPRXXXX; TIGR04262;
+//

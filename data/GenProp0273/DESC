@@ -1,0 +1,71 @@
+AC  GenProp0273
+DE  protocatechuate degradation to beta-ketoadipate
+TP  PATHWAY
+AU  Haft D
+TH  0
+RN  [1]
+RM  15006791
+RT  Diverse organization of genes of the beta-ketoadipate pathway in
+RT  members of the marine Roseobacter lineage.
+RA  Buchan A, Neidle EL, Moran MA;
+RL  Appl Environ Microbiol. 2004;70:1658-1668.
+CC  This pathway represents the bacterial version of degradation of
+CC  protocatechuate to beta-ketoadipate. It is often referred to as the
+CC  protocatechuate branch of the beta-ketoadipate pathway, in contrast to
+CC  the catechol branch. Protocatechuate can be reached in one step from
+CC  3-hydroxybenzoate, 4-hydroxybenzoate, vanillate, etc, and in two steps
+CC  from benzoate, and from other aromatic compounds. Note that catechol is
+CC  another common intermediate in the degradation of aromatic compounds.
+CC  The two branches converge at beta-ketoadipate. From there,
+CC  beta-ketoadipate is degraded in a two-step pathway to succinyl-CoA and
+CC  acetyl-CoA.
+**  In a eukaryotic form, substitute 5.5.1.5 for 5.5.1.2 and then 3.1.1.-
+**  for 4.1.1.44. DHH.  
+--
+SN  1_pcaG
+ID  protocatechuate 3,4-dioxygenase, alpha subunit
+DN  protocatechuate 3,4-dioxygenase, alpha subunit (EC 1.13.11.3)
+RQ  1
+EV  IPR012786; TIGR02423; sufficient;
+TG  GO:0019619;
+--
+SN  1_pcaH
+ID  protocatechuate 3,4-dioxygenase, beta subunit
+DN  protocatechuate 3,4-dioxygenase, beta subunit (EC 1.13.11.3)
+RQ  1
+EV  IPR012785; TIGR02422; sufficient;
+TG  GO:0019619;
+--
+SN  2_pcaB
+ID  3-carboxy-cis,cis-muconate cycloisomerase
+DN  3-carboxy-cis,cis-muconate cycloisomerase (EC 5.5.1.2)
+RQ  1
+EV  IPR012789; TIGR02426; sufficient;
+TG  GO:0019619;
+--
+SN  3_pcaC
+ID  4-carboxymuconolactone decarboxylase
+DN  4-carboxymuconolactone decarboxylase (EC 4.1.1.44)
+RQ  1
+EV  IPR012788; TIGR02425; sufficient;
+TG  GO:0019619;
+--
+SN  4_pcaD
+ID  3-oxoadipate enol-lactonase
+DN  3-oxoadipate enol-lactonase (EC 3.1.1.24)
+RQ  1
+EV  IPR026968; TIGR02427; sufficient;
+TG  GO:0019619;
+--
+SN  pcaQ
+ID  Pca operon transcriptional regulator PcaQ
+DN   Pca operon transcriptional regulator PcaQ
+RQ  0
+EV  IPR012787; TIGR02424; sufficient;
+--
+SN  pcaR
+ID  regulators, PcaR/PcaU/PobR family
+DN  beta-ketoadipate pathway transcriptional regulator, PcaR/PcaU/PobR family
+RQ  0
+EV  IPR012794; TIGR02431; sufficient;
+//

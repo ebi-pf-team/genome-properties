@@ -1,0 +1,35 @@
+AC  GenProp0966
+DE  E. coli O-antigen biosynthesis
+TP  METAPATH
+AU  Haft D
+TH  0
+CC  In E. coli biosynthesis of the O-antigen consists of initiation by
+CC  ligation of (usually) N-acetyl-glucosamine to undecaprenylphosphate
+CC  (Und-P) to form Und-PP-GlcNAc, followed by O-antigen specific ligation
+CC  of several nucleotide triphosphate sugars onto the initiating GlcNAc
+CC  residue.  The completed Und-PP-O-antigen monomer is transferred to the
+CC  periplasmic face of the membrane, polymerized and ligated to the lipid
+CC  A outer core by one of three systems: The Wzy-dependent path consisting
+CC  of Wzx, Wzy, and Wzz; the ABC-transporter-dependent pathway and the
+CC  synthase-dependent pathway.  The Wzy-pathway is most common in E. coli. 
+--
+SN  Export
+ID  O-antigen export system
+RQ  1
+EV  GenProp0968;
+--
+SN  Init
+ID  Initiation: Und-PP-GlcNAc formation
+RQ  1
+EV  GenProp0970;
+--
+SN  Ligate
+ID  ligation to Lipid A core
+RQ  1
+EV  IPR007016; PF04932;
+--
+SN  O-ag
+ID  O-antigen monomer biosynthesis
+RQ  1
+EV  GenProp0913;
+//

@@ -1,0 +1,36 @@
+AC  GenProp0620
+DE  cytochrome (quinone) oxidase, aa3 type, QoxABCD
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  7575098
+RT  Properties of the menaquinol oxidase (Qox) and of qox deletion mutants
+RT  of Bacillus subtilis.
+RA  Lemma E, Simon J, Schägger H, Kröger A;
+RL  Arch Microbiol. 1995;163:432-438.
+CC  The cytochrome (quinone) oxidase complex QoxAB is closely related to
+CC  the bacillus cytochrome c oxidase of the caa3 type.  This complex
+CC  couples the reduction of oxidized quinones with the reduction of
+CC  molecular oxygen to water and the pumping of protons.
+--
+SN  QoxA
+ID  subunit II, QoxA
+RQ  1
+EV  IPR006332; TIGR01432; sufficient;
+--
+SN  QoxB
+ID  subunit I, QoxB
+RQ  1
+EV  IPR014233; TIGR02882; sufficient;
+--
+SN  QoxC
+ID  subunit III, QoxC
+RQ  1
+EV  IPR014246; TIGR02897; sufficient;
+--
+SN  QoxD
+ID  subunit IV, QoxD
+RQ  1
+EV  IPR014250; TIGR02901; sufficient;
+//

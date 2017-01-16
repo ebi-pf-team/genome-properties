@@ -1,0 +1,56 @@
+AC  GenProp0216
+DE  recBCD pathway
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  14604803
+RT  The genome stability in Corynebacterium species due to lack of the
+RT  recombinational repair system.
+RA  Nakamura Y, Nishio Y, Ikeo K, Gojobori T;
+RL  Gene. 2003;317:149-155.
+RN  [2]
+RM  12815437
+RT  RecBCD enzyme is a DNA helicase with fast and slow motors of opposite
+RT  polarity.
+RA  Taylor AF, Smith GR;
+RL  Nature. 2003;423:889-893.
+CC  This property describes the presence of genes for the RecBCD protein
+CC  complex, which participates in at least two different processes. As
+CC  exodeoxyribonuclease V, it degrades linear double-stranded DNA, as
+CC  might occur by cleavage of exogenous DNA by restriction systems. It
+CC  also acts to repair double-stranded breaks in DNA by homologous
+CC  recombination; genera that lack this complex tend to show stronger
+CC  conservation of gene order between species. The RecBCD heterotrimer
+CC  interacts with instances of the DNA sequence GCTGGTGG in E. coli,
+CC  called Chi, which are recombinational hotspots. RecBCD promotes loading
+CC  the strand exchange protein RecA onto chi-containing DNA.
+CC  Double-stranded breaks are processed by AddAB rather than by RecBCD in
+CC  the Firmicutes and in alpha-Proteobacteria.
+**  Note: RecBCD works closely with RecA, helps load it, for recombination
+**  repair, but Buchnera seems to have RecBCD without RecA.  Note:
+**  PMID:15547262 DSBs are processed by RecBCD in gram-negative bacteria
+**  and AddAB in gram-positive bacteria, except they find AddAB replace
+**  RecBCD in members of alphaProteobacteria such as Rhizobium etli.
+--
+SN  recB
+ID  exodeoxyribonuclease V, beta subunit
+DN  exodeoxyribonuclease V beta subunit (EC:3.1.11.5)
+RQ  1
+EV  IPR004586; TIGR00609; sufficient;
+TG  GO:0000738;
+--
+SN  recC
+ID  exodeoxyribonuclease V, gamma subunit
+DN  exodeoxyribonuclease V gamma subunit (EC:3.1.11.5)
+RQ  1
+EV  IPR006697; TIGR01450; sufficient;
+TG  GO:0000738;
+--
+SN  recD
+ID  exodeoxyribonuclease V, alpha subunit
+DN  exodeoxyribonuclease V alpha subunit (EC:3.1.11.5)
+RQ  1
+EV  IPR006344; TIGR01447; sufficient;
+TG  GO:0000738;
+//

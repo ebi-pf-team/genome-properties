@@ -1,0 +1,117 @@
+AC  GenProp0796
+DE  CMP-pseudaminic acid biosynthesis from UDP-N-acetylglucosamine
+TP  METAPATH
+AU  Haft D
+TH  3
+RN  [1]
+RM  3104041
+RT  Somatic antigens of Pseudomonas aeruginosa. The structure of O-specific
+RT  polysaccharide chains of the lipopolysaccharides from P. aeruginosa O5
+RT  (Lányi) and immunotype 6 (Fisher).
+RA  Knirel YA, Kocharova NA, Shashkov AS, Dmitriev BA, Kochetkov NK,
+RA  Stanislavsky ES, Mashilova GM;
+RL  Eur J Biochem. 1987;163:639-652.
+RN  [2]
+RM  16286454
+RT  Functional characterization of dehydratase/aminotransferase pairs from
+RT  Helicobacter and Campylobacter: enzymes distinguishing the pseudaminic
+RT  acid and bacillosamine biosynthetic pathways.
+RA  Schoenhofen IC, McNally DJ, Vinogradov E, Whitfield D, Young NM, Dick
+RA  S, Wakarchuk WW, Brisson JR, Logan SM;
+RL  J Biol Chem. 2006;281:723-732.
+RN  [3]
+RM  11119490
+RT  Role of flm locus in mesophilic Aeromonas species adherence.
+RA  Gryllos I, Shaw JG, Gavín R, Merino S, Tomás JM;
+RL  Infect Immun. 2001;69:65-74.
+RN  [4]
+RM  16684771
+RT  Functional characterization of the flagellar glycosylation locus in
+RT  Campylobacter jejuni 81-176 using a focused metabolomics approach.
+RA  McNally DJ, Hui JP, Aubry AJ, Mui KK, Guerry P, Brisson JR, Logan SM,
+RA  Soo EC;
+RL  J Biol Chem. 2006;281:18489-18498.
+CC  Pseudaminic acid is a component of the O-antigen of certain pseudomonas
+CC  strains [1] as well as the glycosylation modification of Campylobacter
+CC  and Helicobacter flagellins [2], but is clearly more widely
+CC  distributed.  The proposed biosynthetic pathway involves the
+CC  dehydration/isomerization of UDP-D-GlcNAc to UDP-4-keto-6-deoxy-GlcNAc
+CC  by PseB, a transamination at position 4 by PseC.  The PseH protein is
+CC  similar to acetyltransferases and is presumed to carry out transfer to
+CC  the C-4 amine.  PseH itself is occasionally missing.  Often in this
+CC  case, the PseG protein contains an passable acetyltransferase domain.
+CC  The function of PseG when PseH is present is unknown, it may complex
+CC  with PseH, or ot may be responsible for the UDP-hydrolysis that clearly
+CC  must happen but is not currently assigned to an enzyme with a conserved
+CC  domain for this reaction.  PseI carries out the condensation with
+CC  phosphoenolpyruvate to create pseudaminic acid, a reaction analagous to
+CC  the carried out by NeuB in the biosynthesis of neuraminic acid
+CC  (GenProp0792).  PseF carries out the transfer of CMP onto pseudaminic
+CC  acid to yield the most common product.  In Campylobacter, the
+CC  biosynthetic cluster is accompanied by the PseA protein, a homolog of
+CC  WbuX and is responsible for the conversion of the N-acetyl group at
+CC  position 7 into the acetimidino group.  PseA is accompanied by two
+CC  genes, WbuY and WbuZ which are reported to provide ammonia for the
+CC  reaction (GenProp0794).  Other proteins are found associated with this
+CC  cluster including methylases and possible formyltransferases and
+CC  deacetylases.  Thus, a range of closely related structures are likely
+CC  produced as mature products in various lineages.  
+--
+SN  PseA
+ID  CMP-pseudaminic acid C7-N-acetyl amidotransferase
+DN  N-acetyl sugar amidotransferase (EC: 6.3.4.-)
+RQ  0
+EV  IPR020022; TIGR03573;
+--
+SN  PseB
+ID  UDP-GlcNAc C6-dehydratase/C4-reductase
+DN  UDP-N-acetylglucosamine 4,6-dehydratase (EC:4.2.1.-)
+RQ  1
+EV  IPR020025; TIGR03589;
+--
+SN  PseC
+ID  pseudaminic acid biosynthesis aminotransferase PseC
+DN  UDP-4-keto-6-deoxy-N-acetylglucosamine 4-aminotransferase (EC: 2.6.1.-)
+RQ  1
+EV  IPR020026; TIGR03588;
+--
+SN  PseF
+ID  pseudaminic acid CMP-transferase
+DN  pseudaminic acid CMP-transferase (EC:2.7.7.-)
+RQ  1
+EV  IPR020039; TIGR03584;
+EV  IPRXXXX; PF02348;
+--
+SN  PseG
+ID  possible pseudaminic acid biosynthesis UDP hydrolase
+DN  pseudaminic acid biosynthesis-associated protein PseG
+RQ  0
+EV  IPR020023; TIGR03590;
+--
+SN  PseH
+ID  possible pseudaminic acid biosynthesis N-acetyl transferase
+DN  pseudaminic acid biosynthesis N-acetyl transferase
+RQ  1
+EV  IPR020036; TIGR03585;
+EV  IPR000182; PF00583;
+--
+SN  PseI
+ID  pseudaminic acid synthase (pyruvate condensing enzyme)
+DN  pseudaminic acid synthase (EC:2.5.1.-)
+RQ  1
+EV  IPR020030; TIGR03586;
+--
+SN  PseM?
+ID  pseudaminic acid biosynthesis associated methylase
+RQ  0
+EV  IPR020027; TIGR03587;
+--
+SN  UGlcNAc
+ID  source of UDP-N-acetyl-D-glucosamine
+RQ  0
+EV  GenProp0750;
+--
+SN  variants
+ID  proteins possibly involved in pathway variants
+RQ  0
+//

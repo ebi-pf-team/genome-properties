@@ -1,0 +1,21 @@
+AC  GenProp0886
+DE  flagellar components of unknown function
+TP  GUILD
+AU  Haft D
+TH  0
+CC  These components are members of flagellar operons and, based on
+CC  experimental evidence (i.e. mutational analysis or physical binding)
+CC  are associated with flagella.  Insufficient evidence has been
+CC  determined to further classify which flagellar subsystem is the
+CC  appropriate category to place these components.
+--
+SN  flhF
+ID  flagellar biosynthesis protein FlhF
+RQ  1
+EV  IPR020006; TIGR03499;
+--
+SN  fliL
+ID  flagellar basal body-associated protein FliL
+RQ  1
+EV  IPR005503; PF03748; sufficient;
+//

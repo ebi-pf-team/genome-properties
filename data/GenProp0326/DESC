@@ -1,0 +1,58 @@
+AC  GenProp0326
+DE  protein sorting system, PEP-CTERM/exosortase (generic)
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  16930487
+RT  Exopolysaccharide-associated protein sorting in environmental
+RT  organisms: the PEP-CTERM/EpsH system. Application of a novel
+RT  phylogenetic profiling heuristic.
+RA  Haft DH, Paulsen IT, Ward N, Selengut JD;
+RL  BMC Biol. 2006;4:29.
+CC  This Genome Property describes a proposed protein sorting system
+CC  associated with exopolysaccharide loci in many Gram-negative bacteria.
+CC  One hallmark is the presence of a paralogous domain at the C-termini of
+CC  a substantial number of proteins in a single genome, usually from four
+CC  to sixty-five. Features of this domain, described by TIGRFAMs model
+CC  TIGR02595, are a conserved motif PEP, a transmembrane domain, and a
+CC  cluster of basic residues for a total length of about 24 amino acids.
+CC  We  call this domain PEP-CTERM, and note that is shares a number of
+CC  properties with the the LPXTG-type Gram-positive cell-wall targeting
+CC  sequence. Another hallmark of this system is the presence of one or
+CC  more homologs of EpsH (TIGR02602), a highly hydrophobic protein that
+CC  spans the membrane eight or more times. Its surrounding genes nearly
+CC  always pertain to exopolysaccharide biosynthesis. We have proposed that
+CC  TIGR02602 models a transpeptidase that cleaves PEP-CTERM proteins,
+CC  attaches them transiently to an active site Cys, then attaches them
+CC  covalently to an unknown substrate for sorting to the outer surface of
+CC  the cell, closely analogous to the action of sortase in Gram-positive
+CC  bacteria. We suggest the name exosortase for EpsH homologs involved in
+CC  this process. In Proteobacterial species with a the PEP-CTERM/exsortase
+CC  system, a sensor histidine kinase (TIGR02916) and a sigma-54-dependent
+CC  DNA-binding response regulator (TIGR02915) are present and appear to
+CC  bind a conserved regulatory site found upstream of most PEP-CTERM
+CC  genes.
+**  MANUAL evidence for the CTERM proteins is: Hit to the HMM abopve noise
+**  AND The CTERM motif at the C-terminus AND A signalP sequence above 0.9
+**  See three more Genome Properties in development: boutique sorting
+**  systems 60383 (which includes gray zone hits to TIGR02595), and
+**  exosortase-associated polysaccharide biosynthesis, type 1 (58378) and
+**  type 2 (58381).
+--
+SN  CTERM
+ID  PEP-CTERM motif
+RQ  1
+EV  IPR013424; TIGR02595; sufficient;
+EV  IPR013424; PF07589; sufficient;
+--
+SN  EpsH
+ID  EpsH family 8TM protein
+RQ  1
+EV  IPR013426; TIGR02602; sufficient;
+--
+SN  EpsI
+ID  EpsI protein/fusion
+RQ  0
+EV  IPR014263; TIGR02914; sufficient;
+//

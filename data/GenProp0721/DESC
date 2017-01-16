@@ -1,0 +1,27 @@
+AC  GenProp0721
+DE  2-aminoethylphosphonate (AEP) ABC transporter, type II
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  This ABC transporter is found in a number of genomes in operon-like
+CC  contexts strongly suggesting a substrate specificity for
+CC  2-aminoethylphosphonate (2-AEP, ciliatine). The characterized PhnSTUV
+CC  system is absent in the genomes in which this system is found. These
+CC  genomes encode systems for the catabolism of 2-AEP, making the need for
+CC  a 2-AEP-specific transporter likely.
+--
+SN  PhnS2
+ID  periplasmic AEP binding protein
+RQ  1
+EV  IPR017663; TIGR03261; sufficient;
+--
+SN  PhnT2
+ID  ATP-binding protein
+RQ  1
+EV  IPR017666; TIGR03265; sufficient;
+--
+SN  PhnU2
+ID  permease protein
+RQ  1
+EV  IPR017664; TIGR03262; sufficient;
+//

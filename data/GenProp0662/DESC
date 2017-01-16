@@ -1,0 +1,45 @@
+AC  GenProp0662
+DE  photosynthetic reaction center, alphaproteobacterial type
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  6744416
+RT  Nucleotide and deduced polypeptide sequences of the photosynthetic
+RT  reaction-center, B870 antenna, and flanking polypeptides from R.
+RT  capsulata.
+RA  Youvan DC, Bylina EJ, Alberti M, Begusch H, Hearst JE;
+RL  Cell. 1984;37:949-957.
+CC  This alphaproteobacterial-type photosynthetic reaction center is found
+CC  in Rhodobacterales, Rhodospirillales, Rhizobiales. A similar complex is
+CC  found in the Chloroflexi, which do not belong to the
+CC  alphaproteobacteria. This complex is associated with nonoxygenic
+CC  photosynthesis. It differs from photosystems I and II of the
+CC  cyanobacteria and plants. The core complex of the reaction center is a
+CC  heterotrimer of L, M, and H subunits.
+--
+SN  assem_1
+ID  putative photosynthetic complex assembly protein
+RQ  1
+EV  IPR017495; TIGR03054; sufficient;
+--
+SN  assem_2
+ID  putative photosynthetic complex assembly protein 2
+RQ  1
+EV  IPR017496; TIGR03055; sufficient;
+--
+SN  pufL
+ID  photosynthetic reaction center L subunit
+RQ  1
+EV  IPR005871; TIGR01157; sufficient;
+--
+SN  pufM
+ID  photosynthetic reaction center M subunit
+RQ  1
+EV  IPR005781; TIGR01115; sufficient;
+--
+SN  puhA
+ID  photosynthetic reaction center H subunit
+RQ  1
+EV  IPR005652; TIGR01150; sufficient;
+//

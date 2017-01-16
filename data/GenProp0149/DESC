@@ -1,0 +1,87 @@
+AC  GenProp0149
+DE  sulfate reduction to sulfide, assimilatory
+TP  PATHWAY
+AU  Haft D
+TH  1
+RN  [1]
+RM  10613872
+RT  Identification of a new class of 5'-adenylylsulfate (APS) reductases
+RT  from sulfate-assimilating bacteria.
+RA  Bick JA, Dennis JJ, Zylstra GJ, Nowack J, Leustek T;
+RL  J Bacteriol. 2000;182:135-142.
+DC  Sulfur metabolism
+DR  KEGG; map00920;
+CC  The reduction of sulfate to sulfide in sulfate assimilatory prokaryotes
+CC  is initiated by the activation of sulfate in an adenylation reaction
+CC  catalyzed by sulfate adenylyltransferase. The product,
+CC  5-adenylylsulfate (APS) , is either directly reduced by a
+CC  thioredoxin-dependent APS reductase to sulfite, in a reaction similar
+CC  to that found in sulfate dissimilators and plants, or phosphorylated to
+CC  the intermediate, 3-phosphoadenylylsulfate (PAPS). The later is then
+CC  reduced by a thioredoxin-dependent PAPS reductase to sulfite. The
+CC  sulfite product from either branch of the assimilation pathway is
+CC  enzymatically reduced by sulfite reductase to sulfide, for
+CC  incorporation into an amino acid acceptor, peptide, or protein etc.
+CC  [1].
+--
+SN  1-CysD
+ID  sulfate adenylyltransferase, small subunit
+DN  sulfate adenylyltransferase, small subunit (EC 2.7.7.4)
+RQ  1
+EV  IPR011784; TIGR02039; sufficient;
+EV  IPR002650; TIGR00339; sufficient;
+TG  GO:0000103;
+--
+SN  1-CysN
+ID  sulfate adenylyltransferase, large subunit
+DN  sulfate adenylyltransferase, large subunit (EC 2.7.7.4)
+RQ  1
+EV  IPR011779; TIGR02034; sufficient;
+EV  IPR002650; TIGR00339; sufficient;
+TG  GO:0000103;
+--
+SN  2-Cys
+ID  adenylylsulfate reductase
+DN  adenylyl-sulfate reductase (thioredoxin) (EC 1.8.4.10)
+RQ  1
+EV  IPR011798; TIGR02055; sufficient;
+TG  GO:0000103;
+--
+SN  2-CysC
+ID  adenylylsulfate reductase via PAPS
+DN  adenylyl-sulfate kinase(EC 2.7.1.25)
+RQ  1
+EV  IPR002891; TIGR00455; sufficient;
+TG  GO:0000103;
+--
+SN  2-CysH
+ID  adenylylsulfate reductase via PAPS
+DN  phosphoadenylyl-sulfate reductase (thioredoxin)(EC 1.8.4.8)
+RQ  1
+EV  IPR011800; TIGR02057; sufficient;
+TG  GO:0000103;
+--
+SN  2p-CysH
+ID  adenylylsulfate reductase via PAPS
+RQ  0
+EV  IPR004511; TIGR00434; sufficient;
+TG  GO:0000103;
+--
+SN  3-CysI
+ID  sulfite reductase, beta subunit
+DN  sulfite reductase (NADPH) hemoprotein, beta-component (EC 1.8.1.2)
+RQ  1
+EV  IPR011786; TIGR02041; sufficient;
+TG  GO:0000103;
+EV  IPR011787; TIGR02042; sufficient;
+TG  GO:0000103;
+--
+SN  3-CysJ
+ID  sulfite reductase, alpha subunit
+DN  sulfite reductase (NADPH) flavoprotein, alpha-component (EC 1.8.1.2)
+RQ  1
+EV  IPR010199; TIGR01931; sufficient;
+TG  GO:0000103;
+EV  IPR011787; TIGR02042; sufficient;
+TG  GO:0000103;
+//

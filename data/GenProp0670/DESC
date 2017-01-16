@@ -1,0 +1,34 @@
+AC  GenProp0670
+DE  CRISPR system, Aferr subtype
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  At least ten different systems of proteins associated associated with
+CC  CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) have
+CC  been described, such as the Ecoli, Ypest, Nmeni, and Dvulg subtypes. We
+CC  designate this type Aferr, after Acidithiobacillus ferrooxidans ATCC
+CC  23270, where this system is carried on the chromosome rather than on a
+CC  plasmid, and where it is the only CRISPR subtype in the species. None
+CC  of the familiar core cas genes, cas1-cas4, is found in A. ferrooxidans,
+CC  making this type of CRISPR/cas locus unusual.
+--
+SN  Csf1
+ID  CRISPR-associated protein, Csf1
+RQ  1
+EV  IPR017545; TIGR03114; sufficient;
+--
+SN  Csf2
+ID  CRISPR-associated protein, Csf2
+RQ  1
+EV  IPR017546; TIGR03115; sufficient;
+--
+SN  Csf3
+ID  CRISPR-associated protein, Csf3
+RQ  1
+EV  IPR017547; TIGR03116; sufficient;
+--
+SN  Csf4
+ID  CRISPR-associated DEAH-box helicase Csf4
+RQ  1
+EV  IPR017548; TIGR03117; sufficient;
+//

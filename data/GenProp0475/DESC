@@ -1,0 +1,12 @@
+AC  GenProp0475
+DE  Unknown biological process
+TP  CATEGORY
+AU  Haft D
+TH  0
+CC  Groups of homologous genes may be associated by their proximity and
+CC  co-directionality in a number of phylogenetically diverse genomes.  A
+CC  reasonable hypothesis is that these genes act in a related biological
+CC  process.  When none of the genes in such a syntenic grouping have a
+CC  characterized biological process they may still be used to create a
+CC  Genome Property and will be children of this category.
+//

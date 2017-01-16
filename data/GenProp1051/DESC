@@ -1,0 +1,57 @@
+AC  GenProp1051
+DE  O10(Ec) antigen biosynthesis
+TP  METAPATH
+AU  Haft D
+TH  0
+CC  The E. coli O10 antigen is a branched pentasaccharide with the
+CC  structure
+CC  [->3)aLRha{(2<-1)aDFuc4NAcyl}(1->3)aLRha(1->3)aDGal(1->3)bDGlcNAc(1->],
+CC  where the acyl group is heterogeneous and composed of 60% acetyl and
+CC  40% D-3-hydroxybutyryl. The composition of the O10(Ec) cluster has not
+CC  been previously reported and was sequenced at JCVI as project ostec03.
+--
+SN  AcTR
+ID  O10(Ec)-associated putative D-Fuc4N acyltransferase
+RQ  1
+EV  IPRXXXX; 2968;
+--
+SN  Fuc4NAc
+ID  source of dTDP-4-acetamido-4,6-dideoxy-D-galactose (dTDP-Fuc4NAc)
+RQ  1
+EV  GenProp0972;
+--
+SN  GT-1
+ID  O10(Ec)-associated L-rhamnose alpha-1,2-(4-N-acyl)-D-fucosaminyltransferase
+RQ  1
+EV  IPRXXXX; 2964;
+--
+SN  GT-2
+ID  O10(Ec)-associated L-rhamnose alpha-1,3-L-rhamnosyltransferase
+RQ  1
+EV  IPRXXXX; TIGR01556;
+--
+SN  GT-3
+ID  O10(Ec)-associated D-galactose alpha-1,3-L-rhamnosyltransferase
+RQ  1
+EV  IPRXXXX; 2966;
+--
+SN  GT-4
+ID  O10(Ec)-associated N-acetyl-D-glucosamine alpha-1,3-D-galactosyltransferase
+RQ  1
+EV  IPRXXXX; 2967;
+--
+SN  Rha
+ID  source of L-rhamnose
+RQ  1
+EV  GenProp0183;
+--
+SN  wzx10
+ID  O10(Ec)-antigen transporter (flippase) wzx
+RQ  1
+EV  IPRXXXX; 2963;
+--
+SN  wzy10
+ID  O10(Ec)-antigen polymerase wzy
+RQ  1
+EV  IPRXXXX; 2965;
+//

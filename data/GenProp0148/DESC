@@ -1,0 +1,25 @@
+AC  GenProp0148
+DE  release factor 2 programmed frameshift
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  9642202
+RT  Does disparate occurrence of autoregulatory programmed frameshifting in
+RT  decoding the release factor 2 gene reflect an ancient origin with loss
+RT  in independent lineages?
+RA  Persson BC, Atkins JF;
+RL  J Bacteriol. 1998;180:3462-3466.
+CC  Peptide chain release factor 2, product of the prfB gene (RF2, or
+CC  PrfB), often has a programmed frameshift. When enough RF2 is present,
+CC  translation ends at a UGA (amber) stop codon soon after the start.
+CC  Without sufficient RF2, a translational frameshift occurs, allowing RF2
+CC  to be made. UGA codons also play a role in selenocysteine
+CC  incorporation, but the programmed frameshift in the prfB gene appears
+CC  much more widespread than selenocysteine incorporation.
+--
+SN  RF2-pfs
+ID  release factor 2 programmed frameshift
+DN  NOT APPLICABLE
+RQ  1
+//

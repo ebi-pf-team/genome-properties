@@ -1,0 +1,46 @@
+AC  GenProp0925
+DE  Leptospira core LPS elements
+TP  METAPATH
+AU  Haft D
+TH  0
+CC  These components of Leptospira Lipopolysaccharide are shared among all
+CC  analyzed Leptospira serovars.  Currently, this includes only L.
+CC  interrogans (Lai str. 56601, ntli02 and Copenageni str. Fiocruz,
+CC  ntli03), borgpetersenii (Hardjo-Bovis L550, ntlb02 and JB1976m ntlb03),
+CC  and biflexa Patoc 1 (Paris, ntlb05 and Ames, ntlb06).
+--
+SN  4-Ppase
+ID  Lipid A 4(prime) phosphatase
+RQ  0
+--
+SN  EDH0002
+ID  NAD dependent epimerase/dehydratase, LLPSF_EDH_00002 family
+RQ  1
+EV  IPRXXXX; 2777;
+EV  IPRXXXX; 2777;
+--
+SN  GlcNAc3N
+ID  UDP-GlcNAc3N biosynthesis from UDP-GlcNAc (GnnAB)
+RQ  1
+EV  GenProp0924;
+--
+SN  KDOLipA
+ID  KDO2-Lipid A biosynthesis, basic elements
+RQ  1
+EV  GenProp0204;
+--
+SN  LmtA
+ID  Lipid-A 1-methyltransferase (O-methylphosphate-forming)
+RQ  1
+EV  IPRXXXX; 2800;
+--
+SN  REG0001
+ID  MarR-like transcriptional regulator, LLPSF_REG_00001 family
+RQ  1
+EV  IPR026433; TIGR04176;
+--
+SN  UGlcNAc
+ID  UDP-GlcNAc biosynthesis
+RQ  1
+EV  GenProp0750;
+//

@@ -1,0 +1,76 @@
+AC  GenProp0762
+DE  chemotaxis response-regulator system
+TP  SYSTEM
+AU  Haft D
+TH  1
+RN  [1]
+RM  16369945
+RT  Signal transduction in bacterial chemotaxis.
+RA  Baker MD, Wolanin PM, Stock JB;
+RL  Bioessays. 2006;28:9-22.
+DC  Bacterial chemotaxis
+DR  KEGG; map02030;
+CC  This property describes chemotaxis response-regulator systems as
+CC  typified in Escherichia coli, with the histidine kinase CheA, the
+CC  response regulator CheY, a phosphatase (CheZ in E. coli), and other
+CC  proteins (CheB, CheW, and CheR in E. coli). This system also requires
+CC  chemoreceptors, but these may be different in different species and are
+CC  not currently included.
+**  NTL10EC2051 = cheZ  NTL10EC2052 = cheY  NTL10EC2053 = cheB  NTL10EC2054
+**  = cheR  NTL10EC2056 = cheW  NTL10EC2057 = cheA
+--
+SN  CheA
+ID  chemotaxis histidine kinase CheA
+RQ  1
+EV  IPRXXXX; 2068;
+EV  IPRXXXX; 2632;
+--
+SN  CheB
+ID  chemotaxis methylesterase CheB
+RQ  0
+EV  IPR000673; PF01339;
+--
+SN  CheD
+ID  chemotaxis protein CheD
+RQ  0
+EV  IPR005659; PF03975;
+--
+SN  CheR
+ID  chemotaxis methyltransferase CheR
+RQ  0
+EV  IPRXXXX; 2066;
+EV  IPRXXXX; PF01739;
+--
+SN  CheW
+ID  chemotaxis adaptor protein CheW
+RQ  1
+EV  IPRXXXX; 2065;
+EV  IPRXXXX; 2658;
+--
+SN  CheY
+ID  chemotaxis response regulator CheY
+RQ  1
+EV  IPRXXXX; 2067;
+EV  IPRXXXX; 2660;
+--
+SN  CheZ
+ID  chemotaxis phosphatase CheZ
+RQ  1
+EV  IPR007439; PF04344;
+EV  IPRXXXX; 2064;
+--
+SN  MCP
+ID  methyl-accepting chemotaxis protein
+RQ  1
+EV  IPR004089; PF00015;
+--
+SN  Ppase
+ID  CheY-P phosphatases, CheC/FliY/FliN/CheX
+RQ  0
+EV  IPR007597; PF04509;
+--
+SN  RRR
+ID  operonic Response Regulator Receiver domain protein
+RQ  0
+EV  IPRXXXX; PF00072;
+//

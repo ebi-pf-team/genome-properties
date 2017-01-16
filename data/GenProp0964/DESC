@@ -1,0 +1,23 @@
+AC  GenProp0964
+DE  dTDP-3-acetamidofucose (dTDP-Fuc3NAc) biosynthesis from
+DE  dTDP-3-aminofucose
+TP  METAPATH
+AU  Haft D
+TH  0
+CC  dTDP-3-acetamidofucose is the precursor of 3-acetamidofucose
+CC  (D-Fuc3NAc), a sugar observed in a number of O-antigen and other sugar
+CC  polymers.  The immediate precursor of dTDP-Fuc3NAc, dTDP-3-aminofucose
+CC  is used to generate more than one different product, so this Property
+CC  only encompasses the final step from that branch point.
+--
+SN  FdtC
+ID  dTDP-3-aminofucose 3N-acetyltransferase
+RQ  1
+EV  IPRXXXX; PF00132;
+EV  IPRXXXX; 2849;
+--
+SN  Fuc3N
+ID  source of dTDP-3-aminofucose
+RQ  1
+EV  GenProp0951;
+//

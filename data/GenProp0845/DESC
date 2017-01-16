@@ -1,0 +1,24 @@
+AC  GenProp0845
+DE  protein sorting system, KxYKxGKxW class
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  Analogous to YSIRK, this property describes a subclass of N-terminal
+CC  signal sequence in Firmicutes (low-GC Gram-positive bacteria). As with
+CC  YSIRK, many proteins with this N-terminal domain have an LPXTG
+CC  C-terminal anchor. However, most of these proteins have extended
+CC  regions of low-complexity sequence, usually serine-rich. We propose
+CC  that this signal domain is recognized by cellular machinery that delays
+CC  protein translocation until glycosylation or other post-translational
+CC  modifications are complete.
+--
+SN  KxW_sig
+ID  KxYKxGKxW motif signal peptide
+RQ  1
+EV  IPR022263; TIGR03715;
+--
+SN  hypot_1
+ID  putative linked putative esterase TIGR03729
+RQ  0
+EV  IPR022302; TIGR03729;
+//

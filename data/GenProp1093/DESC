@@ -1,0 +1,21 @@
+AC  GenProp1093
+DE  abortive infection proteins
+TP  GUILD
+AU  Haft D
+TH  0
+CC  An abortive infection system is any system that interferes with the
+CC  ability of a phage to replicate successfully after it has infected a
+CC  prokaryotic cell. Mechanisms vary widely, and may include blockage of a
+CC  specific step in phage replication, or else shutdown and/or death of
+CC  the host cell. This Genome Property is designed as a guild for proteins
+CC  that have been described in publications as abortive infection proteins
+CC  and that do not belong to CRISPR or restriction enzyme systems.
+**  Many toxin-antitoxin system proteins MAY belong to this guild.
+--
+SN  ABI
+ID  abortive infection protein
+RQ  1
+EV  IPR025911; PF13958;
+EV  IPR030987; TIGR04498;
+EV  IPR025935; PF14253;
+//

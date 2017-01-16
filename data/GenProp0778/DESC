@@ -1,0 +1,43 @@
+AC  GenProp0778
+DE  protein sorting system, GlyGly-CTERM/rhombosortase
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  22194940
+RT  GlyGly-CTERM and rhombosortase: a C-terminal protein processing signal
+RT  in a many-to-one pairing with a rhomboid family intramembrane serine
+RT  protease.
+RA  Haft DH, Varghese N;
+RL  PLoS One. 2011;6:e28886.
+RN  [2]
+RM  21385872
+RT  Proteomic analysis of the Vibrio cholerae type II secretome reveals new
+RT  proteins, including three related serine proteases.
+RA  Sikora AE, Zielke RA, Lawrence DA, Andrews PC, Sandkvist M;
+RL  J Biol Chem. 2011;286:16555-16566.
+CC  The GlyGly-CTERM domain, previously called the gammaproteobacterial
+CC  enzyme C-terminal transmembrane domain or rhombotail, appears to be a
+CC  protein sorting signal analogous to LPXTG and PEP-CTERM. Every genome
+CC  that encodes a set of GlyGly-CTERM proteins also encodes a rhomboid
+CC  family enzyme, designated rhombosortase, in a many-to-one relationship.
+CC  Rhomboid proteases are serine proteases with the active site Ser within
+CC  the membrane, and they are capable of cleaving hydrophobic
+CC  transmembrane segments. In general, genomes that encode GlyGly-CTERM
+CC  proteins and rhombosortase also encode a type 2 secretion system
+CC  (T2SS). Several GlyGly-CTERM proteins have been shown to undergo
+CC  T2SS-mediated secretion.
+**  TIGR03502 and TIGR03503 were listed as candidates but are now
+**  deprecated. TIGR03902 has replaced them and is correct.
+--
+SN  GGcterm
+ID  GlyGly-CTERM sorting domain
+RQ  1
+EV  IPR020008; TIGR03501;
+EV  IPR021206; TIGR03867;
+--
+SN  rhomsort
+ID  rhombosortase
+RQ  1
+EV  IPR023826; TIGR03902;
+//

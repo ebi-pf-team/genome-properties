@@ -1,0 +1,37 @@
+AC  GenProp0959
+DE  radical SAM/uncharacterized protein TIGR04002 system
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  18931129
+RT  A novel class of modular transporters for vitamins in prokaryotes.
+RA  Rodionov DA, Hebbeln P, Eudes A, ter Beek J, Rodionova IA, Erkens GB,
+RA  Slotboom DJ, Gelfand MS, Osterman AL, Hanson AD, Eitinger T;
+RL  J Bacteriol. 2009;191:42-51.
+CC  The partner protein belongs to a family in which characterized members
+CC  are the substrate specificity-conferring (often interchangeable) module
+CC  of energy coupling factor (ECF)-type transporters. Two ATP-binding
+CC  cassette proteins and the T component (see PF02361) provide the rest of
+CC  the transport system. The radical SAM protein is uncharacterized but is
+CC  likely to modify what the ECF system imports.
+**  TIGR04002 looks like an ECF transporter S component for vitamin import.
+**  ZP_03780100.1 and homologs, the biggest family consistently nearby,
+**  resembles ThiD and also a  PdxY/PdxK homolog. SUGGESTION - The GenProp
+**  pair imports a vitamin salvage precursor. The rSAM advances it (but can
+**  exist even without the import). The ThiD homolog further activates it.
+**  I HAVE DISCOVERED A NEW RADICAL SAM ACTIVITY FOR COFACTOR SALVAGE IN
+**  ANAEROBES (most gut, one molasses sludge digester), probably acting on
+**  a salvaged thiamine precursor. rSAM enzyme TIGR04100 is a sub-clade of
+**  TIGR04038 (tadD-assoc).
+--
+SN  partner
+ID  ECF transport S component
+RQ  1
+EV  IPR023812; TIGR04002;
+--
+SN  rSAM
+ID  uncharacterized radical SAM protein
+RQ  1
+EV  IPR023822; TIGR04100;
+//

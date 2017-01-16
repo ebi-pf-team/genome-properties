@@ -1,0 +1,40 @@
+AC  GenProp0882
+DE  flagellar filament and hook complex
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  The external rotating components of the bacterial flagellum consist of
+CC  a cell proximal bent hook structure, and a long, whip-like filament. 
+CC  Additional structures are a cap and a hook/filament juncture.
+--
+SN  flgE
+ID  flagellar hook protein FlgE
+RQ  0
+EV  IPR011491; PF07559; sufficient;
+--
+SN  flgK
+ID  flagellar hook-filament junction protein 1 (FlgK)
+RQ  1
+EV  IPR002371; TIGR02492; sufficient;
+--
+SN  flgL
+ID  flagellar hook-filament junction protein FlgL
+RQ  0
+EV  IPR013384; TIGR02550;
+--
+SN  fliC_C
+ID  flagellar filament structural protein FliC, C-terminal domain
+RQ  1
+EV  IPR001029; PF00700; sufficient;
+--
+SN  fliC_N
+ID  flagellar filament structural protein FliC, N-terminal domain
+RQ  1
+EV  IPR001029; PF00669; sufficient;
+--
+SN  fliD
+ID  flagellar filament capping protein FliD
+DN  flagellar hook-associated protein FliD
+RQ  1
+EV  IPR003481; PF02465; sufficient;
+//

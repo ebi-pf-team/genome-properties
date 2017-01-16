@@ -1,0 +1,20 @@
+AC  GenProp0898
+DE  RNA ligase/unknown protein pair
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  This property describes the pairing of two proteins, one of which is
+CC  characterized as a ligase capable of circularizing RNA. The genes for
+CC  the two proteins are only occasionally near to each other on the
+CC  chromosome and then not in the form of an operon.
+--
+SN  ligase
+ID  RNA ligase, Pab1020 family
+RQ  1
+EV  IPR001072; TIGR01209;
+--
+SN  withLig
+ID  RNA ligase partner, MJ_0950 family
+RQ  1
+EV  IPR014856; TIGR03875;
+//

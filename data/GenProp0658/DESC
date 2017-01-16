@@ -1,0 +1,102 @@
+AC  GenProp0658
+DE  cellulose biosynthesis
+TP  SYSTEM
+AU  Haft D
+TH  1
+RN  [1]
+RM  2030672
+RT  Cellulose biosynthesis and function in bacteria.
+RA  Ross P, Mayer R, Benziman M;
+RL  Microbiol Rev. 1991;55:35-58.
+RN  [2]
+RM  8083166
+RT  Characterization of genes in the cellulose-synthesizing operon (acs
+RT  operon) of Acetobacter xylinum: implications for cellulose
+RT  crystallization.
+RA  Saxena IM, Kudlicka K, Okuda K, Brown RM;
+RL  J Bacteriol. 1994;176:5735-5752.
+RN  [3]
+RM  16585767
+RT  A CsgD-independent pathway for cellulose production and biofilm
+RT  formation in Escherichia coli.
+RA  Da Re S, Ghigo JM;
+RL  J Bacteriol. 2006;188:3073-3087.
+RN  [4]
+RM  11929533
+RT  Genetic analysis of Salmonella enteritidis biofilm formation: critical
+RT  role of cellulose.
+RA  Solano C, García B, Valle J, Berasain C, Ghigo JM, Gamazo C, Lasa I;
+RL  Mol Microbiol. 2002;43:793-808.
+CC  Cellulose, a homopolymer of glucose featuring uniform beta-1,4
+CC  linkages, is synthesized in bacteria by cellulose synthase [1,2].
+CC  Bacterial cellulose may have further modifications such as acetylation.
+CC  The synthase consists of two subunits (or domains in the frequent cases
+CC  where it is encoded as a single polypeptide), a catalytic domain and
+CC  regulatory domain which binds the allosteric activator cyclic-di-GMP.
+CC  The protein is membrane-embedded and probably assembles into multimers
+CC  such that the individual cellulose strands can self-assemble into
+CC  multi-strand fibrils. The purpose of the endoglucanase which is always
+CC  present in the same operon with the synthase is not known. Control of
+CC  the levels of c-diGMP is via pppGpG cyclases and c-diGMP and pGpG
+CC  phosphodiesterases. All genomes expressing this system have numerous
+CC  cyclase and phosphodiesterase domain proteins and multiple regulatory
+CC  circuits are possible. In E. coli strains, at least three regulatory
+CC  systems are indicated [3], whose genes typically are not clustered with
+CC  the biosynthetic genes. 
+**  galU, UTP-glucose-1-phosphate uridylyltransferase, WAS a part of this
+**  property but was giving disastrous over-hitting.  REMOVED for clarity.
+**  Diguanylate cyclases (GMPcyc) and cyclic diguanylate phosphodiesterase
+**  (cdiGase) may have same trouble - though they never step_ev_link - I
+**  remove them too. Perhaps reintroduce later by clustering or profiles. 
+**  OLD PRIVATE COMMENT: How general is the allosteric regulatory control
+**  by cyclic-di-GMP?  Look for cyclases of the GGDEF family and
+**  phosphodiesterases.
+--
+SN  CelA
+ID  cellulose synthase, catalytic subunit CelA
+RQ  1
+EV  IPR003919; TIGR03030; sufficient;
+TG  GO:0030244;
+--
+SN  CelB
+ID  cellulose synthase, regulatory subunit CelB
+RQ  1
+EV  IPR018513; PF03170; sufficient;
+TG  GO:0030244;
+--
+SN  CelBcsE
+ID  cellulose biosynthesis protein BcsE/YhjS
+RQ  0
+EV  IPR017745; TIGR03369;
+TG  GO:0030244;
+--
+SN  CelBcsF
+ID  cellulose biosynthesis operon protein BcsF/YhjT
+RQ  0
+EV  IPR019995; TIGR03493;
+TG  GO:0030244;
+--
+SN  CelBcsG
+ID  cellulose biosynthesis protein BcsG/YhjU
+RQ  0
+EV  IPR017744; TIGR03368;
+TG  GO:0030244;
+--
+SN  CelC
+ID  Cellulose synthase operon protein C
+RQ  1
+EV  IPR008410; PF05420; sufficient;
+TG  GO:0030244;
+--
+SN  CelYhjQ
+ID  cellulose synthase operon protein YhjQ
+RQ  0
+EV  IPR017746; TIGR03371;
+TG  GO:0030244;
+--
+SN  endoglu
+ID  clustered endoglucanase (cellulase?)
+RQ  0
+EV  IPRXXXX; PF01270;
+TG  GO:0030244;
+//

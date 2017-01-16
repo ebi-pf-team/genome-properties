@@ -1,0 +1,101 @@
+AC  GenProp0781
+DE  gliding motility, Bacteroidetes type
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  16199564
+RT  Flavobacterium johnsoniae gliding motility genes identified by mariner
+RT  mutagenesis.
+RA  Braun TF, Khubbar MK, Saffarini DA, McBride MJ;
+RL  J Bacteriol. 2005;187:6943-6952.
+CC  The Bacteroidetes phylum includes many organisms capable of gliding
+CC  motility over surfaces. This has been studied most thoroughly in
+CC  Flavobacterium johnsoniae. The precise mechanism of the motility has
+CC  yet to be determined, but a number of the genes involved have been
+CC  identified by mutagenesis. The gliding phenotype is linked to the
+CC  utilization of the insoluble polysaccharide chitin as well as
+CC  susceptability to certain bacteriophage.
+--
+SN  GldA
+ID  ABC transporter, ATP-binding protein, GldA
+RQ  1
+EV  IPR019864; TIGR03522;
+--
+SN  GldB
+ID  lipoprotein, GldB
+RQ  1
+EV  IPR019853; TIGR03514;
+--
+SN  GldC
+ID  unknown protein, GldC
+RQ  0
+EV  IPR019854; TIGR03515;
+--
+SN  GldD
+ID  lipoprotein, GldD
+RQ  1
+EV  IPR019850; TIGR03512;
+--
+SN  GldE
+ID  unknown protein, GldE
+RQ  0
+EV  IPR019862; TIGR03520;
+--
+SN  GldF
+ID  ABC transporter membrane protein, GldF
+RQ  1
+EV  IPR019860; TIGR03518;
+--
+SN  GldG
+ID  proposed ABC transporter component, GldG
+RQ  1
+EV  IPR019863; TIGR03521;
+--
+SN  GldH
+ID  lipoprotein, GldH
+RQ  1
+EV  IPR020018; TIGR03511;
+--
+SN  GldI
+ID  lipoprotein, GldI
+RQ  1
+EV  IPR019869; TIGR03516;
+--
+SN  GldJ
+ID  lipoprotein, GldJ
+RQ  1
+EV  IPR019865; TIGR03524;
+EV  IPR019868; TIGR03530;
+--
+SN  GldK
+ID  lipoprotein, GldK
+RQ  1
+EV  IPR019866; TIGR03525;
+EV  IPR019867; TIGR03529;
+--
+SN  GldL
+ID  unknown protein, GldL
+RQ  1
+EV  IPR019852; TIGR03513;
+--
+SN  GldM
+ID  unknown protein, GldM
+RQ  1
+EV  IPR019859; TIGR03517;
+--
+SN  GldN
+ID  unknown protein, GldN
+RQ  1
+EV  IPR019847; TIGR03523;
+--
+SN  gld_xxx
+ID  Bacteroidetes multicopy membrane protein
+RQ  0
+EV  IPR019861; TIGR03519;
+--
+SN  gld_yyy
+ID  Bacteroidetes multicopy C-terminal domain
+RQ  0
+EV  IPR026341; TIGR04131;
+//

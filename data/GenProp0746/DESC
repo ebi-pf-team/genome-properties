@@ -1,0 +1,50 @@
+AC  GenProp0746
+DE  translation termination, bacterial
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  This Genome Property describes the basic set of bacterial transcription
+CC  termination factors. Release factor 1 (RF-1, PrfA) should be both
+CC  universal among bacteria and univerally detected, as should release
+CC  factor 3 (RF-3). Release factor 2 is a special case. It is truly absent
+CC  in the Mycoplasmatales, including Mycoplasma genitalium. Its absence
+CC  means TGA is not recognized as a stop coodon. It codes for Trp instead.
+CC  However, release factor 2 in most bacteria is encoded by a gene with a
+CC  programmed frameshift about 25 amino acids from the N-terminus. It may
+CC  be annotated incorrectly as a truncated or disrupted gene and therefore
+CC  not detected by its HMM, TIGR00020. A fourth protein included in this
+CC  genome property is the ribosome recycling factor, which also partipates
+CC  in processes at the conclusion of bacterial protein translation. This
+CC  property does not include PrfH, part of a specialized system present
+CC  only in some bacteria, as it is intended for essentially univeral
+CC  bacterial termination factors; see instead GenProp0665.
+**  TIGR03534 (HemK) was made from only members encoded next to prfA, yet
+**  (because of paralog PrmB) does not even detect all members of the seed.
+**  Therefore, a rule based on HMM-CLUST will be necessary.
+--
+SN  hemK
+ID  release factor methylase
+RQ  1
+EV  IPR019874; TIGR03534;
+EV  IPRXXXX; TIGR00536;
+--
+SN  prfA
+ID  peptide chain release factor 1
+RQ  1
+EV  IPR004373; TIGR00019;
+--
+SN  prfB
+ID  peptide chain release factor 2
+RQ  1
+EV  IPR004374; TIGR00020;
+--
+SN  prfC
+ID  peptide chain release factor 3
+RQ  1
+EV  IPR004548; TIGR00503;
+--
+SN  recyc
+ID  ribosome recycling factor
+RQ  1
+EV  IPR002661; TIGR00496;
+//

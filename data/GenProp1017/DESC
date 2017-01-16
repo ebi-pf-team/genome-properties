@@ -1,0 +1,38 @@
+AC  GenProp1017
+DE  GDP-D-mannose biosynthesis from b-D-fructose-6-phosphate
+TP  METAPATH
+AU  Haft D
+TH  0
+CC  GDP-D-mannose is used as a source of mannose when coupled with the gmm
+CC  enzyme, as a source of GDP-4-keto-6-deoxymannose (GenProp0930) when
+CC  coupled with the gmd enzyme (and then subsequently used to make fucose,
+CC  perosamine and colicin and their derivatives). GDP-mannose may also be
+CC  incorporated directly into polysaccharides such as the E. coli O8 and
+CC  O9 antigens and the Klebsiella O5 antigen. The pathway consists of
+CC  three acivities, an isomerase, a phosphomutase and a guanylyl
+CC  transferase. The first and last steps are often catalyzed by a fusion
+CC  protein (ManAC).
+--
+SN  gmm
+ID  GDP-mannose mannosyl hydrolase
+RQ  0
+EV  IPRXXXX; PF00293;
+--
+SN  manA
+ID  mannose-6P-isomerase
+RQ  1
+EV  IPR006375; TIGR01479;
+--
+SN  manB
+ID  phosphomannomutase
+RQ  1
+EV  IPRXXXX; PF00408;
+EV  IPRXXXX; PF02878;
+EV  IPRXXXX; PF02880;
+EV  IPRXXXX; PF02879;
+--
+SN  manC
+ID  mannose-1P-guanylyltransferase
+RQ  1
+EV  IPR006375; TIGR01479;
+//

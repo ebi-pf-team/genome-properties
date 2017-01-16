@@ -1,0 +1,19 @@
+AC  GenProp1021
+DE  dTDP-3-hydroxybutyramidoquinovose (dTDP-D-Qui3NAcyl) biosynthesis from
+DE  dTDP-3-aminoquinovose (dTDP-D-Qui3N)
+TP  METAPATH
+AU  Haft D
+TH  0
+CC  The product of this pathway is a component of the E. coli O91 antigen,
+CC  and probably other polysaccharides.
+--
+SN  Qui3N
+ID  source of dTDP-Qui3N
+RQ  1
+EV  GenProp1015;
+--
+SN  WbsC
+ID  dTDP-3-aminoquinovose N-(3-hydroxybutyryl)-transferase
+RQ  1
+EV  IPRXXXX; 2868;
+//

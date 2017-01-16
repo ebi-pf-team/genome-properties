@@ -1,0 +1,28 @@
+AC  GenProp1070
+DE  beta-glutamate biosynthesis
+TP  PATHWAY
+AU  Haft D
+TH  0
+RN  [1]
+RM  17222594
+RT  Glutamate 2,3-aminomutase: a new member of the radical SAM superfamily
+RT  of enzymes.
+RA  Ruzicka FJ, Frey PA;
+RL  Biochim Biophys Acta. 2007;1774:286-296.
+RN  [2]
+RM  20511502
+RT  Evidence for widespread gene control function by the ydaO riboswitch
+RT  candidate.
+RA  Block KF, Hammond MC, Breaker RR;
+RL  J Bacteriol. 2010;192:3983-3989.
+CC  Beta-glutamate is an osmolyte produced in one step from glutamate by
+CC  the action of glutamate 2,3-aminomutase. The eam gene, encoding
+CC  glutamate 2,3-aminomutase, is often preceded by a ydaO (yuaA) family
+CC  riboswitch, which appears to bind a metabolite that indicates cellular
+CC  stress.
+--
+SN  BetaGlu
+ID  glutamate 2,3-aminomutase
+RQ  1
+EV  IPR030801; TIGR04368;
+//

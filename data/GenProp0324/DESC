@@ -1,0 +1,36 @@
+AC  GenProp0324
+DE  addiction module, RelE-RelB class
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  11717402
+RT  RelE, a global inhibitor of translation, is activated during
+RT  nutritional stress.
+RA  Christensen SK, Mikkelsen M, Pedersen K, Gerdes K;
+RL  Proc Natl Acad Sci U S A. 2001;98:14328-14333.
+CC  Toxin-antitoxin gene pairs, called addiction modules, are found often
+CC  on plasmids but also on the chromosome. These modules can promote
+CC  plasmid stability in populations by killing daughter cells that don't
+CC  receive a copy of the plasmid during cell division. The phenomenon,
+CC  called post-segregational killing, occurs because the antitoxin has a
+CC  shorter biological half-life than the toxin. Some chromosomal
+CC  toxin-antitoxin gene pairs appear to act in regulation of cellular
+CC  processes and are not necessarily selfish genetic elements. The
+CC  antitoxin generally is a transcription factor. The toxin may act in
+CC  several ways  This addiction module property describes the RelE system,
+CC  where RelE acts by cleaving ribosome-associated transcripts.
+**  So which transcription factors can act as partners?  antidote RelB -
+**  PF04221  
+--
+SN  A-RelB
+ID  antidote RelB - PF04221
+RQ  1
+EV  IPR007337; PF04221; sufficient;
+EV  IPR006442; TIGR01552; sufficient;
+--
+SN  K-RelE
+ID  toxin RelE - TIGR02385
+RQ  1
+EV  IPR007712; TIGR02385; sufficient;
+//

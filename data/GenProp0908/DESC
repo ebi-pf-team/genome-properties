@@ -1,0 +1,33 @@
+AC  GenProp0908
+DE  2,3-diaminopropionic acid biosynthesis
+TP  PATHWAY
+AU  Haft D
+TH  0
+RN  [1]
+RM  19775248
+RT  Molecular characterization of staphyloferrin B biosynthesis in
+RT  Staphylococcus aureus.
+RA  Cheung J, Beasley FC, Liu S, Lajoie GA, Heinrichs DE;
+RL  Mol Microbiol. 2009;74:594-608.
+CC  L-2,3-diaminopropionic acid (Dap) is an intermediate in the
+CC  biosynthesis of a number of metabolites, such as the siderophore
+CC  staphyloferrin B. Cheung, et al. (2009) cite their own unpublished
+CC  results that SbnA and SbnB produce Dap.  SbnA is a pyridoxal
+CC  phosphate-dependent enzyme distantly related to diaminopropionate
+CC  ammonia-lyase. SbnB shows homology to an NAD-dependent alanine
+CC  dehydrogenase of Archaeoglobus fulgidus. The two occasionally occur as
+CC  a fusion protein.
+**  The two models do not find all homologs. For instance,the VioB and VioK
+**  GB|AAP92492.1 and GB|AAP92501.1 of Streptomyces vinaceus are both below
+**  cutoff, although their top hits in Omniome all are above.
+--
+SN  DapSbnA
+ID  2,3-diaminopropionate biosynthesis protein SbnA
+RQ  1
+EV  IPR023927; TIGR03945;
+--
+SN  DapSbnB
+ID  2,3-diaminopropionate biosynthesis protein SbnB
+RQ  1
+EV  IPR023866; TIGR03944;
+//

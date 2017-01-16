@@ -1,0 +1,60 @@
+AC  GenProp0217
+DE  5-aminolevulinate biosynthesis (glutamate pathway)
+TP  PATHWAY
+AU  Haft D
+TH  1
+RN  [1]
+RM  12196141
+RT  Structure and function of glutamyl-tRNA reductase involved in
+RT  5-aminolaevulinic acid formation.
+RA  Moser J, Schubert WD, Heinz DW, Jahn D;
+RL  Biochem Soc Trans. 2002;30:579-584.
+RN  [2]
+RM  9249985
+RT  Evolutionary consideration on 5-aminolevulinate synthase in nature.
+RA  Oh-hama T;
+RL  Orig Life Evol Biosph. 1997;27:405-412.
+RN  [3]
+RM  7883699
+RT  Regulation of the hemA gene during 5-aminolevulinic acid formation in
+RT  Pseudomonas aeruginosa.
+RA  Hungerer C, Troup B, Römling U, Jahn D;
+RL  J Bacteriol. 1995;177:1435-1443.
+DC  Porphyrin and chlorophyll metabolism
+DR  KEGG; map00860;
+CC  This pathway for the biosynthesis of 5-aminolevulinate, a porphyrin
+CC  precursor, is known as the glutamate or C5 pathway and is found in most
+CC  bacteria. A distinctive feature of this pathway is the utilization of
+CC  an amino acid-charged tRNA as an enzymatic substrate.  An alternative
+CC  pathway from succinyl-CoA and glycine utilizing 5-aminolevulinate
+CC  synthase is found in the alphaproteobacteria and eukaryotic
+CC  mitochondria.
+--
+SN  DISRPT
+ID  APPARENT DISRUPTED READING FRAMES
+DN  NOT APPLICABLE
+RQ  0
+--
+SN  gltX
+ID  glutamyl-tRNA synthetase
+DN  glutamyl-tRNA synthetase (EC 6.1.1.17)
+RQ  1
+EV  IPR004527; TIGR00464; sufficient;
+TG  GO:0006779;
+EV  IPR004526; TIGR00463; sufficient;
+TG  GO:0006779;
+--
+SN  hemA
+ID  glutamyl-tRNA reductase
+DN   glutamyl-tRNA reductase (EC 1.2.1.70)
+RQ  1
+EV  IPR000343; TIGR01035; sufficient;
+TG  GO:0006779;
+--
+SN  hemL
+ID  glutamate-1-semialdehyde-2,1-aminomutase
+DN  glutamate-1-semialdehyde-2,1-aminomutase (EC 5.4.3.8)
+RQ  1
+EV  IPR004639; TIGR00713; sufficient;
+TG  GO:0006779;
+//

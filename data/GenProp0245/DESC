@@ -1,0 +1,38 @@
+AC  GenProp0245
+DE  chaperone system: GroEL/GroES
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  9759498
+RT  Structure and function in GroEL-mediated protein folding.
+RA  Sigler PB, Xu Z, Rye HS, Burston SG, Fenton WA, Horwich AL;
+RL  Annu Rev Biochem. 1998;67:581-608.
+RN  [2]
+RM  12796498
+RT  Coexistence of group I and group II chaperonins in the archaeon
+RT  Methanosarcina mazei.
+RA  Klunker D, Haas B, Hirtreiter A, Figueiredo L, Naylor DJ, Pfeifer G,
+RA  Müller V, Deppenmeier U, Gottschalk G, Hartl FU, Hayer-Hartl M;
+RL  J Biol Chem. 2003;278:33256-33267.
+CC  GroEL and GroES comprise the bacterial group I chaperonin, a toroidal
+CC  complex involved in folding or refolding proteins in the cytosol.
+CC  Archaea and Eukaryotes have instead (with a few rare cases of overlap)
+CC  a group II chaperonin complex, usually called the thermosome in the
+CC  Archaea and CCT in the Eukaryota. At least one member of the archaeal
+CC  genus Methanosarcina, has both.
+--
+SN  GroEL
+ID  chaperonin GroEL
+DN  chaperonin GroEL
+RQ  1
+EV  IPR001844; TIGR02348; sufficient;
+TG  GO:0006457;
+--
+SN  GroES
+ID  co-chaperonin GroES
+DN  chaperonin GroES
+RQ  1
+EV  IPR020818; PF00166; sufficient;
+TG  GO:0006457;
+//

@@ -1,0 +1,39 @@
+AC  GenProp0624
+DE  sulfite reductase complex, Salmonella/Clostridium type
+TP  PATHWAY
+AU  Haft D
+TH  0
+RN  [1]
+RM  2656637
+RT  Characterization of anaerobic sulfite reduction by Salmonella
+RT  typhimurium and purification of the anaerobically induced sulfite
+RT  reductase.
+RA  Hallenbeck PC, Clark MA, Barrett EL;
+RL  J Bacteriol. 1989;171:3008-3015.
+CC  Several different types of enzyme complex are designated sulfite
+CC  reductase, and each may resemble some enzyme with differing specificity
+CC  more closely than they resemble each other. This property represents a
+CC  bacterial three subunit type as found in several species of Clostridium
+CC  and in Salmonella. In Salmonella, it is described as a
+CC  siroheme-containing sulfite reductase, reversibly inhibited by oxygen,
+CC  that can produce H2S from sulfite under anaerobic conditions when
+CC  provided with a fermentable sugar. 
+**  Ability of this enzyme to make H2S from sulfite is described as
+**  incidentally making sulfur available in CysI and CysJ mutants in
+**  Salmonella (H2S is more commonly made from thiosulfate). 
+--
+SN  SfiteA
+ID  sulfite reductase, subunit A
+RQ  1
+EV  IPR014259; TIGR02910; sufficient;
+--
+SN  SfiteB
+ID  sulfite reductase, subunit B
+RQ  1
+EV  IPR014260; TIGR02911; sufficient;
+--
+SN  SfiteC
+ID  sulfite reductase, subunit C
+RQ  1
+EV  IPR014261; TIGR02912; sufficient;
+//

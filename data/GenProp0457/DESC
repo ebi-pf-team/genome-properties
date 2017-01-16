@@ -1,0 +1,152 @@
+AC  GenProp0457
+DE  rhamnose catabolism
+TP  SYSTEM
+AU  Haft D
+TH  1
+RN  [1]
+RM  15576793
+RT  A genetic locus necessary for rhamnose uptake and catabolism in
+RT  Rhizobium leguminosarum bv. trifolii.
+RA  Richardson JS, Hynes MF, Oresnik IJ;
+RL  J Bacteriol. 2004;186:8433-8442.
+RN  [2]
+RM  9893952
+RT  The metabolism of 6-deoxyhexoses in bacterial and animal cells.
+RA  Tonetti M, Sturla L, Bisso A, Zanardi D, Benatti U, De Flora A;
+RL  Biochimie. 1998;80:923-931.
+RN  [3]
+RM  8384447
+RT  Proton-linked L-rhamnose transport, and its comparison with L-fucose
+RT  transport in Enterobacteriaceae.
+RA  Muiry JA, Gunn TC, McDonald TP, Bradley SA, Tate CG, Henderson PJ;
+RL  Biochem J. 1993;290 ( Pt 3):833-842.
+RN  [4]
+RM  3316663
+RT  Positive regulation of the Escherichia coli L-rhamnose operon is
+RT  mediated by the products of tandemly repeated regulatory genes.
+RA  Tobin JF, Schleif RF;
+RL  J Mol Biol. 1987;196:789-799.
+RN  [5]
+RM  3275622
+RT  Metabolism of L-fucose and L-rhamnose in Escherichia coli:
+RT  aerobic-anaerobic regulation of L-lactaldehyde dissimilation.
+RA  Baldomà L, Aguilar J;
+RL  J Bacteriol. 1988;170:416-421.
+RN  [6]
+RM  15876375
+RT  Structural insights into the monosaccharide specificity of Escherichia
+RT  coli rhamnose mutarotase.
+RA  Ryu KS, Kim JI, Cho SJ, Park D, Park C, Cheong HK, Lee JO, Choi BS;
+RL  J Mol Biol. 2005;349:153-162.
+DC  rhamnose catabolism
+DR  KEGG; map00051;
+CC  L-rhamnose, (aka 6-deoxy-L-mannose) is a common sugar synthesized and
+CC  utilized in oligosaccharides and glcyolipids by many bacteria [2]. The
+CC  monosaccharide is available in various environments and thus
+CC  regulatory, transport and enzymatic systems have also evolved for its
+CC  breakdown and use as a carbon source. The system modeled here includes
+CC  specific transporters, ketose-aldose isomerases, kinases, and aldolases
+CC  which result in the production of lactaldehyde and glycerone-phosphate.
+CC  As these genes are generally organized into operons, assignments can be
+CC  made for regulatory components as well as transport and enzymatic
+CC  components which, by homology alone, cannot be assigned a specific
+CC  substrate. Certain of the enzymes in this system are similar enough to
+CC  cognate enzymes in the fucose catabolism system (GenProp0458) as to
+CC  have caused gene naming errors in the past (i.e.
+CC  fuculokinase/rhamnokinase). The system in certain rhizobial species [1]
+CC  has been reported to vary from the canonical pathway in that the sugar
+CC  may be phosphorylated prior to isomerization (i.e. the rhamnulokinase
+CC  may in fact be a rhamnokinase and the rhamnose isomerase may be a
+CC  rhamnose-1-phosphate isomerase), although this has not yet been
+CC  independantly verified. In addition to the characterized
+CC  rhamnose:proton symporter [3], rhamnose catabolism operons contain
+CC  transporters from the ABC, and major facilitator families. Regulators
+CC  are generally members of the DeoR and AraC [4] families. The product of
+CC  both rhamnose and fucose catabolism is lactaldehyde, and subsequently
+CC  alcohol and aldehyde dehydrogenases are often present in those operons
+CC  to convert it to either 1,2-propane diol or lactate depending on
+CC  oxidation conditions [5]. Rhamnose operons also often contain an
+CC  epimerase (mutarotase) enzyme which has been proposed to be essential
+CC  unly under limiting L-rhamnose conditions [6].  Partial rhamnose
+CC  catabolism operons have been detected in Thermotoga species which
+CC  appear to handle the import and cleavage of rhamnose-containing
+CC  oligosaccharides.
+--
+SN  ADH
+ID  clustered alcohol/aldehyde dehydrogenases
+RQ  0
+EV  IPRXXXX; PF00465;
+TG  GO:0019301;
+EV  IPRXXXX; PF00171;
+TG  GO:0019301;
+EV  IPRXXXX; PF00106;
+TG  GO:0019301;
+--
+SN  aldolase
+ID  rhamnulose-1-P aldolase (RhaD)
+RQ  1
+EV  IPR013447; TIGR02624; sufficient;
+TG  GO:0019301;
+EV  IPR013454; TIGR02632; sufficient;
+TG  GO:0019301;
+--
+SN  epimera
+ID  rhamnose epimerase
+RQ  0
+EV  IPRXXXX; PF05336;
+TG  GO:0019301;
+EV  IPR013448; TIGR02625; sufficient;
+TG  GO:0019301;
+--
+SN  isomeras
+ID  L-rhamnose isomerase (RhaA/RhaI)
+RQ  1
+EV  IPR009308; PF06134; sufficient;
+TG  GO:0019301;
+EV  IPR009308; TIGR01748; sufficient;
+TG  GO:0019301;
+EV  IPR013451; TIGR02629; sufficient;
+TG  GO:0019301;
+EV  IPR013457; TIGR02635; sufficient;
+TG  GO:0019301;
+--
+SN  kinase
+ID  rhamnulokinase (RhaB/RhuK)
+RQ  1
+EV  IPRXXXX; PF00370;
+TG  GO:0019301;
+EV  IPR013449; TIGR02627; sufficient;
+TG  GO:0019301;
+--
+SN  regulat
+ID  clustered regulatory components
+RQ  0
+EV  IPRXXXX; PF00165;
+TG  GO:0043463;
+EV  IPRXXXX; PF00455;
+TG  GO:0043463;
+EV  IPRXXXX; PF00532;
+TG  GO:0043463;
+EV  IPRXXXX; PF01381;
+TG  GO:0043463;
+EV  IPRXXXX; PF00356;
+TG  GO:0043463;
+--
+SN  transpor
+ID  rhamnose transporters (RhaSTPQ)
+RQ  1
+EV  IPRXXXX; PF07690;
+TG  GO:0019301;
+EV  IPRXXXX; PF00083;
+TG  GO:0019301;
+EV  IPR004673; PF06379; sufficient;
+TG  GO:0019301;
+EV  IPR004673; TIGR00776; sufficient;
+TG  GO:0019301;
+EV  IPRXXXX; PF02653;
+TG  GO:0019301;
+EV  IPRXXXX; PF00005;
+TG  GO:0019301;
+EV  IPR013459; TIGR02637; sufficient;
+TG  GO:0019301;
+//

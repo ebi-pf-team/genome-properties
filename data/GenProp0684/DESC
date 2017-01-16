@@ -1,0 +1,28 @@
+AC  GenProp0684
+DE  FtsH/HflKC protease complex
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  9636708
+RT  Different pathways for protein degradation by the FtsH/HflKC
+RT  membrane-embedded protease complex: an implication from the
+RT  interference by a mutant form of a new substrate protein, YccA.
+RA  Kihara A, Akiyama Y, Ito K;
+RL  J Mol Biol. 1998;279:175-188.
+--
+SN  HflB
+ID  ATP-dependent metallopeptidase FtsH (HflB)
+RQ  1
+EV  IPR005936; TIGR01241; sufficient;
+--
+SN  HflC
+ID  HflC protein
+RQ  1
+EV  IPR010200; TIGR01932; sufficient;
+--
+SN  HflK
+ID  HflK protein
+RQ  1
+EV  IPR010201; TIGR01933; sufficient;
+//

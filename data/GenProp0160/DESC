@@ -1,0 +1,43 @@
+AC  GenProp0160
+DE  aspartate semialdehyde biosynthesis from aspartate
+TP  PATHWAY
+AU  Haft D
+TH  0
+RN  [1]
+RM  2892836
+RT  Structure of the yeast HOM3 gene which encodes aspartokinase.
+RA  Rafalski JA, Falco SC;
+RL  J Biol Chem. 1988;263:2146-2151.
+DC  Glycine, serine and threonine metabolism
+DR  KEGG; map00260;
+DC  Homoserine biosynthesis
+DR  MetaCyc; HOMOSERSYN-PWY;
+CC  The aspartate semialdehyde biosynthesis is a two step pathway. [2] The
+CC  product of this pathway can be used in the lysine biosynthesis or in
+CC  the pathway leading to  homoserine involved in the threonine,
+CC  isoleucine and methionine biosynthesis. There are three different
+CC  isozymes differed in their sensitivity to regulation by Lys, Met and
+CC  Thr in Escherichia coli. [1]
+--
+SN  asp_kin
+ID  aspartate kinase
+DN  aspartate kinase (EC 2.7.2.4)
+RQ  1
+EV  IPR005260; TIGR00656; sufficient;
+TG  GO:0009090;
+EV  IPR001341; TIGR00657; sufficient;
+TG  GO:0009090;
+EV  IPR011819; TIGR02078; sufficient;
+TG  GO:0009090;
+--
+SN  asp_smDH
+ID  aspartate-semialdehyde dehydrogenase
+DN  aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
+RQ  1
+EV  IPR005676; TIGR00978; sufficient;
+TG  GO:0009090;
+EV  IPR005986; TIGR01296; sufficient;
+TG  GO:0009090;
+EV  IPR011534; TIGR01745; sufficient;
+TG  GO:0009090;
+//

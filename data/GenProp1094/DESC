@@ -1,0 +1,57 @@
+AC  GenProp1094
+DE  energy-coupling factor transporters
+TP  GUILD
+AU  Haft D
+TH  0
+RN  [1]
+RM  18931129
+RT  A novel class of modular transporters for vitamins in prokaryotes.
+RA  Rodionov DA, Hebbeln P, Eudes A, ter Beek J, Rodionova IA, Erkens GB,
+RA  Slotboom DJ, Gelfand MS, Osterman AL, Hanson AD, Eitinger T;
+RL  J Bacteriol. 2009;191:42-51.
+CC  This Genome Property consists of a form of ATP-energized transport in
+CC  which two subunits resemble ABC transporter ATP-binding subunits, but
+CC  the other two are distinct. The T component marks the transporter
+CC  class, and generally is encoded adjacent the ATP-binding subunits. The
+CC  substrate capture component S spans the membrane multiple times, and
+CC  somewhat more than half the time is encoded away from the other
+CC  subunits. In these systems, a single T subunit may transfer energy to a
+CC  number of different S subunits.
+**  The upstream and downstream transporters may be more similar to each
+**  other within a pair than to either member of a different pair. So the
+**  models built so far are not comprehensive, and these steps are in-rule
+**  0 for now.  WARNING - SEE HOW MUCH REPAIR NEEDED FOR GenProp0277,
+**  cobalt.
+--
+SN  ECFA1
+ID  ECF transporter ATP-binding component 1
+RQ  0
+EV  IPR030947; TIGR04520;
+--
+SN  ECFA2
+ID  ECF transporter ATP-binding component 2
+RQ  0
+EV  IPR030946; TIGR04521;
+--
+SN  ECF_S
+ID  ECF transporter S component
+RQ  1
+EV  IPR003784; PF02632;
+EV  IPR002751; PF01891;
+EV  IPR009825; PF07155;
+EV  IPR011733; PF09605;
+EV  IPR010387; PF06177;
+EV  IPR024529; PF12822;
+EV  IPR012651; PF09515;
+EV  IPR012651; TIGR02357;
+EV  IPR012652; TIGR02359;
+EV  IPR017195; PF09819;
+EV  IPR023812; TIGR04002;
+EV  IPR018024; TIGR00123;
+EV  IPR030945; TIGR04522;
+--
+SN  ECF_T
+ID  ECF transporter T component
+RQ  1
+EV  IPR003339; PF02361;
+//

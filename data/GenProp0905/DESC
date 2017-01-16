@@ -1,0 +1,56 @@
+AC  GenProp0905
+DE  type VII secretion, Firmicutes form
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  18723613
+RT  ESAT-6-like protein secretion in Bacillus anthracis.
+RA  Garufi G, Butler E, Missiakas D;
+RL  J Bacteriol. 2008;190:7004-7011.
+RN  [2]
+RM  18554323
+RT  EsaC substrate for the ESAT-6 secretion pathway and its role in
+RT  persistent infections of Staphylococcus aureus.
+RA  Burts ML, DeDent AC, Missiakas DM;
+RL  Mol Microbiol. 2008;69:736-746.
+CC  This Genome Property describes the Firmicutes secretion system related
+CC  to the well-described type VII secretion system of Actinobacteria such
+CC  as Mycobacterium tuberculosis. In both systems, members of the WXG100
+CC  (PF06013) are targets, and a homolog of EccC (models TIGR03924 and
+CC  TIGR03925) is present. Otherwise, differences appear to be profound.
+**  SAG_1039=PF06013, SAG_1038, ,,,SAG_1033=EccC. EssA is massively
+**  divergent and more widespread than authors realize.
+--
+SN  T7_EsaA
+ID  type VII secretion protein EsaA
+RQ  0
+EV  IPR023838; TIGR03929;
+--
+SN  T7_EssA
+ID  type VII secretion protein EssA
+RQ  1
+EV  IPR018920; TIGR03927;
+--
+SN  T7_EssC
+ID  type VII secretion protein EssC
+RQ  1
+EV  IPR023839; TIGR03928;
+--
+SN  T7_WxG
+ID  type VII secretion target, WXG100 family
+RQ  1
+EV  IPRXXXX; PF06013;
+EV  IPRXXXX; TIGR03930;
+EV  IPR021477; TIGR04197;
+--
+SN  T7_esaB
+ID  type VII secretion protein EsaB
+RQ  1
+EV  IPR024962; PF08817;
+--
+SN  T7_essB
+ID  type VII secretion protein EssB
+RQ  1
+EV  IPR018778; TIGR03926;
+//

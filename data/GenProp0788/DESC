@@ -1,0 +1,66 @@
+AC  GenProp0788
+DE  lysine biosynthesis via diaminopimelate (DAP) utilizing ammonia and
+DE  NADPH
+TP  METAPATH
+AU  Haft D
+TH  4
+RN  [1]
+RM  1906065
+RT  A functionally split pathway for lysine synthesis in Corynebacterium
+RT  glutamicium.
+RA  Schrumpf B, Schwarzer A, Kalinowski J, Pühler A, Eggeling L, Sahm H;
+RL  J Bacteriol. 1991;173:4510-4516.
+DC  Lysine biosynthesis
+DR  KEGG; map00300;
+CC  This pathway for the biosynthesis of L-lysine differs from the more
+CC  common diaminopimelate pathway by the action of diaminopimelate
+CC  dehydrogenase (ddh). This enzyme requires both ammonia as a nitrogen
+CC  source (instead of an amino acid via a transaminase) and reductive
+CC  power in the form of NADPH. Additionally, this pathway does not require
+CC  the acetyl/succinyl protecting group transformations found in the
+CC  standard pathway, nor does it require the action of diaminopimelate
+CC  epimerase. This enzyme has been best characterized in Corynebacterium
+CC  glutamicum and Bacillus sphaericus.    One should note that the ddh
+CC  enzyme is shown acting on the compound L-2-amino-6-oxoheptanedioate in
+CC  EC and KEGG representations. This is merely the ring-opened form of
+CC  2,3,4,5-tetrahydropicolinate with which it is in equilibrium, and upon
+CC  which the acyltransferases of the common pathway act.
+**  Threshhold is set at 4 so that genomes only lacking ddh will still show
+**  up as not supported.  Consequently, genomes with ddh and lacking one of
+**  the other pieces must be manually toggled to some evidence with the
+**  curators assignby.
+--
+SN  Asp-SA
+ID  Source of aspartate-semialdehyde
+RQ  1
+EV  GenProp0160;
+TG  GO:0033361;
+--
+SN  DAPDC
+ID  diaminopimelate decarboxylase
+DN  diaminopimelate decarboxylase (EC 4.1.1.20)
+RQ  1
+EV  IPR002986; TIGR01048;
+TG  GO:0033361;
+--
+SN  DHPR
+ID  dihydrodipicolinate reductase
+DN  dihydrodipicolinate reductase (EC 1.3.1.26)
+RQ  1
+EV  IPR023940; TIGR00036;
+TG  GO:0033361;
+--
+SN  DHPS
+ID  dihydrodipicolinate synthase
+DN  dihydrodipicolinate synthase (EC 4.2.1.52)
+RQ  1
+EV  IPR005263; TIGR00674;
+TG  GO:0033361;
+--
+SN  ddh
+ID  diaminopimelate dehydrogenase
+DN  diaminopimelate dehydrogenase (EC 1.4.1.16)
+RQ  1
+EV  IPR010190; TIGR01921;
+TG  GO:0033361;
+//

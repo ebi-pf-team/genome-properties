@@ -1,0 +1,40 @@
+AC  GenProp0707
+DE  botulinum toxin system
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  Clostridium botulinum contains a virulence cassette encoding a potent
+CC  neurotoxin called BoNT.  Also found in this operon are several
+CC  hemagglutinin proteins and a regulatory sigma-70 gene.
+--
+SN  BoNT
+ID  neurotoxin component
+RQ  1
+EV  IPR013104; PF07951; sufficient;
+EV  IPR012500; PF07952; sufficient;
+--
+SN  BotR
+ID  Sigma-70 factor regulator
+RQ  1
+EV  IPR017622; TIGR03209; sufficient;
+--
+SN  HA-17
+ID  haemagglutinin HA17
+RQ  1
+EV  IPRXXXX; PF05588; sufficient;
+--
+SN  HA-33
+ID  haemagglutinin HA33
+RQ  1
+EV  IPR000772; PF00652; sufficient;
+--
+SN  HA-70
+ID  haemagglutinin HA70
+RQ  1
+EV  IPR003897; PF03505; sufficient;
+--
+SN  ntnh
+ID  non-toxin, non-haemaglutinin component
+RQ  1
+EV  IPR013677; PF08470; sufficient;
+//

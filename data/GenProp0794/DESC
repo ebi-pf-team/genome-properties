@@ -1,0 +1,58 @@
+AC  GenProp0794
+DE  proposed N-acetyl sugar amidation module WbuXYZ
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  18156256
+RT  lfnA from Pseudomonas aeruginosa O12 and wbuX from Escherichia coli
+RT  O145 encode membrane-associated proteins and are required for
+RT  expression of 2,6-dideoxy-2-acetamidino-L-galactose in
+RT  lipopolysaccharide O antigen.
+RA  King JD, Mulrooney EF, Vinogradov E, Kneidinger B, Mead K, Lam JS;
+RL  J Bacteriol. 2008;190:1671-1679.
+RN  [2]
+RM  16684771
+RT  Functional characterization of the flagellar glycosylation locus in
+RT  Campylobacter jejuni 81-176 using a focused metabolomics approach.
+RA  McNally DJ, Hui JP, Aubry AJ, Mui KK, Guerry P, Brisson JR, Logan SM,
+RA  Soo EC;
+RL  J Biol Chem. 2006;281:18489-18498.
+RN  [3]
+RM  15629947
+RT  Structural and genetic characterization of enterohemorrhagic
+RT  Escherichia coli O145 O antigen and development of an O145
+RT  serogroup-specific PCR assay.
+RA  Feng L, Senchenkova SN, Tao J, Shashkov AS, Liu B, Shevelev SD, Reeves
+RA  PR, Xu J, Knirel YA, Wang L;
+RL  J Bacteriol. 2005;187:758-764.
+CC  The WbuX protein from E. coli and its homologs in P. aeruginosa (IfnA)
+CC  and C. jejuni (PseA) have been proposed to function as N-acetyl sugar
+CC  amidotransferases, forming the positively charged acetamidino moitey on
+CC  both O-antigens and glycosylated flagellins [1,2]. These WbuX homologs
+CC  are invariably associated with homologs of the HisH and HisF proteins
+CC  (WbuYZ) which are proposed to act as a glutaminase and ammonium channel
+CC  to provide sufficient ammonium ion under limiting conditions [3]. 
+CC  Occasionally the WbuX protein is found in multiple (tandem) copies
+CC  which may indicate multiple substrates or multiple N-acetyl groups
+CC  being modified on the same substrate.
+--
+SN  WbuX
+ID  N-acetyl sugar amidotransferase
+DN  N-acetyl sugar amidotransferase (EC 6.3.4.-)
+RQ  1
+EV  IPR020022; TIGR03573;
+--
+SN  WbuY
+ID  HisH-like glutaminase WbuY
+DN  HisH-like glutaminase WbuY (EC 2.4.2.-)
+RQ  1
+EV  IPR010139; TIGR01855;
+--
+SN  WbuZ
+ID  HisF-like proposed ammonium channel protein WbuZ
+DN  HisF-like proposed ammonium channel protein WbuZ
+RQ  1
+EV  IPR020021; TIGR03572;
+EV  IPRXXXX; 2918;
+//

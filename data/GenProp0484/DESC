@@ -1,0 +1,102 @@
+AC  GenProp0484
+DE  F-type conjugation system (type IV secretion) specific components
+TP  SYSTEM
+AU  Haft D
+TH  1
+RN  [1]
+RM  16138100
+RT  Mobile genetic elements: the agents of open source evolution.
+RA  Frost LS, Leplae R, Summers AO, Toussaint A;
+RL  Nat Rev Microbiol. 2005;3:722-732.
+RN  [2]
+RM  12855161
+RT  F factor conjugation is a true type IV secretion system.
+RA  Lawley TD, Klimke WA, Gubbins MJ, Frost LS;
+RL  FEMS Microbiol Lett. 2003;224:1-15.
+RN  [3]
+RM  15292150
+RT  Tra proteins characteristic of F-like type IV secretion systems
+RT  constitute an interaction group by yeast two-hybrid analysis.
+RA  Harris RL, Silverman PM;
+RL  J Bacteriol. 2004;186:5480-5485.
+CC  A system for the transfer of plasmid DNA between cells via a pilus. 
+CC  This system is a specialized type-IV secretion system.
+--
+SN  TraF
+ID  TraF pilus assembly protein
+RQ  1
+EV  IPR014110; TIGR02739; sufficient;
+TG  GO:0009291;
+--
+SN  TraF-lik
+ID  Possible alternate TraF or TrbB
+RQ  0
+EV  IPR014111; TIGR02740; sufficient;
+TG  GO:0009291;
+--
+SN  TraH
+ID  TraH pilus assembly protein
+RQ  1
+EV  IPR010927; PF06122; sufficient;
+TG  GO:0009291;
+--
+SN  TraI
+ID  TraI plasmid relaxase/helicase protein
+RQ  1
+EV  IPR014129; TIGR02760; sufficient;
+TG  GO:0009291;
+--
+SN  TraN
+ID  TraN outer membrane mating-pair stabilization protein
+RQ  1
+EV  IPR014121; PF06986; sufficient;
+TG  GO:0009291;
+EV  IPR014121; TIGR02750; sufficient;
+TG  GO:0009291;
+--
+SN  TraQ
+ID  TraQ pilin inner membrane chaperone
+RQ  0
+EV  IPR014112; TIGR02741; sufficient;
+TG  GO:0009291;
+--
+SN  TraU
+ID  TraU mating-pair stabilization protein
+RQ  1
+EV  IPR009649; PF06834; sufficient;
+TG  GO:0009291;
+--
+SN  TraW
+ID  TraW pilus assembly protein
+RQ  1
+EV  IPR014114; TIGR02743; sufficient;
+TG  GO:0009291;
+--
+SN  TraX
+ID  TraX pilin acetylase
+RQ  0
+EV  IPR014125; TIGR02755; sufficient;
+TG  GO:0009291;
+--
+SN  TrbB
+ID  TrbB pilus assembly disulfide isomerase
+RQ  1
+EV  IPR014109; TIGR02738; sufficient;
+TG  GO:0009291;
+--
+SN  TrbB-lik
+ID  possible alternate TrbB, CXXC-containing protein
+RQ  0
+--
+SN  TrbC
+ID  TrbC pilus assembly protein
+RQ  1
+EV  IPR014113; TIGR02742; sufficient;
+TG  GO:0009291;
+--
+SN  TrbI
+ID  TrbI pilus assembly protein
+RQ  0
+EV  IPR014115; TIGR02744; sufficient;
+TG  GO:0009291;
+//

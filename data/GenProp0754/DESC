@@ -1,0 +1,28 @@
+AC  GenProp0754
+DE  acetate production from acetylphosphate
+TP  PATHWAY
+AU  Haft D
+TH  0
+RN  [1]
+RM  172079
+RT  Acetate kinase (pyrophosphate). A fourth pyrophosphate-dependent kinase
+RT  from Entamoeba histolytica.
+RA  Reeves RE, Guthrie JD;
+RL  Biochem Biophys Res Commun. 1975;66:1389-1395.
+RN  [2]
+RM  16080684
+RT  Characterization of the acetate-producing pathways in Escherichia coli.
+RA  Dittrich CR, Bennett GN, San KY;
+RL  Biotechnol Prog. 2005;21:1062-1067.
+CC  Acetate may be generated acetyl phosphate by hydrolysis (3.6.1.7,
+CC  acylphosphatase) or by a reversible ATP-dependent reaction (2.7.2.1,
+CC  ATP:acetate phosphohydrolase).  The literature also refers to a
+CC  reversible pyrophophate-dependent reaction in Entamoeba histolytica
+CC  although the sequence of the enzyme responsible is not yet known.
+--
+SN  1
+ID  acetetylphosphate dephosphorylation
+RQ  1
+EV  IPR004372; TIGR00016;
+EV  IPR001792; PF00708;
+//

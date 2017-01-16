@@ -1,0 +1,82 @@
+AC  GenProp0136
+DE  ubiquinone biosynthesis from chorismate, aerobic
+TP  PATHWAY
+AU  Haft D
+TH  3
+RN  [1]
+RM  365223
+RT  Alternative hydroxylases for the aerobic and anaerobic biosynthesis of
+RT  ubiquinone in Escherichia coli.
+RA  Alexander K, Young IG;
+RL  Biochemistry. 1978;17:4750-4755.
+RN  [2]
+RM  11583838
+RT  Ubiquinone biosynthesis in microorganisms.
+RA  Meganathan R;
+RL  FEMS Microbiol Lett. 2001;203:131-139.
+DC  Ubiquinone metabolism
+DR  KEGG; map00130;
+CC  Ubiquinone, an electron and hydrogen transport cofactor important for
+CC  aerobic respiration and photosynthesis, is synthesized in bacteria from
+CC  chorismate and polyprenyl pyrophosphates of varying lengths [1]. Knock
+CC  out of the three hydroxylation steps requiring molecular oxygen results
+CC  in anaerobic synthesis of ubiquinone, indicating the presence of an
+CC  alternative system [2]. In yeast and animals a different pathway exists
+CC  starting from 4-hydroxyphenylpyruvate, having latter steps in common
+CC  with the bacterial pathway [3]. In addition to ubiquinone, bacteria may
+CC  contain menaquinone and/or phylloquinone which together make up their
+CC  quinone pool [1].
+--
+SN  UbiA
+ID  4-hydroxybenzoate prenyltransferase
+DN  4-hydroxybenzoate prenyltransferase (EC 2.5.1.-)
+RQ  1
+EV  IPR006371; TIGR01475; sufficient;
+TG  GO:0006744;
+EV  IPR006370; TIGR01474; sufficient;
+TG  GO:0006744;
+--
+SN  UbiB
+ID  2-polyprenylphenol hydroxylase
+DN  2-polyprenylphenol 6-hydroxylase (EC 1.14.13.-)
+RQ  1
+EV  IPR010232; TIGR01982; sufficient;
+TG  GO:0006744;
+--
+SN  UbiC
+ID  chorismate-pyruvate lyase
+DN  chorismate lyase (EC 4.1.3.40)
+RQ  0
+EV  IPR007440; PF04345; sufficient;
+--
+SN  UbiD/X
+ID  3-prenyl-4-hydroxybenzoate decarboxylase
+DN  3-octyprenyl-4-hydroxybenzoate decarboxylase (EC 4.1.1.-)
+RQ  1
+EV  IPR002830; PF01977; sufficient;
+TG  GO:0006744;
+EV  IPR004507; TIGR00421; sufficient;
+TG  GO:0006744;
+--
+SN  UbiE
+ID  ubiquinone biosynthesis C-methyltransferase
+DN  ubiquinone biocynthesis C-methyltransferase (EC 2.1.1.-)
+RQ  1
+EV  IPR004033; TIGR01934; sufficient;
+--
+SN  UbiF/H
+ID  ubiquinone biosynthesis 4- and 5-hydroxylases
+DN  NOT APPLICABLE
+RQ  1
+EV  IPR010971; TIGR01988; sufficient;
+TG  GO:0006744;
+EV  IPR011566; PF03232; sufficient;
+TG  GO:0006744;
+--
+SN  UbiG
+ID  3-demethylubiquinone-9 3-methyltransferase
+DN  3-demethylubiquinone-9 3-methyltransferase (EC 2.1.1.64)
+RQ  1
+EV  IPR010233; TIGR01983; sufficient;
+TG  GO:0006744;
+//

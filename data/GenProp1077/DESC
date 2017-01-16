@@ -1,0 +1,33 @@
+AC  GenProp1077
+DE  tRNA(Pro) cmo5UGG modification
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  15383682
+RT  The modified wobble nucleoside uridine-5-oxyacetic acid in
+RT  tRNAPro(cmo5UGG) promotes reading of all four proline codons in vivo.
+RA  Nasvall SJ, Chen P, Bjork GR;
+RL  RNA. 2004;10:1662-1673.
+CC  The tRNA methyltransferases CmoA and CmoB, usually encoded by tandem
+CC  genes, work together to complete a tRNA wobble position modification,
+CC  uridine-5-oxyacetic acid (cmo5U). This modification was shown to allow
+CC  a tRNA(Pro) to recognize all four proline codons. This system has a
+CC  fairly narrow taxonomic range, including E. coli, in which cmoA and
+CC  cmoB occur but are not essential.
+**  H. pylori and actually all Helicobacter species have an N-terminally
+**  truncated form of CmoB, TIGR00452, relative to orthologs in other
+**  species. Model TIGR00452 rebuilt. 
+--
+SN  cmoA
+ID  tRNA (cmo5U34)-methyltransferase
+RQ  1
+EV  IPR005271; TIGR00740;
+TG  GO:0006400;
+--
+SN  cmoB
+ID  tRNA (mo5U34)-methyltransferase
+RQ  1
+EV  IPR010017; TIGR00452;
+TG  GO:0006400;
+//

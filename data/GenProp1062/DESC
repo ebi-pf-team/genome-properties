@@ -1,0 +1,26 @@
+AC  GenProp1062
+DE  radical SAM/SPASM system Clo7bot
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  This property features a radical SAM/SPASM domain peptide maturase
+CC  that, in multiple strains of Clostridium botulinum, is next to a tandem
+CC  array of seven target peptides, all Cys-rich. This system also occurs
+CC  in Clostridium sporogenes, and an array of six peptides occurs in
+CC  Thermoanaerobacter italicus Ab9. Clostridium cellulovorans 743B has a
+CC  matching radical SAM maturase, but a single weak candidate target
+CC  sequence, MKFVKAPTKNISIIKCPYFCNTFFPILPPTF.
+**  Neighboring genes in Clostridium botulinum that are likely to part of
+**  the system include a pair of GNAT family acetyltransferases, a probable
+**  protease, and a transporter.
+--
+SN  multi
+ID  Clo7bot tandem target peptide
+RQ  1
+EV  IPR027601; TIGR04333;
+--
+SN  rSAM7
+ID  radical SAM/SPASM domain Clo7bot peptide maturase
+RQ  1
+EV  IPR027622; TIGR04334;
+//

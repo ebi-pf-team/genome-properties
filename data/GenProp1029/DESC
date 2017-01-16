@@ -1,0 +1,54 @@
+AC  GenProp1029
+DE  radical SAM/SPASM system SynChlorMet
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  21478363
+RT  Biological systems discovery in silico: radical S-adenosylmethionine
+RT  protein families and their target peptides for posttranslational
+RT  modification.
+RA  Haft DH, Basu MK;
+RL  J Bacteriol. 2011;193:2745-2755.
+CC  This property features a four-gene cassette that appears to be involved
+CC  in peptide modification. The system has both a PqqD homolog and two
+CC  PqqE homologs. The predicted fifth component, putative modification
+CC  target ScmA, is not identified, but Clim_1912 (YP_001943923.1) from
+CC  Chlorobium limicola DSM 245 is suggested; homologous ORFs are
+CC  demonstrated in the cassettes of the other species with the cassette,
+CC  and their alignment modeled by TIGR04252. Three other species with the
+CC  cassette are Syntrophobacter fumaroxidans MPOB, Methanocella paludicola
+CC  SANAE, and delta proteobacterium NaphS2. Regions homologous to
+CC  Clim_1912 are found in the other three species, and conservation at the
+CC  amino acid level appears strongest in the reading frame of Clim_1912.
+CC  The SPASM domain involvement in peptide modification is described in
+CC  PMID:21478363.
+**  Also, Clim_1912-like homologs are Cys-rich enough in C-terminal half.
+**  This work is a post-publication extension of the principles in
+**  PMID:21478363. DHH.
+--
+SN  ScmA
+ID  putative SynChlorMet system core peptide
+RQ  0
+EV  IPRXXXX; TIGR04252;
+--
+SN  ScmC
+ID  SynChlorMet cassette protein ScmC
+RQ  1
+EV  IPR026343; TIGR04249;
+--
+SN  ScmD
+ID  SynChlorMet cassette protein ScmD
+RQ  1
+EV  IPR026342; TIGR04248;
+--
+SN  ScmE
+ID  SynChlorMet cassette radical SAM/SPASM protein ScmE
+RQ  1
+EV  IPR026344; TIGR04250;
+--
+SN  ScmF
+ID  SynChlorMet cassette radical SAM/SPASM protein ScmF
+RQ  1
+EV  IPR026346; TIGR04251;
+//

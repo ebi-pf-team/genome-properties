@@ -1,0 +1,38 @@
+AC  GenProp0999
+DE  Por secretion system
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  21731719
+RT  Por secretion system-dependent secretion and glycosylation of
+RT  Porphyromonas gingivalis hemin-binding protein 35.
+RA  Shoji M, Sato K, Yukitake H, Kondo Y, Narita Y, Kadowaki T, Naito M,
+RA  Nakayama K;
+RL  PLoS One. 2011;6:e21372.
+RN  [2]
+RM  20971915
+RT  C-terminal domain residues important for secretion and attachment of
+RT  RgpB in Porphyromonas gingivalis.
+RA  Slakeski N, Seers CA, Ng K, Moore C, Cleal SM, Veith PD, Lo AW,
+RA  Reynolds EC;
+RL  J Bacteriol. 2011;193:132-142.
+RN  [3]
+RM  19966289
+RT  A protein secretion system linked to bacteroidete gliding motility and
+RT  pathogenesis.
+RA  Sato K, Naito M, Yukitake H, Hirakawa H, Shoji M, McBride MJ, Rhodes
+RA  RG, Nakayama K;
+RL  Proc Natl Acad Sci U S A. 2010;107:276-281.
+CC  Large paralogous families of C-terminal domains shared by proteins
+CC  destined for outer membrane locations occur in a range of species that
+CC  include Porphyromonas gingivalis, Fibrobacter succinogenes,
+CC  Flavobacterium johnsoniae, Cytophaga hutchinsonii, Gramella forsetii,
+CC  Prevotella intermedia, and Salinibacter ruber (HMMs describing
+CC  processing components have not yet been added to this Genome Property).
+--
+SN  PorSIG
+ID  Por secretion C-terminal signal
+RQ  1
+EV  IPR026444; TIGR04183;
+//

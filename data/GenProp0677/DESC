@@ -1,0 +1,61 @@
+AC  GenProp0677
+DE  queuosine (Q-tRNA) biosynthesis from preQ0
+TP  PATHWAY
+AU  Haft D
+TH  0
+RN  [1]
+RM  15767583
+RT  From cyclohydrolase to oxidoreductase: discovery of nitrile reductase
+RT  activity in a common fold.
+RA  Van Lanen SG, Reader JS, Swairjo MA, de Crécy-Lagard V, Lee B,
+RA  Iwata-Reuyl D;
+RL  Proc Natl Acad Sci U S A. 2005;102:4264-4269.
+RN  [2]
+RM  18931107
+RT  Biosynthesis of 7-deazaguanosine-modified tRNA nucleosides: a new role
+RT  for GTP cyclohydrolase I.
+RA  Phillips G, El Yacoubi B, Lyons B, Alvarez S, Iwata-Reuyl D, de
+RA  Crécy-Lagard V;
+RL  J Bacteriol. 2008;190:7876-7884.
+RN  [3]
+RM  21502530
+RT  Discovery of epoxyqueuosine (oQ) reductase reveals parallels between
+RT  halorespiration and tRNA modification.
+RA  Miles ZD, McCarty RM, Molnar G, Bandarian V;
+RL  Proc Natl Acad Sci U S A. 2011;108:7368-7372.
+CC  preQ0 (7-cyano-7-deazaguanine) is the last common intermediate in the
+CC  biosyntheses of queuosine (in bacteria and eukarya) and archaeosine (in
+CC  archaea).  preQ0 is converted to queuosine by the action of at least
+CC  four enzymes, two reductases, a tRNA(GUN) transferase and an
+CC  adenosylmethionine ribosyl transferase-isomerase.
+--
+SN  Q1trans
+ID  preQ1 tRNA transferase
+RQ  1
+EV  IPR004803; TIGR00430; sufficient;
+TG  GO:0008616;
+--
+SN  Qsynth
+ID  queuosine synthetase oxo-queuosine reductase
+RQ  0
+--
+SN  QueA
+ID  preQ1-tRNA adenosyl methionine ribosyl transferase isomerase
+RQ  1
+EV  IPR003699; TIGR00113; sufficient;
+TG  GO:0008616;
+--
+SN  QueF
+ID  preQ0 reductase
+RQ  1
+EV  IPR016428; TIGR03138; sufficient;
+TG  GO:0008616;
+EV  IPR016856; TIGR03139; sufficient;
+TG  GO:0008616;
+--
+SN  QueG
+ID  epoxyqueuosine reductase
+RQ  1
+EV  IPR004453; TIGR00276;
+TG  GO:0008616;
+//

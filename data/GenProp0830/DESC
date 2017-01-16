@@ -1,0 +1,23 @@
+AC  GenProp0830
+DE  integral membrane mystery pair
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  This Genome Property represents a pair of families of probable
+CC  multi-membrane-spanning enzymes, one with some similarity to
+CC  glycosyltransferase family. The sporadic distribution includes a number
+CC  of members of the Archaea and the Chloroflexi. The members of the two
+CC  families are sometimes clustered, confirming a functional link. The
+CC  function is unknown.
+**  The first GenProp of the new R01.
+--
+SN  myst_1
+ID  integral membrane mystery pair protein 1
+RQ  1
+EV  IPR018746; TIGR03662;
+--
+SN  myst_2
+ID  integral membrane mystery pair protein 2
+RQ  1
+EV  IPR019962; TIGR03663;
+//

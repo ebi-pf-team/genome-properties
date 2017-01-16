@@ -1,0 +1,66 @@
+AC  GenProp0285
+DE  flagella, bacterial type
+TP  METAPATH
+AU  Haft D
+TH  5
+CC  rough in going well for bacterial Gram-neg, non-spirochete,
+CC  non-endosymbiont.
+**  ROUGH-IN for PROPERTY - NOT READY.    Hook and filament: FliCD, FlgELK 
+**  Basal Body: FlgBCFGHI, FliEF  Motor switch (rotor): FliGMN  Export
+**  apparatus: FlhAB, FliHIJOPQR  Assembly apparatus: FlgADN, FliKST 
+**  Stator: MotAB  Regulation: FlgM(anti-FliA, anti-sigma factor),
+**  FliA(sigma factor), FlhCD(transcriptional activator)  Modification:
+**  FlgJ, FliB(methylase)  Unknown: FliL, FlhF, FlhE    In:     
+**  FlgABCDEFGHIJKLMN  FliABCDEFGHIJKLMNOPQRST  FlhABCDEF  Missing:        
+**             FliUVWXYZ
+--
+SN  assmbl
+ID  flagellar assembly apparatus components
+RQ  1
+EV  GenProp0881;
+--
+SN  basal
+ID  flagellar basal body complex
+RQ  1
+EV  GenProp0880;
+--
+SN  export
+ID  flagellar export apparatus
+RQ  1
+EV  GenProp0879;
+--
+SN  filament
+ID  flagellar hook and filament complex
+RQ  1
+EV  GenProp0882;
+--
+SN  modif
+ID  flagellar post-translational modification components
+RQ  0
+EV  GenProp0885;
+--
+SN  narrow
+ID  flagellar operon proteins found in restricted phylogenetic ranges
+RQ  0
+EV  GenProp0887;
+--
+SN  regulat
+ID  flagellar regulation systems
+RQ  0
+EV  GenProp0884;
+--
+SN  rotor
+ID  flagellar motor switch (rotor) complex
+RQ  1
+EV  GenProp0883;
+--
+SN  stator
+ID  flagellar motor stator complex
+RQ  1
+EV  GenProp0877;
+--
+SN  unknown
+ID  flagellar components of unknown function
+RQ  0
+EV  GenProp0886;
+//

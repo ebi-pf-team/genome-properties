@@ -1,0 +1,20 @@
+AC  GenProp0623
+DE  NADH dehydrogenase, Sno(Mnh)ABCDEFG)
+TP  SYSTEM
+AU  Haft D
+TH  0
+CC  This gene cluster (snoABCDEFG) has been proposed [1] to encode a
+CC  alternative NADH dehydrogenase complex I based on homology to known
+CC  complex I subunits and certain knockout phenotype characteristics in
+CC  Staphylococcus aureus.  The cluster had been previously characterized
+CC  as a sodium-proton antiporter.
+--
+SN  SnoB-C
+ID  SnoB subunit, C-terminal domain
+RQ  1
+EV  IPR007182; PF04039; sufficient;
+--
+SN  SnoB-N
+ID  SnoB subunit, N-terminal domain
+RQ  1
+//

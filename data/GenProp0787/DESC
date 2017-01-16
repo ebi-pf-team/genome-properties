@@ -1,0 +1,19 @@
+AC  GenProp0787
+DE  lysine biosynthesis via diaminopimelate (DAP), acetylated branch
+TP  PATHWAY
+AU  Haft D
+TH  0
+--
+SN  ADAPDA
+ID  acetyl-diaminopimelate deacetylase
+RQ  1
+--
+SN  ADAPTA
+ID  acetyl-diaminopimelate transaminase
+RQ  0
+--
+SN  THPAT
+ID  2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+RQ  1
+EV  IPR019873; TIGR03532;
+//

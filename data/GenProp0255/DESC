@@ -1,0 +1,20 @@
+AC  GenProp0255
+DE  5-aminolevulinate biosynthesis
+TP  METAPATH
+AU  Haft D
+TH  0
+CC  5-aminolevulinate, a heme precursor, may be biosynthesized by one of
+CC  two pathways.  The C5 (or Glutamate) pathway is more common
+CC  (GenProp0217) while the alphaproteobacteria utilize the enzyme
+CC  5-aminolevulinate synthase to make the molecule from succinyl-CoA and
+CC  glycine (GenProp0223).  This property summarizes the other two, holding
+CC  a YES state when either of the other two are found to be present.
+--
+SN  5amino
+ID  5-aminolevulinate biosynthesis pathway
+RQ  1
+EV  GenProp0217;
+TG  GO:0006783;
+EV  GenProp0223;
+TG  GO:0006783;
+//

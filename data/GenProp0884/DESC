@@ -1,0 +1,28 @@
+AC  GenProp0884
+DE  flagellar regulation
+TP  METAPATH
+AU  Haft D
+TH  0
+CC  The expression and operation of bacterial flagella are regulated by a
+CC  number of control systems.
+--
+SN  FlgM
+ID  flagellar biosynthesis anti-sigma factor FlgM
+RQ  0
+EV  IPR007412; TIGR03824;
+--
+SN  FliA
+ID  flagellar operon sigma factor FliA
+RQ  1
+EV  IPR012845; TIGR02479; sufficient;
+--
+SN  FliZ
+ID  flagellar regulatory protein FliZ
+RQ  0
+EV  IPR022523; TIGR03823;
+--
+SN  chemo
+ID  chemotaxis response regulator system
+RQ  0
+EV  GenProp0762;
+//

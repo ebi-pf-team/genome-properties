@@ -1,0 +1,53 @@
+AC  GenProp0321
+DE  toxin-antitoxin system, type II
+TP  GUILD
+AU  Haft D
+TH  0
+CC  Pair of genes are often found to maintain plasmids by a mechanism of
+CC  post-segregational killing. One protein is a short-lived antidote, the
+CC  other a long-lived toxin, and the two encoded together. Loss of the
+CC  gene pair, as from a cell division in which one of the daughter cells
+CC  does not receive a copy of the plasmid, leads to loss of the antidote
+CC  faster than the toxin, and therefore to cell death. Such pairs are
+CC  called addition modules, and may be chromosomal rather than plasmid.
+CC  Chromosomal pairs frequently have mRNA-cleaving activity with
+CC  bacteriostatic rather than bacteriocidal activity, and may benefit the
+CC  host cell by enabling a persister state in response to certain
+CC  challenges.
+--
+SN  antidote
+ID  antidote partner (various)
+RQ  1
+EV  IPR006442; TIGR01552; sufficient;
+EV  IPR006442; PF02604; sufficient;
+EV  IPR009956; PF07362; sufficient;
+EV  IPR007337; TIGR02384; sufficient;
+EV  IPR007337; PF04221; sufficient;
+EV  IPR022789; PF03693;
+EV  IPRXXXX; PF01381;
+EV  IPR013432; TIGR02609; sufficient;
+EV  IPR013430; TIGR02607; sufficient;
+EV  IPR022789; TIGR02606; sufficient;
+--
+SN  killing
+ID  killing partner
+RQ  1
+EV  IPR007712; PF05016; sufficient;
+EV  IPR009614; TIGR02116; sufficient;
+EV  IPR007712; TIGR02385; sufficient;
+EV  IPR004386; TIGR00053; sufficient;
+EV  IPR002712; PF01845; sufficient;
+EV  IPRXXXX; PF05012; sufficient;
+EV  IPR007711; PF05015; sufficient;
+EV  IPR006440; TIGR01550; sufficient;
+EV  IPR033439; PF03882; sufficient;
+EV  IPR012556; PF08085; sufficient;
+EV  IPR003477; PF02452;
+EV  IPR002850; TIGR00305;
+EV  IPR009241; PF05973;
+--
+SN  unassign
+ID  unassigned role in predicted module
+RQ  0
+EV  IPR013406; TIGR02574; sufficient;
+//

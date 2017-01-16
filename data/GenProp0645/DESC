@@ -1,0 +1,18 @@
+AC  GenProp0645
+DE  putrescine biosynthesis
+TP  METAPATH
+AU  Haft D
+TH  0
+CC  The polyamine putrescine is both the precursor of the essential growth
+CC  factor spermidine as well as an intermediate for the degradation of
+CC  arginine and ornithine (and those compounds which may be converted to
+CC  ornithine).  Putrescine may be generated from glutamate and arginine
+CC  via a number of pathways.
+--
+SN  1
+ID  putrescine biosynthesis pathways
+RQ  1
+EV  GenProp0642;
+EV  GenProp0643;
+EV  GenProp0644;
+//

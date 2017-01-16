@@ -1,0 +1,40 @@
+AC  GenProp0957
+DE  protein sorting system, SipW class
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  9694797
+RT  Functional analysis of the secretory precursor processing machinery of
+RT  Bacillus subtilis: identification of a eubacterial homolog of archaeal
+RT  and eukaryotic signal peptidases.
+RA  Tjalsma H, Bolhuis A, van Roosmalen ML, Wiegert T, Schumann W,
+RA  Broekhuizen CP, Quax WJ, Venema G, Bron S, van Dijl JM;
+RL  Genes Dev. 1998;12:2318-2331.
+RN  [2]
+RM  10559173
+RT  Control of synthesis and secretion of the Bacillus subtilis protein
+RT  YqxM.
+RA  Stöver AG, Driks A;
+RL  J Bacteriol. 1999;181:7065-7069.
+RN  [3]
+RM  22328672
+RT  Identification of Bacillus subtilis SipW as a bifunctional signal
+RT  peptidase that controls surface-adhered biofilm formation.
+RA  Terra R, Stanley-Wall NR, Cao G, Lazazzera BA;
+RL  J Bacteriol. 2012;194:2781-2790.
+CC  SipW is a signal peptidase I variant class, found in Bacillus subtilis,
+CC  Archaeoglobus fulgidus, and scattered other prokaryotic lineages. It
+CC  appears to recognize a cognate signal sequence variant, many instances
+CC  of which are detected by model TIGR04088.
+--
+SN  sort
+ID  signal peptidase, SipW class
+RQ  1
+EV  IPR001733; TIGR02228;
+--
+SN  target
+ID  SipW-sorted protein
+RQ  1
+EV  IPR023833; TIGR04088;
+//

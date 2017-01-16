@@ -1,0 +1,35 @@
+AC  GenProp0809
+DE  bacteriocin system, lactococcin 972 group
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  10589723
+RT  Synthesis of lactococcin 972, a bacteriocin produced by Lactococcus
+RT  lactis IPLA 972, depends on the expression of a plasmid-encoded
+RT  bicistronic operon.
+RA  Martínez B, Fernández M, Suárez JE, Rodríguez A;
+RL  Microbiology. 1999;145 ( Pt 11):3155-3161.
+CC  Bacteriocins are bacterial products, toxic typically to closely related
+CC  bacteria, derived from polypeptide precursors. This Genome Property
+CC  represents a recognizable subclass of bacteriocin-biosynthesis and
+CC  export system with a characteristic immunity protein modeled by
+CC  TIGR01654.
+**  In some Streptococcus genomes, NO START CODON for TIGR01653 member, so
+**  the apparent bacteriocin gene is NOT reported.
+--
+SN  B_export
+ID  bacteriocin export protein, lactococcin 972 group
+RQ  1
+EV  IPR019895; TIGR03608;
+--
+SN  B_immun
+ID  bacteriocin putative immunity protein, lactococcin 972 group
+RQ  1
+EV  IPR006541; TIGR01654;
+--
+SN  B_ocin
+ID  bacteriocin, lactococcin 972 group
+RQ  1
+EV  IPR006540; TIGR01653;
+//

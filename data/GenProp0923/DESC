@@ -1,0 +1,42 @@
+AC  GenProp0923
+DE  mycothiol system
+TP  SYSTEM
+AU  Haft D
+TH  0
+RN  [1]
+RM  17286835
+RT  Mycothiol-dependent proteins in actinomycetes.
+RA  Rawat M, Av-Gay Y;
+RL  FEMS Microbiol Rev. 2007;31:278-292.
+CC  Mycothiol is a glutathione analog common in the Actinobacteria, but not
+CC  found elsewhere. This Genome Property provides a higher-level view of
+CC  mycothiol metabolism that includes its synthesis (GenProp0753), the
+CC  regeneration of mycothiol from mycothione (its disulfide-bonded dimer)
+CC  by NADPH-dependent reduction, and a guild of mycothiol-dependent
+CC  enzymes, the discovery of which is incomplete.
+**  Mycothiol-Dependent Maleylpyruvate Isomerase not yet modeled, but has a
+**  domain model, kind of.
+--
+SN  antisig
+ID  anti-sigma-R factor RsrA
+RQ  1
+EV  IPR024020; TIGR03988;
+--
+SN  disulf
+ID  mycothione reductase
+RQ  1
+EV  IPR017817; TIGR03452;
+TG  GO:0010126;
+--
+SN  myc_use
+ID  mycothiol-dependent enzyme
+RQ  1
+EV  IPR017811; TIGR03446;
+TG  GO:0010126;
+EV  IPR017816; TIGR03451;
+--
+SN  synth
+ID  mycothiol biosynthesis
+RQ  1
+EV  GenProp0753;
+//
