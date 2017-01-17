@@ -2,9 +2,9 @@
 Flatfile Format
 ===============
 
-Each Genome Property is represented by two files. The first (the DESC file) is a description of the 
-GP and the constituent steps. The second (the FA file) is a concatenation of fasta files that resolve 
-to a yes for each of the constituent steps.
+Each Genome Property is represented by two files. 
++ DESC file - is a description of the GP and the constituent steps. 
++ FA file - is a concatenation of fasta files that resolve to a yes for each of the constituent steps.
 
 ---------
 DESC file
