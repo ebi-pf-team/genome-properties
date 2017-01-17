@@ -48,7 +48,7 @@ TG  GO:0009423;
 --
 SN  2
 ID  3-dehydroquinate synthase
-DN  3-dehydroquinate synthase (EC 4.6.1.3)
+DN  3-dehydroquinate synthase (EC 4.2.3.4)
 RQ  1
 EV  IPR016037; TIGR01357; sufficient;
 TG  GO:0009423;
