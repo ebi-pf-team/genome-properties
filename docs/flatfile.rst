@@ -5,7 +5,7 @@ Flatfile Format
 Each Genome Property is represented by two files
 
 + **DESC file** - is a description of the GP and the constituent steps
-+ **FA file** - is a concatenation of fasta files that resolve to a yes for each of the constituent steps
++ **FASTA file** - is a concatenation of fasta files that resolve to a yes for each of the constituent steps
 
 ---------
 DESC file
@@ -163,9 +163,9 @@ TG  GO:0009423;
 
 
 ---------
-FA file
+FASTA file
 ---------
 
-The FA file is formatted such that each individual block of fasta sequence includes a header line. This header line is comprised of the UniProt ID for the sequence, and the step number that the sequence relates to as evidence. An example FA file is shown below.
+The FASTA file is formatted such that each individual block of fasta sequence includes a header line. This header line is comprised of the UniProt ID for the sequence, and the step number that the sequence relates to as evidence. An example FASTA file is shown below.
 
 
