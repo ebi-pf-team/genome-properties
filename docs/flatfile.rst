@@ -163,8 +163,6 @@ TG  GO:0009423;
 FA file
 ---------
 
-The FA file is formatted such that each individual block of fasta sequence includes a header line. This header line 
-is comprised of the UniProt ID for the sequence, and the step number that the sequence relates to as evidence. An 
-example FA file is shown below.
+The FA file is formatted such that each individual block of fasta sequence includes a header line. This header line is comprised of the UniProt ID for the sequence, and the step number that the sequence relates to as evidence. An example FA file is shown below.
 
 
