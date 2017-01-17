@@ -1,10 +1,60 @@
+===============
 Flatfile Format
 ===============
 
-Each Genome Property is represented by two files. The first is a description of the 
-GP and the constituent steps....
+Each Genome Property is represented by two files. The first (the DESC file) is a description of the 
+GP and the constituent steps. The second (the FA file) is a concatenation of fasta files that resolve 
+to a yes for each of the constituent steps.
 
+---------
+DESC file
+---------
 
-The Tags are:
--------------
-AC
+The tags used in the DESC file are explained below:
+
++----+----------------------------------------------------+
+| AC | Accession ID                                       |
++----+----------------------------------------------------+
+| DE | Description/name of Genome Property                |
++----+----------------------------------------------------+
+| TP | Type                                               |
++----+----------------------------------------------------+
+| TH | Threshold                                          |
++----+----------------------------------------------------+
+| RN | Reference number                                   |
++----+----------------------------------------------------+
+| RM | PMID of reference                                  |
++----+----------------------------------------------------+
+| RT | Reference title                                    |
++----+----------------------------------------------------+
+| RA | Reference author                                   |
++----+----------------------------------------------------+
+| RL | Reference citation                                 |
++----+----------------------------------------------------+
+| DC | Database title                                     |
++----+----------------------------------------------------+
+| DR | Database link                                      |
++----+----------------------------------------------------+
+| PN | Parent accession ID                                |
++----+----------------------------------------------------+
+| CC | Property description                               |
++----+----------------------------------------------------+
+| ** | Private notes                                      |
++----+----------------------------------------------------+
+| -- | Separator                                          |
++----+----------------------------------------------------+
+| SN | Step number                                        |
++----+----------------------------------------------------+
+| ID | Step ID                                            |
++----+----------------------------------------------------+
+| DN | Step display name (includes EC number if available)|
++----+----------------------------------------------------+
+| RQ | Required step                                      |
++----+----------------------------------------------------+
+| EV | Evidence (includes whether sufficient)             |
++----+----------------------------------------------------+
+| TG | Gene Ontology (GO) ID                              |
++----+----------------------------------------------------+
+| // | End                                                |
++----+----------------------------------------------------+
+
