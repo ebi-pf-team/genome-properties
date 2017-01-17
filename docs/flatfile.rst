@@ -61,13 +61,13 @@ The tags used in the DESC file are listed below, along with the description of t
 
 The DESC file is formatted such that a single tag is included on each line, followed by 2 blank spaces, followed by the value of the field. In the case of the property description (CC) and private notes (**) fields, the information may stretch accross multipe lines. The line length is limited to 75 characters (including the tag) and so any subsequent lines used must also carry the tag. See the example below.
 
-AC  GenProp0001
-DE  chorismate biosynthesis via shikimate
-TP  PATHWAY
-AU  Haft D
-TH  2
-RN  [1]
-RM  12636087
+AC  GenProp0001  
+DE  chorismate biosynthesis via shikimate  
+TP  PATHWAY  
+AU  Haft D  
+TH  2  
+RN  [1]  
+RM  12636087  
 RT  The biosynthesis of shikimate metabolites.
 RA  Knaggs AR;
 RL  Nat Prod Rep. 2003;20:119-136.
