@@ -175,4 +175,3 @@ The file is formatted such that each individual block of fasta sequence includes
 
   >sp|P0AB91|AROG_ECOLI (Step num: 1) Phospho-2-dehydro-3-deoxyheptonate aldolase, Phe-sensitive OS=Escherichia coli (strain K12) GN=aroG PE=1 SV=1
 
-
