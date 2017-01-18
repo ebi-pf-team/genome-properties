@@ -4,8 +4,15 @@ Flatfile Format
 
 Each Genome Property is represented by two files
 
-+ **DESC file** - a description of the GP and the constituent steps
+- **DESC file** - a description of the GP and the constituent steps
 + **FASTA file** - a concatenation of fasta files that resolve to a yes for each of the constituent steps
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 
 ---------
 DESC file
@@ -233,5 +240,3 @@ An example FASTA file is shown here:
   KGVEIGDGFDVVALRGSQNRDEITKDGFQSNHAGGILGGISSGQQIIAHMALKPTSSITV
   PGRTINRFGEEVEMITKGRHDPCVGIRAVPIAEAMLAIVLMDHLLRQRAQNADVKTDIPR
   W
-
-  
