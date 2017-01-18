@@ -4,8 +4,8 @@ Flatfile Format
 
 Each Genome Property is represented by two files
 
-+ **DESC file** - is a description of the GP and the constituent steps
-+ **FASTA file** - is a concatenation of fasta files that resolve to a yes for each of the constituent steps
++ **DESC file** - a description of the GP and the constituent steps
++ **FASTA file** - a concatenation of fasta files that resolve to a yes for each of the constituent steps
 
 ---------
 DESC file
