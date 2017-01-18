@@ -169,7 +169,7 @@ FASTA file
 ---------
 
 The FASTA file includes a fasta sequence for each constituent step of the property.
-The file is formatted such that each individual block of fasta sequence includes a descriptive header line, in the format provided by UniProt. The appropriate step number is then added to this header line as shown below.
+The file is formatted such that each individual block of fasta sequence includes a descriptive header line, in the format provided by UniProt. The appropriate step number is then added to this header line in parenthesis, as shown below.
 
 .. code-block::
 
