@@ -166,6 +166,11 @@ The DESC file is formatted such that a single tag is included on each line, foll
 FASTA file
 ---------
 
-The FASTA file is formatted such that each individual block of fasta sequence includes a header line. This header line is comprised of the UniProt ID for the sequence, and the step number that the sequence relates to as evidence. An example FASTA file is shown below.
+The FASTA file includes a fasta sequence for each constituent step of the property.
+The file is formatted such that each individual block of fasta sequence includes a descriptive header line, in the format provided by UniProt. The appropriate step number is then added to this header line as shown below.
+
+.. code-block::
+
+  >sp|P0AB91|AROG_ECOLI (Step num: 1) Phospho-2-dehydro-3-deoxyheptonate aldolase, Phe-sensitive OS=Escherichia coli (strain K12) GN=aroG PE=1 SV=1
 
 
