@@ -12,7 +12,7 @@ CC  cycle, and tricarboxylic acid cycle, is performed in eukaryotic
 CC  mitochondria and in many prokaryotes. This property refers to the
 CC  forward direction: from oxaloacetate and acetate to citrate, to
 CC  isocitrate, to 2-oxoglutarate, to succinate, to fumarate, to malate, to
-CC  oxaloacetate, with the release of two molecules of C02. It runs only
+CC  oxaloacetate, with the release of two molecules of CO2. It runs only
 CC  under aerobic conditions. The state YES means the cycle is complete. A
 CC  complete TCA cycle may correlate with use of TCA intermediates as
 CC  biosynthetic precursors and with anaplerotic (TCA cycle
