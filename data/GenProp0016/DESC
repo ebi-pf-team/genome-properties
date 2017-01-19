@@ -46,12 +46,12 @@ CC  incorporates pyrrolysine at specific TAG codons.
 **  as SelC, but in fact corresponds to a Trp-specific tRNA due to an
 **  alternative genetic code in these species.
 --
-SN  example
+SN  1
 ID  selenocysteine-containing proteins
 DN  NOT APPLICABLE
 RQ  1
 --
-SN  selA
+SN  2
 ID  Sec-tRNA(Sec) synthesis
 DN  L-seryl-tRNA(Sec) selenium transferase
 RQ  1
@@ -60,19 +60,19 @@ TG  GO:0016260;
 EV  GenProp0797;
 TG  GO:0016260;
 --
-SN  selB
+SN  3
 ID  selenocysteine-specific translation elongation factor
 DN  selenocysteine-specific translation elongation factor
 RQ  1
 EV  IPR004535; TIGR00475; sufficient;
 TG  GO:0001514;
 --
-SN  selC
+SN  4
 ID  selenocysteine-specific tRNA (tRNA-SeC)
 DN  NOT APPLICABLE
 RQ  1
 --
-SN  selD
+SN  5
 ID  selenide, water dikinase
 DN  selenide, water dikinase
 RQ  1
