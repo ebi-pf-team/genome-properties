@@ -37,7 +37,7 @@ CC  is I-A, Tneap/Hmari is I-B, Dvulg is I-C, Cyano is I-D, Ecoli is I-E,
 CC  Ypest is I-F, Nmeni is type II, Mtube is type III-A, and the RAMP
 CC  module is type III-B.
 --
-SN  Aferr
+SN  1
 ID  Aferr subtype specific proteins
 RQ  0
 EV  IPR017545; TIGR03114;
@@ -49,7 +49,7 @@ TG  GO:0043571;
 EV  IPR017548; TIGR03117;
 TG  GO:0043571;
 --
-SN  Apern
+SN  2
 ID  Apern subtype specific proteins
 RQ  0
 EV  IPR010153; TIGR01874; sufficient;
@@ -69,14 +69,14 @@ TG  GO:0043571;
 EV  IPR022297; TIGR03876;
 TG  GO:0043571;
 --
-SN  Cas1
+SN  3
 ID  Cas1
 DN  CRISPR-associated protein Cas1
 RQ  1
 EV  IPR002729; TIGR00287; sufficient;
 TG  GO:0043571;
 --
-SN  Cas2
+SN  4
 ID  Cas2
 DN  CRISPR-associated protein Cas2
 RQ  0
@@ -85,7 +85,7 @@ TG  GO:0043571;
 EV  IPR010152; TIGR01873; sufficient;
 TG  GO:0043571;
 --
-SN  Cas3
+SN  5
 ID  Cas3 (core, HD domain, Ypest-specific)
 DN  CRISPR-associated helicase Cas3
 RQ  0
@@ -98,28 +98,28 @@ TG  GO:0043571;
 EV  IPR013444; TIGR02621; sufficient;
 TG  GO:0043571;
 --
-SN  Cas4
+SN  6
 ID  Cas4
 DN  CRISPR-associated protein Cas4
 RQ  0
 EV  IPR013343; TIGR00372; sufficient;
 TG  GO:0043571;
 --
-SN  Cas5
+SN  7
 ID  Cas5
 DN  CRISPR-associated protein, TM1801 family
 RQ  0
 EV  IPR013422; TIGR02593; sufficient;
 TG  GO:0043571;
 --
-SN  Cas6
+SN  8
 ID  Cas6
 DN  CRISPR-associated protein, CT1133 family
 RQ  0
 EV  IPR010156; TIGR01877; sufficient;
 TG  GO:0043571;
 --
-SN  Dpsyc
+SN  9
 ID  Dpsyc subtype specific proteins
 RQ  0
 EV  IPR019089; TIGR02165; sufficient;
@@ -131,7 +131,7 @@ TG  GO:0043571;
 EV  IPR026483; TIGR04113;
 TG  GO:0043571;
 --
-SN  Dvulg
+SN  10
 ID  Dvulg subtype specific proteins
 RQ  0
 EV  IPR010144; TIGR01863; sufficient;
@@ -141,7 +141,7 @@ TG  GO:0043571;
 EV  IPR013418; TIGR02589; sufficient;
 TG  GO:0043571;
 --
-SN  Ecoli
+SN  11
 ID  Ecoli subtype specific proteins
 RQ  0
 EV  IPR010147; TIGR01868; sufficient;
@@ -155,7 +155,7 @@ TG  GO:0043571;
 EV  IPR013382; TIGR02548; sufficient;
 TG  GO:0043571;
 --
-SN  Hmari
+SN  12
 ID  Hmari subtype specific proteins
 RQ  0
 EV  IPR013420; TIGR02591; sufficient;
@@ -165,7 +165,7 @@ TG  GO:0043571;
 EV  IPR013421; TIGR02592; sufficient;
 TG  GO:0043571;
 --
-SN  Mtube
+SN  13
 ID  Mtube subtype specific proteins
 RQ  0
 EV  IPR010149; TIGR01870; sufficient;
@@ -181,7 +181,7 @@ TG  GO:0043571;
 EV  IPR013489; TIGR02672; sufficient;
 TG  GO:0043571;
 --
-SN  Myxan
+SN  14
 ID  Myxan subtype specific proteins
 RQ  0
 EV  IPR019989; TIGR03485;
@@ -191,7 +191,7 @@ TG  GO:0043571;
 EV  IPR013415; TIGR02586;
 TG  GO:0043571;
 --
-SN  Nmeni
+SN  15
 ID  Nmeni subtype specific proteins
 RQ  0
 EV  IPR028629; TIGR01865; sufficient;
@@ -199,7 +199,7 @@ TG  GO:0043571;
 EV  IPR010146; TIGR01866; sufficient;
 TG  GO:0043571;
 --
-SN  Pging
+SN  16
 ID  Pging subtype specific proteins
 RQ  0
 EV  IPR020032; TIGR03489;
@@ -207,13 +207,13 @@ TG  GO:0043571;
 EV  IPR020029; TIGR03487;
 TG  GO:0043571;
 --
-SN  PreFran
+SN  17
 ID  PreFran subtype specific proteins
 RQ  0
 EV  IPR027620; TIGR04330;
 TG  GO:0043571;
 --
-SN  R-module
+SN  18
 ID  RAMP module proteins
 RQ  0
 EV  IPR010160; TIGR01881; sufficient;
@@ -229,7 +229,7 @@ TG  GO:0043571;
 EV  IPR010172; TIGR01898; sufficient;
 TG  GO:0043571;
 --
-SN  RAMP-new
+SN  19
 ID  RAMPs not otherwise accounted for
 RQ  0
 EV  IPR013411; TIGR02581; sufficient;
@@ -237,7 +237,7 @@ TG  GO:0043571;
 EV  IPR013490; TIGR02674; sufficient;
 TG  GO:0043571;
 --
-SN  Tneap
+SN  20
 ID  Tneap subtype specific proteins
 RQ  0
 EV  IPR010180; TIGR01908; sufficient;
@@ -247,7 +247,7 @@ TG  GO:0043571;
 EV  IPR013414; TIGR02585; sufficient;
 TG  GO:0043571;
 --
-SN  Ypest
+SN  21
 ID  Ypest subtype specific proteins
 RQ  0
 EV  IPR013396; TIGR02563; sufficient;
@@ -259,7 +259,7 @@ TG  GO:0043571;
 EV  IPR013397; TIGR02564; sufficient;
 TG  GO:0043571;
 --
-SN  other
+SN  22
 ID  other CRISPR-associated families
 RQ  0
 EV  IPR010171; TIGR01897; sufficient;
@@ -293,7 +293,7 @@ TG  GO:0043571;
 EV  IPR013389; TIGR02556;
 TG  GO:0043571;
 --
-SN  rpt
+SN  23
 ID  CRISPR
 DN  NOT APPLICABLE
 RQ  0
