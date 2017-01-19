@@ -3,13 +3,13 @@ DE  inteins
 TP  SYSTEM
 AU  Haft D
 TH  0
-CC  YES  NO    This describes the property of having at least one intein
-CC  encoded anywhere in the genome, including within proteins that belong
-CC  to plasmids or phage regions.  An intein should appear as a large
-CC  insert in just one or two sequences of a multiple alignment with a hit
-CC  region for TIGR01445 toward the left end of the insert and a hit to
-CC  TIGR01443 toward the right. The region between may show endonuclease
-CC  homology.  
+CC  Inteins are protein insertion sequences that are embedded in host 
+CC  protein sequences. They are post-translationally excised from the 
+CC  host protein by a self-catalytic protein splicing process, in which 
+CC  the intein sequence is precisely excised, and the flanking host 
+CC  protein sequences (N- and C-exteins) are religated to create a 
+CC  functional protein. The region between the N- and C-terminal splicing 
+CC  regions may show endonuclease homology.
 --
 SN  1
 ID  intein C-terminal splicing region
