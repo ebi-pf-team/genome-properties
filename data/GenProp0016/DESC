@@ -3,7 +3,7 @@ DE  selenocysteine system
 TP  SYSTEM
 AU  Haft D
 TH  1
-DC  Selenoamino Acid Metabolism
+DC  Selenocompound metabolism
 DR  KEGG; map00450;
 CC  The property of incorporating selenocysteine as an alternate amino acid
 CC  during protein translation from mRNA. The site of incorporation often
