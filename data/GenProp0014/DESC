@@ -36,7 +36,7 @@ CC  some, but not all, of the domains).  Otherwise, the propery will be set
 CC  to NO.  A NULL value indicates that the genome has not yet been
 CC  evaluated with regard to this property.
 --
-SN  AT+KS+TE
+SN  1
 ID  acyl trans, keto synth and thioest domains in the same ORF
 DN  NOT APPLICABLE
 RQ  1
