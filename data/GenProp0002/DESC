@@ -27,7 +27,7 @@ CC  biosynthesis.
 **  N5,N10-methylenetetrahydromethanopterin dehydrogenase  F420H2:NADP+
 **  oxidoreductase
 --
-SN  420_LLM
+SN  1
 ID  LLM-family F420-associated subfamilies
 RQ  0
 EV  IPR019944; TIGR03554;
@@ -47,12 +47,12 @@ EV  IPR022402; TIGR03854;
 EV  IPR022378; TIGR03857;
 EV  IPR023909; TIGR04024;
 --
-SN  420_MTD
+SN  2
 ID  methylene-5,6,7,8-tetrahydromethanopterin dehydrogenase
 RQ  0
 EV  IPR002844; PF01993;
 --
-SN  420_POX
+SN  3
 ID  PPOX-class probable F420-dependent enzyme
 RQ  0
 EV  IPR019920; TIGR03618;
@@ -61,32 +61,32 @@ EV  IPR019966; TIGR03667;
 EV  IPR019967; TIGR03668;
 EV  IPR024031; TIGR04023;
 --
-SN  420_nit
+SN  4
 ID  PA-824 prodrug activation accessory family
 RQ  0
 EV  IPR004378; TIGR00026;
 --
-SN  F420_DUF
+SN  5
 ID  F420-associated branch of DUF2342 family
 RQ  0
 EV  IPR022454; TIGR03883;
 --
-SN  biosynth
+SN  6
 ID  Biosynthesis of F420
 RQ  1
 EV  GenProp0791;
 --
-SN  mer
+SN  7
 ID  5,10-methylenetetrahydromethanopterin reductase
 RQ  0
 EV  IPR019946; TIGR03555;
 --
-SN  nic_hyd
+SN  8
 ID  hydrogenase, nickel and F420-dependent
 RQ  0
 EV  GenProp0723;
 --
-SN  npdG
+SN  9
 ID  NADPH-dependent F420 reductase
 RQ  0
 EV  IPR010185; TIGR01915;
