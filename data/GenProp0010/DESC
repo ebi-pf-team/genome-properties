@@ -11,13 +11,13 @@ CC  region for TIGR01445 toward the left end of the insert and a hit to
 CC  TIGR01443 toward the right. The region between may show endonuclease
 CC  homology.  
 --
-SN  C-TERM
+SN  1
 ID  intein C-terminal splicing region
 DN  NOT APPLICABLE
 RQ  1
 EV  IPR030934; TIGR01443; sufficient;
 --
-SN  N-TERM
+SN  2
 ID  intein N-terminal splicing region
 DN  NOT APPLICABLE
 RQ  1
