@@ -1,5 +1,5 @@
 AC  GenProp0023
-DE  glyoxylate shunt
+DE  Glyoxylate shunt
 TP  PATHWAY
 AU  Haft D
 TH  0
@@ -22,15 +22,15 @@ CC  in amino acid biosynthesis and other biosynthetic pathways.
 **  correlate. DHH.
 --
 SN  1
-ID  isocitrate lyase
-DN  isocitrate lyase (EC 4.1.3.1)
+ID  Isocitrate lyase
+DN  Isocitrate lyase (EC 4.1.3.1)
 RQ  1
 EV  IPR006254; TIGR01346; sufficient;
 TG  GO:0006097;
 --
 SN  2
-ID  malate synthase
-DN  malate synthase (EC 2.3.3.9)
+ID  Malate synthase
+DN  Malate synthase (EC 2.3.3.9)
 RQ  1
 EV  IPR006252; TIGR01344; sufficient;
 TG  GO:0006097;
