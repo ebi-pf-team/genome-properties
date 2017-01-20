@@ -45,13 +45,12 @@ CC  incorporates pyrrolysine at specific TAG codons.
 **  tRNA in mycoplasma species is identified by the tRNA-finding software
 **  as SelC, but in fact corresponds to a Trp-specific tRNA due to an
 **  alternative genetic code in these species.
+**  SN  4
+**  ID  Selenocysteine-specific tRNA (tRNA-SeC)
+**  DN  NOT APPLICABLE
+**  RQ  1
 --
 SN  1
-ID  Selenocysteine-containing proteins
-DN  NOT APPLICABLE
-RQ  1
---
-SN  2
 ID  Sec-tRNA(Sec) synthesis
 DN  L-seryl-tRNA(Sec) selenium transferase
 RQ  1
@@ -60,19 +59,14 @@ TG  GO:0016260;
 EV  GenProp0797;
 TG  GO:0016260;
 --
-SN  3
+SN  2
 ID  Selenocysteine-specific translation elongation factor
 DN  Selenocysteine-specific translation elongation factor
 RQ  1
 EV  IPR004535; TIGR00475; sufficient;
 TG  GO:0001514;
 --
-SN  4
-ID  Selenocysteine-specific tRNA (tRNA-SeC)
-DN  NOT APPLICABLE
-RQ  1
---
-SN  5
+SN  3
 ID  Selenide, water dikinase
 DN  Selenide, water dikinase
 RQ  1
