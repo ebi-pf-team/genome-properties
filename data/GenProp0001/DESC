@@ -1,5 +1,5 @@
 AC  GenProp0001
-DE  chorismate biosynthesis via shikimate
+DE  Chorismate biosynthesis via shikimate
 TP  PATHWAY
 AU  Haft D
 TH  2
@@ -33,8 +33,8 @@ CC  these may be catalyzed by as of yet uncharacterized enzymes.
 **  but are found in others.
 --
 SN  1
-ID  phospho-2-dehydro-3-deoxyheptonate aldolase
-DN  phospho-2-dehydro-3-deoxyheptonate aldolase (EC 2.5.1.54)
+ID  Phospho-2-dehydro-3-deoxyheptonate aldolase
+DN  Phospho-2-dehydro-3-deoxyheptonate aldolase (EC 2.5.1.54)
 RQ  1
 EV  IPR006219; TIGR00034; sufficient;
 TG  GO:0009423;
@@ -64,8 +64,8 @@ EV  IPR001381; TIGR01093; sufficient;
 TG  GO:0009423;
 --
 SN  4
-ID  shikimate 5-dehydrogenase
-DN  shikimate 5-dehydrogenase (EC  1.1.1.25)
+ID  Shikimate 5-dehydrogenase
+DN  Shikimate 5-dehydrogenase (EC  1.1.1.25)
 RQ  1
 EV  IPR011342; TIGR00507; sufficient;
 TG  GO:0009423;
@@ -73,8 +73,8 @@ EV  IPR010110; TIGR01809; sufficient;
 TG  GO:0009423;
 --
 SN  5
-ID  shikimate kinase
-DN  shikimate kinase (EC  2.7.1.71)
+ID  Shikimate kinase
+DN  Shikimate kinase (EC  2.7.1.71)
 RQ  1
 EV  IPR031322; PF01202; sufficient;
 TG  GO:0009423;
@@ -89,8 +89,8 @@ EV  IPR006264; TIGR01356; sufficient;
 TG  GO:0009423;
 --
 SN  7
-ID  chorismate synthase
-DN  chorismate synthase (EC  4.2.3.5)
+ID  Chorismate synthase
+DN  Chorismate synthase (EC  4.2.3.5)
 RQ  1
 EV  IPR000453; TIGR00033; sufficient;
 TG  GO:0009423;
