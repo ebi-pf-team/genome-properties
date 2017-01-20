@@ -1,5 +1,5 @@
 AC  GenProp0010
-DE  inteins
+DE  Inteins
 TP  SYSTEM
 AU  Haft D
 TH  0
@@ -17,13 +17,13 @@ CC  functional protein. The region between the N- and C-terminal splicing
 CC  regions may show endonuclease homology.
 --
 SN  1
-ID  intein C-terminal splicing region
+ID  Intein C-terminal splicing region
 DN  NOT APPLICABLE
 RQ  1
 EV  IPR030934; TIGR01443; sufficient;
 --
 SN  2
-ID  intein N-terminal splicing region
+ID  Intein N-terminal splicing region
 DN  NOT APPLICABLE
 RQ  1
 EV  IPR006141; TIGR01445; sufficient;
