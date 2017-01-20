@@ -1,5 +1,5 @@
 AC  GenProp0016
-DE  selenocysteine system
+DE  Selenocysteine system
 TP  SYSTEM
 AU  Haft D
 TH  1
@@ -47,7 +47,7 @@ CC  incorporates pyrrolysine at specific TAG codons.
 **  alternative genetic code in these species.
 --
 SN  1
-ID  selenocysteine-containing proteins
+ID  Selenocysteine-containing proteins
 DN  NOT APPLICABLE
 RQ  1
 --
@@ -61,20 +61,20 @@ EV  GenProp0797;
 TG  GO:0016260;
 --
 SN  3
-ID  selenocysteine-specific translation elongation factor
-DN  selenocysteine-specific translation elongation factor
+ID  Selenocysteine-specific translation elongation factor
+DN  Selenocysteine-specific translation elongation factor
 RQ  1
 EV  IPR004535; TIGR00475; sufficient;
 TG  GO:0001514;
 --
 SN  4
-ID  selenocysteine-specific tRNA (tRNA-SeC)
+ID  Selenocysteine-specific tRNA (tRNA-SeC)
 DN  NOT APPLICABLE
 RQ  1
 --
 SN  5
-ID  selenide, water dikinase
-DN  selenide, water dikinase
+ID  Selenide, water dikinase
+DN  Selenide, water dikinase
 RQ  1
 EV  IPR004536; TIGR00476; sufficient;
 TG  GO:0016260;
