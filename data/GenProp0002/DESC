@@ -1,5 +1,5 @@
 AC  GenProp0002
-DE  coenzyme F420 utilization
+DE  Coenzyme F420 utilization
 TP  GUILD
 AU  Haft D
 TH  0
@@ -48,7 +48,7 @@ EV  IPR022378; TIGR03857;
 EV  IPR023909; TIGR04024;
 --
 SN  2
-ID  methylene-5,6,7,8-tetrahydromethanopterin dehydrogenase
+ID  Methylene-5,6,7,8-tetrahydromethanopterin dehydrogenase
 RQ  0
 EV  IPR002844; PF01993;
 --
@@ -82,7 +82,7 @@ RQ  0
 EV  IPR019946; TIGR03555;
 --
 SN  8
-ID  hydrogenase, nickel and F420-dependent
+ID  Hydrogenase, nickel and F420-dependent
 RQ  0
 EV  GenProp0723;
 --
