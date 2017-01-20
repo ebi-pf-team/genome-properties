@@ -1,5 +1,5 @@
 AC  GenProp0014
-DE  polyketide biosynthesis, type I
+DE  Polyketide biosynthesis, type I
 TP  SYSTEM
 AU  Haft D
 TH  0
@@ -37,7 +37,7 @@ CC  to NO.  A NULL value indicates that the genome has not yet been
 CC  evaluated with regard to this property.
 --
 SN  1
-ID  acyl trans, keto synth and thioest domains in the same ORF
+ID  Acyl trans, keto synth and thioest domains in the same ORF
 DN  NOT APPLICABLE
 RQ  1
 //
