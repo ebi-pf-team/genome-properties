@@ -14,12 +14,13 @@ CC  Nitrogen fixation is the conversion of atmospheric nitrogen, N2 (with
 CC  its difficult-to-cleave triple bond) into usable forms such as NH3.
 CC  Conditions should be anaerobic or microaerophilic. The characteristic
 CC  enzyme is nitrogenase, but many other proteins are involved.
-CC  Nitrogenase has an iron protein and MoFe, VFe, or FeFe alpha/beta
-CC  heterotetramer. Expected along with nitrogenase are several accessory
+CC  Nitrogenase is a complex composed of dinitrogenase (MoFe protein), 
+CC  which is a homodimer, and dinitrogenase reductase (Fe protein) that is 
+CC  a heterotetramer. Expected along with nitrogenase are several accessory
 CC  proteins, the transcriptional regulator NifA, a ferredoxin or
 CC  flavodoxin, downstream genes for nitrogen assimilation (NtrC, GlnA),
-CC  genes for protection from oxygen (e.g. leghemoglobin in root nodule
-CC  bacteria).
+CC  and genes for protection from oxygen (e.g. leghemoglobin in root 
+CC  nodule bacteria).
 **  The nifU protein appears to be much more widely distributed than just
 **  among nitrogen fixers, at least as it is now defined by the domain HMMs
 **  PF01592, PF01106  This property does not attempt to deal with the
