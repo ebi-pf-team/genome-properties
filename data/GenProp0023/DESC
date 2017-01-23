@@ -3,6 +3,11 @@ DE  Glyoxylate shunt
 TP  PATHWAY
 AU  Haft D
 TH  0
+RN  [1]
+RM  27090086
+RT  The glyoxylate shunt is essential for desiccation tolerance in C. elegans and budding yeast.
+RA  Erkut C, Gade VR, Laxman S, Kurzchalia TV;
+RL  Elife. 2016; 5.
 DC  Glyoxylate Cycle
 DR  IUBMB; misc; glyox;
 DC  Glyoxylate and Dicarboxylate Metabolism
