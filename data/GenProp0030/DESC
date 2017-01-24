@@ -5,10 +5,10 @@ AU  Haft D
 TH  0
 DC  Glutathione Metabolism
 DR  KEGG; map00480;
-CC  YES  NO  Glutathione (GSH) is gamma-Glu-Cys-Gly, a thiol whose -SH
-CC  group is an important reductant in many systems. Some species use
-CC  thiols other than glutathione: mycothione in Mycobacterium
-CC  tuberculosis, gamma-glutamylcysteine in Halobacterium, trypanothione in
+CC  Glutathione (GSH) is gamma-Glu-Cys-Gly, a thiol whose -SH group is an 
+CC  important reductant in many systems. Some species use thiols other than 
+CC  glutathione: mycothione in Mycobacterium tuberculosis, 
+CC  gamma-glutamylcysteine in Halobacterium, and trypanothione in 
 CC  trypanosomes. Cysteine and CoA may also serve. Glutathione biosynthesis
 CC  is accomplished by two enzymes. First, glutamate--cysteine ligase links
 CC  the gamma-COOH of Glu to the NH2 of Cys. Next, glutathione synthase
