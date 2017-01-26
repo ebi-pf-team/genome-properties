@@ -8,7 +8,7 @@ RM  12966138
 RT  Ancient origin of the tryptophan operon and the dynamics of
 RT  evolutionary change.
 RA  Xie G, Keyhani NO, Bonner CA, Jensen RA;
-RL  Microbiol Mol Biol Rev. 2003;67:303-42, table of contents.
+RL  Microbiol Mol Biol Rev. 2003;67:303-42.
 DC  Tryptophan Biosynthesis
 DR  IUBMB; AminoAcid; Trp;
 DC  Tryptophan metabolism
@@ -16,7 +16,7 @@ DR  KEGG; map00380;
 CC  The essential amino acid tryptophan is synthesized in prokaryotes,
 CC  plants, and fungi via a conserved six step pathway from the branchpoint
 CC  compound chrosimate, a common precursor in the biosynthesis of aromatic
-CC  amino acids [1]. Seven catalytic domains and two alpha/beta subunit
+CC  amino acids. Seven catalytic domains and two alpha/beta subunit 
 CC  complexes comprise this pathway. Individually expressed in some
 CC  organisms, gene fusions encoding single proteins possessing two or more
 CC  of these catalytic domains have been observed for every trp gene.
@@ -28,7 +28,7 @@ CC  the pathway is found split between two separate chromosomes as in
 CC  Rhodobacter sphaeroides. In cyanobacteria, such as Nostoc and Anabaena,
 CC  it is not uncommon to observe paralogous trp genes as part of a larger
 CC  "supraoperon" including other aromatic amino acid synthesizing genes as
-CC  well as their trp counterparts [2].
+CC  well as their trp counterparts [1].
 **  Step 1A, anthranilate synthase component I is tricky because of
 **  similarity to PABA synthase component I.  ECNUM evidence cannot be used
 **  because the ECNUM for step 1A is identical to the ECNUM for step 1B
