@@ -1,5 +1,5 @@
 AC  GenProp0038
-DE  tetrahydrofolate biosynthesis from GTP and PABA
+DE  Tetrahydrofolate biosynthesis from GTP and PABA
 TP  PATHWAY
 AU  Haft D
 TH  2
@@ -33,8 +33,8 @@ EV  IPR001474; TIGR00063; sufficient;
 TG  GO:0046654;
 --
 SN  2
-ID  dihydroneopterin aldolase
-DN  dihydroneopterin aldolase (EC 4.1.2.25)
+ID  Dihydroneopterin aldolase
+DN  Dihydroneopterin aldolase (EC 4.1.2.25)
 RQ  1
 EV  IPR006156; TIGR00525; sufficient;
 TG  GO:0046654;
@@ -47,22 +47,22 @@ EV  IPR000550; TIGR01498; sufficient;
 TG  GO:0046654;
 --
 SN  4
-ID  dihydropteroate synthase
-DN  dihydropteroate synthase (EC 2.5.1.15)
+ID  Dihydropteroate synthase
+DN  Dihydropteroate synthase (EC 2.5.1.15)
 RQ  1
 EV  IPR006390; TIGR01496; sufficient;
 TG  GO:0046654;
 --
 SN  5
-ID  dihydrofolate synthase
-DN  dihydrofolate synthase/folylpolyglutamate synthase (EC 6.3.2.12 6.3.2.17)
+ID  Dihydrofolate synthase
+DN  Dihydrofolate synthase/folylpolyglutamate synthase (EC 6.3.2.12 6.3.2.17)
 RQ  1
 EV  IPR001645; TIGR01499; sufficient;
 TG  GO:0046654;
 --
 SN  6
-ID  dihydrofolate reductase
-DN  dihydrofolate reductase (EC 1.5.1.3)
+ID  Dihydrofolate reductase
+DN  Dihydrofolate reductase (EC 1.5.1.3)
 RQ  1
 EV  IPR001796; PF00186; sufficient;
 TG  GO:0046654;
