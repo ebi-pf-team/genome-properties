@@ -7,22 +7,22 @@ DC  Citric acid cycle
 DR  IUBMB; misc; CAcycle;
 DC  Citrate Cycle (TCA cycle)
 DR  KEGG; map00020;
-CC  YES  NO  PARTIAL  The TCA cycle, also called the Krebs cycle, citrate
-CC  cycle, and tricarboxylic acid cycle, is performed in eukaryotic
-CC  mitochondria and in many prokaryotes. This property refers to the
-CC  forward direction: from oxaloacetate and acetate to citrate, to
-CC  isocitrate, to 2-oxoglutarate, to succinate, to fumarate, to malate, to
-CC  oxaloacetate, with the release of two molecules of CO2. It runs only
-CC  under aerobic conditions. The state YES means the cycle is complete. A
-CC  complete TCA cycle may correlate with use of TCA intermediates as
-CC  biosynthetic precursors and with anaplerotic (TCA cycle
-CC  intermediate-replenishing) reactions such as the glyoxylate shunt. The
-CC  PARTIAL state indicates the pathway does not form a cycle but may
-CC  contain several consecutive steps. The direction of flux through this
-CC  arc is not specified when the state is set and may be in the reductive
-CC  (reverse) direction. The reverse TCA cycle, an alternative to the
-CC  Calvin cycle for carbon dioxide fixation, is covered by a separate
-CC  property.
+CC  The TCA cycle (also known as the Krebs cycle, citrate acid cycle, and 
+CC  tricarboxylic acid cycle) is performed in eukaryotic mitochondria and 
+CC  in many prokaryotes. This property refers to the forward direction: 
+CC  from oxaloacetate and acetate to citrate, to isocitrate, to 
+CC  2-oxoglutarate, to succinate, to fumarate, to malate, to oxaloacetate, 
+CC  with the release of two molecules of CO2. It runs only under aerobic 
+CC  conditions. The state YES means the cycle is complete. A complete TCA 
+CC  cycle may correlate with use of TCA intermediates as biosynthetic 
+CC  precursors and with anaplerotic (TCA cycle intermediate-replenishing) 
+CC  reactions such as the glyoxylate shunt. The state PARTIAL indicates 
+CC  the pathway does not form a full cycle but may contain several 
+CC  consecutive steps. The direction of flux through this arc is not 
+CC  specified when the PARTIAL state is set, and so it may be in the 
+CC  reductive (reverse) direction. The full reverse TCA cycle, an 
+CC  alternative to the Calvin cycle for carbon dioxide fixation, is 
+CC  covered by a separate property.
 **  Same state YES no matter what malate dehydrogenase reduces - different
 **  EC number for differet choices, e.g. NAD vs. quinones.
 --
