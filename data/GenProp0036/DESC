@@ -1,5 +1,5 @@
 AC  GenProp0036
-DE  biotin biosynthesis
+DE  Biotin biosynthesis
 TP  PATHWAY
 AU  Haft D
 TH  1
@@ -35,36 +35,36 @@ EV  IPR004723; TIGR00858; sufficient;
 TG  GO:0009102;
 --
 SN  2
-ID  adenosylmethionine-8-amino-7-oxononanoate aminotransferase
-DN  adenosylmethionine-8-amino-7-oxononanoate aminotransferase (EC 2.6.1.62)
+ID  Adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+DN  Adenosylmethionine-8-amino-7-oxononanoate aminotransferase (EC 2.6.1.62)
 RQ  1
 EV  IPR005815; TIGR00508; sufficient;
 TG  GO:0009102;
 --
 SN  3
-ID  dethiobiotin synthase
-DN  dethiobiotin synthase (EC 6.3.3.3)
+ID  Dethiobiotin synthase
+DN  Dethiobiotin synthase (EC 6.3.3.3)
 RQ  1
 EV  IPR004472; TIGR00347; sufficient;
 TG  GO:0009102;
 --
 SN  4
-ID  biotin synthase
-DN  biotin synthase (EC 2.8.1.6)
+ID  Biotin synthase
+DN  Biotin synthase (EC 2.8.1.6)
 RQ  1
 EV  IPR002684; TIGR00433; sufficient;
 TG  GO:0009102;
 --
 SN  5
 ID  BioC
-DN  biotin biosynthesis protein BioC
+DN  Biotin biosynthesis protein BioC
 RQ  0
 EV  IPR011814; TIGR02072; sufficient;
 TG  GO:0009102;
 --
 SN  6
 ID  BioH protein
-DN  carboxylesterase BioH protein (EC 3.1.1.1)
+DN  Carboxylesterase BioH protein (EC 3.1.1.1)
 RQ  0
 EV  IPR010076; TIGR01738; sufficient;
 TG  GO:0009102;
@@ -77,15 +77,15 @@ EV  IPR003784; PF02632; sufficient;
 TG  GO:0009102;
 --
 SN  8
-ID  biotin ligase domain protein
-DN  biotin-[acetyl-CoA-carboxylase] ligase (EC 6.3.4.15)
+ID  Biotin ligase domain protein
+DN  Biotin-[acetyl-CoA-carboxylase] ligase (EC 6.3.4.15)
 RQ  0
 EV  IPR004408; TIGR00121; sufficient;
 TG  GO:0018065;
 --
 SN  9
-ID  biotin repressor
-DN  biotin operon repressor
+ID  Biotin repressor
+DN  Biotin operon repressor
 RQ  0
 EV  IPR004409; TIGR00122; sufficient;
 TG  GO:0009102;
