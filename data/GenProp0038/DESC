@@ -17,13 +17,13 @@ DR  IUBMB; misc; folate2;
 DC  Folate Biosynthesis
 DR  KEGG; map00790;
 CC  Polyglutamylated tetrahydrofolate is the central cofactor of one-carbon
-CC  metabolism and is biosynthesized from GTP, para-aminobenzoate (from
-CC  chorismate), and glutamate in a six step reaction.[1] The first enzyme,
-CC  GTP cyclohydrolase I, in the biosynthesis of tetrahydrofolate in
-CC  prokaryotes, of tetrahydrobiopterin in vertebrates, and of
-CC  pteridine-containing pigments in insects catalizes dihydroneopterin
-CC  triphosphate from GTP. This pathway is carried out by 6 enzymes, and
-CC  the complete pathway is absent in animals.
+CC  metabolism, and is biosynthesized from GTP, para-aminobenzoate (from
+CC  chorismate), and glutamate in a six step reaction [1]. The first enzyme
+CC  (GTP cyclohydrolase I) catalizes dihydroneopterin triphosphate from GTP 
+CC  in the biosynthesis of tetrahydrofolate in prokaryotes, of 
+CC  tetrahydrobiopterin in vertebrates, and of pteridine-containing pigments 
+CC  in insects. This pathway is carried out by 6 enzymes, the complete 
+CC  pathway being absent in animals.
 --
 SN  1
 ID  GTP cyclohydrolase I
