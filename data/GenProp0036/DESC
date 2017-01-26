@@ -59,8 +59,8 @@ EV  IPR011814; TIGR02072; sufficient;
 TG  GO:0009102;
 --
 SN  6
-ID  bioH protein
-DN  carboxylesterase bioH protein (EC 3.1.1.1)
+ID  BioH protein
+DN  carboxylesterase BioH protein (EC 3.1.1.1)
 RQ  0
 EV  IPR010076; TIGR01738; sufficient;
 TG  GO:0009102;
