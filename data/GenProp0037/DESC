@@ -1,5 +1,5 @@
 AC  GenProp0037
-DE  tryptophan biosynthesis from ribose-5-phosphate
+DE  Tryptophan biosynthesis from ribose-5-phosphate
 TP  PATHWAY
 AU  Haft D
 TH  2
@@ -35,15 +35,15 @@ CC  well as their trp counterparts [2].
 **  {grrrr}.
 --
 SN  1
-ID  ribose-phosphate pyrophosphokinase
-DN  ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+ID  Ribose-phosphate pyrophosphokinase
+DN  Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
 RQ  1
 EV  IPR005946; TIGR01251; sufficient;
 TG  GO:0000162;
 --
 SN  2
-ID  anthranilate synthase component I
-DN  anthranilate synthase component I (EC 4.1.3.27)
+ID  Anthranilate synthase component I
+DN  Anthranilate synthase component I (EC 4.1.3.27)
 RQ  1
 EV  IPR005256; TIGR00564; sufficient;
 TG  GO:0000162;
@@ -55,15 +55,15 @@ EV  IPR010116; TIGR01820; sufficient;
 TG  GO:0000162;
 --
 SN  3
-ID  anthranilate synthase component II
-DN  anthranilate synthase component II (EC 4.1.3.27)
+ID  Anthranilate synthase component II
+DN  Anthranilate synthase component II (EC 4.1.3.27)
 RQ  1
 EV  IPR006221; TIGR00566; sufficient;
 TG  GO:0000162;
 --
 SN  4
-ID  anthranilate phosphoribosyltransferase
-DN  anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+ID  Anthranilate phosphoribosyltransferase
+DN  Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
 RQ  1
 EV  IPR005940; TIGR01245; sufficient;
 TG  GO:0000162;
@@ -78,30 +78,30 @@ EV  IPR010188; TIGR01919; sufficient;
 TG  GO:0000162;
 --
 SN  6
-ID  indole-3-glycerol phosphate synthase
-DN  indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+ID  Indole-3-glycerol phosphate synthase
+DN  Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
 RQ  1
 EV  IPR013798; PF00218; sufficient;
 TG  GO:0000162;
 --
 SN  7
-ID  tryptophan synthase, alpha subunit
-DN  tryptophan synthase, alpha subunit (EC 4.2.1.20)
+ID  Tryptophan synthase, alpha subunit
+DN  Tryptophan synthase, alpha subunit (EC 4.2.1.20)
 RQ  1
 EV  IPR002028; TIGR00262; sufficient;
 TG  GO:0000162;
 --
 SN  8
-ID  tryptophan synthase, beta subunit
-DN  tryptophan synthase, beta subunit (EC 4.2.1.20)
+ID  Tryptophan synthase, beta subunit
+DN  Tryptophan synthase, beta subunit (EC 4.2.1.20)
 RQ  1
 EV  IPR006654; TIGR00263; sufficient;
 TG  GO:0000162;
 EV  IPR006316; TIGR01415; sufficient;
 --
 SN  9
-ID  trp operon repressor
-DN  trp operon repressor
+ID  Trp operon repressor
+DN  Trp operon repressor
 RQ  0
 EV  IPR013335; TIGR01321; sufficient;
 TG  GO:0006355;
