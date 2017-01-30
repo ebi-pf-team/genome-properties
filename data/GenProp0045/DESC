@@ -50,18 +50,18 @@ RQ  1
 EV  IPR003099; PF02153; sufficient;
 TG  GO:0006571;
 --
-SN  2a
+SN  3
 ID  Prephenate dehydratase
 DN  Prephenate dehydratase (EC 4.2.1.51)
 RQ  1
 EV  IPR001086; PF00800; sufficient;
 TG  GO:0006571;
 --
-SN  3
+SN  4
 ID  A transaminase
 RQ  0
 --
-SN  4a
+SN  5
 ID  Phenylalanine-4-hydroxylase
 DN  Phenylalanine-4-hydroxylase (EC 1.14.16.1)
 RQ  1
