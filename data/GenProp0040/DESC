@@ -1,5 +1,5 @@
 AC  GenProp0040
-DE  thiotemplate type non-ribosomal peptide biosynthesis
+DE  Thiotemplate type non-ribosomal peptide biosynthesis
 TP  SYSTEM
 AU  Haft D
 TH  0
@@ -47,7 +47,7 @@ CC  the genome has been manually reviewed.
 **  into the prop_feat_link table
 --
 SN  C+A+T
-ID  condensation, adenylation and thiloation domains in a single ORF
+ID  Condensation, adenylation and thiloation domains in a single ORF
 DN  NOT APPLICABLE
 RQ  1
 //
