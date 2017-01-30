@@ -1,5 +1,5 @@
 AC  GenProp0039
-DE  phenylalanine biosynthesis from chorismate
+DE  Phenylalanine biosynthesis from chorismate
 TP  PATHWAY
 AU  Haft D
 TH  0
@@ -16,8 +16,8 @@ CC  in non-mammals. The YES state for this pathway is therefore indicative
 CC  of the presence of the first two steps.
 --
 SN  1
-ID  chorismate mutase
-DN  chorismate mutase (EC 5.4.99.5)
+ID  Chorismate mutase
+DN  Chorismate mutase (EC 5.4.99.5)
 RQ  1
 EV  IPR010950; TIGR01791; sufficient;
 TG  GO:0009094;
@@ -42,14 +42,14 @@ EV  IPR010958; TIGR01808; sufficient;
 TG  GO:0009094;
 --
 SN  2
-ID  prephenate dehydratase
-DN  prephenate dehydratase (EC 4.2.1.51)
+ID  Prephenate dehydratase
+DN  Prephenate dehydratase (EC 4.2.1.51)
 RQ  1
 EV  IPR001086; PF00800; sufficient;
 TG  GO:0009094;
 --
 SN  3
-ID  a transaminase
+ID  A transaminase
 RQ  0
 EV  IPR004839; PF00155;
 TG  GO:0009094;
