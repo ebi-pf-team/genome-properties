@@ -8,13 +8,12 @@ DR  IUBMB; AminoAcid; PheTyr;
 DC  Phenylalanine Metabolism
 DR  KEGG; map00360;
 CC  The aromatic amino acid phenylalanine is synthesized via a three step
-CC  pathway from chorismate. The first two steps, isomerization of
+CC  pathway from chorismate. The first two steps are, isomerization of
 CC  chorismate to prephenate and dehydration of prephenate to
-CC  phenylpyruvate are modelled by specific HMMs. The third step,
-CC  transamination of phenylpyruvate to form phenylalanine has not been
-CC  ascribed to a specific transaminase in non-mammals. The YES state for
-CC  this pathway is therefore indicative of the presence of the two
-CC  characterized steps.
+CC  phenylpyruvate. The third step, transamination of phenylpyruvate to 
+CC  form phenylalanine has not been ascribed to a specific transaminase 
+CC  in non-mammals. The YES state for this pathway is therefore indicative 
+CC  of the presence of the first two steps.
 --
 SN  1
 ID  chorismate mutase
