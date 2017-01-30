@@ -8,8 +8,8 @@ DR  IUBMB; AminoAcid; PheTyr;
 DC  Tyrosine metabolism
 DR  KEGG; map00350;
 CC  In prokayotes, the aromatic amino acid tyrosine is synthesized via a
-CC  three step pathway from chorismate [1]. Presence of the first two
-CC  reaction steps, isomerization of chorismate to prephenate and
+CC  three step pathway from chorismate. Presence of the first two 
+CC  reaction steps, isomerization of chorismate to prephenate, and
 CC  dehydrogenation of prephenate to 4-hydroxyphenylpyruvate, reflects
 CC  tyrosine biosynthesis by this property. The third reaction step,
 CC  transamination of 4-hydroxyphenylpyruvate to form tyrosine, has not
