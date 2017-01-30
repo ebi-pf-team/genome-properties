@@ -3,6 +3,19 @@ DE  IPP biosynthesis via mevalonate
 TP  PATHWAY
 AU  Haft D
 TH  2
+RN  [1]
+RM  10894743
+RT  Identification, evolution, and essentiality of the mevalonate pathway 
+RT  for isopentenyl diphosphate biosynthesis in gram-positive cocci.
+RA  Wilding EI, Brown JR, Bryant AP, Chalker AF, Holmes DJ, Ingraham KA, 
+RA  Iordanescu S, So CY, Rosenberg M, Gwynn MN;
+RL  J Bacteriol. 2000;182(15):4319-4327.
+RN  [2]
+RM  11042147
+RT  Biosynthesis of isoprenoids via mevalonate in Archaea: the lost   
+RT  pathway.
+RA  Smit A, Mushegian A;
+RL  Genome Res. 2000;10(10):1468-1484.
 DC  Mevalonate Biosynthesis
 DR  IUBMB; terp; MVA;
 DC  Terpenoid biosynthesis
@@ -13,23 +26,21 @@ CC  Isoprenyl pyrophosphate (IPP) is synthesized in eukaryotes, archaea and
 CC  certain bacteria by the mevalonate pathway (which is in contrast to the
 CC  non-mevalonate pathway found more generally in prokaryotes).  The
 CC  bacteria containing this pathway are believed to have acquired it by
-CC  lateral transfer, possibly in more than one independent event [Wilding,
-CC  et. al. (2000) J. Bacteriol. 182, 4319-4327].    Archaea are believed
-CC  to possess a mevalonate pathway for production of IPP, but several of
-CC  the steps are divergent from the known enzymes in eukaryotes and have
-CC  not yet been conclusively identified [PMID: 11042147].    In eukaryotes
-CC  this pathway is highly regulated to control the production of steroids
-CC  which require IPP as a precursor.  IPP is also required for the
-CC  synthesis of menaquinone, ubiquinone, terpenoids, isoprene and
-CC  prenylated proteins.  The pathway begins with synthesis of
-CC  (S)-3-hydroxy-3-methylglutaryl-CoA from acetyl-CoA and acetoacetyl-CoA
-CC  by HMG-CoA synthase and contains 5 steps all of which are included as
-CC  required elements for the assignment of the YES state for this
-CC  property.    Some organisms contain a pathway-specific acetoacetyl-CoA
-CC  synthase which is included in the gene lists for this property but is
-CC  not a required element for the determination of the property state. 
-CC  Other species likely obtain acetoacetyl-CoA from beta-oxidation of
-CC  fatty acids or related processes.
+CC  lateral transfer, possibly in more than one independent event [1]. 
+CC  Archaea are believed to possess a mevalonate pathway for production of 
+CC  IPP, but several of the steps are divergent from the known enzymes in 
+CC  eukaryotes and have not yet been conclusively identified [2]. In 
+CC  eukaryotes this pathway is highly regulated to control the production of 
+CC  steroids which require IPP as a precursor. IPP is also required for the
+CC  synthesis of menaquinone, ubiquinone, terpenoids, isoprene and 
+CC  prenylated proteins. The pathway begins with synthesis of
+CC  (S)-3-hydroxy-3-methylglutaryl-CoA (HMG-CoA) from acetyl-CoA and 
+CC  acetoacetyl-CoA by HMG-CoA synthase. The pathway contains 5 steps all of 
+CC  which are included as required elements in this property. Some organisms 
+CC  contain a pathway-specific acetoacetyl-CoA synthase which is described 
+CC  in this property, but is not a required step. It is likely that other 
+CC  species obtain acetoacetyl-CoA from beta-oxidation of fatty acids or 
+CC  related processes.
 --
 SN  1
 ID  Acetoacetyl-CoA synthase
