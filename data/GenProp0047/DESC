@@ -7,13 +7,13 @@ DC  Mevalonate Biosynthesis
 DR  IUBMB; terp; MVA;
 DC  Terpenoid biosynthesis
 DR  IUBMB; terp; terp;
-DC  Sterol biosynthesis
+DC  Steroid biosynthesis
 DR  KEGG; map00100;
 CC  Isoprenyl pyrophosphate (IPP) is synthesized in eukaryotes, archaea and
 CC  certain bacteria by the mevalonate pathway (which is in contrast to the
 CC  non-mevalonate pathway found more generally in prokaryotes).  The
 CC  bacteria containing this pathway are believed to have acquired it by
-CC  lateral transfer, possible in more than one independent event [Wilding,
+CC  lateral transfer, possibly in more than one independent event [Wilding,
 CC  et. al. (2000) J. Bacteriol. 182, 4319-4327].    Archaea are believed
 CC  to possess a mevalonate pathway for production of IPP, but several of
 CC  the steps are divergent from the known enzymes in eukaryotes and have
@@ -32,13 +32,13 @@ CC  Other species likely obtain acetoacetyl-CoA from beta-oxidation of
 CC  fatty acids or related processes.
 --
 SN  1
-ID  acetoacetyl-CoA synthase
+ID  Acetoacetyl-CoA synthase
 RQ  0
 EV  IPR005914; TIGR01217; sufficient;
 --
 SN  2
-ID  hydroxymethylglutaryl-CoA synthase
-DN  hydroxymethylglutaryl-CoA synthase
+ID  Hydroxymethylglutaryl-CoA synthase
+DN  Hydroxymethylglutaryl-CoA synthase
 RQ  1
 EV  IPR010122; TIGR01833; sufficient;
 TG  GO:0019287;
@@ -48,7 +48,7 @@ EV  IPR004656; TIGR00748; sufficient;
 TG  GO:0019287;
 --
 SN  3
-ID  hydroxymethylglutaryl-CoA reductase
+ID  Hydroxymethylglutaryl-CoA reductase
 RQ  1
 EV  IPR004554; TIGR00533; sufficient;
 TG  GO:0019287;
@@ -56,15 +56,15 @@ EV  IPR004553; TIGR00532; sufficient;
 TG  GO:0019287;
 --
 SN  4
-ID  mevalonate kinase
-DN  mevalonate kinase
+ID  Mevalonate kinase
+DN  Mevalonate kinase
 RQ  1
 EV  IPR006205; TIGR00549; sufficient;
 TG  GO:0019287;
 --
 SN  5
-ID  phosphomevalonate kinase
-DN  phosphomevalonate kinase
+ID  Phosphomevalonate kinase
+DN  Phosphomevalonate kinase
 RQ  1
 EV  IPR016005; TIGR01219; sufficient;
 TG  GO:0019287;
@@ -74,8 +74,8 @@ EV  IPR005919; TIGR01223; sufficient;
 TG  GO:0019287;
 --
 SN  6
-ID  diphosphomevalonate decarboxylase
-DN  diphosphomevalonate decarboxylase
+ID  Diphosphomevalonate decarboxylase
+DN  Diphosphomevalonate decarboxylase
 RQ  1
 EV  IPR029765; TIGR01240; sufficient;
 TG  GO:0019287;
