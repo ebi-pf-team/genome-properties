@@ -31,13 +31,13 @@ CC  nodule bacteria).
 **  and later zeroed without traceable comment, perhaps simply because is
 **  was minimally annotated. I have restored it (provisionally). DHH.
 --
-SN  DUF269
+SN  1
 ID  NifX neighbor TIGR02935/DUF269
 RQ  0
 EV  IPR004952; TIGR02935; sufficient;
 TG  GO:0009399;
 --
-SN  comp_I
+SN  2
 ID  Nitrogenase component I (dinitrogenase)
 RQ  1
 EV  GenProp0633;
@@ -47,99 +47,99 @@ TG  GO:0009399;
 EV  GenProp0632;
 TG  GO:0009399;
 --
-SN  comp_II
+SN  3
 ID  Nitrogenase component II (dinitrogenase reductase)
 DN  Nitrogenase iron protein
 RQ  1
 EV  IPR005977; TIGR01287; sufficient;
 TG  GO:0009399;
 --
-SN  draG
+SN  4
 ID  ADP-ribosyl-[dinitrogen reductase] hydrolase
 RQ  0
 EV  IPR013479; TIGR02662; sufficient;
 TG  GO:0009399;
 --
-SN  draT
+SN  5
 ID  NAD(+)--dinitrogen-reductase ADP-D-ribosyltransferase
 RQ  0
 EV  IPR009953; PF07357; sufficient;
 TG  GO:0009399;
 --
-SN  nifA
+SN  6
 ID  transcriptional regulator
 RQ  0
 EV  IPR010113; TIGR01817; sufficient;
 TG  GO:0006808;
 --
-SN  nifB
+SN  7
 ID  Nitrogenase iron-molybdenum cofactor biosynthesis protein
 DN  Nitrogenase cofactor biosynthesis protein NifB
 RQ  1
 EV  IPR005980; TIGR01290; sufficient;
 TG  GO:0009108;
 --
-SN  nifE
+SN  8
 ID  Nitrogenase iron-molybdenum cofactor biosynthesis protein
 DN  Nitrogenase MoFe cofactor biosynthesis protein NifE
 RQ  1
 EV  IPR005973; TIGR01283; sufficient;
 TG  GO:0009108;
 --
-SN  nifL
+SN  9
 ID  Nitrogen fixation positive activator protein
 RQ  0
 --
-SN  nifM
+SN  10
 ID  Nitrogen fixation protein NifM
 RQ  0
 EV  IPR014282; TIGR02933; sufficient;
 TG  GO:0009399;
 --
-SN  nifN
+SN  11
 ID  Nitrogenase molybdenum-iron protein, NifN subunit
 DN  Nitrogenase molybdenum-iron cofactor biosynthesis protein NifN
 RQ  1
 EV  IPR005975; TIGR01285; sufficient;
 TG  GO:0016612;
 --
-SN  nifQ
+SN  12
 ID  Nitrogen fixation protein NifQ
 DN  Nitrogen fixation protein NifQ
 RQ  0
 EV  IPR006975; PF04891; sufficient;
 --
-SN  nifT
+SN  13
 ID  Probable nitrogen fixation protein NifT
 RQ  0
 EV  IPR009727; TIGR02934; sufficient;
 TG  GO:0009399;
 --
-SN  nifV
+SN  14
 ID  Homocitrate synthase
 DN  Homocitrate synthase
 RQ  0
 EV  IPR013477; TIGR02660; sufficient;
 TG  GO:0009399;
 --
-SN  nifW
+SN  15
 ID  Nitrogen fixation protein
 DN  Nitrogen fixation protein NifW
 RQ  0
 EV  IPR004893; PF03206; sufficient;
 --
-SN  NifX
+SN  16
 ID  Nitrogenase molybdenum-iron cofactor biosynthesis protein
 RQ  0
 EV  IPR013480; TIGR02663; sufficient;
 TG  GO:0009399;
 --
-SN  nifZ
+SN  17
 ID  Iron-sulfur cofactor synthesis protein
 RQ  0
 EV  IPR007415; PF04319; sufficient;
 --
-SN  nif_fdx
+SN  18
 ID  Nif-specific ferredoxin
 RQ  0
 EV  IPR014283; TIGR02936; sufficient;
