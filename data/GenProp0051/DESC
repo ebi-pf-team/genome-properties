@@ -37,59 +37,59 @@ CC  by homology but urease function has been shown experimentally. This
 CC  finding raises the question of what alternative mechanism can enable
 CC  the assembly of functional urease.
 --
-SN  Ni_trans
+SN  1
 ID  Nickel transporter (UreH)
 RQ  0
 EV  IPR004688; TIGR00802; sufficient;
 --
-SN  ureA
+SN  2
 ID  Urease, gamma subunit
 DN  Urease, gamma subunit
 RQ  1
 EV  IPR002026; TIGR00193; sufficient;
 TG  GO:0019627;
 --
-SN  ureB
+SN  3
 ID  Urease, beta subunit
 DN  Urease, beta subunit
 RQ  1
 EV  IPR002019; TIGR00192; sufficient;
 TG  GO:0019627;
 --
-SN  ureC
+SN  4
 ID  Urease, alpha subunit
 DN  Urease, alpha subunit
 RQ  1
 EV  IPR005848; TIGR01792; sufficient;
 --
-SN  ureC-N
+SN  5
 ID  Alpha-subunit, N-terminal domain
 RQ  1
 EV  IPR011612; PF00449; sufficient;
 TG  GO:0019627;
 --
-SN  ureD
+SN  6
 ID  Urease accessory protein UreD
 DN  Urease accessory protein UreD
 RQ  1
 EV  IPR002669; PF01774; sufficient;
 TG  GO:0019627;
 --
-SN  ureE
+SN  7
 ID  Urease accessory protein UreE
 DN  Urease accessory protein UreE
 RQ  1
 EV  IPR004029; PF02814; sufficient;
 TG  GO:0019627;
 --
-SN  ureF
+SN  8
 ID  Urease accessory protein UreF
 DN  Urease accessory protein UreF
 RQ  1
 EV  IPR002639; PF01730; sufficient;
 TG  GO:0019627;
 --
-SN  ureG
+SN  9
 ID  Urease accessory protein UreG
 DN  Urease accessory protein UreG
 RQ  1
