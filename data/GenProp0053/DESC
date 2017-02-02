@@ -8,15 +8,22 @@ RM  11309111
 RT  Biology of type II secretion.
 RA  Sandkvist M;
 RL  Mol Microbiol. 2001;40:271-283.
+RN  [2]
+RM  11726509
+RT  Involvement of the twin-arginine translocation system in protein 
+RT  secretion via the type II pathway.
+RA  Voulhoux R, Ball G, Ize B, Vasil ML, Lazdunski A, Wu LF, Filloux A;
+RL  EMBO J. 2001;20(23):6735-6741.
 DC  Type II secretion system
 DR  KEGG; map03070;
-CC  Type II secretion is also called the main terminal branch of the
-CC  general secretion pathway. Type II secretion systems transport across
-CC  the outer membrane proteins that came unfolded across the inner
-CC  membrane by the general secretory pathway (Sec) and then folded fully
-CC  in the periplasm. One report (PMID:11726509) describes proteins that
-CC  cross the inner membrane by Tat (Sec-independent) protein export rather
-CC  than by Sec prior to type II secretion.
+CC  Type II secretion is also known as the main terminal branch of the
+CC  general secretion pathway. Type II secretion systems transport folded 
+CC  proteins across the outer membrane. These proteins have previously come 
+CC  unfolded across the inner membrane by the general secretory pathway 
+CC  (Sec) and are then fully folded in the periplasm [1]. It has been 
+CC  reported that some proteins may cross the inner membrane by Tat 
+CC  (Sec-independent) protein export rather than by Sec prior to type II 
+CC  secretion [2].
 **  Do not expect unless species has an outer membrane.
 --
 SN  1
