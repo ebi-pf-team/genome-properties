@@ -6,7 +6,7 @@ TH  1
 DC  Phenylalanine and Tyrosine Biosynthesis
 DR  IUBMB; AminoAcid; PheTyr;
 DC  Tyrosine metabolism
-DR  KEGG; map00350;
+DR  KEGG; map00400;
 CC  In prokayotes, the aromatic amino acid tyrosine is synthesized via a
 CC  three step pathway from chorismate. Presence of the first two 
 CC  reaction steps, isomerization of chorismate to prephenate, and
