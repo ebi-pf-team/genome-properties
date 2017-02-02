@@ -3,20 +3,26 @@ DE  IPP biosynthesis via deoxyxylulose
 TP  PATHWAY
 AU  Haft D
 TH  2
+RN  1
+RM  22216001
+RT  Five questions about non-mevalonate isoprenoid biosynthesis.
+RA  Odom AR;
+RL  PLoS Pathogens. 2011; 7(12):e1002323.
 DC  Non-Mevalonate Terpenoid biosynthesis
 DR  IUBMB; terp; nonMVA;
 DC  Sterol biosynthesis
 DR  KEGG; map00100;
-CC  The pathway for the biosynthesis of isoprenyl pyrophosphate (IPP) in
-CC  most bacteria has been variously referred to as the non-mevalonate
-CC  pathway (in contrast to the pathway found in eukaryotes), the
+CC  Isoprenyl pyrophosphate (IPP) is synthesised in most bacteria by 
+CC  the non-mevalonate pathway (also known as the MEP pathway, the 
 CC  glyceraldehyde-3-phosphate(GAP)-pyruvate pathway and the deoxyxylulose
-CC  pathway. This pathway contains six characterized enzymes and may
-CC  involve additional proteins as well.
-**  I added IspG, TIGR00612, but now I'm wondering if this is to make IPP
-**  or use IPP. But it is OK : PMID:11274098 says adding mevalonate fixes
-**  the problem, which means this gene is involved in making IPP, not using
-**  it.
+CC  pathway). This is in contrast to the mevalonate pathway found in 
+CC  eukaryotes. This non-mevalonate pathway contains six characterized 
+CC  enzymes and may involve additional proteins as well. IPP is a basic 
+CC  building block of isoprenoids, also known as terpenoids [1].
+**  (DH) I added IspG, TIGR00612, but now I'm wondering if this is to make 
+**  IPP or use IPP. But it is OK : PMID:11274098 says adding mevalonate 
+**  fixes the problem, which means this gene is involved in making IPP, 
+**  not using it.
 --
 SN  1
 ID  Deoxyxylulose-5-phosphate synthase
