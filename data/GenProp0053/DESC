@@ -19,56 +19,56 @@ CC  cross the inner membrane by Tat (Sec-independent) protein export rather
 CC  than by Sec prior to type II secretion.
 **  Do not expect unless species has an outer membrane.
 --
-SN  GspC
+SN  1
 ID  Type II secretion system protein C
 DN  Type II secretion system protein C
 RQ  0
 EV  IPR001639; TIGR01713; sufficient;
 TG  GO:0015628;
 --
-SN  GspD
+SN  2
 ID  Type II secretion system protein D
 DN  Type II secretion system protein D
 RQ  1
 EV  IPR013356; TIGR02517; sufficient;
 TG  GO:0015628;
 --
-SN  GspE
+SN  3
 ID  Type II secretion system protein E
 DN  Type II secretion system protein E
 RQ  1
 EV  IPR013369; TIGR02533; sufficient;
 TG  GO:0015628;
 --
-SN  GspF
+SN  4
 ID  Type II secretion system protein F
 DN  Type II secretion system protein F
 RQ  1
 EV  IPR011850; TIGR02120; sufficient;
 TG  GO:0015628;
 --
-SN  GspG
+SN  5
 ID  Type II secretion system protein G
 DN  Type II secretion system protein G
 RQ  1
 EV  IPR010054; TIGR01710; sufficient;
 TG  GO:0015628;
 --
-SN  GspH
+SN  6
 ID  Type II secretion system protein H
 DN  Type II secretion system protein H
 RQ  1
 EV  IPR002416; TIGR01708; sufficient;
 TG  GO:0015628;
 --
-SN  GspI
+SN  7
 ID  Type II secretion system protein I
 DN  Type II secretion system protein I
 RQ  1
 EV  IPR010052; TIGR01707; sufficient;
 TG  GO:0015628;
 --
-SN  GspJ
+SN  8
 ID  Type II secretion system protein J
 DN  Type II secretion system protein J
 RQ  1
@@ -77,21 +77,21 @@ TG  GO:0015628;
 EV  IPR010055; PF11612;
 TG  GO:0015628;
 --
-SN  GspK
+SN  9
 ID  Type II secretion system protein K
 DN  Type II secretion system protein K
 RQ  1
 EV  IPR005628; PF03934; sufficient;
 TG  GO:0015628;
 --
-SN  GspL
+SN  10
 ID  Type II secretion system protein L
 DN  Type II secretion system protein L
 RQ  1
 EV  IPR007812; TIGR01709; sufficient;
 TG  GO:0015628;
 --
-SN  GspM
+SN  11
 ID  Type II secretion system protein M
 DN  Type II secretion system protein M
 RQ  0
@@ -102,7 +102,7 @@ TG  GO:0015628;
 EV  IPR007690; PF10741;
 TG  GO:0015628;
 --
-SN  GspN
+SN  12
 ID  Type II secretion system protein N
 DN  Type II secretion system protein N
 RQ  0
