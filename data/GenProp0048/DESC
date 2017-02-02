@@ -19,7 +19,7 @@ CC  involve additional proteins as well.
 **  it.
 --
 SN  1
-ID  deoxyxylulose-5-phosphate synthase
+ID  Deoxyxylulose-5-phosphate synthase
 DN  1-deoxy-D-xylulose-5-phosphate synthase (EC 2.2.1.7)
 RQ  1
 EV  IPR005477; TIGR00204; sufficient;
@@ -32,35 +32,35 @@ RQ  1
 EV  IPR003821; TIGR00243; sufficient;
 TG  GO:0019288;
 --
-SN  ispD
+SN  3
 ID  2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
 DN  2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)
 RQ  1
 EV  IPR001228; TIGR00453; sufficient;
 TG  GO:0019288;
 --
-SN  ispE
+SN  4
 ID  4-diphosphocytidyl-2C-methyl-D-erythritol kinase
 DN  4-diphosphocytidyl-2C-methyl-D-erythritol kinase (EC 2.7.1.148)
 RQ  1
 EV  IPR004424; TIGR00154; sufficient;
 TG  GO:0019288;
 --
-SN  ispF
+SN  5
 ID  2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
 DN  2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
 RQ  1
 EV  IPR003526; TIGR00151; sufficient;
 TG  GO:0019288;
 --
-SN  ispG
+SN  6
 ID  4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
 DN  4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (EC 1.17.4.3)
 RQ  1
 EV  IPR004588; TIGR00612;
 TG  GO:0019288;
 --
-SN  ispH
+SN  7
 ID  4-hydroxy-3-methylbut-2-enyl diphosphate reductase
 DN  4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.1.2)
 RQ  1
