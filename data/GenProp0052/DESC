@@ -37,7 +37,7 @@ CC  III pilus is observed and required for effector delivery. Gene
 CC  nomeclature transposes across genomes: ysc in Yersinia, bsc in
 CC  Bordetella, esc in enteropathogenic E. coli, hrc in plant pathogens,
 CC  etc., so that Ysc, EscD, HrcD, etc. are homologous and functionally
-CC  analogous [1,2].
+CC  analogous [1,2,3].
 **  It looks like there is a type III secretion system in Desulfovibrio
 **  vulgaris.  THIS NEEDS SOME EXPLANATION.  Eleven proteins are said to be
 **  well-conserved across type III systems: YscC,D,J,L,N,Q,R,S,T,U,V.  HRP
