@@ -1,5 +1,5 @@
 AC  GenProp0052
-DE  type III secretion
+DE  Type III secretion
 TP  SYSTEM
 AU  Haft D
 TH  0
@@ -123,19 +123,19 @@ EV  IPR006972; PF04888; sufficient;
 TG  GO:0030254;
 --
 SN  SycH
-ID  type III secretion chaperone SycH
+ID  Type III secretion chaperone SycH
 RQ  0
 EV  IPR010261; PF05932; sufficient;
 TG  GO:0030254;
 --
 SN  SycN
-ID  type III secretion chaperone SycN
+ID  Type III secretion chaperone SycN
 RQ  0
 EV  IPR012673; TIGR02503; sufficient;
 TG  GO:0030254;
 --
 SN  TyeA
-ID  type III secretion effector delivery regulator, TyeA family
+ID  Type III secretion effector delivery regulator, TyeA family
 RQ  1
 EV  IPR013351; TIGR02511; sufficient;
 TG  GO:0030254;
@@ -147,19 +147,19 @@ EV  IPR008898; PF05844; sufficient;
 TG  GO:0030254;
 --
 SN  ndl_len
-ID  needle length determinant
+ID  Needle length determinant
 RQ  0
 EV  IPR013354; TIGR02514; sufficient;
 TG  GO:0030254;
 --
 SN  needle
-ID  type III secretion system needle protein
+ID  Type III secretion system needle protein
 RQ  1
 EV  IPR011841; TIGR02105; sufficient;
 TG  GO:0030254;
 --
 SN  operon
-ID  in operon: flanked by, co-oriented and tight with evidence
+ID  In operon: flanked by, co-oriented and tight with evidence
 RQ  0
 --
 SN  regulato
@@ -169,7 +169,7 @@ EV  IPRXXXX; PF00165;
 EV  IPRXXXX; PF00816;
 --
 SN  secretin
-ID  secretin, type III associated
+ID  Secretin, type III associated
 RQ  0
 EV  IPRXXXX; PF03958;
 TG  GO:0030254;
@@ -179,56 +179,56 @@ ID  Narrow clade specific components
 RQ  0
 --
 SN  target
-ID  secreted proteins, effectors
+ID  Secreted proteins, effectors
 RQ  0
 EV  IPRXXXX; PF03518; sufficient;
 EV  IPR005427; TIGR02101; sufficient;
 EV  IPR013386; TIGR02553; sufficient;
 --
 SN  y_B
-ID  type III secretion system chaperone, YscB family
+ID  Type III secretion system chaperone, YscB family
 RQ  0
 EV  IPR013353; TIGR02513; sufficient;
 TG  GO:0030254;
 --
 SN  y_C_h_C
-ID  type III secretion outer membrane pore, YscC/HrcC family
+ID  Type III secretion outer membrane pore, YscC/HrcC family
 RQ  1
 EV  IPR003522; TIGR02516; sufficient;
 TG  GO:0030254;
 --
 SN  y_D_h_Q
-ID  type III secretion apparatus protein, YscD/HrpQ family
+ID  Type III secretion apparatus protein, YscD/HrpQ family
 RQ  1
 EV  IPR012843; TIGR02500; sufficient;
 TG  GO:0030254;
 --
 SN  y_E
-ID  type III secretion system protein, YseE family
+ID  Type III secretion system protein, YseE family
 RQ  0
 EV  IPR012671; TIGR02501; sufficient;
 TG  GO:0030254;
 --
 SN  y_G
-ID  type III secretion protein, YscG family
+ID  Type III secretion protein, YscG family
 RQ  0
 EV  IPR013348; TIGR02508; sufficient;
 TG  GO:0030254;
 --
 SN  y_H
-ID  type III secretion protein YopR(YscH)
+ID  Type III secretion protein YopR(YscH)
 RQ  0
 EV  IPR013349; TIGR02509; sufficient;
 TG  GO:0030254;
 --
 SN  y_I_h_B
-ID  type III secretion apparatus protein, YscI/HrpB
+ID  Type III secretion apparatus protein, YscI/HrpB
 RQ  1
 EV  IPR012670; TIGR02497; sufficient;
 TG  GO:0030254;
 --
 SN  y_J_h_J
-ID  type III apparatus lipoprotein,
+ID  Type III apparatus lipoprotein,
 RQ  1
 EV  IPR003282; TIGR02544; sufficient;
 TG  GO:0030254;
@@ -240,19 +240,19 @@ EV  IPR009510; PF06578; sufficient;
 TG  GO:0030254;
 --
 SN  y_L_h_E
-ID  type III secretion apparatus protein, HrpE/YscL family
+ID  Type III secretion apparatus protein, HrpE/YscL family
 RQ  1
 EV  IPR012842; TIGR02499; sufficient;
 TG  GO:0030254;
 --
 SN  y_N_ATP
-ID  type III secretion ATPase
+ID  Type III secretion ATPase
 RQ  1
 EV  IPR013380; TIGR02546; sufficient;
 TG  GO:0030254;
 --
 SN  y_O
-ID  type III secretion protein YscO
+ID  Type III secretion protein YscO
 RQ  0
 EV  IPR009929; PF07321; sufficient;
 TG  GO:0030254;
@@ -264,7 +264,7 @@ EV  IPR013385; TIGR02551; sufficient;
 TG  GO:0030254;
 --
 SN  y_R_h_R
-ID  type III secretion apparatus protein, YscR/HrcR family
+ID  Type III secretion apparatus protein, YscR/HrcR family
 RQ  1
 EV  IPR005773; TIGR01102; sufficient;
 TG  GO:0030254;
@@ -276,31 +276,31 @@ EV  IPR006306; TIGR01403; sufficient;
 TG  GO:0030254;
 --
 SN  y_T_h_X
-ID  type III secretion protein, YscT/HrpX family
+ID  Type III secretion protein, YscT/HrpX family
 RQ  1
 EV  IPR006304; TIGR01401; sufficient;
 TG  GO:0030254;
 --
 SN  y_U_h_Y
-ID  type III secretion protein, YscU/HrpY family
+ID  Type III secretion protein, YscU/HrpY family
 RQ  1
 EV  IPR006307; TIGR01404; sufficient;
 TG  GO:0030254;
 --
 SN  y_V
-ID  type III secretion protein, HrcV
+ID  Type III secretion protein, HrcV
 RQ  1
 EV  IPR006302; TIGR01399; sufficient;
 TG  GO:0030254;
 --
 SN  y_W
-ID  type III secretion chaperone YscW
+ID  Type III secretion chaperone YscW
 RQ  0
 EV  IPR013400; TIGR02567; sufficient;
 TG  GO:0030254;
 --
 SN  y_X
-ID  type III secretion protein, YscX family
+ID  Type III secretion protein, YscX family
 RQ  0
 EV  IPR012672; TIGR02502; sufficient;
 TG  GO:0030254;
