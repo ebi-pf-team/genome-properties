@@ -17,21 +17,29 @@ RT  2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate as a
 RT  novel intermediate and re-evaluation of MenD activity.
 RA  Jiang M, Cao Y, Guo ZF, Chen M, Chen X, Guo Z;
 RL  Biochemistry. 2007;46:10979-10989.
+RN  [3]
+RM  18801996
+RT  An alternative menaquinone biosynthetic pathway operating in 
+RT  microorganisms.
+RA  Hiratsuka T, Furihata K, Ishikawa J, Yamashita H, Itoh N, Seto H, 
+RA  Dairi T;
+RL  Science. 2008;321(5896):1670-1673.
 DC  Ubiquinone and other terpenoid-quinone biosynthesis
 DR  KEGG; map00130;
 CC  Menaquinone (also known as Vitamin K2) is one of the quinone cofactors
 CC  which play an essential role in hydrogen transfer reactions,
 CC  particularly during anaerobic respiration. Menaquinone in E. coli and
 CC  various other bacteria is synthesized from chorismate, 2-oxoglutarate,
-CC  polyprenyl-pyrophosphate and S-adenosylmethionine. A very similar
-CC  molecule (phylloquinone, vitamin K1) is found in cyanobacteria and
-CC  plants which contains a shorter isoprenoid (phytyl) chain which in
-CC  which three of the four double bonds are reduced. In animals, both
-CC  vitamins K1 and K2 act as cofactors for gamma-carboxylation of
-CC  glutamate (Glu -> Gla) which is critical for coagulation factors. Note
-CC  that an alternative pathway to menaquinone biosynthesis operates in
-CC  Helicobacter pylori, Campylobacter jejuni, Streptomyces, and other
-CC  species (see PMID:18801996). That pathway is not described here.
+CC  polyprenyl-pyrophosphate and S-adenosylmethionine via SEPHCHC and 
+CC  SHCHC intermediates [1,2]. A very similar molecule (phylloquinone, 
+CC  vitamin K1) is found in cyanobacteria and plants which contains a 
+CC  shorter isoprenoid (phytyl) chain in which three of the four double 
+CC  bonds are reduced. In animals, both vitamins K1 and K2 act as 
+CC  cofactors for gamma-carboxylation of glutamate (Glu -> Gla) which is 
+CC  critical for coagulation factors. Note that an alternative pathway for 
+CC  menaquinone biosynthesis (not described by this property) operates in 
+CC  Helicobacter pylori, Campylobacter jejuni, Streptomyces, and other 
+CC  species [3].
 --
 SN  1
 ID  Isochorismate synthase
