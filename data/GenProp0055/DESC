@@ -22,19 +22,19 @@ CC  R, and Q.
 **  frequently include some R-3-hydroxyvalerate and other hydroxy-acids,
 **  and thus they are often referred to as polyhydroxyalkanoates (PHA). 
 --
-SN  2
+SN  1
 ID  Acetoacetyl-CoA reductase
 DN  Acetoacetyl-CoA reductase
 RQ  1
 EV  IPR011283; TIGR01829; sufficient;
 --
-SN  3-HB-DH
+SN  2
 ID  3-hydroxybutyrate dehydrogenase
 DN  NOT APPLICABLE
 RQ  0
 EV  IPR011294; TIGR01963; sufficient;
 --
-SN  PHA_syn
+SN  3
 ID  Poly(R)-hydroxyalkanoic acid synthase
 DN  NOT APPLICABLE
 RQ  1
@@ -43,7 +43,7 @@ EV  IPR011287; TIGR01839; sufficient;
 EV  IPR010125; TIGR01836; sufficient;
 EV  IPR010123; TIGR01834; sufficient;
 --
-SN  depolase
+SN  4
 ID  Esterase, PHB depolymerase family, or polyhydroxyalkanoate depolymerase, intracellular
 DN  NOT APPLICABLE
 RQ  1
@@ -52,7 +52,7 @@ EV  IPR010915; TIGR01849; sufficient;
 EV  IPR011942; TIGR02240; sufficient;
 TG  GO:0006112;
 --
-SN  gransurf
+SN  5
 ID  Phasin family protein or poly(hydroxyalcanoate) granule-associated protein
 DN  NOT APPLICABLE
 RQ  1
@@ -63,31 +63,31 @@ TG  GO:0006112;
 EV  IPR014176; TIGR02809; sufficient;
 TG  GO:0006112;
 --
-SN  grn_prd
+SN  6
 ID  Predicted granule component
 RQ  0
 EV  IPR013433; TIGR02610; sufficient;
 TG  GO:0006112;
 --
-SN  incl_P
+SN  7
 ID  PHA inclusion probable storage protein PhaP
 RQ  0
 EV  IPR011728; TIGR02131; sufficient;
 TG  GO:0006112;
 --
-SN  reg_sub
+SN  8
 ID  Regulatory subunit of PHA synthase
 RQ  0
 EV  IPR011729; TIGR02132; sufficient;
 TG  GO:0006112;
 --
-SN  repress
+SN  9
 ID  Polyhydroxyalkanoate synthesis repressor PhaR
 DN  Polyhydroxyalkanoate synthesis repressor PhaR
 RQ  1
 EV  IPR010134; TIGR01848; sufficient;
 --
-SN  thiolase
+SN  10
 ID  Thiolase, N-terminal domain
 RQ  0
 //
