@@ -15,12 +15,12 @@ DR  KEGG; map00760;
 CC  Nicotinamide adenine dinucleotide (NAD+) and nicotinamide adenine
 CC  dinucleotide phosphate (NADP+) also known as pyridine nucleotides, are
 CC  cofactors involved in numerous redox reactions through reversible
-CC  reactions to their reduced forms NADH and NADPH.      In bacteria, NAD+
-CC  is synthesized in a 5 step reaction (NadABCDE) from L-aspartate and
-CC  NADP+ is made from NAD+ by the action of NAD kinase.    In mammals, an
+CC  reactions to their reduced forms NADH and NADPH. In bacteria, NAD+ is 
+CC  synthesized in a 5 step reaction (NadABCDE) from L-aspartate, and NADP+ 
+CC  is made from NAD+ by the action of NAD kinase [1]. In mammals, an 
 CC  altenative pathway exists in which the intermediate quinolinate is made
-CC  from L-tryptophan.    NAD+ may also be recycled from nicotinamide after
-CC  nucleosidease cleavage, or synthesized from imported nicotinate
+CC  from L-tryptophan. NAD+ may also be recycled from nicotinamide after
+CC  nucleosidease cleavage, or synthesized from imported nicotinate 
 CC  (niacin).
 --
 SN  1
@@ -33,22 +33,22 @@ EV  IPR022487; TIGR03855;
 TG  GO:0009435;
 --
 SN  2
-ID  quinolinate synthetase complex, A subunit
-DN  quinolinate synthetase A
+ID  Quinolinate synthetase complex, A subunit
+DN  Quinolinate synthetase A
 RQ  1
 EV  IPR003473; TIGR00550; sufficient;
 TG  GO:0009435;
 --
 SN  3
-ID  nicotinate-nucleotide pyrophosphorylase
-DN  nicotinate-nucleotide pyrophosphorylase (EC 2.4.2.19)
+ID  Nicotinate-nucleotide pyrophosphorylase
+DN  Nicotinate-nucleotide pyrophosphorylase (EC 2.4.2.19)
 RQ  1
 EV  IPR004393; TIGR00078; sufficient;
 TG  GO:0009435;
 --
 SN  4
-ID  nicotinate nucleotide adenylyltransferase
-DN  nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+ID  Nicotinate nucleotide adenylyltransferase
+DN  Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
 RQ  1
 EV  IPR005248; TIGR00482; sufficient;
 TG  GO:0009435;
