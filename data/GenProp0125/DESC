@@ -66,7 +66,7 @@ TG  GO:0009089;
 --
 SN  DHPR
 ID  dihydrodipicolinate reductase
-DN  dihydrodipicolinate reductase (EC 1.3.1.26)
+DN  dihydrodipicolinate reductase (EC 1.17.1.8)
 RQ  1
 EV  IPR023940; TIGR00036; sufficient;
 TG  GO:0009089;
@@ -75,7 +75,7 @@ TG  GO:0009089;
 --
 SN  DHPS
 ID  dihydrodipicolinate synthase
-DN  dihydrodipicolinate synthase (EC 4.2.1.52)
+DN  dihydrodipicolinate synthase (EC 4.3.3.7)
 RQ  1
 EV  IPR005263; TIGR00674; sufficient;
 TG  GO:0009089;
