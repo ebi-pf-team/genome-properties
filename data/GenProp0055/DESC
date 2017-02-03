@@ -1,5 +1,5 @@
 AC  GenProp0055
-DE  polyhydroxyalkanoic acids
+DE  Polyhydroxyalkanoic acids
 TP  SYSTEM
 AU  Haft D
 TH  0
@@ -23,8 +23,8 @@ CC  R, and Q.
 **  and thus they are often referred to as polyhydroxyalkanoates (PHA). 
 --
 SN  2
-ID  acetoacetyl-CoA reductase
-DN  acetoacetyl-CoA reductase
+ID  Acetoacetyl-CoA reductase
+DN  Acetoacetyl-CoA reductase
 RQ  1
 EV  IPR011283; TIGR01829; sufficient;
 --
@@ -35,7 +35,7 @@ RQ  0
 EV  IPR011294; TIGR01963; sufficient;
 --
 SN  PHA_syn
-ID  poly(R)-hydroxyalkanoic acid synthase
+ID  Poly(R)-hydroxyalkanoic acid synthase
 DN  NOT APPLICABLE
 RQ  1
 EV  IPR010963; TIGR01838; sufficient;
@@ -44,7 +44,7 @@ EV  IPR010125; TIGR01836; sufficient;
 EV  IPR010123; TIGR01834; sufficient;
 --
 SN  depolase
-ID  esterase, PHB depolymerase family, or polyhydroxyalkanoate depolymerase, intracellular
+ID  Esterase, PHB depolymerase family, or polyhydroxyalkanoate depolymerase, intracellular
 DN  NOT APPLICABLE
 RQ  1
 EV  IPR010126; TIGR01840; sufficient;
@@ -53,7 +53,7 @@ EV  IPR011942; TIGR02240; sufficient;
 TG  GO:0006112;
 --
 SN  gransurf
-ID  phasin family protein or poly(hydroxyalcanoate) granule-associated protein
+ID  Phasin family protein or poly(hydroxyalcanoate) granule-associated protein
 DN  NOT APPLICABLE
 RQ  1
 EV  IPR010127; TIGR01841; sufficient;
@@ -64,7 +64,7 @@ EV  IPR014176; TIGR02809; sufficient;
 TG  GO:0006112;
 --
 SN  grn_prd
-ID  predicted granule component
+ID  Predicted granule component
 RQ  0
 EV  IPR013433; TIGR02610; sufficient;
 TG  GO:0006112;
@@ -76,14 +76,14 @@ EV  IPR011728; TIGR02131; sufficient;
 TG  GO:0006112;
 --
 SN  reg_sub
-ID  regulatory subunit of PHA synthase
+ID  Regulatory subunit of PHA synthase
 RQ  0
 EV  IPR011729; TIGR02132; sufficient;
 TG  GO:0006112;
 --
 SN  repress
-ID  polyhydroxyalkanoate synthesis repressor PhaR
-DN  polyhydroxyalkanoate synthesis repressor PhaR
+ID  Polyhydroxyalkanoate synthesis repressor PhaR
+DN  Polyhydroxyalkanoate synthesis repressor PhaR
 RQ  1
 EV  IPR010134; TIGR01848; sufficient;
 --
