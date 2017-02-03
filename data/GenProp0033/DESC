@@ -86,7 +86,7 @@ TG  GO:0006099;
 --
 SN  7
 ID  Succinate dehydrogenase, flavoprotein subunit
-DN  Succinate dehydrogenase, flavoprotein subunit (EC 1.3.99.1)
+DN  Succinate dehydrogenase, flavoprotein subunit (EC 1.3.5.1)
 RQ  1
 EV  IPR011281; TIGR01816; sufficient;
 TG  GO:0006099;
@@ -95,14 +95,14 @@ TG  GO:0006099;
 --
 SN  8
 ID  Succinate dehydrogenase, iron-sulfur protein
-DN  Succinate dehydrogenase, iron-sulfur subunit (EC 1.3.99.1)
+DN  Succinate dehydrogenase, iron-sulfur subunit (EC 1.3.5.1)
 RQ  1
 EV  IPR004489; TIGR00384; sufficient;
 TG  GO:0006099;
 --
 SN  9
 ID  Succinate dehydrogenase, cytochrome b subunit
-DN  Succinate dehydrogenase, cytochrome b subunit (EC 1.3.99.1)
+DN  Succinate dehydrogenase, cytochrome b subunit (EC 1.3.5.1)
 RQ  1
 EV  IPR014314; TIGR02970; sufficient;
 TG  GO:0006099;
@@ -110,7 +110,7 @@ EV  IPR011138; TIGR02046; sufficient;
 --
 SN  10
 ID  Succinate dehydrogenase, hydrophobic membrane anchor
-DN  Succinate dehydrogenase, hydrophobic membrane anchor protein (EC 1.3.99.1)
+DN  Succinate dehydrogenase, hydrophobic membrane anchor protein (EC 1.3.5.1)
 RQ  0
 EV  IPR014312; TIGR02968; sufficient;
 TG  GO:0006099;
