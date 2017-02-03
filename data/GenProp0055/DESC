@@ -3,24 +3,31 @@ DE  Polyhydroxyalkanoic acids
 TP  SYSTEM
 AU  Haft D
 TH  0
+RN  [1]
+RM  23702844
+RT  The role of short-chain conjugated poly-(R)-3-hydroxybutyrate (cPHB) 
+RT  in protein folding.
+RA  Reusch RN;
+RL  Int J Mol Sci. 2013;14(6):10727-10748.
 CC  Polyhydroxyalkanoic acids (PHAs) are high molecular weight carbon and
-CC  energy storage molecules, linear polymers in which the monomeric units
-CC  have the form -[O-CHR(CH2)xCO]-. The aliphatic polyesters occur in
-CC  inclusion bodies in various bacteria and archaea. The most common form
-CC  is polyhydroxybutyric acid, -[0-CHCH3-CH2-CO]-. Typical biosynthetic
-CC  enzymes include ketothiolases, reductases, and PHA synthases.
-CC  Additional proteins may include small PHA inclusion body-associated
-CC  proteins. Typical gene symbols include pha (phb for
+CC  energy storage molecules. They exist as linear polymers in which the 
+CC  monomeric units have the form -[O-CHR(CH2)xCO]-. The aliphatic 
+CC  polyesters occur in inclusion bodies in various bacteria and archaea. 
+CC  The most common form is polyhydroxybutyric acid, -[0-CHCH3-CH2-CO]-. 
+CC  Typical biosynthetic enzymes include ketothiolases, reductases, and 
+CC  PHA synthases. Additional proteins may include small PHA inclusion 
+CC  body-associated proteins. Typical gene symbols include pha (phb for
 CC  polyhydroxybutyrate) A (ketothiolase), B (reductase), C (synthase), Z
 CC  (depolymerase), E (second subunit of heterodimeric-type PHA synthase),
-CC  R, and Q.
-**  Note that PMID:23702844 says all proks and euks make PHB of
-**  medium-chain length (~100-200 residues), in lipid bilayers, and also
-**  PHB of short-chain length (<12 residues) which is conjugated to
-**  proteins. This property is about very high molecular weight (10,000 to
-**  >1,000,000 residues) in granular deposits. Same paper says granules
-**  frequently include some R-3-hydroxyvalerate and other hydroxy-acids,
-**  and thus they are often referred to as polyhydroxyalkanoates (PHA). 
+CC  R, and Q. It has been reported that all prokaryotes and eukaryotes 
+CC  synthesize PHB of medium-chain length (~100–200 residues) thats is 
+CC  found in lipid bilayers and vesicles, and PHB of short-chain length 
+CC  (<12 residues) which is conjugated to proteins in membranes and 
+CC  organelles [1]. However, this property refers to very high molecular 
+CC  weight (10,000 to >1,000,000 residues) PHAs in granular deposits.
+**  Same paper says granules frequently include some R-3-hydroxyvalerate 
+**  and other hydroxy-acids, and thus they are often referred to as 
+**  polyhydroxyalkanoates (PHA). 
 --
 SN  1
 ID  Acetoacetyl-CoA reductase
