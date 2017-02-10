@@ -29,9 +29,10 @@ CC  fungi, and plants. The early stage of this pathway takes a ribose and
 CC  transforms it into imadiazoleglycerol phosphate. Once the imadiazole
 CC  ring is formed, glutamate donates the a-amino group and the newly
 CC  formed amine is oxidized to histidine [1]. In Salmonella typhimurium and
-CC  Escherichia coli, this pathway is carried out by the eight genes in this
-CC  operon. hisI, hisB, and hisD are bifunctional enzymes, hisF and hisH 
-CC  form a monofunctional dimer, and the rest are monofunctional enzymes [1].
+CC  Escherichia coli, this pathway is carried out by the eight genes in the 
+CC  'his' operon. hisI, hisB, and hisD are bifunctional enzymes, hisF and 
+CC  hisH form a monofunctional dimer, and the rest are monofunctional 
+CC  enzymes [1].
 --
 SN  0:1
 ID  Ribose-phosphate pyrophosphokinase
