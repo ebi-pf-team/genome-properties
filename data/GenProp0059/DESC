@@ -3,23 +3,30 @@ DE  Type I secretion
 TP  SYSTEM
 AU  Haft D
 TH  1
-CC  A type I protein secretion system is an ABC transporter. The system is
-CC  Sec-independent. ATP drives the transport of target proteins across
-CC  both inner and outer membranes and into the extracellular medium. There
-CC  is no cleaved N-terminal signal sequence. Instead, the type I system
-CC  recognizes C-terminal information, localized to the last 50 amino acids
-CC  or less. Characteristic sequence found nearby, such as repeats of the
-CC  motif GGXGXDXXX in Erwinia, may play a supporting role, possibly for
-CC  chaperoning the rest of the protein rather than for recognition of the
-CC  export signal (reference PMID:11157948).  This property does NOT cover
-CC  ABC transporter-mediated processing and secretion of class II
-CC  bacteriocins of certain Gram-positive bacteria, because of the
-CC  following differences: there is no outer membrane to traverse and no
-CC  TolC homolog. N-terminal signal recognition and proteolytic processing
-CC  (at a GG motif) occurs together with transport. Finally, the secreted
-CC  peptides are small, and lack the GGXGXDXXX motif repeated in larger
-CC  proteins of class I secretion systems.
-**  examples:  Erwinia chrysanthemi degradative enzymes (prtDEF
+RN  [1]
+RM  11157948
+RT  Subset of hybrid eukaryotic proteins is exported by the type I 
+RT  secretion system of Erwinia chrysanthemi.
+RA  Palacios JL, Zaror I, Martínez P, Uribe F, Opazo P, Socías T, Gidekel 
+RA  M, Venegas A.  
+RL  J Bacteriol. 2001;183(4):1346-1358.
+CC  A type I protein secretion system is an ABC (ATP-binding cassette) 
+CC  transporter. The system is Sec-independent. ATP drives the transport of 
+CC  target proteins across both inner and outer membranes and into the 
+CC  extracellular medium. There is no cleaved N-terminal signal sequence. 
+CC  Instead, the type I system recognizes C-terminal information, localized 
+CC  to the last 50 amino acids or less. Characteristic sequence found 
+CC  nearby, such as repeats of the motif GGXGXDXXX in Erwinia, may play a 
+CC  supporting role, possibly for chaperoning the rest of the protein rather 
+CC  than for recognition of the export signal [1].  This property does NOT 
+CC  cover ABC transporter-mediated processing and secretion of class II 
+CC  bacteriocins of certain Gram-positive bacteria. 
+**  This is because of the followingg differences: there is no outer 
+**  membrane to traverse and no TolC homolog. N-terminal signal recognition 
+**  and proteolytic processing (at a GG motif) occurs together with 
+**  transport. Finally, the secreted peptides are small, and lack the 
+**  GGXGXDXXX motif repeated in larger proteins of class I secretion 
+**  systems. examples:  Erwinia chrysanthemi degradative enzymes (prtDEF
 **  transporter, prtG a target).  E. coli alpha-haemolysin secretion: hlyB,
 **  hlyD, tolC  (tolC may be multifunctional, completing type I secretion
 **  and other functions).
