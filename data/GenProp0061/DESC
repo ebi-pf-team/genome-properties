@@ -3,6 +3,12 @@ DE  Lipoprotein system lgt/lsp/lnt
 TP  SYSTEM
 AU  Haft D
 TH  0
+RN  [1]
+RM  8051048
+RT  Lipid modification of bacterial prolipoprotein. Transfer of 
+RT  diacylglyceryl moiety from phosphatidylglycerol.
+RA  Sankaran K, Wu HC;
+RL  J Biol Chem. 1994;269(31):19701-6.
 CC  Some membrane proteins are anchored to the membrane by a lipid moiety 
 CC  attached to a modified N-terminus rather than by a transmembrane 
 CC  helix. This property describes such a system. The system starts with 
@@ -10,7 +16,7 @@ CC  the modification of the Cys sulfhydryl of the conserved lipobox motif
 CC  L-X-G/A-C by prolipoprotein diacylglyceryl transferase (Lgt). 
 CC  Prolipoprotein signal peptidase (Lsp) then cleaves the lipoprotein 
 CC  signal sequence leaving Cys as the new N-terminal residue. Finally 
-CC  the Cys NH2 is acylated by apolipoprotein N-acyltransferase (Lnt). 
+CC  the Cys NH2 is acylated by apolipoprotein N-acyltransferase (Lnt) [1]. 
 --
 SN  1
 ID  Prolipoprotein diacylglyceryl transferase
