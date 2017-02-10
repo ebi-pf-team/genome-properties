@@ -26,16 +26,16 @@ EV  IPR001640; TIGR00544; sufficient;
 TG  GO:0042158;
 --
 SN  2
-ID  Apolipoprotein N-acyltransferase
-DN  Apolipoprotein N-acyltransferase (EC:2.3.1.-)
-RQ  0
-EV  IPR004563; TIGR00546; sufficient;
-TG  GO:0042158;
---
-SN  3
 ID  Prolipoprotein signal peptidase
 DN  Signal peptidase II (EC:3.4.23.36)
 RQ  1
 EV  IPR001872; TIGR00077; sufficient;
+TG  GO:0042158;
+--
+SN  3
+ID  Apolipoprotein N-acyltransferase
+DN  Apolipoprotein N-acyltransferase (EC:2.3.1.-)
+RQ  0
+EV  IPR004563; TIGR00546; sufficient;
 TG  GO:0042158;
 //
