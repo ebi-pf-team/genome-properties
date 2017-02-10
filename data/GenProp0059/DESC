@@ -24,7 +24,7 @@ CC  proteins of class I secretion systems.
 **  hlyD, tolC  (tolC may be multifunctional, completing type I secretion
 **  and other functions).
 --
-SN  ATPase
+SN  1
 ID  Type I secretion ATPase
 RQ  1
 EV  IPR010128; TIGR01842; sufficient;
@@ -34,20 +34,20 @@ TG  GO:0030253;
 EV  IPR017750; TIGR03375;
 TG  GO:0030253;
 --
-SN  MFP
+SN  2
 ID  Type I secretion membrane fusion protein
 DN  type I secretion membrane fusion protein
 RQ  1
 EV  IPR010129; TIGR01843; sufficient;
 TG  GO:0030253;
 --
-SN  OMP
+SN  3
 ID  Type I secretion outer membrane protein
 RQ  1
 EV  IPR010130; TIGR01844; sufficient;
 TG  GO:0030253;
 --
-SN  Example
+SN  4
 ID  Type I secreted proteins GGXGXDXXX repeats
 RQ  1
 EV  IPR001343; PF00353; sufficient;
