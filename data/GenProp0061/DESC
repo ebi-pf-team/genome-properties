@@ -7,10 +7,10 @@ CC  Some membrane proteins are anchored to the membrane by a lipid moiety
 CC  attached to a modified N-terminus rather than by a transmembrane 
 CC  helix. This property describes such a system. The modifications that 
 CC  take place are, cleavage of the lipoprotein signal sequence by 
-CC  prolipoprotein signal peptidase (Lsp) at a motif resembling L-X-G/A-C 
+CC  prolipoprotein signal peptidase (lsp) at a motif resembling L-X-G/A-C 
 CC  to leave Cys as the new N-terminal residue. Modification of the Cys 
-CC  sulfhydryl by prolipoprotein diacylglyceryl transferase (Lgt), then 
-CC  acylation of the Cys NH2 by apolipoprotein N-acyltransferase (Lnt). 
+CC  sulfhydryl by prolipoprotein diacylglyceryl transferase (lgt), then 
+CC  acylation of the Cys NH2 by apolipoprotein N-acyltransferase (lnt). 
 --
 SN  1
 ID  Prolipoprotein diacylglyceryl transferase
