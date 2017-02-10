@@ -1,5 +1,5 @@
 AC  GenProp0061
-DE  lipoprotein system lgt/lsp/lnt
+DE  Lipoprotein system lgt/lsp/lnt
 TP  SYSTEM
 AU  Haft D
 TH  0
@@ -14,23 +14,23 @@ CC  residue, then modification of the Cys sulfhydryl by prolipoprotein
 CC  diacylglyceryl transferase (Lgt), then acylation of the Cys NH2 by
 CC  apolipoprotein N-acyltransferase (Lnt).
 --
-SN  lgt
-ID  prolipoprotein diacylglyceryl transferase
-DN  prolipoprotein diacylglyceryl transferase (EC:2.4.99.-)
+SN  1
+ID  Prolipoprotein diacylglyceryl transferase
+DN  Prolipoprotein diacylglyceryl transferase (EC:2.4.99.-)
 RQ  1
 EV  IPR001640; TIGR00544; sufficient;
 TG  GO:0042158;
 --
-SN  lnt
-ID  apolipoprotein N-acyltransferase
-DN  apolipoprotein N-acyltransferase (EC:2.3.1.-)
+SN  2
+ID  Apolipoprotein N-acyltransferase
+DN  Apolipoprotein N-acyltransferase (EC:2.3.1.-)
 RQ  0
 EV  IPR004563; TIGR00546; sufficient;
 TG  GO:0042158;
 --
-SN  lsp
-ID  prolipoprotein signal peptidase
-DN  signal peptidase II (EC:3.4.23.36)
+SN  3
+ID  Prolipoprotein signal peptidase
+DN  Signal peptidase II (EC:3.4.23.36)
 RQ  1
 EV  IPR001872; TIGR00077; sufficient;
 TG  GO:0042158;
