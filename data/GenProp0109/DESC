@@ -25,13 +25,13 @@ DC  Histidine Metabolism
 DR  KEGG; map00340;
 CC  Histidine is synthesized in a ten step pathway from
 CC  phosphoribosyl-pyrophosphate. It is found in bacteria, archaebacteria,
-CC  fungi, and plants. The early stage of this pathway takes a ribose  and
-CC  transforms it into Imadiazoleglycerol phosphate. Once the imadiazole
+CC  fungi, and plants. The early stage of this pathway takes a ribose and
+CC  transforms it into imadiazoleglycerol phosphate. Once the imadiazole
 CC  ring is formed, glutamate donates the a-amino group and the newly
-CC  formed amine is oxidized to histidine.[1] In Salmonella typhimurium and
-CC  Escherichia coli, this pathway is carried out by the eight genes in his
-CC  operon. HisI, hisB, hisD are bifunctional enzymes, hisF and hisH form a
-CC  monofunctional dimer, and the rest are monofunctional enzymes.[1]
+CC  formed amine is oxidized to histidine [1]. In Salmonella typhimurium and
+CC  Escherichia coli, this pathway is carried out by the eight genes in this
+CC  operon. hisI, hisB, and hisD are bifunctional enzymes, hisF and hisH 
+CC  form a monofunctional dimer, and the rest are monofunctional enzymes [1].
 --
 SN  0:1
 ID  Ribose-phosphate pyrophosphokinase
