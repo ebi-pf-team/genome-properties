@@ -33,14 +33,14 @@ CC  Escherichia coli, this pathway is carried out by the eight genes in his
 CC  operon. HisI, hisB, hisD are bifunctional enzymes, hisF and hisH form a
 CC  monofunctional dimer, and the rest are monofunctional enzymes.[1]
 --
-SN  0
+SN  0:1
 ID  Ribose-phosphate pyrophosphokinase
 DN  Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
 RQ  1
 EV  IPR005946; TIGR01251; sufficient;
 TG  GO:0000105;
 --
-SN  HisA
+SN  HisA:2
 ID  Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase
 DN  Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase (EC 5.3.1.16)
 RQ  1
@@ -51,21 +51,21 @@ TG  GO:0000105;
 EV  IPR010188; TIGR01919; sufficient;
 TG  GO:0000105;
 --
-SN  HisB
+SN  HisB:3
 ID  Imidazoleglycerol-phosphate dehydratase
 DN  Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
 RQ  1
 EV  IPR000807; PF00475; sufficient;
 TG  GO:0000105;
 --
-SN  HisC
+SN  HisC:4
 ID  Histidinol-phosphate aminotransferase
 DN  Histidinol-phosphate aminotransferase (EC 2.6.1.9)
 RQ  1
 EV  IPR005861; TIGR01141; sufficient;
 TG  GO:0000105;
 --
-SN  HisD
+SN  HisD:5
 ID  histidinol dehydrogenase
 DN  histidinol dehydrogenase (EC 1.1.1.23)
 RQ  1
@@ -74,7 +74,7 @@ TG  GO:0000105;
 EV  IPR012131; PF00815; sufficient;
 TG  GO:0000105;
 --
-SN  HisE
+SN  HisE:6
 ID  Phosphoribosyl-ATP pyrophosphohydrolase
 DN  Phosphoribosyl-ATP pyrophosphohydrolase (EC 3.6.1.31)
 RQ  1
@@ -83,14 +83,14 @@ TG  GO:0000105;
 EV  IPR008179; TIGR03188;
 TG  GO:0000105;
 --
-SN  HisF
+SN  HisF:7
 ID  Imidazoleglycerol phosphate synthase, cyclase subunit
 DN  Imidazoleglycerol phosphate synthase, cyclase subunit (EC 4.1.3)
 RQ  1
 EV  IPR004651; TIGR00735; sufficient;
 TG  GO:0000105;
 --
-SN  HisG
+SN  HisG:8
 ID  ATP phosphoribosyltransferase
 DN  ATP phosphoribosyltransferase (EC 2.4.2.17)
 RQ  1
@@ -99,7 +99,7 @@ TG  GO:0000105;
 EV  IPR013820; PF01634; sufficient;
 TG  GO:0000105;
 --
-SN  HisG_C
+SN  HisG_C:9
 ID  HisG, C-terminal domain
 RQ  0
 EV  IPR013115; PF08029;
@@ -107,21 +107,21 @@ TG  GO:0000105;
 EV  IPR013115; TIGR03455;
 TG  GO:0000105;
 --
-SN  HisH
+SN  HisH:10
 ID  Imidazoleglycerol phosphate synthase, glutamine amidotransferase subunit
 DN  Imidazoleglycerol phosphate synthase, glutamine amidotransferase subunit (EC 2.4.2.-)
 RQ  1
 EV  IPR010139; TIGR01855; sufficient;
 TG  GO:0000105;
 --
-SN  HisI
+SN  HisI:11
 ID  Phosphoribosyl-AMP cyclohydrolase
 DN  Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)
 RQ  1
 EV  IPR002496; PF01502; sufficient;
 TG  GO:0000105;
 --
-SN  HisJ
+SN  HisJ:12
 ID  Histidinol-phosphate phosphatase
 DN  Histidinol-phosphate phosphatase (EC 3.1.3.15)
 RQ  0
@@ -130,12 +130,12 @@ TG  GO:0000105;
 EV  IPR010140; TIGR01856; sufficient;
 EV  IPR011809; TIGR02067; sufficient;
 --
-SN  HisL
+SN  HisL:13
 ID  His operon leader peptide
 RQ  0
 EV  IPR012565; PF08047;
 --
-SN  HisZ
+SN  HisZ:14
 ID  ATP phosphoribosyltransferase regulatory subunit
 DN  ATP phosphoribosyltransferase regulatory subunit
 RQ  0
