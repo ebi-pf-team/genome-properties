@@ -54,7 +54,7 @@ TG  GO:0006189;
 --
 SN  3
 ID  Phosphoribosylglycinamide formyltransferase
-DN  Phosphoribosylglycinamide formyltransferase (EC 2.1.2.-)
+DN  Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
 RQ  1
 EV  IPR005862; TIGR01142; sufficient;
 TG  GO:0006189;
@@ -132,7 +132,7 @@ TG  GO:0006189;
 --
 SN  9
 ID  Phosphoribosylaminoimidazolecarboxamide formyltransferase
-DN  Phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase (EC 2.1.2.3 3.5.4.10)
+DN  Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)/IMP cyclohydrolase (EC 3.5.4.10)
 RQ  0
 EV  IPR002695; TIGR00355; sufficient;
 TG  GO:0006189;
