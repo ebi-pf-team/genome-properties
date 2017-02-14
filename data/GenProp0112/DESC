@@ -1,5 +1,5 @@
 AC  GenProp0112
-DE  riboflavin, FAD and FMN from GTP and ribulose-5-P
+DE  Riboflavin, FAD and FMN from GTP and ribulose-5-P
 TP  PATHWAY
 AU  Haft D
 TH  2
@@ -23,14 +23,14 @@ EV  IPR000926; TIGR00505; sufficient;
 EV  IPR032677; PF00925; sufficient;
 --
 SN  2
-ID  pyrimidine deaminase (3.5.4.26)
-DN  diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26)
+ID  Pyrimidine deaminase (3.5.4.26)
+DN  Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26)
 RQ  1
 EV  IPR004794; TIGR00326; sufficient;
 EV  IPR011549; TIGR00227; sufficient;
 --
 SN  3
-ID  uracil reductase (1.1.1.193)
+ID  Uracil reductase (1.1.1.193)
 DN  5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
 RQ  1
 EV  IPR004794; TIGR00326; sufficient;
@@ -44,20 +44,20 @@ RQ  1
 EV  IPR002180; TIGR00114; sufficient;
 --
 SN  5
-ID  riboflavin synthase (2.5.1.9)
-DN  riboflavin synthase (EC 2.5.1.9)
+ID  Riboflavin synthase (2.5.1.9)
+DN  Riboflavin synthase (EC 2.5.1.9)
 RQ  1
 EV  IPR001783; TIGR00187; sufficient;
 --
 SN  6--FMN
-ID  riboflavin kinase (2.7.1.26)
-DN  riboflavin kinase/FAD synthetase (EC 2.7.1.26 2.7.7.2)
+ID  Riboflavin kinase (2.7.1.26)
+DN  Riboflavin kinase/FAD synthetase (EC 2.7.1.26 2.7.7.2)
 RQ  1
 EV  IPR002606; TIGR00083; sufficient;
 --
 SN  7--FAD
 ID  FAD synthetase (2.7.7.2)
-DN  riboflavin kinase/FAD synthetase (EC 2.7.1.26 2.7.7.2)
+DN  Riboflavin kinase/FAD synthetase (EC 2.7.1.26 2.7.7.2)
 RQ  1
 EV  IPR002606; TIGR00083; sufficient;
 --
