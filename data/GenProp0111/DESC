@@ -11,7 +11,8 @@ CC  The amino acid proline is synthesized in three steps from glutamate via
 CC  L-glutamate-5-semialdehyde which non-enzymatically cyclizes to
 CC  delta-1-pyrroline-5-carboxylate. Glutamate semialdehyde can also arise
 CC  from transamination of ornithine. Proline may also be synthesized
-CC  directly from ornithine by the action of ornithine cyclodeaminase.
+CC  directly from ornithine by the action of ornithine cyclodeaminase. 
+CC  These alternate paths are not covered by this property.
 --
 SN  1
 ID  Glutamate 5-kinase
