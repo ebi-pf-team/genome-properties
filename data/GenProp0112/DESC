@@ -51,13 +51,13 @@ EV  IPR001783; TIGR00187; sufficient;
 --
 SN  6--FMN
 ID  Riboflavin kinase (2.7.1.26)
-DN  Riboflavin kinase/FAD synthetase (EC 2.7.1.26 2.7.7.2)
+DN  Riboflavin kinase (EC 2.7.1.26)/FAD synthetase (EC 2.7.7.2)
 RQ  1
 EV  IPR002606; TIGR00083; sufficient;
 --
 SN  7--FAD
 ID  FAD synthetase (2.7.7.2)
-DN  Riboflavin kinase/FAD synthetase (EC 2.7.1.26 2.7.7.2)
+DN  Riboflavin kinase (EC 2.7.1.26)/FAD synthetase (EC 2.7.7.2)
 RQ  1
 EV  IPR002606; TIGR00083; sufficient;
 --
