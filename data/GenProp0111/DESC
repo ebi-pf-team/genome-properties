@@ -1,5 +1,5 @@
 AC  GenProp0111
-DE  proline biosynthesis from glutamate
+DE  Proline biosynthesis from glutamate
 TP  PATHWAY
 AU  Haft D
 TH  1
@@ -14,22 +14,22 @@ CC  from transamination of ornithine. Proline may also be synthesized
 CC  directly from ornithine by the action of ornithine cyclodeaminase.
 --
 SN  1
-ID  glutamate 5-kinase
-DN  glutamate 5-kinase (EC 2.7.2.11)
+ID  Glutamate 5-kinase
+DN  Glutamate 5-kinase (EC 2.7.2.11)
 RQ  1
 EV  IPR005715; TIGR01027; sufficient;
 TG  GO:0006561;
 --
 SN  2
-ID  glutamate-5-semialdehyde dehydrogenase
-DN  glutamate-5-semialdehyde dehydrogenase (EC 1.2.1.41)
+ID  Glutamate-5-semialdehyde dehydrogenase
+DN  Glutamate-5-semialdehyde dehydrogenase (EC 1.2.1.41)
 RQ  1
 EV  IPR000965; TIGR00407; sufficient;
 TG  GO:0006561;
 --
 SN  3
-ID  pyrroline-5-carboxylate reductase
-DN  pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+ID  Pyrroline-5-carboxylate reductase
+DN  Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
 RQ  1
 EV  IPR000304; TIGR00112; sufficient;
 TG  GO:0006561;
