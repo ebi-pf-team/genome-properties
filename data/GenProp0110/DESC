@@ -11,13 +11,13 @@ DC  Purine metabolism
 DR  KEGG; map00230;
 CC  Inosine-5-phosphate (IMP) is synthesized in a ten step pathway from
 CC  phosphoribosyl- pyrophosphate (PRPP) and is the precursor of all purine
-CC  nucleosides (adenosine,  guanosine, inosine and xanthosine).  The
-CC  purine ring is build from glutamine (2  nitrogens), glycine (2 carbons
+CC  nucleosides (adenosine,  guanosine, inosine and xanthosine). The
+CC  purine ring is built from glutamine (2 nitrogens), glycine (2 carbons
 CC  and a nitrogen), 10-formyl-THF (2 carbons), carbon  dioxide (1 carbon)
-CC  and aspartate (1 nitrogen).  An intermediate, AICAR-P, is  formed
+CC  and aspartate (1 nitrogen). An intermediate, AICAR-P, is formed
 CC  during the process of histidine biosynthesis in a 1:1 ratio with
-CC  histidine but this route is generally insufficient for fulfilling the
-CC  purine needs of a  dividing cell and is not considered _de novo_ purine
+CC  histidine, but this route is generally insufficient for fulfilling the
+CC  purine needs of a dividing cell and is not considered 'de novo' purine
 CC  biosynthesis.
 --
 SN  0
