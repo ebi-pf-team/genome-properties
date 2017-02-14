@@ -20,39 +20,28 @@ CC  histidine, but this route is generally insufficient for fulfilling the
 CC  purine needs of a dividing cell and is not considered 'de novo' purine
 CC  biosynthesis.
 --
-SN  0
+SN  1
 ID  Ribose-phosphate pyrophosphokinase
 DN  Ribose-phosphate diphosphokinase (EC 2.7.6.1)
 RQ  1
 EV  IPR005946; TIGR01251; sufficient;
 TG  GO:0006189;
 --
-SN  1
+SN  2
 ID  Amidophosphoribosyltransferase
 DN  Amidophosphoribosyltransferase (EC 2.4.2.14)
 RQ  1
 EV  IPR005854; TIGR01134; sufficient;
 TG  GO:0006189;
 --
-SN  10
-ID  IMP cyclohydrolase
-DN  IMP cyclohydrolase (EC 3.5.4.10)
-RQ  1
-EV  IPR002695; TIGR00355; sufficient;
-TG  GO:0006189;
-EV  IPR010191; TIGR01922; sufficient;
-TG  GO:0006189;
-EV  IPR002695; PF01808; sufficient;
-TG  GO:0006189;
---
-SN  2
+SN  3
 ID  Phosphoribosylamine--glycine ligase
 DN  Phosphoribosylamine--glycine ligase (EC 6.3.4.13)
 RQ  1
 EV  IPR000115; TIGR00877; sufficient;
 TG  GO:0006189;
 --
-SN  3
+SN  4
 ID  Phosphoribosylglycinamide formyltransferase
 DN  Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
 RQ  1
@@ -61,7 +50,7 @@ TG  GO:0006189;
 EV  IPR004607; TIGR00639; sufficient;
 TG  GO:0006189;
 --
-SN  4A
+SN  5
 ID  Phosphoribosylformylglycinamidine synthase I
 DN  Phosphoribosylformylglycinamidine synthase I (EC 6.3.5.3)
 RQ  1
@@ -72,7 +61,7 @@ TG  GO:0006189;
 EV  IPR010141; TIGR01857; sufficient;
 TG  GO:0006189;
 --
-SN  4B
+SN  6
 ID  Phosphoribosylformylglycinamidine synthase II
 DN  Phosphoribosylformylglycinamidine synthase II (EC 6.3.5.3)
 RQ  1
@@ -83,7 +72,7 @@ TG  GO:0006189;
 EV  IPR010141; TIGR01857; sufficient;
 TG  GO:0006189;
 --
-SN  4C
+SN  7
 ID  Phosphoribosylformylglycinamidine synthase III
 RQ  0
 EV  IPR010073; TIGR01735; sufficient;
@@ -93,28 +82,28 @@ TG  GO:0006189;
 EV  IPR010141; TIGR01857; sufficient;
 TG  GO:0006189;
 --
-SN  5
+SN  8
 ID  Phosphoribosylformylglycinamidine cyclo-ligase
 DN  Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
 RQ  1
 EV  IPR004733; TIGR00878; sufficient;
 TG  GO:0006189;
 --
-SN  6A
+SN  9
 ID  Phosphoribosylaminoimidazole carboxylase, catalytic subunit
 DN  Phosphoribosylaminoimidazole carboxylase, catalytic subunit (EC 4.1.1.21)
 RQ  1
 EV  IPR000031; TIGR01162; sufficient;
 TG  GO:0006189;
 --
-SN  6B
+SN  10
 ID  Phosphoribosylaminoimidazole carboxylase, ATPase subunit
 DN  Phosphoribosylaminoimidazole carboxylase, ATPase subunit (EC 4.1.1.21)
 RQ  0
 EV  IPR005875; TIGR01161; sufficient;
 TG  GO:0006189;
 --
-SN  7
+SN  11
 ID  Phosphoribosylaminoimidazole-succinocarboxamide synthase
 DN  Phosphoribosylaminoimidazolesuccinocarboxamide synthase (EC 6.3.2.6)
 RQ  1
@@ -123,18 +112,29 @@ TG  GO:0006189;
 EV  IPR014106; TIGR02735; sufficient;
 TG  GO:0006189;
 --
-SN  8
+SN  12
 ID  Adenylosuccinate lyase
 DN  Adenylosuccinate lyase (EC 4.3.2.2)
 RQ  1
 EV  IPR004769; TIGR00928; sufficient;
 TG  GO:0006189;
 --
-SN  9
+SN  13
 ID  Phosphoribosylaminoimidazolecarboxamide formyltransferase
 DN  Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)/IMP cyclohydrolase (EC 3.5.4.10)
 RQ  0
 EV  IPR002695; TIGR00355; sufficient;
+TG  GO:0006189;
+EV  IPR002695; PF01808; sufficient;
+TG  GO:0006189;
+--
+SN  14
+ID  IMP cyclohydrolase
+DN  IMP cyclohydrolase (EC 3.5.4.10)
+RQ  1
+EV  IPR002695; TIGR00355; sufficient;
+TG  GO:0006189;
+EV  IPR010191; TIGR01922; sufficient;
 TG  GO:0006189;
 EV  IPR002695; PF01808; sufficient;
 TG  GO:0006189;
