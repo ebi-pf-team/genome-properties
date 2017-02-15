@@ -3,13 +3,19 @@ DE  Riboflavin, FAD and FMN from GTP and ribulose-5-P
 TP  PATHWAY
 AU  Haft D
 TH  2
+DC  Riboflavin Biosynthesis (early stages)
+DR  IUBMB; misc; riboflavin1;
+DC  Riboflavin Biosynthesis (late stages)
+DR  IUBMB; misc; riboflavin2;
+DC  FAD Biosynthesis
+DR  IUBMB; misc; FAD;
 CC  Flavin-adenine dinucleotide (FAD) is synthesized via
 CC  flavinmononucleotide (FMN) and riboflavin (vitamin B2) from GTP,
-CC  ribulose-5-phosphate and ATP in a 9-step pathway.  FAD and FMN are
+CC  ribulose-5-phosphate and ATP in a 9-step pathway. FAD and FMN are
 CC  important carriers of hydrogen and electrons which are usually found
 CC  tightly bound or covalently linked to enzymes such as dehydrogenases,
-CC  oxidases and monooxygenases.  The pathway in bacteria and archaea/fungi
-CC  vary slightly with the order in which  a pair of reductase and
+CC  oxidases and monooxygenases. The pathway in bacteria and archaea/fungi
+CC  varies slightly with the order in which a pair of reductase and
 CC  deaminase steps take place.
 **  The KEGG entry for step 5, riboflavin synthase, EC 2.5.1.9, is
 **  apparently in error, subsuming step 4 (which does not have an EC#) and
@@ -49,19 +55,19 @@ DN  Riboflavin synthase (EC 2.5.1.9)
 RQ  1
 EV  IPR001783; TIGR00187; sufficient;
 --
-SN  6--FMN
+SN  6
 ID  Riboflavin kinase (2.7.1.26)
 DN  Riboflavin kinase (EC 2.7.1.26)/FAD synthetase (EC 2.7.7.2)
 RQ  1
 EV  IPR002606; TIGR00083; sufficient;
 --
-SN  7--FAD
+SN  7
 ID  FAD synthetase (2.7.7.2)
 DN  Riboflavin kinase (EC 2.7.1.26)/FAD synthetase (EC 2.7.7.2)
 RQ  1
 EV  IPR002606; TIGR00083; sufficient;
 --
-SN  ribB
+SN  8
 ID  3,4-dihydroxy-2-butanone 4-phosphate synthase
 DN  3,4-dihydroxy-2-butanone-4-phosphate synthase (EC 4.1.99.12)
 RQ  1
