@@ -1,46 +1,47 @@
 AC  GenProp0114
-DE  nucleotide excision repair
+DE  Nucleotide excision repair
 TP  SYSTEM
 AU  Haft D
 TH  0
+DC  Nucleotide excision repair
+DR  KEGG; map03420;
 CC  One mechanism of DNA repair is nucleotide excision repair.
 CC  Single-stranded cuts are made on both sides of a DNA lesion and the
-CC  oligomer between the cuts is removed. Very few species lack this
-CC  mechanism, although the insect endosymbiont Buchnera aphidicola is an
-CC  example. In bacteria, the excinuclease UvrABC performs only this
+CC  oligomer between the cuts is removed. Very few prokaryotic species lack 
+CC  this mechanism, although the insect endosymbiont Buchnera aphidicola is 
+CC  an example. In bacteria, the excinuclease UvrABC performs only this
 CC  function, so the presence of any one of the three subunits suggests the
 CC  mechanism is (or was) present. Also required is UvrD or a related
 CC  helicase with similar effect, but this helicase acts in other processes
-CC  as well. A large number of genes are active in eukaryotes. The
-CC  characteristic size of the oligomer removed is also different in
-CC  eukaryotes. The status of nucleotide excision repair in the archaea is
-CC  not fully defined.
-**  Ask Jon Eisen.
+CC  as well. The status of nucleotide excision repair in the archaea is
+CC  not fully defined. Eukaryotic NER differs in that many more genes are 
+CC  involved, and the characteristic size of the oligomer removed is 
+CC  different.
 --
-SN  uvrA
-ID  excinuclease ABC subunit A
-DN  excinuclease ABC subunit A (3.1.125.-)
+SN  1
+ID  Excinuclease ABC subunit A
+DN  Excinuclease ABC subunit A/UvrA (3.1.125.-)
 RQ  1
 EV  IPR004602; TIGR00630; sufficient;
 TG  GO:0006289;
 --
-SN  uvrB
-ID  excinuclease ABC subunit B
-DN  excinuclease ABC subunit A (3.1.125.-)
+SN  2
+ID  Excinuclease ABC subunit B
+DN  Excinuclease ABC subunit B/UvrB (3.1.125.-)
 RQ  1
 EV  IPR004807; TIGR00631; sufficient;
 TG  GO:0006289;
 --
-SN  uvrC
-ID  excinuclease ABC subunit C
-DN  excinuclease ABC subunit C (3.1.125.-)
+SN  3
+ID  Excinuclease ABC subunit C
+DN  Excinuclease ABC subunit C/UvrC (3.1.125.-)
 RQ  1
 EV  IPR004791; TIGR00194; sufficient;
 TG  GO:0006289;
 --
-SN  uvrD
+SN  4
 ID  DNA helicase II
-DN  DNA helicase II (3.6.1.-)
+DN  DNA helicase II/UvrD (3.6.1.-)
 RQ  0
 EV  IPR005753; TIGR01075; sufficient;
 TG  GO:0006289;
