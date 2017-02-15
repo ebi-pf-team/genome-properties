@@ -34,20 +34,20 @@ CC  operon. hisI, hisB, and hisD are bifunctional enzymes, hisF and
 CC  hisH form a monofunctional dimer, and the rest are monofunctional 
 CC  enzymes [2].
 --
-SN  1:1
+SN  1
 ID  Ribose-phosphate pyrophosphokinase
 DN  Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
 RQ  1
 EV  IPR005946; TIGR01251; sufficient;
 TG  GO:0000105;
 --
-SN  13:2
+SN  2
 ID  His operon leader peptide
 DN  HisL
 RQ  0
 EV  IPR012565; PF08047;
 --
-SN  8:3
+SN  3
 ID  ATP phosphoribosyltransferase
 DN  ATP phosphoribosyltransferase/HisG (EC 2.4.2.17)
 RQ  1
@@ -56,7 +56,7 @@ TG  GO:0000105;
 EV  IPR013820; PF01634; sufficient;
 TG  GO:0000105;
 --
-SN  6:4
+SN  4
 ID  Phosphoribosyl-ATP pyrophosphohydrolase
 DN  Phosphoribosyl-ATP pyrophosphohydrolase/HisE (EC 3.6.1.31)
 RQ  1
@@ -65,14 +65,14 @@ TG  GO:0000105;
 EV  IPR008179; TIGR03188;
 TG  GO:0000105;
 --
-SN  11:5
+SN  5
 ID  Phosphoribosyl-AMP cyclohydrolase
 DN  Phosphoribosyl-AMP cyclohydrolase/HisI (EC 3.5.4.19)
 RQ  1
 EV  IPR002496; PF01502; sufficient;
 TG  GO:0000105;
 --
-SN  2:6
+SN  6
 ID  Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase
 DN  Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase/HisA (EC 5.3.1.16)
 RQ  1
@@ -83,35 +83,35 @@ TG  GO:0000105;
 EV  IPR010188; TIGR01919; sufficient;
 TG  GO:0000105;
 --
-SN  10:7
+SN  7
 ID  Imidazoleglycerol phosphate synthase, glutamine amidotransferase subunit
 DN  Imidazoleglycerol phosphate synthase, glutamine amidotransferase subunit/HisH (EC 2.4.2.-)
 RQ  1
 EV  IPR010139; TIGR01855; sufficient;
 TG  GO:0000105;
 --
-SN  7:8
+SN  8
 ID  Imidazoleglycerol phosphate synthase, cyclase subunit
 DN  Imidazoleglycerol phosphate synthase, cyclase subunit/HisF (EC 4.1.3.-)
 RQ  1
 EV  IPR004651; TIGR00735; sufficient;
 TG  GO:0000105;
 --
-SN  3:9
+SN  9
 ID  Imidazoleglycerol-phosphate dehydratase
 DN  Imidazoleglycerol-phosphate dehydratase/HisB (EC 4.2.1.19)
 RQ  1
 EV  IPR000807; PF00475; sufficient;
 TG  GO:0000105;
 --
-SN  4:10
+SN  10
 ID  Histidinol-phosphate aminotransferase
 DN  Histidinol-phosphate aminotransferase/HisC (EC 2.6.1.9)
 RQ  1
 EV  IPR005861; TIGR01141; sufficient;
 TG  GO:0000105;
 --
-SN  12:11
+SN  11
 ID  Histidinol-phosphate phosphatase
 DN  Histidinol-phosphate phosphatase/HisJ (EC 3.1.3.15)
 RQ  0
@@ -120,7 +120,7 @@ TG  GO:0000105;
 EV  IPR010140; TIGR01856; sufficient;
 EV  IPR011809; TIGR02067; sufficient;
 --
-SN  5:12
+SN  12
 ID  histidinol dehydrogenase
 DN  histidinol dehydrogenase/HisD (EC 1.1.1.23)
 RQ  1
@@ -129,7 +129,7 @@ TG  GO:0000105;
 EV  IPR012131; PF00815; sufficient;
 TG  GO:0000105;
 --
-SN  9:13
+SN  13
 ID  HisG, C-terminal domain
 DN  HisG_C
 RQ  0
@@ -138,7 +138,7 @@ TG  GO:0000105;
 EV  IPR013115; TIGR03455;
 TG  GO:0000105;
 --
-SN  14:14
+SN  14
 ID  ATP phosphoribosyltransferase regulatory subunit
 DN  ATP phosphoribosyltransferase regulatory subunit/HisZ
 RQ  0
