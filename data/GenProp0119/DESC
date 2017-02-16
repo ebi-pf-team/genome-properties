@@ -3,6 +3,43 @@ DE  PTS transport system
 TP  SYSTEM
 AU  Haft D
 TH  2
+RN  [1]
+RM  28168775
+RT  Structural characterization of the PTS IIA and IIB proteins associated 
+RT  with pneumococcal fucose utilization.
+RA  Higgins MA, Hamilton AM, Boraston AB;  
+RL  Proteins. 2017;
+CC  Phosphotransferase system (PTS) is a phosphorylation cascade that allows
+CC  various carbohydrates to be transported accross a membrane at the 
+CC  expense of phosphoenolpyruvate (PEP). First, a phosphoryl group is 
+CC  donated from PEP to a general (non sugar-specific) enzyme I 
+CC  (phosphotransferase system, enzyme I), and then on to a phosphocarrier 
+CC  protein (HPr). HPr then dontaes the phosphoryl group to the sugar-specific 
+CC  EIIA (enzyme IIA), and then on to EIIB (enzyme IIB), before being 
+CC  transferred to the incoming carbohydrate. The carbohydrate is transported 
+CC  by EIIC (enzyme IIC), and occasionally EIID (enzyme IID), which are 
+CC  sugar-specific transmembrane components [1].
+--
+SN  ptsI
+ID  Phosphoenolpyruvate-protein phosphotransferase
+DN  Phosphoenolpyruvate-protein phosphotransferase (EC 2.7.3.9)
+RQ  1
+EV  IPR006318; TIGR01417; sufficient;
+TG  GO:0009401;
+--
+SN  HPr
+ID  Phosphocarrier protein HPr
+DN  Phosphocarrier protein HPr
+RQ  1
+EV  IPR000032; TIGR01003; sufficient;
+TG  GO:0009401;
+--
+SN  hprK
+ID  HPr(Ser) kinase/phosphatase
+DN  HPr(Ser) kinase/phosphatase
+RQ  0
+EV  IPR003755; TIGR00679; sufficient;
+TG  GO:0009401;
 --
 SN  EIIA
 ID  phosphotransferase system, EIIA
@@ -30,7 +67,7 @@ EV  IPR001127; PF00358; sufficient;
 TG  GO:0009401;
 --
 SN  EIIB
-ID  phosphotransferase system, EIIB
+ID  Phosphotransferase system, EIIB
 DN  NOT APPLICABLE
 RQ  1
 EV  IPR003501; PF02302; sufficient;
@@ -69,7 +106,7 @@ EV  IPR018113; PF00367; sufficient;
 TG  GO:0009401;
 --
 SN  EIIC
-ID  phosphotransferase system, EIIC
+ID  Phosphotransferase system, EIIC
 DN  NOT APPLICABLE
 RQ  1
 EV  IPR004703; PF03611; sufficient;
@@ -114,30 +151,9 @@ EV  IPR003352; PF02378; sufficient;
 TG  GO:0009401;
 --
 SN  EIID
-ID  phosphotransferase system, EIID
+ID  Phosphotransferase system, EIID
 DN  NOT APPLICABLE
 RQ  0
 EV  IPR018405; TIGR00828; sufficient;
-TG  GO:0009401;
---
-SN  HPr
-ID  phosphocarrier protein HPr
-DN  phosphocarrier protein HPr
-RQ  1
-EV  IPR000032; TIGR01003; sufficient;
-TG  GO:0009401;
---
-SN  hprK
-ID  HPr(Ser) kinase/phosphatase
-DN  HPr(Ser) kinase/phosphatase
-RQ  0
-EV  IPR003755; TIGR00679; sufficient;
-TG  GO:0009401;
---
-SN  ptsI
-ID  phosphoenolpyruvate-protein phosphotransferase
-DN  phosphoenolpyruvate-protein phosphotransferase (EC 2.7.3.9)
-RQ  1
-EV  IPR006318; TIGR01417; sufficient;
 TG  GO:0009401;
 //
