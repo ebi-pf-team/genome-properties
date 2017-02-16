@@ -20,28 +20,28 @@ CC  transferred to the incoming carbohydrate. The carbohydrate is transported
 CC  by EIIC (enzyme IIC), and occasionally EIID (enzyme IID), which are 
 CC  sugar-specific transmembrane components [1].
 --
-SN  ptsI
+SN  1
 ID  Phosphoenolpyruvate-protein phosphotransferase
-DN  Phosphoenolpyruvate-protein phosphotransferase (EC 2.7.3.9)
+DN  Phosphoenolpyruvate-protein phosphotransferase/ptsI (EC 2.7.3.9)
 RQ  1
 EV  IPR006318; TIGR01417; sufficient;
 TG  GO:0009401;
 --
-SN  HPr
+SN  2
 ID  Phosphocarrier protein HPr
 DN  Phosphocarrier protein HPr
 RQ  1
 EV  IPR000032; TIGR01003; sufficient;
 TG  GO:0009401;
 --
-SN  hprK
+SN  3
 ID  HPr(Ser) kinase/phosphatase
 DN  HPr(Ser) kinase/phosphatase
 RQ  0
 EV  IPR003755; TIGR00679; sufficient;
 TG  GO:0009401;
 --
-SN  EIIA
+SN  4
 ID  phosphotransferase system, EIIA
 DN  NOT APPLICABLE
 RQ  1
@@ -66,7 +66,7 @@ TG  GO:0009401;
 EV  IPR001127; PF00358; sufficient;
 TG  GO:0009401;
 --
-SN  EIIB
+SN  5
 ID  Phosphotransferase system, EIIB
 DN  NOT APPLICABLE
 RQ  1
@@ -105,7 +105,7 @@ TG  GO:0009401;
 EV  IPR018113; PF00367; sufficient;
 TG  GO:0009401;
 --
-SN  EIIC
+SN  6
 ID  Phosphotransferase system, EIIC
 DN  NOT APPLICABLE
 RQ  1
@@ -150,7 +150,7 @@ TG  GO:0009401;
 EV  IPR003352; PF02378; sufficient;
 TG  GO:0009401;
 --
-SN  EIID
+SN  7
 ID  Phosphotransferase system, EIID
 DN  NOT APPLICABLE
 RQ  0
