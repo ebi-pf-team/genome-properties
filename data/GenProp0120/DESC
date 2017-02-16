@@ -3,42 +3,26 @@ DE  Pentose phosphate cycle
 TP  PATHWAY
 AU  Haft D
 TH  4
+RN  [1]
+RM  28041936
+RT  The regulation of the pentose phosphate pathway: Remember Krebs.
+RA  Ramos-Martinez JI;
+RL  Arch Biochem Biophys. 2017;614:50-52.
 DC  Pentose Phosphate Pathway (early stages)
 DR  IUBMB; polysacc; PPP1;
 DC  Pentose Phosphate Pathway (later stages)
 DR  IUBMB; polysacc; PPP2;
+CC  The pentose phosphate cycle (also known as the hexose monophosphate 
+CC  shunt) is a metabolic pathway that generates NADPH when glucose 
+CC  6-phosphate is oxidised to ribose 5-phosphate. Ribose 5-phosphate is a 
+CC  precursor for biosynthesis of nucleotides [1]. NADPH is used in many
+CC  syntheses, including fatty acid synthesis.
 --
 SN  1
 ID  Glucose-6-phosphate 1-dehydrogenase
 DN  Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49)
 RQ  1
 EV  IPR001282; TIGR00871; sufficient;
-TG  GO:0006098;
---
-SN  10
-ID  Fructose bisphosphatase
-DN  Fructose bisphosphatase (EC 3.1.3.11)
-RQ  0
-EV  IPR004464; PF03320; sufficient;
-TG  GO:0006098;
-EV  IPR009164; PF06874; sufficient;
-TG  GO:0006098;
-EV  IPR033391; PF00316; sufficient;
-TG  GO:0006098;
-EV  IPR004464; TIGR00330; sufficient;
-TG  GO:0006098;
-EV  IPR002803; PF01950; sufficient;
-TG  GO:0006098;
---
-SN  11
-ID  Glucose-6-phosphate isomerase
-DN  Glucose-6-phosphate isomerase (EC 5.3.1.9)
-RQ  1
-EV  IPR001672; PF00342; sufficient;
-TG  GO:0006098;
-EV  IPR010551; PF06560; sufficient;
-TG  GO:0006098;
-EV  IPR011857; TIGR02128; sufficient;
 TG  GO:0006098;
 --
 SN  2
@@ -111,5 +95,31 @@ TG  GO:0006098;
 EV  IPR006411; TIGR01520; sufficient;
 TG  GO:0006098;
 EV  IPR006412; TIGR01521; sufficient;
+TG  GO:0006098;
+--
+SN  10
+ID  Fructose bisphosphatase
+DN  Fructose bisphosphatase (EC 3.1.3.11)
+RQ  0
+EV  IPR004464; PF03320; sufficient;
+TG  GO:0006098;
+EV  IPR009164; PF06874; sufficient;
+TG  GO:0006098;
+EV  IPR033391; PF00316; sufficient;
+TG  GO:0006098;
+EV  IPR004464; TIGR00330; sufficient;
+TG  GO:0006098;
+EV  IPR002803; PF01950; sufficient;
+TG  GO:0006098;
+--
+SN  11
+ID  Glucose-6-phosphate isomerase
+DN  Glucose-6-phosphate isomerase (EC 5.3.1.9)
+RQ  1
+EV  IPR001672; PF00342; sufficient;
+TG  GO:0006098;
+EV  IPR010551; PF06560; sufficient;
+TG  GO:0006098;
+EV  IPR011857; TIGR02128; sufficient;
 TG  GO:0006098;
 //
