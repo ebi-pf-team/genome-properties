@@ -1,5 +1,5 @@
 AC  GenProp0120
-DE  pentose phosphate cycle
+DE  Pentose phosphate cycle
 TP  PATHWAY
 AU  Haft D
 TH  4
@@ -9,15 +9,15 @@ DC  Pentose Phosphate Pathway (later stages)
 DR  IUBMB; polysacc; PPP2;
 --
 SN  1
-ID  glucose-6-phosphate 1-dehydrogenase
-DN  glucose-6-phosphate 1-dehydrogenase
+ID  Glucose-6-phosphate 1-dehydrogenase
+DN  Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49)
 RQ  1
 EV  IPR001282; TIGR00871; sufficient;
 TG  GO:0006098;
 --
 SN  10
-ID  fructose bisphosphatase
-DN  fructose bisphosphatase
+ID  Fructose bisphosphatase
+DN  Fructose bisphosphatase (EC 3.1.3.11)
 RQ  0
 EV  IPR004464; PF03320; sufficient;
 TG  GO:0006098;
@@ -31,8 +31,8 @@ EV  IPR002803; PF01950; sufficient;
 TG  GO:0006098;
 --
 SN  11
-ID  glucose-6-phosphate isomerase
-DN  glucose-6-phosphate isomerase
+ID  Glucose-6-phosphate isomerase
+DN  Glucose-6-phosphate isomerase (EC 5.3.1.9)
 RQ  1
 EV  IPR001672; PF00342; sufficient;
 TG  GO:0006098;
@@ -43,14 +43,14 @@ TG  GO:0006098;
 --
 SN  2
 ID  6-phosphogluconolactonase
-DN  6-phosphogluconolactonase
+DN  6-phosphogluconolactonase (EC 3.1.1.31)
 RQ  0
 EV  IPR005900; TIGR01198; sufficient;
 TG  GO:0006098;
 --
 SN  3
 ID  6-phosphogluconate dehydrogenase, decarboxylating
-DN  6-phosphogluconate dehydrogenase, decarboxylating
+DN  6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44/EC 1.1.1.343)
 RQ  1
 EV  IPR006113; TIGR00873; sufficient;
 TG  GO:0006098;
@@ -58,8 +58,8 @@ EV  IPR004849; TIGR00872; sufficient;
 TG  GO:0006098;
 --
 SN  4A
-ID  ribose 5-phosphate isomerase
-DN  ribose 5-phosphate isomerase
+ID  Ribose 5-phosphate isomerase
+DN  Ribose 5-phosphate isomerase (EC 5.3.1.6)
 RQ  1
 EV  IPR004788; PF06026; sufficient;
 TG  GO:0006098;
@@ -69,22 +69,22 @@ EV  IPR011860; TIGR02133; sufficient;
 TG  GO:0006098;
 --
 SN  4B
-ID  ribulose-phosphate 3-epimerase
-DN  ribulose-phosphate 3-epimerase
+ID  Ribulose-phosphate 3-epimerase
+DN  Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
 RQ  1
 EV  IPR000056; TIGR01163; sufficient;
 TG  GO:0006098;
 --
 SN  5/7
-ID  transketolase
-DN  transketolase
+ID  Transketolase
+DN  Transketolase (EC 2.2.1.1)
 RQ  1
 EV  IPR005478; TIGR00232; sufficient;
 TG  GO:0006098;
 --
 SN  6
-ID  transaldolase
-DN  transaldolase
+ID  Transaldolase
+DN  Transaldolase (EC 2.2.1.2)
 RQ  1
 EV  IPR004730; TIGR00874; sufficient;
 TG  GO:0006098;
@@ -94,15 +94,15 @@ EV  IPR011861; TIGR02134; sufficient;
 TG  GO:0006098;
 --
 SN  8
-ID  triosephosphate isomerase
-DN  triosephosphate isomerase
+ID  Triosephosphate isomerase
+DN  Triosephosphate isomerase (EC 5.3.1.1)
 RQ  1
 EV  IPR000652; TIGR00419; sufficient;
 TG  GO:0006098;
 --
 SN  9
-ID  fructose-bisphosphate aldolase
-DN  fructose-bisphosphate aldolase
+ID  Fructose-bisphosphate aldolase
+DN  Fructose-bisphosphate aldolase (EC 4.1.2.13)
 RQ  1
 EV  IPR011289; TIGR01859; sufficient;
 TG  GO:0006098;
