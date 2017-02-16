@@ -1,21 +1,21 @@
 AC  GenProp0118
-DE  ornithine biosynthesis from glutamate, acetylated branch
+DE  Ornithine biosynthesis from glutamate, acetylated branch
 TP  PATHWAY
 AU  Haft D
 TH  0
 DC  Ornithine Biosynthesis
 DR  IUBMB; AminoAcid; Orn;
-DC  Urea cycle and metabolism of amino groups
+DC  Arginine biosynthesis
 DR  KEGG; map00220;
 CC  This pathway results in the creation of ornithine for use in the
-CC  biosynthesis of arginine and in the urea cycle.  Ornithine can also be
+CC  biosynthesis of arginine and in the urea cycle. Ornithine can also be
 CC  interconverted with glutamate semialdehyde from the proline
-CC  biosynthetic pathway.  This is one of two possible branches for the
-CC  creation of ornithine from glutamate.
+CC  biosynthetic pathway. This pathway represents one of two possible 
+CC  branches for the creation of ornithine from glutamate.
 --
 SN  1
-ID  glutamate N-acetyltransferase
-DN  glutamate N-acetyltransferase (EC 2.3.1.35 2.3.1.1)
+ID  Glutamate N-acetyltransferase
+DN  Glutamate N-acetyltransferase (EC 2.3.1.35/EC 2.3.1.1)
 RQ  1
 EV  IPR002813; TIGR00120; sufficient;
 TG  GO:0006592;
@@ -23,8 +23,8 @@ EV  IPR010167; TIGR01890; sufficient;
 TG  GO:0006592;
 --
 SN  2
-ID  acetylglutamate kinase
-DN  acetylglutamate kinase (EC 2.7.2.8)
+ID  Acetylglutamate kinase
+DN  Acetylglutamate kinase (EC 2.7.2.8)
 RQ  1
 EV  IPR004662; TIGR00761; sufficient;
 TG  GO:0006592;
@@ -39,14 +39,14 @@ EV  IPR010136; TIGR01851; sufficient;
 TG  GO:0006592;
 --
 SN  4
-ID  acetylornithine aminotransferase
-DN  acetylornithine aminotransferase (EC 2.6.1.11)
+ID  Acetylornithine aminotransferase
+DN  Acetylornithine aminotransferase (EC 2.6.1.11)
 RQ  1
 EV  IPR004636; TIGR00707; sufficient;
 --
 SN  5
-ID  acetylornithine deacetylase
-DN  acetylornithine deacetylase (EC 3.5.1.16)
+ID  Acetylornithine deacetylase
+DN  Acetylornithine deacetylase (EC 3.5.1.16)
 RQ  1
 EV  IPR002813; TIGR00120; sufficient;
 TG  GO:0006592;
