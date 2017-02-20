@@ -15,7 +15,8 @@ CC  There are four known variations (branches) of the lysine biosynthesis
 CC  pathway via diaminopimelate (DAP). The variations occur in the steps 
 CC  converting L-2,3,4,5-tetrahydrodipicolinate (THDPA) to 
 CC  LL-2,6-diaminopimelate. This property refers to the acetylated branch 
-CC  of this pathway which generates N-acetyl intermediates [1].
+CC  of this pathway which generates N-acetyl intermediates. This branch 
+CC  is limited to certain Bacillus species [1].
 --
 SN  1
 ID  Acetyl-diaminopimelate deacetylase
