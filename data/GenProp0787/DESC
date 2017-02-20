@@ -1,19 +1,36 @@
 AC  GenProp0787
-DE  lysine biosynthesis via diaminopimelate (DAP), acetylated branch
+DE  Lysine biosynthesis via diaminopimelate (DAP), acetylated branch
 TP  PATHWAY
 AU  Haft D
 TH  0
+RN  [1]
+RM  20418392
+RT  Methanococci use the diaminopimelate aminotransferase (DapL) pathway 
+RT  for lysine biosynthesis.
+RA  Liu Y, White RH, Whitman WB; 
+RL  J Bacteriol. 2010;192(13):3304-3310.
+DC  Lysine Biosynthesis
+DR  KEGG; map00300;
+CC  There are four known variations (branches) of the lysine biosynthesis 
+CC  pathway via diaminopimelate (DAP). The variations occur in the steps 
+CC  converting L-2,3,4,5-tetrahydrodipicolinate (THDPA) to 
+CC  LL-2,6-diaminopimelate. This property refers to the acetylated branch 
+CC  of this pathway which generates N-acetyl intermediates [1].
 --
-SN  ADAPDA
-ID  acetyl-diaminopimelate deacetylase
+SN  1
+ID  Acetyl-diaminopimelate deacetylase
+DN  Acetyl-diaminopimelate deacetylase (EC 3.5.1.47)
 RQ  1
+EV  IPR023905;
 --
-SN  ADAPTA
-ID  acetyl-diaminopimelate transaminase
+SN  2
+ID  Acetyl-diaminopimelate transaminase
+DN  Acetyl-diaminopimelate transaminase (EC 2.6.1.-)
 RQ  0
 --
-SN  THPAT
+SN  3
 ID  2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+DN  2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase (EC 2.3.1.89)
 RQ  1
 EV  IPR019873; TIGR03532;
 //
