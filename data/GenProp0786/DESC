@@ -1,25 +1,45 @@
 AC  GenProp0786
-DE  lysine biosynthesis via diaminopimelate (DAP), succinylated branch
+DE  Lysine biosynthesis via diaminopimelate (DAP), succinylated branch
 TP  PATHWAY
 AU  Haft D
 TH  0
+RN  [1]
+RM  20418392
+RT  Methanococci use the diaminopimelate aminotransferase (DapL) pathway 
+RT  for lysine biosynthesis.
+RA  Liu Y, White RH, Whitman WB; 
+RL  J Bacteriol. 2010;192(13):3304-3310.
+DC  Lysine Biosynthesis
+DR  KEGG; map00300;
+CC  There are four known variations (branches) of the lysine biosynthesis 
+CC  pathway via diaminopimelate (DAP). The variations occur in the steps 
+CC  converting L-2,3,4,5-tetrahydrodipicolinate (THDPA) to 
+CC  LL-2,6-diaminopimelate. This property refers to the succinylated 
+CC  branch of this pathway. This branch acylates THDPA with succinyl-CoA 
+CC  to generate N-succinyl-ll-2-amino-6-ketopimelate and forms meso-DAP 
+CC  by subsequent transamination, desuccinylation, and epimerization. This 
+CC  branch is utilized by proteobacteria as well as many firmicutes and 
+CC  actinobacteria [1]. 
 --
-SN  DapC
-ID  succinyl-diaminopimelate transaminase
-RQ  0
-EV  IPR019877; TIGR03537;
-EV  IPR019878; TIGR03538;
-EV  IPR019880; TIGR03539;
---
-SN  DapD
+SN  1
 ID  2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+DN  2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase/DapD (EC 2.3.1.117)
 RQ  1
 EV  IPR005664; TIGR00965; sufficient;
 EV  IPR019875; TIGR03535;
 EV  IPR019876; TIGR03536;
 --
-SN  DapE
-ID  succinyl-diaminopimelate desuccinylase (DapE)
+SN  2
+ID  Succinyl-diaminopimelate transaminase
+DN  Succinyl-diaminopimelate transaminase/DapC (EC 2.6.1.17)
+RQ  0
+EV  IPR019877; TIGR03537;
+EV  IPR019878; TIGR03538;
+EV  IPR019880; TIGR03539;
+--
+SN  3
+ID  Succinyl-diaminopimelate desuccinylase (DapE)
+DN  Succinyl-diaminopimelate desuccinylase/DapE (EC 3.5.1.18)
 RQ  1
 EV  IPR005941; TIGR01246; sufficient;
 EV  IPR010174; TIGR01900; sufficient;
