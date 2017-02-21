@@ -3,4 +3,7 @@ DE  Selfish genetic elements
 TP  CATEGORY
 AU  Haft D
 TH  0
+CC  Elements that enhance their own transmission relative to the rest of 
+CC  an individual’s genome, but are neutral or harmful to the individual 
+CC  as a whole.
 //
