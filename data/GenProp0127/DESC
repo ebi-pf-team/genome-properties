@@ -25,47 +25,46 @@ CC  significance is that Tat lets cofactors such as flavins or iron-sulfur
 CC  clusters be retained during transit across the membrane. Targets for
 CC  the system can often be recognized by a characteristic signal sequence
 CC  with an Arg-Arg motif. The target proteins usually are predicted to
-CC  perform redox functions. This property reflects detection of the whole
-CC  system: components of the translocase and at least one example of a
-CC  predicted Tat signal sequence. Every system must have at least one TatA
-CC  homolog (other than TatB) and at least one TatC homolog. TatB occurs
-CC  only in Proteobacteria and is required at least in E. coli. Recently,
-CC  several proteins (TorD, NapD) have been shown to act as chaperones that
-CC  bind the TAT signal peptide of a specific protein and delay
-CC  translocation until the cofactor has bound.
+CC  perform redox functions [1]. This property reflects detection of the 
+CC  whole system: components of the translocase and at least one example of 
+CC  a predicted Tat signal sequence. Every system must have at least one 
+CC  TatA homolog (other than TatB) and at least one TatC homolog. TatB 
+CC  occurs only in Proteobacteria and is required at least in E. coli. 
+CC  Recently, several proteins (TorD, NapD) have been shown to act as 
+CC  chaperones that bind the TAT signal peptide of a specific protein and 
+CC  delay translocation until the cofactor has bound [2].
 **  These genomes had a qualifying TatB but not TatA/E:  gsi ntgo01 ntjs01
 **  ntmc01 ntps01 gcc52592  when I separated TatB from TatA/E as steps,
 **  10/6/2006 DHH.  Should probably add PF02613 TIGR03482 to list of TAT
 **  chaperones (although these may do additional chaperoning functions).
 --
-SN  TATchap
+SN  1
 ID  TAT signal peptide-binding chaperone
 RQ  0
 EV  IPR005623; PF03927;
-EV  IPRXXXX; PF06192;
 EV  IPR020945; PF02613;
 --
-SN  TatA/E
-ID  twin-Arg translocation proteins TatA/E
-DN  sec-independent protein translocase protein TatA
+SN  2
+ID  Twin-Arg translocation proteins TatA/E
+DN  Sec-independent protein translocase protein TatA
 RQ  1
 EV  IPR006312; TIGR01411; sufficient;
 --
-SN  TatB
-ID  twin-Arg translocation protein TatB (Proteobacteria)
-DN  sec-independent protein translocase protein TatB
+SN  3
+ID  Twin-Arg translocation protein TatB (Proteobacteria)
+DN  Sec-independent protein translocase protein TatB
 RQ  0
 EV  IPR018448; TIGR01410; sufficient;
 --
-SN  TatC
-ID  translocase TatC
-DN  sec-independent protein translocase protein TatC
+SN  4
+ID  Translocase TatC
+DN  Sec-independent protein translocase protein TatC
 RQ  1
 EV  IPR002033; TIGR00945; sufficient;
 EV  IPR011532; TIGR01912; sufficient;
 --
-SN  example
-ID  has twin-arginine signal sequence
+SN  5
+ID  Has twin-arginine signal sequence
 DN  Tat (twin-arginine translocation) pathway signal sequence domain protein
 RQ  1
 EV  IPR019546; TIGR01409; sufficient;
