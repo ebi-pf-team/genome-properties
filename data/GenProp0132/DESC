@@ -1,5 +1,5 @@
 AC  GenProp0132
-DE  transcription termination - antitermination Nus factors
+DE  transcription termination/antitermination Nus factors
 TP  SYSTEM
 AU  Haft D
 TH  1
@@ -18,40 +18,40 @@ CC  termination factor Rho, but factor Rho and cis-acting rho-utilization
 CC  sites are less well distributed than the N-factors, which are
 CC  essentially universal in bacteria. In species with Rho, Nus factors
 CC  improve transcriptase turnover speeds. Nus factors can block Rho
-CC  action, a process called anti-termination. See GenProp0812 for a
-CC  treatment of rho-dependent transcription termination.
+CC  action, a process called anti-termination [1]. See GenProp0812 for
+CC  rho-dependent transcription termination.
 --
-SN  S10/nusE
-ID  ribosomal protein S10, rpsJ/nusE
-RQ  1
-EV  IPR001848; TIGR01049; sufficient;
-TG  GO:0006353;
---
-SN  nusA
+SN  1
 ID  transcription termination factor NusA
 DN  transcription termination factor NusA
 RQ  1
 EV  IPR010213; TIGR01953; sufficient;
 TG  GO:0006353;
 --
-SN  nusA-C
+SN  2
 ID  NusA C-terminal duplication
 DN  NOT APPLICABLE
 RQ  0
 EV  IPR010214; TIGR01954; sufficient;
 --
-SN  nusB
+SN  3
 ID  transcription termination-antitermination factor NusB
 DN  transcription antitermination factor NusB
 RQ  1
 EV  IPR011605; TIGR01951; sufficient;
 TG  GO:0006353;
 --
-SN  nusG
+SN  4
 ID  transcription termination-antitermination factor NusG
 DN  transcription antitermination protein NusG
 RQ  1
 EV  IPR001062; TIGR00922; sufficient;
 TG  GO:0006353;
 EV  IPR010216; TIGR01956; sufficient;
+--
+SN  5
+ID  ribosomal protein S10, rpsJ/nusE
+RQ  1
+EV  IPR001848; TIGR01049; sufficient;
+TG  GO:0006353;
 //
