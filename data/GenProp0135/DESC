@@ -1,5 +1,5 @@
 AC  GenProp0135
-DE  NADH dehydrogenase I
+DE  NADH dehydrogenase complex I
 TP  SYSTEM
 AU  Haft DH
 TH  3
@@ -8,97 +8,97 @@ DR  KEGG; map00190;
 CC  Several multichain membrane complexes couple electron transfer
 CC  involving NADH to ion transport. This property represents an NADH
 CC  dehydrogenase termed complex I, whose individual subunits are
-CC  designated A through N. The electron acceptor is a quinone, ubiquinone,
-CC  in most bacteria and in the related mitochondrial complex. The state
-CC  for this property must be set to NO for related but distinct complexes,
-CC  such as that from Methanosarcina in which F420H2 replaces NADH.
+CC  designated A through N. The electron acceptor is a quinone, ubiquinone
+CC  in most bacteria and in the related mitochondrial complex. 
+**  The state for this property must be set to NO for related but distinct 
+**  complexes, such as that from Methanosarcina in which F420H2 replaces 
+**  NADH.
 --
-SN  NuoA
+SN  1
 ID  NADH-ubiquinone/plastoquinone oxidoreductase, chain 3
-DN  NADH dehydrogenase I, A subunit (EC 1.6.5.3)
+DN  NADH dehydrogenase I, A subunit/NuoA (EC 1.6.5.3)
 RQ  1
 EV  IPR000440; PF00507; sufficient;
 --
-SN  NuoB
+SN  2
 ID  NADH dehydrogenase I, B subunit
-DN  NADH dehydrogenase I, B subunit (EC 1.6.5.3)
+DN  NADH dehydrogenase I, B subunit/NuoB (EC 1.6.5.3)
 RQ  1
 EV  IPR006137; PF01058; sufficient;
 EV  IPR006138; TIGR01957; sufficient;
 --
-SN  NuoC
+SN  3
 ID  NADH dehydrogenase I, C subunit
-DN  NADH dehydrogenase I, C subunit (EC 1.6.5.3)
+DN  NADH dehydrogenase I, C subunit/NuoC (EC 1.6.5.3)
 RQ  1
 EV  IPR001268; PF00329; sufficient;
 EV  IPR010218; TIGR01961; sufficient;
 --
-SN  NuoD
+SN  4
 ID  NADH dehydrogenase I, D subunit
-DN  NADH dehydrogenase I, D subunit (EC 1.6.5.3)
+DN  NADH dehydrogenase I, D subunit/NuoD (EC 1.6.5.3)
 RQ  1
 EV  IPR001135; PF00346; sufficient;
 EV  IPR022885; TIGR01962; sufficient;
 --
-SN  NuoE
+SN  5
 ID  NADH dehydrogenase I, E subunit
-DN  NADH dehydrogenase I, E subunit (EC 1.6.5.3)
+DN  NADH dehydrogenase I, E subunit/NuoE (EC 1.6.5.3)
 RQ  0
-EV  IPRXXXX; PF01257; sufficient;
 EV  IPR002023; TIGR01958; sufficient;
 --
-SN  NuoF
+SN  6
 ID  NADH dehydrogenase I, F subunit
-DN  NADH dehydrogenase I, F subunit (EC 1.6.5.3)
+DN  NADH dehydrogenase I, F subunit/NuoF (EC 1.6.5.3)
 RQ  0
 EV  IPR011538; PF01512; sufficient;
 EV  IPR011537; TIGR01959; sufficient;
 --
-SN  NuoG
+SN  7
 ID  NADH dehydrogenase I, G subunit
-DN  NADH dehydrogenase I, G subunit (EC 1.6.5.3)
+DN  NADH dehydrogenase I, G subunit/NuoG (EC 1.6.5.3)
 RQ  0
 EV  IPR010228; TIGR01973; sufficient;
 --
-SN  NuoH
+SN  8
 ID  NADH dehydrogenase I, H subunit
-DN  NADH dehydrogenase I, H subunit (EC 1.6.5.3)
+DN  NADH dehydrogenase I, H subunit/NuoH (EC 1.6.5.3)
 RQ  1
 EV  IPR001694; PF00146; sufficient;
 --
-SN  NuoI
+SN  9
 ID  NADH dehydrogenase I, I subunit
-DN  NADH dehydrogenase I, I subunit (EC 1.6.5.3)
+DN  NADH dehydrogenase I, I subunit/NuoI (EC 1.6.5.3)
 RQ  1
 EV  IPR010226; TIGR01971; sufficient;
 --
-SN  NuoJ
+SN  10
 ID  NADH dehydrogenase I, J subunit
-DN  NADH dehydrogenase I, J subunit (EC 1.6.5.3)
+DN  NADH dehydrogenase I, J subunit/NuoJ (EC 1.6.5.3)
 RQ  1
 EV  IPR001457; PF00499; sufficient;
 --
-SN  NuoK
+SN  11
 ID  NADH dehydrogenase I, K subunit
-DN  NADH dehydrogenase I, K subunit (EC 1.6.5.3)
+DN  NADH dehydrogenase I, K subunit/NuoK (EC 1.6.5.3)
 RQ  1
 EV  IPR001133; PF00420; sufficient;
 --
-SN  NuoL
+SN  12
 ID  NADH dehydrogenase I, L subunit
-DN  NADH dehydrogenase I, L subunit (EC 1.6.5.3)
+DN  NADH dehydrogenase I, L subunit/NuoL (EC 1.6.5.3)
 RQ  1
 EV  IPR003945; TIGR01974; sufficient;
 --
-SN  NuoM
+SN  13
 ID  NADH dehydrogenase I, M subunit
-DN  NADH dehydrogenase I, M subunit (EC 1.6.5.3)
+DN  NADH dehydrogenase I, M subunit/NuoM (EC 1.6.5.3)
 RQ  1
 EV  IPR010227; TIGR01972; sufficient;
 --
-SN  NuoN
+SN  14
 ID  NADH dehydrogenase I, N subunit
-DN  NADH dehydrogenase I, N subunit (EC 1.6.5.3)
+DN  NADH dehydrogenase I, N subunit/NuoN (EC 1.6.5.3)
 RQ  1
 EV  IPR010096; TIGR01770; sufficient;
 //
