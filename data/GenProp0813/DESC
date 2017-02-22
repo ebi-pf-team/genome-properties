@@ -1,7 +1,7 @@
 AC  GenProp0813
-DE  pyrimidine utilization  operon, RutABCDEFGR
+DE  Pyrimidine utilization
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  16540542
@@ -29,7 +29,7 @@ RQ  1
 EV  IPR019914; TIGR03612;
 --
 SN  RutB
-ID  isochorismate mutase family protein RutB
+ID  Isochorismate mutase family protein RutB
 RQ  1
 EV  IPR019916; TIGR03614;
 --
@@ -39,27 +39,27 @@ RQ  1
 EV  IPR019898; TIGR03610;
 --
 SN  RutD
-ID  hydrolase protein RutD
+ID  Hydrolase protein RutD
 RQ  1
 EV  IPR019913; TIGR03611;
 --
 SN  RutE
-ID  nitroreductase family protein RutE
+ID  Nitroreductase family protein RutE
 RQ  0
 EV  IPRXXXX; PF00881;
 --
 SN  RutF
-ID  flavin reductase RutF
+ID  Flavin reductase RutF
 RQ  1
 EV  IPR019917; TIGR03615;
 --
 SN  RutG
-ID  uracil-xanthine permease family protein RutG
+ID  Uracil-xanthine permease family protein RutG
 RQ  0
 EV  IPR019918; TIGR03616;
 --
 SN  RutR
-ID  clustered regulatory protein
+ID  Clustered regulatory protein
 RQ  0
 EV  IPR019915; TIGR03613;
 //

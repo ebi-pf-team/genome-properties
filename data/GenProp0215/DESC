@@ -1,7 +1,7 @@
 AC  GenProp0215
 DE  SOS response
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  The SOS response controls both accurate and potentially mutagenic DNA
 CC  repair functions, and requires the recA and lexA gene products. LexA is
@@ -19,8 +19,8 @@ RQ  1
 EV  IPR006200; TIGR00498; sufficient;
 --
 SN  recA
-ID  recA protein
-DN  recA protein
+ID  RecA protein
+DN  RecA protein
 RQ  1
 EV  IPR013765; TIGR02012; sufficient;
 //

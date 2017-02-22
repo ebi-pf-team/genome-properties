@@ -1,7 +1,7 @@
 AC  GenProp0760
-DE  putrescine degradation to GABA via gamma-glutamylation
+DE  Putrescine degradation to GABA via gamma-glutamylation
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  15590624
@@ -22,22 +22,22 @@ CC  succinate (gabD) are associated with this pathway but not modeled at
 CC  present as part of this Genome Property.
 --
 SN  puuA
-ID  glutamate--putrescine ligase
+ID  Glutamate--putrescine ligase
 RQ  1
 EV  IPRXXXX; 60;
 --
 SN  puuB
-ID  gamma-glutamylputrescine oxidase
+ID  Gamma-glutamylputrescine oxidase
 RQ  1
 EV  IPRXXXX; 61;
 --
 SN  puuC
-ID  gamma-glutamyl-gamma-aminobutyraldehyde dehydrogenase
+ID  Gamma-glutamyl-gamma-aminobutyraldehyde dehydrogenase
 RQ  1
 EV  IPRXXXX; 62;
 --
 SN  puuD
-ID  gamma-glutamyl-gamma-aminobutyrate hydrolase
+ID  Gamma-glutamyl-gamma-aminobutyrate hydrolase
 RQ  1
 EV  IPRXXXX; 63;
 //

@@ -1,7 +1,7 @@
 AC  GenProp0719
-DE  methyl-coenzyme M reductase
+DE  Methyl-coenzyme M reductase
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  Methyl-coenzyme M reductase is a nickel-containing, alpha2/beta2/gamma2
 CC  hexameric enzyme that catalyzes the final step in methanogenesis. This
@@ -16,32 +16,32 @@ CC  of methane rather than in methanogenesis.
 **  11023796)
 --
 SN  alpha
-ID  methyl-coenzyme M reductase, alpha subunit
+ID  Methyl-coenzyme M reductase, alpha subunit
 RQ  1
 EV  IPR016212; TIGR03256; sufficient;
 --
 SN  beta
-ID  methyl-coenzyme M reductase, beta subunit
+ID  Methyl-coenzyme M reductase, beta subunit
 RQ  1
 EV  IPR003179; TIGR03257; sufficient;
 --
 SN  gamma
-ID  methyl-coenzyme M reductase, gamma subunit
+ID  Methyl-coenzyme M reductase, gamma subunit
 RQ  1
 EV  IPR003178; TIGR03259; sufficient;
 --
 SN  mcr_A2
-ID  methyl coenzyme M reductase system, component A2
+ID  Methyl coenzyme M reductase system, component A2
 RQ  1
 EV  IPR017669; TIGR03269; sufficient;
 --
 SN  oper_C
-ID  methyl-coenzyme M reductase I operon protein C
+ID  Methyl-coenzyme M reductase I operon protein C
 RQ  1
 EV  IPR007687; TIGR03264; sufficient;
 --
 SN  oper_D
-ID  methyl-coenzyme M reductase operon protein D
+ID  Methyl-coenzyme M reductase operon protein D
 RQ  1
 EV  IPR003901; TIGR03260; sufficient;
 //

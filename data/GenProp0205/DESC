@@ -1,7 +1,7 @@
 AC  GenProp0205
-DE  signal recognition system, bacterial
+DE  Signal recognition system, bacterial
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  The signal recognition system in bacteria includes the signal
 CC  recognition particle (SRP) receptor FtsY and the SRP itself, which
@@ -15,7 +15,7 @@ CC  nascent protein by some signal peptidase.
 --
 SN  FtsY
 ID  SRP receptor
-DN  signal recognition particle-docking protein FtsY
+DN  Signal recognition particle-docking protein FtsY
 RQ  1
 EV  IPR004390; TIGR00064; sufficient;
 --
@@ -24,20 +24,20 @@ ID  SRP structural RNA
 RQ  1
 --
 SN  cleave
-ID  signal peptidase I
-DN  signal peptidase I
+ID  Signal peptidase I
+DN  Signal peptidase I
 RQ  1
 EV  IPR000223; TIGR02227; sufficient;
 --
 SN  degrade
-ID  signal peptide peptidases
+ID  Signal peptide peptidases
 RQ  0
 EV  IPR004634; TIGR00705; sufficient;
 EV  IPR004635; TIGR00706; sufficient;
 --
 SN  ffh
 ID  SRP protein
-DN  signal recognition particle protein
+DN  Signal recognition particle protein
 RQ  1
 EV  IPR004780; TIGR00959; sufficient;
 //

@@ -1,7 +1,7 @@
 AC  GenProp0766
-DE  anhydro-N-acetylmuramic acid to N-acetylglucosamine-phosphate
+DE  Anhydro-N-acetylmuramic acid to N-acetylglucosamine-phosphate
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  15901686
@@ -27,7 +27,7 @@ CC  N-acetylglucosamine-phosphate.
 **  failure to have both. I explored this by PPP, but unsuccessfully.
 --
 SN  anmK
-ID  anhydro-N-acetylmuramic acid kinase
+ID  Anhydro-N-acetylmuramic acid kinase
 RQ  1
 EV  IPR005338; PF03702;
 TG  GO:0009254;

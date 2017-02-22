@@ -1,7 +1,7 @@
 AC  GenProp1052
-DE  geopeptide radical SAM/SPASM maturase system
+DE  Geopeptide radical SAM/SPASM maturase system
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  The core of this system is a putative peptide-modifying radical SAM
 CC  family and its putative target, a short peptide with a Cys-Cys motif.
@@ -10,12 +10,12 @@ CC  family and its putative target, a short peptide with a Cys-Cys motif.
 **  in neighborhood also in Pelobacter propionicus DSM 2379. 
 --
 SN  gptA
-ID  geopeptide precursor
+ID  Geopeptide precursor
 RQ  1
 EV  IPR026376; TIGR04229;
 --
 SN  gptM
-ID  geopeptide radical SAM maturase
+ID  Geopeptide radical SAM maturase
 RQ  1
 EV  IPR026322; TIGR04280;
 //

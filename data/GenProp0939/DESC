@@ -1,7 +1,7 @@
 AC  GenProp0939
-DE  rSAM-containing biosynthetic cluster, MSMEG_0568 system
+DE  RSAM-containing biosynthetic cluster, MSMEG_0568 system
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This Genome Property describes a broadly but sparsely distributed gene
 CC  cluster that appears to be biosynthetic. The cluster includes a radical
@@ -11,7 +11,7 @@ CC  proteins.This assortment of functions suggests a biosynthetic rather
 CC  than catabolic role for the cluster.
 --
 SN  M_0565
-ID  glycosyltransferase, MSMEG_0565 family
+ID  Glycosyltransferase, MSMEG_0565 family
 RQ  0
 EV  IPR023986; TIGR04047;
 --
@@ -27,12 +27,12 @@ RQ  1
 EV  IPR024035; TIGR04045;
 --
 SN  M_0568
-ID  radical SAM protein, MSMEG_0568 family
+ID  Radical SAM protein, MSMEG_0568 family
 RQ  1
 EV  IPR016779; TIGR04043;
 --
 SN  M_0569
-ID  flavin-dependent oxidoreductase, MSMEG_0569 family
+ID  Flavin-dependent oxidoreductase, MSMEG_0569 family
 RQ  1
 EV  IPR024000; TIGR04046;
 --
@@ -47,12 +47,12 @@ RQ  1
 EV  IPR023847; TIGR04044;
 --
 SN  M_extr_1
-ID  biosynthetic protein, Pnap_2097 family
+ID  Biosynthetic protein, Pnap_2097 family
 RQ  0
 EV  IPR024092; TIGR04099;
 --
 SN  M_nitr
-ID  putative nitrilase, sll0784 family
+ID  Putative nitrilase, sll0784 family
 RQ  1
 EV  IPR023919; TIGR04048;
 //

@@ -1,7 +1,7 @@
 AC  GenProp1009
-DE  coronavirus protein set
+DE  Coronavirus protein set
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  A coronavirus is an unsegmented ssRNA positive-strand enveloped virus
 CC  with no DNA stage. A -1 frameshift can occur in production of the
@@ -13,57 +13,57 @@ CC  replicase polyprotein.
 **  PF01661 macro domain (ADP-ribose binding) in replicase polyprotein.
 --
 SN  NS3_envE
-ID  nonstructural protein NS3/small envelope
+ID  Nonstructural protein NS3/small envelope
 RQ  1
 EV  IPR003873; PF02723;
 --
 SN  NSP1
-ID  coronavirus nonstructural protein NS1
+ID  Coronavirus nonstructural protein NS1
 RQ  0
 EV  IPR009314; PF06145;
 --
 SN  NSP10
-ID  replicase polyprotein NSP10 region
+ID  Replicase polyprotein NSP10 region
 RQ  1
 EV  IPR018995; PF09401;
 --
 SN  NSP11
-ID  coronavirus replicase polyprotein NSP11 region
+ID  Coronavirus replicase polyprotein NSP11 region
 RQ  1
 EV  IPR009466; PF06471;
 --
 SN  NSP13
-ID  replicase polyprotein NSP13 region
+ID  Replicase polyprotein NSP13 region
 RQ  1
 EV  IPR009461; PF06460;
 --
 SN  NSP2
-ID  coronavirus nonstructural protein NS2
+ID  Coronavirus nonstructural protein NS2
 RQ  1
 EV  IPR006841; PF04753;
 --
 SN  NSP3
-ID  main protease
+ID  Main protease
 RQ  1
 EV  IPR008740; PF05409;
 --
 SN  NSP7
-ID  replicase polyprotein NSP7 region
+ID  Replicase polyprotein NSP7 region
 RQ  1
 EV  IPR014828; PF08716;
 --
 SN  NSP8
-ID  replicase polyprotein NSP8 region
+ID  Replicase polyprotein NSP8 region
 RQ  1
 EV  IPR014829; PF08717;
 --
 SN  NSP9
-ID  replicase polyprotein NSP9 region
+ID  Replicase polyprotein NSP9 region
 RQ  1
 EV  IPR014822; PF08710;
 --
 SN  PLpro
-ID  papain-like protease
+ID  Papain-like protease
 RQ  1
 EV  IPR014827; PF08715;
 --
@@ -73,27 +73,27 @@ RQ  1
 EV  IPR009469; PF06478;
 --
 SN  coron_M
-ID  coronavirus M matrix/glycoprotein
+ID  Coronavirus M matrix/glycoprotein
 RQ  1
 EV  IPR002574; PF01635;
 --
 SN  ncaps_I
-ID  corona nucleocapsid I protein
+ID  Corona nucleocapsid I protein
 RQ  1
 EV  IPR004876; PF03187;
 --
 SN  ncapsid
-ID  coronavirus nucleocapsid protein
+ID  Coronavirus nucleocapsid protein
 RQ  1
 EV  IPR001218; PF00937;
 --
 SN  spi_S1
-ID  coronavirus S1 glycoprotein
+ID  Coronavirus S1 glycoprotein
 RQ  0
 EV  IPR002551; PF01600;
 --
 SN  spi_S2
-ID  coronavirus S2 glycoprotein
+ID  Coronavirus S2 glycoprotein
 RQ  1
 EV  IPR002552; PF01601;
 //

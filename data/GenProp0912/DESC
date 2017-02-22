@@ -1,11 +1,11 @@
 AC  GenProp0912
 DE  Leptospira exopolysaccharide biosynthesis clusters
 TP  GUILD
-AU  Haft D
+AU  Haft DH
 TH  0
 --
 SN  activ
-ID  sugar activating enzymes: nucleotidyltransferases, cytidyltransferases, kinases
+ID  Sugar activating enzymes: nucleotidyltransferases, cytidyltransferases, kinases
 RQ  0
 EV  IPRXXXX; PF02348;
 EV  IPRXXXX; PF00483;
@@ -13,13 +13,13 @@ EV  IPR005907; TIGR01207;
 EV  IPRXXXX; PF00294;
 --
 SN  glyctr
-ID  glycosyltransferases
+ID  Glycosyltransferases
 RQ  1
 EV  IPRXXXX; PF00535;
 EV  IPRXXXX; PF00534;
 --
 SN  isom
-ID  sugar isomerizatation and epimerization enzymes
+ID  Sugar isomerizatation and epimerization enzymes
 RQ  0
 EV  IPR029767; TIGR00236;
 EV  IPRXXXX; PF05523;
@@ -28,7 +28,7 @@ EV  IPRXXXX; PF02350;
 EV  IPRXXXX; PF03275;
 --
 SN  modif
-ID  sugar ring modification enzymes: synthases, lyases, aldolases, lactonases
+ID  Sugar ring modification enzymes: synthases, lyases, aldolases, lactonases
 RQ  0
 EV  IPRXXXX; PF03102;
 EV  IPRXXXX; PF03328;
@@ -36,7 +36,7 @@ EV  IPR005900; TIGR01198;
 EV  IPRXXXX; PF04055;
 --
 SN  other
-ID  other known EPS enzymes (from synteny)
+ID  Other known EPS enzymes (from synteny)
 RQ  0
 EV  IPRXXXX; PF08889;
 --
@@ -46,7 +46,7 @@ RQ  1
 EV  IPR017475; TIGR03025;
 --
 SN  redox
-ID  sugar redox enzymes: dehydrogenases, epimerase/dehydratases, oxidases, reductases
+ID  Sugar redox enzymes: dehydrogenases, epimerase/dehydratases, oxidases, reductases
 RQ  0
 EV  IPRXXXX; PF01370;
 EV  IPRXXXX; PF00465;
@@ -59,16 +59,16 @@ EV  IPRXXXX; PF01370;
 EV  IPRXXXX; PF01266;
 --
 SN  regul
-ID  transcriptional activators
+ID  Transcriptional activators
 RQ  0
 --
 SN  sugDUF
-ID  sugar-associated domain of unknown function
+ID  Sugar-associated domain of unknown function
 RQ  0
 EV  IPRXXXX; PF01380;
 --
 SN  transf
-ID  sugar modification transferases: amino-, carbamoyl-, acetyl-, methyl-, amido-
+ID  Sugar modification transferases: amino-, carbamoyl-, acetyl-, methyl-, amido-
 RQ  0
 EV  IPRXXXX; PF02543;
 EV  IPRXXXX; PF01041;
@@ -84,14 +84,14 @@ EV  IPRXXXX; PF08242;
 EV  IPRXXXX; PF00551;
 --
 SN  trim
-ID  sugar trimming enzymes: phosphatases, deacetylases, esterases
+ID  Sugar trimming enzymes: phosphatases, deacetylases, esterases
 RQ  0
 EV  IPRXXXX; PF00459;
 EV  IPRXXXX; PF01522;
 EV  IPRXXXX; PF02585;
 --
 SN  tspsase
-ID  transposases
+ID  Transposases
 RQ  0
 EV  IPR002525; PF01548;
 --

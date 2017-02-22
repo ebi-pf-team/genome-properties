@@ -1,7 +1,7 @@
 AC  GenProp0687
-DE  allantoin catabolism to oxamate and carbamoyl-phosphate
+DE  Allantoin catabolism to oxamate and carbamoyl-phosphate
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  1
 RN  [1]
 RM  10601204
@@ -20,39 +20,39 @@ CC  carbamate kinase (2.7.2.2).  A by-product of this pathway is oxamate
 CC  (oxalic monoamide) which is presumably excreted.
 --
 SN  CK
-ID  carbamate kinase (2.7.2.2)
+ID  Carbamate kinase (2.7.2.2)
 RQ  1
 EV  IPR003964; TIGR00746; sufficient;
 --
 SN  all-in
-ID  source of allantoin
+ID  Source of allantoin
 RQ  0
 EV  IPRXXXX; TIGR00800;
 EV  GenProp0688;
 --
 SN  allB
-ID  allantoinase (3.5.2.5)
+ID  Allantoinase (3.5.2.5)
 RQ  1
 EV  IPR017593; TIGR03178; sufficient;
 --
 SN  allC
-ID  allantoate amidohydrolase (3.5.3.9)
+ID  Allantoate amidohydrolase (3.5.3.9)
 RQ  1
 EV  IPRXXXX; TIGR01879;
 EV  IPR017591; TIGR03176; sufficient;
 EV  IPR005164; TIGR02961; sufficient;
 --
 SN  allD
-ID  ureidoglycolate dehydrogenase (1.1.1.54)
+ID  Ureidoglycolate dehydrogenase (1.1.1.54)
 RQ  1
 EV  IPR017590; TIGR03175; sufficient;
 --
 SN  allX
-ID  cupin domain protein, unknown function
+ID  Cupin domain protein, unknown function
 RQ  0
 EV  IPR017627; TIGR03214; sufficient;
 --
 SN  oxaCT
-ID  oxamate carbamoyltransferase (2.1.3.5)
+ID  Oxamate carbamoyltransferase (2.1.3.5)
 RQ  0
 //

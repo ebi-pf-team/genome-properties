@@ -1,7 +1,7 @@
 AC  GenProp1007
-DE  orthobunyavirus protein set
+DE  Orthobunyavirus protein set
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This Genome Property collects HMMs that describe characteristic
 CC  proteins from examples of bunyavirus such as Oropouche virus, a
@@ -13,27 +13,27 @@ CC  nucleocapsid protein N and nonstructural protein NSs.
 **  The ends of the L protein (Bun_pol) are not modeled.
 --
 SN  Bun_G1
-ID  glycoprotein G1
+ID  Glycoprotein G1
 RQ  1
 EV  IPR005167; PF03557;
 --
 SN  Bun_G2
-ID  glycoprotein G2
+ID  Glycoprotein G2
 RQ  1
 EV  IPR005168; PF03563;
 --
 SN  Bun_N
-ID  bunyavirus nucleocapsid protein
+ID  Bunyavirus nucleocapsid protein
 RQ  1
 EV  IPR001784; PF00952;
 --
 SN  Bun_NSm
-ID  non-structural protein NS-m
+ID  Non-structural protein NS-m
 RQ  1
 EV  IPR026400; TIGR04210;
 --
 SN  Bun_NSs
-ID  non-structural protein NS-s
+ID  Non-structural protein NS-s
 RQ  1
 EV  IPR000797; PF01104;
 --

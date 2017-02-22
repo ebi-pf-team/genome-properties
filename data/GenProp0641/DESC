@@ -1,7 +1,7 @@
 AC  GenProp0641
-DE  spermidine biosynthesis from putrescine and S-adenosylmethionine
+DE  Spermidine biosynthesis from putrescine and S-adenosylmethionine
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  Spermine, spermidine and putrescine are a family of polyamines
 CC  (positively charged organic polycations) that are important for
@@ -18,7 +18,7 @@ RQ  1
 EV  IPR003826; PF02675; sufficient;
 --
 SN  speE
-ID  spermidine synthase
+ID  Spermidine synthase
 RQ  1
 EV  IPR001045; TIGR00417; sufficient;
 //

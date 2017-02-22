@@ -1,7 +1,7 @@
 AC  GenProp0686
-DE  allantoin catabolism to glyoxalate and urea
+DE  Allantoin catabolism to glyoxalate and urea
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  10601204
@@ -25,7 +25,7 @@ CC  molecules of urea which may be excreted or used as a source of ammonia
 CC  in urease-containing organisms.
 --
 SN  all-in
-ID  source of (S)-allantoin
+ID  Source of (S)-allantoin
 RQ  0
 EV  IPRXXXX; TIGR00800;
 TG  GO:0009442;
@@ -33,25 +33,25 @@ EV  GenProp0688;
 TG  GO:0009442;
 --
 SN  allA
-ID  ureidoglycolate lyase (4.3.2.3)
+ID  Ureidoglycolate lyase (4.3.2.3)
 RQ  1
 EV  IPR007247; PF04115; sufficient;
 TG  GO:0009442;
 --
 SN  allB
-ID  allantoinase (3.5.2.5)
+ID  Allantoinase (3.5.2.5)
 RQ  1
 EV  IPR017593; TIGR03178; sufficient;
 TG  GO:0009442;
 --
 SN  allC-f
-ID  allantoin hydrolysis, final
+ID  Allantoin hydrolysis, final
 RQ  0
 EV  IPR005164; TIGR02961; sufficient;
 TG  GO:0009442;
 --
 SN  allC-i
-ID  allantoin hydrolysis, initial
+ID  Allantoin hydrolysis, initial
 RQ  1
 EV  IPR005164; TIGR02961; sufficient;
 TG  GO:0009442;
@@ -59,7 +59,7 @@ EV  IPR017591; TIGR03176; sufficient;
 TG  GO:0009442;
 --
 SN  allX
-ID  cupin domain protein, unknown function
+ID  Cupin domain protein, unknown function
 RQ  0
 EV  IPR017627; TIGR03214; sufficient;
 TG  GO:0009442;

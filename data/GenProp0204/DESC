@@ -1,7 +1,7 @@
 AC  GenProp0204
 DE  KDO(2)-lipid A (Re LPS) biosynthesis and delivery
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  17056748
@@ -48,7 +48,7 @@ RQ  0
 EV  GenProp0750;
 --
 SN  export
-ID  lipid A exporter MsbA
+ID  Lipid A exporter MsbA
 RQ  0
 EV  IPR011917; TIGR02203; sufficient;
 --
@@ -69,13 +69,13 @@ EV  IPR010023; TIGR01670; sufficient;
 --
 SN  lpxA
 ID  UDP-N-acetylglucosamine O-acyltransferase
-DN  acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+DN  Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
 RQ  1
 EV  IPR010137; TIGR01852; sufficient;
 --
 SN  lpxB
-ID  lipid-A-disaccharide synthase
-DN  lipid-A-disaccharide synthase
+ID  Lipid-A-disaccharide synthase
+DN  Lipid-A-disaccharide synthase
 RQ  1
 EV  IPR003835; TIGR00215; sufficient;
 --
@@ -99,28 +99,28 @@ EV  IPR010138; TIGR01854; sufficient;
 EV  IPR010415; PF06230;
 --
 SN  lpxK
-ID  tetraacyldisaccharide 4'-kinase
-DN  tetraacyldisaccharide 4'-kinase
+ID  Tetraacyldisaccharide 4'-kinase
+DN  Tetraacyldisaccharide 4'-kinase
 RQ  1
 EV  IPR003758; TIGR00682; sufficient;
 --
 SN  lpxL
-ID  add lauroyl to lipid IV-A
+ID  Add lauroyl to lipid IV-A
 RQ  1
 EV  IPR011920; TIGR02207; sufficient;
 EV  IPR004960; PF03279; sufficient;
 --
 SN  msbB
-ID  acylate lauroyl-lipid IV-A
+ID  Acylate lauroyl-lipid IV-A
 RQ  0
 EV  IPR011921; TIGR02208; sufficient;
 --
 SN  tmp_lpxH
-ID  temporary_lpxH candidate
+ID  Temporary_lpxH candidate
 RQ  0
 --
 SN  waaA
-ID  transferase
+ID  Transferase
 RQ  1
 EV  IPR007507; PF04413; sufficient;
 //

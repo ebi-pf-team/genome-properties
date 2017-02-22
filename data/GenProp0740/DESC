@@ -1,7 +1,7 @@
 AC  GenProp0740
-DE  translation initiation, bacterial
+DE  Translation initiation, bacterial
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  15755955
@@ -13,17 +13,17 @@ CC  Essential housekeeping genes of bacterial translation initiation.
 **  HMMs.
 --
 SN  IF-1
-ID  translation initiation factor IF-1
+ID  Translation initiation factor IF-1
 RQ  1
 EV  IPR004368; TIGR00008;
 --
 SN  IF-2
-ID  translation initiation factor IF-2
+ID  Translation initiation factor IF-2
 RQ  1
 EV  IPR000178; TIGR00487;
 --
 SN  IF-3
-ID  translation initiation factor IF-3
+ID  Translation initiation factor IF-3
 RQ  1
 EV  IPR001288; TIGR00168;
 //

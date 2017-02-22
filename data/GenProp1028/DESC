@@ -1,7 +1,7 @@
 AC  GenProp1028
-DE  nitrous-oxide reductase
+DE  Nitrous-oxide reductase
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  Nitrous-oxide reductase (EC 1.7.2.4), NosZ, is a marker for complete
 CC  denitrification. Its system includes a number of maturation and
@@ -9,7 +9,7 @@ CC  accessory proteins. The system releases nitrogen, and the reaction in
 CC  biological systems is considered irreversible.
 --
 SN  nodD
-ID  periplasmic protein NosD
+ID  Periplasmic protein NosD
 RQ  1
 EV  IPR007742; PF05048;
 --
@@ -27,10 +27,10 @@ ID  NosX
 RQ  1
 --
 SN  nosY
-ID  integral membrane protein NosD
+ID  Integral membrane protein NosD
 RQ  0
 --
 SN  nosZ
-ID  nitrous-oxide reductase
+ID  Nitrous-oxide reductase
 RQ  1
 //

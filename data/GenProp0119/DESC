@@ -1,7 +1,7 @@
 AC  GenProp0119
 DE  PTS transport system
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  2
 RN  [1]
 RM  28168775
@@ -42,7 +42,7 @@ EV  IPR003755; TIGR00679; sufficient;
 TG  GO:0009401;
 --
 SN  4
-ID  phosphotransferase system, EIIA
+ID  Phosphotransferase system, EIIA
 DN  NOT APPLICABLE
 RQ  1
 EV  IPR003188; PF02255; sufficient;

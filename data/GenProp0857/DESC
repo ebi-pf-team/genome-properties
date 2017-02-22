@@ -1,7 +1,7 @@
 AC  GenProp0857
-DE  anchored repeat-class ABC transporter, P. acnes type
+DE  Anchored repeat-class ABC transporter, P. acnes type
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  Model TIGR03769 describes a protein region that occurs several times
 CC  per genome in several Actinobacteria. Typically, it occurs once in an
@@ -14,27 +14,27 @@ CC  some pathogenic Firmicutes.
 **  I will call this A.R.T. (anchored repeat transport).
 --
 SN  artA
-ID  anchored repeat ABC transporter, ATP-binding subunit
+ID  Anchored repeat ABC transporter, ATP-binding subunit
 RQ  1
 EV  IPR022508; TIGR03771;
 --
 SN  artP
-ID  anchored repeat ABC transporter, permease subunit
+ID  Anchored repeat ABC transporter, permease subunit
 RQ  1
 EV  IPR022392; TIGR03770;
 --
 SN  artR
-ID  anchored repeat ABC transporter, anchored relay protein
+ID  Anchored repeat ABC transporter, anchored relay protein
 RQ  1
 EV  IPR022395; TIGR03773;
 --
 SN  artS
-ID  anchored repeat ABC transporter, substrate-binding subunit
+ID  Anchored repeat ABC transporter, substrate-binding subunit
 RQ  1
 EV  IPR022434; TIGR03772;
 --
 SN  art_rpt
-ID  actinobacterial surface-anchored domain protein
+ID  Actinobacterial surface-anchored domain protein
 RQ  1
 EV  IPR022435; TIGR03769;
 //

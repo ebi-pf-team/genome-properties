@@ -1,7 +1,7 @@
 AC  GenProp0029
 DE  Nitrogen fixation
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  15629911
@@ -67,7 +67,7 @@ EV  IPR009953; PF07357; sufficient;
 TG  GO:0009399;
 --
 SN  6
-ID  transcriptional regulator
+ID  Transcriptional regulator
 RQ  0
 EV  IPR010113; TIGR01817; sufficient;
 TG  GO:0006808;

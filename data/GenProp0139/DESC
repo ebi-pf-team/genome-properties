@@ -1,14 +1,14 @@
 AC  GenProp0139
-DE  degradation of tyrosine via homogentisate
+DE  Degradation of tyrosine via homogentisate
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 DC  Tyrosine metabolism
 DR  KEGG; map00350;
 --
 SN  Fah
-ID  fumarylacetoacetase
-DN  fumarylacetoacetase (EC 3.7.1.2)
+ID  Fumarylacetoacetase
+DN  Fumarylacetoacetase (EC 3.7.1.2)
 RQ  1
 EV  IPR005959; TIGR01266; sufficient;
 TG  GO:0019445;
@@ -16,8 +16,8 @@ EV  IPRXXXX; PF01557;
 TG  GO:0019445;
 --
 SN  HmgA
-ID  homogentisate 1,2-dioxygenase
-DN  homogentisate 1,2-dioxygenase (EC 1.13.11.5)
+ID  Homogentisate 1,2-dioxygenase
+DN  Homogentisate 1,2-dioxygenase (EC 1.13.11.5)
 RQ  1
 EV  IPR005708; TIGR01015; sufficient;
 TG  GO:0019445;
@@ -32,15 +32,15 @@ EV  IPR005956; TIGR01263; sufficient;
 TG  GO:0019445;
 --
 SN  Mai
-ID  maleylacetoacetate isomerase
-DN  maleylacetoacetate isomerase (EC 5.2.1.2)
+ID  Maleylacetoacetate isomerase
+DN  Maleylacetoacetate isomerase (EC 5.2.1.2)
 RQ  1
 EV  IPR005955; TIGR01262; sufficient;
 TG  GO:0019445;
 --
 SN  TyrB
-ID  tyrosine transaminase
-DN  tyrosine transaminase (EC 2.6.1.5)
+ID  Tyrosine transaminase
+DN  Tyrosine transaminase (EC 2.6.1.5)
 RQ  0
 EV  IPR005957; TIGR01264; sufficient;
 TG  GO:0019445;

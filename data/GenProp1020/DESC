@@ -1,7 +1,7 @@
 AC  GenProp1020
 DE  O91(Ec) antigen biosynthesis
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  10493787
@@ -19,27 +19,27 @@ CC  the original publication [1] has this permuted such that the
 CC  b-D-galactose sugar is in the first position).
 --
 SN  Qui3NAcy
-ID  source of 3-hydroxybutyramido-quinovose
+ID  Source of 3-hydroxybutyramido-quinovose
 RQ  1
 EV  GenProp1021;
 --
 SN  WbsA
-ID  b-D-GlcA6NGly-(1->3)-b-D-GlcNAc transferase
+ID  B-D-GlcA6NGly-(1->3)-b-D-GlcNAc transferase
 RQ  1
 EV  IPRXXXX; 2867;
 --
 SN  WbsE
-ID  a-D-Qui3NAcyl-(1->4)-b-D-Gal transferase
+ID  A-D-Qui3NAcyl-(1->4)-b-D-Gal transferase
 RQ  1
 EV  IPRXXXX; 2869;
 --
 SN  WbsF
-ID  b-D-GlcNAc-(1->4)-b-D-GlcA6NGly transferase
+ID  B-D-GlcNAc-(1->4)-b-D-GlcA6NGly transferase
 RQ  1
 EV  IPRXXXX; 2872;
 --
 SN  WbsG
-ID  b-D-Gal-(1->4)-b-D-GlcNAc transferase
+ID  B-D-Gal-(1->4)-b-D-GlcNAc transferase
 RQ  1
 EV  IPRXXXX; 2873;
 --

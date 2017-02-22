@@ -1,7 +1,7 @@
 AC  GenProp0885
-DE  flagellar post-translational modification components
+DE  Flagellar post-translational modification components
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  Certain flagellar proteins, particularly the flagellin subunits
 CC  themselvesm as well as other components with access to the
@@ -9,7 +9,7 @@ CC  extracellular environment may be post-translationally altered by this
 CC  group of proteins.
 --
 SN  flgJ
-ID  flagellar rod assembly protein/muramidase FlgJ
+ID  Flagellar rod assembly protein/muramidase FlgJ
 RQ  1
 EV  IPR013377; TIGR02541; sufficient;
 EV  IPR012823; PF02050; sufficient;

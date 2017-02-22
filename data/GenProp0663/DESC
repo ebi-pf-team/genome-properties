@@ -1,7 +1,7 @@
 AC  GenProp0663
 DE  Verrucomicrobium/Chthoniobacter four-plus-PEP_CTERM cassette
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  Verrucomicrobium spinosum DSM 4136 and Chthoniobacter flavus Ellin428,
 CC  both members of the Verrucomicrobia, have multiple homologous operons
@@ -19,7 +19,7 @@ CC  may from are not yet understood.
 **  cassette protein A-D (vccABCD).
 --
 SN  FOUR
-ID  operon position FOUR protein
+ID  Operon position FOUR protein
 RQ  1
 EV  IPR019836; TIGR02596; sufficient;
 --
@@ -29,7 +29,7 @@ RQ  1
 EV  IPR019840; TIGR02600; sufficient;
 --
 SN  THREE
-ID  mid-operon protein
+ID  Mid-operon protein
 RQ  1
 EV  IPR019839; TIGR02599; sufficient;
 --

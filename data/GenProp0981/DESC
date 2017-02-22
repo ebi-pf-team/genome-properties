@@ -1,7 +1,7 @@
 AC  GenProp0981
-DE  radical SAM/lipoprotein system
+DE  Radical SAM/lipoprotein system
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This tandem two gene system appears restricted to the lineage
 CC  Bacteroidetes and Fibrobacteres lineages (Bacteroides sp.,
@@ -13,12 +13,12 @@ CC  enzyme.
 **  radical SAM enzyme. 
 --
 SN  rsl_LIP
-ID  lipoprotein, rSAM/lipoprotein system
+ID  Lipoprotein, rSAM/lipoprotein system
 RQ  1
 EV  IPR026403; TIGR04134;
 --
 SN  rsl_SAM
-ID  radical SAM protein, rSAM/lipoprotein system
+ID  Radical SAM protein, rSAM/lipoprotein system
 RQ  1
 EV  IPR026404; TIGR04133;
 //

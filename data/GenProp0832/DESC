@@ -1,7 +1,7 @@
 AC  GenProp0832
-DE  archaeal core gene set, 1 or more per genome
+DE  Archaeal core gene set, 1 or more per genome
 TP  GUILD
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This set of genes includes those which are found in every archaeal
 CC  genome but may be present in multiple copies generally or in greater
@@ -10,12 +10,12 @@ CC  genomes found greater than 95% having at least one copy of each of
 CC  these genes.
 --
 SN  aTF-S
-ID  transcription factor S
+ID  Transcription factor S
 RQ  1
 EV  IPR006288; TIGR01384;
 --
 SN  tyrS
-ID  tyrosyl-tRNA synthetase
+ID  Tyrosyl-tRNA synthetase
 RQ  1
 EV  IPR002307; TIGR00234;
 //

@@ -1,7 +1,7 @@
 AC  GenProp0893
-DE  sulfopyruvate biosynthesis via L-cysteate
+DE  Sulfopyruvate biosynthesis via L-cysteate
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  Two different pathways for coenzyme M biosynthesis pass through the
 CC  intermediate sulfopyruvate. This Genome Property describes a pathway
@@ -13,7 +13,7 @@ CC  L-cysteate to sulfopyruvate.
 **  intermediate of dehydroalanine, and adding a sulfate.
 --
 SN  M_cyst
-ID  cysteate synthase
+ID  Cysteate synthase
 RQ  1
 EV  IPR022401; TIGR03844;
 //

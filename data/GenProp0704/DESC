@@ -1,7 +1,7 @@
 AC  GenProp0704
 DE  tRNA U34 carboxymethylaminomethyl modification
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  GidA and MnmE act as a heterotetramer for the cmnmU34 modification in
 CC  bacteria and eukarya. They are absent from the Archaea. Their action
@@ -17,7 +17,7 @@ RQ  1
 EV  IPR004416; TIGR00136; sufficient;
 --
 SN  IscS
-ID  cysteine desulfurase IscS
+ID  Cysteine desulfurase IscS
 RQ  1
 EV  IPR010240; TIGR02006; sufficient;
 --

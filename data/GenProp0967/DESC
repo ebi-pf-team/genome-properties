@@ -1,7 +1,7 @@
 AC  GenProp0967
-DE  radical SAM maturase system, CXXX repeats type
+DE  Radical SAM maturase system, CXXX repeats type
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  21478363
@@ -33,7 +33,7 @@ EV  IPR026484; TIGR04117;
 EV  IPR026424; TIGR04118;
 --
 SN  C4_rSAM
-ID  radical SAM peptide maturase, CXXXX repeats system
+ID  Radical SAM peptide maturase, CXXXX repeats system
 RQ  1
 EV  IPR026412; TIGR04115;
 //

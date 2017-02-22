@@ -1,7 +1,7 @@
 AC  GenProp0949
 DE  O111(Ec) antigen biosynthesis
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  18156323
@@ -19,22 +19,22 @@ CC  attaching both colitose residues at both the 3 and 6 positions of
 CC  alpha-D-glucose as the last steps of the monomer synthesis.   
 --
 SN  GDP-Col
-ID  source of GDP-colitose
+ID  Source of GDP-colitose
 RQ  1
 EV  GenProp0946;
 --
 SN  WbdH
-ID  aDGal(1->3)bDGlcNAc
+ID  ADGal(1->3)bDGlcNAc
 RQ  1
 EV  IPRXXXX; 2890;
 --
 SN  WbdL
-ID  aDGlc(1->4)aDGal
+ID  ADGlc(1->4)aDGal
 RQ  1
 EV  IPRXXXX; 2755;
 --
 SN  WbdM
-ID  aCol(1->3,6)aDGlc
+ID  ACol(1->3,6)aDGlc
 RQ  1
 EV  IPRXXXX; 2754;
 --

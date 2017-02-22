@@ -1,7 +1,7 @@
 AC  GenProp1055
-DE  protein sorting system, PEFG-CTERM/thaumarchaeosortase
+DE  Protein sorting system, PEFG-CTERM/thaumarchaeosortase
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  Thaumarchaeosortase (archaeosortase G, ArtG) is a member of the
 CC  exosortase/archaeosortase family of putative protein-processing
@@ -18,7 +18,7 @@ RQ  1
 EV  IPR027560; TIGR04296;
 --
 SN  EXOSORT
-ID  thaumarchaeosortase
+ID  Thaumarchaeosortase
 RQ  1
 EV  IPR027561; TIGR04297;
 //

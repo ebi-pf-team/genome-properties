@@ -1,7 +1,7 @@
 AC  GenProp0272
-DE  pyruvate fermentation to acetoin
+DE  Pyruvate fermentation to acetoin
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  Energy metabolism from sugars leads to flux through pyruvate. Pyruvate
 CC  metabolism under limited oxygen may lead to fermentation with acidic
@@ -19,14 +19,14 @@ CC  alpha-acetolactate decarboxylase.
 **  OMNIOME, and poorly correlated even for being in same genome.
 --
 SN  decarb
-ID  acetolactate decarboxylase
-DN  alpha-acetolactate decarboxylase
+ID  Acetolactate decarboxylase
+DN  Alpha-acetolactate decarboxylase
 RQ  1
 EV  IPR005128; TIGR01252; sufficient;
 --
 SN  synth
-ID  acetolactate synthase, catabolic
-DN  acetolactate synthase, catabolic
+ID  Acetolactate synthase, catabolic
+DN  Acetolactate synthase, catabolic
 RQ  1
 EV  IPR012782; TIGR02418; sufficient;
 //

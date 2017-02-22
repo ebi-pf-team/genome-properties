@@ -1,7 +1,7 @@
 AC  GenProp0193
-DE  lysine biosynthesis via alpha-aminoadipate (AAA pathway)
+DE  Lysine biosynthesis via alpha-aminoadipate (AAA pathway)
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  6
 RN  [1]
 RM  10613839
@@ -20,50 +20,50 @@ CC  been characterized in Thermus thermophilus [1] and appears to be widely
 CC  distributed among the archaea.
 --
 SN  Lys?
-ID  homocitrate dehydrogenase
+ID  Homocitrate dehydrogenase
 RQ  0
 --
 SN  LysJ
-ID  aminotransferase
+ID  Aminotransferase
 RQ  1
 EV  IPR004636; TIGR00707; sufficient;
 --
 SN  LysK
-ID  acylase
+ID  Acylase
 RQ  1
 EV  IPR010175; TIGR01902; sufficient;
 --
 SN  LysS
-ID  homocitrate synthase
-DN  homocitrate synthase (EC 2.3.3.14)
+ID  Homocitrate synthase
+DN  Homocitrate synthase (EC 2.3.3.14)
 RQ  1
 EV  IPR005675; TIGR00977; sufficient;
 EV  IPR011830; TIGR02090; sufficient;
 EV  IPR011872; TIGR02146; sufficient;
 --
 SN  LysT
-ID  homoaconitate hydratase, LysT subunit
+ID  Homoaconitate hydratase, LysT subunit
 RQ  1
 EV  IPR011823; TIGR02083; sufficient;
 EV  IPR006251; TIGR01343; sufficient;
 --
 SN  LysU
-ID  homoaconitate hydratase, LysU subunit
+ID  Homoaconitate hydratase, LysU subunit
 RQ  1
 EV  IPR011827; TIGR02087; sufficient;
 --
 SN  LysX
-ID  alpha-aminoadipate acylase (proposed)
+ID  Alpha-aminoadipate acylase (proposed)
 RQ  1
 EV  IPR011870; TIGR02144; sufficient;
 --
 SN  LysY
-ID  epsilon-dehydrogenase (proposed)
+ID  Epsilon-dehydrogenase (proposed)
 RQ  1
 EV  IPR000706; TIGR01850; sufficient;
 --
 SN  LysZ
-ID  epsilon-carboxykinase (proposed)
+ID  Epsilon-carboxykinase (proposed)
 RQ  1
 EV  IPR004662; TIGR00761; sufficient;
 //

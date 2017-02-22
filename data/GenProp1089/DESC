@@ -1,7 +1,7 @@
 AC  GenProp1089
 DE  B12-dependent trimeric diol/glycerol dehydratase
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  10498708
@@ -37,22 +37,22 @@ CC  probiotic effects.
 **  tax_id 491077.
 --
 SN  PduC
-ID  diol/glycerol dehydratase, large subunit
+ID  Diol/glycerol dehydratase, large subunit
 RQ  1
 EV  IPR003206; PF02286;
 --
 SN  PduD
-ID  diol/glycerol dehydratase, medium subunit
+ID  Diol/glycerol dehydratase, medium subunit
 RQ  1
 EV  IPR003208; PF02288;
 --
 SN  PduE
-ID  diol/glycerol dehydratase, small subunit
+ID  Diol/glycerol dehydratase, small subunit
 RQ  1
 EV  IPR003207; PF02287;
 --
 SN  PduG
-ID  diol dehydratase reactivation protein PduG
+ID  Diol dehydratase reactivation protein PduG
 RQ  1
 EV  IPR009191; TIGR04491;
 //

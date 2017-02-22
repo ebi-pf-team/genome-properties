@@ -1,7 +1,7 @@
 AC  GenProp0290
-DE  class II (B12-dependent) ribonucleotide reductase
+DE  Class II (B12-dependent) ribonucleotide reductase
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  9818192
@@ -24,7 +24,7 @@ CC  the rule.  This property captures both types.
 --
 SN  NrdJ/Z
 ID  B12-dependent ribonucleotide reductase
-DN  ribonucleoside-triphosphate reductase(EC:1.17.4.2)
+DN  Ribonucleoside-triphosphate reductase(EC:1.17.4.2)
 RQ  1
 EV  IPR013345; TIGR02505; sufficient;
 TG  GO:0009265;

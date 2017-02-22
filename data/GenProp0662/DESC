@@ -1,7 +1,7 @@
 AC  GenProp0662
-DE  photosynthetic reaction center, alphaproteobacterial type
+DE  Photosynthetic reaction center, alphaproteobacterial type
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  6744416
@@ -19,27 +19,27 @@ CC  cyanobacteria and plants. The core complex of the reaction center is a
 CC  heterotrimer of L, M, and H subunits.
 --
 SN  assem_1
-ID  putative photosynthetic complex assembly protein
+ID  Putative photosynthetic complex assembly protein
 RQ  1
 EV  IPR017495; TIGR03054; sufficient;
 --
 SN  assem_2
-ID  putative photosynthetic complex assembly protein 2
+ID  Putative photosynthetic complex assembly protein 2
 RQ  1
 EV  IPR017496; TIGR03055; sufficient;
 --
 SN  pufL
-ID  photosynthetic reaction center L subunit
+ID  Photosynthetic reaction center L subunit
 RQ  1
 EV  IPR005871; TIGR01157; sufficient;
 --
 SN  pufM
-ID  photosynthetic reaction center M subunit
+ID  Photosynthetic reaction center M subunit
 RQ  1
 EV  IPR005781; TIGR01115; sufficient;
 --
 SN  puhA
-ID  photosynthetic reaction center H subunit
+ID  Photosynthetic reaction center H subunit
 RQ  1
 EV  IPR005652; TIGR01150; sufficient;
 //

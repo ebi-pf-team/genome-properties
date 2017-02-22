@@ -1,13 +1,13 @@
 AC  GenProp0969
-DE  biosynthesis of UDP-N-acetyl-D-mannosaminuronic acid (UDP-ManNAcA)
+DE  Biosynthesis of UDP-N-acetyl-D-mannosaminuronic acid (UDP-ManNAcA)
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  UDP-ManNAc is a precursor in the biosynthesis of the entobacterial
 CC  common antigen.
 --
 SN  UManNAc
-ID  source of UDP-ManNAc
+ID  Source of UDP-ManNAc
 RQ  1
 EV  GenProp0975;
 --

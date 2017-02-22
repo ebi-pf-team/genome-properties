@@ -1,7 +1,7 @@
 AC  GenProp0191
-DE  sulfate/thiosulfate ABC transporter
+DE  Sulfate/thiosulfate ABC transporter
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  7608089
@@ -37,28 +37,28 @@ CC  the sulfate transporter can take up molybdate [3].
 **  Originally, CysP described as mostly responsible for thiosulfate.
 --
 SN  ATPcysA
-ID  sulfate transporter ATP-binding cassette protein CysA
-DN  sulfate ABC transporter ATP-binding protein CysA (EC 3.6.3.25)
+ID  Sulfate transporter ATP-binding cassette protein CysA
+DN  Sulfate ABC transporter ATP-binding protein CysA (EC 3.6.3.25)
 RQ  1
 EV  IPR005666; TIGR00968; sufficient;
 TG  GO:0015709;
 --
 SN  permT
-ID  sulfate ABC transporter, permease permT
+ID  Sulfate ABC transporter, permease permT
 DN   sulfate ABC transporter, permease protein CysT
 RQ  1
 EV  IPR011865; TIGR02139; sufficient;
 TG  GO:0015709;
 --
 SN  permW
-ID  sulfate ABC transporter, permease protein CysW
-DN  sulfate ABC transporter, permease protein CysW
+ID  Sulfate ABC transporter, permease protein CysW
+DN  Sulfate ABC transporter, permease protein CysW
 RQ  1
 EV  IPR011866; TIGR02140; sufficient;
 TG  GO:0015709;
 --
 SN  sul_bnd
-ID  sulfate ABC transporter, binding protein
+ID  Sulfate ABC transporter, binding protein
 DN  NOT APPLICABLE
 RQ  1
 EV  IPR005669; TIGR00971; sufficient;

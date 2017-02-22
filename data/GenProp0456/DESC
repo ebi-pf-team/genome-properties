@@ -1,7 +1,7 @@
 AC  GenProp0456
-DE  attenuation system: tryptophanase
+DE  Attenuation system: tryptophanase
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  9045840
@@ -25,14 +25,14 @@ CC  transcriptional attenuation.
 **  HMM hits only seed members.
 --
 SN  TnaA
-ID  tryptophanase TnaA
-DN  tryptophanase (EC:4.1.99.1)
+ID  Tryptophanase TnaA
+DN  Tryptophanase (EC:4.1.99.1)
 RQ  1
 EV  IPR013440; TIGR02617; sufficient;
 --
 SN  leader
-ID  tryptophanase leader pep TnaC
-DN  tryptophanase leader peptide
+ID  Tryptophanase leader pep TnaC
+DN  Tryptophanase leader peptide
 RQ  1
 EV  IPR012620; TIGR02616; sufficient;
 //

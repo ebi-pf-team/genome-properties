@@ -1,7 +1,7 @@
 AC  GenProp0484
 DE  F-type conjugation system (type IV secretion) specific components
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  1
 RN  [1]
 RM  16138100
@@ -85,7 +85,7 @@ EV  IPR014109; TIGR02738; sufficient;
 TG  GO:0009291;
 --
 SN  TrbB-lik
-ID  possible alternate TrbB, CXXC-containing protein
+ID  Possible alternate TrbB, CXXC-containing protein
 RQ  0
 --
 SN  TrbC

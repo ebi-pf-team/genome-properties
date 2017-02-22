@@ -1,21 +1,21 @@
 AC  GenProp0494
-DE  nickel import ABC transporter
+DE  Nickel import ABC transporter
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 --
 SN  NikA
-ID  periplasmic binding protein NikA
+ID  Periplasmic binding protein NikA
 RQ  1
 EV  IPR011980; TIGR02294; sufficient;
 --
 SN  NikB
-ID  permease NikB
+ID  Permease NikB
 RQ  1
 EV  IPR014156; TIGR02789; sufficient;
 --
 SN  NikC
-ID  permease NikC
+ID  Permease NikC
 RQ  1
 EV  IPR014157; TIGR02790; sufficient;
 --
@@ -30,7 +30,7 @@ RQ  1
 EV  IPR014137; TIGR02769; sufficient;
 --
 SN  nikR
-ID  nickel-responsive transcriptional regulator
+ID  Nickel-responsive transcriptional regulator
 RQ  0
 EV  IPR014160; TIGR02793; sufficient;
 //

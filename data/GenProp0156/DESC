@@ -1,7 +1,7 @@
 AC  GenProp0156
-DE  cyanophycin-like storage polymers
+DE  Cyanophycin-like storage polymers
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  Cyanophycin is a characteristically Cyanobacterial storage polymer for
 CC  nitrogen, carbon, and energy. It is made by cyanophycin synthetase and
@@ -16,15 +16,15 @@ CC  polymer is analogous to polyhydroxyalkanoic acid biosynthesis systems
 CC  with which it sometimes co-occurs.
 --
 SN  degrade
-ID  cyanophycinase
-DN  cyanophycinase (EC:3.4.15.6)
+ID  Cyanophycinase
+DN  Cyanophycinase (EC:3.4.15.6)
 RQ  1
 EV  IPR011811; TIGR02069; sufficient;
 TG  GO:0006112;
 --
 SN  synth
-ID  cyanophycin synthetase
-DN  cyanophycin synthase (L-arginine-adding) (EC:6.3.2.30)
+ID  Cyanophycin synthetase
+DN  Cyanophycin synthase (L-arginine-adding) (EC:6.3.2.30)
 RQ  1
 EV  IPR011810; TIGR02068; sufficient;
 TG  GO:0006112;

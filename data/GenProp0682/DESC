@@ -1,7 +1,7 @@
 AC  GenProp0682
-DE  formate-dependent nitrite reductase, seven-gene type
+DE  Formate-dependent nitrite reductase, seven-gene type
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This property describes a multiheme enzyme, cytochrome c nitrite
 CC  reductase, and accessory proteins that may or may not be present. This
@@ -16,32 +16,32 @@ CC  distinctive protein from this system is a pentaheme cytochrome c, NrfB,
 CC  modeled by TIGR03146.
 --
 SN  NrfA
-ID  cytochrome c552
+ID  Cytochrome c552
 RQ  1
 EV  IPR003321; PF02335; sufficient;
 --
 SN  NrfB
-ID  penta-heme cytochrome c
+ID  Penta-heme cytochrome c
 RQ  1
 EV  IPR017564; TIGR03146; sufficient;
 --
 SN  NrfC
-ID  cytochrome c nitrite reductase, NrfC subunit
+ID  Cytochrome c nitrite reductase, NrfC subunit
 RQ  1
 EV  IPR017567; TIGR03149; sufficient;
 --
 SN  NrfD
-ID  cytochrome c nitrite reductase, NrfD subunit
+ID  Cytochrome c nitrite reductase, NrfD subunit
 RQ  1
 EV  IPR017566; TIGR03148; sufficient;
 --
 SN  NrfE
-ID  accessory protein NrfE
+ID  Accessory protein NrfE
 RQ  0
 EV  IPR017563; TIGR03145; sufficient;
 --
 SN  NrfF
-ID  accessory protein NrfF
+ID  Accessory protein NrfF
 RQ  1
 EV  IPR017565; TIGR03147; sufficient;
 //

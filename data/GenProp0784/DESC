@@ -1,7 +1,7 @@
 AC  GenProp0784
-DE  carbon fixation via 3-hydroxypropionate and 4-hydroxybutyrate
+DE  Carbon fixation via 3-hydroxypropionate and 4-hydroxybutyrate
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This fifth discovered carbon assimilation pathway is found mainly in
 CC  Archaea and consists of a cycle of 16 steps in which two molecules of
@@ -13,15 +13,15 @@ CC  molecules NADPH and two molecules of ferredoxin are oxidized while one
 CC  molecule of NAD+ is reduced.
 --
 SN  1
-ID  acetyl-CoA carboxylase
+ID  Acetyl-CoA carboxylase
 RQ  1
 --
 SN  10
-ID  succinyl-CoA reductase (NADPH)
+ID  Succinyl-CoA reductase (NADPH)
 RQ  1
 --
 SN  11
-ID  succinate semialdehyde reductase (NADPH)
+ID  Succinate semialdehyde reductase (NADPH)
 RQ  1
 --
 SN  12
@@ -33,7 +33,7 @@ ID  4-hydroxybutyryl-CoA dehydratase
 RQ  1
 --
 SN  14
-ID  crotonyl-CoA hydratase
+ID  Crotonyl-CoA hydratase
 RQ  1
 --
 SN  15
@@ -41,27 +41,27 @@ ID  3-hydroxybutyryl-CoA dehydrogenase (NAD+)
 RQ  1
 --
 SN  16
-ID  acetoacetyl-CoA beta-ketothiolase
+ID  Acetoacetyl-CoA beta-ketothiolase
 RQ  1
 --
 SN  17
-ID  pyruvate synthase
+ID  Pyruvate synthase
 RQ  0
 --
 SN  1b
-ID  acetyl-CoA carboxylase, subunit b
+ID  Acetyl-CoA carboxylase, subunit b
 RQ  1
 --
 SN  1c
-ID  acetyl-CoA carboxylase, subunit c
+ID  Acetyl-CoA carboxylase, subunit c
 RQ  1
 --
 SN  2
-ID  malonyl-CoA reductase
+ID  Malonyl-CoA reductase
 RQ  1
 --
 SN  3
-ID  malonate semialdehyde reductase (NADPH)
+ID  Malonate semialdehyde reductase (NADPH)
 RQ  1
 --
 SN  4
@@ -73,30 +73,30 @@ ID  3-hydroxypropionyl-CoA dehydratase
 RQ  1
 --
 SN  6
-ID  acryloyl-CoA reductase (NADPH)
+ID  Acryloyl-CoA reductase (NADPH)
 RQ  1
 --
 SN  7
-ID  propionyl-CoA carboxylase
+ID  Propionyl-CoA carboxylase
 RQ  1
 --
 SN  7b
-ID  propionyl-CoA carboxylase, subunit b
+ID  Propionyl-CoA carboxylase, subunit b
 RQ  1
 --
 SN  7c
-ID  propionyl-CoA carboxylase, subunit c
+ID  Propionyl-CoA carboxylase, subunit c
 RQ  1
 --
 SN  8
-ID  methylmalonyl-CoA epimerase
+ID  Methylmalonyl-CoA epimerase
 RQ  1
 --
 SN  9
-ID  methylmalonyl-CoA mutase
+ID  Methylmalonyl-CoA mutase
 RQ  1
 --
 SN  9b
-ID  methylmalonyl-CoA mutase, subunit b
+ID  Methylmalonyl-CoA mutase, subunit b
 RQ  1
 //

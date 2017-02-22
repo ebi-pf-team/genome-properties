@@ -1,7 +1,7 @@
 AC  GenProp0690
 DE  F1F0 ATPase, Methanosarcina type
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  9425287
@@ -23,47 +23,47 @@ CC  cation.
 **  CT_1031 (13/13).
 --
 SN  altF1_A
-ID  alternate F1F0 ATP synthase, F0 A subunit
+ID  Alternate F1F0 ATP synthase, F0 A subunit
 RQ  1
 EV  IPR017692; TIGR03306; sufficient;
 --
 SN  altF1_B
-ID  alternate F1F0 ATPase, F0 subunit B
+ID  Alternate F1F0 ATPase, F0 subunit B
 RQ  1
 EV  IPR017707; TIGR03321;
 --
 SN  altF1_C
-ID  alternate F1F0 ATPase, F0 subunit C
+ID  Alternate F1F0 ATPase, F0 subunit C
 RQ  1
 EV  IPR017708; TIGR03322;
 --
 SN  altF1_a
-ID  alternate F1F0 ATP synthase, membrane protein 1
+ID  Alternate F1F0 ATP synthase, membrane protein 1
 RQ  1
 EV  IPR011744; TIGR02230; sufficient;
 --
 SN  altF1_b
-ID  alternate F1F0 ATP synthase, membrane protein 2
+ID  Alternate F1F0 ATP synthase, membrane protein 2
 RQ  1
 EV  IPR017581; TIGR03165; sufficient;
 --
 SN  altF1al
-ID  alternate F1F0 ATP synthase, F1 alpha subunit
+ID  Alternate F1F0 ATP synthase, F1 alpha subunit
 RQ  1
 EV  IPR017710; TIGR03324;
 --
 SN  altF1be
-ID  alternate F1F0 ATP synthase, F1 beta subunit
+ID  Alternate F1F0 ATP synthase, F1 beta subunit
 RQ  1
 EV  IPR017691; TIGR03305; sufficient;
 --
 SN  altF1ep
-ID  alternate F1F0 ATP synthase, F1 epsilon subunit
+ID  Alternate F1F0 ATP synthase, F1 epsilon subunit
 RQ  1
 EV  IPR024037; TIGR03166; sufficient;
 --
 SN  altF1ga
-ID  alternate F1F0 ATP synthase, F1 gamma subunit
+ID  Alternate F1F0 ATP synthase, F1 gamma subunit
 RQ  1
 EV  IPR017709; TIGR03323;
 //

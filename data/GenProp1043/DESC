@@ -1,7 +1,7 @@
 AC  GenProp1043
 DE  O145(Ec) antigen biosynthesis
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  The E. coli O145 antigen monomer consists of a linear trimer with the
 CC  structure: [->4)aNeu5Ac(2->3)aLFucNAm(1->3)bDGlcNAc(1->], where Neu5Ac
@@ -17,12 +17,12 @@ CC  the rare aNeu5Ac(2->3)LFucNAm reaction that it must be carrying out as
 CC  inferred by the process of elimination.
 --
 SN  LFucNAc
-ID  source of UDP-L-FucNAc
+ID  Source of UDP-L-FucNAc
 RQ  1
 EV  GenProp0976;
 --
 SN  Neu5Ac
-ID  source of CDP-N-acetyl-neuraminate (Neu5Ac)
+ID  Source of CDP-N-acetyl-neuraminate (Neu5Ac)
 RQ  1
 EV  GenProp0793;
 --

@@ -1,7 +1,7 @@
 AC  GenProp1079
 DE  Lpt lipopolysaccharide export transenvelope protein complex
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  23292770
@@ -35,7 +35,7 @@ RQ  1
 EV  IPR030921; TIGR04406;
 --
 SN  lptC
-ID  lipopolysaccharide export protein LptC
+ID  Lipopolysaccharide export protein LptC
 RQ  1
 EV  IPR010664; PF06835;
 EV  IPR026265; TIGR04409;

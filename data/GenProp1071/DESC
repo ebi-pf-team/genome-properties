@@ -1,7 +1,7 @@
 AC  GenProp1071
-DE  myo-inositol catabolism
+DE  Myo-inositol catabolism
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  18310071
@@ -23,12 +23,12 @@ RL  Mol Plant Microbe Interact. 1998;11:1057-1068.
 **  in ntsm01, ntrl01, ntbs01, ntcg01
 --
 SN  1_iolG
-ID  inositol 2-dehydrogenase
+ID  Inositol 2-dehydrogenase
 RQ  1
 EV  IPR030827; TIGR04380;
 --
 SN  2_iolE
-ID  myo-inosose-2 dehydratase
+ID  Myo-inosose-2 dehydratase
 RQ  1
 EV  IPR030823; TIGR04379;
 --
@@ -52,7 +52,7 @@ ID  5-dehydro-2-deoxyphosphogluconate aldolase
 RQ  0
 --
 SN  7_iolA
-ID  malonate-semialdehyde dehydrogenase (acetylating)
+ID  Malonate-semialdehyde dehydrogenase (acetylating)
 RQ  1
 EV  IPR010061; TIGR01722;
 //

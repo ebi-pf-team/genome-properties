@@ -1,7 +1,7 @@
 AC  GenProp0875
-DE  decarboxylation/antiport proton-motive cycle: tyrosine-tyramine
+DE  Decarboxylation/antiport proton-motive cycle: tyrosine-tyramine
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  12089039
@@ -16,11 +16,11 @@ CC  systems for this and other (e.g. aspartate-alanine) substrate pairs can
 CC  provide protection against acidic pH.  
 --
 SN  TyrAnti
-ID  tyrosine-tyramine antiporter
+ID  Tyrosine-tyramine antiporter
 RQ  1
 --
 SN  Tyr_CO2
-ID  tyrosine decarboxylase
+ID  Tyrosine decarboxylase
 RQ  1
 EV  IPR022397; TIGR03811;
 //

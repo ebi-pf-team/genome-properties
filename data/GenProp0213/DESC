@@ -1,7 +1,7 @@
 AC  GenProp0213
 DE  Resistance to Reactive Oxygen Species (ROS)
 TP  GUILD
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  A number of systems have evolved to protect cells from reactive oxygen
 CC  species (peroxides, superoxides, hydroxyl radicals, etc...).  This
@@ -18,7 +18,7 @@ EV  IPR007760; PF05067; sufficient;
 EV  IPR000763; TIGR00198; sufficient;
 --
 SN  MSR
-ID  methionine sulfoxide reductases
+ID  Methionine sulfoxide reductases
 DN  NOT APPLICABLE
 RQ  0
 EV  IPR002579; TIGR00357; sufficient;
@@ -38,7 +38,7 @@ EV  IPR004852; PF03150; sufficient;
 EV  IPR017559; TIGR03137; sufficient;
 --
 SN  SOD
-ID  superoxide dismutases
+ID  Superoxide dismutases
 DN  NOT APPLICABLE
 RQ  0
 EV  IPR001424; PF00080; sufficient;

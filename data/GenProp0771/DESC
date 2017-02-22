@@ -1,7 +1,7 @@
 AC  GenProp0771
-DE  enterobactin (enterochelin) biosynthesis
+DE  Enterobactin (enterochelin) biosynthesis
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  Enterobactin, also called enterochelin, is a catecholate siderophore
 CC  found in most enterobacterial strains, where it may exist alongside
@@ -27,13 +27,13 @@ EV  IPRXXXX; 2147;
 TG  GO:0009239;
 --
 SN  entBG
-ID  isochorismatase/enterobactin synthetase, component EntB
+ID  Isochorismatase/enterobactin synthetase, component EntB
 RQ  1
 EV  IPRXXXX; 2150;
 TG  GO:0009239;
 --
 SN  entC
-ID  isochorismate synthase EntC
+ID  Isochorismate synthase EntC
 RQ  1
 EV  IPRXXXX; 2151;
 TG  GO:0009239;
@@ -45,25 +45,25 @@ EV  IPRXXXX; 2152;
 TG  GO:0009239;
 --
 SN  entE
-ID  enterobactin synthetase, (2,3-dihydroxybenzoyl)adenylate synthase component
+ID  Enterobactin synthetase, (2,3-dihydroxybenzoyl)adenylate synthase component
 RQ  1
 EV  IPRXXXX; 2155;
 TG  GO:0009239;
 --
 SN  entF
-ID  enterobactin synthetase, component EntF
+ID  Enterobactin synthetase, component EntF
 RQ  1
 EV  IPRXXXX; 2156;
 TG  GO:0009239;
 --
 SN  entH
-ID  enterobactin biosynthesis proofreading thioesterase EntH
+ID  Enterobactin biosynthesis proofreading thioesterase EntH
 RQ  0
 EV  IPRXXXX; 2149;
 TG  GO:0009239;
 --
 SN  entS
-ID  enterobactin exporter EntS
+ID  Enterobactin exporter EntS
 RQ  1
 EV  IPRXXXX; 2153;
 //

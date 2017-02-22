@@ -1,7 +1,7 @@
 AC  GenProp0214
-DE  acetyl-CoA carboxylase complex
+DE  Acetyl-CoA carboxylase complex
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  12121720
@@ -14,29 +14,29 @@ CC  carboxylation of acetyl-CoA to malonyl-CoA.  The four-subunit version
 CC  usually found in prokaryotes is described by this property.
 --
 SN  accA
-ID  acetyl-CoA carboxylase, carboxyl transferase, alpha subunit
-DN  acetyl-CoA carboxylase, carboxyl transferase, alpha subunit
+ID  Acetyl-CoA carboxylase, carboxyl transferase, alpha subunit
+DN  Acetyl-CoA carboxylase, carboxyl transferase, alpha subunit
 RQ  1
 EV  IPR001095; TIGR00513; sufficient;
 TG  GO:0009317;
 --
 SN  accB
-ID  acetyl-CoA carboxylase, biotin carboxyl carrier protein
-DN  acetyl-CoA carboxylase, biotin carboxyl carrier protein
+ID  Acetyl-CoA carboxylase, biotin carboxyl carrier protein
+DN  Acetyl-CoA carboxylase, biotin carboxyl carrier protein
 RQ  1
 EV  IPR001249; TIGR00531; sufficient;
 TG  GO:0009317;
 --
 SN  accC
-ID  acetyl-CoA carboxylase, biotin carboxylase
-DN  acetyl-CoA carboxylase, biotin carboxylase
+ID  Acetyl-CoA carboxylase, biotin carboxylase
+DN  Acetyl-CoA carboxylase, biotin carboxylase
 RQ  1
 EV  IPR004549; TIGR00514; sufficient;
 TG  GO:0009317;
 --
 SN  accD
-ID  acetyl-CoA carboxylase, carboxyl transferase, beta subunit
-DN  acetyl-CoA carboxylase, carboxyl transferase, beta subunit
+ID  Acetyl-CoA carboxylase, carboxyl transferase, beta subunit
+DN  Acetyl-CoA carboxylase, carboxyl transferase, beta subunit
 RQ  1
 EV  IPR000438; TIGR00515; sufficient;
 TG  GO:0009317;

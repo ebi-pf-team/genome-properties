@@ -1,7 +1,7 @@
 AC  GenProp0617
-DE  cytochrome (quinone) oxidase, bd type
+DE  Cytochrome (quinone) oxidase, bd type
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  14749831
@@ -34,12 +34,12 @@ CC  for heme b558.  Additionally, the complex contains two other hemes,
 CC  b595 and d which make up the oxygen reduction site [3].
 --
 SN  CydA
-ID  subunit I, CydA
+ID  Subunit I, CydA
 RQ  1
 EV  IPR002585; PF01654; sufficient;
 --
 SN  CydB
-ID  subunit II, CydB
+ID  Subunit II, CydB
 RQ  1
 EV  IPR003317; PF02322; sufficient;
 EV  IPR003317; TIGR00203; sufficient;
@@ -55,7 +55,7 @@ RQ  0
 EV  IPR014216; TIGR02857; sufficient;
 --
 SN  YbgT
-ID  cyd operon protein YbgT (Proteobacterial)
+ID  Cyd operon protein YbgT (Proteobacterial)
 RQ  0
 EV  IPR011724; TIGR02106; sufficient;
 //

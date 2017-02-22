@@ -1,7 +1,7 @@
 AC  GenProp1076
-DE  choline TMA-lyase system
+DE  Choline TMA-lyase system
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  23151509
@@ -16,13 +16,13 @@ CC  chemical studies suggest CutC acts as a choline-TMA lyase, cleaving a
 CC  C-N bond to turn choline into trimethylamine and acetaldehyde.
 --
 SN  cutC
-ID  choline TMA-lyase
+ID  Choline TMA-lyase
 RQ  1
 EV  IPR030897; TIGR04394;
 TG  GO:0042426;
 --
 SN  cutD
-ID  choline TMA-lyase-activating enzyme
+ID  Choline TMA-lyase-activating enzyme
 RQ  1
 EV  IPR030905; TIGR04395;
 TG  GO:0042426;

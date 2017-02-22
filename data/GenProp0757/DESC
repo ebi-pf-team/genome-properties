@@ -1,7 +1,7 @@
 AC  GenProp0757
-DE  quorum-sensing, autoinducer-2 system
+DE  Quorum-sensing, autoinducer-2 system
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  16101288
@@ -35,8 +35,8 @@ EV  IPR003815; PF02664;
 TG  GO:0009372;
 --
 SN  nuc_ase
-ID  methylthioadenosine nucleosidase/adenosylhomocysteine nucleosidase
-DN  methylthioadenosine nucleosidase (EC 3.2.2.16)/adenosylhomocysteine nucleosidase (EC 3.2.2.9)
+ID  Methylthioadenosine nucleosidase/adenosylhomocysteine nucleosidase
+DN  Methylthioadenosine nucleosidase (EC 3.2.2.16)/adenosylhomocysteine nucleosidase (EC 3.2.2.9)
 RQ  1
 EV  IPR010049; TIGR01704;
 TG  GO:0009372;

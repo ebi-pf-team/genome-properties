@@ -1,7 +1,7 @@
 AC  GenProp0975
-DE  biosynthesis of UDP-N-acetyl-D-mannosamine (UDP-ManNAc)
+DE  Biosynthesis of UDP-N-acetyl-D-mannosamine (UDP-ManNAc)
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  UDP-ManNAc is a donor of N-acetylmannose for polysaccharide
 CC  biosynthesis and a precursor of other sugars such as
@@ -10,7 +10,7 @@ CC  UDP-N-acetylglucosamine 2-epimerase carries a variety of gene symbols
 CC  (WecB, gne, RffE, FnlC) depending on its context.
 --
 SN  UGlcNAc
-ID  source of UDP-N-acetyl glucosamine (UDP-GlcNAc)
+ID  Source of UDP-N-acetyl glucosamine (UDP-GlcNAc)
 RQ  1
 EV  GenProp0750;
 --

@@ -1,7 +1,7 @@
 AC  GenProp0216
-DE  recBCD pathway
+DE  RecBCD pathway
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  14604803
@@ -34,22 +34,22 @@ CC  the Firmicutes and in alpha-Proteobacteria.
 **  RecBCD in members of alphaProteobacteria such as Rhizobium etli.
 --
 SN  recB
-ID  exodeoxyribonuclease V, beta subunit
-DN  exodeoxyribonuclease V beta subunit (EC:3.1.11.5)
+ID  Exodeoxyribonuclease V, beta subunit
+DN  Exodeoxyribonuclease V beta subunit (EC:3.1.11.5)
 RQ  1
 EV  IPR004586; TIGR00609; sufficient;
 TG  GO:0000738;
 --
 SN  recC
-ID  exodeoxyribonuclease V, gamma subunit
-DN  exodeoxyribonuclease V gamma subunit (EC:3.1.11.5)
+ID  Exodeoxyribonuclease V, gamma subunit
+DN  Exodeoxyribonuclease V gamma subunit (EC:3.1.11.5)
 RQ  1
 EV  IPR006697; TIGR01450; sufficient;
 TG  GO:0000738;
 --
 SN  recD
-ID  exodeoxyribonuclease V, alpha subunit
-DN  exodeoxyribonuclease V alpha subunit (EC:3.1.11.5)
+ID  Exodeoxyribonuclease V, alpha subunit
+DN  Exodeoxyribonuclease V alpha subunit (EC:3.1.11.5)
 RQ  1
 EV  IPR006344; TIGR01447; sufficient;
 TG  GO:0000738;

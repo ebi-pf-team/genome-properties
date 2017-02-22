@@ -1,7 +1,7 @@
 AC  GenProp0144
-DE  chlorophyllide a biosynthesis from protoporphyrin IX
+DE  Chlorophyllide a biosynthesis from protoporphyrin IX
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  1
 RN  [1]
 RM  10648776
@@ -35,13 +35,13 @@ EV  IPR011775; TIGR02030; sufficient;
 TG  GO:0015995;
 --
 SN  2-ChlM
-ID  magnesium protoporphyrin IX methyltransferase
+ID  Magnesium protoporphyrin IX methyltransferase
 RQ  1
 EV  IPR010251; TIGR02021; sufficient;
 TG  GO:0015995;
 --
 SN  3-BchE
-ID  magnesium protoporphyrin IX monomethylester oxidative cyclase
+ID  Magnesium protoporphyrin IX monomethylester oxidative cyclase
 RQ  1
 EV  IPR011772; TIGR02026; sufficient;
 TG  GO:0015995;
@@ -49,13 +49,13 @@ EV  IPR008434; TIGR02029; sufficient;
 TG  GO:0015995;
 --
 SN  4-BchJ
-ID  magnesium-2,4-divinylpheoporphyrin a5-monomethyl ester vinyl reductase
+ID  Magnesium-2,4-divinylpheoporphyrin a5-monomethyl ester vinyl reductase
 RQ  0
 EV  IPR010249; TIGR02019; sufficient;
 TG  GO:0015995;
 --
 SN  5-Por
-ID  protochlorophyllide reductase
+ID  Protochlorophyllide reductase
 RQ  1
 EV  IPR005979; TIGR01289; sufficient;
 TG  GO:0015995;

@@ -1,7 +1,7 @@
 AC  GenProp0902
-DE  quinohemoprotein amine dehydrogenase
+DE  Quinohemoprotein amine dehydrogenase
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  16546999
@@ -29,25 +29,25 @@ CC  cross-linking.
 **  cross-links. Radical SAM may be for the latter.
 --
 SN  QH_SAM
-ID  quinohemoprotein amine dehydrogenase maturation protein
+ID  Quinohemoprotein amine dehydrogenase maturation protein
 RQ  1
 EV  IPR023886; TIGR03906;
 TG  GO:0043687;
 --
 SN  QH_alp
-ID  quinohemoprotein amine dehydrogenase, alpha subunit
+ID  Quinohemoprotein amine dehydrogenase, alpha subunit
 RQ  1
 EV  IPR023887; TIGR03908;
 TG  GO:0030058;
 --
 SN  QH_bet
-ID  quinohemoprotein amine dehydrogenase, beta subunit
+ID  Quinohemoprotein amine dehydrogenase, beta subunit
 RQ  1
 EV  IPR023879; TIGR03907;
 TG  GO:0030058;
 --
 SN  QH_gam
-ID  quinohemoprotein amine dehydrogenase, gamma subunit
+ID  Quinohemoprotein amine dehydrogenase, gamma subunit
 RQ  1
 EV  IPR015084; PF08992;
 TG  GO:0030058;

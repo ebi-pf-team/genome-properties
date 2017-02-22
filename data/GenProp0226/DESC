@@ -1,7 +1,7 @@
 AC  GenProp0226
-DE  integron
+DE  Integron
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  14702391
@@ -26,7 +26,7 @@ CC  carried by a Tn7 transposon, is called a class 2 integron.
 **  integrase with it is likely to have an internal stop codon.
 --
 SN  integro
-ID  integron integrase
+ID  Integron integrase
 RQ  1
 EV  IPR011946; TIGR02249;
 TG  GO:0009294;

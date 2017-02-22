@@ -1,13 +1,13 @@
 AC  GenProp0713
 DE  2-aminoethylphosphonate catabolism via phosphonoacetate
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  1
 CC  This AEP degradation pathway utilizes PhnA, phosphonoacetate hydrolase,
 CC  generating acetate and inorganic phosphate as products.
 --
 SN  PhnA
-ID  phosphonoacetate hydrolase
+ID  Phosphonoacetate hydrolase
 RQ  1
 EV  IPR012710; TIGR02335; sufficient;
 --
@@ -17,12 +17,12 @@ RQ  1
 EV  IPR012703; TIGR02326; sufficient;
 --
 SN  PhnY
-ID  aldehyde dehydrogenase
+ID  Aldehyde dehydrogenase
 RQ  1
 EV  IPR017656; TIGR03250; sufficient;
 --
 SN  Regul
-ID  clustered regulatory genes
+ID  Clustered regulatory genes
 RQ  0
 EV  IPRXXXX; PF00392;
 EV  IPRXXXX; PF00455;

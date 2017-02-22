@@ -1,7 +1,7 @@
 AC  GenProp1078
-DE  sporulation killing factor system
+DE  Sporulation killing factor system
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  23282011
@@ -29,17 +29,17 @@ CC  by radical SAM enzyme.
 **  caax.
 --
 SN  SkfA
-ID  sporulation killing factor
+ID  Sporulation killing factor
 RQ  1
 EV  IPR030919; TIGR04404;
 --
 SN  SkfB
-ID  sporulation killing factor maturase
+ID  Sporulation killing factor maturase
 RQ  1
 EV  IPR030915; TIGR04403;
 --
 SN  SkfF
-ID  sporulation killing factor system SkfF protein
+ID  Sporulation killing factor system SkfF protein
 RQ  1
 EV  IPR030920; TIGR04405;
 //

@@ -1,7 +1,7 @@
 AC  GenProp0309
-DE  arginine catabolism to glutamate via arginine succinyltransferase (AST)
+DE  Arginine catabolism to glutamate via arginine succinyltransferase (AST)
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  9696779
@@ -14,31 +14,31 @@ CC  glutamate, with the concomitant production of ammonia and conversion of
 CC  succinyl-CoA to succinate and CoA.
 --
 SN  1_astA
-ID  arginine N-succinyltransferase
+ID  Arginine N-succinyltransferase
 RQ  1
 EV  IPR017650; TIGR03244; sufficient;
 TG  GO:0019544;
 --
 SN  2_astB
-ID  succinylarginine dihydrolase
+ID  Succinylarginine dihydrolase
 RQ  1
 EV  IPR007079; TIGR03241; sufficient;
 TG  GO:0019544;
 --
 SN  3_astC
-ID  succinylornithine transaminase
+ID  Succinylornithine transaminase
 RQ  1
 EV  IPRXXXX; TIGR03246;
 TG  GO:0019544;
 --
 SN  4_astD
-ID  succinylglutamic semialdehyde dehydrogenase
+ID  Succinylglutamic semialdehyde dehydrogenase
 RQ  1
 EV  IPR017649; TIGR03240; sufficient;
 TG  GO:0019544;
 --
 SN  5_astE
-ID  succinylglutamate desuccinylase
+ID  Succinylglutamate desuccinylase
 RQ  1
 EV  IPR016681; TIGR03242; sufficient;
 TG  GO:0019544;

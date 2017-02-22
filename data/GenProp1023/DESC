@@ -1,7 +1,7 @@
 AC  GenProp1023
 DE  O157(Ec) antigen biosynthesis
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  3008786
@@ -13,27 +13,27 @@ CC  The E. coli O157 antigen consists of a repeating linear tetramer with
 CC  the structure [->2)aDRha4NAc(1->3)aLFuc(1->4)bDGlc(1->3)aDGalNAc(1->].
 --
 SN  L-Fuc
-ID  source of GDP-L-fucose
+ID  Source of GDP-L-fucose
 RQ  1
 EV  GenProp1024;
 --
 SN  Rha4NAc
-ID  source of GDP-4-acetamido-D-rhamnose
+ID  Source of GDP-4-acetamido-D-rhamnose
 RQ  1
 EV  GenProp1027;
 --
 SN  WbdN
-ID  bDGlc(1->3)aDGalNAc transferase
+ID  BDGlc(1->3)aDGalNAc transferase
 RQ  1
 EV  IPRXXXX; 2881;
 --
 SN  WbdO
-ID  glycosyl transferase WbdO
+ID  Glycosyl transferase WbdO
 RQ  1
 EV  IPRXXXX; 2883;
 --
 SN  WbdP
-ID  glycosyl transferase WbdP
+ID  Glycosyl transferase WbdP
 RQ  1
 EV  IPRXXXX; 2885;
 --

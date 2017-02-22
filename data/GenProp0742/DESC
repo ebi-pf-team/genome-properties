@@ -1,7 +1,7 @@
 AC  GenProp0742
-DE  iron-sulfur cluster assembly NIF system
+DE  Iron-sulfur cluster assembly NIF system
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  10639125
@@ -38,7 +38,7 @@ CC  pylori.
 **  and it is like there are really many two-gene systems.
 --
 SN  NifS
-ID  cysteine desulfurase NifS
+ID  Cysteine desulfurase NifS
 RQ  1
 EV  IPR017772; TIGR03402;
 TG  GO:0016226;

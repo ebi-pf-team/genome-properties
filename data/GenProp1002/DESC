@@ -1,7 +1,7 @@
 AC  GenProp1002
-DE  grasp-with-spasm peptide maturase system
+DE  Grasp-with-spasm peptide maturase system
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This Genome Property describes a Post-Ribosomal Natural Product
 CC  Synthesis (PRNPS) system that features an ATP-GRASP domain protein and
@@ -10,18 +10,18 @@ CC  peptide family is also defined.
 **  Thomas Hemscheidt a possible collaborator
 --
 SN  GRASP
-ID  grasp-with-spasm ATP-GRASP maturase
+ID  Grasp-with-spasm ATP-GRASP maturase
 RQ  1
 EV  IPR026455; TIGR04192;
 --
 SN  LEADER
-ID  grasp-with-spasm leader peptide
+ID  Grasp-with-spasm leader peptide
 RQ  0
 EV  IPR026498; TIGR04194;
 EV  IPR026437; TIGR04139;
 --
 SN  SPASM
-ID  grasp-with-spasm SPASM domain maturase
+ID  Grasp-with-spasm SPASM domain maturase
 RQ  1
 EV  IPR026497; TIGR04193;
 //

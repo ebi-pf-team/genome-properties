@@ -1,7 +1,7 @@
 AC  GenProp0264
-DE  glucosylglycerol biosynthesis
+DE  Glucosylglycerol biosynthesis
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  1
 RN  [1]
 RM  9733686
@@ -27,22 +27,22 @@ CC  roles, such as in glycogen biosynthesis.
 **  sequence. DHH.
 --
 SN  ADPgluc
-ID  glucose-1-phosphate adenylyltransferase
-DN  glucose-1-phosphate adenylyltransferase (EC 2.7.7.27)
+ID  Glucose-1-phosphate adenylyltransferase
+DN  Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27)
 RQ  1
 EV  IPR011831; TIGR02091; sufficient;
 TG  GO:0006970;
 --
 SN  Pase
-ID  glucosylglycerol 3-phosphatase
-DN  glucosylglycerol 3-phosphatase (EC 3.1.3.69)
+ID  Glucosylglycerol 3-phosphatase
+DN  Glucosylglycerol 3-phosphatase (EC 3.1.3.69)
 RQ  1
 EV  IPR012765; TIGR02399; sufficient;
 TG  GO:0006970;
 --
 SN  synth
-ID  glucosylglycerol-phosphate synthase
-DN  glucosylglycerol-phosphate synthase (EC 2.4.1.213)
+ID  Glucosylglycerol-phosphate synthase
+DN  Glucosylglycerol-phosphate synthase (EC 2.4.1.213)
 RQ  1
 EV  IPR012764; TIGR02398; sufficient;
 TG  GO:0006970;

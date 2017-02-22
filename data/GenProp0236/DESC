@@ -1,7 +1,7 @@
 AC  GenProp0236
-DE  phosphonates ABC transport
+DE  Phosphonates ABC transport
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  Phosphonates are a varied class of compound with a direct C-P bond that
 CC  can be significantly more stable than indirect C-O-P bond of organic
@@ -18,7 +18,7 @@ CC  latter are known.
 --
 SN  PhnC
 ID  ABC transporter phosphonates ATP-binding protein
-DN  phosphonate ABC transporter, ATP-binding protein
+DN  Phosphonate ABC transporter, ATP-binding protein
 RQ  1
 EV  IPRXXXX; TIGR02315;
 --
@@ -29,7 +29,7 @@ EV  IPR017797; TIGR03431;
 --
 SN  PhnE
 ID  ABC transporter phosphonates permease
-DN  phosphonate ABC transporter, permease protein
+DN  Phosphonate ABC transporter, permease protein
 RQ  1
 EV  IPRXXXX; TIGR01097;
 //

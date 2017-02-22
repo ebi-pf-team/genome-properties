@@ -1,7 +1,7 @@
 AC  GenProp1026
-DE  nodulation factor production
+DE  Nodulation factor production
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  8986807
@@ -26,17 +26,17 @@ CC  range.
 **  PF02474 (NodA) is about ten percent too broad.
 --
 SN  nodA
-ID  nodulation N-acyltransferase NodA
+ID  Nodulation N-acyltransferase NodA
 RQ  1
 EV  IPR003484; TIGR04245;
 --
 SN  nodB
-ID  chitooligosaccharide deacetylase NodB
+ID  Chitooligosaccharide deacetylase NodB
 RQ  1
 EV  IPR026402; TIGR04243;
 --
 SN  nodC
-ID  chitooligosaccharide synthase NodC
+ID  Chitooligosaccharide synthase NodC
 RQ  1
 EV  IPR026463; TIGR04242;
 //

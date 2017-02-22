@@ -1,7 +1,7 @@
 AC  GenProp0927
-DE  bacillithiol biosynthesis
+DE  Bacillithiol biosynthesis
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  20308541
@@ -27,7 +27,7 @@ CC  alpha-anomeric glycoside of L-cysteinyl-D-glucosamine with L-malic acid
 **  requested.
 --
 SN  BshA
-ID  glycosyltransferase BshA
+ID  Glycosyltransferase BshA
 RQ  1
 EV  IPR023881; TIGR03999;
 TG  GO:0071793;
@@ -41,7 +41,7 @@ EV  IPR023842; TIGR04001;
 TG  GO:0071793;
 --
 SN  BshC
-ID  cysteine-adding enzyme BshC
+ID  Cysteine-adding enzyme BshC
 RQ  1
 EV  IPR011199; TIGR03998;
 TG  GO:0071793;

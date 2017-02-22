@@ -1,7 +1,7 @@
 AC  GenProp0895
-DE  alcohol ABC transporter, PedABC-type
+DE  Alcohol ABC transporter, PedABC-type
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  18177365
@@ -19,22 +19,22 @@ CC  (PMID:18177365) imagines this system to be an efflux transporter for
 CC  removal of toxic intermediates during catabolism.
 --
 SN  PQQbind
-ID  alcohol ABC transporter, substrate-binding subunit
+ID  Alcohol ABC transporter, substrate-binding subunit
 RQ  1
 EV  IPR022478; TIGR03863;
 --
 SN  PQQpedA
-ID  alcohol ABC transporter, beta-propeller protein
+ID  Alcohol ABC transporter, beta-propeller protein
 RQ  1
 EV  IPR022456; TIGR03866;
 --
 SN  PQQpedB
-ID  alcohol ABC transporter, ATP-binding subunit
+ID  Alcohol ABC transporter, ATP-binding subunit
 RQ  1
 EV  IPR022467; TIGR03864;
 --
 SN  PQQpedC
-ID  alcohol ABC transporter, permease subunit
+ID  Alcohol ABC transporter, permease subunit
 RQ  1
 EV  IPR022403; TIGR03861;
 //

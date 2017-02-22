@@ -1,7 +1,7 @@
 AC  GenProp0909
-DE  capreomycidine biosynthesis
+DE  Capreomycidine biosynthesis
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  19490124
@@ -27,13 +27,13 @@ CC  (2S,3R)-capreomycidine.
 **  clavaminate synthase system.  228886494 like VioD.
 --
 SN  VioC
-ID  arginine oxygenase VioC
+ID  Arginine oxygenase VioC
 RQ  1
 EV  IPR023966; TIGR03946;
 TG  GO:0042398;
 --
 SN  VioD
-ID  capreomycidine synthase
+ID  Capreomycidine synthase
 RQ  1
 EV  IPR023965; TIGR03947;
 TG  GO:0042398;

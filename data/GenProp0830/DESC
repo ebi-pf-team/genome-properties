@@ -1,7 +1,7 @@
 AC  GenProp0830
-DE  integral membrane mystery pair
+DE  Integral membrane mystery pair
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This Genome Property represents a pair of families of probable
 CC  multi-membrane-spanning enzymes, one with some similarity to
@@ -12,12 +12,12 @@ CC  function is unknown.
 **  The first GenProp of the new R01.
 --
 SN  myst_1
-ID  integral membrane mystery pair protein 1
+ID  Integral membrane mystery pair protein 1
 RQ  1
 EV  IPR018746; TIGR03662;
 --
 SN  myst_2
-ID  integral membrane mystery pair protein 2
+ID  Integral membrane mystery pair protein 2
 RQ  1
 EV  IPR019962; TIGR03663;
 //

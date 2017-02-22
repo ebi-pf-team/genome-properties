@@ -1,7 +1,7 @@
 AC  GenProp1005
-DE  protein sorting system, putative, exosortase J class
+DE  Protein sorting system, putative, exosortase J class
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This Genome Property describes a paralogous system from Acidobacterium
 CC  sp. MP5ACTX8. One component is a novel exosortase subtype designated
@@ -16,7 +16,7 @@ CC  residues.
 **  PExP protein becomes attached to a different protein.
 --
 SN  EXOxrtJ
-ID  exosortase J
+ID  Exosortase J
 RQ  1
 EV  IPR026478; TIGR04199;
 --

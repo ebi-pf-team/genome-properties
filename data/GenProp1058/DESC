@@ -1,7 +1,7 @@
 AC  GenProp1058
 DE  2,3-dihydroxybenzoate biosynthesis
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  1
 CC  2,3-Dihydroxybenzoate is made in three steps from chorismate by the
 CC  action of enzymes 5.4.4.2, 3.3.2.1, and 1.3.1.28. It can then be
@@ -15,12 +15,12 @@ RQ  1
 EV  IPR003560; TIGR04316;
 --
 SN  dhbB
-ID  isochorismatase
+ID  Isochorismatase
 RQ  1
 EV  IPR000868; PF00857;
 --
 SN  dhbC
-ID  isochorismate synthase
+ID  Isochorismate synthase
 RQ  1
 EV  IPR004561; TIGR00543;
 //

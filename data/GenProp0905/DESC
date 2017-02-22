@@ -1,7 +1,7 @@
 AC  GenProp0905
-DE  type VII secretion, Firmicutes form
+DE  Type VII secretion, Firmicutes form
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  18723613
@@ -23,34 +23,34 @@ CC  TIGR03925) is present. Otherwise, differences appear to be profound.
 **  divergent and more widespread than authors realize.
 --
 SN  T7_EsaA
-ID  type VII secretion protein EsaA
+ID  Type VII secretion protein EsaA
 RQ  0
 EV  IPR023838; TIGR03929;
 --
 SN  T7_EssA
-ID  type VII secretion protein EssA
+ID  Type VII secretion protein EssA
 RQ  1
 EV  IPR018920; TIGR03927;
 --
 SN  T7_EssC
-ID  type VII secretion protein EssC
+ID  Type VII secretion protein EssC
 RQ  1
 EV  IPR023839; TIGR03928;
 --
 SN  T7_WxG
-ID  type VII secretion target, WXG100 family
+ID  Type VII secretion target, WXG100 family
 RQ  1
 EV  IPRXXXX; PF06013;
 EV  IPRXXXX; TIGR03930;
 EV  IPR021477; TIGR04197;
 --
 SN  T7_esaB
-ID  type VII secretion protein EsaB
+ID  Type VII secretion protein EsaB
 RQ  1
 EV  IPR024962; PF08817;
 --
 SN  T7_essB
-ID  type VII secretion protein EssB
+ID  Type VII secretion protein EssB
 RQ  1
 EV  IPR018778; TIGR03926;
 //

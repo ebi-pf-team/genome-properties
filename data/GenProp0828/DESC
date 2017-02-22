@@ -1,7 +1,7 @@
 AC  GenProp0828
-DE  heme uptake system, NEAT-domain mediated
+DE  Heme uptake system, NEAT-domain mediated
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  18676371
@@ -53,7 +53,7 @@ CC  Determinant proteins.
 **  the cleavahe of the heme ring and the liberation of iron.
 --
 SN  HO
-ID  heme oxygenase
+ID  Heme oxygenase
 RQ  1
 EV  IPR007138; PF03992;
 TG  GO:0015886;
@@ -61,13 +61,13 @@ EV  IPR016053; PF01126;
 TG  GO:0015886;
 --
 SN  IsdE
-ID  heme ABC transporter, heme-binding protein IsdE
+ID  Heme ABC transporter, heme-binding protein IsdE
 RQ  1
 EV  IPR019957; TIGR03659;
 TG  GO:0015886;
 --
 SN  IsdF
-ID  heme ABC transporter, permease protein IsdF
+ID  Heme ABC transporter, permease protein IsdF
 RQ  1
 EV  IPRXXXX; PF01032;
 TG  GO:0015886;
@@ -79,13 +79,13 @@ EV  IPR006635; PF05031;
 TG  GO:0015886;
 --
 SN  isdD
-ID  heme ABC transporter, ATP-binding protein
+ID  Heme ABC transporter, ATP-binding protein
 RQ  0
 EV  IPRXXXX; PF00005;
 TG  GO:0015886;
 --
 SN  mNss
-ID  multi-NEAT, srt-signal component
+ID  Multi-NEAT, srt-signal component
 RQ  0
 EV  IPR019930; TIGR03658;
 TG  GO:0015886;
@@ -93,11 +93,11 @@ EV  IPR019929; TIGR03657;
 TG  GO:0015886;
 --
 SN  sN
-ID  single-NEAT domain (secreted?) component
+ID  Single-NEAT domain (secreted?) component
 RQ  0
 --
 SN  sNss
-ID  single-NEAT, srt-signal component
+ID  Single-NEAT, srt-signal component
 RQ  1
 EV  IPR019909; TIGR03656;
 TG  GO:0015886;

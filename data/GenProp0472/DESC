@@ -1,7 +1,7 @@
 AC  GenProp0472
-DE  uncharacterized gene pair TIGR02687/TIGR02688
+DE  Uncharacterized gene pair TIGR02687/TIGR02688
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This property describes an uncharacterized gene pair, sporadically
 CC  distributed in archaea and bacteria, consisting of an upstream protein
@@ -11,12 +11,12 @@ CC  occasionally annotated (apparently incorrectly) as ATP-dependent
 CC  protease La.
 --
 SN  dnstrm
-ID  downstream (TIGR02688)
+ID  Downstream (TIGR02688)
 RQ  1
 EV  IPR014061; TIGR02688; sufficient;
 --
 SN  upstrm
-ID  upstream (TIGR02687)
+ID  Upstream (TIGR02687)
 RQ  1
 EV  IPR014060; TIGR02687; sufficient;
 //

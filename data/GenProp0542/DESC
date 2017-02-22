@@ -1,7 +1,7 @@
 AC  GenProp0542
 DE  Tol-Pal system
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  11200223
@@ -63,7 +63,7 @@ CC  contains a variable number of beta-propellar repeats.
 **  miss. So, removing the rSAM HMM-CLUST.
 --
 SN  Pal
-ID  tol-pal system protein Pal (OprL)
+ID  Tol-pal system protein Pal (OprL)
 RQ  1
 EV  IPR014169; TIGR02802; sufficient;
 --
@@ -88,12 +88,12 @@ RQ  1
 EV  IPR014168; TIGR02801; sufficient;
 --
 SN  YbgC
-ID  tol-pal region thioesterase YbgC
+ID  Tol-pal region thioesterase YbgC
 RQ  0
 EV  IPR014166; TIGR02799; sufficient;
 --
 SN  YbgF
-ID  tol-pal region protein YbgF
+ID  Tol-pal region protein YbgF
 RQ  0
 EV  IPR014162; TIGR02795; sufficient;
 //

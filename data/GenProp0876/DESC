@@ -1,7 +1,7 @@
 AC  GenProp0876
-DE  decarboxylation/antiport proton-motive cycle: glutamate-GABA
+DE  Decarboxylation/antiport proton-motive cycle: glutamate-GABA
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  19114477
@@ -22,31 +22,31 @@ CC  Similar cycles are driven by the decarboxylation of other amino acids.
 **  question.
 --
 SN  gadAB
-ID  glutamate decarboxylase
+ID  Glutamate decarboxylase
 RQ  1
 EV  IPR010107; TIGR01788;
 TG  GO:0010447;
 --
 SN  gadC
-ID  glutamate/GABA antiporter
+ID  Glutamate/GABA antiporter
 RQ  1
 EV  IPR004759; TIGR00910;
 TG  GO:0010447;
 --
 SN  gadE
-ID  transcriptional activator GadE
+ID  Transcriptional activator GadE
 RQ  0
 EV  IPRXXXX; 2656;
 TG  GO:0010447;
 --
 SN  gadW
-ID  transcriptional activator GadW
+ID  Transcriptional activator GadW
 RQ  0
 EV  IPRXXXX; 2655;
 TG  GO:0010447;
 --
 SN  gadX
-ID  transcriptional regulator GadX
+ID  Transcriptional regulator GadX
 RQ  0
 EV  IPRXXXX; 2657;
 TG  GO:0010447;

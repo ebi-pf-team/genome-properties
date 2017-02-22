@@ -1,7 +1,7 @@
 AC  GenProp0287
-DE  ribonucleotide reduction
+DE  Ribonucleotide reduction
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  15158709
@@ -66,25 +66,25 @@ CC  and plasmids which were sequenced) or 3) these species strictly rely on
 CC  import of deoxyribonucleic acid from the host environment.
 --
 SN  I
-ID  class I (aerobic) ribonucleotide reductase: GenProp0289
+ID  Class I (aerobic) ribonucleotide reductase: GenProp0289
 RQ  1
 EV  GenProp0289;
 TG  GO:0009265;
 --
 SN  II
-ID  class II (B12-dependent) ribonucleotide reductase: GenProp0290
+ID  Class II (B12-dependent) ribonucleotide reductase: GenProp0290
 RQ  1
 EV  GenProp0290;
 TG  GO:0009265;
 --
 SN  III
-ID  class III (anaerobic) ribonucleotide reductase: GenProp0291
+ID  Class III (anaerobic) ribonucleotide reductase: GenProp0291
 RQ  1
 EV  GenProp0291;
 TG  GO:0009265;
 --
 SN  NrdR
-ID  transcriptional regulator NrdR
+ID  Transcriptional regulator NrdR
 RQ  0
 EV  IPR003796; TIGR00244; sufficient;
 TG  GO:0009265;

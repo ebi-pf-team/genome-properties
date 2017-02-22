@@ -1,7 +1,7 @@
 AC  GenProp0672
-DE  citrate lyase system
+DE  Citrate lyase system
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  16952946
@@ -17,27 +17,27 @@ RQ  1
 EV  IPR005216; TIGR00124; sufficient;
 --
 SN  citD
-ID  citrate lyase acyl carrier protein
+ID  Citrate lyase acyl carrier protein
 RQ  1
 EV  IPR006495; TIGR01608; sufficient;
 --
 SN  citE
-ID  citrate lyase, beta subunit
+ID  Citrate lyase, beta subunit
 RQ  1
 EV  IPR006475; TIGR01588; sufficient;
 --
 SN  citF
-ID  citrate lyase, alpha subunit
+ID  Citrate lyase, alpha subunit
 RQ  1
 EV  IPR006472; TIGR01584; sufficient;
 --
 SN  citG
-ID  triphosphoribosyl-dephospho-CoA synthase
+ID  Triphosphoribosyl-dephospho-CoA synthase
 RQ  1
 EV  IPR017551; TIGR03125; sufficient;
 --
 SN  citX
-ID  apo-citrate lyase phosphoribosyl-dephospho-CoA transferase
+ID  Apo-citrate lyase phosphoribosyl-dephospho-CoA transferase
 RQ  1
 EV  IPR005551; TIGR03124; sufficient;
 //

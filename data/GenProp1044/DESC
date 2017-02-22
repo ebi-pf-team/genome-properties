@@ -1,7 +1,7 @@
 AC  GenProp1044
 DE  Transposon components
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This property collects transposases and related integrases.
 --
@@ -11,7 +11,7 @@ RQ  1
 EV  IPR022242; PF12596;
 --
 SN  Hermes
-ID  hermes transposase DNA-binding domain
+ID  Hermes transposase DNA-binding domain
 RQ  1
 EV  IPR018473; PF10683;
 --
@@ -26,7 +26,7 @@ RQ  1
 EV  IPRXXXX; 2920;
 --
 SN  IS166_C
-ID  transposase C of IS166 homeodomain
+ID  Transposase C of IS166 homeodomain
 RQ  1
 EV  IPR024463; PF13007;
 --
@@ -36,17 +36,17 @@ RQ  1
 EV  IPR002686; PF01797;
 --
 SN  IS4
-ID  transposase, IS4 family
+ID  Transposase, IS4 family
 RQ  1
 EV  IPR002559; PF01609;
 --
 SN  IS4_N
-ID  insertion element 4 transposase N-terminal
+ID  Insertion element 4 transposase N-terminal
 RQ  1
 EV  IPR024473; PF13006;
 --
 SN  IS605-B
-ID  transposase, IS605 OrfB family
+ID  Transposase, IS605 OrfB family
 RQ  1
 EV  IPR001959; PF01385;
 EV  IPR010095; TIGR01766;
@@ -57,12 +57,12 @@ RQ  1
 EV  IPR004291; PF03050;
 --
 SN  IS66_HTH
-ID  putative helix-turn-helix domain of transposase IS66
+ID  Putative helix-turn-helix domain of transposase IS66
 RQ  1
 EV  IPR024474; PF13005;
 --
 SN  ISC1217
-ID  archaeal putative transposase ISC1217
+ID  Archaeal putative transposase ISC1217
 RQ  1
 EV  IPR006783; PF04693;
 --
@@ -72,7 +72,7 @@ RQ  1
 EV  IPRXXXX; 2916;
 --
 SN  Igr-core
-ID  integrase core domain protein
+ID  Integrase core domain protein
 RQ  1
 EV  IPR001584; PF00665;
 --
@@ -132,12 +132,12 @@ RQ  1
 EV  IPR002622; PF01710;
 --
 SN  Tsp_19
-ID  transposase, IS116/IS110/IS902 family
+ID  Transposase, IS116/IS110/IS902 family
 RQ  1
 EV  IPR003346; PF02371;
 --
 SN  Tsp_21
-ID  transposase family Tnp2
+ID  Transposase family Tnp2
 RQ  1
 EV  IPR004242; PF02992;
 --
@@ -177,7 +177,7 @@ RQ  1
 EV  IPR002525; PF01548;
 --
 SN  Tsp_Mu
-ID  bacteriophage Mu transposase
+ID  Bacteriophage Mu transposase
 RQ  1
 EV  IPR004189; PF02914;
 --
@@ -192,7 +192,7 @@ RQ  1
 EV  IPR004332; PF03108;
 --
 SN  Tsp_Ptta
-ID  plant transposase, Ptta/En/Spm family
+ID  Plant transposase, Ptta/En/Spm family
 RQ  1
 EV  IPR004252; PF03004;
 --
@@ -202,7 +202,7 @@ RQ  1
 EV  IPR002492; PF01498;
 --
 SN  Tsp_Teng
-ID  transposase, putative, N-terminal domain
+ID  Transposase, putative, N-terminal domain
 RQ  1
 EV  IPR010094; TIGR01765;
 --
@@ -212,13 +212,13 @@ RQ  1
 EV  IPR024442; PF12760;
 --
 SN  YhgA-lk
-ID  putative transposase, YhgA-like
+ID  Putative transposase, YhgA-like
 RQ  1
 EV  IPR006842; PF04754;
 EV  IPR010106; TIGR01784;
 --
 SN  mutator
-ID  transposase, mutator family
+ID  Transposase, mutator family
 RQ  1
 EV  IPR001207; PF00872;
 //

@@ -1,7 +1,7 @@
 AC  GenProp0312
-DE  pyrrolysine
+DE  Pyrrolysine
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  15314242
@@ -37,33 +37,33 @@ ID
 RQ  1
 --
 SN  pylB
-ID  pyrrolysine biosynthesis radical SAM protein
+ID  Pyrrolysine biosynthesis radical SAM protein
 RQ  1
 EV  IPR023891; TIGR03910;
 --
 SN  pylC
-ID  pyrrolysine biosynthesis protein PylC
+ID  Pyrrolysine biosynthesis protein PylC
 RQ  1
 EV  IPR023890; TIGR03909;
 --
 SN  pylD
-ID  pyrrolysine biosynthesis protein PylD
+ID  Pyrrolysine biosynthesis protein PylD
 RQ  1
 EV  IPR023914; TIGR03911;
 --
 SN  pylSc
-ID  pyrrolysyl-tRNA synthetase, C-terminal region
-DN  pyrrolysyl-tRNA synthetase (EC 6.1.1.26)
+ID  Pyrrolysyl-tRNA synthetase, C-terminal region
+DN  Pyrrolysyl-tRNA synthetase (EC 6.1.1.26)
 RQ  1
 EV  IPR023877; TIGR02367; sufficient;
 --
 SN  pylSn
-ID  pyrrolysyl-tRNA synthetase, N-terminal region
+ID  Pyrrolysyl-tRNA synthetase, N-terminal region
 RQ  1
 EV  IPR023878; TIGR03912;
 --
 SN  pylT
-ID  pyrrolysine tRNA
-DN  pyrrolysine tRNA
+ID  Pyrrolysine tRNA
+DN  Pyrrolysine tRNA
 RQ  1
 //

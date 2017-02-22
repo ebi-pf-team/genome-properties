@@ -1,7 +1,7 @@
 AC  GenProp0845
-DE  protein sorting system, KxYKxGKxW class
+DE  Protein sorting system, KxYKxGKxW class
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  Analogous to YSIRK, this property describes a subclass of N-terminal
 CC  signal sequence in Firmicutes (low-GC Gram-positive bacteria). As with
@@ -18,7 +18,7 @@ RQ  1
 EV  IPR022263; TIGR03715;
 --
 SN  hypot_1
-ID  putative linked putative esterase TIGR03729
+ID  Putative linked putative esterase TIGR03729
 RQ  0
 EV  IPR022302; TIGR03729;
 //

@@ -1,7 +1,7 @@
 AC  GenProp0294
-DE  ethanolamine degradation proteinaceous organelle
+DE  Ethanolamine degradation proteinaceous organelle
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  1
 RN  [1]
 RM  3045078
@@ -23,22 +23,22 @@ CC  system in organisms which may rely on ethanolamine as a primary carbon
 CC  source.
 --
 SN  eutB
-ID  ethanolamine ammonia-lyase, large subunit
-DN  ethanolamine ammonia-lyase, large subunit (EC 4.3.1.7)
+ID  Ethanolamine ammonia-lyase, large subunit
+DN  Ethanolamine ammonia-lyase, large subunit (EC 4.3.1.7)
 RQ  1
 EV  IPR010628; PF06751; sufficient;
 TG  GO:0046336;
 --
 SN  eutC
-ID  ethanolamine ammonia-lyase, small subunit
-DN  ethanolamine ammonia-lyase, small subunit (EC 4.3.1.7)
+ID  Ethanolamine ammonia-lyase, small subunit
+DN  Ethanolamine ammonia-lyase, small subunit (EC 4.3.1.7)
 RQ  1
 EV  IPR009246; PF05985; sufficient;
 TG  GO:0046336;
 --
 SN  eutE
-ID  putative acetaldehyde dehydrogenase (acetylating)
-DN  putative acetaldehyde dehydrogenase (acetylating)
+ID  Putative acetaldehyde dehydrogenase (acetylating)
+DN  Putative acetaldehyde dehydrogenase (acetylating)
 RQ  0
 EV  IPR013357; TIGR02518; sufficient;
 TG  GO:0046336;
@@ -46,8 +46,8 @@ EV  IPRXXXX; PF00171;
 TG  GO:0046336;
 --
 SN  eutH
-ID  ethanolamine diffusion facilitator
-DN  ethanolamine diffusion facilitator
+ID  Ethanolamine diffusion facilitator
+DN  Ethanolamine diffusion facilitator
 RQ  0
 EV  IPR004757; TIGR00908; sufficient;
 TG  GO:0046336;

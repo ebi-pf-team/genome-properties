@@ -1,7 +1,7 @@
 AC  GenProp0840
-DE  polyphosphate kinase/exopolyphosphatase system
+DE  Polyphosphate kinase/exopolyphosphatase system
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  15520374
@@ -25,34 +25,34 @@ CC  produce GTP from GDP and polyphosphate.
 **  that I am splitting at least three ways.
 --
 SN  PP_ppk1
-ID  polyphosphate kinase 1
+ID  Polyphosphate kinase 1
 RQ  1
 EV  IPR024953; PF02503;
 EV  IPR003414; TIGR03705;
 --
 SN  PP_ppx
-ID  exopolyphosphatase
+ID  Exopolyphosphatase
 RQ  1
 EV  IPR022371; TIGR03706;
 EV  IPRXXXX; PF02541;
 --
 SN  PP_useA
-ID  polyphosphate kinase 2, PA0141 family
+ID  Polyphosphate kinase 2, PA0141 family
 RQ  0
 EV  IPR022486; TIGR03707;
 --
 SN  PP_useB
-ID  polyphosphate:AMP phosphotransferase
+ID  Polyphosphate:AMP phosphotransferase
 RQ  0
 EV  IPR022489; TIGR03708;
 --
 SN  PP_useC
-ID  putative polyphosphate kinase
+ID  Putative polyphosphate kinase
 RQ  0
 EV  IPR022300; TIGR03709;
 --
 SN  PP_useX
-ID  polyphosphate kinase 2
+ID  Polyphosphate kinase 2
 RQ  0
 EV  IPR022488; PF03976;
 //

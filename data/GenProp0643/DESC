@@ -1,7 +1,7 @@
 AC  GenProp0643
-DE  putrescine biosynthesis from arginine via ornithine
+DE  Putrescine biosynthesis from arginine via ornithine
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  An alternative to the SpeAB pathway to putrescine from arginine via
 CC  agmatine (GenProp0642) involves ornithine decarboxylase (SpeC or SpeF).
@@ -12,12 +12,12 @@ CC  biosynthesis of creatine also incidentally generates ornithine (and
 CC  guanidinoacetate) from arginine and glycine. 
 --
 SN  SpeC/F
-ID  ornithine decarboxylase
+ID  Ornithine decarboxylase
 RQ  1
 EV  IPR027568; TIGR04301; sufficient;
 --
 SN  arg-orn
-ID  conversion of arginine to ornithine
+ID  Conversion of arginine to ornithine
 RQ  1
 EV  GenProp0639;
 EV  IPR014033; TIGR01229; sufficient;

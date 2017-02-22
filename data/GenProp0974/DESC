@@ -1,29 +1,29 @@
 AC  GenProp0974
 DE  O26(Ec) antigen biosynthesis
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  The O26 antigen is composed of the repeating unit
 CC  [->3)-aLRha-(1->4)-aLFucNAc-(1->3)-bDGlcNAc-(1->]. It is observed in E.
 CC  coli strains 900105 (10e) and 11368.
 --
 SN  FucNAc
-ID  source of UDP-L-FucNAc
+ID  Source of UDP-L-FucNAc
 RQ  1
 EV  GenProp0976;
 --
 SN  Rha
-ID  source of rhamnose
+ID  Source of rhamnose
 RQ  1
 EV  GenProp0183;
 --
 SN  WbuA
-ID  a-L-Rha-(1->4)-a-L-FucNAc transferase
+ID  A-L-Rha-(1->4)-a-L-FucNAc transferase
 RQ  1
 EV  IPRXXXX; 2772;
 --
 SN  WbuB
-ID  a-L-FucNAc-(1->3)-b-D-GlcNAc transferase
+ID  A-L-FucNAc-(1->3)-b-D-GlcNAc transferase
 RQ  1
 EV  IPRXXXX; 2942;
 --

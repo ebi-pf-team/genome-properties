@@ -1,7 +1,7 @@
 AC  GenProp0806
-DE  replication initiation, bacterial
+DE  Replication initiation, bacterial
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  16036556
@@ -10,12 +10,12 @@ RA  Schaeffer PM, Headlam MJ, Dixon NE;
 RL  IUBMB Life. 2005;57:5-12.
 --
 SN  DnaA
-ID  chromosomal replication initiator protein DnaA
+ID  Chromosomal replication initiator protein DnaA
 RQ  1
 EV  IPR001957; TIGR00362;
 --
 SN  DnaB
-ID  replicative DNA helicase
+ID  Replicative DNA helicase
 RQ  1
 EV  IPR007692; TIGR00665;
 --

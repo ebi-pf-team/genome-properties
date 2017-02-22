@@ -1,7 +1,7 @@
 AC  GenProp0285
-DE  flagella, bacterial type
+DE  Flagella, bacterial type
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  5
 CC  rough in going well for bacterial Gram-neg, non-spirochete,
 CC  non-endosymbiont.
@@ -15,52 +15,52 @@ CC  non-endosymbiont.
 **             FliUVWXYZ
 --
 SN  assmbl
-ID  flagellar assembly apparatus components
+ID  Flagellar assembly apparatus components
 RQ  1
 EV  GenProp0881;
 --
 SN  basal
-ID  flagellar basal body complex
+ID  Flagellar basal body complex
 RQ  1
 EV  GenProp0880;
 --
 SN  export
-ID  flagellar export apparatus
+ID  Flagellar export apparatus
 RQ  1
 EV  GenProp0879;
 --
 SN  filament
-ID  flagellar hook and filament complex
+ID  Flagellar hook and filament complex
 RQ  1
 EV  GenProp0882;
 --
 SN  modif
-ID  flagellar post-translational modification components
+ID  Flagellar post-translational modification components
 RQ  0
 EV  GenProp0885;
 --
 SN  narrow
-ID  flagellar operon proteins found in restricted phylogenetic ranges
+ID  Flagellar operon proteins found in restricted phylogenetic ranges
 RQ  0
 EV  GenProp0887;
 --
 SN  regulat
-ID  flagellar regulation systems
+ID  Flagellar regulation systems
 RQ  0
 EV  GenProp0884;
 --
 SN  rotor
-ID  flagellar motor switch (rotor) complex
+ID  Flagellar motor switch (rotor) complex
 RQ  1
 EV  GenProp0883;
 --
 SN  stator
-ID  flagellar motor stator complex
+ID  Flagellar motor stator complex
 RQ  1
 EV  GenProp0877;
 --
 SN  unknown
-ID  flagellar components of unknown function
+ID  Flagellar components of unknown function
 RQ  0
 EV  GenProp0886;
 //

@@ -1,7 +1,7 @@
 AC  GenProp0992
-DE  radical SAM maturase system, methanogen
+DE  Radical SAM maturase system, methanogen
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This system, absolutely restricted to a subset of archaea, always
 CC  contains a radical SAM enzyme belonging to the peptide maturase
@@ -12,7 +12,7 @@ CC  modification.
 **  Modification target must not be nearby.
 --
 SN  rSAM
-ID  radical SAM probable peptide maturase
+ID  Radical SAM probable peptide maturase
 RQ  1
 EV  IPR024018; TIGR04083;
 //

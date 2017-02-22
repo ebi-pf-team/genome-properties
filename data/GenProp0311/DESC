@@ -1,13 +1,13 @@
 AC  GenProp0311
-DE  competence-related genes
+DE  Competence-related genes
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 **  Some uptake sequences: Neisseria ATGCCGTCTGAA, most Pasteurellacaea
 **  AAAGTGCGGT, and alternative Actinobacillus pleuropneumoniae ACAAGCGGTC
 --
 SN  ComEA
-ID  competence protein ComE/CelA
+ID  Competence protein ComE/CelA
 RQ  1
 EV  IPR004509; TIGR00426; sufficient;
 --

@@ -1,8 +1,8 @@
 AC  GenProp0250
-DE  thiamine: hydroxyethylthiazole from 1-deoxy-D-xylulose-5-phosphate,
-DE  cysteine, either Tyr or Gly
+DE  Thiamine: hydroxyethylthiazole from 1-deoxy-D-xylulose-5-phosphate,
+DE  Cysteine, either Tyr or Gly
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  1
 RN  [1]
 RM  12410317
@@ -53,21 +53,21 @@ TG  GO:0018131;
 --
 SN  ThiG
 ID  ThiG protein
-DN  thiazole biosynthesis protein ThiG
+DN  Thiazole biosynthesis protein ThiG
 RQ  1
 EV  IPRXXXX; PF05690; sufficient;
 TG  GO:0018131;
 --
 SN  ThiI
 ID  ThiI protein
-DN  thiamine biosynthesis protein ThiI
+DN  Thiamine biosynthesis protein ThiI
 RQ  1
 EV  IPR026340; TIGR04271; sufficient;
 TG  GO:0018131;
 --
 SN  ThiS
 ID  ThiS protein
-DN  thiamine biosynthesis protein ThiS
+DN  Thiamine biosynthesis protein ThiS
 RQ  1
 EV  IPR010035; TIGR01683; sufficient;
 TG  GO:0018131;

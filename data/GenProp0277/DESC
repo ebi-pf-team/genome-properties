@@ -1,7 +1,7 @@
 AC  GenProp0277
-DE  cobalt import system (ABC transporter: 3.A.1.18.1)
+DE  Cobalt import system (ABC transporter: 3.A.1.18.1)
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  2
 RN  [1]
 RM  12869542
@@ -18,7 +18,7 @@ CC  although it is believed to be a membrane-spanning protein.
 **  cobalt transport proteins belong to this broader property instead.
 --
 SN  CbiM
-ID  cobalt ECF transporter S component CbiM
+ID  Cobalt ECF transporter S component CbiM
 RQ  1
 EV  IPR018024; TIGR00123; sufficient;
 TG  GO:0006824;
@@ -30,14 +30,14 @@ EV  IPR003705; TIGR01165; sufficient;
 TG  GO:0006824;
 --
 SN  CbiO
-ID  cobalt ECF transporter ATPase CbiO
-DN  cobalt ABC transporter, ATP-binding protein
+ID  Cobalt ECF transporter ATPase CbiO
+DN  Cobalt ABC transporter, ATP-binding protein
 RQ  1
 EV  IPR005876; TIGR01166; sufficient;
 TG  GO:0006824;
 --
 SN  CbiQ
-ID  cobalt ECF transporter T component CbiQ
+ID  Cobalt ECF transporter T component CbiQ
 RQ  1
 EV  IPR012809; TIGR02454; sufficient;
 TG  GO:0006824;

@@ -1,7 +1,7 @@
 AC  GenProp0252
-DE  thiamine/TPP ABC transporter ThiBPQ
+DE  Thiamine/TPP ABC transporter ThiBPQ
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  9535878
@@ -19,22 +19,22 @@ CC  Brucella suis, Sinorhizobium meliloti, etc. All known examples are in
 CC  the Proteobacteria.
 --
 SN  binding
-ID  thiamine binding protein
-DN  thiamin/thiamin pyrophosphate ABC transporter, thiamin/thiamin pyrophospate-binding protein
+ID  Thiamine binding protein
+DN  Thiamin/thiamin pyrophosphate ABC transporter, thiamin/thiamin pyrophospate-binding protein
 RQ  1
 EV  IPR005967; TIGR01276; sufficient;
 TG  GO:0030974;
 --
 SN  permase
-ID  thiamine transporter permease
-DN  thiamine/thiamine pyrophosphate ABC transporter, permease protein
+ID  Thiamine transporter permease
+DN  Thiamine/thiamine pyrophosphate ABC transporter, permease protein
 RQ  1
 EV  IPR005947; TIGR01253; sufficient;
 TG  GO:0030974;
 --
 SN  thiATP
-ID  thiamine transporter ATP-binding protein
-DN  thiamine ABC transporter, ATP-binding protein
+ID  Thiamine transporter ATP-binding protein
+DN  Thiamine ABC transporter, ATP-binding protein
 RQ  1
 EV  IPR005968; TIGR01277; sufficient;
 TG  GO:0030974;

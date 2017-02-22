@@ -1,7 +1,7 @@
 AC  GenProp0791
-DE  coenzyme F420 biosynthesis
+DE  Coenzyme F420 biosynthesis
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  1
 RN  [1]
 RM  18260642
@@ -43,7 +43,7 @@ CC  glutamates, occurs only the archaea.
 **  FO (the chromophore of F420) but not F420 itself.
 --
 SN  3_CofC
-ID  lactoylphosphate guanylyltransferase
+ID  Lactoylphosphate guanylyltransferase
 RQ  1
 EV  IPR002835; TIGR03552;
 TG  GO:0009108;
@@ -61,7 +61,7 @@ EV  IPR008225; TIGR01916;
 TG  GO:0009108;
 --
 SN  6_CofF
-ID  coenzyme gamma-F420-2:alpha-L-glutamate ligase
+ID  Coenzyme gamma-F420-2:alpha-L-glutamate ligase
 RQ  0
 EV  IPR031039; TIGR04443;
 TG  GO:0009108;

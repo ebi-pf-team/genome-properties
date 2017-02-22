@@ -1,7 +1,7 @@
 AC  GenProp1047
 DE  O101(Ec) antigen biosynthesis
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  9060191
@@ -32,12 +32,12 @@ RQ  1
 EV  IPRXXXX; 2941;
 --
 SN  GT-2
-ID  putative N-acetyl-glucosamine alpha-1,4-N-acetyl-galactosaminyltransferase, O101-associated
+ID  Putative N-acetyl-glucosamine alpha-1,4-N-acetyl-galactosaminyltransferase, O101-associated
 RQ  1
 EV  IPRXXXX; 2938;
 --
 SN  GT-3
-ID  putative N-acetyl-galactosamine alpha-1,6-N-acetyl-glucosaminyltransferase, O101-associated
+ID  Putative N-acetyl-galactosamine alpha-1,6-N-acetyl-glucosaminyltransferase, O101-associated
 RQ  1
 EV  IPRXXXX; 2937;
 --
@@ -47,7 +47,7 @@ RQ  1
 EV  IPRXXXX; 2936;
 --
 SN  MT-CLD
-ID  terminating methylase and chain-length determinant protein
+ID  Terminating methylase and chain-length determinant protein
 RQ  1
 EV  IPRXXXX; 2935;
 --

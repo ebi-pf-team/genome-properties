@@ -1,7 +1,7 @@
 AC  GenProp0709
-DE  benzoate catabolism BoxABC pathway
+DE  Benzoate catabolism BoxABC pathway
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  In the presence of molecular oxygen, BoxAB acts as a benzoyl-CoA
 CC  oxygenase. Formate is then hydrolyzed from its product by BoxC.
@@ -9,17 +9,17 @@ CC  oxygenase. Formate is then hydrolyzed from its product by BoxC.
 **  to this property. DHH.
 --
 SN  BoxA
-ID  benzoyl-CoA oxidase, BoxA subunit
+ID  Benzoyl-CoA oxidase, BoxA subunit
 RQ  1
 EV  IPR017634; TIGR03224; sufficient;
 --
 SN  BoxB
-ID  benzoyl-CoA oxidase, BoxB subunit
+ID  Benzoyl-CoA oxidase, BoxB subunit
 RQ  1
 EV  IPR017635; TIGR03225; sufficient;
 --
 SN  BoxC
-ID  benzoyl-CoA-dihydrodiol lyase
+ID  Benzoyl-CoA-dihydrodiol lyase
 RQ  1
 EV  IPR017633; TIGR03222; sufficient;
 //

@@ -1,7 +1,7 @@
 AC  GenProp0138
-DE  iron-sulfur cluster assembly iscSUA-hscBA-fdx system
+DE  Iron-sulfur cluster assembly iscSUA-hscBA-fdx system
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  At least three different systems have been described for 2fe-2S cluster
 CC  assembly. The NIF system provides an iron-sulfur cluster to nitrogenase
@@ -36,25 +36,25 @@ TG  GO:0016226;
 --
 SN  IscA
 ID  FeS assembly protein IscA
-DN  iron-sulfur cluster assembly protein IscA
+DN  Iron-sulfur cluster assembly protein IscA
 RQ  1
 EV  IPR011302; TIGR02011; sufficient;
 TG  GO:0016226;
 --
 SN  IscR
-ID  iron-sulfur cluster assembly transcription factor IscR
-DN  iron-sulfur cluster assembly transcription factor IscR
+ID  Iron-sulfur cluster assembly transcription factor IscR
+DN  Iron-sulfur cluster assembly transcription factor IscR
 RQ  1
 EV  IPR010242; TIGR02010; sufficient;
 --
 SN  IscS
-ID  cysteine desulfurase
+ID  Cysteine desulfurase
 RQ  1
 EV  IPR010240; TIGR02006; sufficient;
 TG  GO:0016226;
 --
 SN  IscU
-ID  iron-sulfur cluster assembly scaffold
+ID  Iron-sulfur cluster assembly scaffold
 DN  FeS cluster assembly scaffold IscU
 RQ  1
 EV  IPR011339; TIGR01999; sufficient;
@@ -68,7 +68,7 @@ TG  GO:0016226;
 --
 SN  fdx
 ID  Isc-system ferredoxin
-DN  ferredoxin, 2Fe-2S type, ISC system
+DN  Ferredoxin, 2Fe-2S type, ISC system
 RQ  1
 EV  IPR011536; TIGR02007; sufficient;
 TG  GO:0016226;

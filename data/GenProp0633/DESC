@@ -1,7 +1,7 @@
 AC  GenProp0633
-DE  nitrogenase, Mo-containing
+DE  Nitrogenase, Mo-containing
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  The most common type of nitrogenase contains molybdenum as well as
 CC  iron. Alternative nitrogenases with homologous alpha and beta subunits
@@ -13,12 +13,12 @@ CC  specific accessory factors.
 **  WARNING: Just the molybdenum-iron protein
 --
 SN  alpha_Mo
-ID  nitrogenase, molybdenum-iron protein, alpha subunit
+ID  Nitrogenase, molybdenum-iron protein, alpha subunit
 RQ  1
 EV  IPR005972; TIGR01282; sufficient;
 --
 SN  beta_Mo
-ID  nitrogenase, molybdenum-iron protein, beta subunit
+ID  Nitrogenase, molybdenum-iron protein, beta subunit
 RQ  1
 EV  IPR005976; TIGR01286; sufficient;
 //

@@ -1,7 +1,7 @@
 AC  GenProp0977
 DE  DNA ligase/helicase system
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  A set of four proteins occurs in about 12 % of prokaryotic reference
 CC  genomes (mostly Proteobacteria) and consists of an ATP-dependent DNA
@@ -9,12 +9,12 @@ CC  ligase, a DEXH-box helicase, a putative exonuclease, and putative
 CC  metallohydrolase. This system may play a role in DNA repair.
 --
 SN  DNA_est
-ID  metallophosphoesterase, DNA ligase-associated
+ID  Metallophosphoesterase, DNA ligase-associated
 RQ  1
 EV  IPR026336; TIGR04123;
 --
 SN  DNA_exo
-ID  exonuclease, DNA ligase-associated
+ID  Exonuclease, DNA ligase-associated
 RQ  1
 EV  IPR026360; TIGR04122;
 --

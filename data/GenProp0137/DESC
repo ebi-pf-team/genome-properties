@@ -1,7 +1,7 @@
 AC  GenProp0137
-DE  iron-sulfur cluster assembly SUF system
+DE  Iron-sulfur cluster assembly SUF system
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  1
 RN  [1]
 RM  12089140
@@ -37,7 +37,7 @@ CC  stress, the SUF system has been shown to be an important factor for
 CC  bacterial pathogenicity [3].
 --
 SN  SufA
-ID  iron-sulfur cluster assembly scaffold SufA
+ID  Iron-sulfur cluster assembly scaffold SufA
 RQ  0
 EV  IPR011298; TIGR01997; sufficient;
 TG  GO:0016226;
@@ -52,7 +52,7 @@ EV  IPR010231; TIGR01980; sufficient;
 TG  GO:0016226;
 --
 SN  SufC
-ID  cytosolic ATPase SufC
+ID  Cytosolic ATPase SufC
 DN  FeS assembly ATPase SufC
 RQ  1
 EV  IPR010230; TIGR01978; sufficient;
@@ -66,13 +66,13 @@ EV  IPR011542; TIGR01981; sufficient;
 TG  GO:0016226;
 --
 SN  SufE
-ID  cysteine desulfurase auxiliary chain SufE
+ID  Cysteine desulfurase auxiliary chain SufE
 RQ  0
 EV  IPR003808; PF02657; sufficient;
 TG  GO:0016226;
 --
 SN  SufR
-ID  transcriptional regulatory SufR
+ID  Transcriptional regulatory SufR
 RQ  0
 EV  IPR014075; TIGR02702; sufficient;
 TG  GO:0016226;
@@ -80,13 +80,13 @@ EV  IPR014290; TIGR02944; sufficient;
 TG  GO:0016226;
 --
 SN  SufS
-ID  cysteine desulfurases, SufS subfamily
-DN  cysteine desulfurase SufS
+ID  Cysteine desulfurases, SufS subfamily
+DN  Cysteine desulfurase SufS
 RQ  1
 EV  IPR010970; TIGR01979; sufficient;
 --
 SN  novel
-ID  proteobacterial novel SUF protein SufT
+ID  Proteobacterial novel SUF protein SufT
 RQ  0
 EV  IPR014291; TIGR02945; sufficient;
 TG  GO:0016226;

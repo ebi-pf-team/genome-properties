@@ -1,7 +1,7 @@
 AC  GenProp0739
-DE  iron-sulfur cluster assembly CsdA-CsdE system
+DE  Iron-sulfur cluster assembly CsdA-CsdE system
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  15901727
@@ -24,14 +24,14 @@ CC  role for the maturation of specific Fe-S cluster-containing proteins.
 **  S-donation is enough because the target protein itself is the scaffold.
 --
 SN  FeSCsdA
-ID  cysteine desulfurase, catalytic subunit CdsA
-DN  cysteine desulfurase, catalytic subunit CdsA (EC 2.8.1.7)
+ID  Cysteine desulfurase, catalytic subunit CdsA
+DN  Cysteine desulfurase, catalytic subunit CdsA (EC 2.8.1.7)
 RQ  1
 EV  IPR022471; TIGR03392;
 TG  GO:0016226;
 --
 SN  FeSCsdE
-ID  cysteine desulfurase, sulfur acceptor subunit CsdE
+ID  Cysteine desulfurase, sulfur acceptor subunit CsdE
 RQ  1
 EV  IPR017763; TIGR03391;
 TG  GO:0016226;

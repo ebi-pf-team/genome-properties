@@ -1,7 +1,7 @@
 AC  GenProp0750
 DE  UDP-N-acetylglucosamine biosynthesis from fructose-6-phosphate
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  8407787
@@ -19,18 +19,18 @@ CC  and (in species with LPS) for lipopolysaccharide biosynthesis.
 **  murein is role_id 89, LPS is role_id 90.
 --
 SN  glmM
-ID  phosphoglucosamine mutase
+ID  Phosphoglucosamine mutase
 RQ  1
 EV  IPR006352; TIGR01455;
 EV  IPR024086; TIGR03990;
 --
 SN  glmS
-ID  glutamine--fructose-6-phosphate transaminase (isomerizing)
+ID  Glutamine--fructose-6-phosphate transaminase (isomerizing)
 RQ  1
 EV  IPR005855; TIGR01135;
 --
 SN  glmU
-ID  glucosamine-1-phosphate N-acetyltransferase/UDP-N-acetylglucosamine diphosphorylase
+ID  Glucosamine-1-phosphate N-acetyltransferase/UDP-N-acetylglucosamine diphosphorylase
 RQ  1
 EV  IPR005882; TIGR01173;
 EV  IPR023917; TIGR03991;

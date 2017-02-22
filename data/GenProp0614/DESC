@@ -1,7 +1,7 @@
 AC  GenProp0614
-DE  cytochrome c oxidase, mitochondrial, caa3-type
+DE  Cytochrome c oxidase, mitochondrial, caa3-type
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  9380672
@@ -25,37 +25,37 @@ CC  complex in Bacilli [2] is somewhat different but included here and
 CC  carrys the gene symbols CtaD/CtaC.
 --
 SN  CoxA
-ID  oxidase subunit I CoxA/CtaD/Cox1
+ID  Oxidase subunit I CoxA/CtaD/Cox1
 RQ  1
 EV  IPR014241; TIGR02891; sufficient;
 --
 SN  CoxB
-ID  oxidase subunit II, CoxB
+ID  Oxidase subunit II, CoxB
 RQ  1
 EV  IPR014222; TIGR02866; sufficient;
 --
 SN  CoxC
-ID  oxidase subunit III, CoxC
+ID  Oxidase subunit III, CoxC
 RQ  1
 --
 SN  CoxD
-ID  oxidase subunit IV, CoxD
+ID  Oxidase subunit IV, CoxD
 RQ  0
 EV  IPR011743; TIGR02229; sufficient;
 EV  IPR005171; PF03626; sufficient;
 --
 SN  CoxE?
-ID  protoheme IX farnesyltransferase, CtaB/Cox10
+ID  Protoheme IX farnesyltransferase, CtaB/Cox10
 RQ  0
 EV  IPR006369; TIGR01473; sufficient;
 --
 SN  CoxG
-ID  assembly protein CoxG/CtaG/Cox11
+ID  Assembly protein CoxG/CtaG/Cox11
 RQ  0
 EV  IPR007533; PF04442; sufficient;
 --
 SN  CoxW
-ID  assembly protein CoxW/CtaA/Cox15
+ID  Assembly protein CoxW/CtaA/Cox15
 RQ  0
 EV  IPR003780; PF02628; sufficient;
 //

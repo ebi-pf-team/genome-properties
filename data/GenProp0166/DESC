@@ -1,7 +1,7 @@
 AC  GenProp0166
-DE  mreBCD system
+DE  MreBCD system
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  14506864
@@ -55,33 +55,33 @@ CC  bacteria lacking the MreBCD system [4].
 --
 SN  mreB
 ID  MreB protein
-DN  rod shape-determining protein MreB
+DN  Rod shape-determining protein MreB
 RQ  1
 EV  IPR004753; TIGR00904; sufficient;
 TG  GO:0008360;
 --
 SN  mreC
 ID  MreC protein
-DN  rod shape-determining protein MreC
+DN  Rod shape-determining protein MreC
 RQ  1
 EV  IPR007221; TIGR00219; sufficient;
 TG  GO:0008360;
 --
 SN  mreD
 ID  MreD protein
-DN  rod shape-determining protein MreD
+DN  Rod shape-determining protein MreD
 RQ  1
 EV  IPR007227; TIGR03426; sufficient;
 TG  GO:0008360;
 --
 SN  pbp2
-ID  penicillin-binding protein 2
+ID  Penicillin-binding protein 2
 RQ  0
 EV  IPR017790; TIGR03423;
 TG  GO:0008360;
 --
 SN  rodA
-ID  rod shape-determining protein RodA
+ID  Rod shape-determining protein RodA
 RQ  0
 EV  IPR011923; TIGR02210;
 TG  GO:0008360;

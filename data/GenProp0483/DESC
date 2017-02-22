@@ -1,7 +1,7 @@
 AC  GenProp0483
-DE  cytochrome c oxidase, cbb3-type
+DE  Cytochrome c oxidase, cbb3-type
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  16343536
@@ -16,33 +16,33 @@ CC  signficantly different from the mitochondrial cytochrome c oxidase and
 CC  is largely restricted to the Proteobacteria.
 --
 SN  1_ccoN
-ID  subunit I (CcoN)
+ID  Subunit I (CcoN)
 RQ  1
 EV  IPR004677; TIGR00780; sufficient;
 --
 SN  2_ccoO
-ID  subunit II (CcoO)
+ID  Subunit II (CcoO)
 RQ  1
 EV  IPR003468; TIGR00781; sufficient;
 --
 SN  3_ccoP
-ID  subunit III (CcoP)
+ID  Subunit III (CcoP)
 RQ  1
 EV  IPR004678; TIGR00782; sufficient;
 --
 SN  4_ccoQ
-ID  subunit CcoQ
+ID  Subunit CcoQ
 RQ  0
 EV  IPR008621; PF05545; sufficient;
 EV  IPR014107; TIGR02736; sufficient;
 --
 SN  CcoS
-ID  insertion/maturation protein CcoS
+ID  Insertion/maturation protein CcoS
 RQ  1
 EV  IPR004714; TIGR00847; sufficient;
 --
 SN  FixG
-ID  accessory, ferredoxin-like, FixG
+ID  Accessory, ferredoxin-like, FixG
 RQ  1
 EV  IPR014116; TIGR02745; sufficient;
 //

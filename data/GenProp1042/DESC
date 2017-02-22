@@ -1,7 +1,7 @@
 AC  GenProp1042
 DE  O128(Ec) antigen biosynthesis
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  14550554
@@ -29,7 +29,7 @@ CC  O-antigen, but the location(s) and fraction of modification are not yet
 CC  determined.
 --
 SN  Fuc
-ID  source of L-fucose
+ID  Source of L-fucose
 RQ  1
 EV  GenProp1024;
 --

@@ -1,7 +1,7 @@
 AC  GenProp0808
-DE  bacteriocin system, TIGR01847 leader group
+DE  Bacteriocin system, TIGR01847 leader group
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  Get a better class name later. Conserved signal peptide.
 --
@@ -16,7 +16,7 @@ RQ  1
 EV  IPR010133; TIGR01847;
 --
 SN  sec_acc
-ID  secretion accessory protein
+ID  Secretion accessory protein
 RQ  1
 EV  IPR005696; TIGR01000;
 //

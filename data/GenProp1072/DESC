@@ -1,7 +1,7 @@
 AC  GenProp1072
-DE  cyanase system
+DE  Cyanase system
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  8444806
@@ -16,24 +16,24 @@ CC  operon consisting of a carbonic anhydrase, cyanase, and cyanate
 CC  transporter.
 --
 SN  cynR
-ID  cyn operon transcriptional activator CynR
+ID  Cyn operon transcriptional activator CynR
 RQ  0
 EV  IPRXXXX; PF03466;
 --
 SN  cynS
-ID  cyanase
+ID  Cyanase
 RQ  1
 EV  IPR008076; TIGR00673;
 TG  GO:0009440;
 --
 SN  cynT
-ID  carbonic anhydrase, cyanate-induced
+ID  Carbonic anhydrase, cyanate-induced
 RQ  0
 EV  IPRXXXX; PF00484;
 TG  GO:0009440;
 --
 SN  cynX
-ID  cyanate transporter
+ID  Cyanate transporter
 RQ  0
 EV  IPRXXXX; TIGR00896;
 TG  GO:0015704;

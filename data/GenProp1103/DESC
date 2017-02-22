@@ -1,7 +1,7 @@
 AC  GenProp1103
-DE  protein sorting system, Synergist-CTERM/unknown of Synergistetes
+DE  Protein sorting system, Synergist-CTERM/unknown of Synergistetes
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This HMM describes a putative bacterial C-terminal protein-sorting
 CC  system restricted to the Synergistetes, but not universal in that
@@ -21,7 +21,7 @@ CC  targets have a spacer.
 **  jonesii all have.
 --
 SN  sorter
-ID  unknown sorting enzyme for Synergist-CTERM
+ID  Unknown sorting enzyme for Synergist-CTERM
 RQ  1
 --
 SN  target

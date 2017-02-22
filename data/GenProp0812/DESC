@@ -1,7 +1,7 @@
 AC  GenProp0812
-DE  rho-dependent termination
+DE  Rho-dependent termination
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  16554712
@@ -23,7 +23,7 @@ EV  GenProp0132;
 TG  GO:0003715;
 --
 SN  rho
-ID  rho termination factor
+ID  Rho termination factor
 RQ  1
 EV  IPR004665; TIGR00767;
 TG  GO:0003715;

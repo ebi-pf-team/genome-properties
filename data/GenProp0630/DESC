@@ -1,7 +1,7 @@
 AC  GenProp0630
 DE  2-oxoglutarate dehydrogenase system
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This enzyme system utilizes three components E1 (thiamine
 CC  pyrophosphate-binding subunit, SucA), E2 (dihydrolipoamide
@@ -13,18 +13,18 @@ CC  and and one molecule of NAD+ is converted to NADH.  This reaction is an
 CC  essential component of the TCA (Krebs) cycle.
 --
 SN  E1
-ID  thiamine pyrophosphate-binding subunit, SucA (E1)
+ID  Thiamine pyrophosphate-binding subunit, SucA (E1)
 RQ  1
 EV  IPR011603; TIGR00239; sufficient;
 --
 SN  E2
-ID  dihydrolipoamide succinyltransferase, SucB (E2)
+ID  Dihydrolipoamide succinyltransferase, SucB (E2)
 RQ  1
 EV  IPR006255; TIGR01347; sufficient;
 EV  IPR014276; TIGR02927; sufficient;
 --
 SN  E3
-ID  dihydrolipoamide dehydrogenase, LpdA (E3)
+ID  Dihydrolipoamide dehydrogenase, LpdA (E3)
 RQ  1
 EV  IPR006258; TIGR01350; sufficient;
 //

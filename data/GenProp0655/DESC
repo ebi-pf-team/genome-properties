@@ -1,7 +1,7 @@
 AC  GenProp0655
-DE  exopolysaccharide biosynthesis, exosortase B-associated
+DE  Exopolysaccharide biosynthesis, exosortase B-associated
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  12624205
@@ -39,22 +39,22 @@ RQ  1
 EV  IPR017473; TIGR03023;
 --
 SN  EpsE
-ID  polysaccharide export protein
+ID  Polysaccharide export protein
 RQ  1
 EV  IPR017478; TIGR03028; sufficient;
 --
 SN  EpsF
-ID  chain length determinant protein EpsF
+ID  Chain length determinant protein EpsF
 RQ  1
 EV  IPR017468; TIGR03017; sufficient;
 --
 SN  EpsG
-ID  protein tyrosine kinase EpsG
+ID  Protein tyrosine kinase EpsG
 RQ  1
 EV  IPR017479; TIGR03029; sufficient;
 --
 SN  EpsH-2
-ID  exosortase 2
+ID  Exosortase 2
 RQ  1
 EV  IPR017544; TIGR03113; sufficient;
 --

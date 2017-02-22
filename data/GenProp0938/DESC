@@ -1,7 +1,7 @@
 AC  GenProp0938
-DE  glycine radical enzyme system, YjjI/YjjW pair
+DE  Glycine radical enzyme system, YjjI/YjjW pair
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This system, analogous to pyruvate formate-lyase and its activase,
 CC  contains an enzyme of unknown function from the family of glycine
@@ -9,12 +9,12 @@ CC  radical enzymes, and the adjacent gene for a matched radical SAM enzyme
 CC  that generates the active site.
 --
 SN  YjjI
-ID  glycine radical enzyme YjjI
+ID  Glycine radical enzyme YjjI
 RQ  1
 EV  IPR016905; TIGR04040;
 --
 SN  YjjW
-ID  radical SAM family activase YjjW
+ID  Radical SAM family activase YjjW
 RQ  1
 EV  IPR023912; TIGR04041;
 //

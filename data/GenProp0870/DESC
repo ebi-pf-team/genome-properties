@@ -1,7 +1,7 @@
 AC  GenProp0870
-DE  decarboxylation/antiport proton-motive cycle: lysine-cadaverine
+DE  Decarboxylation/antiport proton-motive cycle: lysine-cadaverine
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  16877381
@@ -16,13 +16,13 @@ CC  systems for this and other (e.g. aspartate-alanine) substrate pairs can
 CC  provide protection against acidic pH.
 --
 SN  CadA
-ID  lysine decarboxylase
+ID  Lysine decarboxylase
 RQ  1
 EV  IPRXXXX; 2645;
 TG  GO:0010248;
 --
 SN  CadB
-ID  cadaverine-lysine antiporter
+ID  Cadaverine-lysine antiporter
 RQ  1
 EV  IPRXXXX; 2644;
 TG  GO:0010248;

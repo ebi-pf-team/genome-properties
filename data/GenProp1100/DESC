@@ -1,7 +1,7 @@
 AC  GenProp1100
-DE  mobile element associated three-Cys-motif pair
+DE  Mobile element associated three-Cys-motif pair
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This property describes gene pairs with a member of family PF07505 and
 CC  a member of family TIGR04474. Both proteins appear to be enzymes, based
@@ -13,12 +13,12 @@ CC  PF07505, phage protein Gp37Gp68, is probably misleading in most cases.
 **  PF07505 adjacent. In other direction, maybe fewer.
 --
 SN  3CysProt
-ID  three Cys motif protein
+ID  Three Cys motif protein
 RQ  1
 EV  IPR011101; PF07505;
 --
 SN  near3Cys
-ID  three-Cys-motif partner protein
+ID  Three-Cys-motif partner protein
 RQ  1
 EV  IPR031009; TIGR04474;
 //

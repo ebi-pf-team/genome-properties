@@ -1,7 +1,7 @@
 AC  GenProp0680
-DE  c-type cytochrome biogenesis, system II
+DE  C-type cytochrome biogenesis, system II
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This property is system II for c-type cytochrome biosynthesis, one
 CC  among three such systems described, and one of two described in
@@ -11,12 +11,12 @@ CC  ResC). This system is much simpler than the CcmABCDEFGH system, system
 CC  I.
 --
 SN  CcsA
-ID  cytochrome c-type biogenesis protein CcsA
+ID  Cytochrome c-type biogenesis protein CcsA
 RQ  1
 EV  IPR007816; PF05140; sufficient;
 --
 SN  CcsB
-ID  cytochrome c-type biogenesis protein CcsB
+ID  Cytochrome c-type biogenesis protein CcsB
 RQ  1
 EV  IPR017562; TIGR03144; sufficient;
 //

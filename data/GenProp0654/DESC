@@ -1,7 +1,7 @@
 AC  GenProp0654
-DE  intracellular sulfur oxidation
+DE  Intracellular sulfur oxidation
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  16387657
@@ -24,7 +24,7 @@ CC  sulfur.
 **  What about DsrM, DsrK? See if these should be added.
 --
 SN  DsrC
-ID  putative dissimilatory sulfite reductase gamma subunit
+ID  Putative dissimilatory sulfite reductase gamma subunit
 RQ  0
 EV  IPR007453; TIGR03342;
 --

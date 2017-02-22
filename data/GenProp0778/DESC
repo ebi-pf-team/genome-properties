@@ -1,7 +1,7 @@
 AC  GenProp0778
-DE  protein sorting system, GlyGly-CTERM/rhombosortase
+DE  Protein sorting system, GlyGly-CTERM/rhombosortase
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  22194940
@@ -37,7 +37,7 @@ EV  IPR020008; TIGR03501;
 EV  IPR021206; TIGR03867;
 --
 SN  rhomsort
-ID  rhombosortase
+ID  Rhombosortase
 RQ  1
 EV  IPR023826; TIGR03902;
 //

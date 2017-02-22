@@ -1,7 +1,7 @@
 AC  GenProp0973
 DE  Enterobacterial common antigen (ECA)
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  The enterobacterial common antigen is composed of a repeating
 CC  trisaccharide unit (Fuc4NAc-ManNAcA-GlcNAc).  Fuc4NAC is
@@ -11,22 +11,22 @@ CC  from the cytoplasmic face to the periplasmic face of the plasma
 CC  membrane is handled by an ECA-specific wzx/wzy/wzz system.
 --
 SN  Fuc4NAc
-ID  source of dTDP-4-acetamido-4,6-dideoxy-D-galactose (dTDP-Fuc4NAc)
+ID  Source of dTDP-4-acetamido-4,6-dideoxy-D-galactose (dTDP-Fuc4NAc)
 RQ  1
 EV  GenProp0972;
 --
 SN  Init
-ID  source of Und-PP-GlcNAc
+ID  Source of Und-PP-GlcNAc
 RQ  1
 EV  GenProp0970;
 --
 SN  ManNAcA
-ID  source of UDP-ManNAcA
+ID  Source of UDP-ManNAcA
 RQ  1
 EV  GenProp0969;
 --
 SN  WecF
-ID  lipid III synthase (Fuc4NAc transferase), WecF
+ID  Lipid III synthase (Fuc4NAc transferase), WecF
 RQ  1
 EV  IPR009993; PF07429;
 --

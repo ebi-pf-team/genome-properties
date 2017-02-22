@@ -1,7 +1,7 @@
 AC  GenProp0976
 DE  UDP-L-2-acetamidofucose (UDP-L-FucNAc) biosynthesis from UDP-GlcNAc
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 --
 SN  FnlA
@@ -20,7 +20,7 @@ RQ  1
 EV  IPRXXXX; 2775;
 --
 SN  UGlcNAc
-ID  source of UDP-GlcNAc
+ID  Source of UDP-GlcNAc
 RQ  1
 EV  GenProp0750;
 //

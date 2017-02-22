@@ -1,7 +1,7 @@
 AC  GenProp1088
-DE  thiosulfate oxidation to sulfate
+DE  Thiosulfate oxidation to sulfate
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  21833341
@@ -32,27 +32,27 @@ CC  cytochrome. SoxB is monomeric.
 **  TIGR04488 is specific SoxY when PF13501 is not.
 --
 SN  SoxA
-ID  sulfur oxidation c-type cytochrome SoxA
+ID  Sulfur oxidation c-type cytochrome SoxA
 RQ  1
 EV  IPR025710; TIGR04484;
 --
 SN  SoxB
-ID  sulfur oxidation protein SoxB
+ID  Sulfur oxidation protein SoxB
 RQ  1
 EV  IPR030998; TIGR04486;
 --
 SN  SoxX
-ID  sulfur oxidation c-type cytochrome SoxX
+ID  Sulfur oxidation c-type cytochrome SoxX
 RQ  1
 EV  IPR030999; TIGR04485;
 --
 SN  SoxY
-ID  sulfur oxidation protein SoxY
+ID  Sulfur oxidation protein SoxY
 RQ  1
 EV  IPR016568; TIGR04488;
 --
 SN  SoxZ
-ID  sulfur oxidation protein SoxZ
+ID  Sulfur oxidation protein SoxZ
 RQ  1
 EV  IPR030995; TIGR04490;
 //

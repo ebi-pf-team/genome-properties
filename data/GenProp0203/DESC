@@ -1,7 +1,7 @@
 AC  GenProp0203
 DE  LPS inner core biosynthesis, ketodeoxyoctonate and heptose type
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  Lipopolysaccharide (LPS) occurs broadly in Gram-negative bacterial
 CC  outer membrane. Three parts are termed lipid A, the oligosaccharide
@@ -46,27 +46,27 @@ RQ  1
 EV  IPR011913; TIGR02198; sufficient;
 --
 SN  WaaC
-ID  heptosyltransferase I
+ID  Heptosyltransferase I
 RQ  1
 EV  IPR011908; TIGR02193; sufficient;
 --
 SN  WaaF
-ID  heptosyltransferase II
+ID  Heptosyltransferase II
 RQ  1
 EV  IPR011910; TIGR02195; sufficient;
 --
 SN  WaaP
-ID  lipopolysaccharide core biosynthesis protein RfaP
+ID  Lipopolysaccharide core biosynthesis protein RfaP
 RQ  0
 EV  IPR010440; PF06293;
 --
 SN  WaaQ
-ID  heptosyltransferase III
+ID  Heptosyltransferase III
 RQ  0
 EV  IPR011916; TIGR02201; sufficient;
 --
 SN  WaaY
-ID  lipopolysaccharide core biosynthesis protein RfaY
+ID  Lipopolysaccharide core biosynthesis protein RfaY
 RQ  0
 EV  IPR009330; PF06176;
 --

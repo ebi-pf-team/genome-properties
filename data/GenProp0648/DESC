@@ -1,7 +1,7 @@
 AC  GenProp0648
-DE  phage shock protein regulon
+DE  Phage shock protein regulon
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  1712397
@@ -52,50 +52,50 @@ CC  only in a minority of phage shock operons.
 **  PspE in the regulon across large numbers of species.
 --
 SN  pspA
-ID  phage shock protein PspA
-DN  phage shock protein A
+ID  Phage shock protein PspA
+DN  Phage shock protein A
 RQ  1
 EV  IPR014319; TIGR02977; sufficient;
 TG  GO:0006950;
 --
 SN  pspB
-ID  phage shock protein PspB
-DN  phage shock protein B
+ID  Phage shock protein PspB
+DN  Phage shock protein B
 RQ  1
 EV  IPR009554; TIGR02976; sufficient;
 TG  GO:0006950;
 --
 SN  pspC
-ID  phage shock protein PspC
-DN  phage shock protein C
+ID  Phage shock protein PspC
+DN  Phage shock protein C
 RQ  1
 EV  IPR014320; TIGR02978; sufficient;
 TG  GO:0006950;
 --
 SN  pspD
-ID  phage shock protein PspD
-DN  phage shock protein D
+ID  Phage shock protein PspD
+DN  Phage shock protein D
 RQ  0
 EV  IPR014321; TIGR02979; sufficient;
 TG  GO:0006950;
 --
 SN  pspE
-ID  rhodanese PspE
-DN  phage shock protein E
+ID  Rhodanese PspE
+DN  Phage shock protein E
 RQ  0
 EV  IPR014323; TIGR02981; sufficient;
 TG  GO:0006950;
 --
 SN  pspF
-ID  signa-54-dependent activagtor PspF
-DN  psp operon transcriptional activator
+ID  Signa-54-dependent activagtor PspF
+DN  Psp operon transcriptional activator
 RQ  1
 EV  IPR014317; TIGR02974; sufficient;
 TG  GO:0006950;
 --
 SN  pspG
-ID  phage shock protein PspG (YjbO)
-DN  phage shock protein G
+ID  Phage shock protein PspG (YjbO)
+DN  Phage shock protein G
 RQ  0
 EV  IPR014318; TIGR02975; sufficient;
 TG  GO:0006950;

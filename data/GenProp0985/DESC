@@ -1,7 +1,7 @@
 AC  GenProp0985
-DE  protein sorting system, VPDSG-CTERM/exosortase C
+DE  Protein sorting system, VPDSG-CTERM/exosortase C
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This Genome Property describes a bacterial rare variant exosortase
 CC  protein sorting system, with protein sorting motif VPDSG-CTERM
@@ -14,7 +14,7 @@ RQ  1
 EV  IPR022288; TIGR03778;
 --
 SN  EXOSORT
-ID  exosortase, VPDSG-CTERM-specific
+ID  Exosortase, VPDSG-CTERM-specific
 RQ  1
 EV  IPR026488; TIGR04151;
 //

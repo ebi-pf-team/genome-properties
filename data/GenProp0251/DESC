@@ -1,7 +1,7 @@
 AC  GenProp0251
-DE  clpXP degradation machine
+DE  ClpXP degradation machine
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This property describes an energy-dependent protease, one of whose
 CC  tasks is degradation of abortively translated proteins tagged by the
@@ -13,12 +13,12 @@ CC  machine.
 **  Explore idea of this property testing state of tmRNA property.
 --
 SN  SspB
-ID  adaptor SspB
+ID  Adaptor SspB
 RQ  0
 EV  IPR007481; PF04386; sufficient;
 --
 SN  clpA
-ID  temp clpA
+ID  Temp clpA
 RQ  0
 EV  IPR013461; TIGR02639; sufficient;
 --
@@ -29,7 +29,7 @@ RQ  1
 EV  IPR001907; TIGR00493; sufficient;
 --
 SN  clpS
-ID  temp clpS
+ID  Temp clpS
 RQ  0
 EV  IPR003769; PF02617; sufficient;
 --

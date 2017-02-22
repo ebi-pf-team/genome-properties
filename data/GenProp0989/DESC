@@ -1,7 +1,7 @@
 AC  GenProp0989
-DE  protein sorting system, VPEID-CTERM/exosortase E
+DE  Protein sorting system, VPEID-CTERM/exosortase E
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This protein-sorting system occurs so far only in the alpha
 CC  Proteobacteria. The system is largely dedicated, in the sense that the
@@ -13,7 +13,7 @@ CC  eukaryotic CAAX prenyl proteases and bacterial bacteriocin
 CC  self-immunity proteins.
 --
 SN  EXOCAAX
-ID  exosortase/CAAX-like protease, VPEID-CTERM system
+ID  Exosortase/CAAX-like protease, VPEID-CTERM system
 RQ  1
 EV  IPR026420; TIGR04162;
 --

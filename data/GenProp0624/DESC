@@ -1,7 +1,7 @@
 AC  GenProp0624
-DE  sulfite reductase complex, Salmonella/Clostridium type
+DE  Sulfite reductase complex, Salmonella/Clostridium type
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  2656637
@@ -23,17 +23,17 @@ CC  provided with a fermentable sugar.
 **  Salmonella (H2S is more commonly made from thiosulfate). 
 --
 SN  SfiteA
-ID  sulfite reductase, subunit A
+ID  Sulfite reductase, subunit A
 RQ  1
 EV  IPR014259; TIGR02910; sufficient;
 --
 SN  SfiteB
-ID  sulfite reductase, subunit B
+ID  Sulfite reductase, subunit B
 RQ  1
 EV  IPR014260; TIGR02911; sufficient;
 --
 SN  SfiteC
-ID  sulfite reductase, subunit C
+ID  Sulfite reductase, subunit C
 RQ  1
 EV  IPR014261; TIGR02912; sufficient;
 //

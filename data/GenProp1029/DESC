@@ -1,7 +1,7 @@
 AC  GenProp1029
-DE  radical SAM/SPASM system SynChlorMet
+DE  Radical SAM/SPASM system SynChlorMet
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  21478363
@@ -28,7 +28,7 @@ CC  PMID:21478363.
 **  PMID:21478363. DHH.
 --
 SN  ScmA
-ID  putative SynChlorMet system core peptide
+ID  Putative SynChlorMet system core peptide
 RQ  0
 EV  IPRXXXX; TIGR04252;
 --

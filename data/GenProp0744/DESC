@@ -1,7 +1,7 @@
 AC  GenProp0744
-DE  glyoxalase pathway, glutathione dependent
+DE  Glyoxalase pathway, glutathione dependent
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  17196158
@@ -22,13 +22,13 @@ CC  such as trypanothione in Trypanosoma cruzi (see PMID:16958620).
 **  adding glutathione !!.    It does both. JDS
 --
 SN  glox_I
-ID  lactoylglutathione lyase (glyoxalase I)
+ID  Lactoylglutathione lyase (glyoxalase I)
 RQ  1
 EV  IPR004361; TIGR00068;
 TG  GO:0051596;
 --
 SN  glox_II
-ID  hydroxyacylglutathione hydrolase (glyoxalase II)
+ID  Hydroxyacylglutathione hydrolase (glyoxalase II)
 RQ  1
 EV  IPR017782; TIGR03413;
 TG  GO:0051596;

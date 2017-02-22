@@ -1,7 +1,7 @@
 AC  GenProp1019
 DE  O9(Ec) antigen biosynthesis
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  786626
@@ -79,27 +79,27 @@ CC  the presence of the  modified final residue to move the polymer to the
 CC  periplasmic side of the membrane in both systems.
 --
 SN  Man
-ID  source of GDP-D-mannose
+ID  Source of GDP-D-mannose
 RQ  1
 EV  GenProp1017;
 --
 SN  MtfA
-ID  mannosyltransferase A
+ID  Mannosyltransferase A
 RQ  1
 EV  IPRXXXX; 2886;
 --
 SN  MtfB
-ID  mannosyltransferase B
+ID  Mannosyltransferase B
 RQ  1
 EV  IPRXXXX; 2853;
 --
 SN  MtfC
-ID  mannosyltransferase C
+ID  Mannosyltransferase C
 RQ  1
 EV  IPRXXXX; 2854;
 --
 SN  MtfD
-ID  terminating kinase/methyltransferase and chain-length determinant protein
+ID  Terminating kinase/methyltransferase and chain-length determinant protein
 RQ  1
 EV  IPRXXXX; 2887;
 --

@@ -1,7 +1,7 @@
 AC  GenProp0901
-DE  post-ribosomal natural product synthesis system, Burkholderia TOMM-type
+DE  Post-ribosomal natural product synthesis system, Burkholderia TOMM-type
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  20500830
@@ -19,7 +19,7 @@ CC  cyclase homology domain-containing multidomain protein.
 **  ntsc09, gbm, Delftia acidovorans, other Burks, etc.
 --
 SN  bTOMM_C
-ID  cyclodeydratase/docking scaffold fusion protein
+ID  Cyclodeydratase/docking scaffold fusion protein
 RQ  1
 EV  IPR022291; TIGR03882;
 --

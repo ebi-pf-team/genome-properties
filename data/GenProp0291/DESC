@@ -1,7 +1,7 @@
 AC  GenProp0291
-DE  class III (anaerobic) ribonucleotide reductase
+DE  Class III (anaerobic) ribonucleotide reductase
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  12206460
@@ -17,8 +17,8 @@ CC  enzyme (NrdG) which activates the catalytic enzyme by the generation of
 CC  a protein-centered radical. 
 --
 SN  NrdD
-ID  anaerobic ribonucleoside-triphosphate reductase
-DN  ribonucleoside-triphosphate reductase(EC:1.17.4.2)
+ID  Anaerobic ribonucleoside-triphosphate reductase
+DN  Ribonucleoside-triphosphate reductase(EC:1.17.4.2)
 RQ  1
 EV  IPR012833; TIGR02487; sufficient;
 TG  GO:0009265;
@@ -26,7 +26,7 @@ EV  IPR014192; TIGR02827; sufficient;
 TG  GO:0009265;
 --
 SN  NrdG
-ID  activating protein for anaerobic ribonucleotide triphosphate reductase
+ID  Activating protein for anaerobic ribonucleotide triphosphate reductase
 DN  [formate-C-acetyltransferase]-activating enzyme (EC:1.97.1.4)
 RQ  1
 EV  IPR012837; TIGR02491; sufficient;

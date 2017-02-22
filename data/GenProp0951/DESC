@@ -1,7 +1,7 @@
 AC  GenProp0951
-DE  dTDP-3-aminofucose biosynthesis from 4,6-dideoxy-4-oxo-dTDP-D-glucose
+DE  DTDP-3-aminofucose biosynthesis from 4,6-dideoxy-4-oxo-dTDP-D-glucose
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  dTDP-3-aminofucose is a precursor of (at least) two exopolysaccharide
 CC  components, 3-acetamidofucose (D-fuc3NAc), and
@@ -10,17 +10,17 @@ CC  thermoaerophilus, where the final product is D-fuc3NAc, the FdtA and
 CC  FdtB genes have been characterized [1].
 --
 SN  FdtA
-ID  dTDP-6-deoxy-3,4-keto-hexulose isomerase
+ID  DTDP-6-deoxy-3,4-keto-hexulose isomerase
 RQ  1
 EV  IPRXXXX; 2757;
 --
 SN  FdtB
-ID  dTDP-6-deoxy-D-xylohex-4-ulose 3-aminotransferase
+ID  DTDP-6-deoxy-D-xylohex-4-ulose 3-aminotransferase
 RQ  1
 EV  IPRXXXX; 2850;
 --
 SN  ddodtDg
-ID  source of 4,6-dideoxy-4-oxo-dTDP-D-glucose
+ID  Source of 4,6-dideoxy-4-oxo-dTDP-D-glucose
 RQ  1
 EV  GenProp0950;
 //

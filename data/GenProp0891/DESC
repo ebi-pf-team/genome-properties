@@ -1,7 +1,7 @@
 AC  GenProp0891
-DE  coenzyme M biosynthesis
+DE  Coenzyme M biosynthesis
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  19761441
@@ -31,18 +31,18 @@ CC  Property represents the parent property.
 **  evidence.
 --
 SN  M_S_pyr
-ID  sulfopyruvate biosynthesis
+ID  Sulfopyruvate biosynthesis
 RQ  1
 EV  GenProp0892;
 EV  GenProp0893;
 --
 SN  M_comD
-ID  sulfopyruvate decarboxylase, alpha subunit
+ID  Sulfopyruvate decarboxylase, alpha subunit
 RQ  1
 EV  IPR022502; TIGR03845;
 --
 SN  M_comE
-ID  sulfopyruvate decarboxylase, beta subunit
+ID  Sulfopyruvate decarboxylase, beta subunit
 RQ  1
 EV  IPR022494; TIGR03846;
 EV  IPRXXXX; 2690;

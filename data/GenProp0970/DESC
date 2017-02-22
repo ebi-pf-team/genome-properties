@@ -1,19 +1,19 @@
 AC  GenProp0970
-DE  biosynthesis of Und-PP-GlcNAc
+DE  Biosynthesis of Und-PP-GlcNAc
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  N-acetylglucosamine-1-pyrophospho-undecaprenol (Und-PP-GlcNAc) is
 CC  synthesized by the WecA enzyme in E. coli from UDP-GlcNAc and
 CC  undecaprenyl phosphate.
 --
 SN  UGlcNAc
-ID  source of UDP-GlcNAc
+ID  Source of UDP-GlcNAc
 RQ  1
 EV  GenProp0750;
 --
 SN  Und-P
-ID  source of undecaprenyl phosphate (Und-P)
+ID  Source of undecaprenyl phosphate (Und-P)
 RQ  1
 EV  GenProp0971;
 --

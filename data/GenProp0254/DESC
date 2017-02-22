@@ -1,7 +1,7 @@
 AC  GenProp0254
-DE  thiamine: TPP from HMP-PP and HET-P
+DE  Thiamine: TPP from HMP-PP and HET-P
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  Hydroxymethylpyrimidine pyrophosphate (HMP-PP) may be obtained de novo
 CC  from a purine biosynthesis intermediate or by import or salvage, then
@@ -14,8 +14,8 @@ CC  property includes both ligation and remaining steps to obtain TPP.
 **  This might be a good place for various salvage models: ThiM, etc.
 --
 SN  ThiE
-ID  thiamine-phosphate diphosphorylase
-DN  thiamine-phosphate pyrophosphorylase
+ID  Thiamine-phosphate diphosphorylase
+DN  Thiamine-phosphate pyrophosphorylase
 RQ  1
 EV  IPR003733; TIGR00693; sufficient;
 TG  GO:0009228;

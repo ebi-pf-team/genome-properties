@@ -1,7 +1,7 @@
 AC  GenProp1098
 DE  3-methylarginine biosynthesis
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  20190091
@@ -32,7 +32,7 @@ RQ  1
 EV  IPR030899; TIGR04543;
 --
 SN  MrsB
-ID  aminotransferase, 3-methylarginine-biosynthetic
+ID  Aminotransferase, 3-methylarginine-biosynthetic
 RQ  1
 EV  IPR030898; TIGR04544;
 //

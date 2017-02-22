@@ -1,7 +1,7 @@
 AC  GenProp0953
 DE  O103(Ec) antigen biosynthesis
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  20555398
@@ -27,7 +27,7 @@ CC  aDGlcNAc-(1->4)-aDGalNAc, 3) bDFuc3NBu-(1->6)-aDGlcNAc, and 4)
 CC  bDGlc-(1->2)-bDFuc3NBu.
 --
 SN  Fuc3NBu
-ID  source of dTDP-DFuc3NBu
+ID  Source of dTDP-DFuc3NBu
 RQ  1
 EV  GenProp0952;
 --
@@ -62,7 +62,7 @@ RQ  1
 EV  IPRXXXX; 2762;
 --
 SN  wzz
-ID  chain length determinant protein
+ID  Chain length determinant protein
 RQ  0
 EV  IPR003856; PF02706;
 //

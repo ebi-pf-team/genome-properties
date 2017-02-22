@@ -1,7 +1,7 @@
 AC  GenProp0145
-DE  histidine degradation to glutamate
+DE  Histidine degradation to glutamate
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  2
 RN  [1]
 RM  2203753
@@ -38,29 +38,29 @@ CC  (formiminoglutamate hydrolase).
 **  from group 20027
 --
 SN  1
-ID  histidine ammonia-lyase (hutH)
-DN  histidine ammonia-lyase (EC 4.3.1.3)
+ID  Histidine ammonia-lyase (hutH)
+DN  Histidine ammonia-lyase (EC 4.3.1.3)
 RQ  1
 EV  IPR005921; TIGR01225; sufficient;
 TG  GO:0006548;
 --
 SN  2
-ID  urocanate hydratase (hutU)
-DN  urocanate hydratase (EC 4.2.1.49)
+ID  Urocanate hydratase (hutU)
+DN  Urocanate hydratase (EC 4.2.1.49)
 RQ  1
 EV  IPR023637; TIGR01228; sufficient;
 TG  GO:0006548;
 --
 SN  3
-ID  imidazolonepropionase (hutI)
-DN  imidazolonepropionase (EC 3.5.2.7)
+ID  Imidazolonepropionase (hutI)
+DN  Imidazolonepropionase (EC 3.5.2.7)
 RQ  1
 EV  IPR005920; TIGR01224; sufficient;
 TG  GO:0006548;
 --
 SN  4/4A
-ID  formimidoylglutamate deiminase/formiminoglutamase/glu-formyltransferase
-DN  formimidoylglutamate deiminase (EC 3.5.3.13)
+ID  Formimidoylglutamate deiminase/formiminoglutamase/glu-formyltransferase
+DN  Formimidoylglutamate deiminase (EC 3.5.3.13)
 RQ  1
 EV  IPR005923; TIGR01227; sufficient;
 TG  GO:0006548;
@@ -70,7 +70,7 @@ EV  IPR004227; TIGR02024; sufficient;
 TG  GO:0006548;
 --
 SN  4/4B
-ID  formylglutamate deformylase/formiminoglutamase/glu-formyltransferase
+ID  Formylglutamate deformylase/formiminoglutamase/glu-formyltransferase
 DN  N-formylglutamate deformylase (EC 3.5.1.68)
 RQ  1
 EV  IPR005923; TIGR01227; sufficient;
@@ -81,8 +81,8 @@ EV  IPR004227; TIGR02024; sufficient;
 TG  GO:0006548;
 --
 SN  reg
-ID  histidine utilization repressor (hutC)
-DN  histidine utilization repressor
+ID  Histidine utilization repressor (hutC)
+DN  Histidine utilization repressor
 RQ  0
 EV  IPR010248; TIGR02018; sufficient;
 //

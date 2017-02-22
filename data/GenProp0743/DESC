@@ -1,7 +1,7 @@
 AC  GenProp0743
-DE  urea ABC transporter UrtABCDE
+DE  Urea ABC transporter UrtABCDE
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  11929526
@@ -22,7 +22,7 @@ CC  different proteins in this system (PMID:11929526).
 **  property. Note that sll0374 in ntss01 is far from operon described.
 --
 SN  urtA
-ID  urea ABC transporter, periplasmic binding protein
+ID  Urea ABC transporter, periplasmic binding protein
 RQ  1
 EV  IPR017777; TIGR03407;
 TG  GO:0015840;
@@ -30,7 +30,7 @@ EV  IPR019968; TIGR03669;
 TG  GO:0015840;
 --
 SN  urtB
-ID  urea ABC transporter, permease protein UrtB
+ID  Urea ABC transporter, permease protein UrtB
 RQ  1
 EV  IPR017779; TIGR03409;
 TG  GO:0015840;
@@ -38,7 +38,7 @@ EV  IPR019924; TIGR03622;
 TG  GO:0015840;
 --
 SN  urtC
-ID  urea ABC transporter, permease protein UrtC
+ID  Urea ABC transporter, permease protein UrtC
 RQ  1
 EV  IPR017778; TIGR03408;
 TG  GO:0015840;
@@ -46,13 +46,13 @@ EV  IPR022497; TIGR03727;
 TG  GO:0015840;
 --
 SN  urtD
-ID  urea ABC transporter, ATP-binding protein UrtD
+ID  Urea ABC transporter, ATP-binding protein UrtD
 RQ  1
 EV  IPR017781; TIGR03411;
 TG  GO:0015840;
 --
 SN  urtE
-ID  urea ABC transporter, ATP-binding protein UrtE
+ID  Urea ABC transporter, ATP-binding protein UrtE
 RQ  1
 EV  IPR017780; TIGR03410;
 TG  GO:0015840;

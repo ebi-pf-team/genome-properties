@@ -1,14 +1,14 @@
 AC  GenProp1039
-DE  dTDP-4-N-acetylglycylamido-D-quinovose (dTDP-Qui4NAcGly) biosynthesis
-DE  from dTDP-D-viosamine
+DE  DTDP-4-N-acetylglycylamido-D-quinovose (dTDP-Qui4NAcGly) biosynthesis
+DE  From dTDP-D-viosamine
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  4-N-acetylglycylamido-D-quinovose (DQui4NAcGly) is a component of the
 CC  E. coli O121 antigen.
 --
 SN  Vio
-ID  source of D-viosamine (4-amino-4-deoxy-D-quinovose)
+ID  Source of D-viosamine (4-amino-4-deoxy-D-quinovose)
 RQ  1
 EV  GenProp1040;
 --

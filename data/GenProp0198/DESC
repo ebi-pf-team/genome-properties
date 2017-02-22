@@ -1,7 +1,7 @@
 AC  GenProp0198
-DE  ruvABC Holliday junction complex
+DE  RuvABC Holliday junction complex
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  12423347
@@ -50,7 +50,7 @@ TG  GO:0006310;
 --
 SN  ruvC
 ID  RuvC (or RecU) resolvase
-DN  crossover junction endodeoxyribonuclease RuvC
+DN  Crossover junction endodeoxyribonuclease RuvC
 RQ  1
 EV  IPR002176; TIGR00228; sufficient;
 TG  GO:0006310;

@@ -1,47 +1,47 @@
 AC  GenProp0881
-DE  flagellar assembly apparatus
+DE  Flagellar assembly apparatus
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  The bacterial flagellum requires a number of assembly cofactors,
 CC  chaperones and scaffold proteins which are not incorporated into the
 CC  assembled flagellum.
 --
 SN  flgA
-ID  flagellar basal-body P-ring assembly protein FlgA
-DN  flagella basal body P-ring formation protein FlgA
+ID  Flagellar basal-body P-ring assembly protein FlgA
+DN  Flagella basal body P-ring formation protein FlgA
 RQ  1
 EV  IPR017585; TIGR03170; sufficient;
 --
 SN  flgD
-ID  flagellar hook assembly protein FlgD
+ID  Flagellar hook assembly protein FlgD
 RQ  1
 EV  IPR005648; PF03963; sufficient;
 --
 SN  flgN
-ID  flagellar biosynthesis protein FlgN
+ID  Flagellar biosynthesis protein FlgN
 RQ  1
 EV  IPR007809; PF05130; sufficient;
 --
 SN  fliK
-ID  flagellar hook-length control protein FliK
-DN  flagellar hook-length control protein FliK
+ID  Flagellar hook-length control protein FliK
+DN  Flagellar hook-length control protein FliK
 RQ  1
 EV  IPR021136; PF02120; sufficient;
 --
 SN  fliS
-ID  flagellar biosynthesis chaperone FliS
-DN  flagellar protein FliS
+ID  Flagellar biosynthesis chaperone FliS
+DN  Flagellar protein FliS
 RQ  1
 EV  IPR003713; TIGR00208; sufficient;
 --
 SN  fliT
-ID  flagellar biosynthesis protein FliT
+ID  Flagellar biosynthesis protein FliT
 RQ  0
 EV  IPR008622; PF05400; sufficient;
 --
 SN  fliW
-ID  flagellar assembly factor FliW
+ID  Flagellar assembly factor FliW
 RQ  0
 EV  IPR003775; PF02623;
 //

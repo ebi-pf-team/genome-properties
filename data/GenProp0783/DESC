@@ -1,7 +1,7 @@
 AC  GenProp0783
-DE  petrobactin biosynthesis
+DE  Petrobactin biosynthesis
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  17346033
@@ -28,13 +28,13 @@ CC  anthrachelin. Bacillus anthracis makes petrobactin and bacillobactin.
 **  A rough-in only, partial list of steps, and no evidence.
 --
 SN  AsbA
-ID  petrobactin biosynthesis enzyme AsbA
+ID  Petrobactin biosynthesis enzyme AsbA
 RQ  1
 EV  IPRXXXX; 2257;
 TG  GO:0019290;
 --
 SN  AsbB
-ID  petrobactin biosynthesis enzyme AsbB
+ID  Petrobactin biosynthesis enzyme AsbB
 RQ  1
 EV  IPRXXXX; 2256;
 TG  GO:0019290;
@@ -46,19 +46,19 @@ EV  IPRXXXX; 2258;
 TG  GO:0019290;
 --
 SN  AsbD
-ID  petrobactin biosynthesis aryl carrier protein AsbD
+ID  Petrobactin biosynthesis aryl carrier protein AsbD
 RQ  1
 EV  IPRXXXX; 2259;
 TG  GO:0019290;
 --
 SN  AsbE
-ID  petrobactin biosynthesis enzyme AsbE
+ID  Petrobactin biosynthesis enzyme AsbE
 RQ  1
 EV  IPRXXXX; 2260;
 TG  GO:0019290;
 --
 SN  AsbF
-ID  petrobactin biosynthesis protein AsbF
+ID  Petrobactin biosynthesis protein AsbF
 RQ  1
 EV  IPRXXXX; 2261;
 TG  GO:0019290;

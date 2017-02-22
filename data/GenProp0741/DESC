@@ -1,29 +1,29 @@
 AC  GenProp0741
-DE  translation elongation, bacterial
+DE  Translation elongation, bacterial
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  Essential housekeeping genes of bacterial translation elongation. 
 **  Exploring whether these are indeed universal and from correctly built
 **  HMMs.
 --
 SN  EF-G
-ID  translation elongation factor G
+ID  Translation elongation factor G
 RQ  1
 EV  IPR004540; TIGR00484;
 --
 SN  EF-P
-ID  translation elongation factor P
+ID  Translation elongation factor P
 RQ  1
 EV  IPR011768; TIGR00038;
 --
 SN  EF-Ts
-ID  translation elongation factor Ts
+ID  Translation elongation factor Ts
 RQ  1
 EV  IPR001816; TIGR00116;
 --
 SN  EF-Tu
-ID  translation elongation factor Tu
+ID  Translation elongation factor Tu
 RQ  1
 EV  IPR004541; TIGR00485;
 //

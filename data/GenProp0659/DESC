@@ -1,7 +1,7 @@
 AC  GenProp0659
-DE  tryptophan degradation to anthranilate
+DE  Tryptophan degradation to anthranilate
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  Tryptophan 2,3-dioxygenase (1.13.11.11) converts Trp to
 CC  L-formylkynurenine. Arylformamidase (3.5.1.9) converts the product to
@@ -9,17 +9,17 @@ CC  L-kynurenine + formate. Kynureninase (3.7.1.3) converts L-kynurenine +
 CC  H(2)O = anthranilate + L-alanine.
 --
 SN  2_3diox
-ID  tryptophan 2,3-dioxygenase
+ID  Tryptophan 2,3-dioxygenase
 RQ  1
 EV  IPR017485; TIGR03036; sufficient;
 --
 SN  formyl
-ID  arylformamidase
+ID  Arylformamidase
 RQ  1
 EV  IPR017484; TIGR03035; sufficient;
 --
 SN  kynur
-ID  kynureninase
+ID  Kynureninase
 RQ  1
 EV  IPR010111; TIGR01814; sufficient;
 //

@@ -1,7 +1,7 @@
 AC  GenProp1008
-DE  phlebovirus protein set
+DE  Phlebovirus protein set
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This Genome Property collects HMMs that describe characteristic
 CC  proteins from examples of Phlebovirus, segmented ssRNA animal viruses
@@ -12,12 +12,12 @@ CC  Segment L (negative): polymerase.
 **  set, and RNA polymerase model is shared.
 --
 SN  Phl_G1
-ID  glycoprotein G1
+ID  Glycoprotein G1
 RQ  1
 EV  IPR010826; PF07243;
 --
 SN  Phl_G2
-ID  glycoprotein G2
+ID  Glycoprotein G2
 RQ  1
 EV  IPR009878; PF07245;
 --
@@ -27,17 +27,17 @@ RQ  0
 EV  IPR022531; PF12603;
 --
 SN  Phl_N
-ID  nucleocapsid protein
+ID  Nucleocapsid protein
 RQ  1
 EV  IPR009522; PF05733;
 --
 SN  Phl_NSm
-ID  nonstructural protein NSm
+ID  Nonstructural protein NSm
 RQ  0
 EV  IPR009879; PF07246;
 --
 SN  Phl_NSs
-ID  nonstructural protein NSs
+ID  Nonstructural protein NSs
 RQ  0
 EV  IPRXXXX; PF11073;
 --

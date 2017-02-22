@@ -1,7 +1,7 @@
 AC  GenProp0714
-DE  galactarate utilization via tartronate semi-aldehyde
+DE  Galactarate utilization via tartronate semi-aldehyde
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  2
 CC  D-galactarate (D-Mucic acid, 2,3,4,5-tetrahydroxyhexanedioic acid) may
 CC  be utilized by this pathway involving the lyase GarL which produces
@@ -9,13 +9,13 @@ CC  pyruvate and tartronate semi-aldehyde (which may then be furter
 CC  converted to 3-phosphoglycerate).
 --
 SN  GarD
-ID  galactarate dehydratase (4.2.1.42)
+ID  Galactarate dehydratase (4.2.1.42)
 RQ  1
 EV  IPR007392; PF04295; sufficient;
 TG  GO:0019582;
 --
 SN  GarK
-ID  glycerate kinase (2.7.1.31)
+ID  Glycerate kinase (2.7.1.31)
 RQ  1
 EV  IPR004381; TIGR00045;
 TG  GO:0019582;
@@ -27,13 +27,13 @@ EV  IPR017648; TIGR03239; sufficient;
 TG  GO:0019582;
 --
 SN  GarR
-ID  tartronate semialdehyde reductase (1.1.1.60)
+ID  Tartronate semialdehyde reductase (1.1.1.60)
 RQ  1
 EV  IPR006398; TIGR01505; sufficient;
 TG  GO:0019582;
 --
 SN  epim?
-ID  possible clustered epimerase
+ID  Possible clustered epimerase
 RQ  0
 --
 SN  transp

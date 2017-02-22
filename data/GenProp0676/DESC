@@ -1,7 +1,7 @@
 AC  GenProp0676
-DE  alkylhydroperoxide reductase AhpCF (peroxiredoxin)
+DE  Alkylhydroperoxide reductase AhpCF (peroxiredoxin)
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  10482511
@@ -17,13 +17,13 @@ CC  which is then resolved by reduction. AhpF contains an FAD-binding
 CC  domain along with a NAD(P)H binding domain (PF07992).
 --
 SN  ahpC
-ID  subunit C
+ID  Subunit C
 RQ  1
 EV  IPR017559; TIGR03137; sufficient;
 TG  GO:0006800;
 --
 SN  ahpF
-ID  subunit F
+ID  Subunit F
 RQ  1
 EV  IPR012081; TIGR03140; sufficient;
 TG  GO:0006800;

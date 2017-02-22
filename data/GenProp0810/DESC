@@ -1,7 +1,7 @@
 AC  GenProp0810
-DE  encapsulin proteinaceous organelle
+DE  Encapsulin proteinaceous organelle
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  22046962
@@ -26,12 +26,12 @@ CC  from their respective core homology regions.
 **  ferritin-like group - needs a twin.
 --
 SN  encap
-ID  encapsulin
+ID  Encapsulin
 RQ  1
 EV  IPR007544; PF04454;
 --
 SN  inside
-ID  encapsulin-associated protein
+ID  Encapsulin-associated protein
 RQ  0
 EV  IPRXXXX; TIGR01413;
 EV  IPRXXXX; TIGR04535;

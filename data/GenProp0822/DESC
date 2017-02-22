@@ -1,7 +1,7 @@
 AC  GenProp0822
-DE  poly(gamma-glutamic acid) biosynthesis
+DE  Poly(gamma-glutamic acid) biosynthesis
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  16267300
@@ -32,13 +32,13 @@ CC  and secretory forms of system.
 **  a GO term: capsule poly-gamma-glutamate biosynthetic process GO:0070502
 --
 SN  pgsB
-ID  poly-gamma-glutamate synthase
+ID  Poly-gamma-glutamate synthase
 RQ  1
 EV  IPR008337; TIGR04012;
 TG  GO:0070501;
 --
 SN  pgsC
-ID  poly-gamma-glutamate biosynthesis protein PgsC
+ID  Poly-gamma-glutamate biosynthesis protein PgsC
 RQ  1
 EV  IPR008338; TIGR04011;
 TG  GO:0070501;

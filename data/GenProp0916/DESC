@@ -1,7 +1,7 @@
 AC  GenProp0916
-DE  radical SAM/uncharacterized protein TIGR03936 system
+DE  Radical SAM/uncharacterized protein TIGR03936 system
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This Genome Property describes a two-gene system, usually occurring as
 CC  a fusion protein. One member is an uncharacterized radical SAM protein.
@@ -12,12 +12,12 @@ CC  The other member is uncharacterized protein TIGR03936.
 **  conservation) from parent node down, not lateral transfer.
 --
 SN  partner
-ID  uncharacterized protein TIGR03936
+ID  Uncharacterized protein TIGR03936
 RQ  1
 EV  IPR018768; TIGR03936;
 --
 SN  rSAM
-ID  uncharacterized radical SAM protein
+ID  Uncharacterized radical SAM protein
 RQ  1
 EV  IPR023862; TIGR03960;
 //

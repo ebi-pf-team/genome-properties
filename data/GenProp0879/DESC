@@ -1,7 +1,7 @@
 AC  GenProp0879
-DE  flagellar export apparatus
+DE  Flagellar export apparatus
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  The assembly of the bacterial flagellum requires the export of
 CC  flagellar components through the cytoplasmic membrane.  This is an
@@ -9,59 +9,59 @@ CC  ATP-driven process mediated by a series of subunits similar to elements
 CC  of type III secretion complexes.
 --
 SN  flhA
-ID  flagellar biosynthesis protein FlhA
-DN  flagellar biosynthesis protein FlhA
+ID  Flagellar biosynthesis protein FlhA
+DN  Flagellar biosynthesis protein FlhA
 RQ  1
 EV  IPR006301; TIGR01398; sufficient;
 --
 SN  flhB
-ID  flagellar biosynthetic protein FlhB
-DN  flagellar biosynthetic protein FlhB
+ID  Flagellar biosynthetic protein FlhB
+DN  Flagellar biosynthetic protein FlhB
 RQ  1
 EV  IPR006136; TIGR00328; sufficient;
 --
 SN  fliH
-ID  flagellar assembly protein FliH
-DN  flagellar assembly protein FliH
+ID  Flagellar assembly protein FliH
+DN  Flagellar assembly protein FliH
 RQ  1
 EV  IPR018035; PF02108; sufficient;
 EV  IPR022524; TIGR03825;
 --
 SN  fliI
-ID  flagellum-specific ATP synthase FliI
-DN  flagellum-specific ATP synthase FliI
+ID  Flagellum-specific ATP synthase FliI
+DN  Flagellum-specific ATP synthase FliI
 RQ  1
 EV  IPR020005; TIGR03496;
 EV  IPR022425; TIGR03497;
 EV  IPR022426; TIGR03498;
 --
 SN  fliJ
-ID  flagellar export protein FliJ
-DN  flagellar export protein FliJ
+ID  Flagellar export protein FliJ
+DN  Flagellar export protein FliJ
 RQ  1
 EV  IPR012823; TIGR02473; sufficient;
 --
 SN  fliO
-ID  flagellar assembly protein FliO
+ID  Flagellar assembly protein FliO
 RQ  1
 EV  IPR022781; PF04347; sufficient;
 EV  IPR022781; TIGR03500;
 --
 SN  fliP
-ID  flagellar biosynthetic protein FliP
-DN  flagellar biosynthetic protein FliP
+ID  Flagellar biosynthetic protein FliP
+DN  Flagellar biosynthetic protein FliP
 RQ  1
 EV  IPR005837; TIGR01103; sufficient;
 --
 SN  fliQ
-ID  flagellar biosynthetic protein FliQ
-DN  flagellar biosynthetic protein FliQ
+ID  Flagellar biosynthetic protein FliQ
+DN  Flagellar biosynthetic protein FliQ
 RQ  1
 EV  IPR006305; TIGR01402; sufficient;
 --
 SN  fliR
-ID  flagellar biosynthetic protein FliR
-DN  flagellar biosynthetic protein FliR
+ID  Flagellar biosynthetic protein FliR
+DN  Flagellar biosynthetic protein FliR
 RQ  1
 EV  IPR006303; TIGR01400; sufficient;
 //

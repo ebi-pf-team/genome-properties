@@ -1,7 +1,7 @@
 AC  GenProp1069
 DE  FxLD lantipeptide system
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This Genome Property describes a putative lantipeptide-type
 CC  Post-Ribosomal Natural Product (PRNP) system in which the putative
@@ -19,7 +19,7 @@ RQ  1
 EV  IPR027575; TIGR04363;
 --
 SN  fxlD
-ID  lantibiotic dehydratase
+ID  Lantibiotic dehydratase
 RQ  1
 EV  IPR006827; PF04738;
 --
@@ -29,7 +29,7 @@ RQ  1
 EV  IPR027573; TIGR04364;
 --
 SN  fxlS
-ID  lanthionine synthetase
+ID  Lanthionine synthetase
 RQ  1
 EV  IPR007822; PF05147;
 //

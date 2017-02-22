@@ -1,7 +1,7 @@
 AC  GenProp0485
 DE  F and P-type conjugation systems (type IV secretion), common components
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  1
 CC  Both the F-type (F factor like) and P-type (Ti plasmid like)
 CC  conjucation systems use a core set of structures for the elaboration of
@@ -9,11 +9,11 @@ CC  a conjugative pilus.  Components specific to these two systems are
 CC  found in related Genome Properties.
 --
 SN  IGNORE
-ID  checked, decided not to include
+ID  Checked, decided not to include
 RQ  0
 --
 SN  TraA
-ID  pilin, TraA/TrbC/VirB2
+ID  Pilin, TraA/TrbC/VirB2
 RQ  1
 EV  IPR008873; PF05513; sufficient;
 TG  GO:0009291;
@@ -41,7 +41,7 @@ EV  IPR018145; PF03135; sufficient;
 TG  GO:0009291;
 --
 SN  TraD
-ID  coupling factor, DNA-pumping ATPase TraD
+ID  Coupling factor, DNA-pumping ATPase TraD
 RQ  1
 EV  IPR014128; TIGR02759; sufficient;
 TG  GO:0009291;
@@ -59,7 +59,7 @@ EV  IPR014158; TIGR02791; sufficient;
 TG  GO:0009291;
 --
 SN  TraG
-ID  mate-pair stab. TraG/TrbL/VirB6
+ID  Mate-pair stab. TraG/TrbL/VirB6
 RQ  1
 EV  IPR012931; PF07916; sufficient;
 TG  GO:0009291;

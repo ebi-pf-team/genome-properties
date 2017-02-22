@@ -1,7 +1,7 @@
 AC  GenProp0481
-DE  urea carboxylase/allophanate hydrolase pathway
+DE  Urea carboxylase/allophanate hydrolase pathway
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  15090492
@@ -30,28 +30,28 @@ EV  IPR017793; TIGR03427;
 TG  GO:0043419;
 --
 SN  alloph
-ID  allophanate hydrolase
-DN  allophanate hydrolase (EC:3.5.1.54)
+ID  Allophanate hydrolase
+DN  Allophanate hydrolase (EC:3.5.1.54)
 RQ  1
 EV  IPR014085; TIGR02713; sufficient;
 TG  GO:0043419;
 --
 SN  uca
-ID  urea carboxylase
+ID  Urea carboxylase
 DN  UreA carboxylase (EC:6.3.4.6)
 RQ  1
 EV  IPR014084; TIGR02712; sufficient;
 TG  GO:0043419;
 --
 SN  unchar1
-ID  urea carboxylase-associated protein 1
+ID  Urea carboxylase-associated protein 1
 DN  UreA carboxylase-associated protein 1
 RQ  1
 EV  IPR017791; TIGR03424;
 TG  GO:0043419;
 --
 SN  unchar2
-ID  urea carboxylase-associated protein 2
+ID  Urea carboxylase-associated protein 2
 DN  UreA carboxylase-associated protein 2
 RQ  1
 EV  IPR017792; TIGR03425;

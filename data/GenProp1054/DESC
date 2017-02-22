@@ -1,7 +1,7 @@
 AC  GenProp1054
-DE  protein sorting system, MSEP-CTERM/exosortase K
+DE  Protein sorting system, MSEP-CTERM/exosortase K
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This system consists of a distinctive subfamily of exosortase-like
 CC  proteins, XrtK, and its adjacent putative target protein. The 
@@ -9,7 +9,7 @@ CC  C-terminal putative sorting sorting signal is MSEP-CTERM, found at the
 CC  C-terminus of proteins in family TIGR04286.
 --
 SN  EXOxrtK
-ID  exosortase K
+ID  Exosortase K
 RQ  1
 EV  IPR027551; TIGR04287;
 --

@@ -1,7 +1,7 @@
 AC  GenProp0259
 DE  tRNA-Asn direct aminoacylation
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  The tRNA for Asn can be produced in either of two ways: direct
 CC  aminoacylation with Asn, and misacylation with Asp that is subsequently
@@ -13,14 +13,14 @@ CC  aminoacylation with Asn.
 **  property.
 --
 SN  Asn
-ID  source of asparagine
+ID  Source of asparagine
 RQ  0
 EV  IPR004618; TIGR00669;
 EV  IPR006426; TIGR01536;
 --
 SN  Asn_lig
-ID  asparaginyl-tRNA synthetase
-DN  asparaginyl-tRNA synthetase
+ID  Asparaginyl-tRNA synthetase
+DN  Asparaginyl-tRNA synthetase
 RQ  1
 EV  IPR004522; TIGR00457; sufficient;
 //

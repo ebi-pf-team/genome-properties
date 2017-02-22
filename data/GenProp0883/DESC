@@ -1,7 +1,7 @@
 AC  GenProp0883
-DE  flagellar motor switch (rotor) complex
+DE  Flagellar motor switch (rotor) complex
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  The flagellar rotor complex consists of the FliG, FliM and FliN
 CC  proteins.  This complex is also known as the flagellar motor switch,
@@ -15,19 +15,19 @@ CC  predicted to be in a 26:34:100 (FliG:FliM:FliN) ratio per motor
 CC  complex.
 --
 SN  fliG
-ID  flagellar motor switch (rotor) protein FliG
-DN  flagellar motor switch protein FliG
+ID  Flagellar motor switch (rotor) protein FliG
+DN  Flagellar motor switch protein FliG
 RQ  1
 EV  IPR000090; TIGR00207; sufficient;
 --
 SN  fliM
-ID  flagellar motor switch (rotor) protein FliM
-DN  flagellar motor switch protein FliM
+ID  Flagellar motor switch (rotor) protein FliM
+DN  Flagellar motor switch protein FliM
 RQ  1
 EV  IPR001689; TIGR01397; sufficient;
 --
 SN  fliN
-ID  flagellar motor switch (rotor) protein FliN
+ID  Flagellar motor switch (rotor) protein FliN
 RQ  0
 EV  IPR012826; TIGR02480; sufficient;
 //

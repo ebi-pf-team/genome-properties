@@ -1,7 +1,7 @@
 AC  GenProp0470
-DE  sporadically distributed four-gene operon
+DE  Sporadically distributed four-gene operon
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  A conserved gene four-gene neighborhood is found sporadically in a
 CC  phylogenetically broad range of bacteria: Nocardia farcinica,
@@ -13,22 +13,22 @@ CC  has no identified Cas proteins. It is found near a cas gene cluster and
 CC  its CRISPR repeats in another species. 
 --
 SN  A
-ID  sporadic operon protein A - TIGR02677
+ID  Sporadic operon protein A - TIGR02677
 RQ  1
 EV  IPR013493; TIGR02677; sufficient;
 --
 SN  B
-ID  sporadic operon protein B - TIGR02678
+ID  Sporadic operon protein B - TIGR02678
 RQ  1
 EV  IPR013494; TIGR02678; sufficient;
 --
 SN  C
-ID  sporadic operon protein C - TIGR02680
+ID  Sporadic operon protein C - TIGR02680
 RQ  1
 EV  IPR013496; TIGR02680; sufficient;
 --
 SN  D
-ID  sporadic operon protein D - TIGR02679
+ID  Sporadic operon protein D - TIGR02679
 RQ  1
 EV  IPR013495; TIGR02679; sufficient;
 //

@@ -1,7 +1,7 @@
 AC  GenProp0917
-DE  mycofactocin system
+DE  Mycofactocin system
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  21223593
@@ -33,7 +33,7 @@ CC  required electron exchange cofactor.
 **  describes a connection to 5'-deazaflavin (coenzyme F420).
 --
 SN  ac_AD_4
-ID  oxidoreductase, FAD/FMN-binding
+ID  Oxidoreductase, FAD/FMN-binding
 RQ  0
 EV  IPR023987; TIGR03997;
 TG  GO:0055114;
@@ -41,7 +41,7 @@ EV  IPR023967; TIGR03996;
 TG  GO:0051188;
 --
 SN  ac_aux1
-ID  dehydrogenase, Rv0697 family
+ID  Dehydrogenase, Rv0697 family
 RQ  0
 EV  IPR023978; TIGR03970;
 TG  GO:0055114;
@@ -49,7 +49,7 @@ EV  IPR030900; TIGR04542;
 TG  GO:0051188;
 --
 SN  mftA
-ID  mycofactocin precursor
+ID  Mycofactocin precursor
 RQ  1
 EV  IPR023988; TIGR03969;
 TG  GO:0051188;
@@ -61,37 +61,37 @@ EV  IPR023850; TIGR03967;
 TG  GO:0051188;
 --
 SN  mftCSAM
-ID  radical SAM mycofactocin maturase
+ID  Radical SAM mycofactocin maturase
 RQ  1
 EV  IPR023913; TIGR03962;
 TG  GO:0051188;
 --
 SN  mftDflv
-ID  heme/FMN protein,
+ID  Heme/FMN protein,
 RQ  1
 EV  IPR023989; TIGR03966;
 TG  GO:0055114;
 --
 SN  mftEcre
-ID  creatininase family protein
+ID  Creatininase family protein
 RQ  1
 EV  IPR023871; TIGR03964;
 TG  GO:0051188;
 --
 SN  mftFgly
-ID  glycosyltransferase
+ID  Glycosyltransferase
 RQ  1
 EV  IPR023981; TIGR03965;
 TG  GO:0051188;
 --
 SN  mftR
-ID  mycofactocin system transcriptional regulator
+ID  Mycofactocin system transcriptional regulator
 RQ  0
 EV  IPR023851; TIGR03968;
 TG  GO:0051193;
 --
 SN  mft_AD1
-ID  dehydrogenase, SDR family
+ID  Dehydrogenase, SDR family
 RQ  0
 EV  IPR023985; TIGR03971;
 TG  GO:0055114;
@@ -99,13 +99,13 @@ EV  IPR030981; TIGR04504;
 TG  GO:0051188;
 --
 SN  mft_AD2
-ID  dehydrogenase, Rxyl_3153 family
+ID  Dehydrogenase, Rxyl_3153 family
 RQ  1
 EV  IPR023921; TIGR03989;
 TG  GO:0055114;
 --
 SN  mft_AD3
-ID  dehydrogenase, iron-activated family
+ID  Dehydrogenase, iron-activated family
 RQ  0
 EV  IPRXXXX; PF00465;
 TG  GO:0055114;

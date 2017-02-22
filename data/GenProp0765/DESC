@@ -1,7 +1,7 @@
 AC  GenProp0765
-DE  glycerol fermentation to  1,3-propanediol, using glycerol dehydratase
+DE  Glycerol fermentation to
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  11298756
@@ -33,27 +33,27 @@ CC  Klebsiella pneumoniae, and Clostridium pasteurianum.
 **  very well.
 --
 SN  dhaB
-ID  glycerol dehydratase, alpha subunit
+ID  Glycerol dehydratase, alpha subunit
 RQ  1
 EV  IPRXXXX; 2099;
 --
 SN  dhaC
-ID  glycerol dehydratase, beta subunit
+ID  Glycerol dehydratase, beta subunit
 RQ  1
 EV  IPRXXXX; 2098;
 --
 SN  dhaE
-ID  glycerol dehydratase, gamma subunit
+ID  Glycerol dehydratase, gamma subunit
 RQ  1
 EV  IPRXXXX; 2096;
 --
 SN  dhaF
-ID  glycerol dehydratase reactivase, large subunit
+ID  Glycerol dehydratase reactivase, large subunit
 RQ  1
 EV  IPRXXXX; 2097;
 --
 SN  dhaG
-ID  glycerol dehydratase reactivase, small subunit
+ID  Glycerol dehydratase reactivase, small subunit
 RQ  1
 EV  IPRXXXX; 2095;
 --

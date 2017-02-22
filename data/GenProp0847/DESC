@@ -1,7 +1,7 @@
 AC  GenProp0847
-DE  exosporium
+DE  Exosporium
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  18761690
@@ -23,7 +23,7 @@ CC  filaments.
 **  its findings in the abstract.
 --
 SN  exs_ldr
-ID  exosporium leader peptide
+ID  Exosporium leader peptide
 RQ  1
 EV  IPR021201; TIGR03720;
 TG  GO:0043592;

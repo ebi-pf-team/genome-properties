@@ -1,7 +1,7 @@
 AC  GenProp0732
-DE  methionine salvage enolase-phosphate pair MtnW/MtnX
+DE  Methionine salvage enolase-phosphate pair MtnW/MtnX
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  In many species with methionine salvage from methylthioadenosine, a
 CC  single protein (MtnC) acts as an enolase-phosphatase. However, in

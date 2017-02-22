@@ -1,7 +1,7 @@
 AC  GenProp0809
-DE  bacteriocin system, lactococcin 972 group
+DE  Bacteriocin system, lactococcin 972 group
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  10589723
@@ -19,17 +19,17 @@ CC  TIGR01654.
 **  the apparent bacteriocin gene is NOT reported.
 --
 SN  B_export
-ID  bacteriocin export protein, lactococcin 972 group
+ID  Bacteriocin export protein, lactococcin 972 group
 RQ  1
 EV  IPR019895; TIGR03608;
 --
 SN  B_immun
-ID  bacteriocin putative immunity protein, lactococcin 972 group
+ID  Bacteriocin putative immunity protein, lactococcin 972 group
 RQ  1
 EV  IPR006541; TIGR01654;
 --
 SN  B_ocin
-ID  bacteriocin, lactococcin 972 group
+ID  Bacteriocin, lactococcin 972 group
 RQ  1
 EV  IPR006540; TIGR01653;
 //

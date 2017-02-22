@@ -1,7 +1,7 @@
 AC  GenProp0773
-DE  aerobactin biosynthesis
+DE  Aerobactin biosynthesis
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  3087960
@@ -25,7 +25,7 @@ CC  convenient, for now, to regard these two steps together as 6.3.2.27.
 **  1.14.13.59 2.3.1.102 6.3.2.27
 --
 SN  iucA
-ID  aerobactin synthase, IucA component
+ID  Aerobactin synthase, IucA component
 RQ  1
 EV  IPRXXXX; 2205;
 TG  GO:0019270;
@@ -37,7 +37,7 @@ EV  IPRXXXX; 2210;
 TG  GO:0019270;
 --
 SN  iucC
-ID  aerobactin synthase, iucC component
+ID  Aerobactin synthase, iucC component
 RQ  1
 EV  IPRXXXX; 2206;
 TG  GO:0019270;
@@ -49,7 +49,7 @@ EV  IPRXXXX; 2211;
 TG  GO:0019270;
 --
 SN  iutA
-ID  ferric aerobactin receptor IutA
+ID  Ferric aerobactin receptor IutA
 RQ  1
 EV  IPRXXXX; 2209;
 TG  GO:0019271;

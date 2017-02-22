@@ -1,19 +1,19 @@
 AC  GenProp0918
-DE  anaerobic sulfatase/maturase system
+DE  Anaerobic sulfatase/maturase system
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This property indicates the presence of gene pairs, where one member is
 CC  a sulfatase, the other a radical SAM enzyme for its anaerobic
 CC  maturation. 
 --
 SN  matur
-ID  sulfatase maturase
+ID  Sulfatase maturase
 RQ  1
 EV  IPRXXXX; TIGR03942;
 --
 SN  sulfa
-ID  anaerobic sulfatase
+ID  Anaerobic sulfatase
 RQ  1
 EV  IPR000917; PF00884;
 //

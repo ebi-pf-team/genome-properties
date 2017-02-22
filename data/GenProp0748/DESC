@@ -1,7 +1,7 @@
 AC  GenProp0748
-DE  choline ABC transporter, ChoXWV family
+DE  Choline ABC transporter, ChoXWV family
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This Genome Property describes a family of quaternary amine
 CC  transporters that appears, based on physical characterization in
@@ -14,17 +14,17 @@ CC  substrate.
 **  substrates, like choline-sulfate binding, next to choline sulfatase.
 --
 SN  cho_ATP
-ID  choline ABC transporter, ATP-binding protein
+ID  Choline ABC transporter, ATP-binding protein
 RQ  1
 EV  IPR022473; TIGR03415;
 --
 SN  cho_bin
-ID  choline ABC transporter, periplasmic binding protein
+ID  Choline ABC transporter, periplasmic binding protein
 RQ  1
 EV  IPRXXXX; TIGR03414;
 --
 SN  cho_prm
-ID  choline ABC transporter, permease protein
+ID  Choline ABC transporter, permease protein
 RQ  1
 EV  IPR017784; TIGR03416;
 //

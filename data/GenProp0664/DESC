@@ -1,7 +1,7 @@
 AC  GenProp0664
-DE  protein sorting system, sortase type, SrtB class
+DE  Protein sorting system, sortase type, SrtB class
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  15028680
@@ -24,13 +24,13 @@ CC  of the SrtA family, not the family described here, while the protein
 CC  called SrtC2 is a member of the SrtB family (see PMID:15317792).
 --
 SN  SrtB
-ID  sortase, SrtB family
+ID  Sortase, SrtB family
 RQ  1
 EV  IPRXXXX; PF07170; sufficient;
 EV  IPR009835; TIGR03064; sufficient;
 --
 SN  target
-ID  sortase B target sequence
+ID  Sortase B target sequence
 RQ  1
 EV  IPR017502; TIGR03063; sufficient;
 EV  IPR017503; TIGR03065; sufficient;

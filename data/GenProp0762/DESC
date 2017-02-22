@@ -1,7 +1,7 @@
 AC  GenProp0762
-DE  chemotaxis response-regulator system
+DE  Chemotaxis response-regulator system
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  1
 RN  [1]
 RM  16369945
@@ -20,47 +20,47 @@ CC  not currently included.
 **  = cheR  NTL10EC2056 = cheW  NTL10EC2057 = cheA
 --
 SN  CheA
-ID  chemotaxis histidine kinase CheA
+ID  Chemotaxis histidine kinase CheA
 RQ  1
 EV  IPRXXXX; 2068;
 EV  IPRXXXX; 2632;
 --
 SN  CheB
-ID  chemotaxis methylesterase CheB
+ID  Chemotaxis methylesterase CheB
 RQ  0
 EV  IPR000673; PF01339;
 --
 SN  CheD
-ID  chemotaxis protein CheD
+ID  Chemotaxis protein CheD
 RQ  0
 EV  IPR005659; PF03975;
 --
 SN  CheR
-ID  chemotaxis methyltransferase CheR
+ID  Chemotaxis methyltransferase CheR
 RQ  0
 EV  IPRXXXX; 2066;
 EV  IPRXXXX; PF01739;
 --
 SN  CheW
-ID  chemotaxis adaptor protein CheW
+ID  Chemotaxis adaptor protein CheW
 RQ  1
 EV  IPRXXXX; 2065;
 EV  IPRXXXX; 2658;
 --
 SN  CheY
-ID  chemotaxis response regulator CheY
+ID  Chemotaxis response regulator CheY
 RQ  1
 EV  IPRXXXX; 2067;
 EV  IPRXXXX; 2660;
 --
 SN  CheZ
-ID  chemotaxis phosphatase CheZ
+ID  Chemotaxis phosphatase CheZ
 RQ  1
 EV  IPR007439; PF04344;
 EV  IPRXXXX; 2064;
 --
 SN  MCP
-ID  methyl-accepting chemotaxis protein
+ID  Methyl-accepting chemotaxis protein
 RQ  1
 EV  IPR004089; PF00015;
 --
@@ -70,7 +70,7 @@ RQ  0
 EV  IPR007597; PF04509;
 --
 SN  RRR
-ID  operonic Response Regulator Receiver domain protein
+ID  Operonic Response Regulator Receiver domain protein
 RQ  0
 EV  IPRXXXX; PF00072;
 //

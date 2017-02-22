@@ -1,7 +1,7 @@
 AC  GenProp0231
 DE  4-hydroxyphenylacetate degradation
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  3
 RN  [1]
 RM  11729263
@@ -35,12 +35,12 @@ ID  APPARENT DISRUPTED READING FRAMES
 RQ  0
 --
 SN  SSDH
-ID  succinate-semialdehyde dehydrogenase
+ID  Succinate-semialdehyde dehydrogenase
 RQ  1
 EV  IPR010102; TIGR01780; sufficient;
 --
 SN  hpaA
-ID  regulatory protein, HpaA
+ID  Regulatory protein, HpaA
 RQ  0
 EV  IPR011983; TIGR02297; sufficient;
 TG  GO:0009894;
@@ -80,13 +80,13 @@ EV  IPR004220; PF02962; sufficient;
 TG  GO:0042537;
 --
 SN  hpaG-C
-ID  bifunctional decarboxylase/isomerase, C-terminal
+ID  Bifunctional decarboxylase/isomerase, C-terminal
 RQ  1
 EV  IPR012684; TIGR02303; sufficient;
 TG  GO:0042537;
 --
 SN  hpaG-N
-ID  bifunctional decarboxylase/isomerase, N-terminal
+ID  Bifunctional decarboxylase/isomerase, N-terminal
 RQ  1
 EV  IPR012686; TIGR02305; sufficient;
 TG  GO:0042537;
@@ -106,13 +106,13 @@ EV  IPR012691; TIGR02313; sufficient;
 TG  GO:0042537;
 --
 SN  hpaR
-ID  regulatory protein, HpaR
+ID  Regulatory protein, HpaR
 RQ  0
 EV  IPR012712; TIGR02337; sufficient;
 TG  GO:0009894;
 --
 SN  trnsprt
-ID  probable 4-hydroxyphenylacetate transporters
+ID  Probable 4-hydroxyphenylacetate transporters
 RQ  0
 EV  IPR012707; TIGR02332; sufficient;
 TG  GO:0046942;

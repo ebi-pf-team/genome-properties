@@ -1,7 +1,7 @@
 AC  GenProp0150
-DE  chlorophyll biosynthesis from chlorophyllide a
+DE  Chlorophyll biosynthesis from chlorophyllide a
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 DC  Chlorophyll Biosynthesis (later stages)
 DR  IUBMB; tetrapyr; porphyrin5;
@@ -12,15 +12,15 @@ CC  responsible for this conversion are closely related to the enzymes
 CC  which carry out the analagous steps of bacteriochlorophyll biosynthesis
 --
 SN  ChlG
-ID  chlorophyll synthase
-DN  clorophyll synthase ChlG (EC 2.5.1.62)
+ID  Chlorophyll synthase
+DN  Clorophyll synthase ChlG (EC 2.5.1.62)
 RQ  1
 EV  IPR011799; TIGR02056; sufficient;
 TG  GO:0015995;
 --
 SN  ChlP
-ID  geranylgeranyl reductase
-DN  geranylgeranyl reductase ChlP
+ID  Geranylgeranyl reductase
+DN  Geranylgeranyl reductase ChlP
 RQ  1
 EV  IPR011774; TIGR02028; sufficient;
 TG  GO:0015995;

@@ -1,7 +1,7 @@
 AC  GenProp1022
-DE  adenovirus protein set
+DE  Adenovirus protein set
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  14573794
@@ -15,80 +15,80 @@ CC  different subclasses.
 **  splicing...
 --
 SN  100K
-ID  adenovirus late 100kD protein
+ID  Adenovirus late 100kD protein
 RQ  1
 EV  IPR003381; PF02438;
 --
 SN  33K
-ID  adenovirus 33K protein
+ID  Adenovirus 33K protein
 RQ  1
 EV  IPR021304; PF11081;
 --
 SN  52K
-ID  adenovirus L1 52/55-kilodalton protein
+ID  Adenovirus L1 52/55-kilodalton protein
 RQ  1
 EV  IPR004292; PF03052;
 --
 SN  DBP
-ID  adenovirus DNA-binding protein
+ID  Adenovirus DNA-binding protein
 RQ  1
 --
 SN  III
-ID  adenovirus penton base protein
+ID  Adenovirus penton base protein
 RQ  1
 EV  IPR002605; PF01686;
 --
 SN  IVa2
-ID  adenovirus IVa2 protein
+ID  Adenovirus IVa2 protein
 RQ  1
 EV  IPR003389; PF02456;
 --
 SN  fiber
-ID  adenovirus fiber protein
+ID  Adenovirus fiber protein
 RQ  1
 EV  IPR000978; PF00541;
 --
 SN  hexon
-ID  adenovirus hexon protein
+ID  Adenovirus hexon protein
 RQ  1
 EV  IPR016107; PF01065;
 --
 SN  pIIIa
-ID  adenovirus hexon-associated protein IIIa
+ID  Adenovirus hexon-associated protein IIIa
 RQ  1
 EV  IPR003479; PF02455;
 --
 SN  pTP
-ID  adenovirus pre-terminal protein
+ID  Adenovirus pre-terminal protein
 RQ  1
 EV  IPR003391; PF02459;
 --
 SN  pVI
-ID  adenovirus minor capsid protein VI
+ID  Adenovirus minor capsid protein VI
 RQ  1
 EV  IPR004243; PF02993;
 --
 SN  pVII
-ID  adenovirus core protein VII
+ID  Adenovirus core protein VII
 RQ  1
 EV  IPR004912; PF03228;
 --
 SN  pVIII
-ID  adenovirus hexon-associated protein VIII
+ID  Adenovirus hexon-associated protein VIII
 RQ  1
 EV  IPR000646; PF01310;
 --
 SN  pX
-ID  adenovirus late L2 mu core protein (Protein X)
+ID  Adenovirus late L2 mu core protein (Protein X)
 RQ  1
 EV  IPR008393; PF05829;
 --
 SN  pol
-ID  adenovirus pol protein
+ID  Adenovirus pol protein
 RQ  1
 --
 SN  proteas
-ID  adenovirus endoprotease
+ID  Adenovirus endoprotease
 RQ  1
 EV  IPR000855; PF00770;
 //

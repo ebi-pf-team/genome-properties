@@ -1,7 +1,7 @@
 AC  GenProp1012
-DE  influenzae A virus protein set
+DE  Influenzae A virus protein set
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  Segment 1 has PB2. Segment 2 has PB1 and PB1-F2 (overlapped). Segment 3
 CC  has PA. Segment 4 has hemagglutinin. Segment 5 has nucleocapsid.
@@ -11,37 +11,37 @@ CC  and NS1.
 **  include PF02942 and PF04772, and (overlapping neuraminidase) PF04159.
 --
 SN  f_PB1F2
-ID  nonstructural protein PB1-F2
+ID  Nonstructural protein PB1-F2
 RQ  1
 EV  IPR021045; PF11986;
 --
 SN  flu_M1
-ID  matrix protein 1
+ID  Matrix protein 1
 RQ  1
 EV  IPR001561; PF00598;
 --
 SN  flu_M2
-ID  matrix protein 2
+ID  Matrix protein 2
 RQ  1
 EV  IPR002089; PF00599;
 --
 SN  flu_NA
-ID  neuraminidase
+ID  Neuraminidase
 RQ  1
 EV  IPR001860; PF00064;
 --
 SN  flu_NP
-ID  nucleocapsid
+ID  Nucleocapsid
 RQ  1
 EV  IPR002141; PF00506;
 --
 SN  flu_NS1
-ID  nonstructural protein 1
+ID  Nonstructural protein 1
 RQ  1
 EV  IPR000256; PF00600;
 --
 SN  flu_NS2
-ID  nuclear export protein
+ID  Nuclear export protein
 RQ  1
 EV  IPR000968; PF00601;
 --
@@ -56,12 +56,12 @@ RQ  1
 EV  IPR001407; PF00602;
 --
 SN  flu_PB2
-ID  influenza RNA-dependent RNA polymerase subunit PB2
+ID  Influenza RNA-dependent RNA polymerase subunit PB2
 RQ  1
 EV  IPR001591; PF00604;
 --
 SN  flu_hem
-ID  hemagglutinin
+ID  Hemagglutinin
 RQ  1
 EV  IPR001364; PF00509;
 //

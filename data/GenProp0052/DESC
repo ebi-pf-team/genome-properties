@@ -1,7 +1,7 @@
 AC  GenProp0052
 DE  Type III secretion
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  11018143
@@ -93,7 +93,7 @@ EV  IPR005415; TIGR02552; sufficient;
 TG  GO:0030254;
 --
 SN  9
-ID  regulatory component LcrR
+ID  Regulatory component LcrR
 RQ  0
 EV  IPR013405; TIGR02572; sufficient;
 TG  GO:0030254;

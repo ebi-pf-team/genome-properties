@@ -1,7 +1,7 @@
 AC  GenProp0487
-DE  repABC-type alpha-proteobacterial replicon(s)
+DE  RepABC-type alpha-proteobacterial replicon(s)
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  15659174
@@ -36,17 +36,17 @@ CC  adapted here from literature.
 **  new property.
 --
 SN  repA
-ID  repA plasmid partitioning protein
+ID  RepA plasmid partitioning protein
 RQ  1
 EV  IPR017818; TIGR03453;
 --
 SN  repB
-ID  repB plasmid partitioning protein
+ID  RepB plasmid partitioning protein
 RQ  1
 EV  IPR017819; TIGR03454; sufficient;
 --
 SN  repC
-ID  repC replication initiator protein
+ID  RepC replication initiator protein
 RQ  1
 EV  IPR005090; PF03428; sufficient;
 //

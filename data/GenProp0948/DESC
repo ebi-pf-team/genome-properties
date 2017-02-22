@@ -1,7 +1,7 @@
 AC  GenProp0948
 DE  RNA repair, Hen1/Pnkp system
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  17986465
@@ -30,7 +30,7 @@ EV  IPR024026; TIGR04074;
 TG  GO:0042245;
 --
 SN  Pnkp
-ID  polynucleotide kinase-phosphatase
+ID  Polynucleotide kinase-phosphatase
 RQ  1
 EV  IPR024028; TIGR04075;
 TG  GO:0042245;

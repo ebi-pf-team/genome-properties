@@ -1,7 +1,7 @@
 AC  GenProp0712
 DE  2-aminoethylphosphonate (AEP) ABC transporter, type I, PhnSTUV
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  7592415
@@ -15,7 +15,7 @@ CC  2-aminoethylphosphonate (AEP, ciliatine) which is then subject to
 CC  catabolism.
 --
 SN  PhnS
-ID  periplasmic AEP binding protein
+ID  Periplasmic AEP binding protein
 RQ  1
 EV  IPR017637; TIGR03227; sufficient;
 --
@@ -25,12 +25,12 @@ RQ  1
 EV  IPR017662; TIGR03258; sufficient;
 --
 SN  PhnU
-ID  permease component
+ID  Permease component
 RQ  1
 EV  IPR017636; TIGR03226; sufficient;
 --
 SN  PhnV
-ID  permease component
+ID  Permease component
 RQ  1
 EV  IPR017661; TIGR03255; sufficient;
 //

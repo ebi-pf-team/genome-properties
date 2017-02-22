@@ -1,7 +1,7 @@
 AC  GenProp0471
-DE  uncharacterized gene pair TIGR02683/TIGR02684
+DE  Uncharacterized gene pair TIGR02683/TIGR02684
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This uncharacterized operon may be an addiction module. The downstream
 CC  member (TIGR02612) is a helix-turn-helix DNA-binding protein in the
@@ -14,12 +14,12 @@ CC  of the genome.
 **  point-mutated in gtf.
 --
 SN  dn_strm
-ID  downstream (TIGR02684)
+ID  Downstream (TIGR02684)
 RQ  1
 EV  IPR014057; TIGR02684; sufficient;
 --
 SN  up_strm
-ID  upstream (TIGR02683) kill
+ID  Upstream (TIGR02683) kill
 RQ  1
 EV  IPR014056; TIGR02683; sufficient;
 //

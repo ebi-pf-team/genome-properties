@@ -1,7 +1,7 @@
 AC  GenProp0148
-DE  release factor 2 programmed frameshift
+DE  Release factor 2 programmed frameshift
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  9642202
@@ -19,7 +19,7 @@ CC  incorporation, but the programmed frameshift in the prfB gene appears
 CC  much more widespread than selenocysteine incorporation.
 --
 SN  RF2-pfs
-ID  release factor 2 programmed frameshift
+ID  Release factor 2 programmed frameshift
 DN  NOT APPLICABLE
 RQ  1
 //

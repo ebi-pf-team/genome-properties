@@ -1,8 +1,8 @@
 AC  GenProp0706
-DE  cyclohexa-1,5-diene-1-carbonyl-CoA to 3-hydroxypimelyl-CoA, dch/had/oah
-DE  pathway
+DE  Cyclohexa-1,5-diene-1-carbonyl-CoA to 3-hydroxypimelyl-CoA, dch/had/oah
+DE  Pathway
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This property describes degradation of
 CC  cyclohexa-1,5-diene-1-carbonyl-CoA, which is the product of benzoyl-CoA
@@ -12,7 +12,7 @@ CC  Rhodopseudomonas palustris. This pathway serves the anaerobic
 CC  metabolism of a number of different aromatic compounds.
 --
 SN  dearo_1
-ID  cyclohexa-1,5-dienecarbonyl-CoA hydratase
+ID  Cyclohexa-1,5-dienecarbonyl-CoA hydratase
 RQ  1
 EV  IPR017602; TIGR03189; sufficient;
 TG  GO:0019439;

@@ -1,7 +1,7 @@
 AC  GenProp0919
 DE  SCIFF/radical SAM Clostridial gene pair
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  21478363
@@ -20,12 +20,12 @@ CC  modification enzymes for short peptides.
 **  Wrote to Doug Mitchell to suggest he characterize this one.
 --
 SN  gut6Cys
-ID  six-Cys-in-45 protein
+ID  Six-Cys-in-45 protein
 RQ  1
 EV  IPR023975; TIGR03973;
 --
 SN  gutrSAM
-ID  six-Cys-in-45 modification radical SAM protein
+ID  Six-Cys-in-45 modification radical SAM protein
 RQ  1
 EV  IPR024025; TIGR03974;
 //

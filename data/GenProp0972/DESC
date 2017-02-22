@@ -1,7 +1,7 @@
 AC  GenProp0972
-DE  dTDP-4-acetamido-4,6-dideoxy-D-galactose (dTDP-Fuc4NAc) biosynthesis
+DE  DTDP-4-acetamido-4,6-dideoxy-D-galactose (dTDP-Fuc4NAc) biosynthesis
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  A surface polysaccharide common to all Enterobacteria (the
 CC  enterobacterial common antigen, or ECA) consists of a trisaccharide
@@ -19,7 +19,7 @@ RQ  1
 EV  IPR012749; TIGR02379;
 --
 SN  ddodtDg
-ID  source of 4,6-dideoxy-4-oxo-dTDP-D-glucose
+ID  Source of 4,6-dideoxy-4-oxo-dTDP-D-glucose
 RQ  1
 EV  GenProp0950;
 //

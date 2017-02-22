@@ -1,7 +1,7 @@
 AC  GenProp0833
-DE  proteasome-targeting modification by pupylation
+DE  Proteasome-targeting modification by pupylation
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  18832610
@@ -32,7 +32,7 @@ EV  GenProp0834;
 TG  GO:0019941;
 --
 SN  pup
-ID  ubiquitin-like protein Pup
+ID  Ubiquitin-like protein Pup
 RQ  1
 EV  IPR008515; TIGR03687;
 TG  GO:0019941;

@@ -1,7 +1,7 @@
 AC  GenProp0811
 DE  S-layer homology domain-mediated cell wall binding
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  10970841
@@ -29,7 +29,7 @@ RQ  1
 EV  IPR001119; PF00395;
 --
 SN  S_poly
-ID  polysaccharide pyruvyl transferase
+ID  Polysaccharide pyruvyl transferase
 DN  S-layer domain protein
 RQ  1
 EV  IPR019896; TIGR03609;

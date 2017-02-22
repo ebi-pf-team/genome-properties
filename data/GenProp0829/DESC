@@ -1,7 +1,7 @@
 AC  GenProp0829
-DE  menaquinone biosynthesis via futalosine
+DE  Menaquinone biosynthesis via futalosine
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  2
 RN  [1]
 RM  18801996
@@ -19,25 +19,25 @@ CC  well-known E. coli pathway (GenProp0058).
 **  shows SCO4494 (TIGR03700), not discussed in the paper, to be important.
 --
 SN  PT
-ID  prenyltransferase
+ID  Prenyltransferase
 RQ  1
 EV  IPR006371; TIGR01475;
 TG  GO:0009234;
 --
 SN  futa_1
-ID  futalosine synthase
+ID  Futalosine synthase
 RQ  1
 EV  IPR003773; PF02621;
 TG  GO:0009234;
 --
 SN  futa_2
-ID  futalosine hydrolase
+ID  Futalosine hydrolase
 RQ  1
 EV  IPR019963; TIGR03664;
 TG  GO:0009234;
 --
 SN  futa_3
-ID  de-hypoxanthine futalosine (DHFL) cyclase
+ID  De-hypoxanthine futalosine (DHFL) cyclase
 RQ  1
 EV  IPR022431; TIGR03699;
 TG  GO:0009234;
@@ -49,13 +49,13 @@ EV  IPRXXXX; PF02642;
 TG  GO:0009234;
 --
 SN  futa_X
-ID  decarboxylase
+ID  Decarboxylase
 RQ  1
 EV  IPR022390; TIGR03701;
 TG  GO:0009234;
 --
 SN  futa_Y
-ID  putative menaquinone biosynthesis protein, SCO4494 family
+ID  Putative menaquinone biosynthesis protein, SCO4494 family
 RQ  1
 EV  IPR022432; TIGR03700;
 TG  GO:0009234;

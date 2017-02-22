@@ -1,7 +1,7 @@
 AC  GenProp0238
 DE  2-aminoethylphosphonate catabolism to acetaldehyde
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  12107130
@@ -28,8 +28,8 @@ EV  IPR012703; TIGR02326; sufficient;
 TG  GO:0019635;
 --
 SN  phnX
-ID  phosphonoacetaldehyde hydrolase
-DN  phosphonoacetaldehyde hydrolase (EC:3.11.1.1)
+ID  Phosphonoacetaldehyde hydrolase
+DN  Phosphonoacetaldehyde hydrolase (EC:3.11.1.1)
 RQ  1
 EV  IPR006323; TIGR01422; sufficient;
 TG  GO:0019635;

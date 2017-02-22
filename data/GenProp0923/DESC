@@ -1,7 +1,7 @@
 AC  GenProp0923
-DE  mycothiol system
+DE  Mycothiol system
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  17286835
@@ -18,25 +18,25 @@ CC  enzymes, the discovery of which is incomplete.
 **  domain model, kind of.
 --
 SN  antisig
-ID  anti-sigma-R factor RsrA
+ID  Anti-sigma-R factor RsrA
 RQ  1
 EV  IPR024020; TIGR03988;
 --
 SN  disulf
-ID  mycothione reductase
+ID  Mycothione reductase
 RQ  1
 EV  IPR017817; TIGR03452;
 TG  GO:0010126;
 --
 SN  myc_use
-ID  mycothiol-dependent enzyme
+ID  Mycothiol-dependent enzyme
 RQ  1
 EV  IPR017811; TIGR03446;
 TG  GO:0010126;
 EV  IPR017816; TIGR03451;
 --
 SN  synth
-ID  mycothiol biosynthesis
+ID  Mycothiol biosynthesis
 RQ  1
 EV  GenProp0753;
 //

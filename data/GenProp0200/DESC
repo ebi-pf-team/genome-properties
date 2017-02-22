@@ -1,7 +1,7 @@
 AC  GenProp0200
-DE  periplasmic nitrate reductase
+DE  Periplasmic nitrate reductase
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  1
 RN  [1]
 RM  11450112
@@ -55,57 +55,57 @@ CC  gene products has been demonstrated [2].
 **  dehydrogenase role.
 --
 SN  NapA
-ID  periplasmic nitrate reductase, large subunit
-DN  nitrate reductase (EC:1.7.99.4)
+ID  Periplasmic nitrate reductase, large subunit
+DN  Nitrate reductase (EC:1.7.99.4)
 RQ  1
 EV  IPR010051; TIGR01706; sufficient;
 TG  GO:0042126;
 --
 SN  NapB
-ID  nitrate reductase cytochrome c-type subunit
-DN  periplasmic nitrate reductase, diheme cytochrome c subunit
+ID  Nitrate reductase cytochrome c-type subunit
+DN  Periplasmic nitrate reductase, diheme cytochrome c subunit
 RQ  1
 EV  IPR005591; PF03892; sufficient;
 TG  GO:0042126;
 --
 SN  NapC
 ID  NapC electron transfer protein
-DN  periplasmic nitrate (or nitrite) reductase C-type cytochrome,NapC/NirT family
+DN  Periplasmic nitrate (or nitrite) reductase C-type cytochrome,NapC/NirT family
 RQ  1
 EV  IPR011885; TIGR02161; sufficient;
 TG  GO:0042126;
 --
 SN  NapD
 ID  TAT signal chaperone NapD
-DN  periplasmic nitrate reductase NapD
+DN  Periplasmic nitrate reductase NapD
 RQ  1
 EV  IPR005623; PF03927; sufficient;
 TG  GO:0042126;
 --
 SN  NapE
-ID  periplasmic nitrate reductase, NapE
-DN  periplasmic nitrate reductase NapE
+ID  Periplasmic nitrate reductase, NapE
+DN  Periplasmic nitrate reductase NapE
 RQ  0
 EV  IPR004448; TIGR02973; sufficient;
 TG  GO:0042126;
 --
 SN  NapF
-ID  ferredoxin - type protein NapF
-DN  ferredoxin-type protein NapF
+ID  Ferredoxin - type protein NapF
+DN  Ferredoxin-type protein NapF
 RQ  0
 EV  IPR004496; TIGR00402; sufficient;
 TG  GO:0042126;
 --
 SN  NapG
-ID  periplasmic nitrate reductase, NapG subunit
-DN  ferredoxin-type protein NapG
+ID  Periplasmic nitrate reductase, NapG subunit
+DN  Ferredoxin-type protein NapG
 RQ  0
 EV  IPRXXXX; 2263;
 TG  GO:0042126;
 --
 SN  NapH
-ID  periplasmic nitrate reductase, NapH subunit
-DN  ferredoxin-type protein NapH
+ID  Periplasmic nitrate reductase, NapH subunit
+DN  Ferredoxin-type protein NapH
 RQ  0
 EV  IPRXXXX; 2262;
 TG  GO:0042126;

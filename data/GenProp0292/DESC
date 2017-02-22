@@ -1,7 +1,7 @@
 AC  GenProp0292
-DE  ethanolamine degradation organelle
+DE  Ethanolamine degradation organelle
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  4
 RN  [1]
 RM  1550360
@@ -55,37 +55,37 @@ CC  source.
 **  genes for the rescue of dead B12-enzyme
 --
 SN  PtrnsAc
-ID  phosphotransacetylase
+ID  Phosphotransacetylase
 RQ  0
 EV  IPRXXXX; PF01515;
 TG  GO:0046336;
 --
 SN  eut-chp
-ID  conserved hypothetical in ethanolamine operon
+ID  Conserved hypothetical in ethanolamine operon
 RQ  0
 EV  IPR013372; TIGR02536; sufficient;
 TG  GO:0046336;
 --
 SN  eutA
-ID  reactivating factor for ethanolamine ammonia lyase
+ID  Reactivating factor for ethanolamine ammonia lyase
 RQ  1
 EV  IPR009377; PF06277; sufficient;
 TG  GO:0046336;
 --
 SN  eutB
-ID  ethanolamine ammonia lyase, large subunit
+ID  Ethanolamine ammonia lyase, large subunit
 RQ  1
 EV  IPR010628; PF06751; sufficient;
 TG  GO:0046336;
 --
 SN  eutC
-ID  ethanolamine ammonia lyase, small subunit
+ID  Ethanolamine ammonia lyase, small subunit
 RQ  1
 EV  IPR009246; PF05985; sufficient;
 TG  GO:0046336;
 --
 SN  eutE
-ID  acetaldehyde dehydrogenase (acetylating)
+ID  Acetaldehyde dehydrogenase (acetylating)
 RQ  1
 EV  IPR013357; TIGR02518;
 TG  GO:0046336;
@@ -93,13 +93,13 @@ EV  IPRXXXX; PF00171;
 TG  GO:0046336;
 --
 SN  eutG
-ID  alcohol dehydrogenase, ethanolamine operon related
+ID  Alcohol dehydrogenase, ethanolamine operon related
 RQ  1
 EV  IPRXXXX; PF00465;
 TG  GO:0046336;
 --
 SN  eutH
-ID  ethanolamine permease
+ID  Ethanolamine permease
 RQ  1
 EV  IPR004757; TIGR00908; sufficient;
 TG  GO:0046336;
@@ -107,55 +107,55 @@ EV  IPR007441; PF04346; sufficient;
 TG  GO:0046336;
 --
 SN  eutJ
-ID  ethanolamine utilization protein EutJ
+ID  Ethanolamine utilization protein EutJ
 RQ  0
 EV  IPR013366; TIGR02529; sufficient;
 TG  GO:0046336;
 --
 SN  eutM
-ID  microcompartment coat protein
+ID  Microcompartment coat protein
 RQ  1
 EV  IPRXXXX; PF00936;
 TG  GO:0046336;
 --
 SN  eutN
-ID  carboxysome coat protein homolog
+ID  Carboxysome coat protein homolog
 RQ  1
 EV  IPRXXXX; PF03319;
 TG  GO:0046336;
 --
 SN  eutP
-ID  ethanolamine utilization protein, EutP
+ID  Ethanolamine utilization protein, EutP
 RQ  0
 EV  IPRXXXX; TIGR02528;
 TG  GO:0046336;
 --
 SN  eutPduL
-ID  ethanolamine utilization protein, PduL homolog
+ID  Ethanolamine utilization protein, PduL homolog
 RQ  0
 EV  IPRXXXX; PF06130;
 TG  GO:0046336;
 --
 SN  eutPduT
-ID  carboxysome coat protein homolog
+ID  Carboxysome coat protein homolog
 RQ  0
 EV  IPR013501; TIGR02526; sufficient;
 TG  GO:0046336;
 --
 SN  eutQ
-ID  ethanolamine utilization protein, EutQ
+ID  Ethanolamine utilization protein, EutQ
 RQ  0
 EV  IPRXXXX; PF06249;
 TG  GO:0046336;
 --
 SN  eutT
-ID  cob(I)alamin adenosyltransferase
+ID  Cob(I)alamin adenosyltransferase
 RQ  0
 EV  IPR016030; PF01923;
 TG  GO:0046336;
 --
 SN  regul
-ID  regulatory components
+ID  Regulatory components
 RQ  0
 EV  IPRXXXX; PF00007;
 TG  GO:0046336;

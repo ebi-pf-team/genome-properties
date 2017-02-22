@@ -1,7 +1,7 @@
 AC  GenProp0894
 DE  Actinobacterial uncharacterized trio
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This Genome Property describes a three-gene cassette common among the
 CC  Actinobacteria. The system includes a putative kinase (similar to
@@ -11,7 +11,7 @@ CC  phosphoglycerate mutase), and an uncharacterized protein.
 **  may have been weak.
 --
 SN  Msm4191
-ID  probable kinase, MSMEG_4191 family
+ID  Probable kinase, MSMEG_4191 family
 RQ  1
 EV  IPR022292; TIGR03843;
 --
@@ -21,7 +21,7 @@ RQ  1
 EV  IPR021441; TIGR03847;
 --
 SN  Msm4193
-ID  probable phosphomutase, MSMEG_4193 family
+ID  Probable phosphomutase, MSMEG_4193 family
 RQ  1
 EV  IPR022492; TIGR03848;
 //

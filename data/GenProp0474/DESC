@@ -1,7 +1,7 @@
 AC  GenProp0474
-DE  arsenical resistance system
+DE  Arsenical resistance system
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  A characteristic four-gene system for arsenic (and antimony) resistance
 CC  is found in many prokaryotic genomes. The system includes a pump for
@@ -12,23 +12,23 @@ CC  families are known for the arsenate reductase, ArsC, which may be
 CC  dependent on glutaredoxin or thioredoxin in different instances.
 --
 SN  arsH
-ID  arsenical resistance protein ArsH
+ID  Arsenical resistance protein ArsH
 RQ  1
 EV  IPR014063; TIGR02690; sufficient;
 --
 SN  arsR
-ID  arsenical resistance regulator ArsR
+ID  Arsenical resistance regulator ArsR
 RQ  1
 EV  IPRXXXX; PF01022;
 --
 SN  pump
-ID  arsenite efflux transporter ArsB
+ID  Arsenite efflux transporter ArsB
 RQ  1
 EV  IPR004706; TIGR00832; sufficient;
 EV  IPR000802; TIGR00935; sufficient;
 --
 SN  reduct
-ID  arsenate reductase
+ID  Arsenate reductase
 RQ  1
 EV  IPR014064; TIGR02691; sufficient;
 EV  IPR014062; TIGR02689; sufficient;

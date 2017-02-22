@@ -1,7 +1,7 @@
 AC  GenProp0482
 DE  6S RNA (eubacterial RNA polymerase regulator)
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  15811922
@@ -44,7 +44,7 @@ ID  6S structural RNA
 RQ  1
 --
 SN  ygfA
-ID  ygfA linked gene
+ID  YgfA linked gene
 RQ  0
 EV  IPRXXXX; TIGR02727;
 //

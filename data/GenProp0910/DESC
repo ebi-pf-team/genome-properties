@@ -1,7 +1,7 @@
 AC  GenProp0910
-DE  butyryl-CoA to butyrate, phosphotransbutyrylase pathway
+DE  Butyryl-CoA to butyrate, phosphotransbutyrylase pathway
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This Genome Property describes a pathway that operates in
 CC  butyrate-producing bacteria. A central pathway converts acetyl-CoA to
@@ -13,12 +13,12 @@ CC  from butryate onto ADP, producing ATP.
 **  A different pathway uses butyryl-CoA:acetate CoA-transferase.
 --
 SN  but_kin
-ID  butyrate kinase
+ID  Butyrate kinase
 RQ  1
 EV  IPRXXXX; TIGR02707;
 --
 SN  but_ptb
-ID  phosphate butyryltransferase
+ID  Phosphate butyryltransferase
 RQ  1
 EV  IPR014079; TIGR02706;
 //

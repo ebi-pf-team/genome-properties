@@ -1,7 +1,7 @@
 AC  GenProp0665
-DE  peptide chain release operon, RctB-like/PrfH
+DE  Peptide chain release operon, RctB-like/PrfH
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  16970810
@@ -17,12 +17,12 @@ CC  factors, and a homolog of RctB, which is a protein of unknown function
 CC  thought suggest to act in RNA processing.
 --
 SN  prfH
-ID  peptide chain release factor H
+ID  Peptide chain release factor H
 RQ  1
 EV  IPR017509; TIGR03072; sufficient;
 --
 SN  rtcB_lk
-ID  translationally-coupled RctB family protein
+ID  Translationally-coupled RctB family protein
 RQ  1
 EV  IPR017510; TIGR03073; sufficient;
 //

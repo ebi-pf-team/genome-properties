@@ -1,7 +1,7 @@
 AC  GenProp0143
 DE  Leloir pathway (galactose/glucose interconversion)
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 DC  Galactose metabolism
 DR  KEGG; map00052;
@@ -20,20 +20,20 @@ RQ  1
 EV  IPR005886; TIGR01179; sufficient;
 --
 SN  g1P_uri
-ID  galactose-1-phosphate uridylyltransferase
-DN  galactose-1-phosphate uridylyltransferase
+ID  Galactose-1-phosphate uridylyltransferase
+DN  Galactose-1-phosphate uridylyltransferase
 RQ  1
 EV  IPR001937; TIGR00209; sufficient;
 EV  IPR000766; TIGR01239; sufficient;
 --
 SN  gal_kin
-ID  galactokinase
-DN  galactokinase
+ID  Galactokinase
+DN  Galactokinase
 RQ  1
 EV  IPR000705; TIGR00131; sufficient;
 --
 SN  mutarot
-ID  aldose 1-epimerase (mutarotase)
+ID  Aldose 1-epimerase (mutarotase)
 RQ  1
 EV  IPR013458; TIGR02636; sufficient;
 //

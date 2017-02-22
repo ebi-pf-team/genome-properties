@@ -1,7 +1,7 @@
 AC  GenProp0669
-DE  protein sorting system, putative, exosortase G class
+DE  Protein sorting system, putative, exosortase G class
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  For several non-pathogenic Gram-positive bacteria, a protein family
 CC  (TIGR03110) showing considerable sequence similarity to the proposed
@@ -21,12 +21,12 @@ CC  protein-sorting target.
 **  27433).
 --
 SN  Gtran2
-ID  putative glycosyltransferase TIGR03111
+ID  Putative glycosyltransferase TIGR03111
 RQ  1
 EV  IPR017542; TIGR03111; sufficient;
 --
 SN  chp_mem
-ID  conserved hypothetical integral membrane protein
+ID  Conserved hypothetical integral membrane protein
 RQ  0
 EV  IPR021200; TIGR03766;
 --

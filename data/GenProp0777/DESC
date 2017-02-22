@@ -1,7 +1,7 @@
 AC  GenProp0777
-DE  staphylobactin biosynthesis
+DE  Staphylobactin biosynthesis
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  14688077
@@ -44,55 +44,55 @@ CC  to makes staphylobactin in place of staphyloferrin B.
 **  denitrificans OS217 has the same eight genes.
 --
 SN  sbnA
-ID  staphylobactin biosynthesis enzyme SbnA
+ID  Staphylobactin biosynthesis enzyme SbnA
 RQ  1
 EV  IPRXXXX; 2226;
 TG  GO:0019290;
 --
 SN  sbnB
-ID  staphylobactin biosynthesis enzyme SbnB
+ID  Staphylobactin biosynthesis enzyme SbnB
 RQ  1
 EV  IPRXXXX; 2227;
 TG  GO:0019290;
 --
 SN  sbnC
-ID  staphylobactin biosynthesis enzyme SbnC
+ID  Staphylobactin biosynthesis enzyme SbnC
 RQ  1
 EV  IPRXXXX; 2228;
 TG  GO:0019290;
 --
 SN  sbnD
-ID  staphylobactin exporter SbnD
+ID  Staphylobactin exporter SbnD
 RQ  1
 EV  IPRXXXX; 2229;
 TG  GO:0015891;
 --
 SN  sbnE
-ID  staphylobactin biosynthesis enzyme SbnE
+ID  Staphylobactin biosynthesis enzyme SbnE
 RQ  1
 EV  IPRXXXX; 2225;
 TG  GO:0019290;
 --
 SN  sbnF
-ID  staphylobactin biosynthesis enzyme SbnF
+ID  Staphylobactin biosynthesis enzyme SbnF
 RQ  1
 EV  IPRXXXX; 2230;
 TG  GO:0019290;
 --
 SN  sbnG
-ID  staphylobactin biosynthesis enzyme SbnG
+ID  Staphylobactin biosynthesis enzyme SbnG
 RQ  1
 EV  IPRXXXX; 2231;
 TG  GO:0019290;
 --
 SN  sbnH
-ID  staphylobactin biosynthesis enzyme SbnH
+ID  Staphylobactin biosynthesis enzyme SbnH
 RQ  1
 EV  IPRXXXX; 2232;
 TG  GO:0019290;
 --
 SN  sbnI
-ID  staphylobactin biosynthesis operon protein SbnI
+ID  Staphylobactin biosynthesis operon protein SbnI
 RQ  0
 EV  IPRXXXX; 2233;
 TG  GO:0019290;

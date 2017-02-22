@@ -1,7 +1,7 @@
 AC  GenProp1096
-DE  coenzyme B biosynthesis
+DE  Coenzyme B biosynthesis
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  9665716
@@ -38,14 +38,14 @@ CC  computing this pathway are not yet available.
 **  alpha-ketosuberate
 --
 SN  HACN_lg
-ID  methanogen homoaconitase, large subunit
+ID  Methanogen homoaconitase, large subunit
 RQ  1
 --
 SN  HACN_sm
-ID  methanogen homoaconitase, small subunit
+ID  Methanogen homoaconitase, small subunit
 RQ  1
 --
 SN  HICDH
-ID  homoisocitrate dehydrogenase
+ID  Homoisocitrate dehydrogenase
 RQ  1
 //

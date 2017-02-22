@@ -1,7 +1,7 @@
 AC  GenProp0862
-DE  pyridoxal phosphate biosynthesis, PdxA/PdxJ pathway
+DE  Pyridoxal phosphate biosynthesis, PdxA/PdxJ pathway
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This genome property represents pyridoxal 5-prime phosphate
 CC  biosynthesis as it occurs in Escherichia coli, from deoxyxylulose
@@ -19,11 +19,11 @@ EV  IPR005255; TIGR00557;
 TG  GO:0042823;
 --
 SN  pdxB
-ID  erythronate-4-phosphate dehydrogenase
+ID  Erythronate-4-phosphate dehydrogenase
 RQ  0
 --
 SN  pdxJ
-ID  pyridoxal phosphate synthase
+ID  Pyridoxal phosphate synthase
 RQ  1
 EV  IPR004569; TIGR00559;
 TG  GO:0042823;

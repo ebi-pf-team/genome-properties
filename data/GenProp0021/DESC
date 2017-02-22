@@ -1,7 +1,7 @@
 AC  GenProp0021
 DE  CRISPR region
 TP  GUILD
-AU  Haft D
+AU  Haft DH
 TH  1
 RN  [1]
 RM  11952905
@@ -255,7 +255,7 @@ EV  IPR013397; TIGR02564; sufficient;
 TG  GO:0043571;
 --
 SN  22
-ID  other CRISPR-associated families
+ID  Other CRISPR-associated families
 RQ  0
 EV  IPR010171; TIGR01897; sufficient;
 TG  GO:0043571;

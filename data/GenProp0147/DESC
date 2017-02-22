@@ -1,7 +1,7 @@
 AC  GenProp0147
-DE  glycine betaine biosynthesis from choline
+DE  Glycine betaine biosynthesis from choline
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  1741624
@@ -44,21 +44,21 @@ CC  required for conversion of choline into glycine betaine [2,3].
 **  properties for trehalose stuff as well.
 --
 SN  1_BetA
-ID  choline dehydrogenase
-DN  choline dehydrogenase
+ID  Choline dehydrogenase
+DN  Choline dehydrogenase
 RQ  1
 EV  IPR011533; TIGR01810; sufficient;
 TG  GO:0019285;
 --
 SN  2_BetB
-ID  glycine betaine dehydrogenase
-DN  betaine aldehyde dehydrogenase
+ID  Glycine betaine dehydrogenase
+DN  Betaine aldehyde dehydrogenase
 RQ  1
 EV  IPR011264; TIGR01804; sufficient;
 TG  GO:0019285;
 --
 SN  BetI
-ID  choline-responsive transcriptional repressor BetI
+ID  Choline-responsive transcriptional repressor BetI
 RQ  0
 EV  IPR017757; TIGR03384;
 TG  GO:0019285;

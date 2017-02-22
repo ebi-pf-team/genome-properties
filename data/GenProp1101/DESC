@@ -1,7 +1,7 @@
 AC  GenProp1101
-DE  quinoprotein cytochrome relay system
+DE  Quinoprotein cytochrome relay system
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  18174148
@@ -39,12 +39,12 @@ CC  four-gene operon closely tied to this system.
 **  often several paralogs per genome. Beware.
 --
 SN  qu_ABCbn
-ID  probable periplasmic binding protein
+ID  Probable periplasmic binding protein
 RQ  0
 EV  IPR022448; TIGR03871;
 --
 SN  quin_Cyt
-ID  relay cytochrome
+ID  Relay cytochrome
 RQ  1
 EV  IPR022411; TIGR03874;
 EV  IPR030991; TIGR04494;
@@ -60,7 +60,7 @@ RQ  1
 EV  IPR030831; TIGR04557;
 --
 SN  quin_Zn
-ID  quinoprotein relay system zinc metallohydrolase
+ID  Quinoprotein relay system zinc metallohydrolase
 RQ  1
 EV  IPR030811; TIGR04558;
 EV  IPR030829; TIGR04559;

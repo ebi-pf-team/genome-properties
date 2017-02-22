@@ -1,7 +1,7 @@
 AC  GenProp0246
-DE  chaperone system: thermosome/prefoldin
+DE  Chaperone system: thermosome/prefoldin
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  10550210
@@ -24,22 +24,22 @@ CC  this property is based simply on finding at least one, plus the two
 CC  subunits of the archaeal form of prefoldin.
 --
 SN  prefldA
-ID  prefoldin, alpha subunit
-DN  prefoldin, alpha subunit
+ID  Prefoldin, alpha subunit
+DN  Prefoldin, alpha subunit
 RQ  1
 EV  IPR011599; TIGR00293; sufficient;
 TG  GO:0006457;
 --
 SN  prefldB
-ID  prefoldin, beta subunit
-DN  prefoldin, beta subunit
+ID  Prefoldin, beta subunit
+DN  Prefoldin, beta subunit
 RQ  1
 EV  IPR012713; TIGR02338; sufficient;
 TG  GO:0006457;
 --
 SN  thrmsom
-ID  thermosome subunit(s)
-DN  thermosome subunit
+ID  Thermosome subunit(s)
+DN  Thermosome subunit
 RQ  1
 EV  IPR012714; TIGR02339; sufficient;
 TG  GO:0006457;

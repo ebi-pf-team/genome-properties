@@ -1,7 +1,7 @@
 AC  GenProp0642
-DE  putrescine biosynthesis from arginine utilizing agmatinase
+DE  Putrescine biosynthesis from arginine utilizing agmatinase
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  L-arginine can be converted to the polyamine putrescine via this
 CC  pathway for the purposes of arginine catabolism or for the biosynthesis
@@ -9,12 +9,12 @@ CC  of spermidine.  This version of the pathway utilizes agmatinase while
 CC  another does the same reaction in two steps via carbamoylputrescine.
 --
 SN  SpeA
-ID  arginine decarboxylase
+ID  Arginine decarboxylase
 RQ  1
 EV  IPR002985; TIGR01273; sufficient;
 --
 SN  speB
-ID  agmatinase
+ID  Agmatinase
 RQ  1
 EV  IPR005925; TIGR01230; sufficient;
 //

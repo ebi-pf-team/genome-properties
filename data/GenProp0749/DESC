@@ -1,7 +1,7 @@
 AC  GenProp0749
-DE  choline sulfate utilization
+DE  Choline sulfate utilization
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This property describes a gene pair for choline sulfate utilization.
 CC  Choline is a precursor to the osmoprotectant glycine-betaine and to
@@ -14,17 +14,17 @@ CC  different periplasmic binding protein interact with the same permease
 CC  and ATP-binding subunit.
 --
 SN  chol_TF
-ID  putative choline sulfate transcription factor
+ID  Putative choline sulfate transcription factor
 RQ  1
 EV  IPR017786; TIGR03418;
 --
 SN  peripl
-ID  choline sulfate periplasmic binding protien
+ID  Choline sulfate periplasmic binding protien
 RQ  1
 EV  IPRXXXX; TIGR03414;
 --
 SN  sulfa
-ID  choline-sulfatase
+ID  Choline-sulfatase
 RQ  1
 EV  IPR017785; TIGR03417;
 //

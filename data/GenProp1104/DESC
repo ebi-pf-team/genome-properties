@@ -1,18 +1,18 @@
 AC  GenProp1104
-DE  acyl carrier protein phosphopantetheinylation
+DE  Acyl carrier protein phosphopantetheinylation
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This property consists of acyl carrier protein, as used in fatty acid
 CC  biosynthesis, and the holo-[acyl-carrier-protein] synthase.
 --
 SN  acpP
-ID  acyl carrier protein
+ID  Acyl carrier protein
 RQ  1
 EV  IPR003231; TIGR00517;
 --
 SN  acpS
-ID  holo-[acyl-carrier-protein] synthase
+ID  Holo-[acyl-carrier-protein] synthase
 RQ  1
 EV  IPR002582; TIGR00516;
 //

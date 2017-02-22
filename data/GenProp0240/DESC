@@ -1,7 +1,7 @@
 AC  GenProp0240
-DE  propionyl-CoA catabolism via methylcitric acid
+DE  Propionyl-CoA catabolism via methylcitric acid
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This property describes one of at least five pathways for propionyl-CoA
 CC  catabolism in prokaryotes. This pathway requires oxaloacetate and later
@@ -21,7 +21,7 @@ RQ  1
 EV  IPR012708; TIGR02333; sufficient;
 --
 SN  prpB
-ID  methylisocitrate lyase PrpB
+ID  Methylisocitrate lyase PrpB
 RQ  1
 EV  IPR012695; TIGR02317; sufficient;
 --
@@ -42,7 +42,7 @@ RQ  1
 EV  IPR012709; TIGR02334; sufficient;
 --
 SN  prpR
-ID  propionate catabolism operon regulator PrpR
+ID  Propionate catabolism operon regulator PrpR
 RQ  0
 EV  IPR012704; TIGR02329; sufficient;
 //

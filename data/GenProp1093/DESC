@@ -1,7 +1,7 @@
 AC  GenProp1093
-DE  abortive infection proteins
+DE  Abortive infection proteins
 TP  GUILD
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  An abortive infection system is any system that interferes with the
 CC  ability of a phage to replicate successfully after it has infected a
@@ -13,7 +13,7 @@ CC  and that do not belong to CRISPR or restriction enzyme systems.
 **  Many toxin-antitoxin system proteins MAY belong to this guild.
 --
 SN  ABI
-ID  abortive infection protein
+ID  Abortive infection protein
 RQ  1
 EV  IPR025911; PF13958;
 EV  IPR030987; TIGR04498;

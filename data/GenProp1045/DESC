@@ -1,7 +1,7 @@
 AC  GenProp1045
 DE  O147(Ec) antigen biosynthesis
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  9492329
@@ -21,12 +21,12 @@ CC  different positions. WfbZ, on the other hand, is most closely related
 CC  to a series of Gal->GalNAc transferases.
 --
 SN  L-Rha
-ID  source of L-rhamnose
+ID  Source of L-rhamnose
 RQ  1
 EV  GenProp0183;
 --
 SN  WfbY
-ID  alpha-L-rhamnosyltransferase WfbY
+ID  Alpha-L-rhamnosyltransferase WfbY
 RQ  1
 EV  IPRXXXX; 2925;
 --

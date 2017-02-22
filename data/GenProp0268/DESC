@@ -1,7 +1,7 @@
 AC  GenProp0268
-DE  ectoine biosynthesis
+DE  Ectoine biosynthesis
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  11823218
@@ -24,29 +24,29 @@ CC  ectoine-producing species contain the enzyme ectoine hydroxylase
 CC  (EctD), and also produce hydroxyectoine.
 --
 SN  ectA
-ID  diaminobutyrate acetyltransferase
-DN  diaminobutyrate acetyltransferase (EC 2.3.1.178)
+ID  Diaminobutyrate acetyltransferase
+DN  Diaminobutyrate acetyltransferase (EC 2.3.1.178)
 RQ  1
 EV  IPR012772; TIGR02406; sufficient;
 TG  GO:0019491;
 --
 SN  ectB
-ID  diaminobutyrate--2-oxoglutarate transaminase
-DN  diaminobutyrate--2-oxoglutarate transaminase (EC 2.6.1.76)
+ID  Diaminobutyrate--2-oxoglutarate transaminase
+DN  Diaminobutyrate--2-oxoglutarate transaminase (EC 2.6.1.76)
 RQ  1
 EV  IPR012773; TIGR02407; sufficient;
 TG  GO:0019491;
 --
 SN  ectC
-ID  ectoine synthase
-DN  ectoine synthase (EC 4.2.1.108)
+ID  Ectoine synthase
+DN  Ectoine synthase (EC 4.2.1.108)
 RQ  1
 EV  IPR010462; PF06339; sufficient;
 TG  GO:0019491;
 --
 SN  ectD
-ID  ectoine hydroxylase
-DN  ectoine hydroxylase (EC 1.17.-.-)
+ID  Ectoine hydroxylase
+DN  Ectoine hydroxylase (EC 1.17.-.-)
 RQ  0
 EV  IPR012774; TIGR02408; sufficient;
 //

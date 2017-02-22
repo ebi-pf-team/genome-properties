@@ -1,7 +1,7 @@
 AC  GenProp0708
-DE  catechol meta-cleavage pathway
+DE  Catechol meta-cleavage pathway
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  The metabolism of many aromatic compounds proceeds by way of catechol,
 CC  a compound chemically similar to benzene except that a pair of adjacent
@@ -16,7 +16,7 @@ CC  and 3,4-dimethylphenol (dmp).
 **  in_rule=1. 
 --
 SN  1_dmpB
-ID  catechol 2,3-dioxygenase
+ID  Catechol 2,3-dioxygenase
 RQ  1
 EV  IPR017624; TIGR03211; sufficient;
 --
@@ -50,7 +50,7 @@ RQ  1
 EV  IPR017629; TIGR03217; sufficient;
 --
 SN  7_dmpF
-ID  acetaldehyde dehydrogenase (acetylating)
+ID  Acetaldehyde dehydrogenase (acetylating)
 RQ  1
 EV  IPR003361; TIGR03215; sufficient;
 //

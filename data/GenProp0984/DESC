@@ -1,7 +1,7 @@
 AC  GenProp0984
-DE  radical SAM maturase system, GG-Bacteroidales group
+DE  Radical SAM maturase system, GG-Bacteroidales group
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  21478363
@@ -24,22 +24,22 @@ CC  site (see TIGR04085) is invariant. This system occurs, so far, only in
 CC  the Bacteroidales.
 --
 SN  CFB_gly
-ID  glycosyltransferase, GG-Bacteroidales peptide system
+ID  Glycosyltransferase, GG-Bacteroidales peptide system
 RQ  1
 EV  IPR026419; TIGR04157;
 --
 SN  CFB_mod
-ID  peptide-modifying radical SAM enzyme, GG-Bacteroidales family
+ID  Peptide-modifying radical SAM enzyme, GG-Bacteroidales family
 RQ  1
 EV  IPR026407; TIGR04148;
 --
 SN  CFB_pep
-ID  natural product precursor, GG-Bacteroidales family
+ID  Natural product precursor, GG-Bacteroidales family
 RQ  1
 EV  IPR026408; TIGR04149;
 --
 SN  CFB_pse
-ID  pseudo-rSAM protein, GG-Bacteroidales system
+ID  Pseudo-rSAM protein, GG-Bacteroidales system
 RQ  1
 EV  IPR026418; TIGR04150;
 //

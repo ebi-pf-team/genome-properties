@@ -1,8 +1,8 @@
 AC  GenProp0697
-DE  guanine monophosphate (GMP) biosynthesis from inosine monophosphate
+DE  Guanine monophosphate (GMP) biosynthesis from inosine monophosphate
 DE  (IMP)
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 DC  Purine Metabolism: GMP Biosynthesis
 DR  KEGG; map00230;
@@ -24,7 +24,7 @@ EV  IPR004739; TIGR00888; sufficient;
 TG  GO:0006177;
 --
 SN  GuaB
-ID  inosine-5'-phosphate dehydrogenase
+ID  Inosine-5'-phosphate dehydrogenase
 RQ  1
 EV  IPR005990; TIGR01302; sufficient;
 TG  GO:0006177;

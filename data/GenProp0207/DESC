@@ -1,7 +1,7 @@
 AC  GenProp0207
-DE  lipoprotein localization system lolABCDE
+DE  Lipoprotein localization system lolABCDE
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  12823819
@@ -34,29 +34,29 @@ CC  N-terminal modification.
 **  quote PMID:10783239 and others.  Should be districtly limited 
 --
 SN  LolA
-ID  lipoprotein carrier LolA
-DN  outer membrane lipoprotein carrier protein LolA
+ID  Lipoprotein carrier LolA
+DN  Outer membrane lipoprotein carrier protein LolA
 RQ  1
 EV  IPR018323; TIGR00547; sufficient;
 TG  GO:0006886;
 --
 SN  LolB
-ID  outer membrane LP LolB
-DN  outer membrane lipoprotein LolB
+ID  Outer membrane LP LolB
+DN  Outer membrane lipoprotein LolB
 RQ  1
 EV  IPR004565; TIGR00548; sufficient;
 TG  GO:0006886;
 --
 SN  LolCE
-ID  lipoprotein export, LolC and LolE family
-DN  lipoprotein releasing system, transmembrane protein, LolC/E family
+ID  Lipoprotein export, LolC and LolE family
+DN  Lipoprotein releasing system, transmembrane protein, LolC/E family
 RQ  1
 EV  IPR011925; TIGR02212; sufficient;
 TG  GO:0006886;
 --
 SN  LolD
-ID  transporter ATP-binding subunit LolD
-DN  lipoprotein-releasing system ATP-binding protein
+ID  Transporter ATP-binding subunit LolD
+DN  Lipoprotein-releasing system ATP-binding protein
 RQ  1
 EV  IPR011924; TIGR02211; sufficient;
 TG  GO:0006886;

@@ -1,7 +1,7 @@
 AC  GenProp0807
-DE  bacteriocin system, heterocycle biosynthesis group
+DE  Bacteriocin system, heterocycle biosynthesis group
 TP  GUILD
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  18375757
@@ -27,7 +27,7 @@ CC  toxin biosynthetic gene cluster.", PMID: 18375757
 **  ORFB01064(gpp), NTL16SP0616, and some others.
 --
 SN  cyclode
-ID  cyclodehydratase(SagC)
+ID  Cyclodehydratase(SagC)
 RQ  1
 EV  IPR019892; TIGR03603;
 EV  IPRXXXX; 2374;
@@ -39,12 +39,12 @@ RQ  1
 EV  IPR020051; TIGR03605;
 --
 SN  docking
-ID  docking scaffold protein
+ID  Docking scaffold protein
 RQ  1
 EV  IPR027624; TIGR03604;
 --
 SN  protox
-ID  heterocyclic bacteriocin protoxin
+ID  Heterocyclic bacteriocin protoxin
 RQ  1
 EV  IPR019890; TIGR03601;
 EV  IPR019891; TIGR03602;

@@ -1,7 +1,7 @@
 AC  GenProp0174
-DE  ribosome, bacterial, large subunit
+DE  Ribosome, bacterial, large subunit
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  10
 RN  [1]
 RM  24524803
@@ -17,199 +17,199 @@ CC  revised nomenclature from February 2014.
 --
 SN  bL12
 ID  L7/12
-DN  ribosomal protein L7/L12
+DN  Ribosomal protein L7/L12
 RQ  1
 EV  IPR000206; TIGR00855; sufficient;
 --
 SN  bL17
 ID  L17
-DN  ribosomal protein L17
+DN  Ribosomal protein L17
 RQ  1
 EV  IPR000456; TIGR00059; sufficient;
 --
 SN  bL19
 ID  L19
-DN  ribosomal protein L19
+DN  Ribosomal protein L19
 RQ  1
 EV  IPR001857; TIGR01024; sufficient;
 --
 SN  bL20
 ID  L20
-DN  ribosomal protein L20
+DN  Ribosomal protein L20
 RQ  1
 EV  IPR005813; TIGR01032; sufficient;
 --
 SN  bL21
 ID  L21
-DN  ribosomal protein L21
+DN  Ribosomal protein L21
 RQ  1
 EV  IPR001787; TIGR00061; sufficient;
 --
 SN  bL25
 ID  L25
-DN  ribosomal protein L25
+DN  Ribosomal protein L25
 RQ  0
 EV  IPR029751; PF01386; sufficient;
 --
 SN  bL27
 ID  L27
-DN  ribosomal protein L27
+DN  Ribosomal protein L27
 RQ  1
 EV  IPR001684; TIGR00062; sufficient;
 --
 SN  bL28
 ID  L28
-DN  ribosomal protein L28
+DN  Ribosomal protein L28
 RQ  1
 EV  IPR001383; TIGR00009; sufficient;
 --
 SN  bL31
 ID  L31
-DN  ribosomal protein L31
+DN  Ribosomal protein L31
 RQ  1
 EV  IPR002150; TIGR00105; sufficient;
 --
 SN  bL32
 ID  L32
-DN  ribosomal protein L32
+DN  Ribosomal protein L32
 RQ  1
 EV  IPR002677; TIGR01031; sufficient;
 --
 SN  bL33
 ID  L33
-DN  ribosomal protein L33
+DN  Ribosomal protein L33
 RQ  1
 EV  IPR001705; TIGR01023; sufficient;
 --
 SN  bL34
 ID  L34
-DN  ribosomal protein L34
+DN  Ribosomal protein L34
 RQ  1
 EV  IPR000271; TIGR01030; sufficient;
 --
 SN  bL35
 ID  L35
-DN  ribosomal protein L35
+DN  Ribosomal protein L35
 RQ  1
 EV  IPR001706; TIGR00001; sufficient;
 --
 SN  bL36
 ID  L36
-DN  ribosomal protein L36
+DN  Ribosomal protein L36
 RQ  1
 EV  IPR000473; TIGR01022; sufficient;
 --
 SN  bL9
 ID  L9
-DN  ribosomal protein L9
+DN  Ribosomal protein L9
 RQ  1
 EV  IPR020594; TIGR00158; sufficient;
 --
 SN  uL1
 ID  L1
-DN  ribosomal protein L1
+DN  Ribosomal protein L1
 RQ  1
 EV  IPR005878; TIGR01169; sufficient;
 --
 SN  uL10
 ID  L10
-DN  ribosomal protein L10
+DN  Ribosomal protein L10
 RQ  1
 EV  IPR001790; PF00466; sufficient;
 --
 SN  uL11
 ID  L11
-DN  ribosomal protein L11
+DN  Ribosomal protein L11
 RQ  1
 EV  IPR006519; TIGR01632; sufficient;
 --
 SN  uL13
 ID  L13
-DN  ribosomal protein L13
+DN  Ribosomal protein L13
 RQ  1
 EV  IPR005823; TIGR01066; sufficient;
 --
 SN  uL14
 ID  L14
-DN  ribosomal protein L14
+DN  Ribosomal protein L14
 RQ  1
 EV  IPR005745; TIGR01067; sufficient;
 --
 SN  uL15
 ID  L15
-DN  ribosomal protein L15
+DN  Ribosomal protein L15
 RQ  1
 EV  IPR005749; TIGR01071; sufficient;
 --
 SN  uL16
 ID  L16
-DN  ribosomal protein L16
+DN  Ribosomal protein L16
 RQ  1
 EV  IPR000114; TIGR01164; sufficient;
 --
 SN  uL18
 ID  L18
-DN  ribosomal protein L18
+DN  Ribosomal protein L18
 RQ  1
 EV  IPR004389; TIGR00060; sufficient;
 --
 SN  uL2
 ID  L2
-DN  ribosomal protein L2
+DN  Ribosomal protein L2
 RQ  1
 EV  IPR005880; TIGR01171; sufficient;
 --
 SN  uL22
 ID  L22
-DN  ribosomal protein L22
+DN  Ribosomal protein L22
 RQ  1
 EV  IPR005727; TIGR01044; sufficient;
 --
 SN  uL23
 ID  L23
-DN  ribosomal protein L23
+DN  Ribosomal protein L23
 RQ  1
 EV  IPR013025; PF00276; sufficient;
 --
 SN  uL24
 ID  L24
-DN  ribosomal protein L24
+DN  Ribosomal protein L24
 RQ  1
 EV  IPR003256; TIGR01079; sufficient;
 --
 SN  uL29
 ID  L29
-DN  ribosomal protein L29
+DN  Ribosomal protein L29
 RQ  1
 EV  IPR001854; TIGR00012; sufficient;
 --
 SN  uL3
 ID  L3
-DN  ribosomal protein L3
+DN  Ribosomal protein L3
 RQ  1
 EV  IPR000597; PF00297; sufficient;
 --
 SN  uL30
 ID  L30
-DN  ribosomal protein L30
+DN  Ribosomal protein L30
 RQ  0
 EV  IPR005996; TIGR01308; sufficient;
 --
 SN  uL4
 ID  L4
-DN  ribosomal protein L4
+DN  Ribosomal protein L4
 RQ  1
 EV  IPR002136; PF00573; sufficient;
 --
 SN  uL5
 ID  L5
-DN  ribosomal protein L5
+DN  Ribosomal protein L5
 RQ  1
 EV  IPR031310; PF00281; sufficient;
 --
 SN  uL6
 ID  L6
-DN  ribosomal protein L6
+DN  Ribosomal protein L6
 RQ  1
 EV  IPR020040; PF00347; sufficient;
 //

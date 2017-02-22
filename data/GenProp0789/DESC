@@ -1,7 +1,7 @@
 AC  GenProp0789
-DE  homocysteine regeneration from S-adenosylhomocysteine
+DE  Homocysteine regeneration from S-adenosylhomocysteine
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  S-adenosylmethionine (SAM) is used in cells as a methyl donor by a
 CC  large guild of methyltransferases, leaving S-adenosylhomocysteine
@@ -33,7 +33,7 @@ EV  IPR000043; TIGR00936;
 EV  GenProp0757;
 --
 SN  SAM_syn
-ID  methionine adenosyltransferase
+ID  Methionine adenosyltransferase
 RQ  1
 EV  IPR002133; TIGR01034;
 EV  IPR027790; PF01941;

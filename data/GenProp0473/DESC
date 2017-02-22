@@ -1,7 +1,7 @@
 AC  GenProp0473
-DE  arsenite oxidase
+DE  Arsenite oxidase
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  12679550
@@ -19,19 +19,19 @@ CC  Azurin is present in some but not all species with arsenite oxidase; it
 CC  may be replaced by auracyanin or an unrelated redox partner.
 --
 SN  Rieske
-ID  arsenite oxidase, small (Rieske) subunit
+ID  Arsenite oxidase, small (Rieske) subunit
 RQ  1
 EV  IPR014067; TIGR02694; sufficient;
 TG  GO:0015975;
 --
 SN  azurin
-ID  azurin
+ID  Azurin
 RQ  0
 EV  IPR014068; TIGR02695; sufficient;
 TG  GO:0015975;
 --
 SN  molybdo
-ID  arsenite oxidase, large subunit
+ID  Arsenite oxidase, large subunit
 RQ  1
 EV  IPR014066; TIGR02693; sufficient;
 TG  GO:0015975;

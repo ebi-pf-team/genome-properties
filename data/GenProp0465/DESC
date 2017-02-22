@@ -1,7 +1,7 @@
 AC  GenProp0465
-DE  circadian clock system KaiABC
+DE  Circadian clock system KaiABC
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  Cyanobacteria have a system of proteins, KaiABC, capable of generating
 CC  rhythmic oscillations in the expression of other genes with a period of
@@ -14,17 +14,17 @@ CC  Cyanobacteria. Homologs outside the Cyanobacteria and paralogs within,
 CC  both with uncertain function, occur for KaiB and KaiC.
 --
 SN  KaiA
-ID  circadian clock protein KaiA
+ID  Circadian clock protein KaiA
 RQ  1
 EV  IPR011648; PF07688; sufficient;
 --
 SN  KaiB
-ID  circadian clock protein KaiB
+ID  Circadian clock protein KaiB
 RQ  1
 EV  IPR013474; TIGR02654; sufficient;
 --
 SN  KaiC
-ID  circadian clock protein KaiC
+ID  Circadian clock protein KaiC
 RQ  1
 EV  IPR013503; TIGR02655; sufficient;
 //

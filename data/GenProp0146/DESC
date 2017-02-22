@@ -1,7 +1,7 @@
 AC  GenProp0146
-DE  bacteriochlorophyll biosynthesis from chlorophyllide a
+DE  Bacteriochlorophyll biosynthesis from chlorophyllide a
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  2
 CC  Chlorophyllide a is the common branchpoint of the chlorophyll and
 CC  bacteriochlorophyll biosynthetic pathways.
@@ -21,36 +21,36 @@ EV  IPR005903; TIGR01202; sufficient;
 TG  GO:0030494;
 --
 SN  3-BchX
-ID  bacteriochlorophyllide reductase iron protein subunit X
-DN  chlorophyllide reductase iron protein subunit X (EC:1.18.6.1)
+ID  Bacteriochlorophyllide reductase iron protein subunit X
+DN  Chlorophyllide reductase iron protein subunit X (EC:1.18.6.1)
 RQ  1
 EV  IPR010246; TIGR02016; sufficient;
 TG  GO:0030494;
 --
 SN  3-BchY
-ID  bacteriochlorophyllide reductase subunit Y
-DN  chlorophyllide reductase subunit Y (EC:1.18.1.-)
+ID  Bacteriochlorophyllide reductase subunit Y
+DN  Chlorophyllide reductase subunit Y (EC:1.18.1.-)
 RQ  1
 EV  IPR010245; TIGR02015; sufficient;
 TG  GO:0030494;
 --
 SN  3-BchZ
-ID  bacteriochlorophyllide reductase subunit Z
-DN  chlorophyllide reductase subunit Z (EC:1.18.-.-)
+ID  Bacteriochlorophyllide reductase subunit Z
+DN  Chlorophyllide reductase subunit Z (EC:1.18.-.-)
 RQ  1
 EV  IPR010244; TIGR02014; sufficient;
 TG  GO:0030494;
 --
 SN  4-BchG
-ID  geranyl geranyl bacteriochlorophyll synthetase
-DN  bacteriochlorophyll/chlorophyll a synthase (EC:2.5.1.-)
+ID  Geranyl geranyl bacteriochlorophyll synthetase
+DN  Bacteriochlorophyll/chlorophyll a synthase (EC:2.5.1.-)
 RQ  1
 EV  IPR006372; TIGR01476; sufficient;
 TG  GO:0030494;
 --
 SN  5-BchP
-ID  geranyl geranyl bacteriochlorophyll reductase
-DN  geranylgeranyl reductase (EC:1.3.1.-)
+ID  Geranyl geranyl bacteriochlorophyll reductase
+DN  Geranylgeranyl reductase (EC:1.3.1.-)
 RQ  1
 EV  IPR010253; TIGR02023; sufficient;
 TG  GO:0030494;

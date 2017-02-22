@@ -1,7 +1,7 @@
 AC  GenProp0281
-DE  mannosylglycerate biosynthesis
+DE  Mannosylglycerate biosynthesis
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  12788726
@@ -23,14 +23,14 @@ CC  rare mesophile to have this pathway.
 **  should read the paper). DHH.
 --
 SN  mpgP
-ID  mannosyl-3-phosphoglycerate phosphatase
-DN  mannosyl-3-phosphoglycerate phosphatase (EC 3.1.3.70)
+ID  Mannosyl-3-phosphoglycerate phosphatase
+DN  Mannosyl-3-phosphoglycerate phosphatase (EC 3.1.3.70)
 RQ  1
 EV  IPRXXXX; TIGR02461; sufficient;
 --
 SN  mpgS
-ID  mannosyl-3-phosphoglycerate synthase
-DN  mannosyl-3-phosphoglycerate synthase (EC 2.4.1.217)
+ID  Mannosyl-3-phosphoglycerate synthase
+DN  Mannosyl-3-phosphoglycerate synthase (EC 2.4.1.217)
 RQ  1
 EV  IPR012812; TIGR02460; sufficient;
 //

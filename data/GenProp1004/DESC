@@ -1,7 +1,7 @@
 AC  GenProp1004
-DE  light-independent protochlorophyllide reductase
+DE  Light-independent protochlorophyllide reductase
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This Genome Property represents the three-component, light-independent
 CC  protochlorophyllide reductase. By contrast, model TIGR01289 describes a
@@ -10,17 +10,17 @@ CC  light-dependent protochlorophyllide reductase.
 **  rules.
 --
 SN  5-BchB
-ID  protochlorophyllide reductase, ChlB
+ID  Protochlorophyllide reductase, ChlB
 RQ  1
 EV  IPR005969; TIGR01278; sufficient;
 --
 SN  5-BchL
-ID  protochlorophyllide reductase, iron protein subunit BchL
+ID  Protochlorophyllide reductase, iron protein subunit BchL
 RQ  1
 EV  IPR005971; TIGR01281; sufficient;
 --
 SN  5-BchN
-ID  protochlorophyllide reductase, ChlN
+ID  Protochlorophyllide reductase, ChlN
 RQ  1
 EV  IPR005970; TIGR01279; sufficient;
 //

@@ -1,7 +1,7 @@
 AC  GenProp0616
-DE  single complex oxygen reduction and quinone re-oxidation
+DE  Single complex oxygen reduction and quinone re-oxidation
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  Many aerobic bacteria have complexes for the reduction of oxygen that
 CC  are independent of cytochrome c (as found in mitochondria). These
@@ -11,7 +11,7 @@ CC  gradient for ATP generateion. Examples include the cytochrome bd
 CC  complex and the cytochrome bo complex.
 --
 SN  quin_ox
-ID  single complex cytochrome (quinone) oxidase
+ID  Single complex cytochrome (quinone) oxidase
 RQ  1
 EV  GenProp0617;
 EV  GenProp0618;

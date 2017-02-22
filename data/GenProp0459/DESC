@@ -1,25 +1,25 @@
 AC  GenProp0459
 DE  D-xylose utilization (conversion to D-xylulose-5-phosphate)
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  ROUGH-in for a xylose catabolism genome property, where having xylose
 CC  isomerase, xylulose kinase, importers, and maybe an aldolase would
 CC  signify xylose catabolism.
 --
 SN  epim
-ID  xylose 1-epimerase
+ID  Xylose 1-epimerase
 RQ  0
 EV  IPRXXXX; PF01263;
 TG  GO:0042732;
 --
 SN  hyp_tran
-ID  hypothethesized transporter components
+ID  Hypothethesized transporter components
 RQ  0
 EV  IPRXXXX; PF05360;
 --
 SN  regulat
-ID  clustered regulatory components
+ID  Clustered regulatory components
 RQ  0
 EV  IPRXXXX; PF00356;
 EV  IPRXXXX; PF00480;
@@ -27,7 +27,7 @@ EV  IPRXXXX; PF00455;
 EV  IPRXXXX; PF00165;
 --
 SN  transpor
-ID  xylose transporter components
+ID  Xylose transporter components
 RQ  1
 EV  IPR013456; TIGR02634; sufficient;
 TG  GO:0015753;
@@ -41,7 +41,7 @@ EV  IPRXXXX; PF00005;
 TG  GO:0015753;
 --
 SN  xyl_iso
-ID  xylose isomerase
+ID  Xylose isomerase
 RQ  1
 EV  IPR013452; TIGR02630; sufficient;
 TG  GO:0042732;
@@ -49,7 +49,7 @@ EV  IPR013453; TIGR02631; sufficient;
 TG  GO:0042732;
 --
 SN  xyl_kin
-ID  xylulokinase
+ID  Xylulokinase
 RQ  1
 EV  IPR006000; TIGR01312; sufficient;
 TG  GO:0042732;

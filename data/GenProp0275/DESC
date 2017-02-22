@@ -1,7 +1,7 @@
 AC  GenProp0275
-DE  cobyrinic acid diamide biosynthesis, anaerobic pathway
+DE  Cobyrinic acid diamide biosynthesis, anaerobic pathway
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  3
 RN  [1]
 RM  12869542
@@ -46,7 +46,7 @@ CC  this is the only component missing, especially when the aerobic pathway
 CC  is not supported.
 --
 SN  CbiA
-ID  cobyrinate diamide synthase (CbiA)
+ID  Cobyrinate diamide synthase (CbiA)
 RQ  1
 EV  IPR004484; TIGR00379; sufficient;
 TG  GO:0019251;
@@ -98,7 +98,7 @@ EV  IPR003723; PF02571; sufficient;
 TG  GO:0019251;
 --
 SN  CbiK/X
-ID  cobaltochelatase, monomeric
+ID  Cobaltochelatase, monomeric
 RQ  1
 EV  IPR010388; PF06180; sufficient;
 TG  GO:0019251;
@@ -118,12 +118,12 @@ EV  IPR014008; TIGR02469; sufficient;
 TG  GO:0019251;
 --
 SN  Co_red
-ID  cobalt reductase
+ID  Cobalt reductase
 RQ  0
 --
 SN  CobA
-ID  uroporphyrinogen methyltransferase (2.1.1.107)
-DN  uroporphyrin-III C-methyltransferase
+ID  Uroporphyrinogen methyltransferase (2.1.1.107)
+DN  Uroporphyrin-III C-methyltransferase
 RQ  1
 EV  IPR006366; TIGR01469; sufficient;
 TG  GO:0019251;

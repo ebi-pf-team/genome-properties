@@ -1,7 +1,7 @@
 AC  GenProp0956
-DE  radical SAM maturase/selenobacteriocin system
+DE  Radical SAM maturase/selenobacteriocin system
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  21478363
@@ -18,12 +18,12 @@ CC  UGAGGCAAGUCUUCCGGCGCCGGGAGCGCCAAGGAGAAG and
 CC  UGAGGCGGAUCGUCCGGCGCCGGUGGCGCCGCAAAGAAG.
 --
 SN  mod_SAM
-ID  peptide modification radical SAM enzyme, GSU_1560 family
+ID  Peptide modification radical SAM enzyme, GSU_1560 family
 RQ  1
 EV  IPR023807; TIGR04082;
 --
 SN  mod_pep
-ID  radical SAM modification target peptide, GSU_1558 family
+ID  Radical SAM modification target peptide, GSU_1558 family
 RQ  1
 EV  IPR023971; TIGR04081;
 //

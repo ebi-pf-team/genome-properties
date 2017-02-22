@@ -1,7 +1,7 @@
 AC  GenProp0723
-DE  hydrogenase, nickel and F420-dependent
+DE  Hydrogenase, nickel and F420-dependent
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  2207102
@@ -16,22 +16,22 @@ CC  least four Methanosarcinales.
 **  These have been removed from methanogen marker set.
 --
 SN  frhA
-ID  coenzyme F420 hydrogenase, subunit alpha
+ID  Coenzyme F420 hydrogenase, subunit alpha
 RQ  1
 EV  IPR017682; TIGR03295; sufficient;
 --
 SN  frhB
-ID  coenzyme F420 hydrogenase, subunit beta
+ID  Coenzyme F420 hydrogenase, subunit beta
 RQ  1
 EV  IPR017679; TIGR03289; sufficient;
 --
 SN  frhD
-ID  coenzyme F420 hydrogenase, maturation protease
+ID  Coenzyme F420 hydrogenase, maturation protease
 RQ  1
 EV  IPR004411; TIGR00130; sufficient;
 --
 SN  frhG
-ID  coenzyme F420 hydrogenase, subunit gamma
+ID  Coenzyme F420 hydrogenase, subunit gamma
 RQ  1
 EV  IPR017681; TIGR03294; sufficient;
 //

@@ -1,7 +1,7 @@
 AC  GenProp0151
-DE  resistance to mercury
+DE  Resistance to mercury
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  1
 RN  [1]
 RM  12917805
@@ -25,50 +25,50 @@ CC  system, often encoded on plasmids and transferred via transposons, is
 CC  found in both gram-positive and gram-negative bacteria [1].
 --
 SN  MerA
-ID  mercuric reductase
-DN  mercuric reductase (EC 1.16.1.1)
+ID  Mercuric reductase
+DN  Mercuric reductase (EC 1.16.1.1)
 RQ  1
 EV  IPR021179; TIGR02053; sufficient;
 TG  GO:0050787;
 --
 SN  MerB
-ID  organomercurial lyase
-DN  alkylmercury lyase (EC 4.99.1.2)
+ID  Organomercurial lyase
+DN  Alkylmercury lyase (EC 4.99.1.2)
 RQ  0
 EV  IPR004927; PF03243; sufficient;
 TG  GO:0046689;
 --
 SN  MerC
-ID  mercury transporter, MerC
-DN  mercuric resistance protein MerC
+ID  Mercury transporter, MerC
+DN  Mercuric resistance protein MerC
 RQ  1
 EV  IPR004891; PF03203; sufficient;
 TG  GO:0046689;
 --
 SN  MerD
-ID  transcriptional co-regulator, MerD
-DN  mercuric resistance transcriptional repressor MerD
+ID  Transcriptional co-regulator, MerD
+DN  Mercuric resistance transcriptional repressor MerD
 RQ  1
 EV  IPR011797; TIGR02054; sufficient;
 TG  GO:0046689;
 --
 SN  MerP
-ID  periplasmic mercury binding protein, MerP
-DN  mercuric transport protein periplasmic component MerP
+ID  Periplasmic mercury binding protein, MerP
+DN  Mercuric transport protein periplasmic component MerP
 RQ  1
 EV  IPR011795; TIGR02052; sufficient;
 TG  GO:0050787;
 --
 SN  MerR
-ID  mercury responsive transcriptional activator
-DN  mercuric-responsive transcriptional activator MerR
+ID  Mercury responsive transcriptional activator
+DN  Mercuric-responsive transcriptional activator MerR
 RQ  1
 EV  IPR011794; TIGR02051; sufficient;
 TG  GO:0046689;
 --
 SN  MerT
-ID  mercury transporter, MerT
-DN  mercuric transport protein MerT
+ID  Mercury transporter, MerT
+DN  Mercuric transport protein MerT
 RQ  1
 EV  IPR003457; PF02411; sufficient;
 TG  GO:0046689;

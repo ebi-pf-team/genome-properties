@@ -1,7 +1,7 @@
 AC  GenProp0982
-DE  radical SAM maturase system, FibroRumin system
+DE  Radical SAM maturase system, FibroRumin system
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  21478363
@@ -19,7 +19,7 @@ CC  Fibrobacter succinogenes subsp. succinogenes S85 (targets missed in
 CC  gene-calling) and in Ruminococcus albus 8.
 --
 SN  FR_rSAM
-ID  radical SAM peptide maturase, FibroRumin system
+ID  Radical SAM peptide maturase, FibroRumin system
 RQ  1
 EV  IPR026426; TIGR04136;
 --

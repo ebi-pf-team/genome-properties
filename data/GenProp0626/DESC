@@ -1,7 +1,7 @@
 AC  GenProp0626
-DE  protein sorting system, sortase type, LPXTG/SrtA class
+DE  Protein sorting system, sortase type, LPXTG/SrtA class
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This property describes the common subtype of the sortase system for
 CC  targeting cell wall proteins in the Firmicutes by recognition of the
@@ -22,8 +22,8 @@ RQ  1
 EV  IPR019931; TIGR01167; sufficient;
 --
 SN  sortase
-ID  sortase (transpeptidase)
-DN  sortase family protein
+ID  Sortase (transpeptidase)
+DN  Sortase family protein
 RQ  1
 EV  IPR005754; TIGR01076; sufficient;
 //

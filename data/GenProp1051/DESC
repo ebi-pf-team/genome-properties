@@ -1,7 +1,7 @@
 AC  GenProp1051
 DE  O10(Ec) antigen biosynthesis
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  The E. coli O10 antigen is a branched pentasaccharide with the
 CC  structure
@@ -16,7 +16,7 @@ RQ  1
 EV  IPRXXXX; 2968;
 --
 SN  Fuc4NAc
-ID  source of dTDP-4-acetamido-4,6-dideoxy-D-galactose (dTDP-Fuc4NAc)
+ID  Source of dTDP-4-acetamido-4,6-dideoxy-D-galactose (dTDP-Fuc4NAc)
 RQ  1
 EV  GenProp0972;
 --
@@ -41,7 +41,7 @@ RQ  1
 EV  IPRXXXX; 2967;
 --
 SN  Rha
-ID  source of L-rhamnose
+ID  Source of L-rhamnose
 RQ  1
 EV  GenProp0183;
 --

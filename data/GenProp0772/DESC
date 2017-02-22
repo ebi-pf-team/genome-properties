@@ -1,7 +1,7 @@
 AC  GenProp0772
-DE  yersiniabactin biosynthesis
+DE  Yersiniabactin biosynthesis
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  11927258
@@ -23,48 +23,48 @@ CC  is made from salicylate, three cysteines, and a malonyl group by a
 CC  nonribosomal peptide synthetase/polyketide synthase.
 --
 SN  ybtA
-ID  yersiniabactin transcriptional regulator YbtA
+ID  Yersiniabactin transcriptional regulator YbtA
 RQ  0
 EV  IPRXXXX; 2159;
 --
 SN  ybtE
-ID  salicyl-AMP ligase, yersiniabactin biosynthetic
+ID  Salicyl-AMP ligase, yersiniabactin biosynthetic
 RQ  1
 EV  IPRXXXX; 2163;
 TG  GO:0019290;
 --
 SN  ybtS
-ID  salicylate synthase, yersiniabactin system
+ID  Salicylate synthase, yersiniabactin system
 RQ  1
 EV  IPRXXXX; 2167;
 TG  GO:0019290;
 --
 SN  ybtT
-ID  yersiniabactin biosynthesis thioesterase YbtT
+ID  Yersiniabactin biosynthesis thioesterase YbtT
 RQ  1
 EV  IPRXXXX; 2165;
 TG  GO:0019290;
 --
 SN  ybtU
-ID  yersiniabactin synthetase, YbtU component
+ID  Yersiniabactin synthetase, YbtU component
 RQ  1
 EV  IPRXXXX; 2164;
 TG  GO:0019290;
 --
 SN  ybtX
-ID  yersiniabactin region putative transporter YbtX
+ID  Yersiniabactin region putative transporter YbtX
 RQ  0
 EV  IPRXXXX; 2166;
 TG  GO:0019290;
 --
 SN  ybt_HM1
-ID  yersiniabactin synthetase, HMWP1 component
+ID  Yersiniabactin synthetase, HMWP1 component
 RQ  1
 EV  IPRXXXX; 2162;
 TG  GO:0019290;
 --
 SN  ybt_HM2
-ID  yersiniabactin synthetase, HMWP2 component
+ID  Yersiniabactin synthetase, HMWP2 component
 RQ  1
 EV  IPRXXXX; 2161;
 TG  GO:0019290;

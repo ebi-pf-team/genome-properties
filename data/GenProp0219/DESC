@@ -1,7 +1,7 @@
 AC  GenProp0219
-DE  spermidine biosynthesis from arginine (via agmatine)
+DE  Spermidine biosynthesis from arginine (via agmatine)
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This pathway uses arginine decarboxylase followed by agmatinase
 CC  (agmatine ureohydrolase) instead of arginase (arginine ureohydrolase)
@@ -13,12 +13,12 @@ CC  6) succinic semialdehyde dehydrogenase.
 **  May want to make this a branched property later.
 --
 SN  1
-ID  putrescine biosynthesis from arginine (GenProp0642)
+ID  Putrescine biosynthesis from arginine (GenProp0642)
 RQ  1
 EV  GenProp0642;
 --
 SN  2
-ID  spermidine biosynthesis from putrescine (GenProp0641)
+ID  Spermidine biosynthesis from putrescine (GenProp0641)
 RQ  1
 EV  GenProp0641;
 //

@@ -1,7 +1,7 @@
 AC  GenProp0192
-DE  molybdate ABC transporter
+DE  Molybdate ABC transporter
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  11421278
@@ -21,29 +21,29 @@ CC  non-specific anion transporters.
 **  domain) help confirm TIGR02142. DHH.
 --
 SN  ABCmodC
-ID  molybdate ABC transporter, ATP-binding protein (EC 3.6.3.29)
-DN  molybdate ABC transporter, ATP-binding protein (EC 3.6.3.29)
+ID  Molybdate ABC transporter, ATP-binding protein (EC 3.6.3.29)
+DN  Molybdate ABC transporter, ATP-binding protein (EC 3.6.3.29)
 RQ  1
 EV  IPR011868; TIGR02142; sufficient;
 TG  GO:0015689;
 --
 SN  binding
-ID  molybdate ABC transporter, molybdate binding protein
+ID  Molybdate ABC transporter, molybdate binding protein
 DN  NOT APPLICABLE
 RQ  1
 EV  IPR005950; TIGR01256; sufficient;
 TG  GO:0015689;
 --
 SN  prmModB
-ID  molybdate ABC transporter, permease
-DN  molybdate ABC transporter, permease protein
+ID  Molybdate ABC transporter, permease
+DN  Molybdate ABC transporter, permease protein
 RQ  1
 EV  IPR011867; TIGR02141; sufficient;
 TG  GO:0015689;
 --
 SN  repress
-ID  molybdate transport repressor
-DN  molybdate transport repressor ModE
+ID  Molybdate transport repressor
+DN  Molybdate transport repressor ModE
 RQ  0
 EV  IPR003725; TIGR00637; sufficient;
 //

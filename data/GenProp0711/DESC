@@ -1,25 +1,25 @@
 AC  GenProp0711
-DE  catechol ortho-cleavage upper pathway
+DE  Catechol ortho-cleavage upper pathway
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 **  57271 : all should have this. DHH. Note that catD could be moved from
 **  upper pathways of both this property and protocatechuate to lower
 **  pathway, beta-ketoadipate, 57271.
 --
 SN  catA
-ID  catechol 1,2-dioxygenase
+ID  Catechol 1,2-dioxygenase
 RQ  1
 EV  IPR012801; TIGR02439; sufficient;
 EV  IPR012800; TIGR02438; sufficient;
 --
 SN  catB
-ID  muconate cycloisomerase
+ID  Muconate cycloisomerase
 RQ  1
 EV  IPR013370; TIGR02534; sufficient;
 --
 SN  catC
-ID  muconolactone delta-isomerase
+ID  Muconolactone delta-isomerase
 RQ  1
 EV  IPR003464; TIGR03221; sufficient;
 --

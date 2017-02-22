@@ -1,7 +1,7 @@
 AC  GenProp0996
-DE  protein sorting system, IPTLxxWG-CTERM/exosortase H
+DE  Protein sorting system, IPTLxxWG-CTERM/exosortase H
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This system consists of a distinctive subfamily of exosortase-like
 CC  proteins and their target sequences in bacteria. Target sequences have
@@ -9,7 +9,7 @@ CC  a signature motif approximated by IPTLxxWG. The processing enzyme is
 CC  exosortase H. 
 --
 SN  EXOxrtH
-ID  exosortase H
+ID  Exosortase H
 RQ  1
 EV  IPR026441; TIGR04177;
 --

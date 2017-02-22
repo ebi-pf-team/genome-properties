@@ -1,7 +1,7 @@
 AC  GenProp0869
-DE  decarboxylation/antiport proton-motive cycle: arginine-agmatine
+DE  Decarboxylation/antiport proton-motive cycle: arginine-agmatine
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  18790867
@@ -30,13 +30,13 @@ CC  aspartate-alanine antiporter, as in Tetragenococcus halophila.
 **  TIGR01273).
 --
 SN  aaxA
-ID  arginine/agmatine exchange system porin
+ID  Arginine/agmatine exchange system porin
 RQ  0
 EV  IPRXXXX; 2638;
 TG  GO:0010248;
 --
 SN  adiA
-ID  arginine decarboxylase, acid-induced
+ID  Arginine decarboxylase, acid-induced
 RQ  1
 EV  IPRXXXX; 2635;
 TG  GO:0010248;
@@ -44,7 +44,7 @@ EV  IPRXXXX; 2636;
 TG  GO:0010248;
 --
 SN  adiC
-ID  arginine/agmatine antiporter
+ID  Arginine/agmatine antiporter
 RQ  1
 EV  IPRXXXX; 2634;
 TG  GO:0010248;

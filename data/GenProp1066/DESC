@@ -1,11 +1,11 @@
 AC  GenProp1066
-DE  uncharacterized cassette GAK (Grasp, Amphipathic, Kinase)
+DE  Uncharacterized cassette GAK (Grasp, Amphipathic, Kinase)
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 --
 SN  gakA
-ID  amphi-Trp domain protein, GAK system
+ID  Amphi-Trp domain protein, GAK system
 RQ  1
 EV  IPRXXXX; TIGR04354;
 --

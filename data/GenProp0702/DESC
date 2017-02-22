@@ -1,7 +1,7 @@
 AC  GenProp0702
-DE  benzoyl-CoA reductase
+DE  Benzoyl-CoA reductase
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This model describes a ATP-dependent four-subunit enzyme, benzoyl-CoA
 CC  reductase, that dearomatizes benzoyl-CoA to
@@ -11,22 +11,22 @@ CC  conditions.
 **  types. See also the bddNOPQ type: see Azoarcus, ntae01.
 --
 SN  BnzCo_A
-ID  benzoyl-CoA reductase, subunit A
+ID  Benzoyl-CoA reductase, subunit A
 RQ  1
 EV  IPR011954; TIGR02259; sufficient;
 --
 SN  BnzCo_B
-ID  benzoyl-CoA reductase, subunit B
+ID  Benzoyl-CoA reductase, subunit B
 RQ  1
 EV  IPR011955; TIGR02260; sufficient;
 --
 SN  BnzCo_C
-ID  benzoyl-CoA reductase, subunit C
+ID  Benzoyl-CoA reductase, subunit C
 RQ  1
 EV  IPR011958; TIGR02263; sufficient;
 --
 SN  BnzCo_D
-ID  benzoyl-CoA reductase, subunit D
+ID  Benzoyl-CoA reductase, subunit D
 RQ  1
 EV  IPR011956; TIGR02261; sufficient;
 //

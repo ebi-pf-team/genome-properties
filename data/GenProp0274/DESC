@@ -1,7 +1,7 @@
 AC  GenProp0274
-DE  coenzyme B12 biosynthesis - overview
+DE  Coenzyme B12 biosynthesis - overview
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This property summarizes and contains the various pathways and systems
 CC  required for the complete biosynthesis of vitamin B12, 5-deoxyadenosyl
@@ -15,12 +15,12 @@ RQ  1
 EV  GenProp0220;
 --
 SN  2a
-ID  cobyrinic acid diamide biosynthesis, aerobic pathway: GenProp0113
+ID  Cobyrinic acid diamide biosynthesis, aerobic pathway: GenProp0113
 RQ  1
 EV  GenProp0113;
 --
 SN  2b
-ID  cobyrinic acid diamide biosynthesis, anaerobic pathway
+ID  Cobyrinic acid diamide biosynthesis, anaerobic pathway
 RQ  1
 EV  GenProp0275;
 --
@@ -30,7 +30,7 @@ RQ  1
 EV  GenProp0269;
 --
 SN  5
-ID  alpha-ribazole from nicotinate mononucleotide and dimethylbenzimidazole: GenProp0270
+ID  Alpha-ribazole from nicotinate mononucleotide and dimethylbenzimidazole: GenProp0270
 RQ  0
 EV  GenProp0270;
 --
@@ -40,7 +40,7 @@ RQ  1
 EV  GenProp0279;
 --
 SN  B12-enz
-ID  cobalamin-utilizing enzymes: GenProp0284
+ID  Cobalamin-utilizing enzymes: GenProp0284
 RQ  1
 EV  GenProp0284;
 //

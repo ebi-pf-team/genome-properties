@@ -1,7 +1,7 @@
 AC  GenProp0477
-DE  copper resistance system: CopZA
+DE  Copper resistance system: CopZA
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This genome property (under development) includes a P-type ATPase
 CC  copper transporter, a copper response regulatory protein and a copper
@@ -17,12 +17,12 @@ RQ  1
 EV  IPRXXXX; TIGR01511; sufficient;
 --
 SN  chaper
-ID  copper chaperone
+ID  Copper chaperone
 RQ  1
 EV  IPR006122; TIGR00003;
 --
 SN  regul
-ID  copper transport repressor
+ID  Copper transport repressor
 RQ  0
 EV  IPR014071; TIGR02698; sufficient;
 //

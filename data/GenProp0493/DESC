@@ -1,7 +1,7 @@
 AC  GenProp0493
-DE  addAB pathway
+DE  AddAB pathway
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  The recBCD pathway, important in double stranded break DNA repair by
 CC  homologous recombination, is replaced by AddAB in several bacterial
@@ -15,7 +15,7 @@ CC  AddAB is called RexAB.
 --
 SN  AddA
 ID  AddA protein
-DN  double-strand break repair protein AddA
+DN  Double-strand break repair protein AddA
 RQ  1
 EV  IPR014151; TIGR02784; sufficient;
 TG  GO:0000724;
@@ -24,7 +24,7 @@ TG  GO:0000724;
 --
 SN  AddB
 ID  AddB protein
-DN  double-strand break repair protein AddB
+DN  Double-strand break repair protein AddB
 RQ  1
 EV  IPR014153; TIGR02786; sufficient;
 TG  GO:0000724;

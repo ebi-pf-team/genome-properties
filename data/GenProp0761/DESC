@@ -1,7 +1,7 @@
 AC  GenProp0761
-DE  hopanoid lipid biosynthesis
+DE  Hopanoid lipid biosynthesis
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  1
 RN  [1]
 RM  9714766
@@ -18,19 +18,19 @@ CC  condenses two molecules of farnesyl-pyrophosphate and squalene-hopene
 CC  cyclase.
 --
 SN  HpnA
-ID  nucleotide-sugar epimerase/dehydratase
+ID  Nucleotide-sugar epimerase/dehydratase
 RQ  0
 EV  IPR017829; TIGR03466;
 TG  GO:0019746;
 --
 SN  HpnB
-ID  glycosyl transferase, family 2, HpnB
+ID  Glycosyl transferase, family 2, HpnB
 RQ  0
 EV  IPR017832; TIGR03469;
 TG  GO:0019746;
 --
 SN  HpnCD
-ID  squalene synthase, HpnC and/or HpnD subunits
+ID  Squalene synthase, HpnC and/or HpnD subunits
 RQ  1
 EV  IPR017827; TIGR03464;
 TG  GO:0019746;
@@ -44,25 +44,25 @@ EV  IPR017830; TIGR03467;
 TG  GO:0019746;
 --
 SN  HpnG
-ID  phosphorylase, HpnG
+ID  Phosphorylase, HpnG
 RQ  0
 EV  IPR017831; TIGR03468;
 TG  GO:0019746;
 --
 SN  HpnH
-ID  radical SAM enzyme, HpnH
+ID  Radical SAM enzyme, HpnH
 RQ  1
 EV  IPR017833; TIGR03470;
 TG  GO:0019746;
 --
 SN  HpnI
-ID  glycosyl transferase, family 2, HpnI
+ID  Glycosyl transferase, family 2, HpnI
 RQ  0
 EV  IPR017835; TIGR03472;
 TG  GO:0019746;
 --
 SN  HpnJ
-ID  radical SAM enzyme, HpnJ
+ID  Radical SAM enzyme, HpnJ
 RQ  0
 EV  IPR017834; TIGR03471;
 TG  GO:0019746;
@@ -74,13 +74,13 @@ EV  IPR017836; TIGR03473;
 TG  GO:0019746;
 --
 SN  HpnL
-ID  putative membrane protein, TIGR00374 superfamily, HpnL
+ID  Putative membrane protein, TIGR00374 superfamily, HpnL
 RQ  0
 EV  IPRXXXX; TIGR03476;
 TG  GO:0019746;
 --
 SN  HpnM
-ID  toluene tolerance protein homolog, HpnM
+ID  Toluene tolerance protein homolog, HpnM
 RQ  0
 EV  IPR017842; TIGR03481;
 TG  GO:0019746;
@@ -97,13 +97,13 @@ EV  IPRXXXX; PF04333;
 TG  GO:0019746;
 --
 SN  HpnR
-ID  hopanoid C-3 methylase
+ID  Hopanoid C-3 methylase
 RQ  0
 EV  IPR027564; TIGR04367;
 TG  GO:0019746;
 --
 SN  SHC
-ID  squalene-hopene cyclase
+ID  Squalene-hopene cyclase
 RQ  1
 EV  IPR006400; TIGR01507;
 TG  GO:0019746;

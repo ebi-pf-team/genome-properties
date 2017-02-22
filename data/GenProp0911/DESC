@@ -1,7 +1,7 @@
 AC  GenProp0911
-DE  butyryl-CoA to butyrate, acetate CoA-transferase pathway
+DE  Butyryl-CoA to butyrate, acetate CoA-transferase pathway
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This pathway describes one of two well-desribed pathways for the
 CC  conversion of butyryl-CoA to butyrate, a one-step pathway of CoA
@@ -12,7 +12,7 @@ CC  species, and the pathway described here appears to be the more
 CC  significant in bacteria of the human colon.
 --
 SN  but2ace
-ID  butyryl-CoA:acetate CoA-transferase
+ID  Butyryl-CoA:acetate CoA-transferase
 RQ  1
 EV  IPR023990; TIGR03948;
 //

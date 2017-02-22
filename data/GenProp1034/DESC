@@ -1,7 +1,7 @@
 AC  GenProp1034
-DE  decarboxylation/antiport proton-motive cycle: oxalate-formate
+DE  Decarboxylation/antiport proton-motive cycle: oxalate-formate
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  7823041
@@ -29,12 +29,12 @@ CC  microbiome and affects oxalate homeostasis.
 **  I wonder if there is a direct oxalate decarboxylase form (4.1.1.2).
 --
 SN  decarb
-ID  decarboxylation
+ID  Decarboxylation
 RQ  1
 EV  GenProp0718;
 --
 SN  oxlT
-ID  oxalate/formate antiporter
+ID  Oxalate/formate antiporter
 RQ  1
 EV  IPR026355; TIGR04259;
 //

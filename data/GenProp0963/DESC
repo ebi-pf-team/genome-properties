@@ -1,7 +1,7 @@
 AC  GenProp0963
 DE  O2(Ec) antigen biosynthesis
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  3555792
@@ -26,37 +26,37 @@ CC  cluster.
 **  Identical to (?) cross-reacts with O74
 --
 SN  Fuc3NAc
-ID  source of 3-acetamidofucose
+ID  Source of 3-acetamidofucose
 RQ  1
 EV  GenProp0964;
 --
 SN  GTR-1
-ID  b-L-Rha-(1->4)-b-D-GlcNAc transferase
+ID  B-L-Rha-(1->4)-b-D-GlcNAc transferase
 RQ  1
 EV  IPRXXXX; 2770;
 --
 SN  GTR-2,3
-ID  a-L-Rha-(1->2)-a-L-Rha, ->3)-b-L-Rha transferase
+ID  A-L-Rha-(1->2)-a-L-Rha, ->3)-b-L-Rha transferase
 RQ  1
 EV  IPRXXXX; 2769;
 --
 SN  GTR-4
-ID  a-D-Fuc3NAc-(1->2)-a-L-Rha transferase
+ID  A-D-Fuc3NAc-(1->2)-a-L-Rha transferase
 RQ  1
 EV  IPRXXXX; 2768;
 --
 SN  Rha
-ID  source of Rhamnose
+ID  Source of Rhamnose
 RQ  1
 EV  GenProp0183;
 --
 SN  galF
-ID  regulatory protein GalF
+ID  Regulatory protein GalF
 RQ  1
 EV  IPR005774; TIGR01105;
 --
 SN  gnd
-ID  clustered gnd enzyme
+ID  Clustered gnd enzyme
 RQ  0
 EV  IPR006113; TIGR00873;
 --
@@ -66,7 +66,7 @@ RQ  1
 EV  IPRXXXX; 2767;
 --
 SN  wzy
-ID  clustered wzy protein
+ID  Clustered wzy protein
 RQ  1
 EV  IPRXXXX; 2848;
 --

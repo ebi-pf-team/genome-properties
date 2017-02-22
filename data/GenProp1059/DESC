@@ -1,7 +1,7 @@
 AC  GenProp1059
-DE  coronavirus, version 1
+DE  Coronavirus, version 1
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This Genome Property unites models for proteins for some but not all
 CC  types of coronavirus. This virus encodes a large polyprotein, over 6000
@@ -11,6 +11,6 @@ CC  HMMs.
 **  half done for set of proteins from (avian) Infectious bronchitis virus
 --
 SN  NSP7
-ID  replicase polyprotein NSP7 region
+ID  Replicase polyprotein NSP7 region
 RQ  1
 //

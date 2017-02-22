@@ -1,17 +1,17 @@
 AC  GenProp0323
-DE  addiction module, ParE class
+DE  Addiction module, ParE class
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  (pending description)
 --
 SN  A-Par
-ID  antidote TIGR02606
+ID  Antidote TIGR02606
 RQ  1
 EV  IPR022789; TIGR02606; sufficient;
 --
 SN  K-ParE
-ID  killer ParE - PF05016
+ID  Killer ParE - PF05016
 RQ  1
 EV  IPR007712; PF05016;
 //

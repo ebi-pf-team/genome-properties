@@ -1,7 +1,7 @@
 AC  GenProp0745
-DE  lipoyl-protein attachment
+DE  Lipoyl-protein attachment
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This property consists of two enzymes, lipoic acid synthetase and
 CC  lipoate-protein ligase. Lipoamide-containing proteins include the
@@ -11,12 +11,12 @@ CC  glycine cleavage system and 2-osoacid dehydrogenase complexes.
 **  public.
 --
 SN  lipA
-ID  lipoic acid synthetase
+ID  Lipoic acid synthetase
 RQ  1
 EV  IPR003698; TIGR00510;
 --
 SN  lipB
-ID  lipoyltransferase
+ID  Lipoyltransferase
 RQ  1
 EV  IPR000544; TIGR00214;
 //

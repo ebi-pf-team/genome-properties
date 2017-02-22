@@ -1,7 +1,7 @@
 AC  GenProp0957
-DE  protein sorting system, SipW class
+DE  Protein sorting system, SipW class
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  9694797
@@ -29,7 +29,7 @@ CC  appears to recognize a cognate signal sequence variant, many instances
 CC  of which are detected by model TIGR04088.
 --
 SN  sort
-ID  signal peptidase, SipW class
+ID  Signal peptidase, SipW class
 RQ  1
 EV  IPR001733; TIGR02228;
 --

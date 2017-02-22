@@ -1,7 +1,7 @@
 AC  GenProp0899
-DE  nitrile hydratase
+DE  Nitrile hydratase
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  15096062
@@ -24,22 +24,22 @@ CC  protein, is found in a larger fraction of nitrile hydratase operons.
 **  universal - possibly may be used to tell Fe from Co.
 --
 SN  nitCXCC
-ID  nitrile hydratase activator, CobW family
+ID  Nitrile hydratase activator, CobW family
 RQ  0
 EV  IPRXXXX; PF02492;
 --
 SN  nit_acc
-ID  nitrile hydratase accessory protein
+ID  Nitrile hydratase accessory protein
 RQ  0
 EV  IPR023808; TIGR03889;
 --
 SN  nit_alp
-ID  nitrile hydratase, alpha subunit
+ID  Nitrile hydratase, alpha subunit
 RQ  1
 EV  IPR018141; TIGR01323;
 --
 SN  nit_bet
-ID  nitrile hydratase, beta subunit
+ID  Nitrile hydratase, beta subunit
 RQ  1
 EV  IPR003168; TIGR03888;
 //

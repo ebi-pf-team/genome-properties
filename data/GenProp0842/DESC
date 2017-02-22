@@ -1,7 +1,7 @@
 AC  GenProp0842
 DE  2-oxoacid:acceptor oxidoreductase, 2 subunit form
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This form of 2-oxoacid:acceptor oxidoreductase  has been shown to
 CC  possess 2-oxoglutarate oxidoreductase (succinyl-CoA forming) activity
@@ -9,7 +9,7 @@ CC  in a number of species and likely replaces the lipoate-based E1/E2/E3
 CC  system in many organisms lacking it.
 --
 SN  acceptor
-ID  ferredoxin, or other gene clustered electron acceptor
+ID  Ferredoxin, or other gene clustered electron acceptor
 RQ  0
 EV  IPRXXXX; PF00037;
 EV  IPRXXXX; PF00210;

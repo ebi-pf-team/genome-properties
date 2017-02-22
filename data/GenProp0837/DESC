@@ -1,7 +1,7 @@
 AC  GenProp0837
 DE  1-acylglycerol-3-phosphate biosynthesis, PlsX/Y pathway
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  17645809
@@ -17,13 +17,13 @@ CC  protein), and PlsY (YgiH, YneS) transfers the acyl group to
 CC  glycerol-3-phosphate.
 --
 SN  plsX
-ID  plsX
+ID  PlsX
 RQ  1
 EV  IPR012281; TIGR00182; sufficient;
 TG  GO:0006654;
 --
 SN  plsY
-ID  acylphosphate:glycerol 3-phosphate acyltransferase
+ID  Acylphosphate:glycerol 3-phosphate acyltransferase
 RQ  1
 EV  IPR003811; TIGR00023;
 TG  GO:0006654;

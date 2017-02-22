@@ -1,7 +1,7 @@
 AC  GenProp0289
-DE  class I (aerobic) ribonucleotide reductase
+DE  Class I (aerobic) ribonucleotide reductase
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  12714050
@@ -47,7 +47,7 @@ CC  some way.
 **  -- but might be profitable...
 --
 SN  NrdA/E
-ID  aerobic RNR, alpha (large) chain
+ID  Aerobic RNR, alpha (large) chain
 RQ  1
 EV  IPR013346; TIGR02506; sufficient;
 TG  GO:0009265;
@@ -55,7 +55,7 @@ EV  IPR013350; TIGR02510; sufficient;
 TG  GO:0009265;
 --
 SN  NrdB/F
-ID  aerobic RNR, beta (small) chain
+ID  Aerobic RNR, beta (small) chain
 RQ  1
 EV  IPR000358; PF00268; sufficient;
 TG  GO:0009265;
@@ -67,7 +67,7 @@ EV  IPR004465; TIGR00333; sufficient;
 TG  GO:0009265;
 --
 SN  redoxin
-ID  redoxin, ribonucleotide-reductase related
+ID  Redoxin, ribonucleotide-reductase related
 RQ  0
 EV  IPR011909; TIGR02194; sufficient;
 TG  GO:0009265;

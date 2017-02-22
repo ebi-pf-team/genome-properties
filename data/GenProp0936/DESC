@@ -1,7 +1,7 @@
 AC  GenProp0936
-DE  bacteriocin system, sporulation delay protein group
+DE  Bacteriocin system, sporulation delay protein group
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  19775247
@@ -19,19 +19,19 @@ CC  to such systems by phylogenetic profiling mechanisms and are not
 CC  modeled within this Genome Property.
 --
 SN  SdpA
-ID  antimicrobial peptide system protein, SdpA family
+ID  Antimicrobial peptide system protein, SdpA family
 RQ  1
 EV  IPR023902; TIGR04034;
 TG  GO:0030152;
 --
 SN  SdpB
-ID  antimicrobial peptide system protein, SdpB family
+ID  Antimicrobial peptide system protein, SdpB family
 RQ  1
 EV  IPR023894; TIGR04033;
 TG  GO:0030152;
 --
 SN  SdpC
-ID  antimicrobial peptide, SdpC family
+ID  Antimicrobial peptide, SdpC family
 RQ  1
 EV  IPR023888; TIGR04032;
 TG  GO:0030152;

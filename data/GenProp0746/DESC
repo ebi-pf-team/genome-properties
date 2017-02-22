@@ -1,7 +1,7 @@
 AC  GenProp0746
-DE  translation termination, bacterial
+DE  Translation termination, bacterial
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This Genome Property describes the basic set of bacterial transcription
 CC  termination factors. Release factor 1 (RF-1, PrfA) should be both
@@ -23,28 +23,28 @@ CC  bacterial termination factors; see instead GenProp0665.
 **  Therefore, a rule based on HMM-CLUST will be necessary.
 --
 SN  hemK
-ID  release factor methylase
+ID  Release factor methylase
 RQ  1
 EV  IPR019874; TIGR03534;
 EV  IPRXXXX; TIGR00536;
 --
 SN  prfA
-ID  peptide chain release factor 1
+ID  Peptide chain release factor 1
 RQ  1
 EV  IPR004373; TIGR00019;
 --
 SN  prfB
-ID  peptide chain release factor 2
+ID  Peptide chain release factor 2
 RQ  1
 EV  IPR004374; TIGR00020;
 --
 SN  prfC
-ID  peptide chain release factor 3
+ID  Peptide chain release factor 3
 RQ  1
 EV  IPR004548; TIGR00503;
 --
 SN  recyc
-ID  ribosome recycling factor
+ID  Ribosome recycling factor
 RQ  1
 EV  IPR002661; TIGR00496;
 //

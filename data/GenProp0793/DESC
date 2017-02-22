@@ -1,7 +1,7 @@
 AC  GenProp0793
 DE  CMP-N-acetylneuraminate biosynthesis from UDP-N-acetylglucosamine
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  15629947
@@ -47,14 +47,14 @@ EV  IPR020004; TIGR03568;
 TG  GO:0006054;
 --
 SN  NeuD
-ID  sialic acid O-acetyltransferase NeuD
-DN  sialic acid O-acetyltransferase NeuD
+ID  Sialic acid O-acetyltransferase NeuD
+DN  Sialic acid O-acetyltransferase NeuD
 RQ  0
 EV  IPRXXXX; TIGR03570;
 TG  GO:0006054;
 --
 SN  UGlcNAc
-ID  source of UDP-N-acetyl-D-glucosamine
+ID  Source of UDP-N-acetyl-D-glucosamine
 RQ  0
 EV  GenProp0750;
 TG  GO:0006054;

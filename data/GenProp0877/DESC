@@ -1,7 +1,7 @@
 AC  GenProp0877
-DE  flagellar motor stator complex
+DE  Flagellar motor stator complex
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  15629949
@@ -18,13 +18,13 @@ CC  several stators are associated with each motor, each generating torque
 CC  independently.
 --
 SN  MotA
-ID  flagellar motor stator protein MotA
+ID  Flagellar motor stator protein MotA
 RQ  1
 EV  IPRXXXX; PF01618;
 EV  IPR022522; TIGR03818;
 --
 SN  MotB
-ID  flagellar motor stator protein MotB
+ID  Flagellar motor stator protein MotB
 RQ  1
 EV  IPRXXXX; PF00691;
 //

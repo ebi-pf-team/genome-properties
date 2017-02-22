@@ -1,30 +1,30 @@
 AC  GenProp0206
-DE  bacterial cell division septum system
+DE  Bacterial cell division septum system
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  in progress - various Fts proteins
 **  in progress
 --
 SN  FtsA
-ID  actin-like septal ring protein FtsA
+ID  Actin-like septal ring protein FtsA
 RQ  1
 EV  IPR020823; TIGR01174; sufficient;
 --
 SN  FtsL
-ID  cell division protein FtsL
-DN  cell division protein FtsL
+ID  Cell division protein FtsL
+DN  Cell division protein FtsL
 RQ  1
 EV  IPR011922; PF04999; sufficient;
 EV  IPR011922; TIGR02209; sufficient;
 --
 SN  FtsZ
-ID  tubulin-like GTPase FtsZ
+ID  Tubulin-like GTPase FtsZ
 RQ  1
 EV  IPR000158; TIGR00065; sufficient;
 --
 SN  ftsN
-ID  cell division protein FtsN
+ID  Cell division protein FtsN
 RQ  0
 EV  IPR011930; TIGR02223; sufficient;
 --
@@ -34,8 +34,8 @@ RQ  1
 EV  IPR005548; PF03799; sufficient;
 --
 SN  zipA
-ID  cell division protein ZipA
-DN  cell division protein ZipA
+ID  Cell division protein ZipA
+DN  Cell division protein ZipA
 RQ  1
 EV  IPR011919; TIGR02205; sufficient;
 //

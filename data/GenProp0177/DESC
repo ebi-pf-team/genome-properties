@@ -1,7 +1,7 @@
 AC  GenProp0177
-DE  nickel-dependent hydrogenase
+DE  Nickel-dependent hydrogenase
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  2
 CC  rough-in, NOT PUBLIC
 --
@@ -12,8 +12,8 @@ RQ  0
 EV  IPR000516; TIGR02125; sufficient;
 --
 SN  Ni_trans
-ID  high-affinity nickel-transport protein
-DN  high-affinity nickel-transport protein
+ID  High-affinity nickel-transport protein
+DN  High-affinity nickel-transport protein
 RQ  0
 EV  IPR004688; TIGR00802; sufficient;
 --
@@ -24,13 +24,13 @@ EV  IPR000688; PF01155; sufficient;
 --
 SN  hypB
 ID  HypB hydrogenase accessory protein
-DN  hydrogenase accessory protein HypB
+DN  Hydrogenase accessory protein HypB
 RQ  1
 EV  IPR004392; TIGR00073; sufficient;
 --
 SN  hypC
 ID  HypC hydrogenase  assembly chaperone
-DN  hydrogenase assembly chaperone HypC/HupF
+DN  Hydrogenase assembly chaperone HypC/HupF
 RQ  1
 EV  IPR001109; TIGR00074; sufficient;
 --
@@ -47,25 +47,25 @@ EV  IPR011854; TIGR02124; sufficient;
 --
 SN  hypF
 ID  HypF hydrogenase maturation protein
-DN  hydrogenase maturation protein HypF
+DN  Hydrogenase maturation protein HypF
 RQ  1
 EV  IPR004421; TIGR00143; sufficient;
 --
 SN  lg_sub
-ID  large subunit, [Ni/Fe] hydrogenase
-DN  ferredoxin hydrogenase, large subunit (EC 1.12.7.2)
+ID  Large subunit, [Ni/Fe] hydrogenase
+DN  Ferredoxin hydrogenase, large subunit (EC 1.12.7.2)
 RQ  1
 EV  IPR001501; PF00374; sufficient;
 --
 SN  prtase
-ID  maturation protease, [Ni/Fe] hydrogenase
-DN  hydrogenase maturation protease HycI
+ID  Maturation protease, [Ni/Fe] hydrogenase
+DN  Hydrogenase maturation protease HycI
 RQ  1
 EV  IPR000671; TIGR00072; sufficient;
 --
 SN  sm_sub
-ID  small subunit, [Ni/Fe] hydrogenase
-DN  ferredoxin hydrogenase, small subunit (EC 1.12.7.2)
+ID  Small subunit, [Ni/Fe] hydrogenase
+DN  Ferredoxin hydrogenase, small subunit (EC 1.12.7.2)
 RQ  1
 EV  IPR001821; TIGR00391; sufficient;
 //

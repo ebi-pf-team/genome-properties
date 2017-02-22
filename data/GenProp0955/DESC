@@ -1,7 +1,7 @@
 AC  GenProp0955
-DE  modified peptide/radical SAM maturase system, YydFG family
+DE  Modified peptide/radical SAM maturase system, YydFG family
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  17921301
@@ -18,12 +18,12 @@ CC  from Bacillus subtilis and radical SAM enzymes similar to YydG.
 **  rSAM.
 --
 SN  YydF
-ID  exported signaling peptide, YydF/SAG_2028 family
+ID  Exported signaling peptide, YydF/SAG_2028 family
 RQ  1
 EV  IPR023898; TIGR04077;
 --
 SN  YydG
-ID  peptide modification radical SAM enzyme, YydG family
+ID  Peptide modification radical SAM enzyme, YydG family
 RQ  1
 EV  IPR023904; TIGR04078;
 //

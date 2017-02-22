@@ -1,25 +1,25 @@
 AC  GenProp0613
-DE  cytochrome c reductase
+DE  Cytochrome c reductase
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  1
 CC  The component of the oxidative phosphorylation electron transfer chain
 CC  responsible for transferring electrons from quinones to cytochrome c.
 --
 SN  Fe-S
-ID  iron-sulfur cluster subunit
+ID  Iron-sulfur cluster subunit
 RQ  1
 EV  IPR006317; TIGR01416; sufficient;
 EV  IPR017941; PF00355; sufficient;
 --
 SN  cyt_b
-ID  cytochrome b subunit
+ID  Cytochrome b subunit
 RQ  1
 EV  IPR005798; PF00032; sufficient;
 EV  IPR005797; PF00033; sufficient;
 --
 SN  cyt_c
-ID  cytochrome c subunit
+ID  Cytochrome c subunit
 RQ  1
 EV  IPR002326; PF02167; sufficient;
 EV  IPR009056; PF00034; sufficient;

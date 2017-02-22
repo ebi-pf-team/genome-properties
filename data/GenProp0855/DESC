@@ -1,7 +1,7 @@
 AC  GenProp0855
-DE  integrating conjugative element, PFGI-1 class
+DE  Integrating conjugative element, PFGI-1 class
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  19144133
@@ -23,102 +23,102 @@ CC  number of component families that occur only in this context and can
 CC  serve as a marker for the system.
 --
 SN  PFL4666
-ID  integrating conjugative element ParB-related protein
+ID  Integrating conjugative element ParB-related protein
 RQ  1
 EV  IPR022304; TIGR03764;
 --
 SN  PFL4669
-ID  integrating conjugative element protein, PFL_4669 family
+ID  Integrating conjugative element protein, PFL_4669 family
 RQ  1
 EV  IPR014996; TIGR03761;
 --
 SN  PFL4675
-ID  integrating conjugative element protein PilL, PFGI-1 class
+ID  Integrating conjugative element protein PilL, PFGI-1 class
 RQ  1
 EV  IPR022260; TIGR03748;
 --
 SN  PFL4693
-ID  integrating conjugative element protein PFL4693
+ID  Integrating conjugative element protein PFL4693
 RQ  1
 EV  IPR022293; TIGR03759;
 --
 SN  PFL4695
-ID  integrating conjugative element protein, PFL4695 family
+ID  Integrating conjugative element protein, PFL4695 family
 RQ  1
 EV  IPR021300; TIGR03765;
 --
 SN  PFL4696
-ID  integrating conjugative element TraD protein, PFGI-1 class
+ID  Integrating conjugative element TraD protein, PFGI-1 class
 RQ  1
 EV  IPR022503; TIGR03754;
 --
 SN  PFL4697
-ID  integrating conjugative element membrane protein PFL4697
+ID  Integrating conjugative element membrane protein PFL4697
 RQ  1
 EV  IPR022266; TIGR03747;
 --
 SN  PFL4700
-ID  integrating conjugative element protein, RAQPRD family
+ID  Integrating conjugative element protein, RAQPRD family
 RQ  1
 EV  IPR019110; TIGR01690;
 --
 SN  PFL4701
-ID  integrating conjugative element protein membrane PFL4701
+ID  Integrating conjugative element protein membrane PFL4701
 RQ  1
 EV  IPR021676; TIGR03758;
 --
 SN  PFL4702
-ID  integrating conjugative element membrane protein PFL4702
+ID  Integrating conjugative element membrane protein PFL4702
 RQ  1
 EV  IPR021356; TIGR03745;
 --
 SN  PFL4703
-ID  integrating conjugative element protein, PFL4703 family
+ID  Integrating conjugative element protein, PFL4703 family
 RQ  1
 EV  IPR021548; TIGR03746;
 --
 SN  PFL4704
-ID  integrating conjugative element protein, PFL4704 family
+ID  Integrating conjugative element protein, PFL4704 family
 RQ  1
 EV  IPR021844; TIGR03749;
 --
 SN  PFL4705
-ID  integrating conjugative element protein, PFL4705 family
+ID  Integrating conjugative element protein, PFL4705 family
 RQ  1
 EV  IPR021207; TIGR03752;
 --
 SN  PFL4706
-ID  conjugative transfer ATPase, PFL_4706 family
+ID  Conjugative transfer ATPase, PFL_4706 family
 RQ  1
 EV  IPR022303; TIGR03744;
 --
 SN  PFL4709
-ID  integrating conjugative element protein PFL4709
+ID  Integrating conjugative element protein PFL4709
 RQ  1
 EV  IPR011090; TIGR03757;
 --
 SN  PFL4710
-ID  integrating conjugative element protein, PFL4710 family
+ID  Integrating conjugative element protein, PFL4710 family
 RQ  1
 EV  IPR026331; TIGR03756;
 --
 SN  PFL4711
-ID  integrating conjugative element protein, PFL4711 family
+ID  Integrating conjugative element protein, PFL4711 family
 RQ  1
 EV  IPR021204; TIGR03755;
 --
 SN  PFL4751
-ID  integrating conjugative element relaxase, PFGI-1 class
+ID  Integrating conjugative element relaxase, PFGI-1 class
 RQ  1
 EV  IPR022391; TIGR03760;
 --
 SN  p47202.1
-ID  conjugative transfer region protein, TIGR03750
+ID  Conjugative transfer region protein, TIGR03750
 RQ  0
 EV  IPR021877; TIGR03750;
 --
 SN  p47205.1
-ID  conjugative transfer region protein, TIGR03751 family
+ID  Conjugative transfer region protein, TIGR03751 family
 RQ  0
 EV  IPR022262; TIGR03751;
 //

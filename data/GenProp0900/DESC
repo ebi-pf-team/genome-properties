@@ -1,7 +1,7 @@
 AC  GenProp0900
-DE  bacteriocin, lantibiotic family
+DE  Bacteriocin, lantibiotic family
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This model is being roughed in. Lantibiotics are ribosomoally
 CC  translated peptides with lanthionine bridges. Dehydroalanine is a
@@ -23,7 +23,7 @@ RQ  1
 EV  IPR007822; PF05147;
 --
 SN  protox
-ID  lantibiotic protoxin
+ID  Lantibiotic protoxin
 RQ  1
 EV  IPR007682; PF04604;
 EV  IPR006079; TIGR03731;

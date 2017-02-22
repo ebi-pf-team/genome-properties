@@ -1,7 +1,7 @@
 AC  GenProp0696
-DE  xanthine utilization as a source of guanine-monophosphate (GMP)
+DE  Xanthine utilization as a source of guanine-monophosphate (GMP)
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  xanthine may be imported into the cell and converted to GMP by this
 CC  route.
@@ -17,12 +17,12 @@ RQ  1
 EV  IPR004739; TIGR00888; sufficient;
 --
 SN  X-in
-ID  xanthine import
+ID  Xanthine import
 RQ  1
 EV  IPR017588; TIGR03173; sufficient;
 --
 SN  XPRTase
-ID  xanthine phosphoribosyltransferase
+ID  Xanthine phosphoribosyltransferase
 RQ  1
 EV  IPR010079; TIGR01744; sufficient;
 //

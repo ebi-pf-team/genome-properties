@@ -1,7 +1,7 @@
 AC  GenProp0220
-DE  uroporhyrinogen III biosynthesis from 5-aminolevulinate
+DE  Uroporhyrinogen III biosynthesis from 5-aminolevulinate
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This property describes the three step pathway that takes
 CC  5-aminolevulinate and converts it into uroporhyrinogen III, a compund
@@ -11,21 +11,21 @@ CC  of chlorophyll.
 --
 SN  hemB
 ID  Delta-aminolevulinic acid dehydratase
-DN  delta-aminolevulinic acid dehydratase
+DN  Delta-aminolevulinic acid dehydratase
 RQ  1
 EV  IPR001731; PF00490; sufficient;
 TG  GO:0006779;
 --
 SN  hemC
-ID  porphobilinogen deaminase
-DN  porphobilinogen deaminase
+ID  Porphobilinogen deaminase
+DN  Porphobilinogen deaminase
 RQ  1
 EV  IPR000860; TIGR00212; sufficient;
 TG  GO:0006779;
 --
 SN  hemD
-ID  uroporphyrinogen-III synthase
-DN  uroporphyrinogen-III synthase
+ID  Uroporphyrinogen-III synthase
+DN  Uroporphyrinogen-III synthase
 RQ  1
 EV  IPR003754; PF02602; sufficient;
 TG  GO:0006779;

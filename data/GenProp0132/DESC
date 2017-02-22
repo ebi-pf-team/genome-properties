@@ -1,7 +1,7 @@
 AC  GenProp0132
-DE  transcription termination/antitermination Nus factors
+DE  Transcription termination/antitermination Nus factors
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  1
 RN  [1]
 RM  16946247
@@ -22,8 +22,8 @@ CC  action, a process called anti-termination [1]. See GenProp0812 for
 CC  rho-dependent transcription termination.
 --
 SN  1
-ID  transcription termination factor NusA
-DN  transcription termination factor NusA
+ID  Transcription termination factor NusA
+DN  Transcription termination factor NusA
 RQ  1
 EV  IPR010213; TIGR01953; sufficient;
 TG  GO:0006353;
@@ -35,22 +35,22 @@ RQ  0
 EV  IPR010214; TIGR01954; sufficient;
 --
 SN  3
-ID  transcription termination-antitermination factor NusB
-DN  transcription antitermination factor NusB
+ID  Transcription termination-antitermination factor NusB
+DN  Transcription antitermination factor NusB
 RQ  1
 EV  IPR011605; TIGR01951; sufficient;
 TG  GO:0006353;
 --
 SN  4
-ID  transcription termination-antitermination factor NusG
-DN  transcription antitermination protein NusG
+ID  Transcription termination-antitermination factor NusG
+DN  Transcription antitermination protein NusG
 RQ  1
 EV  IPR001062; TIGR00922; sufficient;
 TG  GO:0006353;
 EV  IPR010216; TIGR01956; sufficient;
 --
 SN  5
-ID  ribosomal protein S10, rpsJ/nusE
+ID  Ribosomal protein S10, rpsJ/nusE
 RQ  1
 EV  IPR001848; TIGR01049; sufficient;
 TG  GO:0006353;

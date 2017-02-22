@@ -1,7 +1,7 @@
 AC  GenProp0755
-DE  pyruvate conversion to propionate, anaerobic, FAD/NAD-regenerating
+DE  Pyruvate conversion to propionate, anaerobic, FAD/NAD-regenerating
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 DC  Pyruvate fermentation to propionate I
 DR  MetaCyc; P108-PWY;
@@ -20,19 +20,19 @@ CC  components of this pathway are also elements of the TCA cycle running
 CC  in reverse (malate DH, fumarate hydratase, succinate dehydrogenase).
 --
 SN  FH
-ID  fumarate hydratase (4.2.1.2)
+ID  Fumarate hydratase (4.2.1.2)
 RQ  1
 EV  IPR005677; TIGR00979;
 EV  IPR004647; PF05683;
 EV  IPR004646; PF05681;
 --
 SN  FRD
-ID  fumarate reductase complex
+ID  Fumarate reductase complex
 RQ  1
 EV  GenProp0756;
 --
 SN  MDH
-ID  malate dehydrogenase (1.1.1.37)
+ID  Malate dehydrogenase (1.1.1.37)
 RQ  1
 EV  IPR010945; TIGR01759;
 EV  IPR011274; TIGR01758;
@@ -40,27 +40,27 @@ EV  IPR011275; TIGR01763;
 EV  IPR010097; TIGR01772;
 --
 SN  MMC-DC
-ID  methylmalonyl-CoA decarboxylase
+ID  Methylmalonyl-CoA decarboxylase
 RQ  1
 --
 SN  MMCE
-ID  methylmalonyl-CoA epimerase (5.1.99.1)
+ID  Methylmalonyl-CoA epimerase (5.1.99.1)
 RQ  0
 EV  IPR017515; TIGR03081;
 --
 SN  MMCM
-ID  methylmalonyl-CoA mutase (5.4.99.2)
+ID  Methylmalonyl-CoA mutase (5.4.99.2)
 RQ  1
 EV  IPR006098; TIGR00641;
 EV  IPR006159; TIGR00640;
 EV  IPR004608; TIGR00642;
 --
 SN  PC
-ID  pyruvate carboxylase
+ID  Pyruvate carboxylase
 RQ  1
 --
 SN  PCSCT
-ID  propionyl CoA:succinate CoA transferase (2.8.3.-)
+ID  Propionyl CoA:succinate CoA transferase (2.8.3.-)
 RQ  1
 EV  IPR017821; TIGR03458;
 //

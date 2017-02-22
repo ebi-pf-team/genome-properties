@@ -1,7 +1,7 @@
 AC  GenProp0688
-DE  urate catabolism to allantoin
+DE  Urate catabolism to allantoin
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  16787778
@@ -34,11 +34,11 @@ CC  found.  An OHCU carboxylase has been discovered in Mus musculus which
 CC  does have homologs in prokaryotes.
 --
 SN  hyp_uox
-ID  hypothetical urate oxidase non-orthologous displacements
+ID  Hypothetical urate oxidase non-orthologous displacements
 RQ  0
 --
 SN  uox
-ID  urate oxidase (uricase, 1.7.3.3)
+ID  Urate oxidase (uricase, 1.7.3.3)
 RQ  1
 EV  IPR002042; PF01014; sufficient;
 TG  GO:0019628;
@@ -52,13 +52,13 @@ EV  IPR017595; TIGR03180; sufficient;
 TG  GO:0019628;
 --
 SN  uraH
-ID  hydroxyisourate hydrolase (3.5.2.17)
+ID  Hydroxyisourate hydrolase (3.5.2.17)
 RQ  1
 EV  IPR014306; TIGR02962; sufficient;
 TG  GO:0019628;
 --
 SN  uraX
-ID  uraD N-terminal domain/upstream protein
+ID  UraD N-terminal domain/upstream protein
 RQ  0
 EV  IPR017625; TIGR03212; sufficient;
 TG  GO:0019628;

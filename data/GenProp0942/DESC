@@ -1,7 +1,7 @@
 AC  GenProp0942
-DE  alkane biosynthesis, cyanobacterial
+DE  Alkane biosynthesis, cyanobacterial
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  20671186
@@ -22,13 +22,13 @@ CC  decarbonylase is distantly related to a family of di-iron-containing
 CC  reductases including ribonucleotide reductase.
 --
 SN  AcACP_R
-ID  acyl-ACP reductase
+ID  Acyl-ACP reductase
 RQ  1
 EV  IPR016836; TIGR04058;
 TG  GO:0043447;
 --
 SN  Al_DeCO
-ID  aldehyde decarbonylase
+ID  Aldehyde decarbonylase
 RQ  1
 EV  IPR022612; TIGR04059;
 TG  GO:0043447;

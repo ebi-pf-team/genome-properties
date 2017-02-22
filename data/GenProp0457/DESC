@@ -1,7 +1,7 @@
 AC  GenProp0457
-DE  rhamnose catabolism
+DE  Rhamnose catabolism
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  1
 RN  [1]
 RM  15576793
@@ -73,7 +73,7 @@ CC  appear to handle the import and cleavage of rhamnose-containing
 CC  oligosaccharides.
 --
 SN  ADH
-ID  clustered alcohol/aldehyde dehydrogenases
+ID  Clustered alcohol/aldehyde dehydrogenases
 RQ  0
 EV  IPRXXXX; PF00465;
 TG  GO:0019301;
@@ -83,7 +83,7 @@ EV  IPRXXXX; PF00106;
 TG  GO:0019301;
 --
 SN  aldolase
-ID  rhamnulose-1-P aldolase (RhaD)
+ID  Rhamnulose-1-P aldolase (RhaD)
 RQ  1
 EV  IPR013447; TIGR02624; sufficient;
 TG  GO:0019301;
@@ -91,7 +91,7 @@ EV  IPR013454; TIGR02632; sufficient;
 TG  GO:0019301;
 --
 SN  epimera
-ID  rhamnose epimerase
+ID  Rhamnose epimerase
 RQ  0
 EV  IPRXXXX; PF05336;
 TG  GO:0019301;
@@ -111,7 +111,7 @@ EV  IPR013457; TIGR02635; sufficient;
 TG  GO:0019301;
 --
 SN  kinase
-ID  rhamnulokinase (RhaB/RhuK)
+ID  Rhamnulokinase (RhaB/RhuK)
 RQ  1
 EV  IPRXXXX; PF00370;
 TG  GO:0019301;
@@ -119,7 +119,7 @@ EV  IPR013449; TIGR02627; sufficient;
 TG  GO:0019301;
 --
 SN  regulat
-ID  clustered regulatory components
+ID  Clustered regulatory components
 RQ  0
 EV  IPRXXXX; PF00165;
 TG  GO:0043463;
@@ -133,7 +133,7 @@ EV  IPRXXXX; PF00356;
 TG  GO:0043463;
 --
 SN  transpor
-ID  rhamnose transporters (RhaSTPQ)
+ID  Rhamnose transporters (RhaSTPQ)
 RQ  1
 EV  IPRXXXX; PF07690;
 TG  GO:0019301;

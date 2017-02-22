@@ -1,7 +1,7 @@
 AC  GenProp0935
-DE  uptake/catabolism system KPN_01854/KPN_01858
+DE  Uptake/catabolism system KPN_01854/KPN_01858
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This Genome Property describes an uncharacterized system with an ABC
 CC  transporter both co-clustered and phylogenetically co-distributed
@@ -15,12 +15,12 @@ CC  families, but these additional markers are not yet built.
 **  subfamily of LLM (TIGR04028).
 --
 SN  uti_Cter
-ID  alkylhydroperoxidase domain protein, Avi_7169 family
+ID  Alkylhydroperoxidase domain protein, Avi_7169 family
 RQ  1
 EV  IPR023923; TIGR04030;
 --
 SN  uti_FMN
-ID  utilization system luciferase-like monooxygenase
+ID  Utilization system luciferase-like monooxygenase
 RQ  1
 EV  IPR024003; TIGR04027;
 --
@@ -30,7 +30,7 @@ RQ  1
 EV  IPR023982; TIGR04029;
 --
 SN  uti_SBP
-ID  utilization system ABC transporter substrate binding protein
+ID  Utilization system ABC transporter substrate binding protein
 RQ  1
 EV  IPR023920; TIGR04028;
 //

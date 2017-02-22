@@ -1,7 +1,7 @@
 AC  GenProp0543
 DE  TonB-dependent transport
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  The components of a TonB-dependent transport system include ExbB, ExbD,
 CC  and TonB, respectively homologous to TolQ, TolR, and TolA of related
@@ -21,24 +21,24 @@ RQ  1
 EV  IPRXXXX; TIGR01352;
 --
 SN  barrel
-ID  barrel domain, tonB-dependent receptor
+ID  Barrel domain, tonB-dependent receptor
 RQ  0
 EV  IPR000531; PF00593; sufficient;
 --
 SN  exbB
-ID  tonB-system energizer ExbB
+ID  TonB-system energizer ExbB
 RQ  1
 EV  IPR014164; TIGR02797; sufficient;
 EV  IPR014172; TIGR02805; sufficient;
 --
 SN  exbD
-ID  tonB-system energizer ExbD
+ID  TonB-system energizer ExbD
 RQ  1
 EV  IPR014170; TIGR02803; sufficient;
 EV  IPR014171; TIGR02804; sufficient;
 --
 SN  plug
-ID  plug domain, tonB-dependent receptor
+ID  Plug domain, tonB-dependent receptor
 RQ  0
 EV  IPR012910; PF07715; sufficient;
 //

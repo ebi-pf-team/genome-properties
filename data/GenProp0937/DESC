@@ -1,7 +1,7 @@
 AC  GenProp0937
-DE  cofactor-coupled enzyme system, CE1758/CE1759 type
+DE  Cofactor-coupled enzyme system, CE1758/CE1759 type
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This system describes a two-enzyme system that at least occasionally
 CC  occurs as an enzyme pair. TIGR04036 describes a subset of the

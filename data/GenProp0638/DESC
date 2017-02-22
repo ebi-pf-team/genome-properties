@@ -1,7 +1,7 @@
 AC  GenProp0638
-DE  trimethylamine N-oxide reductase system
+DE  Trimethylamine N-oxide reductase system
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  11562502
@@ -14,7 +14,7 @@ CC  For now, TorA, TorC, chaperone TorD.
 **  equivalog.
 --
 SN  TorA
-ID  trimethylamine-N-oxide reductase TorA
+ID  Trimethylamine-N-oxide reductase TorA
 RQ  1
 EV  IPR011887; TIGR02164; sufficient;
 --
@@ -29,21 +29,21 @@ RQ  1
 EV  IPRXXXX; PF06192;
 --
 SN  TorE
-ID  membrane protein TorE
+ID  Membrane protein TorE
 RQ  0
 EV  IPR014316; TIGR02972; sufficient;
 --
 SN  TorR
-ID  response regulator TorR
+ID  Response regulator TorR
 RQ  1
 --
 SN  TorS
-ID  sensor histidine kinase TorS
+ID  Sensor histidine kinase TorS
 RQ  1
 EV  IPR014302; TIGR02956; sufficient;
 --
 SN  TorT
-ID  periplasmic protein TorT
+ID  Periplasmic protein TorT
 RQ  1
 EV  IPR014301; TIGR02955; sufficient;
 //

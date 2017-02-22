@@ -1,7 +1,7 @@
 AC  GenProp0159
-DE  threonine biosynthesis from aspartate semialdehyde
+DE  Threonine biosynthesis from aspartate semialdehyde
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 DC  Threonine Biosynthesis
 DR  IUBMB; AminoAcid; Thr;
@@ -15,15 +15,15 @@ CC  is a branchpoint for the biosynthesis of methionine.  Threonine itself
 CC  is utilized as a starting point for the biosynthesis of isoleucine.
 --
 SN  HS_DH
-ID  homoserine dehydrogenase
-DN  homoserine dehydrogenase (EC 1.1.1.3)
+ID  Homoserine dehydrogenase
+DN  Homoserine dehydrogenase (EC 1.1.1.3)
 RQ  1
 EV  IPR001342; PF00742; sufficient;
 TG  GO:0009088;
 --
 SN  HS_kin
-ID  homoserine kinase
-DN  homoserine kinase (EC 2.7.1.39)
+ID  Homoserine kinase
+DN  Homoserine kinase (EC 2.7.1.39)
 RQ  1
 EV  IPR000870; TIGR00191; sufficient;
 TG  GO:0009088;
@@ -33,13 +33,13 @@ EV  IPR011863; TIGR02137; sufficient;
 TG  GO:0009088;
 --
 SN  hyp_HSK
-ID  hypothetical NOD for homoserine kinase
+ID  Hypothetical NOD for homoserine kinase
 RQ  0
 EV  IPR023665; TIGR02535; sufficient;
 --
 SN  thr_syn
-ID  threonine synthase
-DN  threonine synthase (EC 4.2.3.1)
+ID  Threonine synthase
+DN  Threonine synthase (EC 4.2.3.1)
 RQ  1
 EV  IPR004450; TIGR00260; sufficient;
 TG  GO:0009088;

@@ -1,7 +1,7 @@
 AC  GenProp0986
-DE  protein sorting system, VPLPA-CTERM/exosortase D
+DE  Protein sorting system, VPLPA-CTERM/exosortase D
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 --
 SN  CTERM
@@ -10,7 +10,7 @@ RQ  1
 EV  IPR022472; TIGR03370;
 --
 SN  EXOSORT
-ID  exosortase, VPLPA-CTERM-specific
+ID  Exosortase, VPLPA-CTERM-specific
 RQ  1
 EV  IPR026491; TIGR04152;
 //

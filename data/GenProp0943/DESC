@@ -1,7 +1,7 @@
 AC  GenProp0943
-DE  pyruvate formate-lyase system
+DE  Pyruvate formate-lyase system
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  11444864
@@ -19,23 +19,23 @@ CC  pass formate but not water, and that belongs to the same transporter
 CC  family as nitrate transporter NirC.
 --
 SN  PFL
-ID  pyruvate formate-lyase
+ID  Pyruvate formate-lyase
 RQ  1
 EV  IPR010098; TIGR01774;
 EV  IPR005949; TIGR01255;
 --
 SN  PFLA
-ID  pyruvate formate-lyase activating enzyme
+ID  Pyruvate formate-lyase activating enzyme
 RQ  1
 EV  IPR012838; TIGR02493;
 --
 SN  PF_FocA
-ID  formate transporter
+ID  Formate transporter
 RQ  0
 EV  IPRXXXX; PF01226;
 --
 SN  spare
-ID  autonomous glycyl radical cofactor
+ID  Autonomous glycyl radical cofactor
 RQ  0
 EV  IPR011140; TIGR04365;
 //

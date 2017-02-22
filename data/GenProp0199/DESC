@@ -1,7 +1,7 @@
 AC  GenProp0199
-DE  lysine biosynthesis
+DE  Lysine biosynthesis
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 DC  Lysine biosynthesis
 DR  KEGG; map00300;
@@ -24,7 +24,7 @@ CC  prokaryotes.  The AAA pathway has a variant found in fungi and plants
 CC  which has not been observed in prokaryotes.
 --
 SN  1
-ID  lysine biosynthesis pathways
+ID  Lysine biosynthesis pathways
 RQ  1
 EV  GenProp0125;
 EV  GenProp0193;

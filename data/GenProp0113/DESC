@@ -1,7 +1,7 @@
 AC  GenProp0113
 DE  Cobyrinic acid diamide biosynthesis, aerobic pathway
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  10
 RN  [1]
 RM  12869542
@@ -148,8 +148,8 @@ EV  IPR006538; TIGR01651; sufficient;
 TG  GO:0019250;
 --
 SN  11bc?
-ID  proposed CobX subunit of cobaltochelatase
-DN  cobaltochelatase subunit (EC: 6.6.1.2)
+ID  Proposed CobX subunit of cobaltochelatase
+DN  Cobaltochelatase subunit (EC: 6.6.1.2)
 RQ  0
 EV  IPR012804; TIGR02442; sufficient;
 TG  GO:0019250;

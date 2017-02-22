@@ -1,7 +1,7 @@
 AC  GenProp0288
-DE  tetrahydromethanopterin S-methyltransferase complex
+DE  Tetrahydromethanopterin S-methyltransferase complex
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  10338124
@@ -18,7 +18,7 @@ CC  a two-electron reduction of the methyl-coenzyme M by the enzyme
 CC  methyl-coenzyme M reductase.
 --
 SN  MtrA
-ID  subunit A, cobalamin-containing
+ID  Subunit A, cobalamin-containing
 RQ  1
 EV  IPR005778; TIGR01111; sufficient;
 --
@@ -53,7 +53,7 @@ RQ  1
 EV  IPR005866; TIGR01149; sufficient;
 --
 SN  MtrH
-ID  subunit H, pterin:cobalamin transferase
+ID  Subunit H, pterin:cobalamin transferase
 RQ  1
 EV  IPR023467; TIGR01114; sufficient;
 //

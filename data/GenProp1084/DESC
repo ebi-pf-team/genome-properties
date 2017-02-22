@@ -1,7 +1,7 @@
 AC  GenProp1084
-DE  enduracididine biosynthesis
+DE  Enduracididine biosynthesis
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  17005978
@@ -24,19 +24,19 @@ CC  non-proteinogenic amino acid incorporated by some non-ribosomal peptide
 CC  synthases (NRPS).
 --
 SN  MppP
-ID  enduracididine biosynthesis enzyme MppP
+ID  Enduracididine biosynthesis enzyme MppP
 RQ  1
 EV  IPR031020; TIGR04462;
 TG  GO:0042398;
 --
 SN  MppQ
-ID  enduracididine biosynthesis enzyme MppQ
+ID  Enduracididine biosynthesis enzyme MppQ
 RQ  1
 EV  IPR031021; TIGR04461;
 TG  GO:0042398;
 --
 SN  MppR
-ID  enduracididine biosynthesis enzyme MppR
+ID  Enduracididine biosynthesis enzyme MppR
 RQ  1
 EV  IPR031022; TIGR04460;
 TG  GO:0042398;

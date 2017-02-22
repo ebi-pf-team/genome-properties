@@ -1,7 +1,7 @@
 AC  GenProp0780
-DE  xanthosine utilization system XapABR
+DE  Xanthosine utilization system XapABR
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  7559336
@@ -29,17 +29,17 @@ CC  conserved domain (see TIGR03510), and we name this small protein XapX.
 **  needs new HMM, project 2766.
 --
 SN  XapA
-ID  xanthosine phosphorylase
+ID  Xanthosine phosphorylase
 RQ  1
 EV  IPR010943; TIGR01699;
 --
 SN  XapB
-ID  xanthosine permease
+ID  Xanthosine permease
 RQ  1
 EV  IPRXXXX; 2219;
 --
 SN  XapR
-ID  xanthosine operon regulatory protein XapR
+ID  Xanthosine operon regulatory protein XapR
 RQ  1
 EV  IPRXXXX; 2244;
 --

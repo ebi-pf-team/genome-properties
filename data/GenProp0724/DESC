@@ -1,7 +1,7 @@
 AC  GenProp0724
-DE  phosphonoacetaldehyde biosynthesis from phosphoenolpyruvate
+DE  Phosphonoacetaldehyde biosynthesis from phosphoenolpyruvate
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  1337066
@@ -37,7 +37,7 @@ EV  IPR012698; TIGR02320; sufficient;
 TG  GO:0006796;
 --
 SN  AepY
-ID  phosphonopyruvate decarboxylase
+ID  Phosphonopyruvate decarboxylase
 RQ  1
 EV  IPR017684; TIGR03297; sufficient;
 TG  GO:0006796;
@@ -47,29 +47,29 @@ ID  2-aminophosphonate transaminase
 RQ  0
 --
 SN  EPS
-ID  proximal marker of exopolysaccharide biosynthesis
+ID  Proximal marker of exopolysaccharide biosynthesis
 RQ  0
 EV  IPR002797; PF01943;
 --
 SN  Lipid
-ID  proximal marker of lipid biosynthesis
+ID  Proximal marker of lipid biosynthesis
 RQ  0
 EV  IPRXXXX; PF01066;
 --
 SN  NatPrd
-ID  proximal marker of natural products biosynthesis
+ID  Proximal marker of natural products biosynthesis
 RQ  0
 EV  IPRXXXX; TIGR01787;
 --
 SN  nuc-tr
-ID  proximal nucleotidyltransferase domain
+ID  Proximal nucleotidyltransferase domain
 RQ  0
 EV  IPRXXXX; PF01467;
 EV  IPRXXXX; PF00483;
 EV  IPRXXXX; PF02348;
 --
 SN  oxido
-ID  proximal oxidoreductases/oxygenases
+ID  Proximal oxidoreductases/oxygenases
 RQ  0
 EV  IPRXXXX; PF00465;
 EV  IPR017656; TIGR03250;

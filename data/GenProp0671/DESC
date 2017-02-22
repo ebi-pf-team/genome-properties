@@ -1,7 +1,7 @@
 AC  GenProp0671
 DE  H4MPT-linked C1 transfer pathway
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  Tetrahydromethanopterin, or H4MPT, is a chemical analog of
 CC  tetrahydrofolate, or H4F. It acts as a C-1 carrier for interconversions
@@ -11,32 +11,32 @@ CC  only in methanogenic archaea.
 **  dephospho-H4MPT as a C1 carrier in addition (in ntme01).  
 --
 SN  fae
-ID  formaldehyde-activating enzyme
+ID  Formaldehyde-activating enzyme
 RQ  1
 EV  IPR014826; TIGR03126; sufficient;
 --
 SN  fhcD
-ID  formylmethanofuran--tetrahydromethanopterin N-formyltransferase
+ID  Formylmethanofuran--tetrahydromethanopterin N-formyltransferase
 RQ  1
 EV  IPR014053; TIGR03119; sufficient;
 --
 SN  fmfdh_A
-ID  formylmethanofuran dehydrogenase, subunit A
+ID  Formylmethanofuran dehydrogenase, subunit A
 RQ  1
 EV  IPR012027; TIGR03121; sufficient;
 --
 SN  fmfdh_B
-ID  formylmethanofuran dehydrogenase, subunit B
+ID  Formylmethanofuran dehydrogenase, subunit B
 RQ  1
 EV  IPR016457; TIGR03129; sufficient;
 --
 SN  fmfdh_C
-ID  formylmethanofuran dehydrogenase, subunit C
+ID  Formylmethanofuran dehydrogenase, subunit C
 RQ  1
 EV  IPR017550; TIGR03122; sufficient;
 --
 SN  mch
-ID  methenyltetrahydromethanopterin cyclohydrolase
+ID  Methenyltetrahydromethanopterin cyclohydrolase
 RQ  1
 EV  IPR003209; TIGR03120; sufficient;
 //

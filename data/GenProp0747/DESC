@@ -1,8 +1,8 @@
 AC  GenProp0747
-DE  adenosine monophosphate (AMP) biosynthesis from inosine monophosphate
+DE  Adenosine monophosphate (AMP) biosynthesis from inosine monophosphate
 DE  (IMP)
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This two-step pathway in purine biosynthesis begins with IMP (inosine
 CC  monophosphate), a branch point in purine de novo biosynthesis.
@@ -14,13 +14,13 @@ CC  step, but it also catalyzes the eighth step in IMP biosynthesis.
 **  with 4051
 --
 SN  purA
-ID  adenylosuccinate synthetase
+ID  Adenylosuccinate synthetase
 RQ  1
 EV  IPR001114; TIGR00184;
 TG  GO:0006167;
 --
 SN  purB
-ID  adenylosuccinate lyase
+ID  Adenylosuccinate lyase
 RQ  1
 EV  IPR004769; TIGR00928;
 TG  GO:0006167;

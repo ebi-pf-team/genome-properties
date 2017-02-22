@@ -1,7 +1,7 @@
 AC  GenProp0776
-DE  pyochelin biosynthesis
+DE  Pyochelin biosynthesis
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  15375116
@@ -15,37 +15,37 @@ CC  in making the antibiotic dihydroaeruginoate.
 **  pchC is editing enzyme PMID:15375116.
 --
 SN  pchA
-ID  isochorismate synthase, PchA family
+ID  Isochorismate synthase, PchA family
 RQ  1
 EV  IPRXXXX; 2191;
 TG  GO:0042864;
 --
 SN  pchB
-ID  isochorismate pyruvate-lyase, PchB family
+ID  Isochorismate pyruvate-lyase, PchB family
 RQ  1
 EV  IPRXXXX; 2192;
 TG  GO:0042864;
 --
 SN  pchC
-ID  pyochelin biosynthesis editing thioesterase PchC
+ID  Pyochelin biosynthesis editing thioesterase PchC
 RQ  1
 EV  IPRXXXX; 2194;
 TG  GO:0042864;
 --
 SN  pchD
-ID  salicyl-AMP ligase, PchD family
+ID  Salicyl-AMP ligase, PchD family
 RQ  1
 EV  IPRXXXX; 2188;
 TG  GO:0042864;
 --
 SN  pchE
-ID  pyochelin biosynthesis peptide synthase PchE
+ID  Pyochelin biosynthesis peptide synthase PchE
 RQ  1
 EV  IPRXXXX; 2196;
 TG  GO:0042864;
 --
 SN  pchF
-ID  pyochelin biosynthesis peptide synthase PchF
+ID  Pyochelin biosynthesis peptide synthase PchF
 RQ  1
 EV  IPRXXXX; 2195;
 TG  GO:0042864;

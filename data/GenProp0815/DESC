@@ -1,7 +1,7 @@
 AC  GenProp0815
-DE  archaeal-only core gene set
+DE  Archaeal-only core gene set
 TP  GUILD
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This Genome Property will represent what appear to be universal
 CC  single-copy archaeal genes recognized (if possible) by HMMs that hit
@@ -13,82 +13,82 @@ CC  relative archaeal abundance and genome completeness.
 **  genome completeness.
 --
 SN  aC04150
-ID  arCOG04150 KH-domain protein
+ID  ArCOG04150 KH-domain protein
 RQ  1
 EV  IPR019964; TIGR03665;
 --
 SN  aIF-2
-ID  translation initiation factor aIF-2
+ID  Translation initiation factor aIF-2
 RQ  1
 EV  IPR004544; TIGR00491;
 --
 SN  a_L13P
-ID  archaeal ribosomal protein L13P
+ID  Archaeal ribosomal protein L13P
 RQ  1
 EV  IPR005755; TIGR01077;
 --
 SN  a_L22
-ID  archaeal ribosomal protein L22P
+ID  Archaeal ribosomal protein L22P
 RQ  1
 EV  IPR005721; TIGR01038;
 --
 SN  a_L24
-ID  archaeal ribosomal protein L24P
+ID  Archaeal ribosomal protein L24P
 RQ  1
 EV  IPR005756; TIGR01080;
 --
 SN  a_L3
-ID  archaeal ribosomal protein L3P
+ID  Archaeal ribosomal protein L3P
 RQ  1
 EV  IPR019928; TIGR03626;
 --
 SN  a_L6P
-ID  archaeal ribosomal protein L6P
+ID  Archaeal ribosomal protein L6P
 RQ  1
 EV  IPR019907; TIGR03653;
 --
 SN  a_S10P
-ID  archaeal ribosomal protein S10P
+ID  Archaeal ribosomal protein S10P
 RQ  1
 EV  IPR005729; TIGR01046;
 --
 SN  a_S11P
-ID  archaeal ribosomal protein S11P
+ID  Archaeal ribosomal protein S11P
 RQ  1
 EV  IPR019961; TIGR03628;
 --
 SN  a_S13P
-ID  archaeal ribosomal protein S13P
+ID  Archaeal ribosomal protein S13P
 RQ  1
 EV  IPR019977; TIGR03629;
 --
 SN  a_S17P
-ID  archaeal ribosomal protein S17P
+ID  Archaeal ribosomal protein S17P
 RQ  1
 EV  IPR028333; TIGR03630;
 --
 SN  a_S19P
-ID  archaeal ribosomal protein S19P
+ID  Archaeal ribosomal protein S19P
 RQ  1
 EV  IPR005713; TIGR01025;
 --
 SN  a_S3P
-ID  archaeal ribosomal protein S3P
+ID  Archaeal ribosomal protein S3P
 RQ  1
 EV  IPR005703; TIGR01008;
 --
 SN  a_S4P
-ID  archaeal ribosomal protein S4P
+ID  Archaeal ribosomal protein S4P
 RQ  1
 EV  IPR005710; TIGR01018;
 --
 SN  a_S5P
-ID  archaeal ribosomal protein S5P
+ID  Archaeal ribosomal protein S5P
 RQ  1
 EV  IPR005711; TIGR01020;
 --
 SN  a_S9P
-ID  archaeal ribosomal protein S9P
+ID  Archaeal ribosomal protein S9P
 RQ  1
 EV  IPR019958; TIGR03627;
 //

@@ -1,7 +1,7 @@
 AC  GenProp0610
-DE  endospore formation marker gene set
+DE  Endospore formation marker gene set
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  16311624
@@ -31,117 +31,117 @@ CC  genome.
 **  protein gerPA/GerPF (many members in Baclillus, e.g.) belongs.
 --
 SN  0_A
-ID  stage 0 sporulation protein A
+ID  Stage 0 sporulation protein A
 RQ  1
 EV  IPR012052; TIGR02875; sufficient;
 --
 SN  Dipic_A
-ID  dipicolinic acid synthetase, A subunit
+ID  Dipicolinic acid synthetase, A subunit
 RQ  0
 EV  IPR014215; TIGR02853; sufficient;
 --
 SN  Dipic_B
-ID  dipicolinic acid synthetase, B subunit
+ID  Dipicolinic acid synthetase, B subunit
 RQ  0
 EV  IPR014214; TIGR02852; sufficient;
 --
 SN  GPR
-ID  germination protease
+ID  Germination protease
 RQ  1
 EV  IPR005080; TIGR01441; sufficient;
 --
 SN  III_AA
-ID  stage III sporulation protein AA
+ID  Stage III sporulation protein AA
 RQ  1
 EV  IPR014217; TIGR02858; sufficient;
 --
 SN  III_AB
-ID  stage III sporulation protein AB
+ID  Stage III sporulation protein AB
 RQ  1
 EV  IPR014198; TIGR02833; sufficient;
 --
 SN  III_AC
-ID  stage III sporulation protein AC
+ID  Stage III sporulation protein AC
 RQ  1
 EV  IPR009570; TIGR02848; sufficient;
 --
 SN  III_AD
-ID  stage III sporulation protein AD
+ID  Stage III sporulation protein AD
 RQ  1
 EV  IPR014211; TIGR02849; sufficient;
 --
 SN  III_AE
-ID  stage III sporulation protein AE (TIGR02829)
+ID  Stage III sporulation protein AE (TIGR02829)
 RQ  1
 EV  IPR014194; TIGR02829; sufficient;
 --
 SN  III_AF
-ID  stage III sporulation protein AF
+ID  Stage III sporulation protein AF
 RQ  1
 EV  IPR014245; TIGR02896; sufficient;
 --
 SN  III_AG
-ID  stage III sporulation protein AG
+ID  Stage III sporulation protein AG
 RQ  1
 EV  IPR014195; TIGR02830; sufficient;
 --
 SN  III_D
-ID  transcriptional regulator SpoIIID
+ID  Transcriptional regulator SpoIIID
 RQ  1
 EV  IPR014208; TIGR02844; sufficient;
 --
 SN  II_AA
-ID  anti-anti-sigma-F
+ID  Anti-anti-sigma-F
 RQ  1
 EV  IPR014237; TIGR02886; sufficient;
 --
 SN  II_AB
-ID  anti-sigma-F
+ID  Anti-sigma-F
 RQ  1
 EV  IPR010194; TIGR01925; sufficient;
 --
 SN  II_AC
-ID  sigma-F
+ID  Sigma-F
 RQ  1
 EV  IPR014236; TIGR02885; sufficient;
 --
 SN  II_D
-ID  stage II sporulation protein D
+ID  Stage II sporulation protein D
 RQ  1
 EV  IPR014225; TIGR02870; sufficient;
 --
 SN  II_E
-ID  stage II sporulation protein E
+ID  Stage II sporulation protein E
 RQ  1
 EV  IPR014221; TIGR02865; sufficient;
 --
 SN  II_GA
-ID  sigma-E protease SpoIIGA
+ID  Sigma-E protease SpoIIGA
 RQ  1
 EV  IPR005081; TIGR02854; sufficient;
 --
 SN  II_M
-ID  stage II sporulation protein M
+ID  Stage II sporulation protein M
 RQ  1
 EV  IPR014196; TIGR02831; sufficient;
 --
 SN  II_P
-ID  stage II sporulation protein P
+ID  Stage II sporulation protein P
 RQ  1
 EV  IPR010897; TIGR02867; sufficient;
 --
 SN  II_R
-ID  stage II sporulation protein R
+ID  Stage II sporulation protein R
 RQ  1
 EV  IPR014202; TIGR02837; sufficient;
 --
 SN  IV_A
-ID  stage IV sporulation protein A
+ID  Stage IV sporulation protein A
 RQ  1
 EV  IPR014201; TIGR02836; sufficient;
 --
 SN  IV_B
-ID  stage IV sporulation protein B
+ID  Stage IV sporulation protein B
 RQ  1
 EV  IPR014219; TIGR02860; sufficient;
 --
@@ -161,47 +161,47 @@ RQ  0
 EV  IPR012610; TIGR02861; sufficient;
 --
 SN  VI_D
-ID  stage VI sporulation protein D
+ID  Stage VI sporulation protein D
 RQ  0
 EV  IPR014256; TIGR02907; sufficient;
 --
 SN  V_AC
-ID  stage V sporulation protein AC
+ID  Stage V sporulation protein AC
 RQ  1
 EV  IPR014203; TIGR02838; sufficient;
 --
 SN  V_AD
-ID  stage V sporulation protein AD
+ID  Stage V sporulation protein AD
 RQ  1
 EV  IPR010894; TIGR02845; sufficient;
 --
 SN  V_AE
-ID  stage V sporulation protein AE
+ID  Stage V sporulation protein AE
 RQ  1
 EV  IPR014204; TIGR02839; sufficient;
 --
 SN  V_B
-ID  stage V sporulation protein B
+ID  Stage V sporulation protein B
 RQ  0
 EV  IPR014249; TIGR02900; sufficient;
 --
 SN  V_K
-ID  stage V sporulation protein K
+ID  Stage V sporulation protein K
 RQ  0
 EV  IPR014232; TIGR02881; sufficient;
 --
 SN  V_T
-ID  stage V sporulation protein T
+ID  Stage V sporulation protein T
 RQ  1
 EV  IPR014213; TIGR02851; sufficient;
 --
 SN  YhcNfam
-ID  germination lipoprotein, YhcN/YlaJ family
+ID  Germination lipoprotein, YhcN/YlaJ family
 RQ  0
 EV  IPR014247; TIGR02898; sufficient;
 --
 SN  cotS
-ID  spore coat protein, CotS family
+ID  Spore coat protein, CotS family
 RQ  0
 EV  IPR014255; TIGR02906; sufficient;
 --
@@ -226,112 +226,112 @@ RQ  0
 EV  IPR014251; TIGR02902; sufficient;
 --
 SN  safA
-ID  spore coat assembly protein SafA (yrbB)
+ID  Spore coat assembly protein SafA (yrbB)
 RQ  0
 EV  IPR014248; TIGR02899; sufficient;
 --
 SN  sigmaE
-ID  sigma-E
+ID  Sigma-E
 RQ  1
 EV  IPR014200; TIGR02835; sufficient;
 --
 SN  sigmaG
-ID  sigma-G
+ID  Sigma-G
 RQ  1
 EV  IPR014212; TIGR02850; sufficient;
 --
 SN  sigmaH
-ID  sigma-H
+ID  Sigma-H
 RQ  1
 EV  IPR014218; TIGR02859; sufficient;
 --
 SN  sigmaI
-ID  sigma-I (heat shock-induced)
+ID  Sigma-I (heat shock-induced)
 RQ  0
 EV  IPR014244; TIGR02895; sufficient;
 --
 SN  sigmaK
-ID  sigma-K
+ID  Sigma-K
 RQ  1
 EV  IPR014209; TIGR02846; sufficient;
 --
 SN  yabG
-ID  spore coat assembly protease YabG
+ID  Spore coat assembly protease YabG
 RQ  1
 EV  IPR008764; TIGR02855; sufficient;
 --
 SN  yabP
-ID  sporulation protein YabP
+ID  Sporulation protein YabP
 RQ  1
 EV  IPR012504; TIGR02892; sufficient;
 --
 SN  yabQ
-ID  sporulation protein YabQ
+ID  Sporulation protein YabQ
 RQ  1
 EV  IPR014242; TIGR02893; sufficient;
 --
 SN  ylbJ
-ID  sporulation protein YlbJ
+ID  Sporulation protein YlbJ
 RQ  1
 EV  IPR014226; TIGR02871; sufficient;
 --
 SN  ymxHfam
-ID  sporulation protein, YlmC/YmxH family
+ID  Sporulation protein, YlmC/YmxH family
 RQ  1
 EV  IPR014238; TIGR02888; sufficient;
 --
 SN  ypeB
-ID  germination protein YpeB
+ID  Germination protein YpeB
 RQ  1
 EV  IPR014239; TIGR02889; sufficient;
 --
 SN  yqfC
-ID  sporulation protein YqfC
+ID  Sporulation protein YqfC
 RQ  1
 EV  IPR022477; TIGR02856; sufficient;
 --
 SN  yqfD
-ID  sporulation protein YqfD
+ID  Sporulation protein YqfD
 RQ  1
 EV  IPR010690; TIGR02876; sufficient;
 --
 SN  ysxE
-ID  spore coat protein YsxE
+ID  Spore coat protein YsxE
 RQ  0
 EV  IPR014253; TIGR02904; sufficient;
 --
 SN  ytaF
-ID  sporulation protein YtaF
+ID  Sporulation protein YtaF
 RQ  1
 EV  IPR014205; TIGR02840; sufficient;
 --
 SN  ytfJ
-ID  sporulation protein YtfJ
+ID  Sporulation protein YtfJ
 RQ  1
 EV  IPR014229; TIGR02874; sufficient;
 --
 SN  ytvI
-ID  sporulation protein YtvI
+ID  Sporulation protein YtvI
 RQ  1
 EV  IPR014227; TIGR02872; sufficient;
 --
 SN  ytxC
-ID  sporulation protein YtxC
+ID  Sporulation protein YtxC
 RQ  1
 EV  IPR014199; TIGR02834; sufficient;
 --
 SN  yunB
-ID  sporulation protein YunB
+ID  Sporulation protein YunB
 RQ  1
 EV  IPR014197; TIGR02832; sufficient;
 --
 SN  yutH
-ID  spore coat protein YutH
+ID  Spore coat protein YutH
 RQ  0
 EV  IPR014254; TIGR02905; sufficient;
 --
 SN  yyaC
-ID  putative sporulation protease YyaC
+ID  Putative sporulation protease YyaC
 RQ  1
 EV  IPR009665; TIGR02841; sufficient;
 //

@@ -1,7 +1,7 @@
 AC  GenProp0941
 DE  TonB-dependent nutrient uptake pairs, RagAB/SusCD type
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  A set of gene pairs almost entirely restricted to the Bacteroidetes,
 CC  and with up to 100 pairs per genome, consists of TonB-linked outer
@@ -14,7 +14,7 @@ RQ  1
 EV  IPR023996; TIGR04056;
 --
 SN  RagB
-ID  outer membrane protein, SusD/RagB family
+ID  Outer membrane protein, SusD/RagB family
 RQ  1
 EV  IPRXXXX; PF07980;
 EV  IPRXXXX; PF14322;

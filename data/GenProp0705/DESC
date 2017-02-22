@@ -1,7 +1,7 @@
 AC  GenProp0705
-DE  xanthine dehydrogenase, bacillus type (pucABCDE)
+DE  Xanthine dehydrogenase, bacillus type (pucABCDE)
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  11344136
@@ -14,12 +14,12 @@ CC  This xanthine dehydrogenase complex is particular to a small number of
 CC  organisms including Bacillus subtilis, where it has been characterized.
 --
 SN  pucA
-ID  accessory factor PucA
+ID  Accessory factor PucA
 RQ  0
 EV  IPR003777; PF02625; sufficient;
 --
 SN  pucB
-ID  pucB gene
+ID  PucB gene
 RQ  0
 EV  IPR017615; TIGR03202; sufficient;
 --
@@ -29,7 +29,7 @@ RQ  1
 EV  IPR017612; TIGR03199; sufficient;
 --
 SN  pucD
-ID  molybdopterin-binding subunit, pucD
+ID  Molybdopterin-binding subunit, pucD
 RQ  1
 EV  IPR017609; TIGR03196; sufficient;
 --

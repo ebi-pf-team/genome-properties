@@ -1,7 +1,7 @@
 AC  GenProp1097
-DE  bacimethrin biosynthesis
+DE  Bacimethrin biosynthesis
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  Bacimethrin is a natural product made from CMP. It is a thiamin analog,
 CC  a toxic antivitamin made as an antibiotic. The pathway order is
@@ -21,7 +21,7 @@ ID  5-hydroxymethylcytosine O-methyltransferase
 RQ  1
 --
 SN  BcmE
-ID  thiamine pyridinylase
+ID  Thiamine pyridinylase
 RQ  0
 EV  IPR030901; TIGR04541;
 //

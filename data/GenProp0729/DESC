@@ -1,7 +1,7 @@
 AC  GenProp0729
-DE  methionine salvage from methylthioadenosine
+DE  Methionine salvage from methylthioadenosine
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  15102328
@@ -26,13 +26,13 @@ CC  number of functional analogs using different amino donors, and so is
 CC  not included explicitly in the reconstruction.
 --
 SN  mtnA
-ID  methylthioribose-1-phosphate isomerase
+ID  Methylthioribose-1-phosphate isomerase
 RQ  1
 EV  IPR005251; TIGR00512;
 TG  GO:0019509;
 --
 SN  mtnB
-ID  methylthioribulose-1-phosphate dehydratase
+ID  Methylthioribulose-1-phosphate dehydratase
 RQ  1
 EV  IPR017714; TIGR03328;
 TG  GO:0019509;
@@ -46,7 +46,7 @@ EV  GenProp0732;
 TG  GO:0019509;
 --
 SN  mtnD
-ID  aci-reductone dioxygenase
+ID  Aci-reductone dioxygenase
 RQ  1
 EV  IPR004313; PF03079;
 TG  GO:0019509;

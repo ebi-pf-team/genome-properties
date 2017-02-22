@@ -1,7 +1,7 @@
 AC  GenProp0774
-DE  ferric citrate transport system
+DE  Ferric citrate transport system
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  16193283
@@ -36,25 +36,25 @@ EV  IPRXXXX; 2172;
 TG  GO:0015682;
 --
 SN  FecB
-ID  citrate-dependent iron(III) ABC transporter, periplasmic binding protein FecB
+ID  Citrate-dependent iron(III) ABC transporter, periplasmic binding protein FecB
 RQ  1
 EV  IPRXXXX; 2173;
 TG  GO:0015682;
 --
 SN  FecC
-ID  citrate-dependent iron(III) ABC transporter, permease protein FecC
+ID  Citrate-dependent iron(III) ABC transporter, permease protein FecC
 RQ  1
 EV  IPRXXXX; 2174;
 TG  GO:0015682;
 --
 SN  FecD
-ID  citrate-dependent iron(III) ABC transporter, permease protein FecD
+ID  Citrate-dependent iron(III) ABC transporter, permease protein FecD
 RQ  1
 EV  IPRXXXX; 2175;
 TG  GO:0015682;
 --
 SN  FecE
-ID  citrate-dependent iron(III) ABC transporter, ATP-binding protein FecE
+ID  Citrate-dependent iron(III) ABC transporter, ATP-binding protein FecE
 RQ  1
 EV  IPRXXXX; 2176;
 TG  GO:0015682;

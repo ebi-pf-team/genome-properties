@@ -1,7 +1,7 @@
 AC  GenProp0728
 DE  AMP metabolism using type III Rubisco
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  17303759
@@ -23,7 +23,7 @@ RQ  1
 EV  IPR017713; TIGR03327;
 --
 SN  E2b2
-ID  ribose-1,5-bisphosphate isomerase
+ID  Ribose-1,5-bisphosphate isomerase
 RQ  1
 EV  IPR005250; TIGR00511;
 --

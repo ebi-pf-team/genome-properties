@@ -1,7 +1,7 @@
 AC  GenProp0720
 DE  2-aminoethylphosphonate utilization
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  2-aminoethylphosphonate (2-AEP) is a common phosphonate compound found
 CC  in the environment and at least two related pathways are known for its
@@ -24,12 +24,12 @@ EV  GenProp0712;
 EV  GenProp0721;
 --
 SN  oxido
-ID  associated FAD-dependent oxidoreductase
+ID  Associated FAD-dependent oxidoreductase
 RQ  0
 EV  IPR017715; TIGR03329;
 --
 SN  regul
-ID  associated transcriptional regulators
+ID  Associated transcriptional regulators
 RQ  0
 EV  IPR017722; TIGR03337;
 EV  IPR017723; TIGR03338;

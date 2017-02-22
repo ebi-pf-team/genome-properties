@@ -1,7 +1,7 @@
 AC  GenProp0998
-DE  archaeal class III signal peptide system
+DE  Archaeal class III signal peptide system
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  17114255
@@ -15,11 +15,11 @@ CC  PF04021 describes class III signal peptide as in MJ_1469.
 **  44 species.
 --
 SN  III_ase
-ID  class III prepilin peptidase
+ID  Class III prepilin peptidase
 RQ  1
 --
 SN  III_sig
-ID  class III signal peptide
+ID  Class III signal peptide
 RQ  1
 EV  IPR007166; PF04021;
 //

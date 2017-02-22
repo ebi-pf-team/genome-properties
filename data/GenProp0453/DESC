@@ -1,7 +1,7 @@
 AC  GenProp0453
-DE  uncharacterized gene pair TIGR02612/TIGR02613
+DE  Uncharacterized gene pair TIGR02612/TIGR02613
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This uncharacterized operon may be an addiction module, although the
 CC  two proteins, especially the second, are larger than typical for
@@ -14,12 +14,12 @@ CC  and downstream proteins mobile mystery protein A and B, respectively.
 **  a probable addiction module.
 --
 SN  mmp-A
-ID  mobile mystery protein A
+ID  Mobile mystery protein A
 RQ  1
 EV  IPR013435; TIGR02612; sufficient;
 --
 SN  mmp-B
-ID  mobile mystery protein B
+ID  Mobile mystery protein B
 RQ  1
 EV  IPR013436; TIGR02613; sufficient;
 //

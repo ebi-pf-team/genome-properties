@@ -1,7 +1,7 @@
 AC  GenProp0796
 DE  CMP-pseudaminic acid biosynthesis from UDP-N-acetylglucosamine
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  3
 RN  [1]
 RM  3104041
@@ -70,48 +70,48 @@ RQ  1
 EV  IPR020025; TIGR03589;
 --
 SN  PseC
-ID  pseudaminic acid biosynthesis aminotransferase PseC
+ID  Pseudaminic acid biosynthesis aminotransferase PseC
 DN  UDP-4-keto-6-deoxy-N-acetylglucosamine 4-aminotransferase (EC: 2.6.1.-)
 RQ  1
 EV  IPR020026; TIGR03588;
 --
 SN  PseF
-ID  pseudaminic acid CMP-transferase
-DN  pseudaminic acid CMP-transferase (EC:2.7.7.-)
+ID  Pseudaminic acid CMP-transferase
+DN  Pseudaminic acid CMP-transferase (EC:2.7.7.-)
 RQ  1
 EV  IPR020039; TIGR03584;
 EV  IPRXXXX; PF02348;
 --
 SN  PseG
-ID  possible pseudaminic acid biosynthesis UDP hydrolase
-DN  pseudaminic acid biosynthesis-associated protein PseG
+ID  Possible pseudaminic acid biosynthesis UDP hydrolase
+DN  Pseudaminic acid biosynthesis-associated protein PseG
 RQ  0
 EV  IPR020023; TIGR03590;
 --
 SN  PseH
-ID  possible pseudaminic acid biosynthesis N-acetyl transferase
-DN  pseudaminic acid biosynthesis N-acetyl transferase
+ID  Possible pseudaminic acid biosynthesis N-acetyl transferase
+DN  Pseudaminic acid biosynthesis N-acetyl transferase
 RQ  1
 EV  IPR020036; TIGR03585;
 EV  IPR000182; PF00583;
 --
 SN  PseI
-ID  pseudaminic acid synthase (pyruvate condensing enzyme)
-DN  pseudaminic acid synthase (EC:2.5.1.-)
+ID  Pseudaminic acid synthase (pyruvate condensing enzyme)
+DN  Pseudaminic acid synthase (EC:2.5.1.-)
 RQ  1
 EV  IPR020030; TIGR03586;
 --
 SN  PseM?
-ID  pseudaminic acid biosynthesis associated methylase
+ID  Pseudaminic acid biosynthesis associated methylase
 RQ  0
 EV  IPR020027; TIGR03587;
 --
 SN  UGlcNAc
-ID  source of UDP-N-acetyl-D-glucosamine
+ID  Source of UDP-N-acetyl-D-glucosamine
 RQ  0
 EV  GenProp0750;
 --
 SN  variants
-ID  proteins possibly involved in pathway variants
+ID  Proteins possibly involved in pathway variants
 RQ  0
 //

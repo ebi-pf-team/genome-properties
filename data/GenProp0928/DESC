@@ -1,7 +1,7 @@
 AC  GenProp0928
 DE  OMP chaperone system: SurA-Skp-DegP
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  17908933
@@ -18,19 +18,19 @@ CC  be the primary chaperone, at least in E. coli [1], while Skp and DegP
 CC  may act to rescue any OMPs which fall off of the SurA complex.
 --
 SN  DegP
-ID  chaperone DegP
+ID  Chaperone DegP
 RQ  1
 EV  IPR011782; TIGR02037;
 TG  GO:0006886;
 --
 SN  Skp
-ID  chaperone Skp
+ID  Chaperone Skp
 RQ  1
 EV  IPR005632; PF03938;
 TG  GO:0006886;
 --
 SN  SurA
-ID  chaperone SurA
+ID  Chaperone SurA
 RQ  1
 EV  IPR015391; PF09312;
 TG  GO:0006886;

@@ -1,7 +1,7 @@
 AC  GenProp0961
-DE  heme metabolism pair HutWX
+DE  Heme metabolism pair HutWX
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  The hutW and hutX genes are found in Vibrio cholerae next to hutZ,
 CC  which is essential for heme utilization. HutW is homologous to the heme
@@ -13,19 +13,19 @@ CC  heme oxidase HugZ, accompanies roughly half of the occurrences of HutW
 CC  and HutX.
 --
 SN  HutW
-ID  heme utilization radical SAM enzyme HutW
+ID  Heme utilization radical SAM enzyme HutW
 RQ  1
 EV  IPR026332; TIGR04107;
 TG  GO:0042168;
 --
 SN  HutX
-ID  putative heme utilization carrier protein HutX
+ID  Putative heme utilization carrier protein HutX
 RQ  1
 EV  IPR010413; TIGR04108;
 TG  GO:0042168;
 --
 SN  HutZ
-ID  heme utilization protein HutZ
+ID  Heme utilization protein HutZ
 RQ  0
 EV  IPR014419; TIGR04110;
 TG  GO:0042168;

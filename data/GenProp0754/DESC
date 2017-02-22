@@ -1,7 +1,7 @@
 AC  GenProp0754
-DE  acetate production from acetylphosphate
+DE  Acetate production from acetylphosphate
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  172079
@@ -21,7 +21,7 @@ CC  reversible pyrophophate-dependent reaction in Entamoeba histolytica
 CC  although the sequence of the enzyme responsible is not yet known.
 --
 SN  1
-ID  acetetylphosphate dephosphorylation
+ID  Acetetylphosphate dephosphorylation
 RQ  1
 EV  IPR004372; TIGR00016;
 EV  IPR001792; PF00708;

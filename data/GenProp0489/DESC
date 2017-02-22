@@ -1,7 +1,7 @@
 AC  GenProp0489
 DE  F-type conjugation system
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  16138100
@@ -43,7 +43,7 @@ EV  GenProp0485;
 TG  GO:0009291;
 --
 SN  other
-ID  apparent operon-associated genes
+ID  Apparent operon-associated genes
 RQ  0
 --
 SN  specific

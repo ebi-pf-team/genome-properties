@@ -1,7 +1,7 @@
 AC  GenProp1092
-DE  toxin-antitoxin system, type III
+DE  Toxin-antitoxin system, type III
 TP  GUILD
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  23267117
@@ -13,7 +13,7 @@ CC  A type III toxin-antitoxin system consists of a toxic peptide and
 CC  structural RNA antitoxin. 
 --
 SN  toxin
-ID  toxin, type III toxin-antitoxin system
+ID  Toxin, type III toxin-antitoxin system
 RQ  1
 EV  IPR025911; PF13958;
 //

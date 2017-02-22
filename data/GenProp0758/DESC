@@ -1,56 +1,56 @@
 AC  GenProp0758
-DE  lycopene biosynthesis from IPP
+DE  Lycopene biosynthesis from IPP
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  2
 --
 SN  IPP-in
-ID  source of IPP
+ID  Source of IPP
 RQ  0
 EV  GenProp0048;
 EV  GenProp0047;
 --
 SN  crtB
-ID  phytoene synthase (2.5.1.32)
+ID  Phytoene synthase (2.5.1.32)
 RQ  1
 EV  IPR002060; PF00494;
 --
 SN  crtLY
-ID  lycopene cyclases
+ID  Lycopene cyclases
 RQ  0
 EV  IPR010108; TIGR01790;
 EV  IPR017825; TIGR03462;
 EV  IPRXXXX; PF05834;
 --
 SN  crtZ
-ID  beta carotene hydroxylase
+ID  Beta carotene hydroxylase
 RQ  0
 --
 SN  idi
-ID  isopentenyl-diphosphate delta-isomerase (5.3.3.2)
+ID  Isopentenyl-diphosphate delta-isomerase (5.3.3.2)
 RQ  0
 EV  IPR011876; TIGR02150;
 EV  IPR011179; TIGR02151;
 --
 SN  ispA
-ID  geranylgeranyl pyrophosphate synthase
+ID  Geranylgeranyl pyrophosphate synthase
 RQ  1
 EV  IPR000092; PF00348;
 --
 SN  membr
-ID  uncharacterized syntenic membrane protein
+ID  Uncharacterized syntenic membrane protein
 RQ  0
 EV  IPR017822; TIGR03459;
 EV  IPR017823; TIGR03460;
 --
 SN  pds
-ID  phytoene desaturase (1.14.99.-)
+ID  Phytoene desaturase (1.14.99.-)
 RQ  1
 EV  IPR014102; TIGR02731;
 EV  IPR014105; TIGR02734;
 --
 SN  zds
-ID  zeta-carotene desaturase (1.14.99.30)
+ID  Zeta-carotene desaturase (1.14.99.30)
 RQ  1
 EV  IPR014103; TIGR02732;
 EV  IPR014105; TIGR02734;

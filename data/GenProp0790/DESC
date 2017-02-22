@@ -1,7 +1,7 @@
 AC  GenProp0790
-DE  sporadic pair TIGR03545/TIGR03546
+DE  Sporadic pair TIGR03545/TIGR03546
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This Genome Property describes an uncommon two-gene pair, sporadically
 CC  distributed in and restricted to bacteria that possess an outer
@@ -14,12 +14,12 @@ CC  crunogena, etc.
 **  TIGR03546.
 --
 SN  sporad1
-ID  sporadic gene pair, small protein
+ID  Sporadic gene pair, small protein
 RQ  1
 EV  IPR019935; TIGR03546;
 --
 SN  sporad2
-ID  sporadic gene pair, large protein
+ID  Sporadic gene pair, large protein
 RQ  1
 EV  IPR019934; TIGR03545;
 //

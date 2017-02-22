@@ -1,7 +1,7 @@
 AC  GenProp0802
-DE  ribosome biogenesis proteins, bacteria
+DE  Ribosome biogenesis proteins, bacteria
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  A number of well-conserved bacterial proteins, including various
 CC  members of a family of GTPases, appear to aid in ribosome biogenesis in
@@ -19,37 +19,37 @@ RQ  1
 EV  IPR014100; TIGR02729;
 --
 SN  rG_Der
-ID  ribosome biogenesis GTPase Der (EngA)
+ID  Ribosome biogenesis GTPase Der (EngA)
 RQ  1
 EV  IPR016484; TIGR03594;
 --
 SN  rG_Era
-ID  ribosome biogenesis GTPase Era
+ID  Ribosome biogenesis GTPase Era
 RQ  0
 EV  IPR005662; TIGR00436;
 --
 SN  rG_RsgA
-ID  ribosome biogenesis GTPase RsgA
+ID  Ribosome biogenesis GTPase RsgA
 RQ  0
 EV  IPR004881; TIGR00157;
 --
 SN  rG_YlqF
-ID  ribosome biogenesis GTPase YlqF
+ID  Ribosome biogenesis GTPase YlqF
 RQ  0
 EV  IPR019991; TIGR03596;
 --
 SN  rG_YqeH
-ID  ribosome biogenesis GTPase YqeH
+ID  Ribosome biogenesis GTPase YqeH
 RQ  0
 EV  IPR019988; TIGR03597;
 --
 SN  rG_YsxC
-ID  ribosome biogenesis GTPase YsxC
+ID  Ribosome biogenesis GTPase YsxC
 RQ  0
 EV  IPR019987; TIGR03598;
 --
 SN  rM_RsmA
-ID  rRNA small subunit methyltransferase A
+ID  RRNA small subunit methyltransferase A
 RQ  1
 EV  IPR011530; TIGR00755;
 --
@@ -64,12 +64,12 @@ RQ  0
 EV  IPR002903; TIGR00006;
 --
 SN  rR_RimM
-ID  ribosome maturation protein RimM
+ID  Ribosome maturation protein RimM
 RQ  1
 EV  IPR011961; TIGR02273;
 --
 SN  rR_RimP
-ID  ribosome maturation protein RimP
+ID  Ribosome maturation protein RimP
 RQ  0
 EV  IPR003728; PF02576;
 //

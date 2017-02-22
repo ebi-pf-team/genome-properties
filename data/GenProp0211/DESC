@@ -1,7 +1,7 @@
 AC  GenProp0211
-DE  tmRNA trans-translation system
+DE  TmRNA trans-translation system
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  Defective mRNA can lead to a stalled ribosome with no stop codon to
 CC  release the mRNA and nascent polypeptide. A structural RNA called tmRNA
@@ -13,7 +13,7 @@ CC  released, for rapid degradation. Small protein B (SmpB) is required for
 CC  tmRNA function and has no other known function.
 --
 SN  SmpB
-ID  tmRNA-binding protein SmpB
+ID  TmRNA-binding protein SmpB
 RQ  1
 EV  IPR000037; TIGR00086; sufficient;
 --
@@ -23,6 +23,6 @@ RQ  0
 EV  IPR007481; PF04386; sufficient;
 --
 SN  tmRNA
-ID  tmRNA structural RNA
+ID  TmRNA structural RNA
 RQ  1
 //

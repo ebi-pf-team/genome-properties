@@ -1,8 +1,8 @@
 AC  GenProp0788
-DE  lysine biosynthesis via diaminopimelate (DAP) utilizing ammonia and
+DE  Lysine biosynthesis via diaminopimelate (DAP) utilizing ammonia and
 DE  NADPH
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  4
 RN  [1]
 RM  1906065
@@ -37,29 +37,29 @@ EV  GenProp0160;
 TG  GO:0033361;
 --
 SN  DAPDC
-ID  diaminopimelate decarboxylase
-DN  diaminopimelate decarboxylase (EC 4.1.1.20)
+ID  Diaminopimelate decarboxylase
+DN  Diaminopimelate decarboxylase (EC 4.1.1.20)
 RQ  1
 EV  IPR002986; TIGR01048;
 TG  GO:0033361;
 --
 SN  DHPR
-ID  dihydrodipicolinate reductase
-DN  dihydrodipicolinate reductase (EC 1.17.1.8)
+ID  Dihydrodipicolinate reductase
+DN  Dihydrodipicolinate reductase (EC 1.17.1.8)
 RQ  1
 EV  IPR023940; TIGR00036;
 TG  GO:0033361;
 --
 SN  DHPS
-ID  dihydrodipicolinate synthase
-DN  dihydrodipicolinate synthase (EC 4.3.3.7)
+ID  Dihydrodipicolinate synthase
+DN  Dihydrodipicolinate synthase (EC 4.3.3.7)
 RQ  1
 EV  IPR005263; TIGR00674;
 TG  GO:0033361;
 --
 SN  ddh
-ID  diaminopimelate dehydrogenase
-DN  diaminopimelate dehydrogenase (EC 1.4.1.16)
+ID  Diaminopimelate dehydrogenase
+DN  Diaminopimelate dehydrogenase (EC 1.4.1.16)
 RQ  1
 EV  IPR010190; TIGR01921;
 TG  GO:0033361;

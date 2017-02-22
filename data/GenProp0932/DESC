@@ -1,7 +1,7 @@
 AC  GenProp0932
 DE  O104(Ec) antigen biosynthesis
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  The O104 O-antigen is observed in E. coli strain 55989 and other EHEC
 CC  strains.  It consists of repeating of
@@ -10,40 +10,40 @@ CC  units.  The NeuABCD cassette for the biosynthesis of CMP-Neu5Ac is
 CC  observed within the O-antigen cluster.
 --
 SN  Neu5Ac
-ID  source of CMP-Neu5Ac
+ID  Source of CMP-Neu5Ac
 RQ  1
 EV  GenProp0793;
 --
 SN  galF
-ID  regulatory protein GalF
+ID  Regulatory protein GalF
 RQ  1
 EV  IPR005774; TIGR01105;
 --
 SN  gnd
-ID  clustered gnd enzyme
+ID  Clustered gnd enzyme
 RQ  0
 EV  IPR006113; TIGR00873;
 --
 SN  gne
-ID  source of UDP-GalNAc
+ID  Source of UDP-GalNAc
 RQ  1
 EV  IPRXXXX; 2732;
 --
 SN  wbwA
-ID  a-Neu5Ac-(2->3)-b-D-Gal transferase
-DN  beta-D-galactose alpha-2,3-N-acetylneuraminyltransferase
+ID  A-Neu5Ac-(2->3)-b-D-Gal transferase
+DN  Beta-D-galactose alpha-2,3-N-acetylneuraminyltransferase
 RQ  1
 EV  IPRXXXX; 2737;
 --
 SN  wbwB
-ID  a-D-Gal-(1->4)-a-Neu5Ac transferase
-DN  alpha-N-acetylneuraminate alpha-1,4-galactosyltransferase
+ID  A-D-Gal-(1->4)-a-Neu5Ac transferase
+DN  Alpha-N-acetylneuraminate alpha-1,4-galactosyltransferase
 RQ  1
 EV  IPRXXXX; 2739;
 --
 SN  wbwC
-ID  b-D-Gal-(1->3)-b-D-GalNAc transferase
-DN  beta-N-acetyl-D-galactosamine beta-1,3-galactosyltransferase
+ID  B-D-Gal-(1->3)-b-D-GalNAc transferase
+DN  Beta-N-acetyl-D-galactosamine beta-1,3-galactosyltransferase
 RQ  1
 EV  IPRXXXX; 2741;
 --

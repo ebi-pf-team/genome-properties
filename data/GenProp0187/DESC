@@ -1,7 +1,7 @@
 AC  GenProp0187
-DE  pyrimidine (uridine-5'-phosphate) de novo biosynthesis
+DE  Pyrimidine (uridine-5'-phosphate) de novo biosynthesis
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  4
 DC  Pyrimidine Biosynthesis
 DR  IUBMB; misc; pyrimid;
@@ -19,44 +19,44 @@ CC  species lacking pyrimidine de novo biosynthesis include some members of
 CC  the Chlamydiae, Mycoplasmatales, Rickettsiales, and Spirochaetes.
 --
 SN  PRPPsyn
-ID  ribose-phosphate pyrophosphokinase
-DN  ribose-phosphate pyrophosphokinase
+ID  Ribose-phosphate pyrophosphokinase
+DN  Ribose-phosphate pyrophosphokinase
 RQ  1
 EV  IPR005946; TIGR01251; sufficient;
 TG  GO:0006222;
 --
 SN  carA
-ID  carbamoyl-phosphate synthase, small subunit
-DN  carbamoyl-phosphate synthase, small subunit
+ID  Carbamoyl-phosphate synthase, small subunit
+DN  Carbamoyl-phosphate synthase, small subunit
 RQ  1
 EV  IPR006274; TIGR01368; sufficient;
 TG  GO:0006222;
 --
 SN  carB
-ID  carbamoyl-phosphate synthase, large subunit
-DN  carbamoyl-phosphate synthase, large subunit
+ID  Carbamoyl-phosphate synthase, large subunit
+DN  Carbamoyl-phosphate synthase, large subunit
 RQ  1
 EV  IPR006275; TIGR01369; sufficient;
 TG  GO:0006222;
 --
 SN  pyrB
-ID  aspartate carbamoyltransferase
-DN  aspartate carbamoyltransferase
+ID  Aspartate carbamoyltransferase
+DN  Aspartate carbamoyltransferase
 RQ  1
 EV  IPR002082; TIGR00670; sufficient;
 TG  GO:0006222;
 --
 SN  pyrC
-ID  dihydroorotase
-DN  dihydroorotase
+ID  Dihydroorotase
+DN  Dihydroorotase
 RQ  1
 EV  IPR004721; TIGR00856; sufficient;
 TG  GO:0006222;
 EV  IPR004722; TIGR00857; sufficient;
 --
 SN  pyrD
-ID  dihydroorotate dehydrogenase
-DN  dihydroorotate dehydrogenase
+ID  Dihydroorotate dehydrogenase
+DN  Dihydroorotate dehydrogenase
 RQ  1
 EV  IPR005719; TIGR01036; sufficient;
 TG  GO:0006222;
@@ -66,8 +66,8 @@ EV  IPR005720; PF01180; sufficient;
 TG  GO:0006222;
 --
 SN  pyrE
-ID  orotate phosphoribosyltransferase
-DN  orotate phosphoribosyltransferase
+ID  Orotate phosphoribosyltransferase
+DN  Orotate phosphoribosyltransferase
 RQ  1
 EV  IPR004467; TIGR00336; sufficient;
 TG  GO:0006222;
@@ -75,8 +75,8 @@ EV  IPR006273; TIGR01367; sufficient;
 TG  GO:0006222;
 --
 SN  pyrF
-ID  orotidine 5'-phosphate decarboxylase
-DN  orotidine 5'-phosphate decarboxylase
+ID  Orotidine 5'-phosphate decarboxylase
+DN  Orotidine 5'-phosphate decarboxylase
 RQ  1
 EV  IPR014732; TIGR01740; sufficient;
 TG  GO:0006222;
@@ -84,8 +84,8 @@ EV  IPR011995; TIGR02127; sufficient;
 TG  GO:0006222;
 --
 SN  pyrI
-ID  aspartate carbamoyltransferase, regulatory subunit
-DN  aspartate carbamoyltransferase, regulatory subunit
+ID  Aspartate carbamoyltransferase, regulatory subunit
+DN  Aspartate carbamoyltransferase, regulatory subunit
 RQ  0
 EV  IPR002801; TIGR00240; sufficient;
 TG  GO:0006222;

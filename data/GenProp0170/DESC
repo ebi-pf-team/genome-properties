@@ -1,7 +1,7 @@
 AC  GenProp0170
-DE  coenzyme PQQ biosynthesis
+DE  Coenzyme PQQ biosynthesis
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  18371220
@@ -22,42 +22,42 @@ EV  IPR002372; PF01011; sufficient;
 --
 SN  pqqA
 ID  PqqA protein
-DN  coenzyme PQQ biosynthesis protein A
+DN  Coenzyme PQQ biosynthesis protein A
 RQ  1
 EV  IPR011725; TIGR02107; sufficient;
 TG  GO:0018189;
 --
 SN  pqqB
 ID  PqqB protein
-DN  coenzyme PQQ biosynthesis protein B
+DN  Coenzyme PQQ biosynthesis protein B
 RQ  1
 EV  IPR011842; TIGR02108; sufficient;
 TG  GO:0018189;
 --
 SN  pqqC
 ID  PqqC protein
-DN  coenzyme PQQ biosynthesis protein C
+DN  Coenzyme PQQ biosynthesis protein C
 RQ  1
 EV  IPR011845; TIGR02111; sufficient;
 TG  GO:0018189;
 --
 SN  pqqD
 ID  PqqD protein
-DN  coenzyme PQQ biosynthesis protein D
+DN  Coenzyme PQQ biosynthesis protein D
 RQ  1
 EV  IPR022479; TIGR03859;
 TG  GO:0018189;
 --
 SN  pqqE
 ID  PqqE protein
-DN  coenzyme PQQ biosynthesis protein E
+DN  Coenzyme PQQ biosynthesis protein E
 RQ  1
 EV  IPR011843; TIGR02109; sufficient;
 TG  GO:0018189;
 --
 SN  pqqF
-ID  peptidase PqqF
-DN  coenzyme PQQ biosynthesis protein PqqF (EC:3.4.24.-)
+ID  Peptidase PqqF
+DN  Coenzyme PQQ biosynthesis protein PqqF (EC:3.4.24.-)
 RQ  0
 EV  IPR011844; TIGR02110; sufficient;
 TG  GO:0018189;

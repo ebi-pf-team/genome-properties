@@ -1,7 +1,7 @@
 AC  GenProp1080
-DE  protein O-heptosyltransferase with autotransporter target
+DE  Protein O-heptosyltransferase with autotransporter target
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  22221153
@@ -22,12 +22,12 @@ CC  structure recognized by model TIGR04415.
 **  BMA_A0749, BimA, is in right context but TIGR04415 does not hit it.
 --
 SN  O_hept
-ID  autotransporter strand-loop-strand O-heptosyltransferase
+ID  Autotransporter strand-loop-strand O-heptosyltransferase
 RQ  1
 EV  IPR030929; TIGR04414;
 --
 SN  O_targ
-ID  autotransporter strand-loop-strand repeat
+ID  Autotransporter strand-loop-strand repeat
 RQ  1
 EV  IPRXXXX; TIGR04415;
 //

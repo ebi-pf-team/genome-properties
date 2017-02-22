@@ -1,7 +1,7 @@
 AC  GenProp0658
-DE  cellulose biosynthesis
+DE  Cellulose biosynthesis
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  1
 RN  [1]
 RM  2030672
@@ -53,31 +53,31 @@ CC  the biosynthetic genes.
 **  phosphodiesterases.
 --
 SN  CelA
-ID  cellulose synthase, catalytic subunit CelA
+ID  Cellulose synthase, catalytic subunit CelA
 RQ  1
 EV  IPR003919; TIGR03030; sufficient;
 TG  GO:0030244;
 --
 SN  CelB
-ID  cellulose synthase, regulatory subunit CelB
+ID  Cellulose synthase, regulatory subunit CelB
 RQ  1
 EV  IPR018513; PF03170; sufficient;
 TG  GO:0030244;
 --
 SN  CelBcsE
-ID  cellulose biosynthesis protein BcsE/YhjS
+ID  Cellulose biosynthesis protein BcsE/YhjS
 RQ  0
 EV  IPR017745; TIGR03369;
 TG  GO:0030244;
 --
 SN  CelBcsF
-ID  cellulose biosynthesis operon protein BcsF/YhjT
+ID  Cellulose biosynthesis operon protein BcsF/YhjT
 RQ  0
 EV  IPR019995; TIGR03493;
 TG  GO:0030244;
 --
 SN  CelBcsG
-ID  cellulose biosynthesis protein BcsG/YhjU
+ID  Cellulose biosynthesis protein BcsG/YhjU
 RQ  0
 EV  IPR017744; TIGR03368;
 TG  GO:0030244;
@@ -89,13 +89,13 @@ EV  IPR008410; PF05420; sufficient;
 TG  GO:0030244;
 --
 SN  CelYhjQ
-ID  cellulose synthase operon protein YhjQ
+ID  Cellulose synthase operon protein YhjQ
 RQ  0
 EV  IPR017746; TIGR03371;
 TG  GO:0030244;
 --
 SN  endoglu
-ID  clustered endoglucanase (cellulase?)
+ID  Clustered endoglucanase (cellulase?)
 RQ  0
 EV  IPRXXXX; PF01270;
 TG  GO:0030244;

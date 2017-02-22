@@ -1,7 +1,7 @@
 AC  GenProp0716
-DE  glucarate utilization via tartronate semi-aldehyde
+DE  Glucarate utilization via tartronate semi-aldehyde
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  1
 RN  [1]
 RM  9772162
@@ -21,7 +21,7 @@ CC  NO.
 **  YES) THEN (THIS PROPERTY = NO)
 --
 SN  GarK
-ID  glycerate kinase (2.7.1.31)
+ID  Glycerate kinase (2.7.1.31)
 RQ  0
 EV  IPR004381; TIGR00045; sufficient;
 TG  GO:0019394;
@@ -35,13 +35,13 @@ EV  IPR017648; TIGR03239; sufficient;
 TG  GO:0019394;
 --
 SN  GarR
-ID  tartronate semialdehyde reductase (1.1.1.60)
+ID  Tartronate semialdehyde reductase (1.1.1.60)
 RQ  1
 EV  IPR006398; TIGR01505; sufficient;
 TG  GO:0019394;
 --
 SN  GudD
-ID  glucarate dehydratase (4.2.1.40)
+ID  Glucarate dehydratase (4.2.1.40)
 RQ  1
 EV  IPR017653; TIGR03247; sufficient;
 TG  GO:0019394;

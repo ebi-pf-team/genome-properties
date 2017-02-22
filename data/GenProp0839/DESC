@@ -1,29 +1,29 @@
 AC  GenProp0839
 DE  2-oxoacid:ferredoxin oxidoreductase, multisubunit form
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This complex can serve as an alternative to the 2-oxoglutarate
 CC  dehydrogenase system (GenProp0630) of the TCA cycle
 --
 SN  alpha
-ID  alpha subunit (TPP binding domain)
+ID  Alpha subunit (TPP binding domain)
 RQ  1
 EV  IPR002880; PF01855;
 --
 SN  beta
-ID  beta subunit (TPP enzyme)
+ID  Beta subunit (TPP enzyme)
 RQ  1
 EV  IPRXXXX; PF02775;
 EV  IPR011896; TIGR02177;
 --
 SN  f-doxin
-ID  ferredoxin (4Fe-4S binding domain)
+ID  Ferredoxin (4Fe-4S binding domain)
 RQ  0
 EV  IPRXXXX; PF00037;
 --
 SN  gamma
-ID  gamma subunit
+ID  Gamma subunit
 RQ  1
 EV  IPR019752; PF01558;
 //

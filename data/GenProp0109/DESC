@@ -1,7 +1,7 @@
 AC  GenProp0109
 DE  Histidine biosynthesis from ribose-5-phosphate
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  1
 RN  [1]
 RM  8852895
@@ -121,8 +121,8 @@ EV  IPR010140; TIGR01856; sufficient;
 EV  IPR011809; TIGR02067; sufficient;
 --
 SN  12
-ID  histidinol dehydrogenase
-DN  histidinol dehydrogenase/HisD (EC 1.1.1.23)
+ID  Histidinol dehydrogenase
+DN  Histidinol dehydrogenase/HisD (EC 1.1.1.23)
 RQ  1
 EV  IPR012131; TIGR00069; sufficient;
 TG  GO:0000105;

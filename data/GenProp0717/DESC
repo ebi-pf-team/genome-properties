@@ -1,13 +1,13 @@
 AC  GenProp0717
-DE  glucarate utilization via 2-oxoglutarate semialdehyde
+DE  Glucarate utilization via 2-oxoglutarate semialdehyde
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This pathway converts D-glucarate to alpha-ketoglutarate via
 CC  2-oxoglutarate.
 --
 SN  GudD
-ID  glucarate dehydratase (4.2.1.40)
+ID  Glucarate dehydratase (4.2.1.40)
 RQ  1
 EV  IPR017653; TIGR03247; sufficient;
 TG  GO:0019394;

@@ -1,13 +1,13 @@
 AC  GenProp0715
-DE  galactarate utilization via 2-oxoglutarate semialdehyde
+DE  Galactarate utilization via 2-oxoglutarate semialdehyde
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  1
 CC  This pathway converts D-galactarate to alpha-ketoglutarate via
 CC  2-oxoglutarate semialdehyde,
 --
 SN  GarD
-ID  galactarate dehydratase (4.2.1.42)
+ID  Galactarate dehydratase (4.2.1.42)
 RQ  1
 EV  IPR007392; PF04295; sufficient;
 --

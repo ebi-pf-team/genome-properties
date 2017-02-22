@@ -1,7 +1,7 @@
 AC  GenProp0700
-DE  purine catabolism via urate, xanthine and allantoin
+DE  Purine catabolism via urate, xanthine and allantoin
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This property is an overview of the complete catabolic pathways leading
 CC  from intracellular guanine or adenine or extracellular xanthine through
@@ -13,12 +13,12 @@ RQ  1
 EV  GenProp0698;
 --
 SN  U-allan
-ID  urate catabolism to allantoin
+ID  Urate catabolism to allantoin
 RQ  1
 EV  GenProp0688;
 --
 SN  all-cat
-ID  allantoin catabolism
+ID  Allantoin catabolism
 RQ  1
 EV  GenProp0687;
 EV  GenProp0686;

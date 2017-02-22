@@ -1,7 +1,7 @@
 AC  GenProp0171
-DE  coenzyme A biosynthesis from pantothenate
+DE  Coenzyme A biosynthesis from pantothenate
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  1
 DC  Coenzyme A Biosynthesis (late stages)
 DR  IUBMB; misc; CoA2;
@@ -23,8 +23,8 @@ CC  adenylyltransferase and dephospho-CoA kinase.
 **  coaE, and need to know YES/NO for chlamydias. DHH.
 --
 SN  coaA
-ID  pantothenate kinase
-DN  pantothenate kinase
+ID  Pantothenate kinase
+DN  Pantothenate kinase
 RQ  0
 EV  IPR004566; TIGR00554; sufficient;
 TG  GO:0015937;
@@ -34,8 +34,8 @@ EV  IPR004619; TIGR00671;
 TG  GO:0015937;
 --
 SN  coaB
-ID  phosphopantothenate--cysteine ligase
-DN  phosphopantothenate--cysteine ligase
+ID  Phosphopantothenate--cysteine ligase
+DN  Phosphopantothenate--cysteine ligase
 RQ  1
 EV  IPR005252; TIGR00521; sufficient;
 TG  GO:0015937;
@@ -43,8 +43,8 @@ EV  IPR011848; TIGR02114; sufficient;
 TG  GO:0015937;
 --
 SN  coaC
-ID  phosphopantothenoylcysteine decarboxylase
-DN  phosphopantothenoylcysteine decarboxylase
+ID  Phosphopantothenoylcysteine decarboxylase
+DN  Phosphopantothenoylcysteine decarboxylase
 RQ  1
 EV  IPR005252; TIGR00521; sufficient;
 TG  GO:0015937;
@@ -52,21 +52,21 @@ EV  IPR011847; TIGR02113; sufficient;
 TG  GO:0015937;
 --
 SN  coaD
-ID  pantetheine-phosphate adenylyltransferase
-DN  pantetheine-phosphate adenylyltransferase
+ID  Pantetheine-phosphate adenylyltransferase
+DN  Pantetheine-phosphate adenylyltransferase
 RQ  1
 EV  IPR001980; TIGR01510; sufficient;
 TG  GO:0015937;
 --
 SN  coaE
-ID  dephospho-CoA kinase
-DN  dephospho-CoA kinase
+ID  Dephospho-CoA kinase
+DN  Dephospho-CoA kinase
 RQ  1
 EV  IPR001977; TIGR00152; sufficient;
 TG  GO:0015937;
 --
 SN  panF
-ID  sodium/pantothenate symporter
+ID  Sodium/pantothenate symporter
 RQ  0
 EV  IPR011849; TIGR02119;
 TG  GO:0015937;

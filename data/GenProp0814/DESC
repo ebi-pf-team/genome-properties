@@ -1,20 +1,20 @@
 AC  GenProp0814
-DE  urea utilization
+DE  Urea utilization
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This property encompasses two separate urea catabolism pathways, the
 CC  nickel-dependent urease pathway and the  urea carboxylase/allophanate
 CC  hydrolase pathway.
 --
 SN  UT
-ID  a urea transporter
+ID  A urea transporter
 RQ  0
 EV  GenProp0743;
 EV  IPR004937; PF03253;
 --
 SN  UU
-ID  a urea degradation pathway
+ID  A urea degradation pathway
 RQ  1
 EV  GenProp0481;
 EV  GenProp0051;

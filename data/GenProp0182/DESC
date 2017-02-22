@@ -1,7 +1,7 @@
 AC  GenProp0182
-DE  reduction of oxidized methionine
+DE  Reduction of oxidized methionine
 TP  GUILD
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  Methionine, free or in proteins, is susceptible to oxidation damage. R-
 CC  and S-conformation enantiomers of methionine sulfoxide can be repaired
@@ -11,12 +11,12 @@ CC  sometimes expressed as a fusion protein.
 **  different enzymes/domains for different oxidized forms
 --
 SN  MsrA
-ID  methionine-S-sulfoxide reductase
+ID  Methionine-S-sulfoxide reductase
 RQ  1
 EV  IPR002569; TIGR00401; sufficient;
 --
 SN  MsrB
-ID  methionine-R-sulfoxide reductase
+ID  Methionine-R-sulfoxide reductase
 RQ  1
 EV  IPR002579; TIGR00357; sufficient;
 //

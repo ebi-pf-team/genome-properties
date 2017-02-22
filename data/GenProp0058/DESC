@@ -1,7 +1,7 @@
 AC  GenProp0058
 DE  Menaquinone biosynthesis via SEPHCHC
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  3
 RN  [1]
 RM  18284213
@@ -74,8 +74,8 @@ EV  IPR010198; TIGR01929; sufficient;
 TG  GO:0009234;
 --
 SN  6
-ID  o-succinylbenzoate synthase
-DN  o-succinylbenzoate synthase
+ID  O-succinylbenzoate synthase
+DN  O-succinylbenzoate synthase
 RQ  1
 EV  IPRXXXX; TIGR01927; sufficient;
 TG  GO:0009234;
@@ -83,8 +83,8 @@ EV  IPR010197; TIGR01928; sufficient;
 TG  GO:0009234;
 --
 SN  7
-ID  o-succinylbenzoate--CoA ligase
-DN  o-succinylbenzoate--CoA ligase
+ID  O-succinylbenzoate--CoA ligase
+DN  O-succinylbenzoate--CoA ligase
 RQ  1
 EV  IPR010192; TIGR01923; sufficient;
 TG  GO:0009234;

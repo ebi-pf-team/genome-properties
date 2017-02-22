@@ -1,7 +1,7 @@
 AC  GenProp1030
 DE  O88(Ec) antigen biosynthesis
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  8901274
@@ -17,7 +17,7 @@ CC  three distinct glycosytransferases and genes for the biosynthesis of
 CC  GDP-D-mannose and a nucleotide-activated L-6-deoxy-talose. 
 --
 SN  6dLTal
-ID  source of dTDP-6-deoxy-L-talose
+ID  Source of dTDP-6-deoxy-L-talose
 RQ  1
 EV  GenProp1033;
 --
@@ -34,7 +34,7 @@ ID  O88(Ec)-associated glycosyltransferase GT-3
 RQ  1
 --
 SN  dMan
-ID  source of GDP-D-mannose
+ID  Source of GDP-D-mannose
 RQ  1
 EV  GenProp1017;
 --

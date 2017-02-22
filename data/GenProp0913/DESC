@@ -1,7 +1,7 @@
 AC  GenProp0913
 DE  E. coli O-antigen monomer biosynthesis clusters
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  blast database at /usr/local/projects/GSTEC/BLAST/    gstec01 : 1.2741
 CC  : O2/H4 : GenProp0963  gstec02 : 97.0246 : O5/H-  gstec03 : 5.0588 :
@@ -18,7 +18,7 @@ CC  3.2303 : O157/H16  gstec24 : 3003 : O157/H45  gstec25 : TW07793 :
 CC  O157/H39  gstec26 : B41 : O101/NHM  gstec27 : 900105 (10e) : O26/H11 
 --
 SN  ANY
-ID  any O-antigen monomer system
+ID  Any O-antigen monomer system
 RQ  1
 EV  GenProp0953;
 EV  GenProp0932;

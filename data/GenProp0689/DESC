@@ -1,7 +1,7 @@
 AC  GenProp0689
-DE  glyoxalate conversion to phosphoglycerate
+DE  Glyoxalate conversion to phosphoglycerate
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  Glyoxalate is a common intermediate produced by a number of catabolic
 CC  and anapleurotic pathways, notably the breakdown for allantoate,
@@ -17,21 +17,21 @@ CC  biosynthesis. Phosphoglycerate may be put to a large number of
 CC  metabolic uses.
 --
 SN  gcl
-ID  glyoxalate carbo-ligase
+ID  Glyoxalate carbo-ligase
 RQ  1
 EV  IPR006397; TIGR01504; sufficient;
 --
 SN  glxK
-ID  glycerate kinase (2.7.1.31)
+ID  Glycerate kinase (2.7.1.31)
 RQ  1
 --
 SN  glxR
-ID  tartronate semialdehyde reductase (1.1.1.60)
+ID  Tartronate semialdehyde reductase (1.1.1.60)
 RQ  1
 EV  IPR006398; TIGR01505; sufficient;
 --
 SN  hyi
-ID  hydroxypyruvate isomerase
+ID  Hydroxypyruvate isomerase
 RQ  0
 EV  IPR017643; TIGR03234; sufficient;
 //

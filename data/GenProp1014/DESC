@@ -1,7 +1,7 @@
 AC  GenProp1014
 DE  O5(Ec) antigen biosynthesis
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  9404639
@@ -58,7 +58,7 @@ RQ  1
 EV  IPRXXXX; 2956;
 --
 SN  Qui3NAc
-ID  source of TDP-Qui3NAc
+ID  Source of TDP-Qui3NAc
 RQ  1
 EV  GenProp1050;
 --
@@ -73,7 +73,7 @@ RQ  1
 EV  IPRXXXX; 2955;
 --
 SN  gne
-ID  source of UDP-GalNAc
+ID  Source of UDP-GalNAc
 RQ  1
 EV  IPRXXXX; 2732;
 --

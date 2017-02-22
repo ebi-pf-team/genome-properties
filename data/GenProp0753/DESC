@@ -1,7 +1,7 @@
 AC  GenProp0753
-DE  mycothiol biosynthesis
+DE  Mycothiol biosynthesis
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  16674910
@@ -22,28 +22,28 @@ CC  make use of mycothiol.
 --
 SN  MshA
 ID  D-inositol-3-phosphate glycosyltransferase
-DN  mycothiol biosynthesis glycosyltransferase, MshA (EC 2.4.1.-)
+DN  Mycothiol biosynthesis glycosyltransferase, MshA (EC 2.4.1.-)
 RQ  1
 EV  IPR017814; TIGR03449;
 TG  GO:0010125;
 --
 SN  MshB
-ID  mycothiol biosynthesis protein B
-DN  mycothiol biosynthesis protein B (EC 2.4.1.-)
+ID  Mycothiol biosynthesis protein B
+DN  Mycothiol biosynthesis protein B (EC 2.4.1.-)
 RQ  1
 EV  IPR017810; TIGR03445;
 TG  GO:0010125;
 --
 SN  MshC
-ID  mycothiol biosynthesis Cys ligase
-DN  cysteinyl-tRNA ligase (EC 6.1.1.-)
+ID  Mycothiol biosynthesis Cys ligase
+DN  Cysteinyl-tRNA ligase (EC 6.1.1.-)
 RQ  1
 EV  IPR017812; TIGR03447;
 TG  GO:0010125;
 --
 SN  MshD
-ID  mycothiol biosynthesis acetyltransferase
-DN  mycothiol biosynthesis acetyltransferase protein, MshD (EC 2.3.1.-)
+ID  Mycothiol biosynthesis acetyltransferase
+DN  Mycothiol biosynthesis acetyltransferase protein, MshD (EC 2.3.1.-)
 RQ  1
 EV  IPR017813; TIGR03448;
 TG  GO:0010125;

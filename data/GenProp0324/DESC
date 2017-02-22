@@ -1,7 +1,7 @@
 AC  GenProp0324
-DE  addiction module, RelE-RelB class
+DE  Addiction module, RelE-RelB class
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  11717402
@@ -24,13 +24,13 @@ CC  where RelE acts by cleaving ribosome-associated transcripts.
 **  PF04221  
 --
 SN  A-RelB
-ID  antidote RelB - PF04221
+ID  Antidote RelB - PF04221
 RQ  1
 EV  IPR007337; PF04221; sufficient;
 EV  IPR006442; TIGR01552; sufficient;
 --
 SN  K-RelE
-ID  toxin RelE - TIGR02385
+ID  Toxin RelE - TIGR02385
 RQ  1
 EV  IPR007712; TIGR02385; sufficient;
 //

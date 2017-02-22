@@ -1,7 +1,7 @@
 AC  GenProp1036
 DE  O11(Ec) antigen biosynthesis
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  21205000
@@ -37,7 +37,7 @@ CC  similarity to other glycosyltransferases and is consistent with
 CC  L-fucose being quite rare in known E. coil O-antigen structures.
 --
 SN  Fuc
-ID  source of L-fucose
+ID  Source of L-fucose
 RQ  1
 EV  GenProp1024;
 --
@@ -47,24 +47,24 @@ RQ  0
 EV  IPR005886; TIGR01179;
 --
 SN  Man
-ID  source of D-mannose
+ID  Source of D-mannose
 RQ  1
 EV  GenProp1017;
 --
 SN  WdaD
-ID  putative DGalNAc-a(1,3)-LFuc transferase WdaD
+ID  Putative DGalNAc-a(1,3)-LFuc transferase WdaD
 RQ  1
 --
 SN  WdaE
-ID  putative LFuc-a(1,3)-DMan transferase WdaE
+ID  Putative LFuc-a(1,3)-DMan transferase WdaE
 RQ  1
 --
 SN  WdaF
-ID  putative DMan-a(1,6)-DGalNAc transferase
+ID  Putative DMan-a(1,6)-DGalNAc transferase
 RQ  1
 --
 SN  WdaG
-ID  putative DGalNAc-a(1,3)-LFuc transferase WdaG
+ID  Putative DGalNAc-a(1,3)-LFuc transferase WdaG
 RQ  1
 --
 SN  wzx11

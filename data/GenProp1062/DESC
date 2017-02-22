@@ -1,7 +1,7 @@
 AC  GenProp1062
-DE  radical SAM/SPASM system Clo7bot
+DE  Radical SAM/SPASM system Clo7bot
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This property features a radical SAM/SPASM domain peptide maturase
 CC  that, in multiple strains of Clostridium botulinum, is next to a tandem
@@ -20,7 +20,7 @@ RQ  1
 EV  IPR027601; TIGR04333;
 --
 SN  rSAM7
-ID  radical SAM/SPASM domain Clo7bot peptide maturase
+ID  Radical SAM/SPASM domain Clo7bot peptide maturase
 RQ  1
 EV  IPR027622; TIGR04334;
 //

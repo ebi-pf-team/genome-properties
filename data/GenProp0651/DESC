@@ -1,7 +1,7 @@
 AC  GenProp0651
-DE  ectoine ABC transporter EhuABCD
+DE  Ectoine ABC transporter EhuABCD
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  15687193
@@ -17,29 +17,29 @@ CC  encoded along with genes for ectoine catabolism. All subunits are
 CC  homologous to various amino acid transporter subunits.
 --
 SN  ehuA
-ID  ectoine ABC transporter, ATP-binding protein
-DN  ectoine/hydroxyectoine ABC transporter, ATP-binding protein EhuA
+ID  Ectoine ABC transporter, ATP-binding protein
+DN  Ectoine/hydroxyectoine ABC transporter, ATP-binding protein EhuA
 RQ  1
 EV  IPR014343; TIGR03005; sufficient;
 TG  GO:0051470;
 --
 SN  ehuB
-ID  ectoine ABC transporter, solute-binding protein
-DN  ectoine/hydroxyectoine ABC transporter solute-binding protein EhuB
+ID  Ectoine ABC transporter, solute-binding protein
+DN  Ectoine/hydroxyectoine ABC transporter solute-binding protein EhuB
 RQ  1
 EV  IPR014337; TIGR02995; sufficient;
 TG  GO:0051470;
 --
 SN  ehuC
-ID  ectoine ABC transporter, permease protein EhuC
-DN  ectoine/hydroxyectoine ABC transporter, permease protein EhuC
+ID  Ectoine ABC transporter, permease protein EhuC
+DN  Ectoine/hydroxyectoine ABC transporter, permease protein EhuC
 RQ  1
 EV  IPR014342; TIGR03004; sufficient;
 TG  GO:0051470;
 --
 SN  ehuD
-ID  ectoine ABC transporter, permease protein EhuD
-DN  ectoine/hydroxyectoine ABC transporter, permease protein EhuD
+ID  Ectoine ABC transporter, permease protein EhuD
+DN  Ectoine/hydroxyectoine ABC transporter, permease protein EhuD
 RQ  1
 EV  IPR014341; TIGR03003; sufficient;
 TG  GO:0051470;

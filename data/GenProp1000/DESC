@@ -1,7 +1,7 @@
 AC  GenProp1000
 DE  ATP-grasp maturase system, uncharacterized
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  20023723
@@ -26,12 +26,12 @@ RQ  1
 EV  IPR026449; TIGR04187;
 --
 SN  methyl
-ID  methyltransferase
+ID  Methyltransferase
 RQ  1
 EV  IPR026448; TIGR04188;
 --
 SN  precur
-ID  ribosomal peptide modification target
+ID  Ribosomal peptide modification target
 RQ  1
 EV  IPR026496; TIGR04186;
 EV  IPR025744; PF14404;

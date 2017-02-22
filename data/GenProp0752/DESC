@@ -1,7 +1,7 @@
 AC  GenProp0752
-DE  ergothioneine biosynthesis
+DE  Ergothioneine biosynthesis
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  20420449
@@ -28,31 +28,31 @@ CC  and is predicted to be more widely distributed.
 **  SELENONEINE.
 --
 SN  egtA
-ID  glutamate--cysteine ligase family protein
+ID  Glutamate--cysteine ligase family protein
 RQ  0
 EV  IPR017809; TIGR03444;
 TG  GO:0052699;
 --
 SN  egtB
-ID  ergothioneine biosynthesis protein EgtB
+ID  Ergothioneine biosynthesis protein EgtB
 RQ  1
 EV  IPR017806; TIGR03440;
 TG  GO:0052699;
 --
 SN  egtC
-ID  ergothioneine biosynthesis protein EgtC
+ID  Ergothioneine biosynthesis protein EgtC
 RQ  0
 EV  IPR017808; TIGR03442;
 TG  GO:0052699;
 --
 SN  egtD
-ID  ergothioneine biosynthesis methyltransferase EgtD
+ID  Ergothioneine biosynthesis methyltransferase EgtD
 RQ  1
 EV  IPR017804; TIGR03438;
 TG  GO:0052699;
 --
 SN  egtE
-ID  ergothioneine biosynthesis PLP-binding protein EgtE
+ID  Ergothioneine biosynthesis PLP-binding protein EgtE
 RQ  0
 EV  IPR027563; TIGR04343;
 TG  GO:0052699;

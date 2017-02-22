@@ -1,7 +1,7 @@
 AC  GenProp0136
-DE  ubiquinone biosynthesis from chorismate, aerobic
+DE  Ubiquinone biosynthesis from chorismate, aerobic
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  3
 RN  [1]
 RM  365223
@@ -44,8 +44,8 @@ EV  IPR010232; TIGR01982; sufficient;
 TG  GO:0006744;
 --
 SN  UbiC
-ID  chorismate-pyruvate lyase
-DN  chorismate lyase (EC 4.1.3.40)
+ID  Chorismate-pyruvate lyase
+DN  Chorismate lyase (EC 4.1.3.40)
 RQ  0
 EV  IPR007440; PF04345; sufficient;
 --
@@ -59,13 +59,13 @@ EV  IPR004507; TIGR00421; sufficient;
 TG  GO:0006744;
 --
 SN  UbiE
-ID  ubiquinone biosynthesis C-methyltransferase
-DN  ubiquinone biocynthesis C-methyltransferase (EC 2.1.1.-)
+ID  Ubiquinone biosynthesis C-methyltransferase
+DN  Ubiquinone biocynthesis C-methyltransferase (EC 2.1.1.-)
 RQ  1
 EV  IPR004033; TIGR01934; sufficient;
 --
 SN  UbiF/H
-ID  ubiquinone biosynthesis 4- and 5-hydroxylases
+ID  Ubiquinone biosynthesis 4- and 5-hydroxylases
 DN  NOT APPLICABLE
 RQ  1
 EV  IPR010971; TIGR01988; sufficient;

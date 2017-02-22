@@ -1,7 +1,7 @@
 AC  GenProp1081
-DE  replication restart, PriA/PriB primosome pathway
+DE  Replication restart, PriA/PriB primosome pathway
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  17588514
@@ -28,17 +28,17 @@ CC  PriB than to PriB itself.
 **  looks like a RelB addiction module antidote protein.
 --
 SN  DnaT
-ID  primosomal protein DnaT
+ID  Primosomal protein DnaT
 RQ  0
 --
 SN  PriA
-ID  primosome helicase PriA
+ID  Primosome helicase PriA
 RQ  1
 EV  IPR005259; TIGR00595;
 TG  GO:0006269;
 --
 SN  PriB
-ID  primosome protein PriB
+ID  Primosome protein PriB
 RQ  1
 EV  IPR023646; TIGR04418;
 TG  GO:0006269;

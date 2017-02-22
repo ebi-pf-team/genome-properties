@@ -1,7 +1,7 @@
 AC  GenProp0695
-DE  cytochrome b558/566
+DE  Cytochrome b558/566
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  15632423
@@ -17,12 +17,12 @@ CC  to cytochrome bc1.
 **  still needs SoxL2 (working), SoxN.
 --
 SN  cbsA
-ID  cytochrome b558/566, subunit A
+ID  Cytochrome b558/566, subunit A
 RQ  1
 EV  IPR017572; TIGR03154; sufficient;
 --
 SN  cbsB
-ID  cytochrome b558/566, subunit B
+ID  Cytochrome b558/566, subunit B
 RQ  1
 EV  IPR017573; TIGR03155; sufficient;
 //

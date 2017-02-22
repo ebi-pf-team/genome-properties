@@ -1,7 +1,7 @@
 AC  GenProp0681
-DE  fatty acid biosynthesis from acetyl-CoA
+DE  Fatty acid biosynthesis from acetyl-CoA
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  The formation from acetyl-CoA of fatty acids, any of the aliphatic
 CC  monocarboxylic acids that can be liberated by hydrolysis from naturally
@@ -14,12 +14,12 @@ CC  chain acids of over 30 carbons are found in waxes.
 **  DHH 12/2008.
 --
 SN  ACP
-ID  acyl carrier protein
+ID  Acyl carrier protein
 RQ  1
 EV  GenProp1104;
 --
 SN  AccABCD
-ID  acetyl-CoA carboxylase complex
+ID  Acetyl-CoA carboxylase complex
 RQ  1
 EV  GenProp0214;
 --
@@ -29,7 +29,7 @@ RQ  1
 EV  IPR010083; TIGR01749; sufficient;
 --
 SN  fabD
-ID  malonyl CoA--(ACP) transacylase
+ID  Malonyl CoA--(ACP) transacylase
 RQ  1
 EV  IPR004410; TIGR00128; sufficient;
 --
@@ -49,7 +49,7 @@ RQ  1
 EV  IPR004655; TIGR00747; sufficient;
 --
 SN  fabI
-ID  enoyl-[ACP] reductase
+ID  Enoyl-[ACP] reductase
 RQ  0
 EV  IPR017569; TIGR03151; sufficient;
 --

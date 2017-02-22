@@ -1,7 +1,7 @@
 AC  GenProp0914
-DE  hydrogenase, [FeFe]-dependent
+DE  Hydrogenase, [FeFe]-dependent
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  15082711
@@ -21,35 +21,35 @@ CC  protein involved in [Fe] hydrogenase maturation.
 **  near FeFe hydrogenase in rare species without hydEFG.
 --
 SN  Fe_larg
-ID  iron hydrogenase, large subunit
+ID  Iron hydrogenase, large subunit
 RQ  1
 EV  IPR013352; TIGR02512;
 --
 SN  Fe_smal
-ID  iron hydrogenase, small subunit
+ID  Iron hydrogenase, small subunit
 RQ  1
 EV  IPR003149; PF02256;
 --
 SN  hydE
-ID  hydrogenase accessory rSAM protein HydE
+ID  Hydrogenase accessory rSAM protein HydE
 RQ  1
 EV  IPR024021; TIGR03956;
 TG  GO:0051188;
 --
 SN  hydF
-ID  hydrogenase accessory GTP-binding protein HydF
+ID  Hydrogenase accessory GTP-binding protein HydF
 RQ  1
 EV  IPR023873; TIGR03918;
 TG  GO:0051188;
 --
 SN  hydG
-ID  hydrogenase accessory rSAM protein HydG
+ID  Hydrogenase accessory rSAM protein HydG
 RQ  1
 EV  IPR024007; TIGR03955;
 TG  GO:0051188;
 --
 SN  hyd_TF
-ID  hydrogenase putative regulator
+ID  Hydrogenase putative regulator
 RQ  0
 EV  IPR023860; TIGR03959;
 //

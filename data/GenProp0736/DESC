@@ -1,7 +1,7 @@
 AC  GenProp0736
-DE  proposed phosphonate catabolism pathway HpnWXZ
+DE  Proposed phosphonate catabolism pathway HpnWXZ
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  The enzyme phosphonatase (PhnX) catalyzes the hydrolysis of
 CC  phosphonoacetaldehyde via a bicatalytic mechanism involving a specific
@@ -28,7 +28,7 @@ CC  (PF01966), certain GntR-type transcriptional regulators and
 CC  phosphonate-related transporters.
 --
 SN  GntR
-ID  associated GntR-family transcriptional regulator
+ID  Associated GntR-family transcriptional regulator
 RQ  0
 EV  IPRXXXX; PF00392;
 --
@@ -38,17 +38,17 @@ RQ  0
 EV  IPR017670; TIGR03276;
 --
 SN  HpnW
-ID  proposed aminophosphonate deaminating oxidase
+ID  Proposed aminophosphonate deaminating oxidase
 RQ  1
 EV  IPR017741; TIGR03364;
 --
 SN  HpnX
-ID  proposed phosphonoacetaldehyde-like hydrolase
+ID  Proposed phosphonoacetaldehyde-like hydrolase
 RQ  1
 EV  IPR022468; TIGR03351;
 --
 SN  HpnZ
-ID  phosphonate-associated alcohol dehydrogenase
+ID  Phosphonate-associated alcohol dehydrogenase
 RQ  0
 EV  IPR017743; TIGR03366;
 //

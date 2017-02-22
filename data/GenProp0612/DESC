@@ -1,7 +1,7 @@
 AC  GenProp0612
-DE  aerobic electron transfer (transport) chain, ETC
+DE  Aerobic electron transfer (transport) chain, ETC
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  These complexes act in the process of oxidative phosphorylation to
 CC  create a proton gradient which powers the ATP synthase complex. 
@@ -11,13 +11,13 @@ CC  which, in cytochrome oxidase, pairs with oxygen as a terminal elextron
 CC  acceptor.
 --
 SN  Q_oxid
-ID  quinone re-oxidation, oxygen reduction
+ID  Quinone re-oxidation, oxygen reduction
 RQ  1
 EV  GenProp0615;
 EV  GenProp0616;
 --
 SN  Q_rdctn
-ID  quinone reduction (NADH dehydrogenases)
+ID  Quinone reduction (NADH dehydrogenases)
 RQ  1
 EV  GenProp0135;
 EV  GenProp0623;

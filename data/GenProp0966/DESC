@@ -1,7 +1,7 @@
 AC  GenProp0966
 DE  E. coli O-antigen biosynthesis
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  In E. coli biosynthesis of the O-antigen consists of initiation by
 CC  ligation of (usually) N-acetyl-glucosamine to undecaprenylphosphate
@@ -24,7 +24,7 @@ RQ  1
 EV  GenProp0970;
 --
 SN  Ligate
-ID  ligation to Lipid A core
+ID  Ligation to Lipid A core
 RQ  1
 EV  IPR007016; PF04932;
 --

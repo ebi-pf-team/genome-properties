@@ -1,7 +1,7 @@
 AC  GenProp1085
-DE  pyranoside core peptidyl nucleoside antibiotic biosynthesis
+DE  Pyranoside core peptidyl nucleoside antibiotic biosynthesis
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  22753012
@@ -24,12 +24,12 @@ CC  synthase and cytosylglucuronate decarboxylase. The latter is a radical
 CC  SAM enzyme.
 --
 SN  MilC
-ID  cytosylglucuronate synthase
+ID  Cytosylglucuronate synthase
 RQ  1
 EV  IPR031016; TIGR04467;
 --
 SN  MilG
-ID  cytosylglucuronate decarboxylase
+ID  Cytosylglucuronate decarboxylase
 RQ  1
 EV  IPR031014; TIGR04466;
 //

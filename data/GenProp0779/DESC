@@ -1,7 +1,7 @@
 AC  GenProp0779
 DE  Shewanella-type decaheme system
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  17675441
@@ -18,17 +18,17 @@ CC  TIGR03508.
 **  relevant.
 --
 SN  LG_deca
-ID  large decaheme c-type cytochrome
+ID  Large decaheme c-type cytochrome
 RQ  1
 EV  IPR020014; TIGR03507;
 --
 SN  OMPdeca
-ID  outer membrane protein, MtrB/PioB family
+ID  Outer membrane protein, MtrB/PioB family
 RQ  1
 EV  IPR020016; TIGR03509;
 --
 SN  SM_deca
-ID  small decaheme c-type cytochrome
+ID  Small decaheme c-type cytochrome
 RQ  1
 EV  IPR020015; TIGR03508;
 //

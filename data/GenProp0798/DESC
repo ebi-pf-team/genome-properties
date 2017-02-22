@@ -1,7 +1,7 @@
 AC  GenProp0798
 DE  Enterococcus/Aeromonas extended locus
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This Genome Property represents an uncharacterized, sporadically
 CC  distributed eight-gene system. A somewhat broader set of bacteria
@@ -23,37 +23,37 @@ RQ  1
 EV  IPR020044; TIGR03582;
 --
 SN  EF_0830
-ID  conserved hypothetical protein EF_0830/AHA_3911
+ID  Conserved hypothetical protein EF_0830/AHA_3911
 RQ  1
 EV  IPR020034; TIGR03577;
 --
 SN  EF_0831
-ID  conserved hypothetical protein EF_0831/AHA_3912
+ID  Conserved hypothetical protein EF_0831/AHA_3912
 RQ  1
 EV  IPR020037; TIGR03578;
 --
 SN  EF_0832
-ID  conserved hypothetical protein EF_0832/AHA_3913
+ID  Conserved hypothetical protein EF_0832/AHA_3913
 RQ  1
 EV  IPR020042; TIGR03580;
 --
 SN  EF_0833
-ID  conserved hypothetical protein EF_0833/AHA_3914
+ID  Conserved hypothetical protein EF_0833/AHA_3914
 RQ  1
 EV  IPR025456; TIGR03579;
 --
 SN  EF_0837
-ID  probable amidohydrolase EF_0837/AHA_3915
+ID  Probable amidohydrolase EF_0837/AHA_3915
 RQ  1
 EV  IPR020043; TIGR03583;
 --
 SN  EF_0838
-ID  pyridoxal phosphate-dependent enzyme EF_0838/AHA_3916
+ID  Pyridoxal phosphate-dependent enzyme EF_0838/AHA_3916
 RQ  1
 EV  IPR006337; TIGR01437;
 --
 SN  EF_0839
-ID  conserved hypothetical protein EF_0839/AHA_3917
+ID  Conserved hypothetical protein EF_0839/AHA_3917
 RQ  1
 EV  IPR010763; TIGR03581;
 //

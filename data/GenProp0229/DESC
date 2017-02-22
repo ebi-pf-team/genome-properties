@@ -1,12 +1,12 @@
 AC  GenProp0229
-DE  transcription-coupled nucleotide excision repair
+DE  Transcription-coupled nucleotide excision repair
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 --
 SN  Mfd
-ID  transcription-repair coupling factor
-DN  transcription-repair coupling factor
+ID  Transcription-repair coupling factor
+DN  Transcription-repair coupling factor
 RQ  1
 EV  IPR004576; TIGR00580; sufficient;
 //

@@ -1,7 +1,7 @@
 AC  GenProp0265
-DE  trehalose biosynthesis, OtsAB pathway
+DE  Trehalose biosynthesis, OtsAB pathway
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  12890033
@@ -29,14 +29,14 @@ CC  the phosphate.
 --
 SN  otsA
 ID  Trehalose-6-phosphate synthase
-DN  alpha,alpha-trehalose-phosphate synthase (UDP-forming) (EC 2.4.1.15)
+DN  Alpha,alpha-trehalose-phosphate synthase (UDP-forming) (EC 2.4.1.15)
 RQ  1
 EV  IPR012766; TIGR02400; sufficient;
 TG  GO:0006970;
 --
 SN  otsB
-ID  trehalose-phosphatase
-DN  trehalose-phosphatase (EC 3.1.3.12)
+ID  Trehalose-phosphatase
+DN  Trehalose-phosphatase (EC 3.1.3.12)
 RQ  1
 EV  IPR003337; TIGR00685; sufficient;
 TG  GO:0006970;

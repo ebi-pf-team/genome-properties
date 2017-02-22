@@ -1,7 +1,7 @@
 AC  GenProp1087
-DE  protein sorting system, vault protein/exosortase N
+DE  Protein sorting system, vault protein/exosortase N
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This dedicated protein-sorting system occurs so far only in the class
 CC  Bacteriodetes or in the genus Leptospira. The two proteins are
@@ -11,7 +11,7 @@ CC  begins VPEPxEWxL, but usually scores poorly to the generic PEP-CTERM
 CC  model TIGR02595.
 --
 SN  EXOxrtN
-ID  exosortase N
+ID  Exosortase N
 RQ  1
 EV  IPR031006; TIGR04476;
 --

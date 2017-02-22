@@ -1,7 +1,7 @@
 AC  GenProp0718
-DE  oxalate degradation
+DE  Oxalate degradation
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  16517636
@@ -31,12 +31,12 @@ CC  bacteria.
 **  functionally equivalent, and gene neighborhood agrees.
 --
 SN  1_frc
-ID  formyl-CoA transferase
+ID  Formyl-CoA transferase
 RQ  1
 EV  IPR017659; TIGR03253; sufficient;
 --
 SN  2_oxc
-ID  oxalyl-CoA decarboxylase
+ID  Oxalyl-CoA decarboxylase
 RQ  1
 EV  IPR017660; TIGR03254; sufficient;
 //

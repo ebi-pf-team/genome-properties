@@ -1,7 +1,7 @@
 AC  GenProp0868
-DE  uncharacterized protein pair with twin-arg and repeat
+DE  Uncharacterized protein pair with twin-arg and repeat
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  TIGR03808 (repeats of TIGR03807) and TIGR03809
 **  Still dealing with suspicion that TIGR03809 could represent a shadow.
@@ -13,12 +13,12 @@ CC  TIGR03808 (repeats of TIGR03807) and TIGR03809
 **  public.
 --
 SN  RR_near
-ID  companion to novel twin-Arg-translocated protein
+ID  Companion to novel twin-Arg-translocated protein
 RQ  1
 EV  IPR022268; TIGR03809;
 --
 SN  RR_self
-ID  twin-arg-translocated protein with beta-helix-like repeat
+ID  Twin-arg-translocated protein with beta-helix-like repeat
 RQ  1
 EV  IPR022388; TIGR03808;
 //

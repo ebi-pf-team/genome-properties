@@ -1,7 +1,7 @@
 AC  GenProp1053
-DE  rSAM/selenodomain system
+DE  RSAM/selenodomain system
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  In this uncharacterized system, the radical SAM domain protein (see
 CC  TIGR04167) has a Cys-rich suffix domain modeled by PF12345. In at least
@@ -16,27 +16,27 @@ CC  family TIGR04169.
 **  MftF (mycofactocin).
 --
 SN  P_ester
-ID  phosphoesterase family protein
+ID  Phosphoesterase family protein
 RQ  0
 EV  IPR027629; TIGR04168;
 --
 SN  glycCof
-ID  putative glycosyltransferase, CofC-like
+ID  Putative glycosyltransferase, CofC-like
 RQ  1
 EV  IPR018641; TIGR04282;
 --
 SN  glycMft
-ID  putative glycosyltransferase, MftF-like
+ID  Putative glycosyltransferase, MftF-like
 RQ  1
 EV  IPR026461; TIGR04283;
 --
 SN  peroxFam
-ID  alkylhydroperoxidase/carboxymuconolactone decarboxylase family protein
+ID  Alkylhydroperoxidase/carboxymuconolactone decarboxylase family protein
 RQ  1
 EV  IPR026445; TIGR04169;
 --
 SN  rSAM_SeC
-ID  radical SAM/selenodomain protein
+ID  Radical SAM/selenodomain protein
 RQ  1
 EV  IPR026351; TIGR04167;
 //

@@ -1,7 +1,7 @@
 AC  GenProp0990
-DE  cobaltopeptin biosynthesis
+DE  Cobaltopeptin biosynthesis
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  A small peptide upstream of a radical SAM peptide maturase. The clue is
 CC  that several residues are invariant and it is downstream from a
@@ -15,12 +15,12 @@ CC  cobalamin riboswitch.
 **  but so does Mo.
 --
 SN  CbtA
-ID  cobaltopeptide precursor
+ID  Cobaltopeptide precursor
 RQ  1
 EV  IPR026421; TIGR04164;
 --
 SN  CbtB
-ID  radical SAM peptide maturase CbtB
+ID  Radical SAM peptide maturase CbtB
 RQ  1
 EV  IPR026423; TIGR04163;
 //

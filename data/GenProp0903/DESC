@@ -1,7 +1,7 @@
 AC  GenProp0903
-DE  radical SAM/uracil DNA glycosylase system
+DE  Radical SAM/uracil DNA glycosylase system
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This property represents a possible DNA modification and/or repair
 CC  system. One component is a protein of about 400 amino acids in length,
@@ -13,17 +13,17 @@ CC  domain, suggesting a role for this cassette in DNA repair,
 CC  modification, or both.
 --
 SN  UDG_UDG
-ID  putative uracil-DNA glycosylase, rSAM/UDG system
+ID  Putative uracil-DNA glycosylase, rSAM/UDG system
 RQ  0
 EV  IPR005273; TIGR03914;
 --
 SN  UDG_chp
-ID  uncharacterized protein, rSAM/UDG system
+ID  Uncharacterized protein, rSAM/UDG system
 RQ  1
 EV  IPR023875; TIGR03915;
 --
 SN  UDGrSAM
-ID  radical SAM protein, rSAM/UDG syste
+ID  Radical SAM protein, rSAM/UDG syste
 RQ  1
 EV  IPR023874; TIGR03916;
 //

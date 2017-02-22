@@ -1,7 +1,7 @@
 AC  GenProp0279
-DE  cobalt import systems
+DE  Cobalt import systems
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This summary property includes several different cobalt import
 CC  transporter systems.  It will have a state of YES if any one of these
@@ -39,7 +39,7 @@ ID
 RQ  1
 --
 SN  adapt
-ID  adapted HoxN or HupE: GenProp0278
+ID  Adapted HoxN or HupE: GenProp0278
 RQ  1
 EV  GenProp0278;
 //

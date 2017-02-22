@@ -1,7 +1,7 @@
 AC  GenProp1003
-DE  cysteine S-glycopeptide biosynthesis, sublancin family
+DE  Cysteine S-glycopeptide biosynthesis, sublancin family
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  21196935
@@ -21,7 +21,7 @@ RQ  1
 EV  IPR026479; TIGR04196;
 --
 SN  SunS
-ID  peptide cysteine S-glycosyltransferase, SunS family
+ID  Peptide cysteine S-glycosyltransferase, SunS family
 RQ  1
 EV  IPR026499; TIGR04195;
 TG  GO:0016144;

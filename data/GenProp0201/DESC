@@ -1,7 +1,7 @@
 AC  GenProp0201
 DE  SMC-ScpA-ScpB complex
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  12100548
@@ -31,8 +31,8 @@ CC  clustered in the archaea.
 **  clustered in the archaea. 
 --
 SN  SMC
-ID  smc protein
-DN  chromosome segregation protein SMC
+ID  Smc protein
+DN  Chromosome segregation protein SMC
 RQ  1
 EV  IPR011890; TIGR02168; sufficient;
 TG  GO:0030261;
@@ -41,14 +41,14 @@ TG  GO:0030261;
 --
 SN  scpA
 ID  ScpA protein
-DN  segregation and condensation protein A
+DN  Segregation and condensation protein A
 RQ  1
 EV  IPR003768; PF02616; sufficient;
 TG  GO:0030261;
 --
 SN  scpB
 ID  ScpB protein
-DN  segregation and condensation protein B
+DN  Segregation and condensation protein B
 RQ  1
 EV  IPR005234; TIGR00281; sufficient;
 TG  GO:0030261;

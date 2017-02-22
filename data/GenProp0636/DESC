@@ -1,28 +1,28 @@
 AC  GenProp0636
-DE  respiratory nitrate reductase
+DE  Respiratory nitrate reductase
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  The nitrate reductase enzyme complex allows bacteria to use nitrate as
 CC  an electron acceptor during anaerobic growth.
 --
 SN  narJ
-ID  nitrate reductase molybdenum cofactor assembly chaperone
+ID  Nitrate reductase molybdenum cofactor assembly chaperone
 RQ  1
 EV  IPR003765; TIGR00684; sufficient;
 --
 SN  nar_alp
-ID  respiratory nitrate reductase, alpha subunit
+ID  Respiratory nitrate reductase, alpha subunit
 RQ  1
 EV  IPR006468; TIGR01580; sufficient;
 --
 SN  nar_bet
-ID  respiratory nitrate reductase, beta subunit
+ID  Respiratory nitrate reductase, beta subunit
 RQ  1
 EV  IPR006547; TIGR01660; sufficient;
 --
 SN  nar_gam
-ID  respiratory nitrate reductase, gamma subunit
+ID  Respiratory nitrate reductase, gamma subunit
 RQ  1
 EV  IPR003816; TIGR00351; sufficient;
 //

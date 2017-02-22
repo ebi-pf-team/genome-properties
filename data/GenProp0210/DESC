@@ -1,7 +1,7 @@
 AC  GenProp0210
-DE  phenylacetic acid catabolism
+DE  Phenylacetic acid catabolism
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  1
 RN  [1]
 RM  11260461
@@ -56,11 +56,11 @@ CC  (paaX/phaN/----)  Putative regulator   paaY (paaY/phaM/pacM)
 **  broadened Lauren's
 --
 SN  paaA
-ID  enoyl-CoA hydratase
+ID  Enoyl-CoA hydratase
 RQ  0
 --
 SN  paaB
-ID  enoyl-CoA hydratase/isomerase, PaaB
+ID  Enoyl-CoA hydratase/isomerase, PaaB
 RQ  0
 EV  IPR011968; TIGR02280; sufficient;
 TG  GO:0010124;
@@ -72,53 +72,53 @@ EV  IPR011967; TIGR02279; sufficient;
 TG  GO:0010124;
 --
 SN  paaD
-ID  putative thioesterase, PaaD
+ID  Putative thioesterase, PaaD
 RQ  1
 EV  IPR011973; TIGR02286; sufficient;
 TG  GO:0010124;
 --
 SN  paaE
-ID  beta-ketothiolase, PaaE
+ID  Beta-ketothiolase, PaaE
 RQ  0
 --
 SN  paaF
-ID  phenylacetate-CoA ligase
+ID  Phenylacetate-CoA ligase
 RQ  1
 EV  IPR011880; TIGR02155; sufficient;
 TG  GO:0010124;
 --
 SN  paaG
-ID  phenylacetate-CoA oxygenase, PaaG subunit
+ID  Phenylacetate-CoA oxygenase, PaaG subunit
 RQ  1
 EV  IPR011881; TIGR02156; sufficient;
 TG  GO:0010124;
 --
 SN  paaH
-ID  phenylacetate-CoA oxygenase, PaaH subunit
+ID  Phenylacetate-CoA oxygenase, PaaH subunit
 RQ  1
 EV  IPR009359; TIGR02157; sufficient;
 TG  GO:0010124;
 --
 SN  paaI
-ID  phenylacetate-CoA oxygenase, PaaI subunit
+ID  Phenylacetate-CoA oxygenase, PaaI subunit
 RQ  1
 EV  IPR011882; TIGR02158; sufficient;
 TG  GO:0010124;
 --
 SN  paaJ
-ID  phenylacetate-CoA oxygenase, PaaJ subunit
+ID  Phenylacetate-CoA oxygenase, PaaJ subunit
 RQ  1
 EV  IPR011883; TIGR02159; sufficient;
 TG  GO:0010124;
 --
 SN  paaK
-ID  phenylacetate-CoA oxygenase/reductase, PaaK subunit
+ID  Phenylacetate-CoA oxygenase/reductase, PaaK subunit
 RQ  1
 EV  IPR011884; TIGR02160; sufficient;
 TG  GO:0010124;
 --
 SN  paaN
-ID  putative ring-opening aldehyde dehydrogenase, PaaN
+ID  Putative ring-opening aldehyde dehydrogenase, PaaN
 RQ  1
 EV  IPR011966; TIGR02278; sufficient;
 TG  GO:0010124;
@@ -126,13 +126,13 @@ EV  IPR011975; TIGR02288; sufficient;
 TG  GO:0010124;
 --
 SN  paaX
-ID  negative transcriptional regulator
+ID  Negative transcriptional regulator
 RQ  0
 EV  IPR011965; TIGR02277; sufficient;
 TG  GO:0010124;
 --
 SN  paaY
-ID  putative regulator (?)
+ID  Putative regulator (?)
 RQ  0
 EV  IPR011974; TIGR02287; sufficient;
 TG  GO:0010124;

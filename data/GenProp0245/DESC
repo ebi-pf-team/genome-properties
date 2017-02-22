@@ -1,7 +1,7 @@
 AC  GenProp0245
-DE  chaperone system: GroEL/GroES
+DE  Chaperone system: GroEL/GroES
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  9759498
@@ -23,15 +23,15 @@ CC  Archaea and CCT in the Eukaryota. At least one member of the archaeal
 CC  genus Methanosarcina, has both.
 --
 SN  GroEL
-ID  chaperonin GroEL
-DN  chaperonin GroEL
+ID  Chaperonin GroEL
+DN  Chaperonin GroEL
 RQ  1
 EV  IPR001844; TIGR02348; sufficient;
 TG  GO:0006457;
 --
 SN  GroES
-ID  co-chaperonin GroES
-DN  chaperonin GroES
+ID  Co-chaperonin GroES
+DN  Chaperonin GroES
 RQ  1
 EV  IPR020818; PF00166; sufficient;
 TG  GO:0006457;

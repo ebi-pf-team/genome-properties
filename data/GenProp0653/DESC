@@ -1,7 +1,7 @@
 AC  GenProp0653
-DE  ectoine catabolism
+DE  Ectoine catabolism
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  15687193
@@ -16,31 +16,31 @@ CC  these genes occur together four genes for an ectoine/hydroxyectoine ABC
 CC  transporter for ectoine uptake.
 --
 SN  eutA
-ID  ectoine utilization protein EutA
+ID  Ectoine utilization protein EutA
 RQ  1
 EV  IPR014332; TIGR02990; sufficient;
 TG  GO:0042400;
 --
 SN  eutB
-ID  ectoine utilization protein EutB
+ID  Ectoine utilization protein EutB
 RQ  1
 EV  IPR014333; TIGR02991; sufficient;
 TG  GO:0042400;
 --
 SN  eutC
-ID  ectoine utilization protein EutC
+ID  Ectoine utilization protein EutC
 RQ  1
 EV  IPR014334; TIGR02992; sufficient;
 TG  GO:0042400;
 --
 SN  eutD
-ID  ectoine utilization protein EutD
+ID  Ectoine utilization protein EutD
 RQ  1
 EV  IPR014335; TIGR02993; sufficient;
 TG  GO:0042400;
 --
 SN  eutE
-ID  ectoine utilization protein EutE
+ID  Ectoine utilization protein EutE
 RQ  1
 EV  IPR014336; TIGR02994; sufficient;
 TG  GO:0042400;

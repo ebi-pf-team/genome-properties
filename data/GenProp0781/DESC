@@ -1,7 +1,7 @@
 AC  GenProp0781
-DE  gliding motility, Bacteroidetes type
+DE  Gliding motility, Bacteroidetes type
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  16199564
@@ -23,22 +23,22 @@ RQ  1
 EV  IPR019864; TIGR03522;
 --
 SN  GldB
-ID  lipoprotein, GldB
+ID  Lipoprotein, GldB
 RQ  1
 EV  IPR019853; TIGR03514;
 --
 SN  GldC
-ID  unknown protein, GldC
+ID  Unknown protein, GldC
 RQ  0
 EV  IPR019854; TIGR03515;
 --
 SN  GldD
-ID  lipoprotein, GldD
+ID  Lipoprotein, GldD
 RQ  1
 EV  IPR019850; TIGR03512;
 --
 SN  GldE
-ID  unknown protein, GldE
+ID  Unknown protein, GldE
 RQ  0
 EV  IPR019862; TIGR03520;
 --
@@ -48,44 +48,44 @@ RQ  1
 EV  IPR019860; TIGR03518;
 --
 SN  GldG
-ID  proposed ABC transporter component, GldG
+ID  Proposed ABC transporter component, GldG
 RQ  1
 EV  IPR019863; TIGR03521;
 --
 SN  GldH
-ID  lipoprotein, GldH
+ID  Lipoprotein, GldH
 RQ  1
 EV  IPR020018; TIGR03511;
 --
 SN  GldI
-ID  lipoprotein, GldI
+ID  Lipoprotein, GldI
 RQ  1
 EV  IPR019869; TIGR03516;
 --
 SN  GldJ
-ID  lipoprotein, GldJ
+ID  Lipoprotein, GldJ
 RQ  1
 EV  IPR019865; TIGR03524;
 EV  IPR019868; TIGR03530;
 --
 SN  GldK
-ID  lipoprotein, GldK
+ID  Lipoprotein, GldK
 RQ  1
 EV  IPR019866; TIGR03525;
 EV  IPR019867; TIGR03529;
 --
 SN  GldL
-ID  unknown protein, GldL
+ID  Unknown protein, GldL
 RQ  1
 EV  IPR019852; TIGR03513;
 --
 SN  GldM
-ID  unknown protein, GldM
+ID  Unknown protein, GldM
 RQ  1
 EV  IPR019859; TIGR03517;
 --
 SN  GldN
-ID  unknown protein, GldN
+ID  Unknown protein, GldN
 RQ  1
 EV  IPR019847; TIGR03523;
 --

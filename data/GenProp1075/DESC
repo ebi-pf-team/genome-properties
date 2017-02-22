@@ -1,7 +1,7 @@
 AC  GenProp1075
-DE  ferrous iron transport Feo system
+DE  Ferrous iron transport Feo system
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  23104801
@@ -21,19 +21,19 @@ CC  transport system. No siderophores are involved. Ferrous iron (Fe(2+))
 CC  typically is present only during oxygen limitation.
 --
 SN  feoA
-ID  ferrous iron transport protein A
+ID  Ferrous iron transport protein A
 RQ  1
 EV  IPRXXXX; PF04023;
 TG  GO:0015684;
 --
 SN  feoB
-ID  ferrous iron transport protein B
+ID  Ferrous iron transport protein B
 RQ  1
 EV  IPR003373; TIGR00437;
 TG  GO:0015684;
 --
 SN  feoC
-ID  ferrous iron transport protein C
+ID  Ferrous iron transport protein C
 RQ  0
 EV  IPRXXXX; PF09012;
 TG  GO:1900390;

@@ -1,7 +1,7 @@
 AC  GenProp0640
-DE  xanthine dehydrogenase
+DE  Xanthine dehydrogenase
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  16597619
@@ -20,17 +20,17 @@ CC  pair.
 **  yet.
 --
 SN  xdhA
-ID  xanthine dehydrogenase, 2Fe2S/FAD subunit
+ID  Xanthine dehydrogenase, 2Fe2S/FAD subunit
 RQ  1
 EV  IPR014307; TIGR02963; sufficient;
 --
 SN  xdhB
-ID  xanthine dehydrogenase, molybdopterin subunit
+ID  Xanthine dehydrogenase, molybdopterin subunit
 RQ  1
 EV  IPR014309; TIGR02965; sufficient;
 --
 SN  xdhC
-ID  xanthine dehydrogenase accessory protein XdhC
+ID  Xanthine dehydrogenase accessory protein XdhC
 RQ  1
 EV  IPR014308; TIGR02964; sufficient;
 //

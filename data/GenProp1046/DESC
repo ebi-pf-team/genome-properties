@@ -1,7 +1,7 @@
 AC  GenProp1046
 DE  O153(Ec)-antigen biosynthesis
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  7834647
@@ -26,7 +26,7 @@ RQ  1
 EV  IPRXXXX; 2929;
 --
 SN  GT-2
-ID  putative D-galactose beta-1,4-ribofuranosyltransferase
+ID  Putative D-galactose beta-1,4-ribofuranosyltransferase
 RQ  1
 EV  IPRXXXX; 2932;
 --

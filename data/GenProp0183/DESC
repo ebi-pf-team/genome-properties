@@ -1,7 +1,7 @@
 AC  GenProp0183
-DE  dTDP-L-rhamnose biosynthesis from dTDP-4-dehydro-L-rhamnose
+DE  DTDP-L-rhamnose biosynthesis from dTDP-4-dehydro-L-rhamnose
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  10802738
@@ -15,13 +15,13 @@ DC  dTDP-L-rhamnose biosynthesis I
 DR  MetaCyc; Rhamnose-Biosynthesis;
 --
 SN  4dhLRha
-ID  source of dTDP-4-dehydro-L-rhamnose
+ID  Source of dTDP-4-dehydro-L-rhamnose
 RQ  1
 EV  GenProp1032;
 --
 SN  rfbD
-ID  dTDP-4-dehydrorhamnose reductase
-DN  dTDP-4-dehydrorhamnose reductase
+ID  DTDP-4-dehydrorhamnose reductase
+DN  DTDP-4-dehydrorhamnose reductase
 RQ  1
 EV  IPR005913; TIGR01214; sufficient;
 //

@@ -1,7 +1,7 @@
 AC  GenProp0618
-DE  cytochrome (quinone) oxidase, bo type
+DE  Cytochrome (quinone) oxidase, bo type
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  1
 RN  [1]
 RM  2162835
@@ -18,27 +18,27 @@ CC  complex is structurally analagous to the aa3-type cytochrome c oxidases
 CC  [1] which contains cytochromes a and copper.
 --
 SN  CyoA
-ID  subunit II, CyoA
+ID  Subunit II, CyoA
 RQ  1
 EV  IPR006333; TIGR01433; sufficient;
 --
 SN  CyoB
-ID  subunit I, CyoB
+ID  Subunit I, CyoB
 RQ  1
 EV  IPR014207; TIGR02843; sufficient;
 --
 SN  CyoC
-ID  subunit III, CyoC
+ID  Subunit III, CyoC
 RQ  1
 EV  IPR014206; TIGR02842; sufficient;
 --
 SN  CyoD
-ID  subunit IV, CyoD
+ID  Subunit IV, CyoD
 RQ  1
 EV  IPR014210; TIGR02847; sufficient;
 --
 SN  CyoE
-ID  protoheme IX farnesyltransferase, CyoE
+ID  Protoheme IX farnesyltransferase, CyoE
 RQ  1
 EV  IPR006369; TIGR01473; sufficient;
 //

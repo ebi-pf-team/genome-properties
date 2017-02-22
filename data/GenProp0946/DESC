@@ -1,7 +1,7 @@
 AC  GenProp0946
 DE  GDP-L-colitose biosynthesis
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  15610039
@@ -26,7 +26,7 @@ RQ  1
 EV  IPRXXXX; 2744;
 --
 SN  GDP-KDM
-ID  source of GDP-4-keto-6-deoxymannose
+ID  Source of GDP-4-keto-6-deoxymannose
 RQ  1
 EV  GenProp0930;
 //

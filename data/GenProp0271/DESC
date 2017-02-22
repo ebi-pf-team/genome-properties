@@ -1,7 +1,7 @@
 AC  GenProp0271
-DE  trehalose utilization
+DE  Trehalose utilization
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This system consists of three components, typically in a single operon.
 CC  First is a PTS system transporter (TIGR01992) by which trehalose enters
@@ -19,13 +19,13 @@ RQ  1
 EV  IPR011296; TIGR01992; sufficient;
 --
 SN  cleave
-ID  trehalose-6-phosphate hydrolase
-DN  trehalose-6-phosphate hydrolase
+ID  Trehalose-6-phosphate hydrolase
+DN  Trehalose-6-phosphate hydrolase
 RQ  1
 EV  IPR012769; TIGR02403; sufficient;
 --
 SN  repress
-ID  trehalose operon repressor
+ID  Trehalose operon repressor
 RQ  1
 EV  IPR012770; TIGR02404; sufficient;
 EV  IPR012771; TIGR02405; sufficient;

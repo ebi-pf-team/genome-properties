@@ -1,7 +1,7 @@
 AC  GenProp1070
-DE  beta-glutamate biosynthesis
+DE  Beta-glutamate biosynthesis
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  17222594
@@ -22,7 +22,7 @@ CC  riboswitch, which appears to bind a metabolite that indicates cellular
 CC  stress.
 --
 SN  BetaGlu
-ID  glutamate 2,3-aminomutase
+ID  Glutamate 2,3-aminomutase
 RQ  1
 EV  IPR030801; TIGR04368;
 //

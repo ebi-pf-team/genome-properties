@@ -1,7 +1,7 @@
 AC  GenProp1006
-DE  orbivirus protein set
+DE  Orbivirus protein set
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  20428242
@@ -33,22 +33,22 @@ CC  13 amino acids shorter.
 **  not.
 --
 SN  Orb_NS1
-ID  tubule protein NS1
+ID  Tubule protein NS1
 RQ  1
 EV  IPR002630; PF01718;
 --
 SN  Orb_NS2
-ID  inclusion body matrix protein NS2
+ID  Inclusion body matrix protein NS2
 RQ  1
 EV  IPR007602; PF04514;
 --
 SN  Orb_NS3
-ID  nonstructural protein NS3/NS3A
+ID  Nonstructural protein NS3/NS3A
 RQ  1
 EV  IPR002565; PF01616;
 --
 SN  Orb_NS4
-ID  nonstructural protein NS4
+ID  Nonstructural protein NS4
 RQ  0
 --
 SN  Orb_VP1
@@ -57,32 +57,32 @@ RQ  1
 EV  IPR008723; PF05788;
 --
 SN  Orb_VP2
-ID  outer capsid protein VP2
+ID  Outer capsid protein VP2
 RQ  1
 EV  IPR001742; PF00898;
 --
 SN  Orb_VP3
-ID  inner capsid protein VP3
+ID  Inner capsid protein VP3
 RQ  1
 EV  IPR002614; PF01700;
 --
 SN  Orb_VP4
-ID  capping/transmethylase enzyme VP4
+ID  Capping/transmethylase enzyme VP4
 RQ  1
 EV  IPR007753; PF05059;
 --
 SN  Orb_VP5
-ID  outer capsid protein VP5
+ID  Outer capsid protein VP5
 RQ  1
 EV  IPR000145; PF00901;
 --
 SN  Orb_VP6
-ID  helicase VP6
+ID  Helicase VP6
 RQ  1
 EV  IPR001399; PF01516;
 --
 SN  Orb_VP7
-ID  inner capsid protein VP7
+ID  Inner capsid protein VP7
 RQ  1
 EV  IPR001803; PF00897;
 //

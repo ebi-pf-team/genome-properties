@@ -1,7 +1,7 @@
 AC  GenProp0735
-DE  type VI secretion
+DE  Type VI secretion
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  2
 RN  [1]
 RM  16763151
@@ -48,19 +48,19 @@ CC  proximity to other type VI secretion genes.
 **  A meeting summary, PMID:17020575, refers to this as type VI secretion.
 --
 SN  VI_DotU
-ID  type VI secretion system DotU family protein
+ID  Type VI secretion system DotU family protein
 RQ  1
 EV  IPR017732; TIGR03349;
 TG  GO:0033103;
 --
 SN  VI_EvpB
-ID  type VI secretion protein, VC_A0108 family
+ID  Type VI secretion protein, VC_A0108 family
 RQ  1
 EV  IPR010269; TIGR03355;
 TG  GO:0033103;
 --
 SN  VI_FHA
-ID  type VI secretion system FHA domain protein
+ID  Type VI secretion system FHA domain protein
 RQ  1
 EV  IPR017735; TIGR03354;
 TG  GO:0033103;
@@ -72,82 +72,82 @@ EV  IPR017731; TIGR03348;
 TG  GO:0033103;
 --
 SN  VI_OmpA
-ID  type VI secretion system OmpA/MotB domain
+ID  Type VI secretion system OmpA/MotB domain
 RQ  0
 EV  IPR017733; TIGR03350;
 TG  GO:0033103;
 --
 SN  VI_clp
-ID  type VI secretion ATPase ClpV1
+ID  Type VI secretion ATPase ClpV1
 RQ  1
 EV  IPR017729; TIGR03345;
 TG  GO:0033103;
 --
 SN  VI_hcp
-ID  type VI secretion target, Hcp family
+ID  Type VI secretion target, Hcp family
 RQ  1
 EV  IPR008514; TIGR03344;
 TG  GO:0033103;
 --
 SN  VI_lipo
-ID  type VI secretion lipoprotein, VC_A0113 family
+ID  Type VI secretion lipoprotein, VC_A0113 family
 RQ  1
 EV  IPR017734; TIGR03352;
 TG  GO:0033103;
 --
 SN  VI_vgr
-ID  type VI secretion system Vgr family protein
+ID  Type VI secretion system Vgr family protein
 RQ  1
 EV  IPR017847; TIGR03361;
 TG  GO:0033103;
 --
 SN  VI_xx_1
-ID  type VI secretion protein, VC_A0111 family
+ID  Type VI secretion protein, VC_A0111 family
 RQ  1
 EV  IPR010732; TIGR03347;
 TG  GO:0033103;
 --
 SN  VI_xx_2
-ID  type VI secretion protein, VC_A0114 family
+ID  Type VI secretion protein, VC_A0114 family
 RQ  1
 EV  IPR010263; TIGR03353;
 TG  GO:0033103;
 --
 SN  VI_xx_4
-ID  type VI secretion protein, VC_A0107 family
+ID  Type VI secretion protein, VC_A0107 family
 RQ  1
 EV  IPR008312; TIGR03358;
 TG  GO:0033103;
 --
 SN  VI_xx_5
-ID  type VI secretion protein, VC_A0110 family
+ID  Type VI secretion protein, VC_A0110 family
 RQ  1
 EV  IPR010272; TIGR03359;
 TG  GO:0033103;
 --
 SN  VI_zyme
-ID  type VI secretion system lysozyme-like protein
+ID  Type VI secretion system lysozyme-like protein
 RQ  1
 EV  IPR017737; TIGR03357;
 TG  GO:0033103;
 --
 SN  minor_1
-ID  type VI secretion-associated protein, VC_A0118 family
+ID  Type VI secretion-associated protein, VC_A0118 family
 RQ  0
 EV  IPR017738; TIGR03360;
 --
 SN  minor_2
-ID  type VI secretion-associated protein, VC_A0119 family
+ID  Type VI secretion-associated protein, VC_A0119 family
 RQ  0
 EV  IPR017739; TIGR03362;
 --
 SN  minor_3
-ID  type VI secretion-associated protein, BMA_A0402 family
+ID  Type VI secretion-associated protein, BMA_A0402 family
 RQ  0
 EV  IPR017740; TIGR03363;
 --
 SN  minor_4
-ID  type VI secretion-associated protein, BMA_A0400
+ID  Type VI secretion-associated protein, BMA_A0400
 RQ  0
 EV  IPR017748; TIGR03373;
 //

@@ -1,7 +1,7 @@
 AC  GenProp0859
-DE  protein sorting system, proteobacterial dedicated sortase type
+DE  Protein sorting system, proteobacterial dedicated sortase type
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This property represents a specialization of SrtA-like sortase systems
 CC  in the Proteobacteria, including many marine species. In contrast to
@@ -13,7 +13,7 @@ CC  the sortase and target pair are accompanied by a histidine kinase and
 CC  response regulator pair.
 --
 SN  pdsHK
-ID  proteobacterial dedicated sortase system histidine kinase
+ID  Proteobacterial dedicated sortase system histidine kinase
 RQ  0
 EV  IPR022510; TIGR03785;
 --
@@ -23,12 +23,12 @@ RQ  1
 EV  IPR022440; TIGR03788;
 --
 SN  pdsRR
-ID  proteobacterial dedicated sortase system response regulator
+ID  Proteobacterial dedicated sortase system response regulator
 RQ  0
 EV  IPR022305; TIGR03787;
 --
 SN  pdsSRT
-ID  sortase, proteobacterial dedicated type
+ID  Sortase, proteobacterial dedicated type
 RQ  1
 EV  IPR022445; TIGR03784;
 //

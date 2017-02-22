@@ -1,7 +1,7 @@
 AC  GenProp0273
-DE  protocatechuate degradation to beta-ketoadipate
+DE  Protocatechuate degradation to beta-ketoadipate
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  15006791
@@ -23,15 +23,15 @@ CC  acetyl-CoA.
 **  for 4.1.1.44. DHH.  
 --
 SN  1_pcaG
-ID  protocatechuate 3,4-dioxygenase, alpha subunit
-DN  protocatechuate 3,4-dioxygenase, alpha subunit (EC 1.13.11.3)
+ID  Protocatechuate 3,4-dioxygenase, alpha subunit
+DN  Protocatechuate 3,4-dioxygenase, alpha subunit (EC 1.13.11.3)
 RQ  1
 EV  IPR012786; TIGR02423; sufficient;
 TG  GO:0019619;
 --
 SN  1_pcaH
-ID  protocatechuate 3,4-dioxygenase, beta subunit
-DN  protocatechuate 3,4-dioxygenase, beta subunit (EC 1.13.11.3)
+ID  Protocatechuate 3,4-dioxygenase, beta subunit
+DN  Protocatechuate 3,4-dioxygenase, beta subunit (EC 1.13.11.3)
 RQ  1
 EV  IPR012785; TIGR02422; sufficient;
 TG  GO:0019619;
@@ -64,8 +64,8 @@ RQ  0
 EV  IPR012787; TIGR02424; sufficient;
 --
 SN  pcaR
-ID  regulators, PcaR/PcaU/PobR family
-DN  beta-ketoadipate pathway transcriptional regulator, PcaR/PcaU/PobR family
+ID  Regulators, PcaR/PcaU/PobR family
+DN  Beta-ketoadipate pathway transcriptional regulator, PcaR/PcaU/PobR family
 RQ  0
 EV  IPR012794; TIGR02431; sufficient;
 //

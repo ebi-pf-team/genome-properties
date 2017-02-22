@@ -1,7 +1,7 @@
 AC  GenProp0849
-DE  quorum-sensing, Bacillus PlcR-PapR system
+DE  Quorum-sensing, Bacillus PlcR-PapR system
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  18492723
@@ -16,13 +16,13 @@ CC  exported, cleaved extracellularly by the NprB protease, and the active
 CC  peptide imported by the oligopeptide permease system OppABCDF.
 --
 SN  papR
-ID  cell-cell signalling protein PapR
+ID  Cell-cell signalling protein PapR
 RQ  1
 EV  IPR009239; PF05968;
 TG  GO:0052100;
 --
 SN  plcR
-ID  global transcriptional regulator PlcR
+ID  Global transcriptional regulator PlcR
 RQ  1
 EV  IPRXXXX; 2403;
 TG  GO:0052100;

@@ -1,7 +1,7 @@
 AC  GenProp0871
-DE  decarboxylation/antiport proton-motive cycle: ornithine-putrescine
+DE  Decarboxylation/antiport proton-motive cycle: ornithine-putrescine
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  1584788
@@ -29,7 +29,7 @@ CC  aspartate-alanine) substrate pairs can provide protection against
 CC  acidic pH.
 --
 SN  PotE
-ID  ornithine-putrescine antiporter
+ID  Ornithine-putrescine antiporter
 RQ  1
 EV  IPRXXXX; 2647;
 TG  GO:0010248;
@@ -37,7 +37,7 @@ EV  IPR027566; TIGR04299;
 TG  GO:0010248;
 --
 SN  SpeF
-ID  ornithine decarboxylase
+ID  Ornithine decarboxylase
 RQ  1
 EV  IPRXXXX; 2646;
 TG  GO:0010248;

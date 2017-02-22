@@ -1,7 +1,7 @@
 AC  GenProp0492
-DE  nonhomologous end-joining, bacterial type
+DE  Nonhomologous end-joining, bacterial type
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  16132081
@@ -37,13 +37,13 @@ EV  IPR014144; TIGR02777; sufficient;
 TG  GO:0006303;
 --
 SN  ligase
-ID  ligase domain
+ID  Ligase domain
 RQ  1
 EV  IPR014146; TIGR02779; sufficient;
 TG  GO:0006303;
 --
 SN  poly
-ID  polymerase domain
+ID  Polymerase domain
 RQ  1
 EV  IPR014145; TIGR02778; sufficient;
 TG  GO:0006303;

@@ -1,7 +1,7 @@
 AC  GenProp0962
-DE  methanobactin biosynthesis, Mb-OB3b family
+DE  Methanobactin biosynthesis, Mb-OB3b family
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  20961038
@@ -24,19 +24,19 @@ CC  the methanobactin system.
 **  TIGR04061 = AZL_007950_fam.
 --
 SN  mbnA
-ID  methanobactin precursor, Mb-OB3b family
+ID  Methanobactin precursor, Mb-OB3b family
 RQ  1
 EV  IPR023963; TIGR04071;
 TG  GO:0015677;
 --
 SN  mbnB
-ID  methanobactin biosynthesis cassette protein MbnB
+ID  Methanobactin biosynthesis cassette protein MbnB
 RQ  1
 EV  IPR026431; TIGR04159;
 TG  GO:0015677;
 --
 SN  mbnC
-ID  methanobactin biosynthesis cassette protein MbnC
+ID  Methanobactin biosynthesis cassette protein MbnC
 RQ  1
 EV  IPR026434; TIGR04160;
 TG  GO:0015677;

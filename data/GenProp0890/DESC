@@ -1,7 +1,7 @@
 AC  GenProp0890
-DE  copper homeostasis system CopRS/CopABCD
+DE  Copper homeostasis system CopRS/CopABCD
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  19557345
@@ -21,32 +21,32 @@ CC  regulator.
 **  model is broader, heavy metals, needs copper focus.
 --
 SN  copA
-ID  copper-resistance protein, CopA family
+ID  Copper-resistance protein, CopA family
 RQ  1
 EV  IPR006376; TIGR01480;
 --
 SN  copB
-ID  copper-resistance protein, CopB family
+ID  Copper-resistance protein, CopB family
 RQ  1
 EV  IPR007939; PF05275;
 --
 SN  copC
-ID  copper resistance protein, CopC family
+ID  Copper resistance protein, CopC family
 RQ  1
 EV  IPR007348; PF04234;
 --
 SN  copD
-ID  copper resistance protein, CopD family
+ID  Copper resistance protein, CopD family
 RQ  1
 EV  IPR008457; PF05425;
 --
 SN  copR
-ID  copper resistance response regulator
+ID  Copper resistance response regulator
 RQ  0
 EV  IPRXXXX; 2679;
 --
 SN  copS
-ID  heavy metal sensor kinase
+ID  Heavy metal sensor kinase
 RQ  1
 EV  IPR006290; TIGR01386;
 //

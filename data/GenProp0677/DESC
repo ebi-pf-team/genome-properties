@@ -1,7 +1,7 @@
 AC  GenProp0677
-DE  queuosine (Q-tRNA) biosynthesis from preQ0
+DE  Queuosine (Q-tRNA) biosynthesis from preQ0
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  15767583
@@ -30,23 +30,23 @@ CC  four enzymes, two reductases, a tRNA(GUN) transferase and an
 CC  adenosylmethionine ribosyl transferase-isomerase.
 --
 SN  Q1trans
-ID  preQ1 tRNA transferase
+ID  PreQ1 tRNA transferase
 RQ  1
 EV  IPR004803; TIGR00430; sufficient;
 TG  GO:0008616;
 --
 SN  Qsynth
-ID  queuosine synthetase oxo-queuosine reductase
+ID  Queuosine synthetase oxo-queuosine reductase
 RQ  0
 --
 SN  QueA
-ID  preQ1-tRNA adenosyl methionine ribosyl transferase isomerase
+ID  PreQ1-tRNA adenosyl methionine ribosyl transferase isomerase
 RQ  1
 EV  IPR003699; TIGR00113; sufficient;
 TG  GO:0008616;
 --
 SN  QueF
-ID  preQ0 reductase
+ID  PreQ0 reductase
 RQ  1
 EV  IPR016428; TIGR03138; sufficient;
 TG  GO:0008616;
@@ -54,7 +54,7 @@ EV  IPR016856; TIGR03139; sufficient;
 TG  GO:0008616;
 --
 SN  QueG
-ID  epoxyqueuosine reductase
+ID  Epoxyqueuosine reductase
 RQ  1
 EV  IPR004453; TIGR00276;
 TG  GO:0008616;

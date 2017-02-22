@@ -1,7 +1,7 @@
 AC  GenProp0751
 DE  Acidobacterial ADOP/PadR gene pairs
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This property represents the presence of a characteristic gene pair,
 CC  found in large paralogous families in several species of Acidobacteria.
@@ -18,7 +18,7 @@ RQ  1
 EV  IPR017800; TIGR03434;
 --
 SN  PadR
-ID  transcriptional regulator, Acidobacterial, PadR-family
+ID  Transcriptional regulator, Acidobacterial, PadR-family
 RQ  1
 EV  IPR017799; TIGR03433;
 //

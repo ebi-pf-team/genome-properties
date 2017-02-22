@@ -1,7 +1,7 @@
 AC  GenProp0834
-DE  proteasome, bacterial
+DE  Proteasome, bacterial
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  The proteasome, a large complex formed of alpha and beta subunits,
 CC  performs protein degradation in eukaryotes, archaea, and bacteria. This
@@ -14,13 +14,13 @@ CC  outside the scope of the archaeal-type bacterial 20S proteasome
 CC  described here.  
 --
 SN  prcA
-ID  proteasome, alpha subunit
+ID  Proteasome, alpha subunit
 RQ  1
 EV  IPR022296; TIGR03691;
 TG  GO:0010498;
 --
 SN  prcB
-ID  proteasome, beta subunit
+ID  Proteasome, beta subunit
 RQ  1
 EV  IPR022483; TIGR03690;
 TG  GO:0010498;

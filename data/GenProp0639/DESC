@@ -1,7 +1,7 @@
 AC  GenProp0639
-DE  arginine degradation via citrulline, ATP-generating
+DE  Arginine degradation via citrulline, ATP-generating
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  15006749
@@ -14,22 +14,22 @@ CC  citrulline and carbamoyl phosphate.  The ornithine may be further
 CC  processed via putrescine.
 --
 SN  ArcA
-ID  arginine deiminase
+ID  Arginine deiminase
 RQ  1
 EV  IPR003876; TIGR01078; sufficient;
 --
 SN  ArcB
-ID  ornithine carbamoyltransferase
+ID  Ornithine carbamoyltransferase
 RQ  1
 EV  IPR002292; TIGR00658; sufficient;
 --
 SN  ArcC
-ID  carbamate kinase
+ID  Carbamate kinase
 RQ  0
 EV  IPR003964; TIGR00746; sufficient;
 --
 SN  ArcD
-ID  arginine-ornithine antiporter
+ID  Arginine-ornithine antiporter
 RQ  0
 EV  IPRXXXX; 2648;
 EV  IPR022461; TIGR03810;

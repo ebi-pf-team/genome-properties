@@ -1,17 +1,17 @@
 AC  GenProp0851
-DE  integration host factor
+DE  Integration host factor
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  integration host factor as a heterodimer of subunits alpha and beta.
 --
 SN  ihfA
-ID  integration host factor, alpha subunit
+ID  Integration host factor, alpha subunit
 RQ  1
 EV  IPR005684; TIGR00987;
 --
 SN  ihfB
-ID  integration host factor, beta subunit
+ID  Integration host factor, beta subunit
 RQ  1
 EV  IPR005685; TIGR00988;
 //

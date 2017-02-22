@@ -1,8 +1,8 @@
 AC  GenProp0253
-DE  thiamine: hydroxymethylpyrimidine pyrophosphate from aminoimidazole
-DE  ribotide
+DE  Thiamine: hydroxymethylpyrimidine pyrophosphate from aminoimidazole
+DE  Ribotide
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  1
 CC  Hydroxymethylpyrimidine pyrophosphate (HMP-PP) and hydroxyethylthiazole
 CC  phosphate (HET-P) are the two components attached by ThiE to yield
@@ -15,18 +15,18 @@ CC  ribotide (AIR), starting with the ThiC enzyme.
 --
 SN  ThiC
 ID  ThiC protein
-DN  thiamine biosynthesis protein ThiC
+DN  Thiamine biosynthesis protein ThiC
 RQ  1
 EV  IPR002817; TIGR00190; sufficient;
 --
 SN  tenA
-ID  tenA domain/protein
+ID  TenA domain/protein
 RQ  0
 EV  IPR004305; PF03070; sufficient;
 --
 SN  thiD
-ID  phosphomethylpyrimidine kinase
-DN  phosphomethylpyrimidine kinase
+ID  Phosphomethylpyrimidine kinase
+DN  Phosphomethylpyrimidine kinase
 RQ  1
 EV  IPR004399; TIGR00097; sufficient;
 //

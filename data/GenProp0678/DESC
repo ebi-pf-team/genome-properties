@@ -1,7 +1,7 @@
 AC  GenProp0678
-DE  c-type cytochrome biogenesis, system I
+DE  C-type cytochrome biogenesis, system I
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  15513913
@@ -21,33 +21,33 @@ CC  bacterial species.
 **  of CcmD, November 2012. NEEDS WORK.
 --
 SN  CcmA
-ID  heme ABC exporter, ATP-binding protein CcmA
+ID  Heme ABC exporter, ATP-binding protein CcmA
 RQ  1
 EV  IPR005895; TIGR01189; sufficient;
 --
 SN  CcmB
-ID  heme exporter protein CcmB
+ID  Heme exporter protein CcmB
 RQ  1
 EV  IPR026031; TIGR01190; sufficient;
 --
 SN  CcmC
-ID  heme exporter protein CcmC
+ID  Heme exporter protein CcmC
 RQ  1
 EV  IPR003557; TIGR01191; sufficient;
 --
 SN  CcmD
-ID  heme exporter protein CcmD
+ID  Heme exporter protein CcmD
 RQ  1
 EV  IPR007078; PF04995; sufficient;
 EV  IPRO30888; TIGR04391; sufficient;
 --
 SN  CcmE
-ID  cytochrome c-type biogenesis protein CcmE
+ID  Cytochrome c-type biogenesis protein CcmE
 RQ  1
 EV  IPR004329; PF03100; sufficient;
 --
 SN  CcmF
-ID  cytochrome c-type biogenesis protein CcmF
+ID  Cytochrome c-type biogenesis protein CcmF
 RQ  1
 EV  IPR003568; TIGR00353; sufficient;
 --
@@ -57,12 +57,12 @@ RQ  1
 EV  IPR004799; TIGR00385; sufficient;
 --
 SN  CcmH
-ID  cytochrome C biogenesis protein CcmH/CycL/NrfF/Ccl2
+ID  Cytochrome C biogenesis protein CcmH/CycL/NrfF/Ccl2
 RQ  1
 EV  IPR005616; PF03918; sufficient;
 --
 SN  CcmI
-ID  cytochrome c-type biogenesis protein CcmI
+ID  Cytochrome c-type biogenesis protein CcmI
 RQ  0
 EV  IPR017560; TIGR03142; sufficient;
 //

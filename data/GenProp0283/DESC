@@ -1,7 +1,7 @@
 AC  GenProp0283
-DE  beta-ketoadipate degradation to succinyl-CoA and acetyl-CoA
+DE  Beta-ketoadipate degradation to succinyl-CoA and acetyl-CoA
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  The beta-ketoadipate pathway is the general term for pathways that
 CC  degrade aromatic compounds, via either catechol or protocatechuate, to
@@ -10,8 +10,8 @@ CC  property represents the shared final two steps, from beta-ketoadipate
 CC  to succinyl- and acetyl-CoA.
 --
 SN  pcaF
-ID  beta-ketoadipyl CoA thiolase
-DN  beta-ketoadipyl CoA thiolase
+ID  Beta-ketoadipyl CoA thiolase
+DN  Beta-ketoadipyl CoA thiolase
 RQ  1
 EV  IPR012793; TIGR02430; sufficient;
 EV  IPRXXXX; TIGR01930;

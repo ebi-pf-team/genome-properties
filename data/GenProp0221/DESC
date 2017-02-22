@@ -1,7 +1,7 @@
 AC  GenProp0221
-DE  protoporphyrin IX biosynthesis from uroporphyrinogen III
+DE  Protoporphyrin IX biosynthesis from uroporphyrinogen III
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This property describes a three step pathway that converts
 CC  uroporphyrinogen III to protoporphyrin IX, a precursor to both
@@ -9,15 +9,15 @@ CC  protoheme (heme) and chlorophyll. Uroporphyrinogen III can be derived
 CC  from 5-aminolevulinate, as described by GenProp0220.
 --
 SN  hemE
-ID  uroporphyrinogen decarboxylase
-DN  uroporphyrinogen decarboxylase
+ID  Uroporphyrinogen decarboxylase
+DN  Uroporphyrinogen decarboxylase
 RQ  1
 EV  IPR006361; TIGR01464; sufficient;
 TG  GO:0006779;
 --
 SN  hemF
-ID  coproporphyrinogen III oxidase
-DN  coproporphyrinogen III oxidase
+ID  Coproporphyrinogen III oxidase
+DN  Coproporphyrinogen III oxidase
 RQ  1
 EV  IPR001260; PF01218; sufficient;
 TG  GO:0006779;
@@ -25,8 +25,8 @@ EV  IPR004558; TIGR00538; sufficient;
 TG  GO:0006779;
 --
 SN  hemG
-ID  protoporphyrinogen oxidase
-DN  protoporphyrinogen oxidase
+ID  Protoporphyrinogen oxidase
+DN  Protoporphyrinogen oxidase
 RQ  1
 EV  IPR004572; TIGR00562; sufficient;
 TG  GO:0006779;

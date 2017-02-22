@@ -1,7 +1,7 @@
 AC  GenProp0280
-DE  cobalt import system (CbtAB - proposed)
+DE  Cobalt import system (CbtAB - proposed)
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  12869542
@@ -20,12 +20,12 @@ CC  regulatory sites, 4) the absence of other known cobalt import systems
 CC  and 5) the obligate co-localization of CbtA and CbtB.
 --
 SN  CbtA
-ID  cobalt transporter subunit CbtA
+ID  Cobalt transporter subunit CbtA
 RQ  1
 EV  IPR012666; TIGR02458; sufficient;
 --
 SN  CbtB
-ID  cobalt transporter subunit CbtB
+ID  Cobalt transporter subunit CbtB
 RQ  1
 EV  IPR012667; TIGR02459; sufficient;
 //

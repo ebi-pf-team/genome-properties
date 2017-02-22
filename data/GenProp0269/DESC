@@ -1,7 +1,7 @@
 AC  GenProp0269
-DE  coenzyme B12 biosynthesis from cob(II)yrinate diamide
+DE  Coenzyme B12 biosynthesis from cob(II)yrinate diamide
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  1
 CC  This property covers the main branch of the latter part of the Coenzyme
 CC  B12 (5-deoxyadenosyl cobalamin) biosynthesis pathway from
@@ -11,53 +11,53 @@ CC  have the capability to synthesize (or otherwise obtain)
 CC  1-amino-2-propanol and alpha-ribazole.
 --
 SN  AcbPsyn
-ID  adenosylcobinamide-phosphate synthase
+ID  Adenosylcobinamide-phosphate synthase
 RQ  0
 EV  IPR004485; TIGR00380; sufficient;
 --
 SN  CobA
-ID  cobyrinate adenosyltransferases (BtuR, PduO, EutT)
+ID  Cobyrinate adenosyltransferases (BtuR, PduO, EutT)
 RQ  1
 EV  IPR003724; TIGR00708; sufficient;
 EV  IPR029499; TIGR00636; sufficient;
 EV  IPR016030; PF01923; sufficient;
 --
 SN  CobC/Z
-ID  alpha-ribazole-5`-phosphate phosphatase
+ID  Alpha-ribazole-5`-phosphate phosphatase
 RQ  0
 EV  IPR017577; TIGR03161; sufficient;
 EV  IPR017578; TIGR03162; sufficient;
 --
 SN  CobD
-ID  adenosylcobinamide synthase (CobD)
+ID  Adenosylcobinamide synthase (CobD)
 RQ  1
 EV  IPR004485; PF03186; sufficient;
 --
 SN  CobQ
-ID  cobyric acid synthase (CobQ/CbiP)
+ID  Cobyric acid synthase (CobQ/CbiP)
 RQ  1
 EV  IPR004459; TIGR00313; sufficient;
 --
 SN  CobS
-ID  cobalamine 5-phosphate synthase (alpha ribazole transferase) (CobV)
-DN  cobalamin 5-phosphate synthase
+ID  Cobalamine 5-phosphate synthase (alpha ribazole transferase) (CobV)
+DN  Cobalamin 5-phosphate synthase
 RQ  1
 EV  IPR003805; PF02654; sufficient;
 EV  IPR003805; TIGR00317; sufficient;
 --
 SN  CobT
-ID  nicotinate nucleotide-DBI P-ribosyltransferase
+ID  Nicotinate nucleotide-DBI P-ribosyltransferase
 RQ  1
 EV  IPR017846; TIGR03160; sufficient;
 --
 SN  CobU
-ID  bifunctional cobinamide kinase, cobinamide phosphate guanylyltransferase (CobP)
-DN  cobinamide kinase/cobinamide phosphate guanylyltransferase
+ID  Bifunctional cobinamide kinase, cobinamide phosphate guanylyltransferase (CobP)
+DN  Cobinamide kinase/cobinamide phosphate guanylyltransferase
 RQ  1
 EV  IPR003203; PF02283; sufficient;
 --
 SN  ThrP_dc
-ID  threonine-phosphate decarboxylase
+ID  Threonine-phosphate decarboxylase
 RQ  0
 EV  IPR005860; TIGR01140; sufficient;
 //

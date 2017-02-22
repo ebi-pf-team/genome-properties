@@ -1,7 +1,7 @@
 AC  GenProp0991
 DE  ATP-grasp maturase system, microviridin/marinostatin class
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  19035375
@@ -26,7 +26,7 @@ RQ  1
 EV  IPR026439; TIGR04184;
 --
 SN  precur
-ID  microviridin/marinostatin family precursor
+ID  Microviridin/marinostatin family precursor
 RQ  1
 EV  IPR022217; PF12559;
 //

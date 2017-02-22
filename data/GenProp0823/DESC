@@ -1,7 +1,7 @@
 AC  GenProp0823
-DE  violacein biosynthesis
+DE  Violacein biosynthesis
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  18171677
@@ -21,17 +21,17 @@ CC  biosynthesis of violacein or closely related compounds.
 **  vioE seems to have no functionally different homologs.
 --
 SN  vioC
-ID  violacein biosynthesis monooxygenase VioC
+ID  Violacein biosynthesis monooxygenase VioC
 RQ  1
 EV  IPRXXXX; 2336;
 --
 SN  vioD
-ID  violacein biosynthesis enzyme VioD
+ID  Violacein biosynthesis enzyme VioD
 RQ  1
 EV  IPRXXXX; 2337;
 --
 SN  vioE
-ID  violacein biosynthesis enzyme VioE
+ID  Violacein biosynthesis enzyme VioE
 RQ  1
 EV  IPR019902; TIGR03650;
 //

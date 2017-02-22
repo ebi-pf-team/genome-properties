@@ -1,7 +1,7 @@
 AC  GenProp0947
 DE  O55(Ec) antigen biosynthesis
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  7030487
@@ -17,27 +17,27 @@ CC  the enzymes for the biosynthesis of GDP-L-colitose from D-fructose-6P
 CC  via GDP-mannose.
 --
 SN  GDP-Col
-ID  source of GDP-colitose
+ID  Source of GDP-colitose
 RQ  1
 EV  GenProp0946;
 --
 SN  WbgM
-ID  a-D-Gal-(1->3)-b-D-GalNAc transferase
+ID  A-D-Gal-(1->3)-b-D-GalNAc transferase
 RQ  1
 EV  IPRXXXX; 2753;
 --
 SN  WbgN
-ID  a-Col-(1->2)-b-D-Gal transferase
+ID  A-Col-(1->2)-b-D-Gal transferase
 RQ  1
 EV  IPRXXXX; 2752;
 --
 SN  WbgO
-ID  b-D-Gal-(1->3)-b-D-GlcNAc transferase
+ID  B-D-Gal-(1->3)-b-D-GlcNAc transferase
 RQ  1
 EV  IPRXXXX; 2747;
 --
 SN  WbgP
-ID  b-D-GlcNAc-(1->3)-a-D-Gal transferase
+ID  B-D-GlcNAc-(1->3)-a-D-Gal transferase
 RQ  1
 EV  IPRXXXX; 2746;
 --
@@ -52,7 +52,7 @@ RQ  1
 EV  IPRXXXX; 2751;
 --
 SN  wzz
-ID  chain length determinant protein
+ID  Chain length determinant protein
 RQ  0
 EV  IPR003856; PF02706;
 //

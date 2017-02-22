@@ -1,7 +1,7 @@
 AC  GenProp1083
-DE  cyanobactin-like ribosomal natural product biosynthesis
+DE  Cyanobactin-like ribosomal natural product biosynthesis
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  Cyanobactins include patellamides, anacyclamides, piricyclamide. These
 CC  typically are prenylated and macrocylized, and may contain additional
@@ -11,27 +11,27 @@ CC  heterocycle modifications.
 **  formation, SacCD-like.
 --
 SN  PatA
-ID  cyanobactin maturation protease, PatA/PatG family
+ID  Cyanobactin maturation protease, PatA/PatG family
 RQ  1
 EV  IPR023830; TIGR03895;
 --
 SN  PatB
-ID  cyanobactin biosynthesis protein, PatB/AcyB/McaB family
+ID  Cyanobactin biosynthesis protein, PatB/AcyB/McaB family
 RQ  1
 EV  IPR026473; TIGR04220;
 --
 SN  PatC
-ID  cyanobactin cluster PatC/TenC/TruC protein
+ID  Cyanobactin cluster PatC/TenC/TruC protein
 RQ  1
 EV  IPR031035; TIGR04447;
 --
 SN  PatF
-ID  peptide O-prenyltransferase, LynF/TruF/PatF family
+ID  Peptide O-prenyltransferase, LynF/TruF/PatF family
 RQ  1
 EV  IPR031037; TIGR04445;
 --
 SN  RiPP
-ID  cyanobactin
+ID  Cyanobactin
 RQ  1
 EV  IPR031036; TIGR04446;
 EV  IPR022264; TIGR03678;

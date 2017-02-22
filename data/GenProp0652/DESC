@@ -1,7 +1,7 @@
 AC  GenProp0652
-DE  exopolysaccharide biosynthesis, exosortase A-associated
+DE  Exopolysaccharide biosynthesis, exosortase A-associated
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  16930487
@@ -26,7 +26,7 @@ RQ  1
 EV  IPR017466; TIGR03015; sufficient;
 --
 SN  EpsH1
-ID  exosortase EpsH, type 1
+ID  Exosortase EpsH, type 1
 RQ  1
 EV  IPR013426; TIGR02602;
 EV  IPR017540; TIGR03109; sufficient;
@@ -37,34 +37,34 @@ RQ  0
 EV  IPR014263; TIGR02914;
 --
 SN  Hydrol
-ID  hydrolases (1 and 2), exosortase system type 1 associated
+ID  Hydrolases (1 and 2), exosortase system type 1 associated
 RQ  0
 EV  IPR017531; TIGR03100; sufficient;
 EV  IPR017532; TIGR03101; sufficient;
 --
 SN  L_unchr
-ID  uncharacterized protein, EpsL-related
+ID  Uncharacterized protein, EpsL-related
 RQ  1
 EV  IPR017467; TIGR03016; sufficient;
 --
 SN  Lig1
-ID  acyl-CoA ligase, PEP-CTERM/EpsH1 associated
+ID  Acyl-CoA ligase, PEP-CTERM/EpsH1 associated
 RQ  0
 EV  IPR017529; TIGR03098; sufficient;
 --
 SN  Nsynth
-ID  clustered asparagine synthase homolog
+ID  Clustered asparagine synthase homolog
 RQ  0
 EV  IPR006426; TIGR01536;
 EV  IPR017539; TIGR03108; sufficient;
 --
 SN  PrsK
-ID  putative transmembrane histidine kinase, PEP-CTERM system
+ID  Putative transmembrane histidine kinase, PEP-CTERM system
 RQ  1
 EV  IPR014265; TIGR02916; sufficient;
 --
 SN  PrsR
-ID  putative response regulator, PEP-CTERM system
+ID  Putative response regulator, PEP-CTERM system
 RQ  1
 EV  IPR014264; TIGR02915; sufficient;
 --
@@ -74,17 +74,17 @@ RQ  1
 EV  IPR014266; TIGR02917; sufficient;
 --
 SN  dCO2ase
-ID  decarboxylase, exosortase system type 1 associated
+ID  Decarboxylase, exosortase system type 1 associated
 RQ  0
 EV  IPR017530; TIGR03099; sufficient;
 --
 SN  de_acet
-ID  polysaccharide deacetylase
+ID  Polysaccharide deacetylase
 RQ  1
 EV  IPR014344; TIGR03006; sufficient;
 --
 SN  export
-ID  polysaccharide export protein
+ID  Polysaccharide export protein
 RQ  1
 EV  IPR017477; TIGR03027; sufficient;
 --
@@ -94,45 +94,45 @@ RQ  1
 EV  IPR017469; TIGR03019; sufficient;
 --
 SN  prsB
-ID  sugar transferase
+ID  Sugar transferase
 RQ  1
 EV  IPR017464; TIGR03013; sufficient;
 --
 SN  stp1
-ID  sugar transferase, PEP-CTERM/EpsH1-associated
+ID  Sugar transferase, PEP-CTERM/EpsH1-associated
 RQ  0
 EV  IPR017521; TIGR03087; sufficient;
 --
 SN  stp2
-ID  sugar transferase, PEP-CTERM/EpsH1-associated
+ID  Sugar transferase, PEP-CTERM/EpsH1-associated
 RQ  0
 EV  IPR017522; TIGR03088; sufficient;
 --
 SN  stp3
-ID  sugar transferase, PEP-CTERM/exosortase 1-associated
+ID  Sugar transferase, PEP-CTERM/exosortase 1-associated
 RQ  0
 EV  IPR024004; TIGR04063;
 --
 SN  up?
-ID  conserved region, upstream of non-CTERM gene
+ID  Conserved region, upstream of non-CTERM gene
 RQ  0
 --
 SN  upstream
-ID  conserved region upstream of CTERM genes in proteobacteria
+ID  Conserved region upstream of CTERM genes in proteobacteria
 RQ  0
 --
 SN  waaL
-ID  probable O-glycosylation ligase
+ID  Probable O-glycosylation ligase
 RQ  0
 EV  IPR017528; TIGR03097; sufficient;
 --
 SN  wzc1
-ID  tryosine autokinase
+ID  Tryosine autokinase
 RQ  1
 EV  IPR031045; TIGR03018; sufficient;
 --
 SN  wzz1
-ID  polysaccharide chain length determinant
+ID  Polysaccharide chain length determinant
 RQ  1
 EV  IPR014345; TIGR03007; sufficient;
 //

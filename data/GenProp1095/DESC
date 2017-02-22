@@ -1,7 +1,7 @@
 AC  GenProp1095
-DE  exodeoxyribonuclease VII
+DE  Exodeoxyribonuclease VII
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  22718974
@@ -22,12 +22,12 @@ CC  XseB, hydrolyzes single-stranded DNA. It acts in DNA mismatch repair
 CC  and homologous recombination. 
 --
 SN  XseA
-ID  exodeoxyribonuclease VII large subunit
+ID  Exodeoxyribonuclease VII large subunit
 RQ  1
 EV  IPR003753; TIGR00237;
 --
 SN  XseB
-ID  exodeoxyribonuclease VII small subunit
+ID  Exodeoxyribonuclease VII small subunit
 RQ  1
 EV  IPR003761; PF02609;
 EV  IPR003761; TIGR01280;

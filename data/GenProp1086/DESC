@@ -1,7 +1,7 @@
 AC  GenProp1086
 DE  Firmicutes/Treponema mobile radical SAM system
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  This Genome Property is a cassette of two tandem radical SAM enzymes of
 CC  unknown function, usually accompanied by a MarR family transcriptional
@@ -20,17 +20,17 @@ CC  indicate lateral gene transfer.
 **  8/26/2013.
 --
 SN  FT_MarR
-ID  mobile rSAM pair MarR family regulator
+ID  Mobile rSAM pair MarR family regulator
 RQ  1
 EV  IPR031011; TIGR04472;
 --
 SN  FTsam1
-ID  radical SAM mobile pair protein A
+ID  Radical SAM mobile pair protein A
 RQ  1
 EV  IPR031010; TIGR04471;
 --
 SN  FTsam2
-ID  radical SAM mobile pair protein B
+ID  Radical SAM mobile pair protein B
 RQ  1
 EV  IPR031012; TIGR04470;
 //

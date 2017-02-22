@@ -1,7 +1,7 @@
 AC  GenProp0800
-DE  bacterial core gene set, 1 or more per genome
+DE  Bacterial core gene set, 1 or more per genome
 TP  GUILD
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  11574053
@@ -17,7 +17,7 @@ CC  genomes found greater than 95% having at least one copy of each of
 CC  these genes. 
 --
 SN  GroES
-ID  chaperonin GroS
+ID  Chaperonin GroS
 RQ  1
 EV  IPR020818; PF00166;
 --
@@ -27,7 +27,7 @@ RQ  1
 EV  IPR005294; TIGR00962;
 --
 SN  dnaB
-ID  replicative DNA helicase
+ID  Replicative DNA helicase
 RQ  1
 EV  IPR007692; TIGR00665;
 --
@@ -37,27 +37,27 @@ RQ  1
 EV  IPR004805; TIGR00594;
 --
 SN  efp
-ID  translation elongation factor P
+ID  Translation elongation factor P
 RQ  1
 EV  IPR011768; TIGR00038;
 --
 SN  eno
-ID  phosphopyruvate hydratase, enolase
+ID  Phosphopyruvate hydratase, enolase
 RQ  1
 EV  IPR000941; TIGR01060;
 --
 SN  fusA
-ID  translation elongation factor G
+ID  Translation elongation factor G
 RQ  1
 EV  IPR004540; TIGR00484;
 --
 SN  gltX
-ID  glutamyl-tRNA synthetase
+ID  Glutamyl-tRNA synthetase
 RQ  1
 EV  IPR004527; TIGR00464;
 --
 SN  glyA
-ID  serine hydroxymethyltransferase
+ID  Serine hydroxymethyltransferase
 RQ  1
 EV  IPR001085; PF00464;
 --
@@ -72,63 +72,63 @@ RQ  1
 EV  IPR005936; TIGR01241;
 --
 SN  infA
-ID  translation initiation factor IF-1
+ID  Translation initiation factor IF-1
 RQ  1
 EV  IPR004368; TIGR00008;
 --
 SN  lysS
-ID  lysyl-tRNA synthetase
+ID  Lysyl-tRNA synthetase
 RQ  1
 EV  IPR002904; TIGR00467;
 EV  IPR002313; TIGR00499;
 --
 SN  metK
-ID  methionine adenosyltransferase
+ID  Methionine adenosyltransferase
 RQ  1
 EV  IPR002133; TIGR01034;
 --
 SN  prsA
-ID  ribose-phosphate diphosphokinase
+ID  Ribose-phosphate diphosphokinase
 RQ  1
 EV  IPR005946; TIGR01251;
 --
 SN  rpmE
-ID  ribosomal protein L31
+ID  Ribosomal protein L31
 RQ  1
 EV  IPR002150; TIGR00105;
 --
 SN  rpmG
-ID  ribosomal protein L33
+ID  Ribosomal protein L33
 RQ  1
 EV  IPR001705; TIGR01023;
 --
 SN  rpsN
-ID  ribosomal protein S14
+ID  Ribosomal protein S14
 RQ  1
 EV  IPR001209; PF00253;
 --
 SN  ssb
-ID  single-strand binding protein
+ID  Single-strand binding protein
 RQ  1
 EV  IPR011344; TIGR00621;
 --
 SN  trpS
-ID  tryptophanyl-tRNA synthetase
+ID  Tryptophanyl-tRNA synthetase
 RQ  1
 EV  IPR002306; TIGR00233;
 --
 SN  trxA
-ID  thioredoxin
+ID  Thioredoxin
 RQ  1
 EV  IPR005746; TIGR01068;
 --
 SN  tufA
-ID  translation elongation factor Tu
+ID  Translation elongation factor Tu
 RQ  1
 EV  IPR004541; TIGR00485;
 --
 SN  yidC
-ID  membrane protein insertase, YidC/Oxa1 family
+ID  Membrane protein insertase, YidC/Oxa1 family
 RQ  1
 EV  IPR028055; TIGR03592;
 //

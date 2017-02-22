@@ -1,7 +1,7 @@
 AC  GenProp0168
-DE  glycogen system
+DE  Glycogen system
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  1
 CC  Glycogen and starch are related glucose storage polysaccharides. Alpha
 CC  1,4 glucan linkages predominate, with some branching using alpha 1,6
@@ -35,8 +35,8 @@ EV  IPR006407; TIGR01515; sufficient;
 TG  GO:0005977;
 --
 SN  debranch
-ID  glycogen debranching enzyme
-DN  glycogen debranching enzyme
+ID  Glycogen debranching enzyme
+DN  Glycogen debranching enzyme
 RQ  0
 EV  IPR006421; TIGR01531; sufficient;
 TG  GO:0005977;
@@ -46,8 +46,8 @@ EV  IPR011837; TIGR02100; sufficient;
 TG  GO:0005977;
 --
 SN  glgA
-ID  glycogen synthase (ADP)
-DN  glycogen synthase
+ID  Glycogen synthase (ADP)
+DN  Glycogen synthase
 RQ  1
 EV  IPR011835; TIGR02095; sufficient;
 TG  GO:0005977;
@@ -55,21 +55,21 @@ EV  IPR011875; TIGR02149; sufficient;
 TG  GO:0005977;
 --
 SN  glgC
-ID  glucose-1-phosphate adenylyltransferase
-DN  glucose-1-phosphate adenylyltransferase
+ID  Glucose-1-phosphate adenylyltransferase
+DN  Glucose-1-phosphate adenylyltransferase
 RQ  1
 EV  IPR011831; TIGR02091; sufficient;
 TG  GO:0005977;
 --
 SN  glgD
-ID  glucose-1-phosphate adenylyltransferase, GlgD subunit
-DN  glucose-1-phosphate adenylyltransferase, GlgD subunit
+ID  Glucose-1-phosphate adenylyltransferase, GlgD subunit
+DN  Glucose-1-phosphate adenylyltransferase, GlgD subunit
 RQ  0
 EV  IPR011832; TIGR02092; sufficient;
 TG  GO:0005977;
 --
 SN  glgP
-ID  alpha-glucan phosphorylases
+ID  Alpha-glucan phosphorylases
 RQ  1
 EV  IPR011833; TIGR02093; sufficient;
 TG  GO:0005977;

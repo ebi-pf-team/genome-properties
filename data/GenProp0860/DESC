@@ -1,7 +1,7 @@
 AC  GenProp0860
-DE  tryptophan tryptophylquinone modification of methylamine dehydrogenase
+DE  Tryptophan tryptophylquinone modification of methylamine dehydrogenase
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  19196017
@@ -37,17 +37,17 @@ CC  autocatalytic modification, or a different modification enzyme.
 **  wildly in number of hits.  And what about PF07291 MauE?
 --
 SN  MauA
-ID  methylamine dehydrogenase, light chain
+ID  Methylamine dehydrogenase, light chain
 RQ  1
 EV  IPR004229; TIGR02659;
 --
 SN  MauB
-ID  methylamine dehydrogenase heavy chain
+ID  Methylamine dehydrogenase heavy chain
 RQ  1
 EV  IPR013476; TIGR02658;
 --
 SN  MauD
-ID  methylamine dehydrogenase accessory protein MauD
+ID  Methylamine dehydrogenase accessory protein MauD
 RQ  1
 EV  IPR013478; TIGR02661;
 --

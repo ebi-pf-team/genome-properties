@@ -1,7 +1,7 @@
 AC  GenProp0178
-DE  glycine cleavage system
+DE  Glycine cleavage system
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  1
 DC  Glycine Cleavage System
 DR  IUBMB; AminoAcid; GlyCleave;
@@ -13,28 +13,28 @@ CC  be a part of a number of different enzyme contexts, and is the L
 CC  protein of the glycine cleavage system.
 --
 SN  gcvH
-ID  glycine cleavage system H protein
-DN  glycine cleavage system H protein
+ID  Glycine cleavage system H protein
+DN  Glycine cleavage system H protein
 RQ  1
 EV  IPR017453; TIGR00527; sufficient;
 TG  GO:0006546;
 --
 SN  gcvL
-ID  dihydrolipoamide dehydrogenase
-DN  dihydrolipoamide dehydrogenase (EC 1.8.1.4)
+ID  Dihydrolipoamide dehydrogenase
+DN  Dihydrolipoamide dehydrogenase (EC 1.8.1.4)
 RQ  1
 EV  IPR006258; TIGR01350; sufficient;
 --
 SN  gcvP
-ID  glycine cleavage system P protein
-DN  glycine cleavage system P protein (EC 1.4.4.2)
+ID  Glycine cleavage system P protein
+DN  Glycine cleavage system P protein (EC 1.4.4.2)
 RQ  1
 EV  IPR020581; PF02347; sufficient;
 TG  GO:0006546;
 --
 SN  gcvT
-ID  glycine cleavage system T protein
-DN  glycine cleavage system T protein (EC 2.1.2.10)
+ID  Glycine cleavage system T protein
+DN  Glycine cleavage system T protein (EC 2.1.2.10)
 RQ  1
 EV  IPR006223; TIGR00528; sufficient;
 TG  GO:0006546;

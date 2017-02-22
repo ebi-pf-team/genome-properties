@@ -1,7 +1,7 @@
 AC  GenProp0165
-DE  minCDE system
+DE  MinCDE system
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  12766229
@@ -28,21 +28,21 @@ CC  Spirochaetes.
 --
 SN  minC
 ID  MinC protein
-DN  septum site-determining protein MinC
+DN  Septum site-determining protein MinC
 RQ  1
 EV  IPR013033; TIGR01222; sufficient;
 TG  GO:0000918;
 --
 SN  minD
 ID  MinD protein
-DN  septum site-determining protein MinD
+DN  Septum site-determining protein MinD
 RQ  1
 EV  IPR010223; TIGR01968; sufficient;
 TG  GO:0000918;
 --
 SN  minE
 ID  MinE protein
-DN  cell division topological specificity factor MinE
+DN  Cell division topological specificity factor MinE
 RQ  1
 EV  IPR005527; TIGR01215; sufficient;
 TG  GO:0000918;

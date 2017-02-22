@@ -1,7 +1,7 @@
 AC  GenProp0769
 DE  Neisseria lipooligosaccharide, lacto-N-neotetraose biosynthesis
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  In Neisseria, lipooligosaccharide (LOS) is a highly variable virulence
 CC  determinant. This Genome Property describes a set of three
@@ -18,19 +18,19 @@ CC  LOS.
 **  LOS type. 
 --
 SN  lgtA
-ID  lacto-N-neotetraose biosynthesis glycosyl transferase LgtA
+ID  Lacto-N-neotetraose biosynthesis glycosyl transferase LgtA
 RQ  1
 EV  IPRXXXX; 2122;
 TG  GO:0009103;
 --
 SN  lgtB
-ID  lacto-N-neotetraose biosynthesis glycosyl transferase LgtB
+ID  Lacto-N-neotetraose biosynthesis glycosyl transferase LgtB
 RQ  1
 EV  IPRXXXX; 2120;
 TG  GO:0009103;
 --
 SN  lgtE
-ID  lacto-N-neotetraose biosynthesis glycosyl transferase LgtE
+ID  Lacto-N-neotetraose biosynthesis glycosyl transferase LgtE
 RQ  1
 EV  IPRXXXX; 2121;
 TG  GO:0009103;

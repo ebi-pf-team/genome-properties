@@ -1,7 +1,7 @@
 AC  GenProp0480
-DE  acetyl-CoA biosynthesis from acetate, direct
+DE  Acetyl-CoA biosynthesis from acetate, direct
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  13367067
@@ -16,7 +16,7 @@ CC  intermediate [1]. The purpose of this property is for comparison with
 CC  the various other ways of interconverting acetate and acetyl-CoA.
 --
 SN  ligase
-ID  acetate--CoA ligase
+ID  Acetate--CoA ligase
 RQ  1
 EV  IPR011904; TIGR02188; sufficient;
 TG  GO:0019427;

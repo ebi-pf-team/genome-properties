@@ -1,7 +1,7 @@
 AC  GenProp0266
-DE  trehalose biosynthesis, TreYZ pathway
+DE  Trehalose biosynthesis, TreYZ pathway
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  10658666
@@ -24,14 +24,14 @@ CC  some species with both, the TreYZ rather then the OtsAB system is
 CC  induced by osmotic stress.
 --
 SN  treY
-ID  maltooligosyltrehalose synthase
+ID  Maltooligosyltrehalose synthase
 DN  (1->4)-alpha-D-glucan 1-alpha-D-glucosylmutase (EC 5.4.99.15)
 RQ  1
 EV  IPR012767; TIGR02401; sufficient;
 TG  GO:0006970;
 --
 SN  treZ
-ID  malto-oligosyltrehalose trehalohydrolase
+ID  Malto-oligosyltrehalose trehalohydrolase
 DN  4-alpha-D-{(1->4)-alpha-D-glucano} trehalose trehalohydrolase (EC 3.2.1.141)
 RQ  1
 EV  IPR012768; TIGR02402; sufficient;

@@ -1,7 +1,7 @@
 AC  GenProp1018
 DE  O8(Ec) antigen biosynthesis
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  15184370
@@ -39,27 +39,27 @@ CC  appears to require the presence of the methylated final residue to move
 CC  the polymer to the periplasmic side of the membrane.
 --
 SN  Man
-ID  source of GDP-D-mannose
+ID  Source of GDP-D-mannose
 RQ  1
 EV  GenProp1017;
 --
 SN  WbdA
-ID  mannosyltransferase A
+ID  Mannosyltransferase A
 RQ  1
 EV  IPRXXXX; 2852;
 --
 SN  WbdB
-ID  mannosyltransferase B
+ID  Mannosyltransferase B
 RQ  1
 EV  IPRXXXX; 2853;
 --
 SN  WbdC
-ID  mannosyltransferase C
+ID  Mannosyltransferase C
 RQ  1
 EV  IPRXXXX; 2854;
 --
 SN  WbdD
-ID  terminating methyltransferase and chain-length determinant protein
+ID  Terminating methyltransferase and chain-length determinant protein
 RQ  1
 EV  IPRXXXX; 2855;
 --

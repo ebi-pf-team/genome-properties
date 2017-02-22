@@ -1,8 +1,8 @@
 AC  GenProp0861
-DE  bacteriocin system, NHLP (nif11/nitrile hydratase leader peptide)
-DE  transport group
+DE  Bacteriocin system, NHLP (nif11/nitrile hydratase leader peptide)
+DE  Transport group
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  Model TIGR03793 describes a leader peptide region (homologous to the
 CC  nitrile hydratase alpha subunit) for peptides subject to modification
@@ -18,7 +18,7 @@ CC  peptide region. This property describes the transport operon as well as
 CC  the leader peptide family. 
 --
 SN  NHLP
-ID  bacteriocin, nitrile hydratase-homologous leader family
+ID  Bacteriocin, nitrile hydratase-homologous leader family
 RQ  1
 EV  IPR022513; TIGR03793;
 EV  IPR022516; TIGR03798;

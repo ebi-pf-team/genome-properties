@@ -1,7 +1,7 @@
 AC  GenProp0692
-DE  selenouridine-containing tRNA
+DE  Selenouridine-containing tRNA
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  1
 RN  [1]
 RM  14594807
@@ -33,7 +33,7 @@ CC  not currently included in the definition of this Genome Property.
 **  This needs to be done.
 --
 SN  donor
-ID  selenide, water dikinase
+ID  Selenide, water dikinase
 RQ  1
 EV  IPR004536; TIGR00476; sufficient;
 TG  GO:0006400;

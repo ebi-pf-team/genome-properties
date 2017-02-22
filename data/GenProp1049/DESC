@@ -1,7 +1,7 @@
 AC  GenProp1049
 DE  O1(Ec) antigen biosynthesis
 TP  METAPATH
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  1773429
@@ -39,12 +39,12 @@ CC  are essentially identical and could easily be catalyzed by the same
 CC  enzyme.
 --
 SN  D-ManNAc
-ID  source of N-acetyl-D-mannosamine
+ID  Source of N-acetyl-D-mannosamine
 RQ  1
 EV  GenProp0975;
 --
 SN  GT-1
-ID  putative D-ManNAc transferase
+ID  Putative D-ManNAc transferase
 RQ  1
 EV  IPRXXXX; 2948;
 --
@@ -59,7 +59,7 @@ RQ  1
 EV  IPRXXXX; 2945;
 --
 SN  L-Rha
-ID  source of L-rhamnose
+ID  Source of L-rhamnose
 RQ  1
 EV  GenProp0183;
 --

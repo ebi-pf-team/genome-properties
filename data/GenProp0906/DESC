@@ -1,7 +1,7 @@
 AC  GenProp0906
-DE  poly-beta-1,6 N-acetyl-D-glucosamine system, IcaADBC type
+DE  Poly-beta-1,6 N-acetyl-D-glucosamine system, IcaADBC type
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  Many pathogenic bacteria produce an exopolysaccharide based on
 CC  poly-N-acetylglucosamine. It is an important factor in biofilm
@@ -15,31 +15,31 @@ CC  by incomplete deacetylation.
 **  2-acetamido-2-deoxy-D-glucopyranosyl.
 --
 SN  icaA
-ID  intercellular adhesin protein A
+ID  Intercellular adhesin protein A
 RQ  1
 EV  IPRXXXX; 2726;
 TG  GO:0045226;
 --
 SN  icaB
-ID  intercellular adhesin protein B
+ID  Intercellular adhesin protein B
 RQ  1
 EV  IPR023872; TIGR03933;
 TG  GO:0045226;
 --
 SN  icaC
-ID  intercellular adhesin protein C
+ID  Intercellular adhesin protein C
 RQ  1
 EV  IPRXXXX; 2728;
 TG  GO:0045226;
 --
 SN  icaD
-ID  intercellular adhesin protein D
+ID  Intercellular adhesin protein D
 RQ  1
 EV  IPR020510; TIGR03932;
 TG  GO:0045226;
 --
 SN  icaR
-ID  intercellular adhesin regulator
+ID  Intercellular adhesin regulator
 RQ  0
 EV  IPRXXXX; 2727;
 //

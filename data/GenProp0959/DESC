@@ -1,7 +1,7 @@
 AC  GenProp0959
-DE  radical SAM/uncharacterized protein TIGR04002 system
+DE  Radical SAM/uncharacterized protein TIGR04002 system
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  18931129
@@ -31,7 +31,7 @@ RQ  1
 EV  IPR023812; TIGR04002;
 --
 SN  rSAM
-ID  uncharacterized radical SAM protein
+ID  Uncharacterized radical SAM protein
 RQ  1
 EV  IPR023822; TIGR04100;
 //

@@ -1,7 +1,7 @@
 AC  GenProp0934
-DE  dimethyl sulphone utilization (aerobic)
+DE  Dimethyl sulphone utilization (aerobic)
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  A pathway has been described in which two FMNH2-dependent members of
 CC  the bacterial luciferase-like monooxygenase (LLM) family convert
@@ -12,17 +12,17 @@ CC  monooxygenase) SsuD.
 **  might be changed to mere pathway.
 --
 SN  SfnB
-ID  acyl-CoA dehydrogenase family protein, SfnB type
+ID  Acyl-CoA dehydrogenase family protein, SfnB type
 RQ  1
 EV  IPR023922; TIGR04022;
 --
 SN  SfnG
-ID  dimethyl sulphone monooxygenase SfnG
+ID  Dimethyl sulphone monooxygenase SfnG
 RQ  1
 EV  IPR024014; TIGR04021;
 --
 SN  SsuD
-ID  methanesulfonate sulfonatase SsuD
+ID  Methanesulfonate sulfonatase SsuD
 RQ  1
 EV  IPR019911; TIGR03565;
 //

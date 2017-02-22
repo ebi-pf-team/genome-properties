@@ -1,7 +1,7 @@
 AC  GenProp0945
-DE  radical SAM maturase bacteriocin system, CLI_3235 type
+DE  Radical SAM maturase bacteriocin system, CLI_3235 type
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  21478363
@@ -17,18 +17,18 @@ CC  system, can be different enough in sequence that construction of
 CC  separate models to represent different subsets appears necessary.
 --
 SN  ocinACP
-ID  peptide maturation system acyl carrier-related protein
+ID  Peptide maturation system acyl carrier-related protein
 RQ  0
 EV  IPR023972; TIGR04069;
 --
 SN  ocin_oc
-ID  bacteriocin precursor, CLI_3235-class
+ID  Bacteriocin precursor, CLI_3235-class
 RQ  1
 EV  IPR023968; TIGR04065;
 EV  IPR023964; TIGR04067;
 --
 SN  ocin_rS
-ID  radical SAM bacterocin maturase, CLI_3235 system
+ID  Radical SAM bacterocin maturase, CLI_3235 system
 RQ  1
 EV  IPR024001; TIGR04068;
 --

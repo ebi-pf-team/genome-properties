@@ -1,7 +1,7 @@
 AC  GenProp0856
-DE  bacterio-opsin system
+DE  Bacterio-opsin system
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  Bacteriorhodopsin is a light-driven proton pump with a covelently bound
 CC  cofactor, retinal, derived from beta-carotene. Phototrophic bacteria
@@ -11,12 +11,12 @@ CC  molecules from oxygen and one beta-carotene. This property describes
 CC  light energy-capturing systems with these components.
 --
 SN  monoox
-ID  beta-carotene monooxygenase
+ID  Beta-carotene monooxygenase
 RQ  1
 EV  IPR022270; TIGR03753;
 --
 SN  opsin
-ID  bacteriorhodopsin
+ID  Bacteriorhodopsin
 RQ  1
 EV  IPR001425; PF01036;
 //

@@ -1,7 +1,7 @@
 AC  GenProp0867
-DE  decarboxylation/antiport proton-motive cycle: aspartate-alanine
+DE  Decarboxylation/antiport proton-motive cycle: aspartate-alanine
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  12003930
@@ -19,13 +19,13 @@ CC  acid-induced arginine decarboxylase with an arginine-agmatine
 CC  antiporter as in Escherichia coli.
 --
 SN  AspD
-ID  aspartate 4-decarboxylase
+ID  Aspartate 4-decarboxylase
 RQ  1
 EV  IPR022518; TIGR03801;
 TG  GO:0010248;
 --
 SN  AspT
-ID  aspartate-alanine antiporter
+ID  Aspartate-alanine antiporter
 RQ  1
 EV  IPR022457; TIGR03802;
 TG  GO:0010248;

@@ -1,7 +1,7 @@
 AC  GenProp0904
-DE  type VII secretion, Actinobacteria form
+DE  Type VII secretion, Actinobacteria form
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  19876390
@@ -24,28 +24,28 @@ CC  new nomenclature in starting with ecc (esx conserved component).
 **  Rv3865
 --
 SN  T7_EccA
-ID  type VII secretion AAA-ATPase EccA
+ID  Type VII secretion AAA-ATPase EccA
 RQ  1
 EV  IPR023835; TIGR03922;
 --
 SN  T7_EccB
-ID  type VII secretion transmembrane protein EccB
+ID  Type VII secretion transmembrane protein EccB
 RQ  1
 EV  IPR007795; TIGR03919;
 --
 SN  T7_EccC
-ID  type VII secretion protein EccC
+ID  Type VII secretion protein EccC
 RQ  1
 EV  IPR023836; TIGR03924;
 EV  IPR023837; TIGR03925;
 --
 SN  T7_EccD
-ID  type VII secretion integral membrane protein EccD
+ID  Type VII secretion integral membrane protein EccD
 RQ  1
 EV  IPR006707; TIGR03920;
 --
 SN  T7_EccE
-ID  type VII secretion transmembrane protein EccE
+ID  Type VII secretion transmembrane protein EccE
 RQ  1
 EV  IPR021368; TIGR03923;
 --
@@ -56,12 +56,12 @@ EV  IPRXXXX; PF06013;
 EV  IPRXXXX; TIGR03930;
 --
 SN  T7_a
-ID  type VII secretion-associated protein, Rv3446c family
+ID  Type VII secretion-associated protein, Rv3446c family
 RQ  0
 EV  IPR023840; TIGR03931;
 --
 SN  T7_myco
-ID  mycosin
+ID  Mycosin
 RQ  1
 EV  IPR023834; TIGR03921;
 //

@@ -1,7 +1,7 @@
 AC  GenProp0620
-DE  cytochrome (quinone) oxidase, aa3 type, QoxABCD
+DE  Cytochrome (quinone) oxidase, aa3 type, QoxABCD
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  7575098
@@ -15,22 +15,22 @@ CC  couples the reduction of oxidized quinones with the reduction of
 CC  molecular oxygen to water and the pumping of protons.
 --
 SN  QoxA
-ID  subunit II, QoxA
+ID  Subunit II, QoxA
 RQ  1
 EV  IPR006332; TIGR01432; sufficient;
 --
 SN  QoxB
-ID  subunit I, QoxB
+ID  Subunit I, QoxB
 RQ  1
 EV  IPR014233; TIGR02882; sufficient;
 --
 SN  QoxC
-ID  subunit III, QoxC
+ID  Subunit III, QoxC
 RQ  1
 EV  IPR014246; TIGR02897; sufficient;
 --
 SN  QoxD
-ID  subunit IV, QoxD
+ID  Subunit IV, QoxD
 RQ  1
 EV  IPR014250; TIGR02901; sufficient;
 //

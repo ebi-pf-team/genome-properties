@@ -1,7 +1,7 @@
 AC  GenProp0149
-DE  sulfate reduction to sulfide, assimilatory
+DE  Sulfate reduction to sulfide, assimilatory
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  1
 RN  [1]
 RM  10613872
@@ -25,51 +25,51 @@ CC  incorporation into an amino acid acceptor, peptide, or protein etc.
 CC  [1].
 --
 SN  1-CysD
-ID  sulfate adenylyltransferase, small subunit
-DN  sulfate adenylyltransferase, small subunit (EC 2.7.7.4)
+ID  Sulfate adenylyltransferase, small subunit
+DN  Sulfate adenylyltransferase, small subunit (EC 2.7.7.4)
 RQ  1
 EV  IPR011784; TIGR02039; sufficient;
 EV  IPR002650; TIGR00339; sufficient;
 TG  GO:0000103;
 --
 SN  1-CysN
-ID  sulfate adenylyltransferase, large subunit
-DN  sulfate adenylyltransferase, large subunit (EC 2.7.7.4)
+ID  Sulfate adenylyltransferase, large subunit
+DN  Sulfate adenylyltransferase, large subunit (EC 2.7.7.4)
 RQ  1
 EV  IPR011779; TIGR02034; sufficient;
 EV  IPR002650; TIGR00339; sufficient;
 TG  GO:0000103;
 --
 SN  2-Cys
-ID  adenylylsulfate reductase
-DN  adenylyl-sulfate reductase (thioredoxin) (EC 1.8.4.10)
+ID  Adenylylsulfate reductase
+DN  Adenylyl-sulfate reductase (thioredoxin) (EC 1.8.4.10)
 RQ  1
 EV  IPR011798; TIGR02055; sufficient;
 TG  GO:0000103;
 --
 SN  2-CysC
-ID  adenylylsulfate reductase via PAPS
-DN  adenylyl-sulfate kinase(EC 2.7.1.25)
+ID  Adenylylsulfate reductase via PAPS
+DN  Adenylyl-sulfate kinase(EC 2.7.1.25)
 RQ  1
 EV  IPR002891; TIGR00455; sufficient;
 TG  GO:0000103;
 --
 SN  2-CysH
-ID  adenylylsulfate reductase via PAPS
-DN  phosphoadenylyl-sulfate reductase (thioredoxin)(EC 1.8.4.8)
+ID  Adenylylsulfate reductase via PAPS
+DN  Phosphoadenylyl-sulfate reductase (thioredoxin)(EC 1.8.4.8)
 RQ  1
 EV  IPR011800; TIGR02057; sufficient;
 TG  GO:0000103;
 --
 SN  2p-CysH
-ID  adenylylsulfate reductase via PAPS
+ID  Adenylylsulfate reductase via PAPS
 RQ  0
 EV  IPR004511; TIGR00434; sufficient;
 TG  GO:0000103;
 --
 SN  3-CysI
-ID  sulfite reductase, beta subunit
-DN  sulfite reductase (NADPH) hemoprotein, beta-component (EC 1.8.1.2)
+ID  Sulfite reductase, beta subunit
+DN  Sulfite reductase (NADPH) hemoprotein, beta-component (EC 1.8.1.2)
 RQ  1
 EV  IPR011786; TIGR02041; sufficient;
 TG  GO:0000103;
@@ -77,8 +77,8 @@ EV  IPR011787; TIGR02042; sufficient;
 TG  GO:0000103;
 --
 SN  3-CysJ
-ID  sulfite reductase, alpha subunit
-DN  sulfite reductase (NADPH) flavoprotein, alpha-component (EC 1.8.1.2)
+ID  Sulfite reductase, alpha subunit
+DN  Sulfite reductase (NADPH) flavoprotein, alpha-component (EC 1.8.1.2)
 RQ  1
 EV  IPR010199; TIGR01931; sufficient;
 TG  GO:0000103;

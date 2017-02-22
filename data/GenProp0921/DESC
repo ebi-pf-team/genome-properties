@@ -1,7 +1,7 @@
 AC  GenProp0921
-DE  radical SAM pair and His-Xaa-Ser repeats peptide
+DE  Radical SAM pair and His-Xaa-Ser repeats peptide
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  21478363
@@ -30,12 +30,12 @@ CC  with the signature motif LLNDYxLRE.
 **  plasmid-borne.
 --
 SN  aux_B2
-ID  conserved hypothetical protein TIGR03982
+ID  Conserved hypothetical protein TIGR03982
 RQ  0
 EV  IPR023814; TIGR03982;
 --
 SN  aux_B3
-ID  putative quinone modification maturase
+ID  Putative quinone modification maturase
 RQ  0
 EV  IPR023893; TIGR03981;
 --
@@ -50,12 +50,12 @@ RQ  0
 EV  IPR023928; TIGR03979;
 --
 SN  hxsSAM1
-ID  upstream radical SAM protein
+ID  Upstream radical SAM protein
 RQ  1
 EV  IPR024023; TIGR03978;
 --
 SN  hxsSAM2
-ID  downstream radical SAM protein
+ID  Downstream radical SAM protein
 RQ  1
 EV  IPR024032; TIGR03977;
 //

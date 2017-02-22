@@ -1,7 +1,7 @@
 AC  GenProp0997
-DE  proposed nine-carbon sugar biosynthesis cassette
+DE  Proposed nine-carbon sugar biosynthesis cassette
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  The seven genes that form the core of this apparently laterally
 CC  transferred cassette include four genes homologous to the NeuABCD genes
@@ -27,17 +27,17 @@ RQ  1
 EV  IPRXXXX; TIGR03570;
 --
 SN  EDH
-ID  epimerase/dehydratase, LLPSF__EDH_00030 family
+ID  Epimerase/dehydratase, LLPSF__EDH_00030 family
 RQ  1
 EV  IPR026390; TIGR04180;
 --
 SN  NCT0029
-ID  cytidylyltransferase, LLPSF_NCT_000029 family
+ID  Cytidylyltransferase, LLPSF_NCT_000029 family
 RQ  1
 EV  IPRXXXX; 2810;
 --
 SN  NHT
-ID  aminotransferase, LLPSF_NHT_00031 family
+ID  Aminotransferase, LLPSF_NHT_00031 family
 RQ  1
 EV  IPR026385; TIGR04181;
 //

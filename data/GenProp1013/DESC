@@ -1,7 +1,7 @@
 AC  GenProp1013
-DE  influenzae B virus protein set
+DE  Influenzae B virus protein set
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 CC  Proteins of influenzae B differ somewhat from influenzae A. B-specific
 CC  proteins include a different matrix protein 2 (PF04772), a different
@@ -9,7 +9,7 @@ CC  nonstructural protein 1 (PF02942), and NB glycoprotein (PF04159) which
 CC  overlaps the neuraminidase coding region.
 --
 SN  B_M2
-ID  matrix protein BM2
+ID  Matrix protein BM2
 RQ  1
 EV  IPR006859; PF04772;
 --
@@ -19,7 +19,7 @@ RQ  1
 EV  IPR007288; PF04159;
 --
 SN  B_NS1
-ID  nonstructural protein NS1
+ID  Nonstructural protein NS1
 RQ  1
 EV  IPR004208; PF02942;
 //

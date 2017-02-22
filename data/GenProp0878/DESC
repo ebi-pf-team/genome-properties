@@ -1,7 +1,7 @@
 AC  GenProp0878
 DE  N(epsilon)-acetyl-beta-lysine biosynthesis
 TP  PATHWAY
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  14532061
@@ -21,13 +21,13 @@ CC  catabolism, as in Clostridium subterminale SB4 (see PMID:10629195).
 **  in Bacillus, to ask about AblA/AlbB predictions outside the archaea.
 --
 SN  ablA
-ID  lysine-2,3-aminomutase
+ID  Lysine-2,3-aminomutase
 RQ  1
 EV  IPR022459; TIGR03820;
 TG  GO:0042398;
 --
 SN  ablB
-ID  beta-lysine acetyltransferase
+ID  Beta-lysine acetyltransferase
 RQ  1
 EV  IPR022525; TIGR03827;
 TG  GO:0042398;

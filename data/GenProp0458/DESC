@@ -1,7 +1,7 @@
 AC  GenProp0458
-DE  fucose catabolism
+DE  Fucose catabolism
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  1
 RN  [1]
 RM  3325779
@@ -16,7 +16,7 @@ CC  transporter to import fucose  Plus transcription factors
 **  PMID:2664711
 --
 SN  ADH
-ID  lactaldehyde oxidoreductases
+ID  Lactaldehyde oxidoreductases
 RQ  0
 EV  IPRXXXX; PF00465;
 TG  GO:0019317;
@@ -44,7 +44,7 @@ EV  IPRXXXX; PF00370;
 TG  GO:0019317;
 --
 SN  regulat
-ID  clustered regulatory genes
+ID  Clustered regulatory genes
 RQ  0
 EV  IPRXXXX; PF00455;
 TG  GO:0043468;
@@ -54,7 +54,7 @@ EV  IPRXXXX; PF00392;
 TG  GO:0043468;
 --
 SN  transpo
-ID  fucose transport components
+ID  Fucose transport components
 RQ  1
 EV  IPR005275; TIGR00885; sufficient;
 TG  GO:0019317;

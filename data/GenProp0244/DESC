@@ -1,7 +1,7 @@
 AC  GenProp0244
-DE  chaperone system: DnaK-DnaJ-GrpE
+DE  Chaperone system: DnaK-DnaJ-GrpE
 TP  SYSTEM
-AU  Haft D
+AU  Haft DH
 TH  0
 RN  [1]
 RM  15102842
@@ -22,29 +22,29 @@ CC  optional component.
 **  in operon - true negative.
 --
 SN  DnaJ
-ID  co-chaperone DnaJ
-DN  molecular chaperone DnaJ
+ID  Co-chaperone DnaJ
+DN  Molecular chaperone DnaJ
 RQ  1
 EV  IPR012724; TIGR02349; sufficient;
 TG  GO:0006457;
 --
 SN  DnaK
-ID  chaperone DnaK
-DN  molecular chaperone DnaK
+ID  Chaperone DnaK
+DN  Molecular chaperone DnaK
 RQ  1
 EV  IPR012725; TIGR02350; sufficient;
 TG  GO:0006457;
 --
 SN  GrpE
-ID  co-chaperone GrpE
-DN  molecular chaperone GrpE
+ID  Co-chaperone GrpE
+DN  Molecular chaperone GrpE
 RQ  1
 EV  IPR000740; PF01025; sufficient;
 TG  GO:0006457;
 --
 SN  HrcA
-ID  heat shock gene repressor HrcA
-DN  heat-inducible transcription repressor HrcA
+ID  Heat shock gene repressor HrcA
+DN  Heat-inducible transcription repressor HrcA
 RQ  0
 EV  IPR002571; TIGR00331; sufficient;
 TG  GO:0016481;
