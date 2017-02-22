@@ -3,10 +3,15 @@ DE  Na+-translocating NADH-quinone reductase
 TP  SYSTEM
 AU  Haft D
 TH  2
+RN  [1]
+RM  11248187
+RT  Recent progress in the Na(+)-translocating NADH-quinone reductase from 
+RT  the marine Vibrio alginolyticus.
+RA  Hayashi M, Nakayama Y, Unemoto T;
+RL  Biochim Biophys Acta. 2001;1505(1):37-44.
 CC  Na+-translocating NADH:ubiquinone oxidoreductase is found in marine,
 CC  halophilic, and pathogenic Gram-negative bacteria. The NQR complex
-CC  contains six structural subunits and acts as Na(+) pump (see
-CC  PMID:11248187).  See TIGR01936-TIGR01941.
+CC  contains six structural subunits and acts as Na(+) pump [1].
 **  Sensitive to antibiotic korormicin, so use as a search term.  HMMs made
 **  to separate this family from the RNF (Rhodobacter(?) Nitrogen Fixation)
 **  and Rsx (Reduces SoX-R) complex, also 6 subunits, found in many of the
@@ -14,42 +19,42 @@ CC  PMID:11248187).  See TIGR01936-TIGR01941.
 **  reducing SoxR, etc.  This property should also be different from
 **  RNF/RSX family.
 --
-SN  A
+SN  1
 ID  A subunit
 DN  NADH:ubiquinone oxidoreductase, Na(+)-translocating, A subunit (EC: 1.6.5.-)
 RQ  1
 EV  IPR008703; TIGR01936; sufficient;
 TG  GO:0006814;
 --
-SN  B
+SN  2
 ID  B subunit
 DN  NADH:ubiquinone oxidoreductase, Na(+)-translocating, B subunit (EC: 1.6.5.-)
 RQ  1
 EV  IPR010966; TIGR01937; sufficient;
 TG  GO:0006814;
 --
-SN  C
+SN  3
 ID  C subunit
 DN  NADH:ubiquinone oxidoreductase, Na(+)-translocating, C subunit (EC: 1.6.5.-)
 RQ  1
 EV  IPR010204; TIGR01938; sufficient;
 TG  GO:0006814;
 --
-SN  D
+SN  4
 ID  D subunit
 DN  NADH:ubiquinone oxidoreductase, Na(+)-translocating, D subunit (EC: 1.6.5.-)
 RQ  1
 EV  IPR011292; TIGR01939; sufficient;
 TG  GO:0006814;
 --
-SN  E
+SN  5
 ID  E subunit
 DN  NADH:ubiquinone oxidoreductase, Na(+)-translocating, E subunit (EC: 1.6.5.-)
 RQ  1
 EV  IPR010967; TIGR01940; sufficient;
 TG  GO:0006814;
 --
-SN  F
+SN  6
 ID  F subunit
 DN  NADH:ubiquinone oxidoreductase, Na(+)-translocating, F subunit (EC: 1.6.5.-)
 RQ  1
