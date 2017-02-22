@@ -87,7 +87,7 @@ TG  GO:0019287;
 --
 SN  6
 ID  Diphosphomevalonate decarboxylase
-DN  Diphosphomevalonate decarboxylase (4.1.1.33)
+DN  Diphosphomevalonate decarboxylase (EC 4.1.1.33)
 RQ  1
 EV  IPR029765; TIGR01240; sufficient;
 TG  GO:0019287;
