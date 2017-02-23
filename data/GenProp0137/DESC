@@ -22,8 +22,8 @@ RT  biogenesis under oxidative stress.
 RA  Nachin L, Loiseau L, Expert D, Barras F;
 RL  EMBO J. 2003;22:427-437.
 CC  The iron-sulfur cluster assembly SUF system is one of three iron-sulfur
-CC  assembly systems present in a wide range of bacteria, Archeae, and
-CC  Plastids. The other two mechanisms for iron-sulfur cluster assembly are
+CC  assembly systems present in a wide range of bacteria, archeae, and
+CC  plastids. The other two mechanisms for iron-sulfur cluster assembly are
 CC  the ISC (iron-sulfur cluster) system, composed of at least six
 CC  components and found broadly distributed from bacteria to higher
 CC  eukaryotes, and the NIF (nitrogen fixation) system, which is required
@@ -36,42 +36,40 @@ CC  stressful growth conditions, such as iron limitation and oxidative
 CC  stress, the SUF system has been shown to be an important factor for
 CC  bacterial pathogenicity [3].
 --
-SN  SufA
+SN  1
 ID  Iron-sulfur cluster assembly scaffold SufA
 RQ  0
 EV  IPR011298; TIGR01997; sufficient;
 TG  GO:0016226;
-EV  IPRXXXX; TIGR01994; sufficient;
-TG  GO:0016226;
 --
-SN  SufB
+SN  2
 ID  FeS assembly protein SufB
 DN  FeS assembly protein SufB
 RQ  1
 EV  IPR010231; TIGR01980; sufficient;
 TG  GO:0016226;
 --
-SN  SufC
+SN  3
 ID  Cytosolic ATPase SufC
 DN  FeS assembly ATPase SufC
 RQ  1
 EV  IPR010230; TIGR01978; sufficient;
 TG  GO:0016226;
 --
-SN  SufD
+SN  4
 ID  FeS assembly protein SufD
 DN  FeS assembly protein SufD
 RQ  1
 EV  IPR011542; TIGR01981; sufficient;
 TG  GO:0016226;
 --
-SN  SufE
+SN  5
 ID  Cysteine desulfurase auxiliary chain SufE
 RQ  0
 EV  IPR003808; PF02657; sufficient;
 TG  GO:0016226;
 --
-SN  SufR
+SN  6
 ID  Transcriptional regulatory SufR
 RQ  0
 EV  IPR014075; TIGR02702; sufficient;
@@ -79,13 +77,13 @@ TG  GO:0016226;
 EV  IPR014290; TIGR02944; sufficient;
 TG  GO:0016226;
 --
-SN  SufS
+SN  7
 ID  Cysteine desulfurases, SufS subfamily
 DN  Cysteine desulfurase SufS
 RQ  1
 EV  IPR010970; TIGR01979; sufficient;
 --
-SN  novel
+SN  8
 ID  Proteobacterial novel SUF protein SufT
 RQ  0
 EV  IPR014291; TIGR02945; sufficient;
