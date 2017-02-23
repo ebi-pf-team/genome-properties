@@ -74,8 +74,8 @@ EV  IPR004507; TIGR00421; sufficient;
 TG  GO:0006744;
 --
 SN  4
-ID  2-polyprenylphenol hydroxylase
-DN  2-polyprenylphenol 6-hydroxylase/UbiB (EC 1.14.13.-)
+ID  Probable protein kinase UbiB
+DN  Probable protein kinase UbiB (EC 2.7.-.-)
 RQ  1
 EV  IPR010232; TIGR01982; sufficient;
 TG  GO:0006744;
@@ -88,8 +88,8 @@ EV  IPR010233; TIGR01983; sufficient;
 TG  GO:0006744;
 --
 SN  6
-ID  Ubiquinone biosynthesis 4- and 5-hydroxylases
-DN  UbiF/H
+ID  Ubiquinone biosynthesis 4-, 5- and 6-hydroxylases
+DN  UbiF/H/I
 RQ  1
 EV  IPR010971; TIGR01988; sufficient;
 TG  GO:0006744;
