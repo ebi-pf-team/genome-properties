@@ -4,6 +4,13 @@ TP  PATHWAY
 AU  Haft DH
 TH  3
 RN  [1]
+RM  10419476
+RT  Yeast and rat Coq3 and Escherichia coli UbiG polypeptides catalyze 
+RT  both O-methyltransferase steps in coenzyme Q biosynthesis.
+RA  Poon WW, Barkovich RJ, Hsu AY, Frankel A, Lee PT, Shepherd JN, Myles 
+RA  DC, Clarke CF;
+RL  J Biol Chem. 1999;274(31):21665-72.
+RN  [2]
 RM  23709220
 RT  ubiI, a new gene in Escherichia coli coenzyme Q biosynthesis, is 
 RT  involved in aerobic C5-hydroxylation.
@@ -11,13 +18,13 @@ RA  Hajj Chehade M, Loiseau L, Lombard M, Pecqueur L, Ismail A, Smadja
 RA  M, Golinelli-Pimpaneau B, Mellot-Draznieks C, Hamelin O, Aussel L, 
 RA  Kieffer-Jaquinod S, Labessan N, Barras F, Fontecave M, Pierrel F;
 RL  J Biol Chem. 2013;288(27):20085-20092.
-RN  [2]
+RN  [3]
 RM  365223
 RT  Alternative hydroxylases for the aerobic and anaerobic biosynthesis of
 RT  ubiquinone in Escherichia coli.
 RA  Alexander K, Young IG;
 RL  Biochemistry. 1978;17:4750-4755.
-RN  [3]
+RN  [4]
 RM  11583838
 RT  Ubiquinone biosynthesis in microorganisms.
 RA  Meganathan R;
@@ -26,18 +33,19 @@ DC  Ubiquinone metabolism
 DR  KEGG; map00130;
 DC  Ubiquinol biosynthesis
 DR  IUBMB; misc; ubiquinol;
-CC  Ubiquinone, an electron and hydrogen transport cofactor important for
-CC  aerobic respiration and photosynthesis, is synthesized in bacteria from
-CC  chorismate and polyprenyl pyrophosphates of varying lengths. The pathway
-CC  is composed of 10 Ubi proteins which are named UbiA-I and UbiX. UbiG
-CC  catalyses two steps within the pathway, but with different substrates in
-CC  each case. UbiB is thought to be involved with the fourth step in the
-CC  pathway, catalysed by UbiI, but is not included in the pathway diagrams
-CC  [1]. Knock-out of the three hydroxylation steps requiring molecular 
+CC  Ubiquinone (also known as coenzyme Q) is an electron and hydrogen 
+CC  transport cofactor important for aerobic respiration and photosynthesis. 
+CC  It is synthesized in bacteria from chorismate and polyprenyl 
+CC  pyrophosphates of varying lengths. The pathway is composed of 10 Ubi 
+CC  proteins which are named UbiA-I and UbiX. UbiG catalyses two 
+CC  O-methylation steps within the pathway, but with different substrates in
+CC  each case [1]. UbiB is thought to be involved with the fourth step in the
+CC  pathway, catalysed by UbiI [2], but is not included in the pathway 
+CC  diagrams. Knock-out of the three hydroxylation steps requiring molecular 
 CC  oxygen results in anaerobic synthesis of ubiquinone, indicating the 
-CC  presence of an alternative system [2]. In yeast and animals, a different 
+CC  presence of an alternative system [3]. In yeast and animals, a different 
 CC  pathway exists starting from 4-hydroxyphenylpyruvate, having latter steps 
-CC  in common with the bacterial pathway [3]. In addition to ubiquinone, 
+CC  in common with the bacterial pathway [4]. In addition to ubiquinone, 
 CC  bacteria may contain menaquinone and/or phylloquinone which together make 
 CC  up their quinone pool.
 --
