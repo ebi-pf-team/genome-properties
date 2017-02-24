@@ -1,28 +1,45 @@
 AC  GenProp0139
 DE  Degradation of tyrosine via homogentisate
 TP  PATHWAY
-AU  Haft DH
+AU  Haft DH, Richardson L.
 TH  0
+RN  [1]
+RM  15262943
+RT  The homogentisate pathway: a central catabolic pathway involved in the 
+RT  degradation of L-phenylalanine, L-tyrosine, and 3-hydroxyphenylacetate 
+RT  in Pseudomonas putida.
+RA  Arias-Barrau E, Olivera ER, Luengo JM, Fernández C, Galán B, García 
+RA  JL, Díaz E, Miñambres B;
+RL  J Bacteriol. 2004;186(15):5062-5077.
 DC  Tyrosine metabolism
 DR  KEGG; map00350;
+CC  Tyrosine is degraded to produce fumarate and acetoacetate via the 
+CC  intermediate homogentisate, in a five-step pathway. Tyrosine is 
+CC  converted to 4-hydroxyphenylpyruvate by TyrB (tyrosine transaminase
+CC  also known as tyrosine aminotransferase or PhhC) and then to 
+CC  homogentisate by Hpd (4-hydroxyphenylpyruvate dioxygenase). The second 
+CC  part of the pathway (the catabolism of homogentisate) involves three 
+CC  enzymes: HmgA (homogentisate dioxygenase); HmgB (fumarylacetoacetate 
+CC  hydrolase, also known as Fah); and HmgC (maleylacetoacetate isomerase, 
+CC  also known as Mai) [1].
 --
 SN  TyrB
 ID  Tyrosine transaminase
-DN  Tyrosine transaminase (EC 2.6.1.5)
+DN  Tyrosine transaminase/TyrB (EC 2.6.1.5)
 RQ  0
 EV  IPR005957; TIGR01264; sufficient;
 TG  GO:0019445;
 --
 SN  Hpd
 ID  4-hydroxyphenylpyruvate dioxygenase
-DN  4-hydroxyphenylpyruvate dioxygenase (EC 1.13.11.27)
+DN  4-hydroxyphenylpyruvate dioxygenase/Hpd (EC 1.13.11.27)
 RQ  1
 EV  IPR005956; TIGR01263; sufficient;
 TG  GO:0019445;
 --
 SN  HmgA
 ID  Homogentisate 1,2-dioxygenase
-DN  Homogentisate 1,2-dioxygenase (EC 1.13.11.5)
+DN  Homogentisate 1,2-dioxygenase/HmgA (EC 1.13.11.5)
 RQ  1
 EV  IPR005708; TIGR01015; sufficient;
 TG  GO:0019445;
@@ -31,17 +48,17 @@ TG  GO:0019445;
 --
 SN  Mai
 ID  Maleylacetoacetate isomerase
-DN  Maleylacetoacetate isomerase (EC 5.2.1.2)
+DN  Maleylacetoacetate isomerase/Mai (EC 5.2.1.2)
 RQ  1
 EV  IPR005955; TIGR01262; sufficient;
 TG  GO:0019445;
 --
 SN  Fah
 ID  Fumarylacetoacetase
-DN  Fumarylacetoacetase (EC 3.7.1.2)
+DN  Fumarylacetoacetase/Fah (EC 3.7.1.2)
 RQ  1
 EV  IPR005959; TIGR01266; sufficient;
 TG  GO:0019445;
-EV  IPRXXXX; PF01557;
+EV  IPR011234; PF01557;
 TG  GO:0019445;
 //
