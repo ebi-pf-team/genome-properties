@@ -23,21 +23,21 @@ CC  enzymes: HmgA (homogentisate dioxygenase); HmgB (fumarylacetoacetate
 CC  hydrolase, also known as Fah); and HmgC (maleylacetoacetate isomerase, 
 CC  also known as Mai) [1].
 --
-SN  TyrB
+SN  1
 ID  Tyrosine transaminase
 DN  Tyrosine transaminase/TyrB (EC 2.6.1.5)
 RQ  0
 EV  IPR005957; TIGR01264; sufficient;
 TG  GO:0019445;
 --
-SN  Hpd
+SN  2
 ID  4-hydroxyphenylpyruvate dioxygenase
 DN  4-hydroxyphenylpyruvate dioxygenase/Hpd (EC 1.13.11.27)
 RQ  1
 EV  IPR005956; TIGR01263; sufficient;
 TG  GO:0019445;
 --
-SN  HmgA
+SN  3
 ID  Homogentisate 1,2-dioxygenase
 DN  Homogentisate 1,2-dioxygenase/HmgA (EC 1.13.11.5)
 RQ  1
@@ -46,14 +46,14 @@ TG  GO:0019445;
 EV  IPR005708; PF04209; sufficient;
 TG  GO:0019445;
 --
-SN  Mai
+SN  4
 ID  Maleylacetoacetate isomerase
 DN  Maleylacetoacetate isomerase/Mai (EC 5.2.1.2)
 RQ  1
 EV  IPR005955; TIGR01262; sufficient;
 TG  GO:0019445;
 --
-SN  Fah
+SN  5
 ID  Fumarylacetoacetase
 DN  Fumarylacetoacetase/Fah (EC 3.7.1.2)
 RQ  1
