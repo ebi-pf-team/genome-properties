@@ -1,61 +1,78 @@
 AC  GenProp0144
 DE  Chlorophyllide a biosynthesis from protoporphyrin IX
 TP  PATHWAY
-AU  Haft DH
+AU  Haft DH, Richardson L;
 TH  1
 RN  [1]
-RM  10648776
-RT  DNA sequence analysis of the photosynthesis region of Rhodobacter
-RT  sphaeroides 2.4.1.
-RA  Choudhary M, Kaplan S;
-RL  Nucleic Acids Res. 2000;28:862-867.
+RM  17370354
+RT  Recent advances in chlorophyll biosynthesis.
+RA  Bollivar DW;
+RL  Photosynth Res. 2006;90(2):173-194.
 DC  Heme and Chlorophyll Biosynthesis
 DR  IUBMB; tetrapyr; porphyrin3;
 DC  Chlorophyll Biosynthesis (earlier stages)
 DR  IUBMB; tetrapyr; porphyrin4;
 DC  Chlorophyll Biosynthesis (later stages)
 DR  IUBMB; tetrapyr; porphyrin5;
+CC  Chlorophyllide a is synthesised from protoporphyrin IX as part of the 
+CC  chlorophyll biosynthesis pathway. There is an aerobic and an anaerobic
+CC  branch, this property represnts the aerobic branch. The first step 
+CC  (Mg-chelatase) has been shown to require three subunits encoded by 
+CC  three different genes. The final two steps in this pathway (vinyl 
+CC  reductase and protochlorophyllide reductase) can occur in the 
+CC  alternate order from that shown. There are two different enzymes that 
+CC  can catalyse the final (protochlorophyllide reductase) step; 
+CC  light-dependent protochlorophyllide reductase, and light-independent 
+CC  protochlorophyllide reductase. Despite catalyzing the same reaction, 
+CC  the two enzymes are very different [1].
 --
-SN  1-ChlD
+SN  1
 ID  Mg-chelatase, ChlD-subunit
+DN  Magnesium-chelatase subunit ChlD (EC 6.6.1.1)
 RQ  1
 EV  IPR011776; TIGR02031; sufficient;
 TG  GO:0015995;
 --
-SN  1-ChlH
+SN  2
 ID  Mg-chelatase, ChlH-subunit
+DN  Magnesium-chelatase subunit ChlH (EC 6.6.1.1)
 RQ  1
 EV  IPR011771; TIGR02025; sufficient;
 TG  GO:0015995;
 --
-SN  1-ChlI
+SN  3
 ID  Mg-chelatase, ChlI-subunit
+DN  Magnesium-chelatase subunit ChlI (EC 6.6.1.1)
 RQ  1
 EV  IPR011775; TIGR02030; sufficient;
 TG  GO:0015995;
 --
-SN  2-ChlM
+SN  4
 ID  Magnesium protoporphyrin IX methyltransferase
+DN  Magnesium protoporphyrin IX methyltransferase (EC 2.1.1.11)
 RQ  1
 EV  IPR010251; TIGR02021; sufficient;
 TG  GO:0015995;
 --
-SN  3-BchE
+SN  5
 ID  Magnesium protoporphyrin IX monomethylester oxidative cyclase
+DN  Magnesium protoporphyrin IX monomethylester oxidative cyclase (EC 1.14.13.81)
 RQ  1
 EV  IPR011772; TIGR02026; sufficient;
 TG  GO:0015995;
 EV  IPR008434; TIGR02029; sufficient;
 TG  GO:0015995;
 --
-SN  4-BchJ
+SN  6
 ID  Magnesium-2,4-divinylpheoporphyrin a5-monomethyl ester vinyl reductase
+DN  3,8-divinyl protochlorophyllide a 8-vinyl-reductase
 RQ  0
 EV  IPR010249; TIGR02019; sufficient;
 TG  GO:0015995;
 --
-SN  5-Por
+SN  7
 ID  Protochlorophyllide reductase
+DN  Protochlorophyllide reductase (EC 1.3.1.33)
 RQ  1
 EV  IPR005979; TIGR01289; sufficient;
 TG  GO:0015995;
