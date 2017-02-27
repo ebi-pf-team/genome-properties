@@ -3,33 +3,48 @@ DE  Galactose-6-phosphate degradation via tagatose-6-phosphate
 TP  PATHWAY
 AU  Haft DH
 TH  1
+RN  1
+RM  1901863
+RT  Molecular cloning, characterization, and nucleotide sequence of the 
+RT  tagatose 6-phosphate pathway gene cluster of the lactose operon of 
+RT  Lactococcus lactis.
+RA  van Rooijen RJ, van Schalkwijk S, de Vos WM;
+RL  J Biol Chem. 1991;266(11):7176-7181.
 DC  Galactose metabolism
 DR  KEGG; map00052;
+DC  Lactose and galactose degradation I
+DR  MetaCyc; LACTOSECAT-PWY;
+CC  Galactose-6-phosphate is degraded via the tagatose-6-phosphate pathway, 
+CC  which is a 3 step pathway encoded by the lacABCD gene cluster of the 
+CC  lactose-PTS (lactose phosphotransferase) operon. The three enzymes in 
+CC  the pathway are galactose-6-phosphate isomerase (this requires both 
+CC  LacA and LacB subunits for activity), tagatose-6-phosphate kinase 
+CC  (LacC), and tagatose 1,6-diphosphate aldolase (LacD)[1]. 
 --
-SN  LacA
+SN  1
 ID  Galactose-6-phosphate isomerase, LacA subunit
 DN  Galactose-6-phosphate isomerase, LacA subunit (EC 5.3.1.26)
 RQ  1
 EV  IPR004783; TIGR01118; sufficient;
 TG  GO:0019320;
 --
-SN  LacB
+SN  2
 ID  Galactose-6-phosphate isomerase, LacB subunit
 DN  Galactose-6-phosphate isomerase, LacB subunit (EC 5.3.1.26)
 RQ  1
 EV  IPR004784; TIGR01119; sufficient;
 TG  GO:0019320;
 --
-SN  LacC
+SN  3
 ID  Tagatose-6-phosphate kinase
-DN  Tagatose-6-phosphate kinase (EC 2.7.1.144)
+DN  Tagatose-6-phosphate kinase/LacC (EC 2.7.1.144)
 RQ  1
 EV  IPR005926; TIGR01231; sufficient;
 TG  GO:0019320;
 --
-SN  LacD
+SN  4
 ID  Tagatose 1,6-diphosphate aldolase
-DN  Tagatose 1,6-bisphosphate aldolas (EC 4.1.2.40)
+DN  Tagatose 1,6-diphosphate aldolase/LacD (EC 4.1.2.40)
 RQ  1
 EV  IPR005927; TIGR01232; sufficient;
 TG  GO:0019320;
