@@ -14,6 +14,12 @@ DC  Chlorophyll Biosynthesis (earlier stages)
 DR  IUBMB; tetrapyr; porphyrin4;
 DC  Chlorophyll Biosynthesis (later stages)
 DR  IUBMB; tetrapyr; porphyrin5;
+DC  Pathway: 3,8-divinyl-chlorophyllide a biosynthesis I (aerobic, 
+DC  light-dependent)
+DR  MetaCyc; CHLOROPHYLL-SYN;
+DC  Pathway: 3,8-divinyl-chlorophyllide a biosynthesis III (aerobic, light 
+DC  independent)
+DR  MetaCyc; PWY-7159;
 CC  Chlorophyllide a is synthesised from protoporphyrin IX as part of the 
 CC  chlorophyll biosynthesis pathway. There is an aerobic and an anaerobic
 CC  branch, this property represnts the aerobic branch. The first step 
