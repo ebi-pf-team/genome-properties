@@ -3,10 +3,11 @@ DE  Light-independent protochlorophyllide reductase
 TP  SYSTEM
 AU  Haft DH
 TH  0
-CC  This Genome Property represents the three-component, light-independent
-CC  protochlorophyllide reductase. There is a separate light-dependent 
-CC  protochlorophyllide reductase (described by TIGR01289/IPR005979) which 
-CC  is not covered by this property.
+CC  Protochlorophyllide reductase is the final step in the biosynthesis of
+CC  chlorophyllide a from protoporphyrin IX. This genome property 
+CC  represents the three-component, light-independent protochlorophyllide 
+CC  reductase. There is also a separate light-dependent protochlorophyllide 
+CC  reductase which is not covered by this property.
 **  Steps removed from meta-path prop_def_id 24135 (GenProp0144), where 
 **  eval_method used to be rules, to create this separate property.
 --
