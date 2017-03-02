@@ -61,7 +61,7 @@ RQ  1
 EV  IPR005920; TIGR01224; sufficient;
 TG  GO:0006548;
 --
-SN  4/4A
+SN  4
 ID  Formimidoylglutamate deiminase/formiminoglutamase/glu-formyltransferase
 DN  Formimidoylglutamate deiminase/hutF (EC 3.5.3.13)
 RQ  1
@@ -72,7 +72,7 @@ TG  GO:0006548;
 EV  IPR004227; TIGR02024; sufficient;
 TG  GO:0006548;
 --
-SN  4/4B
+SN  5
 ID  Formylglutamate deformylase/formiminoglutamase/glu-formyltransferase
 DN  N-formylglutamate deformylase/hutG (EC 3.5.1.68)
 RQ  1
@@ -83,7 +83,7 @@ TG  GO:0006548;
 EV  IPR004227; TIGR02024; sufficient;
 TG  GO:0006548;
 --
-SN  reg
+SN  6
 ID  Histidine utilization repressor (hutC)
 DN  Histidine utilization repressor/hutC
 RQ  0
