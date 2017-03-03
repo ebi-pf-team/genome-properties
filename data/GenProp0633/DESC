@@ -3,13 +3,21 @@ DE  Nitrogenase, Mo-containing
 TP  SYSTEM
 AU  Haft DH
 TH  0
-CC  The most common type of nitrogenase contains molybdenum as well as
-CC  iron (MoFe nitrogenase). Alternative nitrogenases with homologous 
-CC  alpha and beta subunits, but somewhat different sets of accessory 
-CC  proteins, use vanadium and iron, or just iron. All species studied 
-CC  so far with one or more alternative nitrogenases, also contain a 
-CC  MoFe nitrogenase. This genome property consists of the structural 
-CC  subunits of the MoFe nitrogenase.
+RN  [1]
+RM  25139995
+RT  Reconstruction and minimal gene requirements for the alternative
+RT  iron-only nitrogenase in Escherichia coli.
+RA  Yang J, Xie X, Wang X, Dixon R, Wang YP;
+RL  Proc Natl Acad Sci U S A. 2014;111:E3718-E3725.
+CC  There are three distict types of nitrogenase system that exist in 
+CC  bacteria and archea, acting in nitrogen fixation. The most common 
+CC  type of nitrogenase contains molybdenum as well as iron (MoFe 
+CC  nitrogenase). Alternative nitrogenases with homologous alpha and 
+CC  beta subunits, but somewhat different sets of accessory proteins, 
+CC  use vanadium and iron, or just iron. All species studied so far 
+CC  with one or more alternative nitrogenases, also contain a MoFe 
+CC  nitrogenase. This genome property consists of the structural 
+CC  subunits of the MoFe nitrogenase [1].
 --
 SN  1
 ID  Nitrogenase, molybdenum-iron protein, alpha subunit
