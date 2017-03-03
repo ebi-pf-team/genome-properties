@@ -3,30 +3,40 @@ DE  Nitrogenase, Fe-only
 TP  SYSTEM
 AU  Haft DH
 TH  0
-CC  Three homologous types of nitrogenase are the common
+RN  [1]
+RM  25139995
+RT  Reconstruction and minimal gene requirements for the alternative
+RT  iron-only nitrogenase in Escherichia coli.
+RA  Yang J, Xie X, Wang X, Dixon R, Wang YP;
+RL  Proc Natl Acad Sci U S A. 2014;111:E3718-E3725.
+CC  There are three homologous types of nitrogenase; the common
 CC  molybdenum-containing, the alternative vanadium (V)-containing, and the
-CC  alterantive iron (Fe)-only. This Genome Property represents presence in
-CC  a genome of the Fe-only nitrogenase system, which acts in nitrogen
-CC  fixation, and its accessory proteins.
-**  UNFINISHED:  so far only the three subunits of the iron-iron protein
+CC  alterantive iron (Fe)-only. This Genome Property represents the Fe-only 
+CC  nitrogenase system (which acts in nitrogen fixation) and its accessory 
+CC  proteins. Fe-only nitrogenase is composed of 2 copies each of an alpha,
+CC  beta and delta subunit, forming a hexameric structure. The exact 
+CC  function of the accessory protein included in this property is not yet
+CC  known [1].
+**  UNFINISHED:  so far only the three subunits of the iron-iron protein.
+**  now includes accessory protein, so complete?
 --
-SN  alph_Fe
+SN  1
 ID  Fe-only nitrogenase, alpha subunit
 RQ  1
 EV  IPR011290; TIGR01861; sufficient;
 --
-SN  anfO_Fe
-ID  Fe-only nitrogenase, anfO/anf1 accessory protein
-RQ  0
-EV  IPR014287; TIGR02940; sufficient;
---
-SN  beta_Fe
+SN  2
 ID  Fe-only nitrogenase, beta subunit
 RQ  1
 EV  IPR014280; TIGR02931; sufficient;
 --
-SN  delt_Fe
+SN  3
 ID  Fe-only nitrogenase, delta subunit
 RQ  1
 EV  IPR014278; TIGR02929; sufficient;
+--
+SN  4
+ID  Fe-only nitrogenase, anfO/anf1 accessory protein
+RQ  0
+EV  IPR014287; TIGR02940; sufficient;
 //
