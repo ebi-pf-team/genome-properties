@@ -3,25 +3,33 @@ DE  Nitrogenase, V-containing
 TP  SYSTEM
 AU  Haft DH
 TH  0
-CC  Three homologous types of nitrogenase are the common
+RN  [1]
+RM  2743980
+RT  Structural genes for the vanadium nitrogenase from Azotobacter
+RT  chroococcum.
+RA  Robson RL, Woodley PR, Pau RN, Eady RR;
+RL  EMBO J. 1989;8:1217-1224.
+CC  There are three homologous types of nitrogenase; the common
 CC  molybdenum-containing, the alternative vanadium (V)-containing, and the
-CC  alterantive iron (Fe)-only. This Genome Property represents presence in
-CC  a genome of the  V-containing nitrogenase, which acts in nitrogen
-CC  fixation, and its accessory proteins.
+CC  alterantive iron (Fe)-only. This Genome Property represents the 
+CC  V-containing nitrogenase, which acts in nitrogen fixation. V-containing 
+CC  nitrogenase is composed of three subunits encoded by three genes within 
+CC  an operon: subunit alpha (vnfD), subunit beta (vnfK) and subunit delta 
+CC  (vnfG).
 **  WARNING: ONLY THE THREE SUBUNITS OF THE VANADIUM-IRON PROTEIN AT THIS
 **  TIME
 --
-SN  alph_V
+SN  1
 ID  V-containing nitrogenase, alpha subunit
 RQ  1
 EV  IPR010142; TIGR01860; sufficient;
 --
-SN  beta_V
+SN  2
 ID  V-containing nitrogenase, beta subunit
 RQ  1
 EV  IPR014281; TIGR02932; sufficient;
 --
-SN  delt_V
+SN  3
 ID  V-containing nitrogenase, delta subunit
 RQ  1
 EV  IPR014279; TIGR02930; sufficient;
