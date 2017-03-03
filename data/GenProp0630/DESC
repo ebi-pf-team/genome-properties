@@ -3,27 +3,32 @@ DE  2-oxoglutarate dehydrogenase system
 TP  SYSTEM
 AU  Haft DH
 TH  0
+RN  [1]
+RM  16321804
+RT  Alpha-ketoglutarate dehydrogenase: a target and generator of
+RT  oxidative stress.
+RA  Tretter L, Adam-Vizi V;
+RL  Philos Trans R Soc Lond B Biol Sci. 2005;360:2335-2345.
 CC  This enzyme system utilizes three components E1 (thiamine
 CC  pyrophosphate-binding subunit, SucA), E2 (dihydrolipoamide
 CC  succinyltransferase, SucB) and E3 (dihydrolipoamide dehydrogenase,
 CC  LpdA) for the interconversion of 2-oxoglutarate (alpha-ketoglutarate)
-CC  and succinyl-CoA.  In addition to lipoate and thiamine pyrophosphate,
-CC  FAD is also involved.  In the course of the reaction CO2 is released
-CC  and and one molecule of NAD+ is converted to NADH.  This reaction is an
-CC  essential component of the TCA (Krebs) cycle.
+CC  and succinyl-CoA. In addition to lipoate and thiamine pyrophosphate,
+CC  FAD is also involved. In the course of the reaction CO2 is released
+CC  and one molecule of NAD+ is converted to NADH. This reaction is an
+CC  essential component of the TCA (Krebs) cycle [1].
 --
-SN  E1
+SN  1
 ID  Thiamine pyrophosphate-binding subunit, SucA (E1)
 RQ  1
 EV  IPR011603; TIGR00239; sufficient;
 --
-SN  E2
+SN  2
 ID  Dihydrolipoamide succinyltransferase, SucB (E2)
 RQ  1
 EV  IPR006255; TIGR01347; sufficient;
-EV  IPR014276; TIGR02927; sufficient;
 --
-SN  E3
+SN  3
 ID  Dihydrolipoamide dehydrogenase, LpdA (E3)
 RQ  1
 EV  IPR006258; TIGR01350; sufficient;
