@@ -15,7 +15,7 @@ CC  alterantive iron (Fe)-only. This Genome Property represents the
 CC  V-containing nitrogenase, which acts in nitrogen fixation. V-containing 
 CC  nitrogenase is composed of three subunits encoded by three genes within 
 CC  an operon: subunit alpha (vnfD), subunit beta (vnfK) and subunit delta 
-CC  (vnfG).
+CC  (vnfG) [1].
 **  WARNING: ONLY THE THREE SUBUNITS OF THE VANADIUM-IRON PROTEIN AT THIS
 **  TIME
 --
