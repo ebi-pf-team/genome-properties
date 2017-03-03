@@ -3,6 +3,8 @@ DE  Bacteriochlorophyll biosynthesis from chlorophyllide a
 TP  PATHWAY
 AU  Haft DH
 TH  2
+DC  Bacteriochlorophyll a biosynthesis
+DR  MetaCyc; PWY-5526;
 CC  Chlorophyllide a is the common branchpoint of the chlorophyll and
 CC  bacteriochlorophyll biosynthetic pathways.
 --
