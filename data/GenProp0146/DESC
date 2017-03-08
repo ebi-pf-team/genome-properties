@@ -3,56 +3,66 @@ DE  Bacteriochlorophyll biosynthesis from chlorophyllide a
 TP  PATHWAY
 AU  Haft DH
 TH  2
+RN  [1]
+RM  17370354
+RT  Recent advances in chlorophyll biosynthesis.
+RA  Bollivar DW;
+RL  Photosynth Res. 2006;90(2):173-194.
 DC  Bacteriochlorophyll a biosynthesis
 DR  MetaCyc; PWY-5526;
 CC  Chlorophyllide a is the common branchpoint of the chlorophyll and
-CC  bacteriochlorophyll biosynthetic pathways.
+CC  bacteriochlorophyll biosynthetic pathways. This Genome Property 
+CC  describes the pathway beyond this branchpoint, which ultimately 
+CC  produces bacteriochlorophyll a. Three of the steps in the pathway 
+CC  (chlorophyllide reductase, bacteriochlorophyllide a dehydrogenase 
+CC  and bacteriochlorophyllide hydratase) can act in multiple orders
+CC  producing different intermediates [1].
 --
-SN  1-BchF
+SN  1
 ID  2-vinyl bacteriochlorophyllide hydratase
-DN  2-vinyl bacteriochlorophyllide hydratase (EC:4.2.1.-)
+DN  2-vinyl bacteriochlorophyllide hydratase/BchF (EC:4.2.1.-)
 RQ  1
 EV  IPR009905; TIGR02020; sufficient;
 TG  GO:0030494;
 --
-SN  2-BchC
-ID  2-alpha-hydroxyethylbacteriochlorophyllide reductase
-DN  2-desacetyl-2-hydroxyethyl bacteriochlorophyllide a dehydrogenase (EC:1.-.-.-)
-RQ  1
-EV  IPR005903; TIGR01202; sufficient;
-TG  GO:0030494;
---
-SN  3-BchX
+SN  2
 ID  Bacteriochlorophyllide reductase iron protein subunit X
-DN  Chlorophyllide reductase iron protein subunit X (EC:1.18.6.1)
+DN  Chlorophyllide reductase iron protein subunit X/BchX (EC:1.18.6.1)
 RQ  1
 EV  IPR010246; TIGR02016; sufficient;
 TG  GO:0030494;
 --
-SN  3-BchY
+SN  3
 ID  Bacteriochlorophyllide reductase subunit Y
-DN  Chlorophyllide reductase subunit Y (EC:1.18.1.-)
+DN  Chlorophyllide reductase subunit Y/BchY (EC:1.18.1.-)
 RQ  1
 EV  IPR010245; TIGR02015; sufficient;
 TG  GO:0030494;
 --
-SN  3-BchZ
+SN  4
 ID  Bacteriochlorophyllide reductase subunit Z
-DN  Chlorophyllide reductase subunit Z (EC:1.18.-.-)
+DN  Chlorophyllide reductase subunit Z/BchZ (EC:1.18.-.-)
 RQ  1
 EV  IPR010244; TIGR02014; sufficient;
 TG  GO:0030494;
 --
-SN  4-BchG
+SN  5
+ID  2-alpha-hydroxyethylbacteriochlorophyllide reductase
+DN  2-desacetyl-2-hydroxyethyl bacteriochlorophyllide a dehydrogenase/BchC (EC:1.-.-.-)
+RQ  1
+EV  IPR005903; TIGR01202; sufficient;
+TG  GO:0030494;
+--
+SN  6
 ID  Geranyl geranyl bacteriochlorophyll synthetase
-DN  Bacteriochlorophyll/chlorophyll a synthase (EC:2.5.1.-)
+DN  Bacteriochlorophyll/chlorophyll a synthase/BchG (EC:2.5.1.-)
 RQ  1
 EV  IPR006372; TIGR01476; sufficient;
 TG  GO:0030494;
 --
-SN  5-BchP
+SN  7
 ID  Geranyl geranyl bacteriochlorophyll reductase
-DN  Geranylgeranyl reductase (EC:1.3.1.-)
+DN  Geranylgeranyl reductase/BchP (EC:1.3.1.-)
 RQ  1
 EV  IPR010253; TIGR02023; sufficient;
 TG  GO:0030494;
