@@ -1,0 +1,60 @@
+AC  GenProp2001
+DE  blood coagulation extrinsic pathway
+TP  METAPATH
+AU  Rawlings ND
+TH  3
+RN  [1]
+RM  26324800
+RT  Coagulation and anticoagulation in idiopathic pulmonary fibrosis.
+RA  Crooks MG; Hart SP;
+RL  Eur Respir Rev. 2015;24:392-399.
+DC  Complement and coagulation cascades
+DR  KEGG; map04610;
+CC  Blood coagulation is the cross-linking of fibrin fibres.  Conversion
+CC  of the precursor fibrinogen to active fibrin is a prerequisite.  
+CC  Activation requires proteolytic removal of an N-terminal peptide
+CC  from each of the fibrinogen chains, allowing isopeptide bonds to form  
+CC  between active fibrin chains.  A proteolytic cascade to amplify the
+CC  initial signal results in the activation of thrombin (factor 2) which
+CC  releases the fibrinopeptides from fibrin.  Two coverging pathways are
+CC  thought to exist, the extrinsic and the intrinsic.  The extrinsic 
+CC  pathway is initiated by the release of tissue factor.
+**  The existance of the intrinsic pathway has been called into question, 
+**  and the extrinsic pathway has been simplified.  This coagulation 
+**  pathway is restricted to vertebrates.  Invertebrates have a different
+**  pathway (determined in the horseshoe crab).
+--
+SN  1
+ID  tissue factor
+DN  tissue factor
+RQ  1
+EV  IPR001187; PTHR20859:SF72; sufficient;
+TG  GO:0007596;
+--
+SN  2
+ID  coagulation factor VIIa
+DN  coagulation factor VII (EC:3.4.21.21)
+RQ  1
+EV  IPR033190; PTHR24256:SF375; sufficient;
+TG  GO:0007596;
+--
+SN  3
+ID  coagulation factor Xa
+DN  coagulation factor X (EC:3.4.21.21)
+RQ  1
+EV  IPR012224; PIRSF001143; sufficient;
+TG  GO:0007596;
+--
+SN  4
+ID  thrombin
+DN  thrombin (EC:3.4.21.21)
+RQ  1
+EV  IPR003966; PTHR24254:SF13; sufficient;
+TG  GO:0007596;
+--
+SN  5
+ID  Fibrinogen
+RQ  1
+EV  GenProp2001;
+TG  GO:0005577;
+//
