@@ -23,6 +23,10 @@ RA  Boch J, Kempf B, Schmid R, Bremer E;
 RL  J Bacteriol. 1996;178:5121-5129.
 DC  Glycine, serine and threonine metabolism
 DR  KEGG; map00260;
+DC  Glycine betaine biosynthesis I (Gram-negative bacteria)
+DR  MetaCyc; BETSYN-PWY;
+DC  Glycine betaine biosynthesis II (Gram-positive bacteria)
+DR  MetaCyc; PWY-3722;
 CC  As a coping mechanism against osmotic stress, prokaryotic organisms
 CC  accumulate osmolytes or osmoprotectants from exogenous sources, to
 CC  counterbalance elevated osmolarities in the environment without
@@ -45,14 +49,14 @@ CC  for conversion of choline into glycine betaine [2,3].
 --
 SN  1
 ID  Choline dehydrogenase
-DN  Choline dehydrogenase/BetA
+DN  Choline dehydrogenase/BetA (EC 1.1.99.1)
 RQ  1
 EV  IPR011533; TIGR01810; sufficient;
 TG  GO:0019285;
 --
 SN  2
 ID  Glycine betaine dehydrogenase
-DN  Betaine aldehyde dehydrogenase/BetB
+DN  Betaine aldehyde dehydrogenase/BetB (EC 1.2.1.8)
 RQ  1
 EV  IPR011264; TIGR01804; sufficient;
 TG  GO:0019285;
