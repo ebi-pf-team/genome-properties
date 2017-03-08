@@ -1,0 +1,44 @@
+AC  GenProp2002
+DE  Fibrinogen
+TP  PATHWAY
+AU  Rawlings ND
+TH  1
+RN  [1]
+RM  15629911
+RT  Resolution of spontaneous bleeding events but failure of pregnancy in 
+RT  fibrinogen-deficient mice.
+RA  Suh TT; Holmback K; Jensen NJ; Daugherty CC; Small K; Simon DI; 
+RA  Potter S; Degen JL;
+RL  Genes Dev. 1995;9:2020-2033.
+DC  Complement and coagulation cascades
+DR  KEGG; map04610;
+CC  Fibrinogen is the precursor of fibrin.  During hemostasis, thrombin  
+CC  activates fibrin which then cross-links to form an insoluble matrix.
+CC  Three subunits, alpha, beta and gamma, form fibrinogen.  Thrombin
+CC  releases fibrinopeptides A and B from the N-termini of the alpha and
+CC  beta chains respectively.  Factor XIII is an transisopeptidate which 
+CC  catalyses formation of isopeptide bonds between subunits via the  
+CC  newly exposed N-termini.
+**  SwissProt calls all peptides released by thrombin fibrinopeptide A,
+**  which is incorrect.  NDR.
+**  The role of the gamma subunit is unclear.  This is not known to be a 
+**  source of a fibrinopeptide.  NDR.
+--
+SN  1
+ID  Fibrinogen alpha chain PTHR19143:SF311 
+RQ  0
+EV  -; PTHR19143:SF311; sufficient;
+TG  GO:0005577;
+--
+SN  2
+ID  Fibrinogen beta chain PTHR19143:SF311 
+RQ  0
+EV  -; PTHR19143:SF311; sufficient;
+TG  GO:0005577;
+--
+SN  3
+ID  Fibrinogen gamma chain PTHR19143:SF311 
+RQ  0
+EV  -; PTHR19143:SF311; sufficient;
+TG  GO:0005577;
+//
