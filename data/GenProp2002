@@ -16,7 +16,7 @@ CC  Fibrinogen is the precursor of fibrin.  During hemostasis, thrombin
 CC  activates fibrin which then cross-links to form an insoluble matrix.
 CC  Three subunits, alpha, beta and gamma, form fibrinogen.  Thrombin
 CC  releases fibrinopeptides A and B from the N-termini of the alpha and
-CC  beta chains respectively.  Factor XIII is an transisopeptidate which 
+CC  beta chains respectively.  Factor XIII is an transglutaminase which 
 CC  catalyses formation of isopeptide bonds between subunits via the  
 CC  newly exposed N-termini.
 **  SwissProt calls all peptides released by thrombin fibrinopeptide A,
