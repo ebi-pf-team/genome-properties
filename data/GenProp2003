@@ -1,0 +1,75 @@
+AC  GenProp2003
+DE  Blood coagulation, intrinsic pathway
+TP  METAPATH
+AU  Rawlings ND
+TH  3
+RN  [1]
+RM  26324800
+RT  Coagulation and anticoagulation in idiopathic pulmonary fibrosis.
+RA  Crooks MG; Hart SP;
+RL  Eur Respir Rev. 2015;24:392-399.
+RM  27363989
+RT  Coagulation factor XIIIA subunit missense mutations affect structure 
+RT  and function at the various steps of factor XIII action.
+RA  Thomas A; Biswas A; Dodt J; Philippou H; Hethershaw E; Ensikat HJ; 
+RA  Ivaskevicius V; Oldenburg J;
+RL  Hum Mutat. 2016;37;1030-1041.
+DC  Complement and coagulation cascades
+DR  KEGG; map04610;
+CC  Blood coagulation is the cross-linking of fibrin fibres.  Conversion
+CC  of the precursor fibrinogen to active fibrin is a prerequisite.  
+CC  Activation requires proteolytic removal of an N-terminal peptide
+CC  from each of the fibrinogen chains, allowing isopeptide bonds to form  
+CC  between active fibrin chains.  A proteolytic cascade to amplify the
+CC  initial signal results in the activation of thrombin (factor 2) which
+CC  releases the fibrinopeptides from fibrin.  The transglutaminase
+CC  factor XIII catalyzes the formation of gamma-glutamyl-epsilon-lysine 
+CC  cross-links between fibrin chains. Two converging pathways are
+CC  thought to exist, the extrinsic and the intrinsic.  The intrinsic 
+CC  pathway is initiated by the activation of factor XII.
+**  The existance of the intrinsic pathway has been called into question, 
+**  and the extrinsic pathway has been simplified.  This coagulation 
+**  pathway is restricted to vertebrates.  Invertebrates have a different
+**  pathway (determined in the horseshoe crab).
+--
+SN  1
+ID  coagulation factor XIIa
+DN  coagulation factor XIIa
+RQ  1
+EV  -; PTHR24256:SF424; sufficient;
+TG  GO:0007596;
+--
+SN  2
+ID  coagulation factor XIa
+DN  coagulation factor XIa
+RQ  1
+EV  -; PTHR24256:SF402; sufficient;
+TG  GO:0007596;
+--
+SN  3
+ID  coagulation factor IXa
+DN  coagulation factor IXa
+RQ  1
+EV  -; PTHR24256:SF397; sufficient;
+TG  GO:0007596;
+--
+SN  4
+ID  von Willebrand factor
+DN  von Willebrand factor
+RQ  1
+EV  IPR012011; PTHR11339:SF319; sufficient;
+TG  GO:0007596;
+--
+SN  5
+ID  coagulation factor VIII
+DN  coagulation factor VIII
+RQ  1
+EV  IPR014707; PTHR10127:SF725; sufficient;
+TG  GO:0007596;
+--
+SN  6
+ID  blood coagulation, common pathway
+RQ  1
+EV  GenProp2004;
+TG  GO:0007596;
+//
