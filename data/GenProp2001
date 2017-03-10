@@ -47,29 +47,8 @@ EV  IPR033190; PTHR24256:SF375; sufficient;
 TG  GO:0007596;
 --
 SN  3
-ID  coagulation factor Xa
-DN  coagulation factor X (EC:3.4.21.21)
+ID  blood coagulation, common pathway
 RQ  1
-EV  IPR012224; PIRSF001143; sufficient;
+EV  GenProp2004;
 TG  GO:0007596;
---
-SN  4
-ID  thrombin
-DN  thrombin (EC:3.4.21.21)
-RQ  1
-EV  IPR003966; PTHR24254:SF13; sufficient;
-TG  GO:0007596;
---
-SN  5
-ID  Fibrinogen
-RQ  1
-EV  GenProp2001;
-TG  GO:0005577;
---
-SN  6
-ID  coagulation factor XIII
-DN  coagulation factor XIII A chain (EC:2.3.2.13)
-RQ  1
-EV  -; PTHR11590:SF62; sufficient; 
-TG  GO:0003810;
 //
