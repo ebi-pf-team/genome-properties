@@ -28,21 +28,21 @@ CC  pathway is initiated by the activation of factor XII.
 --
 SN  1
 ID  coagulation factor XIIa
-DN  coagulation factor XIIa
+DN  coagulation factor XII (EC:3.4.21.38)
 RQ  1
 EV  -; PTHR24256:SF424; sufficient;
 TG  GO:0007596;
 --
 SN  2
 ID  coagulation factor XIa
-DN  coagulation factor XIa
+DN  coagulation factor XI (EC:3.4.21.27)
 RQ  1
 EV  -; PTHR24256:SF402; sufficient;
 TG  GO:0007596;
 --
 SN  3
 ID  coagulation factor IXa
-DN  coagulation factor IXa
+DN  coagulation factor IX (EC:3.4.21.224)
 RQ  1
 EV  -; PTHR24256:SF397; sufficient;
 TG  GO:0007596;
