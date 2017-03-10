@@ -1,4 +1,4 @@
-AC  GenProp2005
+AC  GenProp2006
 DE  complement activation, lectin pathway
 TP  METAPATH
 AU  Rawlings ND
@@ -38,12 +38,12 @@ DN  Mannan-binding lectin serine protease 2 (EC:3.4.21.104)
 RQ  1
 EV  -; PTHR24255:SF21; sufficient;
 --
-SN  6
+SN  4
 ID  Complement activation, common pathway 1
 RQ  1
 EV  GenProp2007;
 --
-SN  6
+SN  5
 ID  Complement activation, common pathway 2
 RQ  1
 EV  GenProp2008;
