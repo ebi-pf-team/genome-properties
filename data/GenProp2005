@@ -2,7 +2,7 @@ AC  GenProp2005
 DE  complement activation, classical pathway
 TP  PATHWAY
 AU  Rawlings ND
-TH  6
+TH  7
 RN  [1]
 RM  26489954
 RT  Complement activation, regulation, and molecular basis for complement-
@@ -51,7 +51,12 @@ RQ  1
 EV  -; PTHR24255:SF18; sufficient;
 --
 SN  6
-ID  Complement activation, common pathway
+ID  Complement activation, common pathway 1
 RQ  1
 EV  GenProp2007;
+--
+SN  7
+ID  Complement activation, common pathway 2
+RQ  1
+EV  GenProp2008;
 //
