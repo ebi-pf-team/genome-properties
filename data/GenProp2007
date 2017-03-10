@@ -2,7 +2,7 @@ AC  GenProp2007
 DE  complement activation, common pathway 1
 TP  PATHWAY
 AU  Rawlings ND
-TH  5
+TH  4
 RN  [1]
 RM  26489954
 RT  Complement activation, regulation, and molecular basis for complement-
@@ -32,13 +32,13 @@ DN  Complement C4-A
 RQ  1
 EV  -; PTHR11412:SF122; sufficient;
 --
-SN  2
+SN  3
 ID  Complement C4-B
 DN  Complement C4-B
 RQ  1
 EV  -; PTHR11412:SF122; sufficient;
 --
-SN  3
+SN  4
 ID  Complement C3
 DN  Complement C3
 RQ  1
