@@ -1,0 +1,57 @@
+AC  GenProp2005
+DE  complement activation, classical pathway
+TP  PATHWAY
+AU  Rawlings ND
+TH  6
+RN  [1]
+RM  26489954
+RT  Complement activation, regulation, and molecular basis for complement-
+RT  related diseases.
+RA  Bajic G; Degn SE; Thiel S; Andersen GR;
+RL  EMBO J. 2015;34:2735-2757.
+DC  Complement and coagulation cascades
+DR  KEGG; map04610;
+CC  Complement is a ring-shaped complex that forms pores in bacterial 
+CC  cell membranes, making the cells leak and thus kill invading bacteria
+CC  and other pathogens. There are three pathways by which complement is 
+CC  activated, known as the classical, alternative and lectin pathways.
+CC  Activation involves proteolytic cascades which are different for each
+CC  of the activation pathways.  The classical and lectin pathways converge
+CC  at the activation of the C2/C4 complex, whereas the alternative pathway
+CC  converges at C5 activation.  The pathways are found only in chordates.
+--
+SN  1
+ID  Complement C1q subcomponent subunit A
+DN  Complement C1q subcomponent subunit A
+RQ  1
+EV  -; PTHR24023:SF831; sufficient;
+--
+SN  2
+ID  Complement C1q subcomponent subunit B
+DN  Complement C1q subcomponent subunit B
+RQ  1
+EV  -; PTHR24023:SF772; sufficient;
+--
+SN  3
+ID  Complement C1q subcomponent subunit C
+DN  Complement C1q subcomponent subunit C
+RQ  1
+EV  -; PTHR24023:SF627; sufficient;
+--
+SN  4
+ID  Complement C1r subcomponent
+DN  Complement C1r subcomponent (EC:3.4.21.41)
+RQ  1
+EV  -; PTHR24256:SF407; sufficient;
+--
+SN  5
+ID  Complement C1s subcomponent
+DN  Complement C1s subcomponent (EC:3.4.21.42)
+RQ  1
+EV  -; PTHR24255:SF18; sufficient;
+--
+SN  6
+ID  Complement activation, common pathway
+RQ  1
+EV  GenProp2007;
+//
