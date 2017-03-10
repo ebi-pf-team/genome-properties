@@ -1,0 +1,50 @@
+AC  GenProp2005
+DE  complement activation, lectin pathway
+TP  PATHWAY
+AU  Rawlings ND
+TH  6
+RN  [1]
+RM  26489954
+RT  Complement activation, regulation, and molecular basis for complement-
+RT  related diseases.
+RA  Bajic G; Degn SE; Thiel S; Andersen GR;
+RL  EMBO J. 2015;34:2735-2757.
+DC  Complement and coagulation cascades
+DR  KEGG; map04610;
+CC  Complement is a ring-shaped complex that forms pores in bacterial 
+CC  cell membranes, making the cells leak and thus kill invading bacteria
+CC  and other pathogens. There are three pathways by which complement is 
+CC  activated, known as the classical, alternative and lectin pathways.
+CC  Activation involves proteolytic cascades which are different for each
+CC  of the activation pathways.  The classical and lectin pathways converge
+CC  at the activation of the C2/C4 complex, whereas the alternative pathway
+CC  converges at C5 activation.  The pathways are found only in chordates.
+--
+SN  1
+ID  Mannose-binding protein C
+DN  Mannose-binding protein C
+RQ  1
+EV  -; PTHR24020:SF6; sufficient;
+--
+SN  2
+ID  Mannan-binding lectin serine protease 1
+DN  Mannan-binding lectin serine protease 1
+RQ  1
+EV  -; PTHR24255:SF19; sufficient;
+--
+SN  3
+ID  Mannan-binding lectin serine protease 2
+DN  Mannan-binding lectin serine protease 2 (EC:3.4.21.104)
+RQ  1
+EV  -; PTHR24255:SF21; sufficient;
+--
+SN  6
+ID  Complement activation, common pathway 1
+RQ  1
+EV  GenProp2007;
+--
+SN  6
+ID  Complement activation, common pathway 2
+RQ  1
+EV  GenProp2008;
+//
