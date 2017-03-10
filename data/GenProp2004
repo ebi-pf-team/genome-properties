@@ -1,0 +1,61 @@
+AC  GenProp2004
+DE  blood coagulation common pathway
+TP  METAPATH
+AU  Rawlings ND
+TH  3
+RN  [1]
+RM  26324800
+RT  Coagulation and anticoagulation in idiopathic pulmonary fibrosis.
+RA  Crooks MG; Hart SP;
+RL  Eur Respir Rev. 2015;24:392-399.
+RM  27363989
+RT  Coagulation factor XIIIA subunit missense mutations affect structure 
+RT  and function at the various steps of factor XIII action.
+RA  Thomas A; Biswas A; Dodt J; Philippou H; Hethershaw E; Ensikat HJ; 
+RA  Ivaskevicius V; Oldenburg J;
+RL  Hum Mutat. 2016;37;1030-1041.
+DC  Complement and coagulation cascades
+DR  KEGG; map04610;
+CC  Blood coagulation is the cross-linking of fibrin fibres.  Conversion
+CC  of the precursor fibrinogen to active fibrin is a prerequisite.  
+CC  Activation requires proteolytic removal of an N-terminal peptide
+CC  from each of the fibrinogen chains, allowing isopeptide bonds to form  
+CC  between active fibrin chains.  A proteolytic cascade to amplify the
+CC  initial signal results in the activation of thrombin (factor 2) which
+CC  releases the fibrinopeptides from fibrin.  The transglutaminase
+CC  factor XIII catalyzes the formation of gamma-glutamyl-epsilon-lysine 
+CC  cross-links between fibrin chains. Two converging pathways are
+CC  thought to exist, the extrinsic and the intrinsic.  The extrinsic 
+CC  pathway is initiated by the release of tissue factor.
+**  The existance of the intrinsic pathway has been called into question, 
+**  and the extrinsic pathway has been simplified.  This coagulation 
+**  pathway is restricted to vertebrates.  Invertebrates have a different
+**  pathway (determined in the horseshoe crab).
+--
+SN  1
+ID  coagulation factor Xa
+DN  coagulation factor X (EC:3.4.21.21)
+RQ  1
+EV  IPR012224; PIRSF001143; sufficient;
+TG  GO:0007596;
+--
+SN  2
+ID  thrombin
+DN  thrombin (EC:3.4.21.21)
+RQ  1
+EV  IPR003966; PTHR24254:SF13; sufficient;
+TG  GO:0007596;
+--
+SN  3
+ID  Fibrinogen
+RQ  1
+EV  GenProp2001;
+TG  GO:0005577;
+--
+SN  4
+ID  coagulation factor XIII
+DN  coagulation factor XIII A chain (EC:2.3.2.13)
+RQ  1
+EV  -; PTHR11590:SF62; sufficient; 
+TG  GO:0003810;
+//
