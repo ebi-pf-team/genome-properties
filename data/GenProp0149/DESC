@@ -13,16 +13,15 @@ DC  Sulfur metabolism
 DR  KEGG; map00920;
 CC  The reduction of sulfate to sulfide in sulfate assimilatory prokaryotes
 CC  is initiated by the activation of sulfate in an adenylation reaction
-CC  catalyzed by sulfate adenylyltransferase. The product,
-CC  5-adenylylsulfate (APS) , is either directly reduced by a
-CC  thioredoxin-dependent APS reductase to sulfite, in a reaction similar
-CC  to that found in sulfate dissimilators and plants, or phosphorylated to
-CC  the intermediate, 3-phosphoadenylylsulfate (PAPS). The later is then
+CC  catalyzed by sulfate adenylyltransferase. The product, 
+CC  5-adenylylsulfate (APS), is either directly reduced by a
+CC  thioredoxin-dependent APS reductase to sulfite (in a reaction similar
+CC  to that found in sulfate dissimilators and plants) or phosphorylated to
+CC  the intermediate, 3-phosphoadenylylsulfate (PAPS). The latter is then
 CC  reduced by a thioredoxin-dependent PAPS reductase to sulfite. The
 CC  sulfite product from either branch of the assimilation pathway is
-CC  enzymatically reduced by sulfite reductase to sulfide, for
-CC  incorporation into an amino acid acceptor, peptide, or protein etc.
-CC  [1].
+CC  enzymatically reduced by sulfite reductase to sulfide for incorporation 
+CC  into an amino acid acceptor, peptide, or protein[1].
 --
 SN  1-CysD
 ID  Sulfate adenylyltransferase, small subunit
@@ -49,14 +48,14 @@ TG  GO:0000103;
 --
 SN  2-CysC
 ID  Adenylylsulfate reductase via PAPS
-DN  Adenylyl-sulfate kinase(EC 2.7.1.25)
+DN  Adenylyl-sulfate kinase (EC 2.7.1.25)
 RQ  1
 EV  IPR002891; TIGR00455; sufficient;
 TG  GO:0000103;
 --
 SN  2-CysH
 ID  Adenylylsulfate reductase via PAPS
-DN  Phosphoadenylyl-sulfate reductase (thioredoxin)(EC 1.8.4.8)
+DN  Phosphoadenylyl-sulfate reductase (thioredoxin) (EC 1.8.4.8)
 RQ  1
 EV  IPR011800; TIGR02057; sufficient;
 TG  GO:0000103;
