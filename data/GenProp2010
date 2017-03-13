@@ -24,3 +24,24 @@ CC  isopeptide bonds, which cross-link fibrin fibres, are formed.
 **  plasminogen activators uPA and tPA are acknowledged, there is no
 **  indication how these are activated.
 --
+SN  1
+ID  plasminogen activator
+DN  plasminogen activator
+RQ  1
+EV  -; PTHR24256:SF424; sufficient;
+EV  -; PTHR24256:SF313; sufficient;
+EV  -; PTHR24256:SF425; sufficient;
+EV  -; PTHR24256:SF341; sufficient;
+--
+SN  2
+ID  plasmin
+DN  plasmin (EC:3.4.21.7)
+RQ  1
+EV  -; PTHR24261:SF6; sufficient;
+--
+SN  2
+ID  fibrin
+DN  fibrin
+RQ  1
+EV  -; PTHR24261:SF6; sufficient;
+//
