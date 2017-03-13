@@ -1,0 +1,24 @@
+AC  GenProp2010
+DE  fibrinolysis
+TP  METAPATH
+AU  Rawlings ND
+TH  3
+RN  [1]
+RM  26324800
+RT  Coagulation and anticoagulation in idiopathic pulmonary fibrosis.
+RA  Crooks MG; Hart SP;
+RL  Eur Respir Rev. 2015;24:392-399.
+DC  Complement and coagulation cascades
+DR  KEGG; map04610;
+CC  Fibrinolysis is the disoolving of the bloot clot and naturally 
+CC  follows coagulation.  Plasmin cleaves alpha, beta and gamma chains
+CC  of fibrin, thereby releasing the N-terminal peptides where the
+CC  isopeptide bonds, which cross-link fibrin fibres, are formed.
+**  The KEGG pathway makes little sense.  Although the activation of 
+**  plasminogen by coagulation factor XIIa might explain how clots are
+**  dissolved in the intrinsic blood coagulation pathway, this does not
+**  explain how clots are broken down in the extrinsic pathway where
+**  factor XII is not activated.  Although the important roles of the
+**  plasminogen activators uPA and tPA are acknowledged, there is no
+**  indication how these are activated.
+--
