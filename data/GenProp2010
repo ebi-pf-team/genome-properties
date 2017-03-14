@@ -29,15 +29,15 @@ ID  plasminogen activator
 DN  plasminogen activator
 RQ  1
 EV  -; PTHR24256:SF424; sufficient;
-EV  -; PTHR24256:SF313; sufficient;
-EV  -; PTHR24256:SF425; sufficient;
-EV  -; PTHR24256:SF341; sufficient;
+EV  IPR034813; PTHR24256:SF313; sufficient;
+EV  IPR034814; PTHR24256:SF425; sufficient;
+EV  IPR034811; PTHR24256:SF341; sufficient;
 --
 SN  2
 ID  plasmin
 DN  plasmin (EC:3.4.21.7)
 RQ  1
-EV  -; PTHR24261:SF6; sufficient;
+EV  IPR023317; PIRSF001150; sufficient;
 --
 SN  3
 ID  Fibrinogen
