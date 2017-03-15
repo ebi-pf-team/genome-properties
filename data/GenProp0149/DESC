@@ -61,7 +61,7 @@ EV  IPR011800; TIGR02057; sufficient;
 EV  IPR004511; TIGR00434; sufficient;
 TG  GO:0000103;
 --
-SN  3-CysI:7
+SN  3-CysI:6
 ID  Sulfite reductase, beta subunit
 DN  Sulfite reductase (NADPH) hemoprotein, beta-component (CysI) (EC 1.8.1.2)
 RQ  1
@@ -70,7 +70,7 @@ TG  GO:0000103;
 EV  IPR011787; TIGR02042; sufficient;
 TG  GO:0000103;
 --
-SN  3-CysJ:8
+SN  3-CysJ:7
 ID  Sulfite reductase, alpha subunit
 DN  Sulfite reductase (NADPH) flavoprotein, alpha-component (CysJ) (EC 1.8.1.2)
 RQ  1
