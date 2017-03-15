@@ -58,11 +58,6 @@ ID  Adenylylsulfate reductase via PAPS
 DN  Phosphoadenylyl-sulfate reductase (thioredoxin) (CysH) (EC 1.8.4.8)
 RQ  1
 EV  IPR011800; TIGR02057; sufficient;
-TG  GO:0000103;
---
-SN  2p-CysH:6
-ID  Adenylylsulfate reductase via PAPS
-RQ  0
 EV  IPR004511; TIGR00434; sufficient;
 TG  GO:0000103;
 --
