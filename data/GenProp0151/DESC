@@ -11,8 +11,8 @@ RA  Nascimento AM, Chartone-Souza E;
 RL  Genet Mol Res. 2003;2:92-101.
 CC  Detoxification of inorganic and organic mercury compounds involves the
 CC  enzymatic reduction of extracellular mercuric ions or organomercurials
-CC  into less-toxic metallic mercury, where it is released into the
-CC  cytoplasm and volatiles from the cell. Mercuric ions diffuse across the
+CC  into less-toxic metallic mercury, which is released into the cytoplasm
+CC  and then volatilizes from the cell. Mercuric ions diffuse across the
 CC  outer membrane by a mer transport system, which binds and transfers
 CC  mercury ions via a pair of cysteine residues to the active site of a
 CC  mercuric reductase. Alternatively, an organomercurial lyase is required
@@ -24,49 +24,49 @@ CC  regulatory protein down-regulates this mer operon. This resistance
 CC  system, often encoded on plasmids and transferred via transposons, is
 CC  found in both gram-positive and gram-negative bacteria [1].
 --
-SN  MerA
+SN  1
 ID  Mercuric reductase
 DN  Mercuric reductase (EC 1.16.1.1)
 RQ  1
 EV  IPR021179; TIGR02053; sufficient;
 TG  GO:0050787;
 --
-SN  MerB
+SN  2
 ID  Organomercurial lyase
 DN  Alkylmercury lyase (EC 4.99.1.2)
 RQ  0
 EV  IPR004927; PF03243; sufficient;
 TG  GO:0046689;
 --
-SN  MerC
+SN  3
 ID  Mercury transporter, MerC
 DN  Mercuric resistance protein MerC
 RQ  1
 EV  IPR004891; PF03203; sufficient;
 TG  GO:0046689;
 --
-SN  MerD
+SN  4
 ID  Transcriptional co-regulator, MerD
 DN  Mercuric resistance transcriptional repressor MerD
 RQ  1
 EV  IPR011797; TIGR02054; sufficient;
 TG  GO:0046689;
 --
-SN  MerP
+SN  5
 ID  Periplasmic mercury binding protein, MerP
 DN  Mercuric transport protein periplasmic component MerP
 RQ  1
 EV  IPR011795; TIGR02052; sufficient;
 TG  GO:0050787;
 --
-SN  MerR
+SN  6
 ID  Mercury responsive transcriptional activator
 DN  Mercuric-responsive transcriptional activator MerR
 RQ  1
 EV  IPR011794; TIGR02051; sufficient;
 TG  GO:0046689;
 --
-SN  MerT
+SN  7
 ID  Mercury transporter, MerT
 DN  Mercuric transport protein MerT
 RQ  1
