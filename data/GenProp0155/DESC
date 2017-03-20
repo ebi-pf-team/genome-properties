@@ -17,40 +17,40 @@ CC  During anaerobic respiration, sulfate reducing bacteria catalyze the
 CC  six electron reduction of sulfate to hydrogen sulfide. These sulfate
 CC  reducers comprise both gram-positive and gram-negative bacteria, as
 CC  well as archeae [1]. Sulfur oxidizing bacterium, such as Chromatium
-CC  vinosum, can reversibly catalyze this pathway freeing electrons and ATP
-CC  [1].
+CC  vinosum, can reversibly catalyze this pathway freeing electrons and
+CC  ATP.
 --
-SN  1-sat
+SN  1
 ID  Sulfate adenylyltransferase
 DN  Sulfate adenylyltransferase (EC 2.7.7.4)
 RQ  1
 EV  IPR002650; TIGR00339; sufficient;
 TG  GO:0019419;
 --
-SN  2-AprA
+SN  2
 ID  Adenylylsulfate reductase, alpha subunit
 DN  Adenylyl-sulfate reductase, subunit A (EC 1.8.99.2)
 RQ  1
 EV  IPR011803; TIGR02061; sufficient;
 TG  GO:0019419;
 --
-SN  2-AprB
+SN  3
 ID  Adenylylsulfate reductase, beta subunit
 DN  Adenylyl-sulfate reductase, subunit B (EC 1.8.99.2)
 RQ  1
 EV  IPR011802; TIGR02060; sufficient;
 TG  GO:0019419;
 --
-SN  3-DsrA
+SN  4
 ID  Sulfite reductase, dissimilatory-type alpha subunit
-DN  Hydrogensulfite reductase, alpha subunit (EC 1.8.99.3)
+DN  Hydrogensulfite reductase, alpha subunit (EC 1.8.99.5)
 RQ  1
 EV  IPR011806; TIGR02064; sufficient;
 TG  GO:0019419;
 --
-SN  3-DsrB
+SN  5
 ID  Sulfite reductase, dissimilatory-type beta subunit
-DN  Hydrogensulfite reductase, beta subunit (EC 1.8.99.3)
+DN  Hydrogensulfite reductase, beta subunit (EC 1.8.99.5)
 RQ  1
 EV  IPR011808; TIGR02066; sufficient;
 TG  GO:0019419;
