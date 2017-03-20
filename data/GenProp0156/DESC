@@ -15,17 +15,17 @@ CC  a soluble form with some level of Lys substituting for Arg.  This
 CC  polymer is analogous to polyhydroxyalkanoic acid biosynthesis systems
 CC  with which it sometimes co-occurs.
 --
-SN  degrade
+SN  1
+ID  Cyanophycin synthetase
+DN  Cyanophycin synthase (EC:6.3.2.29/EC:6.3.2.30)
+RQ  1
+EV  IPR011810; TIGR02068; sufficient;
+TG  GO:0006112;
+--
+SN  2
 ID  Cyanophycinase
 DN  Cyanophycinase (EC:3.4.15.6)
 RQ  1
 EV  IPR011811; TIGR02069; sufficient;
-TG  GO:0006112;
---
-SN  synth
-ID  Cyanophycin synthetase
-DN  Cyanophycin synthase (L-arginine-adding) (EC:6.3.2.30)
-RQ  1
-EV  IPR011810; TIGR02068; sufficient;
 TG  GO:0006112;
 //
