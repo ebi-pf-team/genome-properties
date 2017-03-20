@@ -3,6 +3,11 @@ DE  Chlorophyll biosynthesis from chlorophyllide a
 TP  PATHWAY
 AU  Haft DH
 TH  0
+RN  [1]
+RM  17370354
+RT  Recent advances in chlorophyll biosynthesis.
+RA  Bollivar DW;
+RL  Photosynth Res. 2006;90(2):173-194.
 DC  Chlorophyll Biosynthesis (later stages)
 DR  IUBMB; tetrapyr; porphyrin5;
 CC  Chlorophyll is formed directly from chlorophyllide a by the addition of
@@ -10,15 +15,16 @@ CC  a phytyl side chain, or by addition of a geranylgeranyl side chain and
 CC  subsequent reduction of the side chain.  The synthetase and reductase
 CC  responsible for this conversion are closely related to the enzymes
 CC  which carry out the analagous steps of bacteriochlorophyll biosynthesis
+CC  [1].
 --
-SN  ChlG
+SN  1
 ID  Chlorophyll synthase
 DN  Clorophyll synthase ChlG (EC 2.5.1.62)
 RQ  1
 EV  IPR011799; TIGR02056; sufficient;
 TG  GO:0015995;
 --
-SN  ChlP
+SN  2
 ID  Geranylgeranyl reductase
 DN  Geranylgeranyl reductase ChlP
 RQ  1
