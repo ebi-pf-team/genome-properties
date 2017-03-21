@@ -3,6 +3,11 @@ DE  Methionine biosynthesis from homoserine
 TP  PATHWAY
 AU  Haft DH
 TH  1
+RN  [1]
+RM  24939187
+RT  Bacterial methionine biosynthesis.
+RA  Ferla MP, Patrick WM;
+RL  Microbiology. 2014;160:1571-1584.
 CC  Homoserine (which is also threonine precursor) may be succinylated or
 CC  acetylated in the first step of methionine biosynthesis in bacteria.
 CC  The second step removes the acyl group but adds sulfur from cysteine to
