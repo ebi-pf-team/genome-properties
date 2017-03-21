@@ -7,21 +7,30 @@ DC  Threonine Biosynthesis
 DR  IUBMB; AminoAcid; Thr;
 DC  Glycine, serine and threonine metabolism
 DR  KEGG; map00260;
-CC  Threonine is made from aspartate semialdehyde, a branch point
+DC  Superpathway of L-threonine biosynthesis
+DR  MetaCyc; THRESYN-PWY;
+CC  Threonine is synthesised from aspartate semialdehyde, a branch point
 CC  intermediate in the synthesis of lysine. The aspartate semialdehyde is
 CC  derived from aspartate, which in turn is derived from the Krebs cycle
 CC  intermediate oxaloacetate. Homoserine, an intermediate in this pathway
-CC  is a branchpoint for the biosynthesis of methionine.  Threonine itself
+CC  is a branchpoint for the biosynthesis of methionine. Threonine itself
 CC  is utilized as a starting point for the biosynthesis of isoleucine.
+**  SN  hyp_HSK
+**  ID  Hypothetical NOD for homoserine kinase
+**  RQ  0
+**  EV  IPR023665; TIGR02535; sufficient;
+**  There is no reference citing this family to be a hypothetical 
+**  non-orthologous gene displacement for homoserine kinase, so am 
+**  removing this step for now. See TIGRFAM for info on hypothesis.
 --
-SN  HS_DH
+SN  1
 ID  Homoserine dehydrogenase
 DN  Homoserine dehydrogenase (EC 1.1.1.3)
 RQ  1
 EV  IPR001342; PF00742; sufficient;
 TG  GO:0009088;
 --
-SN  HS_kin
+SN  2
 ID  Homoserine kinase
 DN  Homoserine kinase (EC 2.7.1.39)
 RQ  1
@@ -32,12 +41,7 @@ TG  GO:0009088;
 EV  IPR011863; TIGR02137; sufficient;
 TG  GO:0009088;
 --
-SN  hyp_HSK
-ID  Hypothetical NOD for homoserine kinase
-RQ  0
-EV  IPR023665; TIGR02535; sufficient;
---
-SN  thr_syn
+SN  3
 ID  Threonine synthase
 DN  Threonine synthase (EC 4.2.3.1)
 RQ  1
