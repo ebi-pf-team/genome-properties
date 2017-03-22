@@ -7,6 +7,8 @@ DC  Isoleucine and Valine Biosynthesis
 DR  IUBMB; AminoAcid; IleVal;
 DC  Valine, leucine and isoleucine biosynthesis
 DR  KEGG; map00290;
+DC  L-isoleucine biosynthesis I (from threonine)
+DR  MetaCyc; ILEUSYN-PWY;
 CC  The branched amino acid isoleucine is biosynthesized from the central
 CC  intermediary metabolite pyruvate and the amino acid threonine via a
 CC  five step pathway. Four enzymes in this pathway are common to the
