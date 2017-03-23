@@ -20,18 +20,18 @@ RT  Essential nature of the mreC determinant of Bacillus subtilis.
 RA  Lee JC, Stewart GC;
 RL  J Bacteriol. 2003;185:4490-4498.
 RN  [4]
-RM  12809607
-RT  Control of cell morphogenesis in bacteria: two distinct ways to make a
-RT  rod-shaped cell.
-RA  Daniel RA, Errington J;
-RL  Cell. 2003;113:767-776.
-RN  [5]
 RM  9063975
 RT  Bacillus stearothermophilus cell shape determinant gene, mreC and mreD,
 RT  and their stimulation of protease production in Bacillus subtilis.
 RA  Kubo M, Pierro DJ, Mochizuki Y, Kojima T, Yamazaki T, Satoh S, Takizawa
 RA  N, Kiyohara H;
 RL  Biosci Biotechnol Biochem. 1996;60:271-276.
+RN  [5]
+RM  12809607
+RT  Control of cell morphogenesis in bacteria: two distinct ways to make a
+RT  rod-shaped cell.
+RA  Daniel RA, Errington J;
+RL  Cell. 2003;113:767-776.
 CC  The bacterial MreBCD proteins are involved in rod shape determination
 CC  and have a postulated role in the regulation of septum-specific
 CC  peptidoglycan synthesis [1].  Members of the actin-like MreB family of
@@ -44,43 +44,41 @@ CC  proteins.  MreC is an essential gene in B. subtilis; cells lacking
 CC  sufficient quantities of MreC undergo morphological changes, namely,
 CC  swelling and twisting of the cells, which is followed by cell lysis
 CC  [3].  MreC and MreD may be involved in the regulation of
-CC  cell-shape-related protease expression [5]. There is evidence of the
+CC  cell-shape-related protease expression [4]. There is evidence of the
 CC  existence of a separate rod-shape determining system in rod-shaped
-CC  bacteria lacking the MreBCD system [4]. 
+CC  bacteria lacking the MreBCD system [5]. 
 **  The genome profile for the first public version of this, mreBCD, pulled
 **  up RodA and PBP-2 by Partial Phylogenetic Profiling, and often this is
-**  a five gene operon. Added these steps 6/12/2007. The RodA model does
-**  not include Bacillus RodA, where paralogy made it tough to include, so
-**  property needs some more finishing work. MreD also needs work.
+**  a five gene operon. Added these steps 6/12/2007. 
 --
-SN  mreB
+SN  1
 ID  MreB protein
 DN  Rod shape-determining protein MreB
 RQ  1
 EV  IPR004753; TIGR00904; sufficient;
 TG  GO:0008360;
 --
-SN  mreC
+SN  2
 ID  MreC protein
 DN  Rod shape-determining protein MreC
 RQ  1
 EV  IPR007221; TIGR00219; sufficient;
 TG  GO:0008360;
 --
-SN  mreD
+SN  3
 ID  MreD protein
 DN  Rod shape-determining protein MreD
 RQ  1
 EV  IPR007227; TIGR03426; sufficient;
 TG  GO:0008360;
 --
-SN  pbp2
+SN  4
 ID  Penicillin-binding protein 2
 RQ  0
 EV  IPR017790; TIGR03423;
 TG  GO:0008360;
 --
-SN  rodA
+SN  5
 ID  Rod shape-determining protein RodA
 RQ  0
 EV  IPR011923; TIGR02210;
