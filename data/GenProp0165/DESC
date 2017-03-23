@@ -18,7 +18,7 @@ RL  Biophys J. 2002;82:618-627.
 CC  The MinCDE proteins are organized into extended membrane-associated
 CC  coiled structures that wind around the cell between the two poles. 
 CC  These structures, and changes (pole-to-pole oscillations) in the
-CC  distribution of the MinCDE proteins within them over time are required
+CC  distribution of the MinCDE proteins within them over time, are required
 CC  for the proper placement of the cell division septum at midcell [1,2].
 CC  This system is aparrently absent from Archaea, Actinobacteria,
 CC  Bacteroides, Chlamydia, Staphylococci, Steptococci, Mollicutes and
@@ -26,21 +26,21 @@ CC  Spirochaetes.
 **  testing stage for now.  Hey, in genome gcs, looks like it points to DNA
 **  repeats. Is that general?
 --
-SN  minC
+SN  1
 ID  MinC protein
 DN  Septum site-determining protein MinC
 RQ  1
 EV  IPR013033; TIGR01222; sufficient;
 TG  GO:0000918;
 --
-SN  minD
+SN  2
 ID  MinD protein
 DN  Septum site-determining protein MinD
 RQ  1
 EV  IPR010223; TIGR01968; sufficient;
 TG  GO:0000918;
 --
-SN  minE
+SN  3
 ID  MinE protein
 DN  Cell division topological specificity factor MinE
 RQ  1
