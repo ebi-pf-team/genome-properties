@@ -20,9 +20,9 @@ CC  coiled structures that wind around the cell between the two poles.
 CC  These structures, and changes (pole-to-pole oscillations) in the
 CC  distribution of the MinCDE proteins within them over time, are required
 CC  for the proper placement of the cell division septum at midcell [1,2].
-CC  This system is aparrently absent from Archaea, Actinobacteria,
-CC  Bacteroides, Chlamydia, Staphylococci, Steptococci, Mollicutes and
-CC  Spirochaetes. 
+**  This system is aparrently absent from Archaea, Actinobacteria,
+**  Bacteroides, Chlamydia, Staphylococci, Steptococci, Mollicutes and
+**  Spirochaetes. LR:removed text as found in Mumia flava (actinobacteria). 
 **  testing stage for now.  Hey, in genome gcs, looks like it points to DNA
 **  repeats. Is that general?
 --
