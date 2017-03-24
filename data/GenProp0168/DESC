@@ -9,32 +9,30 @@ CC  linkages. The relative level of branching determines whether the
 CC  substance is called glycogen or starch. In bacteria and plants, the
 CC  precursor is ADP-glucose. In animals, the precursor is  UDP-glucose.
 CC  Different forms of glycogen synthase are used for the two. This
-CC  property is developed here as a system and includes the enzyme
-CC  phosphorylase (glycogen phosphorylase or starch phosphorylase,
-CC  depending on context) necessary to release glucose-1-phosphate from the
-CC  polysaccharide.  It is not yet defined here whether glycogen-like
-CC  storage polymer systems, such as found in Streptococcus mutans, will be
-CC  included within this property or not.
+CC  property includes the enzyme phosphorylase (glycogen phosphorylase or 
+CC  starch phosphorylase, depending on context) necessary to release 
+CC  glucose-1-phosphate from the polysaccharide.
 **  It is not yet defined here whether glycogen-like storage polymer
 **  systems, such as found in Streptococcus mutans, will be included within
 **  this property or not.  Just added 4-alpha-glucanotransferase as an
 **  in_rule=0 step, found it (amylo) fits quite well with glgP.  Rewrite
 **  comment to reflect. DHH.
 --
-SN  MalQ
+SN  1
 ID  4-alpha-glucanotransferase (disproportionating enzyme)
+DN  4-alpha-glucanotransferase (MalQ) (EC 2.4.1.25)
 RQ  0
 EV  IPR003385; TIGR00217; sufficient;
 TG  GO:0005977;
 --
-SN  branch
+SN  2
 ID  1,4-alpha-glucan branching enzyme
-DN  1,4-alpha-glucan branching enzyme
+DN  1,4-alpha-glucan branching enzyme (GlgB) (EC 2.4.1.18)
 RQ  1
 EV  IPR006407; TIGR01515; sufficient;
 TG  GO:0005977;
 --
-SN  debranch
+SN  3
 ID  Glycogen debranching enzyme
 DN  Glycogen debranching enzyme
 RQ  0
@@ -45,31 +43,30 @@ TG  GO:0005977;
 EV  IPR011837; TIGR02100; sufficient;
 TG  GO:0005977;
 --
-SN  glgA
+SN  4
 ID  Glycogen synthase (ADP)
 DN  Glycogen synthase
 RQ  1
 EV  IPR011835; TIGR02095; sufficient;
 TG  GO:0005977;
-EV  IPR011875; TIGR02149; sufficient;
-TG  GO:0005977;
 --
-SN  glgC
+SN  5
 ID  Glucose-1-phosphate adenylyltransferase
 DN  Glucose-1-phosphate adenylyltransferase
 RQ  1
 EV  IPR011831; TIGR02091; sufficient;
 TG  GO:0005977;
 --
-SN  glgD
+SN  6
 ID  Glucose-1-phosphate adenylyltransferase, GlgD subunit
 DN  Glucose-1-phosphate adenylyltransferase, GlgD subunit
 RQ  0
 EV  IPR011832; TIGR02092; sufficient;
 TG  GO:0005977;
 --
-SN  glgP
+SN  7
 ID  Alpha-glucan phosphorylases
+DN  Alpha-glucan phosphorylase
 RQ  1
 EV  IPR011833; TIGR02093; sufficient;
 TG  GO:0005977;
