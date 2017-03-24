@@ -45,14 +45,14 @@ TG  GO:0005977;
 --
 SN  4
 ID  Glycogen synthase (ADP)
-DN  Glycogen synthase
+DN  Glycogen synthase (EC 2.4.1.21)
 RQ  1
 EV  IPR011835; TIGR02095; sufficient;
 TG  GO:0005977;
 --
 SN  5
 ID  Glucose-1-phosphate adenylyltransferase
-DN  Glucose-1-phosphate adenylyltransferase
+DN  Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27)
 RQ  1
 EV  IPR011831; TIGR02091; sufficient;
 TG  GO:0005977;
