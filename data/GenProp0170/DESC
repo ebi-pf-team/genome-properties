@@ -9,6 +9,8 @@ RT  The pyrroloquinoline quinone biosynthesis pathway revisited: a
 RT  structural approach.
 RA  Puehringer S, Metlitzky M, Schwarzenbacher R;
 RL  BMC Biochem. 2008;9:8.
+DC  Pyrroloquinoline quinone biosynthesis
+DR  MetaCyc; PWY-6420;
 CC  Coenzyme PQQ (coenzyme pyrrolo-quinoline-quinone) production is
 CC  associated with an operon that includes a small protein, PqqA, proposed
 CC  to act as a molecular precursor. PQQ is a cofactor of certain alcohol
