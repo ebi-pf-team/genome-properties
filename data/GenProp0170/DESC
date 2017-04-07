@@ -16,55 +16,55 @@ CC  associated with an operon that includes a small protein, PqqA, proposed
 CC  to act as a molecular precursor. PQQ is a cofactor of certain alcohol
 CC  dehydrogenases and glucose dehydrogenases.
 --
-SN  PQQ_rpt
+SN  1
 ID  PQQ-binding repeats
 DN  PQQ enzyme repeat domain protein
 RQ  0
 EV  IPR002372; PF01011; sufficient;
 --
-SN  pqqA
+SN  2
 ID  PqqA protein
 DN  Coenzyme PQQ biosynthesis protein A
 RQ  1
 EV  IPR011725; TIGR02107; sufficient;
 TG  GO:0018189;
 --
-SN  pqqB
+SN  3
 ID  PqqB protein
 DN  Coenzyme PQQ biosynthesis protein B
 RQ  1
 EV  IPR011842; TIGR02108; sufficient;
 TG  GO:0018189;
 --
-SN  pqqC
+SN  4
 ID  PqqC protein
 DN  Coenzyme PQQ biosynthesis protein C
 RQ  1
 EV  IPR011845; TIGR02111; sufficient;
 TG  GO:0018189;
 --
-SN  pqqD
+SN  5
 ID  PqqD protein
 DN  Coenzyme PQQ biosynthesis protein D
 RQ  1
 EV  IPR022479; TIGR03859;
 TG  GO:0018189;
 --
-SN  pqqE
+SN  6
 ID  PqqE protein
 DN  Coenzyme PQQ biosynthesis protein E
 RQ  1
 EV  IPR011843; TIGR02109; sufficient;
 TG  GO:0018189;
 --
-SN  pqqF
+SN  7
 ID  Peptidase PqqF
 DN  Coenzyme PQQ biosynthesis protein PqqF (EC:3.4.24.-)
 RQ  0
 EV  IPR011844; TIGR02110; sufficient;
 TG  GO:0018189;
 --
-SN  usePQQ
+SN  8
 ID  PQQ-dependent enzyme example
 DN  PQQ-dependent dehydrogenase glucose/quinate/shikimate family protein (EC:1.1.5.2)
 RQ  1
