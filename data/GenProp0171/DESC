@@ -6,7 +6,9 @@ TH  1
 DC  Coenzyme A Biosynthesis (late stages)
 DR  IUBMB; misc; CoA2;
 CC  This property represents a 5-step pathway for the biosynthesis of
-CC  coenzyme A (CoA) from pantothenate. The first step, catalyzed by
+CC  coenzyme A (CoA) from pantothenate. Most species produce panthothenate
+CC  but some must import it. The first step described here is a
+CC  sodium/pantothenate symporter. The first required step, catalyzed by
 CC  pantothenate kinase, is carried out by at least two different known
 CC  protein families. One is found in most bacteria, including E. coli
 CC  (TIGR00554). Another is present in eukaryotes and in a few
