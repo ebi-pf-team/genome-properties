@@ -21,10 +21,19 @@ CC  fused. CoaD and CoaE are, respectively, pantetheine-phosphate
 CC  adenylyltransferase and dephospho-CoA kinase.
 **  still need about 100 coaA including archaeal,  need archaeal coaD,
 **  coaE, and need to know YES/NO for chlamydias. DHH.
+**  Archaeal coaA step is different to euk/bac as it performs condensation 
+**  with beta-alanine after phosphorylation of pantoate [PMID:19666462]LR.
 --
-SN  coaA
+SN  1
+ID  Sodium/pantothenate symporter
+DN  Sodium/pantothenate symporter/panF
+RQ  0
+EV  IPR011849; TIGR02119;
+TG  GO:0015937;
+--
+SN  2
 ID  Pantothenate kinase
-DN  Pantothenate kinase
+DN  Pantothenate kinase/coaA (EC 2.7.1.33)
 RQ  0
 EV  IPR004566; TIGR00554; sufficient;
 TG  GO:0015937;
@@ -33,41 +42,35 @@ TG  GO:0015937;
 EV  IPR004619; TIGR00671;
 TG  GO:0015937;
 --
-SN  coaB
+SN  3
 ID  Phosphopantothenate--cysteine ligase
-DN  Phosphopantothenate--cysteine ligase
+DN  Phosphopantothenate--cysteine ligase/coaB (EC 6.3.2.5)
 RQ  1
 EV  IPR005252; TIGR00521; sufficient;
 TG  GO:0015937;
 EV  IPR011848; TIGR02114; sufficient;
 TG  GO:0015937;
 --
-SN  coaC
+SN  4
 ID  Phosphopantothenoylcysteine decarboxylase
-DN  Phosphopantothenoylcysteine decarboxylase
+DN  Phosphopantothenoylcysteine decarboxylase/coaC (EC 4.1.1.36)
 RQ  1
 EV  IPR005252; TIGR00521; sufficient;
 TG  GO:0015937;
 EV  IPR011847; TIGR02113; sufficient;
 TG  GO:0015937;
 --
-SN  coaD
+SN  5
 ID  Pantetheine-phosphate adenylyltransferase
-DN  Pantetheine-phosphate adenylyltransferase
+DN  Phosphopantetheine adenylyltransferase/coaD (EC 2.7.7.3)
 RQ  1
 EV  IPR001980; TIGR01510; sufficient;
 TG  GO:0015937;
 --
-SN  coaE
+SN  6
 ID  Dephospho-CoA kinase
-DN  Dephospho-CoA kinase
+DN  Dephospho-CoA kinase/coaE (EC 2.7.1.24)
 RQ  1
 EV  IPR001977; TIGR00152; sufficient;
-TG  GO:0015937;
---
-SN  panF
-ID  Sodium/pantothenate symporter
-RQ  0
-EV  IPR011849; TIGR02119;
 TG  GO:0015937;
 //
