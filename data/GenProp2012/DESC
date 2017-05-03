@@ -30,8 +30,8 @@ RT  Chaperone-mediated pathway of proteasome regulatory particle assembly.
 RA  Roelofs J; Park S; Haas W; Tian G; McAllister FE; Huo Y; Lee BH; 
 RA  Zhang F; Shi Y; Gygi SP; Finley D;
 RL  Nature 2009;459:861-865.
-DC  Phenylalanine, Tyrosine and Tryptophan Biosynthesis
-DR  KEGG; map00400;
+DC  Proteasome
+DR  KEGG; map03050;
 CC  The 20S proteasome is converted to the 26S proteasome by addition of
 CC  the 19S cap.  This is a complex of eighteen proteins, six AAA-ATPases 
 CC  and fourteen that are not ATPases.  Non-ATPase regulatory subunit 14
