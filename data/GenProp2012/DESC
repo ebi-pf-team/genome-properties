@@ -12,19 +12,24 @@ RA  Kanayama HO; Tamura T; Ugai S; Kagawa S; Tanahashi N; Yoshimura T;
 RA  Tanaka K; Ichihara A;
 RL  Eur J Biochem. 1992;206:567-578.
 RN  [2]
+RM  27428775 
+RT  An atomic structure of the human 26S proteasome.
+RA  Huang X; Luan B; Wu J; Shi Y;
+RL  Nat Struct Mol Biol. 2016;23:778-785.
+RN  [3]
 RM  15826667
 RT  Structure of S5a bound to monoubiquitin provides a model for 
 RT  polyubiquitin recognition.
 RA  Wang Q; Young P; Walters KJ;
 RL  J. Mol. Biol. 2005;348:727-739.
-RN  [3]
+RN  [4]
 RM  19490896
 RT  Assembly pathway of the Mammalian proteasome base subcomplex is 
 RT  mediated by multiple specific chaperones.
 RA  Kaneko T; Hamazaki J; Iemura S; Sasaki K; Furuyama K; Natsume T; 
 RA  Tanaka K; Murata S;
 RL  Cell 2009;137:914-925.
-RN  [4]
+RN  [5]
 RM  19412159
 RT  Chaperone-mediated pathway of proteasome regulatory particle assembly.
 RA  Roelofs J; Park S; Haas W; Tian G; McAllister FE; Huo Y; Lee BH; 
@@ -36,11 +41,19 @@ CC  The 20S proteasome is converted to the 26S proteasome by addition of
 CC  the 19S cap.  This is a complex of eighteen proteins, six AAA-ATPases 
 CC  and fourteen that are not ATPases.  Non-ATPase regulatory subunit 14
 CC  is a metallo-dependent deubiquitinating enzyme from peptidase family
-CC  M67.  Non-ATPase regulatory subunit 4 binds ubiquitin.  Non-ATPase 
+CC  M67.  Non-ATPase regulatory subunit 4 binds ubiquitin. Ubiquitin 
+CC  receptor ADRM1 also binds ubiquitin and activates non-ATPase regulatory 
+CC  subunit 14, but is absent from the solved tertiary structures.  Non-ATPase 
 CC  regulatory subunits 5, 9, 10 and 11 are required for proteasome assembly. 
+CC  The 19S complex consists of a base, containing the six AAA-ATPases and
+CC  three non-ATPase regulatory subunits, and a lid containing all the
+CC  remaining non-ATPase regulatory subunits.
 CC  The functions of the 19S cap is to remove ubiquitin from targeted 
 CC  proteins, and to denature proteins prior to entry into the central 
 CC  cavity of the proteasome.
+**  The subunits contained in this GenProp are those that occur in the
+**  crystal structures of the 28S proteasome (PDB:5GJQ and 5GJR).  KEGG has 
+**  twenty components, labelled Rpt1-Ppt6 and Rpn1-3, Rpn5-13 and Rpn15.
 **  Do the immuno-, thymo- and spermatoproteasomes also exist as 26S forms?
 **  Non-ATPase regulatory subunit 9 contains a PDZ domain.
 --
@@ -117,7 +130,7 @@ TG  GO:0031593
 SN  11
 ID  26S proteasome non-ATPase regulatory subunit 5
 DN  26S proteasome non-ATPase regulatory subunit 5 
-RQ  1
+RQ  0
 EV  IPR019538; PF10508; sufficient;
 TG  GO:0070682
 --
@@ -142,14 +155,14 @@ EV  -; PTHR12387:SF1; sufficient;
 SN  15
 ID  26S proteasome non-ATPase regulatory subunit 9
 DN  26S proteasome non-ATPase regulatory subunit 9 
-RQ  1
+RQ  0
 EV  -; PTHR12651; sufficient;
 TG  GO:0070682
 --
 SN  15
 ID  26S proteasome non-ATPase regulatory subunit 10
 DN  26S proteasome non-ATPase regulatory subunit 10 
-RQ  1
+RQ  0
 EV  IPR020683; G3DSA:1.25.40.20; sufficient;
 TG  GO:0070682
 --
@@ -178,4 +191,16 @@ DN  26S proteasome non-ATPase regulatory subunit 14
 RQ  1
 EV  -; PTHR10410:SF8; sufficient;
 TG  GO:0061578
+--
+SN  20
+ID  26S proteasome complex subunit SEM1
+DN  26S proteasome complex subunit SEM1 
+RQ  1
+EV  -; PTHR16771:SF3; sufficient;
+--
+SN  21
+ID  Proteasomal ubiquitin receptor ADRM1
+DN  Proteasomal ubiquitin receptor ADRM1 
+RQ  0
+EV  IPR006773; PTHR12225; sufficient;
 //
