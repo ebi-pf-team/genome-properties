@@ -1,0 +1,158 @@
+AC  GenProp2011
+DE  eukaryote 20S proteasome
+TP  SYSTEM
+AU  Rawlings ND
+TH  2
+RN  [1]
+RM  9087403
+RT  Structure of 20S proteasome from yeast at 2.4 A resolution.
+RA  Groll M; Ditzel L; Löwe J; Stock D; Bochtler M; Bartunik HD; Huber R;
+RL  Nature 1997;386:463-471.
+RN  [2]
+RM  12015144
+RT  The structure of the mammalian 20S proteasome at 2.75 A resolution.
+RA  Unno M; Mizushima T; Morimoto Y; Tomisugi Y; Tanaka K; Yasuoka N; 
+RA  Tsukihara T;
+RL  Structure 2002;10:609-618.
+RN  [3]
+RM  28460188
+RT  Proteasomal and Autophagy Degradation Systems.
+RA  Dikic I;
+RL  Annu Rev Biochem. 2017;:-.
+DC  Proteasome
+DR  KEGG; map03050;
+CC  The 20S proteasome is an intracellular complex of fourteen homologous
+CC  proteins known as alpha and beta subunits.  The subunits are arranged
+CC  in rings of seven and then stacked.  Each ring contains only alpha or
+CC  beta subunits, and these are arranged alpha-beta-beta-alpha in the
+CC  stack.  Three of the beta components are N-terminal nucleophile 
+CC  hydrolases that are threonine-type endopeptidases, with the N-terminal
+CC  threonine being the nucleophile in the reaction.  The active sites are 
+CC  directed towards the central cavity, so that a protein threaded through
+CC  the central cavity is processed into short peptides.  The three 
+CC  catalytically active beta subunits have different specificities, 
+CC  known as trypsin-like, chymotrypsin-like and caspase-like.  Substrates 
+CC  include intracellular proteins tagged for degradation by 
+CC  polyubiquitination and viral proteins.  Peptide products may be 
+CC  trafficked to the major histocompatability complex for presentation 
+CC  as antigens on T-cells.  Modified versions of the proteasome occur in
+CC  immune cells, the thymus and the testis; in these some of the beta or 
+CC  alpha subunits are replaced.  Most protein substrates must be 
+CC  denatured before being cleaved by the proteasome, and an additional
+CC  complex, known as the 19S cap, can be added to either or both ends of
+CC  the proteasome.  The 19S cap includes ATPases and a deubiquitinating
+CC  enzyme.  This larger complex of the 20S proteasome and 19S cap is 
+CC  known as the 28S proteasome.
+CC  The 20S proteasome is found in all eukaryotes.  In archaea and some
+CC  bacteria, a much simpler assembly exists in which each ring is a 
+CC  homoheptamer of a single alpha or beta subunit.  
+**  Reference [3] is in press.
+**  It is not clear if subunits in fungi are numbered differently to that
+**  of human.  Panther subfamilies hits differently named subunits.
+**  Archaean/bacterial proteasome is GenProp0834
+**  Related bacterial HslVU system is GenProp0835.
+**  The proteasome is EC 3.4.25.1; this has been incorrectly applied to
+**  all 20S proteasome subunits, including the inactive ones.
+**  GO:0043161 has been applied to all subunits, even the iactive ones.
+--
+SN  1
+ID  proteasome subunit alpha type-1
+DN  Proteasome subunit alpha type-1 
+RQ  1
+EV  -; PTHR11599:SF93; sufficient;
+TG  GO:0000502;
+--
+SN  2
+ID  Proteasome subunit alpha type-2
+DN  Proteasome subunit alpha type-2
+RQ  1
+EV  IPR034644; PTHR11599:SF89; sufficient;
+TG  GO:0000502;
+--
+SN  3
+ID  Proteasome subunit alpha type-3
+DN  Proteasome subunit alpha type-3
+RQ  1
+EV  -; PTHR11599:SF85; sufficient;
+TG  GO:0000502;
+--
+SN  4
+ID  Proteasome subunit alpha type-4
+DN  Proteasome subunit alpha type-4
+RQ  1
+EV  IPR034647; PTHR11599:SF97; sufficient;
+TG  GO:0000502;
+--
+SN  5
+ID  Proteasome subunit alpha type-5
+DN  Proteasome subunit alpha type-5
+RQ  1
+EV  IPR033812; cd03753; sufficient;
+TG  GO:0000502;
+--
+SN  6
+ID  Proteasome subunit alpha type-6
+DN  Proteasome subunit alpha type-6
+RQ  1
+EV  -; PTHR11599:SF98; sufficient;
+TG  GO:0000502;
+--
+SN  7
+ID  Proteasome subunit alpha type-7
+DN  Proteasome subunit alpha type-7
+RQ  1
+EV  -; PTHR11599:SF91; sufficient;
+TG  GO:0000502;
+--
+SN  8
+ID  Proteasome subunit beta type-1
+DN  Proteasome subunit beta type-1
+RQ  1
+EV  -; PTHR11599:SF96; sufficient;
+TG  GO:0000502;
+--
+SN  9
+ID  Proteasome subunit beta type-2
+DN  Proteasome subunit beta type-2
+RQ  1
+EV  -; PTHR11599:SF96; sufficient;
+TG  GO:0000502;
+--
+SN  10
+ID  Proteasome subunit beta type-3
+DN  Proteasome subunit beta type-3
+RQ  1
+EV  IPR033811; PTHR11599:SF70; sufficient;
+TG  GO:0000502;
+--
+SN  11
+ID  Proteasome subunit beta type-4
+DN  Proteasome subunit beta type-4
+RQ  1
+EV  IPR016295; PTHR11599:SF72; sufficient;
+TG  GO:0000502;
+--
+SN  12
+ID  Proteasome subunit beta type-5
+DN  Proteasome subunit beta type-5 (EC 3.4.25.1)
+RQ  1
+EV  -; PTHR11599:SF92; sufficient;
+TG  GO:0000502;
+TG  GO:0043161;
+--
+SN  13
+ID  Proteasome subunit beta type-6
+DN  Proteasome subunit beta type-6 (EC 3.4.25.1)
+RQ  1
+EV  -; PTHR11599:SF83; sufficient;
+TG  GO:0000502;
+TG  GO:0043161;
+--
+SN  14
+ID  Proteasome subunit beta type-7
+DN  Proteasome subunit beta type-7 (EC 3.4.25.1)
+RQ  1
+EV  -; PTHR11599:SF86; sufficient;
+TG  GO:0000502;
+TG  GO:0043161;
+//
