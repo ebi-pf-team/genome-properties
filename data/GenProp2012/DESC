@@ -1,0 +1,181 @@
+AC  GenProp2012
+DE  19S proteasome cap
+TP  SYSTEM
+AU  Rawlings ND
+TH  2
+RN  [1]
+RM  12636087
+RT  Demonstration that a human 26S proteolytic complex consists of a 
+RT  proteasome and multiple associated protein components and hydrolyzes 
+RT  ATP and ubiquitin-ligated proteins by closely linked mechanisms.
+RA  Kanayama HO; Tamura T; Ugai S; Kagawa S; Tanahashi N; Yoshimura T; 
+RA  Tanaka K; Ichihara A;
+RL  Eur J Biochem. 1992;206:567-578.
+RN  [2]
+RM  15826667
+RT  Structure of S5a bound to monoubiquitin provides a model for 
+RT  polyubiquitin recognition.
+RA  Wang Q; Young P; Walters KJ;
+RL  J. Mol. Biol. 2005;348:727-739.
+RN  [3]
+RM  19490896
+RT  Assembly pathway of the Mammalian proteasome base subcomplex is 
+RT  mediated by multiple specific chaperones.
+RA  Kaneko T; Hamazaki J; Iemura S; Sasaki K; Furuyama K; Natsume T; 
+RA  Tanaka K; Murata S;
+RL  Cell 2009;137:914-925.
+RN  [4]
+RM  19412159
+RT  Chaperone-mediated pathway of proteasome regulatory particle assembly.
+RA  Roelofs J; Park S; Haas W; Tian G; McAllister FE; Huo Y; Lee BH; 
+RA  Zhang F; Shi Y; Gygi SP; Finley D;
+RL  Nature 2009;459:861-865.
+DC  Phenylalanine, Tyrosine and Tryptophan Biosynthesis
+DR  KEGG; map00400;
+CC  The 20S proteasome is converted to the 26S proteasome by addition of
+CC  the 19S cap.  This is a complex of eighteen proteins, six AAA-ATPases 
+CC  and fourteen that are not ATPases.  Non-ATPase regulatory subunit 14
+CC  is a metallo-dependent deubiquitinating enzyme from peptidase family
+CC  M67.  Non-ATPase regulatory subunit 4 binds ubiquitin.  Non-ATPase 
+CC  regulatory subunits 5, 9, 10 and 11 are required for proteasome assembly. 
+CC  The functions of the 19S cap is to remove ubiquitin from targeted 
+CC  proteins, and to denature proteins prior to entry into the central 
+CC  cavity of the proteasome.
+**  Do the immuno-, thymo- and spermatoproteasomes also exist as 26S forms?
+**  Non-ATPase regulatory subunit 9 contains a PDZ domain.
+--
+SN  1
+ID  26S protease regulatory subunit 4
+DN  26S protease regulatory subunit 4 
+RQ  1
+EV  -; PTHR23073:SF40; sufficient;
+TG  GO:0016887;
+--
+SN  2
+ID  26S protease regulatory subunit 7
+DN  26S protease regulatory subunit 7 
+RQ  1
+EV  -; PTHR23073:SF46; sufficient;
+TG  GO:0016887;
+--
+SN  3
+ID  26S protease regulatory subunit 6a
+DN  26S protease regulatory subunit 6a 
+RQ  1
+EV  -; PTHR23073:SF39; sufficient;
+TG  GO:0016887;
+--
+SN  4
+ID  26S protease regulatory subunit 6b
+DN  26S protease regulatory subunit 6b 
+RQ  1
+EV  -; PTHR23073:SF50; sufficient;
+TG  GO:0016887;
+--
+SN  5
+ID  26S protease regulatory subunit 8
+DN  26S protease regulatory subunit 8 
+RQ  1
+EV  -; PTHR23073:SF47; sufficient;
+TG  GO:0016887;
+--
+SN  6
+ID  26S protease regulatory subunit 10b
+DN  26S protease regulatory subunit 10b 
+RQ  1
+EV  -; PTHR23073:SF55; sufficient;
+TG  GO:0016887;
+--
+SN  7
+ID  26S proteasome non-ATPase regulatory subunit 1
+DN  26S proteasome non-ATPase regulatory subunit 1 
+RQ  1
+EV  -; PTHR10943:SF5; sufficient;
+TG  GO:0030234
+--
+SN  8
+ID  26S proteasome non-ATPase regulatory subunit 2
+DN  26S proteasome non-ATPase regulatory subunit 2 
+RQ  1
+EV  IPR016643; PTHR10943:SF7; sufficient;
+TG  GO:0030234
+--
+SN  9
+ID  26S proteasome non-ATPase regulatory subunit 3
+DN  26S proteasome non-ATPase regulatory subunit 3 
+RQ  1
+EV  -; PTHR10758:SF6; sufficient;
+TG  GO:0030234
+--
+SN  10
+ID  26S proteasome non-ATPase regulatory subunit 4
+DN  26S proteasome non-ATPase regulatory subunit 4 
+RQ  1
+EV  -; PTHR10223:SF3; sufficient;
+TG  GO:0031593
+--
+SN  11
+ID  26S proteasome non-ATPase regulatory subunit 5
+DN  26S proteasome non-ATPase regulatory subunit 5 
+RQ  1
+EV  IPR019538; PF10508; sufficient;
+TG  GO:0070682
+--
+SN  12
+ID  26S proteasome non-ATPase regulatory subunit 6
+DN  26S proteasome non-ATPase regulatory subunit 6 
+RQ  1
+EV  -; PTHR14145:SF6; sufficient;
+--
+SN  13
+ID  26S proteasome non-ATPase regulatory subunit 7
+DN  26S proteasome non-ATPase regulatory subunit 7 
+RQ  1
+EV  IPR033858; PTHR10540:SF13; sufficient;
+--
+SN  14
+ID  26S proteasome non-ATPase regulatory subunit 8
+DN  26S proteasome non-ATPase regulatory subunit 8 
+RQ  1
+EV  -; PTHR12387:SF1; sufficient;
+--
+SN  15
+ID  26S proteasome non-ATPase regulatory subunit 9
+DN  26S proteasome non-ATPase regulatory subunit 9 
+RQ  1
+EV  -; PTHR12651; sufficient;
+TG  GO:0070682
+--
+SN  15
+ID  26S proteasome non-ATPase regulatory subunit 10
+DN  26S proteasome non-ATPase regulatory subunit 10 
+RQ  1
+EV  IPR020683; G3DSA:1.25.40.20; sufficient;
+TG  GO:0070682
+--
+SN  16
+ID  26S proteasome non-ATPase regulatory subunit 11
+DN  26S proteasome non-ATPase regulatory subunit 11 
+RQ  1
+EV  -; PTHR10678:SF8; sufficient;
+TG  GO:0070682
+--
+SN  17
+ID  26S proteasome non-ATPase regulatory subunit 12
+DN  26S proteasome non-ATPase regulatory subunit 12 
+RQ  1
+EV  -; PTHR10855:SF4; sufficient;
+--
+SN  18
+ID  26S proteasome non-ATPase regulatory subunit 13
+DN  26S proteasome non-ATPase regulatory subunit 13 
+RQ  1
+EV  -; PTHR10539:SF1; sufficient;
+--
+SN  19
+ID  26S proteasome non-ATPase regulatory subunit 14
+DN  26S proteasome non-ATPase regulatory subunit 14 
+RQ  1
+EV  -; PTHR10410:SF8; sufficient;
+TG  GO:0061578
+//
