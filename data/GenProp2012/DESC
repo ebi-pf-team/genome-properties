@@ -52,7 +52,7 @@ CC  The functions of the 19S cap is to remove ubiquitin from targeted
 CC  proteins, and to denature proteins prior to entry into the central 
 CC  cavity of the proteasome.
 **  The subunits contained in this GenProp are those that occur in the
-**  crystal structures of the 28S proteasome (PDB:5GJQ and 5GJR).  KEGG has 
+**  crystal structures of the 26S proteasome (PDB:5GJQ and 5GJR).  KEGG has 
 **  twenty components, labelled Rpt1-Ppt6 and Rpn1-3, Rpn5-13 and Rpn15.
 **  Do the immuno-, thymo- and spermatoproteasomes also exist as 26S forms?
 **  Non-ATPase regulatory subunit 9 contains a PDZ domain.
