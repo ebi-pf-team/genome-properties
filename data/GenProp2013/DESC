@@ -9,8 +9,8 @@ RT  Complement activation, regulation, and molecular basis for complement-
 RT  related diseases.
 RA  Bajic G; Degn SE; Thiel S; Andersen GR;
 RL  EMBO J. 2015;34:2735-2757.
-DC  Complement and coagulation cascades
-DR  KEGG; map04610;
+DC  Proteasome
+DR  KEGG; map03050;
 CC  The 28S proteasome is a complex of the 18S proteasome and the 19S 
 CC  proteasome cap.  The cap denatures proteins tagged with ubiquitin
 CC  for degradation, releases ubiquitin and controls access to the
