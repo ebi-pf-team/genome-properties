@@ -1,23 +1,30 @@
 AC  GenProp2013
-DE  28S proteasome
+DE  26S proteasome
 TP  SYSTEM
 AU  Rawlings ND
 TH  1
 RN  [1]
-RM  26489954
-RT  Complement activation, regulation, and molecular basis for complement-
-RT  related diseases.
-RA  Bajic G; Degn SE; Thiel S; Andersen GR;
-RL  EMBO J. 2015;34:2735-2757.
+RM  12636087
+RT  Demonstration that a human 26S proteolytic complex consists of a 
+RT  proteasome and multiple associated protein components and hydrolyzes 
+RT  ATP and ubiquitin-ligated proteins by closely linked mechanisms.
+RA  Kanayama HO; Tamura T; Ugai S; Kagawa S; Tanahashi N; Yoshimura T; 
+RA  Tanaka K; Ichihara A;
+RL  Eur J Biochem. 1992;206:567-578.
+RN  [2]
+RM  27428775 
+RT  An atomic structure of the human 26S proteasome.
+RA  Huang X; Luan B; Wu J; Shi Y;
+RL  Nat Struct Mol Biol. 2016;23:778-785.
 DC  Proteasome
 DR  KEGG; map03050;
-CC  The 28S proteasome is a complex of the 18S proteasome and the 19S 
+CC  The 26S proteasome is a complex of the 18S proteasome and the 19S 
 CC  proteasome cap.  The cap denatures proteins tagged with ubiquitin
 CC  for degradation, releases ubiquitin and controls access to the
 CC  central cavity of the 18S proteasome where degradation takes place..
 --
 SN  1
-ID  18S proteasome
+ID  20S proteasome
 RQ  1
 EV  GenProp2011;
 --
