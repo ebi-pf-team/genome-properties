@@ -18,10 +18,10 @@ RA  Huang X; Luan B; Wu J; Shi Y;
 RL  Nat Struct Mol Biol. 2016;23:778-785.
 DC  Proteasome
 DR  KEGG; map03050;
-CC  The 26S proteasome is a complex of the 18S proteasome and the 19S 
+CC  The 26S proteasome is a complex of the 20S proteasome and the 19S 
 CC  proteasome cap.  The cap denatures proteins tagged with ubiquitin
 CC  for degradation, releases ubiquitin and controls access to the
-CC  central cavity of the 18S proteasome where degradation takes place..
+CC  central cavity of the 20S proteasome where degradation takes place.
 --
 SN  1
 ID  20S proteasome
