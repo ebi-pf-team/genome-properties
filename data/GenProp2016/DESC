@@ -1,0 +1,138 @@
+AC  GenProp2016
+DE  mammalian spermatoproteasome
+TP  SYSTEM
+AU  Rawlings ND
+TH  2
+RN  [1]
+RM  12015144
+RT  The structure of the mammalian 20S proteasome at 2.75 A resolution.
+RA  Unno M; Mizushima T; Morimoto Y; Tomisugi Y; Tanaka K; Yasuoka N; 
+RA  Tsukihara T;
+RL  Structure 2002;10:609-618.
+RN  [2]
+RM  28460188
+RT  Proteasomal and Autophagy Degradation Systems.
+RA  Dikic I;
+RL  Annu Rev Biochem. 2017;:-.
+RN  [3]
+RM  24286712
+RT  The unique functions of tissue-specific proteasomes.
+RA  Kniepert A; Groettrup M;
+RL  Trends Biochem Sci. 2014;39:17-24.
+RN  [4]
+RM  23706739
+RT  Acetylation-mediated proteasomal degradation of core histones during 
+RT  DNA repair and spermatogenesis.
+RA  Qian MX; Pang Y; Liu CH; Haratake K; Du BY; Ji DY; Wang GF; Zhu QQ; 
+RA  Song W; Yu Y; Zhang XX; Huang HT; Miao S; Chen LB; Zhang ZH; Liang YN; 
+RA  Liu S; Cha H; Yang D; Zhai Y; Komatsu T; Tsuruta F; Li H; Cao C; Li W; 
+RA  Li GH; Cheng Y; Chiba T; Wang L; Goldberg AL; Shen Y; Qiu XB;
+RL  Cell 2013;39:1012-1024.
+DC  Proteasome
+DR  KEGG; map03050;
+CC  The spermatoproteasome is a specialist version of the 20S proteasome
+CC  found in the mammalian testis where the alpha4 subunit is replaced
+CC  by the alpha4S subunit.  The spermatoprotasome degrades histones. 
+**  In Drosophila, a more complex spermatoproteasome exists.
+--
+SN  1
+ID  proteasome subunit alpha type-1
+DN  Proteasome subunit alpha type-1 
+RQ  1
+EV  -; PTHR11599:SF93; sufficient;
+TG  GO:0000502;
+--
+SN  2
+ID  Proteasome subunit alpha type-2
+DN  Proteasome subunit alpha type-2
+RQ  1
+EV  IPR034644; PTHR11599:SF89; sufficient;
+TG  GO:0000502;
+--
+SN  3
+ID  Proteasome subunit alpha type-3
+DN  Proteasome subunit alpha type-3
+RQ  1
+EV  -; PTHR11599:SF85; sufficient;
+TG  GO:0000502;
+--
+SN  4
+ID  Proteasome subunit alpha type-4
+DN  Proteasome subunit alpha type-4
+RQ  1
+EV  IPR034647; PTHR11599:SF97; sufficient;
+TG  GO:0000502;
+--
+SN  5
+ID  Proteasome subunit alpha type-5
+DN  Proteasome subunit alpha type-5
+RQ  1
+EV  IPR033812; cd03753; sufficient;
+TG  GO:0000502;
+--
+SN  6
+ID  Proteasome subunit alpha type-6
+DN  Proteasome subunit alpha type-6
+RQ  1
+EV  -; PTHR11599:SF98; sufficient;
+TG  GO:0000502;
+--
+SN  7
+ID  Proteasome subunit alpha type-7-like
+DN  Proteasome subunit alpha type-7-like
+RQ  1
+EV  -; PTHR11599:SF79; sufficient;
+TG  GO:0000502;
+--
+SN  8
+ID  Proteasome subunit beta type-1
+DN  Proteasome subunit beta type-1
+RQ  1
+EV  -; PTHR11599:SF96; sufficient;
+TG  GO:0000502;
+--
+SN  9
+ID  Proteasome subunit beta type-2
+DN  Proteasome subunit beta type-2
+RQ  1
+EV  -; PTHR11599:SF96; sufficient;
+TG  GO:0000502;
+--
+SN  10
+ID  Proteasome subunit beta type-3
+DN  Proteasome subunit beta type-3
+RQ  1
+EV  IPR033811; PTHR11599:SF70; sufficient;
+TG  GO:0000502;
+--
+SN  11
+ID  Proteasome subunit beta type-4
+DN  Proteasome subunit beta type-4
+RQ  1
+EV  IPR016295; PTHR11599:SF72; sufficient;
+TG  GO:0000502;
+--
+SN  12
+ID  Proteasome subunit beta type-5
+DN  Proteasome subunit beta type-5 (EC 3.4.25.1)
+RQ  1
+EV  -; PTHR11599:SF92; sufficient;
+TG  GO:0000502;
+TG  GO:0043161;
+--
+SN  13
+ID  Proteasome subunit beta type-6
+DN  Proteasome subunit beta type-6 (EC 3.4.25.1)
+RQ  1
+EV  -; PTHR11599:SF83; sufficient;
+TG  GO:0000502;
+TG  GO:0043161;
+--
+SN  14
+ID  Proteasome subunit beta type-7
+DN  Proteasome subunit beta type-7 (EC 3.4.25.1)
+RQ  1
+EV  -; PTHR11599:SF86; sufficient;
+TG  GO:0000502;
+TG  GO:0043161;
+//
