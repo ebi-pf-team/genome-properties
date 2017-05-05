@@ -1,0 +1,133 @@
+AC  GenProp2014
+DE  immunoproteasome
+TP  SYSTEM
+AU  Rawlings ND
+TH  2
+RN  [1]
+RM  11265247
+RT  Antigen processing by the proteasome.
+RA  Kloetzel PM;
+RL  Nat Rev Mol Cell Biol. 2001;2:179-188.
+RN  [2]
+RM  12015144
+RT  The structure of the mammalian 20S proteasome at 2.75 A resolution.
+RA  Unno M; Mizushima T; Morimoto Y; Tomisugi Y; Tanaka K; Yasuoka N; 
+RA  Tsukihara T;
+RL  Structure 2002;10:609-618.
+RN  [3]
+RM  28460188
+RT  Proteasomal and Autophagy Degradation Systems.
+RA  Dikic I;
+RL  Annu Rev Biochem. 2017;:-.
+DC  Proteasome
+DR  KEGG; map03050;
+CC  The immunoproteasome is a specialist form of the eukaryote 20S 
+CC  proteasome in which the three catalytic beta subunits are replaced
+CC  by three different catalytic beta subunits known as beta1i, beta2i
+CC  and beta5i.  Interferon gamma induces production of these subunits as
+CC  well as down-regulation production of the usual beta1, beta2 and beta5  
+CC  subunits.  The interferon-induced subunits have modified specificities
+CC  and the immunoproteasome generates peptides that act as ligands for the  
+CC  major histocompatibility complex.
+--
+SN  1
+ID  proteasome subunit alpha type-1
+DN  Proteasome subunit alpha type-1 
+RQ  1
+EV  -; PTHR11599:SF93; sufficient;
+TG  GO:0000502;
+--
+SN  2
+ID  Proteasome subunit alpha type-2
+DN  Proteasome subunit alpha type-2
+RQ  1
+EV  IPR034644; PTHR11599:SF89; sufficient;
+TG  GO:0000502;
+--
+SN  3
+ID  Proteasome subunit alpha type-3
+DN  Proteasome subunit alpha type-3
+RQ  1
+EV  -; PTHR11599:SF85; sufficient;
+TG  GO:0000502;
+--
+SN  4
+ID  Proteasome subunit alpha type-4
+DN  Proteasome subunit alpha type-4
+RQ  1
+EV  IPR034647; PTHR11599:SF97; sufficient;
+TG  GO:0000502;
+--
+SN  5
+ID  Proteasome subunit alpha type-5
+DN  Proteasome subunit alpha type-5
+RQ  1
+EV  IPR033812; cd03753; sufficient;
+TG  GO:0000502;
+--
+SN  6
+ID  Proteasome subunit alpha type-6
+DN  Proteasome subunit alpha type-6
+RQ  1
+EV  -; PTHR11599:SF98; sufficient;
+TG  GO:0000502;
+--
+SN  7
+ID  Proteasome subunit alpha type-7
+DN  Proteasome subunit alpha type-7
+RQ  1
+EV  -; PTHR11599:SF91; sufficient;
+TG  GO:0000502;
+--
+SN  8
+ID  Proteasome subunit beta type-1
+DN  Proteasome subunit beta type-1
+RQ  1
+EV  -; PTHR11599:SF96; sufficient;
+TG  GO:0000502;
+--
+SN  9
+ID  Proteasome subunit beta type-2
+DN  Proteasome subunit beta type-2
+RQ  1
+EV  -; PTHR11599:SF96; sufficient;
+TG  GO:0000502;
+--
+SN  10
+ID  Proteasome subunit beta type-3
+DN  Proteasome subunit beta type-3
+RQ  1
+EV  IPR033811; PTHR11599:SF70; sufficient;
+TG  GO:0000502;
+--
+SN  11
+ID  Proteasome subunit beta type-4
+DN  Proteasome subunit beta type-4
+RQ  1
+EV  IPR016295; PTHR11599:SF72; sufficient;
+TG  GO:0000502;
+--
+SN  12
+ID  Proteasome subunit beta type-8
+DN  Proteasome subunit beta type-8 (EC 3.4.25.1)
+RQ  1
+EV  -; PTHR11599:SF74; sufficient;
+TG  GO:0000502;
+TG  GO:0043161;
+--
+SN  13
+ID  Proteasome subunit beta type-9
+DN  Proteasome subunit beta type-9 (EC 3.4.25.1)
+RQ  1
+EV  IPR034383; PTHR11599:SF77; sufficient;
+TG  GO:0000502;
+TG  GO:0043161;
+--
+SN  14
+ID  Proteasome subunit beta type-10
+DN  Proteasome subunit beta type-10 (EC 3.4.25.1)
+RQ  1
+EV  IPR034384; PTHR11599:SF68; sufficient;
+TG  GO:0000502;
+TG  GO:0043161;
+//
