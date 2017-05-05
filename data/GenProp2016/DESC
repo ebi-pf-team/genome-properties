@@ -34,6 +34,10 @@ CC  The spermatoproteasome is a specialist version of the 20S proteasome
 CC  found in the mammalian testis where the alpha4 subunit is replaced
 CC  by the alpha4S subunit.  The spermatoprotasome degrades histones. 
 **  In Drosophila, a more complex spermatoproteasome exists.
+**  There is evidence in reference 4 that different forms of the
+**  mammalian spermatoproteasome exist, known as small and large.  The
+**  small form is a form of the immunoproteasome but with alpha4S, 
+**  whereas the large form is a form of the 26S proteasome with alpha4S.
 --
 SN  1
 ID  proteasome subunit alpha type-1
