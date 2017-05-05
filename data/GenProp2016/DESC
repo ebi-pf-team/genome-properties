@@ -142,4 +142,12 @@ RQ  1
 EV  -; PTHR11599:SF86; sufficient;
 TG  GO:0000502;
 TG  GO:0043161;
+--
+SN  15
+ID  Proteasome activator complex subunit 4
+DN  Proteasome activator complex subunit 4
+RQ  1
+EV  -; PTHR32170:SF5; sufficient;
+TG  GO:0070628;
+TG  GO:0070577;
 //
