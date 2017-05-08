@@ -96,7 +96,7 @@ SN  6
 ID  Proteasome subunit alpha type-6
 DN  Proteasome subunit alpha type-6
 RQ  1
-EV  -; PTHR11599:SF98; sufficient;
+EV  IPR034642; PTHR11599:SF98; sufficient;
 TG  GO:0000502;
 --
 SN  7
