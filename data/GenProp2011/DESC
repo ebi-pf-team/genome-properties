@@ -166,7 +166,10 @@ SN  14
 ID  Proteasome subunit beta type-7
 DN  Proteasome subunit beta type-7 (EC 3.4.25.1)
 RQ  1
-EV  -; PTHR11599:SF86; sufficient;
+EV  IPR035216; PTHR11599:SF86; sufficient;
+TG  GO:0000502;
+TG  GO:0043161;
+EV  IPR035216; PTHR11599:SF71; sufficient;
 TG  GO:0000502;
 TG  GO:0043161;
 //
