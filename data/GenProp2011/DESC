@@ -73,7 +73,9 @@ SN  3
 ID  Proteasome subunit alpha type-3
 DN  Proteasome subunit alpha type-3
 RQ  1
-EV  -; PTHR11599:SF85; sufficient;
+EV  IPR035150; PTHR11599:SF85; sufficient;
+TG  GO:0000502;
+EV  IPR035150; PTHR11599:SF80; sufficient;
 TG  GO:0000502;
 --
 SN  4
