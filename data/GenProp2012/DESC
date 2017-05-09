@@ -61,7 +61,7 @@ SN  1
 ID  26S protease regulatory subunit 4
 DN  26S protease regulatory subunit 4 
 RQ  1
-EV  -; PTHR23073:SF40; sufficient;
+EV  IPR035244; PTHR23073:SF40; sufficient;
 TG  GO:0016887;
 --
 SN  2
