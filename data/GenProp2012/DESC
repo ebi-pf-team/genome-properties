@@ -68,35 +68,35 @@ SN  2
 ID  26S protease regulatory subunit 7
 DN  26S protease regulatory subunit 7 
 RQ  1
-EV  -; PTHR23073:SF46; sufficient;
+EV  IPR035245; PTHR23073:SF46; sufficient;
 TG  GO:0016887;
 --
 SN  3
 ID  26S protease regulatory subunit 6a
 DN  26S protease regulatory subunit 6a 
 RQ  1
-EV  -; PTHR23073:SF39; sufficient;
+EV  IPR035254; PTHR23073:SF39; sufficient;
 TG  GO:0016887;
 --
 SN  4
 ID  26S protease regulatory subunit 6b
 DN  26S protease regulatory subunit 6b 
 RQ  1
-EV  -; PTHR23073:SF50; sufficient;
+EV  IPR035256; PTHR23073:SF50; sufficient;
 TG  GO:0016887;
 --
 SN  5
 ID  26S protease regulatory subunit 8
 DN  26S protease regulatory subunit 8 
 RQ  1
-EV  -; PTHR23073:SF47; sufficient;
+EV  IPR035261; PTHR23073:SF47; sufficient;
 TG  GO:0016887;
 --
 SN  6
 ID  26S protease regulatory subunit 10b
 DN  26S protease regulatory subunit 10b 
 RQ  1
-EV  -; PTHR23073:SF55; sufficient;
+EV  IPR035263; PTHR23073:SF55; sufficient;
 TG  GO:0016887;
 --
 SN  7
