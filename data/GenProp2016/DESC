@@ -157,7 +157,7 @@ SN  15
 ID  Proteasome activator complex subunit 4
 DN  Proteasome activator complex subunit 4
 RQ  1
-EV  -; PTHR32170:SF5; sufficient;
+EV  IPR035309; PTHR32170:SF5; sufficient;
 TG  GO:0070628;
 TG  GO:0070577;
 //
