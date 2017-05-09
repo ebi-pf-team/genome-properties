@@ -103,7 +103,7 @@ SN  7
 ID  26S proteasome non-ATPase regulatory subunit 1
 DN  26S proteasome non-ATPase regulatory subunit 1 
 RQ  1
-EV  -; PTHR10943:SF5; sufficient;
+EV  IPR035266; PTHR10943:SF5; sufficient;
 TG  GO:0030234
 --
 SN  8
@@ -117,14 +117,14 @@ SN  9
 ID  26S proteasome non-ATPase regulatory subunit 3
 DN  26S proteasome non-ATPase regulatory subunit 3 
 RQ  1
-EV  -; PTHR10758:SF6; sufficient;
+EV  IPR035267; PTHR10758:SF6; sufficient;
 TG  GO:0030234
 --
 SN  10
 ID  26S proteasome non-ATPase regulatory subunit 4
 DN  26S proteasome non-ATPase regulatory subunit 4 
 RQ  1
-EV  -; PTHR10223:SF3; sufficient;
+EV  IPR027040; PTHR10223; sufficient;
 TG  GO:0031593
 --
 SN  11
