@@ -34,7 +34,7 @@ SN  1
 ID  proteasome subunit alpha type-1
 DN  Proteasome subunit alpha type-1 
 RQ  1
-EV  -; PTHR11599:SF93; sufficient;
+EV  IPR035144; PTHR11599:SF93; sufficient;
 TG  GO:0000502;
 --
 SN  2
@@ -48,7 +48,9 @@ SN  3
 ID  Proteasome subunit alpha type-3
 DN  Proteasome subunit alpha type-3
 RQ  1
-EV  -; PTHR11599:SF85; sufficient;
+EV  IPR035150; PTHR11599:SF80; sufficient;
+TG  GO:0000502;
+EV  IPR035150; PTHR11599:SF85; sufficient;
 TG  GO:0000502;
 --
 SN  4
@@ -69,28 +71,32 @@ SN  6
 ID  Proteasome subunit alpha type-6
 DN  Proteasome subunit alpha type-6
 RQ  1
-EV  -; PTHR11599:SF98; sufficient;
+EV  IPR034642; PTHR11599:SF98; sufficient;
 TG  GO:0000502;
 --
 SN  7
 ID  Proteasome subunit alpha type-7
 DN  Proteasome subunit alpha type-7
 RQ  1
-EV  -; PTHR11599:SF91; sufficient;
+EV  IPR035190; PTHR11599:SF76; sufficient;
+TG  GO:0000502;
+EV  IPR035190; PTHR11599:SF91; sufficient;
 TG  GO:0000502;
 --
 SN  8
 ID  Proteasome subunit beta type-1
 DN  Proteasome subunit beta type-1
 RQ  1
-EV  -; PTHR11599:SF96; sufficient;
+EV  IPR035202; PTHR11599:SF75; sufficient;
+TG  GO:0000502;
+EV  IPR035202; PTHR11599:SF96; sufficient;
 TG  GO:0000502;
 --
 SN  9
 ID  Proteasome subunit beta type-2
 DN  Proteasome subunit beta type-2
 RQ  1
-EV  -; PTHR11599:SF96; sufficient;
+EV  IPR035206; PTHR11599:SF95; sufficient;
 TG  GO:0000502;
 --
 SN  10
