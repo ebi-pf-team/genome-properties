@@ -1,0 +1,58 @@
+AC  GenProp2017
+DE  gamma secretase
+TP  SYSTEM
+AU  Rawlings ND
+TH  1
+RN  [1]
+RM  12015144
+RT  The structure of the mammalian 20S proteasome at 2.75 A resolution.
+RA  Unno M; Mizushima T; Morimoto Y; Tomisugi Y; Tanaka K; Yasuoka N; 
+RA  Tsukihara T;
+RL  Structure 2002;10:609-618.
+RN  [2]
+RM  28460188
+RT  Proteasomal and Autophagy Degradation Systems.
+RA  Dikic I;
+RL  Annu Rev Biochem. 2017;:-.
+RN  [3]
+RM  24286712
+RT  The unique functions of tissue-specific proteasomes.
+RA  Kniepert A; Groettrup M;
+RL  Trends Biochem Sci. 2014;39:17-24.
+RN  [4]
+RM  23706739
+RT  Acetylation-mediated proteasomal degradation of core histones during 
+RT  DNA repair and spermatogenesis.
+RA  Qian MX; Pang Y; Liu CH; Haratake K; Du BY; Ji DY; Wang GF; Zhu QQ; 
+RA  Song W; Yu Y; Zhang XX; Huang HT; Miao S; Chen LB; Zhang ZH; Liang YN; 
+RA  Liu S; Cha H; Yang D; Zhai Y; Komatsu T; Tsuruta F; Li H; Cao C; Li W; 
+RA  Li GH; Cheng Y; Chiba T; Wang L; Goldberg AL; Shen Y; Qiu XB;
+RL  Cell 2013;39:1012-1024.
+DC  Proteasome
+DR  KEGG; map03050;
+CC  Gamma secretase is a complex found in cell membranes and initially
+CC  identified as the peptidase responsible for the gamma, varepsilon and 
+CC  zeta cleavages of the transmembrane domains of Type I membrane proteins 
+CC  including amyloid precursor protein (APP) and Notch.
+**  In Drosophila, a more complex spermatoproteasome exists.
+**  There is evidence in reference 4 that different forms of the
+**  mammalian spermatoproteasome exist, known as small and large.  The
+**  small form is a form of the immunoproteasome but with alpha4S, 
+**  whereas the large form is a form of the 26S proteasome with alpha4S.
+**  Presence of PA200 in the regulatory particle is crucial for
+**  degradation of histones.
+--
+SN  1
+ID  proteasome subunit alpha type-1
+DN  Proteasome subunit alpha type-1 
+RQ  1
+EV  IPR035144; PTHR11599:SF93; sufficient;
+TG  GO:0000502;
+--
+SN  2
+ID  Proteasome subunit alpha type-2
+DN  Proteasome subunit alpha type-2
+RQ  1
+EV  IPR034644; PTHR11599:SF89; sufficient;
+TG  GO:0000502;
+//
