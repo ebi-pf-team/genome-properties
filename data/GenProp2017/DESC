@@ -26,13 +26,10 @@ CC  which is an aspartic endopeptidase.
 **  Only the precursors of senilin have proteolytic activity.
 --
 SN  1
-ID  Presenilin-1
-DN  Presenilin-1 
+ID  Presenilin
+DN  Presenilin 
 RQ  1
 EV  IPR002031; PTHR10202:SF27; sufficient;
-ID  Presenilin-2
-DN  Presenilin-2 
-RQ  1
 EV  IPR001493; PTHR10202:SF26; sufficient;
 TG  GO:0042500;
 TG  GO:0042987;
