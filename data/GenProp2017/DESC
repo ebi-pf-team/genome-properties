@@ -8,8 +8,8 @@ RM  28320827
 RT  Structural and chemical biology of presenilin complexes.
 RA  Johnson DS; Li YM; Pettersson M; St George-Hyslop PH; 
 RL  Cold Spring Harb Perspect Med. 2017;:.
-DC  Proteasome
-DR  KEGG; map03050;
+DC  Alzheimer's disease
+DR  KEGG; ko05010;
 CC  Gamma secretase is a complex found in cell membranes and initially
 CC  identified as the peptidase responsible for the gamma, varepsilon and 
 CC  zeta cleavages of the transmembrane domains of Type I membrane proteins 
