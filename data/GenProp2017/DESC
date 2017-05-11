@@ -4,55 +4,60 @@ TP  SYSTEM
 AU  Rawlings ND
 TH  1
 RN  [1]
-RM  12015144
-RT  The structure of the mammalian 20S proteasome at 2.75 A resolution.
-RA  Unno M; Mizushima T; Morimoto Y; Tomisugi Y; Tanaka K; Yasuoka N; 
-RA  Tsukihara T;
-RL  Structure 2002;10:609-618.
-RN  [2]
-RM  28460188
-RT  Proteasomal and Autophagy Degradation Systems.
-RA  Dikic I;
-RL  Annu Rev Biochem. 2017;:-.
-RN  [3]
-RM  24286712
-RT  The unique functions of tissue-specific proteasomes.
-RA  Kniepert A; Groettrup M;
-RL  Trends Biochem Sci. 2014;39:17-24.
-RN  [4]
-RM  23706739
-RT  Acetylation-mediated proteasomal degradation of core histones during 
-RT  DNA repair and spermatogenesis.
-RA  Qian MX; Pang Y; Liu CH; Haratake K; Du BY; Ji DY; Wang GF; Zhu QQ; 
-RA  Song W; Yu Y; Zhang XX; Huang HT; Miao S; Chen LB; Zhang ZH; Liang YN; 
-RA  Liu S; Cha H; Yang D; Zhai Y; Komatsu T; Tsuruta F; Li H; Cao C; Li W; 
-RA  Li GH; Cheng Y; Chiba T; Wang L; Goldberg AL; Shen Y; Qiu XB;
-RL  Cell 2013;39:1012-1024.
+RM  28320827
+RT  Structural and chemical biology of presenilin complexes.
+RA  Johnson DS; Li YM; Pettersson M; St George-Hyslop PH; 
+RL  Cold Spring Harb Perspect Med. 2017;:.
 DC  Proteasome
 DR  KEGG; map03050;
 CC  Gamma secretase is a complex found in cell membranes and initially
 CC  identified as the peptidase responsible for the gamma, varepsilon and 
 CC  zeta cleavages of the transmembrane domains of Type I membrane proteins 
-CC  including amyloid precursor protein (APP) and Notch.
-**  In Drosophila, a more complex spermatoproteasome exists.
-**  There is evidence in reference 4 that different forms of the
-**  mammalian spermatoproteasome exist, known as small and large.  The
-**  small form is a form of the immunoproteasome but with alpha4S, 
-**  whereas the large form is a form of the 26S proteasome with alpha4S.
-**  Presence of PA200 in the regulatory particle is crucial for
-**  degradation of histones.
+CC  including amyloid precursor protein (APP) and Notch.  Release of the 
+CC  Abeta peptide from APP is an important step in the development of
+CC  Alzheimer's disease and forms the plaques that are characteristic
+CC  of the pathology.  Release of the Abeta peptide requires two
+CC  proteolytic cleavages, cleavage by beta-secretase in the extracellular
+CC  domain, and then cleavage at the gamma and epsilon sites by gamma
+CC  secretase.  The proteolytic component of gamma secretase is presenilin
+CC  which is an aspartic endopeptidase.
+**  Reference [1] is in press but available electronically.
+**  The complex contains either presenilin 1 or presenilin 2.
+**  Only the precursors of senilin have proteolytic activity.
 --
 SN  1
-ID  proteasome subunit alpha type-1
-DN  Proteasome subunit alpha type-1 
+ID  Presenilin-1
+DN  Presenilin-1 
 RQ  1
-EV  IPR035144; PTHR11599:SF93; sufficient;
-TG  GO:0000502;
+EV  IPR002031; PTHR10202:SF27; sufficient;
+ID  Presenilin-2
+DN  Presenilin-2 
+RQ  1
+EV  IPR001493; PTHR10202:SF26; sufficient;
+TG  GO:0042500;
+TG  GO:0042987;
 --
 SN  2
-ID  Proteasome subunit alpha type-2
-DN  Proteasome subunit alpha type-2
+ID  Gamma-secretase subunit APH-1A
+DN  Gamma-secretase subunit APH-1A
 RQ  1
-EV  IPR034644; PTHR11599:SF89; sufficient;
-TG  GO:0000502;
+EV  IPR009294; PTHR12889; sufficient;
+EV  IPR009294; PF06105; sufficient;
+TG  GO:0043085;
+--
+SN  3
+ID  Nicastrin
+DN  Nicastrin
+RQ  1
+EV  IPR008710; PTHR21092; sufficient;
+EV  IPR008710; PF05450; sufficient;
+TG  GO:0043085;
+--
+SN  4
+ID  Gamma-secretase subunit PEN-2
+DN  Gamma-secretase subunit PEN-2
+RQ  1
+EV  IPR019379; PTHR16318; sufficient;
+EV  IPR019379; PF10251; sufficient;
+TG  GO:0043085;
 //
