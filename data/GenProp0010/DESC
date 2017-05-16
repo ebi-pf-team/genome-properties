@@ -12,7 +12,7 @@ CC  Inteins are protein insertion sequences that are embedded in host
 CC  protein sequences. They are post-translationally excised from the 
 CC  host protein by a self-catalytic protein splicing process, in which 
 CC  the intein sequence is precisely excised, and the flanking host 
-CC  protein sequences (N- and C-exteins) are religated to create a 
+CC  protein sequences (N- and C-exteins) are re-ligated to create a 
 CC  functional protein. The region between the N- and C-terminal splicing 
 CC  regions may show endonuclease homology.
 --
