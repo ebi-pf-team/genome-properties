@@ -57,12 +57,12 @@ EV  IPR019967; TIGR03668;
 EV  IPR024031; TIGR04023;
 --
 SN  4
-ID  PA-824 prodrug activation accessory family
+ID  F420H(2)-dependent quinone reductase
 RQ  0
 EV  IPR004378; TIGR00026;
 --
 SN  5
-ID  F420-associated branch of DUF2342 family
+ID  Hypothetical F420-biosynthesis associated
 RQ  0
 EV  IPR022454; TIGR03883;
 --
