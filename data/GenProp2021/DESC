@@ -1,0 +1,50 @@
+AC  GenProp2021
+DE  apoptosome
+TP  SYSTEM
+AU  Rawlings ND
+TH  1
+RN  [1]
+RM  26543158 
+RT  Atomic structure of the apoptosome: mechanism of cytochrome c- and 
+RT  dATP-mediated activation of Apaf-1. 
+RA  Zhou M; Li Y; Hu Q; Bai XC; Huang W; Yan C; Scheres SH; Shi Y; 
+RL  Genes Dev. 2015;29:2349-2361.
+DC  Apoptosis
+DR  KEGG; map04210;
+CC  Apoptosis or programmed cell death is the mechanism by which cells 
+CC  in eukaryotes are killed.  Cysteine endopeptidases known as caspases 
+CC  are activated and these deactivate cellular proteins, often by 
+CC  cleaving within interdomain regions, thereby separating binding 
+CC  domains of signal reception and transduction domains.  Caspases have
+CC  a specificity for aspartyl bonds, which occur frequently in surface
+CC  loops and interdomain regions of proteins.  Caspases involved in
+CC  apoptosis are of two kinds: initiators and executors.  Initiator
+CC  caspases activate the executor caspases which cleave other proteins
+CC  in the cell.  There are at least four routes by which the initiator
+CC  caspase precursors are activated.  This Genome Property includes
+CC  the apoptosome, which includes the precursor of initiator caspase 9 
+CC  from the intrinsic (or mitochondrial) pathway.  When it binds 
+CC  cytochrome c and dATP, Apaf1 oligomerizes into a heptameric ring.
+**  Needs review of apoptosis.
+--
+SN  1
+ID  Cytochrome c
+DN  Cytochrome c
+RQ  1
+EV  -; PTHR11961:SF20; sufficient;
+TG  GO:0008635;
+--
+SN  2
+ID  Apoptotic protease-activating factor 1
+DN  Apoptotic protease-activating factor 1
+RQ  1
+EV  -; PTHR22845:SF6; sufficient;
+TG  GO:0006919;
+--
+SN  3
+ID  Caspase-9
+DN  Caspase-9 (EC:3.4.22.62)
+RQ  1
+EV  IPR033171; PTHR10454:SF173; sufficient;
+TG  GO:0008635;
+//
