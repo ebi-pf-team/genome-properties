@@ -1,4 +1,4 @@
-AC  GenProp2018
+AC  GenProp2022
 DE  Caspase activation, extrinsic pathway
 TP  METAPATH
 AU  Rawlings ND
@@ -28,7 +28,7 @@ CC  the extrinsic pathway of caspase activation.
 SN  1
 ID  Death-inducing signaling complex (DISC)
 RQ  1
-EV  GenProp2018;
+EV  GenProp2020;
 --
 SN  2
 ID  Executor caspases
