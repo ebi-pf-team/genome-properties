@@ -9,6 +9,12 @@ RT  Cross-talk between two cysteine protease families. Activation of
 RT  caspase-12 by calpain in apoptosis. 
 RA  Nakagawa T; Yuan J; 
 RL  J Cell Biol. 2000;150:887-894.
+RN  [2]
+RM  20646990
+RT  Purification of catalytically active caspase-12 and its biochemical 
+RT  characterization.  
+RA  Lee HJ; Lee SH; Park SH; Sharoar MG; Shin SY; Lee JS; Cho B; Park IS; 
+RL  Arch Biochem Biophys. 2010;502:68-73.
 DC  Apoptosis
 DR  KEGG; map04210;
 CC  Apoptosis or programmed cell death is the mechanism by which cells 
@@ -25,8 +31,10 @@ CC  caspase precursors are activated.  This Genome Property describes
 CC  caspase activation via calcium signalling.
 **  Requires apoptosis review. 
 **  Human caspase-12 is defective.
-**  I am unaware of any publication that reports activation of an 
-**  executor caspase by caspase-12. 
+**  NDR is unaware of any publication that reports activation of an 
+**  executor caspase by caspase-12. Ref [2] reports than caspase-12
+**  induced cell death does not involve cleavage of caspase-3, DFF45 or 
+**  Bid.
 **  Calpain-1 or 2 is a heterodimer and probably should have its own 
 **  Genome Property.
 --
