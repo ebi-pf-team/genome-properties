@@ -2,33 +2,10 @@ AC  GenProp2018
 DE  initiator caspases of the extrinsic pathway
 TP  SYSTEM
 AU  Rawlings ND
-TH  1
-RN  [1]
-RM  9006941
-RT  The structure of FADD and its mode of interaction with procaspase-8. 
-RA  Carrington PE; Sandu C; Wei Y; Hill JM; Morisawa G; Huang T; 
-RA  Gavathiotis E; Wei Y; Werner MH; 
-RL  Mol Cell. 2006;22:599-610.
-RN  [2]
-RM  19118384
-RT  The Fas-FADD death domain complex structure unravels signalling by 
-RT  receptor clustering. 
-RA  Scott FL; Stec B; Pop C; Dobaczewska MK; Lee JJ; Monosov E;  
-RA  Robinson H; Salvesen GS; Schwarzenbacher R; Riedl SJ; 
-RL  Nature. 2009;457:1019-1022.
-RN  [3]
-RM  9006941
 RT  FLICE induced apoptosis in a cell-free system. Cleavage of caspase 
 RT  zymogens.
 RA  Muzio M; Salvesen GS; Dixit VM; 
 RL  J Biol Chem. 1997;272:2952-2956.
-RN  [4]
-RM  11209755
-RT  Crystal structure of the caspase activator human granzyme B, a 
-RT  proteinase highly specific for an Asp-P1 residue.
-RA  Estébanez-Perpiña E; Fuentes-Prior P; Belorgey D; Braun M; 
-RA  Kiefersauer R; Maskos K; Huber R; Rubin H; Bode W; 
-RL  Biol Chem. 2000;381:1203-1214.
 DC  Apoptosis
 DR  KEGG; map04210;
 CC  Apoptosis or programmed cell death is the mechanism by which cells 
@@ -42,32 +19,17 @@ CC  apoptosis are of two kinds: initiators and executors.  Initiator
 CC  caspases activate the executor caspases which cleave other proteins
 CC  in the cell.  There are at least four routes by which the initiator
 CC  caspase precursors are activated.  This Genome Property includes
-CC  the extrinsic and the granzyme B activation pathways.
-**  This Genome Property starts with FADD or TRADD.  There are essential  
-**  ligands and receptors upstream of FADD, but these function in other 
-**  pathways as well.
-**  The death-inducing signaling complex (DISC) consists of FADD, Fas 
-**  (CD95) or TNFR-1 receptors and caspase-8 or caspase-10.
+CC  the extrinsic pathway initiator caspases.
+**  Needs review of apoptosis.
 --
 SN  1
-ID  Initiator caspase activator
-DN  Initiator caspase activator 
-RQ  1
-EV  -; PTHR15077:SF13; sufficient;
-TG  GO:0089720;
-EV  -; PTHR14913; sufficient;
-TG  GO:0089720;
-EV  -; PTHR24271:SF38; sufficient;
-TG  GO:0006915;
---
-SN  2
 ID  Caspase-8
 DN  Caspase-8 (EC:3.4.22.61)
 RQ  1
 EV  IPR033170; PTHR10454:SF176; sufficient;
 TG  GO:0006919;
 --
-SN  3
+SN  2
 ID  Caspase-10
 DN  Caspase-10 (EC:3.4.22.63)
 RQ  1
