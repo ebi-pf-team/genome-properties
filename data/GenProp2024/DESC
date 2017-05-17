@@ -1,0 +1,46 @@
+AC  GenProp2023
+DE  Caspase activation, intrinsic pathway
+TP  METAPATH
+AU  Rawlings ND
+TH  1
+RN  [1]
+RM  12752668
+RT  Granzyme B: a natural born killer. 
+RA  Lord SJ; Rajotte RV; Korbutt GS; Bleackley RC; 
+RL  Immunol Rev. 2003;193:31-38.
+RN  [2]
+RM  11209755
+RT  Crystal structure of the caspase activator human granzyme B, a  
+RT  proteinase highly specific for an Asp-P1 residue.
+RA  Estébanez-Perpiña E; Fuentes-Prior P; Belorgey D; Braun M;   
+RA  Kiefersauer R; Maskos K; Huber R; Rubin H; Bode W; 
+RL  Biol Chem. 2000;381:1203-1214.
+DC  Apoptosis
+DR  KEGG; map04210;
+CC  Apoptosis or programmed cell death is the mechanism by which cells 
+CC  in eukaryotes are killed.  Cysteine endopeptidases known as caspases 
+CC  are activated and these deactivate cellular proteins, often by 
+CC  cleaving within interdomain regions, thereby separating binding 
+CC  domains of signal reception and transduction domains.  Caspases have
+CC  a specificity for aspartyl bonds, which occur frequently in surface
+CC  loops and interdomain regions of proteins.  Caspases involved in
+CC  apoptosis are of two kinds: initiators and executors.  Initiator
+CC  caspases activate the executor caspases which cleave other proteins
+CC  in the cell.  There are at least four routes by which the initiator
+CC  caspase precursors are activated.  This Genome Property describes
+CC  the granzyme B-mediated pathway.
+**  Requires apoptosis review.  
+--
+SN  1
+ID  Granzyme B 
+DN  Granzyme B (EC:3.4.21.79) 
+RQ  1
+EV  -; PTHR24271:SF38; sufficient;
+TG  GO:1900740;
+TG  GO:0004252;
+--
+SN  2
+ID  extrinsic initiator caspases
+RQ  1
+EV  GenProp2018;
+//
