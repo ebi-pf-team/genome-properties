@@ -1,0 +1,70 @@
+AC  GenProp2023
+DE  Caspase activation, intrinsic pathway
+TP  METAPATH
+AU  Rawlings ND
+TH  1
+RN  [1]
+RM  9006941
+RT  The structure of FADD and its mode of interaction with procaspase-8. 
+RA  Carrington PE; Sandu C; Wei Y; Hill JM; Morisawa G; Huang T; 
+RA  Gavathiotis E; Wei Y; Werner MH; 
+RL  Mol Cell. 2006;22:599-610.
+RN  [2]
+RM  19118384
+RT  The Fas-FADD death domain complex structure unravels signalling by 
+RT  receptor clustering. 
+RA  Scott FL; Stec B; Pop C; Dobaczewska MK; Lee JJ; Monosov E;  
+RA  Robinson H; Salvesen GS; Schwarzenbacher R; Riedl SJ; 
+RL  Nature. 2009;457:1019-1022.
+RN  [3]
+RM  9006941
+RT  FLICE induced apoptosis in a cell-free system. Cleavage of caspase 
+RT  zymogens.
+RA  Muzio M; Salvesen GS; Dixit VM; 
+RL  J Biol Chem. 1997;272:2952-2956.
+DC  Apoptosis
+DR  KEGG; map04210;
+CC  Apoptosis or programmed cell death is the mechanism by which cells 
+CC  in eukaryotes are killed.  Cysteine endopeptidases known as caspases 
+CC  are activated and these deactivate cellular proteins, often by 
+CC  cleaving within interdomain regions, thereby separating binding 
+CC  domains of signal reception and transduction domains.  Caspases have
+CC  a specificity for aspartyl bonds, which occur frequently in surface
+CC  loops and interdomain regions of proteins.  Caspases involved in
+CC  apoptosis are of two kinds: initiators and executors.  Initiator
+CC  caspases activate the executor caspases which cleave other proteins
+CC  in the cell.  There are at least four routes by which the initiator
+CC  caspase precursors are activated.  This Genome Property describes
+CC  the intrinsic or mitochondria-mediated pathway.
+**  Requires apoptosis review.  
+--
+SN  1
+ID  Caspase-2 
+DN  Caspase-2 (EC:3.4.22.55) 
+RQ  1
+EV  -; PTHR10454:SF190; sufficient;
+TG  GO:0006919;
+ID  Granzyme B 
+DN  Granzyme B (EC:3.4.21.79) 
+RQ  1
+EV  -; PTHR24271:SF38; sufficient;
+TG  GO:1900740;
+TG  GO:0004252;
+--
+SN  2
+ID  BH3-interacting domain death agonist
+DN  BH3-interacting domain death agonist 
+RQ  1
+EV  IPR010479; PF06393; sufficient;
+TG  GO:0008625;
+--
+SN  3
+ID  apoptosome
+RQ  1
+EV  GenProp2021;
+--
+SN  4
+ID  extrinsic initiator caspases
+RQ  1
+EV  GenProp2018;
+//
