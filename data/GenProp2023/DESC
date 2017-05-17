@@ -22,6 +22,11 @@ RT  FLICE induced apoptosis in a cell-free system. Cleavage of caspase
 RT  zymogens.
 RA  Muzio M; Salvesen GS; Dixit VM; 
 RL  J Biol Chem. 1997;272:2952-2956.
+RN  [4]
+RM  21456965
+RT  Caspase substrates and cellular remodeling.  
+RA  Crawford ED; Wells JA;   
+RL  Annu Rev Biochem. 2001;80:1055-1087.
 DC  Apoptosis
 DR  KEGG; map04210;
 CC  Apoptosis or programmed cell death is the mechanism by which cells 
@@ -36,7 +41,6 @@ CC  caspases activate the executor caspases which cleave other proteins
 CC  in the cell.  There are at least four routes by which the initiator
 CC  caspase precursors are activated.  This Genome Property describes
 CC  the intrinsic or mitochondria-mediated pathway.
-**  Requires apoptosis review.  
 --
 SN  1
 ID  Caspase-2 
