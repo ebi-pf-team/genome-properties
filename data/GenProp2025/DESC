@@ -1,0 +1,51 @@
+AC  GenProp2023
+DE  Caspase activation, calpain pathway
+TP  METAPATH
+AU  Rawlings ND
+TH  1
+RN  [1]
+RM  10953012
+RT  Cross-talk between two cysteine protease families. Activation of 
+RT  caspase-12 by calpain in apoptosis. 
+RA  Nakagawa T; Yuan J; 
+RL  J Cell Biol. 2000;150:887-894.
+DC  Apoptosis
+DR  KEGG; map04210;
+CC  Apoptosis or programmed cell death is the mechanism by which cells 
+CC  in eukaryotes are killed.  Cysteine endopeptidases known as caspases 
+CC  are activated and these deactivate cellular proteins, often by 
+CC  cleaving within interdomain regions, thereby separating binding 
+CC  domains of signal reception and transduction domains.  Caspases have
+CC  a specificity for aspartyl bonds, which occur frequently in surface
+CC  loops and interdomain regions of proteins.  Caspases involved in
+CC  apoptosis are of two kinds: initiators and executors.  Initiator
+CC  caspases activate the executor caspases which cleave other proteins
+CC  in the cell.  There are at least four routes by which the initiator
+CC  caspase precursors are activated.  This Genome Property describes
+CC  caspase activation via calcium signalling.
+**  Requires apoptosis review. 
+**  Human caspase-12 is defective.
+**  I am unaware of any publication that reports activation of an 
+**  executor caspase by caspase-12. 
+**  Calpain-1 or 2 is a heterodimer and probably should have its own 
+**  Genome Property.
+--
+SN  1
+ID  Calpain 2
+DN  Calpain-2 catalytic subunit (EC:3.4.22.52) 
+RQ  1
+EV  IPR029539; PTHR10183:SF340; sufficient;
+TG  GO:0004198;
+--
+SN  2
+ID  Caspase-12
+DN  Caspase-12 
+RQ  1
+EV  -; PTHR10454:SF191; sufficient;
+TG  GO:0070059;
+--
+SN  4
+ID  executor caspases
+RQ  1
+EV  GenProp2019;
+//
