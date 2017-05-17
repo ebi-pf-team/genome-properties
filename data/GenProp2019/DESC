@@ -1,0 +1,56 @@
+AC  GenProp2019
+DE  executor caspases
+TP  SYSTEM
+AU  Rawlings ND
+TH  1
+RN  [1]
+RM  9852092
+RT  Granzyme B mimics apical caspases. Description of a unified pathway 
+RT  for trans-activation of executioner caspase-3 and -7.
+RA  Yang X; Stennicke HR; Wang B; Green DR; Jänicke RU; Srinivasan A; 
+RA  Seth P; Salvesen GS; Froelich CJ; 
+RL  J Biol Chem. 1998;273:34278-34283.
+RN  [2]
+RM  8900201
+RT  The Ced-3/interleukin 1beta converting enzyme-like homolog Mch6 and 
+RT  the lamin-cleaving enzyme Mch2alpha are substrates for the apoptotic 
+RT  mediator CPP32. 
+RA  Srinivasula SM; Fernandes-Alnemri T; Zangrilli J; Robertson N; 
+RA  Armstrong RC; Wang L; Trapani JA; Tomaselli KJ; Litwack G; Alnemri 
+RA  ES;
+RL  J Biol Chem. 1998;271:27099-27106.
+DC  Apoptosis
+DR  KEGG; map04210;
+CC  Apoptosis or programmed cell death is the mechanism by which cells 
+CC  in eukaryotes are killed.  Cysteine endopeptidases known as caspases 
+CC  are activated and these deactivate cellular proteins, often by 
+CC  cleaving within interdomain regions, thereby separating binding 
+CC  domains or signal reception and transduction domains.  Caspases have
+CC  a specificity for aspartyl bonds, which occur frequently in surface
+CC  loops and interdomain regions of proteins.  Caspases involved in
+CC  apoptosis are of two kinds: initiators and executors.  Initiator
+CC  caspases activate the executor caspases which cleave other proteins
+CC  in the cell.  This Genome Property includes the executor caspases.
+**  Review required in literature.  
+--
+SN  1
+ID  Caspase-3
+DN  Caspase-3 (EC:3.4.22.56) 
+RQ  1
+EV  IPR015470; PTHR10454:SF178; sufficient;
+TG  GO:0097200;
+--
+SN  2
+ID  Caspase-7
+DN  Caspase-7 (EC:3.4.22.60)
+RQ  1
+EV  -; PTHR10454:SF168; sufficient;
+TG  GO:0097200;
+--
+SN  3
+ID  Caspase-6
+DN  Caspase-6 (EC:3.4.22.59)
+RQ  1
+EV  -; PTHR10454:SF181; sufficient;
+TG  GO:0097200;
+//
