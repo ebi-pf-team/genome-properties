@@ -15,6 +15,11 @@ RT  proteinase highly specific for an Asp-P1 residue.
 RA  Estébanez-Perpiña E; Fuentes-Prior P; Belorgey D; Braun M;   
 RA  Kiefersauer R; Maskos K; Huber R; Rubin H; Bode W; 
 RL  Biol Chem. 2000;381:1203-1214.
+RN  [3]
+RM  21456965
+RT  Caspase substrates and cellular remodeling.  
+RA  Crawford ED; Wells JA;   
+RL  Annu Rev Biochem. 2001;80:1055-1087.
 DC  Apoptosis
 DR  KEGG; map04210;
 CC  Apoptosis or programmed cell death is the mechanism by which cells 
@@ -29,7 +34,6 @@ CC  caspases activate the executor caspases which cleave other proteins
 CC  in the cell.  There are at least four routes by which the initiator
 CC  caspase precursors are activated.  This Genome Property describes
 CC  the granzyme B-mediated pathway.
-**  Requires apoptosis review.  
 --
 SN  1
 ID  Granzyme B 
