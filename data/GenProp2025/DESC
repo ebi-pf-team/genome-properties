@@ -1,5 +1,5 @@
 AC  GenProp2023
-DE  Caspase activation, calpain pathway
+DE  Caspase activation, endoplasmic reticulum-stress mediated
 TP  METAPATH
 AU  Rawlings ND
 TH  1
@@ -28,7 +28,8 @@ CC  apoptosis are of two kinds: initiators and executors.  Initiator
 CC  caspases activate the executor caspases which cleave other proteins
 CC  in the cell.  There are at least four routes by which the initiator
 CC  caspase precursors are activated.  This Genome Property describes
-CC  caspase activation via calcium signalling.
+CC  caspase activation via calpain following calcium release during 
+CC  the endoplasmic reticulum stress response.
 **  Requires apoptosis review. 
 **  Human caspase-12 is defective.
 **  NDR is unaware of any publication that reports activation of an 
