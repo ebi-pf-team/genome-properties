@@ -44,6 +44,7 @@ CC  related processes.
 --
 SN  1
 ID  Acetoacetyl-CoA synthase
+DN  Acetoacetate—CoA ligase (EC 6.2.1.16)
 RQ  0
 EV  IPR005914; TIGR01217; sufficient;
 --
