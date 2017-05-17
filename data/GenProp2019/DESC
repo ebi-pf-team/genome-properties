@@ -19,6 +19,11 @@ RA  Srinivasula SM; Fernandes-Alnemri T; Zangrilli J; Robertson N;
 RA  Armstrong RC; Wang L; Trapani JA; Tomaselli KJ; Litwack G; Alnemri 
 RA  ES;
 RL  J Biol Chem. 1998;271:27099-27106.
+RN  [3]
+RM  21456965
+RT  Caspase substrates and cellular remodeling.  
+RA  Crawford ED; Wells JA;   
+RL  Annu Rev Biochem. 2001;80:1055-1087.
 DC  Apoptosis
 DR  KEGG; map04210;
 CC  Apoptosis or programmed cell death is the mechanism by which cells 
@@ -31,7 +36,6 @@ CC  loops and interdomain regions of proteins.  Caspases involved in
 CC  apoptosis are of two kinds: initiators and executors.  Initiator
 CC  caspases activate the executor caspases which cleave other proteins
 CC  in the cell.  This Genome Property includes the executor caspases.
-**  Review required in literature.  
 --
 SN  1
 ID  Caspase-3
