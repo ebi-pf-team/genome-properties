@@ -31,19 +31,19 @@ CC  weight (10,000 to >1,000,000 residues) PHAs in granular deposits.
 --
 SN  1
 ID  Acetoacetyl-CoA reductase
-DN  Acetoacetyl-CoA reductase
+DN  Acetoacetyl-CoA reductase (EC 1.1.1.36)
 RQ  1
 EV  IPR011283; TIGR01829; sufficient;
 --
 SN  2
 ID  3-hydroxybutyrate dehydrogenase
-DN  NOT APPLICABLE
+DN  D-beta-hydroxybutyrate dehydrogenase (EC 1.1.1.30)
 RQ  0
 EV  IPR011294; TIGR01963; sufficient;
 --
 SN  3
 ID  Poly(R)-hydroxyalkanoic acid synthase
-DN  NOT APPLICABLE
+DN  Poly(R)-hydroxyalkanoic acid synthase
 RQ  1
 EV  IPR010963; TIGR01838; sufficient;
 EV  IPR011287; TIGR01839; sufficient;
@@ -72,18 +72,21 @@ TG  GO:0006112;
 --
 SN  6
 ID  Predicted granule component
+DN  Putative polyhydroxyalkanoic acid system protein
 RQ  0
 EV  IPR013433; TIGR02610; sufficient;
 TG  GO:0006112;
 --
 SN  7
 ID  PHA inclusion probable storage protein PhaP
+DN  Polyhydroxyalkanoic acid inclusion protein PhaP
 RQ  0
 EV  IPR011728; TIGR02131; sufficient;
 TG  GO:0006112;
 --
 SN  8
 ID  Regulatory subunit of PHA synthase
+DN  Polyhydroxyalkanoic acid synthase, PhaR subunit
 RQ  0
 EV  IPR011729; TIGR02132; sufficient;
 TG  GO:0006112;
