@@ -78,7 +78,7 @@ SN  6
 ID  O-succinylbenzoate synthase
 DN  O-succinylbenzoate synthase
 RQ  1
-EV  IPRXXXX; TIGR01927; sufficient;
+EV  IPR010196; MF_00470; sufficient;
 TG  GO:0009234;
 EV  IPR010197; TIGR01928; sufficient;
 TG  GO:0009234;
