@@ -62,6 +62,7 @@ TG  GO:0009234;
 --
 SN  4
 ID  1,4-dihydroxy-2-naphthoate prenyl-transferase
+DN  1,4-dihydroxy-2-naphthoate octaprenyltransferase (EC 2.5.1.74)
 RQ  1
 EV  IPR004657; MF_01937; sufficient;
 TG  GO:0009234;
