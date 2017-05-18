@@ -25,7 +25,7 @@ CC  (niacin).
 --
 SN  1
 ID  L-aspartate oxidase (or dehydrogenase)
-DN  L-aspartate oxidase (EC 1.4.3.16)
+DN  L-aspartate oxidase/L-aspartate dehydrogenase
 RQ  0
 EV  IPR005288; TIGR00551; sufficient;
 TG  GO:0009435;
