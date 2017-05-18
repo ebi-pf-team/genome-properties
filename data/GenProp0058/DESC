@@ -56,6 +56,7 @@ TG  GO:0009234;
 --
 SN  3
 ID  Demethylmenaquinone methyltransferase
+DN  Demethylmenaquinone methyltransferase (EC 2.1.1.163)
 RQ  0
 EV  IPR004033; TIGR01934; sufficient;
 TG  GO:0009234;
@@ -69,14 +70,14 @@ TG  GO:0009234;
 --
 SN  5
 ID  Naphthoate synthase
-DN  Naphthoate synthase
+DN  Naphthoate synthase (EC 4.1.3.36)
 RQ  1
 EV  IPR010198; TIGR01929; sufficient;
 TG  GO:0009234;
 --
 SN  6
 ID  O-succinylbenzoate synthase
-DN  O-succinylbenzoate synthase
+DN  O-succinylbenzoate synthase (EC 4.2.1.113)
 RQ  1
 EV  IPR010196; MF_00470; sufficient;
 TG  GO:0009234;
@@ -85,13 +86,14 @@ TG  GO:0009234;
 --
 SN  7
 ID  O-succinylbenzoate--CoA ligase
-DN  O-succinylbenzoate--CoA ligase
+DN  O-succinylbenzoate--CoA ligase (EC:6.2.1.26)
 RQ  1
 EV  IPR010192; TIGR01923; sufficient;
 TG  GO:0009234;
 --
 SN  8
 ID  SHCHC synthase
+DN  SHCHC synthase (EC 4.2.99.20)
 RQ  0
 EV  IPR022485; TIGR03695;
 TG  GO:0009234;
