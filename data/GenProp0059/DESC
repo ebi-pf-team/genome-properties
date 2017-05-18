@@ -56,6 +56,7 @@ TG  GO:0030253;
 --
 SN  4
 ID  Type I secreted proteins GGXGXDXXX repeats
+DN  Haemolysin-type calcium-binding repeat 
 RQ  1
 EV  IPR001343; PF00353; sufficient;
 //
