@@ -12,10 +12,12 @@ DC  Glycine Cleavage System
 DR  IUBMB; AminoAcid; GlyCleave;
 DC  Glycine, serine and threonine metabolism
 DR  KEGG; map00260;
-CC  Three distinctive components of the glycine cleavage enzyme are the P
-CC  protein, H protein, and T protein. Dihydrolipoamide dehydrogenase may
-CC  be a part of a number of different enzyme contexts, and is the L
-CC  protein of the glycine cleavage system.
+CC  The glycine cleavage system (GCS), also known as the glycine
+CC  decarboxylase system (GDC) consists of a set of four enzymes,
+CC  which are involved in a multi-step reaction to catalyse the 
+CC  cleavage of glycine molecules. The constituents enzymes are, P
+CC  protein, H protein, T protein, and L protein (dihydrolipoamide 
+CC  dehydrogenase)[1]. 
 --
 SN  gcvH
 ID  Glycine cleavage system H protein
