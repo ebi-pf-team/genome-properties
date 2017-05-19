@@ -3,6 +3,11 @@ DE  Glycine cleavage system
 TP  SYSTEM
 AU  Haft DH
 TH  1
+RN  [1]
+RM  11286922
+RT  The glycine decarboxylase system: a fascinating complex.
+RA  Douce R, Bourguignon J, Neuburger M, Rebeille F;
+RL  Trends Plant Sci. 2001;6:167-176.
 DC  Glycine Cleavage System
 DR  IUBMB; AminoAcid; GlyCleave;
 DC  Glycine, serine and threonine metabolism
