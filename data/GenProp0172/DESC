@@ -29,28 +29,28 @@ CC  the adjacent Kdp gene cluster [1,2].
 **  should enable KdpD (regulator) building KdpA TIGR00680 KdpB TIGR01497
 **  KdpC TIGR00681 KdpF TIGR02115
 --
-SN  KdpA
+SN  1
 ID  KdpA subunit
 DN  K+-transporting ATPase, A subunit (EC 3.6.3.12)
 RQ  1
 EV  IPR004623; TIGR00680; sufficient;
 TG  GO:0010107;
 --
-SN  KdpB
+SN  2
 ID  KdpB subunit
 DN  K+-transporting ATPase, B subunit (EC 3.6.3.12)
 RQ  1
 EV  IPR006391; TIGR01497; sufficient;
 TG  GO:0010107;
 --
-SN  KdpC
+SN  3
 ID  KdpC subunit
 DN  K+-transporting ATPase, C subunit (EC 3.6.3.12)
 RQ  1
 EV  IPR003820; TIGR00681; sufficient;
 TG  GO:0010107;
 --
-SN  KdpF
+SN  4
 ID  KdpF peptide
 DN  K+-transporting ATPase, F subunit (EC 3.6.3.12)
 RQ  0
