@@ -10,13 +10,13 @@ CC  PilB because of altered cytoadherence in a mutant. MsrA and MsrB are
 CC  sometimes expressed as a fusion protein.
 **  different enzymes/domains for different oxidized forms
 --
-SN  MsrA
+SN  1
 ID  Methionine-S-sulfoxide reductase
 DN  Methionine-S-sulfoxide reductase/MsrA
 RQ  1
 EV  IPR002569; TIGR00401; sufficient;
 --
-SN  MsrB
+SN  2
 ID  Methionine-R-sulfoxide reductase
 DN  Methionine-R-sulfoxide reductase/MsrB
 RQ  1
