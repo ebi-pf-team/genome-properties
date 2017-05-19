@@ -19,27 +19,27 @@ CC  cleavage of glycine molecules. The constituents enzymes are, P
 CC  protein, H protein, T protein, and L protein (dihydrolipoamide 
 CC  dehydrogenase)[1]. 
 --
-SN  gcvH
+SN  1
 ID  Glycine cleavage system H protein
 DN  Glycine cleavage system H protein
 RQ  1
 EV  IPR017453; TIGR00527; sufficient;
 TG  GO:0006546;
 --
-SN  gcvL
+SN  2
 ID  Dihydrolipoamide dehydrogenase
 DN  Dihydrolipoamide dehydrogenase/L protein (EC 1.8.1.4)
 RQ  1
 EV  IPR006258; TIGR01350; sufficient;
 --
-SN  gcvP
+SN  3
 ID  Glycine cleavage system P protein
 DN  Glycine cleavage system P protein (EC 1.4.4.2)
 RQ  1
 EV  IPR020581; PF02347; sufficient;
 TG  GO:0006546;
 --
-SN  gcvT
+SN  4
 ID  Glycine cleavage system T protein
 DN  Glycine cleavage system T protein (EC 2.1.2.10)
 RQ  1
