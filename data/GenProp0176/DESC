@@ -25,12 +25,11 @@ CC  Periplasmic Transporters. The characteristic architecture includes an
 CC  integral membrane protein with 12 predicted transmembrane (TM) regions
 CC  (e.g.DctM) and another with 4 predicted TM regions (e.g. DctQ). These
 CC  two are fused in some species [2]. Also present is an extracytoplasmic
-CC  solute receptor (ESR), for which at least three families are known:
-CC  DegP (TIGR00787), SmoM (PF03480), and TAXI (TIGR02122). In addition to
-CC  C4 dicarboxylates, substrates moved by related transporters appear to
-CC  include mannitol, aspartate derivative ectoine, and other as yet
-CC  uncharacterized solutes. Some bacteria, such as Bradyrhizobium
-CC  japonicum, may contain over a dozen such transporters. 
+CC  solute receptor (ESR). In addition to C4 dicarboxylates, substrates 
+CC  moved by related transporters appear to include mannitol, aspartate 
+CC  derivative ectoine, and other as yet uncharacterized solutes. Some 
+CC  bacteria, such as Bradyrhizobium japonicum, may contain over a dozen 
+CC  such transporters. 
 --
 SN  12TM
 ID  DctM-like 12-transmembrane helix protein
