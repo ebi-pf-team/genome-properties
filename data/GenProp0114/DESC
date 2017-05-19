@@ -20,28 +20,28 @@ CC  different.
 --
 SN  1
 ID  Excinuclease ABC subunit A
-DN  Excinuclease ABC subunit A/UvrA (3.1.125.-)
+DN  Excinuclease ABC subunit A/UvrA (EC 3.1.125.-)
 RQ  1
 EV  IPR004602; TIGR00630; sufficient;
 TG  GO:0006289;
 --
 SN  2
 ID  Excinuclease ABC subunit B
-DN  Excinuclease ABC subunit B/UvrB (3.1.125.-)
+DN  Excinuclease ABC subunit B/UvrB (EC 3.1.125.-)
 RQ  1
 EV  IPR004807; TIGR00631; sufficient;
 TG  GO:0006289;
 --
 SN  3
 ID  Excinuclease ABC subunit C
-DN  Excinuclease ABC subunit C/UvrC (3.1.125.-)
+DN  Excinuclease ABC subunit C/UvrC (EC 3.1.125.-)
 RQ  1
 EV  IPR004791; TIGR00194; sufficient;
 TG  GO:0006289;
 --
 SN  4
 ID  DNA helicase II
-DN  DNA helicase II/UvrD (3.6.1.-)
+DN  DNA helicase II/UvrD (EC 3.6.1.-)
 RQ  0
 EV  IPR005753; TIGR01075; sufficient;
 TG  GO:0006289;
