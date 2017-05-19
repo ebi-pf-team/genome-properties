@@ -31,7 +31,7 @@ CC  derivative ectoine, and other as yet uncharacterized solutes. Some
 CC  bacteria, such as Bradyrhizobium japonicum, may contain over a dozen 
 CC  such transporters. 
 --
-SN  12TM
+SN  1
 ID  DctM-like 12-transmembrane helix protein
 DN  TRAP transporter, DctM subunit
 RQ  1
@@ -39,14 +39,14 @@ EV  IPR004681; TIGR00786; sufficient;
 EV  IPR010656; PF06808; sufficient;
 EV  IPR011853; TIGR02123; sufficient;
 --
-SN  4TM
+SN  2
 ID  DctQ-like 4-transmembrane helix protein
 DN  TRAP transporter, DctQ-like membrane protein
 RQ  1
 EV  IPR007387; PF04290; sufficient;
 EV  IPR011853; TIGR02123; sufficient;
 --
-SN  bindng
+SN  3
 ID  TRAP extracytoplasmic solute receptor (ESR)
 DN  TRAP transporter solute receptor, DctP family
 RQ  1
