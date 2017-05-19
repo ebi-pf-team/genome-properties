@@ -28,7 +28,7 @@ TG  GO:0006546;
 --
 SN  gcvL
 ID  Dihydrolipoamide dehydrogenase
-DN  Dihydrolipoamide dehydrogenase (EC 1.8.1.4)
+DN  Dihydrolipoamide dehydrogenase/L protein (EC 1.8.1.4)
 RQ  1
 EV  IPR006258; TIGR01350; sufficient;
 --
