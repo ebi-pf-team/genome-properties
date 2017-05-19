@@ -12,11 +12,13 @@ CC  sometimes expressed as a fusion protein.
 --
 SN  MsrA
 ID  Methionine-S-sulfoxide reductase
+DN  Methionine-S-sulfoxide reductase/MsrA
 RQ  1
 EV  IPR002569; TIGR00401; sufficient;
 --
 SN  MsrB
 ID  Methionine-R-sulfoxide reductase
+DN  Methionine-R-sulfoxide reductase/MsrB
 RQ  1
 EV  IPR002579; TIGR00357; sufficient;
 //
