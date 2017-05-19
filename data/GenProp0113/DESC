@@ -54,21 +54,21 @@ CC  which are as-of-yet uncharacterized.
 --
 SN  1
 ID  C-2, C-7 methylase (CobA)
-DN  Uroporphyrin-III C-methyltransferase (EC:2.1.1.107)
+DN  Uroporphyrin-III C-methyltransferase (EC 2.1.1.107)
 RQ  1
 EV  IPR006366; TIGR01469; sufficient;
 TG  GO:0019250;
 --
 SN  2
 ID  C-20 methylase (CobI)
-DN  Precorrin-2 C20-methyltransferase (EC:2.1.1.130)
+DN  Precorrin-2 C20-methyltransferase (EC 2.1.1.130)
 RQ  1
 EV  IPR006364; TIGR01467; sufficient;
 TG  GO:0019250;
 --
 SN  3
 ID  Precorrin 3B synthase (CobG/CobZ)
-DN  Precorrin-3B synthase (EC:1.14.13.83)
+DN  Precorrin-3B synthase (EC 1.14.13.83)
 RQ  1
 EV  IPR012798; TIGR02435; sufficient;
 TG  GO:0019250;
@@ -77,28 +77,28 @@ TG  GO:0019250;
 --
 SN  4
 ID  C-17 methylase (CobJ)
-DN  Precorrin-3B C17-methyltransferase (EC:2.1.1.131)
+DN  Precorrin-3B C17-methyltransferase (EC 2.1.1.131)
 RQ  1
 EV  IPR006363; TIGR01466; sufficient;
 TG  GO:0019250;
 --
 SN  5
 ID  C-11 methylase (CobM)
-DN  Precorrin-4 C11-methyltransferase (EC:2.1.1.133)
+DN  Precorrin-4 C11-methyltransferase (EC 2.1.1.133)
 RQ  1
 EV  IPR006362; TIGR01465; sufficient;
 TG  GO:0019250;
 --
 SN  6
 ID  C1 methylase (CobF)
-DN  Precorrin-6A synthase (deacetylating) (EC:2.1.1.152)
+DN  Precorrin-6A synthase (deacetylating) (EC 2.1.1.152)
 RQ  1
 EV  IPR012797; TIGR02434; sufficient;
 TG  GO:0019250;
 --
 SN  7
 ID  Precorrin 6 reductase (CobK)
-DN  Precorrin-6X reductase (EC:1.3.1.54)
+DN  Precorrin-6X reductase (EC 1.3.1.54)
 RQ  1
 EV  IPR003723; TIGR00715; sufficient;
 TG  GO:0019250;
@@ -107,42 +107,42 @@ TG  GO:0019250;
 --
 SN  8a
 ID  CbiE domain, C-5, C-15 methylase/C-12 decarboxylase (CobL)
-DN  Precorrin-6Y C5,15-methyltransferase (decarboxylating), CbiE subunit (EC:2.1.1.132)
+DN  Precorrin-6Y C5,15-methyltransferase (decarboxylating), CbiE subunit (EC 2.1.1.132)
 RQ  1
 EV  IPR012818; TIGR02467; sufficient;
 TG  GO:0019250;
 --
 SN  8b
 ID  CbiT domain, C-5, C-15 methylase/C-12 decarboxylase (CobL)
-DN  Precorrin-6Y C5,15-methyltransferase (decarboxylating), CbiT subunit (EC:2.1.1.132)
+DN  Precorrin-6Y C5,15-methyltransferase (decarboxylating), CbiT subunit (EC 2.1.1.132)
 RQ  1
 EV  IPR014008; TIGR02469; sufficient;
 TG  GO:0019250;
 --
 SN  9
 ID  C-11, C-12 mutase (CobH)
-DN  Precorrin-8X methylmutase (EC: 5.4.99.61)
+DN  Precorrin-8X methylmutase (EC 5.4.99.61)
 RQ  1
 EV  IPR003722; PF02570; sufficient;
 TG  GO:0019250;
 --
 SN  10
 ID  Hydrogencobyrinate diamide synthase (CobB)
-DN  Cobyrinic acid a,c-diamide synthase (EC:6.3.5.11)
+DN  Cobyrinic acid a,c-diamide synthase (EC 6.3.5.11)
 RQ  1
 EV  IPR004484; TIGR00379; sufficient;
 TG  GO:0019250;
 --
 SN  11a
 ID  Cobaltochelatase, CobN subunit
-DN  Cobaltochelatase CobN (EC:6.6.1.2)
+DN  Cobaltochelatase CobN (EC 6.6.1.2)
 RQ  1
 EV  IPR011953; TIGR02257; sufficient;
 TG  GO:0019250;
 --
 SN  11b
 ID  Cobaltochelatase, CobS subunit
-DN  Cobaltochelatase CobT (EC:6.6.1.2)
+DN  Cobaltochelatase CobT (EC 6.6.1.2)
 RQ  0
 EV  IPR006538; TIGR01651; sufficient;
 TG  GO:0019250;
@@ -170,6 +170,6 @@ TG  GO:0019250;
 --
 SN  13
 ID  Cobalt reductase (NOT BluB)
-DN  Cob(II)yrinic acid a,c-diamide reductase (EC:1.16.8.1)
+DN  Cob(II)yrinic acid a,c-diamide reductase (EC 1.16.8.1)
 RQ  1
 //
