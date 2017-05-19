@@ -105,70 +105,70 @@ TG  GO:0019250;
 EV  IPR003723; PF02571; sufficient;
 TG  GO:0019250;
 --
-SN  8a
+SN  8
 ID  CbiE domain, C-5, C-15 methylase/C-12 decarboxylase (CobL)
 DN  Precorrin-6Y C5,15-methyltransferase (decarboxylating), CbiE subunit (EC 2.1.1.132)
 RQ  1
 EV  IPR012818; TIGR02467; sufficient;
 TG  GO:0019250;
 --
-SN  8b
+SN  9
 ID  CbiT domain, C-5, C-15 methylase/C-12 decarboxylase (CobL)
 DN  Precorrin-6Y C5,15-methyltransferase (decarboxylating), CbiT subunit (EC 2.1.1.132)
 RQ  1
 EV  IPR014008; TIGR02469; sufficient;
 TG  GO:0019250;
 --
-SN  9
+SN  10
 ID  C-11, C-12 mutase (CobH)
 DN  Precorrin-8X methylmutase (EC 5.4.99.61)
 RQ  1
 EV  IPR003722; PF02570; sufficient;
 TG  GO:0019250;
 --
-SN  10
+SN  11
 ID  Hydrogencobyrinate diamide synthase (CobB)
 DN  Cobyrinic acid a,c-diamide synthase (EC 6.3.5.11)
 RQ  1
 EV  IPR004484; TIGR00379; sufficient;
 TG  GO:0019250;
 --
-SN  11a
+SN  12
 ID  Cobaltochelatase, CobN subunit
 DN  Cobaltochelatase CobN (EC 6.6.1.2)
 RQ  1
 EV  IPR011953; TIGR02257; sufficient;
 TG  GO:0019250;
 --
-SN  11b
+SN  13
 ID  Cobaltochelatase, CobS subunit
 DN  Cobaltochelatase CobT (EC 6.6.1.2)
 RQ  0
 EV  IPR006538; TIGR01651; sufficient;
 TG  GO:0019250;
 --
-SN  11bc?
+SN  14
 ID  Proposed CobX subunit of cobaltochelatase
 DN  Cobaltochelatase subunit (EC: 6.6.1.2)
 RQ  0
 EV  IPR012804; TIGR02442; sufficient;
 TG  GO:0019250;
 --
-SN  11c
+SN  15
 ID  Cobaltochelatase, CobT subunit
 DN  Cobaltochelatase CobS (EC:6.6.1.2)
 RQ  0
 EV  IPR006537; TIGR01650; sufficient;
 TG  GO:0019250;
 --
-SN  12
+SN  16
 ID  CobW cobaltochelatase-associated protein
 DN  Cobalamin biosynthesis protein CobW
 RQ  0
 EV  IPR012824; TIGR02475; sufficient;
 TG  GO:0019250;
 --
-SN  13
+SN  17
 ID  Cobalt reductase (NOT BluB)
 DN  Cob(II)yrinic acid a,c-diamide reductase (EC 1.16.8.1)
 RQ  1
