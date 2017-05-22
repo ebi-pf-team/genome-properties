@@ -14,12 +14,12 @@ CC  Nus, for N-utilization substance, reflects the phenomenology of
 CC  exploitation of N factors for phage lambda in Escherichia coli. Much of
 CC  the literature of these transcription termination/anti-termination
 CC  factors revolves around the interaction with the transcription
-CC  termination factor Rho, but factor Rho and cis-acting rho-utilization
+CC  termination factor Rho, but factor Rho and cis-acting Rho-utilization
 CC  sites are less well distributed than the N-factors, which are
 CC  essentially universal in bacteria. In species with Rho, Nus factors
 CC  improve transcriptase turnover speeds. Nus factors can block Rho
 CC  action, a process called anti-termination [1]. See GenProp0812 for
-CC  rho-dependent transcription termination.
+CC  Rho-dependent transcription termination.
 --
 SN  1
 ID  Transcription termination factor NusA
