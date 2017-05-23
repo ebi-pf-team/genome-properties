@@ -51,7 +51,7 @@ RQ  1
 EV  -; PTHR10454:SF191; sufficient;
 TG  GO:0070059;
 --
-SN  4
+SN  3
 ID  executor caspases
 RQ  1
 EV  GenProp2019;
