@@ -1,0 +1,73 @@
+AC  GenProp2027
+DE  CatSper complex
+TP  System
+AU  Rawlings ND
+TH  1
+RN  [1]
+RM  11595941
+RT  A sperm ion channel required for sperm motility and male fertility. 
+RA  Ren D; Navarro B; Perez G; Jackson AC; Hsu S; Shi Q; Tilly JL; 
+RA  Clapham DE ; 
+RL  Nature. 2001;413:603-609.
+RN  [2]
+RM  17174296
+RT  Contributions of extracellular and intracellular Ca2+ to regulation 
+RT  of sperm motility: Release of intracellular stores can hyperactivate 
+RT  CatSper1 and CatSper2 null sperm. 
+RA  Marquez B; Ignotz G; Suarez SS; 
+RL  Dev Biol. 2007;303:214-221.
+RN  [3]
+RM  17344468
+RT  Catsper3 and Catsper4 are essential for sperm hyperactivated  
+RT  motility and male fertility in the mouse. 
+RA  Jin J; Jin N; Zheng H; Ro S; Tafolla D; Sanders KM; Yan W; 
+RL  Biol Reprod. 2007;77:37-44.
+RN  [4]
+RM  28226241
+RT  CatSperepsilon regulates the structural continuity of sperm Ca2+  
+RT  signaling domains and is required for normal fertility. 
+RA  Chung JJ; Miki K; Kim D; Shim SH; Shi HF; Hwang JY; Cai X; Iseri Y; 
+RA  Zhuang X; Clapham DE; 
+RL  Elife. 2017;6:e23082.
+CC  The CatSper complex is a Voltage-gated calcium ion channel located 
+CC  in the sperm tail.  It is required for sperm hypermotility and 
+CC  fertility.  The complex is a  
+CC  heterotetramer the centre of which forms a pore for calcium ions. 
+CC  Two other subunits (delta and epsilon) are associated with this 
+CC  complex.
+**   
+--
+SN  1
+ID  Cation channel sperm-associated protein 1
+DN  Cation channel sperm-associated protein 1 
+RQ  1
+EV  IPR028746; PTHR10037:SF255; sufficient;
+TG  GO:0005248;
+--
+SN  2
+ID  Cation channel sperm-associated protein 2
+DN  Cation channel sperm-associated protein 2 
+RQ  1
+EV  IPR028747; PTHR10037:SF271; sufficient;
+TG  GO:0005248;
+--
+SN  3
+ID  Cation channel sperm-associated protein 3
+DN  Cation channel sperm-associated protein 3 
+RQ  1
+EV  -; PTHR10037:SF248; sufficient;
+TG  GO:0005248;
+--
+SN  4
+ID  Cation channel sperm-associated protein 4
+DN  Cation channel sperm-associated protein 4 
+RQ  1
+EV  IPR028744; PTHR10037:SF236; sufficient;
+TG  GO:0005248;
+--
+SN  5
+ID  Cation channel sperm-associated protein associated subunits
+DN  Cation channel sperm-associated protein associated subunits 
+RQ  0
+EV  IPR028751; PF15020; sufficient;
+//
