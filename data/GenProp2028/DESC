@@ -1,0 +1,38 @@
+AC  GenProp2028
+DE  GATOR1 complex
+TP  System
+AU  Rawlings ND
+TH  1
+RN  [1]
+RM  23723238 
+RT  A Tumor suppressor complex with GAP activity for the Rag GTPases 
+RT  that signal amino acid sufficiency to mTORC1. 
+RA  Bar-Peled L; Chantranupong L; Cherniack AD; Chen WW; Ottina KA; 
+RA  Grabiner BC; Spear ED; Carter SL; Meyerson M; Sabatini DM; 
+RL  Science. 2013;340:1100-1106.
+CC  The GATOR1 complex inhibits the amino acid-sensing branch of the 
+CC  TORC1 pathway by leading to the release of mTORC1 from the 
+CC  lysosomal surface.  
+**   
+--
+SN  1
+ID  GATOR complex protein DEPDC5
+DN  GATOR complex protein DEPDC5 
+RQ  1
+EV  IPR027244; PF12257; sufficient;
+TG  GO:0005096;
+--
+SN  2
+ID  GATOR complex protein NPRL2
+DN  GATOR complex protein NPRL2 
+RQ  1
+EV  IPR009348; PF06218; sufficient;
+TG  GO:0005096;
+--
+SN  3
+ID  GATOR complex protein NPRL3
+DN  GATOR complex protein NPRL3
+RQ  1
+EV  -; PF06218; sufficient;
+TG  GO:0005096;
+//
