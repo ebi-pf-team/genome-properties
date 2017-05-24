@@ -1,0 +1,59 @@
+AC  GenProp2031
+DE  Ragulator complex
+TP  System
+AU  Rawlings ND
+TH  1
+RN  [1]
+RM  20381137 
+RT  Ragulator-Rag complex targets mTORC1 to the lysosomal surface 
+RT  and is necessary for its activation by amino acids.  
+RA  Sancak Y; Bar-Peled L; Zoncu R; Markhard AL; Nada S;  
+RA  Sabatini DM; 
+RL  Cell. 2010;141:290-303.
+RN  [2]
+RM  22980980
+RT  Ragulator is a GEF for the rag GTPases that signal amino acid 
+RT  levels to mTORC1.   
+RA  Bar-Peled L; Schweitzer LD; Zoncu R; Sabatini DM;  
+RL  Cell. 2012;150:1196-1208.
+CC  The Ragulator complex is required for the activation of the 
+CC  mTORC1 sensor complex, which promotes protein synthesis when 
+CC  there is sufficient energy and amino acids.  Ragulator functions
+CC  as a guanine nucleotide exchange factor and activates the small 
+CC  GTPases Rag.
+--
+SN  1
+ID  Ragulator complex protein LAMTOR1
+DN  Ragulator complex protein LAMTOR1
+RQ  1
+EV  IPR026310; PTHR13401; sufficient;
+TG  GO:0051020;
+--
+SN  2
+ID  Ragulator complex protein LAMTOR2
+DN  Ragulator complex protein LAMTOR2 
+RQ  1
+EV  -; PTHR22850:SF163; sufficient;
+TG  GO:0032008;
+--
+SN  3
+ID  Ragulator complex protein LAMTOR3
+DN  Ragulator complex protein LAMTOR3
+RQ  1
+EV  IPR015019; PTHR13378; sufficient;
+TG  GO:0032008;
+--
+SN  4
+ID  Ragulator complex protein LAMTOR4
+DN  Ragulator complex protein LAMTOR4 
+RQ  1
+EV  IPR034601; PTHR33967; sufficient;
+TG  GO:0032008;
+--
+SN  5
+ID  Ragulator complex protein LAMTOR5
+DN  Ragulator complex protein LAMTOR5 
+RQ  1
+EV  IPR024135; PTHR13342; sufficient;
+TG  GO:0032008;
+//
