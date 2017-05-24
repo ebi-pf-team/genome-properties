@@ -1,0 +1,89 @@
+AC  GenProp2030
+DE  mTORC1 complex
+TP  System
+AU  Rawlings ND
+TH  1
+RN  [1]
+RM  12150925
+RT  mTOR interacts with raptor to form a nutrient-sensitive complex 
+RT  that signals to the cell growth machinery. 
+RA  Kim DH; Sarbassov DD; Ali SM; King JE; Latek RR; 
+RA  Erdjument-Bromage H; Tempst P; Sabatini DM; 
+RL  Cell. 2002;110:163-175.
+RN  [2]
+RM  18497260
+RT  The Rag GTPases bind raptor and mediate amino acid signaling to
+RT  mTORC1. 
+RA  Sancak Y; Peterson TR; Shaul YD; Lindquist RA; Thoreen CC;  
+RA  Bar-Peled L; Sabatini DM; 
+RL  Science. 2008;320:1496-1501.
+RN  [3]
+RM  12718876
+RT  GbetaL, a positive regulator of the rapamycin-sensitive pathway 
+RT  required for the nutrient-sensitive interaction between raptor  
+RT  and mTOR. 
+RA  Kim DH; Sarbassov DD; Ali SM; Latek RR; Guntur KV; 
+RA  Erdjument-Bromage H; Tempst P; Sabatini DM;  
+RL  Mol Cell. 2003;11:895-904.
+RN  [4]
+RM  17386266
+RT  PRAS40 is an insulin-regulated inhibitor of the mTORC1 protein 
+RT  kinase.
+RA  Sancak Y; Thoreen CC; Peterson TR; Lindquist RA; Kang SA;   
+RA  Spooner E; Carr SA; Sabatini DM;
+RL  Mol Cell. 2007;25:903-915.
+RN  [5]
+RM  19446321
+RT  DEPTOR is an mTOR inhibitor frequently overexpressed in 
+RT  multiple myeloma cells and required for their survival. 
+RA  Peterson TR; Laplante M; Thoreen CC; Sancak Y; Kang SA; 
+RA  Kuehl WM; Gray NS; Sabatini DM;  
+RL  Cell. 2009;137:873-886.
+CC  mTORC1 (mammalian target of rapamycin complex 1 or mechanistic 
+CC  target of rapamycin complex 1) is a nutrient sensor which  
+CC  controls protein synthesis by activating protein translation. 
+CC  Protein synthesis requires a supply of amino acids, an energy
+CC  source, oxygen abundance and the required growth factors.  When
+CC  these conditons are met, Rag GTPase heterodimers are activated, 
+CC  interact with Raptor and mTORC1 is localized to the lysosomal
+CC  membrane surface where it can interact with the G protein Rheb
+CC  and ATP.  The pathway is controlled by two complexes that
+CC  interact with the Rag GTPase, GATOR1 (inhibitor) and GATOR2
+CC  (activator).
+**  mTOR is a serine/threonine kinase that phosphorylates up to
+**  800 proteins and is also a component of the mTORC2 complex.
+--
+SN  1
+ID  Serine/threonine-protein kinase mTOR
+DN  Serine/threonine-protein kinase mTOR (EC:2.7.11.1)
+RQ  1
+EV  IPR026683; PTHR11139:SF85; sufficient;
+TG  GO:0004674;
+--
+SN  2
+ID  Regulatory-associated protein of mTOR
+DN  Regulatory-associated protein of mTOR 
+RQ  1
+EV  IPR004083; PTHR12848; sufficient;
+--
+SN  3
+ID  Target of rapamycin complex subunit LST8
+DN  Target of rapamycin complex subunit LST8 
+RQ  1
+EV  -; PTHR19842; sufficient;
+TG  GO:0032008;
+--
+SN  4
+ID  Proline-rich AKT1 substrate 1
+DN  Proline-rich AKT1 substrate 1 
+RQ  1
+EV  IPR026682; PF15798; sufficient;
+TG  GO:0032007;
+--
+SN  5
+ID  DEP domain-containing mTOR-interacting protein
+DN  DEP domain-containing mTOR-interacting protein 
+RQ  1
+EV  -; PTHR22829:SF21; sufficient;
+TG  GO:0032007;
+//
