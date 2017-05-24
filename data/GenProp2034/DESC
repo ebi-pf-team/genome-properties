@@ -1,0 +1,51 @@
+AC  GenProp2034
+DE  eIF4F complex
+TP  SYSTEM
+AU  Rawlings ND
+TH  1
+RN  [1]
+RM  9372926
+RT  Human eukaryotic translation initiation factor 4G (eIF4G) possesses 
+RT  two separate and independent binding sites for eIF4A.  
+RA  Imataka H; Sonenberg N; 
+RL  Mol Cell Biol. 1997;17:6940-6947.
+RN  [2]
+RM  19204291
+RT  Crystal structure of the eIF4A-PDCD4 complex. 
+RA  Chang JH; Cho YH; Sohn SY; Choi JM; Kim A; Kim YC; Jang SK; Cho Y; 
+RL  Proc Natl Acad Sci U S A. 2009;106:3148-3153.
+RN  [3]
+RM  16271312
+RT  Structural basis for mRNA Cap-Binding regulation of eukaryotic 
+RT  initiation factor 4E by 4E-binding protein, studied by spectroscopic, 
+RT  X-ray crystal structural, and molecular dynamics simulation methods.
+RA  Tomoo K; Matsushita Y; Fujisaki H; Abiko F; Shen X; Taniguchi T; Miyagawa H; Kitamura K; Miura K; Ishida T; 
+RL  Proc Natl Acad Sci U S A. 2009;106:3148-3153.
+CC  Eukaryote initiation factor 4F (eI4F) is a complex involved in 
+CC  protein translation.  It recognizes the mRNA cap, recruitment of mRNA 
+CC  to the ribosome and unwinds 5'-terminal secondary structure in an 
+CC  ATP-dependent manner. The composition of the complex varies with the
+CC  external and internal conditions.
+**  Only the essential components are listed.
+**  eIF4A is a complex of three components all in the same InterPro entry.
+--
+SN  1
+ID  Eukaryotic initiation factor 4A
+DN  Eukaryotic initiation factor 4A (EC:3.6.4.13)
+RQ  1
+EV  -; PTHR24031:SF379; sufficient;
+TG  GO:0004004;
+--
+SN  2
+ID  Eukaryotic translation initiation factor 4 gamma 1
+DN  Eukaryotic translation initiation factor 4 gamma 1 
+RQ  1
+EV  -; PTHR23253:SF37; sufficient;
+TG  GO:0008190;
+--
+SN  3
+ID  Eukaryotic translation initiation factor 4E
+DN  Eukaryotic translation initiation factor 4E
+RQ  1
+EV  IPR001040; PTHR11960; sufficient;
+//
