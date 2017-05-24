@@ -1,0 +1,77 @@
+AC  GenProp2033
+DE  mTORC1 activation
+TP  Metapath
+AU  Rawlings ND
+TH  1
+RN  [1]
+RM  12271141 
+RT  Tuberous sclerosis complex-1 and -2 gene products function 
+RT  together to inhibit mammalian target of rapamycin (mTOR)-mediated 
+RT  downstream signaling.  
+RA  Tee AR; Fingar DC; Manning BD; Kwiatkowski DJ; Cantley LC;  
+RA  Blenis J; 
+RL  Proc Natl Acad Sci U S A. 2002;99:13571-13576.
+RN  [2]
+RM  15340059 
+RT  Biochemical and functional characterizations of small GTPase Rheb  
+RT  and TSC2 GAP activity.  
+RA  Li Y; Inoki K; Guan KL;  
+RL  Mol Cell Biol. 2004;24:7965-7975.
+RN  [3]
+RM  12869586 
+RT  Rheb GTPase is a direct target of TSC2 GAP activity and regulates   
+RT  mTOR signaling. 
+RA  Inoki K; Li Y; Xu T; Guan KL;  
+RL  Genes Dev. 2003;17:1829-1834.
+CC  The mTORC1 complex is a sensor detecting energy levels and amino
+CC  acid abundance.  Once activated, the mTORC1 complex leads to 
+CC  protein synthesis.  Activation of mTORC1 occurs on the surface
+CC  of the lysosome membrane.
+**  TSC1 and TSC2 form an unnamed complex.
+--
+SN  1
+ID  Hamartin
+DN  Hamartin (TSC1)
+RQ  1
+EV  IPR007483; PTHR15154; sufficient;
+TG  GO:0051087;
+--
+SN  2
+ID  Tuberin
+DN  Tuberin (TSC2) 
+RQ  1
+EV  IPR003913; 	PTHR10063:SF8; sufficient;
+TG  GO:0005096;
+--
+SN  3
+ID  GTP-binding protein Rheb
+DN  GTP-binding protein Rheb 
+RQ  1
+EV  -; PTHR24070:SF332; sufficient;
+TG  GO:0005525;
+--
+SN  4
+ID  mTORC1 complex
+RQ  1
+EV  GenProp2030;
+--
+SN  5
+ID  Rag complex
+RQ  1
+EV  GenProp2032;
+--
+SN  6
+ID  GATOR1 complex
+RQ  1
+EV  GenProp2028;
+--
+SN  7
+ID  GATOR2 complex
+RQ  1
+EV  GenProp2029;
+--
+SN  8
+ID  Ragulator complex
+RQ  1
+EV  GenProp2031;
+//
