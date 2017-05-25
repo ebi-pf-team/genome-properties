@@ -1,5 +1,5 @@
 AC  GenProp2011
-DE  eukaryote 20S proteasome
+DE  Eukaryote 20S proteasome
 TP  SYSTEM
 AU  Rawlings ND
 TH  2
@@ -56,7 +56,7 @@ CC  homoheptamer of a single alpha or beta subunit.
 **  GO:0043161 has been applied to all subunits, even the iactive ones.
 --
 SN  1
-ID  proteasome subunit alpha type-1
+ID  Proteasome subunit alpha type-1
 DN  Proteasome subunit alpha type-1 
 RQ  1
 EV  IPR035144; cd03749; sufficient;
