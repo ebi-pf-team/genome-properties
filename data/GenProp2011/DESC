@@ -59,7 +59,7 @@ SN  1
 ID  proteasome subunit alpha type-1
 DN  Proteasome subunit alpha type-1 
 RQ  1
-EV  IPR035144; PTHR11599:SF93; sufficient;
+EV  IPR035144; cd03749; sufficient;
 TG  GO:0000502;
 --
 SN  2
