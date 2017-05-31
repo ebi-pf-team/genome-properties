@@ -1,5 +1,5 @@
 AC  GenProp2004
-DE  blood coagulation common pathway
+DE  Blood coagulation common pathway
 TP  METAPATH
 AU  Rawlings ND
 TH  3
@@ -34,15 +34,15 @@ CC  pathway is initiated by the release of tissue factor.
 **  pathway (determined in the horseshoe crab).
 --
 SN  1
-ID  coagulation factor Xa
-DN  coagulation factor X (EC:3.4.21.21)
+ID  Coagulation factor Xa
+DN  Coagulation factor X (EC:3.4.21.21)
 RQ  1
 EV  IPR012224; PIRSF001143; sufficient;
 TG  GO:0007596;
 --
 SN  2
-ID  thrombin
-DN  thrombin (EC:3.4.21.21)
+ID  Thrombin
+DN  Thrombin (EC:3.4.21.21)
 RQ  1
 EV  IPR003966; PTHR24254:SF13; sufficient;
 TG  GO:0007596;
@@ -54,8 +54,8 @@ EV  GenProp2001;
 TG  GO:0005577;
 --
 SN  4
-ID  coagulation factor XIII
-DN  coagulation factor XIII A chain (EC:2.3.2.13)
+ID  Coagulation factor XIII
+DN  Coagulation factor XIII A chain (EC:2.3.2.13)
 RQ  1
 EV  -; PTHR11590:SF62; sufficient; 
 TG  GO:0003810;
