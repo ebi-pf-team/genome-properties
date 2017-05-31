@@ -1,5 +1,5 @@
 AC  GenProp2001
-DE  blood coagulation extrinsic pathway
+DE  Blood coagulation extrinsic pathway
 TP  METAPATH
 AU  Rawlings ND
 TH  3
@@ -27,21 +27,21 @@ CC  pathway is initiated by the release of tissue factor.
 **  pathway (determined in the horseshoe crab).
 --
 SN  1
-ID  tissue factor
-DN  tissue factor
+ID  Tissue factor
+DN  Tissue factor
 RQ  1
 EV  IPR001187; PTHR20859:SF72; sufficient;
 TG  GO:0007596;
 --
 SN  2
-ID  coagulation factor VIIa
-DN  coagulation factor VII (EC:3.4.21.21)
+ID  Coagulation factor VIIa
+DN  Coagulation factor VII (EC:3.4.21.21)
 RQ  1
 EV  IPR033190; PTHR24256:SF375; sufficient;
 TG  GO:0007596;
 --
 SN  3
-ID  blood coagulation, common pathway
+ID  Blood coagulation, common pathway
 RQ  1
 EV  GenProp2004;
 TG  GO:0007596;
