@@ -145,7 +145,7 @@ TG  GO:0000502;
 SN  12
 ID  Proteasome subunit beta type-5
 DN  Proteasome subunit beta type-5 (EC 3.4.25.1)
-RQ  1
+RQ  0
 EV  -; PTHR11599:SF92; sufficient;
 TG  GO:0000502;
 TG  GO:0043161;
