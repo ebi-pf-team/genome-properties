@@ -34,15 +34,15 @@ CC  pathway is initiated by the release of tissue factor.
 **  pathway (determined in the horseshoe crab).
 --
 SN  1
-ID  Coagulation factor X
-DN  Coagulation factor X (EC:3.4.21.6)
+ID  Coagulation factor X/Xa
+DN  Coagulation factor X/Xa (EC:3.4.21.6)
 RQ  1
 EV  IPR035627; PTHR24256:SF278; sufficient;
 TG  GO:0007596;
 --
 SN  2
-ID  Thrombin
-DN  Thrombin (EC:3.4.21.21)
+ID  Prothrombin/Thrombin
+DN  Prothrombin/Thrombin (EC:3.4.21.5)
 RQ  1
 EV  IPR003966; PTHR24254:SF13; sufficient;
 TG  GO:0007596;
@@ -54,7 +54,7 @@ EV  GenProp2001;
 TG  GO:0005577;
 --
 SN  4
-ID  Coagulation factor XIII
+ID  Coagulation factor XIII A chain
 DN  Coagulation factor XIII A chain (EC:2.3.2.13)
 RQ  1
 EV  -; PTHR11590:SF62; sufficient; 
