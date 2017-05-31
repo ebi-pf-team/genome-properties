@@ -59,6 +59,6 @@ SN  4
 ID  Coagulation factor XIII A chain
 DN  Coagulation factor XIII A chain (EC:2.3.2.13)
 RQ  1
-EV  -; PTHR11590:SF62; sufficient; 
+EV  IPR034810; PTHR11590:SF62; sufficient; 
 TG  GO:0003810;
 //
