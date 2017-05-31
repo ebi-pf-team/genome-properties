@@ -52,7 +52,7 @@ TG  GO:0007596;
 SN  3
 ID  Fibrinogen
 RQ  1
-EV  GenProp2001;
+EV  GenProp2002;
 TG  GO:0005577;
 --
 SN  4
