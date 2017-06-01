@@ -48,7 +48,7 @@ CC  regulatory subunits 5, 9, 10 and 11 are required for proteasome assembly.
 CC  The 19S complex consists of a base, containing the six AAA-ATPases and
 CC  three non-ATPase regulatory subunits, and a lid containing all the
 CC  remaining non-ATPase regulatory subunits.
-CC  The functions of the 19S cap is to remove ubiquitin from targeted 
+CC  The functions of the 19S cap are to remove ubiquitin from targeted 
 CC  proteins, and to denature proteins prior to entry into the central 
 CC  cavity of the proteasome.
 **  The subunits contained in this GenProp are those that occur in the
