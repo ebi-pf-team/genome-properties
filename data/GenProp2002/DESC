@@ -3,12 +3,12 @@ DE  Fibrinogen
 TP  PATHWAY
 AU  Rawlings ND
 TH  1
-RN  [1]
-RM  15629911
-RT  Resolution of spontaneous bleeding events but failure of pregnancy in 
+N   [1]
+RM  7649481
+RT  Resolution of spontaneous bleeding events but failure of pregnancy in
 RT  fibrinogen-deficient mice.
-RA  Suh TT; Holmback K; Jensen NJ; Daugherty CC; Small K; Simon DI; 
-RA  Potter S; Degen JL;
+RA  Suh TT, Holmback K, Jensen NJ, Daugherty CC, Small K, Simon DI,
+RA  Potter S, Degen JL;
 RL  Genes Dev. 1995;9:2020-2033.
 DC  Complement and coagulation cascades
 DR  KEGG; map04610;
