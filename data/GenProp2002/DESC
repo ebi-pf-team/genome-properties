@@ -14,7 +14,7 @@ DC  Complement and coagulation cascades
 DR  KEGG; map04610;
 CC  Fibrinogen is the precursor of fibrin.  During hemostasis, thrombin  
 CC  activates fibrin which then cross-links to form an insoluble matrix.
-CC  Three subunits, alpha, beta and gamma, form fibrinogen.  Thrombin
+CC  Three subunits, alpha, beta and gamma, form fibrinogen[1].  Thrombin
 CC  releases fibrinopeptides A and B from the N-termini of the alpha and
 CC  beta chains respectively.  Factor XIII is an transglutaminase which 
 CC  catalyses formation of isopeptide bonds between subunits via the  
