@@ -27,22 +27,22 @@ CC  pathway is initiated by the activation of factor XII.
 **  pathway (determined in the horseshoe crab).
 --
 SN  1
-ID  coagulation factor XIIa
-DN  coagulation factor XII (EC:3.4.21.38)
+ID  Coagulation factor XIIa
+DN  Coagulation factor XII (EC:3.4.21.38)
 RQ  1
 EV  -; PTHR24256:SF424; sufficient;
 TG  GO:0007596;
 --
 SN  2
-ID  coagulation factor XIa
-DN  coagulation factor XI (EC:3.4.21.27)
+ID  Coagulation factor XIa
+DN  Coagulation factor XI (EC:3.4.21.27)
 RQ  1
 EV  -; PTHR24256:SF402; sufficient;
 TG  GO:0007596;
 --
 SN  3
-ID  coagulation factor IXa
-DN  coagulation factor IX (EC:3.4.21.224)
+ID  Coagulation factor IXa
+DN  Coagulation factor IX (EC:3.4.21.224)
 RQ  1
 EV  -; PTHR24256:SF397; sufficient;
 TG  GO:0007596;
@@ -55,14 +55,14 @@ EV  IPR012011; PTHR11339:SF319; sufficient;
 TG  GO:0007596;
 --
 SN  5
-ID  coagulation factor VIII
-DN  coagulation factor VIII
+ID  Coagulation factor VIII
+DN  Coagulation factor VIII
 RQ  1
 EV  IPR014707; PTHR10127:SF725; sufficient;
 TG  GO:0007596;
 --
 SN  6
-ID  blood coagulation, common pathway
+ID  Blood coagulation, common pathway
 RQ  1
 EV  GenProp2004;
 TG  GO:0007596;
