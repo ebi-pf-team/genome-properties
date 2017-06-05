@@ -17,19 +17,19 @@ CC  possibly all Firmicutes, GatABC acts on Glu-tRNA(Gln) only. Note that
 CC  the amidotransferase reaction is a mechanism not only to charge a tRNA
 CC  with Asn or Gln, but to complete the synthesis of that amino acid.
 --
-SN  gatA
+SN  1
 ID  Glutamyl-tRNA(Gln) amidotransferase, A subunit
 DN  Aspartyl-tRNA(Asn)/glutamyl-tRNA (Gln) amidotransferase subunit A (EC 6.3.5.6/EC 6.3.5.7)
 RQ  1
 EV  IPR004412; TIGR00132; sufficient;
 --
-SN  gatB
+SN  2
 ID  Glutamyl-tRNA(Gln) amidotransferase, B subunit
 DN  Aspartyl-tRNA(Asn)/glutamyl-tRNA (Gln) amidotransferase subunit B (EC 6.3.5.6/EC 6.3.5.7)
 RQ  1
 EV  IPR004413; TIGR00133; sufficient;
 --
-SN  gatC
+SN  3
 ID  Glutamyl-tRNA(Gln) amidotransferase, C subunit
 DN  Aspartyl-tRNA(Asn)/glutamyl-tRNA (Gln) amidotransferase subunit C (EC 6.3.5.6/EC 6.3.5.7)
 RQ  1
