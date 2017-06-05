@@ -19,20 +19,20 @@ CC  with Asn or Gln, but to complete the synthesis of that amino acid.
 --
 SN  gatA
 ID  Glutamyl-tRNA(Gln) amidotransferase, A subunit
-DN  Aspartyl-tRNA(Asn)/glutamyl-tRNA (Gln) amidotransferase subunit A (EC:6.3.5.6 6.3.5.7)
+DN  Aspartyl-tRNA(Asn)/glutamyl-tRNA (Gln) amidotransferase subunit A (EC 6.3.5.6/EC 6.3.5.7)
 RQ  1
 EV  IPR004412; TIGR00132; sufficient;
 --
 SN  gatB
 ID  Glutamyl-tRNA(Gln) amidotransferase, B subunit
-DN  Aspartyl-tRNA(Asn)/glutamyl-tRNA (Gln) amidotransferase subunit B (EC:6.3.5.6 6.3.5.7)
+DN  Aspartyl-tRNA(Asn)/glutamyl-tRNA (Gln) amidotransferase subunit B (EC 6.3.5.6/EC 6.3.5.7)
 RQ  1
 EV  IPR004413; TIGR00133; sufficient;
 EV  IPRXXXX; PF01162; sufficient;
 --
 SN  gatC
 ID  Glutamyl-tRNA(Gln) amidotransferase, C subunit
-DN  Aspartyl-tRNA(Asn)/glutamyl-tRNA (Gln) amidotransferase subunit C (EC:6.3.5.6 6.3.5.7)
+DN  Aspartyl-tRNA(Asn)/glutamyl-tRNA (Gln) amidotransferase subunit C (EC 6.3.5.6/EC 6.3.5.7)
 RQ  1
 EV  IPR003837; TIGR00135; sufficient;
 EV  IPR003837; PF02686; sufficient;
