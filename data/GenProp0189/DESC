@@ -4,21 +4,21 @@ TP  PATHWAY
 AU  Haft DH
 TH  0
 CC  The tRNA for Gln is produced, in different species, in two different
-CC  ways. In some bacteria (including E. coli), and in the eukaryotic
+CC  ways. In some bacteria (including E. coli) and in the eukaryotic
 CC  cytosol, the tRNA for glutamine is charged with glutamine. In the
-CC  majority of sequenced prokaryotes, however, tRNA(gln) initially is
+CC  majority of sequenced prokaryotes however, tRNA(gln) initially is
 CC  mischarged with glutamate (Glu). Glu is subsequently amidated to Gln
 CC  while on the tRNA(gln), as by GatABC in Bacillus subtilis, resulting in
 CC  Gln biosynthesis from Glu as well as tRNA aminoacylation. This property
 CC  describes the pathway of direct Gln--tRNA ligase activity, performed by
-CC  a single protein, glutaminyl-tRNA synthetase (TIGR00440).
+CC  a single protein, glutaminyl-tRNA synthetase.
 **  Different Gat systems in bacteria and archaea - I think the archaeal
 **  gatABC homologs in archaea are Asn instead of Gln, and a GatDE system
 **  operates (so gatABC) 
 --
-SN  glnS
+SN  1
 ID  Glutaminyl-tRNA synthetase
-DN  Glutamine-tRNA ligase (EC:6.1.1.18)
+DN  Glutamine-tRNA ligase (EC 6.1.1.18)
 RQ  1
 EV  IPR004514; TIGR00440; sufficient;
 TG  GO:0006425;
