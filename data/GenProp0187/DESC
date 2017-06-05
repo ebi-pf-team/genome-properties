@@ -20,45 +20,45 @@ CC  pyrimidine nucleotide from which other pyrimidines are made.  The few
 CC  species lacking pyrimidine de novo biosynthesis include some members of
 CC  the Chlamydiae, Mycoplasmatales, Rickettsiales, and Spirochaetes.
 --
-SN  PRPPsyn
+SN  1
 ID  Ribose-phosphate pyrophosphokinase
-DN  Ribose-phosphate pyrophosphokinase
+DN  Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
 RQ  1
 EV  IPR005946; TIGR01251; sufficient;
 TG  GO:0006222;
 --
-SN  carA
+SN  2
 ID  Carbamoyl-phosphate synthase, small subunit
-DN  Carbamoyl-phosphate synthase, small subunit
+DN  Carbamoyl-phosphate synthase, small subunit (EC 6.3.5.5)
 RQ  1
 EV  IPR006274; TIGR01368; sufficient;
 TG  GO:0006222;
 --
-SN  carB
+SN  3
 ID  Carbamoyl-phosphate synthase, large subunit
-DN  Carbamoyl-phosphate synthase, large subunit
+DN  Carbamoyl-phosphate synthase, large subunit (EC 6.3.5.5)
 RQ  1
 EV  IPR006275; TIGR01369; sufficient;
 TG  GO:0006222;
 --
-SN  pyrB
+SN  4
 ID  Aspartate carbamoyltransferase
-DN  Aspartate carbamoyltransferase
+DN  Aspartate carbamoyltransferase (EC 2.1.3.2)
 RQ  1
 EV  IPR002082; TIGR00670; sufficient;
 TG  GO:0006222;
 --
-SN  pyrC
+SN  5
 ID  Dihydroorotase
-DN  Dihydroorotase
+DN  Dihydroorotase (EC 3.5.2.3)
 RQ  1
 EV  IPR004721; TIGR00856; sufficient;
 TG  GO:0006222;
 EV  IPR004722; TIGR00857; sufficient;
 --
-SN  pyrD
+SN  6
 ID  Dihydroorotate dehydrogenase
-DN  Dihydroorotate dehydrogenase
+DN  Dihydroorotate dehydrogenase/quinone (EC 1.3.5.2)
 RQ  1
 EV  IPR005719; TIGR01036; sufficient;
 TG  GO:0006222;
@@ -67,25 +67,25 @@ TG  GO:0006222;
 EV  IPR005720; PF01180; sufficient;
 TG  GO:0006222;
 --
-SN  pyrE
+SN  7
 ID  Orotate phosphoribosyltransferase
-DN  Orotate phosphoribosyltransferase
+DN  Orotate phosphoribosyltransferase (EC 2.4.2.10)
 RQ  1
 EV  IPR004467; TIGR00336; sufficient;
 TG  GO:0006222;
 EV  IPR006273; TIGR01367; sufficient;
 TG  GO:0006222;
 --
-SN  pyrF
+SN  8
 ID  Orotidine 5'-phosphate decarboxylase
-DN  Orotidine 5'-phosphate decarboxylase
+DN  Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
 RQ  1
 EV  IPR014732; TIGR01740; sufficient;
 TG  GO:0006222;
 EV  IPR011995; TIGR02127; sufficient;
 TG  GO:0006222;
 --
-SN  pyrI
+SN  9
 ID  Aspartate carbamoyltransferase, regulatory subunit
 DN  Aspartate carbamoyltransferase, regulatory subunit
 RQ  0
