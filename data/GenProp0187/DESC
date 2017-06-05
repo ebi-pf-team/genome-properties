@@ -7,10 +7,12 @@ DC  Pyrimidine Biosynthesis
 DR  IUBMB; misc; pyrimid;
 DC  Pyrimidine metabolism
 DR  KEGG; map00240;
-CC  De novo pyrimidine biosynthesis procedes from CO2 (bicarbonate), an NH2
-CC  group from glutamine or free ammonia, and aspartate. A ring compound,
-CC  N-carbomoyl-L-aspartate is formed, then converted in two more steps
-CC  into orotate. The ribose moiety is then added from
+CC  De novo pyrimidine biosynthesis procedes from HCO3 (bicarbonate), an NH2
+CC  group from glutamine or free ammonia, and aspartate. Firstly, 
+CC  carbamoyl-phosphate synthase produces carbamoyl phosphate, which is then 
+CC  condensed with L-aspartate to produce a ring compound,
+CC  N-carbomoyl-L-aspartate, which is converted in two more steps into orotate. 
+CC  The ribose moiety is then added from 
 CC  alpha-D-5-P-ribosylpyrophosphate (PRPP), which is also a precursor of
 CC  purines, histidine, and tryptophan. The resulting orotidine
 CC  monophosphate is decarboxylated to uridine monophosphate (UMP), a
