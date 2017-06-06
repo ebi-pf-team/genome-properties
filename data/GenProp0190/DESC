@@ -9,10 +9,10 @@ RT  Characterization of PitA and PitB from Escherichia coli.
 RA  Harris RM, Webb DC, Howitt SM, Cox GB;
 RL  J Bacteriol. 2001;183:5008-5014.
 CC  This property represents an ABC-type transporter for inorganic
-CC  phosphate, P(i), consisting of genes related to the pstSCAB genes in
+CC  phosphate P(i), consisting of genes related to the pstSCAB genes in
 CC  Escherichia coli. In E. coli,  pstSCAB represents a high-affinity
 CC  transporter and is induced by low external P(i) concentrations; a
-CC  constitutive, low affinity transporter PitA, also is found[1]. 
+CC  constitutive, low affinity transporter PitA, is also found[1]. 
 CC  Included in this property is PhoU, a regulatory protein of unknown 
 CC  mechanism, generally found adjacent to the pstSCAB genes.
 **  Note some variation in PstA and PstC between species, e.g. long
