@@ -19,21 +19,21 @@ CC  mechanism, generally found adjacent to the pstSCAB genes.
 **  hydrophilic inserts. PstS (binding protein) is split into separate
 **  families. Some info above from PMID: 11489853. DHH.
 --
-SN  phoB
+SN  1
 ID  Regulatory protein PhoB
 DN  Phosphate regulon transcriptional regulatory protein phoB
 RQ  0
 EV  IPR011879; TIGR02154; sufficient;
 TG  GO:0051049;
 --
-SN  phoR
+SN  2
 ID  Regulatory protein PhoR
 DN  Phosphate regulon sensor protein phoR (EC 2.7.13.3)
 RQ  0
 EV  IPR014310; TIGR02966; sufficient;
 TG  GO:0006817;
 --
-SN  phoU
+SN  3
 ID  Regulatory protein PhoU
 DN  Phosphate transport system regulatory protein PhoU
 RQ  0
@@ -42,28 +42,28 @@ TG  GO:0051049;
 EV  IPR028366; TIGR02135; sufficient;
 TG  GO:0051049;
 --
-SN  pstA
+SN  4
 ID  Permease pstA
 DN  Phosphate ABC transporter, permease protein PtsA
 RQ  1
 EV  IPR005672; TIGR00974; sufficient;
 TG  GO:0006817;
 --
-SN  pstB
+SN  5
 ID  Phosphate transporter, ATP-binding protein PstB
 DN  Phosphate ABC transporter, ATP-binding protein pstB (EC 3.6.3.27)
 RQ  1
 EV  IPR005670; TIGR00972; sufficient;
 TG  GO:0006817;
 --
-SN  pstC
+SN  6
 ID  Permease pstC
 DN  Phosphate ABC transporter, permease protein PstC
 RQ  1
 EV  IPR011864; TIGR02138; sufficient;
 TG  GO:0006817;
 --
-SN  pstS
+SN  7
 ID  Periplasmic protein
 DN  NOT APPLICABLE
 RQ  1
