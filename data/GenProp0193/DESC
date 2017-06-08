@@ -10,6 +10,10 @@ RT  amino adipate pathway: a key to the evolution of amino acid
 RT  biosynthesis.
 RA  Nishida H, Nishiyama M, Kobashi N, Kosuge T, Hoshino T, Yamane H;
 RL  Genome Res. 1999;9:1175-1183.
+DC  L-lysine biosynthesis V
+DR  MetaCyc; PWY-3081;
+DC  Lysine biosynthesis
+DR  KEGG; map00300;
 CC  Lysine biosynthesis in fungi has been characterized and begins with the
 CC  condensation of 2-oxoglutarate and acetyl-CoA to homocitrate and
 CC  continues through the distinctive intermediate, alpha-aminoadipate. 
