@@ -23,52 +23,58 @@ SN  LysS
 ID  Homocitrate synthase
 DN  Homocitrate synthase (EC 2.3.3.14)
 RQ  1
-EV  IPR005675; TIGR00977; sufficient;
 EV  IPR011830; TIGR02090; sufficient;
 EV  IPR011872; TIGR02146; sufficient;
 --
 SN  LysT
 ID  Homoaconitate hydratase, LysT subunit
+DN  Homoaconitase/3-isopropylmalate dehydratase, large subunit/LeuC (EC 4.2.1.33)
 RQ  1
 EV  IPR011823; TIGR02083; sufficient;
 EV  IPR006251; TIGR01343; sufficient;
 --
 SN  LysU
 ID  Homoaconitate hydratase, LysU subunit
+DN  3-isopropylmalate dehydratase small subunit/LeuD (EC 4.2.1.33)
 RQ  1
 EV  IPR011827; TIGR02087; sufficient;
 --
 SN  Lys?
 ID  Homocitrate dehydrogenase
+DN  Homoisocitrate dehydrogenase
 RQ  0
 --
 SN  
 ID  kynurenine/2-aminoadipate aminotransferase
-RQ  
-EV  
+RQ  0
 --
 SN  LysX
 ID  Alpha-aminoadipate acylase (proposed)
+DN  Lysine biosynthesis enzyme LysX (EC 6.3.2.-)
 RQ  1
 EV  IPR011870; TIGR02144; sufficient;
 --
 SN  LysZ
 ID  Epsilon-carboxykinase (proposed)
+DN  Acetylglutamate kinase/LysZ
 RQ  1
 EV  IPR004662; TIGR00761; sufficient;
 --
 SN  LysY
 ID  Epsilon-dehydrogenase (proposed)
+DN  LysW-L-glutamate phosphate reductase/LysY
 RQ  1
 EV  IPR000706; TIGR01850; sufficient;
 --
 SN  LysJ
 ID  Aminotransferase
+DN  Acetylornithine/Succinylornithine transaminase/LysJ
 RQ  1
 EV  IPR004636; TIGR00707; sufficient;
 --
 SN  LysK
 ID  Acylase
+DN  [LysW]-lysine/[LysW]-ornithine hydrolase/LysK (EC 3.5.1.-)
 RQ  1
 EV  IPR010175; TIGR01902; sufficient;
 //
