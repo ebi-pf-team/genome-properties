@@ -38,7 +38,7 @@ TG  GO:0033361;
 --
 SN  DAPDC
 ID  Diaminopimelate decarboxylase
-DN  Diaminopimelate decarboxylase (EC 4.1.1.20)
+DN  Diaminopimelate decarboxylase/LysA (EC 4.1.1.20)
 RQ  1
 EV  IPR002986; TIGR01048;
 TG  GO:0033361;
@@ -52,14 +52,14 @@ TG  GO:0033361;
 --
 SN  DHPS
 ID  Dihydrodipicolinate synthase
-DN  Dihydrodipicolinate synthase (EC 4.3.3.7)
+DN  4-hydroxy-tetrahydrodipicolinate synthase/DapA (EC 4.3.3.7)
 RQ  1
 EV  IPR005263; TIGR00674;
 TG  GO:0033361;
 --
 SN  ddh
 ID  Diaminopimelate dehydrogenase
-DN  Diaminopimelate dehydrogenase (EC 1.4.1.16)
+DN  Diaminopimelate dehydrogenase/Ddh (EC 1.4.1.16)
 RQ  1
 EV  IPR010190; TIGR01921;
 TG  GO:0033361;
