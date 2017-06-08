@@ -36,21 +36,21 @@ CC  RuvC is replaced by RecU in firmicutes and mollicutes.
 **  PMID:11972790.  See Koonin PMID:10982859 2000  to see how his RuvC
 **  alternative compares to my RuvC alternative.
 --
-SN  ruvA
+SN  1
 ID  RuvA subunit, Holliday junction DNA helicase
 DN  Holliday junction DNA helicase RuvA
 RQ  1
 EV  IPR000085; TIGR00084; sufficient;
 TG  GO:0006310;
 --
-SN  ruvB
+SN  2
 ID  RuvB subunit, Holliday junction DNA helicase
 DN  Holliday junction DNA helicase RuvB
 RQ  1
 EV  IPR004605; TIGR00635; sufficient;
 TG  GO:0006310;
 --
-SN  ruvC
+SN  3
 ID  RuvC (or RecU) resolvase
 DN  Crossover junction endodeoxyribonuclease RuvC
 RQ  1
