@@ -19,20 +19,6 @@ CC  alpha-aminoadipate pathway closely related to the fungal version has
 CC  been characterized in Thermus thermophilus [1] and appears to be widely
 CC  distributed among the archaea.
 --
-SN  Lys?
-ID  Homocitrate dehydrogenase
-RQ  0
---
-SN  LysJ
-ID  Aminotransferase
-RQ  1
-EV  IPR004636; TIGR00707; sufficient;
---
-SN  LysK
-ID  Acylase
-RQ  1
-EV  IPR010175; TIGR01902; sufficient;
---
 SN  LysS
 ID  Homocitrate synthase
 DN  Homocitrate synthase (EC 2.3.3.14)
@@ -52,18 +38,37 @@ ID  Homoaconitate hydratase, LysU subunit
 RQ  1
 EV  IPR011827; TIGR02087; sufficient;
 --
+SN  Lys?
+ID  Homocitrate dehydrogenase
+RQ  0
+--
+SN  
+ID  kynurenine/2-aminoadipate aminotransferase
+RQ  
+EV  
+--
 SN  LysX
 ID  Alpha-aminoadipate acylase (proposed)
 RQ  1
 EV  IPR011870; TIGR02144; sufficient;
+--
+SN  LysZ
+ID  Epsilon-carboxykinase (proposed)
+RQ  1
+EV  IPR004662; TIGR00761; sufficient;
 --
 SN  LysY
 ID  Epsilon-dehydrogenase (proposed)
 RQ  1
 EV  IPR000706; TIGR01850; sufficient;
 --
-SN  LysZ
-ID  Epsilon-carboxykinase (proposed)
+SN  LysJ
+ID  Aminotransferase
 RQ  1
-EV  IPR004662; TIGR00761; sufficient;
+EV  IPR004636; TIGR00707; sufficient;
+--
+SN  LysK
+ID  Acylase
+RQ  1
+EV  IPR010175; TIGR01902; sufficient;
 //
