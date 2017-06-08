@@ -30,34 +30,34 @@ CC  which the acyltransferases of the common pathway act.
 **  the other pieces must be manually toggled to some evidence with the
 **  curators assignby.
 --
-SN  Asp-SA
+SN  1
 ID  Source of aspartate-semialdehyde
 RQ  1
 EV  GenProp0160;
 TG  GO:0033361;
 --
-SN  DAPDC
+SN  2
 ID  Diaminopimelate decarboxylase
 DN  Diaminopimelate decarboxylase/LysA (EC 4.1.1.20)
 RQ  1
 EV  IPR002986; TIGR01048;
 TG  GO:0033361;
 --
-SN  DHPR
+SN  3
 ID  Dihydrodipicolinate reductase
 DN  Dihydrodipicolinate reductase (EC 1.17.1.8)
 RQ  1
 EV  IPR023940; TIGR00036;
 TG  GO:0033361;
 --
-SN  DHPS
+SN  4
 ID  Dihydrodipicolinate synthase
 DN  4-hydroxy-tetrahydrodipicolinate synthase/DapA (EC 4.3.3.7)
 RQ  1
 EV  IPR005263; TIGR00674;
 TG  GO:0033361;
 --
-SN  ddh
+SN  5
 ID  Diaminopimelate dehydrogenase
 DN  Diaminopimelate dehydrogenase/Ddh (EC 1.4.1.16)
 RQ  1
