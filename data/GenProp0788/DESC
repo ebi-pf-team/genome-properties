@@ -20,7 +20,7 @@ CC  power in the form of NADPH. Additionally, this pathway does not require
 CC  the acetyl/succinyl protecting group transformations found in the
 CC  standard pathway, nor does it require the action of diaminopimelate
 CC  epimerase. This enzyme has been best characterized in Corynebacterium
-CC  glutamicum and Bacillus sphaericus.    One should note that the ddh
+CC  glutamicum and Bacillus sphaericus. One should note that the ddh
 CC  enzyme is shown acting on the compound L-2-amino-6-oxoheptanedioate in
 CC  EC and KEGG representations. This is merely the ring-opened form of
 CC  2,3,4,5-tetrahydropicolinate with which it is in equilibrium, and upon
