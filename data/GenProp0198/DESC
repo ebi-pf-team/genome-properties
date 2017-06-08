@@ -21,6 +21,8 @@ RT  The X philes: structure-specific endonucleases that resolve Holliday
 RT  junctions.
 RA  Sharples GJ;
 RL  Mol Microbiol. 2001;39:823-834.
+DC  Resolvasome
+DR  MetaCyc; RUVABC-CPLX;
 CC  RuvA, RuvB and RuvC proteins together act on Holliday junctions for
 CC  homologous recombination and DNA repair. RuvAB is the branch migration
 CC  complex and RuvC the resolvase [1]. The system is strictly bacterial;
