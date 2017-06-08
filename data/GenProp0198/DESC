@@ -23,13 +23,13 @@ RA  Sharples GJ;
 RL  Mol Microbiol. 2001;39:823-834.
 CC  RuvA, RuvB and RuvC proteins together act on Holliday junctions for
 CC  homologous recombination and DNA repair. RuvAB is the branch migration
-CC  complex and RuvC the resolvase. The system is strictly bacterial;
+CC  complex and RuvC the resolvase [1]. The system is strictly bacterial;
 CC  proteins with little or no detectable sequence similarity process
 CC  Holliday junctions in Archaea, eukaryotes, and some phage. A variety of
 CC  Holliday junction-cleaving (Hjc) enzymes have been found in the Archaea
-CC  (PMID:12382111). Holliday junction resolvases, including RuvC, Hjc and
-CC  Hje, CCE1 (yeast) and A22R (poxviruses) are reviewed by Sharples
-CC  (PMID:11251805). RuvC is replaced by RecU in firmicutes and mollicutes.
+CC  [2]. Holliday junction resolvases, including RuvC, Hjc and
+CC  Hje, CCE1 (yeast) and A22R (poxviruses) are reviewed by Sharples [3]. 
+CC  RuvC is replaced by RecU in firmicutes and mollicutes.
 **  RusA in Aquifex aeolicus (and many phage) instead of RuvC says
 **  PMID:11972790.  See Koonin PMID:10982859 2000  to see how his RuvC
 **  alternative compares to my RuvC alternative.
