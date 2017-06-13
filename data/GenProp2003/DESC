@@ -44,7 +44,7 @@ SN  3
 ID  Coagulation factor IXa
 DN  Coagulation factor IX (EC:3.4.21.22)
 RQ  1
-EV  -; PTHR24256:SF397; sufficient;
+EV  IPR035694; PTHR24256:SF397; sufficient;
 TG  GO:0007596;
 --
 SN  4
