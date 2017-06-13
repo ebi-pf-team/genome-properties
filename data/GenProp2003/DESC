@@ -37,7 +37,7 @@ SN  2
 ID  Coagulation factor XIa
 DN  Coagulation factor XI (EC:3.4.21.27)
 RQ  1
-EV  -; PTHR24256:SF402; sufficient;
+EV  IPR035696; PTHR24256:SF402; sufficient;
 TG  GO:0007596;
 --
 SN  3
