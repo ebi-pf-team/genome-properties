@@ -47,4 +47,10 @@ sub interpro {
   my ($self) = @_;  
   return $self->{interpro};
 }
+
+sub gp {
+  my ($self) = @_;  
+  return $self->{genome_property};
+}
+
 1;

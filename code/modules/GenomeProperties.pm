@@ -837,13 +837,20 @@ sub fromDESC {
                                              alter_name   => $step->{DN} });
     $gpd->add_step($stepObj);
     foreach my $ev (@{$step->{EVID}}){
-
-      my $evObj = GenomeProperties::StepEvidence->new( {
+      my $evObj;
+      if($ev->{gp}){
+        $evObj = GenomeProperties::StepEvidence->new( {
+                                                      genome_property => $ev->{gp}
+                                                     } );
+      }else{
+        $evObj = GenomeProperties::StepEvidence->new( {
                                                       interpro   => $ev->{ipr},
                                                       accession  => $ev->{sig},
                                                       type       => $ev->{sc},
                                                       get_go     => $ev->{go}
                                                      } );
+
+      }
       $stepObj->add_evidence($evObj);
     }
   }
@@ -1222,6 +1229,7 @@ sub get_def {
   
   if(!defined($self->{properties}->{$acc})){
     carp("No property found for this accession");  
+    return 0;
   }else{
     return($self->{properties}->{$acc});
   }

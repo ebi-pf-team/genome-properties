@@ -1,0 +1,400 @@
+package GenomePropertiesIO;
+
+use strict;
+use warnings;
+use Carp;
+use Clone 'clone';
+use DDP;
+use GenomeProperties;
+
+my %TYPES = ( METAPATH => 1,
+              SYSTEM   => 1,
+              GUILD    => 1,
+              CATEGORY => 1,
+              PATHWAY  => 1,
+              SUMMARY  => 1,
+              ROOT     => 1
+              );
+
+sub validateGP {
+  my($dirs, $gp, $recursive) = @_;
+
+  #Read the DESC
+  foreach my $dir (@$dirs){
+    eval{
+      parseDESC("$dir/DESC", $gp);
+    };
+    if($@){
+      print "$dir: does not pass check $@\n";
+      open(E, ">", "$dir/error");
+      print E "Error parsing DESC:\n $@\n";
+      close(E);
+    }
+  }
+  
+  #Does it have any steps that we should have a sequence for testing
+  if($gp->get_defs){
+     my @gpsToCheck = keys %{$gp->get_defs};
+     
+      
+     foreach my $prop_acc (@gpsToCheck){
+      my $errors = 0;   
+      my $errorMsg = '';
+      my $prop = $gp->get_def($prop_acc);
+      if(scalar(@{$prop->get_steps})){
+        
+        my $seqs;
+        if( -e "$prop_acc/FASTA"){
+          eval{
+            $seqs = parseGpFASTA($prop_acc);
+          };
+          if($@){
+            warn "Error parsing Fasta: $@\n";
+            $errorMsg .= $@;
+            $errors++;
+          }
+        }
+        STEP:
+        foreach my $step (@{ $prop->get_steps }){
+          foreach my $evidence (@{$step->get_evidence}){
+            if($evidence->interpro){
+              if(!defined($seqs->{$step->order})){
+                warn("Did not find a sequence for ".$step->order."\n");
+                $errors++;
+              }
+              next STEP;
+            }elsif($evidence->gp){
+              if($recursive){
+                if(!$gp->get_def($evidence->gp)){
+                  print "Adding GP\n";
+                  parseDESC($evidence->gp."/DESC", $gp); 
+                  push(@gpsToCheck, $gp);
+                }
+              }
+            }else{
+              die "Unknown evidence type\n";
+            }
+          }
+        }
+      }
+      if($errors){
+        print "$prop_acc: does not pass check\n";
+        open(E, ">", "$prop_acc/error");
+        print E $errorMsg;
+        close(E);
+      }else{
+        unlink("$prop_acc/error") if(-e "$prop_acc/error");
+        print "$prop_acc: passes check\n";
+      }
+    }
+  }
+
+}
+
+
+
+
+sub parseGpFASTA {
+  my ($dir) = @_;
+  
+  open(F, "<", "$dir/FASTA") or die "Could not open $dir/FASTA\n";
+  my $currentStep = 0;
+  my $seqs = {};
+  while(<F>){
+    if(/^>\S+\s+\(Step num: (\S+)\)/){
+      $currentStep= $1;
+      $seqs->{$currentStep} = $_;
+    }elsif(!/^>/){
+      $seqs->{$currentStep} .= $_;
+    }else{
+      die "Failed to parse FASTA for $dir\n"; 
+    }
+  }
+  close(F);
+  return($seqs);
+
+}
+
+
+
+
+sub parseDESC {
+  my ( $file, $gp ) = @_;
+
+  my @file;
+  if ( ref($file) eq "GLOB" ) {
+    @file = <$file>;
+  }
+  else {
+    open( my $fh, "$file" ) or die "Could not open $file:[$!]\n";
+    @file = <$fh>;
+    close($file);
+  }
+
+  my %params;
+  my $expLen = 80;
+
+  my $refTags = {
+    RC => {
+      RC => 1,
+      RN => 1
+    },
+    RN => { RM => 1 },
+    RM => { RT => 1 },
+    RT => {
+      RT => 1,
+      RA => 1
+    },
+    RA => {
+      RA => 1,
+      RL => 1
+    },
+    RL => { RL => 1 },
+  };
+
+  for ( my $i = 0 ; $i <= $#file ; $i++ ) {
+    
+    my $l = $file[$i];
+    chomp($l);
+    if ( length($l) > $expLen ) {
+      confess( "\nGot a DESC line that was longer the $expLen, $file[$i]\n\n"
+          . "-" x 80
+          . "\n" );
+    }
+
+    if ( $file[$i] =~ /^(AC|DE|AU|TP|TH|)\s{2}(.*)$/ ) {
+      if(exists($params{$1})){
+        confess("\nFound more than one line containing the $1 tag\n\n"
+         . "-" x 80
+                . "\n" );  
+      }
+      $params{$1} = $2;
+      #TODO - make sure type matechs oe of the recognised types.
+      if($1 eq "TP"){
+        if(!$TYPES{$2}){
+          die "Incorrect TP |$2| field in DESC\n";
+        }
+      }
+      next;
+    }
+    elsif ( $file[$i] =~ /^\*\*\s{2}(.*)$/ ) {
+      $params{private} .= " " if ( $params{private} );
+      $params{private} .= $1;
+    }
+    elsif ( $file[$i] =~ /^PN\s{2}(GenProp\d{4})$/ ) {
+      my $prop = $1;
+      push(@{$params{"PARENT"}}, $prop);
+    }
+    elsif ( $file[$i] =~ /^CC\s{2}(.*)$/ ) {
+      my $cc = $1;
+      while ( $cc =~ /(\w+):(\S+)/g ) {
+        my $db  = $1;
+        my $acc = $2;
+      }
+      if ( $params{CC} ) {
+        $params{CC} .= " ";
+      }
+      $params{CC} .= $cc;
+      next;
+    }
+    elsif ( $file[$i] =~ /^R(N|C)\s{2}/ ) {
+      my $ref;
+    REFLINE:
+      foreach ( my $j = $i ; $j <= $#file ; $j++ ) {
+        if ( $file[$j] =~ /^(\w{2})\s{2}(.*)/ ) {
+          my $thisTag = $1;
+          if ( $ref->{$1} ) {
+            $ref->{$1} .= " $2";
+          }
+          else {
+            $ref->{$1} = $2;
+          }
+          if ( $j == $#file ) {
+            $i = $j;
+            last REFLINE;
+          }
+          my ($nextTag) = $file[ $j + 1 ] =~ /^(\w{2})/;
+          if(!defined($nextTag)){
+            die "Bad reference format\n";
+          }
+          #Now lets check that the next field is allowed
+          if ( $refTags->{$thisTag}->{$nextTag} ) {
+            next REFLINE;
+          }
+          elsif (
+            (
+              !$refTags->{$nextTag}
+              or ( $nextTag eq "RN" or $nextTag eq "RC" )
+            )
+            and ( $thisTag eq "RL" )
+            )
+          {
+            $i = $j;
+            last REFLINE;
+          }
+          else {
+            confess("Bad references fromat. Got $thisTag then $nextTag ");
+          }
+        }
+      }
+      $ref->{RN} =~ s/\[|\]//g;
+      unless(exists($ref->{RN}) and $ref->{RN} =~ /^\d+$/){
+        confess("Reference number should be defined and numeric\n");  
+      }
+      if(exists($ref->{RM})){
+        unless( $ref->{RM} =~ /^\d+$/){
+          confess("Reference medline should be numeric, got ".$ref->{RM}."\n");  
+        }
+      }
+      push( @{ $params{REFS} }, $ref );
+    }
+    elsif ( $file[$i] =~ /^D\w\s{2}/ ) {
+      for ( ; $i <= $#file ; $i++ ) {
+        my $com;
+        for ( ; $i <= $#file ; $i++ ) {
+          if ( $file[$i] =~ /^DC\s{2}(.*)/ ) {
+            $com .= " " if ($com);
+            $com = $1;
+          }
+          else {
+            last;
+          }
+        }
+
+        if ( !$file[$i] ) {
+          confess("Found a orphan DT line\n");
+        }
+
+        if ( $file[$i] =~ /^DR  KEGG;\s/ ) {
+          if ( $file[$i] !~ /^DR  (KEGG);\s+(\S+);$/ ) {
+            confess("Bad KEGG DB reference [$file[$i]]\n");
+          }
+          push( @{ $params{DBREFS} }, { db_id => $1, db_link => $2 } );
+        }
+        elsif ( $file[$i] =~ /^DR  EcoCyc;\s/ ) {
+          if ( $file[$i] !~ /^DR  (EcoCyc);\s+(\S+);$/ ) {
+            confess("Bad EcoCyc reference [$file[$i]]\n");
+          }
+          push( @{ $params{DBREFS} }, { db_id => $1, db_link => $2 } );
+        }
+        elsif ( $file[$i] =~ /^DR  MetaCyc;\s/ ) {
+          if ( $file[$i] !~ /^DR  (MetaCyc);\s+(\S+);$/ ) {
+            confess("Bad EcoCyc reference [$file[$i]]\n");
+          }
+          push( @{ $params{DBREFS} }, { db_id => $1, db_link => $2 } );
+        }
+        elsif ( $file[$i] =~ /^DR  IUBMB/ ) {
+          if ( $file[$i] !~ /^DR  (IUBMB);\s(\S+);\s(\S+);$/ ) {
+            confess("Bad IUBMB DB reference [$file[$i]]\n");
+          }
+          push( @{ $params{DBREFS} }, { db_id => $1, db_link => $2, other_params => $3 } );
+        }
+        elsif ( $file[$i] =~ /^DR  (URL);\s+(\S+);$/ ) {
+          print STDERR "Please check the URL $2\n";
+          push( @{ $params{DBREFS} }, { db_id => $1, db_link => $2 } );
+        }
+        elsif ( $file[$i] =~ /^DR/ ) {
+          confess( "Bad reference line: unknown database [$file[$i]].\n"
+              . "This may be fine, but we need to know the URL of the xref."
+              . "Talk to someone who knows about these things!\n" );
+        }
+        else {
+
+          #We are now on to no DR lines, break out and go back on position
+          $i--;
+          last;
+        }
+        if ($com) {
+          $params{DBREFS}->[ $#{ $params{DBREFS} } ]->{db_comment} = $com;
+        }
+      }
+    }
+    elsif($file[$i] =~ /^--$/){
+      $i++;
+      my $steps = parseSteps(\@file, \$i);
+      $params{STEPS} = $steps;
+    }elsif($file[$i] =~ /^\/\//){
+      last;
+    
+    } else {
+      chomp( $file[$i] );
+      my $msg = "Failed to parse the DESC line (enclosed by |):|$file[$i]|\n\n"
+        . "-" x 80 . "\n";
+
+      #croak($msg);
+      die $msg;
+
+#confess("Failed to parse the DESC line (enclosed by |):|$file[$i]|\n\n". "-" x 80 ."\n");
+    }
+  }
+ #print Dumper %params;
+  $gp->fromDESC(\%params);
+  #End of uber for loop
+}
+
+
+sub parseSteps {
+  my($file, $i) = @_;
+  my $expLen=80;
+  my @steps;
+  my %step;
+  for (  ; $$i <scalar(@{$file}) ; $$i++ ) {
+    
+    my $l = $file->[$$i];
+    chomp($l);
+    if ( length($l) > $expLen ) {
+      confess( "\nGot a DESC line that was longer the $expLen, $l\n\n"
+          . "-" x 80
+          . "\n" );
+    }
+
+    if ( $l =~ /^(SN|ID|DN|EC|RQ)\s{2}(.*)$/ ) {
+      if(exists($step{$1})){
+        confess("\nFound more than one line containing the $1 tag\n\n"
+         . "-" x 80
+                . "\n" );  
+      }
+      $step{$1} = $2;
+      next;
+    }elsif($l =~ /^EV\s{2}(IPR\d{6});\s(\S+);\s(\S+);/){
+        my $ipr = $1;
+        my $sig = $2;
+        my $suf = $3;
+        my $nl = $file->[$$i + 1];
+        my $go = '';
+        if($nl =~ /^TG\s{2}(GO\:\d+)/){
+          $go = $1;
+          $$i++;
+        }
+        push(@{$step{EVID}}, { ipr => $ipr, sig => $sig, sc => $suf, go => $go });
+
+    }elsif($l =~ /^EV\s{2}(GenProp\d{4});/){
+        my $gp = $1;
+        my $nl = $file->[$$i + 1];
+        my $go = '';
+        if($nl =~ /^TG\s{2}(GO\:\d+)/){
+          $go = $1;
+          $$i++;
+        }
+        push(@{$step{EVID}}, { gp => $gp, go => $go });
+    }elsif($l =~ /^--$/){  
+      push(@steps, clone(\%step));
+      %step = ();
+    }elsif($l =~ /\/\//){
+      push(@steps, clone(\%step));
+      last;
+    }else {
+      my $msg = "Failed to parse the DESC line (enclosed by |):|$l|\n\n"
+        . "-" x 80 . "\n";
+
+      #croak($msg);
+      die $msg;
+
+#confess("Failed to parse the DESC line (enclosed by |):|$file[$i]|\n\n". "-" x 80 ."\n");
+    }
+  }
+  
+  return(\@steps);
+}
+
+1;
