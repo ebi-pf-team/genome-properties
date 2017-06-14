@@ -3,7 +3,7 @@ DE  Phosphate ABC transporter (pstSCAB-phoU)
 TP  SYSTEM
 AU  Haft DH
 TH  0
-N   [1]
+RN  [1]
 RM  11489853
 RT  Characterization of PitA and PitB from Escherichia coli.
 RA  Harris RM, Webb DC, Howitt SM, Cox GB;
