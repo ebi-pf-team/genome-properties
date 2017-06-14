@@ -16,7 +16,7 @@ CC  Activation requires proteolytic removal of an N-terminal peptide
 CC  from each of the fibrinogen chains, allowing isopeptide bonds to form  
 CC  between active fibrin chains.  A proteolytic cascade to amplify the
 CC  initial signal results in the activation of thrombin (factor 2) which
-CC  releases the fibrinopeptides from fibrin.  The transglutaminase
+CC  releases the fibrinopeptides from fibrin [1].  The transglutaminase
 CC  factor XIII catalyzes the formation of gamma-glutamyl-epsilon-lysine 
 CC  cross-links between fibrin chains. Two converging pathways are
 CC  thought to exist, the extrinsic and the intrinsic.  The intrinsic 
