@@ -30,7 +30,7 @@ SN  1
 ID  Coagulation factor XIIa
 DN  Coagulation factor XII (EC:3.4.21.38)
 RQ  1
-EV  -; PTHR24256:SF424; sufficient;
+EV  IPR014394; PIRSF001146; sufficient;
 TG  GO:0007596;
 --
 SN  2
