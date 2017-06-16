@@ -42,7 +42,7 @@ SN  4
 ID  Complement C1r subcomponent
 DN  Complement C1r subcomponent (EC:3.4.21.41)
 RQ  1
-EV  -; PTHR24256:SF407; sufficient;
+EV  IPR035707; PTHR24256:SF407; sufficient;
 --
 SN  5
 ID  Complement C1s subcomponent
