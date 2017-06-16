@@ -204,7 +204,7 @@ DN  Secreted proteins, effectors
 RQ  0
 EV  IPR006972; PF04888; sufficient;
 EV  IPR005427; TIGR02101; sufficient;
-EV  IPR013386; TIGR02553; sufficient;
+EV  IPR009483; TIGR02553; sufficient;
 --
 SN  25
 ID  Type III secretion system chaperone, YscB family
