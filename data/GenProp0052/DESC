@@ -184,14 +184,14 @@ RQ  0
 SN  21
 ID  Proximal regulatory components
 RQ  0
-EV  IPRXXXX; PF00165;
-EV  IPRXXXX; PF00816;
+EV  IPR018060; PF00165;
+EV  IPR001801; PF00816;
 --
 SN  22
 ID  Secretin, type III associated
 DN  NolW-like
 RQ  0
-EV  IPRXXXX; PF03958;
+EV  IPR005644; PF03958;
 TG  GO:0030254;
 --
 SN  23
