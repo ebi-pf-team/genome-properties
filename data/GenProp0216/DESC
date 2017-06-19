@@ -26,11 +26,11 @@ CC  complex, which participates in at least two different processes. As
 CC  exodeoxyribonuclease V, it degrades linear double-stranded DNA, as
 CC  might occur by cleavage of exogenous DNA by restriction systems. It
 CC  also acts to repair double-stranded breaks in DNA by homologous
-CC  recombination; genera that lack this complex tend to show stronger
-CC  conservation of gene order between species. The RecBCD heterotrimer
+CC  recombination [1]; genera that lack this complex tend to show stronger
+CC  conservation of gene order between species[2]. The RecBCD heterotrimer
 CC  interacts with instances of the DNA sequence GCTGGTGG in E. coli,
 CC  called Chi, which are recombinational hotspots. RecBCD promotes loading
-CC  the strand exchange protein RecA onto chi-containing DNA.
+CC  the strand exchange protein RecA onto chi-containing DNA[3].
 CC  Double-stranded breaks are processed by AddAB rather than by RecBCD in
 CC  the Firmicutes and in alpha-Proteobacteria.
 **  Note: RecBCD works closely with RecA, helps load it, for recombination
