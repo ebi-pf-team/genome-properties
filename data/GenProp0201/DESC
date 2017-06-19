@@ -27,8 +27,6 @@ CC  segregation. Proteins that act with SMC may be termed kleisins;
 CC  Different SMC/kleisin complexes are termed cohesins and condensins. 
 CC  ScpA and ScpB are clustered in most bacteria.  SMC and scpA tend to be
 CC  clustered in the archaea.
-**   ScpA and ScpB are clustered in most bacteria.  SMC and scpA tend to be
-**  clustered in the archaea. 
 --
 SN  SMC
 ID  Smc protein
