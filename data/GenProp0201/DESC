@@ -28,7 +28,7 @@ CC  SMC may be termed kleisins. Different SMC/kleisin complexes are termed
 CC  cohesins and condensins. ScpA and ScpB are clustered in most bacteria.
 CC  SMC and scpA tend to be clustered in the archaea.
 --
-SN  SMC
+SN  1
 ID  Smc protein
 DN  Structural maintenance of chromosomes protein, SMC
 RQ  1
@@ -37,14 +37,14 @@ TG  GO:0030261;
 EV  IPR011890; TIGR02169; sufficient;
 TG  GO:0030261;
 --
-SN  scpA
+SN  2
 ID  ScpA protein
 DN  Segregation and condensation protein A
 RQ  1
 EV  IPR003768; PF02616; sufficient;
 TG  GO:0030261;
 --
-SN  scpB
+SN  3
 ID  ScpB protein
 DN  Segregation and condensation protein B
 RQ  1
