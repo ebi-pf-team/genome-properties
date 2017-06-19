@@ -30,12 +30,12 @@ CC  pathway from succinyl-CoA and glycine utilizing 5-aminolevulinate
 CC  synthase is found in the alphaproteobacteria and eukaryotic
 CC  mitochondria[1,2,3].
 --
-SN  DISRPT
+SN  1
 ID  APPARENT DISRUPTED READING FRAMES
 DN  NOT APPLICABLE
 RQ  0
 --
-SN  gltX
+SN  2
 ID  Glutamyl-tRNA synthetase
 DN  Glutamyl-tRNA synthetase/ligase (EC 6.1.1.17)
 RQ  1
@@ -44,14 +44,14 @@ TG  GO:0006779;
 EV  IPR004526; TIGR00463; sufficient;
 TG  GO:0006779;
 --
-SN  hemA
+SN  3
 ID  Glutamyl-tRNA reductase
 DN  Glutamyl-tRNA reductase (EC 1.2.1.70)
 RQ  1
 EV  IPR000343; TIGR01035; sufficient;
 TG  GO:0006779;
 --
-SN  hemL
+SN  4
 ID  Glutamate-1-semialdehyde-2,1-aminomutase
 DN  Glutamate-1-semialdehyde aminotransferase (EC 5.4.3.8)
 RQ  1
