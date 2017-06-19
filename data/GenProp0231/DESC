@@ -128,4 +128,5 @@ ID  Probable 4-hydroxyphenylacetate transporters
 DN  4-hydroxyphenylacetate permease
 RQ  0
 EV  IPR012707; TIGR02332; sufficient;
+TG  GO:0046942;
 //
