@@ -27,7 +27,7 @@ SN  1
 ID  Complement C3
 DN  Complement C3
 RQ  1
-EV  -; PTHR11412:SF129; sufficient;
+EV  IPR035711; PTHR11412:SF129; sufficient;
 --
 SN  2
 ID  Complement factor B
