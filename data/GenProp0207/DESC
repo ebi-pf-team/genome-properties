@@ -4,13 +4,19 @@ TP  SYSTEM
 AU  Haft DH
 TH  0
 RN  [1]
+RM  10783239
+RT  A new ABC transporter mediating the detachment of lipid-modified
+RT  proteins from membranes.
+RA  Yakushi T, Masuda K, Narita S, Matsuyama S, Tokuda H;
+RL  Nat Cell Biol. 2000;2:212-218.
+RN  [2]
 RM  12823819
 RT  A mutation in the membrane subunit of an ABC transporter LolCDE complex
 RT  causing outer membrane localization of lipoproteins against their inner
 RT  membrane-specific signals.
 RA  Narita S, Kanamaru K, Matsuyama S, Tokuda H;
 RL  Mol Microbiol. 2003;49:167-177.
-RN  [2]
+RN  [3]
 RM  11673422
 RT  Deletion of lolB, encoding an outer membrane lipoprotein, is lethal for
 RT  Escherichia coli and causes accumulation of lipoprotein localization
