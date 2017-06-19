@@ -52,7 +52,7 @@ SN  2
 ID  Initiator caspase activator
 DN  Initiator caspase activator 
 RQ  1
-EV  -; PTHR15077:SF13; sufficient;
+EV  IPR016729; PIRSF018586; sufficient;
 TG  GO:0089720;
 EV  -; PTHR14913; sufficient;
 TG  GO:0089720;
