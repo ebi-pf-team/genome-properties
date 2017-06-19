@@ -4,12 +4,18 @@ TP  SYSTEM
 AU  Haft DH
 TH  0
 RN  [1]
+RM  28369478
+RT  A non-catalytic role of RecBCD in homology directed gap repair and
+RT  translesion synthesis.
+RA  Laureti L, Lee L, Philippin G, Pages V;
+RL  Nucleic Acids Res. 2017;45:5877-5886.
+RN  [2]
 RM  14604803
 RT  The genome stability in Corynebacterium species due to lack of the
 RT  recombinational repair system.
 RA  Nakamura Y, Nishio Y, Ikeo K, Gojobori T;
 RL  Gene. 2003;317:149-155.
-RN  [2]
+RN  [3]
 RM  12815437
 RT  RecBCD enzyme is a DNA helicase with fast and slow motors of opposite
 RT  polarity.
