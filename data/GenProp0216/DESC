@@ -39,21 +39,21 @@ CC  the Firmicutes and in alpha-Proteobacteria.
 **  and AddAB in gram-positive bacteria, except they find AddAB replace
 **  RecBCD in members of alphaProteobacteria such as Rhizobium etli.
 --
-SN  recB
+SN  1
 ID  Exodeoxyribonuclease V, beta subunit
 DN  RecBCD enzyme subunit RecB (EC:3.1.11.5)
 RQ  1
 EV  IPR004586; TIGR00609; sufficient;
 TG  GO:0000738;
 --
-SN  recC
+SN  2
 ID  Exodeoxyribonuclease V, gamma subunit
 DN  RecBCD enzyme subunit RecC (EC:3.1.11.5)
 RQ  1
 EV  IPR006697; TIGR01450; sufficient;
 TG  GO:0000738;
 --
-SN  recD
+SN  3
 ID  Exodeoxyribonuclease V, alpha subunit
 DN  RecBCD enzyme subunit RecD (EC:3.1.11.5)
 RQ  1
