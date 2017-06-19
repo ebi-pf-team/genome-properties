@@ -30,10 +30,6 @@ CC  metabolized instead of 4-hydroxyphenylacetic acid.
 **  the feat_names of those things marked as FRAMESHIFT or POINT_MUTATION
 **  in other steps.
 --
-SN  DISRPT
-ID  APPARENT DISRUPTED READING FRAMES
-RQ  0
---
 SN  SSDH
 ID  Succinate-semialdehyde dehydrogenase
 DN  Succinate semialdehyde dehydrogenase (EC 1.2.1.-)
@@ -129,4 +125,8 @@ DN  4-hydroxyphenylacetate permease
 RQ  0
 EV  IPR012707; TIGR02332; sufficient;
 TG  GO:0046942;
+--
+SN  DISRPT
+ID  APPARENT DISRUPTED READING FRAMES
+RQ  0
 //
