@@ -20,7 +20,7 @@ CC  temperatures. SecD, SecG, and YajC form an accessory complex that may
 CC  prevent backsliding of proteins being translocated, and may not be
 CC  essential proteins.
 --
-SN  OxaA
+SN  1
 ID  Inner membrane protein oxaA
 DN  Membrane insertase Oxa1/YidC
 RQ  0
@@ -28,49 +28,49 @@ EV  IPR028053; TIGR03593;
 EV  IPR028055; TIGR03592;
 EV  IPR001708; PF02096;
 --
-SN  SecA
+SN  2
 ID  SecA peripheral ATPase
 DN  Preprotein translocase, SecA subunit
 RQ  1
 EV  IPR000185; TIGR00963; sufficient;
 --
-SN  SecB
+SN  3
 ID  SecB cytosolic chaperone
 DN  Bacterial protein export chaperone SecB 
 RQ  0
 EV  IPR003708; TIGR00809; sufficient;
 --
-SN  SecD
+SN  4
 ID  SecD accessory complex subunit
 DN  Protein translocase subunit SecD
 RQ  0
 EV  IPR005791; TIGR01129; sufficient;
 --
-SN  SecE
+SN  5
 ID  SecE core heterotrimer subunit
 DN  Preprotein translocase, SecE subunit
 RQ  1
 EV  IPR005807; TIGR00964; sufficient;
 --
-SN  SecF
+SN  6
 ID  SecF accessory complex subunit
 DN  Protein-export membrane protein SecF
 RQ  0
 EV  IPR005665; TIGR00966; sufficient;
 --
-SN  SecG
+SN  7
 ID  SecG core heterotrimer subunit
 DN  Preprotein translocase, SecG subunit
 RQ  1
 EV  IPR004692; TIGR00810; sufficient;
 --
-SN  SecY
+SN  8
 ID  SecY core heterotrimer subunit
 DN  SecY/SEC61-alpha family
 RQ  1
 EV  IPR002208; TIGR00967; sufficient;
 --
-SN  YajC
+SN  9
 ID  YajC accessory complex subunit
 DN  Preprotein translocase, YajC subunit
 RQ  0
