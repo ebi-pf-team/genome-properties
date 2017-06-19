@@ -42,12 +42,6 @@ RQ  1
 EV  -; PTHR24271; sufficient;
 --
 SN  4
-ID  Complement factor D
-DN  Complement factor D (EC:3.4.21.46)
-RQ  1
-EV  -; -; sufficient;
---
-SN  5
 ID  Complement activation, common pathway 2
 RQ  1
 EV  GenProp2008;
