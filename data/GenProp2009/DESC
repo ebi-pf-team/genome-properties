@@ -33,7 +33,7 @@ SN  2
 ID  Complement factor B
 DN  Complement factor B (EC:3.4.21.47)
 RQ  1
-EV  -; PTHR19325:SF420; sufficient;
+EV  IPR028341; PTHR19325:SF420; sufficient;
 --
 SN  3
 ID  Complement factor D
