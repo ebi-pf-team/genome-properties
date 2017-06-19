@@ -45,7 +45,7 @@ DN  Tumor necrosis factor receptor
 RQ  1
 EV  IPR008063; PTHR23097:SF158; sufficient;
 TG  GO:0097296;
-EV  -; PTHR23097:SF160; sufficient;
+EV  IPR020419; PR01918; sufficient;
 TG  GO:0097296;
 --
 SN  2
