@@ -35,21 +35,21 @@ CC  the Firmicutes and in alpha-Proteobacteria.
 --
 SN  recB
 ID  Exodeoxyribonuclease V, beta subunit
-DN  Exodeoxyribonuclease V beta subunit (EC:3.1.11.5)
+DN  RecBCD enzyme subunit RecB (EC:3.1.11.5)
 RQ  1
 EV  IPR004586; TIGR00609; sufficient;
 TG  GO:0000738;
 --
 SN  recC
 ID  Exodeoxyribonuclease V, gamma subunit
-DN  Exodeoxyribonuclease V gamma subunit (EC:3.1.11.5)
+DN  RecBCD enzyme subunit RecC (EC:3.1.11.5)
 RQ  1
 EV  IPR006697; TIGR01450; sufficient;
 TG  GO:0000738;
 --
 SN  recD
 ID  Exodeoxyribonuclease V, alpha subunit
-DN  Exodeoxyribonuclease V alpha subunit (EC:3.1.11.5)
+DN  RecBCD enzyme subunit RecD (EC:3.1.11.5)
 RQ  1
 EV  IPR006344; TIGR01447; sufficient;
 TG  GO:0000738;
