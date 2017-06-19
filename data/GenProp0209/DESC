@@ -17,6 +17,7 @@ CC  essential proteins.
 --
 SN  OxaA
 ID  Inner membrane protein oxaA
+DN  Membrane insertase Oxa1/YidC
 RQ  0
 EV  IPR028053; TIGR03593;
 EV  IPR028055; TIGR03592;
@@ -30,12 +31,13 @@ EV  IPR000185; TIGR00963; sufficient;
 --
 SN  SecB
 ID  SecB cytosolic chaperone
+DN  Bacterial protein export chaperone SecB 
 RQ  0
 EV  IPR003708; TIGR00809; sufficient;
 --
 SN  SecD
 ID  SecD accessory complex subunit
-DN  Protein-export membrane protein SecD
+DN  Protein translocase subunit SecD
 RQ  0
 EV  IPR005791; TIGR01129; sufficient;
 --
@@ -59,7 +61,7 @@ EV  IPR004692; TIGR00810; sufficient;
 --
 SN  SecY
 ID  SecY core heterotrimer subunit
-DN  Preprotein translocase, SecY subunit
+DN  SecY/SEC61-alpha family
 RQ  1
 EV  IPR002208; TIGR00967; sufficient;
 --
