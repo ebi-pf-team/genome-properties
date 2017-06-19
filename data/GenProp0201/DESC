@@ -30,7 +30,7 @@ CC  clustered in the archaea.
 --
 SN  SMC
 ID  Smc protein
-DN  Chromosome segregation protein SMC
+DN  Structural maintenance of chromosomes protein, SMC
 RQ  1
 EV  IPR011890; TIGR02168; sufficient;
 TG  GO:0030261;
