@@ -37,7 +37,7 @@ RQ  0
 --
 SN  gltX
 ID  Glutamyl-tRNA synthetase
-DN  Glutamyl-tRNA synthetase (EC 6.1.1.17)
+DN  Glutamyl-tRNA synthetase/ligase (EC 6.1.1.17)
 RQ  1
 EV  IPR004527; TIGR00464; sufficient;
 TG  GO:0006779;
@@ -46,14 +46,14 @@ TG  GO:0006779;
 --
 SN  hemA
 ID  Glutamyl-tRNA reductase
-DN   glutamyl-tRNA reductase (EC 1.2.1.70)
+DN  Glutamyl-tRNA reductase (EC 1.2.1.70)
 RQ  1
 EV  IPR000343; TIGR01035; sufficient;
 TG  GO:0006779;
 --
 SN  hemL
 ID  Glutamate-1-semialdehyde-2,1-aminomutase
-DN  Glutamate-1-semialdehyde-2,1-aminomutase (EC 5.4.3.8)
+DN  Glutamate-1-semialdehyde aminotransferase (EC 5.4.3.8)
 RQ  1
 EV  IPR004639; TIGR00713; sufficient;
 TG  GO:0006779;
