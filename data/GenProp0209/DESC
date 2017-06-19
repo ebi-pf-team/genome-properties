@@ -3,7 +3,12 @@ DE  Sec system preprotein translocase
 TP  SYSTEM
 AU  Haft DH
 TH  1
-CC  This property describes the bacterial preprotein translocase Sec. The
+RN  [1]
+RM  22411975
+RT  The bacterial Sec-translocase: structure and mechanism.
+RA  Lycklama A Nijeholt JA, Driessen AJ;
+RL  Philos Trans R Soc Lond B Biol Sci. 2012;367:1016-1028.
+CC  This property describes the bacterial preprotein translocase Sec[1]. The
 CC  analogous process occurs in eukaryotes and archaea (little studied in
 CC  the archaea), but the component proteins are different enough not to be
 CC  described by the same set of hidden Markov models. SecB is a cytosolic
