@@ -48,7 +48,7 @@ SN  2
 ID  Caspase-7
 DN  Caspase-7 (EC:3.4.22.60)
 RQ  1
-EV  -; PTHR10454:SF168; sufficient;
+EV  IPR015471; PTHR10454:SF168; sufficient;
 TG  GO:0097200;
 --
 SN  3
