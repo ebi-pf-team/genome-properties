@@ -28,9 +28,9 @@ CC  a covalently attached lipid moiety that serves as a membrane anchor.
 CC  The lol system is responsible for moving lipoproteins from the
 CC  periplasmic side of the inner membrane to the periplasmic side of the
 CC  outer membrane. LolD is homologous to the ATP-binding cassette (ABC)
-CC  transport family. LolC and LolE are homologous to each other (in
+CC  transport family [1,2]. LolC and LolE are homologous to each other (in
 CC  species that have both rather than just one) and have several
-CC  membrane-spanning segments, much like ABC transport permeases. However,
+CC  membrane-spanning segments, much like ABC transport permeases[3]. However,
 CC  the LolCDE complex differs from other ABC transporters in that is does
 CC  not move a substrate across a membrane. Instead, it detaches
 CC  lipoproteins from the inner membrane. LolA and LolB act to chaperone
@@ -39,28 +39,28 @@ CC  is less broadly distributed than the lgt/lsp/lnt system for lipoprotein
 CC  N-terminal modification.
 **  quote PMID:10783239 and others.  Should be districtly limited 
 --
-SN  LolA
+SN  1
 ID  Lipoprotein carrier LolA
 DN  Outer membrane lipoprotein carrier protein LolA
 RQ  1
 EV  IPR018323; TIGR00547; sufficient;
 TG  GO:0006886;
 --
-SN  LolB
+SN  2
 ID  Outer membrane LP LolB
 DN  Outer membrane lipoprotein LolB
 RQ  1
 EV  IPR004565; TIGR00548; sufficient;
 TG  GO:0006886;
 --
-SN  LolCE
+SN  3
 ID  Lipoprotein export, LolC and LolE family
 DN  Lipoprotein releasing system, transmembrane protein, LolC/E family
 RQ  1
 EV  IPR011925; TIGR02212; sufficient;
 TG  GO:0006886;
 --
-SN  LolD
+SN  4
 ID  Transporter ATP-binding subunit LolD
 DN  Lipoprotein-releasing system ATP-binding protein
 RQ  1
