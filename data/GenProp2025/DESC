@@ -48,7 +48,7 @@ SN  2
 ID  Caspase-12
 DN  Caspase-12 
 RQ  1
-EV  -; PTHR10454:SF191; sufficient;
+EV  IPR035713; PTHR10454:SF191; sufficient;
 TG  GO:0070059;
 --
 SN  3
