@@ -13,7 +13,7 @@ DR  KEGG; map04610;
 CC  Fibrinolysis is the disoolving of the bloot clot and naturally 
 CC  follows coagulation.  Plasmin cleaves alpha, beta and gamma chains
 CC  of fibrin, thereby releasing the N-terminal peptides where the
-CC  isopeptide bonds, which cross-link fibrin fibres, are formed.
+CC  isopeptide bonds, which cross-link fibrin fibres, are formed [1].
 **  The KEGG pathway makes little sense.  Although the activation of 
 **  plasminogen by coagulation factor XIIa might explain how clots are
 **  dissolved in the intrinsic blood coagulation pathway, this does not
