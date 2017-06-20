@@ -31,8 +31,8 @@ CC  threonine being the nucleophile in the reaction.  The active sites are
 CC  directed towards the central cavity, so that a protein threaded through
 CC  the central cavity is processed into short peptides.  The three 
 CC  catalytically active beta subunits have different specificities, 
-CC  known as trypsin-like, chymotrypsin-like and caspase-like.  Substrates 
-CC  include intracellular proteins tagged for degradation by 
+CC  known as trypsin-like, chymotrypsin-like and caspase-like [1,2].   
+CC  Substrates include intracellular proteins tagged for degradation by 
 CC  polyubiquitination and viral proteins.  Peptide products may be 
 CC  trafficked to the major histocompatability complex for presentation 
 CC  as antigens on T-cells.  Modified versions of the proteasome occur in
@@ -42,7 +42,7 @@ CC  denatured before being cleaved by the proteasome, and an additional
 CC  complex, known as the 19S cap, can be added to either or both ends of
 CC  the proteasome.  The 19S cap includes ATPases and a deubiquitinating
 CC  enzyme.  This larger complex of the 20S proteasome and 19S cap is 
-CC  known as the 26S proteasome.
+CC  known as the 26S proteasome [3].
 CC  The 20S proteasome is found in all eukaryotes.  In archaea and some
 CC  bacteria, a much simpler assembly exists in which each ring is a 
 CC  homoheptamer of a single alpha or beta subunit.  
