@@ -24,7 +24,7 @@ RA  Wang Q; Young P; Walters KJ;
 RL  J. Mol. Biol. 2005;348:727-739.
 RN  [4]
 RM  19490896
-RT  Assembly pathway of the Mammalian proteasome base subcomplex is 
+RT  Assembly pathway of the mammalian proteasome base subcomplex is 
 RT  mediated by multiple specific chaperones.
 RA  Kaneko T; Hamazaki J; Iemura S; Sasaki K; Furuyama K; Natsume T; 
 RA  Tanaka K; Murata S;
@@ -43,14 +43,14 @@ CC  and fourteen that are not ATPases.  Non-ATPase regulatory subunit 14
 CC  is a metallo-dependent deubiquitinating enzyme from peptidase family
 CC  M67.  Non-ATPase regulatory subunit 4 binds ubiquitin. Ubiquitin 
 CC  receptor ADRM1 also binds ubiquitin and activates non-ATPase regulatory 
-CC  subunit 14, but is absent from the solved tertiary structures.  Non-ATPase 
-CC  regulatory subunits 5, 9, 10 and 11 are required for proteasome assembly. 
-CC  The 19S complex consists of a base, containing the six AAA-ATPases and
-CC  three non-ATPase regulatory subunits, and a lid containing all the
-CC  remaining non-ATPase regulatory subunits.
+CC  subunit 14, but is absent from the solved tertiary structures [1,2].  
+CC  Non-ATPase regulatory subunits 5, 9, 10 and 11 are required for 
+CC  proteasome assembly. The 19S complex consists of a base, containing the 
+CC  six AAA-ATPases and three non-ATPase regulatory subunits, and a lid 
+CC  containing all the remaining non-ATPase regulatory subunits [4,5].
 CC  The functions of the 19S cap are to remove ubiquitin from targeted 
 CC  proteins, and to denature proteins prior to entry into the central 
-CC  cavity of the proteasome.
+CC  cavity of the proteasome [3].
 **  The subunits contained in this GenProp are those that occur in the
 **  crystal structures of the 26S proteasome (PDB:5GJQ and 5GJR).  KEGG has 
 **  twenty components, labelled Rpt1-Ppt6 and Rpn1-3, Rpn5-13 and Rpn15.
