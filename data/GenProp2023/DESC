@@ -35,12 +35,12 @@ CC  are activated and these deactivate cellular proteins, often by
 CC  cleaving within interdomain regions, thereby separating binding 
 CC  domains of signal reception and transduction domains.  Caspases have
 CC  a specificity for aspartyl bonds, which occur frequently in surface
-CC  loops and interdomain regions of proteins.  Caspases involved in
+CC  loops and interdomain regions of proteins [4].  Caspases involved in
 CC  apoptosis are of two kinds: initiators and executors.  Initiator
 CC  caspases activate the executor caspases which cleave other proteins
 CC  in the cell.  There are at least four routes by which the initiator
 CC  caspase precursors are activated.  This Genome Property describes
-CC  the intrinsic or mitochondria-mediated pathway.
+CC  the intrinsic or mitochondria-mediated pathway [1-3].
 --
 SN  1
 ID  Caspase-2 
