@@ -37,7 +37,7 @@ TG  GO:0006457;
 --
 SN  GrpE
 ID  Co-chaperone GrpE
-DN  Molecular chaperone GrpE
+DN  Molecular chaperone/nucleotide exchange factor GrpE
 RQ  1
 EV  IPR000740; PF01025; sufficient;
 TG  GO:0006457;
