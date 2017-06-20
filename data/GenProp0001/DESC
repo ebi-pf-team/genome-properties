@@ -19,7 +19,7 @@ CC  phenylalanine, tyrosine and tryptophan (the aromatic amino acids) as
 CC  well as menaquinone, ubiquinone, salicylate and phenazine.  Chorismate
 CC  is synthesized via a seven-step pathway starting from the precursors
 CC  D-erythrose 4-phosphate and phosphoenolpyruvate.  This pathway is
-CC  widely distributed among microorganisms.  Certain methanogenic
+CC  widely distributed among microorganisms[1]. Certain methanogenic
 CC  euarchaeota appear to be missing the first two steps of the pathway -
 CC  these may be catalyzed by as of yet uncharacterized enzymes.
 **  Archaea are hard to assign.  It would appear that the chorismate
