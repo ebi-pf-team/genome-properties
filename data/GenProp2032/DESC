@@ -21,10 +21,10 @@ CC  The RAG complex is a component of the the TORC1 sensor pathway
 CC  which promotes protein synthesis in the presence of adequate
 CC  energy and amino acids.  The heterodimeric Rag complex 
 CC  alternates between an active ATP-bound form and an inactive GDP-
-CC  bound form.  When active, the Rag complex relocalizes the mTORC1 
-CC  complex to the lysosome membrane surface, where it is activated
-CC  by the GTPase Rheb.  Activity of the RAG complex is controlled
-CC  by the GATOR1 and GATOR2 complexes.
+CC  bound form [1].  When active, the Rag complex relocalizes the 
+CC  mTORC1 complex to the lysosome membrane surface, where it is 
+CC  activated by the GTPase Rheb [2].  Activity of the RAG complex is 
+CC  controlled by the GATOR1 and GATOR2 complexes.
 **  Complex consists of either RagA or RagB and either RagC or RagD.
 **  All four Rag proteins are in the same InterPro entry.
 --
