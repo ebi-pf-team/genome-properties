@@ -4,11 +4,10 @@ TP  PATHWAY
 AU  Haft DH
 TH  0
 RN  [1]
-RM  27090086
-RT  The glyoxylate shunt is essential for desiccation tolerance in C. 
-RT  elegans and budding yeast.
-RA  Erkut C, Gade VR, Laxman S, Kurzchalia TV;
-RL  Elife. 2016; [Epub ahead of print]
+RM  27036942
+RT  Role of Glyoxylate Shunt in Oxidative Stress Response.
+RA  Ahn S, Jung J, Jang IA, Madsen EL, Park W;
+RL  J Biol Chem. 2016;291:11928-11938.
 DC  Glyoxylate Cycle
 DR  IUBMB; misc; glyox;
 DC  Glyoxylate and Dicarboxylate Metabolism
@@ -20,7 +19,7 @@ CC  becomes succinate (one intermediate) plus glyoxylate. Glyoxylate plus
 CC  an acetyl group from acetyl-CoA becomes malate, a second intermediate,
 CC  for a gain of one. Acetyl groups, such as from fatty acid metabolism,
 CC  by means of this pathway, can provide TCA cycle intermediates for use
-CC  in amino acid biosynthesis and other biosynthetic pathways.
+CC  in amino acid biosynthesis and other biosynthetic pathways[1].
 **  I have still never seen the glyoxylate shunt enzymes unless the TCA
 **  cycle is complete.  Note: these genes should be upregulated by a shift
 **  from glycolytic (glucose is supplied) to gluconeogenic (acetate is
