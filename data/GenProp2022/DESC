@@ -22,7 +22,7 @@ CC  apoptosis are of two kinds: initiators and executors.  Initiator
 CC  caspases activate the executor caspases which cleave other proteins
 CC  in the cell.  There are at least four routes by which the initiator
 CC  caspase precursors are activated.  This Genome Property describes
-CC  the extrinsic pathway of caspase activation.
+CC  the extrinsic pathway of caspase activation [1].
 **  Needs review of apoptosis.
 --
 SN  1
