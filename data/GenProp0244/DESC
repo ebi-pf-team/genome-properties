@@ -10,7 +10,7 @@ RA  Brehmer D, Gässler C, Rist W, Mayer MP, Bukau B;
 RL  J Biol Chem. 2004;279:27957-27964.
 CC  DnaK, DnaJ, and GrpE form a chaperone system. DnaK has ATPase activity.
 CC  DnaJ and GrpE are co-chaperones for DnaK, that is, stimulate this
-CC  activity. This system is also called the hsp70 heat-shock system.
+CC  activity[1]. This system is also called the hsp70 heat-shock system.
 CC  Excluded from this system are the heat shock cognate (Hsc) homologs,
 CC  which are associated specifically with iron-sulfur cluster biosynthesis
 CC  (see GenProp0138, the iron-sulfur cluster assembly iscSUA-hscBA-fdx
