@@ -29,12 +29,11 @@ RT  signaling domains and is required for normal fertility.
 RA  Chung JJ; Miki K; Kim D; Shim SH; Shi HF; Hwang JY; Cai X; Iseri Y; 
 RA  Zhuang X; Clapham DE; 
 RL  Elife. 2017;6:e23082.
-CC  The CatSper complex is a Voltage-gated calcium ion channel located 
-CC  in the sperm tail.  It is required for sperm hypermotility and 
-CC  fertility.  The complex is a  
-CC  heterotetramer the centre of which forms a pore for calcium ions. 
-CC  Two other subunits (delta and epsilon) are associated with this 
-CC  complex.
+CC  The CatSper complex is a voltage-gated calcium ion channel located 
+CC  in the sperm tail [1].  It is required for sperm hypermotility and 
+CC  fertility [2, 3].  The complex is a heterotetramer the centre of which 
+CC  forms a pore for calcium ions. Two other subunits (delta and epsilon)  
+CC  are associated with thiscomplex [4].
 **   
 --
 SN  1
