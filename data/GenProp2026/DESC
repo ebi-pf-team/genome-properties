@@ -19,7 +19,7 @@ CC  recruits the GATOR1 complex to lysosomal membranes and permits
 CC  interaction with GATOR2 and the RAG GTPases. This negatively 
 CC  regulates mTORC1 signaling.  In the absence of KICSTOR, mTORC1 is 
 CC  localized to the lysosome and activated. The mTORC1 complex is a  
-CC  regulator of cell growth.
+CC  regulator of cell growth [1].
 **  Kaptin may bind to actin.
 --
 SN  1
