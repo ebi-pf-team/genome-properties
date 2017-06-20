@@ -24,14 +24,14 @@ CC  genus Methanosarcina, has both.
 --
 SN  GroEL
 ID  Chaperonin GroEL
-DN  Chaperonin GroEL
+DN  Chaperonin GroEL/Cpn60
 RQ  1
 EV  IPR001844; TIGR02348; sufficient;
 TG  GO:0006457;
 --
 SN  GroES
 ID  Co-chaperonin GroES
-DN  Chaperonin GroES
+DN  Chaperonin GroES/Cpn10
 RQ  1
 EV  IPR020818; PF00166; sufficient;
 TG  GO:0006457;
