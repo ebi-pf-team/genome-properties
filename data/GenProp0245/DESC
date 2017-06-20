@@ -16,11 +16,11 @@ RA  Klunker D, Haas B, Hirtreiter A, Figueiredo L, Naylor DJ, Pfeifer G,
 RA  Müller V, Deppenmeier U, Gottschalk G, Hartl FU, Hayer-Hartl M;
 RL  J Biol Chem. 2003;278:33256-33267.
 CC  GroEL and GroES comprise the bacterial group I chaperonin, a toroidal
-CC  complex involved in folding or refolding proteins in the cytosol.
+CC  complex involved in folding or refolding proteins in the cytosol[1].
 CC  Archaea and Eukaryotes have instead (with a few rare cases of overlap)
 CC  a group II chaperonin complex, usually called the thermosome in the
 CC  Archaea and CCT in the Eukaryota. At least one member of the archaeal
-CC  genus Methanosarcina, has both.
+CC  genus Methanosarcina, has both[2].
 --
 SN  GroEL
 ID  Chaperonin GroEL
