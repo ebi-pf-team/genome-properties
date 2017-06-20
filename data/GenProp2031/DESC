@@ -18,9 +18,9 @@ RA  Bar-Peled L; Schweitzer LD; Zoncu R; Sabatini DM;
 RL  Cell. 2012;150:1196-1208.
 CC  The Ragulator complex is required for the activation of the 
 CC  mTORC1 sensor complex, which promotes protein synthesis when 
-CC  there is sufficient energy and amino acids.  Ragulator functions
-CC  as a guanine nucleotide exchange factor and activates the small 
-CC  GTPases Rag.
+CC  there is sufficient energy and amino acids [1].  Ragulator 
+CC  functions as a guanine nucleotide exchange factor and activates 
+CC  the small GTPases Rag [2].
 --
 SN  1
 ID  Ragulator complex protein LAMTOR1
