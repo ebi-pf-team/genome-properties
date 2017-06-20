@@ -22,14 +22,14 @@ CC  a group II chaperonin complex, usually called the thermosome in the
 CC  Archaea and CCT in the Eukaryota. At least one member of the archaeal
 CC  genus Methanosarcina, has both[2].
 --
-SN  GroEL
+SN  1
 ID  Chaperonin GroEL
 DN  Chaperonin GroEL/Cpn60
 RQ  1
 EV  IPR001844; TIGR02348; sufficient;
 TG  GO:0006457;
 --
-SN  GroES
+SN  2
 ID  Co-chaperonin GroES
 DN  Chaperonin GroES/Cpn10
 RQ  1
