@@ -23,7 +23,7 @@ CC  caspases activate the executor caspases which cleave other proteins
 CC  in the cell.  There are at least four routes by which the initiator
 CC  caspase precursors are activated.  This Genome Property includes
 CC  the apoptosome, which includes the precursor of initiator caspase 9 
-CC  from the intrinsic (or mitochondrial) pathway.  When it binds 
+CC  from the intrinsic (or mitochondrial) pathway [1].  When it binds 
 CC  cytochrome c and dATP, Apaf1 oligomerizes into a heptameric ring.
 **  Needs review of apoptosis.
 --
