@@ -36,7 +36,7 @@ CC  caspases activate the executor caspases which cleave other proteins
 CC  in the cell.  There are at least four routes by which the initiator
 CC  caspase precursors are activated.  This Genome Property describes
 CC  the death-inducing signaling complex (DISC) which leads to the
-CC  activation of procaspases 8 and 10.
+CC  activation of procaspases 8 and 10 [1-3].
 **  Receptor TNF-R1, but not Fas, utilizes caspase activator TRADD.  
 --
 SN  1
