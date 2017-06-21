@@ -1228,7 +1228,7 @@ sub get_def {
   }
   
   if(!defined($self->{properties}->{$acc})){
-    carp("No property found for this accession");  
+    carp("No property found for this accession ($acc)\n");  
     return 0;
   }else{
     return($self->{properties}->{$acc});
