@@ -19,7 +19,7 @@ CC  Sinorhizobium meliloti. All known examples are in Proteobacteria.
 --
 SN  binding
 ID  Thiamine binding protein
-DN  Thiamin/thiamin pyrophosphate ABC transporter, thiamin/thiamin pyrophospate-binding protein
+DN  Proteobacterial thiamine ABC transporter, periplasmic binding protein
 RQ  1
 EV  IPR005967; TIGR01276; sufficient;
 TG  GO:0030974;
@@ -33,7 +33,7 @@ TG  GO:0030974;
 --
 SN  thiATP
 ID  Thiamine transporter ATP-binding protein
-DN  Thiamine ABC transporter, ATP-binding protein
+DN  Thiamine ABC transporter, ATP-binding protein ThiQ
 RQ  1
 EV  IPR005968; TIGR01277; sufficient;
 TG  GO:0030974;
