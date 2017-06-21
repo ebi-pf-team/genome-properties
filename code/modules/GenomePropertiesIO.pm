@@ -157,14 +157,15 @@ sub parseDESC {
     my $l = $file[$i];
     chomp($l);
     if ( length($l) > $expLen ) {
-      confess( "\nGot a DESC line that was longer the $expLen, $file[$i]\n\n"
+      warn( "\nGot a DESC line that was longer the $expLen, $file[$i]\n\n"
           . "-" x 80
           . "\n" );
     }
 
     if ( $file[$i] =~ /^(AC|DE|AU|TP|TH|)\s{2}(.*)$/ ) {
       if(exists($params{$1})){
-        confess("\nFound more than one line containing the $1 tag\n\n"
+        warn("In ".$params{AC}."\n") if($params{AC}); 
+        warn("\nFound more than one line containing the $1 tag.\n\n"
          . "-" x 80
                 . "\n" );  
       }
@@ -213,7 +214,8 @@ sub parseDESC {
             $i = $j;
             last REFLINE;
           }
-          my ($nextTag) = $file[ $j + 1 ] =~ /^(\w{2})/;
+          my ($nextTag) = $file[ $j + 1 ] =~ /^(\S{2})/;
+
           if(!defined($nextTag)){
             die "Bad reference format\n";
           }
@@ -343,7 +345,7 @@ sub parseSteps {
     my $l = $file->[$$i];
     chomp($l);
     if ( length($l) > $expLen ) {
-      confess( "\nGot a DESC line that was longer the $expLen, $l\n\n"
+      warn( "\nGot a DESC line that was longer the $expLen, $l\n\n"
           . "-" x 80
           . "\n" );
     }
@@ -361,12 +363,24 @@ sub parseSteps {
         my $sig = $2;
         my $suf = $3;
         my $nl = $file->[$$i + 1];
-        my $go = '';
-        if($nl =~ /^TG\s{2}(GO\:\d+)/){
-          $go = $1;
+        my $go = [];
+        while($nl =~ /^TG\s{2}(GO\:\d+)/){
+          push(@$go, $1);
           $$i++;
+          $nl = $file->[$$i + 1];
         }
         push(@{$step{EVID}}, { ipr => $ipr, sig => $sig, sc => $suf, go => $go });
+    }elsif($l =~ /^EV\s{2}(IPR\d{6});\s(\S+);/){
+        my $ipr = $1;
+        my $sig = $2;
+        my $nl = $file->[$$i + 1];
+        my $go = [];
+        while($nl =~ /^TG\s{2}(GO\:\d+)/){
+          push(@$go, $1);
+          $$i++;
+          $nl = $file->[$$i + 1];
+        }
+        push(@{$step{EVID}}, { ipr => $ipr, sig => $sig, go => $go });
 
     }elsif($l =~ /^EV\s{2}(GenProp\d{4});/){
         my $gp = $1;
