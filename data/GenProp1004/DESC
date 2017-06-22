@@ -19,8 +19,7 @@ EV  IPR005969; TIGR01278; sufficient;
 --
 SN  2
 ID  Protochlorophyllide reductase, iron protein subunit BchL
-DN  Light-independent protochlorophyllide reductase iron-sulphur 
-DN  component/ChlL/BchL (EC 1.3.7.7)
+DN  Light-independent protochlorophyllide reductase iron-sulphur component/ChlL/BchL (EC 1.3.7.7)
 RQ  1
 EV  IPR005971; TIGR01281; sufficient;
 --

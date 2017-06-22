@@ -10,17 +10,16 @@ use GenomePropertiesIO;
 my @dirs;
 my $recursive = 1;
 my $all;
-
+$| = 1;
 GetOptions ( "recursive=i" => \$recursive,
              "gp=s"        => \@dirs,
              "all"         => \$all ) or die;
 
 if($all){
   opendir(D, ".");
-  @dirs = grep{ $_ =~ /GenProp\d{4}/}readdir(D);
+  @dirs = sort {$a cmp $b } grep{ $_ =~ /GenProp\d{4}/}readdir(D);
   closedir(D);
 }
 
-my $dir= shift;
 my $gp = GenomeProperties->new;
 GenomePropertiesIO::validateGP(\@dirs, $gp, $recursive);

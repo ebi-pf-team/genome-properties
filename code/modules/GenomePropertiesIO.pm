@@ -21,6 +21,7 @@ sub validateGP {
 
   #Read the DESC
   foreach my $dir (@$dirs){
+    p($dir);
     eval{
       parseDESC("$dir/DESC", $gp);
     };
@@ -59,7 +60,7 @@ sub validateGP {
           foreach my $evidence (@{$step->get_evidence}){
             if($evidence->interpro){
               if(!defined($seqs->{$step->order})){
-                warn("Did not find a sequence for ".$step->order."\n");
+                warn("Did not find a sequence for ".$step->order." in $prop_acc\n");
                 $errors++;
               }
               next STEP;
