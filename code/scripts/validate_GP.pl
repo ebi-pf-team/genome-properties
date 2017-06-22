@@ -3,7 +3,6 @@
 use strict;
 use warnings;
 use Getopt::Long;
-use DDP;
 
 use GenomePropertiesIO;
 
