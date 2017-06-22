@@ -11,23 +11,23 @@ RA  Kim AD, Baker AS, Dunaway-Mariano D, Metcalf WW, Wanner BL, Martin BM;
 RL  J Bacteriol. 2002;184:4134-4140.
 DC  Aminophosphonate metabolism
 DR  KEGG; map00440;
-CC  The enzyme 2-aminoethylphosphonate--pyruvate transaminase (PhnW, EC
-CC  2.6.1.37) interconverts 2-aminoethylphosphonate plus pyruvate with
+CC  The enzyme 2-aminoethylphosphonate--pyruvate transaminase (AEPT) 
+CC  interconverts 2-aminoethylphosphonate plus pyruvate with
 CC  2-phosphonoacetaldehyde plus alanine. The enzyme phosphonoacetaldehyde
 CC  hydrolase, a HAD superfamily hydrolase, breaks the C-P bond, yielding
-CC  acetaldehyde plus inorganic phosphate. In species that appear to encode
-CC  a phosphonate ABC transporter, this property is likely to be present
-CC  only when the large phosphonate operon proposed to encode a
+CC  acetaldehyde plus inorganic phosphate[1]. In species that appear to 
+CC  encode a phosphonate ABC transporter, this property is likely to be 
+CC  present only when the large phosphonate operon proposed to encode a
 CC  multisubunit C-P lyase, as found in Escherichia coli, is not found.
 --
-SN  phnW
+SN  1
 ID  2-aminoethylphosphonate--pyruvate transaminase
 DN  2-aminoethylphosphonate--pyruvate transaminase (EC:2.6.1.37)
 RQ  1
 EV  IPR012703; TIGR02326; sufficient;
 TG  GO:0019635;
 --
-SN  phnX
+SN  2
 ID  Phosphonoacetaldehyde hydrolase
 DN  Phosphonoacetaldehyde hydrolase (EC:3.11.1.1)
 RQ  1

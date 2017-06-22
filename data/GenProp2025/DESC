@@ -27,9 +27,10 @@ CC  caspases activate the executor caspases which cleave other proteins
 CC  in the cell.  There are at least four routes by which the initiator
 CC  caspase precursors are activated.  This Genome Property describes
 CC  caspase activation via calpain following calcium release during 
-CC  the endoplasmic reticulum stress response.
+CC  the endoplasmic reticulum stress response [1].
 **  Requires apoptosis review. 
-**  Human caspase-12 is defective.
+**  Human caspase-12 is defective because of a frame-changing mutation.
+**  Bonobo caspase-12 has the active site His replaced.
 **  NDR is unaware of any publication that reports activation of an 
 **  executor caspase by caspase-12. Ref [2] reports than caspase-12
 **  induced cell death does not involve cleavage of caspase-3, DFF45 or 
@@ -48,7 +49,7 @@ SN  2
 ID  Caspase-12
 DN  Caspase-12 
 RQ  1
-EV  -; PTHR10454:SF191; sufficient;
+EV  IPR035713; PTHR10454:SF191; sufficient;
 TG  GO:0070059;
 --
 SN  3

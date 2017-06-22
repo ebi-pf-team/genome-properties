@@ -21,7 +21,8 @@ DR  KEGG; map03050;
 CC  The 26S proteasome is a complex of the 20S proteasome and the 19S 
 CC  proteasome cap.  The cap denatures proteins tagged with ubiquitin
 CC  for degradation, releases ubiquitin and controls access to the
-CC  central cavity of the 20S proteasome where degradation takes place.
+CC  central cavity of the 20S proteasome where degradation takes place 
+CC  [1].
 --
 SN  1
 ID  Eukaryote 20S proteasome

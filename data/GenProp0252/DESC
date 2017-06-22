@@ -13,28 +13,27 @@ DC  Thiamine metabolism
 DR  KEGG; map00730;
 CC  This property describes a three-component ABC transporter, ThiBPQ, for
 CC  thiamine and/or thiamine derivatives. It is demonstrated experimentally
-CC  in Salmonella typhimurium and E. coli (PMID:9535878) and is inferred
-CC  from gene location next to genes for thiamine salvage enzymes in
-CC  Brucella suis, Sinorhizobium meliloti, etc. All known examples are in
-CC  the Proteobacteria.
+CC  in Salmonella typhimurium and E. coli[1], and is inferred from gene 
+CC  location next to genes for thiamine salvage enzymes in Brucella suis and 
+CC  Sinorhizobium meliloti. All known examples are in Proteobacteria.
 --
-SN  binding
+SN  1
 ID  Thiamine binding protein
-DN  Thiamin/thiamin pyrophosphate ABC transporter, thiamin/thiamin pyrophospate-binding protein
+DN  Proteobacterial thiamine ABC transporter, periplasmic binding protein
 RQ  1
 EV  IPR005967; TIGR01276; sufficient;
 TG  GO:0030974;
 --
-SN  permase
+SN  2
 ID  Thiamine transporter permease
 DN  Thiamine/thiamine pyrophosphate ABC transporter, permease protein
 RQ  1
 EV  IPR005947; TIGR01253; sufficient;
 TG  GO:0030974;
 --
-SN  thiATP
+SN  3
 ID  Thiamine transporter ATP-binding protein
-DN  Thiamine ABC transporter, ATP-binding protein
+DN  Thiamine ABC transporter, ATP-binding protein ThiQ
 RQ  1
 EV  IPR005968; TIGR01277; sufficient;
 TG  GO:0030974;

@@ -20,9 +20,9 @@ CC  a specificity for aspartyl bonds, which occur frequently in surface
 CC  loops and interdomain regions of proteins.  Caspases involved in
 CC  apoptosis are of two kinds: initiators and executors.  Initiator
 CC  caspases activate the executor caspases which cleave other proteins
-CC  in the cell.  There are at least four routes by which the initiator
-CC  caspase precursors are activated.  This Genome Property includes
-CC  the extrinsic pathway initiator caspases.
+CC  in the cell [1].  There are at least four routes by which the 
+CC  initiator caspase precursors are activated.  This Genome Property 
+CC  includes the extrinsic pathway initiator caspases.
 **  Needs review of apoptosis.
 --
 SN  1
@@ -36,6 +36,6 @@ SN  2
 ID  Caspase-10
 DN  Caspase-10 (EC:3.4.22.63)
 RQ  1
-EV  -; PTHR10454:SF192; sufficient;
+EV  IPR035701; PTHR10454:SF192; sufficient;
 TG  GO:0097199;
 //

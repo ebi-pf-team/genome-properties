@@ -41,15 +41,15 @@ RA  Kuehl WM; Gray NS; Sabatini DM;
 RL  Cell. 2009;137:873-886.
 CC  mTORC1 (mammalian target of rapamycin complex 1 or mechanistic 
 CC  target of rapamycin complex 1) is a nutrient sensor which  
-CC  controls protein synthesis by activating protein translation. 
+CC  controls protein synthesis by activating protein translation [1]. 
 CC  Protein synthesis requires a supply of amino acids, an energy
 CC  source, oxygen abundance and the required growth factors.  When
 CC  these conditons are met, Rag GTPase heterodimers are activated, 
 CC  interact with Raptor and mTORC1 is localized to the lysosomal
 CC  membrane surface where it can interact with the G protein Rheb
-CC  and ATP.  The pathway is controlled by two complexes that
+CC  and ATP [2, 3].  The pathway is controlled by two complexes that
 CC  interact with the Rag GTPase, GATOR1 (inhibitor) and GATOR2
-CC  (activator).
+CC  (activator) [4].
 **  mTOR is a serine/threonine kinase that phosphorylates up to
 **  800 proteins and is also a component of the mTORC2 complex.
 --

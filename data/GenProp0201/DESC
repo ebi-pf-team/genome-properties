@@ -19,34 +19,32 @@ RA  Dervyn E, Noirot-Gros MF, Mervelet P, McGovern S, Ehrlich SD, Polard P,
 RA  Noirot P;
 RL  Mol Microbiol. 2004;51:1629-1640.
 CC  scpA and scpB (segregation and condensation) are proposed [1,2] to act
-CC  with SMC (structural maintenance of chromosome). SMC is not universal,
-CC  but is found in Eukaryotes, Archaea, and Bacteria. It is homodimeric in
-CC  Archaea and Bacteria. A mutation study [2] has shown a role for scpA in
-CC  DNA repair in addition to its role in chromosome condensation and
-CC  segregation. Proteins that act with SMC may be termed kleisins;
-CC  Different SMC/kleisin complexes are termed cohesins and condensins. 
-CC  ScpA and ScpB are clustered in most bacteria.  SMC and scpA tend to be
-CC  clustered in the archaea.
-**   ScpA and ScpB are clustered in most bacteria.  SMC and scpA tend to be
-**  clustered in the archaea. 
+CC  with SMC (structural maintenance of chromosome) in chromosome 
+CC  organization. SMC is not universal, but is found in Eukaryotes, Archaea, 
+CC  and Bacteria. It is homodimeric in Archaea and Bacteria. A mutation 
+CC  study [2] has shown a role for scpA in DNA repair in addition to its 
+CC  role in chromosome condensation and segregation. Proteins that act with 
+CC  SMC may be termed kleisins. Different SMC/kleisin complexes are termed 
+CC  cohesins and condensins. ScpA and ScpB are clustered in most bacteria.
+CC  SMC and scpA tend to be clustered in the archaea.
 --
-SN  SMC
+SN  1
 ID  Smc protein
-DN  Chromosome segregation protein SMC
+DN  Structural maintenance of chromosomes protein, SMC
 RQ  1
 EV  IPR011890; TIGR02168; sufficient;
 TG  GO:0030261;
 EV  IPR011890; TIGR02169; sufficient;
 TG  GO:0030261;
 --
-SN  scpA
+SN  2
 ID  ScpA protein
 DN  Segregation and condensation protein A
 RQ  1
 EV  IPR003768; PF02616; sufficient;
 TG  GO:0030261;
 --
-SN  scpB
+SN  3
 ID  ScpB protein
 DN  Segregation and condensation protein B
 RQ  1

@@ -13,7 +13,7 @@ DR  KEGG; map00350;
 CC  4-hydroxyphenylacetic acid, a degradation product of tyrosine via one
 CC  of several routes, of phenylalanine via phenylacetate, and of
 CC  environmental DDT is metabolized in this pathway to the common
-CC  metabolites succinate and pyruvate via homoprotocatechuate. 
+CC  metabolites succinate and pyruvate via homoprotocatechuate[1]. 
 CC  4-hydroxyphenylacetic acid may also be found in the environment and
 CC  transported into the cell.  The genes encoding the components of this
 CC  pathway are often organized into apparent operons which include
@@ -30,90 +30,103 @@ CC  metabolized instead of 4-hydroxyphenylacetic acid.
 **  the feat_names of those things marked as FRAMESHIFT or POINT_MUTATION
 **  in other steps.
 --
-SN  DISRPT
-ID  APPARENT DISRUPTED READING FRAMES
-RQ  0
---
-SN  SSDH
+SN  1
 ID  Succinate-semialdehyde dehydrogenase
+DN  Succinate semialdehyde dehydrogenase (EC 1.2.1.-)
 RQ  1
 EV  IPR010102; TIGR01780; sufficient;
 --
-SN  hpaA
+SN  2
 ID  Regulatory protein, HpaA
+DN  4-hydroxyphenylacetate catabolism regulatory protein HpaA
 RQ  0
 EV  IPR011983; TIGR02297; sufficient;
 TG  GO:0009894;
 --
-SN  hpaB
+SN  3
 ID  4-hydroxyphenylacetate 3-monooxygenase, large subunit
+DN  4-HPA 3-monooxygenase large component 
 RQ  1
 EV  IPR012687; TIGR02309; sufficient;
 TG  GO:0042537;
 EV  IPR012688; TIGR02310; sufficient;
 TG  GO:0042537;
 --
-SN  hpaC
+SN  4
 ID  4-hydroxyphenylacetate 3-monooxygenase, small subunit
+DN  4-hydroxyphenylacetate 3-monooxygenase, reductase component
 RQ  1
 EV  IPR011982; TIGR02296; sufficient;
 TG  GO:0042537;
 --
-SN  hpaD
+SN  5
 ID  3,4-dihydroxyphenylacetate 2,3-dioxygenase (1.13.11.15)
+DN  3,4-dihydroxyphenylacetate 2,3-dioxygenase (EC 1.13.11.15)
 RQ  1
 EV  IPR011981; TIGR02295; sufficient;
 TG  GO:0042537;
 EV  IPR011984; TIGR02298; sufficient;
 TG  GO:0042537;
 --
-SN  hpaE
+SN  6
 ID  5-carboxymethyl-2-hydroxymuconic-semialdehyde dehydrogenase (1.2.1.60)
+DN  5-carboxymethyl-2-hydroxymuconate semialdehyde dehydrogenase (EC 1.2.1.60)
 RQ  1
 EV  IPR011985; TIGR02299; sufficient;
 TG  GO:0042537;
 --
-SN  hpaF
+SN  7
 ID  5-carboxymethyl-2-hydroxymuconate delta-isomerase (5.3.3.10)
+DN  5-carboxymethyl-2-hydroxymuconate isomerase (EC 5.3.3.10)
 RQ  1
 EV  IPR004220; PF02962; sufficient;
 TG  GO:0042537;
 --
-SN  hpaG-C
+SN  8
 ID  Bifunctional decarboxylase/isomerase, C-terminal
+DN  4-hydroxyphenylacetate degradation bifunctional isomerase/decarboxylase, C-terminal
 RQ  1
 EV  IPR012684; TIGR02303; sufficient;
 TG  GO:0042537;
 --
-SN  hpaG-N
+SN  9
 ID  Bifunctional decarboxylase/isomerase, N-terminal
+DN  4-hydroxyphenylacetate degradation bifunctional isomerase/decarboxylase, N-terminal
 RQ  1
 EV  IPR012686; TIGR02305; sufficient;
 TG  GO:0042537;
 --
-SN  hpaH
+SN  10
 ID  2-oxo-hepta-3-ene-1,7-dioate hydratase
+DN  2-oxo-hepta-4-ene-1,7-dioic acid hydratase 
 RQ  1
 EV  IPR012690; TIGR02312; sufficient;
 TG  GO:0042537;
 --
-SN  hpaI
+SN  11
 ID  2,4-dihydroxyhept-2-ene-1,7-dioic acid aldolase
+DN  2,4-dihydroxyhept-2-ene-1,7-dioic acid aldolase
 RQ  1
 EV  IPR012689; TIGR02311; sufficient;
 TG  GO:0042537;
 EV  IPR012691; TIGR02313; sufficient;
 TG  GO:0042537;
 --
-SN  hpaR
+SN  12
 ID  Regulatory protein, HpaR
+DN  Homoprotocatechuate degradation transcriptional regulator HpaR
 RQ  0
 EV  IPR012712; TIGR02337; sufficient;
 TG  GO:0009894;
 --
-SN  trnsprt
+SN  13
 ID  Probable 4-hydroxyphenylacetate transporters
+DN  4-hydroxyphenylacetate permease
 RQ  0
 EV  IPR012707; TIGR02332; sufficient;
 TG  GO:0046942;
+--
+SN  14
+ID  APPARENT DISRUPTED READING FRAMES
+RQ  0
 //

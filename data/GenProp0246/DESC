@@ -17,27 +17,27 @@ RL  FEBS Lett. 1998;430:73-77.
 CC  The archaeal thermosome system is a group II chaperonin, closely
 CC  related to the CCT complex of eukaryotes. Thermosome subunits show
 CC  clear remote sequence similarity to GroEL of the bacterial group I
-CC  chaperonin system. Prefoldin, with alpha and beta subunits, works with
-CC  the chaperonin. The number of distinct but homologous genes for
-CC  subunits of the thermosome ranges from one to five in the archaea, and
-CC  this property is based simply on finding at least one, plus the two
-CC  subunits of the archaeal form of prefoldin.
+CC  chaperonin system[1,2]. Prefoldin, with alpha and beta subunits, works
+CC  with the chaperonin. The number of distinct but homologous genes for
+CC  subunits of the thermosome ranges from one to five in the archaea.
+**  This property is based simply on finding at least one, plus the two
+**  subunits of the archaeal form of prefoldin.
 --
-SN  prefldA
+SN  1
 ID  Prefoldin, alpha subunit
 DN  Prefoldin, alpha subunit
 RQ  1
 EV  IPR011599; TIGR00293; sufficient;
 TG  GO:0006457;
 --
-SN  prefldB
+SN  2
 ID  Prefoldin, beta subunit
 DN  Prefoldin, beta subunit
 RQ  1
 EV  IPR012713; TIGR02338; sufficient;
 TG  GO:0006457;
 --
-SN  thrmsom
+SN  3
 ID  Thermosome subunit(s)
 DN  Thermosome subunit
 RQ  1

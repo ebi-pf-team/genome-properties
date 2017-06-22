@@ -19,7 +19,7 @@ CC  8-amino-7-oxononanoate (AON). Adenosylmethionine-8-amino-7-oxononanoate
 CC  aminotransferase (gene BioA) converts the product to 
 CC  7,8-diaminononanoate, from which dethiobiotin synthase (gene BioD) 
 CC  makes dethiobiotin. Biotin synthase (gene BioB) then makes biotin 
-CC  itself. Enzymes such as carboxylesterase (gene BioH), which are 
+CC  itself[1]. Enzymes such as carboxylesterase (gene BioH), which are 
 CC  involved in pimeloyl-CoA biosynthesis typically receive biotin-related 
 CC  annotations, but may also appear in genomes in which biotin is not 
 CC  synthesized and pimeloyl-CoA is used for something else.

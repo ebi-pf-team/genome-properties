@@ -3,12 +3,19 @@ DE  Coenzyme F420 utilization
 TP  GUILD
 AU  Haft DH
 TH  0
+RN  [1]
+RM  11726492
+RT  Structures of F420H2:NADP+ oxidoreductase with and without its
+RT  substrates bound.
+RA  Warkentin E, Mamat B, Sordel-Klippert M, Wicke M, Thauer RK, Iwata M,
+RA  Iwata S, Ermler U, Shima S;
+RL  EMBO J. 2001;20:6561-6569.
 DC  Methane Biosynthesis
 DR  IUBMB; misc; methane;
 DC  Coenzyme F420 hydrogenase
 DR  IUBMB; single; 112981;
 CC  Coenzyme F420 (a 7,8-didemethyl-8-hydroxy 5-deazaflavin) is found in
-CC  methanogenic archaea, the Mycobacteria, and some other species. Forms
+CC  methanogenic archaea, the Mycobacteria, and some other species[1]. Forms
 CC  differ in the number of glutamyl residues attached. The chromophore by
 CC  itself, FO, often can replace intact F420, so the literature will
 CC  occasionally describe an enzyme dependent on FO. This does not

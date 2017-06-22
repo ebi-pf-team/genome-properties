@@ -20,7 +20,7 @@ CC  of the pathology.  Release of the Abeta peptide requires two
 CC  proteolytic cleavages, cleavage by beta-secretase in the extracellular
 CC  domain, and then cleavage at the gamma and epsilon sites by gamma
 CC  secretase.  The proteolytic component of gamma secretase is presenilin
-CC  which is an aspartic endopeptidase.
+CC  which is an aspartic endopeptidase [1].
 **  Reference [1] is in press but available electronically.
 **  The complex contains either presenilin 1 or presenilin 2.
 **  Only the precursors of senilin have proteolytic activity.

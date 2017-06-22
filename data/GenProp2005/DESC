@@ -18,7 +18,8 @@ CC  activated, known as the classical, alternative and lectin pathways.
 CC  Activation involves proteolytic cascades which are different for each
 CC  of the activation pathways.  The classical and lectin pathways converge
 CC  at the activation of the C2/C4 complex, whereas the alternative pathway
-CC  converges at C5 activation.  The pathways are found only in chordates.
+CC  converges at C5 activation [1].  The pathways are found only in 
+CC  chordates.
 --
 SN  1
 ID  Complement C1q subcomponent subunit A
@@ -42,7 +43,7 @@ SN  4
 ID  Complement C1r subcomponent
 DN  Complement C1r subcomponent (EC:3.4.21.41)
 RQ  1
-EV  -; PTHR24256:SF407; sufficient;
+EV  IPR035707; PTHR24256:SF407; sufficient;
 --
 SN  5
 ID  Complement C1s subcomponent

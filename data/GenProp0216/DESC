@@ -4,12 +4,18 @@ TP  SYSTEM
 AU  Haft DH
 TH  0
 RN  [1]
+RM  28369478
+RT  A non-catalytic role of RecBCD in homology directed gap repair and
+RT  translesion synthesis.
+RA  Laureti L, Lee L, Philippin G, Pages V;
+RL  Nucleic Acids Res. 2017;45:5877-5886.
+RN  [2]
 RM  14604803
 RT  The genome stability in Corynebacterium species due to lack of the
 RT  recombinational repair system.
 RA  Nakamura Y, Nishio Y, Ikeo K, Gojobori T;
 RL  Gene. 2003;317:149-155.
-RN  [2]
+RN  [3]
 RM  12815437
 RT  RecBCD enzyme is a DNA helicase with fast and slow motors of opposite
 RT  polarity.
@@ -20,11 +26,11 @@ CC  complex, which participates in at least two different processes. As
 CC  exodeoxyribonuclease V, it degrades linear double-stranded DNA, as
 CC  might occur by cleavage of exogenous DNA by restriction systems. It
 CC  also acts to repair double-stranded breaks in DNA by homologous
-CC  recombination; genera that lack this complex tend to show stronger
-CC  conservation of gene order between species. The RecBCD heterotrimer
+CC  recombination [1]; genera that lack this complex tend to show stronger
+CC  conservation of gene order between species[2]. The RecBCD heterotrimer
 CC  interacts with instances of the DNA sequence GCTGGTGG in E. coli,
 CC  called Chi, which are recombinational hotspots. RecBCD promotes loading
-CC  the strand exchange protein RecA onto chi-containing DNA.
+CC  the strand exchange protein RecA onto chi-containing DNA[3].
 CC  Double-stranded breaks are processed by AddAB rather than by RecBCD in
 CC  the Firmicutes and in alpha-Proteobacteria.
 **  Note: RecBCD works closely with RecA, helps load it, for recombination
@@ -33,23 +39,23 @@ CC  the Firmicutes and in alpha-Proteobacteria.
 **  and AddAB in gram-positive bacteria, except they find AddAB replace
 **  RecBCD in members of alphaProteobacteria such as Rhizobium etli.
 --
-SN  recB
+SN  1
 ID  Exodeoxyribonuclease V, beta subunit
-DN  Exodeoxyribonuclease V beta subunit (EC:3.1.11.5)
+DN  RecBCD enzyme subunit RecB (EC:3.1.11.5)
 RQ  1
 EV  IPR004586; TIGR00609; sufficient;
 TG  GO:0000738;
 --
-SN  recC
+SN  2
 ID  Exodeoxyribonuclease V, gamma subunit
-DN  Exodeoxyribonuclease V gamma subunit (EC:3.1.11.5)
+DN  RecBCD enzyme subunit RecC (EC:3.1.11.5)
 RQ  1
 EV  IPR006697; TIGR01450; sufficient;
 TG  GO:0000738;
 --
-SN  recD
+SN  3
 ID  Exodeoxyribonuclease V, alpha subunit
-DN  Exodeoxyribonuclease V alpha subunit (EC:3.1.11.5)
+DN  RecBCD enzyme subunit RecD (EC:3.1.11.5)
 RQ  1
 EV  IPR006344; TIGR01447; sufficient;
 TG  GO:0000738;

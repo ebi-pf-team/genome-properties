@@ -21,13 +21,13 @@ DC  RNA polymerase
 DR  KEGG; map03020;
 CC  This property describes the bacterial multisubunit DNA-directed RNA
 CC  polymerase (EC 2.7.7.6). This property does not include sigma factors
-CC  (at present), which are regulatory and varied, and so by definition
+CC  which are regulatory and varied, and so by definition this property
 CC  describes the core enzyme rather than the holoenzyme. Subunit
 CC  stochiometry is two alpha subunits to one each of beta and beta'. In
 CC  Cyanobacteria and plastids, beta' is replaced by two proteins, one like
 CC  the N-term of beta' (called gamma in Cyanobacteria and, confusingly,
 CC  beta' in plastids) and one like the C-term of beta' (called beta' in
-CC  Cyanobacteria and beta'' in plastids).
+CC  Cyanobacteria and beta'' in plastids)[1].
 **  PMID: 12426327 says omega subunit universal in free-living bacteria to
 **  date.
 --
