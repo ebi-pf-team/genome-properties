@@ -31,39 +31,39 @@ CC  Cyanobacteria and beta'' in plastids)[1].
 **  PMID: 12426327 says omega subunit universal in free-living bacteria to
 **  date.
 --
-SN  rnaPdlt
+SN  1
 ID  RNA polymerase delta
 DN  DNA-directed RNA polymerase, delta subunit
 RQ  0
 EV  IPR029757; TIGR04567; sufficient;
 --
-SN  rpoA
+SN  2
 ID  RNA polymerase alpha
 DN  DNA-directed RNA polymerase, alpha subunit
 RQ  1
 EV  IPR011773; TIGR02027; sufficient;
 --
-SN  rpoB
+SN  3
 ID  RNA polymerase beta
 DN  DNA-directed RNA polymerase, beta subunit
 RQ  1
 EV  IPR010243; TIGR02013; sufficient;
 --
-SN  rpoC_C
+SN  4
 ID  RNA polymerase beta', C-terminal region
 DN  DNA-directed RNA polymerase beta' C/subunit beta''(plastid)/beta'(cyanobacteria)
 RQ  1
 EV  IPR012756; TIGR02388; sufficient;
 EV  IPR012754; TIGR02386; sufficient;
 --
-SN  rpoC_N
+SN  5
 ID  RNA polymerase beta', N-terminal region
 DN  DNA-directed RNA polymerase beta' N/subunit beta'(plastid)/gamma(cyanobacteria)
 RQ  1
 EV  IPR012755; TIGR02387; sufficient;
 EV  IPR012754; TIGR02386; sufficient;
 --
-SN  rpoZ
+SN  6
 ID  RNA polymerase omega
 DN  DNA-directed RNA polymerase, omega subunit
 RQ  0
