@@ -31,11 +31,6 @@ CC  Cyanobacteria and beta'' in plastids)[1].
 **  PMID: 12426327 says omega subunit universal in free-living bacteria to
 **  date.
 --
-SN  DISRPT
-ID  APPARENT DISRUPTED READING FRAMES
-DN  NOT APPLICABLE
-RQ  0
---
 SN  rnaPdlt
 ID  RNA polymerase delta
 DN  DNA-directed RNA polymerase, delta subunit
