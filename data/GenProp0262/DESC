@@ -56,12 +56,14 @@ EV  IPR010243; TIGR02013; sufficient;
 --
 SN  rpoC_C
 ID  RNA polymerase beta', C-terminal region
+DN  DNA-directed RNA polymerase beta' C/subunit beta''(plastid)/beta'(cyanobacteria)
 RQ  1
 EV  IPR012756; TIGR02388; sufficient;
 EV  IPR012754; TIGR02386; sufficient;
 --
 SN  rpoC_N
-ID  RNA polymerase beta', C-terminal
+ID  RNA polymerase beta', N-terminal region
+DN  DNA-directed RNA polymerase beta' N/subunit beta'(plastid)/gamma(cyanobacteria)
 RQ  1
 EV  IPR012755; TIGR02387; sufficient;
 EV  IPR012754; TIGR02386; sufficient;
