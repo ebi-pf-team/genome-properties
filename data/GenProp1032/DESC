@@ -41,6 +41,7 @@ EV  GenProp0950;
 --
 SN  rfbC
 ID  dTDP-4-dehydrorhamnose 3,5-epimerase
+DN  dTDP-4-dehydrorhamnose 3,5-epimerase (EC 5.1.3.13)
 RQ  1
 EV  IPR000888; TIGR01221;
 //
