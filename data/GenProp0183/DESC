@@ -23,12 +23,12 @@ CC  dTDP-4-dehydrorhamnose reductase (also known as dTDP-6-deoxy-L-lyxo-4-hexulo
 CC  reductase (gene name rmlD or rfbD)[1]. This property refers to the final step in 
 CC  this pathway, the conversion of dTDP-4-dehydro-L-rhamose to dTDP-L-rhamnose.
 --
-SN  4dhLRha
+SN  1
 ID  Source of dTDP-4-dehydro-L-rhamnose
 RQ  1
 EV  GenProp1032;
 --
-SN  rfbD
+SN  2
 ID  dTDP-4-dehydrorhamnose reductase
 DN  dTDP-4-dehydrorhamnose reductase (EC 1.1.1.133)
 RQ  1
