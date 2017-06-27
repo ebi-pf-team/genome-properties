@@ -1,7 +1,7 @@
 AC  GenProp0183
 DE  dTDP-L-rhamnose biosynthesis from dTDP-4-dehydro-L-rhamnose
 TP  METAPATH
-AU  Haft DH
+AU  Haft DH, Richardson L
 TH  0
 RN  [1]
 RM  10802738
@@ -13,6 +13,15 @@ DC  Streptomycin biosynthesis
 DR  KEGG; map00521;
 DC  dTDP-L-rhamnose biosynthesis I
 DR  MetaCyc; Rhamnose-Biosynthesis;
+CC  dTDP-L-rhamnose is synthesized from glucose-1-phosphate and deoxythymidine
+CC  triphosphate (dTTP) via a four-step enzymatic pathway. The four enzymes are: 
+CC  glucose-1-phosphate thymidyltransferase (also known as dTDP-glucose 
+CC  pyrophosphorylase, gene name rlmA or rfbA); dTDP-D-glucose 4,6-dehydratase (gene 
+CC  name rmlB or rfbB); dTDP-4-dehydrorhamnose 3,5-epimerase (also known as 
+CC  dTDP-6-deoxy-D-xylo-4-hexulose 3,5-epimerase, gene name rmlC or rfbC); and 
+CC  dTDP-4-dehydrorhamnose reductase (also known as dTDP-6-deoxy-L-lyxo-4-hexulose 
+CC  reductase (gene name rmlD or rfbD)[1]. This property refers to the final step in 
+CC  this pathway, the conversion of dTDP-4-dehydro-L-rhamose to dTDP-L-rhamnose.
 --
 SN  4dhLRha
 ID  Source of dTDP-4-dehydro-L-rhamnose
