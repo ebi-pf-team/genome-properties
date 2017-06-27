@@ -36,14 +36,14 @@ CC  dTDP-4-dehydrorhamnose reductase (also known as dTDP-6-deoxy-L-lyxo-4-hexulo
 CC  reductase (gene name rmlD or rfbD)[1,2]. This property refers to the first two
 CC  steps of this pathway.
 --
-SN  rfbA
+SN  1
 ID  Glucose-1-phosphate thymidylyltransferase
 DN  Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)
 RQ  1
 EV  IPR005907; TIGR01207; sufficient;
 EV  IPR005908; TIGR01208; sufficient;
 --
-SN  rfbB
+SN  2
 ID  dTDP-glucose 4,6-dehydratase
 DN  dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)
 RQ  1
