@@ -30,7 +30,7 @@ EV  GenProp1032;
 --
 SN  rfbD
 ID  dTDP-4-dehydrorhamnose reductase
-DN  dTDP-4-dehydrorhamnose reductase
+DN  dTDP-4-dehydrorhamnose reductase (EC 1.1.1.133)
 RQ  1
 EV  IPR005913; TIGR01214; sufficient;
 //
