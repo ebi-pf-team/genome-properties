@@ -12,7 +12,7 @@ RL  Nat Struct Biol. 2000;7:398-402.
 DC  Streptomycin biosynthesis
 DR  KEGG; map00521;
 DC  dTDP-L-rhamnose biosynthesis I
-DR  MetaCyc; Rhamnose-Biosynthesis;
+DR  MetaCyc; DTDPRHAMSYN-PWY;
 CC  dTDP-L-rhamnose is synthesized from glucose-1-phosphate and deoxythymidine
 CC  triphosphate (dTTP) via a four-step enzymatic pathway. The four enzymes are: 
 CC  glucose-1-phosphate thymidyltransferase (also known as dTDP-glucose 
