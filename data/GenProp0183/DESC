@@ -13,6 +13,8 @@ DC  Streptomycin biosynthesis
 DR  KEGG; map00521;
 DC  dTDP-L-rhamnose biosynthesis I
 DR  MetaCyc; DTDPRHAMSYN-PWY;
+CC  L-rhamnose is a common component of the bacterial capsule and/or cell wall, and is important in
+CC  bacterial survival during infection. dTDP-L-rhamnose is the precursor of L-rhamnose.
 CC  dTDP-L-rhamnose is synthesized from glucose-1-phosphate and deoxythymidine
 CC  triphosphate (dTTP) via a four-step enzymatic pathway. The four enzymes are: 
 CC  glucose-1-phosphate thymidyltransferase (also known as dTDP-glucose 
