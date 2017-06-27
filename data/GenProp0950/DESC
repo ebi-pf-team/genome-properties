@@ -10,6 +10,16 @@ RT  into dTDP-l-rhamnose.
 RA  Dong C, Beis K, Giraud MF, Blankenfeldt W, Allard S, Major LL, Kerr ID,
 RA  Whitfield C, Naismith JH;
 RL  Biochem Soc Trans. 2003;31:532-536.
+RN  [2]
+RM  10802738
+RT  RmlC, the third enzyme of dTDP-L-rhamnose pathway, is a new class of
+RT  epimerase.
+RA  Giraud MF, Leonard GA, Field RA, Berlind C, Naismith JH;
+RL  Nat Struct Biol. 2000;7:398-402.
+DC  Streptomycin biosynthesis
+DR  KEGG; map00521;
+DC  dTDP-L-rhamnose biosynthesis I
+DR  MetaCyc; DTDPRHAMSYN-PWY;
 DC  6-Deoxyhexose Biosynthesis
 DR  IUBMB; polysacc; deoxyhex;
 CC  4,6-dideoxy-4-oxo-dTDP-D-glucose is an intermediate in the biosynthesis
