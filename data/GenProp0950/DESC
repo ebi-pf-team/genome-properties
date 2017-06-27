@@ -22,7 +22,7 @@ DC  dTDP-L-rhamnose biosynthesis I
 DR  MetaCyc; DTDPRHAMSYN-PWY;
 DC  6-Deoxyhexose Biosynthesis
 DR  IUBMB; polysacc; deoxyhex;
-CC  4,6-dideoxy-4-oxo-dTDP-D-glucose is an intermediate in the biosynthesis
+CC  dTDP-4-dehydro-6-deoxy-alpha-D-glucose is an intermediate in the biosynthesis
 CC  of L-rhamnose and D-fucosamine derivatives.
 --
 SN  rfbA
