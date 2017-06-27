@@ -34,12 +34,12 @@ CC  this pathway, the conversion of dTDP-4-dehydro-6-deoxy-alpha-D-glucose to
 CC  dTDP-4-dehydro-L-rhamnose.dTDP-4-dehydro-L-rhamnose is a precursor of both dTDP-L-rhamnose and
 CC  dTDP-6-deoxy-L-talose.
 --
-SN  ddodtDg
+SN  1
 ID  Source of 4,6-dideoxy-4-oxo-dTDP-D-glucose
 RQ  1
 EV  GenProp0950;
 --
-SN  rfbC
+SN  2
 ID  dTDP-4-dehydrorhamnose 3,5-epimerase
 DN  dTDP-4-dehydrorhamnose 3,5-epimerase (EC 5.1.3.13)
 RQ  1
