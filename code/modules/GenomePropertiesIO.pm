@@ -17,11 +17,12 @@ my %TYPES = ( METAPATH => 1,
               );
 
 sub validateGP {
-  my($dirs, $gp, $recursive) = @_;
-
+  my($gp, $options) = @_;
+    
   #Read the DESC
-  foreach my $dir (@$dirs){
-    p($dir);
+  foreach my $dir (@{$options->{dirs}}){
+    #TODO: put status check in here
+
     eval{
       parseDESC("$dir/DESC", $gp);
     };
@@ -29,10 +30,10 @@ sub validateGP {
       print "$dir: does not pass check $@\n";
       open(E, ">", "$dir/error");
       print E "Error parsing DESC:\n $@\n";
-      close(E);
+      close(E);   
     }
   }
-  
+
   #Does it have any steps that we should have a sequence for testing
   if($gp->get_defs){
      my @gpsToCheck = keys %{$gp->get_defs};
@@ -42,42 +43,25 @@ sub validateGP {
       my $errors = 0;   
       my $errorMsg = '';
       my $prop = $gp->get_def($prop_acc);
-      if(scalar(@{$prop->get_steps})){
-        
-        my $seqs;
-        if( -e "$prop_acc/FASTA"){
-          eval{
-            $seqs = parseGpFASTA($prop_acc);
-          };
-          if($@){
-            warn "Error parsing Fasta: $@\n";
-            $errorMsg .= $@;
-            $errors++;
-          }
-        }
-        STEP:
-        foreach my $step (@{ $prop->get_steps }){
-          foreach my $evidence (@{$step->get_evidence}){
-            if($evidence->interpro){
-              if(!defined($seqs->{$step->order})){
-                warn("Did not find a sequence for ".$step->order." in $prop_acc\n");
-                $errors++;
-              }
-              next STEP;
-            }elsif($evidence->gp){
-              if($recursive){
-                if(!$gp->get_def($evidence->gp)){
-                  print "Adding GP\n";
-                  parseDESC($evidence->gp."/DESC", $gp); 
-                  push(@gpsToCheck, $gp);
-                }
-              }
-            }else{
-              die "Unknown evidence type\n";
-            }
-          }
+      
+      #Check threshold is less than number 
+      #of steps
+      _checkThreshold($prop, $errors, $errorMsg);
+
+      #Check type vs steps
+      _checkTypeAgainstStep($prop, $errors, $errorMsg);    
+      
+      #Check FASTA
+      my $moreGPsToCheck = _checkFASTA($prop, $errors, $errorMsg, $options, \@gpsToCheck);    
+      
+      if($moreGPsToCheck){
+        foreach my $gpTA (@$moreGPsToCheck){
+          parseDESC($gpTA."/DESC", $gp); 
+          push(@gpsToCheck, $gp);
         }
       }
+
+      
       if($errors){
         print "$prop_acc: does not pass check\n";
         open(E, ">", "$prop_acc/error");
@@ -89,11 +73,106 @@ sub validateGP {
       }
     }
   }
-
 }
 
 
 
+
+sub _checkFASTA {
+  my ($prop, $errors, $errorMsg, $options, $gpToCheckAR) = @_;
+
+  my $prop_acc = $prop->accession;
+  my @gpsToCheck;
+  #No steps, then we need to 
+  if(scalar(@{$prop->get_steps})){
+    my $seqs;
+    if( -e "$prop_acc/FASTA"){
+      eval{
+        $seqs = parseGpFASTA($prop_acc);
+      };
+      if($@){
+          warn "Error parsing Fasta: $@\n";
+          $errorMsg .= $@;
+          $errors++;
+      }
+    }
+    #We have parsed the file, now cross reference
+    STEP:
+    foreach my $step (@{ $prop->get_steps }){
+      foreach my $evidence (@{$step->get_evidence}){
+        if($evidence->interpro){
+          if(!defined($seqs->{$step->order})){
+              $errorMsg .= "Did not find a sequence for ".$step->order." in $prop_acc\n";
+              $errors++;
+          }
+          next STEP;
+        }elsif($evidence->gp){
+          my %all = map{ $_ => 1 } @$gpToCheckAR;
+          if($options->{recursive}){
+            if(!$all{$evidence->gp}){
+              push(@gpsToCheck, $evidence->gp);
+            }
+          }else{
+            if(!defined($all{$evidence->gp})){
+              warn("Reference to ".$evidence->gp." found, but not checked validity.\n");  
+            }
+          }
+        }else{
+          die "Unknown evidence type\n";
+        }
+      }
+    }
+  }
+  return(\@gpsToCheck);
+}
+
+sub _checkThreshold {
+  my ( $prop, $error, $error_msg) = @_;
+   
+  my $noStep = scalar(@{$prop->get_steps});
+  if($noStep > $prop->threshold){
+    $error++;
+    $error_msg .= "Threshold of greater than the number of steps\n";
+  }
+  return;
+}
+
+sub _checkTypeAgainstStep {
+  my ($prop, $errors, $errorMsg) = @_;
+
+  my $noSteps = scalar(@{$prop->get_steps});
+  if($prop->type eq 'ROOT' or $prop->type eq 'CATEGORY' or $prop->type eq 'SUMMARY'){
+    if($noSteps > 0){
+      $errors++;
+      $errorMsg .= "Got type ".$prop->type." but this should not have any steps\n";
+    }
+  }
+
+  if($prop->type eq 'GUILD' or $prop->type eq 'SYSTEM' 
+        or $prop->type eq 'PATHWAY' or $prop->type eq 'METAPATH'){
+    if($noSteps == 0){
+      $errors++;
+      $errorMsg .= "Got type ".$prop->type." but this should have steps\n";
+
+    }
+  }
+  
+  if($prop->type eq 'METAPATH'){
+    #All evidence should be GP.
+    STEP:
+    foreach my $step (@{ $prop->get_steps }){
+      foreach my $evidence (@{$step->get_evidence}){
+        if($evidence->interpro){
+          $errors++;
+          $errorMsg .= "Got InterPro as evidence in METAPATH\n";
+          last STEP;
+        }
+      }
+    }
+  }
+  
+
+}
 
 sub parseGpFASTA {
   my ($dir) = @_;
@@ -158,9 +237,12 @@ sub parseDESC {
     my $l = $file[$i];
     chomp($l);
     if ( length($l) > $expLen ) {
-      warn( "\nGot a DESC line that was longer the $expLen, $file[$i]\n\n"
+      #DE|DN|EV these are allowed to exceed length
+      if($l !~ /^(DE|DN|EV)/){
+        die( "\nGot a DESC line that was longer the $expLen, $file[$i]\n\n"
           . "-" x 80
           . "\n" );
+      }
     }
 
     if ( $file[$i] =~ /^(AC|DE|AU|TP|TH|)\s{2}(.*)$/ ) {
