@@ -1,18 +1,47 @@
 AC  GenProp1032
-DE  DTDP-4-dehydro-L-rhamnose biosynthesis from 4,6-dideoxy-4-oxo-dTDP-D-glucose
+DE  dTDP-4-dehydro-L-rhamnose biosynthesis from dTDP-4-dehydro-6-deoxy-alpha-D-glucose
 TP  METAPATH
-AU  Haft DH
+AU  Haft DH, Richardson L
 TH  0
-CC  dTDP-4-dehydro-L-rhamnose is a precursor of both dTDP-L-rhamnose and
+RN  [1]
+RM  12773151
+RT  A structural perspective on the enzymes that convert dTDP-d-glucose
+RT  into dTDP-l-rhamnose.
+RA  Dong C, Beis K, Giraud MF, Blankenfeldt W, Allard S, Major LL, Kerr
+RA  ID, Whitfield C, Naismith JH;
+RL  Biochem Soc Trans. 2003;31:532-536.
+RN  [2]
+RM  10802738
+RT  RmlC, the third enzyme of dTDP-L-rhamnose pathway, is a new class of
+RT  epimerase.
+RA  Giraud MF, Leonard GA, Field RA, Berlind C, Naismith JH;
+RL  Nat Struct Biol. 2000;7:398-402.
+DC  Streptomycin biosynthesis
+DR  KEGG; map00521;
+DC  dTDP-L-rhamnose biosynthesis I
+DR  MetaCyc; DTDPRHAMSYN-PWY;
+CC  L-rhamnose is a common component of the bacterial capsule and/or cell wall, and is important in
+CC  bacterial survival during infection. dTDP-L-rhamnose is the precursor of L-rhamnose[1,2].
+CC  dTDP-L-rhamnose is synthesized from glucose-1-phosphate and deoxythymidine
+CC  triphosphate (dTTP) via a four-step enzymatic pathway. The four enzymes are: 
+CC  glucose-1-phosphate thymidyltransferase (also known as dTDP-glucose 
+CC  pyrophosphorylase, gene name rlmA or rfbA); dTDP-D-glucose 4,6-dehydratase (gene 
+CC  name rmlB or rfbB); dTDP-4-dehydrorhamnose 3,5-epimerase (also known as 
+CC  dTDP-6-deoxy-D-xylo-4-hexulose 3,5-epimerase, gene name rmlC or rfbC); and 
+CC  dTDP-4-dehydrorhamnose reductase (also known as dTDP-6-deoxy-L-lyxo-4-hexulose 
+CC  reductase (gene name rmlD or rfbD)[1,2]. This property refers to the third step in 
+CC  this pathway, the conversion of dTDP-4-dehydro-6-deoxy-alpha-D-glucose to 
+CC  dTDP-4-dehydro-L-rhamnose.dTDP-4-dehydro-L-rhamnose is a precursor of both dTDP-L-rhamnose and
 CC  dTDP-6-deoxy-L-talose.
 --
-SN  ddodtDg
+SN  1
 ID  Source of 4,6-dideoxy-4-oxo-dTDP-D-glucose
 RQ  1
 EV  GenProp0950;
 --
-SN  rfbC
-ID  DTDP-4-dehydrorhamnose 3,5-epimerase
+SN  2
+ID  dTDP-4-dehydrorhamnose 3,5-epimerase
+DN  dTDP-4-dehydrorhamnose 3,5-epimerase (EC 5.1.3.13)
 RQ  1
 EV  IPR000888; TIGR01221;
 //
