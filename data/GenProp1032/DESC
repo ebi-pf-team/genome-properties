@@ -25,13 +25,13 @@ CC  and is important in bacterial survival during infection. dTDP-L-rhamnose is
 CC  the precursor of L-rhamnose[1,2]. dTDP-L-rhamnose is synthesized from 
 CC  glucose-1-phosphate and deoxythymidine triphosphate (dTTP) via a four-step 
 CC  enzymatic pathway. The four enzymes are: glucose-1-phosphate 
-CC  thymidyltransferase (also known as dTDP-glucose pyrophosphorylase, gene name 
-CC  rlmA or rfbA); dTDP-D-glucose 4,6-dehydratase (gene name rmlB or rfbB); 
-CC  dTDP-4-dehydrorhamnose 3,5-epimerase (also known as 
+CC  thymidyltransferase (also known as dTDP-glucose pyrophosphorylase, gene 
+CC  name rlmA or rfbA); dTDP-D-glucose 4,6-dehydratase (gene name rmlB or 
+CC  rfbB); dTDP-4-dehydrorhamnose 3,5-epimerase (also known as 
 CC  dTDP-6-deoxy-D-xylo-4-hexulose 3,5-epimerase, gene name rmlC or rfbC); and 
 CC  dTDP-4-dehydrorhamnose reductase (also known as 
-CC  dTDP-6-deoxy-L-lyxo-4-hexulose reductase (gene name rmlD or rfbD)[1,2]. This 
-CC  property refers to the third step in this pathway, the conversion of 
+CC  dTDP-6-deoxy-L-lyxo-4-hexulose reductase (gene name rmlD or rfbD)[1,2]. 
+CC  This property refers to the third step in this pathway, the conversion of 
 CC  dTDP-4-dehydro-6-deoxy-alpha-D-glucose to dTDP-4-dehydro-L-rhamnose. 
 CC  dTDP-4-dehydro-L-rhamnose is a precursor of both dTDP-L-rhamnose and 
 CC  dTDP-6-deoxy-L-talose.
