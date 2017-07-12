@@ -1,6 +1,5 @@
 AC  GenProp0964
-DE  DTDP-3-acetamidofucose (dTDP-Fuc3NAc) biosynthesis from
-DE  DTDP-3-aminofucose
+DE  dTDP-3-acetamidofucose (dTDP-Fuc3NAc) biosynthesis from dTDP-3-aminofucose
 TP  METAPATH
 AU  Haft DH
 TH  0
@@ -11,7 +10,7 @@ CC  is used to generate more than one different product, so this Property
 CC  only encompasses the final step from that branch point.
 --
 SN  FdtC
-ID  DTDP-3-aminofucose 3N-acetyltransferase
+ID  dTDP-3-aminofucose 3N-acetyltransferase
 RQ  1
 EV  IPRXXXX; PF00132;
 EV  IPRXXXX; 2849;
