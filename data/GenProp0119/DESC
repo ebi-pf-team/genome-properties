@@ -154,6 +154,6 @@ SN  7
 ID  Phosphotransferase system, EIID
 DN  NOT APPLICABLE
 RQ  0
-EV  IPR018405; TIGR00828; sufficient;
+EV  IPR004704; TIGR00828; sufficient;
 TG  GO:0009401;
 //
