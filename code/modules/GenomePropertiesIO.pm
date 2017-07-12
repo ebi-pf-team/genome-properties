@@ -5,6 +5,8 @@ use warnings;
 use Carp;
 use Clone 'clone';
 use DDP;
+use LWP::UserAgent;
+
 use GenomeProperties;
 
 my %TYPES = ( METAPATH => 1,
@@ -20,8 +22,34 @@ sub validateGP {
   my($gp, $options) = @_;
     
   #Read the DESC
+	DESC:
   foreach my $dir (@{$options->{dirs}}){
     #TODO: put status check in here
+		my($public, $checked);
+		if(-e("$dir/status")){
+			if(defined($options->{status})){
+		  	open(S, "<", "$dir/status") or die "Could not open $dir/status file:[$!]\n";
+				while(<S>){
+					if(/^checked:\s+(\d)/){
+						$checked=$1;;
+					}elsif(/^public:\s+(\d)/){
+						$public= $1;
+					}
+				}
+				close(S);			
+		 		if($options->{status} =~ /public/ and $public != 1){
+					next DESC;
+				}
+		 		if($options->{status} =~ /checked/ and $checked != 1){
+					next DESC;
+				}
+			}
+		}else{
+			if(defined($options->{status})){
+				warn "$dir has no status file, yet a status check is required. Skipping\n"
+			}
+		}
+
 
     eval{
       parseDESC("$dir/DESC", $gp);
@@ -46,13 +74,18 @@ sub validateGP {
       
       #Check threshold is less than number 
       #of steps
-      _checkThreshold($prop, $errors, $errorMsg);
+      _checkThreshold($prop, \$errors, \$errorMsg);
 
       #Check type vs steps
-      _checkTypeAgainstStep($prop, $errors, $errorMsg);    
+      _checkTypeAgainstStep($prop, \$errors, \$errorMsg);    
       
+      #Check steps against IPR info etc.
+      if($options->{interpro}){
+        _checkSteps($prop, $options, \$errors, \$errorMsg);    
+      }
+     
       #Check FASTA
-      my $moreGPsToCheck = _checkFASTA($prop, $errors, $errorMsg, $options, \@gpsToCheck);    
+      my $moreGPsToCheck = _checkFASTA($prop, \$errors, \$errorMsg, $options, \@gpsToCheck);    
       
       if($moreGPsToCheck){
         foreach my $gpTA (@$moreGPsToCheck){
@@ -67,6 +100,7 @@ sub validateGP {
         open(E, ">", "$prop_acc/error");
         print E $errorMsg;
         close(E);
+        print $errorMsg;
       }else{
         unlink("$prop_acc/error") if(-e "$prop_acc/error");
         print "$prop_acc: passes check\n";
@@ -92,8 +126,8 @@ sub _checkFASTA {
       };
       if($@){
           warn "Error parsing Fasta: $@\n";
-          $errorMsg .= $@;
-          $errors++;
+          $$errorMsg .= $@;
+          $$errors++;
       }
     }
     #We have parsed the file, now cross reference
@@ -102,8 +136,8 @@ sub _checkFASTA {
       foreach my $evidence (@{$step->get_evidence}){
         if($evidence->interpro){
           if(!defined($seqs->{$step->order})){
-              $errorMsg .= "Did not find a sequence for ".$step->order." in $prop_acc\n";
-              $errors++;
+              $$errorMsg .= "Did not find a sequence for ".$step->order." in $prop_acc\n";
+              $$errors++;
           }
           next STEP;
         }elsif($evidence->gp){
@@ -130,9 +164,9 @@ sub _checkThreshold {
   my ( $prop, $error, $error_msg) = @_;
    
   my $noStep = scalar(@{$prop->get_steps});
-  if($noStep > $prop->threshold){
-    $error++;
-    $error_msg .= "Threshold of greater than the number of steps\n";
+  if($noStep < $prop->threshold){
+    $$error++;
+    $$error_msg .= "Threshold of greater than the number of steps\n";
   }
   return;
 }
@@ -143,16 +177,16 @@ sub _checkTypeAgainstStep {
   my $noSteps = scalar(@{$prop->get_steps});
   if($prop->type eq 'ROOT' or $prop->type eq 'CATEGORY' or $prop->type eq 'SUMMARY'){
     if($noSteps > 0){
-      $errors++;
-      $errorMsg .= "Got type ".$prop->type." but this should not have any steps\n";
+      $$errors++;
+      $$errorMsg .= "Got type ".$prop->type." but this should not have any steps\n";
     }
   }
 
   if($prop->type eq 'GUILD' or $prop->type eq 'SYSTEM' 
         or $prop->type eq 'PATHWAY' or $prop->type eq 'METAPATH'){
     if($noSteps == 0){
-      $errors++;
-      $errorMsg .= "Got type ".$prop->type." but this should have steps\n";
+      $$errors++;
+      $$errorMsg .= "Got type ".$prop->type." but this should have steps\n";
 
     }
   }
@@ -163,16 +197,69 @@ sub _checkTypeAgainstStep {
     foreach my $step (@{ $prop->get_steps }){
       foreach my $evidence (@{$step->get_evidence}){
         if($evidence->interpro){
-          $errors++;
-          $errorMsg .= "Got InterPro as evidence in METAPATH\n";
+          $$errors++;
+          $$errorMsg .= "Got InterPro as evidence in METAPATH\n";
           last STEP;
         }
       }
     }
   }
-  
-
 }
+
+
+sub _checkSteps{
+  my ($prop, $options, $errors, $errorMsg) = @_;
+  
+  if($prop->type eq 'GUILD' or $prop->type eq 'SYSTEM' or $prop->type eq 'PATHWAY'){
+    STEP:
+    foreach my $step (@{ $prop->get_steps }){
+      foreach my $evidence (@{$step->get_evidence}){
+        if($evidence->interpro){
+          if(!defined($options->{interpro}->{ $evidence->interpro })){
+            $$errors++;
+            $$errorMsg .= "InterPro accession, ".$evidence->interpro.", is not a valid accession\n";
+          }else{
+            #Okay, now check the accession/siganture evidence is valid
+            if(!defined($options->{interpro}->{ $evidence->interpro }->{signatures}->{$evidence->accession})){
+              $$errors++;
+              $$errorMsg .= "Member database accession, ".$evidence->accession.", is not assocaited with ".$evidence->interpro."\n";
+            }
+            if($evidence->get_go){
+              foreach my $go (@{$evidence->get_go}){
+                _checkGO($go, $options, $errors, $errorMsg); 
+              }
+            }
+          }
+        }
+      }
+    }
+  }   
+}
+
+
+sub _checkGO {
+  my ($go, $options, $errors, $errorMsg) = @_;
+  if(defined($options->{goterms}->{$go})){
+    #All is good;
+    return;
+  }else{
+		#These three lines should probably be done once.
+   	my $ua = LWP::UserAgent->new;
+ 		$ua->timeout(10);
+ 		$ua->env_proxy;
+
+ 		my $response = $ua->get("http://www.ebi.ac.uk/ols/api/ontologies/go/terms?obo_id=$go"); 
+
+		if ($response->is_success) {
+  		$options->{goterms}->{$go}++
+ 		} else {
+     	$$errors++;
+			$$errorMsg .= "Failed to find the GO term $go";
+      # $response->status_line;
+ 		} 
+  }
+}
+
 
 sub parseGpFASTA {
   my ($dir) = @_;
