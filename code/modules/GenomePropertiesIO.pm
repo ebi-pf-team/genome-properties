@@ -196,16 +196,19 @@ sub _checkTypeAgainstStep {
   }
   
   if($prop->type eq 'METAPATH'){
-    #All evidence should be GP.
+    #Not all evidence should be interpro.
+    my $gps = 0;
     STEP:
     foreach my $step (@{ $prop->get_steps }){
       foreach my $evidence (@{$step->get_evidence}){
-        if($evidence->interpro){
-          $$errors++;
-          $$errorMsg .= "Got InterPro as evidence in METAPATH\n";
-          last STEP;
+        if($evidence->gp){
+          $gps++
         }
       }
+    }
+    if($gps == 0){
+      $$errors++;
+      $$errorMsg .= "Got no GenProps as evidence in METAPATH\n";
     }
   }
 }
@@ -214,7 +217,8 @@ sub _checkTypeAgainstStep {
 sub _checkSteps{
   my ($prop, $options, $errors, $errorMsg) = @_;
   
-  if($prop->type eq 'GUILD' or $prop->type eq 'SYSTEM' or $prop->type eq 'PATHWAY'){
+  if($prop->type eq 'GUILD' or $prop->type eq 'SYSTEM' or 
+      $prop->type eq 'PATHWAY' or $prop->type eq 'METAPATH'){
     STEP:
     foreach my $step (@{ $prop->get_steps }){
       foreach my $evidence (@{$step->get_evidence}){
