@@ -80,6 +80,27 @@ sub readGOFile {
   return($goterms);
 }
 
+sub readInterProFile {
+  my ($file) = @_;
+  my $interProData;
+
+  open(F, '<', $file) or die "Could not open file, $file:[$!]\n";
+  while(<F>){
+    if(/^ENTRY_AC/){
+      ;#skip the line
+    }elsif(/^IPR/){
+      chomp;
+      my ($ipr, $name, $signature, $ec) = split(/\t/);
+      $interProData->{$ipr}->{name} = $name;
+      $interProData->{$ipr}->{signatures}->{$signature}->{$ec}++;
+    }
+  }
+  close(F) or die "Could not close filehandle\n";
+  
+  return($interProData);
+}
+
+
 sub help {
 
 print<<EOF;
