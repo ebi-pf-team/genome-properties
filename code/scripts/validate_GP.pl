@@ -10,7 +10,7 @@ my $all;
 $| = 1;
 
 GetOptions ( "recursive"   => \$recursive,
-             "go=s"        => \$go,
+             "go"          => \$go,
              "interpro=s"  => \$interpro,
              "status=s"    => \$status,
              "gp=s"        => \@dirs,
@@ -36,7 +36,7 @@ if(defined($recursive) and $recursive == 1){
 }
 
 if($go){
-  $options->{goterms} = readGOFile($go); 
+  $options->{checkgoterms} = 1; 
 }
 
 if($interpro){
@@ -47,7 +47,7 @@ if($interpro){
 if($all){
   opendir(D, ".") or die "Could not open the current working directory for reading\n";
   @dirs = sort {$a cmp $b } grep{ $_ =~ /GenProp\d{4}/}readdir(D);
-  closedir(D) or die;;
+  closedir(D) or die;
 }
 
 #Final quick check;
@@ -60,25 +60,6 @@ if(scalar(@dirs)){
 #Now go validate
 my $gp = GenomeProperties->new;
 GenomePropertiesIO::validateGP($gp, $options);
-
-
-sub readGOFile {
-  my($file) = @_;
-  my $goterms;
-  
-  open(F, '<', $file) or die "Could not open file\n";
-  while(<F>){
-    #GO terms look something like this GO:0070502
-    if(/^(GO\:\d{7})$/){
-      $goterms->{$1}++;
-    }else{
-      warn "Did not recognise GO term: $_";
-    }
-  }
-  close(F) or die "Could not close filehandle\n";
-  
-  return($goterms);
-}
 
 sub readInterProFile {
   my ($file) = @_;
@@ -120,7 +101,7 @@ Usage: $0 <options>
             : <public_and_checked>, only public and checked genome properties will be
             : checked.
 
---go <file> :Use the file to check all GO terms used in the genome properties
+--go        : Use GO API to check all GO terms used in the genome properties
 
 --interpro <file>
             : Use the file to check all of the InterPro accessions used in
