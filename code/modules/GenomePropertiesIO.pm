@@ -83,7 +83,11 @@ sub validateGP {
       if($options->{interpro}){
         _checkSteps($prop, $options, \$errors, \$errorMsg);    
       }
-     
+      
+      if($options->{checkgoterms}){
+        _checkStepsGO($prop, $options, \$errors, \$errorMsg);
+      }
+
       #Check FASTA
       my $moreGPsToCheck = _checkFASTA($prop, \$errors, \$errorMsg, $options, \@gpsToCheck);    
       
@@ -224,17 +228,28 @@ sub _checkSteps{
               $$errors++;
               $$errorMsg .= "Member database accession, ".$evidence->accession.", is not assocaited with ".$evidence->interpro."\n";
             }
-            if($evidence->get_go){
-              foreach my $go (@{$evidence->get_go}){
-                _checkGO($go, $options, $errors, $errorMsg); 
-              }
-            }
           }
         }
       }
     }
   }   
 }
+
+sub _checkStepsGO{
+  my ($prop, $options, $errors, $errorMsg) = @_;
+  
+    STEP:
+    foreach my $step (@{ $prop->get_steps }){
+      foreach my $evidence (@{$step->get_evidence}){
+        if($evidence->get_go){
+          foreach my $go (@{$evidence->get_go}){
+            _checkGO($go, $options, $errors, $errorMsg); 
+          }
+        }
+      }
+    }
+}
+
 
 
 sub _checkGO {
@@ -254,7 +269,7 @@ sub _checkGO {
   		$options->{goterms}->{$go}++
  		} else {
      	$$errors++;
-			$$errorMsg .= "Failed to find the GO term $go";
+			$$errorMsg .= "Failed to find the GO term $go\n";
       # $response->status_line;
  		} 
   }
