@@ -159,40 +159,40 @@ RQ  0
 EV  IPR035269; PTHR12651; sufficient;
 TG  GO:0070682
 --
-SN  15
+SN  16
 ID  26S proteasome non-ATPase regulatory subunit 10
 DN  Ankyrin repeat-containing domain 
 RQ  0
 EV  IPR020683; G3DSA:1.25.40.20; sufficient;
 TG  GO:0070682
 --
-SN  16
+SN  17
 ID  26S proteasome non-ATPase regulatory subunit 11
 DN  26S proteasome non-ATPase regulatory subunit 11 
 RQ  1
 EV  IPR035295; PTHR10678:SF8; sufficient;
 TG  GO:0070682
 --
-SN  17
+SN  18
 ID  26S proteasome non-ATPase regulatory subunit 12
 DN  26S proteasome non-ATPase regulatory subunit 12 
 RQ  1
 EV  IPR035297; PTHR10855:SF4; sufficient;
 --
-SN  18
+SN  19
 ID  26S proteasome non-ATPase regulatory subunit 13
 DN  26S proteasome non-ATPase regulatory subunit 13 
 RQ  1
 EV  IPR035298; PTHR10539:SF1; sufficient;
 --
-SN  19
+SN  20
 ID  26S proteasome non-ATPase regulatory subunit 14
 DN  26S proteasome non-ATPase regulatory subunit 14 
 RQ  1
 EV  IPR035299; PTHR10410:SF8; sufficient;
 TG  GO:0061578
 --
-SN  20
+SN  21
 ID  26S proteasome complex subunit SEM1
 DN  DSS1/SEM1 
 RQ  1
@@ -200,7 +200,7 @@ EV  IPR007834; PTHR16771; sufficient;
 EV  IPR007834; PF05160; sufficient;
 EV  IPR007834; SM01385; sufficient;
 --
-SN  21
+SN  22
 ID  Proteasomal ubiquitin receptor ADRM1
 DN  26S proteasome complex ubiquitin receptor, subunit Rpn13 
 RQ  0
