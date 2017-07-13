@@ -293,7 +293,7 @@ sub parseGpFASTA {
     }elsif(!/^>/){
       $seqs->{$currentStep} .= $_;
     }else{
-      die "Failed to parse FASTA for $dir\n"; 
+      die "Failed to parse FASTA for $dir, line |$_|\n"; 
     }
   }
   close(F);
