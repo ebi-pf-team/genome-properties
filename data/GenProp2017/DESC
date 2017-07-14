@@ -38,7 +38,7 @@ TG  GO:0042987;
 --
 SN  2
 ID  Gamma-secretase subunit APH-1A
-DN  Gamma-secretase subunit APH-1A
+DN  Gamma-secretase subunit Aph-1
 RQ  1
 EV  IPR009294; PTHR12889; sufficient;
 EV  IPR009294; PF06105; sufficient;
@@ -54,7 +54,7 @@ TG  GO:0043085;
 --
 SN  4
 ID  Gamma-secretase subunit PEN-2
-DN  Gamma-secretase subunit PEN-2
+DN  Gamma-secretase aspartyl protease complex, presenilin enhancer-2 subunit 
 RQ  1
 EV  IPR019379; PTHR16318; sufficient;
 EV  IPR019379; PF10251; sufficient;
