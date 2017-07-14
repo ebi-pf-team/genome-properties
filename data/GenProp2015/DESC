@@ -9,26 +9,26 @@ RT  Antigen processing by the proteasome.
 RA  Kloetzel PM;
 RL  Nat Rev Mol Cell Biol. 2001;2:179-188.
 RN  [2]
+RM  17540904
+RT  Regulation of CD8+ T cell development by thymus-specific proteasomes.
+RA  Murata S; Sasaki K; Kishimoto T; Niwa S; Hayashi H; Takahama Y; Tanaka K; 
+RL  Science 2007;316:1349-1353.
+RN  [3]
 RM  12015144
 RT  The structure of the mammalian 20S proteasome at 2.75 A resolution.
 RA  Unno M; Mizushima T; Morimoto Y; Tomisugi Y; Tanaka K; Yasuoka N; 
 RA  Tsukihara T;
 RL  Structure 2002;10:609-618.
-RN  [3]
+RN  [4]
 RM  28460188
 RT  Proteasomal and Autophagy Degradation Systems.
 RA  Dikic I;
 RL  Annu Rev Biochem. 2017;:-.
-RN  [4]
-RM  17540904
-RT  Regulation of CD8+ T cell development by thymus-specific proteasomes.
-RA  Murata S; Sasaki K; Kishimoto T; Niwa S; Hayashi H; Takahama Y; Tanaka K; 
-RL  Science 2007;316:1349-1353.
 DC  Proteasome
 DR  KEGG; map03050;
 CC  The thymooproteasome is a specialist form of the immunoproteasome [1] in 
 CC  which the beta5i component (also known as beta type-8) is replaced by 
-CC  beta5t (also known as beta type-11)[4].  
+CC  beta5t (also known as beta type-11)[2].  
 --
 SN  1
 ID  proteasome subunit alpha type-1
