@@ -1,5 +1,5 @@
 AC  GenProp2016
-DE  mammalian spermatoproteasome
+DE  Mammalian spermatoproteasome
 TP  SYSTEM
 AU  Rawlings ND
 TH  2
@@ -32,7 +32,7 @@ DC  Proteasome
 DR  KEGG; map03050;
 CC  The spermatoproteasome is a specialist version of the 20S proteasome 
 CC  [1,2] found in the mammalian testis where the alpha4 subunit is replaced
-CC  by the alpha4S subunit [3].  The spermatoprotasome degrades histones [4]. 
+CC  by the alpha4S subunit [3]. The spermatoprotasome degrades histones [4]. 
 CC  Ubiquitinated proteins are not degraded.
 **  In Drosophila, a more complex spermatoproteasome exists.
 **  There is evidence in reference 4 that different forms of the
