@@ -1,5 +1,5 @@
 AC  GenProp2014
-DE  immunoproteasome
+DE  Immunoproteasome
 TP  SYSTEM
 AU  Rawlings ND
 TH  2
@@ -25,8 +25,8 @@ CC  The immunoproteasome is a specialist form of the eukaryote 20S
 CC  proteasome [2] in which the three catalytic beta subunits are replaced
 CC  by three different catalytic beta subunits known as beta1i (beta 
 CC  type-9), beta2i (beta type-10) and beta5i (beta type-8) [3].  Interferon 
-CC  gamma induces production of these subunits as well as down-regulation 
-CC  production of the usual beta1, beta2 and beta5 subunits.  The 
+CC  gamma induces production of these subunits as well as the down-regulation 
+CC  of production of the usual beta1, beta2 and beta5 subunits.  The 
 CC  interferon-induced subunits have modified specificities and the 
 CC  immunoproteasome generates peptides that act as ligands for the  
 CC  major histocompatibility complex [1].
