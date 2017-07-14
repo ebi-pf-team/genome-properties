@@ -27,7 +27,8 @@ RL  Science 2007;316:1349-1353.
 DC  Proteasome
 DR  KEGG; map03050;
 CC  The thymooproteasome is a specialist form of the immunoproteasome [1] in 
-CC  which the beta5i component is replaced by beta5t [4].  
+CC  which the beta5i component (also known as beta type-8) is replaced by 
+CC  beta5t (also known as beta type-11)[4].  
 --
 SN  1
 ID  proteasome subunit alpha type-1
