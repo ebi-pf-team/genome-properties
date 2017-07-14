@@ -44,21 +44,21 @@ CC  Ubiquitinated proteins are not degraded.
 --
 SN  1
 ID  proteasome subunit alpha type-1
-DN  Proteasome subunit alpha type-1 
+DN  Proteasome subunit alpha 1 
 RQ  1
 EV  IPR035144; PTHR11599:SF93; sufficient;
 TG  GO:0000502;
 --
 SN  2
 ID  Proteasome subunit alpha type-2
-DN  Proteasome subunit alpha type-2
+DN  Proteasome subunit alpha2
 RQ  1
 EV  IPR034644; PTHR11599:SF89; sufficient;
 TG  GO:0000502;
 --
 SN  3
 ID  Proteasome subunit alpha type-3
-DN  Proteasome subunit alpha type-3
+DN  Proteasome subunit alpha 3
 RQ  1
 EV  IPR035150; PTHR11599:SF80; sufficient;
 TG  GO:0000502;
@@ -67,21 +67,21 @@ TG  GO:0000502;
 --
 SN  4
 ID  Proteasome subunit alpha type-4
-DN  Proteasome subunit alpha type-4
+DN  Proteasome subunit alpha4
 RQ  1
 EV  IPR034647; PTHR11599:SF97; sufficient;
 TG  GO:0000502;
 --
 SN  5
 ID  Proteasome subunit alpha type-5
-DN  Proteasome subunit alpha type-5
+DN  Proteasome subunit alpha5
 RQ  1
 EV  IPR033812; cd03753; sufficient;
 TG  GO:0000502;
 --
 SN  6
 ID  Proteasome subunit alpha type-6
-DN  Proteasome subunit alpha type-6
+DN  Proteasome subunit alpha6
 RQ  1
 EV  IPR034642; PTHR11599:SF98; sufficient;
 TG  GO:0000502;
@@ -95,7 +95,7 @@ TG  GO:0000502;
 --
 SN  8
 ID  Proteasome subunit beta type-1
-DN  Proteasome subunit beta type-1
+DN  Proteasome subunit beta 1
 RQ  1
 EV  IPR035202; PTHR11599:SF75; sufficient;
 TG  GO:0000502;
@@ -104,21 +104,21 @@ TG  GO:0000502;
 --
 SN  9
 ID  Proteasome subunit beta type-2
-DN  Proteasome subunit beta type-2
+DN  Proteasome subunit beta 2
 RQ  1
 EV  IPR035206; PTHR11599:SF95; sufficient;
 TG  GO:0000502;
 --
 SN  10
 ID  Proteasome subunit beta type-3
-DN  Proteasome subunit beta type-3
+DN  Proteasome beta 3 subunit
 RQ  1
 EV  IPR033811; PTHR11599:SF70; sufficient;
 TG  GO:0000502;
 --
 SN  11
 ID  Proteasome subunit beta type-4
-DN  Proteasome subunit beta type-4
+DN  Proteasome endopeptidase complex, beta subunit
 RQ  1
 EV  IPR016295; PTHR11599:SF72; sufficient;
 TG  GO:0000502;
@@ -133,7 +133,7 @@ TG  GO:0043161;
 --
 SN  13
 ID  Proteasome subunit beta type-6
-DN  Proteasome subunit beta type-6 (EC 3.4.25.1)
+DN  Proteasome subunit beta 6 (EC 3.4.25.1)
 RQ  1
 EV  IPR035140; PTHR11599:SF82; sufficient;
 TG  GO:0000502;
@@ -144,7 +144,7 @@ TG  GO:0043161;
 --
 SN  14
 ID  Proteasome subunit beta type-7
-DN  Proteasome subunit beta type-7 (EC 3.4.25.1)
+DN  Proteasome subunit beta 7 (EC 3.4.25.1)
 RQ  1
 EV  IPR035216; PTHR11599:SF71; sufficient;
 TG  GO:0000502;
