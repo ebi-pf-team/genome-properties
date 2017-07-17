@@ -28,7 +28,6 @@ CC  caspases activate the executor caspases which cleave other proteins
 CC  in the cell [2]. There are at least four routes by which the 
 CC  initiator caspase precursors are activated. This Genome Property 
 CC  includes the extrinsic pathway initiator caspases.
-**  Needs review of apoptosis.
 --
 SN  1
 ID  Caspase-8
