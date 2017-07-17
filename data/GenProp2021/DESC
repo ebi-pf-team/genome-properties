@@ -1,9 +1,19 @@
 AC  GenProp2021
-DE  apoptosome
+DE  Apoptosome
 TP  SYSTEM
 AU  Rawlings ND
 TH  1
 RN  [1]
+RM  14499155
+RT  Apoptosis: the complex scenario for a silent cell death.
+RA  Bohm I, Schild H;
+RL  Mol Imaging Biol. 2003;5:2-14.
+RN  [2]
+RM  21456965
+RT  Caspase substrates and cellular remodeling.  
+RA  Crawford ED; Wells JA;   
+RL  Annu Rev Biochem. 2001;80:1055-1087.
+RN  [3]
 RM  26543158
 RT  Atomic structure of the apoptosome: mechanism of cytochrome c- and 
 RT  dATP-mediated activation of Apaf-1. 
@@ -12,20 +22,19 @@ RL  Genes Dev. 2015;29:2349-2361.
 DC  Apoptosis
 DR  KEGG; map04210;
 CC  Apoptosis or programmed cell death is the mechanism by which cells 
-CC  in eukaryotes are killed.  Cysteine endopeptidases known as caspases 
+CC  in eukaryotes are killed. Cysteine endopeptidases known as caspases 
 CC  are activated and these deactivate cellular proteins, often by 
 CC  cleaving within interdomain regions, thereby separating binding 
-CC  domains of signal reception and transduction domains.  Caspases have
+CC  domains of signal reception and transduction domains [1]. Caspases have
 CC  a specificity for aspartyl bonds, which occur frequently in surface
-CC  loops and interdomain regions of proteins.  Caspases involved in
-CC  apoptosis are of two kinds: initiators and executors.  Initiator
+CC  loops and interdomain regions of proteins [2]. Caspases involved in
+CC  apoptosis are of two kinds: initiators and executors. Initiator
 CC  caspases activate the executor caspases which cleave other proteins
-CC  in the cell.  There are at least four routes by which the initiator
-CC  caspase precursors are activated.  This Genome Property includes
+CC  in the cell. There are at least four routes by which the initiator
+CC  caspase precursors are activated. This Genome Property includes
 CC  the apoptosome, which includes the precursor of initiator caspase 9 
-CC  from the intrinsic (or mitochondrial) pathway [1].  When it binds 
+CC  from the intrinsic (or mitochondrial) pathway [3]. When it binds 
 CC  cytochrome c and dATP, Apaf1 oligomerizes into a heptameric ring.
-**  Needs review of apoptosis.
 --
 SN  1
 ID  Cytochrome c
