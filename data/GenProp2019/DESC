@@ -1,5 +1,5 @@
 AC  GenProp2019
-DE  executor caspases
+DE  Executor caspases
 TP  SYSTEM
 AU  Rawlings ND
 TH  1
@@ -27,15 +27,15 @@ RL  Annu Rev Biochem. 2001;80:1055-1087.
 DC  Apoptosis
 DR  KEGG; map04210;
 CC  Apoptosis or programmed cell death is the mechanism by which cells 
-CC  in eukaryotes are killed.  Cysteine endopeptidases known as caspases 
+CC  in eukaryotes are killed. Cysteine endopeptidases known as caspases 
 CC  are activated and these deactivate cellular proteins, often by 
 CC  cleaving within interdomain regions, thereby separating binding 
-CC  domains or signal reception and transduction domains.  Caspases have
+CC  domains or signal reception and transduction domains. Caspases have
 CC  a specificity for aspartyl bonds, which occur frequently in surface
-CC  loops and interdomain regions of proteins [3].  Caspases involved in
-CC  apoptosis are of two kinds: initiators and executors.  Initiator
+CC  loops and interdomain regions of proteins [3]. Caspases involved in
+CC  apoptosis are of two kinds: initiators and executors. Initiator
 CC  caspases activate the executor caspases which cleave other proteins
-CC  in the cell [1, 2].  This Genome Property includes the executor 
+CC  in the cell [1, 2]. This Genome Property includes the executor 
 CC  caspases.
 --
 SN  1
