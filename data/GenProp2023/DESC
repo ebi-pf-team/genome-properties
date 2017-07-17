@@ -68,12 +68,12 @@ EV  IPR010479; PF06393; sufficient;
 TG  GO:0008625;
 --
 SN  3
-ID  apoptosome
+ID  Apoptosome
 RQ  1
 EV  GenProp2021;
 --
 SN  4
-ID  extrinsic initiator caspases
+ID  Extrinsic initiator caspases
 RQ  1
 EV  GenProp2018;
 //
