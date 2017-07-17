@@ -34,7 +34,7 @@ ID  Caspase-8
 DN  Caspase-8 (EC:3.4.22.61)
 RQ  1
 EV  IPR033170; PTHR10454:SF176; sufficient;
-TG  GO:0006919;
+TG  GO:0097199;
 --
 SN  2
 ID  Caspase-10
