@@ -23,73 +23,52 @@ sub validateGP {
     
   #Read the DESC
 	DESC:
-  foreach my $dir (@{$options->{dirs}}){
+  foreach my $dir (sort @{$options->{dirs}}){
     #TODO: put status check in here
-		my($public, $checked);
-		if(-e("$dir/status")){
-			if(defined($options->{status})){
-		  	open(S, "<", "$dir/status") or die "Could not open $dir/status file:[$!]\n";
-				while(<S>){
-					if(/^checked:\s+(\d)/){
-						$checked=$1;;
-					}elsif(/^public:\s+(\d)/){
-						$public= $1;
-					}
-				}
-				close(S);			
-		 		if($options->{status} =~ /public/ and $public != 1){
-					next DESC;
-				}
-		 		if($options->{status} =~ /checked/ and $checked != 1){
-					next DESC;
-				}
-			}
-		}else{
-			if(defined($options->{status})){
-				warn "$dir has no status file, yet a status check is required. Skipping\n"
-			}
-		}
-
+    next DESC if(defined($options->{status}) and ! _checkStatus($dir, $options));
 
     eval{
-      parseDESC("$dir/DESC", $gp);
+      parseDESC("$dir/DESC", $gp, $options);
     };
     if($@){
-      print "$dir: does not pass check $@\n";
+      print STDERR "$dir: does not pass check $@\n";
       open(E, ">", "$dir/error");
       print E "Error parsing DESC:\n $@\n";
-      close(E);   
+      close(E);
     }
   }
 
   #Does it have any steps that we should have a sequence for testing
   if($gp->get_defs){
-     my @gpsToCheck = keys %{$gp->get_defs};
+     my @gpsToCheck = sort keys %{$gp->get_defs};
      
      foreach my $prop_acc (@gpsToCheck){
-      
+      my $errors = 0;   
+      my $errorMsg = '';
       #We may not have seen this before if recusion is on
       if(!$gp->get_defs->{$prop_acc} ){ 
-        parseDESC($prop_acc."/DESC", $gp); 
+        if(defined($options->{status}) and ! _checkStatus($prop_acc, $options)){
+          warn "Skipping $prop_acc due to status\n";
+          next;
+        }
         eval{
-          parseDESC("$prop_acc/DESC", $gp);
+          parseDESC("$prop_acc/DESC", $gp, $options);
         };
         if($@){
           print STDERR "$prop_acc: does not pass check $@\n";
           open(E, ">", "$prop_acc/error");
           print E "Error parsing DESC:\n $@\n";
-          next;
+          $errors = 1;
+          $errorMsg .= "Error parsing DESC, $@\n";
         }
       }
       
       
-      my $errors = 0;   
-      my $errorMsg = '';
       my $prop = $gp->get_def($prop_acc);
       if(!$prop ){
         die "Failed to establish property for $prop_acc\n";
       }
-
+      
       #Check threshold is less than number 
       #of steps
       _checkThreshold($prop, \$errors, \$errorMsg);
@@ -109,13 +88,6 @@ sub validateGP {
       #Check FASTA
       _checkFASTA($prop, \$errors, \$errorMsg, $options, \@gpsToCheck);    
       
-      #if(GPsToCheck){
-      #  foreach my $gpTA (@$moreGPsToCheck){
-      #    parseDESC($gpTA."/DESC", $gp); 
-      #    #push(@gpsToCheck, $gp);
-      #  }
-      #}
-
       
       if($errors){
         print "$prop_acc: does not pass check\n";
@@ -147,8 +119,7 @@ sub _checkFASTA {
         $seqs = parseGpFASTA($prop_acc);
       };
       if($@){
-          warn "Error parsing Fasta: $@\n";
-          $$errorMsg .= $@;
+          $$errorMsg .= "Error parsing Fasta: $@\n";
           $$errors++;
       }
     }
@@ -170,7 +141,9 @@ sub _checkFASTA {
             }
           }else{
             if(!defined($all{$evidence->gp})){
-              warn("Reference to ".$evidence->gp." found, but not checked validity.\n");  
+              if($options->{verbose}){
+                warn("Reference to ".$evidence->gp." found, but not checked validity.\n");  
+              }
             }
           }
         }else{
@@ -322,7 +295,7 @@ sub parseGpFASTA {
 
 
 sub parseDESC {
-  my ( $file, $gp ) = @_;
+  my ( $file, $gp, $options ) = @_;
 
   my @file;
   if ( ref($file) eq "GLOB" ) {
@@ -370,10 +343,12 @@ sub parseDESC {
 
     if ( $file[$i] =~ /^(AC|DE|AU|TP|TH|)\s{2}(.*)$/ ) {
       if(exists($params{$1})){
-        warn($params{AC}."\n") if($params{AC}); 
-        warn("\nFound more than one line containing the $1 tag.\n\n"
+        my $msg = "\n";; 
+        $msg .= $params{AC}.": " if($params{AC}); 
+        $msg .= "Found more than one line containing the $1 tag.\n\n"
          . "-" x 80
-                . "\n" );  
+                . "\n"; 
+        warn($msg);
       }
       $params{$1} = $2;
       #TODO - make sure type matechs oe of the recognised types.
@@ -519,11 +494,10 @@ sub parseDESC {
     }
     elsif($file[$i] =~ /^--$/){
       $i++;
-      my $steps = parseSteps(\@file, \$i);
+      my $steps = parseSteps(\@file, \$i, $options);
       $params{STEPS} = $steps;
     }elsif($file[$i] =~ /^\/\//){
-      last;
-    
+      last; 
     } else {
       chomp( $file[$i] );
       my $msg = "Failed to parse the DESC line (enclosed by |):|$file[$i]|\n\n"
@@ -535,14 +509,13 @@ sub parseDESC {
 #confess("Failed to parse the DESC line (enclosed by |):|$file[$i]|\n\n". "-" x 80 ."\n");
     }
   }
- #print Dumper %params;
   $gp->fromDESC(\%params);
   #End of uber for loop
 }
 
 
 sub parseSteps {
-  my($file, $i) = @_;
+  my($file, $i, $options) = @_;
   my $expLen=80;
   my @steps;
   my %step;
@@ -553,7 +526,7 @@ sub parseSteps {
     if ( length($l) > $expLen ) {
       warn( "\nGot a DESC line that was longer the $expLen, $l\n\n"
           . "-" x 80
-          . "\n" );
+          . "\n" ) if ($options->{verbose});
     }
 
     if ( $l =~ /^(SN|ID|DN|EC|RQ)\s{2}(.*)$/ ) {
@@ -564,7 +537,7 @@ sub parseSteps {
       }
       $step{$1} = $2;
       next;
-    }elsif($l =~ /^EV\s{2}(IPR\d{6});\s(\S+);\s(\S+);/){
+    }elsif($l =~ /^EV\s{2}(IPR\d{6});\s(\S+);\s(\S+);$/){
         my $ipr = $1;
         my $sig = $2;
         my $suf = $3;
@@ -576,23 +549,23 @@ sub parseSteps {
           $nl = $file->[$$i + 1];
         }
         push(@{$step{EVID}}, { ipr => $ipr, sig => $sig, sc => $suf, go => $go });
-    }elsif($l =~ /^EV\s{2}(IPR\d{6});\s(\S+);/){
+    }elsif($l =~ /^EV\s{2}(IPR\d{6});\s(\S+);$/){
         my $ipr = $1;
         my $sig = $2;
         my $nl = $file->[$$i + 1];
         my $go = [];
-        while($nl =~ /^TG\s{2}(GO\:\d+)/){
+        while($nl =~ /^TG\s{2}(GO\:\d+);$/){
           push(@$go, $1);
           $$i++;
           $nl = $file->[$$i + 1];
         }
         push(@{$step{EVID}}, { ipr => $ipr, sig => $sig, go => $go });
 
-    }elsif($l =~ /^EV\s{2}(GenProp\d{4});/){
+    }elsif($l =~ /^EV\s{2}(GenProp\d{4});$/){
         my $gp = $1;
         my $nl = $file->[$$i + 1];
         my $go = '';
-        if($nl =~ /^TG\s{2}(GO\:\d+)/){
+        if($nl =~ /^TG\s{2}(GO\:\d+);$/){
           $go = $1;
           $$i++;
         }
@@ -617,4 +590,41 @@ sub parseSteps {
   return(\@steps);
 }
 
+sub _checkStatus {
+  my($dir, $options) = @_;
+  
+  my $evaluate = 0;
+  my($public, $checked);
+	if(-e("$dir/status")){
+		if(defined($options->{status})){
+		 	open(S, "<", "$dir/status") or die "Could not open $dir/status file:[$!]\n";
+			while(<S>){
+				if(/^checked:\s+(\d)/){
+					$checked=$1;;
+				}elsif(/^public:\s+(\d)/){
+					$public= $1;
+				}
+			}
+      close(S);			
+		  if($options->{recursive} and $options->{verbose}){
+        print "$dir, public=$public, checked=$checked\n";
+      }
+      if($options->{status} =~ /public/ and $public != 1){
+					return $evaluate;
+			}
+
+		 	if($options->{status} =~ /checked/ and $checked != 1){
+			  return $evaluate;
+			}
+		}
+	}else{
+		if(defined($options->{status})){
+			warn "$dir has no status file, yet a status check is required. Skipping\n";
+      return $evaluate;
+		}
+	}
+  $evaluate = 1;
+
+  return $evaluate;
+}
 1;

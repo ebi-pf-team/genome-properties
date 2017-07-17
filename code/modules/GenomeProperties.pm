@@ -826,10 +826,16 @@ sub fromDESC {
   if($data->{DBREFS}){
     $gpd->dbrefs($data->{DBREFS});
   }
-  $self->add_def($gpd);
   my $order = 0;
+  my $seenSteps;
+  
 	foreach my $step (@{$data->{STEPS}}){
     $order++;
+    if(defined( $seenSteps->{ $step->{SN} } )){
+      die("Duplicate step number ".$step->{SN}."\n");
+    }else{
+      $seenSteps->{ $step->{SN} }++;
+    }
     my $stepObj = GenomeProperties::Step->new({ order        => $step->{SN},
                                              step_name    => $step->{ID},
                                              required     => $step->{RQ},
@@ -854,13 +860,13 @@ sub fromDESC {
       $stepObj->add_evidence($evObj);
     }
   }
+  $self->add_def($gpd);
 }
 
 sub toDESC {
   my ($self, $path ) = @_;
 
   my $defs = $self->get_defs;
-  p($defs);
   
   my $descfile;
   if ($path) {

@@ -5,7 +5,7 @@ use warnings;
 use Getopt::Long;
 use GenomePropertiesIO;
 
-my (@dirs, $help, $go, $interpro, $status, $recursive);
+my (@dirs, $help, $go, $interpro, $status, $recursive, $verbose);
 my $all;
 $| = 1;
 
@@ -15,6 +15,7 @@ GetOptions ( "recursive"   => \$recursive,
              "status=s"    => \$status,
              "gp=s"        => \@dirs,
              "all"         => \$all,
+             "verbose"     => \$verbose,
              "help|h"      => \$help ) or die;
 
 
@@ -41,6 +42,10 @@ if($go){
 
 if($interpro){
   $options->{interpro} = readInterProFile($interpro);
+}
+
+if($verbose){
+  $options->{verbose} = 1;
 }
 
 #Read all of the GP directories
@@ -113,6 +118,10 @@ Usage: $0 <options>
 
 --all       : evaluate all of the genome properties found in the present
             : working directory
+
+--verbose   : print warnings and status when running in recursive mode
+            : with a set status. i.e. --recursive and --status set
+            : in addition.
 
 --help      : prints this help message.
 
