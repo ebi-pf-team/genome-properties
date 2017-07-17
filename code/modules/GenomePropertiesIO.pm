@@ -66,12 +66,30 @@ sub validateGP {
   if($gp->get_defs){
      my @gpsToCheck = keys %{$gp->get_defs};
      
-      
      foreach my $prop_acc (@gpsToCheck){
+      
+      #We may not have seen this before if recusion is on
+      if(!$gp->get_defs->{$prop_acc} ){ 
+        parseDESC($prop_acc."/DESC", $gp); 
+        eval{
+          parseDESC("$prop_acc/DESC", $gp);
+        };
+        if($@){
+          print STDERR "$prop_acc: does not pass check $@\n";
+          open(E, ">", "$prop_acc/error");
+          print E "Error parsing DESC:\n $@\n";
+          next;
+        }
+      }
+      
+      
       my $errors = 0;   
       my $errorMsg = '';
       my $prop = $gp->get_def($prop_acc);
-      
+      if(!$prop ){
+        die "Failed to establish property for $prop_acc\n";
+      }
+
       #Check threshold is less than number 
       #of steps
       _checkThreshold($prop, \$errors, \$errorMsg);
@@ -89,14 +107,14 @@ sub validateGP {
       }
 
       #Check FASTA
-      my $moreGPsToCheck = _checkFASTA($prop, \$errors, \$errorMsg, $options, \@gpsToCheck);    
+      _checkFASTA($prop, \$errors, \$errorMsg, $options, \@gpsToCheck);    
       
-      if($moreGPsToCheck){
-        foreach my $gpTA (@$moreGPsToCheck){
-          parseDESC($gpTA."/DESC", $gp); 
-          push(@gpsToCheck, $gp);
-        }
-      }
+      #if(GPsToCheck){
+      #  foreach my $gpTA (@$moreGPsToCheck){
+      #    parseDESC($gpTA."/DESC", $gp); 
+      #    #push(@gpsToCheck, $gp);
+      #  }
+      #}
 
       
       if($errors){
@@ -148,7 +166,7 @@ sub _checkFASTA {
           my %all = map{ $_ => 1 } @$gpToCheckAR;
           if($options->{recursive}){
             if(!$all{$evidence->gp}){
-              push(@gpsToCheck, $evidence->gp);
+              push(@$gpToCheckAR, $evidence->gp);
             }
           }else{
             if(!defined($all{$evidence->gp})){
@@ -161,7 +179,6 @@ sub _checkFASTA {
       }
     }
   }
-  return(\@gpsToCheck);
 }
 
 sub _checkThreshold {
@@ -353,7 +370,7 @@ sub parseDESC {
 
     if ( $file[$i] =~ /^(AC|DE|AU|TP|TH|)\s{2}(.*)$/ ) {
       if(exists($params{$1})){
-        warn("In ".$params{AC}."\n") if($params{AC}); 
+        warn($params{AC}."\n") if($params{AC}); 
         warn("\nFound more than one line containing the $1 tag.\n\n"
          . "-" x 80
                 . "\n" );  
