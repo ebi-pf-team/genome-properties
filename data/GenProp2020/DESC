@@ -4,19 +4,29 @@ TP  METAPATH
 AU  Rawlings ND
 TH  1
 RN  [1]
+RM  14499155
+RT  Apoptosis: the complex scenario for a silent cell death.
+RA  Bohm I, Schild H;
+RL  Mol Imaging Biol. 2003;5:2-14.
+RN  [2]
+RM  21456965
+RT  Caspase substrates and cellular remodeling.  
+RA  Crawford ED; Wells JA;   
+RL  Annu Rev Biochem. 2001;80:1055-1087.
+RN  [3]
 RM  9006941
 RT  The structure of FADD and its mode of interaction with procaspase-8. 
 RA  Carrington PE; Sandu C; Wei Y; Hill JM; Morisawa G; Huang T; 
 RA  Gavathiotis E; Wei Y; Werner MH; 
 RL  Mol Cell. 2006;22:599-610.
-RN  [2]
+RN  [4]
 RM  19118384
 RT  The Fas-FADD death domain complex structure unravels signalling by 
 RT  receptor clustering. 
 RA  Scott FL; Stec B; Pop C; Dobaczewska MK; Lee JJ; Monosov E;  
 RA  Robinson H; Salvesen GS; Schwarzenbacher R; Riedl SJ; 
 RL  Nature. 2009;457:1019-1022.
-RN  [3]
+RN  [5]
 RM  9006941
 RT  FLICE induced apoptosis in a cell-free system. Cleavage of caspase 
 RT  zymogens.
@@ -25,18 +35,18 @@ RL  J Biol Chem. 1997;272:2952-2956.
 DC  Apoptosis
 DR  KEGG; map04210;
 CC  Apoptosis or programmed cell death is the mechanism by which cells 
-CC  in eukaryotes are killed.  Cysteine endopeptidases known as caspases 
+CC  in eukaryotes are killed. Cysteine endopeptidases known as caspases 
 CC  are activated and these deactivate cellular proteins, often by 
 CC  cleaving within interdomain regions, thereby separating binding 
-CC  domains of signal reception and transduction domains.  Caspases have
+CC  domains of signal reception and transduction domains [1]. Caspases have
 CC  a specificity for aspartyl bonds, which occur frequently in surface
-CC  loops and interdomain regions of proteins.  Caspases involved in
-CC  apoptosis are of two kinds: initiators and executors.  Initiator
+CC  loops and interdomain regions of proteins [2]. Caspases involved in
+CC  apoptosis are of two kinds: initiators and executors. Initiator
 CC  caspases activate the executor caspases which cleave other proteins
-CC  in the cell.  There are at least four routes by which the initiator
-CC  caspase precursors are activated.  This Genome Property describes
+CC  in the cell. There are at least four routes by which the initiator
+CC  caspase precursors are activated. This Genome Property describes
 CC  the death-inducing signaling complex (DISC) which leads to the
-CC  activation of procaspases 8 and 10 [1-3].
+CC  activation of procaspases 8 and 10 [3,4,5].
 **  Receptor TNF-R1, but not Fas, utilizes caspase activator TRADD.  
 --
 SN  1
@@ -58,7 +68,7 @@ EV  IPR035712; PTHR14913; sufficient;
 TG  GO:0089720;
 --
 SN  3
-ID  extrinsic initiator caspases
+ID  Extrinsic initiator caspases
 RQ  1
 EV  GenProp2018;
 //
