@@ -33,7 +33,6 @@ CC  caspases activate the executor caspases which cleave other proteins
 CC  in the cell. There are at least four routes by which the initiator
 CC  caspase precursors are activated. This Genome Property describes
 CC  the extrinsic pathway of caspase activation [3].
-**  Needs review of apoptosis.
 --
 SN  1
 ID  Death-inducing signaling complex (DISC)
