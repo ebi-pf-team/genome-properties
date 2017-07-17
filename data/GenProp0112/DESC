@@ -47,7 +47,7 @@ SN  4
 ID  6,7-dimethyl-8-ribityllumazine synthase
 DN  6,7-dimethyl-8-ribityllumazine synthase (EC 6.3.3.-)
 RQ  1
-EV  IPR002180; TIGR00114; sufficient;
+EV  IPR034964; TIGR00114; sufficient;
 --
 SN  5
 ID  Riboflavin synthase (2.5.1.9)
