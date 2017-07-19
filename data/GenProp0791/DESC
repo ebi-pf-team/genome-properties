@@ -10,30 +10,31 @@ RT  guanylyltransferase involved in coenzyme F420 biosynthesis.
 RA  Grochowski LL, Xu H, White RH;
 RL  Biochemistry. 2008;47:3033-3037.
 RN  [2]
-RM  11888293
-RT  Characterization of the 2-phospho-L-lactate transferase enzyme involved
-RT  in coenzyme F(420) biosynthesis in Methanococcus jannaschii.
-RA  Graupner M, Xu H, White RH;
-RL  Biochemistry. 2002;41:3754-3761.
-RN  [3]
 RM  12911320
 RT  CofE catalyzes the addition of two glutamates to F420-0 in F420
 RT  coenzyme biosynthesis in Methanococcus jannaschii.
 RA  Li H, Graupner M, Xu H, White RH;
 RL  Biochemistry. 2003;42:9771-9778.
-RN  [4]
+RN  [3]
 RM  11717263
 RT  Use of transposon Tn5367 mutagenesis and a nitroimidazopyran-based
 RT  selection system to demonstrate a requirement for fbiA and fbiB in
 RT  coenzyme F(420) biosynthesis by Mycobacterium bovis BCG.
 RA  Choi KP, Bair TB, Bae YM, Daniels L;
 RL  J Bacteriol. 2001;183:7058-7066.
-CC  The chromophore of coenzyme F420 is
-CC  7,8-didemethyl-8-hydroxy-5-deazaflavin, or FO, which is also used in a
-CC  cyanobacterial DNA photoreactivating enzyme. Modification of FO to
-CC  create coenzyme F420 includes the GTP-dependent addition of two
-CC  glutamate residues in Methanococcus jannaschii and five or six in
-CC  Mycobacterium bovis. CofF, which caps the gamma-glutamyl tail after two
+RN  [4]
+RM  11888293
+RT  Characterization of the 2-phospho-L-lactate transferase enzyme involved
+RT  in coenzyme F(420) biosynthesis in Methanococcus jannaschii.
+RA  Graupner M, Xu H, White RH;
+RL  Biochemistry. 2002;41:3754-3761.
+CC  Coenzyme F420 is a hydride carrier cofactor functioning in 
+CC  methanogenesis [1]. The chromophore of coenzyme F420 is
+CC  7,8-didemethyl-8-hydroxy-5-deazaflavin (otherwise known as FO), which is 
+CC  also used in a cyanobacterial DNA photoreactivating enzyme. Modification of 
+CC  FO to create coenzyme F420 includes the GTP-dependent addition of two
+CC  glutamate residues in Methanococcus jannaschii [2] and five or six in
+CC  Mycobacterium bovis [3]. CofF, which caps the gamma-glutamyl tail after two
 CC  glutamates, occurs only the archaea.
 **  MJ_1418 generates lactaldehyde  cofA (MJ_1411) generates L-lactate from
 **  lactaldehyde  cofB uses GTP to make 2-phospho-L-lactate from L-lactate 
