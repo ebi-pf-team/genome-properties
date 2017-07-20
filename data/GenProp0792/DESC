@@ -35,15 +35,15 @@ CC  FbiC in Escherichia coli is sufficient for FO biosynthesis [2].
 **  than in F420 biosynthesis.
 --
 SN  CofG
-ID  FO synthase, CofG subunit
-DN  7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase, CofG subunit (EC 2.5.1.-)
+ID  7,8-didemethyl-8-hydroxy-5-deazariboflavin (FO) synthase, CofG subunit 
+DN  CofG family (EC 2.5.1.77)
 RQ  1
 EV  IPR019939; TIGR03550;
 TG  GO:0009108;
 --
 SN  CofH
-ID  FO synthase, CofH subunit
-DN  7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase, CofH subunit (EC 2.5.1.-)
+ID  7,8-didemethyl-8-hydroxy-5-deazariboflavin (FO) synthase, CofH subunit 
+DN  CofH family (EC 2.5.1.77)
 RQ  1
 EV  IPR019940; TIGR03551;
 TG  GO:0009108;
