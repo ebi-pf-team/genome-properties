@@ -20,25 +20,25 @@ CC  is not part of the active FRH heterotrimer, but may be required for
 CC  maturation [1].
 **  These have been removed from methanogen marker set.
 --
-SN  frhA
+SN  1
 ID  Coenzyme F420 hydrogenase, subunit alpha
 DN  Coenzyme F420 hydrogenase, subunit alpha (EC 1.12.98.1)
 RQ  1
 EV  IPR017682; TIGR03295; sufficient;
 --
-SN  frhB
+SN  2
 ID  Coenzyme F420 hydrogenase, subunit beta
 DN  Coenzyme F420 hydrogenase, subunit beta (EC 1.12.98.1)
 RQ  1
 EV  IPR017679; TIGR03289; sufficient;
 --
-SN  frhD
+SN  3
 ID  Coenzyme F420 hydrogenase, maturation protease
 DN  Peptidase A31, coenzyme F420-reducing hydrogenase delta subunit 
 RQ  1
 EV  IPR004411; TIGR00130; sufficient;
 --
-SN  frhG
+SN  4
 ID  Coenzyme F420 hydrogenase, subunit gamma
 DN  Coenzyme F420 hydrogenase, subunit gamma (EC 1.12.98.1)
 RQ  1
