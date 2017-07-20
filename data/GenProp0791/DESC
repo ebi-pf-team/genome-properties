@@ -43,48 +43,48 @@ CC  glutamates, occurs only the archaea.
 **  (MJ_1001)  It appears that Anacystis nidulans (e.g.) make the precursor
 **  FO (the chromophore of F420) but not F420 itself.
 --
-SN  FO_syn
+SN  1
 ID  FO biosynthesis
 RQ  1
 EV  GenProp0792;
 TG  GO:0009108;
 --
-SN  3_CofC
+SN  2
 ID  Lactoylphosphate guanylyltransferase
 DN  2-phospho-L-lactate guanylyltransferase, CofC
 RQ  1
 EV  IPR002835; TIGR03552;
 TG  GO:0009108;
 --
-SN  4_CofD
+SN  3
 ID  LPPG:Fo 2-phospho-L-lactate transferase
 DN  2-phospho-L-lactate transferase/CofD
 RQ  1
 EV  IPR010115; TIGR01819;
 TG  GO:0009108;
 --
-SN  5_CofE
+SN  4
 ID  F420-O:gamma-glutamyl ligase
 DN  Coenzyme F420:L-glutamate ligase/CofE
 RQ  1
 EV  IPR008225; TIGR01916;
 TG  GO:0009108;
 --
-SN  6_CofF
+SN  5
 ID  Coenzyme gamma-F420-2:alpha-L-glutamate ligase
 DN  Coenzyme gamma-F420-2:alpha-L-glutamate ligase/CofF
 RQ  0
 EV  IPR031039; TIGR04443;
 TG  GO:0009108;
 --
-SN  FbiB_C
+SN  6
 ID  F420 biosynthesis protein FbiB, C-terminal domain
 DN  Coenzyme F420 biosynthesis protein FbiB, C-terminal
 RQ  0
 EV  IPR019943; TIGR03553;
 TG  GO:0009108;
 --
-SN  reduct
+SN  7
 ID  NADPH-dependent F420 reductase
 DN  NADPH-dependent F420 reductase
 RQ  0
