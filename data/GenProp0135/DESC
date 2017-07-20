@@ -82,7 +82,7 @@ SN  11
 ID  NADH dehydrogenase I, K subunit
 DN  NADH dehydrogenase I, K subunit/NuoK (EC 1.6.5.3)
 RQ  1
-EV  IPR001133; PF00420; sufficient;
+EV  IPR001133; PTHR11434; sufficient;
 --
 SN  12
 ID  NADH dehydrogenase I, L subunit

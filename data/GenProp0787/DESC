@@ -22,7 +22,7 @@ SN  1
 ID  Acetyl-diaminopimelate deacetylase
 DN  Acetyl-diaminopimelate deacetylase (EC 3.5.1.47)
 RQ  1
-EV  IPR023905;
+EV  IPR023905; MF_01692;
 --
 SN  2
 ID  Acetyl-diaminopimelate transaminase

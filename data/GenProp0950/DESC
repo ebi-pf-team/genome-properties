@@ -22,19 +22,20 @@ DC  dTDP-L-rhamnose biosynthesis I
 DR  MetaCyc; DTDPRHAMSYN-PWY;
 DC  6-Deoxyhexose Biosynthesis
 DR  IUBMB; polysacc; deoxyhex;
-CC  dTDP-4-dehydro-6-deoxy-alpha-D-glucose is an intermediate in the biosynthesis
-CC  of L-rhamnose and D-fucosamine derivatives. L-rhamnose is a common component of the 
-CC  bacterial capsule and/or cell wall, and is important in bacterial survival during 
-CC  infection. dTDP-L-rhamnose is the precursor of L-rhamnose[1,2].
-CC  dTDP-L-rhamnose is synthesized from glucose-1-phosphate and deoxythymidine
-CC  triphosphate (dTTP) via a four-step enzymatic pathway. The four enzymes are: 
-CC  glucose-1-phosphate thymidyltransferase (also known as dTDP-glucose 
-CC  pyrophosphorylase, gene name rlmA or rfbA); dTDP-D-glucose 4,6-dehydratase (gene 
-CC  name rmlB or rfbB); dTDP-4-dehydrorhamnose 3,5-epimerase (also known as 
-CC  dTDP-6-deoxy-D-xylo-4-hexulose 3,5-epimerase, gene name rmlC or rfbC); and 
-CC  dTDP-4-dehydrorhamnose reductase (also known as dTDP-6-deoxy-L-lyxo-4-hexulose 
-CC  reductase (gene name rmlD or rfbD)[1,2]. This property refers to the first two
-CC  steps of this pathway.
+CC  dTDP-4-dehydro-6-deoxy-alpha-D-glucose is an intermediate in the 
+CC  biosynthesis of L-rhamnose and D-fucosamine derivatives. L-rhamnose is a 
+CC  common component of the bacterial capsule and/or cell wall, and is 
+CC  important in bacterial survival during infection. dTDP-L-rhamnose is the 
+CC  precursor of L-rhamnose[1,2]. dTDP-L-rhamnose is synthesized from 
+CC  glucose-1-phosphate and deoxythymidine triphosphate (dTTP) via a 
+CC  four-step enzymatic pathway. The four enzymes are: glucose-1-phosphate 
+CC  thymidyltransferase (also known as dTDP-glucose pyrophosphorylase, gene 
+CC  name rlmA or rfbA); dTDP-D-glucose 4,6-dehydratase (gene name rmlB or 
+CC  rfbB); dTDP-4-dehydrorhamnose 3,5-epimerase (also known as 
+CC  dTDP-6-deoxy-D-xylo-4-hexulose 3,5-epimerase, gene name rmlC or rfbC); 
+CC  and dTDP-4-dehydrorhamnose reductase (also known as 
+CC  dTDP-6-deoxy-L-lyxo-4-hexulose reductase (gene name rmlD or rfbD)[1,2]. 
+CC  This property refers to the first two steps of this pathway.
 --
 SN  1
 ID  Glucose-1-phosphate thymidylyltransferase

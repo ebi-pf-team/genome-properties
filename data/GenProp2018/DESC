@@ -1,9 +1,14 @@
 AC  GenProp2018
-DE  initiator caspases of the extrinsic pathway
+DE  Initiator caspases of the extrinsic pathway
 TP  SYSTEM
 AU  Rawlings ND
 TH  1
 RN  [1]
+RM  14499155
+RT  Apoptosis: the complex scenario for a silent cell death.
+RA  Bohm I, Schild H;
+RL  Mol Imaging Biol. 2003;5:2-14.
+RN  [2]
 RM  9006941
 RT  FLICE induced apoptosis in a cell-free system. Cleavage of caspase 
 RT  zymogens.
@@ -12,25 +17,24 @@ RL  J Biol Chem. 1997;272:2952-2956.
 DC  Apoptosis
 DR  KEGG; map04210;
 CC  Apoptosis or programmed cell death is the mechanism by which cells 
-CC  in eukaryotes are killed.  Cysteine endopeptidases known as caspases 
+CC  in eukaryotes are killed. Cysteine endopeptidases known as caspases 
 CC  are activated and these deactivate cellular proteins, often by 
 CC  cleaving within interdomain regions, thereby separating binding 
-CC  domains of signal reception and transduction domains.  Caspases have
-CC  a specificity for aspartyl bonds, which occur frequently in surface
-CC  loops and interdomain regions of proteins.  Caspases involved in
-CC  apoptosis are of two kinds: initiators and executors.  Initiator
+CC  domains of signal reception and transduction domains [1]. Caspases 
+CC  have a specificity for aspartyl bonds, which occur frequently in 
+CC  surface loops and interdomain regions of proteins. Caspases involved 
+CC  in apoptosis are of two kinds: initiators and executors. Initiator
 CC  caspases activate the executor caspases which cleave other proteins
-CC  in the cell [1].  There are at least four routes by which the 
-CC  initiator caspase precursors are activated.  This Genome Property 
+CC  in the cell [2]. There are at least four routes by which the 
+CC  initiator caspase precursors are activated. This Genome Property 
 CC  includes the extrinsic pathway initiator caspases.
-**  Needs review of apoptosis.
 --
 SN  1
 ID  Caspase-8
 DN  Caspase-8 (EC:3.4.22.61)
 RQ  1
 EV  IPR033170; PTHR10454:SF176; sufficient;
-TG  GO:0006919;
+TG  GO:0097199;
 --
 SN  2
 ID  Caspase-10

@@ -4,43 +4,48 @@ TP  METAPATH
 AU  Rawlings ND
 TH  1
 RN  [1]
+RM  14499155
+RT  Apoptosis: the complex scenario for a silent cell death.
+RA  Bohm I, Schild H;
+RL  Mol Imaging Biol. 2003;5:2-14.
+RN  [2]
+RM  21456965
+RT  Caspase substrates and cellular remodeling.  
+RA  Crawford ED; Wells JA;   
+RL  Annu Rev Biochem. 2001;80:1055-1087.
+RN  [3]
 RM  15173176
 RT  Caspase-2 can function upstream of bid cleavage in the TRAIL  
 RT  apoptosis pathway.  
 RA  Wagner KW; Engels IH; Deveraux QL;   
 RL  J Biol Chem. 2004;279:35047-35052.
-RN  [2]
+RN  [4]
 RM  11832478
 RT  Caspase-2 induces apoptosis by releasing proapoptotic proteins from 
 RT  mitochondria.  
 RA  Guo Y; Srinivasula SM; Druilhe A; Fernandes-Alnemri T; Alnemri ES;   
 RL  J Biol Chem. 2002;277:13430-13437.
-RN  [3]
+RN  [5]
 RM  17179148
 RT  Mouse and human granzyme B have distinct tetrapeptide specificities  
 RT  and abilities to recruit the bid pathway.  
 RA  Casciola-Rosen L; Garcia-Calvo M; Bull HG; Becker JW; Hines T; 
 RA  Thornberry NA; Rosen A;   
 RL  J Biol Chem. 2007;282:4545-4552.
-RN  [4]
-RM  21456965
-RT  Caspase substrates and cellular remodeling.  
-RA  Crawford ED; Wells JA;   
-RL  Annu Rev Biochem. 2001;80:1055-1087.
 DC  Apoptosis
 DR  KEGG; map04210;
 CC  Apoptosis or programmed cell death is the mechanism by which cells 
-CC  in eukaryotes are killed.  Cysteine endopeptidases known as caspases 
+CC  in eukaryotes are killed. Cysteine endopeptidases known as caspases 
 CC  are activated and these deactivate cellular proteins, often by 
 CC  cleaving within interdomain regions, thereby separating binding 
-CC  domains of signal reception and transduction domains.  Caspases have
+CC  domains of signal reception and transduction domains [1]. Caspases have
 CC  a specificity for aspartyl bonds, which occur frequently in surface
-CC  loops and interdomain regions of proteins [4].  Caspases involved in
-CC  apoptosis are of two kinds: initiators and executors.  Initiator
+CC  loops and interdomain regions of proteins [2]. Caspases involved in
+CC  apoptosis are of two kinds: initiators and executors. Initiator
 CC  caspases activate the executor caspases which cleave other proteins
-CC  in the cell.  There are at least four routes by which the initiator
-CC  caspase precursors are activated.  This Genome Property describes
-CC  the intrinsic or mitochondria-mediated pathway [1-3].
+CC  in the cell. There are at least four routes by which the initiator
+CC  caspase precursors are activated. This Genome Property describes
+CC  the intrinsic or mitochondria-mediated pathway [3,4,5].
 --
 SN  1
 ID  Caspase-2 
@@ -63,12 +68,12 @@ EV  IPR010479; PF06393; sufficient;
 TG  GO:0008625;
 --
 SN  3
-ID  apoptosome
+ID  Apoptosome
 RQ  1
 EV  GenProp2021;
 --
 SN  4
-ID  extrinsic initiator caspases
+ID  Extrinsic initiator caspases
 RQ  1
 EV  GenProp2018;
 //

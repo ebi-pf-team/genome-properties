@@ -1,23 +1,23 @@
 AC  GenProp2017
-DE  gamma secretase
+DE  Gamma secretase
 TP  SYSTEM
 AU  Rawlings ND
 TH  1
 RN  [1]
 RM  28320827
-RT  Structural and chemical biology of presenilin complexes.
-RA  Johnson DS; Li YM; Pettersson M; St George-Hyslop PH; 
-RL  Cold Spring Harb Perspect Med. 2017;:.
+RT  Structural and Chemical Biology of Presenilin Complexes.
+RA  Johnson DS, Li YM, Pettersson M, St George-Hyslop PH;
+RL  Cold Spring Harb Perspect Med. 2017; [Epub ahead of print]
 DC  Alzheimer's disease
 DR  KEGG; ko05010;
 CC  Gamma secretase is a complex found in cell membranes and initially
 CC  identified as the peptidase responsible for the gamma, varepsilon and 
 CC  zeta cleavages of the transmembrane domains of Type I membrane proteins 
 CC  including amyloid precursor protein (APP) and Notch.  Release of the 
-CC  Abeta peptide from APP is an important step in the development of
-CC  Alzheimer's disease and forms the plaques that are characteristic
-CC  of the pathology.  Release of the Abeta peptide requires two
-CC  proteolytic cleavages, cleavage by beta-secretase in the extracellular
+CC  amyloid beta (A-beta) peptide from APP is an important step in the 
+CC  development of Alzheimer's disease and forms the plaques that are 
+CC  characteristic of the pathology.  Release of the A-beta peptide requires 
+CC  two proteolytic cleavages, cleavage by beta-secretase in the extracellular
 CC  domain, and then cleavage at the gamma and epsilon sites by gamma
 CC  secretase.  The proteolytic component of gamma secretase is presenilin
 CC  which is an aspartic endopeptidase [1].
@@ -38,7 +38,7 @@ TG  GO:0042987;
 --
 SN  2
 ID  Gamma-secretase subunit APH-1A
-DN  Gamma-secretase subunit APH-1A
+DN  Gamma-secretase subunit Aph-1
 RQ  1
 EV  IPR009294; PTHR12889; sufficient;
 EV  IPR009294; PF06105; sufficient;
@@ -54,7 +54,7 @@ TG  GO:0043085;
 --
 SN  4
 ID  Gamma-secretase subunit PEN-2
-DN  Gamma-secretase subunit PEN-2
+DN  Gamma-secretase aspartyl protease complex, presenilin enhancer-2 subunit 
 RQ  1
 EV  IPR019379; PTHR16318; sufficient;
 EV  IPR019379; PF10251; sufficient;
