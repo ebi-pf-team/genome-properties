@@ -22,21 +22,25 @@ CC  maturation [1].
 --
 SN  frhA
 ID  Coenzyme F420 hydrogenase, subunit alpha
+DN  Coenzyme F420 hydrogenase, subunit alpha (EC 1.12.98.1)
 RQ  1
 EV  IPR017682; TIGR03295; sufficient;
 --
 SN  frhB
 ID  Coenzyme F420 hydrogenase, subunit beta
+DN  Coenzyme F420 hydrogenase, subunit beta (EC 1.12.98.1)
 RQ  1
 EV  IPR017679; TIGR03289; sufficient;
 --
 SN  frhD
 ID  Coenzyme F420 hydrogenase, maturation protease
+DN  Peptidase A31, coenzyme F420-reducing hydrogenase delta subunit 
 RQ  1
 EV  IPR004411; TIGR00130; sufficient;
 --
 SN  frhG
 ID  Coenzyme F420 hydrogenase, subunit gamma
+DN  Coenzyme F420 hydrogenase, subunit gamma (EC 1.12.98.1)
 RQ  1
 EV  IPR017681; TIGR03294; sufficient;
 //
