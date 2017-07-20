@@ -13,7 +13,7 @@ CC  This pathway converts fructose-6-phosphate in four steps to activated
 CC  N-acetylglucosamine. GlmS produces glucosamine-6-phosphate. GlmM
 CC  isomerizes this product to glucosamine-1-phosphate. GlmU, which is
 CC  bifunctional, adds an acetyl group from acetyl-CoA, then acts as
-CC  N-acetylglucosamine-1-phosphate uridylyltransferase. The product,
+CC  N-acetylglucosamine-1-phosphate uridylyltransferase [1]. The product,
 CC  UDP-N-acetyl-D-glucosamine, is then used both for murein biosynthesis
 CC  and (in species with LPS) for lipopolysaccharide biosynthesis.
 **  murein is role_id 89, LPS is role_id 90.
