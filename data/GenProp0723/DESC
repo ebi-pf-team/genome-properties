@@ -10,9 +10,14 @@ RT  the subunits of the nickel-containing 8-hydroxy-5-deazaflavin reducing
 RT  hydrogenase from Methanobacterium thermoautotrophicum delta H.
 RA  Alex LA, Reeve JN, Orme-Johnson WH, Walsh CT;
 RL  Biochemistry. 1990;29:7237-7244.
-CC  This nickel hydrogenase reduces coenzyme F420 and is found exclusively
-CC  in methanogenic archaea, but not universally. It is lacking from at
-CC  least four Methanosarcinales.
+CC  This nickel hydrogenase reduces coenzyme F420 (8-hydroxy-5-deazaflavin) 
+CC  and is found exclusively, but not universally, in methanogenic archaea. 
+CC  It is lacking in at least four Methanosarcinales. F420 reducing 
+CC  hydrogenase (FRH) is composed of three subuints, aplpha, beta and 
+CC  gamma, which are encoded by the genes frhA, frhB, and frhG respectively.
+CC  A forth gene in the same cluster, frhD, encodes a delta subunit, which 
+CC  is not part of the active FRH heterotrimer, but may be required for 
+CC  maturation [1].
 **  These have been removed from methanogen marker set.
 --
 SN  frhA
