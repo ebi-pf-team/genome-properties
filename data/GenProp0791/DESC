@@ -51,21 +51,21 @@ TG  GO:0009108;
 --
 SN  2
 ID  Lactoylphosphate guanylyltransferase
-DN  2-phospho-L-lactate guanylyltransferase, CofC
+DN  2-phospho-L-lactate guanylyltransferase, CofC (EC 2.7.7.68)
 RQ  1
 EV  IPR002835; TIGR03552;
 TG  GO:0009108;
 --
 SN  3
 ID  LPPG:Fo 2-phospho-L-lactate transferase
-DN  2-phospho-L-lactate transferase/CofD
+DN  2-phospho-L-lactate transferase/CofD (EC 2.7.8.28)
 RQ  1
 EV  IPR010115; TIGR01819;
 TG  GO:0009108;
 --
 SN  4
 ID  F420-O:gamma-glutamyl ligase
-DN  Coenzyme F420:L-glutamate ligase/CofE
+DN  Coenzyme F420:L-glutamate ligase/CofE (EC 6.3.2.31/EC 6.3.2.34)
 RQ  1
 EV  IPR008225; TIGR01916;
 TG  GO:0009108;
@@ -79,14 +79,14 @@ TG  GO:0009108;
 --
 SN  6
 ID  F420 biosynthesis protein FbiB, C-terminal domain
-DN  Coenzyme F420 biosynthesis protein FbiB, C-terminal
+DN  Coenzyme F420 biosynthesis protein FbiB, C-terminal (EC 6.3.2.31/EC 6.3.2.34)
 RQ  0
 EV  IPR019943; TIGR03553;
 TG  GO:0009108;
 --
 SN  7
 ID  NADPH-dependent F420 reductase
-DN  NADPH-dependent F420 reductase
+DN  NADPH-dependent F420 reductase (EC 1.5.1.40)
 RQ  0
 EV  IPR010185; TIGR01915;
 //
