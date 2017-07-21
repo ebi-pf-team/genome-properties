@@ -11,7 +11,7 @@ Genome Properties is supported by the following organisations:
    :alt: Biotechnology and Biological Sciences Research Council
    :target: http://www.bbsrc.ac.uk
 
-.. |embl| image:: _static/images/embl-logo.jpg
+.. |embl| image:: _static/images/embl-logo_small.jpg
    :alt: EMBL-EBI
    :target: http://www.embl.org
 
