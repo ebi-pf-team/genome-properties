@@ -3,7 +3,7 @@ Funding
 Genome Properties is supported by the following organisations:
 
 
-.. |nsf| image:: _static/images/nsf-logo.gif
+.. |nsf| image:: _static/images/nsf1.jpg
    :alt: National Science Foundation
    :target: https://www.nsf.gov
    
@@ -11,7 +11,7 @@ Genome Properties is supported by the following organisations:
    :alt: Biotechnology and Biological Sciences Research Council
    :target: http://www.bbsrc.ac.uk
 
-.. |embl| image:: _static/images/embl_logo.png
+.. |embl| image:: _static/images/Ebi_logo.png
    :alt: EMBL-EBI
    :target: http://www.embl.org
 
