@@ -3,6 +3,6 @@ DE  Nucleotide catabolism/utilization pathways
 TP  CATEGORY
 AU  Haft DH
 TH  0
-CC  Children of this property are pathways for the degradation and reuse of
-CC  nucleotides.
+CC  Properties in this category are pathways for the degradation and reuse 
+CC  of nucleotides.
 //

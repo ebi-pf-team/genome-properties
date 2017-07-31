@@ -3,7 +3,7 @@ DE  Host range
 TP  CATEGORY
 AU  Haft DH
 TH  0
-CC  Genome Properties organized under this one describe taxonomic terms
+CC  Genome Properties in this category describe taxonomic terms
 CC  corresponding to hosts with which the sequenced organism may be
 CC  associated.  NOTE: the lack of an assertion does not imply that the
 CC  host range does not include species in that taxonomic grouping, only
