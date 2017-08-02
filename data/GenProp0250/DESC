@@ -34,7 +34,7 @@ CC  biosynthesis.
 **  Either IscS or NifS must be present, but this requirement also is not 
 **  included in the rule. 
 --
-SN  H_or_O
+SN  1
 ID  ThiH (Tyr) or ThiO (Gly)
 DN  NOT APPLICABLE
 RQ  1
@@ -43,7 +43,7 @@ TG  GO:0018131;
 EV  IPR012726; TIGR02351; sufficient;
 TG  GO:0018131;
 --
-SN  ThiF
+SN  2
 ID  ThiF protein
 RQ  0
 EV  IPR012729; TIGR02354; sufficient;
@@ -51,21 +51,21 @@ TG  GO:0018131;
 EV  IPR012731; TIGR02356; sufficient;
 TG  GO:0018131;
 --
-SN  ThiG
+SN  3
 ID  ThiG protein
 DN  Thiazole biosynthesis protein ThiG
 RQ  1
 EV  IPRXXXX; PF05690; sufficient;
 TG  GO:0018131;
 --
-SN  ThiI
+SN  4
 ID  ThiI protein
 DN  Thiamine biosynthesis protein ThiI
 RQ  1
 EV  IPR026340; TIGR04271; sufficient;
 TG  GO:0018131;
 --
-SN  ThiS
+SN  5
 ID  ThiS protein
 DN  Thiamine biosynthesis protein ThiS
 RQ  1
