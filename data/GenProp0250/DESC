@@ -55,7 +55,7 @@ SN  3
 ID  ThiG protein
 DN  Thiazole biosynthesis protein ThiG
 RQ  1
-EV  IPRXXXX; PF05690; sufficient;
+EV  IPR033983; PF05690; sufficient;
 TG  GO:0018131;
 --
 SN  4
