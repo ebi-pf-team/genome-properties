@@ -22,9 +22,9 @@ CC  followed by pyrophosphorylation or direct phosphorylation [1].
 --
 SN  1
 ID  Thiamine-phosphate diphosphorylase
-DN  Thiamine-phosphate pyrophosphorylase
+DN  Thiamine phosphate synthase
 RQ  1
-EV  IPR003733; TIGR00693; sufficient;
+EV  IPR034291; TIGR00693; sufficient;
 TG  GO:0009228;
 --
 SN  2
@@ -33,6 +33,7 @@ RQ  0
 --
 SN  3
 ID  ThiL or pyrophosphokinase
+DN  Thiamine-monophosphate kinase/Thiamin pyrophosphokinase
 RQ  1
 EV  IPR006283; TIGR01379; sufficient;
 TG  GO:0009228;
