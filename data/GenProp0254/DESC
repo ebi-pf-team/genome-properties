@@ -1,8 +1,14 @@
 AC  GenProp0254
-DE  Thiamine: TPP from HMP-PP and HET-P
-TP  PATHWAY
+DE  Thiamine pyrophosphate (TPP) biosynthesis from HMP-PP and HET-P
+TP  METAPATH
 AU  Haft DH
 TH  0
+RN  [1]
+RM  12376536
+RT  Comparative genomics of thiamin biosynthesis in procaryotes. New genes
+RT  and regulatory mechanisms.
+RA  Rodionov DA, Vitreschak AG, Mironov AA, Gelfand MS;
+RL  J Biol Chem. 2002;277:48949-48959.
 CC  Hydroxymethylpyrimidine pyrophosphate (HMP-PP) may be obtained de novo
 CC  from a purine biosynthesis intermediate or by import or salvage, then
 CC  phosphorylation, of hydroxymethylpyrimidine. Likewise,
