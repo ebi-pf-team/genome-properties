@@ -1,4 +1,5 @@
 Funding
+=======
 
 Genome Properties is supported by the following organisations:
 
