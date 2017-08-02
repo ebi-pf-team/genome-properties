@@ -20,18 +20,18 @@ CC  followed by pyrophosphorylation or direct phosphorylation [1].
 **  This property includes both ligation and remaining steps to obtain TPP.
 **  This might be a good place for various salvage models: ThiM, etc.
 --
-SN  ThiE
+SN  1
 ID  Thiamine-phosphate diphosphorylase
 DN  Thiamine-phosphate pyrophosphorylase
 RQ  1
 EV  IPR003733; TIGR00693; sufficient;
 TG  GO:0009228;
 --
-SN  riboswch
+SN  2
 ID  TPP riboswitch (THI element)
 RQ  0
 --
-SN  toTPP
+SN  3
 ID  ThiL or pyrophosphokinase
 RQ  1
 EV  IPR006283; TIGR01379; sufficient;
