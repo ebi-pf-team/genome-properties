@@ -1,37 +1,38 @@
 AC  GenProp0250
-DE  Thiamine: hydroxyethylthiazole from 1-deoxy-D-xylulose-5-phosphate, Cysteine, either Tyr or Gly
+DE  Hydroxyethylthiazole (HET) biosynthesis from 1-deoxy-D-xylulose-5-phosphate, Cysteine, and either Tyr or Gly
 TP  PATHWAY
 AU  Haft DH
 TH  1
 RN  [1]
-RM  12410317
-RT  Thiamine derivatives bind messenger RNAs directly to regulate bacterial
-RT  gene expression.
-RA  Winkler W, Nahvi A, Breaker RR;
-RL  Nature. 2002;419:952-956.
-RN  [2]
 RM  12376536
 RT  Comparative genomics of thiamin biosynthesis in procaryotes. New genes
 RT  and regulatory mechanisms.
 RA  Rodionov DA, Vitreschak AG, Mironov AA, Gelfand MS;
 RL  J Biol Chem. 2002;277:48949-48959.
+RN  [2]
+RM  12410317
+RT  Thiamine derivatives bind messenger RNAs directly to regulate bacterial
+RT  gene expression.
+RA  Winkler W, Nahvi A, Breaker RR;
+RL  Nature. 2002;419:952-956.
 CC  This property describes de novo synthesis of the thiazole moiety of
 CC  thiamine, hydroxyethylthiazole (HET). This requires more distinct
 CC  proteins than that of the pyrimidine moeity, hydromethylpyrimidine
 CC  (HMP). Phosphorylated forms of HET and HMP are connected by ThiE as
 CC  thiamine phosphate and converted eventually to the active form thiamine
 CC  pyrophosphate, TPP. HET biosynthesis requires the small ThiS protein,
-CC  the C-terminus of which becomes modified transiently by a sulfur atom
-CC  from cysteine. ThiG is required, along with either ThiH in species
+CC  the C terminus of which becomes modified transiently by a sulfur atom
+CC  from cysteine [1]. ThiG is required, along with either ThiH in species
 CC  where tyrosine is a precursor or ThiO in species where glycine is a
 CC  precursor. ThiF, although required biosynthetically, is not readily
 CC  separated from MoeB, a molybdopterin biosynthesis protein, and so is
-CC  not built into the rule as a required component. Either IscS or NifS
-CC  must be present, but this requirement also is not included in the rule.
-CC  The ThiI gene is required, but also serves in formation of a tRNA
-CC  modified site in species that do not make HET. This property represents
-CC  and alternative to HET uptake as a means to obtain the thiazole
-CC  component for thiamine biosynthesis.
+CC  not considered a required component. The ThiI gene is required, but 
+CC  also serves in formation of a tRNA modified site in species that do 
+CC  not make HET [2]. This property represents and alternative to HET 
+CC  uptake as a means to obtain the thiazole component for thiamine 
+CC  biosynthesis.
+**  Either IscS or NifS must be present, but this requirement also is not 
+**  included in the rule. 
 --
 SN  H_or_O
 ID  ThiH (Tyr) or ThiO (Gly)
