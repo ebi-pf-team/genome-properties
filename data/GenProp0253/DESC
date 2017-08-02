@@ -19,19 +19,20 @@ CC  biosynthesis from the purine biosynthesis metabolite aminoimidazole
 CC  ribotide (AIR), starting with the ThiC enzyme [1].
 --
 SN  1
-ID  ThiC protein
-DN  Thiamine biosynthesis protein ThiC
+ID  Thiamine biosynthesis protein ThiC
+DN  Phosphomethylpyrimidine synthase 
 RQ  1
 EV  IPR002817; TIGR00190; sufficient;
 --
 SN  2
 ID  TenA domain/protein
+DN  Thiaminase-2/PQQC
 RQ  0
 EV  IPR004305; PF03070; sufficient;
 --
 SN  3
 ID  Phosphomethylpyrimidine kinase/ThiD
-DN  Phosphomethylpyrimidine kinase/ThiD
+DN  Hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase/ThiD
 RQ  1
 EV  IPR004399; TIGR00097; sufficient;
 //
