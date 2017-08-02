@@ -9,14 +9,15 @@ RT  Comparative genomics of thiamin biosynthesis in procaryotes. New genes
 RT  and regulatory mechanisms.
 RA  Rodionov DA, Vitreschak AG, Mironov AA, Gelfand MS;
 RL  J Biol Chem. 2002;277:48949-48959.
-CC  Hydroxymethylpyrimidine pyrophosphate (HMP-PP) may be obtained de novo
-CC  from a purine biosynthesis intermediate or by import or salvage, then
-CC  phosphorylation, of hydroxymethylpyrimidine. Likewise,
-CC  hydroxyethylthiazole phosphate may be come from synthesis, import, or
-CC  salvage.  The two heterocylic compounds are ligated by ThiE to thiamine
+CC  Thiamine pyrophosphate (TPP) is an essential cofactor for several 
+CC  carbohydrate metabolism enzymes. Hydroxymethylpyrimidine pyrophosphate 
+CC  (HMP-PP) may be obtained by de novo synthesis, or by import or salvage 
+CC  of hydroxymethylpyrimidine followed by phosphorylation. Likewise, 
+CC  hydroxyethylthiazole phosphate (HET-P) may come from synthesis, import, 
+CC  or salvage. The two heterocylic compounds are ligated by ThiE to thiamine
 CC  phosphate. Thiamine phosphate then undegoes either dephosphorylation
-CC  followed by pyrophosphorylation or direct phosphorylation. This
-CC  property includes both ligation and remaining steps to obtain TPP.
+CC  followed by pyrophosphorylation or direct phosphorylation. 
+**  This property includes both ligation and remaining steps to obtain TPP.
 **  This might be a good place for various salvage models: ThiM, etc.
 --
 SN  ThiE
