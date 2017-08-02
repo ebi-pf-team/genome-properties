@@ -21,6 +21,12 @@ CC  type. Repeats typically are 37 base pairs long.
 **  ggs, ggo gan, ntdp01, GVS.  There seem to be some either-or
 **  relationships: when csx17 (TIGR04113) is present, csb1 (TIGR02570) is
 **  not.
+**  None of the member database entries includes sequences from all of the 
+**  organisms listed above.  TIGR04113 does not contain any sequences from
+**  any of the five organisms mentioned above, and most of them do not
+**  occur in steps csb2, csb3 and csx17.  A sequence from Desulfotalea 
+**  psychrophila is present in TIGR02165; a sequence from Geobacter 
+**  sulfurreducens is present in TIGR04106.
 --
 SN  Cas1
 ID  Cas1, Dpsyc region
