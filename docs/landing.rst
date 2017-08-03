@@ -22,6 +22,4 @@ Users can browse the Genome Properties, which are arranged within a hierarchy, e
 
 
 .. include:: release_stats.txt
-For more information, see the content_. page.
-.._content: 
-#content
+For more information, see the `content<#content>_. page.
