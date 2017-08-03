@@ -1,4 +1,4 @@
-Shown below is a breakdown of the content of the current release.
+Below is a breakdown of the contents of the current release.
 
 .. include:: stats.overview
 
