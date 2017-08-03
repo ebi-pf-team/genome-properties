@@ -5,7 +5,7 @@ Shown below is a breakdown of the content of the current release.
 PATHWAYS
 --------
 
-..include:: stats.PATHWAY
+.. include:: stats.PATHWAY
 
 
 METAPATH
