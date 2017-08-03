@@ -21,6 +21,8 @@ my %TYPES = ( METAPATH => 1,
 sub validateGP {
   my($gp, $options) = @_;
     
+  my $globalError = 0;
+  
   #Read the DESC
 	DESC:
   foreach my $dir (sort @{$options->{dirs}}){
@@ -35,8 +37,10 @@ sub validateGP {
       open(E, ">", "$dir/error");
       print E "Error parsing DESC:\n $@\n";
       close(E);
+      $globalError = 1;
     }
   }
+
 
   #Does it have any steps that we should have a sequence for testing
   if($gp->get_defs){
@@ -95,11 +99,19 @@ sub validateGP {
         print E $errorMsg;
         close(E);
         print $errorMsg;
+        $globalError = 1;
       }else{
         unlink("$prop_acc/error") if(-e "$prop_acc/error");
         print "$prop_acc: passes check\n";
       }
     }
+  }
+  if($globalError){
+    die "Got an error\n";
+    warn "One or more of the GPs listed has an error, see log above and GP/error file.\n";
+    return 0;
+  }else{
+    return 1;
   }
 }
 
@@ -627,4 +639,60 @@ sub _checkStatus {
 
   return $evaluate;
 }
+
+
+sub stats {
+  my($gp, $options) = @_;
+    
+  my $globalError = 0;
+  
+  #Read the DESC
+	DESC:
+  foreach my $dir (sort @{$options->{dirs}}){
+    #TODO: put status check in here
+    next DESC if(defined($options->{status}) and ! _checkStatus($dir, $options));
+
+    eval{
+      parseDESC("$dir/DESC", $gp, $options);
+    };
+    if($@){
+      print STDERR "$dir: does not pass check $@\n";
+      open(E, ">", "$dir/error");
+      print E "Error parsing DESC:\n $@\n";
+      close(E);
+      $globalError = 1;
+    }
+  }
+
+  my %stats;
+  foreach my $type (keys %TYPES){
+    $stats{$type} = [];
+  }
+
+
+  #Does it have any steps that we should have a sequence for testing
+  if($gp->get_defs){
+     my @gps = sort keys %{$gp->get_defs};
+     
+     foreach my $prop_acc (@gps){
+        my $prop = $gp->get_def($prop_acc);
+        push(@{$stats{ $prop->type}}, $prop_acc);
+     }
+  }
+
+  open(AS, ">", "stats.overview") or die "Failed to open stats.overview\n";
+
+  foreach my $type (keys %stats){
+    print AS "$type\t".scalar(@{$stats{$type}})."\n";  
+    open(S, ">", "stats.$type") or die;
+    foreach my $gp (sort @{ $stats{$type} }){
+      print S "$gp\n";
+    }
+    close(S);
+  }
+  close(AS);
+
+  return 1;
+}
+
 1;
