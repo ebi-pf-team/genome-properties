@@ -1,8 +1,14 @@
 AC  GenProp0253
-DE  Thiamine: hydroxymethylpyrimidine pyrophosphate from aminoimidazole Ribotide
+DE  Hydroxymethylpyrimidine pyrophosphate (HMP-P) biosynthesis from aminoimidazole ribotide
 TP  PATHWAY
 AU  Haft DH
 TH  1
+RN  [1]
+RM  12376536
+RT  Comparative genomics of thiamin biosynthesis in procaryotes. New genes
+RT  and regulatory mechanisms.
+RA  Rodionov DA, Vitreschak AG, Mironov AA, Gelfand MS;
+RL  J Biol Chem. 2002;277:48949-48959.
 CC  Hydroxymethylpyrimidine pyrophosphate (HMP-PP) and hydroxyethylthiazole
 CC  phosphate (HET-P) are the two components attached by ThiE to yield
 CC  thiamine phosphate, which is subsequently converted to the active form
@@ -10,22 +16,23 @@ CC  thiamine pyrophosphate (TPP). HMP and HET may be imported and converted
 CC  to HMP-PP and HET-P, respectively, as an alternative to de novo
 CC  biosynthesis. This property reflects known steps of HMP-P de novo
 CC  biosynthesis from the purine biosynthesis metabolite aminoimidazole
-CC  ribotide (AIR), starting with the ThiC enzyme.
+CC  ribotide (AIR), starting with the ThiC enzyme [1].
 --
-SN  ThiC
-ID  ThiC protein
-DN  Thiamine biosynthesis protein ThiC
+SN  1
+ID  Thiamine biosynthesis protein ThiC
+DN  Phosphomethylpyrimidine synthase 
 RQ  1
 EV  IPR002817; TIGR00190; sufficient;
 --
-SN  tenA
+SN  2
 ID  TenA domain/protein
+DN  Thiaminase-2/PQQC
 RQ  0
 EV  IPR004305; PF03070; sufficient;
 --
-SN  thiD
-ID  Phosphomethylpyrimidine kinase
-DN  Phosphomethylpyrimidine kinase
+SN  3
+ID  Phosphomethylpyrimidine kinase/ThiD
+DN  Hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase/ThiD
 RQ  1
 EV  IPR004399; TIGR00097; sufficient;
 //

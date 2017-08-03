@@ -1,31 +1,39 @@
 AC  GenProp0254
-DE  Thiamine: TPP from HMP-PP and HET-P
+DE  Thiamine pyrophosphate (TPP) biosynthesis from HMP-PP and HET-P
 TP  PATHWAY
 AU  Haft DH
 TH  0
-CC  Hydroxymethylpyrimidine pyrophosphate (HMP-PP) may be obtained de novo
-CC  from a purine biosynthesis intermediate or by import or salvage, then
-CC  phosphorylation, of hydroxymethylpyrimidine. Likewise,
-CC  hydroxyethylthiazole phosphate may be come from synthesis, import, or
-CC  salvage.  The two heterocylic compounds are ligated by ThiE to thiamine
+RN  [1]
+RM  12376536
+RT  Comparative genomics of thiamin biosynthesis in procaryotes. New genes
+RT  and regulatory mechanisms.
+RA  Rodionov DA, Vitreschak AG, Mironov AA, Gelfand MS;
+RL  J Biol Chem. 2002;277:48949-48959.
+CC  Thiamine pyrophosphate (TPP) is an essential cofactor for several 
+CC  carbohydrate metabolism enzymes. Hydroxymethylpyrimidine pyrophosphate 
+CC  (HMP-PP) may be obtained by de novo synthesis, or by import or salvage 
+CC  of hydroxymethylpyrimidine followed by phosphorylation. Likewise, 
+CC  hydroxyethylthiazole phosphate (HET-P) may come from synthesis, import, 
+CC  or salvage. The two heterocylic compounds are ligated by ThiE to thiamine
 CC  phosphate. Thiamine phosphate then undegoes either dephosphorylation
-CC  followed by pyrophosphorylation or direct phosphorylation. This
-CC  property includes both ligation and remaining steps to obtain TPP.
+CC  followed by pyrophosphorylation or direct phosphorylation [1]. 
+**  This property includes both ligation and remaining steps to obtain TPP.
 **  This might be a good place for various salvage models: ThiM, etc.
 --
-SN  ThiE
+SN  1
 ID  Thiamine-phosphate diphosphorylase
-DN  Thiamine-phosphate pyrophosphorylase
+DN  Thiamine phosphate synthase
 RQ  1
-EV  IPR003733; TIGR00693; sufficient;
+EV  IPR034291; TIGR00693; sufficient;
 TG  GO:0009228;
 --
-SN  riboswch
+SN  2
 ID  TPP riboswitch (THI element)
 RQ  0
 --
-SN  toTPP
+SN  3
 ID  ThiL or pyrophosphokinase
+DN  Thiamine-monophosphate kinase/Thiamin pyrophosphokinase
 RQ  1
 EV  IPR006283; TIGR01379; sufficient;
 TG  GO:0009228;

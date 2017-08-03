@@ -34,6 +34,7 @@ CC  adapted here from literature.
 **  multiple replicons. This gives a much narrower RepA clade, so the
 **  pairing TIGR00180/PF01656 is becoming an unused thing, maybe to need a
 **  new property.
+**  Sinorhizobium meliloti and Rhizobium meliloti are synonyms.
 --
 SN  repA
 ID  RepA plasmid partitioning protein

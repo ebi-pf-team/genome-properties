@@ -1,60 +1,6 @@
 AC  GenProp0065
 DE  Genome properties
-TP  ROOT
+TP  CATEGORY
 AU  Haft DH
 TH  0
-RN  [1]
-RM  15347579
-RT  Genome Properties: a system for the investigation of prokaryotic
-RT  genetic content for microbiology, genome annotation and comparative
-RT  genomics.
-RA  Haft DH, Selengut JD, Brinkac LM, Zafar N, White O;
-RL  Bioinformatics. 2005;21:293-306.
-CC  Properties of organisms whose genomes have been sequenced.  These
-CC  properties  include those whose state can be supported by inference
-CC  from the genomic data  itself as well as those supported by
-CC  experimental observations. Properties are organized in a type of
-CC  heirarchy called a Directed Acyclyic  Graph (a DAG) in which child
-CC  terms may have multiple parent terms.  Thus, for instance, a property
-CC  for the biosynthesis of a particular cofactor may be found as a child
-CC  of both "biosynthesis" and "protein cofactors". Properties come in
-CC  several types:  PATHWAY properties describe metabolic pathways in which
-CC  a series of enzymes convert substrates into products to produce
-CC  desirable substances and/or degrade undesirable ones.  A set of these
-CC  steps have been determined to be both 1) unambiguously indicative of
-CC  the property and 2) as universally detectable as is practical among the
-CC   species believed to have this pathway active.  The presence or absence
-CC  of these steps in a genome are used to judge the status of the
-CC  property. Those genomes with all of the set present are given the "YES"
-CC  state, those with none are given the "NONE FOUND" state.  Each pathway
-CC  may be be given  a threshold number of detected steps below which the
-CC  state "NOT SUPPORTED"  is assigned.  Otherwise, the state "INCOMPLETE"
-CC  is assigned.  Under  certain circumstances of additional evidence (such
-CC  as the presence of a complete alternative pathway) a "NONE FOUND state
-CC  may be strengthened to  "NO".  SYSTEM properties work in essentially
-CC  the identical way, except they may not represent a metabolic pathway. 
-CC  In both of these cases the  "value" field will hold a number
-CC  representing the fraction of steps used to  assign the state of the
-CC  property which were found in the genome.  MARKER  properties are
-CC  similar except that only a single type of protein is  detected and
-CC  serves as an indicator for the presence of a property.  Here the value
-CC  field holds the number of times the marker was detected in the genome. 
-CC  In all three of these types, other proteins outside of the set  chosen
-CC  for determineing the state of the property may also be detected. These
-CC  may include proteins which are presently detectable only in some 
-CC  species, auxilliary or variable components, regulatory components, etc.
-CC  Accessions of all of the detected proteins are stored for user
-CC  retrieval. LITERATURE properties are set based on experimental
-CC  evidence, not on the content of the sequenced genome.  These properties
-CC  may detect associated proteins which are stored as above.  These may
-CC  also store a number in the  value field where apropriate. QUANTITATIVE
-CC  properties are calculated from the sequenced genome and store a numeric
-CC  quantity in the "value" field. TAXONOMY properties store information
-CC  about the taxonomic classification of the organism.  These are based on
-CC  NCBIs taxonomy database and are used for organizing the output of
-CC  properties queries to look for trends based on phylogeny. SUMMARY
-CC  properties are parent properties of one or more related properties
-CC  whose states are summarized in the state of the parent property.
-CC  CATEGORY properties do not have states, but organize the properties
-CC  through parent-child relationships.
 //

@@ -1,12 +1,35 @@
 AC  GenProp0261
-DE  Thiamin pyrophosphate (TPP) de novo biosynthesis
-TP  SUMMARY
+DE  Thiamine pyrophosphate (TPP) de novo biosynthesis
+TP  METAPATH
 AU  Haft DH
 TH  0
-CC  This property combined the three parts of thiamin pyrophosphate
-CC  biosynthesis, Synthesis of hydroxyethylthiazole phosphate (HET-P,
-CC  GenProp0250), hydroxymethylpyrimidine pyrophosphate (HMP-PP,
-CC  GenProp0253) and their ligation and conversion to TPP (GenProp0254). 
-CC  Only by finding YES states for all three of these child properties will
-CC  this property be automatically assigned a YES state.
+RN  [1]
+RM  12376536
+RT  Comparative genomics of thiamin biosynthesis in procaryotes. New genes
+RT  and regulatory mechanisms.
+RA  Rodionov DA, Vitreschak AG, Mironov AA, Gelfand MS;
+RL  J Biol Chem. 2002;277:48949-48959.
+CC  This property describes de novo synthesis of teh essential cofactor 
+CC  thiamine pyrophosphate (TPP) [1]. The process consists of the synthesis of 
+CC  hydroxyethylthiazole phosphate (HET-P), the synthesis of 
+CC  hydroxymethylpyrimidine pyrophosphate (HMP-PP), and their ligation and 
+CC  conversion to TPP.
+--
+SN  1
+ID  Hydroxyethylthiazole (HET) biosynthesis
+RQ  1
+EV  GenProp0250;
+TG  GO:0018131;
+--
+SN  2
+ID  Hydroxymethylpyrimidine pyrophosphate (HMP-P) biosynthesis
+RQ  1
+EV  GenProp0253;
+--
+SN  3
+ID  Thiamine pyrophosphate (TPP) biosynthesis from HMP-PP and HET-P
+RQ  1
+EV  GenProp0254;
+TG  GO:0009228;
+--
 //
