@@ -12,6 +12,9 @@ CC  the ABC transporter cassette and the neighboring LPXTG-anchored repeat
 CC  protein. This system is analogous to the NEAT domain system found in
 CC  some pathogenic Firmicutes.
 **  I will call this A.R.T. (anchored repeat transport).
+**  P. acnes = Propionibacterium acnes, also known as Cutibacterium acnes.
+**  Of the five reference proteomes, only that from strain DSM 16379 has
+**  proteins in all steps in this GenomeProperty.
 --
 SN  artA
 ID  Anchored repeat ABC transporter, ATP-binding subunit
