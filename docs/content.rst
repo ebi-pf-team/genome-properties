@@ -1,6 +1,6 @@
 Shown below is a breakdown of the content of the current release.
 
-.. include:: release_stats.txt
+.. include:: stats.overview
 
 PATHWAYS
 --------
