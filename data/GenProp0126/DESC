@@ -4,4 +4,69 @@ TP  CATEGORY
 AU  Haft DH
 TH  0
 CC  The synthesis of the basic twenty amino acids found in proteins.
+--
+SN  1
+ID  Chorismate biosynthesis via shikimate
+RQ  0
+EV  GenProp0001;
+--
+SN  2
+ID  Tryptophan biosynthesis from ribose-5-phosphate
+RQ  0
+EV  GenProp0037;
+--
+SN  3
+ID  Histidine biosynthesis from ribose-5-phosphate
+RQ  0
+EV  GenProp0109;
+--
+SN  4
+ID  Proline biosynthesis from glutamate
+RQ  0
+EV  GenProp0111;
+--
+SN  5
+ID  Arginine biosynthesis from ornithine, carbamoyl-p and aspartate
+RQ  0
+EV  GenProp0117;
+--
+SN  6
+ID  Ornithine biosynthesis from glutamate, acetylated branch
+RQ  0
+EV  GenProp0118;
+--
+SN  7
+ID  Threonine biosynthesis from aspartate semialdehyde
+RQ  0
+EV  GenProp0159;
+--
+SN  8
+ID  Aspartate semialdehyde biosynthesis from aspartate
+RQ  0
+EV  GenProp0160;
+--
+SN  9
+ID  Isoleucine biosynthesis from threonine and pyruvate
+RQ  0
+EV  GenProp0162;
+--
+SN  10
+ID  Valine biosynthesis from pyruvate
+RQ  0
+EV  GenProp0163;
+--
+SN  11
+ID  Leucine biosynthesis from pyruvate and acetyl-CoA
+RQ  0
+EV  GenProp0164;
+--
+SN  12
+ID  Glycine cleavage system
+RQ  0
+EV  GenProp0178;
+--
+SN  13
+ID  Lysine biosynthesis
+RQ  0
+EV  GenProp0199;
 //

@@ -4,4 +4,14 @@ TP  CATEGORY
 AU  Haft DH
 TH  0
 CC  Process by which molecules are moved across biological membranes.
+--
+SN  1
+ID  Protein transport
+RQ  0
+EV  GenProp0179;
+--
+SN  2
+ID  Small molecule transport
+RQ  0
+EV  GenProp0180;
 //

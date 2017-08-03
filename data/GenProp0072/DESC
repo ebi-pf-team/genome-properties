@@ -3,4 +3,39 @@ DE  Central intermediary metabolism
 TP  CATEGORY
 AU  Haft DH
 TH  0
+--
+SN  1
+ID  Ornithine biosynthesis from glutamate, acetylated branch
+RQ  0
+EV  GenProp0118;
+--
+SN  2
+ID  Pentose phosphate cycle
+RQ  0
+EV  GenProp0120;
+--
+SN  3
+ID  Leloir pathway (galactose/glucose interconversion)
+RQ  0
+EV  GenProp0143;
+--
+SN  4
+ID  Sulfur metabolism
+RQ  0
+EV  GenProp0196;
+--
+SN  5
+ID  Nitrogen metabolism
+RQ  0
+EV  GenProp0202;
+--
+SN  6
+ID  Phosphorus metabolism
+RQ  0
+EV  GenProp0242;
+--
+SN  7
+ID  Carbon fixation
+RQ  0
+EV  GenProp0865;
 //

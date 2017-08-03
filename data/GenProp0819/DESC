@@ -6,4 +6,9 @@ TH  0
 CC  The chemical reactions and physical changes involving RNA (ribonucleaic
 CC  acid), one of the two main types of nucleic acid. RNA is a long unbranched 
 CC  macromolecule, formed from one strand of linked ribonucleotides.
+--
+SN  1
+ID  RNA polymerase, bacterial
+RQ  0
+EV  GenProp0262;
 //

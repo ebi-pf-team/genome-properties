@@ -19,4 +19,9 @@ CC  mannitol, glycine betaine and other betaines, ectoine and
 CC  hydroxyectoine, glutamate, N-acetylglutaminylglutamine amide, etc.
 **  Related to storage polymers, but for small, soluble molecules like
 **  disaccharides.
+--
+SN  1
+ID  Glycine betaine biosynthesis from choline
+RQ  0
+EV  GenProp0147;
 //

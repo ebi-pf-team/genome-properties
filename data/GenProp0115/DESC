@@ -5,4 +5,29 @@ AU  Haft DH
 TH  0
 CC  Any of a number of mechanisms by which damage to DNA is repaired.
 **  ask Eisen to revise description
+--
+SN  1
+ID  Nucleotide excision repair
+RQ  0
+EV  GenProp0114;
+--
+SN  2
+ID  RuvABC Holliday junction complex
+RQ  0
+EV  GenProp0198;
+--
+SN  3
+ID  RecBCD pathway
+RQ  0
+EV  GenProp0216;
+--
+SN  4
+ID  Excision repair
+RQ  0
+EV  GenProp0227;
+--
+SN  5
+ID  Direct repair
+RQ  0
+EV  GenProp0228;
 //

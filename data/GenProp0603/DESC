@@ -7,4 +7,9 @@ CC  Genome Properties in this category describe the different modes,
 CC  styles and strategies by which organisms live. Lifestyles describe 
 CC  distinguishing characteristics by which these organisms may be
 CC  grouped, and generally will have an underlying metabolic basis.
+--
+SN  1
+ID  Nitrogen fixation
+RQ  0
+EV  GenProp0029;
 //

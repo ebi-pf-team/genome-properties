@@ -9,4 +9,9 @@ CC  molecules are extensively modified by methylation, oxidation/reduction,
 CC  cyclization, epimerization and rearrangement reactions. Common
 CC  functions for such compounds are as siderophores and toxins
 CC  (antibiotics). Most often these compounds are exported from the cell.
+--
+SN  1
+ID  Siderophore biosynthesis
+RQ  0
+EV  GenProp0770;
 //

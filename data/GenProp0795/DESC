@@ -7,4 +7,14 @@ CC  Processes related to the biosynthesis and modification of sugars
 CC  (saccharides). These may then be utilized in central metabolism, the
 CC  modification of cellular stuctures and/or incorporated into complex
 CC  polymers.
+--
+SN  1
+ID  dTDP-L-rhamnose biosynthesis from dTDP-4-dehydro-L-rhamnose
+RQ  0
+EV  GenProp0183;
+--
+SN  2
+ID  Lipopolysaccharide biosynthesis
+RQ  0
+EV  GenProp0297;
 //

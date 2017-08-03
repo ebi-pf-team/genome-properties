@@ -5,4 +5,19 @@ AU  Haft DH
 TH  0
 CC  The chemical reactions and pathways involving amino acids (organic
 CC  acids containing one or more amino substituents).
+--
+SN  1
+ID  Amino acid biosynthesis
+RQ  0
+EV  GenProp0126;
+--
+SN  2
+ID  Amino acid salvage
+RQ  0
+EV  GenProp0733;
+--
+SN  3
+ID  Amino acid catabolism
+RQ  0
+EV  GenProp0734;
 //

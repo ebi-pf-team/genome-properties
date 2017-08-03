@@ -5,4 +5,9 @@ AU  Haft DH
 TH  0
 CC  Structures or systems which are localized at the surface of the cell
 CC  and in contact with the external environment.
+--
+SN  1
+ID  Lipopolysaccharide biosynthesis
+RQ  0
+EV  GenProp0297;
 //

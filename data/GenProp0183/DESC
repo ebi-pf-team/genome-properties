@@ -20,7 +20,6 @@ DC  Streptomycin biosynthesis
 DR  KEGG; map00521;
 DC  dTDP-L-rhamnose biosynthesis I
 DR  MetaCyc; DTDPRHAMSYN-PWY;
-<<<<<<< HEAD
 CC  L-rhamnose is a common component of the bacterial capsule and/or 
 CC  cell wall, and is important in bacterial survival during infection. 
 CC  dTDP-L-rhamnose is the precursor of L-rhamnose[1,2]. dTDP-L-rhamnose 
@@ -34,21 +33,6 @@ CC  3,5-epimerase, gene name rmlC or rfbC); and dTDP-4-dehydrorhamnose
 CC  reductase (also known as dTDP-6-deoxy-L-lyxo-4-hexulose reductase 
 CC  (gene name rmlD or rfbD)[1,2]. This property refers to the final step
 CC  in this pathway, the conversion of dTDP-4-dehydro-L-rhamose to 
-=======
-CC  L-rhamnose is a common component of the bacterial capsule and/or
-CC  cell wall, and is important in bacterial survival during infection.
-CC  dTDP-L-rhamnose is the precursor of L-rhamnose[1,2]. dTDP-L-rhamnose
-CC  is synthesized from glucose-1-phosphate and deoxythymidine
-CC  triphosphate (dTTP) via a four-step enzymatic pathway. The four enzymes
-CC  are: glucose-1-phosphate thymidyltransferase (also known as dTDP-
-CC  glucose pyrophosphorylase, gene name rlmA or rfbA); dTDP-D-glucose
-CC  4,6-dehydratase (gene name rmlB or rfbB); dTDP-4-dehydrorhamnose
-CC  3,5-epimerase (also known as dTDP-6-deoxy-D-xylo-4-hexulose
-CC  3,5-epimerase, gene name rmlC or rfbC); and dTDP-4-dehydrorhamnose
-CC  reductase (also known as dTDP-6-deoxy-L-lyxo-4-hexulose reductase
-CC  (gene name rmlD or rfbD)[1,2]. This property refers to the final step
-CC  in this pathway, the conversion of dTDP-4-dehydro-L-rhamose to
->>>>>>> ff4842ce969e14a31892de16529b9a87e2cc5905
 CC  dTDP-L-rhamnose.
 --
 SN  1

@@ -5,4 +5,14 @@ AU  Haft DH
 TH  0
 CC  Properties in this catergory cover processes that import, export and 
 CC  transform the chemical state of the iron atom.
+--
+SN  1
+ID  Iron-sulfur cluster assembly systems
+RQ  0
+EV  GenProp0140;
+--
+SN  2
+ID  Siderophore biosynthesis
+RQ  0
+EV  GenProp0770;
 //

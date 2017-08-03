@@ -6,4 +6,44 @@ TH  0
 CC  Any metabolic process involving the breakdown of complex substances
 CC  into smaller products, including the breakdown of carbon compounds with
 CC  the liberation of energy for use by the cell or organism.
+--
+SN  1
+ID  Polyhydroxyalkanoic acids
+RQ  0
+EV  GenProp0055;
+--
+SN  2
+ID  Galactose-6-phosphate degradation via tagatose-6-phosphate
+RQ  0
+EV  GenProp0141;
+--
+SN  3
+ID  Cyanophycin-like storage polymers
+RQ  0
+EV  GenProp0156;
+--
+SN  4
+ID  Glycogen system
+RQ  0
+EV  GenProp0168;
+--
+SN  5
+ID  4-hydroxyphenylacetate degradation
+RQ  0
+EV  GenProp0231;
+--
+SN  6
+ID  2-aminoethylphosphonate catabolism to acetaldehyde
+RQ  0
+EV  GenProp0238;
+--
+SN  7
+ID  Propionyl-CoA catabolism
+RQ  0
+EV  GenProp0239;
+--
+SN  8
+ID  Amino acid catabolism
+RQ  0
+EV  GenProp0734;
 //

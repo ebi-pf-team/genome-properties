@@ -6,4 +6,9 @@ TH  0
 CC  The process of making deleterious compounds, whether exogenous or
 CC  generated within the cell, less dangerous via the mechanisms of chemical
 CC  conversion, transport or sequestration.
+--
+SN  1
+ID  Resistance to mercury
+RQ  0
+EV  GenProp0151;
 //

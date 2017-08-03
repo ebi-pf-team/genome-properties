@@ -6,4 +6,9 @@ TH  0
 CC  Processes involved in the handling and processing of small, primarily
 CC  1-carbon compounds. This category includes carbon fixation,
 CC  C1-compound interconversion and excretion processes.
+--
+SN  1
+ID  Carbon fixation
+RQ  0
+EV  GenProp0865;
 //

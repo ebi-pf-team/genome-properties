@@ -5,4 +5,19 @@ AU  Haft DH
 TH  0
 CC  The transformation of polypeptide chains between the unfolded,
 CC  misfolded and folded (active) states.
+--
+SN  1
+ID  Chaperone system: DnaK-DnaJ-GrpE
+RQ  0
+EV  GenProp0244;
+--
+SN  2
+ID  Chaperone system: GroEL/GroES
+RQ  0
+EV  GenProp0245;
+--
+SN  3
+ID  Chaperone system: thermosome/prefoldin
+RQ  0
+EV  GenProp0246;
 //
