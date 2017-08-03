@@ -8,4 +8,24 @@ CC  lipids (compounds soluble in an organic solvent but not, or sparingly,
 CC  in an aqueous solvent). These include but are not limited to:
 CC  isoprenoids, steroids, fatty acids, membrane lipids and
 CC  lipopolysaccharides.
+--
+SN  1
+ID  IPP biosynthesis
+RQ  0
+EV  GenProp0046;
+--
+SN  2
+ID  Ubiquinone biosynthesis from chorismate, aerobic
+RQ  0
+EV  GenProp0136;
+--
+SN  3
+ID  Lipopolysaccharide biosynthesis
+RQ  0
+EV  GenProp0297;
+--
+SN  4
+ID  Fatty acid biosynthesis
+RQ  0
+EV  GenProp0299;
 //

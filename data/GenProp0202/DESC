@@ -6,4 +6,9 @@ TH  0
 DC  Nitrogen metabolism
 DR  KEGG; map00910;
 CC  Processes handling and interconverting nitrogen-containing molecules.
+--
+SN  1
+ID  Nitrogen fixation
+RQ  0
+EV  GenProp0029;
 //

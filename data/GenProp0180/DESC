@@ -5,4 +5,49 @@ AU  Haft DH
 TH  0
 CC  The translocation of small molecules and ions across biological
 CC  membranes or other layers.
+--
+SN  1
+ID  PTS transport system
+RQ  0
+EV  GenProp0119;
+--
+SN  2
+ID  Na+-translocating NADH-quinone reductase
+RQ  0
+EV  GenProp0129;
+--
+SN  3
+ID  Potassium-transporting ATPase KdpFABC
+RQ  0
+EV  GenProp0172;
+--
+SN  4
+ID  TRAP-T (tripartite ATP-independent periplasmic transporters) family transporters
+RQ  0
+EV  GenProp0176;
+--
+SN  5
+ID  Phosphate ABC transporter (pstSCAB-phoU)
+RQ  0
+EV  GenProp0190;
+--
+SN  6
+ID  Sulfate/thiosulfate ABC transporter
+RQ  0
+EV  GenProp0191;
+--
+SN  7
+ID  Molybdate ABC transporter
+RQ  0
+EV  GenProp0192;
+--
+SN  8
+ID  Thiamine/TPP ABC transporter ThiBPQ
+RQ  0
+EV  GenProp0252;
+--
+SN  9
+ID  Ion-motive antiporter cycles
+RQ  0
+EV  GenProp0873;
 //

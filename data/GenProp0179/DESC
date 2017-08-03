@@ -5,4 +5,34 @@ AU  Haft DH
 TH  0
 CC  The translocation of proteins across biological membranes or other
 CC  layers.
+--
+SN  1
+ID  Type III secretion
+RQ  0
+EV  GenProp0052;
+--
+SN  2
+ID  Type II secretion
+RQ  0
+EV  GenProp0053;
+--
+SN  3
+ID  Type I secretion
+RQ  0
+EV  GenProp0059;
+--
+SN  4
+ID  Tat (Sec-independent) protein export
+RQ  0
+EV  GenProp0127;
+--
+SN  5
+ID  Lipoprotein localization system lolABCDE
+RQ  0
+EV  GenProp0207;
+--
+SN  6
+ID  Sec system preprotein translocase
+RQ  0
+EV  GenProp0209;
 //

@@ -5,4 +5,34 @@ AU  Haft DH
 TH  0
 CC  The chemical reactions and physical changes involving the synthesis,
 CC  modification and degradation of proteins.
+--
+SN  1
+ID  Protein modification, prosthetic groups and cofactors
+RQ  0
+EV  GenProp0075;
+--
+SN  2
+ID  Protein transport
+RQ  0
+EV  GenProp0179;
+--
+SN  3
+ID  Protein biosynthesis
+RQ  0
+EV  GenProp0197;
+--
+SN  4
+ID  Protein folding
+RQ  0
+EV  GenProp0248;
+--
+SN  5
+ID  Protein degradation
+RQ  0
+EV  GenProp0301;
+--
+SN  6
+ID  Protein repair
+RQ  0
+EV  GenProp0302;
 //

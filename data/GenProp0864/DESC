@@ -6,4 +6,14 @@ TH  0
 CC  Mechanisms by which cells sense the external environment and alter
 CC  their motion, behavior, shape, metabolism or other properties in
 CC  response to those conditions.
+--
+SN  1
+ID  Response to stress
+RQ  0
+EV  GenProp0462;
+--
+SN  2
+ID  Response to acidic (low pH) environment
+RQ  0
+EV  GenProp0874;
 //

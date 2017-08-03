@@ -3,4 +3,34 @@ DE  Nucleic acid metabolism
 TP  CATEGORY
 AU  Haft DH
 TH  0
+--
+SN  1
+ID  DNA metabolism
+RQ  0
+EV  GenProp0116;
+--
+SN  2
+ID  Transcription termination/antitermination Nus factors
+RQ  0
+EV  GenProp0132;
+--
+SN  3
+ID  Nucleotide biosynthesis
+RQ  0
+EV  GenProp0185;
+--
+SN  4
+ID  Nucleoside catabolism/utilization pathways
+RQ  0
+EV  GenProp0816;
+--
+SN  5
+ID  Nucleotide catabolism/utilization pathways
+RQ  0
+EV  GenProp0817;
+--
+SN  6
+ID  RNA metabolism
+RQ  0
+EV  GenProp0819;
 //

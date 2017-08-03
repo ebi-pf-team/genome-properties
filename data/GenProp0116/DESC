@@ -8,4 +8,14 @@ CC  (deoxyribonucleic acid), one of the two main types of nucleic acid,
 CC  consisting of a long, unbranched macromolecule formed from one, or
 CC  more commonly two, strands of linked deoxyribonucleotides.
 **  description pulled from GO
+--
+SN  1
+ID  DNA repair
+RQ  0
+EV  GenProp0115;
+--
+SN  2
+ID  RuvABC Holliday junction complex
+RQ  0
+EV  GenProp0198;
 //

@@ -6,4 +6,19 @@ TH  0
 CC  Properties related to those chemical species which become covalently
 CC  bound to, or otherwise interact with proteins in ways that alter 
 CC  their biological function.
+--
+SN  1
+ID  Coenzyme F420 utilization
+RQ  0
+EV  GenProp0002;
+--
+SN  2
+ID  Lipoprotein system lgt/lsp/lnt
+RQ  0
+EV  GenProp0061;
+--
+SN  3
+ID  Tat (Sec-independent) protein export
+RQ  0
+EV  GenProp0127;
 //

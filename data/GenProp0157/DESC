@@ -11,4 +11,19 @@ CC  components as well as proteins associated with the granule surface.
 **  Category maybe could use some adjustment. Rhodococcus opacus can store
 **  triacylglycerol for energy storage up to 75 percent cellular dry
 **  weight. See PMID:18667565, etc.
+--
+SN  1
+ID  Polyhydroxyalkanoic acids
+RQ  0
+EV  GenProp0055;
+--
+SN  2
+ID  Cyanophycin-like storage polymers
+RQ  0
+EV  GenProp0156;
+--
+SN  3
+ID  Glycogen system
+RQ  0
+EV  GenProp0168;
 //

@@ -5,4 +5,74 @@ AU  Haft DH
 TH  0
 CC  The biosynthesis of molecules utilized by enzymes to aid in chemical
 CC  transformations.
+--
+SN  1
+ID  Chorismate biosynthesis via shikimate
+RQ  0
+EV  GenProp0001;
+--
+SN  2
+ID  Glutathione biosynthesis
+RQ  0
+EV  GenProp0030;
+--
+SN  3
+ID  Biotin biosynthesis
+RQ  0
+EV  GenProp0036;
+--
+SN  4
+ID  Tetrahydrofolate biosynthesis from GTP and PABA
+RQ  0
+EV  GenProp0038;
+--
+SN  5
+ID  NAD(P) biosynthesis from L-aspartate and DHAP
+RQ  0
+EV  GenProp0057;
+--
+SN  6
+ID  Pantothenate biosynthesis from aspartate and 2-oxoisovalerate
+RQ  0
+EV  GenProp0124;
+--
+SN  7
+ID  Ubiquinone biosynthesis from chorismate, aerobic
+RQ  0
+EV  GenProp0136;
+--
+SN  8
+ID  Iron-sulfur cluster assembly systems
+RQ  0
+EV  GenProp0140;
+--
+SN  9
+ID  Coenzyme PQQ biosynthesis
+RQ  0
+EV  GenProp0170;
+--
+SN  10
+ID  Coenzyme A biosynthesis from pantothenate
+RQ  0
+EV  GenProp0171;
+--
+SN  11
+ID  Hydroxyethylthiazole (HET) biosynthesis from 1-deoxy-D-xylulose-5-phosphate, Cysteine, and either Tyr or Gly
+RQ  0
+EV  GenProp0250;
+--
+SN  12
+ID  5-aminolevulinate biosynthesis
+RQ  0
+EV  GenProp0255;
+--
+SN  13
+ID  Thiamine pyrophosphate (TPP) de novo biosynthesis
+RQ  0
+EV  GenProp0261;
+--
+SN  14
+ID  Photosynthetic cofactor biosynthesis
+RQ  0
+EV  GenProp0300;
 //

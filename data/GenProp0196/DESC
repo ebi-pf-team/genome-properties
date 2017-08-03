@@ -7,4 +7,34 @@ DC  Sulfur metabolism
 DR  KEGG; map00920;
 CC  Processes handling and interconverting sulfur-containing molecules. 
 CC  This does not include cysteine and methionine-containing proteins.
+--
+SN  1
+ID  Glutathione biosynthesis
+RQ  0
+EV  GenProp0030;
+--
+SN  2
+ID  Biotin biosynthesis
+RQ  0
+EV  GenProp0036;
+--
+SN  3
+ID  Iron-sulfur cluster assembly systems
+RQ  0
+EV  GenProp0140;
+--
+SN  4
+ID  Dissimilatory sulfate reduction
+RQ  0
+EV  GenProp0155;
+--
+SN  5
+ID  Reduction of oxidized methionine
+RQ  0
+EV  GenProp0182;
+--
+SN  6
+ID  Sulfate/thiosulfate ABC transporter
+RQ  0
+EV  GenProp0191;
 //

@@ -5,4 +5,9 @@ AU  Haft DH
 TH  0
 CC  This category includes restriction systems, CRISPR, abortive infection 
 CC  systems, and other defenses against invasive nucleic acids.
+--
+SN  1
+ID  CRISPR region
+RQ  0
+EV  GenProp0021;
 //

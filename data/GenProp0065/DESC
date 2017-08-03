@@ -3,4 +3,84 @@ DE  Genome properties
 TP  CATEGORY
 AU  Haft DH
 TH  0
+--
+SN  1
+ID  Metabolism
+RQ  0
+EV  GenProp0017;
+--
+SN  2
+ID  Biological niche
+RQ  0
+EV  GenProp0064;
+--
+SN  3
+ID  Selfish genetic elements
+RQ  0
+EV  GenProp0066;
+--
+SN  4
+ID  Quantitative content
+RQ  0
+EV  GenProp0067;
+--
+SN  5
+ID  Taxonomy
+RQ  0
+EV  GenProp0068;
+--
+SN  6
+ID  Cell surface component
+RQ  0
+EV  GenProp0069;
+--
+SN  7
+ID  Transport
+RQ  0
+EV  GenProp0071;
+--
+SN  8
+ID  Cell motility
+RQ  0
+EV  GenProp0073;
+--
+SN  9
+ID  Virulence
+RQ  0
+EV  GenProp0074;
+--
+SN  10
+ID  DNA handling
+RQ  0
+EV  GenProp0076;
+--
+SN  11
+ID  Cellular growth, organization and division
+RQ  0
+EV  GenProp0167;
+--
+SN  12
+ID  Unknown biological process
+RQ  0
+EV  GenProp0475;
+--
+SN  13
+ID  Regulatory systems
+RQ  0
+EV  GenProp0551;
+--
+SN  14
+ID  Response to external environment
+RQ  0
+EV  GenProp0864;
+--
+SN  15
+ID  Quorum-sensing, biofilm formation, and developmental systems
+RQ  0
+EV  GenProp1048;
+--
+SN  16
+ID  Defense systems
+RQ  0
+EV  GenProp1067;
 //

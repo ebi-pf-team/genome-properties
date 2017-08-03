@@ -8,4 +8,54 @@ CC  metabolic pathways by which organisms transform chemicals in the
 CC  processes of life.
 **  Future subcategories may include primary metabolism, secondary
 **  metabolism, energy metabolism, biosynthesis, etc.
+--
+SN  1
+ID  Biosynthesis
+RQ  0
+EV  GenProp0063;
+--
+SN  2
+ID  Energy metabolism
+RQ  0
+EV  GenProp0070;
+--
+SN  3
+ID  Central intermediary metabolism
+RQ  0
+EV  GenProp0072;
+--
+SN  4
+ID  Nucleic acid metabolism
+RQ  0
+EV  GenProp0133;
+--
+SN  5
+ID  Catabolism
+RQ  0
+EV  GenProp0142;
+--
+SN  6
+ID  Storage polymer systems
+RQ  0
+EV  GenProp0157;
+--
+SN  7
+ID  Protein metabolism
+RQ  0
+EV  GenProp0247;
+--
+SN  8
+ID  Detoxification
+RQ  0
+EV  GenProp0303;
+--
+SN  9
+ID  Amino acid metabolism
+RQ  0
+EV  GenProp0731;
+--
+SN  10
+ID  Iron metabolism
+RQ  0
+EV  GenProp0820;
 //
