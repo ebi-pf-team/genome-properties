@@ -1,0 +1,76 @@
+GenProp0017	Metabolism
+GenProp0063	Biosynthesis
+GenProp0064	Biological niche
+GenProp0065	Genome properties
+GenProp0066	Selfish genetic elements
+GenProp0067	Quantitative content
+GenProp0068	Taxonomy
+GenProp0069	Cell surface component
+GenProp0070	Energy metabolism
+GenProp0071	Transport
+GenProp0072	Central intermediary metabolism
+GenProp0073	Cell motility
+GenProp0074	Virulence
+GenProp0075	Protein modification, prosthetic groups and cofactors
+GenProp0076	DNA handling
+GenProp0077	Natural products biosynthesis
+GenProp0115	DNA repair
+GenProp0116	DNA metabolism
+GenProp0126	Amino acid biosynthesis
+GenProp0131	Electron transport
+GenProp0133	Nucleic acid metabolism
+GenProp0140	Iron-sulfur cluster assembly systems
+GenProp0142	Catabolism
+GenProp0157	Storage polymer systems
+GenProp0167	Cellular growth, organization and division
+GenProp0179	Protein transport
+GenProp0180	Small molecule transport
+GenProp0184	Cofactor biosynthesis
+GenProp0185	Nucleotide biosynthesis
+GenProp0186	Storage and structural polymer biosynthesis
+GenProp0196	Sulfur metabolism
+GenProp0197	Protein biosynthesis
+GenProp0202	Nitrogen metabolism
+GenProp0227	Excision repair
+GenProp0228	Direct repair
+GenProp0239	Propionyl-CoA catabolism
+GenProp0242	Phosphorus metabolism
+GenProp0243	ATP synthases
+GenProp0247	Protein metabolism
+GenProp0248	Protein folding
+GenProp0267	Osmolyte biosynthesis
+GenProp0297	Lipopolysaccharide biosynthesis
+GenProp0298	Fermentation
+GenProp0299	Fatty acid biosynthesis
+GenProp0300	Photosynthetic cofactor biosynthesis
+GenProp0301	Protein degradation
+GenProp0302	Protein repair
+GenProp0303	Detoxification
+GenProp0462	Response to stress
+GenProp0475	Unknown biological process
+GenProp0501	Metrics of biological environment
+GenProp0502	Sites of growth within host
+GenProp0518	Host range
+GenProp0519	Host-symbiote relationship types
+GenProp0520	Relationship to host cell
+GenProp0551	Regulatory systems
+GenProp0568	Mode of transmission to host
+GenProp0573	Initial sites of transmission to host
+GenProp0603	Lifestyle
+GenProp0731	Amino acid metabolism
+GenProp0733	Amino acid salvage
+GenProp0734	Amino acid catabolism
+GenProp0770	Siderophore biosynthesis
+GenProp0795	Carbohydrate biosynthesis
+GenProp0816	Nucleoside catabolism/utilization pathways
+GenProp0817	Nucleotide catabolism/utilization pathways
+GenProp0819	RNA metabolism
+GenProp0820	Iron metabolism
+GenProp0838	Lipid biosynthesis
+GenProp0864	Response to external environment
+GenProp0865	Carbon fixation
+GenProp0866	Carbon metabolism
+GenProp0873	Ion-motive antiporter cycles
+GenProp0874	Response to acidic (low pH) environment
+GenProp1048	Quorum-sensing, biofilm formation, and developmental systems
+GenProp1067	Defense systems

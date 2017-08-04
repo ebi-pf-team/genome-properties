@@ -1,0 +1,45 @@
+GenProp0010	Inteins
+GenProp0052	Type III secretion
+GenProp0053	Type II secretion
+GenProp0055	Polyhydroxyalkanoic acids
+GenProp0059	Type I secretion
+GenProp0061	Lipoprotein system lgt/lsp/lnt
+GenProp0114	Nucleotide excision repair
+GenProp0119	PTS transport system
+GenProp0127	Tat (Sec-independent) protein export
+GenProp0128	F1/F0 ATPase
+GenProp0129	Na+-translocating NADH-quinone reductase
+GenProp0130	Rnf-type electron transport complex
+GenProp0132	Transcription termination/antitermination Nus factors
+GenProp0137	Iron-sulfur cluster assembly SUF system
+GenProp0138	Iron-sulfur cluster assembly iscSUA-hscBA-fdx system
+GenProp0151	Resistance to mercury
+GenProp0156	Cyanophycin-like storage polymers
+GenProp0165	MinCDE system
+GenProp0166	MreBCD system
+GenProp0168	Glycogen system
+GenProp0170	Coenzyme PQQ biosynthesis
+GenProp0172	Potassium-transporting ATPase KdpFABC
+GenProp0176	TRAP-T (tripartite ATP-independent periplasmic transporters) family transporters
+GenProp0178	Glycine cleavage system
+GenProp0190	Phosphate ABC transporter (pstSCAB-phoU)
+GenProp0191	Sulfate/thiosulfate ABC transporter
+GenProp0192	Molybdate ABC transporter
+GenProp0198	RuvABC Holliday junction complex
+GenProp0201	SMC-ScpA-ScpB complex
+GenProp0207	Lipoprotein localization system lolABCDE
+GenProp0209	Sec system preprotein translocase
+GenProp0216	RecBCD pathway
+GenProp0244	Chaperone system: DnaK-DnaJ-GrpE
+GenProp0245	Chaperone system: GroEL/GroES
+GenProp0246	Chaperone system: thermosome/prefoldin
+GenProp0252	Thiamine/TPP ABC transporter ThiBPQ
+GenProp0262	RNA polymerase, bacterial
+GenProp0630	2-oxoglutarate dehydrogenase system
+GenProp0631	Nitrogenase, Fe-only
+GenProp0632	Nitrogenase, V-containing
+GenProp0633	Nitrogenase, Mo-containing
+GenProp1004	Light-independent protochlorophyllide reductase
+GenProp2012	19S proteasome cap
+GenProp2017	Gamma secretase
+GenProp2021	Apoptosome
