@@ -65,6 +65,7 @@ if(scalar(@dirs)){
 #Now go validate
 my $gp = GenomeProperties->new;
 GenomePropertiesIO::validateGP($gp, $options);
+GenomePropertiesIO::checkHierarchy($gp, $options) if($all); 
 
 sub readInterProFile {
   my ($file) = @_;

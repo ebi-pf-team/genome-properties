@@ -14,9 +14,9 @@ my %TYPES = ( METAPATH => 1,
               GUILD    => 1,
               CATEGORY => 1,
               PATHWAY  => 1,
-              SUMMARY  => 1,
-              ROOT     => 1
               );
+
+my @ORDER = qw(PATHWAY METAPATH SYSTEM GUILD CATEGORY);
 
 sub validateGP {
   my($gp, $options) = @_;
@@ -29,6 +29,11 @@ sub validateGP {
     #TODO: put status check in here
     next DESC if(defined($options->{status}) and ! _checkStatus($dir, $options));
 
+    if(!-d $dir){
+      print STDERR "$dir does not exist\n";
+      $globalError = 1;
+      next DESC;
+    }
     eval{
       parseDESC("$dir/DESC", $gp, $options);
     };
@@ -115,7 +120,50 @@ sub validateGP {
   }
 }
 
+sub checkHierarchy {
+  my ($gp, $options) = @_;
+  
+  
+  if($gp->get_defs){
+    my %propSet;
+    my @gpsToCheck = sort keys %{$gp->get_defs};
+    foreach my $prop_acc (@gpsToCheck){
+      $propSet{$prop_acc} = 0;
+    }
+    
+    #Now go and get the evidences out of the set.
+    foreach my $prop_acc (sort keys %propSet){
+      my $prop = $gp->get_def($prop_acc);
+      STEP:
+      foreach my $step (@{ $prop->get_steps }){
+        foreach my $evidence (@{$step->get_evidence}){
+          if($evidence->gp){
+            if( exists( $propSet{$evidence->gp} ) ){
+              $propSet{$evidence->gp} = 1;
+            }else{
+              warn $evidence->gp." is refered to by $prop_acc, but is not currently in the set\n";
+            }
+          }
+        }
+      }
+    }
 
+    #Now make sure that all GPs are connected.
+    #GenProp0065 is root and special
+    foreach my $prop_acc (sort keys %propSet){
+
+      if($propSet{$prop_acc} == 0){
+        if($prop_acc ne "GenProp0065"){
+          warn "$prop_acc is disconnected in the hierarchy\n"; 
+        }
+      }
+    }
+  }else{
+    die "Should have pre-populated the GenomeProperities object with definitions\n";
+  }
+  return 1;
+
+}
 
 
 sub _checkFASTA {
@@ -181,10 +229,22 @@ sub _checkTypeAgainstStep {
   my ($prop, $errors, $errorMsg) = @_;
 
   my $noSteps = scalar(@{$prop->get_steps});
-  if($prop->type eq 'ROOT' or $prop->type eq 'CATEGORY' or $prop->type eq 'SUMMARY'){
-    if($noSteps > 0){
+  # Thes should have all steps as GP
+
+  if( $prop->type eq 'CATEGORY' ){
+    
+    my $gps = 0;
+    STEP:
+    foreach my $step (@{ $prop->get_steps }){
+      foreach my $evidence (@{$step->get_evidence}){
+        if($evidence->gp){
+          $gps++
+        }
+      }
+    }   
+    if($noSteps !=  $gps ){
       $$errors++;
-      $$errorMsg .= "Got type ".$prop->type." but this should not have any steps\n";
+      $$errorMsg .= "Got type ".$prop->type." but this should have all Genome Property steps\n";
     }
   }
 
@@ -651,7 +711,7 @@ sub stats {
   foreach my $dir (sort @{$options->{dirs}}){
     #TODO: put status check in here
     next DESC if(defined($options->{status}) and ! _checkStatus($dir, $options));
-
+    #print STDERR "$dir\n";  
     eval{
       parseDESC("$dir/DESC", $gp, $options);
     };
@@ -664,29 +724,24 @@ sub stats {
     }
   }
 
-  my %stats;
-  foreach my $type (keys %TYPES){
-    $stats{$type} = [];
-  }
-
-
+  my $stats;
   #Does it have any steps that we should have a sequence for testing
   if($gp->get_defs){
      my @gps = sort keys %{$gp->get_defs};
      
      foreach my $prop_acc (@gps){
         my $prop = $gp->get_def($prop_acc);
-        push(@{$stats{ $prop->type}}, $prop_acc);
+        $stats->{ $prop->type }->{ $prop_acc } = $prop->name;
      }
   }
 
-  open(AS, ">", "stats.overview") or die "Failed to open stats.overview\n";
+  open(AS, ">", "stats.SUMMARY") or die "Failed to open stats.overview\n";
 
-  foreach my $type (keys %stats){
-    print AS "$type\t".scalar(@{$stats{$type}})."\n";  
+  foreach my $type (@ORDER){
+    print AS "$type\t".scalar(keys %{$stats->{ $type }})."\n";  
     open(S, ">", "stats.$type") or die;
-    foreach my $gp (sort @{ $stats{$type} }){
-      print S "$gp\n";
+    foreach my $gp (sort keys %{ $stats->{ $type } }){
+      print S "$gp\t$stats->{$type}->{$gp}\n";
     }
     close(S);
   }
