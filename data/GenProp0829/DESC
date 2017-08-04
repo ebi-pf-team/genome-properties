@@ -11,8 +11,9 @@ RA  Hiratsuka T, Furihata K, Ishikawa J, Yamashita H, Itoh N, Seto H, Dairi
 RA  T;
 RL  Science. 2008;321:1670-1673.
 CC  This pathway for the biosynthesis of menaquinone begins with
-CC  chorismate, but otherwise is completely distinctive compared to the
-CC  well-known E. coli pathway (GenProp0058).
+CC  chorismate, and progresses via the intermediate futalosine. This is 
+CC  completely separate to the well-known E. coli menaquinone synthesis 
+CC  pathway (GenProp0058), which also starts with chorismate [1].
 **  The publication puts four candidate genes into Figure 1 based ON THEIR
 **  ANNOTATION. One of these, SCO4490 (TIGR03701) is supported by PPP while
 **  the other three are not (SCO4556, SCO4491, SCO4492). By contrast, PPP
