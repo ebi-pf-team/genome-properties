@@ -18,14 +18,4 @@ SN  2
 ID  Iron-sulfur cluster assembly iscSUA-hscBA-fdx system
 RQ  0
 EV  GenProp0138;
---
-SN  3
-ID  Iron-sulfur cluster assembly CsdA-CsdE system
-RQ  0
-EV  GenProp0739;
---
-SN  4
-ID  Iron-sulfur cluster assembly NIF system
-RQ  0
-EV  GenProp0742;
 //
