@@ -24,11 +24,6 @@ ID  Quantitative content
 RQ  0
 EV  GenProp0067;
 --
-SN  5
-ID  Taxonomy
-RQ  0
-EV  GenProp0068;
---
 SN  6
 ID  Cell surface component
 RQ  0
