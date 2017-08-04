@@ -21,42 +21,49 @@ CC  pathway (GenProp0058), which also starts with chorismate [1].
 --
 SN  PT
 ID  Prenyltransferase
+DN  4-hydroxybenzoate polyprenyltransferase-related
 RQ  1
 EV  IPR006371; TIGR01475;
 TG  GO:0009234;
 --
 SN  futa_1
 ID  Futalosine synthase
+DN  Menaquinone biosynthesis enzyme 
 RQ  1
 EV  IPR003773; PF02621;
 TG  GO:0009234;
 --
 SN  futa_2
 ID  Futalosine hydrolase
+DN  Futalosine hydrolase
 RQ  1
 EV  IPR019963; TIGR03664;
 TG  GO:0009234;
 --
 SN  futa_3
 ID  De-hypoxanthine futalosine (DHFL) cyclase
+DN  Cyclic dehypoxanthine futalosine synthase 
 RQ  1
 EV  IPR022431; TIGR03699;
 TG  GO:0009234;
 --
 SN  futa_4
 ID  1,4-dihydroxy-6-naphthoate (DHN) synthase
+DN  1,4-dihydroxy-6-naphtoate synthase 
 RQ  1
-EV  IPRXXXX; PF02642;
+EV  IPR030869; MF_00996;
 TG  GO:0009234;
 --
 SN  futa_X
 ID  Decarboxylase
+DN  4-hydroxybenzoate decarboxylase subunit C
 RQ  1
 EV  IPR022390; TIGR03701;
 TG  GO:0009234;
 --
 SN  futa_Y
 ID  Putative menaquinone biosynthesis protein, SCO4494 family
+DN  Aminodeoxyfutalosine synthase
 RQ  1
 EV  IPR022432; TIGR03700;
 TG  GO:0009234;
