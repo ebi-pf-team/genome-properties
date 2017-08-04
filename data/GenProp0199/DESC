@@ -14,13 +14,13 @@ DR  MetaCyc; LYSINE-AMINOAD-PWY;
 DC  Lysine biosynthesis III
 DR  MetaCyc; PWY-2942;
 CC  The basic amino acid lysine may be synthesized by one of two types of
-CC  pathways pathways in prokaryotes, the diaminopimelate (DAP) pathways
-CC  and the alpha-aminoadipate (AAA) pathway.  The DAP pathway has several
-CC  variants including the dehydrogenase (reductive) pathway which requires
-CC  ammonia and NADPH and the acetylated and succinylated pathways which do
-CC  not.  A non-reductive pathway which uses neither acetate or succinate
+CC  pathways in prokaryotes, diaminopimelate (DAP) pathways and the 
+CC  alpha-aminoadipate (AAA) pathway. DAP pathways have several variants 
+CC  including the dehydrogenase (reductive) pathway which requires ammonia 
+CC  and NADPH, and the acetylated and succinylated pathways which do not. 
+CC  A non-reductive pathway which uses neither acetate or succinate
 CC  protecting groups is found in plants but has not been observed in
-CC  prokaryotes.  The AAA pathway has a variant found in fungi and plants
+CC  prokaryotes. The AAA pathway has a variant found in fungi and plants
 CC  which has not been observed in prokaryotes.
 --
 SN  1
