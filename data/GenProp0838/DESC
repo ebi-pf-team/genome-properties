@@ -28,4 +28,9 @@ SN  4
 ID  Fatty acid biosynthesis
 RQ  0
 EV  GenProp0299;
+--
+SN  5
+ID  Menaquinone biosynthesis
+RQ  0
+EV  GenProp0836;
 //
