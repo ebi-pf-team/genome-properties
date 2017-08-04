@@ -75,4 +75,9 @@ SN  14
 ID  Photosynthetic cofactor biosynthesis
 RQ  0
 EV  GenProp0300;
+--
+SN  15
+ID  Menaquinone biosynthesis
+RQ  0
+EV  GenProp0836;
 //
