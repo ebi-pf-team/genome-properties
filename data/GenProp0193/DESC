@@ -43,16 +43,6 @@ DN  3-isopropylmalate dehydratase small subunit/LeuD (EC 4.2.1.33)
 RQ  1
 EV  IPR011827; TIGR02087; sufficient;
 --
-SN  4
-ID  Homocitrate dehydrogenase
-DN  Homoisocitrate dehydrogenase
-RQ  0
---
-SN  5
-ID  L-2-aminoadipate aminotransferase
-DN  L-2-aminoadipate aminotransferase
-RQ  0
---
 SN  6
 ID  Alpha-aminoadipate acylase (proposed)
 DN  Lysine biosynthesis enzyme LysX (EC 6.3.2.-)
