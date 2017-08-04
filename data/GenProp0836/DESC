@@ -8,8 +8,7 @@ CC  better known pathway, which includes MenA, MenB, etc., as found in
 CC  Escherichia coli, passes through the intermediate SEPHCHC (see
 CC  GenProp0058). An alternate pathway, found in both Helicobacter pylori
 CC  and Streptomyces coelicolor, involves the intermediate futalosine (see
-CC  GenProp0829). This property evaluates to YES is either menaquinone
-CC  biosynthesis pathway is complete.
+CC  GenProp0829). 
 --
 SN  menaquin
 ID  Menaquinone biosynthesis: SEPHCHC or futalosine

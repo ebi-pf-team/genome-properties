@@ -1,3 +1,5 @@
 checked:	1
-public:	1
+public:	0
 --
+Removed from public set as does not have dependent properties that can be calculated.
+Suspect should have been designated TAXONOMY.

@@ -8,4 +8,14 @@ CC  assembly, the NIF system provides clusters to nitrogenase, the ISC
 CC  system may provide both 2Fe-2S and 4Fe-4S clusters for various enzymes
 CC  in Proteobacteria and the SUF system is capable of functioning in the
 CC  presence of oxidative stress.
+--
+SN  1
+ID  Iron-sulfur cluster assembly SUF system
+RQ  0
+EV  GenProp0137;
+--
+SN  2
+ID  Iron-sulfur cluster assembly iscSUA-hscBA-fdx system
+RQ  0
+EV  GenProp0138;
 //

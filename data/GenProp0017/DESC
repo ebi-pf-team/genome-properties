@@ -58,4 +58,9 @@ SN  10
 ID  Iron metabolism
 RQ  0
 EV  GenProp0820;
+--
+SN  11
+ID  Carbon metabolism
+RQ  0
+EV  GenProp0866;
 //

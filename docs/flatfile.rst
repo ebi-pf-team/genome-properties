@@ -1,3 +1,16 @@
+=====================
+Genome Property Types
+=====================
+
+There are five different types of Genome Properties.
+
+- PATHWAY:
+- METAPATH:
+- SYSTEM:
+- GUILD:
+- CATEGORY:
+
+
 ===============
 Flatfile Format
 ===============
@@ -61,7 +74,7 @@ The tags used in the DESC file are listed below, along with the description of t
 
 The DESC file is formatted such that a single tag is included on each line, followed by 2 blank spaces, followed by the value of the field. 
 
-In the case of the property description (CC) and private notes (**) fields, the information may stretch accross multipe lines. The line length is limited to 75 characters (including the tag) and so any subsequent lines used must also carry the tag. See the example below.
+In the case of the property description (CC) and private notes (**) fields, the information may stretch accross multiple lines. The line length is limited to 80 characters (including the tag) and so any subsequent lines used must also carry the tag. See the example below.
 
 
 .. code-block:: none
