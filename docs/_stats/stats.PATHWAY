@@ -1,0 +1,44 @@
+GenProp0001	Chorismate biosynthesis via shikimate
+GenProp0023	Glyoxylate shunt
+GenProp0030	Glutathione biosynthesis
+GenProp0036	Biotin biosynthesis
+GenProp0037	Tryptophan biosynthesis from ribose-5-phosphate
+GenProp0038	Tetrahydrofolate biosynthesis from GTP and PABA
+GenProp0047	IPP biosynthesis via mevalonate
+GenProp0048	IPP biosynthesis via deoxyxylulose
+GenProp0057	NAD(P) biosynthesis from L-aspartate and DHAP
+GenProp0058	Menaquinone biosynthesis via SEPHCHC
+GenProp0109	Histidine biosynthesis from ribose-5-phosphate
+GenProp0110	Purine (inosine-5'-phosphate) biosynthesis from ribose-5-phosphate
+GenProp0111	Proline biosynthesis from glutamate
+GenProp0117	Arginine biosynthesis from ornithine, carbamoyl-p and aspartate
+GenProp0118	Ornithine biosynthesis from glutamate, acetylated branch
+GenProp0120	Pentose phosphate cycle
+GenProp0124	Pantothenate biosynthesis from aspartate and 2-oxoisovalerate
+GenProp0136	Ubiquinone biosynthesis from chorismate, aerobic
+GenProp0139	Degradation of tyrosine via homogentisate
+GenProp0141	Galactose-6-phosphate degradation via tagatose-6-phosphate
+GenProp0143	Leloir pathway (galactose/glucose interconversion)
+GenProp0146	Bacteriochlorophyll biosynthesis from chlorophyllide a
+GenProp0147	Glycine betaine biosynthesis from choline
+GenProp0150	Chlorophyll biosynthesis from chlorophyllide a
+GenProp0155	Dissimilatory sulfate reduction
+GenProp0159	Threonine biosynthesis from aspartate semialdehyde
+GenProp0160	Aspartate semialdehyde biosynthesis from aspartate
+GenProp0162	Isoleucine biosynthesis from threonine and pyruvate
+GenProp0163	Valine biosynthesis from pyruvate
+GenProp0164	Leucine biosynthesis from pyruvate and acetyl-CoA
+GenProp0171	Coenzyme A biosynthesis from pantothenate
+GenProp0187	Pyrimidine (uridine-5'-phosphate) de novo biosynthesis
+GenProp0188	GatABC aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase complex
+GenProp0189	tRNA-Gln direct aminoacylation
+GenProp0217	5-aminolevulinate biosynthesis (glutamate pathway)
+GenProp0223	5-aminolevulinate biosynthesis from succinyl-CoA and glycine
+GenProp0231	4-hydroxyphenylacetate degradation
+GenProp0238	2-aminoethylphosphonate catabolism to acetaldehyde
+GenProp0250	Hydroxyethylthiazole (HET) biosynthesis from 1-deoxy-D-xylulose-5-phosphate, Cysteine, and either Tyr or Gly
+GenProp0253	Hydroxymethylpyrimidine pyrophosphate (HMP-P) biosynthesis from aminoimidazole ribotide
+GenProp0254	Thiamine pyrophosphate (TPP) biosynthesis from HMP-PP and HET-P
+GenProp0786	Lysine biosynthesis via diaminopimelate (DAP), succinylated branch
+GenProp0787	Lysine biosynthesis via diaminopimelate (DAP), acetylated branch
+GenProp0950	dTDP-4-dehydro-6-deoxy-alpha-D-glucose biosynthesis from glucose-1-phosphate
