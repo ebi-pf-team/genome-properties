@@ -47,8 +47,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'Genome Properties'
-copyright = '2017, Lorna Richardson, Neil Rawlings, Alex Mitchell, Rob Finn'
-author = 'Lorna Richardson, Neil Rawlings, Alex Mitchell, Rob Finn'
+copyright = '2017, European Molecular Biology Laboratory - European Bioinformatics Institute (EMBL-EBI)'
+author = 'Lorna Richardson, Neil Rawlings, Alex Mitchell, Gustavo Salazar-Orejuela, Rob Finn'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
