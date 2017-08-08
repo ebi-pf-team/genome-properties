@@ -87,7 +87,8 @@ if (! GenomePropertiesIO::validateGP($gp, $options)){
   die "Can not make release as there are errors\n";
 }
 
-#TODO - put in hierarchy check.
+#Now check the hierarchy
+GenomePropertiesIO::checkHierarchy($gp, $options);
 
 #Now make the release directory
 if(! -d $releaseDir."/".$version ){
@@ -108,6 +109,14 @@ foreach my $gp ( sort keys { %{ $gp->get_defs } } ){
   }
 }
 close(R);
+
+# Write out the JSON file
+#Now generate the hierarchy JSON file
+my $json = GenomePropertiesIO::JSONHierarchy($gp);
+open(J, ">", $releaseDir."/".$version."/hierarchy.json") or 
+  die "Could not open ".$releaseDir."/".$version."/hierarchy, [$!]";
+print J $json;
+close(J);
 
 #Version file
 open(V, ">", "$releaseDir/$version/version.txt") or die "Could not open $releaseDir/$version/version.txt";

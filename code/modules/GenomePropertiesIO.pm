@@ -4,6 +4,7 @@ use strict;
 use warnings;
 use Carp;
 use Clone 'clone';
+use JSON;
 use DDP;
 use LWP::UserAgent;
 
@@ -162,6 +163,40 @@ sub checkHierarchy {
     die "Should have pre-populated the GenomeProperities object with definitions\n";
   }
   return 1;
+
+}
+
+
+sub JSONHierarchy {
+  my ($gp, $options) = @_;
+
+  my $rootGP = "GenProp0065";
+  my $tree;
+
+  my $prop = $gp->get_def($rootGP);
+  $tree->{id} = $prop->accession;
+  $tree->{name} = $prop->name;
+  $tree->{children} = [];
+
+  _buildHierarchy($gp, $prop, $tree);
+  my $treeString =  to_json( $tree, { ascii => 1, pretty => 1 } ); 
+  p($treeString); 
+  return($treeString);
+}
+
+sub _buildHierarchy {
+  my ($gp, $prop, $tree) = @_;
+   
+  foreach my $step (@{ $prop->get_steps }){
+    foreach my $evidence (@{$step->get_evidence}){
+      if($evidence->gp){
+        my $childGp = $gp->get_def($evidence->gp);
+        my $child = { id => $childGp->accession, name => $childGp->name, children => [] };
+        push(@{$tree->{ children }}, $child);
+        _buildHierarchy($gp, $childGp, $child);
+      }
+    }
+  }
 
 }
 
