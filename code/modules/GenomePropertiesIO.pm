@@ -702,7 +702,7 @@ sub _checkStatus {
 
 
 sub stats {
-  my($gp, $options) = @_;
+  my($gp, $options, $outdir) = @_;
     
   my $globalError = 0;
   
@@ -735,11 +735,11 @@ sub stats {
      }
   }
 
-  open(AS, ">", "stats.SUMMARY") or die "Failed to open stats.overview\n";
+  open(AS, ">", "$outdir/stats.SUMMARY") or die "Failed to open stats.overview\n";
 
   foreach my $type (@ORDER){
     print AS "$type\t".scalar(keys %{$stats->{ $type }})."\n";  
-    open(S, ">", "stats.$type") or die;
+    open(S, ">", "$outdir/stats.$type") or die;
     foreach my $gp (sort keys %{ $stats->{ $type } }){
       print S "$gp\t$stats->{$type}->{$gp}\n";
     }
