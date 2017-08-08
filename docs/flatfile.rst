@@ -217,9 +217,9 @@ While the layout of the DESC file for CATEGORY type properties follows the same 
   //
   
 
----------
+----------
 FASTA file
----------
+----------
 
 The FASTA file includes fasta sequences that are a match for each constituent step of the property. GPs of type CATEGORY do not have associated FASTA files as they do not contain any calculable steps. Similarly, a METAPATH which contains only GPs as evidence for its steps, would not have an associated FASTA file.
 The FASTA file is formatted such that each individual block of fasta sequence includes a descriptive header line, in the format provided by UniProt. The appropriate step number is then added to this header line in parenthesis, as shown below.
@@ -287,4 +287,16 @@ An example FASTA file is shown here:
   PGRTINRFGEEVEMITKGRHDPCVGIRAVPIAEAMLAIVLMDHLLRQRAQNADVKTDIPR
   W
 
-  
+-----------
+status file
+-----------
+
+Each GP has an associated status file which records (using binary flags) whether the property has been curated, and whether it is to be made public. This file is edited by the curator as part of the curation process prior to release. Private curator notes can be included below the double hyphen. An example status file is shown here:
+
+.. code-block::
+  checked: 1
+  public:	0
+  --
+  contains a dependent GP that is not yet public
+
+
