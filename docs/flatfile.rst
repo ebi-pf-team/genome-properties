@@ -4,21 +4,22 @@ Genome Property Types
 
 There are five different types of Genome Properties.
 
-- PATHWAY: These represent groups of proteins that perform biochemical steps in order within a recognised enzymatic pathway.
-- METAPATH: These represent a specific type of PATHWAY where one or more of the steps within the pathway are described by another Genome Property. For the purposes of calculation, METAPATHs are dependent on their respective GP steps.
-- SYSTEM: These represent groups of proteins that work together to fulfil a role, but do not necessarily represent a traditional enzymatic pathway (for example, transport systems).
-- GUILD: These represent groups of proteins sharing overall function, but which do not represent a system.
-- CATEGORY: These are organisational properties that allow the full set of genome properties to be arranged into a hierarchy. These properties are not calculated.
+:PATHWAY: These represent groups of proteins that perform biochemical steps in order within a recognised enzymatic pathway.
+:METAPATH: These represent a specific type of PATHWAY where one or more of the steps within the pathway are described by another Genome Property. For the purposes of calculation, METAPATHs are dependent on their respective GP steps.
+:SYSTEM: These represent groups of proteins that work together to fulfil a role, but do not necessarily represent a traditional enzymatic pathway (for example, transport systems).
+:GUILD: These represent groups of proteins sharing overall function, but which do not represent a system.
+:CATEGORY: These are organisational properties that allow the full set of genome properties to be arranged into a hierarchy. These properties are not calculated.
 
 
 ===============
 Flatfile Format
 ===============
 
-Each Genome Property is represented by two files
+Each Genome Property is represented by up to three files
 
 + **DESC file** - a description of the GP and the constituent steps
 + **FASTA file** - a concatenation of fasta files that resolve to a yes for each of the constituent steps
++ **status file** - a record of binary flags recording whether the GP has been curated and is to be made public
 
 ---------
 DESC file
@@ -74,7 +75,7 @@ The tags used in the DESC file are listed below, along with the description of t
 
 The DESC file is formatted such that a single tag is included on each line, followed by 2 blank spaces, followed by the value of the field. 
 
-In the case of the property description (CC) and private notes (**) fields, the information may stretch accross multiple lines. The line length is limited to 80 characters (including the tag) and so any subsequent lines used must also carry the tag. See the example below.
+In the case of the property description (CC) and private notes (**) fields, the information may stretch accross multiple lines. The line length is limited to 80 characters (including the tag) and so any subsequent lines used must also carry the tag. See the PATHWAY example below.
 
 
 .. code-block:: none
@@ -176,6 +177,45 @@ In the case of the property description (CC) and private notes (**) fields, the 
   TG  GO:0009423;
   //
 
+
+While the layout of the DESC file for CATEGORY type properties follows the same format, the steps do not refer to calculable evidence. IN the case of CATEGORY, the steps define the GPs (including other CATEGORIES) that exist as children of the CATEGORY. See the CATEGORY example below.
+
+.. code-block:: none
+  
+  AC  GenProp0063
+  DE  Biosynthesis
+  TP  CATEGORY
+  AU  Haft DH
+  TH  0
+  CC  The process of creating complex biomolecules from simpler starting
+  CC  materials.
+  --
+  SN  1
+  ID  Natural products biosynthesis
+  RQ  0
+  EV  GenProp0077;
+  --
+  SN  2
+  ID  Amino acid biosynthesis
+  RQ  0
+  EV  GenProp0126;
+  --
+  SN  3
+  ID  Cofactor biosynthesis
+  RQ  0
+  EV  GenProp0184;
+  --
+  SN  4
+  ID  Nucleotide biosynthesis
+  RQ  0
+  EV  GenProp0185;
+  --
+  SN  5
+  ID  Storage and structural polymer biosynthesis
+  RQ  0
+  EV  GenProp0186;
+  //
+  
 
 ---------
 FASTA file
