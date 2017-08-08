@@ -179,8 +179,7 @@ sub JSONHierarchy {
   $tree->{children} = [];
 
   _buildHierarchy($gp, $prop, $tree);
-  my $treeString =  to_json( $tree, { ascii => 1, pretty => 1 } ); 
-  p($treeString); 
+  my $treeString =  to_json( $tree, { ascii => 1 } ); 
   return($treeString);
 }
 
