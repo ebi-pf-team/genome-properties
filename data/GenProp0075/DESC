@@ -21,4 +21,14 @@ SN  3
 ID  Tat (Sec-independent) protein export
 RQ  0
 EV  GenProp0127;
+--
+SN  4
+ID  Gamma secretase
+RQ  0
+EV  GenProp2017;
+--
+SN  5
+ID  Apoptosome
+RQ  0
+EV  GenProp2021;
 //
