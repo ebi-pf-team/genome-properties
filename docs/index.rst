@@ -12,7 +12,10 @@ Contents:
    :maxdepth: 2
 
    background
+   content
    flatfile
    calculating
+   contributing
+   funding
      
 

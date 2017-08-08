@@ -4,7 +4,6 @@ GenProp0064	Biological niche
 GenProp0065	Genome properties
 GenProp0066	Selfish genetic elements
 GenProp0067	Quantitative content
-GenProp0068	Taxonomy
 GenProp0069	Cell surface component
 GenProp0070	Energy metabolism
 GenProp0071	Transport
@@ -49,13 +48,7 @@ GenProp0303	Detoxification
 GenProp0462	Response to stress
 GenProp0475	Unknown biological process
 GenProp0501	Metrics of biological environment
-GenProp0502	Sites of growth within host
-GenProp0518	Host range
-GenProp0519	Host-symbiote relationship types
-GenProp0520	Relationship to host cell
 GenProp0551	Regulatory systems
-GenProp0568	Mode of transmission to host
-GenProp0573	Initial sites of transmission to host
 GenProp0603	Lifestyle
 GenProp0731	Amino acid metabolism
 GenProp0733	Amino acid salvage
