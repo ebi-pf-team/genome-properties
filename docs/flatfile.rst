@@ -178,7 +178,7 @@ In the case of the property description (CC) and private notes (**) fields, the 
   //
 
 
-While the layout of the DESC file for CATEGORY type properties follows the same format, the steps do not refer to calculable evidence. IN the case of CATEGORY, the steps define the GPs (including other CATEGORIES) that exist as children of the CATEGORY. See the CATEGORY example below.
+While the layout of the DESC file for CATEGORY type properties follows the same format, the steps do not refer to calculable evidence. In the case of CATEGORY, the steps define the properties (including other sub-categories) that exist as children of the CATEGORY. See the CATEGORY example below.
 
 .. code-block:: none
   
