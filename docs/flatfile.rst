@@ -2,7 +2,7 @@
 Genome Property Types
 =====================
 
-There are five different types of Genome Properties.
+There are five different types of Genome Properties (GP) represented.
 
 :PATHWAY: These represent groups of proteins that perform biochemical steps in order within a recognised enzymatic pathway.
 :METAPATH: These represent a specific type of PATHWAY where one or more of the steps within the pathway are described by another Genome Property. For the purposes of calculation, METAPATHs are dependent on their respective GP steps.
@@ -221,8 +221,8 @@ While the layout of the DESC file for CATEGORY type properties follows the same 
 FASTA file
 ---------
 
-The FASTA file includes a fasta sequence for each constituent step of the property.
-The file is formatted such that each individual block of fasta sequence includes a descriptive header line, in the format provided by UniProt. The appropriate step number is then added to this header line in parenthesis, as shown below.
+The FASTA file includes fasta sequences that are a match for each constituent step of the property. GPs of type CATEGORY do not have associated FASTA files as they do not contain any calculable steps. Similarly, a METAPATH which contains only GPs as evidence for its steps, would not have an associated FASTA file.
+The FASTA file is formatted such that each individual block of fasta sequence includes a descriptive header line, in the format provided by UniProt. The appropriate step number is then added to this header line in parenthesis, as shown below.
 
 .. code-block::
 
