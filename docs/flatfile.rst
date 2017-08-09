@@ -294,6 +294,7 @@ status file
 Each GP has an associated status file which records (using binary flags) whether the property has been curated, and whether it is to be made public. This file is edited by the curator as part of the curation process prior to release. Private curator notes can be included below the double hyphen. An example status file is shown here:
 
 .. code-block:: none
+
   checked: 1
   public:	0
   --
