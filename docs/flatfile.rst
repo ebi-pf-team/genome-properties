@@ -295,8 +295,8 @@ Each GP has an associated status file which records (using binary flags) whether
 
 .. code-block:: none
 
-  checked: 1
-  public:	0
+  checked:  1
+  public: 0
   --
   contains a dependent GP that is not yet public
 
