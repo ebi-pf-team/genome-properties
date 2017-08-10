@@ -1,9 +1,7 @@
 About Genome Properties
 =======================
 
-::
-
-  Genome properties (GP) is an annotation system whereby functional attributes can be assigned to a genome, based on the presence of a defined set of protein family markers within that genome. For example, a species can be proposed to synthesise proline if it can be shown that the genome for that species encodes all the necessary proteins required to carry out the various biochemical steps in the proline biosynthesis pathway. 
+Genome properties (GP) is an annotation system whereby functional attributes can be assigned to a genome, based on the presence of a defined set of protein family markers within that genome. For example, a species can be proposed to synthesise proline if it can be shown that the genome for that species encodes all the necessary proteins required to carry out the various biochemical steps in the proline biosynthesis pathway. 
 
 .. image::  _static/images/web_fig_GP_small2.png
 
