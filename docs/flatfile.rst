@@ -54,7 +54,7 @@ The tags used in the DESC file are listed below, along with the description of t
 +----+----------------------------------------------------+
 | CC | Property description                               |
 +----+----------------------------------------------------+
-| ** | Private notes                                      |
+| \** | Private notes                                      |
 +----+----------------------------------------------------+
 | -- | Separator                                          |
 +----+----------------------------------------------------+
