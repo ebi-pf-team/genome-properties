@@ -30,7 +30,6 @@ GetOptions ( \%options,
 			        'name=s',
               'debug',
               'help',
-              'db',
               'eval_order=s') or die "Failed to parse options\n";;
 
 
@@ -61,10 +60,49 @@ Title:
 
 sub help{
 
-#TODO Improve help section
   print<<EOF;
 
-$0 -seqs 1005058.fasta -matches 1005058.tsv -all -name 1005058.out  -eval_order evaluation_order
+Options:
+
+== Sequence set ==
+
+One or both of these two options:
+matches <filename>       : TSV file of InterProScan5 output.
+seq <filename>           : FASTA file of sequences that need to be analysed.
+
+
+== Calculation options ==
+
+One of the the following three:
+all                      : Calculate against all Genome Properties 
+property <accession>     : Calculate against 
+list     <filename>      : Filename containing a list of Genome Properties that need 
+                         : to be evaluatated.
+
+== Genome Properties files == 
+Both of these are required: 
+gpdir <directory name>   : Genome Properties release directory
+gpff  <filename>         : Name of the flatfile  
+
+Optional:
+eval_order <filename>    : File containing an optimal evaluation order.
+
+== Output options ==
+
+name <name>              : Output file tag name (required). This will be prefixed 
+                           depending on the outputs requested.
+outdir <directory name>  : Name of the output directory (optional, default pwd).
+outfiles <format>        : Format can be one of the following [summary|long|table]
+                         : To get multiple output files use option multiple times
+
+
+-- Other --
+help                     : Prints this help message
+debug                    : Turn on verbose debugging
+
+
+Example: 
+$0 -matches /Users/rdf/Projects/InterPro/GenomeProperties/EcoliExample/83333.fasta.tsv  -all -name 83333.test -gpdir /tmp/release/testv0.1 -gp genomeProperties.txt -outfiles summary
 
 
 EOF

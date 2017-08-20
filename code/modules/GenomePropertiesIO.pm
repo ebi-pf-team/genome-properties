@@ -398,7 +398,25 @@ sub parseGpFASTA {
 }
 
 
-
+sub parseFlatfile {
+  my ($gp, $file) = @_;
+  
+  open(F, "<", $file) or die "Could not open $file\n";
+  $/ = "//";
+  while(<F>){
+    $/ = "\n";
+    my @file = split(/\n/, $_);
+      
+    shift(@file) if(defined($file[0]) and $file[0] eq "");
+    if(scalar(@file)){
+      parseDESC(\@file, $gp, {});
+    }
+    $/ = "//";
+  }
+  close(F);
+  $/ = "\n";
+  
+}
 
 sub parseDESC {
   my ( $file, $gp, $options ) = @_;
@@ -406,8 +424,9 @@ sub parseDESC {
   my @file;
   if ( ref($file) eq "GLOB" ) {
     @file = <$file>;
-  }
-  else {
+  }elsif(ref($file) eq "ARRAY"){
+    @file = @$file;
+  }else {
     open( my $fh, "$file" ) or die "Could not open $file:[$!]\n";
     @file = <$fh>;
     close($file);
@@ -606,7 +625,7 @@ sub parseDESC {
       last; 
     } else {
       chomp( $file[$i] );
-      my $msg = "Failed to parse the DESC line (enclosed by |):|$file[$i]|\n\n"
+      my $msg = "Failed to parse the DESC line [$i] (enclosed by |):|$file[$i]|\n\n"
         . "-" x 80 . "\n";
 
       #croak($msg);
@@ -626,7 +645,7 @@ sub parseSteps {
   my @steps;
   my %step;
   for (  ; $$i <scalar(@{$file}) ; $$i++ ) {
-    
+      
     my $l = $file->[$$i];
     chomp($l);
     if ( length($l) > $expLen ) {
