@@ -1,0 +1,1322 @@
+GenProp0001	chorismate biosynthesis via shikimate	PARTIAL
+GenProp0010	inteins	NO
+GenProp0014	polyketide biosynthesis, type I	NO
+GenProp0021	CRISPR region	YES
+GenProp0023	glyoxylate shunt	PARTIAL
+GenProp0030	glutathione biosynthesis	YES
+GenProp0036	biotin biosynthesis	PARTIAL
+GenProp0037	tryptophan biosynthesis from ribose-5-phosphate	YES
+GenProp0038	tetrahydrofolate biosynthesis from GTP and PABA	PARTIAL
+GenProp0039	phenylalanine biosynthesis from chorismate	PARTIAL
+GenProp0040	thiotemplate type non-ribosomal peptide biosynthesis	NO
+GenProp0045	tyrosine biosynthesis from chorismate	PARTIAL
+GenProp0047	IPP biosynthesis via mevalonate	PARTIAL
+GenProp0048	IPP biosynthesis via deoxyxylulose	PARTIAL
+GenProp0051	urease	NO
+GenProp0052	type III secretion	PARTIAL
+GenProp0053	type II secretion	PARTIAL
+GenProp0055	polyhydroxyalkanoic acids	YES
+GenProp0057	NAD(P) biosynthesis from L-aspartate and DHAP	YES
+GenProp0058	menaquinone biosynthesis via SEPHCHC	PARTIAL
+GenProp0059	type I secretion	PARTIAL
+GenProp0061	lipoprotein system lgt/lsp/lnt	YES
+GenProp0109	histidine biosynthesis from ribose-5-phosphate	PARTIAL
+GenProp0110	purine (inosine-5'-phosphate) biosynthesis from ribose-5-phosphate	YES
+GenProp0111	proline biosynthesis from glutamate	YES
+GenProp0112	riboflavin, FAD and FMN from GTP and ribulose-5-P	PARTIAL
+GenProp0113	cobyrinic acid diamide biosynthesis, aerobic pathway	PARTIAL
+GenProp0114	nucleotide excision repair	YES
+GenProp0117	arginine biosynthesis from ornithine, carbamoyl-p and aspartate	PARTIAL
+GenProp0118	ornithine biosynthesis from glutamate, acetylated branch	PARTIAL
+GenProp0119	PTS transport system	PARTIAL
+GenProp0120	pentose phosphate cycle	PARTIAL
+GenProp0124	pantothenate biosynthesis from aspartate and 2-oxoisovalerate	YES
+GenProp0127	Tat (Sec-independent) protein export	PARTIAL
+GenProp0312	pyrrolysine	NO
+GenProp0128	F1/F0 ATPase	YES
+GenProp0129	Na+-translocating NADH-quinone reductase	NO
+GenProp0130	Rnf-type electron transport complex	NO
+GenProp0132	transcription termination - antitermination Nus factors	YES
+GenProp0135	NADH dehydrogenase I	YES
+GenProp0136	ubiquinone biosynthesis from chorismate, aerobic	YES
+GenProp0137	iron-sulfur cluster assembly SUF system	YES
+GenProp0138	iron-sulfur cluster assembly iscSUA-hscBA-fdx system	NO
+GenProp0139	degradation of tyrosine via homogentisate	PARTIAL
+GenProp0141	galactose-6-phosphate degradation via tagatose-6-phosphate	NO
+GenProp0143	Leloir pathway (galactose/glucose interconversion)	PARTIAL
+GenProp0145	histidine degradation to glutamate	NO
+GenProp0146	bacteriochlorophyll biosynthesis from chlorophyllide a	NO
+GenProp0147	glycine betaine biosynthesis from choline	NO
+GenProp0148	release factor 2 programmed frameshift	NO
+GenProp0149	sulfate reduction to sulfide, assimilatory	PARTIAL
+GenProp0150	chlorophyll biosynthesis from chlorophyllide a	NO
+GenProp0151	resistance to mercury	PARTIAL
+GenProp0155	dissimilatory sulfate reduction	NO
+GenProp0156	cyanophycin-like storage polymers	NO
+GenProp0159	threonine biosynthesis from aspartate semialdehyde	YES
+GenProp0160	aspartate semialdehyde biosynthesis from aspartate	YES
+GenProp0161	methionine biosynthesis from homoserine	PARTIAL
+GenProp0162	isoleucine biosynthesis from threonine and pyruvate	PARTIAL
+GenProp0163	valine biosynthesis from pyruvate	PARTIAL
+GenProp0164	leucine biosynthesis from pyruvate and acetyl-CoA	PARTIAL
+GenProp0165	minCDE system	NO
+GenProp0166	mreBCD system	PARTIAL
+GenProp0168	glycogen system	NO
+GenProp0169	hybrid NRPS-PKS natural pruduct biosynthesis genes	NO
+GenProp0170	coenzyme PQQ biosynthesis	PARTIAL
+GenProp0171	coenzyme A biosynthesis from pantothenate	PARTIAL
+GenProp0172	Potassium-transporting ATPase KdpFABC	NO
+GenProp0174	ribosome, bacterial, large subunit	YES
+GenProp0175	ribosome, bacterial, small subunit	YES
+GenProp0176	TRAP-T (tripartite ATP-independent periplasmic transporters) family transporters	YES
+GenProp0177	nickel-dependent hydrogenase	NO
+GenProp0178	glycine cleavage system	YES
+GenProp0182	reduction of oxidized methionine	YES
+GenProp0187	pyrimidine (uridine-5'-phosphate) de novo biosynthesis	YES
+GenProp0188	GatABC aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase complex	YES
+GenProp0189	tRNA-Gln direct aminoacylation	NO
+GenProp0190	phosphate ABC transporter (pstSCAB-phoU)	PARTIAL
+GenProp0191	sulfate/thiosulfate ABC transporter	NO
+GenProp0192	molybdate ABC transporter	NO
+GenProp0193	lysine biosynthesis via alpha-aminoadipate (AAA pathway)	PARTIAL
+GenProp0194	siroheme biosynthesis from uroporphrinogen-III	YES
+GenProp0198	ruvABC Holliday junction complex	PARTIAL
+GenProp0200	periplasmic nitrate reductase	NO
+GenProp0201	SMC-ScpA-ScpB complex	PARTIAL
+GenProp0203	LPS inner core biosynthesis, ketodeoxyoctonate and heptose type	PARTIAL
+GenProp0205	signal recognition system, bacterial	PARTIAL
+GenProp0206	bacterial cell division septum system	PARTIAL
+GenProp0207	lipoprotein localization system lolABCDE	PARTIAL
+GenProp0208	phage: major features	PARTIAL
+GenProp0209	Sec system preprotein translocase	YES
+GenProp0210	phenylacetic acid catabolism	NO
+GenProp0211	tmRNA trans-translation system	PARTIAL
+GenProp0213	Resistance to Reactive Oxygen Species (ROS)	YES
+GenProp0214	acetyl-CoA carboxylase complex	YES
+GenProp0215	SOS response	YES
+GenProp0216	recBCD pathway	NO
+GenProp0217	5-aminolevulinate biosynthesis (glutamate pathway)	PARTIAL
+GenProp0218	cysteine biosynthesis from serine	YES
+GenProp0220	uroporhyrinogen III biosynthesis from 5-aminolevulinate	YES
+GenProp0221	protoporphyrin IX biosynthesis from uroporphyrinogen III	PARTIAL
+GenProp0222	protoheme from protoporphyrin IX	YES
+GenProp0223	5-aminolevulinate biosynthesis from succinyl-CoA and glycine	YES
+GenProp0225	mismatch repair	YES
+GenProp0226	integron	NO
+GenProp0229	transcription-coupled nucleotide excision repair	YES
+GenProp0231	4-hydroxyphenylacetate degradation	NO
+GenProp0232	phosphonates C-P lyase system	PARTIAL
+GenProp0233	GABA utilization	PARTIAL
+GenProp0236	phosphonates ABC transport	NO
+GenProp0238	2-aminoethylphosphonate catabolism to acetaldehyde	NO
+GenProp0240	propionyl-CoA catabolism via methylcitric acid	PARTIAL
+GenProp0244	chaperone system: DnaK-DnaJ-GrpE	YES
+GenProp0245	chaperone system: GroEL/GroES	YES
+GenProp0246	chaperone system: thermosome/prefoldin	NO
+GenProp0250	thiamine: hydroxyethylthiazole from 1-deoxy-D-xylulose-5-phosphate, cysteine, either Tyr or Gly	PARTIAL
+GenProp0251	clpXP degradation machine	PARTIAL
+GenProp0252	thiamine/TPP ABC transporter ThiBPQ	NO
+GenProp0253	thiamine: hydroxymethylpyrimidine pyrophosphate from aminoimidazole ribotide	YES
+GenProp0254	thiamine: TPP from HMP-PP and HET-P	YES
+GenProp0255	5-aminolevulinate biosynthesis	YES
+GenProp0258	tRNA aminoacylation	PARTIAL
+GenProp0259	tRNA-Asn direct aminoacylation	PARTIAL
+GenProp0262	RNA polymerase, bacterial	YES
+GenProp0263	DNA polymerase III, bacterial	PARTIAL
+GenProp0264	glucosylglycerol biosynthesis	PARTIAL
+GenProp0265	trehalose biosynthesis, OtsAB pathway	NO
+GenProp0266	trehalose biosynthesis, TreYZ pathway	NO
+GenProp0268	ectoine biosynthesis	NO
+GenProp0269	coenzyme B12 biosynthesis from cob(II)yrinate diamide	PARTIAL
+GenProp0271	trehalose utilization	NO
+GenProp0272	pyruvate fermentation to acetoin	NO
+GenProp0273	protocatechuate degradation to beta-ketoadipate	NO
+GenProp0275	cobyrinic acid diamide biosynthesis, anaerobic pathway	PARTIAL
+GenProp0277	cobalt import system (ABC transporter: 3.A.1.18.1)	NO
+GenProp0280	cobalt import system (CbtAB - proposed)	NO
+GenProp0281	mannosylglycerate biosynthesis	NO
+GenProp0283	beta-ketoadipate degradation to succinyl-CoA and acetyl-CoA	YES
+GenProp0288	tetrahydromethanopterin S-methyltransferase complex	NO
+GenProp0289	class I (aerobic) ribonucleotide reductase	PARTIAL
+GenProp0290	class II (B12-dependent) ribonucleotide reductase	YES
+GenProp0291	class III (anaerobic) ribonucleotide reductase	NO
+GenProp0292	ethanolamine degradation organelle	PARTIAL
+GenProp0294	ethanolamine degradation proteinaceous organelle	PARTIAL
+GenProp0295	prokaryotic N-terminal cleavage/methylation, type IV pilin-like	YES
+GenProp0304	cysteine biosynthesis, tRNA-dependent	NO
+GenProp0305	cysteine biosynthesis	YES
+GenProp0309	arginine catabolism to glutamate via arginine succinyltransferase (AST)	NO
+GenProp0310	CRISPR system, I-F/Ypest subtype	NO
+GenProp0311	competence-related genes	NO
+GenProp0313	CRISPR system, I-C/Dvulg subtype	YES
+GenProp0314	CRISPR system, II/Nmeni subtype	PARTIAL
+GenProp0315	CRISPR system, I-E/Ecoli subtype	PARTIAL
+GenProp0316	CRISPR system, III-B/RAMP module subtype	NO
+GenProp0317	CRISPR system, I-B subtype, Tneap branch	PARTIAL
+GenProp0318	CRISPR system, III-A/Mtube subtype	PARTIAL
+GenProp0319	CRISPR system, I-A/Apern subtype	PARTIAL
+GenProp0320	CRISPR system, I-B subtype, Hmari branch	PARTIAL
+GenProp0321	toxin-antitoxin system, type II	YES
+GenProp0322	addiction module, hig class	NO
+GenProp0323	addiction module, ParE class	NO
+GenProp0324	addiction module, RelE-RelB class	NO
+GenProp0326	protein sorting system, PEP-CTERM/exosortase (generic)	PARTIAL
+GenProp0453	uncharacterized gene pair TIGR02612/TIGR02613	NO
+GenProp0455	restriction enzyme system, type I	PARTIAL
+GenProp0456	attenuation system: tryptophanase	NO
+GenProp0457	rhamnose catabolism	PARTIAL
+GenProp0458	fucose catabolism	PARTIAL
+GenProp0459	D-xylose utilization (conversion to D-xylulose-5-phosphate)	PARTIAL
+GenProp0460	gas vesicle	NO
+GenProp0461	utilization of deoxynucleosides	NO
+GenProp0465	circadian clock system KaiABC	NO
+GenProp0466	molybdopterin biosynthesis	PARTIAL
+GenProp0468	Entner-Doudoroff pathway	NO
+GenProp0469	CRISPR system, Dpsyc subtype	PARTIAL
+GenProp0470	sporadically distributed four-gene operon	NO
+GenProp0471	uncharacterized gene pair TIGR02683/TIGR02684	NO
+GenProp0472	uncharacterized gene pair TIGR02687/TIGR02688	YES
+GenProp0473	arsenite oxidase	NO
+GenProp0474	arsenical resistance system	PARTIAL
+GenProp0476	protein-coding palindromic elements	NO
+GenProp0477	copper resistance system: CopZA	PARTIAL
+GenProp0478	acetyl-CoA -- acetate interconversion via acetyl phosphate	NO
+GenProp0480	acetyl-CoA biosynthesis from acetate, direct	YES
+GenProp0481	urea carboxylase/allophanate hydrolase pathway	NO
+GenProp0482	6S RNA (eubacterial RNA polymerase regulator)	PARTIAL
+GenProp0483	cytochrome c oxidase, cbb3-type	NO
+GenProp0484	F-type conjugation system (type IV secretion) specific components	PARTIAL
+GenProp0485	F and P-type conjugation systems (type IV secretion), common components	PARTIAL
+GenProp0487	repABC-type alpha-proteobacterial replicon(s)	PARTIAL
+GenProp0488	superoxide dismutase, nickel-type	NO
+GenProp0489	F-type conjugation system	YES
+GenProp0490	Ti-type conjugation system	PARTIAL
+GenProp0491	recFOR recombination pathway	YES
+GenProp0492	nonhomologous end-joining, bacterial type	NO
+GenProp0493	addAB pathway	YES
+GenProp0494	nickel import ABC transporter	NO
+GenProp0542	Tol-Pal system	PARTIAL
+GenProp0543	TonB-dependent transport	PARTIAL
+GenProp0562	formaldehyde detoxification, glutathione-dependent	YES
+GenProp0610	endospore formation marker gene set	NO
+GenProp0613	cytochrome c reductase	YES
+GenProp0614	cytochrome c oxidase, mitochondrial, caa3-type	PARTIAL
+GenProp0615	cytochrome c based oxygen reduction and quinone re-oxidation	YES
+GenProp0617	cytochrome (quinone) oxidase, bd type	YES
+GenProp0618	cytochrome (quinone) oxidase, bo type	PARTIAL
+GenProp0620	cytochrome (quinone) oxidase, aa3 type, QoxABCD	NO
+GenProp0623	NADH dehydrogenase, Sno(Mnh)ABCDEFG)	PARTIAL
+GenProp0624	sulfite reductase complex, Salmonella/Clostridium type	NO
+GenProp0626	protein sorting system, sortase type, LPXTG/SrtA class	NO
+GenProp0627	gene pair involved in iron and oxygen metabolism	NO
+GenProp0629	A1/A0 ATPase	NO
+GenProp0630	2-oxoglutarate dehydrogenase system	YES
+GenProp0631	nitrogenase, Fe-only	NO
+GenProp0632	nitrogenase, V-containing	NO
+GenProp0633	nitrogenase, Mo-containing	NO
+GenProp0634	Sigma-54 (RpoN) systems	YES
+GenProp0636	respiratory nitrate reductase	NO
+GenProp0637	anaerobic dimethyl sulfoxide reductase	NO
+GenProp0638	trimethylamine N-oxide reductase system	NO
+GenProp0639	arginine degradation via citrulline, ATP-generating	NO
+GenProp0640	xanthine dehydrogenase	YES
+GenProp0641	spermidine biosynthesis from putrescine and S-adenosylmethionine	YES
+GenProp0642	putrescine biosynthesis from arginine utilizing agmatinase	NO
+GenProp0643	putrescine biosynthesis from arginine via ornithine	NO
+GenProp0644	putrescine biosynthesis from glutamate via ornithine	PARTIAL
+GenProp0645	putrescine biosynthesis	YES
+GenProp0648	phage shock protein regulon	NO
+GenProp0649	heterocyst-related ABC exporter DevBCA	NO
+GenProp0650	type II restriction system,  Alw26I/Eco31I/Esp3I family	NO
+GenProp0651	ectoine ABC transporter EhuABCD	NO
+GenProp0652	exopolysaccharide biosynthesis, exosortase A-associated	PARTIAL
+GenProp0653	ectoine catabolism	NO
+GenProp0654	intracellular sulfur oxidation	NO
+GenProp0655	exopolysaccharide biosynthesis, exosortase B-associated	NO
+GenProp0658	cellulose biosynthesis	NO
+GenProp0659	tryptophan degradation to anthranilate	NO
+GenProp0660	photosystem I	NO
+GenProp0661	photosystem II	NO
+GenProp0662	photosynthetic reaction center, alphaproteobacterial type	NO
+GenProp0663	Verrucomicrobium/Chthoniobacter four-plus-PEP_CTERM cassette	NO
+GenProp0664	protein sorting system, sortase type, SrtB class	NO
+GenProp0665	peptide chain release operon, RctB-like/PrfH	NO
+GenProp0666	membrane-associated monooxygenase (methane/ammonia)	NO
+GenProp0668	acetyltransferase/synthase/peptidase cassette	NO
+GenProp0669	protein sorting system, putative, exosortase G class	NO
+GenProp0670	CRISPR system, Aferr subtype	NO
+GenProp0671	H4MPT-linked C1 transfer pathway	NO
+GenProp0672	citrate lyase system	NO
+GenProp0673	ribulose monophosphate pathway	NO
+GenProp0674	malonate decarboxylase	NO
+GenProp0676	alkylhydroperoxide reductase AhpCF (peroxiredoxin)	NO
+GenProp0677	queuosine (Q-tRNA) biosynthesis from preQ0	YES
+GenProp0678	c-type cytochrome biogenesis, system I	PARTIAL
+GenProp0680	c-type cytochrome biogenesis, system II	NO
+GenProp0682	formate-dependent nitrite reductase, seven-gene type	NO
+GenProp0683	cytochrome c nitrite reductase NrfHA	NO
+GenProp0684	FtsH/HflKC protease complex	PARTIAL
+GenProp0685	CRISPR system, I-D/Cyano subtype	PARTIAL
+GenProp0688	urate catabolism to allantoin	PARTIAL
+GenProp0689	glyoxalate conversion to phosphoglycerate	NO
+GenProp0690	F1F0 ATPase, Methanosarcina type	NO
+GenProp0692	selenouridine-containing tRNA	NO
+GenProp0693	fructose utilization as fructose-1,6-bisphosphate	PARTIAL
+GenProp0694	glucose utilization as fructose-1,6-bisphosphate	PARTIAL
+GenProp0695	cytochrome b558/566	NO
+GenProp0696	xanthine utilization as a source of guanine-monophosphate (GMP)	PARTIAL
+GenProp0697	guanine monophosphate (GMP) biosynthesis from inosine monophosphate (IMP)	YES
+GenProp0698	xanthine catabolism to urate	YES
+GenProp0699	DNA gyrase	YES
+GenProp0701	DNA sulfur modification system dnd	PARTIAL
+GenProp0702	benzoyl-CoA reductase	NO
+GenProp0703	4-hydroxybenzoyl-CoA reductase	NO
+GenProp0704	tRNA U34 carboxymethylaminomethyl modification	PARTIAL
+GenProp0705	xanthine dehydrogenase, bacillus type (pucABCDE)	PARTIAL
+GenProp0706	cyclohexa-1,5-diene-1-carbonyl-CoA to 3-hydroxypimelyl-CoA, dch/had/oah pathway	NO
+GenProp0707	botulinum toxin system	NO
+GenProp0708	catechol meta-cleavage pathway	NO
+GenProp0709	benzoate catabolism BoxABC pathway	NO
+GenProp0710	generic phosphonates utilization	PARTIAL
+GenProp0711	catechol ortho-cleavage upper pathway	NO
+GenProp0712	2-aminoethylphosphonate (AEP) ABC transporter, type I, PhnSTUV	NO
+GenProp0714	galactarate utilization via tartronate semi-aldehyde	PARTIAL
+GenProp0715	galactarate utilization via 2-oxoglutarate semialdehyde	PARTIAL
+GenProp0716	glucarate utilization via tartronate semi-aldehyde	NO
+GenProp0717	glucarate utilization via 2-oxoglutarate semialdehyde	PARTIAL
+GenProp0718	oxalate degradation	NO
+GenProp0719	methyl-coenzyme M reductase	NO
+GenProp0721	2-aminoethylphosphonate (AEP) ABC transporter, type II	NO
+GenProp0722	methanogenesis marker set	NO
+GenProp0723	hydrogenase, nickel and F420-dependent	NO
+GenProp0724	phosphonoacetaldehyde biosynthesis from phosphoenolpyruvate	PARTIAL
+GenProp0726	selenium-dependent molybdenum hydroxylase system	NO
+GenProp0728	AMP metabolism using type III Rubisco	NO
+GenProp0730	methylthioadenosine to methylthioribose-1-phosphate via MTR	PARTIAL
+GenProp0732	methionine salvage enolase-phosphate pair MtnW/MtnX	NO
+GenProp0735	type VI secretion	NO
+GenProp0736	proposed phosphonate catabolism pathway HpnWXZ	NO
+GenProp0737	anaerobic glycerol-3-phosphate dehydrogenase complex	NO
+GenProp0738	agmatine to putrescine via N-carbamoylputrescine	NO
+GenProp0739	iron-sulfur cluster assembly CsdA-CsdE system	NO
+GenProp0740	translation initiation, bacterial	YES
+GenProp0741	translation elongation, bacterial	YES
+GenProp0742	iron-sulfur cluster assembly NIF system	NO
+GenProp0743	urea ABC transporter UrtABCDE	NO
+GenProp0744	glyoxalase pathway, glutathione dependent	PARTIAL
+GenProp0745	lipoyl-protein attachment	YES
+GenProp0746	translation termination, bacterial	PARTIAL
+GenProp0747	adenosine monophosphate (AMP) biosynthesis from inosine monophosphate (IMP)	YES
+GenProp0748	choline ABC transporter, ChoXWV family	NO
+GenProp0749	choline sulfate utilization	NO
+GenProp0750	UDP-N-acetylglucosamine biosynthesis from fructose-6-phosphate	YES
+GenProp0751	Acidobacterial ADOP/PadR gene pairs	NO
+GenProp0752	ergothioneine biosynthesis	YES
+GenProp0753	mycothiol biosynthesis	NO
+GenProp0754	acetate production from acetylphosphate	NO
+GenProp0756	fumarate reductase complex	PARTIAL
+GenProp0757	quorum-sensing, autoinducer-2 system	PARTIAL
+GenProp0758	lycopene biosynthesis from IPP	YES
+GenProp0759	para-aminobenzoic acid (PABA) biosynthesis from chorismate	NO
+GenProp0760	putrescine degradation to GABA via gamma-glutamylation	NO
+GenProp0761	hopanoid lipid biosynthesis	NO
+GenProp0762	chemotaxis response-regulator system	PARTIAL
+GenProp0763	nicotinate fermentation to pyruvate and propionate	NO
+GenProp0764	DMSO reductase family type II enzyme	NO
+GenProp0765	glycerol fermentation to  1,3-propanediol, using glycerol dehydratase	NO
+GenProp0766	anhydro-N-acetylmuramic acid to N-acetylglucosamine-phosphate	PARTIAL
+GenProp0767	very short patch repair	NO
+GenProp0768	CRISPR system, Pging subtype	PARTIAL
+GenProp0769	Neisseria lipooligosaccharide, lacto-N-neotetraose biosynthesis	NO
+GenProp0771	enterobactin (enterochelin) biosynthesis	NO
+GenProp0772	yersiniabactin biosynthesis	NO
+GenProp0773	aerobactin biosynthesis	NO
+GenProp0774	ferric citrate transport system	NO
+GenProp0775	mycobactin biosynthesis	NO
+GenProp0776	pyochelin biosynthesis	NO
+GenProp0777	staphylobactin biosynthesis	NO
+GenProp0778	protein sorting system, GlyGly-CTERM/rhombosortase	NO
+GenProp0779	Shewanella-type decaheme system	NO
+GenProp0780	xanthosine utilization system XapABR	NO
+GenProp0781	gliding motility, Bacteroidetes type	NO
+GenProp0783	petrobactin biosynthesis	NO
+GenProp0784	carbon fixation via 3-hydroxypropionate and 4-hydroxybutyrate	NO
+GenProp0786	lysine biosynthesis via diaminopimelate (DAP), succinylated branch	PARTIAL
+GenProp0787	lysine biosynthesis via diaminopimelate (DAP), acetylated branch	NO
+GenProp0788	lysine biosynthesis via diaminopimelate (DAP) utilizing ammonia and NADPH	PARTIAL
+GenProp0789	homocysteine regeneration from S-adenosylhomocysteine	YES
+GenProp0790	sporadic pair TIGR03545/TIGR03546	NO
+GenProp0792	7,8-didemethyl-8-hydroxy-5-deazariboflavin (FO) biosynthesis	NO
+GenProp0793	CMP-N-acetylneuraminate biosynthesis from UDP-N-acetylglucosamine	PARTIAL
+GenProp0794	proposed N-acetyl sugar amidation module WbuXYZ	PARTIAL
+GenProp0796	CMP-pseudaminic acid biosynthesis from UDP-N-acetylglucosamine	PARTIAL
+GenProp0797	selenocysteinyl-tRNA, PSTK/SepSecS pathway	NO
+GenProp0798	Enterococcus/Aeromonas extended locus	NO
+GenProp0799	bacterial core gene set, exactly 1 per genome	PARTIAL
+GenProp0800	bacterial core gene set, 1 or more per genome	YES
+GenProp0802	ribosome biogenesis proteins, bacteria	YES
+GenProp0806	replication initiation, bacterial	PARTIAL
+GenProp0807	bacteriocin system, heterocycle biosynthesis group	NO
+GenProp0808	bacteriocin system, TIGR01847 leader group	NO
+GenProp0809	bacteriocin system, lactococcin 972 group	NO
+GenProp0810	encapsulin proteinaceous organelle	NO
+GenProp0811	S-layer homology domain-mediated cell wall binding	NO
+GenProp0812	rho-dependent termination	YES
+GenProp0813	pyrimidine utilization  operon, RutABCDEFGR	PARTIAL
+GenProp0814	urea utilization	NO
+GenProp0815	archaeal-only core gene set	NO
+GenProp0821	putative Na:solute symporter two-gene cassette	YES
+GenProp0822	poly(gamma-glutamic acid) biosynthesis	NO
+GenProp0823	violacein biosynthesis	NO
+GenProp0825	bacteriocin system, circular bacteriocin group	NO
+GenProp0828	heme uptake system, NEAT-domain mediated	PARTIAL
+GenProp0829	menaquinone biosynthesis via futalosine	NO
+GenProp0830	integral membrane mystery pair	NO
+GenProp0831	archaeal core gene set, exactly 1 per genome	PARTIAL
+GenProp0832	archaeal core gene set, 1 or more per genome	PARTIAL
+GenProp0834	proteasome, bacterial	NO
+GenProp0835	ATP-dependent protease HslVU	YES
+GenProp0836	menaquinone biosynthesis	YES
+GenProp0837	1-acylglycerol-3-phosphate biosynthesis, PlsX/Y pathway	YES
+GenProp0839	2-oxoacid:ferredoxin oxidoreductase, multisubunit form	PARTIAL
+GenProp0840	polyphosphate kinase/exopolyphosphatase system	YES
+GenProp0841	2-oxoacid:ferredoxin oxidoreductase	YES
+GenProp0842	2-oxoacid:acceptor oxidoreductase, 2 subunit form	PARTIAL
+GenProp0844	accessory Sec system for serine-rich glycoprotein transport	NO
+GenProp0845	protein sorting system, KxYKxGKxW class	NO
+GenProp0847	exosporium	NO
+GenProp0848	actin-based motility of invasive bacteria	NO
+GenProp0849	quorum-sensing, Bacillus PlcR-PapR system	NO
+GenProp0851	integration host factor	YES
+GenProp0853	lantibiotic system, gallidermin/epidermin family	NO
+GenProp0854	ParB-rel/ThiF-rel cassette PRTRC	NO
+GenProp0855	integrating conjugative element, PFGI-1 class	NO
+GenProp0856	bacterio-opsin system	NO
+GenProp0857	anchored repeat-class ABC transporter, P. acnes type	NO
+GenProp0858	conjugative transposon, Bacteroides type	NO
+GenProp0859	protein sorting system, proteobacterial dedicated sortase type	NO
+GenProp0860	tryptophan tryptophylquinone modification of methylamine dehydrogenase	NO
+GenProp0861	bacteriocin system, NHLP (nif11/nitrile hydratase leader peptide) transport group	NO
+GenProp0862	pyridoxal phosphate biosynthesis, PdxA/PdxJ pathway	YES
+GenProp0863	pyridoxal phosphate biosynthesis, Pdx1/Pdx2 pathway	NO
+GenProp0867	decarboxylation/antiport proton-motive cycle: aspartate-alanine	NO
+GenProp0868	uncharacterized protein pair with twin-arg and repeat	NO
+GenProp0869	decarboxylation/antiport proton-motive cycle: arginine-agmatine	NO
+GenProp0870	decarboxylation/antiport proton-motive cycle: lysine-cadaverine	NO
+GenProp0871	decarboxylation/antiport proton-motive cycle: ornithine-putrescine	NO
+GenProp0872	decarboxylation/antiport proton-motive cycle: histidine-histamine	NO
+GenProp0875	decarboxylation/antiport proton-motive cycle: tyrosine-tyramine	NO
+GenProp0876	decarboxylation/antiport proton-motive cycle: glutamate-GABA	NO
+GenProp0877	flagellar motor stator complex	YES
+GenProp0878	N(epsilon)-acetyl-beta-lysine biosynthesis	NO
+GenProp0879	flagellar export apparatus	PARTIAL
+GenProp0880	flagellar basal body complex	PARTIAL
+GenProp0881	flagellar assembly apparatus	PARTIAL
+GenProp0882	flagellar filament and hook complex	PARTIAL
+GenProp0883	flagellar motor switch (rotor) complex	NO
+GenProp0884	flagellar regulation	PARTIAL
+GenProp0885	flagellar post-translational modification components	NO
+GenProp0886	flagellar components of unknown function	PARTIAL
+GenProp0888	mobilization system MobA/MobB/MobC	PARTIAL
+GenProp0889	Mycoplasma terminal organelle	NO
+GenProp0890	copper homeostasis system CopRS/CopABCD	PARTIAL
+GenProp0892	sulfopyruvate biosynthesis from phoshoenolpyruvate	NO
+GenProp0893	sulfopyruvate biosynthesis via L-cysteate	NO
+GenProp0894	Actinobacterial uncharacterized trio	NO
+GenProp0895	alcohol ABC transporter, PedABC-type	NO
+GenProp0896	proposed F420-0 transporter	NO
+GenProp0898	RNA ligase/unknown protein pair	NO
+GenProp0899	nitrile hydratase	NO
+GenProp0900	bacteriocin, lantibiotic family	NO
+GenProp0901	post-ribosomal natural product synthesis system, Burkholderia TOMM-type	NO
+GenProp0902	quinohemoprotein amine dehydrogenase	NO
+GenProp0903	radical SAM/uracil DNA glycosylase system	NO
+GenProp0904	type VII secretion, Actinobacteria form	NO
+GenProp0905	type VII secretion, Firmicutes form	NO
+GenProp0906	poly-beta-1,6 N-acetyl-D-glucosamine system, IcaADBC type	NO
+GenProp0907	poly-beta-1,6 N-acetyl-D-glucosamine system, PgaABCD type	NO
+GenProp0908	2,3-diaminopropionic acid biosynthesis	NO
+GenProp0909	capreomycidine biosynthesis	NO
+GenProp0910	butyryl-CoA to butyrate, phosphotransbutyrylase pathway	NO
+GenProp0911	butyryl-CoA to butyrate, acetate CoA-transferase pathway	NO
+GenProp0912	Leptospira exopolysaccharide biosynthesis clusters	PARTIAL
+GenProp0914	hydrogenase, [FeFe]-dependent	NO
+GenProp0915	hydrogenase, mono-iron type	NO
+GenProp0916	radical SAM/uncharacterized protein TIGR03936 system	NO
+GenProp0917	mycofactocin system	PARTIAL
+GenProp0918	anaerobic sulfatase/maturase system	PARTIAL
+GenProp0919	SCIFF/radical SAM Clostridial gene pair	NO
+GenProp0920	radical SAM Y_X(10)_GDL system	NO
+GenProp0921	radical SAM pair and His-Xaa-Ser repeats peptide	NO
+GenProp0922	CRISPR system, Myxan subtype	PARTIAL
+GenProp0923	mycothiol system	NO
+GenProp0926	rSAM/TIGR03995 system	NO
+GenProp0927	bacillithiol biosynthesis	NO
+GenProp0928	OMP chaperone system: SurA-Skp-DegP	YES
+GenProp0929	LPS outer core, E. coli type	NO
+GenProp0932	O104(Ec) antigen biosynthesis	PARTIAL
+GenProp0933	bacillithiol utilization	NO
+GenProp0934	dimethyl sulphone utilization (aerobic)	NO
+GenProp0935	uptake/catabolism system KPN_01854/KPN_01858	NO
+GenProp0936	bacteriocin system, sporulation delay protein group	NO
+GenProp0937	cofactor-coupled enzyme system, CE1758/CE1759 type	NO
+GenProp0938	glycine radical enzyme system, YjjI/YjjW pair	NO
+GenProp0939	rSAM-containing biosynthetic cluster, MSMEG_0568 system	NO
+GenProp0940	metallo-mystery pair	NO
+GenProp0941	TonB-dependent nutrient uptake pairs, RagAB/SusCD type	NO
+GenProp0942	alkane biosynthesis, cyanobacterial	NO
+GenProp0943	pyruvate formate-lyase system	NO
+GenProp0944	cohesin/dockerin (cellulosome-like) system	NO
+GenProp0945	radical SAM maturase bacteriocin system, CLI_3235 type	NO
+GenProp0948	RNA repair, Hen1/Pnkp system	NO
+GenProp0950	4,6-dideoxy-4-oxo-dTDP-D-glucose biosynthesis from glucose-1-phosphate	NO
+GenProp0951	dTDP-3-aminofucose biosynthesis from 4,6-dideoxy-4-oxo-dTDP-D-glucose	NO
+GenProp0952	dTDP-3-deoxy-3-(R)-3-hydroxybutyramino-D-fucose biosynthesis from dTDP-3-aminofucose	NO
+GenProp0953	O103(Ec) antigen biosynthesis	PARTIAL
+GenProp0954	radical SAM-cylized peptide, Pep1357C family	NO
+GenProp0955	modified peptide/radical SAM maturase system, YydFG family	NO
+GenProp0956	radical SAM maturase/selenobacteriocin system	NO
+GenProp0957	protein sorting system, SipW class	NO
+GenProp0958	D-alanyl-lipoteichoic acid biosynthesis	NO
+GenProp0959	radical SAM/uncharacterized protein TIGR04002 system	NO
+GenProp0960	protein sorting system, MYXO-CTERM/unknown of Deltaproteobacteria	NO
+GenProp0961	heme metabolism pair HutWX	NO
+GenProp0962	methanobactin biosynthesis, Mb-OB3b family	NO
+GenProp0964	dTDP-3-acetamidofucose (dTDP-Fuc3NAc) biosynthesis from dTDP-3-aminofucose	PARTIAL
+GenProp0967	radical SAM maturase system, CXXX repeats type	NO
+GenProp0968	O-antigen polymerization/export system wzx/wzy/wzz	PARTIAL
+GenProp0972	dTDP-4-acetamido-4,6-dideoxy-D-galactose (dTDP-Fuc4NAc) biosynthesis	NO
+GenProp0975	biosynthesis of UDP-N-acetyl-D-mannosamine (UDP-ManNAc)	PARTIAL
+GenProp0976	UDP-L-2-acetamidofucose (UDP-L-FucNAc) biosynthesis from UDP-GlcNAc	PARTIAL
+GenProp0977	DNA ligase/helicase system	YES
+GenProp0978	protein sorting system, PGF-CTERM/archaeosortase A	NO
+GenProp0979	protein sorting system, PEF-CTERM/archaeosortase C	NO
+GenProp0980	protein sorting system, putative, exosortase F class	NO
+GenProp0981	radical SAM/lipoprotein system	NO
+GenProp0982	radical SAM maturase system, FibroRumin system	NO
+GenProp0983	protein sorting system, VPXXXP-CTERM/archaeosortase B	NO
+GenProp0984	radical SAM maturase system, GG-Bacteroidales group	NO
+GenProp0985	protein sorting system, VPDSG-CTERM/exosortase C	NO
+GenProp0986	protein sorting system, VPLPA-CTERM/exosortase D	NO
+GenProp0987	protein sorting system, cyano-PEP-CTERM class	NO
+GenProp0988	elongation factor P beta-lysylation	NO
+GenProp0989	protein sorting system, VPEID-CTERM/exosortase E	NO
+GenProp0990	cobaltopeptin biosynthesis	NO
+GenProp0991	ATP-grasp maturase system, microviridin/marinostatin class	NO
+GenProp0992	radical SAM maturase system, methanogen	NO
+GenProp0993	protein sorting system, PIP-CTERM/archaeosortase D	NO
+GenProp0995	Leptospira interrogans LPS associated transketolase	NO
+GenProp0996	protein sorting system, IPTLxxWG-CTERM/exosortase H	NO
+GenProp0997	proposed nine-carbon sugar biosynthesis cassette	NO
+GenProp0998	archaeal class III signal peptide system	NO
+GenProp0999	Por secretion system	NO
+GenProp1000	ATP-grasp maturase system, uncharacterized	NO
+GenProp1002	grasp-with-spasm peptide maturase system	NO
+GenProp1003	cysteine S-glycopeptide biosynthesis, sublancin family	NO
+GenProp1004	light-independent protochlorophyllide reductase	NO
+GenProp1005	protein sorting system, putative, exosortase J class	NO
+GenProp1006	orbivirus protein set	NO
+GenProp1007	orthobunyavirus protein set	NO
+GenProp1008	phlebovirus protein set	NO
+GenProp1009	coronavirus protein set	NO
+GenProp1010	accessory Sec system, Actinobacterial type	NO
+GenProp1011	quorum-sensing system, cyclic peptide-mediated	NO
+GenProp1012	influenzae A virus protein set	NO
+GenProp1013	influenzae B virus protein set	NO
+GenProp1015	dTDP-3-amino-3,6-dideoxy-D-glucose (Qui3N) biosynthesis from 4,6-dideoxy-4-oxo-dTDP-D-glucose	NO
+GenProp1016	seadornavirus protein set	NO
+GenProp1017	GDP-D-mannose biosynthesis from b-D-fructose-6-phosphate	PARTIAL
+GenProp1018	O8(Ec) antigen biosynthesis	PARTIAL
+GenProp1019	O9(Ec) antigen biosynthesis	PARTIAL
+GenProp1021	dTDP-3-hydroxybutyramidoquinovose (dTDP-D-Qui3NAcyl) biosynthesis from dTDP-3-aminoquinovose (dTDP-D-Qui3N)	NO
+GenProp1022	adenovirus protein set	NO
+GenProp1026	nodulation factor production	NO
+GenProp1028	nitrous-oxide reductase	PARTIAL
+GenProp1029	radical SAM/SPASM system SynChlorMet	NO
+GenProp1031	O76(Ec) antigen biosynthesis	PARTIAL
+GenProp1032	dTDP-4-dehydro-L-rhamnose biosynthesis from 4,6-dideoxy-4-oxo-dTDP-D-glucose	NO
+GenProp1033	dTDP-6-deoxy-L-talose biosynthesis from dTDP-4-dehydro-L-rhamnose	NO
+GenProp1034	decarboxylation/antiport proton-motive cycle: oxalate-formate	NO
+GenProp1035	O113(Ec) antigen biosynthesis	PARTIAL
+GenProp1037	radical SAM/SPASM system GRRM	NO
+GenProp1040	dTDP-D-viosamine (dTDP-DQui4N) biosynthesis from 4,6-dideoxy-4-oxo-dTDP-D-glucose	NO
+GenProp1043	O145(Ec) antigen biosynthesis	PARTIAL
+GenProp1044	Transposon components	PARTIAL
+GenProp1046	O153(Ec)-antigen biosynthesis	NO
+GenProp1047	O101(Ec) antigen biosynthesis	NO
+GenProp1050	dTDP-3-acetamido-3,6-dideoxy-D-glucose (D-Qui3NAc) biosynthesis from dTDP-3-amino-3,6-dideoxy-D-glucose (Qui3N)	NO
+GenProp1052	geopeptide radical SAM/SPASM maturase system	NO
+GenProp1053	rSAM/selenodomain system	PARTIAL
+GenProp1054	protein sorting system, MSEP-CTERM/exosortase K	NO
+GenProp1055	protein sorting system, PEFG-CTERM/thaumarchaeosortase	NO
+GenProp1056	rhizo-twelve system	NO
+GenProp1057	radical SAM/SPASM system GeoRSP	NO
+GenProp1058	2,3-dihydroxybenzoate biosynthesis	NO
+GenProp1059	coronavirus, version 1	NO
+GenProp1060	tRNA N6-threonylcarbamoyladenosine modification	YES
+GenProp1061	CRISPR system, PreFran subtype	PARTIAL
+GenProp1062	radical SAM/SPASM system Clo7bot	NO
+GenProp1063	Memo/AMMECR1/rSAM family trio system	NO
+GenProp1064	ovothiol biosynthesis	NO
+GenProp1065	radical SAM/SPASM TIGR04347/TIGR04031 system	NO
+GenProp1066	uncharacterized cassette GAK (Grasp, Amphipathic, Kinase)	NO
+GenProp1068	FxS-tail radical SAM-containing system	NO
+GenProp1069	FxLD lantipeptide system	NO
+GenProp1070	beta-glutamate biosynthesis	NO
+GenProp1071	myo-inositol catabolism	NO
+GenProp1072	cyanase system	PARTIAL
+GenProp1074	type V secretion	NO
+GenProp1075	ferrous iron transport Feo system	NO
+GenProp1076	choline TMA-lyase system	NO
+GenProp1077	tRNA(Pro) cmo5UGG modification	NO
+GenProp1078	sporulation killing factor system	NO
+GenProp1079	Lpt lipopolysaccharide export transenvelope protein complex	PARTIAL
+GenProp1080	protein O-heptosyltransferase with autotransporter target	NO
+GenProp1081	replication restart, PriA/PriB primosome pathway	PARTIAL
+GenProp1082	16S rRNA C1402 m(4)Cm modification	YES
+GenProp1083	cyanobactin-like ribosomal natural product biosynthesis	NO
+GenProp1084	enduracididine biosynthesis	NO
+GenProp1085	pyranoside core peptidyl nucleoside antibiotic biosynthesis	NO
+GenProp1086	Firmicutes/Treponema mobile radical SAM system	NO
+GenProp1087	protein sorting system, vault protein/exosortase N	NO
+GenProp1088	thiosulfate oxidation to sulfate	NO
+GenProp1089	B12-dependent trimeric diol/glycerol dehydratase	NO
+GenProp1090	radical SAM/SPASM maturase system XYE	NO
+GenProp1091	toxin-antitoxin system, type I	NO
+GenProp1092	toxin-antitoxin system, type III	NO
+GenProp1093	abortive infection proteins	NO
+GenProp1094	energy-coupling factor transporters	NO
+GenProp1095	exodeoxyribonuclease VII	YES
+GenProp1096	coenzyme B biosynthesis	NO
+GenProp1097	bacimethrin biosynthesis	NO
+GenProp1098	3-methylarginine biosynthesis	NO
+GenProp1099	8-oxoguanine DNA repair	PARTIAL
+GenProp1100	mobile element associated three-Cys-motif pair	NO
+GenProp1101	quinoprotein cytochrome relay system	NO
+GenProp1102	protein sorting system, CGP-CTERM/unknown of Thermococcaceae	NO
+GenProp1103	protein sorting system, Synergist-CTERM/unknown of Synergistetes	NO
+GenProp1104	acyl carrier protein phosphopantetheinylation	YES
+GenProp0016	selenocysteine system	NO
+GenProp0029	nitrogen fixation	NO
+GenProp0033	TCA cycle	PARTIAL
+GenProp0046	IPP biosynthesis	YES
+GenProp0125	lysine biosynthesis via diaminopimelate (DAP)	YES
+GenProp0144	chlorophyllide a biosynthesis from protoporphyrin IX	NO
+GenProp0158	peptidoglycan(murein) biosynthesis	PARTIAL
+GenProp0183	dTDP-L-rhamnose biosynthesis from dTDP-4-dehydro-L-rhamnose	NO
+GenProp0199	lysine biosynthesis	YES
+GenProp0204	KDO(2)-lipid A (Re LPS) biosynthesis and delivery	PARTIAL
+GenProp0219	spermidine biosynthesis from arginine (via agmatine)	PARTIAL
+GenProp0279	cobalt import systems	NO
+GenProp0285	flagella, bacterial type	PARTIAL
+GenProp0287	ribonucleotide reduction	PARTIAL
+GenProp0479	acetate -- acetyl-CoA interconversions	PARTIAL
+GenProp0616	single complex oxygen reduction and quinone re-oxidation	YES
+GenProp0681	fatty acid biosynthesis from acetyl-CoA	YES
+GenProp0686	allantoin catabolism to glyoxalate and urea	PARTIAL
+GenProp0687	allantoin catabolism to oxamate and carbamoyl-phosphate	PARTIAL
+GenProp0691	glycolysis	PARTIAL
+GenProp0700	purine catabolism via urate, xanthine and allantoin	YES
+GenProp0713	2-aminoethylphosphonate catabolism via phosphonoacetate	NO
+GenProp0720	2-aminoethylphosphonate utilization	NO
+GenProp0725	outer membrane protein assembly complex	YES
+GenProp0729	methionine salvage from methylthioadenosine	PARTIAL
+GenProp0755	pyruvate conversion to propionate, anaerobic, FAD/NAD-regenerating	PARTIAL
+GenProp0791	coenzyme F420 biosynthesis	NO
+GenProp0833	proteasome-targeting modification by pupylation	NO
+GenProp0891	coenzyme M biosynthesis	NO
+GenProp0925	Leptospira core LPS elements	PARTIAL
+GenProp0930	GDP-4-keto-6-deoxymannose biosynthesis from b-D-fructose-6-phosphate	YES
+GenProp0931	colanic acid biosynthesis	PARTIAL
+GenProp0946	GDP-L-colitose biosynthesis	PARTIAL
+GenProp0947	O55(Ec) antigen biosynthesis	PARTIAL
+GenProp0949	O111(Ec) antigen biosynthesis	PARTIAL
+GenProp0963	O2(Ec) antigen biosynthesis	PARTIAL
+GenProp0969	biosynthesis of UDP-N-acetyl-D-mannosaminuronic acid (UDP-ManNAcA)	YES
+GenProp0971	biosynthesis of undecaprenyl phosphate (Und-P)	PARTIAL
+GenProp0974	O26(Ec) antigen biosynthesis	PARTIAL
+GenProp0994	Leptospira interrogans-specific LPS components	NO
+GenProp1014	O5(Ec) antigen biosynthesis	NO
+GenProp1020	O91(Ec) antigen biosynthesis	NO
+GenProp1024	GDP-L-fucose biosynthesis from GDP-4-keto-6-deoxy-D-mannose	PARTIAL
+GenProp1025	GDP-D-perosamine biosynthesis from GDP-4-keto-6-deoxy-D-mannose	PARTIAL
+GenProp1027	GDP-4-acetamido-D-rhamnose (D-Rha4NAc) biosynthesis from D-perosamine	PARTIAL
+GenProp1030	O88(Ec) antigen biosynthesis	PARTIAL
+GenProp1036	O11(Ec) antigen biosynthesis	PARTIAL
+GenProp1039	dTDP-4-N-acetylglycylamido-D-quinovose (dTDP-Qui4NAcGly) biosynthesis from dTDP-D-viosamine	NO
+GenProp1042	O128(Ec) antigen biosynthesis	PARTIAL
+GenProp1045	O147(Ec) antigen biosynthesis	NO
+GenProp1049	O1(Ec) antigen biosynthesis	PARTIAL
+GenProp1051	O10(Ec) antigen biosynthesis	NO
+GenProp0002	coenzyme F420 utilization	NO
+GenProp0241	phosphonate catabolism	YES
+GenProp0274	coenzyme B12 biosynthesis - overview	PARTIAL
+GenProp0612	aerobic electron transfer (transport) chain, ETC	YES
+GenProp0970	biosynthesis of Und-PP-GlcNAc	PARTIAL
+GenProp0973	Enterobacterial common antigen (ECA)	PARTIAL
+GenProp1023	O157(Ec) antigen biosynthesis	PARTIAL
+GenProp1038	O121(Ec) antigen biosynthesis	NO
+GenProp0611	aerobic respiration	YES
+GenProp0913	E. coli O-antigen monomer biosynthesis clusters	YES
+GenProp0966	E. coli O-antigen biosynthesis	YES
+GenProp0001	chorismate biosynthesis via shikimate	PARTIAL
+GenProp0010	inteins	NO
+GenProp0014	polyketide biosynthesis, type I	NO
+GenProp0021	CRISPR region	YES
+GenProp0023	glyoxylate shunt	PARTIAL
+GenProp0030	glutathione biosynthesis	YES
+GenProp0036	biotin biosynthesis	PARTIAL
+GenProp0037	tryptophan biosynthesis from ribose-5-phosphate	YES
+GenProp0038	tetrahydrofolate biosynthesis from GTP and PABA	PARTIAL
+GenProp0039	phenylalanine biosynthesis from chorismate	PARTIAL
+GenProp0040	thiotemplate type non-ribosomal peptide biosynthesis	NO
+GenProp0045	tyrosine biosynthesis from chorismate	PARTIAL
+GenProp0047	IPP biosynthesis via mevalonate	PARTIAL
+GenProp0048	IPP biosynthesis via deoxyxylulose	PARTIAL
+GenProp0051	urease	NO
+GenProp0052	type III secretion	PARTIAL
+GenProp0053	type II secretion	PARTIAL
+GenProp0055	polyhydroxyalkanoic acids	YES
+GenProp0057	NAD(P) biosynthesis from L-aspartate and DHAP	YES
+GenProp0058	menaquinone biosynthesis via SEPHCHC	PARTIAL
+GenProp0059	type I secretion	PARTIAL
+GenProp0061	lipoprotein system lgt/lsp/lnt	YES
+GenProp0109	histidine biosynthesis from ribose-5-phosphate	PARTIAL
+GenProp0110	purine (inosine-5'-phosphate) biosynthesis from ribose-5-phosphate	YES
+GenProp0111	proline biosynthesis from glutamate	YES
+GenProp0112	riboflavin, FAD and FMN from GTP and ribulose-5-P	PARTIAL
+GenProp0113	cobyrinic acid diamide biosynthesis, aerobic pathway	PARTIAL
+GenProp0114	nucleotide excision repair	YES
+GenProp0117	arginine biosynthesis from ornithine, carbamoyl-p and aspartate	PARTIAL
+GenProp0118	ornithine biosynthesis from glutamate, acetylated branch	PARTIAL
+GenProp0119	PTS transport system	PARTIAL
+GenProp0120	pentose phosphate cycle	PARTIAL
+GenProp0124	pantothenate biosynthesis from aspartate and 2-oxoisovalerate	YES
+GenProp0127	Tat (Sec-independent) protein export	PARTIAL
+GenProp0312	pyrrolysine	NO
+GenProp0128	F1/F0 ATPase	YES
+GenProp0129	Na+-translocating NADH-quinone reductase	NO
+GenProp0130	Rnf-type electron transport complex	NO
+GenProp0132	transcription termination - antitermination Nus factors	YES
+GenProp0135	NADH dehydrogenase I	YES
+GenProp0136	ubiquinone biosynthesis from chorismate, aerobic	YES
+GenProp0137	iron-sulfur cluster assembly SUF system	YES
+GenProp0138	iron-sulfur cluster assembly iscSUA-hscBA-fdx system	NO
+GenProp0139	degradation of tyrosine via homogentisate	PARTIAL
+GenProp0141	galactose-6-phosphate degradation via tagatose-6-phosphate	NO
+GenProp0143	Leloir pathway (galactose/glucose interconversion)	PARTIAL
+GenProp0145	histidine degradation to glutamate	NO
+GenProp0146	bacteriochlorophyll biosynthesis from chlorophyllide a	NO
+GenProp0147	glycine betaine biosynthesis from choline	NO
+GenProp0148	release factor 2 programmed frameshift	NO
+GenProp0149	sulfate reduction to sulfide, assimilatory	PARTIAL
+GenProp0150	chlorophyll biosynthesis from chlorophyllide a	NO
+GenProp0151	resistance to mercury	PARTIAL
+GenProp0155	dissimilatory sulfate reduction	NO
+GenProp0156	cyanophycin-like storage polymers	NO
+GenProp0159	threonine biosynthesis from aspartate semialdehyde	YES
+GenProp0160	aspartate semialdehyde biosynthesis from aspartate	YES
+GenProp0161	methionine biosynthesis from homoserine	PARTIAL
+GenProp0162	isoleucine biosynthesis from threonine and pyruvate	PARTIAL
+GenProp0163	valine biosynthesis from pyruvate	PARTIAL
+GenProp0164	leucine biosynthesis from pyruvate and acetyl-CoA	PARTIAL
+GenProp0165	minCDE system	NO
+GenProp0166	mreBCD system	PARTIAL
+GenProp0168	glycogen system	NO
+GenProp0169	hybrid NRPS-PKS natural pruduct biosynthesis genes	NO
+GenProp0170	coenzyme PQQ biosynthesis	PARTIAL
+GenProp0171	coenzyme A biosynthesis from pantothenate	PARTIAL
+GenProp0172	Potassium-transporting ATPase KdpFABC	NO
+GenProp0174	ribosome, bacterial, large subunit	YES
+GenProp0175	ribosome, bacterial, small subunit	YES
+GenProp0176	TRAP-T (tripartite ATP-independent periplasmic transporters) family transporters	YES
+GenProp0177	nickel-dependent hydrogenase	NO
+GenProp0178	glycine cleavage system	YES
+GenProp0182	reduction of oxidized methionine	YES
+GenProp0187	pyrimidine (uridine-5'-phosphate) de novo biosynthesis	YES
+GenProp0188	GatABC aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase complex	YES
+GenProp0189	tRNA-Gln direct aminoacylation	NO
+GenProp0190	phosphate ABC transporter (pstSCAB-phoU)	PARTIAL
+GenProp0191	sulfate/thiosulfate ABC transporter	NO
+GenProp0192	molybdate ABC transporter	NO
+GenProp0193	lysine biosynthesis via alpha-aminoadipate (AAA pathway)	PARTIAL
+GenProp0194	siroheme biosynthesis from uroporphrinogen-III	YES
+GenProp0198	ruvABC Holliday junction complex	PARTIAL
+GenProp0200	periplasmic nitrate reductase	NO
+GenProp0201	SMC-ScpA-ScpB complex	PARTIAL
+GenProp0203	LPS inner core biosynthesis, ketodeoxyoctonate and heptose type	PARTIAL
+GenProp0205	signal recognition system, bacterial	PARTIAL
+GenProp0206	bacterial cell division septum system	PARTIAL
+GenProp0207	lipoprotein localization system lolABCDE	PARTIAL
+GenProp0208	phage: major features	PARTIAL
+GenProp0209	Sec system preprotein translocase	YES
+GenProp0210	phenylacetic acid catabolism	NO
+GenProp0211	tmRNA trans-translation system	PARTIAL
+GenProp0213	Resistance to Reactive Oxygen Species (ROS)	YES
+GenProp0214	acetyl-CoA carboxylase complex	YES
+GenProp0215	SOS response	YES
+GenProp0216	recBCD pathway	NO
+GenProp0217	5-aminolevulinate biosynthesis (glutamate pathway)	PARTIAL
+GenProp0218	cysteine biosynthesis from serine	YES
+GenProp0220	uroporhyrinogen III biosynthesis from 5-aminolevulinate	YES
+GenProp0221	protoporphyrin IX biosynthesis from uroporphyrinogen III	PARTIAL
+GenProp0222	protoheme from protoporphyrin IX	YES
+GenProp0223	5-aminolevulinate biosynthesis from succinyl-CoA and glycine	YES
+GenProp0225	mismatch repair	YES
+GenProp0226	integron	NO
+GenProp0229	transcription-coupled nucleotide excision repair	YES
+GenProp0231	4-hydroxyphenylacetate degradation	NO
+GenProp0232	phosphonates C-P lyase system	PARTIAL
+GenProp0233	GABA utilization	PARTIAL
+GenProp0236	phosphonates ABC transport	NO
+GenProp0238	2-aminoethylphosphonate catabolism to acetaldehyde	NO
+GenProp0240	propionyl-CoA catabolism via methylcitric acid	PARTIAL
+GenProp0244	chaperone system: DnaK-DnaJ-GrpE	YES
+GenProp0245	chaperone system: GroEL/GroES	YES
+GenProp0246	chaperone system: thermosome/prefoldin	NO
+GenProp0250	thiamine: hydroxyethylthiazole from 1-deoxy-D-xylulose-5-phosphate, cysteine, either Tyr or Gly	PARTIAL
+GenProp0251	clpXP degradation machine	PARTIAL
+GenProp0252	thiamine/TPP ABC transporter ThiBPQ	NO
+GenProp0253	thiamine: hydroxymethylpyrimidine pyrophosphate from aminoimidazole ribotide	YES
+GenProp0254	thiamine: TPP from HMP-PP and HET-P	YES
+GenProp0255	5-aminolevulinate biosynthesis	YES
+GenProp0258	tRNA aminoacylation	PARTIAL
+GenProp0259	tRNA-Asn direct aminoacylation	PARTIAL
+GenProp0262	RNA polymerase, bacterial	YES
+GenProp0263	DNA polymerase III, bacterial	PARTIAL
+GenProp0264	glucosylglycerol biosynthesis	PARTIAL
+GenProp0265	trehalose biosynthesis, OtsAB pathway	NO
+GenProp0266	trehalose biosynthesis, TreYZ pathway	NO
+GenProp0268	ectoine biosynthesis	NO
+GenProp0269	coenzyme B12 biosynthesis from cob(II)yrinate diamide	PARTIAL
+GenProp0271	trehalose utilization	NO
+GenProp0272	pyruvate fermentation to acetoin	NO
+GenProp0273	protocatechuate degradation to beta-ketoadipate	NO
+GenProp0275	cobyrinic acid diamide biosynthesis, anaerobic pathway	PARTIAL
+GenProp0277	cobalt import system (ABC transporter: 3.A.1.18.1)	NO
+GenProp0280	cobalt import system (CbtAB - proposed)	NO
+GenProp0281	mannosylglycerate biosynthesis	NO
+GenProp0283	beta-ketoadipate degradation to succinyl-CoA and acetyl-CoA	YES
+GenProp0288	tetrahydromethanopterin S-methyltransferase complex	NO
+GenProp0289	class I (aerobic) ribonucleotide reductase	PARTIAL
+GenProp0290	class II (B12-dependent) ribonucleotide reductase	YES
+GenProp0291	class III (anaerobic) ribonucleotide reductase	NO
+GenProp0292	ethanolamine degradation organelle	PARTIAL
+GenProp0294	ethanolamine degradation proteinaceous organelle	PARTIAL
+GenProp0295	prokaryotic N-terminal cleavage/methylation, type IV pilin-like	YES
+GenProp0304	cysteine biosynthesis, tRNA-dependent	NO
+GenProp0305	cysteine biosynthesis	YES
+GenProp0309	arginine catabolism to glutamate via arginine succinyltransferase (AST)	NO
+GenProp0310	CRISPR system, I-F/Ypest subtype	NO
+GenProp0311	competence-related genes	NO
+GenProp0313	CRISPR system, I-C/Dvulg subtype	YES
+GenProp0314	CRISPR system, II/Nmeni subtype	PARTIAL
+GenProp0315	CRISPR system, I-E/Ecoli subtype	PARTIAL
+GenProp0316	CRISPR system, III-B/RAMP module subtype	NO
+GenProp0317	CRISPR system, I-B subtype, Tneap branch	PARTIAL
+GenProp0318	CRISPR system, III-A/Mtube subtype	PARTIAL
+GenProp0319	CRISPR system, I-A/Apern subtype	PARTIAL
+GenProp0320	CRISPR system, I-B subtype, Hmari branch	PARTIAL
+GenProp0321	toxin-antitoxin system, type II	YES
+GenProp0322	addiction module, hig class	NO
+GenProp0323	addiction module, ParE class	NO
+GenProp0324	addiction module, RelE-RelB class	NO
+GenProp0326	protein sorting system, PEP-CTERM/exosortase (generic)	PARTIAL
+GenProp0453	uncharacterized gene pair TIGR02612/TIGR02613	NO
+GenProp0455	restriction enzyme system, type I	PARTIAL
+GenProp0456	attenuation system: tryptophanase	NO
+GenProp0457	rhamnose catabolism	PARTIAL
+GenProp0458	fucose catabolism	PARTIAL
+GenProp0459	D-xylose utilization (conversion to D-xylulose-5-phosphate)	PARTIAL
+GenProp0460	gas vesicle	NO
+GenProp0461	utilization of deoxynucleosides	NO
+GenProp0465	circadian clock system KaiABC	NO
+GenProp0466	molybdopterin biosynthesis	PARTIAL
+GenProp0468	Entner-Doudoroff pathway	NO
+GenProp0469	CRISPR system, Dpsyc subtype	PARTIAL
+GenProp0470	sporadically distributed four-gene operon	NO
+GenProp0471	uncharacterized gene pair TIGR02683/TIGR02684	NO
+GenProp0472	uncharacterized gene pair TIGR02687/TIGR02688	YES
+GenProp0473	arsenite oxidase	NO
+GenProp0474	arsenical resistance system	PARTIAL
+GenProp0476	protein-coding palindromic elements	NO
+GenProp0477	copper resistance system: CopZA	PARTIAL
+GenProp0478	acetyl-CoA -- acetate interconversion via acetyl phosphate	NO
+GenProp0480	acetyl-CoA biosynthesis from acetate, direct	YES
+GenProp0481	urea carboxylase/allophanate hydrolase pathway	NO
+GenProp0482	6S RNA (eubacterial RNA polymerase regulator)	PARTIAL
+GenProp0483	cytochrome c oxidase, cbb3-type	NO
+GenProp0484	F-type conjugation system (type IV secretion) specific components	PARTIAL
+GenProp0485	F and P-type conjugation systems (type IV secretion), common components	PARTIAL
+GenProp0487	repABC-type alpha-proteobacterial replicon(s)	PARTIAL
+GenProp0488	superoxide dismutase, nickel-type	NO
+GenProp0489	F-type conjugation system	YES
+GenProp0490	Ti-type conjugation system	PARTIAL
+GenProp0491	recFOR recombination pathway	YES
+GenProp0492	nonhomologous end-joining, bacterial type	NO
+GenProp0493	addAB pathway	YES
+GenProp0494	nickel import ABC transporter	NO
+GenProp0542	Tol-Pal system	PARTIAL
+GenProp0543	TonB-dependent transport	PARTIAL
+GenProp0562	formaldehyde detoxification, glutathione-dependent	YES
+GenProp0610	endospore formation marker gene set	NO
+GenProp0613	cytochrome c reductase	YES
+GenProp0614	cytochrome c oxidase, mitochondrial, caa3-type	PARTIAL
+GenProp0615	cytochrome c based oxygen reduction and quinone re-oxidation	YES
+GenProp0617	cytochrome (quinone) oxidase, bd type	YES
+GenProp0618	cytochrome (quinone) oxidase, bo type	PARTIAL
+GenProp0620	cytochrome (quinone) oxidase, aa3 type, QoxABCD	NO
+GenProp0623	NADH dehydrogenase, Sno(Mnh)ABCDEFG)	PARTIAL
+GenProp0624	sulfite reductase complex, Salmonella/Clostridium type	NO
+GenProp0626	protein sorting system, sortase type, LPXTG/SrtA class	NO
+GenProp0627	gene pair involved in iron and oxygen metabolism	NO
+GenProp0629	A1/A0 ATPase	NO
+GenProp0630	2-oxoglutarate dehydrogenase system	YES
+GenProp0631	nitrogenase, Fe-only	NO
+GenProp0632	nitrogenase, V-containing	NO
+GenProp0633	nitrogenase, Mo-containing	NO
+GenProp0634	Sigma-54 (RpoN) systems	YES
+GenProp0636	respiratory nitrate reductase	NO
+GenProp0637	anaerobic dimethyl sulfoxide reductase	NO
+GenProp0638	trimethylamine N-oxide reductase system	NO
+GenProp0639	arginine degradation via citrulline, ATP-generating	NO
+GenProp0640	xanthine dehydrogenase	YES
+GenProp0641	spermidine biosynthesis from putrescine and S-adenosylmethionine	YES
+GenProp0642	putrescine biosynthesis from arginine utilizing agmatinase	NO
+GenProp0643	putrescine biosynthesis from arginine via ornithine	NO
+GenProp0644	putrescine biosynthesis from glutamate via ornithine	PARTIAL
+GenProp0645	putrescine biosynthesis	YES
+GenProp0648	phage shock protein regulon	NO
+GenProp0649	heterocyst-related ABC exporter DevBCA	NO
+GenProp0650	type II restriction system,  Alw26I/Eco31I/Esp3I family	NO
+GenProp0651	ectoine ABC transporter EhuABCD	NO
+GenProp0652	exopolysaccharide biosynthesis, exosortase A-associated	PARTIAL
+GenProp0653	ectoine catabolism	NO
+GenProp0654	intracellular sulfur oxidation	NO
+GenProp0655	exopolysaccharide biosynthesis, exosortase B-associated	NO
+GenProp0658	cellulose biosynthesis	NO
+GenProp0659	tryptophan degradation to anthranilate	NO
+GenProp0660	photosystem I	NO
+GenProp0661	photosystem II	NO
+GenProp0662	photosynthetic reaction center, alphaproteobacterial type	NO
+GenProp0663	Verrucomicrobium/Chthoniobacter four-plus-PEP_CTERM cassette	NO
+GenProp0664	protein sorting system, sortase type, SrtB class	NO
+GenProp0665	peptide chain release operon, RctB-like/PrfH	NO
+GenProp0666	membrane-associated monooxygenase (methane/ammonia)	NO
+GenProp0668	acetyltransferase/synthase/peptidase cassette	NO
+GenProp0669	protein sorting system, putative, exosortase G class	NO
+GenProp0670	CRISPR system, Aferr subtype	NO
+GenProp0671	H4MPT-linked C1 transfer pathway	NO
+GenProp0672	citrate lyase system	NO
+GenProp0673	ribulose monophosphate pathway	NO
+GenProp0674	malonate decarboxylase	NO
+GenProp0676	alkylhydroperoxide reductase AhpCF (peroxiredoxin)	NO
+GenProp0677	queuosine (Q-tRNA) biosynthesis from preQ0	YES
+GenProp0678	c-type cytochrome biogenesis, system I	PARTIAL
+GenProp0680	c-type cytochrome biogenesis, system II	NO
+GenProp0682	formate-dependent nitrite reductase, seven-gene type	NO
+GenProp0683	cytochrome c nitrite reductase NrfHA	NO
+GenProp0684	FtsH/HflKC protease complex	PARTIAL
+GenProp0685	CRISPR system, I-D/Cyano subtype	PARTIAL
+GenProp0688	urate catabolism to allantoin	PARTIAL
+GenProp0689	glyoxalate conversion to phosphoglycerate	NO
+GenProp0690	F1F0 ATPase, Methanosarcina type	NO
+GenProp0692	selenouridine-containing tRNA	NO
+GenProp0693	fructose utilization as fructose-1,6-bisphosphate	PARTIAL
+GenProp0694	glucose utilization as fructose-1,6-bisphosphate	PARTIAL
+GenProp0695	cytochrome b558/566	NO
+GenProp0696	xanthine utilization as a source of guanine-monophosphate (GMP)	PARTIAL
+GenProp0697	guanine monophosphate (GMP) biosynthesis from inosine monophosphate (IMP)	YES
+GenProp0698	xanthine catabolism to urate	YES
+GenProp0699	DNA gyrase	YES
+GenProp0701	DNA sulfur modification system dnd	PARTIAL
+GenProp0702	benzoyl-CoA reductase	NO
+GenProp0703	4-hydroxybenzoyl-CoA reductase	NO
+GenProp0704	tRNA U34 carboxymethylaminomethyl modification	PARTIAL
+GenProp0705	xanthine dehydrogenase, bacillus type (pucABCDE)	PARTIAL
+GenProp0706	cyclohexa-1,5-diene-1-carbonyl-CoA to 3-hydroxypimelyl-CoA, dch/had/oah pathway	NO
+GenProp0707	botulinum toxin system	NO
+GenProp0708	catechol meta-cleavage pathway	NO
+GenProp0709	benzoate catabolism BoxABC pathway	NO
+GenProp0710	generic phosphonates utilization	PARTIAL
+GenProp0711	catechol ortho-cleavage upper pathway	NO
+GenProp0712	2-aminoethylphosphonate (AEP) ABC transporter, type I, PhnSTUV	NO
+GenProp0714	galactarate utilization via tartronate semi-aldehyde	PARTIAL
+GenProp0715	galactarate utilization via 2-oxoglutarate semialdehyde	PARTIAL
+GenProp0716	glucarate utilization via tartronate semi-aldehyde	NO
+GenProp0717	glucarate utilization via 2-oxoglutarate semialdehyde	PARTIAL
+GenProp0718	oxalate degradation	NO
+GenProp0719	methyl-coenzyme M reductase	NO
+GenProp0721	2-aminoethylphosphonate (AEP) ABC transporter, type II	NO
+GenProp0722	methanogenesis marker set	NO
+GenProp0723	hydrogenase, nickel and F420-dependent	NO
+GenProp0724	phosphonoacetaldehyde biosynthesis from phosphoenolpyruvate	PARTIAL
+GenProp0726	selenium-dependent molybdenum hydroxylase system	NO
+GenProp0728	AMP metabolism using type III Rubisco	NO
+GenProp0730	methylthioadenosine to methylthioribose-1-phosphate via MTR	PARTIAL
+GenProp0732	methionine salvage enolase-phosphate pair MtnW/MtnX	NO
+GenProp0735	type VI secretion	NO
+GenProp0736	proposed phosphonate catabolism pathway HpnWXZ	NO
+GenProp0737	anaerobic glycerol-3-phosphate dehydrogenase complex	NO
+GenProp0738	agmatine to putrescine via N-carbamoylputrescine	NO
+GenProp0739	iron-sulfur cluster assembly CsdA-CsdE system	NO
+GenProp0740	translation initiation, bacterial	YES
+GenProp0741	translation elongation, bacterial	YES
+GenProp0742	iron-sulfur cluster assembly NIF system	NO
+GenProp0743	urea ABC transporter UrtABCDE	NO
+GenProp0744	glyoxalase pathway, glutathione dependent	PARTIAL
+GenProp0745	lipoyl-protein attachment	YES
+GenProp0746	translation termination, bacterial	PARTIAL
+GenProp0747	adenosine monophosphate (AMP) biosynthesis from inosine monophosphate (IMP)	YES
+GenProp0748	choline ABC transporter, ChoXWV family	NO
+GenProp0749	choline sulfate utilization	NO
+GenProp0750	UDP-N-acetylglucosamine biosynthesis from fructose-6-phosphate	YES
+GenProp0751	Acidobacterial ADOP/PadR gene pairs	NO
+GenProp0752	ergothioneine biosynthesis	YES
+GenProp0753	mycothiol biosynthesis	NO
+GenProp0754	acetate production from acetylphosphate	NO
+GenProp0756	fumarate reductase complex	PARTIAL
+GenProp0757	quorum-sensing, autoinducer-2 system	PARTIAL
+GenProp0758	lycopene biosynthesis from IPP	YES
+GenProp0759	para-aminobenzoic acid (PABA) biosynthesis from chorismate	NO
+GenProp0760	putrescine degradation to GABA via gamma-glutamylation	NO
+GenProp0761	hopanoid lipid biosynthesis	NO
+GenProp0762	chemotaxis response-regulator system	PARTIAL
+GenProp0763	nicotinate fermentation to pyruvate and propionate	NO
+GenProp0764	DMSO reductase family type II enzyme	NO
+GenProp0765	glycerol fermentation to  1,3-propanediol, using glycerol dehydratase	NO
+GenProp0766	anhydro-N-acetylmuramic acid to N-acetylglucosamine-phosphate	PARTIAL
+GenProp0767	very short patch repair	NO
+GenProp0768	CRISPR system, Pging subtype	PARTIAL
+GenProp0769	Neisseria lipooligosaccharide, lacto-N-neotetraose biosynthesis	NO
+GenProp0771	enterobactin (enterochelin) biosynthesis	NO
+GenProp0772	yersiniabactin biosynthesis	NO
+GenProp0773	aerobactin biosynthesis	NO
+GenProp0774	ferric citrate transport system	NO
+GenProp0775	mycobactin biosynthesis	NO
+GenProp0776	pyochelin biosynthesis	NO
+GenProp0777	staphylobactin biosynthesis	NO
+GenProp0778	protein sorting system, GlyGly-CTERM/rhombosortase	NO
+GenProp0779	Shewanella-type decaheme system	NO
+GenProp0780	xanthosine utilization system XapABR	NO
+GenProp0781	gliding motility, Bacteroidetes type	NO
+GenProp0783	petrobactin biosynthesis	NO
+GenProp0784	carbon fixation via 3-hydroxypropionate and 4-hydroxybutyrate	NO
+GenProp0786	lysine biosynthesis via diaminopimelate (DAP), succinylated branch	PARTIAL
+GenProp0787	lysine biosynthesis via diaminopimelate (DAP), acetylated branch	NO
+GenProp0788	lysine biosynthesis via diaminopimelate (DAP) utilizing ammonia and NADPH	PARTIAL
+GenProp0789	homocysteine regeneration from S-adenosylhomocysteine	YES
+GenProp0790	sporadic pair TIGR03545/TIGR03546	NO
+GenProp0792	7,8-didemethyl-8-hydroxy-5-deazariboflavin (FO) biosynthesis	NO
+GenProp0793	CMP-N-acetylneuraminate biosynthesis from UDP-N-acetylglucosamine	PARTIAL
+GenProp0794	proposed N-acetyl sugar amidation module WbuXYZ	PARTIAL
+GenProp0796	CMP-pseudaminic acid biosynthesis from UDP-N-acetylglucosamine	PARTIAL
+GenProp0797	selenocysteinyl-tRNA, PSTK/SepSecS pathway	NO
+GenProp0798	Enterococcus/Aeromonas extended locus	NO
+GenProp0799	bacterial core gene set, exactly 1 per genome	PARTIAL
+GenProp0800	bacterial core gene set, 1 or more per genome	YES
+GenProp0802	ribosome biogenesis proteins, bacteria	YES
+GenProp0806	replication initiation, bacterial	PARTIAL
+GenProp0807	bacteriocin system, heterocycle biosynthesis group	NO
+GenProp0808	bacteriocin system, TIGR01847 leader group	NO
+GenProp0809	bacteriocin system, lactococcin 972 group	NO
+GenProp0810	encapsulin proteinaceous organelle	NO
+GenProp0811	S-layer homology domain-mediated cell wall binding	NO
+GenProp0812	rho-dependent termination	YES
+GenProp0813	pyrimidine utilization  operon, RutABCDEFGR	PARTIAL
+GenProp0814	urea utilization	NO
+GenProp0815	archaeal-only core gene set	NO
+GenProp0821	putative Na:solute symporter two-gene cassette	YES
+GenProp0822	poly(gamma-glutamic acid) biosynthesis	NO
+GenProp0823	violacein biosynthesis	NO
+GenProp0825	bacteriocin system, circular bacteriocin group	NO
+GenProp0828	heme uptake system, NEAT-domain mediated	PARTIAL
+GenProp0829	menaquinone biosynthesis via futalosine	NO
+GenProp0830	integral membrane mystery pair	NO
+GenProp0831	archaeal core gene set, exactly 1 per genome	PARTIAL
+GenProp0832	archaeal core gene set, 1 or more per genome	PARTIAL
+GenProp0834	proteasome, bacterial	NO
+GenProp0835	ATP-dependent protease HslVU	YES
+GenProp0836	menaquinone biosynthesis	YES
+GenProp0837	1-acylglycerol-3-phosphate biosynthesis, PlsX/Y pathway	YES
+GenProp0839	2-oxoacid:ferredoxin oxidoreductase, multisubunit form	PARTIAL
+GenProp0840	polyphosphate kinase/exopolyphosphatase system	YES
+GenProp0841	2-oxoacid:ferredoxin oxidoreductase	YES
+GenProp0842	2-oxoacid:acceptor oxidoreductase, 2 subunit form	PARTIAL
+GenProp0844	accessory Sec system for serine-rich glycoprotein transport	NO
+GenProp0845	protein sorting system, KxYKxGKxW class	NO
+GenProp0847	exosporium	NO
+GenProp0848	actin-based motility of invasive bacteria	NO
+GenProp0849	quorum-sensing, Bacillus PlcR-PapR system	NO
+GenProp0851	integration host factor	YES
+GenProp0853	lantibiotic system, gallidermin/epidermin family	NO
+GenProp0854	ParB-rel/ThiF-rel cassette PRTRC	NO
+GenProp0855	integrating conjugative element, PFGI-1 class	NO
+GenProp0856	bacterio-opsin system	NO
+GenProp0857	anchored repeat-class ABC transporter, P. acnes type	NO
+GenProp0858	conjugative transposon, Bacteroides type	NO
+GenProp0859	protein sorting system, proteobacterial dedicated sortase type	NO
+GenProp0860	tryptophan tryptophylquinone modification of methylamine dehydrogenase	NO
+GenProp0861	bacteriocin system, NHLP (nif11/nitrile hydratase leader peptide) transport group	NO
+GenProp0862	pyridoxal phosphate biosynthesis, PdxA/PdxJ pathway	YES
+GenProp0863	pyridoxal phosphate biosynthesis, Pdx1/Pdx2 pathway	NO
+GenProp0867	decarboxylation/antiport proton-motive cycle: aspartate-alanine	NO
+GenProp0868	uncharacterized protein pair with twin-arg and repeat	NO
+GenProp0869	decarboxylation/antiport proton-motive cycle: arginine-agmatine	NO
+GenProp0870	decarboxylation/antiport proton-motive cycle: lysine-cadaverine	NO
+GenProp0871	decarboxylation/antiport proton-motive cycle: ornithine-putrescine	NO
+GenProp0872	decarboxylation/antiport proton-motive cycle: histidine-histamine	NO
+GenProp0875	decarboxylation/antiport proton-motive cycle: tyrosine-tyramine	NO
+GenProp0876	decarboxylation/antiport proton-motive cycle: glutamate-GABA	NO
+GenProp0877	flagellar motor stator complex	YES
+GenProp0878	N(epsilon)-acetyl-beta-lysine biosynthesis	NO
+GenProp0879	flagellar export apparatus	PARTIAL
+GenProp0880	flagellar basal body complex	PARTIAL
+GenProp0881	flagellar assembly apparatus	PARTIAL
+GenProp0882	flagellar filament and hook complex	PARTIAL
+GenProp0883	flagellar motor switch (rotor) complex	NO
+GenProp0884	flagellar regulation	PARTIAL
+GenProp0885	flagellar post-translational modification components	NO
+GenProp0886	flagellar components of unknown function	PARTIAL
+GenProp0888	mobilization system MobA/MobB/MobC	PARTIAL
+GenProp0889	Mycoplasma terminal organelle	NO
+GenProp0890	copper homeostasis system CopRS/CopABCD	PARTIAL
+GenProp0892	sulfopyruvate biosynthesis from phoshoenolpyruvate	NO
+GenProp0893	sulfopyruvate biosynthesis via L-cysteate	NO
+GenProp0894	Actinobacterial uncharacterized trio	NO
+GenProp0895	alcohol ABC transporter, PedABC-type	NO
+GenProp0896	proposed F420-0 transporter	NO
+GenProp0898	RNA ligase/unknown protein pair	NO
+GenProp0899	nitrile hydratase	NO
+GenProp0900	bacteriocin, lantibiotic family	NO
+GenProp0901	post-ribosomal natural product synthesis system, Burkholderia TOMM-type	NO
+GenProp0902	quinohemoprotein amine dehydrogenase	NO
+GenProp0903	radical SAM/uracil DNA glycosylase system	NO
+GenProp0904	type VII secretion, Actinobacteria form	NO
+GenProp0905	type VII secretion, Firmicutes form	NO
+GenProp0906	poly-beta-1,6 N-acetyl-D-glucosamine system, IcaADBC type	NO
+GenProp0907	poly-beta-1,6 N-acetyl-D-glucosamine system, PgaABCD type	NO
+GenProp0908	2,3-diaminopropionic acid biosynthesis	NO
+GenProp0909	capreomycidine biosynthesis	NO
+GenProp0910	butyryl-CoA to butyrate, phosphotransbutyrylase pathway	NO
+GenProp0911	butyryl-CoA to butyrate, acetate CoA-transferase pathway	NO
+GenProp0912	Leptospira exopolysaccharide biosynthesis clusters	PARTIAL
+GenProp0914	hydrogenase, [FeFe]-dependent	NO
+GenProp0915	hydrogenase, mono-iron type	NO
+GenProp0916	radical SAM/uncharacterized protein TIGR03936 system	NO
+GenProp0917	mycofactocin system	PARTIAL
+GenProp0918	anaerobic sulfatase/maturase system	PARTIAL
+GenProp0919	SCIFF/radical SAM Clostridial gene pair	NO
+GenProp0920	radical SAM Y_X(10)_GDL system	NO
+GenProp0921	radical SAM pair and His-Xaa-Ser repeats peptide	NO
+GenProp0922	CRISPR system, Myxan subtype	PARTIAL
+GenProp0923	mycothiol system	NO
+GenProp0926	rSAM/TIGR03995 system	NO
+GenProp0927	bacillithiol biosynthesis	NO
+GenProp0928	OMP chaperone system: SurA-Skp-DegP	YES
+GenProp0929	LPS outer core, E. coli type	NO
+GenProp0932	O104(Ec) antigen biosynthesis	PARTIAL
+GenProp0933	bacillithiol utilization	NO
+GenProp0934	dimethyl sulphone utilization (aerobic)	NO
+GenProp0935	uptake/catabolism system KPN_01854/KPN_01858	NO
+GenProp0936	bacteriocin system, sporulation delay protein group	NO
+GenProp0937	cofactor-coupled enzyme system, CE1758/CE1759 type	NO
+GenProp0938	glycine radical enzyme system, YjjI/YjjW pair	NO
+GenProp0939	rSAM-containing biosynthetic cluster, MSMEG_0568 system	NO
+GenProp0940	metallo-mystery pair	NO
+GenProp0941	TonB-dependent nutrient uptake pairs, RagAB/SusCD type	NO
+GenProp0942	alkane biosynthesis, cyanobacterial	NO
+GenProp0943	pyruvate formate-lyase system	NO
+GenProp0944	cohesin/dockerin (cellulosome-like) system	NO
+GenProp0945	radical SAM maturase bacteriocin system, CLI_3235 type	NO
+GenProp0948	RNA repair, Hen1/Pnkp system	NO
+GenProp0950	4,6-dideoxy-4-oxo-dTDP-D-glucose biosynthesis from glucose-1-phosphate	NO
+GenProp0951	dTDP-3-aminofucose biosynthesis from 4,6-dideoxy-4-oxo-dTDP-D-glucose	NO
+GenProp0952	dTDP-3-deoxy-3-(R)-3-hydroxybutyramino-D-fucose biosynthesis from dTDP-3-aminofucose	NO
+GenProp0953	O103(Ec) antigen biosynthesis	PARTIAL
+GenProp0954	radical SAM-cylized peptide, Pep1357C family	NO
+GenProp0955	modified peptide/radical SAM maturase system, YydFG family	NO
+GenProp0956	radical SAM maturase/selenobacteriocin system	NO
+GenProp0957	protein sorting system, SipW class	NO
+GenProp0958	D-alanyl-lipoteichoic acid biosynthesis	NO
+GenProp0959	radical SAM/uncharacterized protein TIGR04002 system	NO
+GenProp0960	protein sorting system, MYXO-CTERM/unknown of Deltaproteobacteria	NO
+GenProp0961	heme metabolism pair HutWX	NO
+GenProp0962	methanobactin biosynthesis, Mb-OB3b family	NO
+GenProp0964	dTDP-3-acetamidofucose (dTDP-Fuc3NAc) biosynthesis from dTDP-3-aminofucose	PARTIAL
+GenProp0967	radical SAM maturase system, CXXX repeats type	NO
+GenProp0968	O-antigen polymerization/export system wzx/wzy/wzz	PARTIAL
+GenProp0972	dTDP-4-acetamido-4,6-dideoxy-D-galactose (dTDP-Fuc4NAc) biosynthesis	NO
+GenProp0975	biosynthesis of UDP-N-acetyl-D-mannosamine (UDP-ManNAc)	PARTIAL
+GenProp0976	UDP-L-2-acetamidofucose (UDP-L-FucNAc) biosynthesis from UDP-GlcNAc	PARTIAL
+GenProp0977	DNA ligase/helicase system	YES
+GenProp0978	protein sorting system, PGF-CTERM/archaeosortase A	NO
+GenProp0979	protein sorting system, PEF-CTERM/archaeosortase C	NO
+GenProp0980	protein sorting system, putative, exosortase F class	NO
+GenProp0981	radical SAM/lipoprotein system	NO
+GenProp0982	radical SAM maturase system, FibroRumin system	NO
+GenProp0983	protein sorting system, VPXXXP-CTERM/archaeosortase B	NO
+GenProp0984	radical SAM maturase system, GG-Bacteroidales group	NO
+GenProp0985	protein sorting system, VPDSG-CTERM/exosortase C	NO
+GenProp0986	protein sorting system, VPLPA-CTERM/exosortase D	NO
+GenProp0987	protein sorting system, cyano-PEP-CTERM class	NO
+GenProp0988	elongation factor P beta-lysylation	NO
+GenProp0989	protein sorting system, VPEID-CTERM/exosortase E	NO
+GenProp0990	cobaltopeptin biosynthesis	NO
+GenProp0991	ATP-grasp maturase system, microviridin/marinostatin class	NO
+GenProp0992	radical SAM maturase system, methanogen	NO
+GenProp0993	protein sorting system, PIP-CTERM/archaeosortase D	NO
+GenProp0995	Leptospira interrogans LPS associated transketolase	NO
+GenProp0996	protein sorting system, IPTLxxWG-CTERM/exosortase H	NO
+GenProp0997	proposed nine-carbon sugar biosynthesis cassette	NO
+GenProp0998	archaeal class III signal peptide system	NO
+GenProp0999	Por secretion system	NO
+GenProp1000	ATP-grasp maturase system, uncharacterized	NO
+GenProp1002	grasp-with-spasm peptide maturase system	NO
+GenProp1003	cysteine S-glycopeptide biosynthesis, sublancin family	NO
+GenProp1004	light-independent protochlorophyllide reductase	NO
+GenProp1005	protein sorting system, putative, exosortase J class	NO
+GenProp1006	orbivirus protein set	NO
+GenProp1007	orthobunyavirus protein set	NO
+GenProp1008	phlebovirus protein set	NO
+GenProp1009	coronavirus protein set	NO
+GenProp1010	accessory Sec system, Actinobacterial type	NO
+GenProp1011	quorum-sensing system, cyclic peptide-mediated	NO
+GenProp1012	influenzae A virus protein set	NO
+GenProp1013	influenzae B virus protein set	NO
+GenProp1015	dTDP-3-amino-3,6-dideoxy-D-glucose (Qui3N) biosynthesis from 4,6-dideoxy-4-oxo-dTDP-D-glucose	NO
+GenProp1016	seadornavirus protein set	NO
+GenProp1017	GDP-D-mannose biosynthesis from b-D-fructose-6-phosphate	PARTIAL
+GenProp1018	O8(Ec) antigen biosynthesis	PARTIAL
+GenProp1019	O9(Ec) antigen biosynthesis	PARTIAL
+GenProp1021	dTDP-3-hydroxybutyramidoquinovose (dTDP-D-Qui3NAcyl) biosynthesis from dTDP-3-aminoquinovose (dTDP-D-Qui3N)	NO
+GenProp1022	adenovirus protein set	NO
+GenProp1026	nodulation factor production	NO
+GenProp1028	nitrous-oxide reductase	PARTIAL
+GenProp1029	radical SAM/SPASM system SynChlorMet	NO
+GenProp1031	O76(Ec) antigen biosynthesis	PARTIAL
+GenProp1032	dTDP-4-dehydro-L-rhamnose biosynthesis from 4,6-dideoxy-4-oxo-dTDP-D-glucose	NO
+GenProp1033	dTDP-6-deoxy-L-talose biosynthesis from dTDP-4-dehydro-L-rhamnose	NO
+GenProp1034	decarboxylation/antiport proton-motive cycle: oxalate-formate	NO
+GenProp1035	O113(Ec) antigen biosynthesis	PARTIAL
+GenProp1037	radical SAM/SPASM system GRRM	NO
+GenProp1040	dTDP-D-viosamine (dTDP-DQui4N) biosynthesis from 4,6-dideoxy-4-oxo-dTDP-D-glucose	NO
+GenProp1043	O145(Ec) antigen biosynthesis	PARTIAL
+GenProp1044	Transposon components	PARTIAL
+GenProp1046	O153(Ec)-antigen biosynthesis	NO
+GenProp1047	O101(Ec) antigen biosynthesis	NO
+GenProp1050	dTDP-3-acetamido-3,6-dideoxy-D-glucose (D-Qui3NAc) biosynthesis from dTDP-3-amino-3,6-dideoxy-D-glucose (Qui3N)	NO
+GenProp1052	geopeptide radical SAM/SPASM maturase system	NO
+GenProp1053	rSAM/selenodomain system	PARTIAL
+GenProp1054	protein sorting system, MSEP-CTERM/exosortase K	NO
+GenProp1055	protein sorting system, PEFG-CTERM/thaumarchaeosortase	NO
+GenProp1056	rhizo-twelve system	NO
+GenProp1057	radical SAM/SPASM system GeoRSP	NO
+GenProp1058	2,3-dihydroxybenzoate biosynthesis	NO
+GenProp1059	coronavirus, version 1	NO
+GenProp1060	tRNA N6-threonylcarbamoyladenosine modification	YES
+GenProp1061	CRISPR system, PreFran subtype	PARTIAL
+GenProp1062	radical SAM/SPASM system Clo7bot	NO
+GenProp1063	Memo/AMMECR1/rSAM family trio system	NO
+GenProp1064	ovothiol biosynthesis	NO
+GenProp1065	radical SAM/SPASM TIGR04347/TIGR04031 system	NO
+GenProp1066	uncharacterized cassette GAK (Grasp, Amphipathic, Kinase)	NO
+GenProp1068	FxS-tail radical SAM-containing system	NO
+GenProp1069	FxLD lantipeptide system	NO
+GenProp1070	beta-glutamate biosynthesis	NO
+GenProp1071	myo-inositol catabolism	NO
+GenProp1072	cyanase system	PARTIAL
+GenProp1074	type V secretion	NO
+GenProp1075	ferrous iron transport Feo system	NO
+GenProp1076	choline TMA-lyase system	NO
+GenProp1077	tRNA(Pro) cmo5UGG modification	NO
+GenProp1078	sporulation killing factor system	NO
+GenProp1079	Lpt lipopolysaccharide export transenvelope protein complex	PARTIAL
+GenProp1080	protein O-heptosyltransferase with autotransporter target	NO
+GenProp1081	replication restart, PriA/PriB primosome pathway	PARTIAL
+GenProp1082	16S rRNA C1402 m(4)Cm modification	YES
+GenProp1083	cyanobactin-like ribosomal natural product biosynthesis	NO
+GenProp1084	enduracididine biosynthesis	NO
+GenProp1085	pyranoside core peptidyl nucleoside antibiotic biosynthesis	NO
+GenProp1086	Firmicutes/Treponema mobile radical SAM system	NO
+GenProp1087	protein sorting system, vault protein/exosortase N	NO
+GenProp1088	thiosulfate oxidation to sulfate	NO
+GenProp1089	B12-dependent trimeric diol/glycerol dehydratase	NO
+GenProp1090	radical SAM/SPASM maturase system XYE	NO
+GenProp1091	toxin-antitoxin system, type I	NO
+GenProp1092	toxin-antitoxin system, type III	NO
+GenProp1093	abortive infection proteins	NO
+GenProp1094	energy-coupling factor transporters	NO
+GenProp1095	exodeoxyribonuclease VII	YES
+GenProp1096	coenzyme B biosynthesis	NO
+GenProp1097	bacimethrin biosynthesis	NO
+GenProp1098	3-methylarginine biosynthesis	NO
+GenProp1099	8-oxoguanine DNA repair	PARTIAL
+GenProp1100	mobile element associated three-Cys-motif pair	NO
+GenProp1101	quinoprotein cytochrome relay system	NO
+GenProp1102	protein sorting system, CGP-CTERM/unknown of Thermococcaceae	NO
+GenProp1103	protein sorting system, Synergist-CTERM/unknown of Synergistetes	NO
+GenProp1104	acyl carrier protein phosphopantetheinylation	YES
+GenProp0016	selenocysteine system	NO
+GenProp0029	nitrogen fixation	NO
+GenProp0033	TCA cycle	PARTIAL
+GenProp0046	IPP biosynthesis	YES
+GenProp0125	lysine biosynthesis via diaminopimelate (DAP)	YES
+GenProp0144	chlorophyllide a biosynthesis from protoporphyrin IX	NO
+GenProp0158	peptidoglycan(murein) biosynthesis	PARTIAL
+GenProp0183	dTDP-L-rhamnose biosynthesis from dTDP-4-dehydro-L-rhamnose	NO
+GenProp0199	lysine biosynthesis	YES
+GenProp0204	KDO(2)-lipid A (Re LPS) biosynthesis and delivery	PARTIAL
+GenProp0219	spermidine biosynthesis from arginine (via agmatine)	PARTIAL
+GenProp0279	cobalt import systems	NO
+GenProp0285	flagella, bacterial type	PARTIAL
+GenProp0287	ribonucleotide reduction	PARTIAL
+GenProp0479	acetate -- acetyl-CoA interconversions	PARTIAL
+GenProp0616	single complex oxygen reduction and quinone re-oxidation	YES
+GenProp0681	fatty acid biosynthesis from acetyl-CoA	YES
+GenProp0686	allantoin catabolism to glyoxalate and urea	PARTIAL
+GenProp0687	allantoin catabolism to oxamate and carbamoyl-phosphate	PARTIAL
+GenProp0691	glycolysis	PARTIAL
+GenProp0700	purine catabolism via urate, xanthine and allantoin	YES
+GenProp0713	2-aminoethylphosphonate catabolism via phosphonoacetate	NO
+GenProp0720	2-aminoethylphosphonate utilization	NO
+GenProp0725	outer membrane protein assembly complex	YES
+GenProp0729	methionine salvage from methylthioadenosine	PARTIAL
+GenProp0755	pyruvate conversion to propionate, anaerobic, FAD/NAD-regenerating	PARTIAL
+GenProp0791	coenzyme F420 biosynthesis	NO
+GenProp0833	proteasome-targeting modification by pupylation	NO
+GenProp0891	coenzyme M biosynthesis	NO
+GenProp0925	Leptospira core LPS elements	PARTIAL
+GenProp0930	GDP-4-keto-6-deoxymannose biosynthesis from b-D-fructose-6-phosphate	YES
+GenProp0931	colanic acid biosynthesis	PARTIAL
+GenProp0946	GDP-L-colitose biosynthesis	PARTIAL
+GenProp0947	O55(Ec) antigen biosynthesis	PARTIAL
+GenProp0949	O111(Ec) antigen biosynthesis	PARTIAL
+GenProp0963	O2(Ec) antigen biosynthesis	PARTIAL
+GenProp0969	biosynthesis of UDP-N-acetyl-D-mannosaminuronic acid (UDP-ManNAcA)	YES
+GenProp0971	biosynthesis of undecaprenyl phosphate (Und-P)	PARTIAL
+GenProp0974	O26(Ec) antigen biosynthesis	PARTIAL
+GenProp0994	Leptospira interrogans-specific LPS components	NO
+GenProp1014	O5(Ec) antigen biosynthesis	NO
+GenProp1020	O91(Ec) antigen biosynthesis	NO
+GenProp1024	GDP-L-fucose biosynthesis from GDP-4-keto-6-deoxy-D-mannose	PARTIAL
+GenProp1025	GDP-D-perosamine biosynthesis from GDP-4-keto-6-deoxy-D-mannose	PARTIAL
+GenProp1027	GDP-4-acetamido-D-rhamnose (D-Rha4NAc) biosynthesis from D-perosamine	PARTIAL
+GenProp1030	O88(Ec) antigen biosynthesis	PARTIAL
+GenProp1036	O11(Ec) antigen biosynthesis	PARTIAL
+GenProp1039	dTDP-4-N-acetylglycylamido-D-quinovose (dTDP-Qui4NAcGly) biosynthesis from dTDP-D-viosamine	NO
+GenProp1042	O128(Ec) antigen biosynthesis	PARTIAL
+GenProp1045	O147(Ec) antigen biosynthesis	NO
+GenProp1049	O1(Ec) antigen biosynthesis	PARTIAL
+GenProp1051	O10(Ec) antigen biosynthesis	NO
+GenProp0002	coenzyme F420 utilization	NO
+GenProp0241	phosphonate catabolism	YES
+GenProp0274	coenzyme B12 biosynthesis - overview	PARTIAL
+GenProp0612	aerobic electron transfer (transport) chain, ETC	YES
+GenProp0970	biosynthesis of Und-PP-GlcNAc	PARTIAL
+GenProp0973	Enterobacterial common antigen (ECA)	PARTIAL
+GenProp1023	O157(Ec) antigen biosynthesis	PARTIAL
+GenProp1038	O121(Ec) antigen biosynthesis	NO
+GenProp0611	aerobic respiration	YES
+GenProp0913	E. coli O-antigen monomer biosynthesis clusters	YES
+GenProp0966	E. coli O-antigen biosynthesis	YES
