@@ -25,59 +25,69 @@ CC  distinct heptosyltransferases I and II.
 **  arabinose-5-phosphate and PEP. In operon pyrG-kdsA-eno, PyrG is a CTP
 **  synthase, eno make PEP.
 --
-SN  GmhA
+SN  1
 ID  D-sedoheptulose 7-phosphate isomerase
+DN  D-sedoheptulose 7-phosphate isomerase/GmhA
 RQ  1
 EV  IPR004515; TIGR00441;
 --
-SN  GmhB
+SN  2
 ID  D,D-heptose 1,7-bisphosphate phosphatase
+DN  D,D-heptose 1,7-bisphosphate phosphatase/GmhB
 RQ  1
 EV  IPR004446; TIGR00213;
 --
-SN  HldD
+SN  3
 ID  ADP-L-glycero-D-mannoheptose-6-epimerase
-DN  ADP-L-glycero-D-mannoheptose-6-epimerase
+DN  ADP-L-glycero-D-mannoheptose-6-epimerase/HldD
 RQ  1
 EV  IPR011912; TIGR02197; sufficient;
 --
-SN  HldE_C
+SN  4
 ID  RfaE bifunc, domain II
+DN  RfaE bifunc, domain II/HldE_C
 RQ  1
 EV  IPR011914; TIGR02199; sufficient;
 --
-SN  HldE_N
+SN  5
 ID  RfaE bifunc, domain I
+DN  RfaE bifunc, domain I/HldE_N
 RQ  1
 EV  IPR011913; TIGR02198; sufficient;
 --
-SN  WaaC
+SN  6
 ID  Heptosyltransferase I
+DN  Heptosyltransferase I/WaaC
 RQ  1
 EV  IPR011908; TIGR02193; sufficient;
 --
-SN  WaaF
+SN  7
 ID  Heptosyltransferase II
+DN  Heptosyltransferase II/WaaF
 RQ  1
 EV  IPR011910; TIGR02195; sufficient;
 --
-SN  WaaP
+SN  8
 ID  Lipopolysaccharide core biosynthesis protein RfaP
+DN  Lipopolysaccharide core biosynthesis protein RfaP/WaaP
 RQ  0
 EV  IPR010440; PF06293;
 --
-SN  WaaQ
+SN  9
 ID  Heptosyltransferase III
+DN  Heptosyltransferase III/WaaQ
 RQ  0
 EV  IPR011916; TIGR02201; sufficient;
 --
-SN  WaaY
+SN  10
 ID  Lipopolysaccharide core biosynthesis protein RfaY
+DN  Lipopolysaccharide core biosynthesis protein RfaY/WaaY
 RQ  0
 EV  IPR009330; PF06176;
 --
-SN  WaaZ
+SN  11
 ID  Kdo-III transferase
+DN  Kdo-III transferase/WaaZ
 RQ  0
 EV  IPR031026; TIGR04437;
 //
