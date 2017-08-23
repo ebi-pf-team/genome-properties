@@ -32,7 +32,7 @@ Background
 
 Genome Properties were developed within the TIGRFAM group [PMID:15347579]_ [PMID:23197656]_ as an way to improve the functional annotation of proteins, as well as providing a resource to assiste in comparative genomics. The were based predominantly on TIGRFAM HMM models for step evidence, supplemented with some Pfam models. 
 
-.. [PMID:15347579] doi.org/10.1093/bioinformatics/bti015
-.. [PMID:23197656] doi.org/10.1093/nar/gks1234
+.. _[PMID:15347579]: doi.org/10.1093/bioinformatics/bti015
+.. _[PMID:23197656]: doi.org/10.1093/nar/gks1234
 
 One of the main benefits of integrating GP into InterPro is that through the InterPro system of pulling together protein signatures from a range of member databases, there is now a very large potential pool of protein models available to use as evidence for steps, including multiple levels of specificity. In general, we use specific family models in the calculation of GP steps.
