@@ -30,7 +30,7 @@ Further to the features of our interactive viewer already described, you are als
 Background
 ----------
 
-Genome Properties were developed within the TIGRFAM group [PMID:15347579] [PMID:23197656] as an way to improve the functional annotation of proteins, as well as providing a resource to assiste in comparative genomics. The were based predominantly on TIGRFAM HMM models for step evidence, supplemented with some Pfam models. 
+Genome Properties were developed within the TIGRFAM group [PMID:15347579]_ [PMID:23197656]_ as an way to improve the functional annotation of proteins, as well as providing a resource to assiste in comparative genomics. The were based predominantly on TIGRFAM HMM models for step evidence, supplemented with some Pfam models. 
 
 .. _[PMID:15347579]: doi.org/10.1093/bioinformatics/bti015
 .. _[PMID:23197656]: doi.org/10.1093/nar/gks1234
