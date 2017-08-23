@@ -4,7 +4,7 @@ Calculating Genome Properties
 
 some text
 
-.. |calc| image::  _static/images/calculating.jpg
+.. |calc| image::  _static/images/calculation_fig.jpg
 
 |calc|
 
