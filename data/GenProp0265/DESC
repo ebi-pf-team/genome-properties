@@ -18,7 +18,7 @@ RA  Kaasen I, McDougall J, Strøm AR;
 RL  Gene. 1994;145:9-15.
 CC  Trehalose is compatible solute, an osmolyte that protects cells against
 CC  osmotic stress. It is built from two glucose molecules in an
-CC  alpha,alpha linkage and can be made by at least three different
+CC  alpha,alpha linkage, and can be made by at least three different
 CC  pathways. In the OtsAB pathway (ots stands for osmotically regulated
 CC  trehalose synthesis), OtsA (EC 2.4.1.15) makes trehalose-6-phosphate
 CC  from UDP-glucose and D-glucose 6-phosphate. OtsB (EC 3.1.3.12) removes
@@ -29,14 +29,14 @@ CC  the phosphate.
 --
 SN  1
 ID  Trehalose-6-phosphate synthase
-DN  Alpha,alpha-trehalose-phosphate synthase (UDP-forming) (EC 2.4.1.15)/otsA
+DN  Alpha,alpha-trehalose-phosphate synthase (UDP-forming)/OtsA (EC 2.4.1.15)
 RQ  1
 EV  IPR012766; TIGR02400; sufficient;
 TG  GO:0006970;
 --
 SN  2
 ID  Trehalose-phosphatase
-DN  Trehalose-phosphatase (EC 3.1.3.12)/otsB
+DN  Trehalose-phosphatase/OtsB (EC 3.1.3.12)
 RQ  1
 EV  IPR003337; TIGR00685; sufficient;
 TG  GO:0006970;
