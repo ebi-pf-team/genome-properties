@@ -5,4 +5,4 @@ The majority of the current set of Genome Properties were produced within the TI
 
 If you would like to contribute to Genome Properties in this way, please contact us at:
 
-GenProp@ebi.ac.uk
+`GenProp@ebi.ac.uk <mailto:GenProp@ebi.ac.uk>`_
