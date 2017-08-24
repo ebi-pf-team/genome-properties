@@ -23,14 +23,14 @@ CC  rare mesophile to have this pathway.
 **  should read the paper). DHH.
 --
 SN  1
-ID  Mannosyl-3-phosphoglycerate phosphatase
-DN  Mannosyl-3-phosphoglycerate phosphatase (EC 3.1.3.70)
-RQ  1
-EV  IPR033980; TIGR02461; sufficient;
---
-SN  2
 ID  Mannosyl-3-phosphoglycerate synthase
 DN  Mannosyl-3-phosphoglycerate synthase (EC 2.4.1.217)
 RQ  1
 EV  IPR012812; TIGR02460; sufficient;
+--
+SN  2
+ID  Mannosyl-3-phosphoglycerate phosphatase
+DN  Mannosyl-3-phosphoglycerate phosphatase (EC 3.1.3.70)
+RQ  1
+EV  IPR033980; TIGR02461; sufficient;
 //
