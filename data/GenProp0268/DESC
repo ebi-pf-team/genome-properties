@@ -16,7 +16,7 @@ RA  Ofer N, Wishkautzan M, Meijler M, Wang Y, Speer A, Niederweis M, Gur E;
 RL  Appl Environ Microbiol. 2012;78:7483-7486.
 CC  Ectoine is a compatible solute used as an osmoprotectant by a number of
 CC  bacterial species, including Vibrio cholerae, Halomonas variabilis,
-CC  Bacillus pasteurii, Mycobacterium smegmatis, etc. Key enzymes are
+CC  Bacillus pasteurii, and Mycobacterium smegmatis. Key enzymes are
 CC  diaminobutyric acid acetyltransferase (EctA), diaminobutyric acid
 CC  aminotransferase (EctB), and ectoine synthase (EctC). Ectoine is
 CC  1,4,5,6-tetrahydro-2-methyl-4-pyrimidinecarboxylic acid. Many
@@ -25,28 +25,28 @@ CC  (EctD), and also produce hydroxyectoine.
 --
 SN  1
 ID  Diaminobutyrate acetyltransferase
-DN  Diaminobutyrate acetyltransferase (EC 2.3.1.178)/ectA
+DN  Diaminobutyrate acetyltransferase/EctA (EC 2.3.1.178)
 RQ  1
 EV  IPR012772; TIGR02406; sufficient;
 TG  GO:0019491;
 --
 SN  2
 ID  Diaminobutyrate--2-oxoglutarate transaminase
-DN  Diaminobutyrate--2-oxoglutarate transaminase (EC 2.6.1.76)/ectB
+DN  Diaminobutyrate--2-oxoglutarate transaminase/EctB (EC 2.6.1.76)
 RQ  1
 EV  IPR012773; TIGR02407; sufficient;
 TG  GO:0019491;
 --
 SN  3
 ID  Ectoine synthase
-DN  Ectoine synthase (EC 4.2.1.108)/ectC
+DN  Ectoine synthase/EctC (EC 4.2.1.108)
 RQ  1
 EV  IPR010462; PF06339; sufficient;
 TG  GO:0019491;
 --
 SN  4
 ID  Ectoine hydroxylase
-DN  Ectoine hydroxylase (EC 1.17.-.-)/ectD
+DN  Ectoine hydroxylase/EctD (EC 1.17.-.-)
 RQ  0
 EV  IPR012774; TIGR02408; sufficient;
 //
