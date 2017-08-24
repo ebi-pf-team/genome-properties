@@ -25,14 +25,14 @@ CC  induced by osmotic stress.
 --
 SN  1
 ID  Maltooligosyltrehalose synthase
-DN  (1->4)-alpha-D-glucan 1-alpha-D-glucosylmutase (EC 5.4.99.15)/treY
+DN  (1->4)-alpha-D-glucan 1-alpha-D-glucosylmutase/TreY (EC 5.4.99.15)
 RQ  1
 EV  IPR012767; TIGR02401; sufficient;
 TG  GO:0006970;
 --
 SN  2
 ID  Malto-oligosyltrehalose trehalohydrolase
-DN  4-alpha-D-{(1->4)-alpha-D-glucano} trehalose trehalohydrolase (EC 3.2.1.141)/treZ
+DN  4-alpha-D-{(1->4)-alpha-D-glucano} trehalose trehalohydrolase/TreZ (EC 3.2.1.141)
 RQ  1
 EV  IPR012768; TIGR02402; sufficient;
 TG  GO:0006970;
