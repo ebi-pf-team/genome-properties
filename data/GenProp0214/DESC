@@ -10,8 +10,8 @@ RA  Cronan JE, Waldrop GL;
 RL  Prog Lipid Res. 2002;41:407-435.
 CC  This property describes the acetyl-CoA carboxylase complex, which
 CC  catalyzes the first committed step of fatty acid biosynthesis, the
-CC  carboxylation of acetyl-CoA to malonyl-CoA.  The four-subunit version
-CC  usually found in prokaryotes is described by this property.
+CC  carboxylation of acetyl-CoA to malonyl-CoA. The four-subunit version
+CC  usually found in prokaryotes is described by this property [1].
 --
 SN  1
 ID  Acetyl-CoA carboxylase, carboxyl transferase, alpha subunit
