@@ -18,7 +18,7 @@ CC  a protein-centered radical.
 --
 SN  1
 ID  Anaerobic ribonucleoside-triphosphate reductase
-DN  Ribonucleoside-triphosphate reductase(EC:1.17.4.2)/NrdD
+DN  Ribonucleoside-triphosphate reductase(EC:1.17.4.2)
 RQ  1
 EV  IPR012833; TIGR02487; sufficient;
 TG  GO:0009265;
@@ -27,7 +27,7 @@ TG  GO:0009265;
 --
 SN  2
 ID  Activating protein for anaerobic ribonucleotide triphosphate reductase
-DN  [formate-C-acetyltransferase]-activating enzyme (EC:1.97.1.4)/NrdG
+DN  [formate-C-acetyltransferase]-activating enzyme (EC:1.97.1.4)
 RQ  1
 EV  IPR012837; TIGR02491; sufficient;
 TG  GO:0009265;
