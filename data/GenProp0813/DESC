@@ -23,43 +23,51 @@ CC  and may be replaced by other non-homologous transporters located
 CC  elsewhere in the genomes.  This property appears to be limited to the
 CC  alpha and gamma proteobacteria.  
 --
-SN  RutA
+SN  1
 ID  FMN-dependent luciferase family monoxygenase RutA
+DN  FMN-dependent luciferase family monoxygenase RutA/RutA
 RQ  1
 EV  IPR019914; TIGR03612;
 --
-SN  RutB
+SN  2
 ID  Isochorismate mutase family protein RutB
+DN  Isochorismate mutase family protein RutB/RutB
 RQ  1
 EV  IPR019916; TIGR03614;
 --
-SN  RutC
+SN  3
 ID  L-PSP endoribonuclease family protein RutC
+DN  L-PSP endoribonuclease family protein RutC/RutC
 RQ  1
 EV  IPR019898; TIGR03610;
 --
-SN  RutD
+SN  4
 ID  Hydrolase protein RutD
+DN  Hydrolase protein RutD/RutD
 RQ  1
 EV  IPR019913; TIGR03611;
 --
-SN  RutE
+SN  5
 ID  Nitroreductase family protein RutE
+DN  Nitroreductase family protein RutE/RutE
 RQ  0
 EV  IPRXXXX; PF00881;
 --
-SN  RutF
+SN  6
 ID  Flavin reductase RutF
+DN  Flavin reductase RutF/RutF
 RQ  1
 EV  IPR019917; TIGR03615;
 --
-SN  RutG
+SN  7
 ID  Uracil-xanthine permease family protein RutG
+DN  Uracil-xanthine permease family protein RutG/RutG
 RQ  0
 EV  IPR019918; TIGR03616;
 --
-SN  RutR
+SN  8
 ID  Clustered regulatory protein
+DN  Clustered regulatory protein/RutR
 RQ  0
 EV  IPR019915; TIGR03613;
 //

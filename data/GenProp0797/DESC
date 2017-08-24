@@ -24,16 +24,16 @@ CC  pathway is replaced by SelA (TIGR00474).
 **  April 2008. This property a component of the new prop_def 16. arg,
 **  ntmm04, ntmk01.
 --
-SN  pstK
+SN  1
 ID  L-seryl-tRNA(Sec) kinase
-DN  L-seryl-tRNA(Sec) kinase (EC 2.7.1.-)
+DN  L-seryl-tRNA(Sec) kinase (EC 2.7.1.-)/pstK
 RQ  1
 EV  IPR020024; TIGR03574;
 TG  GO:0016260;
 --
-SN  spcS
+SN  2
 ID  O-phosphoseryl-tRNA(Sec) selenium transferase
-DN  O-phosphoseryl-tRNA(Sec) selenium transferase (EC 2.9.1.-)
+DN  O-phosphoseryl-tRNA(Sec) selenium transferase (EC 2.9.1.-)/spcS
 RQ  1
 EV  IPR019872; TIGR03531;
 TG  GO:0016260;

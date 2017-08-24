@@ -17,18 +17,21 @@ CC  isomerase previously annotated as a translation initation factor.
 **  sugar kinase.  See PF04587 ADP_PFK_GK ADP-specific
 **  Phosphofructokinase/Glucokinase conserved region
 --
-SN  AMPphos
+SN  1
 ID  AMP phosphorylase
+DN  AMP phosphorylase/AMPphos
 RQ  1
 EV  IPR017713; TIGR03327;
 --
-SN  E2b2
+SN  2
 ID  Ribose-1,5-bisphosphate isomerase
+DN  Ribose-1,5-bisphosphate isomerase/E2b2
 RQ  1
 EV  IPR005250; TIGR00511;
 --
-SN  Rubisco
+SN  3
 ID  Rubisco, type III
+DN  Rubisco, type III/Rubisco
 RQ  1
 EV  IPR017712; TIGR03326;
 //

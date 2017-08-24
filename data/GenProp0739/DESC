@@ -23,15 +23,16 @@ CC  role for the maturation of specific Fe-S cluster-containing proteins.
 **  such as quinolinate synthetase, NadA, they say. That is, maybe
 **  S-donation is enough because the target protein itself is the scaffold.
 --
-SN  FeSCsdA
+SN  1
 ID  Cysteine desulfurase, catalytic subunit CdsA
-DN  Cysteine desulfurase, catalytic subunit CdsA (EC 2.8.1.7)
+DN  Cysteine desulfurase, catalytic subunit CdsA (EC 2.8.1.7)/FeSCsdA
 RQ  1
 EV  IPR022471; TIGR03392;
 TG  GO:0016226;
 --
-SN  FeSCsdE
+SN  2
 ID  Cysteine desulfurase, sulfur acceptor subunit CsdE
+DN  Cysteine desulfurase, sulfur acceptor subunit CsdE/FeSCsdE
 RQ  1
 EV  IPR017763; TIGR03391;
 TG  GO:0016226;

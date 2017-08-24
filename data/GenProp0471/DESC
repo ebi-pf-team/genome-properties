@@ -13,13 +13,15 @@ CC  of the genome.
 **  initially in a number of genomes: ggs, gac_atcc, ntyp02, and may be
 **  point-mutated in gtf.
 --
-SN  dn_strm
+SN  1
 ID  Downstream (TIGR02684)
+DN  Downstream (TIGR02684)/dn_strm
 RQ  1
 EV  IPR014057; TIGR02684; sufficient;
 --
-SN  up_strm
+SN  2
 ID  Upstream (TIGR02683) kill
+DN  Upstream (TIGR02683) kill/up_strm
 RQ  1
 EV  IPR014056; TIGR02683; sufficient;
 //

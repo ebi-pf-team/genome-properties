@@ -15,18 +15,21 @@ CC  cassettes include a pair of closely related ATP-grasp proteins.
 **  The six described genes are two ATP-grasp (RimK homologs), two targets,
 **  and acetyltransferase, and an ABC transporter (single gene?).
 --
-SN  GRASP1
+SN  1
 ID  ATP-grasp family maturase 1
+DN  ATP-grasp family maturase 1/GRASP1
 RQ  1
 EV  IPR026446; TIGR04185;
 --
-SN  GRASP2
+SN  2
 ID  ATP-grasp family maturase 2
+DN  ATP-grasp family maturase 2/GRASP2
 RQ  1
 EV  IPR026439; TIGR04184;
 --
-SN  precur
+SN  3
 ID  Microviridin/marinostatin family precursor
+DN  Microviridin/marinostatin family precursor/precur
 RQ  1
 EV  IPR022217; PF12559;
 //

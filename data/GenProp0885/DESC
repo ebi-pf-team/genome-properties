@@ -8,8 +8,9 @@ CC  themselvesm as well as other components with access to the
 CC  extracellular environment may be post-translationally altered by this
 CC  group of proteins.
 --
-SN  flgJ
+SN  1
 ID  Flagellar rod assembly protein/muramidase FlgJ
+DN  Flagellar rod assembly protein/muramidase FlgJ/flgJ
 RQ  1
 EV  IPR013377; TIGR02541; sufficient;
 EV  IPR012823; PF02050; sufficient;

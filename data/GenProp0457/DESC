@@ -72,8 +72,9 @@ CC  catabolism operons have been detected in Thermotoga species which
 CC  appear to handle the import and cleavage of rhamnose-containing
 CC  oligosaccharides.
 --
-SN  ADH
+SN  1
 ID  Clustered alcohol/aldehyde dehydrogenases
+DN  Clustered alcohol/aldehyde dehydrogenases/ADH
 RQ  0
 EV  IPRXXXX; PF00465;
 TG  GO:0019301;
@@ -82,24 +83,27 @@ TG  GO:0019301;
 EV  IPRXXXX; PF00106;
 TG  GO:0019301;
 --
-SN  aldolase
+SN  2
 ID  Rhamnulose-1-P aldolase (RhaD)
+DN  Rhamnulose-1-P aldolase (RhaD)/aldolase
 RQ  1
 EV  IPR013447; TIGR02624; sufficient;
 TG  GO:0019301;
 EV  IPR013454; TIGR02632; sufficient;
 TG  GO:0019301;
 --
-SN  epimera
+SN  3
 ID  Rhamnose epimerase
+DN  Rhamnose epimerase/epimera
 RQ  0
 EV  IPRXXXX; PF05336;
 TG  GO:0019301;
 EV  IPR013448; TIGR02625; sufficient;
 TG  GO:0019301;
 --
-SN  isomeras
+SN  4
 ID  L-rhamnose isomerase (RhaA/RhaI)
+DN  L-rhamnose isomerase (RhaA/RhaI)/isomeras
 RQ  1
 EV  IPR009308; PF06134; sufficient;
 TG  GO:0019301;
@@ -110,16 +114,18 @@ TG  GO:0019301;
 EV  IPR013457; TIGR02635; sufficient;
 TG  GO:0019301;
 --
-SN  kinase
+SN  5
 ID  Rhamnulokinase (RhaB/RhuK)
+DN  Rhamnulokinase (RhaB/RhuK)/kinase
 RQ  1
 EV  IPRXXXX; PF00370;
 TG  GO:0019301;
 EV  IPR013449; TIGR02627; sufficient;
 TG  GO:0019301;
 --
-SN  regulat
+SN  6
 ID  Clustered regulatory components
+DN  Clustered regulatory components/regulat
 RQ  0
 EV  IPRXXXX; PF00165;
 TG  GO:0043463;
@@ -132,8 +138,9 @@ TG  GO:0043463;
 EV  IPRXXXX; PF00356;
 TG  GO:0043463;
 --
-SN  transpor
+SN  7
 ID  Rhamnose transporters (RhaSTPQ)
+DN  Rhamnose transporters (RhaSTPQ)/transpor
 RQ  1
 EV  IPRXXXX; PF07690;
 TG  GO:0019301;

@@ -10,49 +10,58 @@ CC  flavin-dependent oxidoreductase, and several uncharacterized
 CC  proteins.This assortment of functions suggests a biosynthetic rather
 CC  than catabolic role for the cluster.
 --
-SN  M_0565
+SN  1
 ID  Glycosyltransferase, MSMEG_0565 family
+DN  Glycosyltransferase, MSMEG_0565 family/M_0565
 RQ  0
 EV  IPR023986; TIGR04047;
 --
-SN  M_0567c
+SN  2
 ID  AIR synthase-related protein, sll0787 family
+DN  AIR synthase-related protein, sll0787 family/M_0567c
 RQ  1
 EV  IPR024030; TIGR04049;
 EV  IPR023911; TIGR04050;
 --
-SN  M_0567n
+SN  3
 ID  GNAT class N-acetyltransferase, MSMEG_0567 family
+DN  GNAT class N-acetyltransferase, MSMEG_0567 family/M_0567n
 RQ  1
 EV  IPR024035; TIGR04045;
 --
-SN  M_0568
+SN  4
 ID  Radical SAM protein, MSMEG_0568 family
+DN  Radical SAM protein, MSMEG_0568 family/M_0568
 RQ  1
 EV  IPR016779; TIGR04043;
 --
-SN  M_0569
+SN  5
 ID  Flavin-dependent oxidoreductase, MSMEG_0569 family
+DN  Flavin-dependent oxidoreductase, MSMEG_0569 family/M_0569
 RQ  1
 EV  IPR024000; TIGR04046;
 --
-SN  M_0570
+SN  6
 ID  MSMEG_0570 family protein
+DN  MSMEG_0570 family protein/M_0570
 RQ  1
 EV  IPR023846; TIGR04042;
 --
-SN  M_0572
+SN  7
 ID  MSMEG_0572 family protein
+DN  MSMEG_0572 family protein/M_0572
 RQ  1
 EV  IPR023847; TIGR04044;
 --
-SN  M_extr_1
+SN  8
 ID  Biosynthetic protein, Pnap_2097 family
+DN  Biosynthetic protein, Pnap_2097 family/M_extr_1
 RQ  0
 EV  IPR024092; TIGR04099;
 --
-SN  M_nitr
+SN  9
 ID  Putative nitrilase, sll0784 family
+DN  Putative nitrilase, sll0784 family/M_nitr
 RQ  1
 EV  IPR023919; TIGR04048;
 //

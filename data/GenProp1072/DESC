@@ -15,25 +15,29 @@ CC  transcriptional regulator CynR gene transcribed divergently from an
 CC  operon consisting of a carbonic anhydrase, cyanase, and cyanate
 CC  transporter.
 --
-SN  cynR
+SN  1
 ID  Cyn operon transcriptional activator CynR
+DN  Cyn operon transcriptional activator CynR/cynR
 RQ  0
 EV  IPRXXXX; PF03466;
 --
-SN  cynS
+SN  2
 ID  Cyanase
+DN  Cyanase/cynS
 RQ  1
 EV  IPR008076; TIGR00673;
 TG  GO:0009440;
 --
-SN  cynT
+SN  3
 ID  Carbonic anhydrase, cyanate-induced
+DN  Carbonic anhydrase, cyanate-induced/cynT
 RQ  0
 EV  IPRXXXX; PF00484;
 TG  GO:0009440;
 --
-SN  cynX
+SN  4
 ID  Cyanate transporter
+DN  Cyanate transporter/cynX
 RQ  0
 EV  IPRXXXX; TIGR00896;
 TG  GO:0015704;

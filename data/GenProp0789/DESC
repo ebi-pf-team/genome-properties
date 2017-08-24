@@ -26,14 +26,16 @@ CC  regenerate homocysteine.
 **  SAM-dependent enzyme or molybdenum cofactor biosynthesis, followed by
 **  other Mo-related proteins.
 --
-SN  SAH_clv
+SN  1
 ID  SAH to homocysteine
+DN  SAH to homocysteine/SAH_clv
 RQ  1
 EV  IPR000043; TIGR00936;
 EV  GenProp0757;
 --
-SN  SAM_syn
+SN  2
 ID  Methionine adenosyltransferase
+DN  Methionine adenosyltransferase/SAM_syn
 RQ  1
 EV  IPR002133; TIGR01034;
 EV  IPR027790; PF01941;

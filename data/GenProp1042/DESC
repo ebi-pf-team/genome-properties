@@ -28,43 +28,51 @@ CC  biosynthetic cluster implies some degree of O-acetylation in the final
 CC  O-antigen, but the location(s) and fraction of modification are not yet
 CC  determined.
 --
-SN  Fuc
+SN  1
 ID  Source of L-fucose
+DN  Source of L-fucose/Fuc
 RQ  1
 EV  GenProp1024;
 --
-SN  WbsH
+SN  2
 ID  D-GalNAc alpha-1,3-D-Gal transferase WbsH
+DN  D-GalNAc alpha-1,3-D-Gal transferase WbsH/WbsH
 RQ  1
 EV  IPRXXXX; 2753;
 --
-SN  WbsI
+SN  3
 ID  O128(Ec)-specific O-acetyltransferase WbsI
+DN  O128(Ec)-specific O-acetyltransferase WbsI/WbsI
 RQ  1
 EV  IPRXXXX; 2910;
 --
-SN  WbsJ
+SN  4
 ID  D-Gal alpha-1,2-L-fucosyl transferase WbsJ
+DN  D-Gal alpha-1,2-L-fucosyl transferase WbsJ/WbsJ
 RQ  1
 EV  IPRXXXX; 2912;
 --
-SN  WbsK
+SN  5
 ID  D-GalNAc beta-1,3-D-Gal transferase WbsK
+DN  D-GalNAc beta-1,3-D-Gal transferase WbsK/WbsK
 RQ  1
 EV  IPRXXXX; 2913;
 --
-SN  WbsL
+SN  6
 ID  D-Gal beta-1,4-D-GalNAc transferase WbsL
+DN  D-Gal beta-1,4-D-GalNAc transferase WbsL/WbsL
 RQ  1
 EV  IPRXXXX; 2914;
 --
-SN  wzx128
+SN  7
 ID  O128(Ec)-antigen specific transporter (flippase) wzx
+DN  O128(Ec)-antigen specific transporter (flippase) wzx/wzx128
 RQ  1
 EV  IPRXXXX; 2911;
 --
-SN  wzy128
+SN  8
 ID  O128-antigen specific polymerase wzy
+DN  O128-antigen specific polymerase wzy/wzy128
 RQ  1
 EV  IPRXXXX; 2915;
 //

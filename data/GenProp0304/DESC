@@ -21,16 +21,16 @@ CC  an unidentified aminotransferase.
 **  D-3-phosphoglycerate dehydrogenase, in route to phosphoserine
 **  biosynthesis along with an unknown aminotransferase.
 --
-SN  pscS
+SN  1
 ID  Sep-tRNA:Cys-tRNA synthase
-DN  Sep-tRNA:Cys-tRNA synthase
+DN  Sep-tRNA:Cys-tRNA synthase/pscS
 RQ  1
 EV  IPR013375; TIGR02539; sufficient;
 TG  GO:0019344;
 --
-SN  sepS
+SN  2
 ID  O-phosphoseryl-tRNA synthetase
-DN  O-phosphoseryl-tRNA(Cys) synthetase
+DN  O-phosphoseryl-tRNA(Cys) synthetase/sepS
 RQ  1
 EV  IPR005246; TIGR00470; sufficient;
 TG  GO:0019344;

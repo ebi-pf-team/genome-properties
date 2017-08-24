@@ -14,53 +14,63 @@ CC  non-endosymbiont.
 **  FlgABCDEFGHIJKLMN  FliABCDEFGHIJKLMNOPQRST  FlhABCDEF  Missing:        
 **             FliUVWXYZ
 --
-SN  assmbl
+SN  1
 ID  Flagellar assembly apparatus components
+DN  Flagellar assembly apparatus components/assmbl
 RQ  1
 EV  GenProp0881;
 --
-SN  basal
+SN  2
 ID  Flagellar basal body complex
+DN  Flagellar basal body complex/basal
 RQ  1
 EV  GenProp0880;
 --
-SN  export
+SN  3
 ID  Flagellar export apparatus
+DN  Flagellar export apparatus/export
 RQ  1
 EV  GenProp0879;
 --
-SN  filament
+SN  4
 ID  Flagellar hook and filament complex
+DN  Flagellar hook and filament complex/filament
 RQ  1
 EV  GenProp0882;
 --
-SN  modif
+SN  5
 ID  Flagellar post-translational modification components
+DN  Flagellar post-translational modification components/modif
 RQ  0
 EV  GenProp0885;
 --
-SN  narrow
+SN  6
 ID  Flagellar operon proteins found in restricted phylogenetic ranges
+DN  Flagellar operon proteins found in restricted phylogenetic ranges/narrow
 RQ  0
 EV  GenProp0887;
 --
-SN  regulat
+SN  7
 ID  Flagellar regulation systems
+DN  Flagellar regulation systems/regulat
 RQ  0
 EV  GenProp0884;
 --
-SN  rotor
+SN  8
 ID  Flagellar motor switch (rotor) complex
+DN  Flagellar motor switch (rotor) complex/rotor
 RQ  1
 EV  GenProp0883;
 --
-SN  stator
+SN  9
 ID  Flagellar motor stator complex
+DN  Flagellar motor stator complex/stator
 RQ  1
 EV  GenProp0877;
 --
-SN  unknown
+SN  10
 ID  Flagellar components of unknown function
+DN  Flagellar components of unknown function/unknown
 RQ  0
 EV  GenProp0886;
 //

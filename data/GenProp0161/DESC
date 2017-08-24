@@ -14,68 +14,73 @@ CC  The second step removes the acyl group but adds sulfur from cysteine to
 CC  form cystathionine.  Cystathione beta-lyase cleaves cystathionine to
 CC  produce homocysteine, which is methylated to form methionine.
 --
-SN  AcSulf
+SN  1
 ID  O-acetylhomoserine (thiol)-lyase
+DN  O-acetylhomoserine (thiol)-lyase/AcSulf
 RQ  0
 EV  IPR006235; TIGR01326; sufficient;
 --
-SN  last
+SN  2
 ID  Methylation of homocysteine (various)
-DN  NOT APPLICABLE
+DN  NOT APPLICABLE/last
 RQ  1
 EV  IPR006276; TIGR01371; sufficient;
 TG  GO:0019279;
 EV  IPR011822; TIGR02082; sufficient;
 TG  GO:0019279;
 --
-SN  metA
+SN  3
 ID  Homoserine O-succinyltransferase
-DN  Homoserine O-succinyltransferase
+DN  Homoserine O-succinyltransferase/metA
 RQ  1
 EV  IPR005697; TIGR01001; sufficient;
 TG  GO:0019281;
 --
-SN  metB_ac
+SN  4
 ID  Cystathione gamma-synthase, acetyl branch
+DN  Cystathione gamma-synthase, acetyl branch/metB_ac
 RQ  1
 --
-SN  metB_suc
+SN  5
 ID  Cystathione gamma-synthase, succinyl branch
-DN  Cystathionine gamma-synthase
+DN  Cystathionine gamma-synthase/metB_suc
 RQ  1
 EV  IPR011821; TIGR02080; sufficient;
 TG  GO:0019281;
 --
-SN  metC
+SN  6
 ID  Cystathionine beta-lyase
-DN  Cystathionine beta-lyase
+DN  Cystathionine beta-lyase/metC
 RQ  1
 EV  IPR006233; TIGR01324; sufficient;
 TG  GO:0019279;
 EV  IPR006238; TIGR01329; sufficient;
 TG  GO:0019279;
 --
-SN  metF
+SN  7
 ID  5,10-methyleneTHF reductase
-DN  5,10-methylenetetrahydrofolate reductase
+DN  5,10-methylenetetrahydrofolate reductase/metF
 RQ  0
 EV  IPR004620; TIGR00676; sufficient;
 TG  GO:0019279;
 --
-SN  metW
+SN  8
 ID  Methionine biosynthesis protein MetW
+DN  Methionine biosynthesis protein MetW/metW
 RQ  0
 EV  IPR010743; TIGR02081; sufficient;
 TG  GO:0019279;
 --
-SN  metX
+SN  9
 ID  Homoserine O-acetyltransferase
+DN  Homoserine O-acetyltransferase/metX
 RQ  1
 EV  IPR008220; TIGR01392; sufficient;
 TG  GO:0019280;
 --
-SN  metZ
+SN  10
 ID  O-succinylhomoserine sulfhydrylase
+DN  O-succinylhomoserine sulfhydrylase/metZ
 RQ  0
 EV  IPR006234; TIGR01325; sufficient;
 TG  GO:0019281;

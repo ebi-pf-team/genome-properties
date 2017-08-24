@@ -9,13 +9,15 @@ CC  variously known as GDP-4-dehydro-6-deoxy-D-mannose (or ...-D-talose),
 CC  and GDP-4-dehydro-D-rhamnose.  The former is most often used with
 CC  repsect to this pathway since it is generally derived from mannose.
 --
-SN  4k6dMan
+SN  1
 ID  Source of GDP-4-keto-6-deoxymannose
+DN  Source of GDP-4-keto-6-deoxymannose/4k6dMan
 RQ  1
 EV  GenProp0930;
 --
-SN  fcl
+SN  2
 ID  GDP-L-fucose synthetase (GDP-4-keto-6-deoxy-D-mannose epimerase)
+DN  GDP-L-fucose synthetase (GDP-4-keto-6-deoxy-D-mannose epimerase)/fcl
 RQ  1
 EV  IPRXXXX; 2874;
 //

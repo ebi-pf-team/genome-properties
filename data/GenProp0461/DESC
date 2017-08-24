@@ -10,31 +10,36 @@ TH  0
 **  DeoA.  This feels more like a KEGG broad bin and less like a specific
 **  JCVI Genome Property. 
 --
-SN  DeoA
+SN  1
 ID  Thymidine phosphorylase
+DN  Thymidine phosphorylase/DeoA
 RQ  1
 EV  IPR013465; TIGR02643; sufficient;
 EV  IPR018090; TIGR02644; sufficient;
 EV  IPR013466; TIGR02645; sufficient;
 --
-SN  DeoB
+SN  2
 ID  Phosphopentomutase
+DN  Phosphopentomutase/DeoB
 RQ  1
 EV  IPR010045; TIGR01696; sufficient;
 --
-SN  DeoC
+SN  3
 ID  Deoxyribose-phosphate aldolase
+DN  Deoxyribose-phosphate aldolase/DeoC
 RQ  1
 EV  IPR011343; TIGR00126; sufficient;
 --
-SN  DeoD
+SN  4
 ID  Purine nucleoside phosphorylase
+DN  Purine nucleoside phosphorylase/DeoD
 RQ  1
 EV  IPR004402; TIGR00107; sufficient;
 EV  IPR011268; TIGR01697; sufficient;
 --
-SN  NupC
+SN  5
 ID  Nucleoside transporter
+DN  Nucleoside transporter/NupC
 RQ  0
 EV  IPRXXXX; TIGR00804;
 //

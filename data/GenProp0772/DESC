@@ -22,49 +22,57 @@ CC  siderophore systems such as enterobactin and aerobactin. Yersiniabactin
 CC  is made from salicylate, three cysteines, and a malonyl group by a
 CC  nonribosomal peptide synthetase/polyketide synthase.
 --
-SN  ybtA
+SN  1
 ID  Yersiniabactin transcriptional regulator YbtA
+DN  Yersiniabactin transcriptional regulator YbtA/ybtA
 RQ  0
 EV  IPRXXXX; 2159;
 --
-SN  ybtE
+SN  2
 ID  Salicyl-AMP ligase, yersiniabactin biosynthetic
+DN  Salicyl-AMP ligase, yersiniabactin biosynthetic/ybtE
 RQ  1
 EV  IPRXXXX; 2163;
 TG  GO:0019290;
 --
-SN  ybtS
+SN  3
 ID  Salicylate synthase, yersiniabactin system
+DN  Salicylate synthase, yersiniabactin system/ybtS
 RQ  1
 EV  IPRXXXX; 2167;
 TG  GO:0019290;
 --
-SN  ybtT
+SN  4
 ID  Yersiniabactin biosynthesis thioesterase YbtT
+DN  Yersiniabactin biosynthesis thioesterase YbtT/ybtT
 RQ  1
 EV  IPRXXXX; 2165;
 TG  GO:0019290;
 --
-SN  ybtU
+SN  5
 ID  Yersiniabactin synthetase, YbtU component
+DN  Yersiniabactin synthetase, YbtU component/ybtU
 RQ  1
 EV  IPRXXXX; 2164;
 TG  GO:0019290;
 --
-SN  ybtX
+SN  6
 ID  Yersiniabactin region putative transporter YbtX
+DN  Yersiniabactin region putative transporter YbtX/ybtX
 RQ  0
 EV  IPRXXXX; 2166;
 TG  GO:0019290;
 --
-SN  ybt_HM1
+SN  7
 ID  Yersiniabactin synthetase, HMWP1 component
+DN  Yersiniabactin synthetase, HMWP1 component/ybt_HM1
 RQ  1
 EV  IPRXXXX; 2162;
 TG  GO:0019290;
 --
-SN  ybt_HM2
+SN  8
 ID  Yersiniabactin synthetase, HMWP2 component
+DN  Yersiniabactin synthetase, HMWP2 component/ybt_HM2
 RQ  1
 EV  IPRXXXX; 2161;
 TG  GO:0019290;

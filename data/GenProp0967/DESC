@@ -15,25 +15,29 @@ CC  radical SAM enzyme, a conserved hypothetical protein that may be a
 CC  chaperone or a bacteriocin immunity protein, and a peptide that
 CC  contains low-complexity sequence in which every fourth residue is Cys.
 --
-SN  C4_chp
+SN  1
 ID  CXXX repeat peptide modification system protein
+DN  CXXX repeat peptide modification system protein/C4_chp
 RQ  1
 EV  IPR026413; TIGR04116;
 --
-SN  C4_matu
+SN  2
 ID  CXXX repeat peptide maturase
+DN  CXXX repeat peptide maturase/C4_matu
 RQ  1
 EV  IPR026401; TIGR04119;
 --
-SN  C4_pep
+SN  3
 ID  CXXX repeats rSAM maturase target
+DN  CXXX repeats rSAM maturase target/C4_pep
 RQ  0
 EV  IPR026393; TIGR04114;
 EV  IPR026484; TIGR04117;
 EV  IPR026424; TIGR04118;
 --
-SN  C4_rSAM
+SN  4
 ID  Radical SAM peptide maturase, CXXXX repeats system
+DN  Radical SAM peptide maturase, CXXXX repeats system/C4_rSAM
 RQ  1
 EV  IPR026412; TIGR04115;
 //

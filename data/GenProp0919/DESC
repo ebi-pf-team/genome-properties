@@ -19,13 +19,15 @@ CC  proteins, those closest by homology to the member of this system are
 CC  modification enzymes for short peptides.
 **  Wrote to Doug Mitchell to suggest he characterize this one.
 --
-SN  gut6Cys
+SN  1
 ID  Six-Cys-in-45 protein
+DN  Six-Cys-in-45 protein/gut6Cys
 RQ  1
 EV  IPR023975; TIGR03973;
 --
-SN  gutrSAM
+SN  2
 ID  Six-Cys-in-45 modification radical SAM protein
+DN  Six-Cys-in-45 modification radical SAM protein/gutrSAM
 RQ  1
 EV  IPR024025; TIGR03974;
 //

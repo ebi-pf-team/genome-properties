@@ -14,12 +14,14 @@ CC  PF04021 describes class III signal peptide as in MJ_1469.
 **  UNFINISHED!!! PF04021 with lowered cutoff 18.0/18.0 gives 145 hits in
 **  44 species.
 --
-SN  III_ase
+SN  1
 ID  Class III prepilin peptidase
+DN  Class III prepilin peptidase/III_ase
 RQ  1
 --
-SN  III_sig
+SN  2
 ID  Class III signal peptide
+DN  Class III signal peptide/III_sig
 RQ  1
 EV  IPR007166; PF04021;
 //

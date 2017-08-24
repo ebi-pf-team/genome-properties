@@ -16,14 +16,16 @@ CC  (NusA, NusB, and NusG) participate in Rho-dependent termination,
 CC  although those proteins have other functions as well and are more
 CC  nearly universal than Rho itself.
 --
-SN  Nus
+SN  1
 ID  Nus factors (NusA, NusB, NusG, and NexE/S10)
+DN  Nus factors (NusA, NusB, NusG, and NexE/S10)/Nus
 RQ  1
 EV  GenProp0132;
 TG  GO:0003715;
 --
-SN  rho
+SN  2
 ID  Rho termination factor
+DN  Rho termination factor/rho
 RQ  1
 EV  IPR004665; TIGR00767;
 TG  GO:0003715;

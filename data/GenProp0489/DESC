@@ -36,18 +36,21 @@ CC  the state, none found, and the generic property is assigned a state
 CC  greater than none found, this property will assign the state, not
 CC  supported.
 --
-SN  common
+SN  1
 ID  GenProp0485: conjugation common component
+DN  GenProp0485: conjugation common component/common
 RQ  1
 EV  GenProp0485;
 TG  GO:0009291;
 --
-SN  other
+SN  2
 ID  Apparent operon-associated genes
+DN  Apparent operon-associated genes/other
 RQ  0
 --
-SN  specific
+SN  3
 ID  GenProp0484: F-type specific components
+DN  GenProp0484: F-type specific components/specific
 RQ  1
 EV  GenProp0484;
 TG  GO:0009291;

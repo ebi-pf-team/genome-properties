@@ -15,12 +15,14 @@ CC  effectively removes a cytosolic proton. Decarboxylation/antiporter
 CC  systems for this and other (e.g. aspartate-alanine) substrate pairs can
 CC  provide protection against acidic pH.  
 --
-SN  TyrAnti
+SN  1
 ID  Tyrosine-tyramine antiporter
+DN  Tyrosine-tyramine antiporter/TyrAnti
 RQ  1
 --
-SN  Tyr_CO2
+SN  2
 ID  Tyrosine decarboxylase
+DN  Tyrosine decarboxylase/Tyr_CO2
 RQ  1
 EV  IPR022397; TIGR03811;
 //

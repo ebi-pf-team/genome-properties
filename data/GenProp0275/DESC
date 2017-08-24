@@ -45,85 +45,97 @@ CC  evidence for the anaerobic pathway is nonetheless quite strong when
 CC  this is the only component missing, especially when the aerobic pathway
 CC  is not supported.
 --
-SN  CbiA
+SN  1
 ID  Cobyrinate diamide synthase (CbiA)
+DN  Cobyrinate diamide synthase (CbiA)/CbiA
 RQ  1
 EV  IPR004484; TIGR00379; sufficient;
 TG  GO:0019251;
 --
-SN  CbiC
+SN  2
 ID  C-11, C-12 mutase (CbiC)
+DN  C-11, C-12 mutase (CbiC)/CbiC
 RQ  1
 EV  IPR003722; PF02570; sufficient;
 TG  GO:0019251;
 --
-SN  CbiD
+SN  3
 ID  CbiD
+DN  CbiD/CbiD
 RQ  1
 EV  IPR002748; TIGR00312; sufficient;
 TG  GO:0019251;
 EV  IPR002748; PF01888; sufficient;
 TG  GO:0019251;
 --
-SN  CbiE
+SN  4
 ID  C-5,15 methylase/C-12 decarboxylase (CbiE)
+DN  C-5,15 methylase/C-12 decarboxylase (CbiE)/CbiE
 RQ  1
 EV  IPR012818; TIGR02467; sufficient;
 TG  GO:0019251;
 --
-SN  CbiF
+SN  5
 ID  C-11 methylase (CbiF)
+DN  C-11 methylase (CbiF)/CbiF
 RQ  1
 EV  IPR006362; TIGR01465; sufficient;
 TG  GO:0019251;
 --
-SN  CbiG
+SN  6
 ID  CbiG
+DN  CbiG/CbiG
 RQ  1
 EV  IPR002750; PF01890; sufficient;
 TG  GO:0019251;
 --
-SN  CbiH
+SN  7
 ID  C-17 methylase (CbiH)
+DN  C-17 methylase (CbiH)/CbiH
 RQ  1
 EV  IPR006363; TIGR01466; sufficient;
 TG  GO:0019251;
 --
-SN  CbiJ
+SN  8
 ID  Co-precorrin 6 reductase (CbiJ)
+DN  Co-precorrin 6 reductase (CbiJ)/CbiJ
 RQ  0
 EV  IPR003723; TIGR00715; sufficient;
 TG  GO:0019251;
 EV  IPR003723; PF02571; sufficient;
 TG  GO:0019251;
 --
-SN  CbiK/X
+SN  9
 ID  Cobaltochelatase, monomeric
+DN  Cobaltochelatase, monomeric/CbiK/X
 RQ  1
 EV  IPR010388; PF06180; sufficient;
 TG  GO:0019251;
 EV  IPR002762; PF01903; sufficient;
 TG  GO:0019251;
 --
-SN  CbiL
+SN  10
 ID  C-20 methylase (CbiL)
+DN  C-20 methylase (CbiL)/CbiL
 RQ  1
 EV  IPR006364; TIGR01467; sufficient;
 TG  GO:0019251;
 --
-SN  CbiT
+SN  11
 ID  C-5,15 methylase/C-12 decarboxylase  (CbiT)
+DN  C-5,15 methylase/C-12 decarboxylase  (CbiT)/CbiT
 RQ  1
 EV  IPR014008; TIGR02469; sufficient;
 TG  GO:0019251;
 --
-SN  Co_red
+SN  12
 ID  Cobalt reductase
+DN  Cobalt reductase/Co_red
 RQ  0
 --
-SN  CobA
+SN  13
 ID  Uroporphyrinogen methyltransferase (2.1.1.107)
-DN  Uroporphyrin-III C-methyltransferase
+DN  Uroporphyrin-III C-methyltransferase/CobA
 RQ  1
 EV  IPR006366; TIGR01469; sufficient;
 TG  GO:0019251;

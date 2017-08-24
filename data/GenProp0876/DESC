@@ -21,32 +21,37 @@ CC  Similar cycles are driven by the decarboxylation of other amino acids.
 **  glutaminase (converts Gln to Glu plus NH3), so what antiports is a
 **  question.
 --
-SN  gadAB
+SN  1
 ID  Glutamate decarboxylase
+DN  Glutamate decarboxylase/gadAB
 RQ  1
 EV  IPR010107; TIGR01788;
 TG  GO:0010447;
 --
-SN  gadC
+SN  2
 ID  Glutamate/GABA antiporter
+DN  Glutamate/GABA antiporter/gadC
 RQ  1
 EV  IPR004759; TIGR00910;
 TG  GO:0010447;
 --
-SN  gadE
+SN  3
 ID  Transcriptional activator GadE
+DN  Transcriptional activator GadE/gadE
 RQ  0
 EV  IPRXXXX; 2656;
 TG  GO:0010447;
 --
-SN  gadW
+SN  4
 ID  Transcriptional activator GadW
+DN  Transcriptional activator GadW/gadW
 RQ  0
 EV  IPRXXXX; 2655;
 TG  GO:0010447;
 --
-SN  gadX
+SN  5
 ID  Transcriptional regulator GadX
+DN  Transcriptional regulator GadX/gadX
 RQ  0
 EV  IPRXXXX; 2657;
 TG  GO:0010447;

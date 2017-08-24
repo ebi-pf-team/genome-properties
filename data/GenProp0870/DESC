@@ -15,14 +15,16 @@ CC  effectively removes a cytosolic proton. Decarboxylation/antiporter
 CC  systems for this and other (e.g. aspartate-alanine) substrate pairs can
 CC  provide protection against acidic pH.
 --
-SN  CadA
+SN  1
 ID  Lysine decarboxylase
+DN  Lysine decarboxylase/CadA
 RQ  1
 EV  IPRXXXX; 2645;
 TG  GO:0010248;
 --
-SN  CadB
+SN  2
 ID  Cadaverine-lysine antiporter
+DN  Cadaverine-lysine antiporter/CadB
 RQ  1
 EV  IPRXXXX; 2644;
 TG  GO:0010248;

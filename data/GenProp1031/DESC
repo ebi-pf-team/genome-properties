@@ -25,38 +25,45 @@ CC  locus when needed. Taken together, we postulate that the O76(Ec)
 CC  antigen monomer is composed primarily if not exclusively of D-Gal and
 CC  D-GalNAc residues.
 --
-SN  AcTR
+SN  1
 ID  O76(Ec)-associated putative acetyltransferase
+DN  O76(Ec)-associated putative acetyltransferase/AcTR
 RQ  1
 EV  IPRXXXX; 2959;
 --
-SN  GT-1
+SN  2
 ID  O76(Ec)-associated glycosyltransferase GT-1
+DN  O76(Ec)-associated glycosyltransferase GT-1/GT-1
 RQ  1
 EV  IPRXXXX; 2958;
 --
-SN  GT-2
+SN  3
 ID  O76(Ec)-associated glycosyltransferase GT-2
+DN  O76(Ec)-associated glycosyltransferase GT-2/GT-2
 RQ  1
 EV  IPRXXXX; 2961;
 --
-SN  GT-3
+SN  4
 ID  O76(Ec)-associated glycosyltransferase GT-3
+DN  O76(Ec)-associated glycosyltransferase GT-3/GT-3
 RQ  1
 EV  IPRXXXX; 2962;
 --
-SN  GalE
+SN  5
 ID  O76(Ec)-associated UDP-glucose 4-epimerase
+DN  O76(Ec)-associated UDP-glucose 4-epimerase/GalE
 RQ  0
 EV  IPR005886; TIGR01179;
 --
-SN  wzx76
+SN  6
 ID  O76(Ec)-antigen specific transporter (flippase)
+DN  O76(Ec)-antigen specific transporter (flippase)/wzx76
 RQ  1
 EV  IPRXXXX; 2957;
 --
-SN  wzy76
+SN  7
 ID  O76(Ec)-antigen specific polymerase
+DN  O76(Ec)-antigen specific polymerase/wzy76
 RQ  1
 EV  IPRXXXX; 2960;
 //

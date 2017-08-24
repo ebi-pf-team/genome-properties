@@ -12,13 +12,15 @@ CC  transporter permease components such as LolC, MacB, and FtsX but
 CC  orphaned in the sense of not being found next to ATP-binding cassette
 CC  (ABC) proteins. The function is unknown.
 --
-SN  ADOP
+SN  1
 ID  TIGR03434
+DN  TIGR03434/ADOP
 RQ  1
 EV  IPR017800; TIGR03434;
 --
-SN  PadR
+SN  2
 ID  Transcriptional regulator, Acidobacterial, PadR-family
+DN  Transcriptional regulator, Acidobacterial, PadR-family/PadR
 RQ  1
 EV  IPR017799; TIGR03433;
 //

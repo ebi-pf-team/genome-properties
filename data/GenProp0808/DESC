@@ -5,18 +5,21 @@ AU  Haft DH
 TH  0
 CC  Get a better class name later. Conserved signal peptide.
 --
-SN  ABCtran
+SN  1
 ID  ABC-type bacteriocin transporter
+DN  ABC-type bacteriocin transporter/ABCtran
 RQ  1
 EV  IPR005897; TIGR01193;
 --
-SN  leader
+SN  2
 ID  TIGR01847
+DN  TIGR01847/leader
 RQ  1
 EV  IPR010133; TIGR01847;
 --
-SN  sec_acc
+SN  3
 ID  Secretion accessory protein
+DN  Secretion accessory protein/sec_acc
 RQ  1
 EV  IPR005696; TIGR01000;
 //

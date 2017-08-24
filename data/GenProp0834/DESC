@@ -13,14 +13,16 @@ CC  with HslV homologous to the proteasome beta subunit, but that system is
 CC  outside the scope of the archaeal-type bacterial 20S proteasome
 CC  described here.  
 --
-SN  prcA
+SN  1
 ID  Proteasome, alpha subunit
+DN  Proteasome, alpha subunit/prcA
 RQ  1
 EV  IPR022296; TIGR03691;
 TG  GO:0010498;
 --
-SN  prcB
+SN  2
 ID  Proteasome, beta subunit
+DN  Proteasome, beta subunit/prcB
 RQ  1
 EV  IPR022483; TIGR03690;
 TG  GO:0010498;

@@ -37,16 +37,18 @@ CC  pylori.
 **  the pair in H. pylori is general, others are like their clade-mates,
 **  and it is like there are really many two-gene systems.
 --
-SN  NifS
+SN  1
 ID  Cysteine desulfurase NifS
+DN  Cysteine desulfurase NifS/NifS
 RQ  1
 EV  IPR017772; TIGR03402;
 TG  GO:0016226;
 EV  IPR017773; TIGR03403;
 TG  GO:0016226;
 --
-SN  NifU
+SN  2
 ID  FeS cluster formation protein NifU
+DN  FeS cluster formation protein NifU/NifU
 RQ  1
 EV  IPR010238; TIGR02000; sufficient;
 TG  GO:0016226;

@@ -21,13 +21,15 @@ CC  Exonuclease VII, consisting of a large subunit XseA and small subunit
 CC  XseB, hydrolyzes single-stranded DNA. It acts in DNA mismatch repair
 CC  and homologous recombination. 
 --
-SN  XseA
+SN  1
 ID  Exodeoxyribonuclease VII large subunit
+DN  Exodeoxyribonuclease VII large subunit/XseA
 RQ  1
 EV  IPR003753; TIGR00237;
 --
-SN  XseB
+SN  2
 ID  Exodeoxyribonuclease VII small subunit
+DN  Exodeoxyribonuclease VII small subunit/XseB
 RQ  1
 EV  IPR003761; PF02609;
 EV  IPR003761; TIGR01280;

@@ -10,13 +10,15 @@ CC  glycine cleavage system and 2-osoacid dehydrogenase complexes.
 **  that contains the group (e.g. glycine cleavage system), before making
 **  public.
 --
-SN  lipA
+SN  1
 ID  Lipoic acid synthetase
+DN  Lipoic acid synthetase/lipA
 RQ  1
 EV  IPR003698; TIGR00510;
 --
-SN  lipB
+SN  2
 ID  Lipoyltransferase
+DN  Lipoyltransferase/lipB
 RQ  1
 EV  IPR000544; TIGR00214;
 //

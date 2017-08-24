@@ -10,13 +10,15 @@ CC  separate proteins designated MtnW and MtnX. The former resembles
 CC  RuBisCO and the latter belongs to the HAD superfamily hydrolases.
 **  Made to fit an alternate piece of property 60457
 --
-SN  mtnW
+SN  1
 ID  2,3-diketo-5-methylthiopentyl-1-phosphate enolase
+DN  2,3-diketo-5-methylthiopentyl-1-phosphate enolase/mtnW
 RQ  1
 EV  IPR017717; TIGR03332;
 --
-SN  mtnX
+SN  2
 ID  2-hydroxy-3-keto-5-methylthiopentenyl-1-phosphate phosphatase
+DN  2-hydroxy-3-keto-5-methylthiopentenyl-1-phosphate phosphatase/mtnX
 RQ  1
 EV  IPR017718; TIGR03333;
 //

@@ -9,58 +9,67 @@ CC  siderophore nocobactin NA.
 **  Being done by BrainGrab, including some rules based on minimally
 **  annotated genes.
 --
-SN  mbtA
+SN  1
 ID  Salicyl-AMP ligase MbtA
+DN  Salicyl-AMP ligase MbtA/mbtA
 RQ  1
 EV  IPRXXXX; 2181;
 TG  GO:0019290;
 --
-SN  mbtB
+SN  2
 ID  Mycobactin biosynthesis probable phenyloxazoline synthase
+DN  Mycobactin biosynthesis probable phenyloxazoline synthase/mbtB
 RQ  1
 EV  IPRXXXX; 2185;
 TG  GO:0019290;
 --
-SN  mbtC
+SN  3
 ID  Mycobactin biosynthesis enzyme MbtC
+DN  Mycobactin biosynthesis enzyme MbtC/mbtC
 RQ  1
 EV  IPRXXXX; 2180;
 TG  GO:0019290;
 --
-SN  mbtD
+SN  4
 ID  Mycobactin biosynthesis enzyme MbtD
+DN  Mycobactin biosynthesis enzyme MbtD/mbtD
 RQ  1
 EV  IPRXXXX; 2182;
 TG  GO:0019290;
 --
-SN  mbtE
+SN  5
 ID  Mycobactin biosynthesis enzyme MbtE
+DN  Mycobactin biosynthesis enzyme MbtE/mbtE
 RQ  1
 EV  IPRXXXX; 2183;
 TG  GO:0019290;
 --
-SN  mbtF
+SN  6
 ID  Mycobactin biosynthesis peptide synthase MbtF
+DN  Mycobactin biosynthesis peptide synthase MbtF/mbtF
 RQ  1
 EV  IPRXXXX; 2186;
 TG  GO:0019290;
 --
-SN  mbtG
+SN  7
 ID  Mycobactin biosynthesis enzyme MbtG
+DN  Mycobactin biosynthesis enzyme MbtG/mbtG
 RQ  1
 EV  IPRXXXX; 2184;
 TG  GO:0019290;
 --
-SN  mbtH
+SN  8
 ID  Mycobactin biosynthesis protein MbtH
+DN  Mycobactin biosynthesis protein MbtH/mbtH
 RQ  0
 EV  IPRXXXX; PF03621;
 TG  GO:0019290;
 EV  IPRXXXX; 2187;
 TG  GO:0019290;
 --
-SN  mbtI
+SN  9
 ID  Salicylate synthase MbtI
+DN  Salicylate synthase MbtI/mbtI
 RQ  1
 EV  IPRXXXX; 2178;
 TG  GO:0019290;

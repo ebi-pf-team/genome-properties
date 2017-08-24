@@ -18,43 +18,51 @@ CC  distinct subclasses of CRISPR/cas system. This Genome Property
 CC  describes a rare CRISPR/cas subtype, named Pging for its occurence in
 CC  Porphyromonas gingivalis W83.
 --
-SN  Cas1
+SN  1
 ID  Cas1, Pging region
+DN  Cas1, Pging region/Cas1
 RQ  1
 EV  IPR002729; TIGR00287;
 --
-SN  Cas2
+SN  2
 ID  Cas2, Pging region
+DN  Cas2, Pging region/Cas2
 RQ  1
 EV  IPR021127; TIGR01573;
 --
-SN  Cas3
+SN  3
 ID  Cas3, Pging region
+DN  Cas3, Pging region/Cas3
 RQ  1
 EV  IPR006474; TIGR01587;
 --
-SN  Cas4
+SN  4
 ID  Cas4, Pging region
+DN  Cas4, Pging region/Cas4
 RQ  1
 EV  IPR013343; TIGR00372;
 --
-SN  Cas5p
+SN  5
 ID  Cas5, Pging subtype variant
+DN  Cas5, Pging subtype variant/Cas5p
 RQ  1
 EV  IPR020031; TIGR03488;
 --
-SN  Cas6
+SN  6
 ID  Cas6, Pging region
+DN  Cas6, Pging region/Cas6
 RQ  1
 EV  IPR010156; TIGR01877;
 --
-SN  Csp1
+SN  7
 ID  Csp1 family TIGR03489
+DN  Csp1 family TIGR03489/Csp1
 RQ  1
 EV  IPR020032; TIGR03489;
 --
-SN  Csp2
+SN  8
 ID  Csp2 family TIGR03487
+DN  Csp2 family TIGR03487/Csp2
 RQ  1
 EV  IPR020029; TIGR03487;
 //

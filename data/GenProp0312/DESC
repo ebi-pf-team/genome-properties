@@ -32,38 +32,43 @@ CC  attachment to its cognate tRNA.
 **  PyL take methyl group from trimethyl (see PF06253), dimethyl, and
 **  monomethylamine (PF05369) (sequentially) in Methanosarcina.
 --
-SN  example
+SN  1
 ID   
+DN   /example
 RQ  1
 --
-SN  pylB
+SN  2
 ID  Pyrrolysine biosynthesis radical SAM protein
+DN  Pyrrolysine biosynthesis radical SAM protein/pylB
 RQ  1
 EV  IPR023891; TIGR03910;
 --
-SN  pylC
+SN  3
 ID  Pyrrolysine biosynthesis protein PylC
+DN  Pyrrolysine biosynthesis protein PylC/pylC
 RQ  1
 EV  IPR023890; TIGR03909;
 --
-SN  pylD
+SN  4
 ID  Pyrrolysine biosynthesis protein PylD
+DN  Pyrrolysine biosynthesis protein PylD/pylD
 RQ  1
 EV  IPR023914; TIGR03911;
 --
-SN  pylSc
+SN  5
 ID  Pyrrolysyl-tRNA synthetase, C-terminal region
-DN  Pyrrolysyl-tRNA synthetase (EC 6.1.1.26)
+DN  Pyrrolysyl-tRNA synthetase (EC 6.1.1.26)/pylSc
 RQ  1
 EV  IPR023877; TIGR02367; sufficient;
 --
-SN  pylSn
+SN  6
 ID  Pyrrolysyl-tRNA synthetase, N-terminal region
+DN  Pyrrolysyl-tRNA synthetase, N-terminal region/pylSn
 RQ  1
 EV  IPR023878; TIGR03912;
 --
-SN  pylT
+SN  7
 ID  Pyrrolysine tRNA
-DN  Pyrrolysine tRNA
+DN  Pyrrolysine tRNA/pylT
 RQ  1
 //

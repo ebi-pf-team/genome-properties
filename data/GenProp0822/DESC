@@ -31,14 +31,16 @@ CC  and secretory forms of system.
 **  capsule made is NOT polysaccharide.  Based on my request, there is now
 **  a GO term: capsule poly-gamma-glutamate biosynthetic process GO:0070502
 --
-SN  pgsB
+SN  1
 ID  Poly-gamma-glutamate synthase
+DN  Poly-gamma-glutamate synthase/pgsB
 RQ  1
 EV  IPR008337; TIGR04012;
 TG  GO:0070501;
 --
-SN  pgsC
+SN  2
 ID  Poly-gamma-glutamate biosynthesis protein PgsC
+DN  Poly-gamma-glutamate biosynthesis protein PgsC/pgsC
 RQ  1
 EV  IPR008338; TIGR04011;
 TG  GO:0070501;

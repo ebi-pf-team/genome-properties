@@ -22,8 +22,9 @@ CC  filaments.
 **  Ah, but I have not read the pay-walled reference 2, which does not give
 **  its findings in the abstract.
 --
-SN  exs_ldr
+SN  1
 ID  Exosporium leader peptide
+DN  Exosporium leader peptide/exs_ldr
 RQ  1
 EV  IPR021201; TIGR03720;
 TG  GO:0043592;

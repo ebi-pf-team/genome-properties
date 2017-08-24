@@ -12,13 +12,15 @@ CC  PF07505, phage protein Gp37Gp68, is probably misleading in most cases.
 **  Some stats: of 145 genomes with TIGR04474, one fusion and 102 have
 **  PF07505 adjacent. In other direction, maybe fewer.
 --
-SN  3CysProt
+SN  1
 ID  Three Cys motif protein
+DN  Three Cys motif protein/3CysProt
 RQ  1
 EV  IPR011101; PF07505;
 --
-SN  near3Cys
+SN  2
 ID  Three-Cys-motif partner protein
+DN  Three-Cys-motif partner protein/near3Cys
 RQ  1
 EV  IPR031009; TIGR04474;
 //

@@ -20,18 +20,21 @@ CC  staurosporine biosynthesis. VioE therefore is a good marker for the
 CC  biosynthesis of violacein or closely related compounds. 
 **  vioE seems to have no functionally different homologs.
 --
-SN  vioC
+SN  1
 ID  Violacein biosynthesis monooxygenase VioC
+DN  Violacein biosynthesis monooxygenase VioC/vioC
 RQ  1
 EV  IPRXXXX; 2336;
 --
-SN  vioD
+SN  2
 ID  Violacein biosynthesis enzyme VioD
+DN  Violacein biosynthesis enzyme VioD/vioD
 RQ  1
 EV  IPRXXXX; 2337;
 --
-SN  vioE
+SN  3
 ID  Violacein biosynthesis enzyme VioE
+DN  Violacein biosynthesis enzyme VioE/vioE
 RQ  1
 EV  IPR019902; TIGR03650;
 //

@@ -15,33 +15,39 @@ CC  of methane rather than in methanogenesis.
 **  S-methylcysteine, a 1-N-methylhistidine and a 5-methylarginine (PMID:
 **  11023796)
 --
-SN  alpha
+SN  1
 ID  Methyl-coenzyme M reductase, alpha subunit
+DN  Methyl-coenzyme M reductase, alpha subunit/alpha
 RQ  1
 EV  IPR016212; TIGR03256; sufficient;
 --
-SN  beta
+SN  2
 ID  Methyl-coenzyme M reductase, beta subunit
+DN  Methyl-coenzyme M reductase, beta subunit/beta
 RQ  1
 EV  IPR003179; TIGR03257; sufficient;
 --
-SN  gamma
+SN  3
 ID  Methyl-coenzyme M reductase, gamma subunit
+DN  Methyl-coenzyme M reductase, gamma subunit/gamma
 RQ  1
 EV  IPR003178; TIGR03259; sufficient;
 --
-SN  mcr_A2
+SN  4
 ID  Methyl coenzyme M reductase system, component A2
+DN  Methyl coenzyme M reductase system, component A2/mcr_A2
 RQ  1
 EV  IPR017669; TIGR03269; sufficient;
 --
-SN  oper_C
+SN  5
 ID  Methyl-coenzyme M reductase I operon protein C
+DN  Methyl-coenzyme M reductase I operon protein C/oper_C
 RQ  1
 EV  IPR007687; TIGR03264; sufficient;
 --
-SN  oper_D
+SN  6
 ID  Methyl-coenzyme M reductase operon protein D
+DN  Methyl-coenzyme M reductase operon protein D/oper_D
 RQ  1
 EV  IPR003901; TIGR03260; sufficient;
 //

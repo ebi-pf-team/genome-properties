@@ -14,81 +14,97 @@ CC  different subclasses.
 **  see splicing issues for: pTP, ....   33K and 22K have same N-term, but
 **  splicing...
 --
-SN  100K
+SN  1
 ID  Adenovirus late 100kD protein
+DN  Adenovirus late 100kD protein/100K
 RQ  1
 EV  IPR003381; PF02438;
 --
-SN  33K
+SN  2
 ID  Adenovirus 33K protein
+DN  Adenovirus 33K protein/33K
 RQ  1
 EV  IPR021304; PF11081;
 --
-SN  52K
+SN  3
 ID  Adenovirus L1 52/55-kilodalton protein
+DN  Adenovirus L1 52/55-kilodalton protein/52K
 RQ  1
 EV  IPR004292; PF03052;
 --
-SN  DBP
+SN  4
 ID  Adenovirus DNA-binding protein
+DN  Adenovirus DNA-binding protein/DBP
 RQ  1
 --
-SN  III
+SN  5
 ID  Adenovirus penton base protein
+DN  Adenovirus penton base protein/III
 RQ  1
 EV  IPR002605; PF01686;
 --
-SN  IVa2
+SN  6
 ID  Adenovirus IVa2 protein
+DN  Adenovirus IVa2 protein/IVa2
 RQ  1
 EV  IPR003389; PF02456;
 --
-SN  fiber
+SN  7
 ID  Adenovirus fiber protein
+DN  Adenovirus fiber protein/fiber
 RQ  1
 EV  IPR000978; PF00541;
 --
-SN  hexon
+SN  8
 ID  Adenovirus hexon protein
+DN  Adenovirus hexon protein/hexon
 RQ  1
 EV  IPR016107; PF01065;
 --
-SN  pIIIa
+SN  9
 ID  Adenovirus hexon-associated protein IIIa
+DN  Adenovirus hexon-associated protein IIIa/pIIIa
 RQ  1
 EV  IPR003479; PF02455;
 --
-SN  pTP
+SN  10
 ID  Adenovirus pre-terminal protein
+DN  Adenovirus pre-terminal protein/pTP
 RQ  1
 EV  IPR003391; PF02459;
 --
-SN  pVI
+SN  11
 ID  Adenovirus minor capsid protein VI
+DN  Adenovirus minor capsid protein VI/pVI
 RQ  1
 EV  IPR004243; PF02993;
 --
-SN  pVII
+SN  12
 ID  Adenovirus core protein VII
+DN  Adenovirus core protein VII/pVII
 RQ  1
 EV  IPR004912; PF03228;
 --
-SN  pVIII
+SN  13
 ID  Adenovirus hexon-associated protein VIII
+DN  Adenovirus hexon-associated protein VIII/pVIII
 RQ  1
 EV  IPR000646; PF01310;
 --
-SN  pX
+SN  14
 ID  Adenovirus late L2 mu core protein (Protein X)
+DN  Adenovirus late L2 mu core protein (Protein X)/pX
 RQ  1
 EV  IPR008393; PF05829;
 --
-SN  pol
+SN  15
 ID  Adenovirus pol protein
+DN  Adenovirus pol protein/pol
 RQ  1
 --
-SN  proteas
+SN  16
 ID  Adenovirus endoprotease
+DN  Adenovirus endoprotease/proteas
 RQ  1
 EV  IPR000855; PF00770;
 //

@@ -20,34 +20,39 @@ CC  NO.
 **  The rule that I want here is: IF (GarD and NOT GarL) AND (GenProp0717 =
 **  YES) THEN (THIS PROPERTY = NO)
 --
-SN  GarK
+SN  1
 ID  Glycerate kinase (2.7.1.31)
+DN  Glycerate kinase (2.7.1.31)/GarK
 RQ  0
 EV  IPR004381; TIGR00045; sufficient;
 TG  GO:0019394;
 EV  IPR004381; TIGR00045; sufficient;
 TG  GO:0019394;
 --
-SN  GarL
+SN  2
 ID  5-dehydro-4-deoxy-D-glucarate lyase (4.1.2.20)
+DN  5-dehydro-4-deoxy-D-glucarate lyase (4.1.2.20)/GarL
 RQ  1
 EV  IPR017648; TIGR03239; sufficient;
 TG  GO:0019394;
 --
-SN  GarR
+SN  3
 ID  Tartronate semialdehyde reductase (1.1.1.60)
+DN  Tartronate semialdehyde reductase (1.1.1.60)/GarR
 RQ  1
 EV  IPR006398; TIGR01505; sufficient;
 TG  GO:0019394;
 --
-SN  GudD
+SN  4
 ID  Glucarate dehydratase (4.2.1.40)
+DN  Glucarate dehydratase (4.2.1.40)/GudD
 RQ  1
 EV  IPR017653; TIGR03247; sufficient;
 TG  GO:0019394;
 --
-SN  transp
+SN  5
 ID  D-glucarate transporter, putative
+DN  D-glucarate transporter, putative/transp
 RQ  0
 EV  IPRXXXX; TIGR00893;
 TG  GO:0019394;

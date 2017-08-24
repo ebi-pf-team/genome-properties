@@ -7,13 +7,15 @@ CC  dTDP-D-viosamine (dTDP-4-amino-4-deoxy-D-quinovose) is a precursor of
 CC  various 6-deoxy, 4-amino and 4-substituted sugars found in various E.
 CC  coli O-antigens.
 --
-SN  VioA
+SN  1
 ID  DTDP-D-viosamine synthase
+DN  DTDP-D-viosamine synthase/VioA
 RQ  1
 EV  IPRXXXX; 2900;
 --
-SN  ddodtDg
+SN  2
 ID  Source of 4,6-dideoxy-4-oxo-dTDP-D-glucose
+DN  Source of 4,6-dideoxy-4-oxo-dTDP-D-glucose/ddodtDg
 RQ  1
 EV  GenProp0950;
 //

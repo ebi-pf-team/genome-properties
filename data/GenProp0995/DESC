@@ -8,13 +8,15 @@ CC  other than sedoheptulose-7-phosphate.  The two models included here are
 CC  expected to narrowly detect this enzyme in strains of Leptospira
 CC  interrogans.
 --
-SN  CCT0010
+SN  1
 ID  Transketolase, thiamine diphosphate binding domain, LLPSF_CCT_00010 family
+DN  Transketolase, thiamine diphosphate binding domain, LLPSF_CCT_00010 family/CCT0010
 RQ  1
 EV  IPRXXXX; 2787;
 --
-SN  CCT0011
+SN  2
 ID  Transketolase, C-terminal domain, LLPSF_CCT_00011 family
+DN  Transketolase, C-terminal domain, LLPSF_CCT_00011 family/CCT0011
 RQ  1
 EV  IPRXXXX; 2788;
 //

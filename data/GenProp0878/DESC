@@ -20,14 +20,16 @@ CC  catabolism, as in Clostridium subterminale SB4 (see PMID:10629195).
 **  9/14/2009 to Prof. Dr. Erhard Bremer, who works on compatible solutes
 **  in Bacillus, to ask about AblA/AlbB predictions outside the archaea.
 --
-SN  ablA
+SN  1
 ID  Lysine-2,3-aminomutase
+DN  Lysine-2,3-aminomutase/ablA
 RQ  1
 EV  IPR022459; TIGR03820;
 TG  GO:0042398;
 --
-SN  ablB
+SN  2
 ID  Beta-lysine acetyltransferase
+DN  Beta-lysine acetyltransferase/ablB
 RQ  1
 EV  IPR022525; TIGR03827;
 TG  GO:0042398;

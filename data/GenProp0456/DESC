@@ -24,15 +24,15 @@ CC  transcriptional attenuation.
 **  BEWARE: often the leader peptide gene is not called. The PFAM version
 **  HMM hits only seed members.
 --
-SN  TnaA
+SN  1
 ID  Tryptophanase TnaA
-DN  Tryptophanase (EC:4.1.99.1)
+DN  Tryptophanase (EC:4.1.99.1)/TnaA
 RQ  1
 EV  IPR013440; TIGR02617; sufficient;
 --
-SN  leader
+SN  2
 ID  Tryptophanase leader pep TnaC
-DN  Tryptophanase leader peptide
+DN  Tryptophanase leader peptide/leader
 RQ  1
 EV  IPR012620; TIGR02616; sufficient;
 //

@@ -6,23 +6,27 @@ TH  0
 CC  The expression and operation of bacterial flagella are regulated by a
 CC  number of control systems.
 --
-SN  FlgM
+SN  1
 ID  Flagellar biosynthesis anti-sigma factor FlgM
+DN  Flagellar biosynthesis anti-sigma factor FlgM/FlgM
 RQ  0
 EV  IPR007412; TIGR03824;
 --
-SN  FliA
+SN  2
 ID  Flagellar operon sigma factor FliA
+DN  Flagellar operon sigma factor FliA/FliA
 RQ  1
 EV  IPR012845; TIGR02479; sufficient;
 --
-SN  FliZ
+SN  3
 ID  Flagellar regulatory protein FliZ
+DN  Flagellar regulatory protein FliZ/FliZ
 RQ  0
 EV  IPR022523; TIGR03823;
 --
-SN  chemo
+SN  4
 ID  Chemotaxis response regulator system
+DN  Chemotaxis response regulator system/chemo
 RQ  0
 EV  GenProp0762;
 //

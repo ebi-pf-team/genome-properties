@@ -4,28 +4,33 @@ TP  SYSTEM
 AU  Haft DH
 TH  0
 --
-SN  gakA
+SN  1
 ID  Amphi-Trp domain protein, GAK system
+DN  Amphi-Trp domain protein, GAK system/gakA
 RQ  1
 EV  IPRXXXX; TIGR04354;
 --
-SN  gakCH
+SN  2
 ID  XXXCH domain protein
+DN  XXXCH domain protein/gakCH
 RQ  0
 EV  IPR027588; TIGR04358;
 --
-SN  gakD
+SN  3
 ID  CofD-related protein, GAK system
+DN  CofD-related protein, GAK system/gakD
 RQ  1
 EV  IPR027591; TIGR04357;
 --
-SN  gakG
+SN  4
 ID  ATP-grasp enzyme, GAK system
+DN  ATP-grasp enzyme, GAK system/gakG
 RQ  1
 EV  IPR027592; TIGR04356;
 --
-SN  gakK
+SN  5
 ID  HprK-related kinase, GAK system
+DN  HprK-related kinase, GAK system/gakK
 RQ  1
 EV  IPR027597; TIGR04355;
 //

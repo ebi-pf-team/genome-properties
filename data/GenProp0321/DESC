@@ -15,8 +15,9 @@ CC  bacteriostatic rather than bacteriocidal activity, and may benefit the
 CC  host cell by enabling a persister state in response to certain
 CC  challenges.
 --
-SN  antidote
+SN  1
 ID  Antidote partner (various)
+DN  Antidote partner (various)/antidote
 RQ  1
 EV  IPR006442; TIGR01552; sufficient;
 EV  IPR006442; PF02604; sufficient;
@@ -29,8 +30,9 @@ EV  IPR013432; TIGR02609; sufficient;
 EV  IPR013430; TIGR02607; sufficient;
 EV  IPR022789; TIGR02606; sufficient;
 --
-SN  killing
+SN  2
 ID  Killing partner
+DN  Killing partner/killing
 RQ  1
 EV  IPR007712; PF05016; sufficient;
 EV  IPR009614; TIGR02116; sufficient;
@@ -46,8 +48,9 @@ EV  IPR003477; PF02452;
 EV  IPR002850; TIGR00305;
 EV  IPR009241; PF05973;
 --
-SN  unassign
+SN  3
 ID  Unassigned role in predicted module
+DN  Unassigned role in predicted module/unassign
 RQ  0
 EV  IPR013406; TIGR02574; sufficient;
 //

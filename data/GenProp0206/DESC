@@ -6,36 +6,40 @@ TH  0
 CC  in progress - various Fts proteins
 **  in progress
 --
-SN  FtsA
+SN  1
 ID  Actin-like septal ring protein FtsA
+DN  Actin-like septal ring protein FtsA/FtsA
 RQ  1
 EV  IPR020823; TIGR01174; sufficient;
 --
-SN  FtsL
+SN  2
 ID  Cell division protein FtsL
-DN  Cell division protein FtsL
+DN  Cell division protein FtsL/FtsL
 RQ  1
 EV  IPR011922; PF04999; sufficient;
 EV  IPR011922; TIGR02209; sufficient;
 --
-SN  FtsZ
+SN  3
 ID  Tubulin-like GTPase FtsZ
+DN  Tubulin-like GTPase FtsZ/FtsZ
 RQ  1
 EV  IPR000158; TIGR00065; sufficient;
 --
-SN  ftsN
+SN  4
 ID  Cell division protein FtsN
+DN  Cell division protein FtsN/ftsN
 RQ  0
 EV  IPR011930; TIGR02223; sufficient;
 --
-SN  ftsQ
+SN  5
 ID  FtsQ/DivIB cell division protein
+DN  FtsQ/DivIB cell division protein/ftsQ
 RQ  1
 EV  IPR005548; PF03799; sufficient;
 --
-SN  zipA
+SN  6
 ID  Cell division protein ZipA
-DN  Cell division protein ZipA
+DN  Cell division protein ZipA/zipA
 RQ  1
 EV  IPR011919; TIGR02205; sufficient;
 //

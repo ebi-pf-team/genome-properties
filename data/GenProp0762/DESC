@@ -19,58 +19,68 @@ CC  not currently included.
 **  NTL10EC2051 = cheZ  NTL10EC2052 = cheY  NTL10EC2053 = cheB  NTL10EC2054
 **  = cheR  NTL10EC2056 = cheW  NTL10EC2057 = cheA
 --
-SN  CheA
+SN  1
 ID  Chemotaxis histidine kinase CheA
+DN  Chemotaxis histidine kinase CheA/CheA
 RQ  1
 EV  IPRXXXX; 2068;
 EV  IPRXXXX; 2632;
 --
-SN  CheB
+SN  2
 ID  Chemotaxis methylesterase CheB
+DN  Chemotaxis methylesterase CheB/CheB
 RQ  0
 EV  IPR000673; PF01339;
 --
-SN  CheD
+SN  3
 ID  Chemotaxis protein CheD
+DN  Chemotaxis protein CheD/CheD
 RQ  0
 EV  IPR005659; PF03975;
 --
-SN  CheR
+SN  4
 ID  Chemotaxis methyltransferase CheR
+DN  Chemotaxis methyltransferase CheR/CheR
 RQ  0
 EV  IPRXXXX; 2066;
 EV  IPRXXXX; PF01739;
 --
-SN  CheW
+SN  5
 ID  Chemotaxis adaptor protein CheW
+DN  Chemotaxis adaptor protein CheW/CheW
 RQ  1
 EV  IPRXXXX; 2065;
 EV  IPRXXXX; 2658;
 --
-SN  CheY
+SN  6
 ID  Chemotaxis response regulator CheY
+DN  Chemotaxis response regulator CheY/CheY
 RQ  1
 EV  IPRXXXX; 2067;
 EV  IPRXXXX; 2660;
 --
-SN  CheZ
+SN  7
 ID  Chemotaxis phosphatase CheZ
+DN  Chemotaxis phosphatase CheZ/CheZ
 RQ  1
 EV  IPR007439; PF04344;
 EV  IPRXXXX; 2064;
 --
-SN  MCP
+SN  8
 ID  Methyl-accepting chemotaxis protein
+DN  Methyl-accepting chemotaxis protein/MCP
 RQ  1
 EV  IPR004089; PF00015;
 --
-SN  Ppase
+SN  9
 ID  CheY-P phosphatases, CheC/FliY/FliN/CheX
+DN  CheY-P phosphatases, CheC/FliY/FliN/CheX/Ppase
 RQ  0
 EV  IPR007597; PF04509;
 --
-SN  RRR
+SN  10
 ID  Operonic Response Regulator Receiver domain protein
+DN  Operonic Response Regulator Receiver domain protein/RRR
 RQ  0
 EV  IPRXXXX; PF00072;
 //

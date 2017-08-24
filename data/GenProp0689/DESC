@@ -16,22 +16,26 @@ CC  to other final products involved, for instance in covactor
 CC  biosynthesis. Phosphoglycerate may be put to a large number of
 CC  metabolic uses.
 --
-SN  gcl
+SN  1
 ID  Glyoxalate carbo-ligase
+DN  Glyoxalate carbo-ligase/gcl
 RQ  1
 EV  IPR006397; TIGR01504; sufficient;
 --
-SN  glxK
+SN  2
 ID  Glycerate kinase (2.7.1.31)
+DN  Glycerate kinase (2.7.1.31)/glxK
 RQ  1
 --
-SN  glxR
+SN  3
 ID  Tartronate semialdehyde reductase (1.1.1.60)
+DN  Tartronate semialdehyde reductase (1.1.1.60)/glxR
 RQ  1
 EV  IPR006398; TIGR01505; sufficient;
 --
-SN  hyi
+SN  4
 ID  Hydroxypyruvate isomerase
+DN  Hydroxypyruvate isomerase/hyi
 RQ  0
 EV  IPR017643; TIGR03234; sufficient;
 //

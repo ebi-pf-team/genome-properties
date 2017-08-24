@@ -12,15 +12,15 @@ CC  regulation of the SOS response but also for homologous recombination
 CC  and for various other DNA repair and damage tolerance pathways.
 **  Unsure whether or not to include recBCD and others into this property.
 --
-SN  lexA
+SN  1
 ID  LexA repressor
-DN  LexA repressor
+DN  LexA repressor/lexA
 RQ  1
 EV  IPR006200; TIGR00498; sufficient;
 --
-SN  recA
+SN  2
 ID  RecA protein
-DN  RecA protein
+DN  RecA protein/recA
 RQ  1
 EV  IPR013765; TIGR02012; sufficient;
 //

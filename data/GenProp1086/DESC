@@ -19,18 +19,21 @@ CC  indicate lateral gene transfer.
 **  the enzymes are insensitive. That would be an interesting phenomenon.
 **  8/26/2013.
 --
-SN  FT_MarR
+SN  1
 ID  Mobile rSAM pair MarR family regulator
+DN  Mobile rSAM pair MarR family regulator/FT_MarR
 RQ  1
 EV  IPR031011; TIGR04472;
 --
-SN  FTsam1
+SN  2
 ID  Radical SAM mobile pair protein A
+DN  Radical SAM mobile pair protein A/FTsam1
 RQ  1
 EV  IPR031010; TIGR04471;
 --
-SN  FTsam2
+SN  3
 ID  Radical SAM mobile pair protein B
+DN  Radical SAM mobile pair protein B/FTsam2
 RQ  1
 EV  IPR031012; TIGR04470;
 //

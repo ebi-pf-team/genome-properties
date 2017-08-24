@@ -8,25 +8,25 @@ CC  uroporphyrinogen III to protoporphyrin IX, a precursor to both
 CC  protoheme (heme) and chlorophyll. Uroporphyrinogen III can be derived
 CC  from 5-aminolevulinate, as described by GenProp0220.
 --
-SN  hemE
+SN  1
 ID  Uroporphyrinogen decarboxylase
-DN  Uroporphyrinogen decarboxylase
+DN  Uroporphyrinogen decarboxylase/hemE
 RQ  1
 EV  IPR006361; TIGR01464; sufficient;
 TG  GO:0006779;
 --
-SN  hemF
+SN  2
 ID  Coproporphyrinogen III oxidase
-DN  Coproporphyrinogen III oxidase
+DN  Coproporphyrinogen III oxidase/hemF
 RQ  1
 EV  IPR001260; PF01218; sufficient;
 TG  GO:0006779;
 EV  IPR004558; TIGR00538; sufficient;
 TG  GO:0006779;
 --
-SN  hemG
+SN  3
 ID  Protoporphyrinogen oxidase
-DN  Protoporphyrinogen oxidase
+DN  Protoporphyrinogen oxidase/hemG
 RQ  1
 EV  IPR004572; TIGR00562; sufficient;
 TG  GO:0006779;

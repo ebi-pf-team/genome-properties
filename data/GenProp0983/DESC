@@ -11,13 +11,15 @@ CC  repetitive and most show extensive mutual sequence homology. The first
 CC  identified species with this system are Methanohalophilus mahii DSM
 CC  5219 and Methanohalobium evestigatum Z-7303.
 --
-SN  CTERM
+SN  1
 ID  VPXXXP-CTERM archaeal exosortase target domain
+DN  VPXXXP-CTERM archaeal exosortase target domain/CTERM
 RQ  1
 EV  IPR026428; TIGR04143;
 --
-SN  EXOSORT
+SN  2
 ID  Exosortase, archaeal VPXXXP-CTERM-specific
+DN  Exosortase, archaeal VPXXXP-CTERM-specific/EXOSORT
 RQ  1
 EV  IPR026430; TIGR04144;
 //

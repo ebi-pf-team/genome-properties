@@ -36,18 +36,21 @@ CC  adapted here from literature.
 **  new property.
 **  Sinorhizobium meliloti and Rhizobium meliloti are synonyms.
 --
-SN  repA
+SN  1
 ID  RepA plasmid partitioning protein
+DN  RepA plasmid partitioning protein/repA
 RQ  1
 EV  IPR017818; TIGR03453;
 --
-SN  repB
+SN  2
 ID  RepB plasmid partitioning protein
+DN  RepB plasmid partitioning protein/repB
 RQ  1
 EV  IPR017819; TIGR03454; sufficient;
 --
-SN  repC
+SN  3
 ID  RepC replication initiator protein
+DN  RepC replication initiator protein/repC
 RQ  1
 EV  IPR005090; PF03428; sufficient;
 //

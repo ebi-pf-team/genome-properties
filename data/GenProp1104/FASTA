@@ -1,8 +1,8 @@
->sp|P0A6A8|ACP_ECOLI (Step num: acpP) Acyl carrier protein OS=Escherichia coli (strain K12) GN=acpP PE=1 SV=2
+>sp|P0A6A8|ACP_ECOLI (Step num: 1) Acyl carrier protein OS=Escherichia coli (strain K12) GN=acpP PE=1 SV=2
 MSTIEERVKKIIGEQLGVKQEEVTNNASFVEDLGADSLDTVELVMALEEEFDTEIPDEEA
 EKITTVQAAIDYINGHQA
 
->sp|P24224|ACPS_ECOLI (Step num: acpS) Holo-[acyl-carrier-protein] synthase OS=Escherichia coli (strain K12) GN=acpS PE=1 SV=3
+>sp|P24224|ACPS_ECOLI (Step num: 2) Holo-[acyl-carrier-protein] synthase OS=Escherichia coli (strain K12) GN=acpS PE=1 SV=3
 MAILGLGTDIVEIARIEAVIARSGDRLARRVLSDNEWAIWKTHHQPVRFLAKRFAVKEAA
 AKAFGTGIRNGLAFNQFEVFNDELGKPRLRLWGEALKLAEKLGVANMHVTLADERHYACA
 TVIIES

@@ -7,13 +7,15 @@ CC  This property exists to describe a branch in the methionine salvage
 CC  pathway in which MtnN followed by mtnK replaces the single step of
 CC  MtnP.
 --
-SN  mtnK
+SN  1
 ID  5-methylthioribose kinase
+DN  5-methylthioribose kinase/mtnK
 RQ  1
 EV  IPR009212; TIGR01767;
 --
-SN  mtnN
+SN  2
 ID  Methylthioadenosine nucleosidase
+DN  Methylthioadenosine nucleosidase/mtnN
 RQ  1
 EV  IPR010049; TIGR01704;
 //

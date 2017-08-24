@@ -20,12 +20,14 @@ CC  targets have a spacer.
 **  Fretibacterium fastidiosum, Cloacibacillus evryensis, Synergistes
 **  jonesii all have.
 --
-SN  sorter
+SN  1
 ID  Unknown sorting enzyme for Synergist-CTERM
+DN  Unknown sorting enzyme for Synergist-CTERM/sorter
 RQ  1
 --
-SN  target
+SN  2
 ID  Synergist_CTERM protein sorting domain
+DN  Synergist_CTERM protein sorting domain/target
 RQ  1
 EV  IPR030821; TIGR04564;
 //

@@ -30,18 +30,21 @@ CC  additional ligand.
 **  So the list of accessory proteins is probably way-incomplete! And HmdC
 **  shows up in ntmh06 without the other two.
 --
-SN  hmdA
+SN  1
 ID  5,10-methenyltetrahydromethanopterin hydrogenase
+DN  5,10-methenyltetrahydromethanopterin hydrogenase/hmdA
 RQ  1
 EV  IPR010062; TIGR01723;
 --
-SN  hmdB
+SN  2
 ID  HmdA cofactor biosynthesis rSAM protein HmdB
+DN  HmdA cofactor biosynthesis rSAM protein HmdB/hmdB
 RQ  1
 EV  IPR023858; TIGR03957;
 --
-SN  hmdC
+SN  3
 ID  HmdA cofactor biosynthesis protein HmdC
+DN  HmdA cofactor biosynthesis protein HmdC/hmdC
 RQ  1
 EV  IPR016760; TIGR03958;
 //

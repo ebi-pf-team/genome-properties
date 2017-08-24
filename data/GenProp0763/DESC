@@ -20,59 +20,71 @@ CC  that belongs to a family of selenium-dependent molybdenum hydroxylases.
 **  secondary annotations. Deciding here, against doing the four-subunit
 **  first enzyme, nicotinate dehydrogenase, as a separate property.
 --
-SN  n1_ndhF
+SN  1
 ID  Nicotinate dehydrogenase, FAD subunit
+DN  Nicotinate dehydrogenase, FAD subunit/n1_ndhF
 RQ  1
 EV  IPRXXXX; 2080;
 TG  GO:0046497;
 --
-SN  n1_ndhL
+SN  2
 ID  Nicotinate dehydrogenase, NdhL subunit
+DN  Nicotinate dehydrogenase, NdhL subunit/n1_ndhL
 RQ  1
 --
-SN  n1_ndhM
+SN  3
 ID  Nicotinate dehydrogenase, NdhM subunit
+DN  Nicotinate dehydrogenase, NdhM subunit/n1_ndhM
 RQ  1
 --
-SN  n1_ndhS
+SN  4
 ID  Nicotinate dehydrogenase, 2x[2Fe-2S] subunit
+DN  Nicotinate dehydrogenase, 2x[2Fe-2S] subunit/n1_ndhS
 RQ  1
 EV  IPRXXXX; 2081;
 TG  GO:0046497;
 --
-SN  nic_2
+SN  5
 ID  6-hydroxynicotinate reductase (1.3.7.1)
+DN  6-hydroxynicotinate reductase (1.3.7.1)/nic_2
 RQ  1
 --
-SN  nic_3
+SN  6
 ID  Enamidase (3.5.2.18)
+DN  Enamidase (3.5.2.18)/nic_3
 RQ  1
 EV  IPRXXXX; 2082;
 TG  GO:0046497;
 --
-SN  nic_4
+SN  7
 ID  2-hydroxymethylglutarate dehydrogenase (1.1.1.291)
+DN  2-hydroxymethylglutarate dehydrogenase (1.1.1.291)/nic_4
 RQ  1
 --
-SN  nic_5
+SN  8
 ID  2-hydroxymethylglutarate dehydratase
+DN  2-hydroxymethylglutarate dehydratase/nic_5
 RQ  1
 --
-SN  nic_6
+SN  9
 ID  2-methyleneglutarate mutase (5.4.99.4)
+DN  2-methyleneglutarate mutase (5.4.99.4)/nic_6
 RQ  1
 EV  IPRXXXX; 2079;
 TG  GO:0046497;
 --
-SN  nic_7
+SN  10
 ID  Methylitaconate Delta-isomerase (5.3.3.6)
+DN  Methylitaconate Delta-isomerase (5.3.3.6)/nic_7
 RQ  1
 --
-SN  nic_8
+SN  11
 ID  Dimethylmaleate hydratase (4.2.1.85)
+DN  Dimethylmaleate hydratase (4.2.1.85)/nic_8
 RQ  1
 --
-SN  nic_9
+SN  12
 ID  2,3-dimethylmalate lyase (4.1.3.32)
+DN  2,3-dimethylmalate lyase (4.1.3.32)/nic_9
 RQ  1
 //

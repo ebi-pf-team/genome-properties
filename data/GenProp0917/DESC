@@ -32,80 +32,92 @@ CC  required electron exchange cofactor.
 **  PMID:9249038 describes an uncharacterized yellow chromophore and
 **  describes a connection to 5'-deazaflavin (coenzyme F420).
 --
-SN  ac_AD_4
+SN  1
 ID  Oxidoreductase, FAD/FMN-binding
+DN  Oxidoreductase, FAD/FMN-binding/ac_AD_4
 RQ  0
 EV  IPR023987; TIGR03997;
 TG  GO:0055114;
 EV  IPR023967; TIGR03996;
 TG  GO:0051188;
 --
-SN  ac_aux1
+SN  2
 ID  Dehydrogenase, Rv0697 family
+DN  Dehydrogenase, Rv0697 family/ac_aux1
 RQ  0
 EV  IPR023978; TIGR03970;
 TG  GO:0055114;
 EV  IPR030900; TIGR04542;
 TG  GO:0051188;
 --
-SN  mftA
+SN  3
 ID  Mycofactocin precursor
+DN  Mycofactocin precursor/mftA
 RQ  1
 EV  IPR023988; TIGR03969;
 TG  GO:0051188;
 --
-SN  mftB
+SN  4
 ID  RPExGFAL protein
+DN  RPExGFAL protein/mftB
 RQ  1
 EV  IPR023850; TIGR03967;
 TG  GO:0051188;
 --
-SN  mftCSAM
+SN  5
 ID  Radical SAM mycofactocin maturase
+DN  Radical SAM mycofactocin maturase/mftCSAM
 RQ  1
 EV  IPR023913; TIGR03962;
 TG  GO:0051188;
 --
-SN  mftDflv
+SN  6
 ID  Heme/FMN protein,
+DN  Heme/FMN protein,/mftDflv
 RQ  1
 EV  IPR023989; TIGR03966;
 TG  GO:0055114;
 --
-SN  mftEcre
+SN  7
 ID  Creatininase family protein
+DN  Creatininase family protein/mftEcre
 RQ  1
 EV  IPR023871; TIGR03964;
 TG  GO:0051188;
 --
-SN  mftFgly
+SN  8
 ID  Glycosyltransferase
+DN  Glycosyltransferase/mftFgly
 RQ  1
 EV  IPR023981; TIGR03965;
 TG  GO:0051188;
 --
-SN  mftR
+SN  9
 ID  Mycofactocin system transcriptional regulator
+DN  Mycofactocin system transcriptional regulator/mftR
 RQ  0
 EV  IPR023851; TIGR03968;
 TG  GO:0051193;
 --
-SN  mft_AD1
+SN  10
 ID  Dehydrogenase, SDR family
+DN  Dehydrogenase, SDR family/mft_AD1
 RQ  0
 EV  IPR023985; TIGR03971;
 TG  GO:0055114;
 EV  IPR030981; TIGR04504;
 TG  GO:0051188;
 --
-SN  mft_AD2
+SN  11
 ID  Dehydrogenase, Rxyl_3153 family
+DN  Dehydrogenase, Rxyl_3153 family/mft_AD2
 RQ  1
 EV  IPR023921; TIGR03989;
 TG  GO:0055114;
 --
-SN  mft_AD3
+SN  12
 ID  Dehydrogenase, iron-activated family
+DN  Dehydrogenase, iron-activated family/mft_AD3
 RQ  0
 EV  IPRXXXX; PF00465;
 TG  GO:0055114;

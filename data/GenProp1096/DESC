@@ -37,15 +37,18 @@ CC  computing this pathway are not yet available.
 **  MJ1596, MJ0503, MJ1003, MJ1271, though Some headed to
 **  alpha-ketosuberate
 --
-SN  HACN_lg
+SN  1
 ID  Methanogen homoaconitase, large subunit
+DN  Methanogen homoaconitase, large subunit/HACN_lg
 RQ  1
 --
-SN  HACN_sm
+SN  2
 ID  Methanogen homoaconitase, small subunit
+DN  Methanogen homoaconitase, small subunit/HACN_sm
 RQ  1
 --
-SN  HICDH
+SN  3
 ID  Homoisocitrate dehydrogenase
+DN  Homoisocitrate dehydrogenase/HICDH
 RQ  1
 //

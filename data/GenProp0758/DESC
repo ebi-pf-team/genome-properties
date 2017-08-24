@@ -4,53 +4,62 @@ TP  METAPATH
 AU  Haft DH
 TH  2
 --
-SN  IPP-in
+SN  1
 ID  Source of IPP
+DN  Source of IPP/IPP-in
 RQ  0
 EV  GenProp0048;
 EV  GenProp0047;
 --
-SN  crtB
+SN  2
 ID  Phytoene synthase (2.5.1.32)
+DN  Phytoene synthase (2.5.1.32)/crtB
 RQ  1
 EV  IPR002060; PF00494;
 --
-SN  crtLY
+SN  3
 ID  Lycopene cyclases
+DN  Lycopene cyclases/crtLY
 RQ  0
 EV  IPR010108; TIGR01790;
 EV  IPR017825; TIGR03462;
 EV  IPRXXXX; PF05834;
 --
-SN  crtZ
+SN  4
 ID  Beta carotene hydroxylase
+DN  Beta carotene hydroxylase/crtZ
 RQ  0
 --
-SN  idi
+SN  5
 ID  Isopentenyl-diphosphate delta-isomerase (5.3.3.2)
+DN  Isopentenyl-diphosphate delta-isomerase (5.3.3.2)/idi
 RQ  0
 EV  IPR011876; TIGR02150;
 EV  IPR011179; TIGR02151;
 --
-SN  ispA
+SN  6
 ID  Geranylgeranyl pyrophosphate synthase
+DN  Geranylgeranyl pyrophosphate synthase/ispA
 RQ  1
 EV  IPR000092; PF00348;
 --
-SN  membr
+SN  7
 ID  Uncharacterized syntenic membrane protein
+DN  Uncharacterized syntenic membrane protein/membr
 RQ  0
 EV  IPR017822; TIGR03459;
 EV  IPR017823; TIGR03460;
 --
-SN  pds
+SN  8
 ID  Phytoene desaturase (1.14.99.-)
+DN  Phytoene desaturase (1.14.99.-)/pds
 RQ  1
 EV  IPR014102; TIGR02731;
 EV  IPR014105; TIGR02734;
 --
-SN  zds
+SN  9
 ID  Zeta-carotene desaturase (1.14.99.30)
+DN  Zeta-carotene desaturase (1.14.99.30)/zds
 RQ  1
 EV  IPR014103; TIGR02732;
 EV  IPR014105; TIGR02734;

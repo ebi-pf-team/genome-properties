@@ -27,16 +27,16 @@ CC  represented as part of this genome property.
 **  Role for the nucleotidase picked up by PPP which pointed me to
 **  PMID:16101288. I am also seeing a PTS transporter family role.
 --
-SN  LuxS
+SN  1
 ID  S-ribosylhomocysteine lyase
-DN  S-ribosylhomocysteine lyase (EC 4.4.1.21)
+DN  S-ribosylhomocysteine lyase (EC 4.4.1.21)/LuxS
 RQ  1
 EV  IPR003815; PF02664;
 TG  GO:0009372;
 --
-SN  nuc_ase
+SN  2
 ID  Methylthioadenosine nucleosidase/adenosylhomocysteine nucleosidase
-DN  Methylthioadenosine nucleosidase (EC 3.2.2.16)/adenosylhomocysteine nucleosidase (EC 3.2.2.9)
+DN  Methylthioadenosine nucleosidase (EC 3.2.2.16)/adenosylhomocysteine nucleosidase (EC 3.2.2.9)/nuc_ase
 RQ  1
 EV  IPR010049; TIGR01704;
 TG  GO:0009372;

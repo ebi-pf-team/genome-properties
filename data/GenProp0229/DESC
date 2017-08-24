@@ -4,9 +4,9 @@ TP  SYSTEM
 AU  Haft DH
 TH  0
 --
-SN  Mfd
+SN  1
 ID  Transcription-repair coupling factor
-DN  Transcription-repair coupling factor
+DN  Transcription-repair coupling factor/Mfd
 RQ  1
 EV  IPR004576; TIGR00580; sufficient;
 //

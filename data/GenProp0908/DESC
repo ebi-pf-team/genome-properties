@@ -21,13 +21,15 @@ CC  a fusion protein.
 **  GB|AAP92492.1 and GB|AAP92501.1 of Streptomyces vinaceus are both below
 **  cutoff, although their top hits in Omniome all are above.
 --
-SN  DapSbnA
+SN  1
 ID  2,3-diaminopropionate biosynthesis protein SbnA
+DN  2,3-diaminopropionate biosynthesis protein SbnA/DapSbnA
 RQ  1
 EV  IPR023927; TIGR03945;
 --
-SN  DapSbnB
+SN  2
 ID  2,3-diaminopropionate biosynthesis protein SbnB
+DN  2,3-diaminopropionate biosynthesis protein SbnB/DapSbnB
 RQ  1
 EV  IPR023866; TIGR03944;
 //

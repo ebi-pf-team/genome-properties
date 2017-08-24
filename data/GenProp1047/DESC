@@ -26,38 +26,45 @@ CC  of the repeat pattern, the O101 cluster contains four
 CC  glycosyltransferases, two of them twice the length of typical enzymes.
 CC  These likely carry out priming, patterning and scaffolding roles.
 --
-SN  GT-1
+SN  1
 ID  O101-associated glycosyltransferase
+DN  O101-associated glycosyltransferase/GT-1
 RQ  1
 EV  IPRXXXX; 2941;
 --
-SN  GT-2
+SN  2
 ID  Putative N-acetyl-glucosamine alpha-1,4-N-acetyl-galactosaminyltransferase, O101-associated
+DN  Putative N-acetyl-glucosamine alpha-1,4-N-acetyl-galactosaminyltransferase, O101-associated/GT-2
 RQ  1
 EV  IPRXXXX; 2938;
 --
-SN  GT-3
+SN  3
 ID  Putative N-acetyl-galactosamine alpha-1,6-N-acetyl-glucosaminyltransferase, O101-associated
+DN  Putative N-acetyl-galactosamine alpha-1,6-N-acetyl-glucosaminyltransferase, O101-associated/GT-3
 RQ  1
 EV  IPRXXXX; 2937;
 --
-SN  GT-4
+SN  4
 ID  O101(Ec)-associated double glycosyltransferase domain protein
+DN  O101(Ec)-associated double glycosyltransferase domain protein/GT-4
 RQ  1
 EV  IPRXXXX; 2936;
 --
-SN  MT-CLD
+SN  5
 ID  Terminating methylase and chain-length determinant protein
+DN  Terminating methylase and chain-length determinant protein/MT-CLD
 RQ  1
 EV  IPRXXXX; 2935;
 --
-SN  wzm101
+SN  6
 ID  O-antigen ABC transporter, transmembrane protein
+DN  O-antigen ABC transporter, transmembrane protein/wzm101
 RQ  1
 EV  IPRXXXX; 2940;
 --
-SN  wzt101
+SN  7
 ID  ABC transporter, ATP-binding domain and O101(Ec) specificity domain
+DN  ABC transporter, ATP-binding domain and O101(Ec) specificity domain/wzt101
 RQ  1
 EV  IPRXXXX; 2939;
 //

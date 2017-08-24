@@ -8,8 +8,9 @@ CC  routes.  Most commonly serine is the starting point (GenProp0218),
 CC  while in the archaea a mis-charged cys-tRNA bearing O-phosphoserine is
 CC  modified (GenProp0304).
 --
-SN  biosyn
+SN  1
 ID  Cysteine biosynthesis
+DN  Cysteine biosynthesis/biosyn
 RQ  1
 EV  GenProp0218;
 TG  GO:0019344;

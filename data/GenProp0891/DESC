@@ -30,19 +30,22 @@ CC  Property represents the parent property.
 **  Note. GenProp1096 for coenzyme B biosynthesis is just started, no
 **  evidence.
 --
-SN  M_S_pyr
+SN  1
 ID  Sulfopyruvate biosynthesis
+DN  Sulfopyruvate biosynthesis/M_S_pyr
 RQ  1
 EV  GenProp0892;
 EV  GenProp0893;
 --
-SN  M_comD
+SN  2
 ID  Sulfopyruvate decarboxylase, alpha subunit
+DN  Sulfopyruvate decarboxylase, alpha subunit/M_comD
 RQ  1
 EV  IPR022502; TIGR03845;
 --
-SN  M_comE
+SN  3
 ID  Sulfopyruvate decarboxylase, beta subunit
+DN  Sulfopyruvate decarboxylase, beta subunit/M_comE
 RQ  1
 EV  IPR022494; TIGR03846;
 EV  IPRXXXX; 2690;

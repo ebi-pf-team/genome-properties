@@ -7,18 +7,21 @@ CC  This property is an overview of the complete catabolic pathways leading
 CC  from intracellular guanine or adenine or extracellular xanthine through
 CC  to the breakdown products of allantoin, oxamate or glyoxalate.
 --
-SN  G/A/X-U
+SN  1
 ID  Urate biosynthesis via xanthine
+DN  Urate biosynthesis via xanthine/G/A/X-U
 RQ  1
 EV  GenProp0698;
 --
-SN  U-allan
+SN  2
 ID  Urate catabolism to allantoin
+DN  Urate catabolism to allantoin/U-allan
 RQ  1
 EV  GenProp0688;
 --
-SN  all-cat
+SN  3
 ID  Allantoin catabolism
+DN  Allantoin catabolism/all-cat
 RQ  1
 EV  GenProp0687;
 EV  GenProp0686;

@@ -25,53 +25,63 @@ CC  intermediate, 4,6-dideoxy-4-oxo-dTDP-D-glucose, are found within the
 CC  cluster.
 **  Identical to (?) cross-reacts with O74
 --
-SN  Fuc3NAc
+SN  1
 ID  Source of 3-acetamidofucose
+DN  Source of 3-acetamidofucose/Fuc3NAc
 RQ  1
 EV  GenProp0964;
 --
-SN  GTR-1
+SN  2
 ID  B-L-Rha-(1->4)-b-D-GlcNAc transferase
+DN  B-L-Rha-(1->4)-b-D-GlcNAc transferase/GTR-1
 RQ  1
 EV  IPRXXXX; 2770;
 --
-SN  GTR-2,3
+SN  3
 ID  A-L-Rha-(1->2)-a-L-Rha, ->3)-b-L-Rha transferase
+DN  A-L-Rha-(1->2)-a-L-Rha, ->3)-b-L-Rha transferase/GTR-2,3
 RQ  1
 EV  IPRXXXX; 2769;
 --
-SN  GTR-4
+SN  4
 ID  A-D-Fuc3NAc-(1->2)-a-L-Rha transferase
+DN  A-D-Fuc3NAc-(1->2)-a-L-Rha transferase/GTR-4
 RQ  1
 EV  IPRXXXX; 2768;
 --
-SN  Rha
+SN  5
 ID  Source of Rhamnose
+DN  Source of Rhamnose/Rha
 RQ  1
 EV  GenProp0183;
 --
-SN  galF
+SN  6
 ID  Regulatory protein GalF
+DN  Regulatory protein GalF/galF
 RQ  1
 EV  IPR005774; TIGR01105;
 --
-SN  gnd
+SN  7
 ID  Clustered gnd enzyme
+DN  Clustered gnd enzyme/gnd
 RQ  0
 EV  IPR006113; TIGR00873;
 --
-SN  wzx2
+SN  8
 ID  O2-antigen specific transporter (flippase)
+DN  O2-antigen specific transporter (flippase)/wzx2
 RQ  1
 EV  IPRXXXX; 2767;
 --
-SN  wzy
+SN  9
 ID  Clustered wzy protein
+DN  Clustered wzy protein/wzy
 RQ  1
 EV  IPRXXXX; 2848;
 --
-SN  wzz
+SN  10
 ID  O-antigen specific chain length determinant protein wzz
+DN  O-antigen specific chain length determinant protein wzz/wzz
 RQ  1
 EV  IPRXXXX; 2846;
 //

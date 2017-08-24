@@ -13,13 +13,15 @@ CC  where Fic itself regulates cell division. We have named the upstream
 CC  and downstream proteins mobile mystery protein A and B, respectively.
 **  a probable addiction module.
 --
-SN  mmp-A
+SN  1
 ID  Mobile mystery protein A
+DN  Mobile mystery protein A/mmp-A
 RQ  1
 EV  IPR013435; TIGR02612; sufficient;
 --
-SN  mmp-B
+SN  2
 ID  Mobile mystery protein B
+DN  Mobile mystery protein B/mmp-B
 RQ  1
 EV  IPR013436; TIGR02613; sufficient;
 //

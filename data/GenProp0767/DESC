@@ -19,13 +19,15 @@ CC  and is essentially restricted to a subset of those genomes that carry
 CC  dcm.
 **  Starting with TIGR00632, very short patch repair.
 --
-SN  dcm
+SN  1
 ID  DNA-cytosine methyltransferase
+DN  DNA-cytosine methyltransferase/dcm
 RQ  1
 EV  IPRXXXX; TIGR00675;
 --
-SN  vsr
+SN  2
 ID  Very short patch repair
+DN  Very short patch repair/vsr
 RQ  1
 EV  IPR004603; TIGR00632;
 //

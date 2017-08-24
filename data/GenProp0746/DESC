@@ -22,29 +22,34 @@ CC  bacterial termination factors; see instead GenProp0665.
 **  (because of paralog PrmB) does not even detect all members of the seed.
 **  Therefore, a rule based on HMM-CLUST will be necessary.
 --
-SN  hemK
+SN  1
 ID  Release factor methylase
+DN  Release factor methylase/hemK
 RQ  1
 EV  IPR019874; TIGR03534;
 EV  IPRXXXX; TIGR00536;
 --
-SN  prfA
+SN  2
 ID  Peptide chain release factor 1
+DN  Peptide chain release factor 1/prfA
 RQ  1
 EV  IPR004373; TIGR00019;
 --
-SN  prfB
+SN  3
 ID  Peptide chain release factor 2
+DN  Peptide chain release factor 2/prfB
 RQ  1
 EV  IPR004374; TIGR00020;
 --
-SN  prfC
+SN  4
 ID  Peptide chain release factor 3
+DN  Peptide chain release factor 3/prfC
 RQ  1
 EV  IPR004548; TIGR00503;
 --
-SN  recyc
+SN  5
 ID  Ribosome recycling factor
+DN  Ribosome recycling factor/recyc
 RQ  1
 EV  IPR002661; TIGR00496;
 //

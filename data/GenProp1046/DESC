@@ -20,33 +20,39 @@ CC  some homology with glycosyltransferases in the cluster, and there does
 CC  not seem to be a need for any other function other than a fourth
 CC  glycosyltransferase in the assembly of this O-antigen.
 --
-SN  GT-1
+SN  1
 ID  N-acetyl-D-glucosamine beta-1,3/4-D-galactosyltransferase
+DN  N-acetyl-D-glucosamine beta-1,3/4-D-galactosyltransferase/GT-1
 RQ  1
 EV  IPRXXXX; 2929;
 --
-SN  GT-2
+SN  2
 ID  Putative D-galactose beta-1,4-ribofuranosyltransferase
+DN  Putative D-galactose beta-1,4-ribofuranosyltransferase/GT-2
 RQ  1
 EV  IPRXXXX; 2932;
 --
-SN  GT-3
+SN  3
 ID  D-galactose alpha-1,4-N-acetyl-D-glucosaminyltransferase
+DN  D-galactose alpha-1,4-N-acetyl-D-glucosaminyltransferase/GT-3
 RQ  1
 EV  IPRXXXX; 2933;
 --
-SN  unk
+SN  4
 ID  O153(Ec)-associated gene of unknown function
+DN  O153(Ec)-associated gene of unknown function/unk
 RQ  1
 EV  IPRXXXX; 2930;
 --
-SN  wzx153
+SN  5
 ID  O153(Ec)-antigen specific transporter (flippase) wzx
+DN  O153(Ec)-antigen specific transporter (flippase) wzx/wzx153
 RQ  1
 EV  IPRXXXX; 2927;
 --
-SN  wzy153
+SN  6
 ID  O153(Ec)-antigen specific polymerase wzy
+DN  O153(Ec)-antigen specific polymerase wzy/wzy153
 RQ  1
 EV  IPRXXXX; 2928;
 //

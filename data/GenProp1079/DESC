@@ -24,39 +24,46 @@ CC  in the outer membrane.
 **  Moving LptA from GenProp0204, should make this property a step in
 **  GenProp0204.  PF04390 LptE probably needs refining.
 --
-SN  lptA
+SN  1
 ID  LPS transport periplasmic protein LptA
+DN  LPS transport periplasmic protein LptA/lptA
 RQ  1
 EV  IPR014340; TIGR03002;
 --
-SN  lptB
+SN  2
 ID  LPS export ABC transporter ATP-binding protein
+DN  LPS export ABC transporter ATP-binding protein/lptB
 RQ  1
 EV  IPR030921; TIGR04406;
 --
-SN  lptC
+SN  3
 ID  Lipopolysaccharide export protein LptC
+DN  Lipopolysaccharide export protein LptC/lptC
 RQ  1
 EV  IPR010664; PF06835;
 EV  IPR026265; TIGR04409;
 --
-SN  lptD
+SN  4
 ID  LPS assembly OM complex protein LptD
+DN  LPS assembly OM complex protein LptD/lptD
 RQ  1
 EV  IPR007543; PF04453;
 --
-SN  lptE
+SN  5
 ID  LPS assembly OM complex protein LptE
+DN  LPS assembly OM complex protein LptE/lptE
 RQ  1
 EV  IPR007485; PF04390;
 --
-SN  lptF
+SN  6
 ID  LPS export ABC permease LptF
+DN  LPS export ABC permease LptF/lptF
 RQ  1
 EV  IPR030922; TIGR04407;
 --
-SN  lptG
+SN  7
 ID  LPS export ABC permease LptG
+DN  LPS export ABC permease LptG/lptG
 RQ  1
 EV  IPR030923; TIGR04408;
 //

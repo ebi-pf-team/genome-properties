@@ -29,32 +29,37 @@ CC  archaea).  preQ0 is converted to queuosine by the action of at least
 CC  four enzymes, two reductases, a tRNA(GUN) transferase and an
 CC  adenosylmethionine ribosyl transferase-isomerase.
 --
-SN  Q1trans
+SN  1
 ID  PreQ1 tRNA transferase
+DN  PreQ1 tRNA transferase/Q1trans
 RQ  1
 EV  IPR004803; TIGR00430; sufficient;
 TG  GO:0008616;
 --
-SN  Qsynth
+SN  2
 ID  Queuosine synthetase oxo-queuosine reductase
+DN  Queuosine synthetase oxo-queuosine reductase/Qsynth
 RQ  0
 --
-SN  QueA
+SN  3
 ID  PreQ1-tRNA adenosyl methionine ribosyl transferase isomerase
+DN  PreQ1-tRNA adenosyl methionine ribosyl transferase isomerase/QueA
 RQ  1
 EV  IPR003699; TIGR00113; sufficient;
 TG  GO:0008616;
 --
-SN  QueF
+SN  4
 ID  PreQ0 reductase
+DN  PreQ0 reductase/QueF
 RQ  1
 EV  IPR016428; TIGR03138; sufficient;
 TG  GO:0008616;
 EV  IPR016856; TIGR03139; sufficient;
 TG  GO:0008616;
 --
-SN  QueG
+SN  5
 ID  Epoxyqueuosine reductase
+DN  Epoxyqueuosine reductase/QueG
 RQ  1
 EV  IPR004453; TIGR00276;
 TG  GO:0008616;

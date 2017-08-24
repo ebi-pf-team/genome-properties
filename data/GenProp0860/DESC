@@ -36,23 +36,27 @@ CC  autocatalytic modification, or a different modification enzyme.
 **  SEED to figure out extent of this subsystem, since cutoffs seem to vary
 **  wildly in number of hits.  And what about PF07291 MauE?
 --
-SN  MauA
+SN  1
 ID  Methylamine dehydrogenase, light chain
+DN  Methylamine dehydrogenase, light chain/MauA
 RQ  1
 EV  IPR004229; TIGR02659;
 --
-SN  MauB
+SN  2
 ID  Methylamine dehydrogenase heavy chain
+DN  Methylamine dehydrogenase heavy chain/MauB
 RQ  1
 EV  IPR013476; TIGR02658;
 --
-SN  MauD
+SN  3
 ID  Methylamine dehydrogenase accessory protein MauD
+DN  Methylamine dehydrogenase accessory protein MauD/MauD
 RQ  1
 EV  IPR013478; TIGR02661;
 --
-SN  MauG
+SN  4
 ID  TTQ maturation di-heme protein MauG
+DN  TTQ maturation di-heme protein MauG/MauG
 RQ  1
 EV  IPR022394; TIGR03791;
 //

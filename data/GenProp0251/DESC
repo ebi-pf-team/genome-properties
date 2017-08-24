@@ -12,30 +12,33 @@ CC  restricted to proteins tagged by trans-translation, to the ClpXP
 CC  machine.
 **  Explore idea of this property testing state of tmRNA property.
 --
-SN  SspB
+SN  1
 ID  Adaptor SspB
+DN  Adaptor SspB/SspB
 RQ  0
 EV  IPR007481; PF04386; sufficient;
 --
-SN  clpA
+SN  2
 ID  Temp clpA
+DN  Temp clpA/clpA
 RQ  0
 EV  IPR013461; TIGR02639; sufficient;
 --
-SN  clpP
+SN  3
 ID  Clp protease proteolytic subunit ClpP
-DN  ATP-dependent Clp protease, proteolytic subunit ClpP
+DN  ATP-dependent Clp protease, proteolytic subunit ClpP/clpP
 RQ  1
 EV  IPR001907; TIGR00493; sufficient;
 --
-SN  clpS
+SN  4
 ID  Temp clpS
+DN  Temp clpS/clpS
 RQ  0
 EV  IPR003769; PF02617; sufficient;
 --
-SN  clpX
+SN  5
 ID  Clp protease ATP-binding subunit ClpX
-DN  ATP-dependent Clp protease, ATP-binding subunit ClpX
+DN  ATP-dependent Clp protease, ATP-binding subunit ClpX/clpX
 RQ  1
 EV  IPR004487; TIGR00382; sufficient;
 //

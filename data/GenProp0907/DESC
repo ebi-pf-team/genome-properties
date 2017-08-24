@@ -17,26 +17,30 @@ CC  bacteria with a requirement for transit across the outer membrane. A
 CC  related system, termed PIA (polysaccharide intercellular adhesin),
 CC  occurs in certain Gram-positive species.
 --
-SN  PgaA
+SN  1
 ID  Poly-beta-1,6 N-acetyl-D-glucosamine export porin
+DN  Poly-beta-1,6 N-acetyl-D-glucosamine export porin/PgaA
 RQ  1
 EV  IPR023870; TIGR03939;
 TG  GO:0042710;
 --
-SN  PgaB
+SN  2
 ID  Poly-beta-1,6-N-acetyl-D-glucosamine N-deacetylase
+DN  Poly-beta-1,6-N-acetyl-D-glucosamine N-deacetylase/PgaB
 RQ  1
 EV  IPR023854; TIGR03938;
 TG  GO:0045226;
 --
-SN  PgaC
+SN  3
 ID  Poly-beta-1,6 N-acetyl-D-glucosamine synthase
+DN  Poly-beta-1,6 N-acetyl-D-glucosamine synthase/PgaC
 RQ  1
 EV  IPR023853; TIGR03937;
 TG  GO:0045226;
 --
-SN  PgaD
+SN  4
 ID  Poly-beta-1,6-N-acetyl-D-glucosamine biosynthesis protein PgaD
+DN  Poly-beta-1,6-N-acetyl-D-glucosamine biosynthesis protein PgaD/PgaD
 RQ  1
 EV  IPR023829; TIGR03940;
 TG  GO:0045226;

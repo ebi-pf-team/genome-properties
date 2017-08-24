@@ -47,43 +47,51 @@ CC  reaction in O5 and O114, it calls into question the reported difference
 CC  in the order of the sugars in the monomer since O5 and O114 would have
 CC  very distinct linkages as the third activity if this were the case.
 --
-SN  GT-1
+SN  1
 ID  O5(Ec)-associated D-Qui3NAc transferase
+DN  O5(Ec)-associated D-Qui3NAc transferase/GT-1
 RQ  1
 EV  IPRXXXX; 2953;
 --
-SN  GT-3
+SN  2
 ID  O5(Ec)-associated D-galactose transferase
+DN  O5(Ec)-associated D-galactose transferase/GT-3
 RQ  1
 EV  IPRXXXX; 2956;
 --
-SN  Qui3NAc
+SN  3
 ID  Source of TDP-Qui3NAc
+DN  Source of TDP-Qui3NAc/Qui3NAc
 RQ  1
 EV  GenProp1050;
 --
-SN  WbuN
+SN  4
 ID  WbuN-like HAD superfamily enzyme of unknown function
+DN  WbuN-like HAD superfamily enzyme of unknown function/WbuN
 RQ  1
 EV  IPRXXXX; 2954;
 --
-SN  WbuO
+SN  5
 ID  WbuO-like enzyme of unknown function
+DN  WbuO-like enzyme of unknown function/WbuO
 RQ  1
 EV  IPRXXXX; 2955;
 --
-SN  gne
+SN  6
 ID  Source of UDP-GalNAc
+DN  Source of UDP-GalNAc/gne
 RQ  1
 EV  IPRXXXX; 2732;
 --
-SN  wzx5
+SN  7
 ID  O5(Ec) antigen transporter (flippase) wzx
+DN  O5(Ec) antigen transporter (flippase) wzx/wzx5
 RQ  1
 EV  IPRXXXX; 2951;
 --
-SN  wzy5
+SN  8
 ID  O5(Ec) antigen polymerase wzy
+DN  O5(Ec) antigen polymerase wzy/wzy5
 RQ  1
 EV  IPRXXXX; 2952;
 //

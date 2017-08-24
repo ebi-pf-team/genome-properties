@@ -9,20 +9,22 @@ CC  beta-ketoadipate and then to succinyl-CoA plus acetyl-CoA. This
 CC  property represents the shared final two steps, from beta-ketoadipate
 CC  to succinyl- and acetyl-CoA.
 --
-SN  pcaF
+SN  1
 ID  Beta-ketoadipyl CoA thiolase
-DN  Beta-ketoadipyl CoA thiolase
+DN  Beta-ketoadipyl CoA thiolase/pcaF
 RQ  1
 EV  IPR012793; TIGR02430; sufficient;
 EV  IPRXXXX; TIGR01930;
 --
-SN  pcaI
+SN  2
 ID  CoA-transferase, A subunit
+DN  CoA-transferase, A subunit/pcaI
 RQ  1
 EV  IPR012792; TIGR02429; sufficient;
 --
-SN  pcaJ
+SN  3
 ID  CoA-transferase, B subunit
+DN  CoA-transferase, B subunit/pcaJ
 RQ  1
 EV  IPR012791; TIGR02428; sufficient;
 //

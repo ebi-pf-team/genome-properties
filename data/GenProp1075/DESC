@@ -20,20 +20,23 @@ CC  The proteins FeoA, FeoB, and FeoC are a bacterial ferrous iron
 CC  transport system. No siderophores are involved. Ferrous iron (Fe(2+))
 CC  typically is present only during oxygen limitation.
 --
-SN  feoA
+SN  1
 ID  Ferrous iron transport protein A
+DN  Ferrous iron transport protein A/feoA
 RQ  1
 EV  IPRXXXX; PF04023;
 TG  GO:0015684;
 --
-SN  feoB
+SN  2
 ID  Ferrous iron transport protein B
+DN  Ferrous iron transport protein B/feoB
 RQ  1
 EV  IPR003373; TIGR00437;
 TG  GO:0015684;
 --
-SN  feoC
+SN  3
 ID  Ferrous iron transport protein C
+DN  Ferrous iron transport protein C/feoC
 RQ  0
 EV  IPRXXXX; PF09012;
 TG  GO:1900390;

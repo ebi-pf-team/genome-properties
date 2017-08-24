@@ -11,13 +11,15 @@ CC  pair is found in about one in six completed prokaryotic genomes.
 **  The two HMMs are both broad enough that the pair should represent a
 **  type of transporter, and multiple substrates.
 --
-SN  sodi_L
+SN  1
 ID  Na+/solute symporter, large subunit
+DN  Na+/solute symporter, large subunit/sodi_L
 RQ  1
 EV  IPR019899; TIGR03648;
 --
-SN  sodi_S
+SN  2
 ID  Na+/solute symporter, small subunit
+DN  Na+/solute symporter, small subunit/sodi_S
 RQ  1
 EV  IPR019886; TIGR03647;
 //

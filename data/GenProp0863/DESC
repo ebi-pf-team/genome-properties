@@ -10,14 +10,16 @@ RA  Strohmeier M, Raschle T, Mazurkiewicz J, Rippe K, Sinning I,
 RA  Fitzpatrick TB, Tews I;
 RL  Proc Natl Acad Sci U S A. 2006;103:19284-19289.
 --
-SN  pdx1
+SN  1
 ID  PLP synthase, Pdx1 subunit
+DN  PLP synthase, Pdx1 subunit/pdx1
 RQ  1
 EV  IPR001852; TIGR00343;
 TG  GO:0042823;
 --
-SN  pdx2
+SN  2
 ID  PLP synthase, Pdx2 subunit
+DN  PLP synthase, Pdx2 subunit/pdx2
 RQ  1
 EV  IPRXXXX; 2622;
 TG  GO:0042823;

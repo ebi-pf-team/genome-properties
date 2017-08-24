@@ -9,18 +9,21 @@ CC  activated by (2,3-dihydroxybenzoyl)adenylate synthase (EC 2.7.7.58) to
 CC  become a substrate for nonribosomal peptide synthases (NRPS) such as
 CC  those that make catecholate siderophores.
 --
-SN  dhbA
+SN  1
 ID  2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase
+DN  2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase/dhbA
 RQ  1
 EV  IPR003560; TIGR04316;
 --
-SN  dhbB
+SN  2
 ID  Isochorismatase
+DN  Isochorismatase/dhbB
 RQ  1
 EV  IPR000868; PF00857;
 --
-SN  dhbC
+SN  3
 ID  Isochorismate synthase
+DN  Isochorismate synthase/dhbC
 RQ  1
 EV  IPR004561; TIGR00543;
 //

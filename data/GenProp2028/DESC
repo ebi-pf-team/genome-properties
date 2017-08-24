@@ -17,21 +17,21 @@ CC  lysosomal surface [1].
 --
 SN  1
 ID  GATOR complex protein DEPDC5
-DN  GATOR complex protein DEPDC5 
+DN  GATOR complex protein DEPDC5 /1
 RQ  1
 EV  IPR027244; PF12257; sufficient;
 TG  GO:0005096;
 --
 SN  2
 ID  GATOR complex protein NPRL2
-DN  GATOR complex protein NPRL2 
+DN  GATOR complex protein NPRL2 /2
 RQ  1
 EV  IPR009348; PF06218; sufficient;
 TG  GO:0005096;
 --
 SN  3
 ID  GATOR complex protein NPRL3
-DN  GATOR complex protein NPRL3
+DN  GATOR complex protein NPRL3/3
 RQ  1
 EV  -; PF06218; sufficient;
 TG  GO:0005096;

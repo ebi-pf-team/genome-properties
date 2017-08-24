@@ -32,33 +32,39 @@ CC  core genes and repeats. Several of these genes belong to the RAMP
 CC  (Repeat-Associated Mystery Protein) family, so this 6-gene cassette is
 CC  called the CRISPR RAMP module.
 --
-SN  Cmr1
+SN  1
 ID  Cmr1
+DN  Cmr1/Cmr1
 RQ  1
 EV  IPR007522; TIGR01894; sufficient;
 --
-SN  Cmr2
+SN  2
 ID  Cmr2
+DN  Cmr2/Cmr2
 RQ  1
 EV  IPR013407; TIGR02577; sufficient;
 --
-SN  Cmr3
+SN  3
 ID  Cmr3
+DN  Cmr3/Cmr3
 RQ  1
 EV  IPR010165; TIGR01888; sufficient;
 --
-SN  Cmr4
+SN  4
 ID  Cmr4
+DN  Cmr4/Cmr4
 RQ  1
 EV  IPR013410; TIGR02580; sufficient;
 --
-SN  Cmr5
+SN  5
 ID  Cmr5
+DN  Cmr5/Cmr5
 RQ  1
 EV  IPR010160; TIGR01881; sufficient;
 --
-SN  Cmr6
+SN  6
 ID  Cmr6
+DN  Cmr6/Cmr6
 RQ  1
 EV  IPR010172; TIGR01898; sufficient;
 //

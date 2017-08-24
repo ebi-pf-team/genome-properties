@@ -18,20 +18,23 @@ CC  cofactor, while the small subunit is a Rieske iron-sulfur protein.
 CC  Azurin is present in some but not all species with arsenite oxidase; it
 CC  may be replaced by auracyanin or an unrelated redox partner.
 --
-SN  Rieske
+SN  1
 ID  Arsenite oxidase, small (Rieske) subunit
+DN  Arsenite oxidase, small (Rieske) subunit/Rieske
 RQ  1
 EV  IPR014067; TIGR02694; sufficient;
 TG  GO:0015975;
 --
-SN  azurin
+SN  2
 ID  Azurin
+DN  Azurin/azurin
 RQ  0
 EV  IPR014068; TIGR02695; sufficient;
 TG  GO:0015975;
 --
-SN  molybdo
+SN  3
 ID  Arsenite oxidase, large subunit
+DN  Arsenite oxidase, large subunit/molybdo
 RQ  1
 EV  IPR014066; TIGR02693; sufficient;
 TG  GO:0015975;

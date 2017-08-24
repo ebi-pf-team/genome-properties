@@ -10,40 +10,47 @@ CC  one soil bacterium (Bacillus megaterium). GvpA and GvpC are the
 CC  characterized structural proteins, but it seems at least 10 genes are
 CC  required. 
 --
-SN  GvpC
+SN  1
 ID  Gas vesicle structural protein GvpC
+DN  Gas vesicle structural protein GvpC/GvpC
 RQ  1
 EV  IPR002003; PF01304; sufficient;
 EV  IPR008639; PF05465; sufficient;
 EV  IPR002003; TIGR02641; sufficient;
 --
-SN  GvpG_fm
+SN  2
 ID  Gas vesicle protein, GvpG family
+DN  Gas vesicle protein, GvpG family/GvpG_fm
 RQ  0
 EV  IPR007804; PF05120; sufficient;
 --
-SN  GvpK
+SN  3
 ID  Gas vesicle protein, GvpK family
+DN  Gas vesicle protein, GvpK family/GvpK
 RQ  0
 EV  IPR007805; PF05121; sufficient;
 --
-SN  GvpN
+SN  4
 ID  Gas vesicle protein GvpN
+DN  Gas vesicle protein GvpN/GvpN
 RQ  0
 EV  IPR013462; TIGR02640; sufficient;
 --
-SN  GvpO
+SN  5
 ID  Gas vesicle protein, GvpO family
+DN  Gas vesicle protein, GvpO family/GvpO
 RQ  0
 EV  IPR008634; PF05800; sufficient;
 --
-SN  Gvp_L_F
+SN  6
 ID  Gas vesicle protein, GvpL/GvpF family
+DN  Gas vesicle protein, GvpL/GvpF family/Gvp_L_F
 RQ  0
 EV  IPR009430; PF06386; sufficient;
 --
-SN  MAJOR
+SN  7
 ID  Gas vesicle major structural protein GvpA
+DN  Gas vesicle major structural protein GvpA/MAJOR
 RQ  1
 EV  IPR000638; PF00741; sufficient;
 //

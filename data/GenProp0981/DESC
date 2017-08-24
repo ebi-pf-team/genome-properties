@@ -12,13 +12,15 @@ CC  enzyme.
 **  The big question is whether the lipoprotein gets modified by the
 **  radical SAM enzyme. 
 --
-SN  rsl_LIP
+SN  1
 ID  Lipoprotein, rSAM/lipoprotein system
+DN  Lipoprotein, rSAM/lipoprotein system/rsl_LIP
 RQ  1
 EV  IPR026403; TIGR04134;
 --
-SN  rsl_SAM
+SN  2
 ID  Radical SAM protein, rSAM/lipoprotein system
+DN  Radical SAM protein, rSAM/lipoprotein system/rsl_SAM
 RQ  1
 EV  IPR026404; TIGR04133;
 //

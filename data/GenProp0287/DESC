@@ -65,26 +65,30 @@ CC  sequencing (Borrelia, in particular has a number of small chromosomes
 CC  and plasmids which were sequenced) or 3) these species strictly rely on
 CC  import of deoxyribonucleic acid from the host environment.
 --
-SN  I
+SN  1
 ID  Class I (aerobic) ribonucleotide reductase: GenProp0289
+DN  Class I (aerobic) ribonucleotide reductase: GenProp0289/I
 RQ  1
 EV  GenProp0289;
 TG  GO:0009265;
 --
-SN  II
+SN  2
 ID  Class II (B12-dependent) ribonucleotide reductase: GenProp0290
+DN  Class II (B12-dependent) ribonucleotide reductase: GenProp0290/II
 RQ  1
 EV  GenProp0290;
 TG  GO:0009265;
 --
-SN  III
+SN  3
 ID  Class III (anaerobic) ribonucleotide reductase: GenProp0291
+DN  Class III (anaerobic) ribonucleotide reductase: GenProp0291/III
 RQ  1
 EV  GenProp0291;
 TG  GO:0009265;
 --
-SN  NrdR
+SN  4
 ID  Transcriptional regulator NrdR
+DN  Transcriptional regulator NrdR/NrdR
 RQ  0
 EV  IPR003796; TIGR00244; sufficient;
 TG  GO:0009265;

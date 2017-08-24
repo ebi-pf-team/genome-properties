@@ -26,14 +26,16 @@ CC  (2S,3R)-capreomycidine.
 **  Fe(2+)/alpha-ketoglutarate-dependent oxygenase (VioC-like) - see
 **  clavaminate synthase system.  228886494 like VioD.
 --
-SN  VioC
+SN  1
 ID  Arginine oxygenase VioC
+DN  Arginine oxygenase VioC/VioC
 RQ  1
 EV  IPR023966; TIGR03946;
 TG  GO:0042398;
 --
-SN  VioD
+SN  2
 ID  Capreomycidine synthase
+DN  Capreomycidine synthase/VioD
 RQ  1
 EV  IPR023965; TIGR03947;
 TG  GO:0042398;

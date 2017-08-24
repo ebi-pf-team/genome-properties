@@ -14,12 +14,14 @@ CC  2 systems, in which both toxin and antidote are small proteins.
 **  Not ready to add features for the antisense RNA. PMID- 23182878
 **  insertion gave me trouble. 12/2013.
 --
-SN  antisen
+SN  1
 ID  Antisense RNA
+DN  Antisense RNA/antisen
 RQ  0
 --
-SN  toxin
+SN  2
 ID  Toxic peptide, type I toxin-antitoxin system
+DN  Toxic peptide, type I toxin-antitoxin system/toxin
 RQ  1
 EV  IPR025211; TIGR04459;
 EV  IPR025211; PF13939;

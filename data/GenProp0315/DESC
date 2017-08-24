@@ -39,43 +39,51 @@ CC  nucleotides and a repeat size of 29 mucleotides. This subtype is found
 CC  in a wide variety of bacteria and has also been reported to be present
 CC  in an archaeon [2].  
 --
-SN  Cas1
+SN  1
 ID  Cas1, Ecoli region
+DN  Cas1, Ecoli region/Cas1
 RQ  1
 EV  IPR002729; TIGR00287;
 --
-SN  Cas2
+SN  2
 ID  Cas2, Ecoli specific variant
+DN  Cas2, Ecoli specific variant/Cas2
 RQ  1
 EV  IPR010152; TIGR01873; sufficient;
 --
-SN  Cas3
+SN  3
 ID  Cas3, Ecoli region
+DN  Cas3, Ecoli region/Cas3
 RQ  1
 EV  IPR006474; TIGR01587;
 --
-SN  Cas5e
+SN  4
 ID  Cas5, Ecoli specific variant
+DN  Cas5, Ecoli specific variant/Cas5e
 RQ  1
 EV  IPR010147; TIGR01868; sufficient;
 --
-SN  Cse1
+SN  5
 ID  Cse1
+DN  Cse1/Cse1
 RQ  1
 EV  IPR013381; TIGR02547; sufficient;
 --
-SN  Cse2
+SN  6
 ID  Cse2
+DN  Cse2/Cse2
 RQ  1
 EV  IPR013382; TIGR02548; sufficient;
 --
-SN  Cse3
+SN  7
 ID  Cse3
+DN  Cse3/Cse3
 RQ  1
 EV  IPR010179; TIGR01907; sufficient;
 --
-SN  Cse4
+SN  8
 ID  Cse4
+DN  Cse4/Cse4
 RQ  1
 EV  IPR010148; TIGR01869; sufficient;
 //

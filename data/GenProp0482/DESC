@@ -39,12 +39,14 @@ CC  element for this genome property.
 **  regulation.  WE NEED to update property, then DO PARTIAL PHYLOGENETIC
 **  PROFILING. DHH.
 --
-SN  6S
+SN  1
 ID  6S structural RNA
+DN  6S structural RNA/6S
 RQ  1
 --
-SN  ygfA
+SN  2
 ID  YgfA linked gene
+DN  YgfA linked gene/ygfA
 RQ  0
 EV  IPRXXXX; TIGR02727;
 //

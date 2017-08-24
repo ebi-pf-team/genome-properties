@@ -9,13 +9,15 @@ CC  family and its putative target, a short peptide with a Cys-Cys motif.
 **  sensing. UNFINISHED, probable quorum-sensing, with TonB and His-Kinase
 **  in neighborhood also in Pelobacter propionicus DSM 2379. 
 --
-SN  gptA
+SN  1
 ID  Geopeptide precursor
+DN  Geopeptide precursor/gptA
 RQ  1
 EV  IPR026376; TIGR04229;
 --
-SN  gptM
+SN  2
 ID  Geopeptide radical SAM maturase
+DN  Geopeptide radical SAM maturase/gptM
 RQ  1
 EV  IPR026322; TIGR04280;
 //

@@ -9,12 +9,14 @@ CC  complex I subunits and certain knockout phenotype characteristics in
 CC  Staphylococcus aureus.  The cluster had been previously characterized
 CC  as a sodium-proton antiporter.
 --
-SN  SnoB-C
+SN  1
 ID  SnoB subunit, C-terminal domain
+DN  SnoB subunit, C-terminal domain/SnoB-C
 RQ  1
 EV  IPR007182; PF04039; sufficient;
 --
-SN  SnoB-N
+SN  2
 ID  SnoB subunit, N-terminal domain
+DN  SnoB subunit, N-terminal domain/SnoB-N
 RQ  1
 //

@@ -25,13 +25,15 @@ CC  from their respective core homology regions.
 **  not hit anything in Thermotoga (it should) and may be missing the whole
 **  ferritin-like group - needs a twin.
 --
-SN  encap
+SN  1
 ID  Encapsulin
+DN  Encapsulin/encap
 RQ  1
 EV  IPR007544; PF04454;
 --
-SN  inside
+SN  2
 ID  Encapsulin-associated protein
+DN  Encapsulin-associated protein/inside
 RQ  0
 EV  IPRXXXX; TIGR01413;
 EV  IPRXXXX; TIGR04535;

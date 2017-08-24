@@ -9,13 +9,15 @@ CC  than 5% of genomes.  An evaluation of 32 publicly available bacterial
 CC  genomes found greater than 95% having at least one copy of each of
 CC  these genes.
 --
-SN  aTF-S
+SN  1
 ID  Transcription factor S
+DN  Transcription factor S/aTF-S
 RQ  1
 EV  IPR006288; TIGR01384;
 --
-SN  tyrS
+SN  2
 ID  Tyrosyl-tRNA synthetase
+DN  Tyrosyl-tRNA synthetase/tyrS
 RQ  1
 EV  IPR002307; TIGR00234;
 //

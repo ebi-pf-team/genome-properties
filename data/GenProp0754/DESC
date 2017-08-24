@@ -22,6 +22,7 @@ CC  although the sequence of the enzyme responsible is not yet known.
 --
 SN  1
 ID  Acetetylphosphate dephosphorylation
+DN  Acetetylphosphate dephosphorylation/1
 RQ  1
 EV  IPR004372; TIGR00016;
 EV  IPR001792; PF00708;

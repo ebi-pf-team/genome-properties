@@ -30,14 +30,14 @@ CC  controlled by the GATOR1 and GATOR2 complexes.
 --
 SN  1
 ID  Ras-related GTP-binding protein A/B
-DN  Ras-related GTP-binding protein A/B
+DN  Ras-related GTP-binding protein A/B/1
 RQ  1
 EV  IPR006762; PTHR11259; sufficient;
 TG  GO:0003924;
 --
-SN  1
+SN  2
 ID  Ras-related GTP-binding protein C/D
-DN  Ras-related GTP-binding protein C/D
+DN  Ras-related GTP-binding protein C/D/1
 RQ  1
 EV  IPR006762; PTHR11259; sufficient;
 TG  GO:0003924;

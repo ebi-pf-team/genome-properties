@@ -4,23 +4,27 @@ TP  METAPATH
 AU  Haft DH
 TH  0
 --
-SN  FnlA
+SN  1
 ID  UDP-GlcNAc 4,6-dehydratase/5-epimerase
+DN  UDP-GlcNAc 4,6-dehydratase/5-epimerase/FnlA
 RQ  1
 EV  IPR026415; TIGR04130;
 --
-SN  FnlB
+SN  2
 ID  UDP-FucNAc biosynthesis 3-epimerase
+DN  UDP-FucNAc biosynthesis 3-epimerase/FnlB
 RQ  1
 EV  IPRXXXX; 2774;
 --
-SN  FnlC
+SN  3
 ID  UDP-L-PneNAc 2-epimerase
+DN  UDP-L-PneNAc 2-epimerase/FnlC
 RQ  1
 EV  IPRXXXX; 2775;
 --
-SN  UGlcNAc
+SN  4
 ID  Source of UDP-GlcNAc
+DN  Source of UDP-GlcNAc/UGlcNAc
 RQ  1
 EV  GenProp0750;
 //

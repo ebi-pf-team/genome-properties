@@ -8,18 +8,21 @@ CC  proteins include a different matrix protein 2 (PF04772), a different
 CC  nonstructural protein 1 (PF02942), and NB glycoprotein (PF04159) which
 CC  overlaps the neuraminidase coding region.
 --
-SN  B_M2
+SN  1
 ID  Matrix protein BM2
+DN  Matrix protein BM2/B_M2
 RQ  1
 EV  IPR006859; PF04772;
 --
-SN  B_NBgly
+SN  2
 ID  NB glycoprotein
+DN  NB glycoprotein/B_NBgly
 RQ  1
 EV  IPR007288; PF04159;
 --
-SN  B_NS1
+SN  3
 ID  Nonstructural protein NS1
+DN  Nonstructural protein NS1/B_NS1
 RQ  1
 EV  IPR004208; PF02942;
 //

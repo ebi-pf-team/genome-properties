@@ -10,13 +10,15 @@ CC  inhibitor (VIT) family. The VIT family protein PEP-CTERM region usually
 CC  begins VPEPxEWxL, but usually scores poorly to the generic PEP-CTERM
 CC  model TIGR02595.
 --
-SN  EXOxrtN
+SN  1
 ID  Exosortase N
+DN  Exosortase N/EXOxrtN
 RQ  1
 EV  IPR031006; TIGR04476;
 --
-SN  target
+SN  2
 ID  VIT domain PEP-CTERM protein
+DN  VIT domain PEP-CTERM protein/target
 RQ  1
 EV  IPR031005; TIGR04477;
 //

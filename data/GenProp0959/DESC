@@ -25,13 +25,15 @@ CC  likely to modify what the ECF system imports.
 **  a salvaged thiamine precursor. rSAM enzyme TIGR04100 is a sub-clade of
 **  TIGR04038 (tadD-assoc).
 --
-SN  partner
+SN  1
 ID  ECF transport S component
+DN  ECF transport S component/partner
 RQ  1
 EV  IPR023812; TIGR04002;
 --
-SN  rSAM
+SN  2
 ID  Uncharacterized radical SAM protein
+DN  Uncharacterized radical SAM protein/rSAM
 RQ  1
 EV  IPR023822; TIGR04100;
 //

@@ -21,23 +21,27 @@ CC  additional genes are observed intercalated with these seven, suggesting
 CC  additional modifications to the product such as methyl- and
 CC  formyl-transferases, redox enzymes, etc. 
 --
-SN  ACT
+SN  1
 ID  NeuD-like acetyltransferase
+DN  NeuD-like acetyltransferase/ACT
 RQ  1
 EV  IPRXXXX; TIGR03570;
 --
-SN  EDH
+SN  2
 ID  Epimerase/dehydratase, LLPSF__EDH_00030 family
+DN  Epimerase/dehydratase, LLPSF__EDH_00030 family/EDH
 RQ  1
 EV  IPR026390; TIGR04180;
 --
-SN  NCT0029
+SN  3
 ID  Cytidylyltransferase, LLPSF_NCT_000029 family
+DN  Cytidylyltransferase, LLPSF_NCT_000029 family/NCT0029
 RQ  1
 EV  IPRXXXX; 2810;
 --
-SN  NHT
+SN  4
 ID  Aminotransferase, LLPSF_NHT_00031 family
+DN  Aminotransferase, LLPSF_NHT_00031 family/NHT
 RQ  1
 EV  IPR026385; TIGR04181;
 //

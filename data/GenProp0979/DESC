@@ -8,13 +8,15 @@ CC  system, featuring a variant class of exosortase (TIGR03762) and several
 CC  target  proteins per genome with the PEF-CTERM target sequence
 CC  (TIGR03024).
 --
-SN  CTERM
+SN  1
 ID  PEF_CTERM archaeal exosortase target domain
+DN  PEF_CTERM archaeal exosortase target domain/CTERM
 RQ  1
 EV  IPR017474; TIGR03024;
 --
-SN  EXOSORT
+SN  2
 ID  Exosortase, archaeal PEF_CTERM-specific
+DN  Exosortase, archaeal PEF_CTERM-specific/EXOSORT
 RQ  1
 EV  IPR022504; TIGR03762;
 //

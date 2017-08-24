@@ -15,42 +15,50 @@ CC  and 3,4-dimethylphenol (dmp).
 **  step is shown as an alternative to steps 2,3,and 4, but for now all are
 **  in_rule=1. 
 --
-SN  1_dmpB
+SN  1
 ID  Catechol 2,3-dioxygenase
+DN  Catechol 2,3-dioxygenase/1_dmpB
 RQ  1
 EV  IPR017624; TIGR03211; sufficient;
 --
-SN  234dmpD
+SN  2
 ID  2-hydroxymuconic semialdehyde hydrolase
+DN  2-hydroxymuconic semialdehyde hydrolase/234dmpD
 RQ  1
 --
-SN  2_dmpC
+SN  3
 ID  2-hydroxymuconic semialdehyde dehydrogenase
+DN  2-hydroxymuconic semialdehyde dehydrogenase/2_dmpC
 RQ  1
 EV  IPR017628; TIGR03216; sufficient;
 --
-SN  3_dmpI
+SN  4
 ID  4-oxalocrotonate isomerase
+DN  4-oxalocrotonate isomerase/3_dmpI
 RQ  1
 EV  IPR018191; TIGR00013; sufficient;
 --
-SN  4_dmpH
+SN  5
 ID  4-oxalocrotonate decarboxylase
+DN  4-oxalocrotonate decarboxylase/4_dmpH
 RQ  1
 EV  IPR017630; TIGR03218; sufficient;
 --
-SN  5_dmpE
+SN  6
 ID  2-oxopent-4-enoate hydratase
+DN  2-oxopent-4-enoate hydratase/5_dmpE
 RQ  1
 EV  IPR017632; TIGR03220; sufficient;
 --
-SN  6_dmpG
+SN  7
 ID  2-oxo-4-hydroxypentanoate aldolase
+DN  2-oxo-4-hydroxypentanoate aldolase/6_dmpG
 RQ  1
 EV  IPR017629; TIGR03217; sufficient;
 --
-SN  7_dmpF
+SN  8
 ID  Acetaldehyde dehydrogenase (acetylating)
+DN  Acetaldehyde dehydrogenase (acetylating)/7_dmpF
 RQ  1
 EV  IPR003361; TIGR03215; sufficient;
 //

@@ -20,33 +20,39 @@ CC  regulator.
 **  PMID: 19557345 demonstrates system in gpf. Note that my sensor kinase
 **  model is broader, heavy metals, needs copper focus.
 --
-SN  copA
+SN  1
 ID  Copper-resistance protein, CopA family
+DN  Copper-resistance protein, CopA family/copA
 RQ  1
 EV  IPR006376; TIGR01480;
 --
-SN  copB
+SN  2
 ID  Copper-resistance protein, CopB family
+DN  Copper-resistance protein, CopB family/copB
 RQ  1
 EV  IPR007939; PF05275;
 --
-SN  copC
+SN  3
 ID  Copper resistance protein, CopC family
+DN  Copper resistance protein, CopC family/copC
 RQ  1
 EV  IPR007348; PF04234;
 --
-SN  copD
+SN  4
 ID  Copper resistance protein, CopD family
+DN  Copper resistance protein, CopD family/copD
 RQ  1
 EV  IPR008457; PF05425;
 --
-SN  copR
+SN  5
 ID  Copper resistance response regulator
+DN  Copper resistance response regulator/copR
 RQ  0
 EV  IPRXXXX; 2679;
 --
-SN  copS
+SN  6
 ID  Heavy metal sensor kinase
+DN  Heavy metal sensor kinase/copS
 RQ  1
 EV  IPR006290; TIGR01386;
 //

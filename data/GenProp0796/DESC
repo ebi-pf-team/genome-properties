@@ -57,61 +57,64 @@ CC  cluster including methylases and possible formyltransferases and
 CC  deacetylases.  Thus, a range of closely related structures are likely
 CC  produced as mature products in various lineages.  
 --
-SN  PseA
+SN  1
 ID  CMP-pseudaminic acid C7-N-acetyl amidotransferase
-DN  N-acetyl sugar amidotransferase (EC: 6.3.4.-)
+DN  N-acetyl sugar amidotransferase (EC: 6.3.4.-)/PseA
 RQ  0
 EV  IPR020022; TIGR03573;
 --
-SN  PseB
+SN  2
 ID  UDP-GlcNAc C6-dehydratase/C4-reductase
-DN  UDP-N-acetylglucosamine 4,6-dehydratase (EC:4.2.1.-)
+DN  UDP-N-acetylglucosamine 4,6-dehydratase (EC:4.2.1.-)/PseB
 RQ  1
 EV  IPR020025; TIGR03589;
 --
-SN  PseC
+SN  3
 ID  Pseudaminic acid biosynthesis aminotransferase PseC
-DN  UDP-4-keto-6-deoxy-N-acetylglucosamine 4-aminotransferase (EC: 2.6.1.-)
+DN  UDP-4-keto-6-deoxy-N-acetylglucosamine 4-aminotransferase (EC: 2.6.1.-)/PseC
 RQ  1
 EV  IPR020026; TIGR03588;
 --
-SN  PseF
+SN  4
 ID  Pseudaminic acid CMP-transferase
-DN  Pseudaminic acid CMP-transferase (EC:2.7.7.-)
+DN  Pseudaminic acid CMP-transferase (EC:2.7.7.-)/PseF
 RQ  1
 EV  IPR020039; TIGR03584;
 EV  IPRXXXX; PF02348;
 --
-SN  PseG
+SN  5
 ID  Possible pseudaminic acid biosynthesis UDP hydrolase
-DN  Pseudaminic acid biosynthesis-associated protein PseG
+DN  Pseudaminic acid biosynthesis-associated protein PseG/PseG
 RQ  0
 EV  IPR020023; TIGR03590;
 --
-SN  PseH
+SN  6
 ID  Possible pseudaminic acid biosynthesis N-acetyl transferase
-DN  Pseudaminic acid biosynthesis N-acetyl transferase
+DN  Pseudaminic acid biosynthesis N-acetyl transferase/PseH
 RQ  1
 EV  IPR020036; TIGR03585;
 EV  IPR000182; PF00583;
 --
-SN  PseI
+SN  7
 ID  Pseudaminic acid synthase (pyruvate condensing enzyme)
-DN  Pseudaminic acid synthase (EC:2.5.1.-)
+DN  Pseudaminic acid synthase (EC:2.5.1.-)/PseI
 RQ  1
 EV  IPR020030; TIGR03586;
 --
-SN  PseM?
+SN  8?
 ID  Pseudaminic acid biosynthesis associated methylase
+DN  Pseudaminic acid biosynthesis associated methylase/PseM?
 RQ  0
 EV  IPR020027; TIGR03587;
 --
-SN  UGlcNAc
+SN  9
 ID  Source of UDP-N-acetyl-D-glucosamine
+DN  Source of UDP-N-acetyl-D-glucosamine/UGlcNAc
 RQ  0
 EV  GenProp0750;
 --
-SN  variants
+SN  10
 ID  Proteins possibly involved in pathway variants
+DN  Proteins possibly involved in pathway variants/variants
 RQ  0
 //

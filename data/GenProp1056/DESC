@@ -13,13 +13,15 @@ CC  distribution favoring rhizobial bacteria and the size of the cassette.
 CC  Note that this Genome Property should be regarded as still under
 CC  construction until the number of components defined reaches twelve.
 --
-SN  RhTw01
+SN  1
 ID  Methyltransferase, Rta_06860 family
+DN  Methyltransferase, Rta_06860 family/RhTw01
 RQ  1
 EV  IPR027554; TIGR04290;
 --
-SN  RhTw02
+SN  2
 ID  B12-binding domain/radical SAM domain protein
+DN  B12-binding domain/radical SAM domain protein/RhTw02
 RQ  0
 EV  IPR027559; TIGR04295;
 //

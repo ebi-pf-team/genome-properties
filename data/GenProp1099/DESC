@@ -17,13 +17,15 @@ CC  different process, hydrolyzing 8-oxo-dGTP to 8-oxo-dGMP to block its
 CC  incorporation into DNA in the first place, and therefore does perform
 CC  DNA repair per se.
 --
-SN  MutM
+SN  1
 ID  DNA-formamidopyrimidine glycosylase
+DN  DNA-formamidopyrimidine glycosylase/MutM
 RQ  1
 EV  IPR020629; TIGR00577;
 --
-SN  MutY
+SN  2
 ID  A/G-specific adenine glycosylase
+DN  A/G-specific adenine glycosylase/MutY
 RQ  1
 EV  IPR005760; TIGR01084;
 //

@@ -11,8 +11,9 @@ CC  transfers the phosphate to ADP. The two pathways can coexist in a
 CC  species, and the pathway described here appears to be the more
 CC  significant in bacteria of the human colon.
 --
-SN  but2ace
+SN  1
 ID  Butyryl-CoA:acetate CoA-transferase
+DN  Butyryl-CoA:acetate CoA-transferase/but2ace
 RQ  1
 EV  IPR023990; TIGR03948;
 //

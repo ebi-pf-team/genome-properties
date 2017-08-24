@@ -21,13 +21,15 @@ CC  motility, suggesting glycosylation, although BimA lacks the repeat
 CC  structure recognized by model TIGR04415.
 **  BMA_A0749, BimA, is in right context but TIGR04415 does not hit it.
 --
-SN  O_hept
+SN  1
 ID  Autotransporter strand-loop-strand O-heptosyltransferase
+DN  Autotransporter strand-loop-strand O-heptosyltransferase/O_hept
 RQ  1
 EV  IPR030929; TIGR04414;
 --
-SN  O_targ
+SN  2
 ID  Autotransporter strand-loop-strand repeat
+DN  Autotransporter strand-loop-strand repeat/O_targ
 RQ  1
 EV  IPRXXXX; TIGR04415;
 //

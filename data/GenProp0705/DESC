@@ -13,28 +13,33 @@ RL  J Bacteriol. 2001;183:3293-3302.
 CC  This xanthine dehydrogenase complex is particular to a small number of
 CC  organisms including Bacillus subtilis, where it has been characterized.
 --
-SN  pucA
+SN  1
 ID  Accessory factor PucA
+DN  Accessory factor PucA/pucA
 RQ  0
 EV  IPR003777; PF02625; sufficient;
 --
-SN  pucB
+SN  2
 ID  PucB gene
+DN  PucB gene/pucB
 RQ  0
 EV  IPR017615; TIGR03202; sufficient;
 --
-SN  pucC
+SN  3
 ID  FAD-binding domain, PucC
+DN  FAD-binding domain, PucC/pucC
 RQ  1
 EV  IPR017612; TIGR03199; sufficient;
 --
-SN  pucD
+SN  4
 ID  Molybdopterin-binding subunit, pucD
+DN  Molybdopterin-binding subunit, pucD/pucD
 RQ  1
 EV  IPR017609; TIGR03196; sufficient;
 --
-SN  pucE
+SN  5
 ID  Fe-S cluster-binding subunit, PucE
+DN  Fe-S cluster-binding subunit, PucE/pucE
 RQ  1
 EV  IPR017611; TIGR03198; sufficient;
 //

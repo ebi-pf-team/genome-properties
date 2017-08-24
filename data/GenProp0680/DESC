@@ -10,13 +10,15 @@ CC  disulfide bond reducing compounds are CcsA (or ResB) and CcsB (or
 CC  ResC). This system is much simpler than the CcmABCDEFGH system, system
 CC  I.
 --
-SN  CcsA
+SN  1
 ID  Cytochrome c-type biogenesis protein CcsA
+DN  Cytochrome c-type biogenesis protein CcsA/CcsA
 RQ  1
 EV  IPR007816; PF05140; sufficient;
 --
-SN  CcsB
+SN  2
 ID  Cytochrome c-type biogenesis protein CcsB
+DN  Cytochrome c-type biogenesis protein CcsB/CcsB
 RQ  1
 EV  IPR017562; TIGR03144; sufficient;
 //

@@ -18,18 +18,21 @@ CC  cyclodehydratase/docking scaffold fusion protein, and a kinase and
 CC  cyclase homology domain-containing multidomain protein.
 **  ntsc09, gbm, Delftia acidovorans, other Burks, etc.
 --
-SN  bTOMM_C
+SN  1
 ID  Cyclodeydratase/docking scaffold fusion protein
+DN  Cyclodeydratase/docking scaffold fusion protein/bTOMM_C
 RQ  1
 EV  IPR022291; TIGR03882;
 --
-SN  bTOMM_K
+SN  2
 ID  TOMM system kinase/cyclase multidomain protein
+DN  TOMM system kinase/cyclase multidomain protein/bTOMM_K
 RQ  1
 EV  IPR023889; TIGR03903;
 --
-SN  bTOMM_P
+SN  3
 ID  TOMM precursor subunit, Burkholderia type
+DN  TOMM precursor subunit, Burkholderia type/bTOMM_P
 RQ  1
 EV  IPR022261; TIGR03795;
 //

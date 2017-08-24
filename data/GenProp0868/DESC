@@ -12,13 +12,15 @@ CC  TIGR03808 (repeats of TIGR03807) and TIGR03809
 **  proteins crop up in conserved gene neighborhood. No go for going
 **  public.
 --
-SN  RR_near
+SN  1
 ID  Companion to novel twin-Arg-translocated protein
+DN  Companion to novel twin-Arg-translocated protein/RR_near
 RQ  1
 EV  IPR022268; TIGR03809;
 --
-SN  RR_self
+SN  2
 ID  Twin-arg-translocated protein with beta-helix-like repeat
+DN  Twin-arg-translocated protein with beta-helix-like repeat/RR_self
 RQ  1
 EV  IPR022388; TIGR03808;
 //

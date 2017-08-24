@@ -23,14 +23,15 @@ CC  closely with the SLH domain in its phylogenetic distribution.
 **  protein, but then working from this Genome Property showed that the
 **  family could/should be split.
 --
-SN  S_layer
+SN  1
 ID  S-layer homology domain
+DN  S-layer homology domain/S_layer
 RQ  1
 EV  IPR001119; PF00395;
 --
-SN  S_poly
+SN  2
 ID  Polysaccharide pyruvyl transferase
-DN  S-layer domain protein
+DN  S-layer domain protein/S_poly
 RQ  1
 EV  IPR019896; TIGR03609;
 TG  GO:0042545;

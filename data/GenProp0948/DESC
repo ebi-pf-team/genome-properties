@@ -23,14 +23,16 @@ CC  and in many other bacteria in a two-gene cassette. This pairing may
 CC  allow RNA cleaved by ribotoxins to be repaired, and to be modified at
 CC  the site of repair to prevent the same breakage from occurring again.
 --
-SN  Hen1
+SN  1
 ID  3' terminal RNA ribose 2'-O-methyltransferase Hen1
+DN  3' terminal RNA ribose 2'-O-methyltransferase Hen1/Hen1
 RQ  1
 EV  IPR024026; TIGR04074;
 TG  GO:0042245;
 --
-SN  Pnkp
+SN  2
 ID  Polynucleotide kinase-phosphatase
+DN  Polynucleotide kinase-phosphatase/Pnkp
 RQ  1
 EV  IPR024028; TIGR04075;
 TG  GO:0042245;

@@ -14,23 +14,27 @@ CC  reductase, and a nitrate reductase.
 **  I could require the chaperone by broadening the model and doing
 **  HMM-CLUST.
 --
-SN  II_alph
+SN  1
 ID  DMSO reductase family type II enzyme, molybdopterin subunit
+DN  DMSO reductase family type II enzyme, molybdopterin subunit/II_alph
 RQ  1
 EV  IPR017840; TIGR03479;
 --
-SN  II_beta
+SN  2
 ID  DMSO reductase family type II enzyme, iron-sulfur subunit
+DN  DMSO reductase family type II enzyme, iron-sulfur subunit/II_beta
 RQ  1
 EV  IPR017839; TIGR03478;
 --
-SN  II_chap
+SN  3
 ID  DMSO reductase family type II enzyme chaperone
+DN  DMSO reductase family type II enzyme chaperone/II_chap
 RQ  0
 EV  IPR017843; TIGR03482;
 --
-SN  II_gam
+SN  4
 ID  DMSO reductase family type II enzyme, heme b subunit
+DN  DMSO reductase family type II enzyme, heme b subunit/II_gam
 RQ  1
 EV  IPR017838; TIGR03477;
 //

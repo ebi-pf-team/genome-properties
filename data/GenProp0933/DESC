@@ -16,20 +16,23 @@ CC  mycothiol, is a 398-Da alpha-anomeric glycoside of
 CC  L-cysteinyl-D-glucosamine with L-malic acid. A separate property
 CC  (GenProp0927) describes the biosynthesis of bacillithiol.
 --
-SN  B_YpdA
+SN  1
 ID  Putative bacillithiol TDOR, YpdA family
+DN  Putative bacillithiol TDOR, YpdA family/B_YpdA
 RQ  0
 EV  IPR023856; TIGR04018;
 TG  GO:0071792;
 --
-SN  B_YphP
+SN  2
 ID  Putative bacillithiol TDOR, YphP/YqiW family
+DN  Putative bacillithiol TDOR, YphP/YqiW family/B_YphP
 RQ  0
 EV  IPR009474; PF06491;
 TG  GO:0071792;
 --
-SN  B_YtxJ
+SN  3
 ID  Putative bacillithiol TDOR, YtxJ family
+DN  Putative bacillithiol TDOR, YtxJ family/B_YtxJ
 RQ  0
 EV  IPR022551; TIGR04019;
 TG  GO:0071792;

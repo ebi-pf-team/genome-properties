@@ -28,23 +28,27 @@ CC  conserved domain (see TIGR03510), and we name this small protein XapX.
 **  The small hypothetical, ~ 50 amino acids, turns out to be real protein,
 **  needs new HMM, project 2766.
 --
-SN  XapA
+SN  1
 ID  Xanthosine phosphorylase
+DN  Xanthosine phosphorylase/XapA
 RQ  1
 EV  IPR010943; TIGR01699;
 --
-SN  XapB
+SN  2
 ID  Xanthosine permease
+DN  Xanthosine permease/XapB
 RQ  1
 EV  IPRXXXX; 2219;
 --
-SN  XapR
+SN  3
 ID  Xanthosine operon regulatory protein XapR
+DN  Xanthosine operon regulatory protein XapR/XapR
 RQ  1
 EV  IPRXXXX; 2244;
 --
-SN  XapX
+SN  4
 ID  XapX protein
+DN  XapX protein/XapX
 RQ  0
 EV  IPRXXXX; TIGR03510;
 //

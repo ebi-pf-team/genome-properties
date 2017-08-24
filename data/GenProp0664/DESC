@@ -23,14 +23,16 @@ CC  called SrtB in Streptococcus pyogenes (see PMID:11914350) is a member
 CC  of the SrtA family, not the family described here, while the protein
 CC  called SrtC2 is a member of the SrtB family (see PMID:15317792).
 --
-SN  SrtB
+SN  1
 ID  Sortase, SrtB family
+DN  Sortase, SrtB family/SrtB
 RQ  1
 EV  IPRXXXX; PF07170; sufficient;
 EV  IPR009835; TIGR03064; sufficient;
 --
-SN  target
+SN  2
 ID  Sortase B target sequence
+DN  Sortase B target sequence/target
 RQ  1
 EV  IPR017502; TIGR03063; sufficient;
 EV  IPR017503; TIGR03065; sufficient;

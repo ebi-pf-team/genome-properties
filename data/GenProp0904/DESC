@@ -23,45 +23,53 @@ CC  new nomenclature in starting with ecc (esx conserved component).
 **  Additional secreted proteins include Rv3616c, Rv3881c, Rv3615c, Rv3864,
 **  Rv3865
 --
-SN  T7_EccA
+SN  1
 ID  Type VII secretion AAA-ATPase EccA
+DN  Type VII secretion AAA-ATPase EccA/T7_EccA
 RQ  1
 EV  IPR023835; TIGR03922;
 --
-SN  T7_EccB
+SN  2
 ID  Type VII secretion transmembrane protein EccB
+DN  Type VII secretion transmembrane protein EccB/T7_EccB
 RQ  1
 EV  IPR007795; TIGR03919;
 --
-SN  T7_EccC
+SN  3
 ID  Type VII secretion protein EccC
+DN  Type VII secretion protein EccC/T7_EccC
 RQ  1
 EV  IPR023836; TIGR03924;
 EV  IPR023837; TIGR03925;
 --
-SN  T7_EccD
+SN  4
 ID  Type VII secretion integral membrane protein EccD
+DN  Type VII secretion integral membrane protein EccD/T7_EccD
 RQ  1
 EV  IPR006707; TIGR03920;
 --
-SN  T7_EccE
+SN  5
 ID  Type VII secretion transmembrane protein EccE
+DN  Type VII secretion transmembrane protein EccE/T7_EccE
 RQ  1
 EV  IPR021368; TIGR03923;
 --
-SN  T7_WxG
+SN  6
 ID  WXG100 family type VII secretion target
+DN  WXG100 family type VII secretion target/T7_WxG
 RQ  1
 EV  IPRXXXX; PF06013;
 EV  IPRXXXX; TIGR03930;
 --
-SN  T7_a
+SN  7
 ID  Type VII secretion-associated protein, Rv3446c family
+DN  Type VII secretion-associated protein, Rv3446c family/T7_a
 RQ  0
 EV  IPR023840; TIGR03931;
 --
-SN  T7_myco
+SN  8
 ID  Mycosin
+DN  Mycosin/T7_myco
 RQ  1
 EV  IPR023834; TIGR03921;
 //

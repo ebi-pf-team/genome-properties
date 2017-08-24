@@ -1,8 +1,8 @@
->sp|P0A9T6|YBAQ_ECOLI (Step num: A-HigA) Uncharacterized HTH-type transcriptional regulator YbaQ OS=Escherichia coli (strain K12) GN=ybaQ PE=1 SV=1
+>sp|P0A9T6|YBAQ_ECOLI (Step num: 1) Uncharacterized HTH-type transcriptional regulator YbaQ OS=Escherichia coli (strain K12) GN=ybaQ PE=1 SV=1
 MKQATRKPTTPGDILLYEYLEPLDLKINELAELLHVHRNSVSALINNNRKLTTEMAFRLA
 KVFDTTVDFWLNLQAAVDLWEVENNMRTQEELGRIETVAEYLARREERAKKVA
 
->tr|K9ZM56|K9ZM56_ANACC (Step num: K-HigB) Plasmid maintenance system killer OS=Anabaena cylindrica (strain ATCC 27899 / PCC 7122) GN=Anacy_4514 PE=4 SV=1
+>tr|K9ZM56|K9ZM56_ANACC (Step num: 2) Plasmid maintenance system killer OS=Anabaena cylindrica (strain ATCC 27899 / PCC 7122) GN=Anacy_4514 PE=4 SV=1
 MSPSENYPKYRDKRTEQFALGERVKEFQAFTRQAYRRLEILEAATSKKDLMLLPSNHFES
 LEGDRDGQYSIHINEKWRICFNWPDDELKPFNIEITDYH
 

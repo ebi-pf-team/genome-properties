@@ -27,28 +27,33 @@ CC  phosphonate catabolic pathways such as genes of the HDIG domain family
 CC  (PF01966), certain GntR-type transcriptional regulators and
 CC  phosphonate-related transporters.
 --
-SN  GntR
+SN  1
 ID  Associated GntR-family transcriptional regulator
+DN  Associated GntR-family transcriptional regulator/GntR
 RQ  0
 EV  IPRXXXX; PF00392;
 --
-SN  HDIG
+SN  2
 ID  Associated HDIG-domain protein
+DN  Associated HDIG-domain protein/HDIG
 RQ  0
 EV  IPR017670; TIGR03276;
 --
-SN  HpnW
+SN  3
 ID  Proposed aminophosphonate deaminating oxidase
+DN  Proposed aminophosphonate deaminating oxidase/HpnW
 RQ  1
 EV  IPR017741; TIGR03364;
 --
-SN  HpnX
+SN  4
 ID  Proposed phosphonoacetaldehyde-like hydrolase
+DN  Proposed phosphonoacetaldehyde-like hydrolase/HpnX
 RQ  1
 EV  IPR022468; TIGR03351;
 --
-SN  HpnZ
+SN  5
 ID  Phosphonate-associated alcohol dehydrogenase
+DN  Phosphonate-associated alcohol dehydrogenase/HpnZ
 RQ  0
 EV  IPR017743; TIGR03366;
 //

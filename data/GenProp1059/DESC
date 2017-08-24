@@ -10,7 +10,8 @@ CC  HMMs.
 **  Does not cover bat coronavirus. Let us see what it does cover. MAYBE
 **  half done for set of proteins from (avian) Infectious bronchitis virus
 --
-SN  NSP7
+SN  1
 ID  Replicase polyprotein NSP7 region
+DN  Replicase polyprotein NSP7 region/NSP7
 RQ  1
 //

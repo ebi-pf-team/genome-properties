@@ -12,13 +12,15 @@ CC  of an N-terminal exosortase region and a C-terminal region related to
 CC  eukaryotic CAAX prenyl proteases and bacterial bacteriocin
 CC  self-immunity proteins.
 --
-SN  EXOCAAX
+SN  1
 ID  Exosortase/CAAX-like protease, VPEID-CTERM system
+DN  Exosortase/CAAX-like protease, VPEID-CTERM system/EXOCAAX
 RQ  1
 EV  IPR026420; TIGR04162;
 --
-SN  VPEID
+SN  2
 ID  VPEID-CTERM protein sorting domain
+DN  VPEID-CTERM protein sorting domain/VPEID
 RQ  1
 EV  IPR026422; TIGR04161;
 //

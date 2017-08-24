@@ -11,48 +11,57 @@ CC  GTGCCGCTCGCCGTGATGCCGGAAGGCGTTGAGCAC. Interestingly, this system
 CC  includes the DevR and DevS proteins of Myxococcus, which have been
 CC  recruited to demonstrable roles in fruiting body development.
 --
-SN  cas1cmx
+SN  1
 ID  CRISPR-associated protein Cas1, MYXAN subtype
+DN  CRISPR-associated protein Cas1, MYXAN subtype/cas1cmx
 RQ  1
 EV  IPR023844; TIGR03983;
 --
-SN  cas2cmx
+SN  2
 ID  CRISPR-associated protein Cas2, MYXAN subtype
+DN  CRISPR-associated protein Cas2, MYXAN subtype/cas2cmx
 RQ  1
 EV  IPR021127; TIGR01573;
 --
-SN  cas3cmx
+SN  3
 ID  Cas3, MYXAN region
+DN  Cas3, MYXAN region/cas3cmx
 RQ  1
 EV  IPR006474; TIGR01587;
 --
-SN  cas4cmx
+SN  4
 ID  CRISPR-associated protein Cas4, MYXAN subtype
+DN  CRISPR-associated protein Cas4, MYXAN subtype/cas4cmx
 RQ  1
 EV  IPR013343; TIGR00372;
 --
-SN  cmx1C
+SN  5
 ID  CRISPR-associated protein Csx13, C-terminal region
+DN  CRISPR-associated protein Csx13, C-terminal region/cmx1C
 RQ  1
 EV  IPR027811; TIGR03486;
 --
-SN  cmx1N
+SN  6
 ID  CRISPR-associated protein Csx13, N-terminal region
+DN  CRISPR-associated protein Csx13, N-terminal region/cmx1N
 RQ  1
 EV  IPR019989; TIGR03485;
 --
-SN  cmx5
+SN  7
 ID  CRISPR-associated protein DevS
+DN  CRISPR-associated protein DevS/cmx5
 RQ  1
 EV  IPR013415; TIGR02586;
 --
-SN  cmx6
+SN  8
 ID  CRISPR-associated protein Cas6, MYXAN subtype
+DN  CRISPR-associated protein Cas6, MYXAN subtype/cmx6
 RQ  1
 EV  IPR014174; TIGR02807;
 --
-SN  cmxREG
+SN  9
 ID  CRISPR-associated autoregulator, MYXAN subtype
+DN  CRISPR-associated autoregulator, MYXAN subtype/cmxREG
 RQ  1
 EV  IPRXXXX; TIGR01875;
 //

@@ -10,23 +10,27 @@ CC  conditions.
 **  The bcr type (models TIGR02259,60,61,63) is one of (at least) two
 **  types. See also the bddNOPQ type: see Azoarcus, ntae01.
 --
-SN  BnzCo_A
+SN  1
 ID  Benzoyl-CoA reductase, subunit A
+DN  Benzoyl-CoA reductase, subunit A/BnzCo_A
 RQ  1
 EV  IPR011954; TIGR02259; sufficient;
 --
-SN  BnzCo_B
+SN  2
 ID  Benzoyl-CoA reductase, subunit B
+DN  Benzoyl-CoA reductase, subunit B/BnzCo_B
 RQ  1
 EV  IPR011955; TIGR02260; sufficient;
 --
-SN  BnzCo_C
+SN  3
 ID  Benzoyl-CoA reductase, subunit C
+DN  Benzoyl-CoA reductase, subunit C/BnzCo_C
 RQ  1
 EV  IPR011958; TIGR02263; sufficient;
 --
-SN  BnzCo_D
+SN  4
 ID  Benzoyl-CoA reductase, subunit D
+DN  Benzoyl-CoA reductase, subunit D/BnzCo_D
 RQ  1
 EV  IPR011956; TIGR02261; sufficient;
 //

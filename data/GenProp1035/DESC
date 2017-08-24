@@ -39,43 +39,51 @@ CC  O113 cluster are weak and ambiguous. So although ECODAB makes
 CC  predictions, we do not regard them as sufficiently strong to drive
 CC  transitive annotations.
 --
-SN  GalE
+SN  1
 ID  UDP-glucose 4-epimerase
+DN  UDP-glucose 4-epimerase/GalE
 RQ  1
 EV  IPR005886; TIGR01179;
 --
-SN  WbnA
+SN  2
 ID  Galactosyl transferase WbnA
+DN  Galactosyl transferase WbnA/WbnA
 RQ  1
 EV  IPRXXXX; 2897;
 --
-SN  WbnB
+SN  3
 ID  Galactosyl transferase WbnB
+DN  Galactosyl transferase WbnB/WbnB
 RQ  1
 EV  IPRXXXX; 2895;
 --
-SN  WbnC
+SN  4
 ID  Sugar O-acetyl transferase WbnC
+DN  Sugar O-acetyl transferase WbnC/WbnC
 RQ  1
 EV  IPRXXXX; 2894;
 --
-SN  WbnD
+SN  5
 ID  Galactosyl transferase WbnD
+DN  Galactosyl transferase WbnD/WbnD
 RQ  1
 EV  IPRXXXX; 2893;
 --
-SN  WbnE
+SN  6
 ID  ADGal(1->3)bDGlcNAc transferase
+DN  ADGal(1->3)bDGlcNAc transferase/WbnE
 RQ  1
 EV  IPRXXXX; 2892;
 --
-SN  wzx113
+SN  7
 ID  O113(Ec)-antigen specific transporter (flippase) wzx
+DN  O113(Ec)-antigen specific transporter (flippase) wzx/wzx113
 RQ  1
 EV  IPRXXXX; 2898;
 --
-SN  wzy113
+SN  8
 ID  O113(Ec)-antigen specific polymerase wzy
+DN  O113(Ec)-antigen specific polymerase wzy/wzy113
 RQ  1
 EV  IPRXXXX; 2896;
 //

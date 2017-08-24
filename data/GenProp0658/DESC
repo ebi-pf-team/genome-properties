@@ -52,50 +52,58 @@ CC  the biosynthetic genes.
 **  by cyclic-di-GMP?  Look for cyclases of the GGDEF family and
 **  phosphodiesterases.
 --
-SN  CelA
+SN  1
 ID  Cellulose synthase, catalytic subunit CelA
+DN  Cellulose synthase, catalytic subunit CelA/CelA
 RQ  1
 EV  IPR003919; TIGR03030; sufficient;
 TG  GO:0030244;
 --
-SN  CelB
+SN  2
 ID  Cellulose synthase, regulatory subunit CelB
+DN  Cellulose synthase, regulatory subunit CelB/CelB
 RQ  1
 EV  IPR018513; PF03170; sufficient;
 TG  GO:0030244;
 --
-SN  CelBcsE
+SN  3
 ID  Cellulose biosynthesis protein BcsE/YhjS
+DN  Cellulose biosynthesis protein BcsE/YhjS/CelBcsE
 RQ  0
 EV  IPR017745; TIGR03369;
 TG  GO:0030244;
 --
-SN  CelBcsF
+SN  4
 ID  Cellulose biosynthesis operon protein BcsF/YhjT
+DN  Cellulose biosynthesis operon protein BcsF/YhjT/CelBcsF
 RQ  0
 EV  IPR019995; TIGR03493;
 TG  GO:0030244;
 --
-SN  CelBcsG
+SN  5
 ID  Cellulose biosynthesis protein BcsG/YhjU
+DN  Cellulose biosynthesis protein BcsG/YhjU/CelBcsG
 RQ  0
 EV  IPR017744; TIGR03368;
 TG  GO:0030244;
 --
-SN  CelC
+SN  6
 ID  Cellulose synthase operon protein C
+DN  Cellulose synthase operon protein C/CelC
 RQ  1
 EV  IPR008410; PF05420; sufficient;
 TG  GO:0030244;
 --
-SN  CelYhjQ
+SN  7
 ID  Cellulose synthase operon protein YhjQ
+DN  Cellulose synthase operon protein YhjQ/CelYhjQ
 RQ  0
 EV  IPR017746; TIGR03371;
 TG  GO:0030244;
 --
-SN  endoglu
+SN  8
 ID  Clustered endoglucanase (cellulase?)
+DN  Clustered endoglucanase (cellulase?)/endoglu
 RQ  0
 EV  IPRXXXX; PF01270;
 TG  GO:0030244;

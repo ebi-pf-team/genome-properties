@@ -17,13 +17,15 @@ CC  found for GSU_1558, for example, by bSECISearch:
 CC  UGAGGCAAGUCUUCCGGCGCCGGGAGCGCCAAGGAGAAG and
 CC  UGAGGCGGAUCGUCCGGCGCCGGUGGCGCCGCAAAGAAG.
 --
-SN  mod_SAM
+SN  1
 ID  Peptide modification radical SAM enzyme, GSU_1560 family
+DN  Peptide modification radical SAM enzyme, GSU_1560 family/mod_SAM
 RQ  1
 EV  IPR023807; TIGR04082;
 --
-SN  mod_pep
+SN  2
 ID  Radical SAM modification target peptide, GSU_1558 family
+DN  Radical SAM modification target peptide, GSU_1558 family/mod_pep
 RQ  1
 EV  IPR023971; TIGR04081;
 //

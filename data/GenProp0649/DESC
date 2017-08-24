@@ -19,18 +19,21 @@ CC  permeability, and development of the ability to fix nitrogen. The
 CC  DevBCA transporter most likely acts by exporting a glycolipid (or an
 CC  enzyme) specific to heterocyst formation.
 --
-SN  DevA
+SN  1
 ID  ABC exporter ATP-binding subunit, DevA family
+DN  ABC exporter ATP-binding subunit, DevA family/DevA
 RQ  1
 EV  IPR014324; TIGR02982; sufficient;
 --
-SN  DevB
+SN  2
 ID  ABC exporter membrane fusion protein, DevB family
+DN  ABC exporter membrane fusion protein, DevB family/DevB
 RQ  1
 EV  IPR014315; TIGR02971; sufficient;
 --
-SN  DevC
+SN  3
 ID  ABC exporter, DevC family protein
+DN  ABC exporter, DevC family protein/DevC
 RQ  1
 EV  IPR005891; TIGR01185; sufficient;
 //

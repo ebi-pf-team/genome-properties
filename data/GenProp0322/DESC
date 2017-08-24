@@ -7,13 +7,15 @@ CC  This addiction module consists of homologs of the killer HigB and the
 CC  antidote HigA. It is unusual in that the killer protein is encoded by
 CC  the upstream gene.
 --
-SN  A-HigA
+SN  1
 ID  Antidote protein HigA - TIGR02607
+DN  Antidote protein HigA - TIGR02607/A-HigA
 RQ  1
 EV  IPR013430; TIGR02607; sufficient;
 --
-SN  K-HigB
+SN  2
 ID  Killer protein HigB - PF05015
+DN  Killer protein HigB - PF05015/K-HigB
 RQ  1
 EV  IPR007711; PF05015; sufficient;
 //

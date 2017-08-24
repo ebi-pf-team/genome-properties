@@ -15,28 +15,33 @@ CC  family TIGR04169.
 **  two additional families, glycosyltransferases, one like CofC, one like
 **  MftF (mycofactocin).
 --
-SN  P_ester
+SN  1
 ID  Phosphoesterase family protein
+DN  Phosphoesterase family protein/P_ester
 RQ  0
 EV  IPR027629; TIGR04168;
 --
-SN  glycCof
+SN  2
 ID  Putative glycosyltransferase, CofC-like
+DN  Putative glycosyltransferase, CofC-like/glycCof
 RQ  1
 EV  IPR018641; TIGR04282;
 --
-SN  glycMft
+SN  3
 ID  Putative glycosyltransferase, MftF-like
+DN  Putative glycosyltransferase, MftF-like/glycMft
 RQ  1
 EV  IPR026461; TIGR04283;
 --
-SN  peroxFam
+SN  4
 ID  Alkylhydroperoxidase/carboxymuconolactone decarboxylase family protein
+DN  Alkylhydroperoxidase/carboxymuconolactone decarboxylase family protein/peroxFam
 RQ  1
 EV  IPR026445; TIGR04169;
 --
-SN  rSAM_SeC
+SN  5
 ID  Radical SAM/selenodomain protein
+DN  Radical SAM/selenodomain protein/rSAM_SeC
 RQ  1
 EV  IPR026351; TIGR04167;
 //

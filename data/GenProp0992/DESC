@@ -11,8 +11,9 @@ CC  arrangement suggests ligand activity rather than post-translational
 CC  modification. 
 **  Modification target must not be nearby.
 --
-SN  rSAM
+SN  1
 ID  Radical SAM probable peptide maturase
+DN  Radical SAM probable peptide maturase/rSAM
 RQ  1
 EV  IPR024018; TIGR04083;
 //

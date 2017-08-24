@@ -10,18 +10,21 @@ CC  system is absent in the genomes in which this system is found. These
 CC  genomes encode systems for the catabolism of 2-AEP, making the need for
 CC  a 2-AEP-specific transporter likely.
 --
-SN  PhnS2
+SN  1
 ID  Periplasmic AEP binding protein
+DN  Periplasmic AEP binding protein/PhnS2
 RQ  1
 EV  IPR017663; TIGR03261; sufficient;
 --
-SN  PhnT2
+SN  2
 ID  ATP-binding protein
+DN  ATP-binding protein/PhnT2
 RQ  1
 EV  IPR017666; TIGR03265; sufficient;
 --
-SN  PhnU2
+SN  3
 ID  Permease protein
+DN  Permease protein/PhnU2
 RQ  1
 EV  IPR017664; TIGR03262; sufficient;
 //

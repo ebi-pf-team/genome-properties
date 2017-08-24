@@ -14,23 +14,27 @@ CC  the bacillus cytochrome c oxidase of the caa3 type.  This complex
 CC  couples the reduction of oxidized quinones with the reduction of
 CC  molecular oxygen to water and the pumping of protons.
 --
-SN  QoxA
+SN  1
 ID  Subunit II, QoxA
+DN  Subunit II, QoxA/QoxA
 RQ  1
 EV  IPR006332; TIGR01432; sufficient;
 --
-SN  QoxB
+SN  2
 ID  Subunit I, QoxB
+DN  Subunit I, QoxB/QoxB
 RQ  1
 EV  IPR014233; TIGR02882; sufficient;
 --
-SN  QoxC
+SN  3
 ID  Subunit III, QoxC
+DN  Subunit III, QoxC/QoxC
 RQ  1
 EV  IPR014246; TIGR02897; sufficient;
 --
-SN  QoxD
+SN  4
 ID  Subunit IV, QoxD
+DN  Subunit IV, QoxD/QoxD
 RQ  1
 EV  IPR014250; TIGR02901; sufficient;
 //

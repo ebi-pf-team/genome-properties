@@ -7,38 +7,45 @@ CC  The O26 antigen is composed of the repeating unit
 CC  [->3)-aLRha-(1->4)-aLFucNAc-(1->3)-bDGlcNAc-(1->]. It is observed in E.
 CC  coli strains 900105 (10e) and 11368.
 --
-SN  FucNAc
+SN  1
 ID  Source of UDP-L-FucNAc
+DN  Source of UDP-L-FucNAc/FucNAc
 RQ  1
 EV  GenProp0976;
 --
-SN  Rha
+SN  2
 ID  Source of rhamnose
+DN  Source of rhamnose/Rha
 RQ  1
 EV  GenProp0183;
 --
-SN  WbuA
+SN  3
 ID  A-L-Rha-(1->4)-a-L-FucNAc transferase
+DN  A-L-Rha-(1->4)-a-L-FucNAc transferase/WbuA
 RQ  1
 EV  IPRXXXX; 2772;
 --
-SN  WbuB
+SN  4
 ID  A-L-FucNAc-(1->3)-b-D-GlcNAc transferase
+DN  A-L-FucNAc-(1->3)-b-D-GlcNAc transferase/WbuB
 RQ  1
 EV  IPRXXXX; 2942;
 --
-SN  WbuC
+SN  5
 ID  O26(Ec)-antigen biosynthesis associated protein of unknown function WbuC
+DN  O26(Ec)-antigen biosynthesis associated protein of unknown function WbuC/WbuC
 RQ  1
 EV  IPRXXXX; 2944;
 --
-SN  wzx26
+SN  6
 ID  O26(Ec)-antigen specific transporter (flippase) wzx
+DN  O26(Ec)-antigen specific transporter (flippase) wzx/wzx26
 RQ  1
 EV  IPRXXXX; 2943;
 --
-SN  wzy26
+SN  7
 ID  O26-specific polymerase
+DN  O26-specific polymerase/wzy26
 RQ  1
 EV  IPRXXXX; 2773;
 //

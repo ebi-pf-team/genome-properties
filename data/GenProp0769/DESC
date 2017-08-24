@@ -17,20 +17,23 @@ CC  LOS.
 **  LOS type, and th e literature has a mapping of functional lgt sets to
 **  LOS type. 
 --
-SN  lgtA
+SN  1
 ID  Lacto-N-neotetraose biosynthesis glycosyl transferase LgtA
+DN  Lacto-N-neotetraose biosynthesis glycosyl transferase LgtA/lgtA
 RQ  1
 EV  IPRXXXX; 2122;
 TG  GO:0009103;
 --
-SN  lgtB
+SN  2
 ID  Lacto-N-neotetraose biosynthesis glycosyl transferase LgtB
+DN  Lacto-N-neotetraose biosynthesis glycosyl transferase LgtB/lgtB
 RQ  1
 EV  IPRXXXX; 2120;
 TG  GO:0009103;
 --
-SN  lgtE
+SN  3
 ID  Lacto-N-neotetraose biosynthesis glycosyl transferase LgtE
+DN  Lacto-N-neotetraose biosynthesis glycosyl transferase LgtE/lgtE
 RQ  1
 EV  IPRXXXX; 2121;
 TG  GO:0009103;

@@ -14,23 +14,27 @@ CC  A multisubunit ABC transporter for the import of
 CC  2-aminoethylphosphonate (AEP, ciliatine) which is then subject to
 CC  catabolism.
 --
-SN  PhnS
+SN  1
 ID  Periplasmic AEP binding protein
+DN  Periplasmic AEP binding protein/PhnS
 RQ  1
 EV  IPR017637; TIGR03227; sufficient;
 --
-SN  PhnT
+SN  2
 ID  ATP-binding component
+DN  ATP-binding component/PhnT
 RQ  1
 EV  IPR017662; TIGR03258; sufficient;
 --
-SN  PhnU
+SN  3
 ID  Permease component
+DN  Permease component/PhnU
 RQ  1
 EV  IPR017636; TIGR03226; sufficient;
 --
-SN  PhnV
+SN  4
 ID  Permease component
+DN  Permease component/PhnV
 RQ  1
 EV  IPR017661; TIGR03255; sufficient;
 //

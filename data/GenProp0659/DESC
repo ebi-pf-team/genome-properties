@@ -8,18 +8,21 @@ CC  L-formylkynurenine. Arylformamidase (3.5.1.9) converts the product to
 CC  L-kynurenine + formate. Kynureninase (3.7.1.3) converts L-kynurenine +
 CC  H(2)O = anthranilate + L-alanine.
 --
-SN  2_3diox
+SN  1
 ID  Tryptophan 2,3-dioxygenase
+DN  Tryptophan 2,3-dioxygenase/2_3diox
 RQ  1
 EV  IPR017485; TIGR03036; sufficient;
 --
-SN  formyl
+SN  2
 ID  Arylformamidase
+DN  Arylformamidase/formyl
 RQ  1
 EV  IPR017484; TIGR03035; sufficient;
 --
-SN  kynur
+SN  3
 ID  Kynureninase
+DN  Kynureninase/kynur
 RQ  1
 EV  IPR010111; TIGR01814; sufficient;
 //

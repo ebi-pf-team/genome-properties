@@ -24,7 +24,7 @@ CC  regulator of cell growth [1].
 --
 SN  1
 ID  KICSTOR complex protein kaptin
-DN  KICSTOR complex protein kaptin
+DN  KICSTOR complex protein kaptin/1
 RQ  1
 EV  IPR029982; PTHR15435:SF3; sufficient;
 TG  GO:1904262;
@@ -32,7 +32,7 @@ TG  GO:0034198;
 --
 SN  2
 ID  KICSTOR complex protein ITFG2
-DN  KICSTOR complex protein ITFG2
+DN  KICSTOR complex protein ITFG2/2
 RQ  1
 EV  IPR031793; PF15907; sufficient;
 TG  GO:1904262;
@@ -40,7 +40,7 @@ TG  GO:0034198;
 --
 SN  3
 ID  KICSTOR complex protein C12orf66
-DN  KICSTOR complex protein C12orf66
+DN  KICSTOR complex protein C12orf66/3
 RQ  1
 EV  IPR018544; PF09404; sufficient;
 TG  GO:1904262;
@@ -48,7 +48,7 @@ TG  GO:0034198;
 --
 SN  4
 ID  KICSTOR complex protein SZT2
-DN  KICSTOR complex protein SZT2
+DN  KICSTOR complex protein SZT2/4
 RQ  1
 EV  IPR033228; PTHR14918; sufficient;
 TG  GO:1904262;

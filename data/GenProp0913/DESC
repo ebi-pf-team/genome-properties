@@ -17,8 +17,9 @@ CC  gstec21 : 3.3884 : O153/H-  gstec22 : 2.4168 : O157/H12  gstec23 :
 CC  3.2303 : O157/H16  gstec24 : 3003 : O157/H45  gstec25 : TW07793 :
 CC  O157/H39  gstec26 : B41 : O101/NHM  gstec27 : 900105 (10e) : O26/H11 
 --
-SN  ANY
+SN  1
 ID  Any O-antigen monomer system
+DN  Any O-antigen monomer system/ANY
 RQ  1
 EV  GenProp0953;
 EV  GenProp0932;

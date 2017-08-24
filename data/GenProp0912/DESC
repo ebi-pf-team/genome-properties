@@ -4,22 +4,25 @@ TP  GUILD
 AU  Haft DH
 TH  0
 --
-SN  activ
+SN  1
 ID  Sugar activating enzymes: nucleotidyltransferases, cytidyltransferases, kinases
+DN  Sugar activating enzymes: nucleotidyltransferases, cytidyltransferases, kinases/activ
 RQ  0
 EV  IPRXXXX; PF02348;
 EV  IPRXXXX; PF00483;
 EV  IPR005907; TIGR01207;
 EV  IPRXXXX; PF00294;
 --
-SN  glyctr
+SN  2
 ID  Glycosyltransferases
+DN  Glycosyltransferases/glyctr
 RQ  1
 EV  IPRXXXX; PF00535;
 EV  IPRXXXX; PF00534;
 --
-SN  isom
+SN  3
 ID  Sugar isomerizatation and epimerization enzymes
+DN  Sugar isomerizatation and epimerization enzymes/isom
 RQ  0
 EV  IPR029767; TIGR00236;
 EV  IPRXXXX; PF05523;
@@ -27,26 +30,30 @@ EV  IPR000888; TIGR01221;
 EV  IPRXXXX; PF02350;
 EV  IPRXXXX; PF03275;
 --
-SN  modif
+SN  4
 ID  Sugar ring modification enzymes: synthases, lyases, aldolases, lactonases
+DN  Sugar ring modification enzymes: synthases, lyases, aldolases, lactonases/modif
 RQ  0
 EV  IPRXXXX; PF03102;
 EV  IPRXXXX; PF03328;
 EV  IPR005900; TIGR01198;
 EV  IPRXXXX; PF04055;
 --
-SN  other
+SN  5
 ID  Other known EPS enzymes (from synteny)
+DN  Other known EPS enzymes (from synteny)/other
 RQ  0
 EV  IPRXXXX; PF08889;
 --
-SN  prime
+SN  6
 ID  EPS biosynthesis priming polyprenyl glycosylphosphotransferase
+DN  EPS biosynthesis priming polyprenyl glycosylphosphotransferase/prime
 RQ  1
 EV  IPR017475; TIGR03025;
 --
-SN  redox
+SN  7
 ID  Sugar redox enzymes: dehydrogenases, epimerase/dehydratases, oxidases, reductases
+DN  Sugar redox enzymes: dehydrogenases, epimerase/dehydratases, oxidases, reductases/redox
 RQ  0
 EV  IPRXXXX; PF01370;
 EV  IPRXXXX; PF00465;
@@ -58,17 +65,20 @@ EV  IPRXXXX; PF00389;
 EV  IPRXXXX; PF01370;
 EV  IPRXXXX; PF01266;
 --
-SN  regul
+SN  8
 ID  Transcriptional activators
+DN  Transcriptional activators/regul
 RQ  0
 --
-SN  sugDUF
+SN  9
 ID  Sugar-associated domain of unknown function
+DN  Sugar-associated domain of unknown function/sugDUF
 RQ  0
 EV  IPRXXXX; PF01380;
 --
-SN  transf
+SN  10
 ID  Sugar modification transferases: amino-, carbamoyl-, acetyl-, methyl-, amido-
+DN  Sugar modification transferases: amino-, carbamoyl-, acetyl-, methyl-, amido-/transf
 RQ  0
 EV  IPRXXXX; PF02543;
 EV  IPRXXXX; PF01041;
@@ -83,20 +93,23 @@ EV  IPRXXXX; PF02388;
 EV  IPRXXXX; PF08242;
 EV  IPRXXXX; PF00551;
 --
-SN  trim
+SN  11
 ID  Sugar trimming enzymes: phosphatases, deacetylases, esterases
+DN  Sugar trimming enzymes: phosphatases, deacetylases, esterases/trim
 RQ  0
 EV  IPRXXXX; PF00459;
 EV  IPRXXXX; PF01522;
 EV  IPRXXXX; PF02585;
 --
-SN  tspsase
+SN  12
 ID  Transposases
+DN  Transposases/tspsase
 RQ  0
 EV  IPR002525; PF01548;
 --
-SN  wz-xyz
+SN  13
 ID  EPS biosynthesis wzx/wzy/wzz system
+DN  EPS biosynthesis wzx/wzy/wzz system/wz-xyz
 RQ  1
 EV  IPR003856; PF02706;
 EV  IPR002797; PF01943;

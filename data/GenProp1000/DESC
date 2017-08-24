@@ -20,18 +20,21 @@ CC  (Target/Grasp/Methyltransferase ABC) for system.
 **  A Dan Haft invention. Um, turns out Iyer had published something on
 **  this, have not read.
 --
-SN  GRASP
+SN  1
 ID  ATP-grasp family maturase
+DN  ATP-grasp family maturase/GRASP
 RQ  1
 EV  IPR026449; TIGR04187;
 --
-SN  methyl
+SN  2
 ID  Methyltransferase
+DN  Methyltransferase/methyl
 RQ  1
 EV  IPR026448; TIGR04188;
 --
-SN  precur
+SN  3
 ID  Ribosomal peptide modification target
+DN  Ribosomal peptide modification target/precur
 RQ  1
 EV  IPR026496; TIGR04186;
 EV  IPR025744; PF14404;

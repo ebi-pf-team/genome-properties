@@ -13,23 +13,27 @@ CC  enzyme for age-damaged proteins.
 **  Is finding a protein repair enzyme homolog in a PRNP cluster
 **  unprecedented?
 --
-SN  fxlA
+SN  1
 ID  FxLD family lantipeptide
+DN  FxLD family lantipeptide/fxlA
 RQ  1
 EV  IPR027575; TIGR04363;
 --
-SN  fxlD
+SN  2
 ID  Lantibiotic dehydratase
+DN  Lantibiotic dehydratase/fxlD
 RQ  1
 EV  IPR006827; PF04738;
 --
-SN  fxlM
+SN  3
 ID  FxLD system methyltransferase
+DN  FxLD system methyltransferase/fxlM
 RQ  1
 EV  IPR027573; TIGR04364;
 --
-SN  fxlS
+SN  4
 ID  Lanthionine synthetase
+DN  Lanthionine synthetase/fxlS
 RQ  1
 EV  IPR007822; PF05147;
 //

@@ -22,9 +22,9 @@ CC  diphosphates (1.17.4.1).  However, as further B12-dependent RNRs were
 CC  characterized, it became clear that this is the exception rather than
 CC  the rule.  This property captures both types.
 --
-SN  NrdJ/Z
+SN  1
 ID  B12-dependent ribonucleotide reductase
-DN  Ribonucleoside-triphosphate reductase(EC:1.17.4.2)
+DN  Ribonucleoside-triphosphate reductase(EC:1.17.4.2)/NrdJ/Z
 RQ  1
 EV  IPR013345; TIGR02505; sufficient;
 TG  GO:0009265;

@@ -8,20 +8,23 @@ CC  possess 2-oxoglutarate oxidoreductase (succinyl-CoA forming) activity
 CC  in a number of species and likely replaces the lipoate-based E1/E2/E3
 CC  system in many organisms lacking it.
 --
-SN  acceptor
+SN  1
 ID  Ferredoxin, or other gene clustered electron acceptor
+DN  Ferredoxin, or other gene clustered electron acceptor/acceptor
 RQ  0
 EV  IPRXXXX; PF00037;
 EV  IPRXXXX; PF00210;
 EV  IPRXXXX; PF02915;
 --
-SN  alpha
+SN  2
 ID  2-oxoacid:acceptor oxidoreductase, alpha subunit
+DN  2-oxoacid:acceptor oxidoreductase, alpha subunit/alpha
 RQ  1
 EV  IPR022367; TIGR03710;
 --
-SN  beta
+SN  3
 ID  2-oxoacid:acceptor oxidoreductase, beta subuni
+DN  2-oxoacid:acceptor oxidoreductase, beta subuni/beta
 RQ  1
 EV  IPR011896; TIGR02177;
 EV  IPRXXXX; PF02775;

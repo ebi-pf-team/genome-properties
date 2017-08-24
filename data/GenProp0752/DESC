@@ -27,32 +27,37 @@ CC  and is predicted to be more widely distributed.
 **  PROBABLY NEED TO PROMOTE EgtC to REQUIRED TO PREVENT CONFUSION WITH
 **  SELENONEINE.
 --
-SN  egtA
+SN  1
 ID  Glutamate--cysteine ligase family protein
+DN  Glutamate--cysteine ligase family protein/egtA
 RQ  0
 EV  IPR017809; TIGR03444;
 TG  GO:0052699;
 --
-SN  egtB
+SN  2
 ID  Ergothioneine biosynthesis protein EgtB
+DN  Ergothioneine biosynthesis protein EgtB/egtB
 RQ  1
 EV  IPR017806; TIGR03440;
 TG  GO:0052699;
 --
-SN  egtC
+SN  3
 ID  Ergothioneine biosynthesis protein EgtC
+DN  Ergothioneine biosynthesis protein EgtC/egtC
 RQ  0
 EV  IPR017808; TIGR03442;
 TG  GO:0052699;
 --
-SN  egtD
+SN  4
 ID  Ergothioneine biosynthesis methyltransferase EgtD
+DN  Ergothioneine biosynthesis methyltransferase EgtD/egtD
 RQ  1
 EV  IPR017804; TIGR03438;
 TG  GO:0052699;
 --
-SN  egtE
+SN  5
 ID  Ergothioneine biosynthesis PLP-binding protein EgtE
+DN  Ergothioneine biosynthesis PLP-binding protein EgtE/egtE
 RQ  0
 EV  IPR027563; TIGR04343;
 TG  GO:0052699;

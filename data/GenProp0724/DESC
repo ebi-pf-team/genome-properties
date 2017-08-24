@@ -30,46 +30,54 @@ CC  polysaccharides containing phosphonates (C-P linkages).  Often this is
 CC  converted by an aminotransferase to the most common naturally occuring
 CC  phosphonate, 2-aminoethylphosphonate.
 --
-SN  AepX
+SN  1
 ID  PEP phosphomutase
+DN  PEP phosphomutase/AepX
 RQ  1
 EV  IPR012698; TIGR02320; sufficient;
 TG  GO:0006796;
 --
-SN  AepY
+SN  2
 ID  Phosphonopyruvate decarboxylase
+DN  Phosphonopyruvate decarboxylase/AepY
 RQ  1
 EV  IPR017684; TIGR03297; sufficient;
 TG  GO:0006796;
 --
-SN  AepZ
+SN  3
 ID  2-aminophosphonate transaminase
+DN  2-aminophosphonate transaminase/AepZ
 RQ  0
 --
-SN  EPS
+SN  4
 ID  Proximal marker of exopolysaccharide biosynthesis
+DN  Proximal marker of exopolysaccharide biosynthesis/EPS
 RQ  0
 EV  IPR002797; PF01943;
 --
-SN  Lipid
+SN  5
 ID  Proximal marker of lipid biosynthesis
+DN  Proximal marker of lipid biosynthesis/Lipid
 RQ  0
 EV  IPRXXXX; PF01066;
 --
-SN  NatPrd
+SN  6
 ID  Proximal marker of natural products biosynthesis
+DN  Proximal marker of natural products biosynthesis/NatPrd
 RQ  0
 EV  IPRXXXX; TIGR01787;
 --
-SN  nuc-tr
+SN  7
 ID  Proximal nucleotidyltransferase domain
+DN  Proximal nucleotidyltransferase domain/nuc-tr
 RQ  0
 EV  IPRXXXX; PF01467;
 EV  IPRXXXX; PF00483;
 EV  IPRXXXX; PF02348;
 --
-SN  oxido
+SN  8
 ID  Proximal oxidoreductases/oxygenases
+DN  Proximal oxidoreductases/oxygenases/oxido
 RQ  0
 EV  IPRXXXX; PF00465;
 EV  IPR017656; TIGR03250;

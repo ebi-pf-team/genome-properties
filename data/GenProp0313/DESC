@@ -39,45 +39,45 @@ CC  subtype is found in a wide variety of bacteria and never in the
 CC  Archaea. Cas2 in this system has been shown to act as an endonuclease
 CC  for dsDNA rather than ssRNA.
 --
-SN  Cas1
+SN  1
 ID  Cas1, Dvulg region
-DN  CRISPR-associated protein Cas1
+DN  CRISPR-associated protein Cas1/Cas1
 RQ  1
 EV  IPR002729; TIGR00287;
 --
-SN  Cas2
+SN  2
 ID  Cas2, Dvulg region
-DN  CRISPR-associated protein Cas2
+DN  CRISPR-associated protein Cas2/Cas2
 RQ  1
 EV  IPR021127; TIGR01573;
 --
-SN  Cas3
+SN  3
 ID  Cas3, Dvulg region
-DN  CRISPR-associated helicase Cas3
+DN  CRISPR-associated helicase Cas3/Cas3
 RQ  1
 EV  IPR006474; TIGR01587;
 --
-SN  Cas4
+SN  4
 ID  Cas4, Dvulg region
-DN  CRISPR-associated protein Cas4
+DN  CRISPR-associated protein Cas4/Cas4
 RQ  1
 EV  IPR013343; TIGR00372;
 --
-SN  Cas5d
+SN  5
 ID  Cas5, Dvulg specific variant
-DN  CRISPR-associated protein Cas5, Dvulg subtype
+DN  CRISPR-associated protein Cas5, Dvulg subtype/Cas5d
 RQ  1
 EV  IPR010155; TIGR01876; sufficient;
 --
-SN  Csd1
+SN  6
 ID  Csd1
-DN  CRISPR-associated protein, Csd1 family
+DN  CRISPR-associated protein, Csd1 family/Csd1
 RQ  1
 EV  IPR010144; TIGR01863; sufficient;
 --
-SN  Csd2
+SN  7
 ID  Csd2
-DN  CRISPR-associated protein, Csd2 family
+DN  CRISPR-associated protein, Csd2 family/Csd2
 RQ  1
 EV  IPR013418; TIGR02589; sufficient;
 //

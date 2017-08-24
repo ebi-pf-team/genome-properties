@@ -16,18 +16,18 @@ CC  two components, the catalytic enzyme (NrdD) and a radical-SAM domain
 CC  enzyme (NrdG) which activates the catalytic enzyme by the generation of
 CC  a protein-centered radical. 
 --
-SN  NrdD
+SN  1
 ID  Anaerobic ribonucleoside-triphosphate reductase
-DN  Ribonucleoside-triphosphate reductase(EC:1.17.4.2)
+DN  Ribonucleoside-triphosphate reductase(EC:1.17.4.2)/NrdD
 RQ  1
 EV  IPR012833; TIGR02487; sufficient;
 TG  GO:0009265;
 EV  IPR014192; TIGR02827; sufficient;
 TG  GO:0009265;
 --
-SN  NrdG
+SN  2
 ID  Activating protein for anaerobic ribonucleotide triphosphate reductase
-DN  [formate-C-acetyltransferase]-activating enzyme (EC:1.97.1.4)
+DN  [formate-C-acetyltransferase]-activating enzyme (EC:1.97.1.4)/NrdG
 RQ  1
 EV  IPR012837; TIGR02491; sufficient;
 TG  GO:0009265;

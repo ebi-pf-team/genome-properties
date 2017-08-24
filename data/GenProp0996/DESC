@@ -8,13 +8,15 @@ CC  proteins and their target sequences in bacteria. Target sequences have
 CC  a signature motif approximated by IPTLxxWG. The processing enzyme is
 CC  exosortase H. 
 --
-SN  EXOxrtH
+SN  1
 ID  Exosortase H
+DN  Exosortase H/EXOxrtH
 RQ  1
 EV  IPR026441; TIGR04177;
 --
-SN  IPTLxxW
+SN  2
 ID  IPTLxxWG-CTERM protein sorting domain
+DN  IPTLxxWG-CTERM protein sorting domain/IPTLxxW
 RQ  1
 EV  IPR026442; TIGR04174;
 //
