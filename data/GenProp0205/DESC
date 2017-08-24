@@ -9,9 +9,9 @@ CC  consists of a polypeptide (Ffh) and a structural RNA. Also included in
 CC  this property are two peptidases. Signal peptidase I cleaves the
 CC  standard signal peptide, and differs from the signal peptidase used for
 CC  lipoproteins. Signal peptide peptidases are enzymes that degrade the
-CC  signal peptides, oligopeptides that may have signaling roles and also
-CC  that may interfere with protein secretion, left after removal from a
-CC  nascent protein by some signal peptidase.
+CC  signal peptides (oligopeptides that may have signaling roles, and also
+CC  that may interfere with protein secretion), which are left after 
+CC  removal from a nascent protein by some signal peptidase.
 --
 SN  1
 ID  SRP receptor
