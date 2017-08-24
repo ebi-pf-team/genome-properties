@@ -33,12 +33,6 @@ DN  B12 from cob(II)yrinate diamide and alpha-ribazole: GenProp0269/4
 RQ  1
 EV  GenProp0269;
 --
-SN  5
-ID  Alpha-ribazole from nicotinate mononucleotide and dimethylbenzimidazole: GenProp0270
-DN  Alpha-ribazole from nicotinate mononucleotide and dimethylbenzimidazole: GenProp0270/5
-RQ  0
-EV  GenProp0270;
---
 SN  6
 ID  Cobalt import systems: GenProp0279
 DN  Cobalt import systems: GenProp0279/6
