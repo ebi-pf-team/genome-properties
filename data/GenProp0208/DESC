@@ -4,13 +4,14 @@ TP  GUILD
 AU  Haft DH
 TH  1
 CC  Protein families related to head morphogenesis, DNA packaging, tail
-CC  structure, and lysis. Now adding some for replication, although these
-CC  may be hard to tell from plasmid replication proteins.
+CC  structure, and lysis. 
+**  Now adding some for replication, although these
+**  may be hard to tell from plasmid replication proteins.
 **  an open-ended project
 --
 SN  1
 ID  Major capsid protein
-DN  Phage major capsid protein/capsid
+DN  Phage major capsid protein
 RQ  1
 EV  IPR006441; TIGR01551; sufficient;
 EV  IPR006444; TIGR01554; sufficient;
@@ -22,7 +23,7 @@ EV  IPRXXXX; TIGR04387;
 --
 SN  2
 ID  Any phage holin
-DN  Phage holin/holin
+DN  Phage holin
 RQ  1
 EV  IPR006479; TIGR01592; sufficient;
 EV  IPR006481; TIGR01594; sufficient;
@@ -39,7 +40,7 @@ EV  IPR006485; PF04531; sufficient;
 --
 SN  3
 ID  Major tail protein
-DN  Major tail protein/mjtail
+DN  Major tail protein
 RQ  0
 EV  IPR006490; TIGR01603; sufficient;
 EV  IPR011855; TIGR02126; sufficient;
@@ -48,7 +49,7 @@ EV  IPR011855; PF06199; sufficient;
 --
 SN  4
 ID  Various structural components
-DN  NOT APPLICABLE/other
+DN  NOT APPLICABLE
 RQ  0
 EV  IPR006949; PF04865; sufficient;
 EV  IPR006487; TIGR01600; sufficient;
@@ -77,7 +78,7 @@ EV  IPR009636; PF06810; sufficient;
 --
 SN  5
 ID  Portal protein
-DN  Phage portal protein/portal
+DN  Phage portal protein
 RQ  1
 EV  IPR006944; PF04860; sufficient;
 EV  IPR006427; TIGR01537; sufficient;
@@ -90,7 +91,7 @@ EV  IPR006429; PF05136; sufficient;
 --
 SN  6
 ID  Prohead protease
-DN  Prohead protease/protase
+DN  Prohead protease
 RQ  1
 EV  IPR005082; PF03420; sufficient;
 EV  IPR006433; TIGR01543; sufficient;
@@ -98,14 +99,14 @@ EV  IPR006433; PF04586; sufficient;
 --
 SN  7
 ID  Replication proteins
-DN  Replication proteins/repli
+DN  Replication proteins
 RQ  0
 EV  IPR006497; TIGR01610;
 EV  IPR019889; TIGR03600;
 --
 SN  8
 ID  More tail proteins
-DN  NOT APPLICABLE/tail
+DN  NOT APPLICABLE
 RQ  0
 EV  IPR005003; PF03335; sufficient;
 EV  IPR005068; PF03406; sufficient;
@@ -126,7 +127,7 @@ EV  IPR011748; TIGR02242; sufficient;
 --
 SN  9
 ID  Tail tape measure protein
-DN  Tail tape measure protein/tape_m
+DN  Tail tape measure protein
 RQ  0
 EV  IPR006431; TIGR01541; sufficient;
 EV  IPR010090; TIGR01760; sufficient;
@@ -136,7 +137,7 @@ EV  IPR009302; PF06120;
 --
 SN  10
 ID  Terminase, large subunit
-DN  Phage terminase, large subunit/trm_lg
+DN  Phage terminase, large subunit
 RQ  1
 EV  IPR006437; TIGR01547; sufficient;
 EV  IPR005021; PF03354; sufficient;
@@ -147,7 +148,7 @@ EV  IPR004921; PF03237;
 --
 SN  11
 ID  Terminase, small subunit
-DN  Phage terminase, small subunit/trm_sm
+DN  Phage terminase, small subunit
 RQ  1
 EV  IPR005335; PF03592; sufficient;
 EV  IPR006448; TIGR01558; sufficient;
@@ -157,7 +158,7 @@ EV  IPR010789; PF07141; sufficient;
 --
 SN  12
 ID  Uncharacterized phage proteins
-DN  NOT APPLICABLE/unchar
+DN  NOT APPLICABLE
 RQ  0
 EV  IPR010064; PF04883; sufficient;
 EV  IPR009752; PF07030; sufficient;
