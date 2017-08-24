@@ -13,14 +13,14 @@ CC  Ribonucleotide reductases (RNRs) are responsible for the conversion of
 CC  the ribose sugar of RNA into the deoxyribose sugar of DNA. This is the
 CC  rate-limiting step of DNA biosynthesis. The class II RNRs consist of a
 CC  single subunit and generate the required radical  via an
-CC  adenosylcobalamin (B12) cofactor.  The most common gene symbols for
+CC  adenosylcobalamin (B12) cofactor. The most common gene symbols for
 CC  this gene is NrdJ, although the gene in mycobacterium is called NrdZ. 
 CC  The first characterized NrdJ gene, from Lactobacillus leichmannii,
 CC  acted specifically on nucleoside triphosphates like the class III
 CC  enzymes (1.17.4.2) and unlike the class I enzymes which act on the
-CC  diphosphates (1.17.4.1).  However, as further B12-dependent RNRs were
+CC  diphosphates (1.17.4.1). However, as further B12-dependent RNRs were
 CC  characterized, it became clear that this is the exception rather than
-CC  the rule.  This property captures both types.
+CC  the rule. This property captures both types.
 --
 SN  1
 ID  B12-dependent ribonucleotide reductase
