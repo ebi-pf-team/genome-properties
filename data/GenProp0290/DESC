@@ -24,7 +24,7 @@ CC  the rule. This property captures both types.
 --
 SN  1
 ID  B12-dependent ribonucleotide reductase
-DN  Ribonucleoside-triphosphate reductase(EC:1.17.4.2)/NrdJ/Z
+DN  Ribonucleoside-triphosphate reductase/NrdJ/Z (EC:1.17.4.2)
 RQ  1
 EV  IPR013345; TIGR02505; sufficient;
 TG  GO:0009265;
