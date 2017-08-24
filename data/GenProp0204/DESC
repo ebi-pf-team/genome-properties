@@ -20,21 +20,21 @@ CC  lipid A-containing material may be designated lipooligosaccharide
 CC  (LOS). Lipid A consists of a disaccharide (often
 CC  beta-D-GlcN-(1-->6)-D-GlcN) with four attached acyl groups. Lipid A is
 CC  attached to a 3-deoxy-D-manno-oct-2-ulosonic acid (KDO), a sugar moeity
-CC  that becomes part of the LPS oligosaccharide inner core. Two of acyl
+CC  that becomes part of the LPS oligosaccharide inner core. Two of the acyl
 CC  groups of lipid A are then modified by further acylations into branched
 CC  structures; acylation varies somewhat by species, and sometimes
 CC  according to conditions within a species. The inner core typically
 CC  contains at least two KDO and two heptose residues. The outer core and
 CC  O-antigen regions are far more variable, and their biosynthesis is
 CC  modeled in this property. LPS biosynthesis mutational studies have
-CC  shown that, in a number of species, lipid A with two KDO residues but
-CC  no additional residues of the inner core is the minimum required form
+CC  shown that in a number of species, lipid A with two KDO residues but
+CC  no additional residues of the inner core, is the minimum required form
 CC  of LPS for viability, called Re LPS or Re endotoxin. This genome
-CC  property describes a set of well-conserved enzymes for biosynthesis of
-CC  KDO(2)-lipid A that resembles but is not necessarily identical to the
-CC  Re endotoxin of E. coli (nor as active in endotoxin assays), as well as
-CC  a transporter, or flippase, responsible in most Proteobacteria for
-CC  positioning lipid A in the outer membrane.
+CC  property describes a set of well-conserved enzymes for the biosynthesis 
+CC  of KDO(2)-lipid A that resembles, but is not necessarily identical to 
+CC  (nor as active in endotoxin assays as), the Re endotoxin of E. coli, as 
+CC  well as a transporter (or flippase) responsible in most Proteobacteria 
+CC  for positioning lipid A in the outer membrane.
 **  Note: KdtA adds both first and second KDO.  Also, adding lauroyl and
 **  myristoyl groups to convert two acyl groups to branched acyloxyacyl
 **  groups happens after KDO addition: KDO(2)-lipid IV(A) is made and
