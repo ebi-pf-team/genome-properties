@@ -50,15 +50,15 @@ CC  radical which initiates the reduction of the substrate. Class I enzymes
 CC  utilize a diferric non-heme iron cluster to generate a stable tyrosine
 CC  radical [2]. Note that earlier reports of a manganese-based class IV
 CC  system related to class I in high GC gram positive species was proved
-CC  to be spurious [3].  Class II enzymes utilize adenosylcobalamin
-CC  (vitamin B12) [4].  Class III enzymes utilize radical-SAM domain
-CC  proteins to generate stable glycine radicals [5].    A very small
+CC  to be spurious [3]. Class II enzymes utilize adenosylcobalamin
+CC  (vitamin B12) [4]. Class III enzymes utilize radical-SAM domain
+CC  proteins to generate stable glycine radicals [5]. A very small
 CC  number of genomes appear to be devoid of ribonucleotide reductase
 CC  sequences, Mycoplasma arthritidis 158L3-1, Mycoplasma bovis Donetta
 CC  PG45, Ureaplasma urealyticum parvum biovar serovar 3, Borrelia
-CC  burgdorferi B31 and Borrelia garinii PBi.  Each of these is a reduced
+CC  burgdorferi B31 and Borrelia garinii PBi. Each of these is a reduced
 CC  genome with a limited metabolic portfolio, however other mycoplasma
-CC  species do contain RNRs.  Three possibilities are likely, 1) these
+CC  species do contain RNRs. Three possibilities are likely, 1) these
 CC  genomes harbor a non-orthologous RNR, 2) these genes are located on
 CC  plasmids or small chromosomes which were lost prior to genomic
 CC  sequencing (Borrelia, in particular has a number of small chromosomes
