@@ -42,7 +42,7 @@ DN  Putative acetaldehyde dehydrogenase (acetylating)/eutE
 RQ  0
 EV  IPR013357; TIGR02518; sufficient;
 TG  GO:0046336;
-EV  IPRXXXX; PF00171;
+EV  IPR015590; PF00171;
 TG  GO:0046336;
 --
 SN  4
