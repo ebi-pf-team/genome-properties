@@ -15,36 +15,41 @@ CC  glycerone phosphate by 4.1.2.17  L-fuculose-phosphate aldolase  Plus
 CC  transporter to import fucose  Plus transcription factors
 **  PMID:2664711
 --
-SN  ADH
+SN  1
 ID  Lactaldehyde oxidoreductases
+DN  Lactaldehyde oxidoreductases/ADH
 RQ  0
 EV  IPRXXXX; PF00465;
 TG  GO:0019317;
 --
-SN  ald_ase
+SN  2
 ID  L-fuculose-phosphate aldolase
+DN  L-fuculose-phosphate aldolase/ald_ase
 RQ  1
 EV  IPR004782; TIGR01086; sufficient;
 TG  GO:0019317;
 EV  IPRXXXX; PF00596;
 TG  GO:0019317;
 --
-SN  fuc_iso
+SN  3
 ID  L-fucose isomerase
+DN  L-fucose isomerase/fuc_iso
 RQ  1
 EV  IPR005763; TIGR01089; sufficient;
 TG  GO:0019317;
 --
-SN  fuc_kin
+SN  4
 ID  L-fuculokinase
+DN  L-fuculokinase/fuc_kin
 RQ  1
 EV  IPR013450; TIGR02628; sufficient;
 TG  GO:0019317;
 EV  IPRXXXX; PF00370;
 TG  GO:0019317;
 --
-SN  regulat
+SN  5
 ID  Clustered regulatory genes
+DN  Clustered regulatory genes/regulat
 RQ  0
 EV  IPRXXXX; PF00455;
 TG  GO:0043468;
@@ -53,8 +58,9 @@ TG  GO:0043468;
 EV  IPRXXXX; PF00392;
 TG  GO:0043468;
 --
-SN  transpo
+SN  6
 ID  Fucose transport components
+DN  Fucose transport components/transpo
 RQ  1
 EV  IPR005275; TIGR00885; sufficient;
 TG  GO:0019317;

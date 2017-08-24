@@ -21,14 +21,16 @@ CC  hydrocarbons by an aldehyde decarbonylase, releasing CO.  This
 CC  decarbonylase is distantly related to a family of di-iron-containing
 CC  reductases including ribonucleotide reductase.
 --
-SN  AcACP_R
+SN  1
 ID  Acyl-ACP reductase
+DN  Acyl-ACP reductase/AcACP_R
 RQ  1
 EV  IPR016836; TIGR04058;
 TG  GO:0043447;
 --
-SN  Al_DeCO
+SN  2
 ID  Aldehyde decarbonylase
+DN  Aldehyde decarbonylase/Al_DeCO
 RQ  1
 EV  IPR022612; TIGR04059;
 TG  GO:0043447;

@@ -22,37 +22,44 @@ RL  Mol Plant Microbe Interact. 1998;11:1057-1068.
 **  2-keto-myo-inositol isomerase, rare. Myo-inositol as sole carbon source
 **  in ntsm01, ntrl01, ntbs01, ntcg01
 --
-SN  1_iolG
+SN  1
 ID  Inositol 2-dehydrogenase
+DN  Inositol 2-dehydrogenase/1_iolG
 RQ  1
 EV  IPR030827; TIGR04380;
 --
-SN  2_iolE
+SN  2
 ID  Myo-inosose-2 dehydratase
+DN  Myo-inosose-2 dehydratase/2_iolE
 RQ  1
 EV  IPR030823; TIGR04379;
 --
-SN  3_iolD
+SN  3
 ID  3,5/4-trihydroxycyclohexa-1,2-dione hydrolase
+DN  3,5/4-trihydroxycyclohexa-1,2-dione hydrolase/3_iolD
 RQ  1
 EV  IPR030817; TIGR04377;
 --
-SN  4_iolB
+SN  4
 ID  5-deoxy-glucuronate isomerase
+DN  5-deoxy-glucuronate isomerase/4_iolB
 RQ  1
 EV  IPR024203; TIGR04378;
 --
-SN  5_iolC
+SN  5
 ID  5-dehydro-2-deoxygluconokinase
+DN  5-dehydro-2-deoxygluconokinase/5_iolC
 RQ  1
 EV  IPR030830; TIGR04382;
 --
-SN  6_iolJ
+SN  6
 ID  5-dehydro-2-deoxyphosphogluconate aldolase
+DN  5-dehydro-2-deoxyphosphogluconate aldolase/6_iolJ
 RQ  0
 --
-SN  7_iolA
+SN  7
 ID  Malonate-semialdehyde dehydrogenase (acetylating)
+DN  Malonate-semialdehyde dehydrogenase (acetylating)/7_iolA
 RQ  1
 EV  IPR010061; TIGR01722;
 //

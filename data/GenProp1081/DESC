@@ -27,18 +27,21 @@ CC  PriB than to PriB itself.
 **  other requiring only PriC (Heller and Marians, 2005). DnaT is rare and
 **  looks like a RelB addiction module antidote protein.
 --
-SN  DnaT
+SN  1
 ID  Primosomal protein DnaT
+DN  Primosomal protein DnaT/DnaT
 RQ  0
 --
-SN  PriA
+SN  2
 ID  Primosome helicase PriA
+DN  Primosome helicase PriA/PriA
 RQ  1
 EV  IPR005259; TIGR00595;
 TG  GO:0006269;
 --
-SN  PriB
+SN  3
 ID  Primosome protein PriB
+DN  Primosome protein PriB/PriB
 RQ  1
 EV  IPR023646; TIGR04418;
 TG  GO:0006269;

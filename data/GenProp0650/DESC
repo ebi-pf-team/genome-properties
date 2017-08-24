@@ -17,18 +17,21 @@ CC  GGTCTC and CGTCTC.
 **  methylase shows circular permutation. For now, PF00145 is used in
 **  HMM-CLUST, but should be able to be its own model.
 --
-SN  endonuc
+SN  1
 ID  Type II restriction endonuclease, Alw26I/Eco31I/Esp3I family
+DN  Type II restriction endonuclease, Alw26I/Eco31I/Esp3I family/endonuc
 RQ  1
 EV  IPR014328; TIGR02986; sufficient;
 --
-SN  met_Ade
+SN  2
 ID  Adenine DNA methyltransferase
+DN  Adenine DNA methyltransferase/met_Ade
 RQ  1
 EV  IPR014329; TIGR02987; sufficient;
 --
-SN  met_Cyt
+SN  3
 ID  Type II restriction m5 cytosine DNA methyltransferase, Alw26I/Eco31I/Esp3I family
+DN  Type II restriction m5 cytosine DNA methyltransferase, Alw26I/Eco31I/Esp3I family/met_Cyt
 RQ  1
 EV  IPRXXXX; PF00145;
 //

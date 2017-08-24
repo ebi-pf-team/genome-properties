@@ -36,14 +36,16 @@ CC  butyrate, the gene will be manually included.  A member of PF01515
 CC  which is distal from the acetate kinase in Thermotoga has been
 CC  experimentally characterized [3] and has also been manually included.
 --
-SN  Ac-tran
+SN  1
 ID  Phosphate acetyltransferase
+DN  Phosphate acetyltransferase/Ac-tran
 RQ  1
 EV  IPR004614; TIGR00651; sufficient;
 TG  GO:0019427;
 --
-SN  kinase
+SN  2
 ID  Acetyl kinase
+DN  Acetyl kinase/kinase
 RQ  1
 EV  IPR004372; TIGR00016; sufficient;
 TG  GO:0019427;

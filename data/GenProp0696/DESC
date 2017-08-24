@@ -6,23 +6,27 @@ TH  0
 CC  xanthine may be imported into the cell and converted to GMP by this
 CC  route.
 --
-SN  GuaA-C
+SN  1
 ID  GMP synthase, C-term
+DN  GMP synthase, C-term/GuaA-C
 RQ  1
 EV  IPR001674; TIGR00884; sufficient;
 --
-SN  GuaA-N
+SN  2
 ID  GMP synthase, N-term
+DN  GMP synthase, N-term/GuaA-N
 RQ  1
 EV  IPR004739; TIGR00888; sufficient;
 --
-SN  X-in
+SN  3
 ID  Xanthine import
+DN  Xanthine import/X-in
 RQ  1
 EV  IPR017588; TIGR03173; sufficient;
 --
-SN  XPRTase
+SN  4
 ID  Xanthine phosphoribosyltransferase
+DN  Xanthine phosphoribosyltransferase/XPRTase
 RQ  1
 EV  IPR010079; TIGR01744; sufficient;
 //

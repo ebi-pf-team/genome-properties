@@ -26,61 +26,71 @@ CC  for glycosylation rather than export.
 **  to SecA (TIGR00963), and species with putative TIGR03715 signal
 **  peptide. TIGR04224 hits too narrowly (just Strep).
 --
-SN  S_rich
+SN  1
 ID  Serine-rich glycoprotein
+DN  Serine-rich glycoprotein/S_rich
 RQ  0
 EV  IPR022263; TIGR03715;
 EV  IPR026465; TIGR04224;
 --
-SN  SecA2
+SN  2
 ID  Accessory Sec system translocase SecA2
+DN  Accessory Sec system translocase SecA2/SecA2
 RQ  1
 EV  IPR022490; TIGR03714;
 TG  GO:0034436;
 --
-SN  SecY2
+SN  3
 ID  Accessory Sec system translocase SecY2
+DN  Accessory Sec system translocase SecY2/SecY2
 RQ  1
 EV  IPR014269; TIGR02920; sufficient;
 TG  GO:0034436;
 --
-SN  accSec1
+SN  4
 ID  Accessory Sec system protein Asp1
+DN  Accessory Sec system protein Asp1/accSec1
 RQ  1
 EV  IPR022372; TIGR03713;
 TG  GO:0034436;
 --
-SN  accSec2
+SN  5
 ID  Accessory Sec system protein Asp2
+DN  Accessory Sec system protein Asp2/accSec2
 RQ  1
 EV  IPR022267; TIGR03712;
 TG  GO:0034436;
 --
-SN  accSec3
+SN  6
 ID  Accessory Sec system protein Asp3
+DN  Accessory Sec system protein Asp3/accSec3
 RQ  1
 EV  IPR022259; TIGR03711;
 TG  GO:0034436;
 --
-SN  accSec4
+SN  7
 ID  Accessory Sec system protein Asp4
+DN  Accessory Sec system protein Asp4/accSec4
 RQ  0
 EV  IPRXXXX; 2379;
 TG  GO:0034436;
 --
-SN  accSec5
+SN  8
 ID  Accessory Sec system protein Asp5
+DN  Accessory Sec system protein Asp5/accSec5
 RQ  0
 EV  IPRXXXX; 2378;
 TG  GO:0034436;
 --
-SN  gtfA
+SN  9
 ID  Accessory Sec system glycosyltransferase GtfA
+DN  Accessory Sec system glycosyltransferase GtfA/gtfA
 RQ  0
 EV  IPR014267; TIGR02918; sufficient;
 --
-SN  gtfB
+SN  10
 ID  Accessory Sec system glycosyltransferase GtfB
+DN  Accessory Sec system glycosyltransferase GtfB/gtfB
 RQ  0
 EV  IPR014268; TIGR02919; sufficient;
 //

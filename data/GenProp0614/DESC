@@ -24,38 +24,45 @@ CC  prokaryotes which utilize mitochondrial-type aerobic respiration.  The
 CC  complex in Bacilli [2] is somewhat different but included here and
 CC  carrys the gene symbols CtaD/CtaC.
 --
-SN  CoxA
+SN  1
 ID  Oxidase subunit I CoxA/CtaD/Cox1
+DN  Oxidase subunit I CoxA/CtaD/Cox1/CoxA
 RQ  1
 EV  IPR014241; TIGR02891; sufficient;
 --
-SN  CoxB
+SN  2
 ID  Oxidase subunit II, CoxB
+DN  Oxidase subunit II, CoxB/CoxB
 RQ  1
 EV  IPR014222; TIGR02866; sufficient;
 --
-SN  CoxC
+SN  3
 ID  Oxidase subunit III, CoxC
+DN  Oxidase subunit III, CoxC/CoxC
 RQ  1
 --
-SN  CoxD
+SN  4
 ID  Oxidase subunit IV, CoxD
+DN  Oxidase subunit IV, CoxD/CoxD
 RQ  0
 EV  IPR011743; TIGR02229; sufficient;
 EV  IPR005171; PF03626; sufficient;
 --
-SN  CoxE?
+SN  5?
 ID  Protoheme IX farnesyltransferase, CtaB/Cox10
+DN  Protoheme IX farnesyltransferase, CtaB/Cox10/CoxE?
 RQ  0
 EV  IPR006369; TIGR01473; sufficient;
 --
-SN  CoxG
+SN  6
 ID  Assembly protein CoxG/CtaG/Cox11
+DN  Assembly protein CoxG/CtaG/Cox11/CoxG
 RQ  0
 EV  IPR007533; PF04442; sufficient;
 --
-SN  CoxW
+SN  7
 ID  Assembly protein CoxW/CtaA/Cox15
+DN  Assembly protein CoxW/CtaA/Cox15/CoxW
 RQ  0
 EV  IPR003780; PF02628; sufficient;
 //

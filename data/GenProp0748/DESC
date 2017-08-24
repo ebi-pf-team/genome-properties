@@ -13,18 +13,21 @@ CC  substrate.
 **  as permease or ATP-binding. Maybe the binding include secondary
 **  substrates, like choline-sulfate binding, next to choline sulfatase.
 --
-SN  cho_ATP
+SN  1
 ID  Choline ABC transporter, ATP-binding protein
+DN  Choline ABC transporter, ATP-binding protein/cho_ATP
 RQ  1
 EV  IPR022473; TIGR03415;
 --
-SN  cho_bin
+SN  2
 ID  Choline ABC transporter, periplasmic binding protein
+DN  Choline ABC transporter, periplasmic binding protein/cho_bin
 RQ  1
 EV  IPRXXXX; TIGR03414;
 --
-SN  cho_prm
+SN  3
 ID  Choline ABC transporter, permease protein
+DN  Choline ABC transporter, permease protein/cho_prm
 RQ  1
 EV  IPR017784; TIGR03416;
 //

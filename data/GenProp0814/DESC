@@ -7,14 +7,16 @@ CC  This property encompasses two separate urea catabolism pathways, the
 CC  nickel-dependent urease pathway and the  urea carboxylase/allophanate
 CC  hydrolase pathway.
 --
-SN  UT
+SN  1
 ID  A urea transporter
+DN  A urea transporter/UT
 RQ  0
 EV  GenProp0743;
 EV  IPR004937; PF03253;
 --
-SN  UU
+SN  2
 ID  A urea degradation pathway
+DN  A urea degradation pathway/UU
 RQ  1
 EV  GenProp0481;
 EV  GenProp0051;

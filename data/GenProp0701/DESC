@@ -39,57 +39,58 @@ CC  families.
 **  four-gene operon, 58196 uncharacterized gene pair TIGR02683/TIGR02684,
 **  58197 uncharacterized gene pair TIGR02687/TIGR02688 .
 --
-SN  DndA
+SN  1
 ID  Dnd system cysteine sulfurtransferase
-DN  Cysteine desulfurase (EC:2.8.1.7)
+DN  Cysteine desulfurase (EC:2.8.1.7)/DndA
 RQ  0
 EV  IPRXXXX; PF00266;
 EV  IPR017644; TIGR03235; sufficient;
 --
-SN  DndB
+SN  2
 ID  Dnd operon putative ATPase DndB
-DN  DNA sulfur modification protein DndB
+DN  DNA sulfur modification protein DndB/DndB
 RQ  0
 EV  IPR017642; TIGR03233; sufficient;
 --
-SN  DndC
+SN  3
 ID  Dnd operon putative sulfurtransferase DndC
-DN  Putative sulfurtransferase DndC
+DN  Putative sulfurtransferase DndC/DndC
 RQ  1
 EV  IPR017598; TIGR03183; sufficient;
 --
-SN  DndD
+SN  4
 ID  Dnd operon putative ATPase DndD
-DN  DNA sulphur modification protein DndD
+DN  DNA sulphur modification protein DndD/DndD
 RQ  1
 EV  IPR017599; TIGR03185; sufficient;
 --
-SN  DndE
+SN  5
 ID  Dnd operon putative carboxylase DndE
-DN  DNA sulphur modification protein DndE
+DN  DNA sulphur modification protein DndE/DndE
 RQ  1
 EV  IPR014969; TIGR03184; sufficient;
 --
-SN  DptF
+SN  6
 ID  DNA phosphorothioation-dependent restriction protein DptF
-DN  Dnd system-associated protein 3
+DN  Dnd system-associated protein 3/DptF
 RQ  0
 EV  IPR017647; TIGR03238; sufficient;
 --
-SN  DptG
+SN  7
 ID  DNA phosphorothioation-dependent restriction protein DptG
-DN  Dnd system-associated protein 1
+DN  Dnd system-associated protein 1/DptG
 RQ  0
 EV  IPR017645; TIGR03236; sufficient;
 --
-SN  DptH
+SN  8
 ID  DNA phosphorothioation-dependent restriction protein DptH
-DN  Dnd system-associated protein 2
+DN  Dnd system-associated protein 2/DptH
 RQ  0
 EV  IPR017646; TIGR03237; sufficient;
 --
-SN  assoc4
+SN  9
 ID  Dnd system-associated protein 4
+DN  Dnd system-associated protein 4/assoc4
 RQ  0
 EV  IPR023983; TIGR04062;
 //

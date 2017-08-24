@@ -6,13 +6,15 @@ TH  0
 CC  This property consists of acyl carrier protein, as used in fatty acid
 CC  biosynthesis, and the holo-[acyl-carrier-protein] synthase.
 --
-SN  acpP
+SN  1
 ID  Acyl carrier protein
+DN  Acyl carrier protein/acpP
 RQ  1
 EV  IPR003231; TIGR00517;
 --
-SN  acpS
+SN  2
 ID  Holo-[acyl-carrier-protein] synthase
+DN  Holo-[acyl-carrier-protein] synthase/acpS
 RQ  1
 EV  IPR002582; TIGR00516;
 //

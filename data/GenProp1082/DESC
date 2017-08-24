@@ -13,14 +13,16 @@ CC  RsmH (previously MraW) and RsmI (previously YraL) together make a
 CC  dimethyl modification to an invariant cytidine nucleotide found in the
 CC  16S rRNA of all bacteria (site in C1402 in E. coli).
 --
-SN  RsmH
+SN  1
 ID  16S rRNA (cytosine(1402)-N(4))-methyltransferase
+DN  16S rRNA (cytosine(1402)-N(4))-methyltransferase/RsmH
 RQ  1
 EV  IPR002903; TIGR00006;
 TG  GO:0000154;
 --
-SN  RsmI
+SN  2
 ID  16S rRNA (cytidine(1402)-2'-O)-methyltransferase
+DN  16S rRNA (cytidine(1402)-2'-O)-methyltransferase/RsmI
 RQ  1
 EV  IPR008189; TIGR00096;
 TG  GO:0000154;

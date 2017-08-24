@@ -6,12 +6,14 @@ TH  0
 CC  dTDP-6-deoxy-L-talose (dTDP-6dLTal) is a component of the E. coli O45,
 CC  O66 and O88 antigen monomers.
 --
-SN  4dhLRha
+SN  1
 ID   source of dTDP-4-dehydro-L-rhamnose
+DN   source of dTDP-4-dehydro-L-rhamnose/4dhLRha
 RQ  1
 EV  GenProp1032;
 --
-SN  6dLTalS
+SN  2
 ID  DTDP-6-deoxy-L-talose synthase
+DN  DTDP-6-deoxy-L-talose synthase/6dLTalS
 RQ  1
 //

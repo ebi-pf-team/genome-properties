@@ -18,18 +18,21 @@ CC  TIGR01654.
 **  In some Streptococcus genomes, NO START CODON for TIGR01653 member, so
 **  the apparent bacteriocin gene is NOT reported.
 --
-SN  B_export
+SN  1
 ID  Bacteriocin export protein, lactococcin 972 group
+DN  Bacteriocin export protein, lactococcin 972 group/B_export
 RQ  1
 EV  IPR019895; TIGR03608;
 --
-SN  B_immun
+SN  2
 ID  Bacteriocin putative immunity protein, lactococcin 972 group
+DN  Bacteriocin putative immunity protein, lactococcin 972 group/B_immun
 RQ  1
 EV  IPR006541; TIGR01654;
 --
-SN  B_ocin
+SN  3
 ID  Bacteriocin, lactococcin 972 group
+DN  Bacteriocin, lactococcin 972 group/B_ocin
 RQ  1
 EV  IPR006540; TIGR01653;
 //

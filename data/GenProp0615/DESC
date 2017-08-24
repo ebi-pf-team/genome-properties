@@ -11,14 +11,16 @@ CC  respectively.  Both of these processes als o result in the pumping of
 CC  protons across the cell membrane to generate the proton gradient
 CC  necessary for ATP generation.
 --
-SN  oxidase
+SN  1
 ID  A cytochrome c oxidase
+DN  A cytochrome c oxidase/oxidase
 RQ  1
 EV  GenProp0483;
 EV  GenProp0614;
 --
-SN  reduct
+SN  2
 ID  A cytochrome c reductase
+DN  A cytochrome c reductase/reduct
 RQ  1
 EV  GenProp0613;
 //

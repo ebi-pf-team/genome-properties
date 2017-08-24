@@ -26,22 +26,25 @@ CC  alpha-anomeric glycoside of L-cysteinyl-D-glucosamine with L-malic acid
 **  all probable thiol:disulfide oxidoreductases. GO term has been
 **  requested.
 --
-SN  BshA
+SN  1
 ID  Glycosyltransferase BshA
+DN  Glycosyltransferase BshA/BshA
 RQ  1
 EV  IPR023881; TIGR03999;
 TG  GO:0071793;
 --
-SN  BshB
+SN  2
 ID  N-acetylhydrolase BshB
+DN  N-acetylhydrolase BshB/BshB
 RQ  1
 EV  IPR023841; TIGR04000;
 TG  GO:0071793;
 EV  IPR023842; TIGR04001;
 TG  GO:0071793;
 --
-SN  BshC
+SN  3
 ID  Cysteine-adding enzyme BshC
+DN  Cysteine-adding enzyme BshC/BshC
 RQ  1
 EV  IPR011199; TIGR03998;
 TG  GO:0071793;

@@ -9,14 +9,16 @@ CC  polymers.  The immediate precursor of dTDP-Fuc3NAc, dTDP-3-aminofucose
 CC  is used to generate more than one different product, so this Property
 CC  only encompasses the final step from that branch point.
 --
-SN  FdtC
+SN  1
 ID  dTDP-3-aminofucose 3N-acetyltransferase
+DN  dTDP-3-aminofucose 3N-acetyltransferase/FdtC
 RQ  1
 EV  IPRXXXX; PF00132;
 EV  IPRXXXX; 2849;
 --
-SN  Fuc3N
+SN  2
 ID  Source of dTDP-3-aminofucose
+DN  Source of dTDP-3-aminofucose/Fuc3N
 RQ  1
 EV  GenProp0951;
 //

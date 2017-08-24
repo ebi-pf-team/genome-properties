@@ -9,18 +9,21 @@ RT  Protein--protein interactions in the eubacterial replisome.
 RA  Schaeffer PM, Headlam MJ, Dixon NE;
 RL  IUBMB Life. 2005;57:5-12.
 --
-SN  DnaA
+SN  1
 ID  Chromosomal replication initiator protein DnaA
+DN  Chromosomal replication initiator protein DnaA/DnaA
 RQ  1
 EV  IPR001957; TIGR00362;
 --
-SN  DnaB
+SN  2
 ID  Replicative DNA helicase
+DN  Replicative DNA helicase/DnaB
 RQ  1
 EV  IPR007692; TIGR00665;
 --
-SN  DnaG
+SN  3
 ID  DNA primase
+DN  DNA primase/DnaG
 RQ  1
 EV  IPR006295; TIGR01391;
 //

@@ -15,8 +15,9 @@ CC  biosynthesis and utilizes an enzyme-bound acyl-adeylate (AMP-Ac)
 CC  intermediate [1]. The purpose of this property is for comparison with
 CC  the various other ways of interconverting acetate and acetyl-CoA.
 --
-SN  ligase
+SN  1
 ID  Acetate--CoA ligase
+DN  Acetate--CoA ligase/ligase
 RQ  1
 EV  IPR011904; TIGR02188; sufficient;
 TG  GO:0019427;

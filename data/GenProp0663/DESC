@@ -18,23 +18,27 @@ CC  may from are not yet understood.
 **  protein is not included in the property. Proteins renamed Verru_Chthon
 **  cassette protein A-D (vccABCD).
 --
-SN  FOUR
+SN  1
 ID  Operon position FOUR protein
+DN  Operon position FOUR protein/FOUR
 RQ  1
 EV  IPR019836; TIGR02596; sufficient;
 --
-SN  ONE_BIG
+SN  2
 ID  V. spinosum long paralogous protein
+DN  V. spinosum long paralogous protein/ONE_BIG
 RQ  1
 EV  IPR019840; TIGR02600; sufficient;
 --
-SN  THREE
+SN  3
 ID  Mid-operon protein
+DN  Mid-operon protein/THREE
 RQ  1
 EV  IPR019839; TIGR02599; sufficient;
 --
-SN  TWO
+SN  4
 ID  V. spinosum short paralogous protein
+DN  V. spinosum short paralogous protein/TWO
 RQ  1
 EV  IPR019838; TIGR02598; sufficient;
 //

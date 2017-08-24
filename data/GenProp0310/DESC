@@ -42,39 +42,39 @@ CC  captured from extrachromosomal sources [2].  The repeats associated
 CC  with this subtype tend to have a periodicity of 60 nucleotides. This
 CC  subtype is found only in the Proteobacteria.
 --
-SN  Cas1
+SN  1
 ID  Cas1, Ypest region
-DN  CRISPR-associated protein Cas1
+DN  CRISPR-associated protein Cas1/Cas1
 RQ  1
 EV  IPR019857; TIGR03637;
 --
-SN  Cas3
+SN  2
 ID  Cas3, Ypest subtype variant
-DN  CRISPR-associated helicase Cas3
+DN  CRISPR-associated helicase Cas3/Cas3
 RQ  1
 EV  IPR013395; TIGR02562; sufficient;
 --
-SN  Csy1
+SN  3
 ID  Csy1
-DN  CRISPR-associated protein, Csy1 family
+DN  CRISPR-associated protein, Csy1 family/Csy1
 RQ  1
 EV  IPR013397; TIGR02564; sufficient;
 --
-SN  Csy2
+SN  4
 ID  Csy2
-DN  CRISPR-associated protein, Csy2 family
+DN  CRISPR-associated protein, Csy2 family/Csy2
 RQ  1
 EV  IPR013398; TIGR02565; sufficient;
 --
-SN  Csy3
+SN  5
 ID  Csy3
-DN  CRISPR-associated protein, Csy3  family
+DN  CRISPR-associated protein, Csy3  family/Csy3
 RQ  1
 EV  IPR013399; TIGR02566; sufficient;
 --
-SN  Csy4
+SN  6
 ID  CRISPR-derived RNA endonuclease Csy4
-DN  CRISPR-associated protein, Csy4 family
+DN  CRISPR-associated protein, Csy4 family/Csy4
 RQ  1
 EV  IPR013396; TIGR02563; sufficient;
 //

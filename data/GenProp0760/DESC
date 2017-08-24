@@ -21,23 +21,27 @@ CC  for the conversion of GABA to succination semialdehyde (goaG) and then
 CC  succinate (gabD) are associated with this pathway but not modeled at
 CC  present as part of this Genome Property.
 --
-SN  puuA
+SN  1
 ID  Glutamate--putrescine ligase
+DN  Glutamate--putrescine ligase/puuA
 RQ  1
 EV  IPRXXXX; 60;
 --
-SN  puuB
+SN  2
 ID  Gamma-glutamylputrescine oxidase
+DN  Gamma-glutamylputrescine oxidase/puuB
 RQ  1
 EV  IPRXXXX; 61;
 --
-SN  puuC
+SN  3
 ID  Gamma-glutamyl-gamma-aminobutyraldehyde dehydrogenase
+DN  Gamma-glutamyl-gamma-aminobutyraldehyde dehydrogenase/puuC
 RQ  1
 EV  IPRXXXX; 62;
 --
-SN  puuD
+SN  4
 ID  Gamma-glutamyl-gamma-aminobutyrate hydrolase
+DN  Gamma-glutamyl-gamma-aminobutyrate hydrolase/puuD
 RQ  1
 EV  IPRXXXX; 63;
 //

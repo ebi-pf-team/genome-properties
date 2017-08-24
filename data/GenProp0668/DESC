@@ -10,18 +10,21 @@ CC  synthases. This cassette is sparsely and somewhat broadly distributed,
 CC  occurring in the Mycobacteria and a member of the Chlorobi as well as
 CC  in numerous alpha, beta, and gamma Proteobacteria.
 --
-SN  GNAT
+SN  1
 ID  GNAT-family acetyltransferase TIGR03103
+DN  GNAT-family acetyltransferase TIGR03103/GNAT
 RQ  1
 EV  IPR017534; TIGR03103; sufficient;
 --
-SN  am_tran
+SN  2
 ID  Asparagine synthase family amidotransferase
+DN  Asparagine synthase family amidotransferase/am_tran
 RQ  1
 EV  IPR017535; TIGR03104; sufficient;
 --
-SN  hydro
+SN  3
 ID  Putative peptidase
+DN  Putative peptidase/hydro
 RQ  1
 EV  IPR017537; TIGR03106; sufficient;
 //

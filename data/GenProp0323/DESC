@@ -5,13 +5,15 @@ AU  Haft DH
 TH  0
 CC  (pending description)
 --
-SN  A-Par
+SN  1
 ID  Antidote TIGR02606
+DN  Antidote TIGR02606/A-Par
 RQ  1
 EV  IPR022789; TIGR02606; sufficient;
 --
-SN  K-ParE
+SN  2
 ID  Killer ParE - PF05016
+DN  Killer ParE - PF05016/K-ParE
 RQ  1
 EV  IPR007712; PF05016;
 //

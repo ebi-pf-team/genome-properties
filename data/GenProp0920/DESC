@@ -14,13 +14,15 @@ CC  This Genome Property consists of radical SAM protein family TIGR03913
 CC  and its presumptive target family PF08898, which may exist in multiple
 CC  copies.
 --
-SN  GDL_SAM
+SN  1
 ID  Y_X(10)_GDL-associated radical SAM protein
+DN  Y_X(10)_GDL-associated radical SAM protein/GDL_SAM
 RQ  1
 EV  IPR023820; TIGR03913;
 --
-SN  GDL_dom
+SN  2
 ID  Y_X(10)_GDL domain protein
+DN  Y_X(10)_GDL domain protein/GDL_dom
 RQ  1
 EV  IPR014994; PF08898;
 //

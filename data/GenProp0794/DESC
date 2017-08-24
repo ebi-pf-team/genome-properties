@@ -37,21 +37,21 @@ CC  Occasionally the WbuX protein is found in multiple (tandem) copies
 CC  which may indicate multiple substrates or multiple N-acetyl groups
 CC  being modified on the same substrate.
 --
-SN  WbuX
+SN  1
 ID  N-acetyl sugar amidotransferase
-DN  N-acetyl sugar amidotransferase (EC 6.3.4.-)
+DN  N-acetyl sugar amidotransferase (EC 6.3.4.-)/WbuX
 RQ  1
 EV  IPR020022; TIGR03573;
 --
-SN  WbuY
+SN  2
 ID  HisH-like glutaminase WbuY
-DN  HisH-like glutaminase WbuY (EC 2.4.2.-)
+DN  HisH-like glutaminase WbuY (EC 2.4.2.-)/WbuY
 RQ  1
 EV  IPR010139; TIGR01855;
 --
-SN  WbuZ
+SN  3
 ID  HisF-like proposed ammonium channel protein WbuZ
-DN  HisF-like proposed ammonium channel protein WbuZ
+DN  HisF-like proposed ammonium channel protein WbuZ/WbuZ
 RQ  1
 EV  IPR020021; TIGR03572;
 EV  IPRXXXX; 2918;

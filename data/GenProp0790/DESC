@@ -13,13 +13,15 @@ CC  crunogena, etc.
 **  cutoffs for the model TIGR03545. I think that one is a fusion that hits
 **  TIGR03546.
 --
-SN  sporad1
+SN  1
 ID  Sporadic gene pair, small protein
+DN  Sporadic gene pair, small protein/sporad1
 RQ  1
 EV  IPR019935; TIGR03546;
 --
-SN  sporad2
+SN  2
 ID  Sporadic gene pair, large protein
+DN  Sporadic gene pair, large protein/sporad2
 RQ  1
 EV  IPR019934; TIGR03545;
 //

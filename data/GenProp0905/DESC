@@ -22,35 +22,41 @@ CC  TIGR03925) is present. Otherwise, differences appear to be profound.
 **  SAG_1039=PF06013, SAG_1038, ,,,SAG_1033=EccC. EssA is massively
 **  divergent and more widespread than authors realize.
 --
-SN  T7_EsaA
+SN  1
 ID  Type VII secretion protein EsaA
+DN  Type VII secretion protein EsaA/T7_EsaA
 RQ  0
 EV  IPR023838; TIGR03929;
 --
-SN  T7_EssA
+SN  2
 ID  Type VII secretion protein EssA
+DN  Type VII secretion protein EssA/T7_EssA
 RQ  1
 EV  IPR018920; TIGR03927;
 --
-SN  T7_EssC
+SN  3
 ID  Type VII secretion protein EssC
+DN  Type VII secretion protein EssC/T7_EssC
 RQ  1
 EV  IPR023839; TIGR03928;
 --
-SN  T7_WxG
+SN  4
 ID  Type VII secretion target, WXG100 family
+DN  Type VII secretion target, WXG100 family/T7_WxG
 RQ  1
 EV  IPRXXXX; PF06013;
 EV  IPRXXXX; TIGR03930;
 EV  IPR021477; TIGR04197;
 --
-SN  T7_esaB
+SN  5
 ID  Type VII secretion protein EsaB
+DN  Type VII secretion protein EsaB/T7_esaB
 RQ  1
 EV  IPR024962; PF08817;
 --
-SN  T7_essB
+SN  6
 ID  Type VII secretion protein EssB
+DN  Type VII secretion protein EssB/T7_essB
 RQ  1
 EV  IPR018778; TIGR03926;
 //

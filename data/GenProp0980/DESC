@@ -10,13 +10,15 @@ CC  Species with this system lack a classical PEP-CTERM, PEF-CTERM, or
 CC  PGF-CTERM-like protein sorting C-terminal domain.
 **  Probably should add more from neighborhood.
 --
-SN  AlsoFlv
+SN  1
 ID  Exosortase-related protein-associated protein
+DN  Exosortase-related protein-associated protein/AlsoFlv
 RQ  1
 EV  IPR026414; TIGR04127;
 --
-SN  EXO_flv
+SN  2
 ID  Exosortase-related protein, flavobacterial
+DN  Exosortase-related protein, flavobacterial/EXO_flv
 RQ  1
 EV  IPR026323; TIGR04128;
 //

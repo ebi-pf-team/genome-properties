@@ -13,31 +13,33 @@ CC  signal peptides, oligopeptides that may have signaling roles and also
 CC  that may interfere with protein secretion, left after removal from a
 CC  nascent protein by some signal peptidase.
 --
-SN  FtsY
+SN  1
 ID  SRP receptor
-DN  Signal recognition particle-docking protein FtsY
+DN  Signal recognition particle-docking protein FtsY/FtsY
 RQ  1
 EV  IPR004390; TIGR00064; sufficient;
 --
-SN  RNA
+SN  2
 ID  SRP structural RNA
+DN  SRP structural RNA/RNA
 RQ  1
 --
-SN  cleave
+SN  3
 ID  Signal peptidase I
-DN  Signal peptidase I
+DN  Signal peptidase I/cleave
 RQ  1
 EV  IPR000223; TIGR02227; sufficient;
 --
-SN  degrade
+SN  4
 ID  Signal peptide peptidases
+DN  Signal peptide peptidases/degrade
 RQ  0
 EV  IPR004634; TIGR00705; sufficient;
 EV  IPR004635; TIGR00706; sufficient;
 --
-SN  ffh
+SN  5
 ID  SRP protein
-DN  Signal recognition particle protein
+DN  Signal recognition particle protein/ffh
 RQ  1
 EV  IPR004780; TIGR00959; sufficient;
 //

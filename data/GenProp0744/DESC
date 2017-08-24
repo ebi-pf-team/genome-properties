@@ -21,14 +21,16 @@ CC  such as trypanothione in Trypanosoma cruzi (see PMID:16958620).
 **  glyoxalase I is doing: isomerizing a spontaneous gluthione adduct, or
 **  adding glutathione !!.    It does both. JDS
 --
-SN  glox_I
+SN  1
 ID  Lactoylglutathione lyase (glyoxalase I)
+DN  Lactoylglutathione lyase (glyoxalase I)/glox_I
 RQ  1
 EV  IPR004361; TIGR00068;
 TG  GO:0051596;
 --
-SN  glox_II
+SN  2
 ID  Hydroxyacylglutathione hydrolase (glyoxalase II)
+DN  Hydroxyacylglutathione hydrolase (glyoxalase II)/glox_II
 RQ  1
 EV  IPR017782; TIGR03413;
 TG  GO:0051596;

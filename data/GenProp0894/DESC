@@ -10,18 +10,21 @@ CC  phosphoglycerate mutase), and an uncharacterized protein.
 **  There was some link between this system and F420, I believe, though it
 **  may have been weak.
 --
-SN  Msm4191
+SN  1
 ID  Probable kinase, MSMEG_4191 family
+DN  Probable kinase, MSMEG_4191 family/Msm4191
 RQ  1
 EV  IPR022292; TIGR03843;
 --
-SN  Msm4192
+SN  2
 ID  MSMEG_4192 family protein
+DN  MSMEG_4192 family protein/Msm4192
 RQ  1
 EV  IPR021441; TIGR03847;
 --
-SN  Msm4193
+SN  3
 ID  Probable phosphomutase, MSMEG_4193 family
+DN  Probable phosphomutase, MSMEG_4193 family/Msm4193
 RQ  1
 EV  IPR022492; TIGR03848;
 //

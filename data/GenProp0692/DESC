@@ -32,14 +32,16 @@ CC  not currently included in the definition of this Genome Property.
 **  MMP0899 and MMP0900 together in archaea add up to YbbB in bacteria.
 **  This needs to be done.
 --
-SN  donor
+SN  1
 ID  Selenide, water dikinase
+DN  Selenide, water dikinase/donor
 RQ  1
 EV  IPR004536; TIGR00476; sufficient;
 TG  GO:0006400;
 --
-SN  synth
+SN  2
 ID  2-selenouridine synthase
+DN  2-selenouridine synthase/synth
 RQ  1
 EV  IPR017582; TIGR03167; sufficient;
 TG  GO:0006400;

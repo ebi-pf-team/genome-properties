@@ -8,14 +8,16 @@ CC  glucose-specific phosphotransferase system (PTS) and converted to the
 CC  glycolysis pathway intermediate fructose-1,6-bisphosphate by the action
 CC  of phosphoglucose isomerase (PGI) and 6-phosphofructokinase (6-PFK).
 --
-SN  PFK
+SN  1
 ID  Phosphofructokinase
+DN  Phosphofructokinase/PFK
 RQ  1
 EV  IPR009161; TIGR02478; sufficient;
 EV  IPR012828; TIGR02482; sufficient;
 --
-SN  PGI
+SN  2
 ID  Glucose-6-phosphate isomerase
+DN  Glucose-6-phosphate isomerase/PGI
 RQ  1
 EV  IPR001672; PF00342; sufficient;
 EV  IPR011857; TIGR02128; sufficient;

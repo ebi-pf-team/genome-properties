@@ -8,20 +8,24 @@ CC  a toxic antivitamin made as an antibiotic. The pathway order is
 CC  hydroxymethylation by BcmA, N-glycosyl bond cleavage by BcmB,
 CC  SAM-dependent methylation by BcmC, pyrophosphorylation by BcmD.
 --
-SN  BcmA
+SN  1
 ID  CMP hydroxymethylase
+DN  CMP hydroxymethylase/BcmA
 RQ  1
 --
-SN  BcmB
+SN  2
 ID  5-hydroxymethyl CMP N-glycosidase
+DN  5-hydroxymethyl CMP N-glycosidase/BcmB
 RQ  1
 --
-SN  BcmC
+SN  3
 ID  5-hydroxymethylcytosine O-methyltransferase
+DN  5-hydroxymethylcytosine O-methyltransferase/BcmC
 RQ  1
 --
-SN  BcmE
+SN  4
 ID  Thiamine pyridinylase
+DN  Thiamine pyridinylase/BcmE
 RQ  0
 EV  IPR030901; TIGR04541;
 //

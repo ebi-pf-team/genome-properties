@@ -28,43 +28,51 @@ CC  type. Repeats typically are 37 base pairs long.
 **  psychrophila is present in TIGR02165; a sequence from Geobacter 
 **  sulfurreducens is present in TIGR04106.
 --
-SN  Cas1
+SN  1
 ID  Cas1, Dpsyc region
+DN  Cas1, Dpsyc region/Cas1
 RQ  1
 EV  IPR002729; TIGR00287;
 --
-SN  Cas2
+SN  2
 ID  Cas2, Dpsyc region
+DN  Cas2, Dpsyc region/Cas2
 RQ  1
 EV  IPR021127; TIGR01573;
 --
-SN  Cas3
+SN  3
 ID  Cas3, Dpsyc subtype variant
+DN  Cas3, Dpsyc subtype variant/Cas3
 RQ  1
 EV  IPR013444; TIGR02621; sufficient;
 --
-SN  Cas4
+SN  4
 ID  Cas4, Dpsyc region
+DN  Cas4, Dpsyc region/Cas4
 RQ  1
 EV  IPR013343; TIGR00372;
 --
-SN  csb1
+SN  5
 ID  Csb1 (GSU0053)
+DN  Csb1 (GSU0053)/csb1
 RQ  1
 EV  IPR013403; TIGR02570; sufficient;
 --
-SN  csb2
+SN  6
 ID  Csb2 (GSU0054)
+DN  Csb2 (GSU0054)/csb2
 RQ  1
 EV  IPR019089; TIGR02165; sufficient;
 --
-SN  csb3
+SN  7
 ID  Csb3 (GSU0052)
+DN  Csb3 (GSU0052)/csb3
 RQ  0
 EV  IPR026391; TIGR04106;
 --
-SN  csx17
+SN  8
 ID  CRISPR-associated protein Csx17, subtype Dpsyc
+DN  CRISPR-associated protein Csx17, subtype Dpsyc/csx17
 RQ  0
 EV  IPR026483; TIGR04113;
 //

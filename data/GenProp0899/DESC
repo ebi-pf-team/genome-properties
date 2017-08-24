@@ -23,23 +23,27 @@ CC  protein, is found in a larger fraction of nitrile hydratase operons.
 **  would be expected to vary. There are common clustered proteins, but not
 **  universal - possibly may be used to tell Fe from Co.
 --
-SN  nitCXCC
+SN  1
 ID  Nitrile hydratase activator, CobW family
+DN  Nitrile hydratase activator, CobW family/nitCXCC
 RQ  0
 EV  IPRXXXX; PF02492;
 --
-SN  nit_acc
+SN  2
 ID  Nitrile hydratase accessory protein
+DN  Nitrile hydratase accessory protein/nit_acc
 RQ  0
 EV  IPR023808; TIGR03889;
 --
-SN  nit_alp
+SN  3
 ID  Nitrile hydratase, alpha subunit
+DN  Nitrile hydratase, alpha subunit/nit_alp
 RQ  1
 EV  IPR018141; TIGR01323;
 --
-SN  nit_bet
+SN  4
 ID  Nitrile hydratase, beta subunit
+DN  Nitrile hydratase, beta subunit/nit_bet
 RQ  1
 EV  IPR003168; TIGR03888;
 //

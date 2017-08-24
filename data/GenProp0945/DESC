@@ -16,24 +16,28 @@ CC  additional uncharacterized family. The bacteriocin precursors in this
 CC  system, can be different enough in sequence that construction of
 CC  separate models to represent different subsets appears necessary.
 --
-SN  ocinACP
+SN  1
 ID  Peptide maturation system acyl carrier-related protein
+DN  Peptide maturation system acyl carrier-related protein/ocinACP
 RQ  0
 EV  IPR023972; TIGR04069;
 --
-SN  ocin_oc
+SN  2
 ID  Bacteriocin precursor, CLI_3235-class
+DN  Bacteriocin precursor, CLI_3235-class/ocin_oc
 RQ  1
 EV  IPR023968; TIGR04065;
 EV  IPR023964; TIGR04067;
 --
-SN  ocin_rS
+SN  3
 ID  Radical SAM bacterocin maturase, CLI_3235 system
+DN  Radical SAM bacterocin maturase, CLI_3235 system/ocin_rS
 RQ  1
 EV  IPR024001; TIGR04068;
 --
-SN  ocin_xx
+SN  4
 ID  CLI_3235-class bacteriocin system protein
+DN  CLI_3235-class bacteriocin system protein/ocin_xx
 RQ  0
 EV  IPR023823; TIGR04066;
 //

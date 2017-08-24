@@ -13,48 +13,57 @@ CC  chain acids of over 30 carbons are found in waxes.
 **  as putting fatty acid onto glycerol is downstream from this pathway.
 **  DHH 12/2008.
 --
-SN  ACP
+SN  1
 ID  Acyl carrier protein
+DN  Acyl carrier protein/ACP
 RQ  1
 EV  GenProp1104;
 --
-SN  AccABCD
+SN  2
 ID  Acetyl-CoA carboxylase complex
+DN  Acetyl-CoA carboxylase complex/AccABCD
 RQ  1
 EV  GenProp0214;
 --
-SN  fabA
+SN  3
 ID  3-hydroxyacyl-[ACP] dehydratase FabA
+DN  3-hydroxyacyl-[ACP] dehydratase FabA/fabA
 RQ  1
 EV  IPR010083; TIGR01749; sufficient;
 --
-SN  fabD
+SN  4
 ID  Malonyl CoA--(ACP) transacylase
+DN  Malonyl CoA--(ACP) transacylase/fabD
 RQ  1
 EV  IPR004410; TIGR00128; sufficient;
 --
-SN  fabF
+SN  5
 ID  3-oxoacyl-[ACP] synthase II
+DN  3-oxoacyl-[ACP] synthase II/fabF
 RQ  1
 EV  IPR017568; TIGR03150; sufficient;
 --
-SN  fabG
+SN  6
 ID  3-oxoacyl-[ACP] reductase
+DN  3-oxoacyl-[ACP] reductase/fabG
 RQ  1
 EV  IPR011284; TIGR01830; sufficient;
 --
-SN  fabH
+SN  7
 ID  3-oxoacyl-[ACP] synthase III
+DN  3-oxoacyl-[ACP] synthase III/fabH
 RQ  1
 EV  IPR004655; TIGR00747; sufficient;
 --
-SN  fabI
+SN  8
 ID  Enoyl-[ACP] reductase
+DN  Enoyl-[ACP] reductase/fabI
 RQ  0
 EV  IPR017569; TIGR03151; sufficient;
 --
-SN  fabZ
+SN  9
 ID  3-hydroxyacyl-[ACP] dehydratase FabZ
+DN  3-hydroxyacyl-[ACP] dehydratase FabZ/fabZ
 RQ  1
 EV  IPR010084; TIGR01750; sufficient;
 //

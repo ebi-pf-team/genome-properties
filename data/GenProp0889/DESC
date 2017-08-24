@@ -11,26 +11,31 @@ CC  include HMW1, HMW2, HMW3, B, C, P65, and P1.
 **  MG386 (shared N-term MG312, MG200 MG386)  Refreshing searches. MG200
 **  and MG386 needed for gliding motility but not for cytadherence.
 --
-SN  MG191
+SN  1
 ID  Terminal organelle adhesin P1
+DN  Terminal organelle adhesin P1/MG191
 RQ  1
 EV  IPR022400; TIGR03839;
 --
-SN  MG192
+SN  2
 ID  Terminal organelle adhesin P110
+DN  Terminal organelle adhesin P110/MG192
 RQ  1
 --
-SN  MG317
+SN  3
 ID  Terminal organelle protein HMW3
+DN  Terminal organelle protein HMW3/MG317
 RQ  0
 --
-SN  MG318
+SN  4
 ID  Adhesin P30/P32
+DN  Adhesin P30/P32/MG318
 RQ  1
 EV  IPR009896; PF07271;
 --
-SN  TopJ
+SN  5
 ID  Terminal organelle assembly protein TopJ
+DN  Terminal organelle assembly protein TopJ/TopJ
 RQ  1
 EV  IPR022465; TIGR03835;
 //

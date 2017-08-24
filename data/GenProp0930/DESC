@@ -10,13 +10,15 @@ CC  pathway by the inclusion of the Gmm gene product (GDP-mannose mannosyl
 CC  hydrolase).  GDP-4-keto-6-deoxymannose may be converted to GDP-L-fucose
 CC  by the Fcl gene product, to perosamine by Per, or to colicin by ColCD.
 --
-SN  GDP-man
+SN  1
 ID  Source of GDP-D-mannose
+DN  Source of GDP-D-mannose/GDP-man
 RQ  1
 EV  GenProp1017;
 --
-SN  gmd
+SN  2
 ID  GDP-mannose-4,6-dehydratase
+DN  GDP-mannose-4,6-dehydratase/gmd
 RQ  1
 EV  IPR006368; TIGR01472;
 //

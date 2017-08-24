@@ -23,14 +23,16 @@ CC  where RelE acts by cleaving ribosome-associated transcripts.
 **  So which transcription factors can act as partners?  antidote RelB -
 **  PF04221  
 --
-SN  A-RelB
+SN  1
 ID  Antidote RelB - PF04221
+DN  Antidote RelB - PF04221/A-RelB
 RQ  1
 EV  IPR007337; PF04221; sufficient;
 EV  IPR006442; TIGR01552; sufficient;
 --
-SN  K-RelE
+SN  2
 ID  Toxin RelE - TIGR02385
+DN  Toxin RelE - TIGR02385/K-RelE
 RQ  1
 EV  IPR007712; TIGR02385; sufficient;
 //

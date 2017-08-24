@@ -16,11 +16,13 @@ CC  The knockout of SO1377 in Shewanella oneidensis results in oxidative
 CC  damage related to changes in iron metabolism [1].  The adjacent gene,
 CC  SO1366 is phylogenomically linked and part of an apparent operon.
 --
-SN  SO1376
+SN  1
 ID  SO1376 gene family
+DN  SO1376 gene family/SO1376
 RQ  1
 --
-SN  SO1377
+SN  2
 ID  SO1377 gene family: part of COG2268
+DN  SO1377 gene family: part of COG2268/SO1377
 RQ  1
 //

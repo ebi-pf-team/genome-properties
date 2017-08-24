@@ -10,13 +10,15 @@ CC  shown to be a monooxygenase, EC 1.13.11.63, that creates two retinal
 CC  molecules from oxygen and one beta-carotene. This property describes
 CC  light energy-capturing systems with these components.
 --
-SN  monoox
+SN  1
 ID  Beta-carotene monooxygenase
+DN  Beta-carotene monooxygenase/monoox
 RQ  1
 EV  IPR022270; TIGR03753;
 --
-SN  opsin
+SN  2
 ID  Bacteriorhodopsin
+DN  Bacteriorhodopsin/opsin
 RQ  1
 EV  IPR001425; PF01036;
 //

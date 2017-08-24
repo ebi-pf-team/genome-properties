@@ -33,26 +33,30 @@ CC  polyribitol phosphate WTAs in S. aureus and B. subtilis W23.
 **  misnamed to 6.1.1.13,  D-alanine--poly(phosphoribitol) ligase (letter
 **  sent!).
 --
-SN  dltA
+SN  1
 ID  D-alanine-D-alanyl carrier protein ligase
+DN  D-alanine-D-alanyl carrier protein ligase/dltA
 RQ  1
 EV  IPR010072; TIGR01734;
 TG  GO:0070394;
 --
-SN  dltB
+SN  2
 ID  D-alanyl-lipoteichoic acid biosynthesis protein DltB
+DN  D-alanyl-lipoteichoic acid biosynthesis protein DltB/dltB
 RQ  1
 EV  IPR024024; TIGR04091;
 TG  GO:0070394;
 --
-SN  dltC
+SN  3
 ID  D-alanine-D-alanyl carrier protein
+DN  D-alanine-D-alanyl carrier protein/dltC
 RQ  1
 EV  IPR003230; TIGR01688;
 TG  GO:0070394;
 --
-SN  dltD
+SN  4
 ID  D-alanyl-lipoteichoic acid biosynthesis protein DltD
+DN  D-alanyl-lipoteichoic acid biosynthesis protein DltD/dltD
 RQ  1
 EV  IPR023896; TIGR04092;
 TG  GO:0070394;

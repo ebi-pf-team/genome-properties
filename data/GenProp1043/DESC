@@ -16,38 +16,45 @@ CC  very divergent from other known glycosyltransferases, consistent with
 CC  the rare aNeu5Ac(2->3)LFucNAm reaction that it must be carrying out as
 CC  inferred by the process of elimination.
 --
-SN  LFucNAc
+SN  1
 ID  Source of UDP-L-FucNAc
+DN  Source of UDP-L-FucNAc/LFucNAc
 RQ  1
 EV  GenProp0976;
 --
-SN  Neu5Ac
+SN  2
 ID  Source of CDP-N-acetyl-neuraminate (Neu5Ac)
+DN  Source of CDP-N-acetyl-neuraminate (Neu5Ac)/Neu5Ac
 RQ  1
 EV  GenProp0793;
 --
-SN  WbuB
+SN  3
 ID  DGlcNAc-alpha-1,3-LFucNAm transferase WbuB
+DN  DGlcNAc-alpha-1,3-LFucNAm transferase WbuB/WbuB
 RQ  1
 EV  IPRXXXX; 2917;
 --
-SN  WbuW
+SN  4
 ID  LFucNAm alpha-2,3-Neu5Ac transferase WbuW
+DN  LFucNAm alpha-2,3-Neu5Ac transferase WbuW/WbuW
 RQ  1
 EV  IPRXXXX; 2919;
 --
-SN  WbuXYZ
+SN  5
 ID  N-acetyl sugar amidation module WbuXYZ
+DN  N-acetyl sugar amidation module WbuXYZ/WbuXYZ
 RQ  1
 EV  GenProp0794;
 --
-SN  wzx145
+SN  6
 ID  O145(Ec)-antigen specific transporter (flippase) wzx
+DN  O145(Ec)-antigen specific transporter (flippase) wzx/wzx145
 RQ  1
 EV  IPRXXXX; 2922;
 --
-SN  wzy145
+SN  7
 ID  O145(Ec)-antigen specific polymerase wzy
+DN  O145(Ec)-antigen specific polymerase wzy/wzy145
 RQ  1
 EV  IPRXXXX; 2921;
 //

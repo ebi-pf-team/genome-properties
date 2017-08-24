@@ -31,8 +31,9 @@ CC  Flavobacterium johnsoniae, Cytophaga hutchinsonii, Gramella forsetii,
 CC  Prevotella intermedia, and Salinibacter ruber (HMMs describing
 CC  processing components have not yet been added to this Genome Property).
 --
-SN  PorSIG
+SN  1
 ID  Por secretion C-terminal signal
+DN  Por secretion C-terminal signal/PorSIG
 RQ  1
 EV  IPR026444; TIGR04183;
 //

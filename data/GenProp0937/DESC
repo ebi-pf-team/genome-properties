@@ -10,13 +10,15 @@ CC  species that do not synthesize F420, a cofactor alternative to FMN in
 CC  some species. Therefore, the cofactor is likely to FMN itself.
 CC  TIGR04037 describes a homolog to 
 --
-SN  FMN-LLM
+SN  1
 ID  FMN-dependent luciferase-like monooxygenase, CE1759 family
+DN  FMN-dependent luciferase-like monooxygenase, CE1759 family/FMN-LLM
 RQ  1
 EV  IPR023934; TIGR04036;
 --
-SN  FMN-red
+SN  2
 ID  FMN reductase, CE1759 family
+DN  FMN reductase, CE1759 family/FMN-red
 RQ  1
 EV  IPR023932; TIGR04037;
 //

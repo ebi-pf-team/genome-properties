@@ -13,20 +13,23 @@ CC  PabB, and 4-amino-4-deoxychorismate lyase (4.1.3.38) is PabC.
 **  lots of little families, all related to some Trp-biosynthesis genes and
 **  maybe even some doing double duty.
 --
-SN  PabA
+SN  1
 ID  Aminodeoxychorismate synthase, component I
+DN  Aminodeoxychorismate synthase, component I/PabA
 RQ  1
 EV  IPR010117; TIGR01823;
 --
-SN  PabB
+SN  2
 ID  Aminodeoxychorismate synthase, component II
+DN  Aminodeoxychorismate synthase, component II/PabB
 RQ  1
 EV  IPR005802; TIGR00553;
 EV  IPR010118; TIGR01824;
 EV  IPR010117; TIGR01823;
 --
-SN  PabC
+SN  3
 ID  Aminodeoxychorismate lyase
+DN  Aminodeoxychorismate lyase/PabC
 RQ  1
 EV  IPR017824; TIGR03461;
 //

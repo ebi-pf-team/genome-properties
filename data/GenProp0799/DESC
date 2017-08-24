@@ -11,547 +11,655 @@ CC  genes. In certain cases, such as with glycyl-tRNA synthetase, one or
 CC  more separate homofunctional gene families may combine to completely
 CC  cover all bacterial genomes.
 --
-SN  alaS
+SN  1
 ID  Alanyl-tRNA synthetase
+DN  Alanyl-tRNA synthetase/alaS
 RQ  1
 EV  IPR002318; TIGR00344;
 --
-SN  argS
+SN  2
 ID  Arginyl-tRNA synthetase
+DN  Arginyl-tRNA synthetase/argS
 RQ  1
 EV  IPR001278; PF00750;
 --
-SN  aspS
+SN  3
 ID  Aspartyl-tRNA synthetase
+DN  Aspartyl-tRNA synthetase/aspS
 RQ  1
 EV  IPR004524; TIGR00459;
 --
-SN  cgtA
+SN  4
 ID  Obg family GTPase CgtA
+DN  Obg family GTPase CgtA/cgtA
 RQ  1
 EV  IPR014100; TIGR02729;
 --
-SN  coaE
+SN  5
 ID  Dephospho-CoA kinase
+DN  Dephospho-CoA kinase/coaE
 RQ  1
 EV  IPR001977; TIGR00152;
 --
-SN  cysS
+SN  6
 ID  Cysteinyl-tRNA synthetase
+DN  Cysteinyl-tRNA synthetase/cysS
 RQ  1
 EV  IPR015803; TIGR00435;
 --
-SN  dnaA
+SN  7
 ID  Chromosomal replication initiator protein DnaA
+DN  Chromosomal replication initiator protein DnaA/dnaA
 RQ  1
 EV  IPR001957; TIGR00362;
 --
-SN  dnaG
+SN  8
 ID  DNA primase
+DN  DNA primase/dnaG
 RQ  1
 EV  IPR006295; TIGR01391;
 --
-SN  dnaK
+SN  9
 ID  Chaperone protein DnaK
+DN  Chaperone protein DnaK/dnaK
 RQ  1
 EV  IPR012725; TIGR02350;
 --
-SN  dnaN
+SN  10
 ID  DNA polymerase III, beta subunit
+DN  DNA polymerase III, beta subunit/dnaN
 RQ  1
 EV  IPR001001; TIGR00663;
 --
-SN  dnaX
+SN  11
 ID  DNA polymerase III, subunits gamma and tau
+DN  DNA polymerase III, subunits gamma and tau/dnaX
 RQ  1
 EV  IPR012763; TIGR02397;
 --
-SN  engA
+SN  12
 ID  Ribosome-associated GTPase EngA
+DN  Ribosome-associated GTPase EngA/engA
 RQ  1
 EV  IPR016484; TIGR03594;
 --
-SN  era
+SN  13
 ID  GTP-binding protein Era
+DN  GTP-binding protein Era/era
 RQ  1
 EV  IPR005662; TIGR00436;
 --
-SN  ffh
+SN  14
 ID  Signal recognition particle protein
+DN  Signal recognition particle protein/ffh
 RQ  1
 EV  IPR004780; TIGR00959;
 --
-SN  fmt
+SN  15
 ID  Methionyl-tRNA formyltransferase
+DN  Methionyl-tRNA formyltransferase/fmt
 RQ  1
 EV  IPR005794; TIGR00460;
 --
-SN  frr
+SN  16
 ID  Ribosome recycling factor
+DN  Ribosome recycling factor/frr
 RQ  1
 EV  IPR002661; TIGR00496;
 --
-SN  ftsY
+SN  17
 ID  Signal recognition particle-docking protein FtsY
+DN  Signal recognition particle-docking protein FtsY/ftsY
 RQ  1
 EV  IPR004390; TIGR00064;
 --
-SN  glyS
+SN  18
 ID  Glycyl-tRNA synthetase
+DN  Glycyl-tRNA synthetase/glyS
 RQ  1
 EV  IPR002315; TIGR00389;
 EV  IPR002310; TIGR00388;
 --
-SN  gmk
+SN  19
 ID  Guanylate kinase
+DN  Guanylate kinase/gmk
 RQ  1
 EV  IPR017665; TIGR03263;
 --
-SN  grpE
+SN  20
 ID  Co-chaperone GrpE
+DN  Co-chaperone GrpE/grpE
 RQ  1
 EV  IPR000740; PF01025;
 --
-SN  gyrA
+SN  21
 ID  DNA gyrase, A subunit
+DN  DNA gyrase, A subunit/gyrA
 RQ  1
 EV  IPRXXXX; TIGR01063;
 --
-SN  gyrB
+SN  22
 ID  DNA gyrase, B subunit
+DN  DNA gyrase, B subunit/gyrB
 RQ  1
 EV  IPR011557; TIGR01059;
 --
-SN  hisS
+SN  23
 ID  Histidyl-tRNA synthetase
+DN  Histidyl-tRNA synthetase/hisS
 RQ  1
 EV  IPR015807; TIGR00442;
 --
-SN  ileS
+SN  24
 ID  Isoleucyl-tRNA synthetase
+DN  Isoleucyl-tRNA synthetase/ileS
 RQ  1
 EV  IPR002301; TIGR00392;
 --
-SN  infB
+SN  25
 ID  Translation initiation factor IF-2
+DN  Translation initiation factor IF-2/infB
 RQ  1
 EV  IPR000178; TIGR00487;
 --
-SN  infC
+SN  26
 ID  Translation initiation factor IF-3
+DN  Translation initiation factor IF-3/infC
 RQ  1
 EV  IPR001288; TIGR00168;
 --
-SN  ksgA
+SN  27
 ID  Dimethyladenosine transferase
+DN  Dimethyladenosine transferase/ksgA
 RQ  1
 EV  IPR011530; TIGR00755;
 --
-SN  lepA
+SN  28
 ID  GTP-binding protein LepA
+DN  GTP-binding protein LepA/lepA
 RQ  1
 EV  IPR006297; TIGR01393;
 --
-SN  leuS
+SN  29
 ID  Leucyl-tRNA synthetase
+DN  Leucyl-tRNA synthetase/leuS
 RQ  1
 EV  IPR002302; TIGR00396;
 --
-SN  ligA
+SN  30
 ID  DNA ligase, NAD-dependent
+DN  DNA ligase, NAD-dependent/ligA
 RQ  1
 EV  IPR001679; TIGR00575;
 --
-SN  mnmA
+SN  31
 ID  tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+DN  tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase/mnmA
 RQ  1
 EV  IPR004506; TIGR00420;
 --
-SN  mraW
+SN  32
 ID  MraW methylase family
+DN  MraW methylase family/mraW
 RQ  1
 EV  IPR002903; PF01795;
 --
-SN  nusA
+SN  33
 ID  Transcription termination factor NusA
+DN  Transcription termination factor NusA/nusA
 RQ  1
 EV  IPR010213; TIGR01953;
 --
-SN  nusG
+SN  34
 ID  Transcription termination/antitermination factor NusG
+DN  Transcription termination/antitermination factor NusG/nusG
 RQ  1
 EV  IPR001062; TIGR00922;
 --
-SN  pgk
+SN  35
 ID  Phosphoglycerate kinase
+DN  Phosphoglycerate kinase/pgk
 RQ  1
 EV  IPR001576; PF00162;
 --
-SN  pheS
+SN  36
 ID  Phenylalanyl-tRNA synthetase, alpha subunit
+DN  Phenylalanyl-tRNA synthetase, alpha subunit/pheS
 RQ  1
 EV  IPR004529; TIGR00468;
 --
-SN  pheT
+SN  37
 ID  Phenylalanyl-tRNA synthetase, beta subunit
+DN  Phenylalanyl-tRNA synthetase, beta subunit/pheT
 RQ  1
 EV  IPR004531; TIGR00471;
 EV  IPR004532; TIGR00472;
 --
-SN  prfA
+SN  38
 ID  Peptide chain release factor 1
+DN  Peptide chain release factor 1/prfA
 RQ  1
 EV  IPR004373; TIGR00019;
 --
-SN  proS
+SN  39
 ID  Prolyl-tRNA synthetase
+DN  Prolyl-tRNA synthetase/proS
 RQ  1
 EV  IPR004499; TIGR00408;
 EV  IPR004500; TIGR00409;
 --
-SN  pyrG
+SN  40
 ID  CTP synthase
+DN  CTP synthase/pyrG
 RQ  1
 EV  IPR004468; TIGR00337;
 --
-SN  recA
+SN  41
 ID  RecA protein
+DN  RecA protein/recA
 RQ  1
 EV  IPR013765; TIGR02012;
 --
-SN  rfbA
+SN  42
 ID  Ribosome-binding factor A
+DN  Ribosome-binding factor A/rfbA
 RQ  1
 EV  IPR000238; TIGR00082;
 --
-SN  rnc
+SN  43
 ID  Ribonuclease III
+DN  Ribonuclease III/rnc
 RQ  1
 EV  IPR011907; TIGR02191;
 --
-SN  rplA
+SN  44
 ID  Ribosomal protein L1
+DN  Ribosomal protein L1/rplA
 RQ  1
 EV  IPR005878; TIGR01169;
 --
-SN  rplB
+SN  45
 ID  Ribosomal protein L2
+DN  Ribosomal protein L2/rplB
 RQ  1
 EV  IPR005880; TIGR01171;
 --
-SN  rplC
+SN  46
 ID  Ribosomal protein L3
+DN  Ribosomal protein L3/rplC
 RQ  1
 EV  IPR000597; PF00297;
 --
-SN  rplD
+SN  47
 ID  Ribosomal protein L4
+DN  Ribosomal protein L4/rplD
 RQ  1
 EV  IPR002136; PF00573;
 --
-SN  rplE
+SN  48
 ID  Ribosomal protein L5
+DN  Ribosomal protein L5/rplE
 RQ  1
 EV  IPR031310; PF00281;
 --
-SN  rplF
+SN  49
 ID  Ribosomal protein L6
+DN  Ribosomal protein L6/rplF
 RQ  1
 EV  IPR020040; PF00347;
 --
-SN  rplI
+SN  50
 ID  Ribosomal protein L9
+DN  Ribosomal protein L9/rplI
 RQ  1
 EV  IPR020594; TIGR00158;
 --
-SN  rplJ
+SN  51
 ID  Ribosomal protein L10
+DN  Ribosomal protein L10/rplJ
 RQ  1
 EV  IPR001790; PF00466;
 --
-SN  rplK
+SN  52
 ID  Ribosomal protein L11
+DN  Ribosomal protein L11/rplK
 RQ  1
 EV  IPR006519; TIGR01632;
 --
-SN  rplL
+SN  53
 ID  Ribosomal protein L7/L12
+DN  Ribosomal protein L7/L12/rplL
 RQ  1
 EV  IPR000206; TIGR00855;
 --
-SN  rplM
+SN  54
 ID  Ribosomal protein L13
+DN  Ribosomal protein L13/rplM
 RQ  1
 EV  IPR005823; TIGR01066;
 --
-SN  rplN
+SN  55
 ID  Ribosomal protein L14
+DN  Ribosomal protein L14/rplN
 RQ  1
 EV  IPR005745; TIGR01067;
 --
-SN  rplO
+SN  56
 ID  Ribosomal protein L15
+DN  Ribosomal protein L15/rplO
 RQ  1
 EV  IPR005749; TIGR01071;
 --
-SN  rplP
+SN  57
 ID  Ribosomal protein L16
+DN  Ribosomal protein L16/rplP
 RQ  1
 EV  IPR000114; TIGR01164;
 --
-SN  rplQ
+SN  58
 ID  Ribosomal protein L17
+DN  Ribosomal protein L17/rplQ
 RQ  1
 EV  IPR000456; TIGR00059;
 --
-SN  rplR
+SN  59
 ID  Ribosomal protein L18
+DN  Ribosomal protein L18/rplR
 RQ  1
 EV  IPR004389; TIGR00060;
 --
-SN  rplS
+SN  60
 ID  Ribosomal protein L19
+DN  Ribosomal protein L19/rplS
 RQ  1
 EV  IPR001857; TIGR01024;
 --
-SN  rplT
+SN  61
 ID  Ribosomal protein L20
+DN  Ribosomal protein L20/rplT
 RQ  1
 EV  IPR005813; TIGR01032;
 --
-SN  rplU
+SN  62
 ID  Ribosomal protein L21
+DN  Ribosomal protein L21/rplU
 RQ  1
 EV  IPR001787; TIGR00061;
 --
-SN  rplV
+SN  63
 ID  Ribosomal protein L22
+DN  Ribosomal protein L22/rplV
 RQ  1
 EV  IPR005727; TIGR01044;
 --
-SN  rplW
+SN  64
 ID  Ribosomal protein L23
+DN  Ribosomal protein L23/rplW
 RQ  1
 EV  IPR013025; PF00276;
 --
-SN  rplX
+SN  65
 ID  Ribosomal protein L24
+DN  Ribosomal protein L24/rplX
 RQ  1
 EV  IPR003256; TIGR01079;
 --
-SN  rpmA
+SN  66
 ID  Ribosomal protein L27
+DN  Ribosomal protein L27/rpmA
 RQ  1
 EV  IPR001684; TIGR00062;
 --
-SN  rpmB
+SN  67
 ID  Ribosomal protein L28
+DN  Ribosomal protein L28/rpmB
 RQ  1
 EV  IPR001383; TIGR00009;
 --
-SN  rpmC
+SN  68
 ID  Ribosomal protein L29
+DN  Ribosomal protein L29/rpmC
 RQ  1
 EV  IPR001854; TIGR00012;
 --
-SN  rpmF
+SN  69
 ID  Ribosomal protein L32
+DN  Ribosomal protein L32/rpmF
 RQ  1
 EV  IPR002677; TIGR01031;
 --
-SN  rpmH
+SN  70
 ID  Ribosomal protein L34
+DN  Ribosomal protein L34/rpmH
 RQ  1
 EV  IPR000271; TIGR01030;
 --
-SN  rpmI
+SN  71
 ID  Ribosomal protein L35
+DN  Ribosomal protein L35/rpmI
 RQ  1
 EV  IPR001706; TIGR00001;
 --
-SN  rpoA
+SN  72
 ID  DNA-directed RNA polymerase, alpha subunit
+DN  DNA-directed RNA polymerase, alpha subunit/rpoA
 RQ  1
 EV  IPR011773; TIGR02027;
 --
-SN  rpoB
+SN  73
 ID  DNA-directed RNA polymerase, beta subunit
+DN  DNA-directed RNA polymerase, beta subunit/rpoB
 RQ  1
 EV  IPR010243; TIGR02013;
 --
-SN  rpoC
+SN  74
 ID  DNA-directed RNA polymerase, beta' or beta'' subunit
+DN  DNA-directed RNA polymerase, beta' or beta'' subunit/rpoC
 RQ  1
 EV  IPR012754; TIGR02386;
 EV  IPR012755; TIGR02387;
 --
-SN  rpsB
+SN  75
 ID  Ribosomal protein S2
+DN  Ribosomal protein S2/rpsB
 RQ  1
 EV  IPR005706; TIGR01011;
 --
-SN  rpsC
+SN  76
 ID  Ribosomal protein S3
+DN  Ribosomal protein S3/rpsC
 RQ  1
 EV  IPR005704; TIGR01009;
 --
-SN  rpsD
+SN  77
 ID  Ribosomal protein S4
+DN  Ribosomal protein S4/rpsD
 RQ  1
 EV  IPR005709; TIGR01017;
 --
-SN  rpsE
+SN  78
 ID  Ribosomal protein S5
+DN  Ribosomal protein S5/rpsE
 RQ  1
 EV  IPR005712; TIGR01021;
 --
-SN  rpsF
+SN  79
 ID  Ribosomal protein S6
+DN  Ribosomal protein S6/rpsF
 RQ  1
 EV  IPR000529; TIGR00166;
 --
-SN  rpsG
+SN  80
 ID  Ribosomal protein S7
+DN  Ribosomal protein S7/rpsG
 RQ  1
 EV  IPR005717; TIGR01029;
 --
-SN  rpsH
+SN  81
 ID  Ribosomal protein S8
+DN  Ribosomal protein S8/rpsH
 RQ  1
 EV  IPR000630; PF00410;
 --
-SN  rpsI
+SN  82
 ID  Ribosomal protein S9
+DN  Ribosomal protein S9/rpsI
 RQ  1
 EV  IPR000754; PF00380;
 --
-SN  rpsJ
+SN  83
 ID  Ribosomal protein S10
+DN  Ribosomal protein S10/rpsJ
 RQ  1
 EV  IPR001848; TIGR01049;
 --
-SN  rpsK
+SN  84
 ID  Ribosomal protein S11
+DN  Ribosomal protein S11/rpsK
 RQ  1
 EV  IPR001971; PF00411;
 --
-SN  rpsL
+SN  85
 ID  Ribosomal protein S12
+DN  Ribosomal protein S12/rpsL
 RQ  1
 EV  IPR005679; TIGR00981;
 --
-SN  rpsM
+SN  86
 ID  Ribosomal protein S13
+DN  Ribosomal protein S13/rpsM
 RQ  1
 EV  IPR001892; PF00416;
 --
-SN  rpsO
+SN  87
 ID  Ribosomal protein S15
+DN  Ribosomal protein S15/rpsO
 RQ  1
 EV  IPR005290; TIGR00952;
 --
-SN  rpsP
+SN  88
 ID  Ribosomal protein S16
+DN  Ribosomal protein S16/rpsP
 RQ  1
 EV  IPR000307; TIGR00002;
 --
-SN  rpsQ
+SN  89
 ID  Ribosomal protein S17
+DN  Ribosomal protein S17/rpsQ
 RQ  1
 EV  IPR000266; PF00366;
 --
-SN  rpsR
+SN  90
 ID  Ribosomal protein S18
+DN  Ribosomal protein S18/rpsR
 RQ  1
 EV  IPR001648; TIGR00165;
 --
-SN  rpsS
+SN  91
 ID  Ribosomal protein S19
+DN  Ribosomal protein S19/rpsS
 RQ  1
 EV  IPR005732; TIGR01050;
 --
-SN  rpsT
+SN  92
 ID  Ribosomal protein S20
+DN  Ribosomal protein S20/rpsT
 RQ  1
 EV  IPR002583; TIGR00029;
 --
-SN  secA
+SN  93
 ID  Preprotein translocase, SecA subunit
+DN  Preprotein translocase, SecA subunit/secA
 RQ  1
 EV  IPR000185; TIGR00963;
 --
-SN  secE
+SN  94
 ID  Preprotein translocase, SecE subunit
+DN  Preprotein translocase, SecE subunit/secE
 RQ  1
 EV  IPR005807; TIGR00964;
 --
-SN  secG
+SN  95
 ID  Preprotein translocase, SecG subunit
+DN  Preprotein translocase, SecG subunit/secG
 RQ  1
 EV  IPR004692; TIGR00810;
 --
-SN  secY
+SN  96
 ID  Preprotein translocase, SecY subunit
+DN  Preprotein translocase, SecY subunit/secY
 RQ  1
 EV  IPR002208; TIGR00967;
 --
-SN  serS
+SN  97
 ID  Seryl-tRNA synthetase
+DN  Seryl-tRNA synthetase/serS
 RQ  1
 EV  IPR002317; TIGR00414;
 --
-SN  smpB
+SN  98
 ID  SmpB protein
+DN  SmpB protein/smpB
 RQ  1
 EV  IPR000037; TIGR00086;
 --
-SN  thrS
+SN  99
 ID  Threonyl-tRNA synthetase
+DN  Threonyl-tRNA synthetase/thrS
 RQ  1
 EV  IPR002320; TIGR00418;
 --
-SN  tig
+SN  100
 ID  Trigger factor
+DN  Trigger factor/tig
 RQ  1
 EV  IPR005215; TIGR00115;
 --
-SN  tilS
+SN  101
 ID  tRNA(Ile)-lysidine synthetase
+DN  tRNA(Ile)-lysidine synthetase/tilS
 RQ  1
 EV  IPR012795; TIGR02432;
 --
-SN  tsaD
+SN  102
 ID  tRNA threonylcarbamoyladenosine modification protein TsaD
+DN  tRNA threonylcarbamoyladenosine modification protein TsaD/tsaD
 RQ  1
 EV  IPR022450; TIGR03723;
 --
-SN  tsf
+SN  103
 ID  Translation elongation factor Ts
+DN  Translation elongation factor Ts/tsf
 RQ  1
 EV  IPR001816; TIGR00116;
 --
-SN  tyrS
+SN  104
 ID  Tyrosyl-tRNA synthetase
+DN  Tyrosyl-tRNA synthetase/tyrS
 RQ  1
 EV  IPR002307; TIGR00234;
 --
-SN  uvrB
+SN  105
 ID  Excinuclease ABC, B subunit
+DN  Excinuclease ABC, B subunit/uvrB
 RQ  1
 EV  IPR004807; TIGR00631;
 --
-SN  valS
+SN  106
 ID  Valyl-tRNA synthetase
+DN  Valyl-tRNA synthetase/valS
 RQ  1
 EV  IPR002303; TIGR00422;
 --
-SN  ybeY
+SN  107
 ID  16S rRNA maturation RNase YgeY
+DN  16S rRNA maturation RNase YgeY/ybeY
 RQ  1
 EV  IPR002036; TIGR00043;
 --
-SN  ychF
+SN  108
 ID  GTP-binding protein YchF
+DN  GTP-binding protein YchF/ychF
 RQ  1
 EV  IPR004396; TIGR00092;
 //

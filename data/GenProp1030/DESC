@@ -16,33 +16,40 @@ CC  the biosynthesis. The expectation, however is that there should be
 CC  three distinct glycosytransferases and genes for the biosynthesis of
 CC  GDP-D-mannose and a nucleotide-activated L-6-deoxy-talose. 
 --
-SN  6dLTal
+SN  1
 ID  Source of dTDP-6-deoxy-L-talose
+DN  Source of dTDP-6-deoxy-L-talose/6dLTal
 RQ  1
 EV  GenProp1033;
 --
-SN  GT-1
+SN  2
 ID  O88(Ec)-associated glycosyltransferase GT-1
+DN  O88(Ec)-associated glycosyltransferase GT-1/GT-1
 RQ  1
 --
-SN  GT-2
+SN  3
 ID  O88(Ec)-associated glycosyltransferase GT-2
+DN  O88(Ec)-associated glycosyltransferase GT-2/GT-2
 RQ  1
 --
-SN  GT-3
+SN  4
 ID  O88(Ec)-associated glycosyltransferase GT-3
+DN  O88(Ec)-associated glycosyltransferase GT-3/GT-3
 RQ  1
 --
-SN  dMan
+SN  5
 ID  Source of GDP-D-mannose
+DN  Source of GDP-D-mannose/dMan
 RQ  1
 EV  GenProp1017;
 --
-SN  wzx88
+SN  6
 ID  O88(Ec)-antigen specific transporter (flippase) wzx
+DN  O88(Ec)-antigen specific transporter (flippase) wzx/wzx88
 RQ  1
 --
-SN  wzy88
+SN  7
 ID  O88(Ec)-antigen specific polymerase wzy
+DN  O88(Ec)-antigen specific polymerase wzy/wzy88
 RQ  1
 //

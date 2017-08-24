@@ -12,17 +12,20 @@ CC  is predicted that some protein sorting and processing enzyme recognizes
 CC  and cleaves the C-terminal region. The unknown putative sorting enzyme
 CC  may act as a transpeptidase. 
 --
-SN  CGP_sort
+SN  1
 ID  Unknown sorting enzyme for CGP-CTERM domain
+DN  Unknown sorting enzyme for CGP-CTERM domain/CGP_sort
 RQ  0
 --
-SN  CGP_term
+SN  2
 ID  CGP-CTERM domain
+DN  CGP-CTERM domain/CGP_term
 RQ  1
 EV  IPR027552; TIGR04288;
 --
-SN  GCP_A
+SN  3
 ID  Cys-rich CGP-CTERM protein
+DN  Cys-rich CGP-CTERM protein/GCP_A
 RQ  0
 EV  IPR027556; TIGR04292;
 //

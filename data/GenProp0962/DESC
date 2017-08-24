@@ -23,20 +23,23 @@ CC  the methanobactin system.
 **  See TIGR04039 plus TIGR04052 = GenProp0940  metallo-mystery pair. See
 **  TIGR04061 = AZL_007950_fam.
 --
-SN  mbnA
+SN  1
 ID  Methanobactin precursor, Mb-OB3b family
+DN  Methanobactin precursor, Mb-OB3b family/mbnA
 RQ  1
 EV  IPR023963; TIGR04071;
 TG  GO:0015677;
 --
-SN  mbnB
+SN  2
 ID  Methanobactin biosynthesis cassette protein MbnB
+DN  Methanobactin biosynthesis cassette protein MbnB/mbnB
 RQ  1
 EV  IPR026431; TIGR04159;
 TG  GO:0015677;
 --
-SN  mbnC
+SN  3
 ID  Methanobactin biosynthesis cassette protein MbnC
+DN  Methanobactin biosynthesis cassette protein MbnC/mbnC
 RQ  1
 EV  IPR026434; TIGR04160;
 TG  GO:0015677;

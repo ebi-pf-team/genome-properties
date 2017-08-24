@@ -23,23 +23,27 @@ CC  Anaearobic Sulfatase and Mycofactocin maturases) homology 4Fe4S binding
 CC  site (see TIGR04085) is invariant. This system occurs, so far, only in
 CC  the Bacteroidales.
 --
-SN  CFB_gly
+SN  1
 ID  Glycosyltransferase, GG-Bacteroidales peptide system
+DN  Glycosyltransferase, GG-Bacteroidales peptide system/CFB_gly
 RQ  1
 EV  IPR026419; TIGR04157;
 --
-SN  CFB_mod
+SN  2
 ID  Peptide-modifying radical SAM enzyme, GG-Bacteroidales family
+DN  Peptide-modifying radical SAM enzyme, GG-Bacteroidales family/CFB_mod
 RQ  1
 EV  IPR026407; TIGR04148;
 --
-SN  CFB_pep
+SN  3
 ID  Natural product precursor, GG-Bacteroidales family
+DN  Natural product precursor, GG-Bacteroidales family/CFB_pep
 RQ  1
 EV  IPR026408; TIGR04149;
 --
-SN  CFB_pse
+SN  4
 ID  Pseudo-rSAM protein, GG-Bacteroidales system
+DN  Pseudo-rSAM protein, GG-Bacteroidales system/CFB_pse
 RQ  1
 EV  IPR026418; TIGR04150;
 //

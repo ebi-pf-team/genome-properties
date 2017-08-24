@@ -9,18 +9,21 @@ CC  domain peptide maturase, and neighboring cleavage/export proteins.
 **  Closest property is the FxS property, which this one was built to
 **  support.
 --
-SN  XyeA
+SN  1
 ID  XYE system RiPP precursor XyeA
+DN  XYE system RiPP precursor XyeA/XyeA
 RQ  1
 EV  IPR030990; TIGR04495;
 --
-SN  XyeB
+SN  2
 ID  XYE system radical SAM/SPASM maturase
+DN  XYE system radical SAM/SPASM maturase/XyeB
 RQ  1
 EV  IPR030989; TIGR04496;
 --
-SN  XyeT
+SN  3
 ID  XYE system cleavage/export protein
+DN  XYE system cleavage/export protein/XyeT
 RQ  0
 EV  IPR005074; PF03412;
 //

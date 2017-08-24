@@ -9,23 +9,23 @@ CC  which is used in the biosynthesis of siroheme, coenzyme B12,
 CC  protoporphyrin IX and heme. Protoporphyrin IX is used in the creation
 CC  of chlorophyll.
 --
-SN  hemB
+SN  1
 ID  Delta-aminolevulinic acid dehydratase
-DN  Delta-aminolevulinic acid dehydratase
+DN  Delta-aminolevulinic acid dehydratase/hemB
 RQ  1
 EV  IPR001731; PF00490; sufficient;
 TG  GO:0006779;
 --
-SN  hemC
+SN  2
 ID  Porphobilinogen deaminase
-DN  Porphobilinogen deaminase
+DN  Porphobilinogen deaminase/hemC
 RQ  1
 EV  IPR000860; TIGR00212; sufficient;
 TG  GO:0006779;
 --
-SN  hemD
+SN  3
 ID  Uroporphyrinogen-III synthase
-DN  Uroporphyrinogen-III synthase
+DN  Uroporphyrinogen-III synthase/hemD
 RQ  1
 EV  IPR003754; PF02602; sufficient;
 TG  GO:0006779;

@@ -6,28 +6,32 @@ TH  0
 CC  This pathway converts D-glucarate to alpha-ketoglutarate via
 CC  2-oxoglutarate.
 --
-SN  GudD
+SN  1
 ID  Glucarate dehydratase (4.2.1.40)
+DN  Glucarate dehydratase (4.2.1.40)/GudD
 RQ  1
 EV  IPR017653; TIGR03247; sufficient;
 TG  GO:0019394;
 --
-SN  KDGDH
+SN  2
 ID  5-dehydro-4-deoxyglucarate dehydratase (4.2.1.41)
+DN  5-dehydro-4-deoxyglucarate dehydratase (4.2.1.41)/KDGDH
 RQ  1
 EV  IPRXXXX; PF00701;
 TG  GO:0019394;
 EV  IPR017655; TIGR03249; sufficient;
 TG  GO:0019394;
 --
-SN  KGSADH
+SN  3
 ID  2-oxoglutarate semialdehyde dehydrogenase (1.2.1.26)
+DN  2-oxoglutarate semialdehyde dehydrogenase (1.2.1.26)/KGSADH
 RQ  1
 EV  IPRXXXX; PF00171;
 TG  GO:0019394;
 --
-SN  transp
+SN  4
 ID  D-glucarate transorter, putative
+DN  D-glucarate transorter, putative/transp
 RQ  0
 EV  IPRXXXX; TIGR00893;
 TG  GO:0019394;

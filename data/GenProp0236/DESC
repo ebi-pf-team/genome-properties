@@ -16,20 +16,21 @@ CC  phosphites); it should be found in association with either the C-P
 CC  lysase membrane complex or specific phoshonatases, but not all of the
 CC  latter are known.
 --
-SN  PhnC
+SN  1
 ID  ABC transporter phosphonates ATP-binding protein
-DN  Phosphonate ABC transporter, ATP-binding protein
+DN  Phosphonate ABC transporter, ATP-binding protein/PhnC
 RQ  1
 EV  IPRXXXX; TIGR02315;
 --
-SN  PhnD
+SN  2
 ID  ABC transporter phosphonates-binding protein
+DN  ABC transporter phosphonates-binding protein/PhnD
 RQ  1
 EV  IPR017797; TIGR03431;
 --
-SN  PhnE
+SN  3
 ID  ABC transporter phosphonates permease
-DN  Phosphonate ABC transporter, permease protein
+DN  Phosphonate ABC transporter, permease protein/PhnE
 RQ  1
 EV  IPRXXXX; TIGR01097;
 //

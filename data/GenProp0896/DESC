@@ -15,18 +15,21 @@ CC  (TIGR03554).  Based on these observations we propose that this is an
 CC  f420-0 (that is, F420 lacking only the polyglutamate tail) ABC
 CC  transporter.
 --
-SN  ATPase
+SN  1
 ID  Proposed F420-0 transporter ATP-binding protein
+DN  Proposed F420-0 transporter ATP-binding protein/ATPase
 RQ  1
 EV  IPR022286; TIGR03873;
 --
-SN  peri
+SN  2
 ID  Proposed F420-0 periplasmic binding protein
+DN  Proposed F420-0 periplasmic binding protein/peri
 RQ  1
 EV  IPR022287; TIGR03868;
 --
-SN  perm
+SN  3
 ID  Proposed F420-0 permease
+DN  Proposed F420-0 permease/perm
 RQ  1
 EV  IPR022410; TIGR03869;
 //

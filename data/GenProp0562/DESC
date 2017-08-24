@@ -20,18 +20,21 @@ CC  two essential enzymes of this pathway both have broad specificities,
 CC  the pairing in operons in so many genomes demonstrates the recurring
 CC  importance of formaldehyde detoxification.
 --
-SN  add_GSH
+SN  1
 ID  S-(hydroxymethyl)glutathione synthase
+DN  S-(hydroxymethyl)glutathione synthase/add_GSH
 RQ  0
 EV  IPR014185; TIGR02820; sufficient;
 --
-SN  cleave
+SN  2
 ID  S-formylglutathione hydrolase
+DN  S-formylglutathione hydrolase/cleave
 RQ  1
 EV  IPR014186; TIGR02821; sufficient;
 --
-SN  oxidize
+SN  3
 ID  S-(hydroxymethyl)glutathione dehydrogenase
+DN  S-(hydroxymethyl)glutathione dehydrogenase/oxidize
 RQ  1
 EV  IPR014183; TIGR02818; sufficient;
 //

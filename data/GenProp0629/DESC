@@ -39,50 +39,60 @@ CC  synthetic direction [1], although it also has similarities to the V1/V0
 CC  (V-type, vacuolar) ATPase in eucarya which hydrolyzes ATP in order to
 CC  acidify cellular compartments.
 --
-SN  AhaA
+SN  1
 ID  A1 stalk complex, A subunit
+DN  A1 stalk complex, A subunit/AhaA
 RQ  1
 EV  IPR005726; TIGR01043; sufficient;
 --
-SN  AhaB
+SN  2
 ID  A1 stalk complex, B subunit
+DN  A1 stalk complex, B subunit/AhaB
 RQ  1
 EV  IPR005724; TIGR01041; sufficient;
 --
-SN  AhaC
+SN  3
 ID  A1 stalk complex, C subunit
+DN  A1 stalk complex, C subunit/AhaC
 RQ  1
 EV  IPR014272; TIGR02923; sufficient;
 --
-SN  AhaD
+SN  4
 ID  A1 stalk complex, D subunit
+DN  A1 stalk complex, D subunit/AhaD
 RQ  1
 EV  IPR002699; TIGR00309; sufficient;
 --
-SN  AhaE
+SN  5
 ID  A1 stalk complex, E subunit
+DN  A1 stalk complex, E subunit/AhaE
 RQ  1
 EV  IPR002842; PF01991; sufficient;
 --
-SN  AhaF
+SN  6
 ID  A1 stalk complex, F subunit
+DN  A1 stalk complex, F subunit/AhaF
 RQ  1
 EV  IPR008218; PF01990; sufficient;
 --
-SN  AhaG
+SN  7
 ID  A1 stalk complex, G subunit
+DN  A1 stalk complex, G subunit/AhaG
 RQ  0
 --
-SN  AhaH
+SN  8
 ID  H subunit
+DN  H subunit/AhaH
 RQ  0
 EV  IPR014275; TIGR02926; sufficient;
 --
-SN  AhaI
+SN  9
 ID  A0 membrane complex, I subunit
+DN  A0 membrane complex, I subunit/AhaI
 RQ  0
 --
-SN  AhaK
+SN  10
 ID  A0 membrane complex, K subunit
+DN  A0 membrane complex, K subunit/AhaK
 RQ  0
 //

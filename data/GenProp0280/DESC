@@ -19,13 +19,15 @@ CC  B12 biosynthesis genes, 3) upstream proximity of B12 transcriptional
 CC  regulatory sites, 4) the absence of other known cobalt import systems
 CC  and 5) the obligate co-localization of CbtA and CbtB.
 --
-SN  CbtA
+SN  1
 ID  Cobalt transporter subunit CbtA
+DN  Cobalt transporter subunit CbtA/CbtA
 RQ  1
 EV  IPR012666; TIGR02458; sufficient;
 --
-SN  CbtB
+SN  2
 ID  Cobalt transporter subunit CbtB
+DN  Cobalt transporter subunit CbtB/CbtB
 RQ  1
 EV  IPR012667; TIGR02459; sufficient;
 //

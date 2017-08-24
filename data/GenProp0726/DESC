@@ -42,58 +42,69 @@ CC  cofactor enzymes.
 **  Should be re-evaluated using new HMP reference genomes, and should be
 **  split into two properties.
 --
-SN  23_DAP
+SN  1
 ID  Diaminopropionate ammonia-lyase
+DN  Diaminopropionate ammonia-lyase/23_DAP
 RQ  0
 EV  IPR019871; TIGR03528;
 --
-SN  Se_AA
+SN  2
 ID  Selenium-dependent molybdenum hydroxylase, protein 1
+DN  Selenium-dependent molybdenum hydroxylase, protein 1/Se_AA
 RQ  1
 EV  IPR017695; TIGR03309;
 --
-SN  Se_CC
+SN  3
 ID  Selenium-dependent molybdenum hydroxylase, protein 3
+DN  Selenium-dependent molybdenum hydroxylase, protein 3/Se_CC
 RQ  1
 EV  IPR017587; TIGR03172;
 --
-SN  Se_MocA
+SN  4
 ID  Molybdenum cofactor cytidylyltransferase
+DN  Molybdenum cofactor cytidylyltransferase/Se_MocA
 RQ  1
 EV  IPR017696; TIGR03310;
 --
-SN  Se_SelD
+SN  5
 ID  Selenide, water dikinase
+DN  Selenide, water dikinase/Se_SelD
 RQ  0
 EV  IPR004536; TIGR00476;
 --
-SN  Se_YedF
+SN  6
 ID  Selenium metabolism protein YedF
+DN  Selenium metabolism protein YedF/Se_YedF
 RQ  0
 EV  IPR019870; TIGR03527;
 --
-SN  Se_enz1
+SN  7
 ID  Selenium-dependent xanthine dehydrogenase
+DN  Selenium-dependent xanthine dehydrogenase/Se_enz1
 RQ  0
 EV  IPR017697; TIGR03311;
 --
-SN  Se_enz2
+SN  8
 ID  Probable selenate reductase, FAD-binding subunit
+DN  Probable selenate reductase, FAD-binding subunit/Se_enz2
 RQ  0
 EV  IPR017698; TIGR03312;
 --
-SN  Se_enz3
+SN  9
 ID  Probable selenate reductase, molybdenum subunit
+DN  Probable selenate reductase, molybdenum subunit/Se_enz3
 RQ  0
 EV  IPR017699; TIGR03313;
 --
-SN  Se_enz4
+SN  10
 ID  Probable selenate reductase, YgfK subunit
+DN  Probable selenate reductase, YgfK subunit/Se_enz4
 RQ  0
 EV  IPR017701; TIGR03315;
 --
-SN  Se_prot
+SN  11
 ID  Putative selenium metabolism hydrolase
+DN  Putative selenium metabolism hydrolase/Se_prot
 RQ  0
 EV  IPR017706; TIGR03526;
 //

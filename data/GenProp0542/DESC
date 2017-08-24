@@ -62,38 +62,45 @@ CC  contains a variable number of beta-propellar repeats.
 **  common neighboring radical SAM may be a QueE, given TIGR03963 is top
 **  miss. So, removing the rSAM HMM-CLUST.
 --
-SN  Pal
+SN  1
 ID  Tol-pal system protein Pal (OprL)
+DN  Tol-pal system protein Pal (OprL)/Pal
 RQ  1
 EV  IPR014169; TIGR02802; sufficient;
 --
-SN  TolA
+SN  2
 ID  TolA
+DN  TolA/TolA
 RQ  1
 EV  IPR014161; TIGR02794; sufficient;
 --
-SN  TolB
+SN  3
 ID  TolB
+DN  TolB/TolB
 RQ  1
 EV  IPR014167; TIGR02800; sufficient;
 --
-SN  TolQ
+SN  4
 ID  TolQ
+DN  TolQ/TolQ
 RQ  1
 EV  IPR014163; TIGR02796; sufficient;
 --
-SN  TolR
+SN  5
 ID  TolR
+DN  TolR/TolR
 RQ  1
 EV  IPR014168; TIGR02801; sufficient;
 --
-SN  YbgC
+SN  6
 ID  Tol-pal region thioesterase YbgC
+DN  Tol-pal region thioesterase YbgC/YbgC
 RQ  0
 EV  IPR014166; TIGR02799; sufficient;
 --
-SN  YbgF
+SN  7
 ID  Tol-pal region protein YbgF
+DN  Tol-pal region protein YbgF/YbgF
 RQ  0
 EV  IPR014162; TIGR02795; sufficient;
 //

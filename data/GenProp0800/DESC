@@ -16,119 +16,142 @@ CC  than 5% of genomes.  An evaluation of 311 publicly available bacterial
 CC  genomes found greater than 95% having at least one copy of each of
 CC  these genes. 
 --
-SN  GroES
+SN  1
 ID  Chaperonin GroS
+DN  Chaperonin GroS/GroES
 RQ  1
 EV  IPR020818; PF00166;
 --
-SN  atpA
+SN  2
 ID  ATP synthase F1, alpha subunit
+DN  ATP synthase F1, alpha subunit/atpA
 RQ  1
 EV  IPR005294; TIGR00962;
 --
-SN  dnaB
+SN  3
 ID  Replicative DNA helicase
+DN  Replicative DNA helicase/dnaB
 RQ  1
 EV  IPR007692; TIGR00665;
 --
-SN  dnaE
+SN  4
 ID  DNA polymerase III, alpha subunit
+DN  DNA polymerase III, alpha subunit/dnaE
 RQ  1
 EV  IPR004805; TIGR00594;
 --
-SN  efp
+SN  5
 ID  Translation elongation factor P
+DN  Translation elongation factor P/efp
 RQ  1
 EV  IPR011768; TIGR00038;
 --
-SN  eno
+SN  6
 ID  Phosphopyruvate hydratase, enolase
+DN  Phosphopyruvate hydratase, enolase/eno
 RQ  1
 EV  IPR000941; TIGR01060;
 --
-SN  fusA
+SN  7
 ID  Translation elongation factor G
+DN  Translation elongation factor G/fusA
 RQ  1
 EV  IPR004540; TIGR00484;
 --
-SN  gltX
+SN  8
 ID  Glutamyl-tRNA synthetase
+DN  Glutamyl-tRNA synthetase/gltX
 RQ  1
 EV  IPR004527; TIGR00464;
 --
-SN  glyA
+SN  9
 ID  Serine hydroxymethyltransferase
+DN  Serine hydroxymethyltransferase/glyA
 RQ  1
 EV  IPR001085; PF00464;
 --
-SN  groEL
+SN  10
 ID  Class I heat shock protein (TCP-1/cpn60 chaperonin family)
+DN  Class I heat shock protein (TCP-1/cpn60 chaperonin family)/groEL
 RQ  1
 EV  IPR002423; PF00118;
 --
-SN  hflB
+SN  11
 ID  ATP-dependent metallopeptidase HflB
+DN  ATP-dependent metallopeptidase HflB/hflB
 RQ  1
 EV  IPR005936; TIGR01241;
 --
-SN  infA
+SN  12
 ID  Translation initiation factor IF-1
+DN  Translation initiation factor IF-1/infA
 RQ  1
 EV  IPR004368; TIGR00008;
 --
-SN  lysS
+SN  13
 ID  Lysyl-tRNA synthetase
+DN  Lysyl-tRNA synthetase/lysS
 RQ  1
 EV  IPR002904; TIGR00467;
 EV  IPR002313; TIGR00499;
 --
-SN  metK
+SN  14
 ID  Methionine adenosyltransferase
+DN  Methionine adenosyltransferase/metK
 RQ  1
 EV  IPR002133; TIGR01034;
 --
-SN  prsA
+SN  15
 ID  Ribose-phosphate diphosphokinase
+DN  Ribose-phosphate diphosphokinase/prsA
 RQ  1
 EV  IPR005946; TIGR01251;
 --
-SN  rpmE
+SN  16
 ID  Ribosomal protein L31
+DN  Ribosomal protein L31/rpmE
 RQ  1
 EV  IPR002150; TIGR00105;
 --
-SN  rpmG
+SN  17
 ID  Ribosomal protein L33
+DN  Ribosomal protein L33/rpmG
 RQ  1
 EV  IPR001705; TIGR01023;
 --
-SN  rpsN
+SN  18
 ID  Ribosomal protein S14
+DN  Ribosomal protein S14/rpsN
 RQ  1
 EV  IPR001209; PF00253;
 --
-SN  ssb
+SN  19
 ID  Single-strand binding protein
+DN  Single-strand binding protein/ssb
 RQ  1
 EV  IPR011344; TIGR00621;
 --
-SN  trpS
+SN  20
 ID  Tryptophanyl-tRNA synthetase
+DN  Tryptophanyl-tRNA synthetase/trpS
 RQ  1
 EV  IPR002306; TIGR00233;
 --
-SN  trxA
+SN  21
 ID  Thioredoxin
+DN  Thioredoxin/trxA
 RQ  1
 EV  IPR005746; TIGR01068;
 --
-SN  tufA
+SN  22
 ID  Translation elongation factor Tu
+DN  Translation elongation factor Tu/tufA
 RQ  1
 EV  IPR004541; TIGR00485;
 --
-SN  yidC
+SN  23
 ID  Membrane protein insertase, YidC/Oxa1 family
+DN  Membrane protein insertase, YidC/Oxa1 family/yidC
 RQ  1
 EV  IPR028055; TIGR03592;
 //

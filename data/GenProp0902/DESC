@@ -28,26 +28,30 @@ CC  cross-linking.
 **  cysteine tryptophylquinone. The other is intrapeptidyl thioether
 **  cross-links. Radical SAM may be for the latter.
 --
-SN  QH_SAM
+SN  1
 ID  Quinohemoprotein amine dehydrogenase maturation protein
+DN  Quinohemoprotein amine dehydrogenase maturation protein/QH_SAM
 RQ  1
 EV  IPR023886; TIGR03906;
 TG  GO:0043687;
 --
-SN  QH_alp
+SN  2
 ID  Quinohemoprotein amine dehydrogenase, alpha subunit
+DN  Quinohemoprotein amine dehydrogenase, alpha subunit/QH_alp
 RQ  1
 EV  IPR023887; TIGR03908;
 TG  GO:0030058;
 --
-SN  QH_bet
+SN  3
 ID  Quinohemoprotein amine dehydrogenase, beta subunit
+DN  Quinohemoprotein amine dehydrogenase, beta subunit/QH_bet
 RQ  1
 EV  IPR023879; TIGR03907;
 TG  GO:0030058;
 --
-SN  QH_gam
+SN  4
 ID  Quinohemoprotein amine dehydrogenase, gamma subunit
+DN  Quinohemoprotein amine dehydrogenase, gamma subunit/QH_gam
 RQ  1
 EV  IPR015084; PF08992;
 TG  GO:0030058;

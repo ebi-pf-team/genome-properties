@@ -8,18 +8,21 @@ CC  that occurs as alpha2,beta2,gamma2 heterohexamer. This enzyme converts
 CC  4-hydroxybenzoyl-CoA, a metabolite of phenolic compounds, to
 CC  benzoyl-CoA.
 --
-SN  hcrA
+SN  1
 ID  4-hydroxybenzoyl-CoA reductase, alpha subunit
+DN  4-hydroxybenzoyl-CoA reductase, alpha subunit/hcrA
 RQ  1
 EV  IPR017607; TIGR03194; sufficient;
 --
-SN  hcrB
+SN  2
 ID  4-hydroxybenzoyl-CoA reductase, beta subunit
+DN  4-hydroxybenzoyl-CoA reductase, beta subunit/hcrB
 RQ  1
 EV  IPR017608; TIGR03195; sufficient;
 --
-SN  hcrC
+SN  3
 ID  4-hydroxybenzoyl-CoA reductase, gamma subunit
+DN  4-hydroxybenzoyl-CoA reductase, gamma subunit/hcrC
 RQ  1
 EV  IPR017606; TIGR03193; sufficient;
 //

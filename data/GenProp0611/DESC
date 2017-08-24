@@ -18,19 +18,22 @@ CC  gradient. Ions flowing back with this gradient power the ATP-generation
 CC  machines of the cell. Oxygen acts as the terminal electron acceptor for
 CC  the electron-transport chain. 
 --
-SN  ATPsynth
+SN  1
 ID  Generation of a ATP from ADP utilizing a proton (or sodium ion) gradient
+DN  Generation of a ATP from ADP utilizing a proton (or sodium ion) gradient/ATPsynth
 RQ  1
 EV  GenProp0128;
 EV  GenProp0629;
 --
-SN  ETC
+SN  2
 ID  Generation of a proton (or sodium ion) gradient by the coupling of NADH oxidation (to NAD+) with oxygen reduction (to water)
+DN  Generation of a proton (or sodium ion) gradient by the coupling of NADH oxidation (to NAD+) with oxygen reduction (to water)/ETC
 RQ  1
 EV  GenProp0612;
 --
-SN  TCAcyc
+SN  3
 ID  Generation of NADH from NAD+ by oxidation of electron donor molecules
+DN  Generation of NADH from NAD+ by oxidation of electron donor molecules/TCAcyc
 RQ  1
 EV  GenProp0033;
 //

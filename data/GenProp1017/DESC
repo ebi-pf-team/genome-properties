@@ -13,26 +13,30 @@ CC  three acivities, an isomerase, a phosphomutase and a guanylyl
 CC  transferase. The first and last steps are often catalyzed by a fusion
 CC  protein (ManAC).
 --
-SN  gmm
+SN  1
 ID  GDP-mannose mannosyl hydrolase
+DN  GDP-mannose mannosyl hydrolase/gmm
 RQ  0
 EV  IPRXXXX; PF00293;
 --
-SN  manA
+SN  2
 ID  Mannose-6P-isomerase
+DN  Mannose-6P-isomerase/manA
 RQ  1
 EV  IPR006375; TIGR01479;
 --
-SN  manB
+SN  3
 ID  Phosphomannomutase
+DN  Phosphomannomutase/manB
 RQ  1
 EV  IPRXXXX; PF00408;
 EV  IPRXXXX; PF02878;
 EV  IPRXXXX; PF02880;
 EV  IPRXXXX; PF02879;
 --
-SN  manC
+SN  4
 ID  Mannose-1P-guanylyltransferase
+DN  Mannose-1P-guanylyltransferase/manC
 RQ  1
 EV  IPR006375; TIGR01479;
 //

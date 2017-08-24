@@ -27,16 +27,16 @@ CC  the phosphate.
 **  family but turns out to give little info: not clustered, present in
 **  more than half the negatives, and often >= 2 per genome.  
 --
-SN  otsA
+SN  1
 ID  Trehalose-6-phosphate synthase
-DN  Alpha,alpha-trehalose-phosphate synthase (UDP-forming) (EC 2.4.1.15)
+DN  Alpha,alpha-trehalose-phosphate synthase (UDP-forming) (EC 2.4.1.15)/otsA
 RQ  1
 EV  IPR012766; TIGR02400; sufficient;
 TG  GO:0006970;
 --
-SN  otsB
+SN  2
 ID  Trehalose-phosphatase
-DN  Trehalose-phosphatase (EC 3.1.3.12)
+DN  Trehalose-phosphatase (EC 3.1.3.12)/otsB
 RQ  1
 EV  IPR003337; TIGR00685; sufficient;
 TG  GO:0006970;

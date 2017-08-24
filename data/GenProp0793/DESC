@@ -25,36 +25,37 @@ CC  fourth gene product, NeuD is believed to carry out O-acetyltransfers
 CC  onto sialic acid but is often missing and is also found more broadly
 CC  than NeuABC
 --
-SN  NeuA
+SN  1
 ID  CTP:N-acylneuraminate cytidyltransferase (2.7.7.43)
-DN  CTP:N-acylneuraminate cytidyltransferase (EC 2.7.7.43)
+DN  CTP:N-acylneuraminate cytidyltransferase (EC 2.7.7.43)/NeuA
 RQ  1
 EV  IPRXXXX; PF02348;
 TG  GO:0006054;
 --
-SN  NeuB
+SN  2
 ID  N-acetylneuraminate synthase (2.5.1.56)
-DN  N-acetylneuraminate synthase (EC 2.5.1.56)
+DN  N-acetylneuraminate synthase (EC 2.5.1.56)/NeuB
 RQ  1
 EV  IPR020007; TIGR03569;
 TG  GO:0006054;
 --
-SN  NeuC
+SN  3
 ID  UDP-N-acetyl-D-glucosamine 2-epimerase, UDP-hydrolysing
-DN  UDP-N-acetyl-D-glucosamine 2-epimerase (EC 5.1.3.14)
+DN  UDP-N-acetyl-D-glucosamine 2-epimerase (EC 5.1.3.14)/NeuC
 RQ  1
 EV  IPR020004; TIGR03568;
 TG  GO:0006054;
 --
-SN  NeuD
+SN  4
 ID  Sialic acid O-acetyltransferase NeuD
-DN  Sialic acid O-acetyltransferase NeuD
+DN  Sialic acid O-acetyltransferase NeuD/NeuD
 RQ  0
 EV  IPRXXXX; TIGR03570;
 TG  GO:0006054;
 --
-SN  UGlcNAc
+SN  5
 ID  Source of UDP-N-acetyl-D-glucosamine
+DN  Source of UDP-N-acetyl-D-glucosamine/UGlcNAc
 RQ  0
 EV  GenProp0750;
 TG  GO:0006054;

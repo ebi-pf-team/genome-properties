@@ -11,13 +11,15 @@ CC  phenylacetate-CoA oxygenase complex. Unlike systems in which a radical
 CC  SAM/SPASM enzyme acts on a peptide substrate, this system may instead
 CC  act on a(n unknown) small molecule substrate.
 --
-SN  partner
+SN  1
 ID  RSAM-partnered protein, Htur_1727 family
+DN  RSAM-partnered protein, Htur_1727 family/partner
 RQ  1
 EV  IPR023976; TIGR04031;
 --
-SN  r_p_SAM
+SN  2
 ID  Pseudo-rSAM protein/SPASM domain protein
+DN  Pseudo-rSAM protein/SPASM domain protein/r_p_SAM
 RQ  1
 EV  IPR027626; TIGR04347;
 //

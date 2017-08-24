@@ -8,18 +8,21 @@ CC  system, featuring a variant class of exosortase (TIGR04125) and up to
 CC  fifteen target proteins per genome with a PGF-CTERM target sequence
 CC  (TIGR04126).
 --
-SN  CTERM
+SN  1
 ID  PGF_CTERM archaeosortase target domain
+DN  PGF_CTERM archaeosortase target domain/CTERM
 RQ  1
 EV  IPR026371; TIGR04126;
 --
-SN  EXOSORT
+SN  2
 ID  Archaeosortase, PGF_CTERM-specific
+DN  Archaeosortase, PGF_CTERM-specific/EXOSORT
 RQ  1
 EV  IPR014522; TIGR04125;
 --
-SN  OLIGO
+SN  3
 ID  Oligosaccharyl transferase, archaeosortase system-associated
+DN  Oligosaccharyl transferase, archaeosortase system-associated/OLIGO
 RQ  1
 EV  IPR026410; TIGR04154;
 //

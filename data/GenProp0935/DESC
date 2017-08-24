@@ -14,23 +14,27 @@ CC  families, but these additional markers are not yet built.
 **  Built this property because I was interested in ppp2d and a particular
 **  subfamily of LLM (TIGR04028).
 --
-SN  uti_Cter
+SN  1
 ID  Alkylhydroperoxidase domain protein, Avi_7169 family
+DN  Alkylhydroperoxidase domain protein, Avi_7169 family/uti_Cter
 RQ  1
 EV  IPR023923; TIGR04030;
 --
-SN  uti_FMN
+SN  2
 ID  Utilization system luciferase-like monooxygenase
+DN  Utilization system luciferase-like monooxygenase/uti_FMN
 RQ  1
 EV  IPR024003; TIGR04027;
 --
-SN  uti_Nter
+SN  3
 ID  CMD domain protein, Avi_7170 family
+DN  CMD domain protein, Avi_7170 family/uti_Nter
 RQ  1
 EV  IPR023982; TIGR04029;
 --
-SN  uti_SBP
+SN  4
 ID  Utilization system ABC transporter substrate binding protein
+DN  Utilization system ABC transporter substrate binding protein/uti_SBP
 RQ  1
 EV  IPR023920; TIGR04028;
 //

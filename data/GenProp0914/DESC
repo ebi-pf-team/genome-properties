@@ -20,36 +20,42 @@ CC  protein involved in [Fe] hydrogenase maturation.
 **  Look up HymB (see projects 3488, 3489) for examples of proteins found
 **  near FeFe hydrogenase in rare species without hydEFG.
 --
-SN  Fe_larg
+SN  1
 ID  Iron hydrogenase, large subunit
+DN  Iron hydrogenase, large subunit/Fe_larg
 RQ  1
 EV  IPR013352; TIGR02512;
 --
-SN  Fe_smal
+SN  2
 ID  Iron hydrogenase, small subunit
+DN  Iron hydrogenase, small subunit/Fe_smal
 RQ  1
 EV  IPR003149; PF02256;
 --
-SN  hydE
+SN  3
 ID  Hydrogenase accessory rSAM protein HydE
+DN  Hydrogenase accessory rSAM protein HydE/hydE
 RQ  1
 EV  IPR024021; TIGR03956;
 TG  GO:0051188;
 --
-SN  hydF
+SN  4
 ID  Hydrogenase accessory GTP-binding protein HydF
+DN  Hydrogenase accessory GTP-binding protein HydF/hydF
 RQ  1
 EV  IPR023873; TIGR03918;
 TG  GO:0051188;
 --
-SN  hydG
+SN  5
 ID  Hydrogenase accessory rSAM protein HydG
+DN  Hydrogenase accessory rSAM protein HydG/hydG
 RQ  1
 EV  IPR024007; TIGR03955;
 TG  GO:0051188;
 --
-SN  hyd_TF
+SN  6
 ID  Hydrogenase putative regulator
+DN  Hydrogenase putative regulator/hyd_TF
 RQ  0
 EV  IPR023860; TIGR03959;
 //

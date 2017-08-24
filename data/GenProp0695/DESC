@@ -16,13 +16,15 @@ CC  in related Crenarchaeota. It is suggested to work in a system analogous
 CC  to cytochrome bc1.
 **  still needs SoxL2 (working), SoxN.
 --
-SN  cbsA
+SN  1
 ID  Cytochrome b558/566, subunit A
+DN  Cytochrome b558/566, subunit A/cbsA
 RQ  1
 EV  IPR017572; TIGR03154; sufficient;
 --
-SN  cbsB
+SN  2
 ID  Cytochrome b558/566, subunit B
+DN  Cytochrome b558/566, subunit B/cbsB
 RQ  1
 EV  IPR017573; TIGR03155; sufficient;
 //

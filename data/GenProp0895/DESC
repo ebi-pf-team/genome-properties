@@ -18,23 +18,27 @@ CC  likely periplasmic substrate-binding protein. An earlier view
 CC  (PMID:18177365) imagines this system to be an efflux transporter for
 CC  removal of toxic intermediates during catabolism.
 --
-SN  PQQbind
+SN  1
 ID  Alcohol ABC transporter, substrate-binding subunit
+DN  Alcohol ABC transporter, substrate-binding subunit/PQQbind
 RQ  1
 EV  IPR022478; TIGR03863;
 --
-SN  PQQpedA
+SN  2
 ID  Alcohol ABC transporter, beta-propeller protein
+DN  Alcohol ABC transporter, beta-propeller protein/PQQpedA
 RQ  1
 EV  IPR022456; TIGR03866;
 --
-SN  PQQpedB
+SN  3
 ID  Alcohol ABC transporter, ATP-binding subunit
+DN  Alcohol ABC transporter, ATP-binding subunit/PQQpedB
 RQ  1
 EV  IPR022467; TIGR03864;
 --
-SN  PQQpedC
+SN  4
 ID  Alcohol ABC transporter, permease subunit
+DN  Alcohol ABC transporter, permease subunit/PQQpedC
 RQ  1
 EV  IPR022403; TIGR03861;
 //

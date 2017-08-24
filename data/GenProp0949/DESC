@@ -18,33 +18,39 @@ CC  GDP-mannose.  One of the transferases, WbdM, is responsible for
 CC  attaching both colitose residues at both the 3 and 6 positions of
 CC  alpha-D-glucose as the last steps of the monomer synthesis.   
 --
-SN  GDP-Col
+SN  1
 ID  Source of GDP-colitose
+DN  Source of GDP-colitose/GDP-Col
 RQ  1
 EV  GenProp0946;
 --
-SN  WbdH
+SN  2
 ID  ADGal(1->3)bDGlcNAc
+DN  ADGal(1->3)bDGlcNAc/WbdH
 RQ  1
 EV  IPRXXXX; 2890;
 --
-SN  WbdL
+SN  3
 ID  ADGlc(1->4)aDGal
+DN  ADGlc(1->4)aDGal/WbdL
 RQ  1
 EV  IPRXXXX; 2755;
 --
-SN  WbdM
+SN  4
 ID  ACol(1->3,6)aDGlc
+DN  ACol(1->3,6)aDGlc/WbdM
 RQ  1
 EV  IPRXXXX; 2754;
 --
-SN  wzx111
+SN  5
 ID  O111-specific transporter (flippase)
+DN  O111-specific transporter (flippase)/wzx111
 RQ  1
 EV  IPRXXXX; 2891;
 --
-SN  wzy111
+SN  6
 ID  O111-specific polymerase
+DN  O111-specific polymerase/wzy111
 RQ  1
 EV  IPRXXXX; 2756;
 //

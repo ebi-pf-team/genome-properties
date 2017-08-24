@@ -26,25 +26,29 @@ CC  toxin biosynthetic gene cluster.", PMID: 18375757
 **  curated protoxins include NTL02CB0485, NTL11SA1381, ORF03586(blm),
 **  ORFB01064(gpp), NTL16SP0616, and some others.
 --
-SN  cyclode
+SN  1
 ID  Cyclodehydratase(SagC)
+DN  Cyclodehydratase(SagC)/cyclode
 RQ  1
 EV  IPR019892; TIGR03603;
 EV  IPRXXXX; 2374;
 EV  IPR022291; TIGR03882;
 --
-SN  dehyd
+SN  2
 ID  SagB-type dehydrogenase domain
+DN  SagB-type dehydrogenase domain/dehyd
 RQ  1
 EV  IPR020051; TIGR03605;
 --
-SN  docking
+SN  3
 ID  Docking scaffold protein
+DN  Docking scaffold protein/docking
 RQ  1
 EV  IPR027624; TIGR03604;
 --
-SN  protox
+SN  4
 ID  Heterocyclic bacteriocin protoxin
+DN  Heterocyclic bacteriocin protoxin/protox
 RQ  1
 EV  IPR019890; TIGR03601;
 EV  IPR019891; TIGR03602;

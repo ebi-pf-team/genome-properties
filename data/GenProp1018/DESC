@@ -38,38 +38,45 @@ CC  blocking the O3 position of the growing polymer. The ABC transporter
 CC  appears to require the presence of the methylated final residue to move
 CC  the polymer to the periplasmic side of the membrane.
 --
-SN  Man
+SN  1
 ID  Source of GDP-D-mannose
+DN  Source of GDP-D-mannose/Man
 RQ  1
 EV  GenProp1017;
 --
-SN  WbdA
+SN  2
 ID  Mannosyltransferase A
+DN  Mannosyltransferase A/WbdA
 RQ  1
 EV  IPRXXXX; 2852;
 --
-SN  WbdB
+SN  3
 ID  Mannosyltransferase B
+DN  Mannosyltransferase B/WbdB
 RQ  1
 EV  IPRXXXX; 2853;
 --
-SN  WbdC
+SN  4
 ID  Mannosyltransferase C
+DN  Mannosyltransferase C/WbdC
 RQ  1
 EV  IPRXXXX; 2854;
 --
-SN  WbdD
+SN  5
 ID  Terminating methyltransferase and chain-length determinant protein
+DN  Terminating methyltransferase and chain-length determinant protein/WbdD
 RQ  1
 EV  IPRXXXX; 2855;
 --
-SN  wzm
+SN  6
 ID  ABC transporter, transmembrane domain
+DN  ABC transporter, transmembrane domain/wzm
 RQ  1
 EV  IPRXXXX; 2861;
 --
-SN  wzt
+SN  7
 ID  ABC transporter, ATP-binding domain and substrate specificity determinant domain
+DN  ABC transporter, ATP-binding domain and substrate specificity determinant domain/wzt
 RQ  1
 EV  IPRXXXX; 2859;
 //

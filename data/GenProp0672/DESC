@@ -11,33 +11,39 @@ RA  Kim W, Tabita FR;
 RL  J Bacteriol. 2006;188:6544-6552.
 CC  ghi as start point. description to follow.
 --
-SN  citC
+SN  1
 ID  [citrate (pro-3S)-lyase] ligase
+DN  [citrate (pro-3S)-lyase] ligase/citC
 RQ  1
 EV  IPR005216; TIGR00124; sufficient;
 --
-SN  citD
+SN  2
 ID  Citrate lyase acyl carrier protein
+DN  Citrate lyase acyl carrier protein/citD
 RQ  1
 EV  IPR006495; TIGR01608; sufficient;
 --
-SN  citE
+SN  3
 ID  Citrate lyase, beta subunit
+DN  Citrate lyase, beta subunit/citE
 RQ  1
 EV  IPR006475; TIGR01588; sufficient;
 --
-SN  citF
+SN  4
 ID  Citrate lyase, alpha subunit
+DN  Citrate lyase, alpha subunit/citF
 RQ  1
 EV  IPR006472; TIGR01584; sufficient;
 --
-SN  citG
+SN  5
 ID  Triphosphoribosyl-dephospho-CoA synthase
+DN  Triphosphoribosyl-dephospho-CoA synthase/citG
 RQ  1
 EV  IPR017551; TIGR03125; sufficient;
 --
-SN  citX
+SN  6
 ID  Apo-citrate lyase phosphoribosyl-dephospho-CoA transferase
+DN  Apo-citrate lyase phosphoribosyl-dephospho-CoA transferase/citX
 RQ  1
 EV  IPR005551; TIGR03124; sufficient;
 //

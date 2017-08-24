@@ -10,48 +10,57 @@ CC  where the acyl group is heterogeneous and composed of 60% acetyl and
 CC  40% D-3-hydroxybutyryl. The composition of the O10(Ec) cluster has not
 CC  been previously reported and was sequenced at JCVI as project ostec03.
 --
-SN  AcTR
+SN  1
 ID  O10(Ec)-associated putative D-Fuc4N acyltransferase
+DN  O10(Ec)-associated putative D-Fuc4N acyltransferase/AcTR
 RQ  1
 EV  IPRXXXX; 2968;
 --
-SN  Fuc4NAc
+SN  2
 ID  Source of dTDP-4-acetamido-4,6-dideoxy-D-galactose (dTDP-Fuc4NAc)
+DN  Source of dTDP-4-acetamido-4,6-dideoxy-D-galactose (dTDP-Fuc4NAc)/Fuc4NAc
 RQ  1
 EV  GenProp0972;
 --
-SN  GT-1
+SN  3
 ID  O10(Ec)-associated L-rhamnose alpha-1,2-(4-N-acyl)-D-fucosaminyltransferase
+DN  O10(Ec)-associated L-rhamnose alpha-1,2-(4-N-acyl)-D-fucosaminyltransferase/GT-1
 RQ  1
 EV  IPRXXXX; 2964;
 --
-SN  GT-2
+SN  4
 ID  O10(Ec)-associated L-rhamnose alpha-1,3-L-rhamnosyltransferase
+DN  O10(Ec)-associated L-rhamnose alpha-1,3-L-rhamnosyltransferase/GT-2
 RQ  1
 EV  IPRXXXX; TIGR01556;
 --
-SN  GT-3
+SN  5
 ID  O10(Ec)-associated D-galactose alpha-1,3-L-rhamnosyltransferase
+DN  O10(Ec)-associated D-galactose alpha-1,3-L-rhamnosyltransferase/GT-3
 RQ  1
 EV  IPRXXXX; 2966;
 --
-SN  GT-4
+SN  6
 ID  O10(Ec)-associated N-acetyl-D-glucosamine alpha-1,3-D-galactosyltransferase
+DN  O10(Ec)-associated N-acetyl-D-glucosamine alpha-1,3-D-galactosyltransferase/GT-4
 RQ  1
 EV  IPRXXXX; 2967;
 --
-SN  Rha
+SN  7
 ID  Source of L-rhamnose
+DN  Source of L-rhamnose/Rha
 RQ  1
 EV  GenProp0183;
 --
-SN  wzx10
+SN  8
 ID  O10(Ec)-antigen transporter (flippase) wzx
+DN  O10(Ec)-antigen transporter (flippase) wzx/wzx10
 RQ  1
 EV  IPRXXXX; 2963;
 --
-SN  wzy10
+SN  9
 ID  O10(Ec)-antigen polymerase wzy
+DN  O10(Ec)-antigen polymerase wzy/wzy10
 RQ  1
 EV  IPRXXXX; 2965;
 //

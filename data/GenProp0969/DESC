@@ -6,13 +6,15 @@ TH  0
 CC  UDP-ManNAc is a precursor in the biosynthesis of the entobacterial
 CC  common antigen.
 --
-SN  UManNAc
+SN  1
 ID  Source of UDP-ManNAc
+DN  Source of UDP-ManNAc/UManNAc
 RQ  1
 EV  GenProp0975;
 --
-SN  WecC
+SN  2
 ID  UDP-N-acetyl-mannosamine dehydrogenase
+DN  UDP-N-acetyl-mannosamine dehydrogenase/WecC
 RQ  1
 EV  IPR017476; TIGR03026;
 //

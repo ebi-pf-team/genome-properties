@@ -13,18 +13,21 @@ CC  transporters responsible for choline uptake. It appears that several
 CC  different periplasmic binding protein interact with the same permease
 CC  and ATP-binding subunit.
 --
-SN  chol_TF
+SN  1
 ID  Putative choline sulfate transcription factor
+DN  Putative choline sulfate transcription factor/chol_TF
 RQ  1
 EV  IPR017786; TIGR03418;
 --
-SN  peripl
+SN  2
 ID  Choline sulfate periplasmic binding protien
+DN  Choline sulfate periplasmic binding protien/peripl
 RQ  1
 EV  IPRXXXX; TIGR03414;
 --
-SN  sulfa
+SN  3
 ID  Choline-sulfatase
+DN  Choline-sulfatase/sulfa
 RQ  1
 EV  IPR017785; TIGR03417;
 //

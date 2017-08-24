@@ -55,34 +55,34 @@ CC  (activator) [4].
 --
 SN  1
 ID  Serine/threonine-protein kinase mTOR
-DN  Serine/threonine-protein kinase mTOR (EC:2.7.11.1)
+DN  Serine/threonine-protein kinase mTOR (EC:2.7.11.1)/1
 RQ  1
 EV  IPR026683; PTHR11139:SF85; sufficient;
 TG  GO:0004674;
 --
 SN  2
 ID  Regulatory-associated protein of mTOR
-DN  Regulatory-associated protein of mTOR 
+DN  Regulatory-associated protein of mTOR /2
 RQ  1
 EV  IPR004083; PTHR12848; sufficient;
 --
 SN  3
 ID  Target of rapamycin complex subunit LST8
-DN  Target of rapamycin complex subunit LST8 
+DN  Target of rapamycin complex subunit LST8 /3
 RQ  1
 EV  -; PTHR19842; sufficient;
 TG  GO:0032008;
 --
 SN  4
 ID  Proline-rich AKT1 substrate 1
-DN  Proline-rich AKT1 substrate 1 
+DN  Proline-rich AKT1 substrate 1 /4
 RQ  1
 EV  IPR026682; PF15798; sufficient;
 TG  GO:0032007;
 --
 SN  5
 ID  DEP domain-containing mTOR-interacting protein
-DN  DEP domain-containing mTOR-interacting protein 
+DN  DEP domain-containing mTOR-interacting protein /5
 RQ  1
 EV  -; PTHR22829:SF21; sufficient;
 TG  GO:0032007;

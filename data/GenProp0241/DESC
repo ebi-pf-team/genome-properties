@@ -36,16 +36,18 @@ CC  for this property.
 **  Futher transport and hydrolysis systems as of yet unmodelled most
 **  likely exist.
 --
-SN  assoc
+SN  1
 ID  Phosphonate catabolism operons associated proteins
+DN  Phosphonate catabolism operons associated proteins/assoc
 RQ  0
 EV  IPR017741; TIGR03364; sufficient;
 TG  GO:0019700;
 EV  IPR017670; TIGR03276; sufficient;
 TG  GO:0019700;
 --
-SN  phn_cat
+SN  2
 ID  Phosphonate utilization systems
+DN  Phosphonate utilization systems/phn_cat
 RQ  1
 EV  GenProp0232;
 TG  GO:0019700;

@@ -8,13 +8,15 @@ CC  and with up to 100 pairs per genome, consists of TonB-linked outer
 CC  membrane protein related to RagA and SusC, and its neighbor related to
 CC  RagB and SusD.
 --
-SN  RagA
+SN  1
 ID  TonB-linked outer membrane protein, SusC/RagA family
+DN  TonB-linked outer membrane protein, SusC/RagA family/RagA
 RQ  1
 EV  IPR023996; TIGR04056;
 --
-SN  RagB
+SN  2
 ID  Outer membrane protein, SusD/RagB family
+DN  Outer membrane protein, SusD/RagB family/RagB
 RQ  1
 EV  IPRXXXX; PF07980;
 EV  IPRXXXX; PF14322;

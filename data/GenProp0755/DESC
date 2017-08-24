@@ -19,48 +19,56 @@ CC  and be considerably less efficient.    Note that a number of the
 CC  components of this pathway are also elements of the TCA cycle running
 CC  in reverse (malate DH, fumarate hydratase, succinate dehydrogenase).
 --
-SN  FH
+SN  1
 ID  Fumarate hydratase (4.2.1.2)
+DN  Fumarate hydratase (4.2.1.2)/FH
 RQ  1
 EV  IPR005677; TIGR00979;
 EV  IPR004647; PF05683;
 EV  IPR004646; PF05681;
 --
-SN  FRD
+SN  2
 ID  Fumarate reductase complex
+DN  Fumarate reductase complex/FRD
 RQ  1
 EV  GenProp0756;
 --
-SN  MDH
+SN  3
 ID  Malate dehydrogenase (1.1.1.37)
+DN  Malate dehydrogenase (1.1.1.37)/MDH
 RQ  1
 EV  IPR010945; TIGR01759;
 EV  IPR011274; TIGR01758;
 EV  IPR011275; TIGR01763;
 EV  IPR010097; TIGR01772;
 --
-SN  MMC-DC
+SN  4
 ID  Methylmalonyl-CoA decarboxylase
+DN  Methylmalonyl-CoA decarboxylase/MMC-DC
 RQ  1
 --
-SN  MMCE
+SN  5
 ID  Methylmalonyl-CoA epimerase (5.1.99.1)
+DN  Methylmalonyl-CoA epimerase (5.1.99.1)/MMCE
 RQ  0
 EV  IPR017515; TIGR03081;
 --
-SN  MMCM
+SN  6
 ID  Methylmalonyl-CoA mutase (5.4.99.2)
+DN  Methylmalonyl-CoA mutase (5.4.99.2)/MMCM
 RQ  1
 EV  IPR006098; TIGR00641;
 EV  IPR006159; TIGR00640;
 EV  IPR004608; TIGR00642;
 --
-SN  PC
+SN  7
 ID  Pyruvate carboxylase
+DN  Pyruvate carboxylase/PC
 RQ  1
 --
-SN  PCSCT
+SN  8
 ID  Propionyl CoA:succinate CoA transferase (2.8.3.-)
+DN  Propionyl CoA:succinate CoA transferase (2.8.3.-)/PCSCT
 RQ  1
 EV  IPR017821; TIGR03458;
 //

@@ -17,85 +17,101 @@ CC  identified by mutagenesis. The gliding phenotype is linked to the
 CC  utilization of the insoluble polysaccharide chitin as well as
 CC  susceptability to certain bacteriophage.
 --
-SN  GldA
+SN  1
 ID  ABC transporter, ATP-binding protein, GldA
+DN  ABC transporter, ATP-binding protein, GldA/GldA
 RQ  1
 EV  IPR019864; TIGR03522;
 --
-SN  GldB
+SN  2
 ID  Lipoprotein, GldB
+DN  Lipoprotein, GldB/GldB
 RQ  1
 EV  IPR019853; TIGR03514;
 --
-SN  GldC
+SN  3
 ID  Unknown protein, GldC
+DN  Unknown protein, GldC/GldC
 RQ  0
 EV  IPR019854; TIGR03515;
 --
-SN  GldD
+SN  4
 ID  Lipoprotein, GldD
+DN  Lipoprotein, GldD/GldD
 RQ  1
 EV  IPR019850; TIGR03512;
 --
-SN  GldE
+SN  5
 ID  Unknown protein, GldE
+DN  Unknown protein, GldE/GldE
 RQ  0
 EV  IPR019862; TIGR03520;
 --
-SN  GldF
+SN  6
 ID  ABC transporter membrane protein, GldF
+DN  ABC transporter membrane protein, GldF/GldF
 RQ  1
 EV  IPR019860; TIGR03518;
 --
-SN  GldG
+SN  7
 ID  Proposed ABC transporter component, GldG
+DN  Proposed ABC transporter component, GldG/GldG
 RQ  1
 EV  IPR019863; TIGR03521;
 --
-SN  GldH
+SN  8
 ID  Lipoprotein, GldH
+DN  Lipoprotein, GldH/GldH
 RQ  1
 EV  IPR020018; TIGR03511;
 --
-SN  GldI
+SN  9
 ID  Lipoprotein, GldI
+DN  Lipoprotein, GldI/GldI
 RQ  1
 EV  IPR019869; TIGR03516;
 --
-SN  GldJ
+SN  10
 ID  Lipoprotein, GldJ
+DN  Lipoprotein, GldJ/GldJ
 RQ  1
 EV  IPR019865; TIGR03524;
 EV  IPR019868; TIGR03530;
 --
-SN  GldK
+SN  11
 ID  Lipoprotein, GldK
+DN  Lipoprotein, GldK/GldK
 RQ  1
 EV  IPR019866; TIGR03525;
 EV  IPR019867; TIGR03529;
 --
-SN  GldL
+SN  12
 ID  Unknown protein, GldL
+DN  Unknown protein, GldL/GldL
 RQ  1
 EV  IPR019852; TIGR03513;
 --
-SN  GldM
+SN  13
 ID  Unknown protein, GldM
+DN  Unknown protein, GldM/GldM
 RQ  1
 EV  IPR019859; TIGR03517;
 --
-SN  GldN
+SN  14
 ID  Unknown protein, GldN
+DN  Unknown protein, GldN/GldN
 RQ  1
 EV  IPR019847; TIGR03523;
 --
-SN  gld_xxx
+SN  15
 ID  Bacteroidetes multicopy membrane protein
+DN  Bacteroidetes multicopy membrane protein/gld_xxx
 RQ  0
 EV  IPR019861; TIGR03519;
 --
-SN  gld_yyy
+SN  16
 ID  Bacteroidetes multicopy C-terminal domain
+DN  Bacteroidetes multicopy C-terminal domain/gld_yyy
 RQ  0
 EV  IPR026341; TIGR04131;
 //

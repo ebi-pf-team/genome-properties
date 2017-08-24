@@ -10,6 +10,7 @@ CC  pyruvate, supplying electrons to the nitrogenase system.
 --
 SN  1
 ID  2-oxoacid:ferredoxin oxidoreductase
+DN  2-oxoacid:ferredoxin oxidoreductase/1
 RQ  1
 EV  IPR011895; TIGR02176;
 EV  GenProp0839;

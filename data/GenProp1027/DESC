@@ -6,13 +6,15 @@ TH  0
 CC  GDP-4-acetamido-D-rhamnose (D-Rha4NAc) is the 4-N-acetylated form of
 CC  GDP-perosamine, and is observed in the E. coli O157 antigen.
 --
-SN  Per
+SN  1
 ID  Source of GDP-perosamine
+DN  Source of GDP-perosamine/Per
 RQ  1
 EV  GenProp1025;
 --
-SN  PerB
+SN  2
 ID  GDP-perosamine 4-N-acetyltransferase
+DN  GDP-perosamine 4-N-acetyltransferase/PerB
 RQ  1
 EV  IPRXXXX; 2876;
 //

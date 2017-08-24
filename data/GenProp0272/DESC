@@ -18,15 +18,15 @@ CC  alpha-acetolactate decarboxylase.
 **  in Klebsiella terrigena and Enterobacter aerogenes, which are not in
 **  OMNIOME, and poorly correlated even for being in same genome.
 --
-SN  decarb
+SN  1
 ID  Acetolactate decarboxylase
-DN  Alpha-acetolactate decarboxylase
+DN  Alpha-acetolactate decarboxylase/decarb
 RQ  1
 EV  IPR005128; TIGR01252; sufficient;
 --
-SN  synth
+SN  2
 ID  Acetolactate synthase, catabolic
-DN  Acetolactate synthase, catabolic
+DN  Acetolactate synthase, catabolic/synth
 RQ  1
 EV  IPR012782; TIGR02418; sufficient;
 //

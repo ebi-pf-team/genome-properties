@@ -1,7 +1,7 @@
->sp|P68577|SUNA_BACSU (Step num: SunA) SPBc2 prophage-derived bacteriocin sublancin-168 OS=Bacillus subtilis (strain 168) GN=sunA PE=1 SV=1
+>sp|P68577|SUNA_BACSU (Step num: 1) SPBc2 prophage-derived bacteriocin sublancin-168 OS=Bacillus subtilis (strain 168) GN=sunA PE=1 SV=1
 MEKLFKEVKLEELENQKGSGLGKAQCAALWLQCASGGTIGCGGGAVACQNYRQFCR
 
->sp|O31986|SUNS_BACSU (Step num: SunS) SPBc2 prophage-derived glycosyltransferase SunS OS=Bacillus subtilis (strain 168) GN=sunS PE=1 SV=1
+>sp|O31986|SUNS_BACSU (Step num: 2) SPBc2 prophage-derived glycosyltransferase SunS OS=Bacillus subtilis (strain 168) GN=sunS PE=1 SV=1
 MKLSDIYLELKKGYADSLLYSDLSLLVNIMEYEKDIDVMSIQSLVAGYEKSDTPTITCGI
 IVYNESKRIKKCLNSVKDDFNEIIVLDSYSTDDTVDIIKCDFPDVEIKYEKWKNDFSYAR
 NKIIEYATSEWIYFIDADNLYSKENKGKIAKVARVLEFFSIDCVVSPYIEEYTGHLYSDT

@@ -21,38 +21,43 @@ CC  different proteins in this system (PMID:11929526).
 **  partial phylogenetic profiling off urease GenProp in gbm started the
 **  property. Note that sll0374 in ntss01 is far from operon described.
 --
-SN  urtA
+SN  1
 ID  Urea ABC transporter, periplasmic binding protein
+DN  Urea ABC transporter, periplasmic binding protein/urtA
 RQ  1
 EV  IPR017777; TIGR03407;
 TG  GO:0015840;
 EV  IPR019968; TIGR03669;
 TG  GO:0015840;
 --
-SN  urtB
+SN  2
 ID  Urea ABC transporter, permease protein UrtB
+DN  Urea ABC transporter, permease protein UrtB/urtB
 RQ  1
 EV  IPR017779; TIGR03409;
 TG  GO:0015840;
 EV  IPR019924; TIGR03622;
 TG  GO:0015840;
 --
-SN  urtC
+SN  3
 ID  Urea ABC transporter, permease protein UrtC
+DN  Urea ABC transporter, permease protein UrtC/urtC
 RQ  1
 EV  IPR017778; TIGR03408;
 TG  GO:0015840;
 EV  IPR022497; TIGR03727;
 TG  GO:0015840;
 --
-SN  urtD
+SN  4
 ID  Urea ABC transporter, ATP-binding protein UrtD
+DN  Urea ABC transporter, ATP-binding protein UrtD/urtD
 RQ  1
 EV  IPR017781; TIGR03411;
 TG  GO:0015840;
 --
-SN  urtE
+SN  5
 ID  Urea ABC transporter, ATP-binding protein UrtE
+DN  Urea ABC transporter, ATP-binding protein UrtE/urtE
 RQ  1
 EV  IPR017780; TIGR03410;
 TG  GO:0015840;

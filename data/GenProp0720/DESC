@@ -11,25 +11,29 @@ CC  (working in the opposite direction), biosynthetic pathways.
 CC  Additionally, two different ABC transporter complexes are likely
 CC  responsible for the import of 2-AEP.
 --
-SN  AEPcat
+SN  1
 ID  2-aminoethylphosphonate catabolic pathways
+DN  2-aminoethylphosphonate catabolic pathways/AEPcat
 RQ  1
 EV  GenProp0238;
 EV  GenProp0713;
 --
-SN  AEPimp
+SN  2
 ID  2-aminoethylphosphonate transport systems
+DN  2-aminoethylphosphonate transport systems/AEPimp
 RQ  1
 EV  GenProp0712;
 EV  GenProp0721;
 --
-SN  oxido
+SN  3
 ID  Associated FAD-dependent oxidoreductase
+DN  Associated FAD-dependent oxidoreductase/oxido
 RQ  0
 EV  IPR017715; TIGR03329;
 --
-SN  regul
+SN  4
 ID  Associated transcriptional regulators
+DN  Associated transcriptional regulators/regul
 RQ  0
 EV  IPR017722; TIGR03337;
 EV  IPR017723; TIGR03338;

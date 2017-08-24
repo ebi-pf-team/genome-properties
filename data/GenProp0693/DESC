@@ -8,28 +8,33 @@ CC  fructose-specific phosphotransferase system (PTS) and converted to the
 CC  glycolysis pathway intermediate fructose-1,6-bisphosphate by the action
 CC  of 1-phosphofructokinase.
 --
-SN  PTS-core
+SN  1
 ID  PTS core components
+DN  PTS core components/PTS-core
 RQ  1
 EV  GenProp0119;
 --
-SN  fru-IIA
+SN  2
 ID  PTS IIA, fructose-specific
+DN  PTS IIA, fructose-specific/fru-IIA
 RQ  1
 EV  IPR004715; TIGR00848; sufficient;
 --
-SN  fru-IIB
+SN  3
 ID  PTS IIB, fructose-specific
+DN  PTS IIB, fructose-specific/fru-IIB
 RQ  1
 EV  IPR003353; TIGR00829; sufficient;
 --
-SN  fru-IIC
+SN  4
 ID  PTS IIC, fructose-specific
+DN  PTS IIC, fructose-specific/fru-IIC
 RQ  1
 EV  IPR006327; TIGR01427; sufficient;
 --
-SN  pfkB
+SN  5
 ID  1-phosphofructokinase
+DN  1-phosphofructokinase/pfkB
 RQ  1
 EV  IPRXXXX; TIGR03168;
 EV  IPR022463; TIGR03828; sufficient;

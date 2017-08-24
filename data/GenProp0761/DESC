@@ -17,93 +17,108 @@ CC  been reported.  The essential enzymes are squalene synthase which
 CC  condenses two molecules of farnesyl-pyrophosphate and squalene-hopene
 CC  cyclase.
 --
-SN  HpnA
+SN  1
 ID  Nucleotide-sugar epimerase/dehydratase
+DN  Nucleotide-sugar epimerase/dehydratase/HpnA
 RQ  0
 EV  IPR017829; TIGR03466;
 TG  GO:0019746;
 --
-SN  HpnB
+SN  2
 ID  Glycosyl transferase, family 2, HpnB
+DN  Glycosyl transferase, family 2, HpnB/HpnB
 RQ  0
 EV  IPR017832; TIGR03469;
 TG  GO:0019746;
 --
-SN  HpnCD
+SN  3
 ID  Squalene synthase, HpnC and/or HpnD subunits
+DN  Squalene synthase, HpnC and/or HpnD subunits/HpnCD
 RQ  1
 EV  IPR017827; TIGR03464;
 TG  GO:0019746;
 EV  IPR017828; TIGR03465;
 TG  GO:0019746;
 --
-SN  HpnE
+SN  4
 ID  FAD-dependent desaturase, HpnE
+DN  FAD-dependent desaturase, HpnE/HpnE
 RQ  0
 EV  IPR017830; TIGR03467;
 TG  GO:0019746;
 --
-SN  HpnG
+SN  5
 ID  Phosphorylase, HpnG
+DN  Phosphorylase, HpnG/HpnG
 RQ  0
 EV  IPR017831; TIGR03468;
 TG  GO:0019746;
 --
-SN  HpnH
+SN  6
 ID  Radical SAM enzyme, HpnH
+DN  Radical SAM enzyme, HpnH/HpnH
 RQ  1
 EV  IPR017833; TIGR03470;
 TG  GO:0019746;
 --
-SN  HpnI
+SN  7
 ID  Glycosyl transferase, family 2, HpnI
+DN  Glycosyl transferase, family 2, HpnI/HpnI
 RQ  0
 EV  IPR017835; TIGR03472;
 TG  GO:0019746;
 --
-SN  HpnJ
+SN  8
 ID  Radical SAM enzyme, HpnJ
+DN  Radical SAM enzyme, HpnJ/HpnJ
 RQ  0
 EV  IPR017834; TIGR03471;
 TG  GO:0019746;
 --
-SN  HpnK
+SN  9
 ID  YdjC-like enzyme, HpnK
+DN  YdjC-like enzyme, HpnK/HpnK
 RQ  0
 EV  IPR017836; TIGR03473;
 TG  GO:0019746;
 --
-SN  HpnL
+SN  10
 ID  Putative membrane protein, TIGR00374 superfamily, HpnL
+DN  Putative membrane protein, TIGR00374 superfamily, HpnL/HpnL
 RQ  0
 EV  IPRXXXX; TIGR03476;
 TG  GO:0019746;
 --
-SN  HpnM
+SN  11
 ID  Toluene tolerance protein homolog, HpnM
+DN  Toluene tolerance protein homolog, HpnM/HpnM
 RQ  0
 EV  IPR017842; TIGR03481;
 TG  GO:0019746;
 --
-SN  HpnN
+SN  12
 ID  RND efflux transporter homolog, HpnN
+DN  RND efflux transporter homolog, HpnN/HpnN
 RQ  0
 EV  IPR017841; TIGR03480;
 --
-SN  HpnO
+SN  13
 ID  VacJ like lipoprotein
+DN  VacJ like lipoprotein/HpnO
 RQ  0
 EV  IPRXXXX; PF04333;
 TG  GO:0019746;
 --
-SN  HpnR
+SN  14
 ID  Hopanoid C-3 methylase
+DN  Hopanoid C-3 methylase/HpnR
 RQ  0
 EV  IPR027564; TIGR04367;
 TG  GO:0019746;
 --
-SN  SHC
+SN  15
 ID  Squalene-hopene cyclase
+DN  Squalene-hopene cyclase/SHC
 RQ  1
 EV  IPR006400; TIGR01507;
 TG  GO:0019746;

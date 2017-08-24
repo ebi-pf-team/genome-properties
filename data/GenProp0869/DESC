@@ -29,22 +29,25 @@ CC  aspartate-alanine antiporter, as in Tetragenococcus halophila.
 **  up also in other contexts (see TIGR00286 and the biosynthetic form
 **  TIGR01273).
 --
-SN  aaxA
+SN  1
 ID  Arginine/agmatine exchange system porin
+DN  Arginine/agmatine exchange system porin/aaxA
 RQ  0
 EV  IPRXXXX; 2638;
 TG  GO:0010248;
 --
-SN  adiA
+SN  2
 ID  Arginine decarboxylase, acid-induced
+DN  Arginine decarboxylase, acid-induced/adiA
 RQ  1
 EV  IPRXXXX; 2635;
 TG  GO:0010248;
 EV  IPRXXXX; 2636;
 TG  GO:0010248;
 --
-SN  adiC
+SN  3
 ID  Arginine/agmatine antiporter
+DN  Arginine/agmatine antiporter/adiC
 RQ  1
 EV  IPRXXXX; 2634;
 TG  GO:0010248;

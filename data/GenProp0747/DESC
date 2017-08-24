@@ -12,14 +12,16 @@ CC  step, but it also catalyzes the eighth step in IMP biosynthesis.
 **  So PurA is marker for this property and PurB is not, since it is shared
 **  with 4051
 --
-SN  purA
+SN  1
 ID  Adenylosuccinate synthetase
+DN  Adenylosuccinate synthetase/purA
 RQ  1
 EV  IPR001114; TIGR00184;
 TG  GO:0006167;
 --
-SN  purB
+SN  2
 ID  Adenylosuccinate lyase
+DN  Adenylosuccinate lyase/purB
 RQ  1
 EV  IPR004769; TIGR00928;
 TG  GO:0006167;

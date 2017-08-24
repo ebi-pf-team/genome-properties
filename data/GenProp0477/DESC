@@ -11,18 +11,21 @@ CC  copper response operon may include two copper transporters to achieve
 CC  copper homeostatis and include efflux capability. Different copper
 CC  transport systems rely on transporters of other types.
 --
-SN  P_ATP
+SN  1
 ID  P-type ATPase copper transporter
+DN  P-type ATPase copper transporter/P_ATP
 RQ  1
 EV  IPRXXXX; TIGR01511; sufficient;
 --
-SN  chaper
+SN  2
 ID  Copper chaperone
+DN  Copper chaperone/chaper
 RQ  1
 EV  IPR006122; TIGR00003;
 --
-SN  regul
+SN  3
 ID  Copper transport repressor
+DN  Copper transport repressor/regul
 RQ  0
 EV  IPR014071; TIGR02698; sufficient;
 //

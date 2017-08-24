@@ -20,50 +20,58 @@ CC  while EntS is a specific exporter across the plasma membrane.
 **  2,3-Dihydroxybenzoate-Glycine-Threonine Trimeric Ester, needs property,
 **  look vicinity of NTL01BS3193 BCE_2400
 --
-SN  entA
+SN  1
 ID  2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase
+DN  2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase/entA
 RQ  1
 EV  IPRXXXX; 2147;
 TG  GO:0009239;
 --
-SN  entBG
+SN  2
 ID  Isochorismatase/enterobactin synthetase, component EntB
+DN  Isochorismatase/enterobactin synthetase, component EntB/entBG
 RQ  1
 EV  IPRXXXX; 2150;
 TG  GO:0009239;
 --
-SN  entC
+SN  3
 ID  Isochorismate synthase EntC
+DN  Isochorismate synthase EntC/entC
 RQ  1
 EV  IPRXXXX; 2151;
 TG  GO:0009239;
 --
-SN  entD
+SN  4
 ID  4'-phosphopantetheinyl transferase EntD
+DN  4'-phosphopantetheinyl transferase EntD/entD
 RQ  1
 EV  IPRXXXX; 2152;
 TG  GO:0009239;
 --
-SN  entE
+SN  5
 ID  Enterobactin synthetase, (2,3-dihydroxybenzoyl)adenylate synthase component
+DN  Enterobactin synthetase, (2,3-dihydroxybenzoyl)adenylate synthase component/entE
 RQ  1
 EV  IPRXXXX; 2155;
 TG  GO:0009239;
 --
-SN  entF
+SN  6
 ID  Enterobactin synthetase, component EntF
+DN  Enterobactin synthetase, component EntF/entF
 RQ  1
 EV  IPRXXXX; 2156;
 TG  GO:0009239;
 --
-SN  entH
+SN  7
 ID  Enterobactin biosynthesis proofreading thioesterase EntH
+DN  Enterobactin biosynthesis proofreading thioesterase EntH/entH
 RQ  0
 EV  IPRXXXX; 2149;
 TG  GO:0009239;
 --
-SN  entS
+SN  8
 ID  Enterobactin exporter EntS
+DN  Enterobactin exporter EntS/entS
 RQ  1
 EV  IPRXXXX; 2153;
 //

@@ -32,44 +32,52 @@ CC  tend to have a periodicity of 66 nucleotides. This subtype is found
 CC  both in Archaea and Bacteria (with the notable exclusion of the
 CC  Proteobacteria).
 --
-SN  Cas1
+SN  1
 ID  Cas1, Tneap region
+DN  Cas1, Tneap region/Cas1
 RQ  1
 EV  IPR002729; TIGR00287;
 --
-SN  Cas2
+SN  2
 ID  Cas2, Tneap region
+DN  Cas2, Tneap region/Cas2
 RQ  1
 EV  IPR021127; TIGR01573;
 --
-SN  Cas3
+SN  3
 ID  Cas3, Tneap region
+DN  Cas3, Tneap region/Cas3
 RQ  1
 EV  IPR006483; TIGR01596;
 EV  IPR006474; TIGR01587;
 --
-SN  Cas4
+SN  4
 ID  Cas4, Tneap region
+DN  Cas4, Tneap region/Cas4
 RQ  1
 EV  IPR013343; TIGR00372;
 --
-SN  Cas5t
+SN  5
 ID  Cas5, Tneap specific variant
+DN  Cas5, Tneap specific variant/Cas5t
 RQ  1
 EV  IPR013337; TIGR01895; sufficient;
 --
-SN  Cas6
+SN  6
 ID  Cas6, Tneap region
+DN  Cas6, Tneap region/Cas6
 RQ  1
 EV  IPR010156; TIGR01877;
 --
-SN  Cst1
+SN  7
 ID  Cst1
+DN  Cst1/Cst1
 RQ  1
 EV  IPR010180; TIGR01908; sufficient;
 --
-SN  Cst2
+SN  8
 ID  Cst2, DevR family regulator
+DN  Cst2, DevR family regulator/Cst2
 RQ  1
 EV  IPR013414; TIGR02585;
 //

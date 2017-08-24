@@ -6,33 +6,38 @@ TH  0
 **  Some uptake sequences: Neisseria ATGCCGTCTGAA, most Pasteurellacaea
 **  AAAGTGCGGT, and alternative Actinobacillus pleuropneumoniae ACAAGCGGTC
 --
-SN  ComEA
+SN  1
 ID  Competence protein ComE/CelA
+DN  Competence protein ComE/CelA/ComEA
 RQ  1
 EV  IPR004509; TIGR00426; sufficient;
 --
-SN  ComEB
+SN  2
 ID  ComEB: CTP/dCTP deaminase family protein
+DN  ComEB: CTP/dCTP deaminase family protein/ComEB
 RQ  0
 EV  IPR013404; TIGR02571; sufficient;
 --
-SN  ComEC
+SN  3
 ID  DNA internalization-related competence protein ComEC/Rec2
-DN  DNA internalization-related competence protein ComEC/Rec2
+DN  DNA internalization-related competence protein ComEC/Rec2/ComEC
 RQ  1
 EV  IPR004797; TIGR00361; sufficient;
 --
-SN  ComED
+SN  4
 ID  ComED
+DN  ComED/ComED
 RQ  0
 --
-SN  ComF
+SN  5
 ID  ComF
+DN  ComF/ComF
 RQ  0
 EV  IPR005222; TIGR00201; sufficient;
 --
-SN  ComK
+SN  6
 ID  ComK
+DN  ComK/ComK
 RQ  0
 EV  IPR010461; PF06338; sufficient;
 //

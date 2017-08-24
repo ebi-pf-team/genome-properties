@@ -9,19 +9,22 @@ CC  a SPASM (TIGR04085) domain protein. At least one associated leader
 CC  peptide family is also defined.
 **  Thomas Hemscheidt a possible collaborator
 --
-SN  GRASP
+SN  1
 ID  Grasp-with-spasm ATP-GRASP maturase
+DN  Grasp-with-spasm ATP-GRASP maturase/GRASP
 RQ  1
 EV  IPR026455; TIGR04192;
 --
-SN  LEADER
+SN  2
 ID  Grasp-with-spasm leader peptide
+DN  Grasp-with-spasm leader peptide/LEADER
 RQ  0
 EV  IPR026498; TIGR04194;
 EV  IPR026437; TIGR04139;
 --
-SN  SPASM
+SN  3
 ID  Grasp-with-spasm SPASM domain maturase
+DN  Grasp-with-spasm SPASM domain maturase/SPASM
 RQ  1
 EV  IPR026497; TIGR04193;
 //

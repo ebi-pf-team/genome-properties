@@ -8,29 +8,35 @@ CC  denitrification. Its system includes a number of maturation and
 CC  accessory proteins. The system releases nitrogen, and the reaction in
 CC  biological systems is considered irreversible.
 --
-SN  nodD
+SN  1
 ID  Periplasmic protein NosD
+DN  Periplasmic protein NosD/nodD
 RQ  1
 EV  IPR007742; PF05048;
 --
-SN  nosL
+SN  2
 ID  NosL
+DN  NosL/nosL
 RQ  1
 EV  IPR008719; PF05573;
 --
-SN  nosR
+SN  3
 ID  NosR
+DN  NosR/nosR
 RQ  1
 --
-SN  nosX
+SN  4
 ID  NosX
+DN  NosX/nosX
 RQ  1
 --
-SN  nosY
+SN  5
 ID  Integral membrane protein NosD
+DN  Integral membrane protein NosD/nosY
 RQ  0
 --
-SN  nosZ
+SN  6
 ID  Nitrous-oxide reductase
+DN  Nitrous-oxide reductase/nosZ
 RQ  1
 //

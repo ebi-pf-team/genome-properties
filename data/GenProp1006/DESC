@@ -32,57 +32,68 @@ CC  13 amino acids shorter.
 **  particles can leave host cells in enveloped form, but proabably most do
 **  not.
 --
-SN  Orb_NS1
+SN  1
 ID  Tubule protein NS1
+DN  Tubule protein NS1/Orb_NS1
 RQ  1
 EV  IPR002630; PF01718;
 --
-SN  Orb_NS2
+SN  2
 ID  Inclusion body matrix protein NS2
+DN  Inclusion body matrix protein NS2/Orb_NS2
 RQ  1
 EV  IPR007602; PF04514;
 --
-SN  Orb_NS3
+SN  3
 ID  Nonstructural protein NS3/NS3A
+DN  Nonstructural protein NS3/NS3A/Orb_NS3
 RQ  1
 EV  IPR002565; PF01616;
 --
-SN  Orb_NS4
+SN  4
 ID  Nonstructural protein NS4
+DN  Nonstructural protein NS4/Orb_NS4
 RQ  0
 --
-SN  Orb_VP1
+SN  5
 ID  RNA-dependent RNA polymerase VP1
+DN  RNA-dependent RNA polymerase VP1/Orb_VP1
 RQ  1
 EV  IPR008723; PF05788;
 --
-SN  Orb_VP2
+SN  6
 ID  Outer capsid protein VP2
+DN  Outer capsid protein VP2/Orb_VP2
 RQ  1
 EV  IPR001742; PF00898;
 --
-SN  Orb_VP3
+SN  7
 ID  Inner capsid protein VP3
+DN  Inner capsid protein VP3/Orb_VP3
 RQ  1
 EV  IPR002614; PF01700;
 --
-SN  Orb_VP4
+SN  8
 ID  Capping/transmethylase enzyme VP4
+DN  Capping/transmethylase enzyme VP4/Orb_VP4
 RQ  1
 EV  IPR007753; PF05059;
 --
-SN  Orb_VP5
+SN  9
 ID  Outer capsid protein VP5
+DN  Outer capsid protein VP5/Orb_VP5
 RQ  1
 EV  IPR000145; PF00901;
 --
-SN  Orb_VP6
+SN  10
 ID  Helicase VP6
+DN  Helicase VP6/Orb_VP6
 RQ  1
 EV  IPR001399; PF01516;
 --
-SN  Orb_VP7
+SN  11
 ID  Inner capsid protein VP7
+DN  Inner capsid protein VP7/Orb_VP7
 RQ  1
 EV  IPR001803; PF00897;
 //

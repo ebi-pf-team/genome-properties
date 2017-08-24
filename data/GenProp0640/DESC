@@ -19,18 +19,21 @@ CC  pair.
 **  A source of molybdopterin is assumed, but not written into the property
 **  yet.
 --
-SN  xdhA
+SN  1
 ID  Xanthine dehydrogenase, 2Fe2S/FAD subunit
+DN  Xanthine dehydrogenase, 2Fe2S/FAD subunit/xdhA
 RQ  1
 EV  IPR014307; TIGR02963; sufficient;
 --
-SN  xdhB
+SN  2
 ID  Xanthine dehydrogenase, molybdopterin subunit
+DN  Xanthine dehydrogenase, molybdopterin subunit/xdhB
 RQ  1
 EV  IPR014309; TIGR02965; sufficient;
 --
-SN  xdhC
+SN  3
 ID  Xanthine dehydrogenase accessory protein XdhC
+DN  Xanthine dehydrogenase accessory protein XdhC/xdhC
 RQ  1
 EV  IPR014308; TIGR02964; sufficient;
 //

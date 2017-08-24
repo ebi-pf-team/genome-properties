@@ -9,56 +9,63 @@ CC  [->4)-a-D-Gal-(1->4)-a-Neu5,7,9Ac3-(2->3)-b-D-Gal-(1->3)b-D-GalNAc-(1-]
 CC  units.  The NeuABCD cassette for the biosynthesis of CMP-Neu5Ac is
 CC  observed within the O-antigen cluster.
 --
-SN  Neu5Ac
+SN  1
 ID  Source of CMP-Neu5Ac
+DN  Source of CMP-Neu5Ac/Neu5Ac
 RQ  1
 EV  GenProp0793;
 --
-SN  galF
+SN  2
 ID  Regulatory protein GalF
+DN  Regulatory protein GalF/galF
 RQ  1
 EV  IPR005774; TIGR01105;
 --
-SN  gnd
+SN  3
 ID  Clustered gnd enzyme
+DN  Clustered gnd enzyme/gnd
 RQ  0
 EV  IPR006113; TIGR00873;
 --
-SN  gne
+SN  4
 ID  Source of UDP-GalNAc
+DN  Source of UDP-GalNAc/gne
 RQ  1
 EV  IPRXXXX; 2732;
 --
-SN  wbwA
+SN  5
 ID  A-Neu5Ac-(2->3)-b-D-Gal transferase
-DN  Beta-D-galactose alpha-2,3-N-acetylneuraminyltransferase
+DN  Beta-D-galactose alpha-2,3-N-acetylneuraminyltransferase/wbwA
 RQ  1
 EV  IPRXXXX; 2737;
 --
-SN  wbwB
+SN  6
 ID  A-D-Gal-(1->4)-a-Neu5Ac transferase
-DN  Alpha-N-acetylneuraminate alpha-1,4-galactosyltransferase
+DN  Alpha-N-acetylneuraminate alpha-1,4-galactosyltransferase/wbwB
 RQ  1
 EV  IPRXXXX; 2739;
 --
-SN  wbwC
+SN  7
 ID  B-D-Gal-(1->3)-b-D-GalNAc transferase
-DN  Beta-N-acetyl-D-galactosamine beta-1,3-galactosyltransferase
+DN  Beta-N-acetyl-D-galactosamine beta-1,3-galactosyltransferase/wbwC
 RQ  1
 EV  IPRXXXX; 2741;
 --
-SN  wzx104
+SN  8
 ID  O104-antigen specific transporter (flippase)
+DN  O104-antigen specific transporter (flippase)/wzx104
 RQ  1
 EV  IPRXXXX; 2740;
 --
-SN  wzy104
+SN  9
 ID  O104-antigen-specific polymerase
+DN  O104-antigen-specific polymerase/wzy104
 RQ  1
 EV  IPRXXXX; 2738;
 --
-SN  wzz104
+SN  10
 ID  O104-antigen specific chain length determinant protein
+DN  O104-antigen specific chain length determinant protein/wzz104
 RQ  0
 EV  IPR003856; PF02706;
 //

@@ -8,23 +8,27 @@ CC  genomes (mostly Proteobacteria) and consists of an ATP-dependent DNA
 CC  ligase, a DEXH-box helicase, a putative exonuclease, and putative
 CC  metallohydrolase. This system may play a role in DNA repair.
 --
-SN  DNA_est
+SN  1
 ID  Metallophosphoesterase, DNA ligase-associated
+DN  Metallophosphoesterase, DNA ligase-associated/DNA_est
 RQ  1
 EV  IPR026336; TIGR04123;
 --
-SN  DNA_exo
+SN  2
 ID  Exonuclease, DNA ligase-associated
+DN  Exonuclease, DNA ligase-associated/DNA_exo
 RQ  1
 EV  IPR026360; TIGR04122;
 --
-SN  DNA_hel
+SN  3
 ID  DEXH box helicase, DNA ligase-associated
+DN  DEXH box helicase, DNA ligase-associated/DNA_hel
 RQ  1
 EV  IPR026362; TIGR04121;
 --
-SN  DNA_lig
+SN  4
 ID  DNA ligase, PP_1105 family
+DN  DNA ligase, PP_1105 family/DNA_lig
 RQ  1
 EV  IPR026333; TIGR04120;
 //

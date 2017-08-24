@@ -17,43 +17,51 @@ CC  an energy-driven sodium-ion pump.  Methane is subsequently released by
 CC  a two-electron reduction of the methyl-coenzyme M by the enzyme
 CC  methyl-coenzyme M reductase.
 --
-SN  MtrA
+SN  1
 ID  Subunit A, cobalamin-containing
+DN  Subunit A, cobalamin-containing/MtrA
 RQ  1
 EV  IPR005778; TIGR01111; sufficient;
 --
-SN  MtrB
+SN  2
 ID   
+DN   /MtrB
 RQ  1
 EV  IPR008690; TIGR04166; sufficient;
 --
-SN  MtrC
+SN  3
 ID   
+DN   /MtrC
 RQ  1
 EV  IPR005865; TIGR01148; sufficient;
 --
-SN  MtrD
+SN  4
 ID   
+DN   /MtrD
 RQ  1
 EV  IPR005779; TIGR01112; sufficient;
 --
-SN  MtrE
+SN  5
 ID   
+DN   /MtrE
 RQ  1
 EV  IPR005780; TIGR01113; sufficient;
 --
-SN  MtrF
+SN  6
 ID   
+DN   /MtrF
 RQ  1
 EV  IPR013347; TIGR02507; sufficient;
 --
-SN  MtrG
+SN  7
 ID   
+DN   /MtrG
 RQ  1
 EV  IPR005866; TIGR01149; sufficient;
 --
-SN  MtrH
+SN  8
 ID  Subunit H, pterin:cobalamin transferase
+DN  Subunit H, pterin:cobalamin transferase/MtrH
 RQ  1
 EV  IPR023467; TIGR01114; sufficient;
 //

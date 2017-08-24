@@ -12,20 +12,21 @@ CC  coli (TIGR02405) and Bacillus (TIGR02404).
 **  no comment yet on whether a TreA should be part of this, make
 **  trehalose-6-P from trehalose.
 --
-SN  PTS
+SN  1
 ID  PTS system, trehalose-specific IIBC component
-DN  PTS system, trehalose-specific IIBC component
+DN  PTS system, trehalose-specific IIBC component/PTS
 RQ  1
 EV  IPR011296; TIGR01992; sufficient;
 --
-SN  cleave
+SN  2
 ID  Trehalose-6-phosphate hydrolase
-DN  Trehalose-6-phosphate hydrolase
+DN  Trehalose-6-phosphate hydrolase/cleave
 RQ  1
 EV  IPR012769; TIGR02403; sufficient;
 --
-SN  repress
+SN  3
 ID  Trehalose operon repressor
+DN  Trehalose operon repressor/repress
 RQ  1
 EV  IPR012770; TIGR02404; sufficient;
 EV  IPR012771; TIGR02405; sufficient;

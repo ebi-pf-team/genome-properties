@@ -25,8 +25,9 @@ CC  carried by a Tn7 transposon, is called a class 2 integron.
 **  A Tn7 system has tnsA, tnsB, tnsC, tnsD, and tnsE genes. The integron
 **  integrase with it is likely to have an internal stop codon.
 --
-SN  integro
+SN  1
 ID  Integron integrase
+DN  Integron integrase/integro
 RQ  1
 EV  IPR011946; TIGR02249;
 TG  GO:0009294;

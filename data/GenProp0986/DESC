@@ -4,13 +4,15 @@ TP  SYSTEM
 AU  Haft DH
 TH  0
 --
-SN  CTERM
+SN  1
 ID  PEP-CTERM, variant class
+DN  PEP-CTERM, variant class/CTERM
 RQ  1
 EV  IPR022472; TIGR03370;
 --
-SN  EXOSORT
+SN  2
 ID  Exosortase, VPLPA-CTERM-specific
+DN  Exosortase, VPLPA-CTERM-specific/EXOSORT
 RQ  1
 EV  IPR026491; TIGR04152;
 //

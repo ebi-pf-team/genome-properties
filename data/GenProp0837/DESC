@@ -16,14 +16,16 @@ CC  acylphosphate from an acyl group on a carrier (CoA or acyl carrier
 CC  protein), and PlsY (YgiH, YneS) transfers the acyl group to
 CC  glycerol-3-phosphate.
 --
-SN  plsX
+SN  1
 ID  PlsX
+DN  PlsX/plsX
 RQ  1
 EV  IPR012281; TIGR00182; sufficient;
 TG  GO:0006654;
 --
-SN  plsY
+SN  2
 ID  Acylphosphate:glycerol 3-phosphate acyltransferase
+DN  Acylphosphate:glycerol 3-phosphate acyltransferase/plsY
 RQ  1
 EV  IPR003811; TIGR00023;
 TG  GO:0006654;

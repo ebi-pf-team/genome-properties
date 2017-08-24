@@ -20,28 +20,33 @@ CC  protein-sorting target.
 **  also a disappointment in phylogenetic profile explorations (iso_id
 **  27433).
 --
-SN  Gtran2
+SN  1
 ID  Putative glycosyltransferase TIGR03111
+DN  Putative glycosyltransferase TIGR03111/Gtran2
 RQ  1
 EV  IPR017542; TIGR03111; sufficient;
 --
-SN  chp_mem
+SN  2
 ID  Conserved hypothetical integral membrane protein
+DN  Conserved hypothetical integral membrane protein/chp_mem
 RQ  0
 EV  IPR021200; TIGR03766;
 --
-SN  cleave
+SN  3
 ID  EpsH core region-related protein
+DN  EpsH core region-related protein/cleave
 RQ  1
 EV  IPR017541; TIGR03110; sufficient;
 --
-SN  pterin
+SN  4
 ID  6-pyruvoyl tetrahydropterin synthase-related domain
+DN  6-pyruvoyl tetrahydropterin synthase-related domain/pterin
 RQ  1
 EV  IPR017543; TIGR03112; sufficient;
 --
-SN  target
+SN  5
 ID  Firmicu-CTERM domain
+DN  Firmicu-CTERM domain/target
 RQ  1
 EV  IPR026409; TIGR04145;
 //

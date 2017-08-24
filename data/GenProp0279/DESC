@@ -8,38 +8,46 @@ CC  transporter systems.  It will have a state of YES if any one of these
 CC  child properties has a state of YES and will have a value of the number
 CC  of distinct cobalt import systems with a state of YES.
 --
-SN  CbiMNQO
+SN  1
 ID  CbiMNOQ ABC transporter: GenProp0277
+DN  CbiMNOQ ABC transporter: GenProp0277/CbiMNQO
 RQ  1
 EV  GenProp0277;
 --
-SN  CbtAB
+SN  2
 ID  CbtAB - proposed: GenProp0280
+DN  CbtAB - proposed: GenProp0280/CbtAB
 RQ  1
 EV  GenProp0280;
 --
-SN  CbtC
+SN  3
 ID   
+DN   /CbtC
 RQ  1
 --
-SN  CbtD
+SN  4
 ID   
+DN   /CbtD
 RQ  1
 --
-SN  CbtE
+SN  5
 ID   
+DN   /CbtE
 RQ  1
 --
-SN  CbtF
+SN  6
 ID   
+DN   /CbtF
 RQ  1
 --
-SN  CbtG
+SN  7
 ID   
+DN   /CbtG
 RQ  1
 --
-SN  adapt
+SN  8
 ID  Adapted HoxN or HupE: GenProp0278
+DN  Adapted HoxN or HupE: GenProp0278/adapt
 RQ  1
 EV  GenProp0278;
 //

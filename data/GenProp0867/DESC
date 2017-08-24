@@ -18,14 +18,16 @@ CC  related by decarboxylation include, for example, the pairing of an
 CC  acid-induced arginine decarboxylase with an arginine-agmatine
 CC  antiporter as in Escherichia coli.
 --
-SN  AspD
+SN  1
 ID  Aspartate 4-decarboxylase
+DN  Aspartate 4-decarboxylase/AspD
 RQ  1
 EV  IPR022518; TIGR03801;
 TG  GO:0010248;
 --
-SN  AspT
+SN  2
 ID  Aspartate-alanine antiporter
+DN  Aspartate-alanine antiporter/AspT
 RQ  1
 EV  IPR022457; TIGR03802;
 TG  GO:0010248;

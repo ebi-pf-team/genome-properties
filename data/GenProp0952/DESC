@@ -7,13 +7,15 @@ CC  3-deoxy-3-(R)-3-hydroxybutyramido-D-fucose (DFu3NBu) is a component of
 CC  the O103 E. coli O-antigen observed in strain 12009 and is incorporated
 CC  from the dTDP-adduct.
 --
-SN  dTDP3AF
+SN  1
 ID  Source of dTDP-3-aminofucose
+DN  Source of dTDP-3-aminofucose/dTDP3AF
 RQ  1
 EV  GenProp0951;
 --
-SN  wbtB
+SN  2
 ID  dTDP-3-aminofucose N-(3-hydroxybutyryl)-transferase
+DN  dTDP-3-aminofucose N-(3-hydroxybutyryl)-transferase/wbtB
 RQ  1
 EV  IPRXXXX; 2758;
 //

@@ -1,12 +1,12 @@
->sp|P69346|YEFM_ECOLI (Step num: antidote) Antitoxin YefM OS=Escherichia coli (strain K12) GN=yefM PE=1 SV=1
+>sp|P69346|YEFM_ECOLI (Step num: 1) Antitoxin YefM OS=Escherichia coli (strain K12) GN=yefM PE=1 SV=1
 MRTISYSEARQNLSATMMKAVEDHAPILITRQNGEACVLMSLEEYNSLEETAYLLRSPAN
 ARRLMDSIDSLKSGKGTEKDIIE
 
->sp|P0C077|RELE_ECOLI (Step num: killing) mRNA interferase RelE OS=Escherichia coli (strain K12) GN=relE PE=1 SV=1
+>sp|P0C077|RELE_ECOLI (Step num: 2) mRNA interferase RelE OS=Escherichia coli (strain K12) GN=relE PE=1 SV=1
 MAYFLDFDERALKEWRKLGSTVREQLKKKLVEVLESPRIEANKLRGMPDCYKIKLRSSGY
 RLVYQVIDEKVVVFVISVGKRERSEVYSEAVKRIL
 
->tr|K9ZQE5|K9ZQE5_ANACC (Step num: unassign) Addiction module component, TIGR02574 family OS=Anabaena cylindrica (strain ATCC 27899 / PCC 7122) GN=Anacy_5718 PE=4 SV=1
+>tr|K9ZQE5|K9ZQE5_ANACC (Step num: 3) Addiction module component, TIGR02574 family OS=Anabaena cylindrica (strain ATCC 27899 / PCC 7122) GN=Anacy_5718 PE=4 SV=1
 MNLHPLLKVDISELSIAERIQLAEDLWDSILEQQEELPLSQAQQQELDRRLENYKKNPTN
 GSSWEDVKKRLGFSQLTIT
 

@@ -24,35 +24,41 @@ CC  produce GTP from GDP and polyphosphate.
 **  versions.  Now I am adding PPK2 stuff, which is actually a broad family
 **  that I am splitting at least three ways.
 --
-SN  PP_ppk1
+SN  1
 ID  Polyphosphate kinase 1
+DN  Polyphosphate kinase 1/PP_ppk1
 RQ  1
 EV  IPR024953; PF02503;
 EV  IPR003414; TIGR03705;
 --
-SN  PP_ppx
+SN  2
 ID  Exopolyphosphatase
+DN  Exopolyphosphatase/PP_ppx
 RQ  1
 EV  IPR022371; TIGR03706;
 EV  IPRXXXX; PF02541;
 --
-SN  PP_useA
+SN  3
 ID  Polyphosphate kinase 2, PA0141 family
+DN  Polyphosphate kinase 2, PA0141 family/PP_useA
 RQ  0
 EV  IPR022486; TIGR03707;
 --
-SN  PP_useB
+SN  4
 ID  Polyphosphate:AMP phosphotransferase
+DN  Polyphosphate:AMP phosphotransferase/PP_useB
 RQ  0
 EV  IPR022489; TIGR03708;
 --
-SN  PP_useC
+SN  5
 ID  Putative polyphosphate kinase
+DN  Putative polyphosphate kinase/PP_useC
 RQ  0
 EV  IPR022300; TIGR03709;
 --
-SN  PP_useX
+SN  6
 ID  Polyphosphate kinase 2
+DN  Polyphosphate kinase 2/PP_useX
 RQ  0
 EV  IPR022488; PF03976;
 //

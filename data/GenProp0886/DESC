@@ -9,13 +9,15 @@ CC  are associated with flagella.  Insufficient evidence has been
 CC  determined to further classify which flagellar subsystem is the
 CC  appropriate category to place these components.
 --
-SN  flhF
+SN  1
 ID  Flagellar biosynthesis protein FlhF
+DN  Flagellar biosynthesis protein FlhF/flhF
 RQ  1
 EV  IPR020006; TIGR03499;
 --
-SN  fliL
+SN  2
 ID  Flagellar basal body-associated protein FliL
+DN  Flagellar basal body-associated protein FliL/fliL
 RQ  1
 EV  IPR005503; PF03748; sufficient;
 //

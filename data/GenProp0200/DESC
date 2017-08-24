@@ -54,58 +54,58 @@ CC  gene products has been demonstrated [2].
 **  deficient in naphthoquinone synthesis, and in vitro work shows quinol
 **  dehydrogenase role.
 --
-SN  NapA
+SN  1
 ID  Periplasmic nitrate reductase, large subunit
-DN  Nitrate reductase (EC:1.7.99.4)
+DN  Nitrate reductase (EC:1.7.99.4)/NapA
 RQ  1
 EV  IPR010051; TIGR01706; sufficient;
 TG  GO:0042126;
 --
-SN  NapB
+SN  2
 ID  Nitrate reductase cytochrome c-type subunit
-DN  Periplasmic nitrate reductase, diheme cytochrome c subunit
+DN  Periplasmic nitrate reductase, diheme cytochrome c subunit/NapB
 RQ  1
 EV  IPR005591; PF03892; sufficient;
 TG  GO:0042126;
 --
-SN  NapC
+SN  3
 ID  NapC electron transfer protein
-DN  Periplasmic nitrate (or nitrite) reductase C-type cytochrome,NapC/NirT family
+DN  Periplasmic nitrate (or nitrite) reductase C-type cytochrome,NapC/NirT family/NapC
 RQ  1
 EV  IPR011885; TIGR02161; sufficient;
 TG  GO:0042126;
 --
-SN  NapD
+SN  4
 ID  TAT signal chaperone NapD
-DN  Periplasmic nitrate reductase NapD
+DN  Periplasmic nitrate reductase NapD/NapD
 RQ  1
 EV  IPR005623; PF03927; sufficient;
 TG  GO:0042126;
 --
-SN  NapE
+SN  5
 ID  Periplasmic nitrate reductase, NapE
-DN  Periplasmic nitrate reductase NapE
+DN  Periplasmic nitrate reductase NapE/NapE
 RQ  0
 EV  IPR004448; TIGR02973; sufficient;
 TG  GO:0042126;
 --
-SN  NapF
+SN  6
 ID  Ferredoxin - type protein NapF
-DN  Ferredoxin-type protein NapF
+DN  Ferredoxin-type protein NapF/NapF
 RQ  0
 EV  IPR004496; TIGR00402; sufficient;
 TG  GO:0042126;
 --
-SN  NapG
+SN  7
 ID  Periplasmic nitrate reductase, NapG subunit
-DN  Ferredoxin-type protein NapG
+DN  Ferredoxin-type protein NapG/NapG
 RQ  0
 EV  IPRXXXX; 2263;
 TG  GO:0042126;
 --
-SN  NapH
+SN  8
 ID  Periplasmic nitrate reductase, NapH subunit
-DN  Ferredoxin-type protein NapH
+DN  Ferredoxin-type protein NapH/NapH
 RQ  0
 EV  IPRXXXX; 2262;
 TG  GO:0042126;

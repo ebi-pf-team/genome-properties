@@ -11,13 +11,15 @@ CC  exist for the conversion of xanthine to urate including the XdhABC
 CC  xanthine dehydrogenase complex (GenProp0640), xanthine oxidase and
 CC  other less well-described oxidoreductases.
 --
-SN  X->U
+SN  1
 ID  Xanthine conversion to urate (uric acid)
+DN  Xanthine conversion to urate (uric acid)/X->U
 RQ  1
 EV  GenProp0640;
 --
-SN  Xan-in
+SN  2
 ID  Source of xanthine
+DN  Source of xanthine/Xan-in
 RQ  1
 EV  IPR017588; TIGR03173; sufficient;
 EV  IPR006679; TIGR01178; sufficient;

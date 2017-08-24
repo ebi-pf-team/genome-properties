@@ -25,48 +25,57 @@ CC  superfamily, and this subtype shares some similarities with the CRISPR
 CC  RAMP module in that it tends to be associated with other subtypes and
 CC  often forms hybrid-subtype loci. 
 --
-SN  Cas1
+SN  1
 ID  Cas1, Mtube region
+DN  Cas1, Mtube region/Cas1
 RQ  1
 EV  IPR002729; TIGR00287;
 --
-SN  Cas2
+SN  2
 ID  Cas2, Mtube region
+DN  Cas2, Mtube region/Cas2
 RQ  1
 EV  IPR021127; TIGR01573;
 --
-SN  Cas6
+SN  3
 ID  Cas6, Mtube region
+DN  Cas6, Mtube region/Cas6
 RQ  1
 EV  IPR010156; TIGR01877;
 --
-SN  Csm1
+SN  4
 ID  Csm1
+DN  Csm1/Csm1
 RQ  1
 EV  IPR013408; TIGR02578; sufficient;
 --
-SN  Csm2
+SN  5
 ID  Csm2
+DN  Csm2/Csm2
 RQ  1
 EV  IPR010149; TIGR01870; sufficient;
 --
-SN  Csm3
+SN  6
 ID  Csm3
+DN  Csm3/Csm3
 RQ  1
 EV  IPR013412; TIGR02582; sufficient;
 --
-SN  Csm4
+SN  7
 ID  Csm4
+DN  Csm4/Csm4
 RQ  1
 EV  IPR005510; TIGR01903; sufficient;
 --
-SN  Csm5
+SN  8
 ID  Csm5
+DN  Csm5/Csm5
 RQ  1
 EV  IPR010173; TIGR01899; sufficient;
 --
-SN  Csm6
+SN  9
 ID  Csm6
+DN  Csm6/Csm6
 RQ  0
 EV  IPR013489; TIGR02672; sufficient;
 //

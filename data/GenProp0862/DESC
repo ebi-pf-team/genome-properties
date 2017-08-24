@@ -12,18 +12,21 @@ CC  assesses only the two signature enzymes PdxA and PdxJ.
 **  PdxA called 4th step by PMID: 12896974  Expect the PdxA/PdxJ pathway in
 **  gamma subdivision.  PdxJ is final step. Homooctameric.
 --
-SN  pdxA
+SN  1
 ID  4-hydroxythreonine-4-phosphate dehydrogenase
+DN  4-hydroxythreonine-4-phosphate dehydrogenase/pdxA
 RQ  1
 EV  IPR005255; TIGR00557;
 TG  GO:0042823;
 --
-SN  pdxB
+SN  2
 ID  Erythronate-4-phosphate dehydrogenase
+DN  Erythronate-4-phosphate dehydrogenase/pdxB
 RQ  0
 --
-SN  pdxJ
+SN  3
 ID  Pyridoxal phosphate synthase
+DN  Pyridoxal phosphate synthase/pdxJ
 RQ  1
 EV  IPR004569; TIGR00559;
 TG  GO:0042823;

@@ -13,13 +13,15 @@ CC  D-perosamine (4-deoxy-4-amino-D-rhamnose) is a component of certain
 CC  poslysaccharides. The N-acetylated version (D-Rha4NAc) is found in the
 CC  E. coli O157 antigen.
 --
-SN  4k6dMan
+SN  1
 ID  Source of GDP-4-keto-6-deoxymannose
+DN  Source of GDP-4-keto-6-deoxymannose/4k6dMan
 RQ  1
 EV  GenProp0930;
 --
-SN  Per
+SN  2
 ID  Perosamine synthetase
+DN  Perosamine synthetase/Per
 RQ  1
 EV  IPRXXXX; 2875;
 //

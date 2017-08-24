@@ -6,23 +6,27 @@ TH  0
 CC  The nitrate reductase enzyme complex allows bacteria to use nitrate as
 CC  an electron acceptor during anaerobic growth.
 --
-SN  narJ
+SN  1
 ID  Nitrate reductase molybdenum cofactor assembly chaperone
+DN  Nitrate reductase molybdenum cofactor assembly chaperone/narJ
 RQ  1
 EV  IPR003765; TIGR00684; sufficient;
 --
-SN  nar_alp
+SN  2
 ID  Respiratory nitrate reductase, alpha subunit
+DN  Respiratory nitrate reductase, alpha subunit/nar_alp
 RQ  1
 EV  IPR006468; TIGR01580; sufficient;
 --
-SN  nar_bet
+SN  3
 ID  Respiratory nitrate reductase, beta subunit
+DN  Respiratory nitrate reductase, beta subunit/nar_bet
 RQ  1
 EV  IPR006547; TIGR01660; sufficient;
 --
-SN  nar_gam
+SN  4
 ID  Respiratory nitrate reductase, gamma subunit
+DN  Respiratory nitrate reductase, gamma subunit/nar_gam
 RQ  1
 EV  IPR003816; TIGR00351; sufficient;
 //

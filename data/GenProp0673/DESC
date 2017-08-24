@@ -32,13 +32,15 @@ CC  order to produce ribulose-5-phosphate, essential for nucleotide
 CC  biosynthesis. The two enzymes may occur as a fusion protein, as in
 CC  Thermococcus kodakaraensis.
 --
-SN  HPS
+SN  1
 ID  3-hexulose-6-phosphate synthase
+DN  3-hexulose-6-phosphate synthase/HPS
 RQ  1
 EV  IPR017553; TIGR03128; sufficient;
 --
-SN  PHI
+SN  2
 ID  6-phospho-3-hexuloisomerase
+DN  6-phospho-3-hexuloisomerase/PHI
 RQ  1
 EV  IPR017552; TIGR03127; sufficient;
 //

@@ -15,32 +15,37 @@ CC  Sinorhizobium meliloti, where the system is partially characterized,
 CC  these genes occur together four genes for an ectoine/hydroxyectoine ABC
 CC  transporter for ectoine uptake.
 --
-SN  eutA
+SN  1
 ID  Ectoine utilization protein EutA
+DN  Ectoine utilization protein EutA/eutA
 RQ  1
 EV  IPR014332; TIGR02990; sufficient;
 TG  GO:0042400;
 --
-SN  eutB
+SN  2
 ID  Ectoine utilization protein EutB
+DN  Ectoine utilization protein EutB/eutB
 RQ  1
 EV  IPR014333; TIGR02991; sufficient;
 TG  GO:0042400;
 --
-SN  eutC
+SN  3
 ID  Ectoine utilization protein EutC
+DN  Ectoine utilization protein EutC/eutC
 RQ  1
 EV  IPR014334; TIGR02992; sufficient;
 TG  GO:0042400;
 --
-SN  eutD
+SN  4
 ID  Ectoine utilization protein EutD
+DN  Ectoine utilization protein EutD/eutD
 RQ  1
 EV  IPR014335; TIGR02993; sufficient;
 TG  GO:0042400;
 --
-SN  eutE
+SN  5
 ID  Ectoine utilization protein EutE
+DN  Ectoine utilization protein EutE/eutE
 RQ  1
 EV  IPR014336; TIGR02994; sufficient;
 TG  GO:0042400;

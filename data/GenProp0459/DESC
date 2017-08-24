@@ -7,27 +7,31 @@ CC  ROUGH-in for a xylose catabolism genome property, where having xylose
 CC  isomerase, xylulose kinase, importers, and maybe an aldolase would
 CC  signify xylose catabolism.
 --
-SN  epim
+SN  1
 ID  Xylose 1-epimerase
+DN  Xylose 1-epimerase/epim
 RQ  0
 EV  IPRXXXX; PF01263;
 TG  GO:0042732;
 --
-SN  hyp_tran
+SN  2
 ID  Hypothethesized transporter components
+DN  Hypothethesized transporter components/hyp_tran
 RQ  0
 EV  IPRXXXX; PF05360;
 --
-SN  regulat
+SN  3
 ID  Clustered regulatory components
+DN  Clustered regulatory components/regulat
 RQ  0
 EV  IPRXXXX; PF00356;
 EV  IPRXXXX; PF00480;
 EV  IPRXXXX; PF00455;
 EV  IPRXXXX; PF00165;
 --
-SN  transpor
+SN  4
 ID  Xylose transporter components
+DN  Xylose transporter components/transpor
 RQ  1
 EV  IPR013456; TIGR02634; sufficient;
 TG  GO:0015753;
@@ -40,16 +44,18 @@ TG  GO:0015753;
 EV  IPRXXXX; PF00005;
 TG  GO:0015753;
 --
-SN  xyl_iso
+SN  5
 ID  Xylose isomerase
+DN  Xylose isomerase/xyl_iso
 RQ  1
 EV  IPR013452; TIGR02630; sufficient;
 TG  GO:0042732;
 EV  IPR013453; TIGR02631; sufficient;
 TG  GO:0042732;
 --
-SN  xyl_kin
+SN  6
 ID  Xylulokinase
+DN  Xylulokinase/xyl_kin
 RQ  1
 EV  IPR006000; TIGR01312; sufficient;
 TG  GO:0042732;

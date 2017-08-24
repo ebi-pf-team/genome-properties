@@ -12,8 +12,9 @@ RL  Proc Natl Acad Sci U S A. 2013;110:e241-9.
 CC  A type III toxin-antitoxin system consists of a toxic peptide and
 CC  structural RNA antitoxin. 
 --
-SN  toxin
+SN  1
 ID  Toxin, type III toxin-antitoxin system
+DN  Toxin, type III toxin-antitoxin system/toxin
 RQ  1
 EV  IPR025911; PF13958;
 //

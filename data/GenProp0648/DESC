@@ -51,51 +51,51 @@ CC  only in a minority of phage shock operons.
 **  Probably there is very little generality to the inclusion of PspD and
 **  PspE in the regulon across large numbers of species.
 --
-SN  pspA
+SN  1
 ID  Phage shock protein PspA
-DN  Phage shock protein A
+DN  Phage shock protein A/pspA
 RQ  1
 EV  IPR014319; TIGR02977; sufficient;
 TG  GO:0006950;
 --
-SN  pspB
+SN  2
 ID  Phage shock protein PspB
-DN  Phage shock protein B
+DN  Phage shock protein B/pspB
 RQ  1
 EV  IPR009554; TIGR02976; sufficient;
 TG  GO:0006950;
 --
-SN  pspC
+SN  3
 ID  Phage shock protein PspC
-DN  Phage shock protein C
+DN  Phage shock protein C/pspC
 RQ  1
 EV  IPR014320; TIGR02978; sufficient;
 TG  GO:0006950;
 --
-SN  pspD
+SN  4
 ID  Phage shock protein PspD
-DN  Phage shock protein D
+DN  Phage shock protein D/pspD
 RQ  0
 EV  IPR014321; TIGR02979; sufficient;
 TG  GO:0006950;
 --
-SN  pspE
+SN  5
 ID  Rhodanese PspE
-DN  Phage shock protein E
+DN  Phage shock protein E/pspE
 RQ  0
 EV  IPR014323; TIGR02981; sufficient;
 TG  GO:0006950;
 --
-SN  pspF
+SN  6
 ID  Signa-54-dependent activagtor PspF
-DN  Psp operon transcriptional activator
+DN  Psp operon transcriptional activator/pspF
 RQ  1
 EV  IPR014317; TIGR02974; sufficient;
 TG  GO:0006950;
 --
-SN  pspG
+SN  7
 ID  Phage shock protein PspG (YjbO)
-DN  Phage shock protein G
+DN  Phage shock protein G/pspG
 RQ  0
 EV  IPR014318; TIGR02975; sufficient;
 TG  GO:0006950;

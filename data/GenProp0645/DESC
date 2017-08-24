@@ -11,6 +11,7 @@ CC  via a number of pathways.
 --
 SN  1
 ID  Putrescine biosynthesis pathways
+DN  Putrescine biosynthesis pathways/1
 RQ  1
 EV  GenProp0642;
 EV  GenProp0643;

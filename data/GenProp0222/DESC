@@ -8,9 +8,9 @@ CC  summary property that allows for the identification of heme
 CC  biosynthesis from 5-aminolevulinate, when this property is combined
 CC  with GenProp0220 and GenProp0221.
 --
-SN  hemH
+SN  1
 ID  Ferrochelatase
-DN  Ferrochelatase
+DN  Ferrochelatase/hemH
 RQ  1
 EV  IPR001015; TIGR00109; sufficient;
 TG  GO:0006779;

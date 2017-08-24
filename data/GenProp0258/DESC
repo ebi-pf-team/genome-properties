@@ -8,198 +8,203 @@ CC  amino acids exist are become charged with the correct amino acid. Most
 CC  are changed directly by a known ligase that is a single polypeptide
 CC  chain, but not all. 
 --
-SN  Ala
+SN  1
 ID  Alanyl-tRNA synthetase
-DN  Alanyl-tRNA synthetase
+DN  Alanyl-tRNA synthetase/Ala
 RQ  1
 EV  IPR002318; TIGR00344; sufficient;
 --
-SN  Arg
+SN  2
 ID  Arginyl-tRNA synthetase
-DN  Arginyl-tRNA synthetase
+DN  Arginyl-tRNA synthetase/Arg
 RQ  1
 EV  IPR001278; TIGR00456; sufficient;
 EV  IPR001278; PF00750; sufficient;
 --
-SN  Asn_dir
+SN  3
 ID  Asn direct aminoacylation
-DN  Asparaginyl-tRNA synthetase
+DN  Asparaginyl-tRNA synthetase/Asn_dir
 RQ  1
 EV  IPR004522; TIGR00457; sufficient;
 --
-SN  Asp
+SN  4
 ID  Aspartyl-tRNA synthetase
-DN  Aspartyl-tRNA synthetase
+DN  Aspartyl-tRNA synthetase/Asp
 RQ  1
 EV  IPR004523; TIGR00458; sufficient;
 EV  IPR004524; TIGR00459; sufficient;
 --
-SN  Cys
+SN  5
 ID  Cysteinyl-tRNA synthetase
-DN  Cysteinyl-tRNA synthetase
+DN  Cysteinyl-tRNA synthetase/Cys
 RQ  1
 EV  IPR015803; TIGR00435; sufficient;
 --
-SN  Gln_dir
+SN  6
 ID  Gln direct aminoacylation
-DN  Glutaminyl-tRNA synthetase
+DN  Glutaminyl-tRNA synthetase/Gln_dir
 RQ  1
 EV  IPR004514; TIGR00440; sufficient;
 --
-SN  Glu
+SN  7
 ID  Glutamyl-tRNA synthetase
-DN  Glutamyl-tRNA synthetase
+DN  Glutamyl-tRNA synthetase/Glu
 RQ  1
 EV  IPR004527; TIGR00464; sufficient;
 EV  IPR004526; TIGR00463; sufficient;
 --
-SN  Gly_A
+SN  8
 ID  Glycyl-tRNA synthetase, alpha subunit
-DN  Glycyl-tRNA synthetase, alpha subunit
+DN  Glycyl-tRNA synthetase, alpha subunit/Gly_A
 RQ  1
 EV  IPR002310; TIGR00388; sufficient;
 --
-SN  Gly_B
+SN  9
 ID  Glycyl-tRNA synthetase, beta subunit
-DN  Glycyl-tRNA synthetase, beta subunit
+DN  Glycyl-tRNA synthetase, beta subunit/Gly_B
 RQ  1
 EV  IPR015944; TIGR00211; sufficient;
 --
-SN  Gly_hom
+SN  10
 ID  Glycyl-tRNA synthetase
-DN  Glycyl-tRNA synthetase
+DN  Glycyl-tRNA synthetase/Gly_hom
 RQ  1
 EV  IPR002315; TIGR00389; sufficient;
 --
-SN  His
+SN  11
 ID  Histidyl-tRNA synthetase
-DN  Histidyl-tRNA synthetase
+DN  Histidyl-tRNA synthetase/His
 RQ  1
 EV  IPR015807; TIGR00442; sufficient;
 --
-SN  Ile
+SN  12
 ID  Isoleucyl-tRNA synthetase
-DN  Isoleucyl-tRNA synthetase
+DN  Isoleucyl-tRNA synthetase/Ile
 RQ  1
 EV  IPR002301; TIGR00392; sufficient;
 --
-SN  Leu
+SN  13
 ID  Leucyl-tRNA synthetase
-DN  Leucyl-tRNA synthetase
+DN  Leucyl-tRNA synthetase/Leu
 RQ  1
 EV  IPR004493; TIGR00395; sufficient;
 EV  IPR002302; TIGR00396; sufficient;
 --
-SN  Lys
+SN  14
 ID  Lysyl-tRNA synthetase
-DN  Lysyl-tRNA synthetase
+DN  Lysyl-tRNA synthetase/Lys
 RQ  1
 EV  IPR002904; TIGR00467; sufficient;
 EV  IPR002313; TIGR00499; sufficient;
 --
-SN  Met
+SN  15
 ID  Methionyl-tRNA synthetase
-DN  Methionyl-tRNA synthetase
+DN  Methionyl-tRNA synthetase/Met
 RQ  1
 EV  IPR014758; TIGR00398; sufficient;
 --
-SN  Met_Bet
+SN  16
 ID  Methionyl-tRNA synthetase, beta subunit
-DN  Methionyl-tRNA synthetase
+DN  Methionyl-tRNA synthetase/Met_Bet
 RQ  0
 EV  IPR004495; TIGR00399; sufficient;
 --
-SN  Phe_A
+SN  17
 ID  Phenylalanyl-tRNA synthetase, alpha subunit
-DN  Phenylalanyl-tRNA synthetase, alpha subunit
+DN  Phenylalanyl-tRNA synthetase, alpha subunit/Phe_A
 RQ  1
 EV  IPR004529; TIGR00468; sufficient;
 --
-SN  Phe_B
+SN  18
 ID  Phenylalanyl-tRNA synthetase, beta subunit
-DN  Phenylalanyl-tRNA synthetase, beta subunit
+DN  Phenylalanyl-tRNA synthetase, beta subunit/Phe_B
 RQ  1
 EV  IPR004531; TIGR00471; sufficient;
 EV  IPR004532; TIGR00472; sufficient;
 --
-SN  Pro
+SN  19
 ID  Prolyl-tRNA synthetase
-DN  Prolyl-tRNA synthetase
+DN  Prolyl-tRNA synthetase/Pro
 RQ  1
 EV  IPR004499; TIGR00408; sufficient;
 EV  IPR004500; TIGR00409; sufficient;
 --
-SN  Ser
+SN  20
 ID  Seryl-tRNA synthetase
-DN  Seryl-tRNA synthetase
+DN  Seryl-tRNA synthetase/Ser
 RQ  1
 EV  IPR002317; TIGR00414; sufficient;
 EV  IPR004503; TIGR00415; sufficient;
 --
-SN  Thr
+SN  21
 ID  Threonyl-tRNA synthetase
-DN  Threonyl-tRNA synthetase
+DN  Threonyl-tRNA synthetase/Thr
 RQ  1
 EV  IPR002320; TIGR00418; sufficient;
 --
-SN  Trp
+SN  22
 ID  Tryptophanyl-tRNA synthetase
-DN  Tryptophanyl-tRNA synthetase
+DN  Tryptophanyl-tRNA synthetase/Trp
 RQ  1
 EV  IPR002306; TIGR00233; sufficient;
 --
-SN  Tyr
+SN  23
 ID  Tyrosyl-tRNA synthetase
-DN  Tyrosyl-tRNA synthetase
+DN  Tyrosyl-tRNA synthetase/Tyr
 RQ  1
 EV  IPR002307; TIGR00234; sufficient;
 --
-SN  Val
+SN  24
 ID  Valyl-tRNA synthetase
-DN  Valyl-tRNA synthetase
+DN  Valyl-tRNA synthetase/Val
 RQ  1
 EV  IPR002303; TIGR00422; sufficient;
 --
-SN  gatA
+SN  25
 ID  GatA subunit, glutamyl-tRNA(Gln) amidotransferase
-DN  Glutamyl-tRNA(Gln) amidotransferase, A subunit
+DN  Glutamyl-tRNA(Gln) amidotransferase, A subunit/gatA
 RQ  1
 EV  IPR004412; TIGR00132; sufficient;
 --
-SN  gatA_N
+SN  26
 ID  GatA as aspartyl-tRNA(Asn) complex candidate
+DN  GatA as aspartyl-tRNA(Asn) complex candidate/gatA_N
 RQ  1
 EV  IPR004412; TIGR00132; sufficient;
 --
-SN  gatB
+SN  27
 ID  GatB subunit, glutamyl-tRNA(Gln) amidotransferase
-DN  Glutamyl-tRNA(Gln) amidotransferase, B subunit
+DN  Glutamyl-tRNA(Gln) amidotransferase, B subunit/gatB
 RQ  1
 EV  IPR004413; TIGR00133; sufficient;
 --
-SN  gatB_N
+SN  28
 ID  GatB as aspartyl-tRNA(Asn) complex candidate
+DN  GatB as aspartyl-tRNA(Asn) complex candidate/gatB_N
 RQ  1
 EV  IPR004413; TIGR00133; sufficient;
 --
-SN  gatC
+SN  29
 ID  GatC subunit, glutamyl-tRNA(Gln) amidotransferase
-DN  Glutamyl-tRNA(Gln) amidotransferase, C subunit
+DN  Glutamyl-tRNA(Gln) amidotransferase, C subunit/gatC
 RQ  1
 EV  IPR003837; TIGR00135; sufficient;
 --
-SN  gatC_N
+SN  30
 ID  GatC as aspartyl-tRNA(Asn) complex candidate
+DN  GatC as aspartyl-tRNA(Asn) complex candidate/gatC_N
 RQ  1
 EV  IPR003837; TIGR00135; sufficient;
 --
-SN  gatD
+SN  31
 ID  GatD subunit, archaeal glutamyl-tRNA(Gln) amidotransferase
+DN  GatD subunit, archaeal glutamyl-tRNA(Gln) amidotransferase/gatD
 RQ  1
 EV  IPR011878; TIGR02153; sufficient;
 --
-SN  gatE
+SN  32
 ID  GatE subunit, archaeal glutamyl-tRNA(Gln) amidotransferase
+DN  GatE subunit, archaeal glutamyl-tRNA(Gln) amidotransferase/gatE
 RQ  1
 EV  IPR004414; TIGR00134; sufficient;
 //

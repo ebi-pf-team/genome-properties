@@ -78,38 +78,45 @@ CC  enzyme lacks a kinase domain. The ABC transporter appears to require
 CC  the presence of the  modified final residue to move the polymer to the
 CC  periplasmic side of the membrane in both systems.
 --
-SN  Man
+SN  1
 ID  Source of GDP-D-mannose
+DN  Source of GDP-D-mannose/Man
 RQ  1
 EV  GenProp1017;
 --
-SN  MtfA
+SN  2
 ID  Mannosyltransferase A
+DN  Mannosyltransferase A/MtfA
 RQ  1
 EV  IPRXXXX; 2886;
 --
-SN  MtfB
+SN  3
 ID  Mannosyltransferase B
+DN  Mannosyltransferase B/MtfB
 RQ  1
 EV  IPRXXXX; 2853;
 --
-SN  MtfC
+SN  4
 ID  Mannosyltransferase C
+DN  Mannosyltransferase C/MtfC
 RQ  1
 EV  IPRXXXX; 2854;
 --
-SN  MtfD
+SN  5
 ID  Terminating kinase/methyltransferase and chain-length determinant protein
+DN  Terminating kinase/methyltransferase and chain-length determinant protein/MtfD
 RQ  1
 EV  IPRXXXX; 2887;
 --
-SN  wzm
+SN  6
 ID  ABC transporter, transmembrane protein
+DN  ABC transporter, transmembrane protein/wzm
 RQ  1
 EV  IPRXXXX; 2888;
 --
-SN  wzt
+SN  7
 ID  ABC transporter, ATP-binding domain and substrate specificity determinant protein
+DN  ABC transporter, ATP-binding domain and substrate specificity determinant protein/wzt
 RQ  1
 EV  IPRXXXX; 2889;
 //

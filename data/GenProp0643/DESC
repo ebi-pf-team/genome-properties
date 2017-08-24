@@ -11,13 +11,15 @@ CC  arginine represented here.  A pathway found only in eukaryotes for the
 CC  biosynthesis of creatine also incidentally generates ornithine (and
 CC  guanidinoacetate) from arginine and glycine. 
 --
-SN  SpeC/F
+SN  1
 ID  Ornithine decarboxylase
+DN  Ornithine decarboxylase/SpeC/F
 RQ  1
 EV  IPR027568; TIGR04301; sufficient;
 --
-SN  arg-orn
+SN  2
 ID  Conversion of arginine to ornithine
+DN  Conversion of arginine to ornithine/arg-orn
 RQ  1
 EV  GenProp0639;
 EV  IPR014033; TIGR01229; sufficient;

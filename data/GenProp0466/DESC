@@ -25,46 +25,53 @@ CC  TIGR03309 (YqeB family), selenium can substitute for sulfur.
 **  uncharacterized.  The MobA model TIGR02665 is only for Proteobacteria. 
 **  The MoaB model TIGR02667 is only for Proteobacteria.
 --
-SN  moaA
+SN  1
 ID  Molybdenum cofactor biosynthesis protein A
+DN  Molybdenum cofactor biosynthesis protein A/moaA
 RQ  1
 EV  IPR013483; TIGR02666; sufficient;
 TG  GO:0032324;
 EV  IPR013485; TIGR02668; sufficient;
 TG  GO:0032324;
 --
-SN  moaB
+SN  2
 ID  Molybdenum cofactor biosynthesis protein B
+DN  Molybdenum cofactor biosynthesis protein B/moaB
 RQ  0
 EV  IPR013484; TIGR02667; sufficient;
 TG  GO:0032324;
 --
-SN  moaC
+SN  3
 ID  Molybdenum cofactor biosynthesis protein C
+DN  Molybdenum cofactor biosynthesis protein C/moaC
 RQ  1
 EV  IPR023045; TIGR00581; sufficient;
 TG  GO:0032324;
 --
-SN  moaD
+SN  4
 ID  Molybdopterin converting factor, subunit 1
+DN  Molybdopterin converting factor, subunit 1/moaD
 RQ  1
 EV  IPR010034; TIGR01682; sufficient;
 TG  GO:0032324;
 --
-SN  moaE
+SN  5
 ID  Molybdopterin converting factor, subunit 2
+DN  Molybdopterin converting factor, subunit 2/moaE
 RQ  1
 EV  IPR003448; PF02391; sufficient;
 TG  GO:0032324;
 --
-SN  mobA
+SN  6
 ID  Molybdopterin-guanine dinucleotide biosynthesis protein A
+DN  Molybdopterin-guanine dinucleotide biosynthesis protein A/mobA
 RQ  0
 EV  IPR013482; TIGR02665; sufficient;
 TG  GO:0032324;
 --
-SN  mobB
+SN  7
 ID  Molybdopterin-guanine dinucleotide biosynthesis protein B
+DN  Molybdopterin-guanine dinucleotide biosynthesis protein B/mobB
 RQ  1
 EV  IPR004435; TIGR00176; sufficient;
 TG  GO:0032324;

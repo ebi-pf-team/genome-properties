@@ -6,18 +6,21 @@ TH  0
 CC  According to notes in PF01420:  one DNA specificity (S) domain  two
 CC  modification (M) units  two restriction (R) units. 
 --
-SN  M
+SN  1
 ID  M modification methylase PF02384
+DN  M modification methylase PF02384/M
 RQ  1
 EV  IPR003356; PF02384; sufficient;
 --
-SN  R
+SN  2
 ID  R restriction PF04313
+DN  R restriction PF04313/R
 RQ  1
 EV  IPR007409; PF04313; sufficient;
 --
-SN  S
+SN  3
 ID  S specificity PF01420
+DN  S specificity PF01420/S
 RQ  1
 EV  IPR000055; PF01420; sufficient;
 //

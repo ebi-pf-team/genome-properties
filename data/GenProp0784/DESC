@@ -14,89 +14,111 @@ CC  molecule of NAD+ is reduced.
 --
 SN  1
 ID  Acetyl-CoA carboxylase
-RQ  1
---
-SN  10
-ID  Succinyl-CoA reductase (NADPH)
-RQ  1
---
-SN  11
-ID  Succinate semialdehyde reductase (NADPH)
-RQ  1
---
-SN  12
-ID  4-hydroxybutyryl-CoA synthetase (AMP-forming)
-RQ  1
---
-SN  13
-ID  4-hydroxybutyryl-CoA dehydratase
-RQ  1
---
-SN  14
-ID  Crotonyl-CoA hydratase
-RQ  1
---
-SN  15
-ID  3-hydroxybutyryl-CoA dehydrogenase (NAD+)
-RQ  1
---
-SN  16
-ID  Acetoacetyl-CoA beta-ketothiolase
-RQ  1
---
-SN  17
-ID  Pyruvate synthase
-RQ  0
---
-SN  1b
-ID  Acetyl-CoA carboxylase, subunit b
-RQ  1
---
-SN  1c
-ID  Acetyl-CoA carboxylase, subunit c
+DN  Acetyl-CoA carboxylase/1
 RQ  1
 --
 SN  2
-ID  Malonyl-CoA reductase
+ID  Succinyl-CoA reductase (NADPH)
+DN  Succinyl-CoA reductase (NADPH)/10
 RQ  1
 --
 SN  3
-ID  Malonate semialdehyde reductase (NADPH)
+ID  Succinate semialdehyde reductase (NADPH)
+DN  Succinate semialdehyde reductase (NADPH)/11
 RQ  1
 --
 SN  4
-ID  3-hydroxypropionyl-CoA synthetase (AMP-forming)
+ID  4-hydroxybutyryl-CoA synthetase (AMP-forming)
+DN  4-hydroxybutyryl-CoA synthetase (AMP-forming)/12
 RQ  1
 --
 SN  5
-ID  3-hydroxypropionyl-CoA dehydratase
+ID  4-hydroxybutyryl-CoA dehydratase
+DN  4-hydroxybutyryl-CoA dehydratase/13
 RQ  1
 --
 SN  6
-ID  Acryloyl-CoA reductase (NADPH)
+ID  Crotonyl-CoA hydratase
+DN  Crotonyl-CoA hydratase/14
 RQ  1
 --
 SN  7
-ID  Propionyl-CoA carboxylase
-RQ  1
---
-SN  7b
-ID  Propionyl-CoA carboxylase, subunit b
-RQ  1
---
-SN  7c
-ID  Propionyl-CoA carboxylase, subunit c
+ID  3-hydroxybutyryl-CoA dehydrogenase (NAD+)
+DN  3-hydroxybutyryl-CoA dehydrogenase (NAD+)/15
 RQ  1
 --
 SN  8
-ID  Methylmalonyl-CoA epimerase
+ID  Acetoacetyl-CoA beta-ketothiolase
+DN  Acetoacetyl-CoA beta-ketothiolase/16
 RQ  1
 --
 SN  9
-ID  Methylmalonyl-CoA mutase
+ID  Pyruvate synthase
+DN  Pyruvate synthase/17
+RQ  0
+--
+SN  10
+ID  Acetyl-CoA carboxylase, subunit b
+DN  Acetyl-CoA carboxylase, subunit b/1b
 RQ  1
 --
-SN  9b
+SN  11
+ID  Acetyl-CoA carboxylase, subunit c
+DN  Acetyl-CoA carboxylase, subunit c/1c
+RQ  1
+--
+SN  12
+ID  Malonyl-CoA reductase
+DN  Malonyl-CoA reductase/2
+RQ  1
+--
+SN  13
+ID  Malonate semialdehyde reductase (NADPH)
+DN  Malonate semialdehyde reductase (NADPH)/3
+RQ  1
+--
+SN  14
+ID  3-hydroxypropionyl-CoA synthetase (AMP-forming)
+DN  3-hydroxypropionyl-CoA synthetase (AMP-forming)/4
+RQ  1
+--
+SN  15
+ID  3-hydroxypropionyl-CoA dehydratase
+DN  3-hydroxypropionyl-CoA dehydratase/5
+RQ  1
+--
+SN  16
+ID  Acryloyl-CoA reductase (NADPH)
+DN  Acryloyl-CoA reductase (NADPH)/6
+RQ  1
+--
+SN  17
+ID  Propionyl-CoA carboxylase
+DN  Propionyl-CoA carboxylase/7
+RQ  1
+--
+SN  18
+ID  Propionyl-CoA carboxylase, subunit b
+DN  Propionyl-CoA carboxylase, subunit b/7b
+RQ  1
+--
+SN  19
+ID  Propionyl-CoA carboxylase, subunit c
+DN  Propionyl-CoA carboxylase, subunit c/7c
+RQ  1
+--
+SN  20
+ID  Methylmalonyl-CoA epimerase
+DN  Methylmalonyl-CoA epimerase/8
+RQ  1
+--
+SN  21
+ID  Methylmalonyl-CoA mutase
+DN  Methylmalonyl-CoA mutase/9
+RQ  1
+--
+SN  22
 ID  Methylmalonyl-CoA mutase, subunit b
+DN  Methylmalonyl-CoA mutase, subunit b/9b
 RQ  1
 //

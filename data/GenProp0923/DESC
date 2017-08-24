@@ -17,26 +17,30 @@ CC  enzymes, the discovery of which is incomplete.
 **  Mycothiol-Dependent Maleylpyruvate Isomerase not yet modeled, but has a
 **  domain model, kind of.
 --
-SN  antisig
+SN  1
 ID  Anti-sigma-R factor RsrA
+DN  Anti-sigma-R factor RsrA/antisig
 RQ  1
 EV  IPR024020; TIGR03988;
 --
-SN  disulf
+SN  2
 ID  Mycothione reductase
+DN  Mycothione reductase/disulf
 RQ  1
 EV  IPR017817; TIGR03452;
 TG  GO:0010126;
 --
-SN  myc_use
+SN  3
 ID  Mycothiol-dependent enzyme
+DN  Mycothiol-dependent enzyme/myc_use
 RQ  1
 EV  IPR017811; TIGR03446;
 TG  GO:0010126;
 EV  IPR017816; TIGR03451;
 --
-SN  synth
+SN  4
 ID  Mycothiol biosynthesis
+DN  Mycothiol biosynthesis/synth
 RQ  1
 EV  GenProp0753;
 //

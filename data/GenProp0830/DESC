@@ -11,13 +11,15 @@ CC  families are sometimes clustered, confirming a functional link. The
 CC  function is unknown.
 **  The first GenProp of the new R01.
 --
-SN  myst_1
+SN  1
 ID  Integral membrane mystery pair protein 1
+DN  Integral membrane mystery pair protein 1/myst_1
 RQ  1
 EV  IPR018746; TIGR03662;
 --
-SN  myst_2
+SN  2
 ID  Integral membrane mystery pair protein 2
+DN  Integral membrane mystery pair protein 2/myst_2
 RQ  1
 EV  IPR019962; TIGR03663;
 //

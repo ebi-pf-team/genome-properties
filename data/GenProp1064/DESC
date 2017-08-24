@@ -23,13 +23,15 @@ CC  amino group.
 **  B is 1-methyl-N alpha-methyl-4-mercaptohistidine. 1-methyl-N alpha,N
 **  alpha-dimethyl-4-mercaptohistidine is ovothiol C.
 --
-SN  ovo_Cter
+SN  1
 ID  4-mercaptohistidine N1-methyltransferase
+DN  4-mercaptohistidine N1-methyltransferase/ovo_Cter
 RQ  1
 EV  IPR027625; TIGR04345;
 --
-SN  ovo_Nter
+SN  2
 ID  5-histidylcysteine sulfoxide synthase
+DN  5-histidylcysteine sulfoxide synthase/ovo_Nter
 RQ  1
 EV  IPR027577; TIGR04344;
 //

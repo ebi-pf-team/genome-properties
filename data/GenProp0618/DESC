@@ -17,28 +17,33 @@ CC  designated b562 and b595 as well as an active site copper atom. This
 CC  complex is structurally analagous to the aa3-type cytochrome c oxidases
 CC  [1] which contains cytochromes a and copper.
 --
-SN  CyoA
+SN  1
 ID  Subunit II, CyoA
+DN  Subunit II, CyoA/CyoA
 RQ  1
 EV  IPR006333; TIGR01433; sufficient;
 --
-SN  CyoB
+SN  2
 ID  Subunit I, CyoB
+DN  Subunit I, CyoB/CyoB
 RQ  1
 EV  IPR014207; TIGR02843; sufficient;
 --
-SN  CyoC
+SN  3
 ID  Subunit III, CyoC
+DN  Subunit III, CyoC/CyoC
 RQ  1
 EV  IPR014206; TIGR02842; sufficient;
 --
-SN  CyoD
+SN  4
 ID  Subunit IV, CyoD
+DN  Subunit IV, CyoD/CyoD
 RQ  1
 EV  IPR014210; TIGR02847; sufficient;
 --
-SN  CyoE
+SN  5
 ID  Protoheme IX farnesyltransferase, CyoE
+DN  Protoheme IX farnesyltransferase, CyoE/CyoE
 RQ  1
 EV  IPR006369; TIGR01473; sufficient;
 //

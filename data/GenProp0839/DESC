@@ -6,24 +6,28 @@ TH  0
 CC  This complex can serve as an alternative to the 2-oxoglutarate
 CC  dehydrogenase system (GenProp0630) of the TCA cycle
 --
-SN  alpha
+SN  1
 ID  Alpha subunit (TPP binding domain)
+DN  Alpha subunit (TPP binding domain)/alpha
 RQ  1
 EV  IPR002880; PF01855;
 --
-SN  beta
+SN  2
 ID  Beta subunit (TPP enzyme)
+DN  Beta subunit (TPP enzyme)/beta
 RQ  1
 EV  IPRXXXX; PF02775;
 EV  IPR011896; TIGR02177;
 --
-SN  f-doxin
+SN  3
 ID  Ferredoxin (4Fe-4S binding domain)
+DN  Ferredoxin (4Fe-4S binding domain)/f-doxin
 RQ  0
 EV  IPRXXXX; PF00037;
 --
-SN  gamma
+SN  4
 ID  Gamma subunit
+DN  Gamma subunit/gamma
 RQ  1
 EV  IPR019752; PF01558;
 //

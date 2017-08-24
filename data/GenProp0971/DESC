@@ -10,18 +10,21 @@ CC  carrier for polysaccharide units via a pyrophosphate linkage.  Removal
 CC  of the polysaccharide results in Und-PP, so the phosphatase is also
 CC  used in the recycling back to Und-P.
 --
-SN  IPP
+SN  1
 ID  Source of isopentenyl diphosphate (IPP)
+DN  Source of isopentenyl diphosphate (IPP)/IPP
 RQ  1
 EV  GenProp0046;
 --
-SN  UppP
+SN  2
 ID  Undecaprenyl-diphosphate phosphohydrolase
+DN  Undecaprenyl-diphosphate phosphohydrolase/UppP
 RQ  1
 EV  IPR003824; TIGR00753;
 --
-SN  UppS
+SN  3
 ID  Undecaprenyl-diphosphate synthase
+DN  Undecaprenyl-diphosphate synthase/UppS
 RQ  1
 EV  IPR001441; TIGR00055;
 //

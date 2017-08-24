@@ -6,18 +6,21 @@ TH  0
 CC  4-N-acetylglycylamido-D-quinovose (DQui4NAcGly) is a component of the
 CC  E. coli O121 antigen.
 --
-SN  Vio
+SN  1
 ID  Source of D-viosamine (4-amino-4-deoxy-D-quinovose)
+DN  Source of D-viosamine (4-amino-4-deoxy-D-quinovose)/Vio
 RQ  1
 EV  GenProp1040;
 --
-SN  WbqC
+SN  2
 ID  D-viosamine N-glycyltransferase
+DN  D-viosamine N-glycyltransferase/WbqC
 RQ  1
 EV  IPRXXXX; 2901;
 --
-SN  WbqD
+SN  3
 ID  DQui4NGly N-acetyltransferase
+DN  DQui4NGly N-acetyltransferase/WbqD
 RQ  1
 EV  IPRXXXX; 2902;
 //

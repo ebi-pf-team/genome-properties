@@ -17,18 +17,21 @@ CC  TIGR03508.
 **  Rhodopseudomonas palustris TIE-1 pathway of PMID: 17189359 looks
 **  relevant.
 --
-SN  LG_deca
+SN  1
 ID  Large decaheme c-type cytochrome
+DN  Large decaheme c-type cytochrome/LG_deca
 RQ  1
 EV  IPR020014; TIGR03507;
 --
-SN  OMPdeca
+SN  2
 ID  Outer membrane protein, MtrB/PioB family
+DN  Outer membrane protein, MtrB/PioB family/OMPdeca
 RQ  1
 EV  IPR020016; TIGR03509;
 --
-SN  SM_deca
+SN  3
 ID  Small decaheme c-type cytochrome
+DN  Small decaheme c-type cytochrome/SM_deca
 RQ  1
 EV  IPR020015; TIGR03508;
 //

@@ -23,8 +23,9 @@ CC  each other.
 **  Msmeg1712 and Msmeg1704 are SecA2 targets (lipoproteins). SodA MT_3960
 **  also.
 --
-SN  SecA2
+SN  1
 ID  Accessory Sec system translocase SecA2
+DN  Accessory Sec system translocase SecA2/SecA2
 RQ  1
 EV  IPR026389; TIGR04221;
 //

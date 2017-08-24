@@ -14,20 +14,21 @@ CC  the directional switching signal.  The subunits of this structure are
 CC  predicted to be in a 26:34:100 (FliG:FliM:FliN) ratio per motor
 CC  complex.
 --
-SN  fliG
+SN  1
 ID  Flagellar motor switch (rotor) protein FliG
-DN  Flagellar motor switch protein FliG
+DN  Flagellar motor switch protein FliG/fliG
 RQ  1
 EV  IPR000090; TIGR00207; sufficient;
 --
-SN  fliM
+SN  2
 ID  Flagellar motor switch (rotor) protein FliM
-DN  Flagellar motor switch protein FliM
+DN  Flagellar motor switch protein FliM/fliM
 RQ  1
 EV  IPR001689; TIGR01397; sufficient;
 --
-SN  fliN
+SN  3
 ID  Flagellar motor switch (rotor) protein FliN
+DN  Flagellar motor switch (rotor) protein FliN/fliN
 RQ  0
 EV  IPR012826; TIGR02480; sufficient;
 //

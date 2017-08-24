@@ -35,18 +35,21 @@ CC  in bacteria and responsible for post-translational modification.
 **  split, too narrow in scope. Additional hydroxylation of EF-P at the
 **  same lysine residue by the YfcM protein.
 --
-SN  EFPepmC
+SN  1
 ID  Elongation Factor P Lys34 hydroxylase
+DN  Elongation Factor P Lys34 hydroxylase/EFPepmC
 RQ  0
 EV  IPR007411; PF04315;
 --
-SN  EFPgenX
+SN  2
 ID  EF-P lysine aminoacylase GenX
+DN  EF-P lysine aminoacylase GenX/EFPgenX
 RQ  1
 EV  IPR004525; TIGR00462;
 --
-SN  EFPyjeK
+SN  3
 ID  EF-P lysine modification enzyme
+DN  EF-P lysine modification enzyme/EFPyjeK
 RQ  1
 EV  IPR022462; TIGR03821;
 //

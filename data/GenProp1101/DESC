@@ -38,29 +38,34 @@ CC  four-gene operon closely tied to this system.
 **  proteins are subfamilies with multiple equivalogs, none universal and
 **  often several paralogs per genome. Beware.
 --
-SN  qu_ABCbn
+SN  1
 ID  Probable periplasmic binding protein
+DN  Probable periplasmic binding protein/qu_ABCbn
 RQ  0
 EV  IPR022448; TIGR03871;
 --
-SN  quin_Cyt
+SN  2
 ID  Relay cytochrome
+DN  Relay cytochrome/quin_Cyt
 RQ  1
 EV  IPR022411; TIGR03874;
 EV  IPR030991; TIGR04494;
 --
-SN  quin_PQQ
+SN  3
 ID  PQQ-dependent dehydrogenase, CysCys motif family
+DN  PQQ-dependent dehydrogenase, CysCys motif family/quin_PQQ
 RQ  1
 EV  IPR017512; TIGR03075;
 --
-SN  quin_YZ
+SN  4
 ID  SoxYZ-like carrier
+DN  SoxYZ-like carrier/quin_YZ
 RQ  1
 EV  IPR030831; TIGR04557;
 --
-SN  quin_Zn
+SN  5
 ID  Quinoprotein relay system zinc metallohydrolase
+DN  Quinoprotein relay system zinc metallohydrolase/quin_Zn
 RQ  1
 EV  IPR030811; TIGR04558;
 EV  IPR030829; TIGR04559;

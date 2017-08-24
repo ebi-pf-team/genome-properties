@@ -13,63 +13,75 @@ CC  the universal bacterial core genome.
 **  proteins Era, Obg, YjeQ, YlqF and RimM are chaperones which may be
 **  crucial to bacterial ribosome assembly...::
 --
-SN  rG_CgtA
+SN  1
 ID  Obg family GTPase CgtA
+DN  Obg family GTPase CgtA/rG_CgtA
 RQ  1
 EV  IPR014100; TIGR02729;
 --
-SN  rG_Der
+SN  2
 ID  Ribosome biogenesis GTPase Der (EngA)
+DN  Ribosome biogenesis GTPase Der (EngA)/rG_Der
 RQ  1
 EV  IPR016484; TIGR03594;
 --
-SN  rG_Era
+SN  3
 ID  Ribosome biogenesis GTPase Era
+DN  Ribosome biogenesis GTPase Era/rG_Era
 RQ  0
 EV  IPR005662; TIGR00436;
 --
-SN  rG_RsgA
+SN  4
 ID  Ribosome biogenesis GTPase RsgA
+DN  Ribosome biogenesis GTPase RsgA/rG_RsgA
 RQ  0
 EV  IPR004881; TIGR00157;
 --
-SN  rG_YlqF
+SN  5
 ID  Ribosome biogenesis GTPase YlqF
+DN  Ribosome biogenesis GTPase YlqF/rG_YlqF
 RQ  0
 EV  IPR019991; TIGR03596;
 --
-SN  rG_YqeH
+SN  6
 ID  Ribosome biogenesis GTPase YqeH
+DN  Ribosome biogenesis GTPase YqeH/rG_YqeH
 RQ  0
 EV  IPR019988; TIGR03597;
 --
-SN  rG_YsxC
+SN  7
 ID  Ribosome biogenesis GTPase YsxC
+DN  Ribosome biogenesis GTPase YsxC/rG_YsxC
 RQ  0
 EV  IPR019987; TIGR03598;
 --
-SN  rM_RsmA
+SN  8
 ID  RRNA small subunit methyltransferase A
+DN  RRNA small subunit methyltransferase A/rM_RsmA
 RQ  1
 EV  IPR011530; TIGR00755;
 --
-SN  rM_RsmG
+SN  9
 ID  16S RNA methyltransferase RsmG
+DN  16S RNA methyltransferase RsmG/rM_RsmG
 RQ  0
 EV  IPR003682; TIGR00138;
 --
-SN  rM_RsmH
+SN  10
 ID  16S rRNA methyltransferase RsmH
+DN  16S rRNA methyltransferase RsmH/rM_RsmH
 RQ  0
 EV  IPR002903; TIGR00006;
 --
-SN  rR_RimM
+SN  11
 ID  Ribosome maturation protein RimM
+DN  Ribosome maturation protein RimM/rR_RimM
 RQ  1
 EV  IPR011961; TIGR02273;
 --
-SN  rR_RimP
+SN  12
 ID  Ribosome maturation protein RimP
+DN  Ribosome maturation protein RimP/rR_RimP
 RQ  0
 EV  IPR003728; PF02576;
 //

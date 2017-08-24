@@ -8,13 +8,15 @@ CC  pathway for the purposes of arginine catabolism or for the biosynthesis
 CC  of spermidine.  This version of the pathway utilizes agmatinase while
 CC  another does the same reaction in two steps via carbamoylputrescine.
 --
-SN  SpeA
+SN  1
 ID  Arginine decarboxylase
+DN  Arginine decarboxylase/SpeA
 RQ  1
 EV  IPR002985; TIGR01273; sufficient;
 --
-SN  speB
+SN  2
 ID  Agmatinase
+DN  Agmatinase/speB
 RQ  1
 EV  IPR005925; TIGR01230; sufficient;
 //

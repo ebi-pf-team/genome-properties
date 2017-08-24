@@ -9,38 +9,45 @@ CC  interrogans (Lai str. 56601, ntli02 and Copenageni str. Fiocruz,
 CC  ntli03), borgpetersenii (Hardjo-Bovis L550, ntlb02 and JB1976m ntlb03),
 CC  and biflexa Patoc 1 (Paris, ntlb05 and Ames, ntlb06).
 --
-SN  4-Ppase
+SN  1
 ID  Lipid A 4(prime) phosphatase
+DN  Lipid A 4(prime) phosphatase/4-Ppase
 RQ  0
 --
-SN  EDH0002
+SN  2
 ID  NAD dependent epimerase/dehydratase, LLPSF_EDH_00002 family
+DN  NAD dependent epimerase/dehydratase, LLPSF_EDH_00002 family/EDH0002
 RQ  1
 EV  IPRXXXX; 2777;
 EV  IPRXXXX; 2777;
 --
-SN  GlcNAc3N
+SN  3
 ID  UDP-GlcNAc3N biosynthesis from UDP-GlcNAc (GnnAB)
+DN  UDP-GlcNAc3N biosynthesis from UDP-GlcNAc (GnnAB)/GlcNAc3N
 RQ  1
 EV  GenProp0924;
 --
-SN  KDOLipA
+SN  4
 ID  KDO2-Lipid A biosynthesis, basic elements
+DN  KDO2-Lipid A biosynthesis, basic elements/KDOLipA
 RQ  1
 EV  GenProp0204;
 --
-SN  LmtA
+SN  5
 ID  Lipid-A 1-methyltransferase (O-methylphosphate-forming)
+DN  Lipid-A 1-methyltransferase (O-methylphosphate-forming)/LmtA
 RQ  1
 EV  IPRXXXX; 2800;
 --
-SN  REG0001
+SN  6
 ID  MarR-like transcriptional regulator, LLPSF_REG_00001 family
+DN  MarR-like transcriptional regulator, LLPSF_REG_00001 family/REG0001
 RQ  1
 EV  IPR026433; TIGR04176;
 --
-SN  UGlcNAc
+SN  7
 ID  UDP-GlcNAc biosynthesis
+DN  UDP-GlcNAc biosynthesis/UGlcNAc
 RQ  1
 EV  GenProp0750;
 //

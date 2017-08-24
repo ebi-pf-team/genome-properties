@@ -27,38 +27,44 @@ CC  Marinobacter hydrocarbonoclasticus. It has also been called
 CC  anthrachelin. Bacillus anthracis makes petrobactin and bacillobactin. 
 **  A rough-in only, partial list of steps, and no evidence.
 --
-SN  AsbA
+SN  1
 ID  Petrobactin biosynthesis enzyme AsbA
+DN  Petrobactin biosynthesis enzyme AsbA/AsbA
 RQ  1
 EV  IPRXXXX; 2257;
 TG  GO:0019290;
 --
-SN  AsbB
+SN  2
 ID  Petrobactin biosynthesis enzyme AsbB
+DN  Petrobactin biosynthesis enzyme AsbB/AsbB
 RQ  1
 EV  IPRXXXX; 2256;
 TG  GO:0019290;
 --
-SN  AsbC
+SN  3
 ID  3,4-dihydroxybenzoic acid-AMP ligase AsbC
+DN  3,4-dihydroxybenzoic acid-AMP ligase AsbC/AsbC
 RQ  1
 EV  IPRXXXX; 2258;
 TG  GO:0019290;
 --
-SN  AsbD
+SN  4
 ID  Petrobactin biosynthesis aryl carrier protein AsbD
+DN  Petrobactin biosynthesis aryl carrier protein AsbD/AsbD
 RQ  1
 EV  IPRXXXX; 2259;
 TG  GO:0019290;
 --
-SN  AsbE
+SN  5
 ID  Petrobactin biosynthesis enzyme AsbE
+DN  Petrobactin biosynthesis enzyme AsbE/AsbE
 RQ  1
 EV  IPRXXXX; 2260;
 TG  GO:0019290;
 --
-SN  AsbF
+SN  6
 ID  Petrobactin biosynthesis protein AsbF
+DN  Petrobactin biosynthesis protein AsbF/AsbF
 RQ  1
 EV  IPRXXXX; 2261;
 TG  GO:0019290;

@@ -8,13 +8,15 @@ CC  protein sorting system, with protein sorting motif VPDSG-CTERM
 CC  (TIGR03778) and its cognate exosortase (TIGR04151).
 **  TIGR04151 is mostly within TIGR02602.
 --
-SN  CTERM
+SN  1
 ID  VPDSG-CTERM protein sorting domain
+DN  VPDSG-CTERM protein sorting domain/CTERM
 RQ  1
 EV  IPR022288; TIGR03778;
 --
-SN  EXOSORT
+SN  2
 ID  Exosortase, VPDSG-CTERM-specific
+DN  Exosortase, VPDSG-CTERM-specific/EXOSORT
 RQ  1
 EV  IPR026488; TIGR04151;
 //

@@ -7,13 +7,15 @@ CC  This property indicates the presence of gene pairs, where one member is
 CC  a sulfatase, the other a radical SAM enzyme for its anaerobic
 CC  maturation. 
 --
-SN  matur
+SN  1
 ID  Sulfatase maturase
+DN  Sulfatase maturase/matur
 RQ  1
 EV  IPRXXXX; TIGR03942;
 --
-SN  sulfa
+SN  2
 ID  Anaerobic sulfatase
+DN  Anaerobic sulfatase/sulfa
 RQ  1
 EV  IPR000917; PF00884;
 //

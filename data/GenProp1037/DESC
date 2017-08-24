@@ -12,18 +12,21 @@ CC  region of the Gly-rich protein.
 **  Cyanobacterial members have, in addition, a putative ABC transporter
 **  substrate binding protein nearby.
 --
-SN  grrA
+SN  1
 ID  RSAM-associated Gly-rich repeat protein
+DN  RSAM-associated Gly-rich repeat protein/grrA
 RQ  1
 EV  IPR026356; TIGR04260;
 --
-SN  grrM
+SN  2
 ID  Radical SAM/SPASM domain protein, GRRM system
+DN  Radical SAM/SPASM domain protein, GRRM system/grrM
 RQ  1
 EV  IPR026357; TIGR04261;
 --
-SN  grrP
+SN  3
 ID  Extracellular substrate-binding orphan protein
+DN  Extracellular substrate-binding orphan protein/grrP
 RQ  0
 EV  IPRXXXX; TIGR04262;
 //

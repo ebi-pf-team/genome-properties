@@ -11,13 +11,15 @@ CC  multi-step pathways are summarized in this property.  The state of this
 CC  property will be YES if any of the component pathways are found and the
 CC  value field will hold the number of pathways found.
 --
-SN  dir ATP
+SN  1
 ID  Direct with ATP/AMP: GenProp0480
+DN  Direct with ATP/AMP: GenProp0480/dir ATP
 RQ  1
 EV  GenProp0480;
 --
-SN  via AcP
+SN  2
 ID  Via acetyl phosphate: GenProp0478
+DN  Via acetyl phosphate: GenProp0478/via AcP
 RQ  1
 EV  GenProp0478;
 //

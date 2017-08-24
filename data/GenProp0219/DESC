@@ -14,11 +14,13 @@ CC  6) succinic semialdehyde dehydrogenase.
 --
 SN  1
 ID  Putrescine biosynthesis from arginine (GenProp0642)
+DN  Putrescine biosynthesis from arginine (GenProp0642)/1
 RQ  1
 EV  GenProp0642;
 --
 SN  2
 ID  Spermidine biosynthesis from putrescine (GenProp0641)
+DN  Spermidine biosynthesis from putrescine (GenProp0641)/2
 RQ  1
 EV  GenProp0641;
 //

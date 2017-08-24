@@ -28,53 +28,63 @@ CC  carboxybiotin decarboxylase subunit (TIGR03136) in the operon.
 **  use as transporter. Individual subunits often have their own EC
 **  numbers.
 --
-SN  Na_biot
+SN  1
 ID  Na+-transporting malonate decarboxylase, carboxybiotin decarboxylase subunit
+DN  Na+-transporting malonate decarboxylase, carboxybiotin decarboxylase subunit/Na_biot
 RQ  0
 EV  IPR017558; TIGR03136; sufficient;
 --
-SN  madL
+SN  2
 ID  Malonate transporter, MadL subunit
+DN  Malonate transporter, MadL subunit/madL
 RQ  0
 EV  IPR004690; TIGR00807; sufficient;
 --
-SN  madM
+SN  3
 ID  Malonate transporter, MadM subunit
+DN  Malonate transporter, MadM subunit/madM
 RQ  0
 EV  IPR004691; TIGR00808; sufficient;
 --
-SN  mdcA
+SN  4
 ID  Malonate decarboxylase, alpha subunit
+DN  Malonate decarboxylase, alpha subunit/mdcA
 RQ  1
 EV  IPR005777; TIGR01110; sufficient;
 --
-SN  mdcB
+SN  5
 ID  Triphosphoribosyl-dephospho-CoA synthase MdcB
+DN  Triphosphoribosyl-dephospho-CoA synthase MdcB/mdcB
 RQ  1
 EV  IPR017555; TIGR03132; sufficient;
 --
-SN  mdcC
+SN  6
 ID  Malonate decarboxylase acyl carrier protein
+DN  Malonate decarboxylase acyl carrier protein/mdcC
 RQ  1
 EV  IPR009662; TIGR03130; sufficient;
 --
-SN  mdcD
+SN  7
 ID  Malonate decarboxylase, beta subunit
+DN  Malonate decarboxylase, beta subunit/mdcD
 RQ  1
 EV  IPR017556; TIGR03133; sufficient;
 --
-SN  mdcE
+SN  8
 ID  Malonate decarboxylase, gamma subunit
+DN  Malonate decarboxylase, gamma subunit/mdcE
 RQ  1
 EV  IPR009648; TIGR03134; sufficient;
 --
-SN  mdcG
+SN  9
 ID  Holo ACP synthase MdcG
+DN  Holo ACP synthase MdcG/mdcG
 RQ  1
 EV  IPR017557; TIGR03135; sufficient;
 --
-SN  mdcH
+SN  10
 ID  Malonate decarboxylase, epsilon subunit
+DN  Malonate decarboxylase, epsilon subunit/mdcH
 RQ  1
 EV  IPR017554; TIGR03131; sufficient;
 //

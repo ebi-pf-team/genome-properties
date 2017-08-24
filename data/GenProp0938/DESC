@@ -8,13 +8,15 @@ CC  contains an enzyme of unknown function from the family of glycine
 CC  radical enzymes, and the adjacent gene for a matched radical SAM enzyme
 CC  that generates the active site.
 --
-SN  YjjI
+SN  1
 ID  Glycine radical enzyme YjjI
+DN  Glycine radical enzyme YjjI/YjjI
 RQ  1
 EV  IPR016905; TIGR04040;
 --
-SN  YjjW
+SN  2
 ID  Radical SAM family activase YjjW
+DN  Radical SAM family activase YjjW/YjjW
 RQ  1
 EV  IPR023912; TIGR04041;
 //

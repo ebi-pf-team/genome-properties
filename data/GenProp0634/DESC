@@ -34,13 +34,15 @@ CC  PMID:15231786). RpoN may be responsible for transcription of nitrogen
 CC  fixation genes, flagellins, pilins, etc., and synonyms for the gene
 CC  symbol rpoN, such as ntrA, reflect these observations
 --
-SN  S54-dep
+SN  1
 ID  Sigma-54 interacting protein, activator
+DN  Sigma-54 interacting protein, activator/S54-dep
 RQ  1
 EV  IPR002078; PF00158; sufficient;
 --
-SN  Sigma-54
+SN  2
 ID  Sigma-54 (RpoN)
+DN  Sigma-54 (RpoN)/Sigma-54
 RQ  1
 EV  IPR000394; TIGR02395; sufficient;
 //

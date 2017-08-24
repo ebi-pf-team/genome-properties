@@ -7,26 +7,31 @@ CC  This property includes a radical SAM enzyme, a long protein (~ 1300
 CC  amino acids) with a C-terminal TPR repeat region, and a very short
 CC  protein with an FxS motif at its C-terminus.
 --
-SN  FxS_TPR
+SN  1
 ID  FxSxx system tetratricopeptide repeat protein
+DN  FxSxx system tetratricopeptide repeat protein/FxS_TPR
 RQ  1
 --
-SN  FxsA
+SN  2
 ID  FXSXX-COOH protein
+DN  FXSXX-COOH protein/FxsA
 RQ  1
 EV  IPR026334; TIGR04268;
 --
-SN  FxsB
+SN  3
 ID  Radical SAM enzyme FxsB
+DN  Radical SAM enzyme FxsB/FxsB
 RQ  1
 EV  IPR026335; TIGR04269;
 --
-SN  FxsC_C
+SN  4
 ID  FxsC protein, C-terminal domain
+DN  FxsC protein, C-terminal domain/FxsC_C
 RQ  0
 EV  IPR026367; TIGR04276;
 --
-SN  FxsC_N
+SN  5
 ID  FxsC protein, N-terminal domain
+DN  FxsC protein, N-terminal domain/FxsC_N
 RQ  1
 //

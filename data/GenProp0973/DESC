@@ -10,43 +10,51 @@ CC  N-acetyl-D-mannosaminuronic acid.  Polymerization and translocation
 CC  from the cytoplasmic face to the periplasmic face of the plasma
 CC  membrane is handled by an ECA-specific wzx/wzy/wzz system.
 --
-SN  Fuc4NAc
+SN  1
 ID  Source of dTDP-4-acetamido-4,6-dideoxy-D-galactose (dTDP-Fuc4NAc)
+DN  Source of dTDP-4-acetamido-4,6-dideoxy-D-galactose (dTDP-Fuc4NAc)/Fuc4NAc
 RQ  1
 EV  GenProp0972;
 --
-SN  Init
+SN  2
 ID  Source of Und-PP-GlcNAc
+DN  Source of Und-PP-GlcNAc/Init
 RQ  1
 EV  GenProp0970;
 --
-SN  ManNAcA
+SN  3
 ID  Source of UDP-ManNAcA
+DN  Source of UDP-ManNAcA/ManNAcA
 RQ  1
 EV  GenProp0969;
 --
-SN  WecF
+SN  4
 ID  Lipid III synthase (Fuc4NAc transferase), WecF
+DN  Lipid III synthase (Fuc4NAc transferase), WecF/WecF
 RQ  1
 EV  IPR009993; PF07429;
 --
-SN  WecG
+SN  5
 ID  UDP-N-acetyl-D-mannosaminuronic acid transferase, WecG
+DN  UDP-N-acetyl-D-mannosaminuronic acid transferase, WecG/WecG
 RQ  1
 EV  IPRXXXX; TIGR00696;
 --
-SN  wzxE
+SN  6
 ID  ECA transporter (flippase), wzx
+DN  ECA transporter (flippase), wzx/wzxE
 RQ  1
 EV  IPRXXXX; 2771;
 --
-SN  wzyE
+SN  7
 ID  ECA-specific polymerase, wzy
+DN  ECA-specific polymerase, wzy/wzyE
 RQ  1
 EV  IPRXXXX; PF06899;
 --
-SN  wzzE
+SN  8
 ID  ECA-specific chain length determinant protein, wzz
+DN  ECA-specific chain length determinant protein, wzz/wzzE
 RQ  1
 EV  IPR003856; PF02706;
 //

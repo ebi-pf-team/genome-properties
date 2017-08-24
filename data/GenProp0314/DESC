@@ -34,23 +34,27 @@ CC  have a periodicity of 66 nucleotides. This subtype is found only in
 CC  Bacteria, and notably it would seem only in known or potential (i.e.
 CC  containing virulence genes) vertebrate pathogens.                       
 --
-SN  Cas1
+SN  1
 ID  Cas1, Nmeni region
+DN  Cas1, Nmeni region/Cas1
 RQ  1
 EV  IPR019855; TIGR03639;
 --
-SN  Cas2
+SN  2
 ID  Cas2, Nmeni region
+DN  Cas2, Nmeni region/Cas2
 RQ  1
 EV  IPR021127; TIGR01573;
 --
-SN  Cas9
+SN  3
 ID  RNA-guided endonuclease Cas9/Csn1
+DN  RNA-guided endonuclease Cas9/Csn1/Cas9
 RQ  1
 EV  IPR028629; TIGR01865; sufficient;
 --
-SN  Csn2
+SN  4
 ID  Csn2
+DN  Csn2/Csn2
 RQ  0
 EV  IPR010146; TIGR01866; sufficient;
 //

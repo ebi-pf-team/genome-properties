@@ -15,14 +15,16 @@ CC  activate the glycyl radical enzyme CutC. Bioinformatic, mutational, and
 CC  chemical studies suggest CutC acts as a choline-TMA lyase, cleaving a
 CC  C-N bond to turn choline into trimethylamine and acetaldehyde.
 --
-SN  cutC
+SN  1
 ID  Choline TMA-lyase
+DN  Choline TMA-lyase/cutC
 RQ  1
 EV  IPR030897; TIGR04394;
 TG  GO:0042426;
 --
-SN  cutD
+SN  2
 ID  Choline TMA-lyase-activating enzyme
+DN  Choline TMA-lyase-activating enzyme/cutD
 RQ  1
 EV  IPR030905; TIGR04395;
 TG  GO:0042426;

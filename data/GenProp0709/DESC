@@ -8,18 +8,21 @@ CC  oxygenase. Formate is then hydrolyzed from its product by BoxC.
 **  I should change to SIMPLE-CLUST and add benzoate-CoA ligase (clustered)
 **  to this property. DHH.
 --
-SN  BoxA
+SN  1
 ID  Benzoyl-CoA oxidase, BoxA subunit
+DN  Benzoyl-CoA oxidase, BoxA subunit/BoxA
 RQ  1
 EV  IPR017634; TIGR03224; sufficient;
 --
-SN  BoxB
+SN  2
 ID  Benzoyl-CoA oxidase, BoxB subunit
+DN  Benzoyl-CoA oxidase, BoxB subunit/BoxB
 RQ  1
 EV  IPR017635; TIGR03225; sufficient;
 --
-SN  BoxC
+SN  3
 ID  Benzoyl-CoA-dihydrodiol lyase
+DN  Benzoyl-CoA-dihydrodiol lyase/BoxC
 RQ  1
 EV  IPR017633; TIGR03222; sufficient;
 //
