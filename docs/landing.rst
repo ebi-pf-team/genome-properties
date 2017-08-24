@@ -4,12 +4,12 @@ Genome properties is an annotation system whereby functional attributes can be a
 
 
 .. |browse| image:: _static/images/browse_icon.jpg
-   :width: 300px
+   :width: 400px
    :alt: Browse Genome Properties
    :target: #browse
 
 .. |viewer| image:: _static/images/viewer_icon.jpg
-   :width: 300px
+   :width: 400px
    :alt: Genome Properties Viewer
    :target: #viewer
 +-----------+----------+
