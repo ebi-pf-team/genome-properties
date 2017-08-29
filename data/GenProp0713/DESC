@@ -8,32 +8,32 @@ CC  generating acetate and inorganic phosphate as products.
 --
 SN  1
 ID  Phosphonoacetate hydrolase
-DN  Phosphonoacetate hydrolase/PhnA
+DN  Phosphonoacetate hydrolase
 RQ  1
 EV  IPR012710; TIGR02335; sufficient;
 --
 SN  2
 ID  2-aminoethylphosphonate--pyruvate transaminase
-DN  2-aminoethylphosphonate--pyruvate transaminase/PhnW
+DN  2-aminoethylphosphonate--pyruvate transaminase
 RQ  1
 EV  IPR012703; TIGR02326; sufficient;
 --
 SN  3
 ID  Aldehyde dehydrogenase
-DN  Aldehyde dehydrogenase/PhnY
+DN  Phosphonoacetaldehyde dehydrogenase
 RQ  1
 EV  IPR017656; TIGR03250; sufficient;
 --
 SN  4
 ID  Clustered regulatory genes
-DN  Clustered regulatory genes/Regul
+DN  Clustered regulatory genes
 RQ  0
-EV  IPRXXXX; PF00392;
-EV  IPRXXXX; PF00455;
+EV  IPR000524; PF00392;
+EV  IPR014036; PF00455;
 --
 SN  5
 ID  2-aminoethylphosphonate transporters
-DN  2-aminoethylphosphonate transporters/transp
+DN  2-aminoethylphosphonate transporters
 RQ  0
 EV  GenProp0712;
 EV  GenProp0721;
