@@ -11,19 +11,19 @@ CC  other systems.
 --
 SN  1
 ID  Prepilin peptidase
-DN  Prepilin peptidase/cleav
+DN  Prepilin type IV endopeptidase, peptidase domain
 RQ  1
 EV  IPR000045; PF01478; sufficient;
 --
 SN  2
 ID  N-term residue-methylating domain
-DN  N-term residue-methylating domain/methyl
+DN  Peptidase A24A, N-terminal
 RQ  1
 EV  IPR010627; PF06750; sufficient;
 --
 SN  3
 ID  Prokaryotic N-term cleave/methyl site
-DN  Prokaryotic N-term cleave/methyl site/site
+DN  Prokaryotic N-terminal methylation site
 RQ  1
 EV  IPR012902; TIGR02532; sufficient;
 //
