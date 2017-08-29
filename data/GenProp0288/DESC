@@ -11,9 +11,9 @@ RT  subunit MtrH.
 RA  Hippler B, Thauer RK;
 RL  FEBS Lett. 1999;449:165-168.
 CC  This complex of eight subunits, MtrA-H, effects the transfer of a
-CC  methyl froup from tetrahydromethanopterin to coenzyme M using a
-CC  cobalamin (B12) cofactor residing on MtrA.  This transfer is coupled to
-CC  an energy-driven sodium-ion pump.  Methane is subsequently released by
+CC  methyl group from tetrahydromethanopterin to coenzyme M using a
+CC  cobalamin (B12) cofactor residing on MtrA. This transfer is coupled to
+CC  an energy-driven sodium-ion pump. Methane is subsequently released by
 CC  a two-electron reduction of the methyl-coenzyme M by the enzyme
 CC  methyl-coenzyme M reductase.
 --
