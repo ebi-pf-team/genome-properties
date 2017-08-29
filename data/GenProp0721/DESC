@@ -4,7 +4,7 @@ TP  SYSTEM
 AU  Haft DH
 TH  0
 CC  This ABC transporter is found in a number of genomes in operon-like
-CC  contexts strongly suggesting a substrate specificity for
+CC  contexts, strongly suggesting a substrate specificity for
 CC  2-aminoethylphosphonate (2-AEP, ciliatine). The characterized PhnSTUV
 CC  system is absent in the genomes in which this system is found. These
 CC  genomes encode systems for the catabolism of 2-AEP, making the need for
@@ -12,19 +12,19 @@ CC  a 2-AEP-specific transporter likely.
 --
 SN  1
 ID  Periplasmic AEP binding protein
-DN  Periplasmic AEP binding protein/PhnS2
+DN  ABC transport system, 1-aminoethylphosphonate-binding protein/PhnS2
 RQ  1
 EV  IPR017663; TIGR03261; sufficient;
 --
 SN  2
 ID  ATP-binding protein
-DN  ATP-binding protein/PhnT2
+DN  2-aminoethylphosphonate ABC transport system, ATP-binding component PhnT2
 RQ  1
 EV  IPR017666; TIGR03265; sufficient;
 --
 SN  3
 ID  Permease protein
-DN  Permease protein/PhnU2
+DN  2-aminoethylphosphonate ABC transport system, permease protein/PhnU2
 RQ  1
 EV  IPR017664; TIGR03262; sufficient;
 //
