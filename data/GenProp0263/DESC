@@ -31,25 +31,25 @@ CC  and theta.
 --
 SN  1
 ID  DNA polymerase III, alpha subunit (DnaE)
-DN  DNA polymerase III, alpha subunit (DnaE)/dnaE
+DN  DNA polymerase III, alpha subunit/dnaE
 RQ  1
 EV  IPR004805; TIGR00594; sufficient;
 --
 SN  2
 ID  DNA polymerase III, beta subunit (dnaN)
-DN  DNA polymerase III, beta subunit (dnaN)/dnaN
+DN  DNA polymerase III, beta sliding clamp/dnaN
 RQ  1
 EV  IPR001001; TIGR00663; sufficient;
 --
 SN  3
 ID  DNA polymerase III, epsilon subunit (dnaQ)
-DN  DNA polymerase III, epsilon subunit (dnaQ)/dnaQ
+DN  DNA polymerase III, epsilon subunit/dnaQ
 RQ  1
 EV  IPR006309; TIGR01406; sufficient;
 --
 SN  4
 ID  DNA polymerase III, gamma and tau subunits (dnaX)
-DN  DNA polymerase III, gamma and tau subunits (dnaX)/dnaX
+DN  DNA polymerase III, subunit gamma/ tau/dnaX
 RQ  1
 EV  IPR012763; TIGR02397; sufficient;
 --
@@ -67,25 +67,25 @@ EV  IPR004622; TIGR00678; sufficient;
 --
 SN  7
 ID  DNA polymerase III, chi subunit (holC)
-DN  DNA polymerase III, chi subunit (holC)/holC
+DN  DNA polymerase III chi subunit, HolC
 RQ  1
 EV  IPR007459; PF04364; sufficient;
 --
 SN  8
 ID  DNA polymerase III, psi subunit (holD)
-DN  DNA polymerase III, psi subunit (holD)/holD
+DN  DNA polymerase III, psi subunit/holD
 RQ  1
 EV  IPR018382; TIGR00664; sufficient;
 --
 SN  9
 ID  DNA polymerase III, theta subunit (holE)
-DN  DNA polymerase III, theta subunit (holE)/holE
+DN  DNA polymerase III-theta/holE
 RQ  0
 EV  IPR009052; PF06440; sufficient;
 --
 SN  10
 ID  DNA polymerase III, alpha subunit, PolC-type
-DN  DNA polymerase III, alpha subunit, PolC-type/polC
+DN  DNA polymerase III, alpha subunit, Gram-positive type/polC
 RQ  0
 EV  IPR006308; TIGR01405; sufficient;
 //
