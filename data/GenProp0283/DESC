@@ -14,17 +14,17 @@ ID  Beta-ketoadipyl CoA thiolase
 DN  Beta-ketoadipyl CoA thiolase/pcaF
 RQ  1
 EV  IPR012793; TIGR02430; sufficient;
-EV  IPRXXXX; TIGR01930;
+EV  IPR002155; TIGR01930;
 --
 SN  2
 ID  CoA-transferase, A subunit
-DN  CoA-transferase, A subunit/pcaI
+DN  3-oxoacid CoA-transferase, subunit A/pcaI
 RQ  1
 EV  IPR012792; TIGR02429; sufficient;
 --
 SN  3
 ID  CoA-transferase, B subunit
-DN  CoA-transferase, B subunit/pcaJ
+DN  3-oxoacid CoA-transferase, subunit B/pcaJ
 RQ  1
 EV  IPR012791; TIGR02428; sufficient;
 //
