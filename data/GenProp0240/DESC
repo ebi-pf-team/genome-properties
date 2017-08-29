@@ -17,37 +17,37 @@ CC  part of the pathway
 --
 SN  1
 ID  2-methylisocitrate dehydratase
-DN  2-methylisocitrate dehydratase/acnD
+DN  2-methylisocitrate dehydratase AcnD
 RQ  1
 EV  IPR012708; TIGR02333; sufficient;
 --
 SN  2
 ID  Methylisocitrate lyase PrpB
-DN  Methylisocitrate lyase PrpB/prpB
+DN  2-methylisocitrate lyase
 RQ  1
 EV  IPR012695; TIGR02317; sufficient;
 --
 SN  3
 ID  2-methylcitrate synthase family
-DN  2-methylcitrate synthase family/prpC
+DN  2-methylcitrate synthase/citrate synthase type I
 RQ  1
 EV  IPR011278; TIGR01800; sufficient;
 --
 SN  4
 ID  2-methylcitrate dehydratase
-DN  2-methylcitrate dehydratase/prpD
+DN  2-methylcitrate dehydratase PrpD
 RQ  1
 EV  IPR012705; TIGR02330; sufficient;
 --
 SN  5
 ID  AcnD-accessory protein PrpF
-DN  AcnD-accessory protein PrpF/prpF
+DN  2-methyl-aconitate isomerase PrpF
 RQ  1
 EV  IPR012709; TIGR02334; sufficient;
 --
 SN  6
 ID  Propionate catabolism operon regulator PrpR
-DN  Propionate catabolism operon regulator PrpR/prpR
+DN  Propionate catabolism, transcriptional regulator PrpR
 RQ  0
 EV  IPR012704; TIGR02329; sufficient;
 //
