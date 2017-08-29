@@ -18,19 +18,19 @@ CC  latter are known.
 --
 SN  1
 ID  ABC transporter phosphonates ATP-binding protein
-DN  Phosphonate ABC transporter, ATP-binding protein/PhnC
+DN  ABC transporter, phosphonate import, PhnC
 RQ  1
-EV  IPRXXXX; TIGR02315;
+EV  IPR012693; TIGR02315;
 --
 SN  2
 ID  ABC transporter phosphonates-binding protein
-DN  ABC transporter phosphonates-binding protein/PhnD
+DN  Phosphonate ABC transporter, substrate-binding protein
 RQ  1
 EV  IPR017797; TIGR03431;
 --
 SN  3
 ID  ABC transporter phosphonates permease
-DN  Phosphonate ABC transporter, permease protein/PhnE
+DN  ABC transporter, permease PhnE/PtxC
 RQ  1
-EV  IPRXXXX; TIGR01097;
+EV  IPR005769; TIGR01097;
 //
