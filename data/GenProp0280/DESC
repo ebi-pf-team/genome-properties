@@ -21,13 +21,13 @@ CC  and 5) the obligate co-localization of CbtA and CbtB.
 --
 SN  1
 ID  Cobalt transporter subunit CbtA
-DN  Cobalt transporter subunit CbtA/CbtA
+DN  Cobalt transporter subunit CbtA
 RQ  1
 EV  IPR012666; TIGR02458; sufficient;
 --
 SN  2
 ID  Cobalt transporter subunit CbtB
-DN  Cobalt transporter subunit CbtB/CbtB
+DN  Cobalt transporter subunit CbtB
 RQ  1
 EV  IPR012667; TIGR02459; sufficient;
 //
