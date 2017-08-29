@@ -20,13 +20,13 @@ CC  alpha-acetolactate decarboxylase.
 --
 SN  1
 ID  Acetolactate decarboxylase
-DN  Alpha-acetolactate decarboxylase/decarb
+DN  Alpha-acetolactate decarboxylase
 RQ  1
 EV  IPR005128; TIGR01252; sufficient;
 --
 SN  2
 ID  Acetolactate synthase, catabolic
-DN  Acetolactate synthase, catabolic/synth
+DN  Acetolactate synthase, catabolic
 RQ  1
 EV  IPR012782; TIGR02418; sufficient;
 //
