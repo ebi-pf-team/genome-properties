@@ -16,25 +16,25 @@ CC  catabolism.
 --
 SN  1
 ID  Periplasmic AEP binding protein
-DN  Periplasmic AEP binding protein/PhnS
+DN  Putative 2-aminoethylphosphonate binding protein, ABC transporter
 RQ  1
 EV  IPR017637; TIGR03227; sufficient;
 --
 SN  2
 ID  ATP-binding component
-DN  ATP-binding component/PhnT
+DN  2-aminoethylphosphonate ABC transport system, ATP-binding component PhnT
 RQ  1
 EV  IPR017662; TIGR03258; sufficient;
 --
 SN  3
 ID  Permease component
-DN  Permease component/PhnU
+DN  2-aminoethylphosphonate ABC transporter system, permease protein phnU
 RQ  1
 EV  IPR017636; TIGR03226; sufficient;
 --
 SN  4
 ID  Permease component
-DN  Permease component/PhnV
+DN  2-aminoethylphosphonate ABC transport system, membrane component PhnV
 RQ  1
 EV  IPR017661; TIGR03255; sufficient;
 //
