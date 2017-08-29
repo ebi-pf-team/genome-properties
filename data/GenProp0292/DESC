@@ -56,53 +56,53 @@ CC  source.
 --
 SN  1
 ID  Phosphotransacetylase
-DN  Phosphotransacetylase/PtrnsAc
+DN  Phosphate acetyl/butaryl transferase
 RQ  0
-EV  IPRXXXX; PF01515;
+EV  IPR002505; PF01515;
 TG  GO:0046336;
 --
 SN  2
 ID  Conserved hypothetical in ethanolamine operon
-DN  Conserved hypothetical in ethanolamine operon/eut-chp
+DN  Ethanolamine utilization, putative
 RQ  0
 EV  IPR013372; TIGR02536; sufficient;
 TG  GO:0046336;
 --
 SN  3
 ID  Reactivating factor for ethanolamine ammonia lyase
-DN  Reactivating factor for ethanolamine ammonia lyase/eutA
+DN  Ethanolamine utilisation EutA
 RQ  1
 EV  IPR009377; PF06277; sufficient;
 TG  GO:0046336;
 --
 SN  4
 ID  Ethanolamine ammonia lyase, large subunit
-DN  Ethanolamine ammonia lyase, large subunit/eutB
+DN  Ethanolamine ammonia lyase large subunit/eutB
 RQ  1
 EV  IPR010628; PF06751; sufficient;
 TG  GO:0046336;
 --
 SN  5
 ID  Ethanolamine ammonia lyase, small subunit
-DN  Ethanolamine ammonia lyase, small subunit/eutC
+DN  Ethanolamine ammonia-lyase light chain/eutC
 RQ  1
 EV  IPR009246; PF05985; sufficient;
 TG  GO:0046336;
 --
 SN  6
 ID  Acetaldehyde dehydrogenase (acetylating)
-DN  Acetaldehyde dehydrogenase (acetylating)/eutE
+DN  Acetaldehyde dehydrogenase, acetylating/eutE
 RQ  1
 EV  IPR013357; TIGR02518;
 TG  GO:0046336;
-EV  IPRXXXX; PF00171;
+EV  IPR015590; PF00171;
 TG  GO:0046336;
 --
 SN  7
 ID  Alcohol dehydrogenase, ethanolamine operon related
-DN  Alcohol dehydrogenase, ethanolamine operon related/eutG
+DN  Alcohol dehydrogenase, iron-type/glycerol dehydrogenase gldA/eutG
 RQ  1
-EV  IPRXXXX; PF00465;
+EV  IPR001670; PF00465;
 TG  GO:0046336;
 --
 SN  8
@@ -116,70 +116,70 @@ TG  GO:0046336;
 --
 SN  9
 ID  Ethanolamine utilization protein EutJ
-DN  Ethanolamine utilization protein EutJ/eutJ
+DN  Ethanolamine utilisation EutJ
 RQ  0
 EV  IPR013366; TIGR02529; sufficient;
 TG  GO:0046336;
 --
 SN  10
 ID  Microcompartment coat protein
-DN  Microcompartment coat protein/eutM
+DN  Microcompartment protein/eutM
 RQ  1
-EV  IPRXXXX; PF00936;
+EV  IPR000249; PF00936;
 TG  GO:0046336;
 --
 SN  11
 ID  Carboxysome coat protein homolog
-DN  Carboxysome coat protein homolog/eutN
+DN  Ethanolamine utilization protein EutN/carboxysome structural protein Ccml
 RQ  1
-EV  IPRXXXX; PF03319;
+EV  IPR004992; PF03319;
 TG  GO:0046336;
 --
 SN  12
 ID  Ethanolamine utilization protein, EutP
-DN  Ethanolamine utilization protein, EutP/eutP
+DN  Ethanolamine/propanediol utilisation protein, EutP/PduV
 RQ  0
-EV  IPRXXXX; TIGR02528;
+EV  IPR012381; TIGR02528;
 TG  GO:0046336;
 --
 SN  13
 ID  Ethanolamine utilization protein, PduL homolog
-DN  Ethanolamine utilization protein, PduL homolog/eutPduL
+DN  Phosphate propanoyltransferase
 RQ  0
-EV  IPRXXXX; PF06130;
+EV  IPR008300; PF06130;
 TG  GO:0046336;
 --
 SN  14
 ID  Carboxysome coat protein homolog
-DN  Carboxysome coat protein homolog/eutPduT
+DN  Ethanolamine utilization protein, PduT-related
 RQ  0
 EV  IPR013501; TIGR02526; sufficient;
 TG  GO:0046336;
 --
 SN  15
 ID  Ethanolamine utilization protein, EutQ
-DN  Ethanolamine utilization protein, EutQ/eutQ
+DN  Ethanolamine utilisation EutQ
 RQ  0
-EV  IPRXXXX; PF06249;
+EV  IPR010424; PF06249;
 TG  GO:0046336;
 --
 SN  16
 ID  Cob(I)alamin adenosyltransferase
-DN  Cob(I)alamin adenosyltransferase/eutT
+DN  Cobalamin adenosyltransferase-like/eutT
 RQ  0
 EV  IPR016030; PF01923;
 TG  GO:0046336;
 --
 SN  17
 ID  Regulatory components
-DN  Regulatory components/regul
+DN  Regulatory components
 RQ  0
-EV  IPRXXXX; PF00007;
+EV  IPR006208; PF00007;
 TG  GO:0046336;
-EV  IPRXXXX; PF07568;
+EV  IPR011495; PF07568;
 TG  GO:0046336;
-EV  IPRXXXX; PF00072;
+EV  IPR001789; PF00072;
 TG  GO:0046336;
-EV  IPRXXXX; PF00165;
+EV  IPR018060; PF00165;
 TG  GO:0046336;
 //
