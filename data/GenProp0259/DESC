@@ -14,14 +14,14 @@ CC  aminoacylation with Asn.
 --
 SN  1
 ID  Source of asparagine
-DN  Source of asparagine/Asn
+DN  Aspartate--ammonia ligase/Asparagine synthase
 RQ  0
 EV  IPR004618; TIGR00669;
 EV  IPR006426; TIGR01536;
 --
 SN  2
 ID  Asparaginyl-tRNA synthetase
-DN  Asparaginyl-tRNA synthetase/Asn_lig
+DN  Asparagine-tRNA ligase
 RQ  1
 EV  IPR004522; TIGR00457; sufficient;
 //
