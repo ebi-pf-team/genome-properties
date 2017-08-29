@@ -3,8 +3,8 @@ DE  Cysteine biosynthesis from serine
 TP  PATHWAY
 AU  Haft DH
 TH  0
-CC  The conversion of L-serine to L-cysteine takes two enzymatic steps,
-CC  described here.  The first step involves Serine acetyl-transferase, and
+CC  The conversion of L-serine to L-cysteine requires two enzymatic steps as
+CC  described here. The first step involves serine acetyl-transferase, and
 CC  the second step involves acetylserine lyase which forms L-cysteine.
 --
 SN  1
