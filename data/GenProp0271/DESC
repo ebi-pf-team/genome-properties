@@ -13,19 +13,19 @@ CC  the operon, with different families in E.coli and Bacillus.
 --
 SN  1
 ID  PTS system, trehalose-specific IIBC component
-DN  PTS system, trehalose-specific IIBC component/PTS
+DN  Phosphotransferase system, trehalose-specific IIBC component/PTS
 RQ  1
 EV  IPR011296; TIGR01992; sufficient;
 --
 SN  2
 ID  Trehalose-6-phosphate hydrolase
-DN  Trehalose-6-phosphate hydrolase/cleave
+DN  Trehalose-6-phosphate hydrolase
 RQ  1
 EV  IPR012769; TIGR02403; sufficient;
 --
 SN  3
 ID  Trehalose operon repressor
-DN  Trehalose operon repressor/repress
+DN  Trehalose operon transcriptional repressor
 RQ  1
 EV  IPR012770; TIGR02404; sufficient;
 EV  IPR012771; TIGR02405; sufficient;
