@@ -38,28 +38,28 @@ CC  external and internal conditions.
 --
 SN  1
 ID  Eukaryotic initiation factor 4A
-DN  Eukaryotic initiation factor 4A (EC:3.6.4.13)/1
+DN  Eukaryotic initiation factor 4A (EC:3.6.4.13)
 RQ  1
-EV  -; PTHR24031:SF379; sufficient;
+EV  -; PTHR24031:SF226; sufficient;
 TG  GO:0004004;
 --
 SN  2
 ID  Eukaryotic translation initiation factor 4 gamma 1
-DN  Eukaryotic translation initiation factor 4 gamma 1 /2
+DN  Eukaryotic translation initiation factor 4 gamma 1
 RQ  1
-EV  -; PTHR23253:SF37; sufficient;
+EV  -; PTHR23253:SF10; sufficient;
 TG  GO:0008190;
 --
 SN  3
 ID  Eukaryotic translation initiation factor 4 gamma 3
-DN  Eukaryotic translation initiation factor 4 gamma 3/3
+DN  Eukaryotic translation initiation factor 4 gamma 3
 RQ  1
-EV  -; PTHR23253:SF46; sufficient;
+EV  -; PTHR23253:SF23; sufficient;
 TG  GO:0000339;
 --
 SN  4
 ID  Eukaryotic translation initiation factor 4E
-DN  Eukaryotic translation initiation factor 4E/4
+DN  Eukaryotic translation initiation factor 4E
 RQ  1
 EV  IPR001040; PTHR11960; sufficient;
 TG  GO:0000339;
