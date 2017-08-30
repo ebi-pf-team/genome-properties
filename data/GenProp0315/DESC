@@ -40,49 +40,49 @@ CC  also been reported to be present in an archaeon [3].
 --
 SN  1
 ID  Cas1, Ecoli region
-DN  Cas1, Ecoli region/Cas1
+DN  CRISPR-associated protein Cas1
 RQ  1
 EV  IPR002729; TIGR00287;
 --
 SN  2
 ID  Cas2, Ecoli specific variant
-DN  Cas2, Ecoli specific variant/Cas2
+DN  CRISPR-associated protein Cas2 subtype
 RQ  1
 EV  IPR010152; TIGR01873; sufficient;
 --
 SN  3
 ID  Cas3, Ecoli region
-DN  Cas3, Ecoli region/Cas3
+DN  Helicase Cas3, CRISPR-associated, core
 RQ  1
 EV  IPR006474; TIGR01587;
 --
 SN  4
 ID  Cas5, Ecoli specific variant
-DN  Cas5, Ecoli specific variant/Cas5e
+DN  CRISPR-associated protein, CasD
 RQ  1
 EV  IPR010147; TIGR01868; sufficient;
 --
 SN  5
 ID  Cse1
-DN  Cse1/Cse1
+DN  CRISPR-associated protein Cse1
 RQ  1
 EV  IPR013381; TIGR02547; sufficient;
 --
 SN  6
 ID  Cse2
-DN  Cse2/Cse2
+DN  CRISPR-associated protein Cse2
 RQ  1
 EV  IPR013382; TIGR02548; sufficient;
 --
 SN  7
 ID  Cse3
-DN  Cse3/Cse3
+DN  CRISPR-associated protein Cse3
 RQ  1
 EV  IPR010179; TIGR01907; sufficient;
 --
 SN  8
 ID  Cse4
-DN  Cse4/Cse4
+DN  CRISPR-associated protein, CT1975/Cse4
 RQ  1
 EV  IPR010148; TIGR01869; sufficient;
 //
