@@ -28,16 +28,16 @@ CC  including Cas1 to Cas4, are found only in genomes with CRISPR repeats,
 CC  and are near these repeats. Jansen, et al. describe CRISPR loci as
 CC  having direct repeats, varying in size from 21 to 37 bp, interspaced by
 CC  similarly sized non-repetitive sequences. Variants of CRISP/Cas loci
-CC  (subtypes) have been described (Haft, et al, PMID:16292354) in which
-CC  certain groups of subtype-specific genes are found in addition to
-CC  characteristic sets of the more widely distributed cas genes. The Dvulg
-CC  subtype, so named because this subtype is the only one found in the
-CC  genome of Desulfovibrio vulgaris, also called type I-C, consists of
-CC  cas1-5 and the subtype specific genes csd1-2. The repeats associated
-CC  with this subtype tend to have a periodicity of 66 nucleotides. This
-CC  subtype is found in a wide variety of bacteria and never in the
-CC  Archaea. Cas2 in this system has been shown to act as an endonuclease
-CC  for dsDNA rather than ssRNA.
+CC  (subtypes) have been described [2] in which certain groups of 
+CC  subtype-specific genes are found in addition to characteristic sets of 
+CC  the more widely distributed cas genes. The Dvulg subtype, so named 
+CC  because this subtype is the only one found in the genome of 
+CC  Desulfovibrio vulgaris, also called type I-C, consists of cas1-5 and 
+CC  the subtype specific genes csd1-2. The repeats associated with this 
+CC  subtype tend to have a periodicity of 66 nucleotides. This subtype is 
+CC  found in a wide variety of bacteria and never in the Archaea. Cas2 in 
+CC  this system has been shown to act as an endonuclease for dsDNA rather 
+CC  than ssRNA.
 --
 SN  1
 ID  Cas1, Dvulg region
