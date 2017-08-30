@@ -28,16 +28,15 @@ CC  including Cas1 to Cas4, are found only in genomes with CRISPR repeats,
 CC  and are near these repeats. Jansen, et al. describe CRISPR loci as
 CC  having direct repeats, varying in size from 21 to 37 bp, interspaced by
 CC  similarly sized non-repetitive sequences. Variants of CRISP/Cas loci
-CC  (subtypes) have been described [2] in
-CC  which certain groups of subtype-specific genes are found in addition to
-CC  characteristic sets of the more widely distributed cas genes. The Ecoli
-CC  subtype, so named because this subtype is the only one found in the
-CC  genome of Escherichia coli, consists of cas1-3, a subtype-specific
-CC  variant of cas5 and the subtype specific genes cse1-4. The repeats
-CC  associated with this subtype tend to have a periodicity of 61
-CC  nucleotides and a repeat size of 29 mucleotides. This subtype is found
-CC  in a wide variety of bacteria and has also been reported to be present
-CC  in an archaeon [3].  
+CC  (subtypes) have been described [2] in which certain groups of 
+CC  subtype-specific genes are found in addition to characteristic sets of 
+CC  the more widely distributed cas genes. The Ecoli subtype, so named 
+CC  because this subtype is the only one found in the genome of Escherichia 
+CC  coli, consists of cas1-3, a subtype-specific variant of cas5 and the 
+CC  subtype specific genes cse1-4. The repeats associated with this subtype 
+CC  tend to have a periodicity of 61 nucleotides and a repeat size of 29 
+CC  nucleotides. This subtype is found in a wide variety of bacteria and has 
+CC  also been reported to be present in an archaeon [3].  
 --
 SN  1
 ID  Cas1, Ecoli region
