@@ -18,53 +18,53 @@ CC  also includes a transporter to import fucose and transcription factors.
 --
 SN  1
 ID  Lactaldehyde oxidoreductases
-DN  Lactaldehyde oxidoreductases/ADH
+DN  Alcohol dehydrogenase, iron-type/glycerol dehydrogenase gldA/ADH
 RQ  0
-EV  IPRXXXX; PF00465;
+EV  IPR001670; PF00465;
 TG  GO:0019317;
 --
 SN  2
 ID  L-fuculose-phosphate aldolase
-DN  L-fuculose-phosphate aldolase/ald_ase 4.1.2.17
+DN  L-fuculose-phosphate aldolase (EC 4.1.2.17)
 RQ  1
 EV  IPR004782; TIGR01086; sufficient;
 TG  GO:0019317;
-EV  IPRXXXX; PF00596;
+EV  IPR001303; PF00596;
 TG  GO:0019317;
 --
 SN  3
 ID  L-fucose isomerase
-DN  L-fucose isomerase/fuc_iso 5.3.1.25
+DN  L-fucose isomerase (EC 5.3.1.25)
 RQ  1
 EV  IPR005763; TIGR01089; sufficient;
 TG  GO:0019317;
 --
 SN  4
 ID  L-fuculokinase
-DN  L-fuculokinase/fuc_kin 2.7.1.51
+DN  L-fuculokinase (EC 2.7.1.51)
 RQ  1
 EV  IPR013450; TIGR02628; sufficient;
 TG  GO:0019317;
-EV  IPRXXXX; PF00370;
+EV  IPR018484; PF00370;
 TG  GO:0019317;
 --
 SN  5
 ID  Clustered regulatory genes
-DN  Clustered regulatory genes/regulat
+DN  Clustered regulatory genes
 RQ  0
-EV  IPRXXXX; PF00455;
+EV  IPR014036; PF00455;
 TG  GO:0043468;
-EV  IPRXXXX; PF00165;
+EV  IPR018060; PF00165;
 TG  GO:0043468;
-EV  IPRXXXX; PF00392;
+EV  IPR000524; PF00392;
 TG  GO:0043468;
 --
 SN  6
 ID  Fucose transport components
-DN  Fucose transport components/transpo
+DN  Fucose transport components
 RQ  1
 EV  IPR005275; TIGR00885; sufficient;
 TG  GO:0019317;
-EV  IPRXXXX; PF05025;
+EV  IPR007721; PF05025;
 TG  GO:0019317;
 //
