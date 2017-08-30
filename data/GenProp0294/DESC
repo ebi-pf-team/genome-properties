@@ -47,7 +47,7 @@ TG  GO:0046336;
 --
 SN  4
 ID  Ethanolamine diffusion facilitator
-DN  Ethanolamine diffusion facilitator
+DN  Ethanolamine permease/Ethanolamine utilisation protein EutH
 RQ  0
 EV  IPR004757; TIGR00908; sufficient;
 TG  GO:0046336;
