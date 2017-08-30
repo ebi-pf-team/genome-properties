@@ -14,13 +14,13 @@ CC  and for various other DNA repair and damage tolerance pathways.
 --
 SN  1
 ID  LexA repressor
-DN  LexA repressor
+DN  Transcription regulator LexA
 RQ  1
 EV  IPR006200; TIGR00498; sufficient;
 --
 SN  2
 ID  RecA protein
-DN  RecA protein
+DN  DNA recombination and repair protein RecA
 RQ  1
 EV  IPR013765; TIGR02012; sufficient;
 //
