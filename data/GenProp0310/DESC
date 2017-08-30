@@ -29,18 +29,17 @@ CC  including Cas1 to Cas4, are found only in genomes with CRISPR repeats,
 CC  and are near these repeats. Jansen, et al. describe CRISPR loci as
 CC  having direct repeats, varying in size from 21 to 37 bp, interspaced by
 CC  similarly sized non-repetitive sequences. Variants of CRISP/Cas loci
-CC  (subtypes) have been described (Haft, Selengut, et al., submitted) in
-CC  which certain groups of subtype-specific genes are found in addition to
-CC  characteristic sets of the more widely distributed cas genes. The Ypest
-CC  subtype, so named because this subtype is the only one found in the
-CC  genome of Yersinia pestis, consists of cas1, cas3 and the subtype
-CC  specific genes csy1-4. The cas3 gene of this subtype is sufficiently
-CC  diverged from the cas3 gene of other CRISPR subtypes that the
-CC  construction of a separate HMM was warranted.  The spacers of these
-CC  CRISPRs have been analyzed and some have been shown to have been
-CC  captured from extrachromosomal sources [2].  The repeats associated
-CC  with this subtype tend to have a periodicity of 60 nucleotides. This
-CC  subtype is found only in the Proteobacteria.
+CC  (subtypes) have been described [2] in which certain groups of 
+CC  subtype-specific genes are found in addition to characteristic sets of 
+CC  the more widely distributed cas genes. The Ypest subtype, so named 
+CC  because this subtype is the only one found in the genome of Yersinia 
+CC  pestis, consists of cas1, cas3 and the subtype specific genes csy1-4. 
+CC  The cas3 gene of this subtype is sufficiently diverged from the cas3 
+CC  gene of other CRISPR subtypes that it is identified by a separate HMM. 
+CC  The spacers of these CRISPRs have been analyzed and some have been 
+CC  shown to have been captured from extrachromosomal sources [3]. The 
+CC  repeats associated with this subtype tend to have a periodicity of 60 
+CC  nucleotides. This subtype is found only in the Proteobacteria.
 --
 SN  1
 ID  Cas1, Ypest region
