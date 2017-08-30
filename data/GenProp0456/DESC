@@ -26,13 +26,13 @@ CC  transcriptional attenuation.
 --
 SN  1
 ID  Tryptophanase TnaA
-DN  Tryptophanase (EC:4.1.99.1)/TnaA
+DN  Tryptophanase (EC:4.1.99.1)
 RQ  1
 EV  IPR013440; TIGR02617; sufficient;
 --
 SN  2
 ID  Tryptophanase leader pep TnaC
-DN  Tryptophanase leader peptide/leader
+DN  Tryptophanese operon leader peptide
 RQ  1
 EV  IPR012620; TIGR02616; sufficient;
 //
