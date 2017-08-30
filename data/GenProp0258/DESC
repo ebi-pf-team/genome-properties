@@ -19,7 +19,7 @@ ID  Arginyl-tRNA synthetase
 DN  Arginine-tRNA ligase/Arg
 RQ  1
 EV  IPR001278; TIGR00456; sufficient;
-EV  IPR001278; PF00750; sufficient;
+EV  IPR035684; PF00750; sufficient;
 --
 SN  3
 ID  Asn direct aminoacylation
