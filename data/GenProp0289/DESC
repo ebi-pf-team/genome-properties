@@ -46,7 +46,7 @@ CC  some way.
 --
 SN  1
 ID  Aerobic RNR, alpha (large) chain
-DN  Aerobic RNR, alpha (large) chain
+DN  Ribonucleotide reductase alpha chain
 RQ  1
 EV  IPR013346; TIGR02506; sufficient;
 TG  GO:0009265;
@@ -55,21 +55,21 @@ TG  GO:0009265;
 --
 SN  2
 ID  Aerobic RNR, beta (small) chain
-DN  Aerobic RNR, beta (small) chain
+DN  Ribonucleotide reductase small subunit family
 RQ  1
 EV  IPR000358; PF00268; sufficient;
 TG  GO:0009265;
 --
 SN  3
-ID  Unknown function
-DN  Unknown function
+ID  Ribonucleotide reductase Class Ib, NrdI
+DN  Ribonucleotide reductase Class Ib, NrdI
 RQ  0
 EV  IPR004465; TIGR00333; sufficient;
 TG  GO:0009265;
 --
 SN  4
 ID  Redoxin, ribonucleotide-reductase related
-DN  Redoxin, ribonucleotide-reductase related
+DN  Ribonucleotide reductase-associated flavodoxin/Glutaredoxin-like protein NrdH
 RQ  0
 EV  IPR011909; TIGR02194; sufficient;
 TG  GO:0009265;
