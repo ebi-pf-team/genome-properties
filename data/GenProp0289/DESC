@@ -38,9 +38,9 @@ CC  to be spurious [2]. Electrons for this reduction are supplied by
 CC  glutaredoxin-like (NrdH, in some species [3]), or flavodoxins specific
 CC  to this system which are in turn reduced by oxygen via thioredoxin
 CC  reductase. Certain class I RNRs are associated with a gene of unknown 
-CC  function (NrdI). NrdI shows up more frequently, but not exclusively in species
-CC  with more than one class I RNR, so it may be involved in regulation in
-CC  some way.
+CC  function (NrdI). NrdI shows up more frequently, but not exclusively in 
+CC  species with more than one class I RNR, so it may be involved in 
+CC  regulation in some way.
 **  An exhaustive search for RNR-related redoxins has not been carried out
 **  -- but might be profitable...
 --
