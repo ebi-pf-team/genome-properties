@@ -16,10 +16,10 @@ CC  ribosome that translates the leader peptide may stall at either of two
 CC  points: the trp codon (when trp is scarce) or the stop codon. The
 CC  leader peptide may interact with ribosome to delay release at its stop
 CC  codon. Whether the ribosome stalls at the trp codon or continues to the
-CC  stop codon controls what mRNA secondary structure may form as
+CC  stop codon controls what mRNA secondary structure may form as the
 CC  trytophanase message is synthesized. When trp is scarce, and the enzyme
-CC  should not made, a terminator forms and transcription ends. Examples of
-CC  this mechanism for controlling transcription at termination are called
+CC  should not be made, a terminator forms and transcription ends. Examples 
+CC  of this mechanism for controlling transcription at termination are called
 CC  transcriptional attenuation.
 **  BEWARE: often the leader peptide gene is not called. The PFAM version
 **  HMM hits only seed members.
