@@ -74,18 +74,18 @@ CC  oligosaccharides.
 --
 SN  1
 ID  Clustered alcohol/aldehyde dehydrogenases
-DN  Clustered alcohol/aldehyde dehydrogenases/ADH
+DN  Clustered alcohol/aldehyde dehydrogenases
 RQ  0
-EV  IPRXXXX; PF00465;
+EV  IPR001670; PF00465;
 TG  GO:0019301;
-EV  IPRXXXX; PF00171;
+EV  IPR015590; PF00171;
 TG  GO:0019301;
-EV  IPRXXXX; PF00106;
+EV  IPR002347; PF00106;
 TG  GO:0019301;
 --
 SN  2
 ID  Rhamnulose-1-P aldolase (RhaD)
-DN  Rhamnulose-1-P aldolase (RhaD)/aldolase
+DN  Rhamnulose-1-P aldolase (RhaD)
 RQ  1
 EV  IPR013447; TIGR02624; sufficient;
 TG  GO:0019301;
@@ -94,16 +94,16 @@ TG  GO:0019301;
 --
 SN  3
 ID  Rhamnose epimerase
-DN  Rhamnose epimerase/epimera
+DN  L-rhamnose mutarotase
 RQ  0
-EV  IPRXXXX; PF05336;
+EV  IPR008000; PF05336;
 TG  GO:0019301;
 EV  IPR013448; TIGR02625; sufficient;
 TG  GO:0019301;
 --
 SN  4
 ID  L-rhamnose isomerase (RhaA/RhaI)
-DN  L-rhamnose isomerase (RhaA/RhaI)/isomeras
+DN  L-rhamnose isomerase (RhaA/RhaI)
 RQ  1
 EV  IPR009308; PF06134; sufficient;
 TG  GO:0019301;
@@ -116,43 +116,41 @@ TG  GO:0019301;
 --
 SN  5
 ID  Rhamnulokinase (RhaB/RhuK)
-DN  Rhamnulokinase (RhaB/RhuK)/kinase
+DN  Rhamnulokinase (RhaB/RhuK)
 RQ  1
-EV  IPRXXXX; PF00370;
+EV  IPR018484; PF00370;
 TG  GO:0019301;
 EV  IPR013449; TIGR02627; sufficient;
 TG  GO:0019301;
 --
 SN  6
 ID  Clustered regulatory components
-DN  Clustered regulatory components/regulat
+DN  Clustered regulatory components
 RQ  0
-EV  IPRXXXX; PF00165;
+EV  IPR018060; PF00165;
 TG  GO:0043463;
-EV  IPRXXXX; PF00455;
+EV  IPR014036; PF00455;
 TG  GO:0043463;
-EV  IPRXXXX; PF00532;
+EV  IPR001761; PF00532;
 TG  GO:0043463;
-EV  IPRXXXX; PF01381;
+EV  IPR001387; PF01381;
 TG  GO:0043463;
-EV  IPRXXXX; PF00356;
+EV  IPR000843; PF00356;
 TG  GO:0043463;
 --
 SN  7
 ID  Rhamnose transporters (RhaSTPQ)
-DN  Rhamnose transporters (RhaSTPQ)/transpor
+DN  Rhamnose transporters (RhaSTPQ)
 RQ  1
-EV  IPRXXXX; PF07690;
+EV  IPR011701; PF07690;
 TG  GO:0019301;
-EV  IPRXXXX; PF00083;
+EV  IPR005828; PF00083;
 TG  GO:0019301;
 EV  IPR004673; PF06379; sufficient;
 TG  GO:0019301;
-EV  IPR004673; TIGR00776; sufficient;
+EV  IPR001851; PF02653;
 TG  GO:0019301;
-EV  IPRXXXX; PF02653;
-TG  GO:0019301;
-EV  IPRXXXX; PF00005;
+EV  IPR003439; PF00005;
 TG  GO:0019301;
 EV  IPR013459; TIGR02637; sufficient;
 TG  GO:0019301;
