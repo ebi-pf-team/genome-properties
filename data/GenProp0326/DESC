@@ -42,20 +42,20 @@ CC  genes.
 --
 SN  1
 ID  PEP-CTERM motif
-DN  PEP-CTERM motif/CTERM
+DN  PEP-CTERM protein-sorting domain
 RQ  1
 EV  IPR013424; TIGR02595; sufficient;
 EV  IPR013424; PF07589; sufficient;
 --
 SN  2
 ID  EpsH family 8TM protein
-DN  EpsH family 8TM protein/EpsH
+DN  Exosortase, EpsH
 RQ  1
 EV  IPR013426; TIGR02602; sufficient;
 --
 SN  3
 ID  EpsI protein/fusion
-DN  EpsI protein/fusion/EpsI
+DN  Methanolan biosynthesis EpsI
 RQ  0
 EV  IPR014263; TIGR02914; sufficient;
 //
