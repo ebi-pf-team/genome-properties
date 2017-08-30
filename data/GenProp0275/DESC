@@ -46,21 +46,21 @@ CC  is not supported.
 --
 SN  1
 ID  Cobyrinate diamide synthase (CbiA)
-DN  Cobyrinate diamide synthase (CbiA)
+DN  Cobyrinic acid a,c-diamide synthase CbiA
 RQ  1
 EV  IPR004484; TIGR00379; sufficient;
 TG  GO:0019251;
 --
 SN  2
 ID  C-11, C-12 mutase (CbiC)
-DN  C-11, C-12 mutase (CbiC)
+DN  Cobalamin biosynthesis precorrin-8X methylmutase CobH/CbiC
 RQ  1
 EV  IPR003722; PF02570; sufficient;
 TG  GO:0019251;
 --
 SN  3
 ID  CbiD
-DN  CbiD
+DN  Cobalt-precorrin-5B C(1)-methyltransferase CbiD
 RQ  1
 EV  IPR002748; TIGR00312; sufficient;
 TG  GO:0019251;
@@ -69,35 +69,35 @@ TG  GO:0019251;
 --
 SN  4
 ID  C-5,15 methylase/C-12 decarboxylase (CbiE)
-DN  C-5,15 methylase/C-12 decarboxylase (CbiE)
+DN  Cobalamin (vitamin B12) biosynthesis CbiE, precorrin-6Y methyltransferase
 RQ  1
 EV  IPR012818; TIGR02467; sufficient;
 TG  GO:0019251;
 --
 SN  5
 ID  C-11 methylase (CbiF)
-DN  C-11 methylase (CbiF)
+DN  Cobalamin (vitamin B12) biosynthesis CobM/CbiF, precorrin-4 C11-methyltransferase
 RQ  1
 EV  IPR006362; TIGR01465; sufficient;
 TG  GO:0019251;
 --
 SN  6
 ID  CbiG
-DN  CbiG
+DN  CobE/GbiG C-terminal domain
 RQ  1
 EV  IPR002750; PF01890; sufficient;
 TG  GO:0019251;
 --
 SN  7
 ID  C-17 methylase (CbiH)
-DN  C-17 methylase (CbiH)
+DN  Precorrin-3B C17-methyltransferase domain
 RQ  1
 EV  IPR006363; TIGR01466; sufficient;
 TG  GO:0019251;
 --
 SN  8
 ID  Co-precorrin 6 reductase (CbiJ)
-DN  Co-precorrin 6 reductase (CbiJ)
+DN  Precorrin-6x reductase (CbiJ)
 RQ  0
 EV  IPR003723; TIGR00715; sufficient;
 TG  GO:0019251;
@@ -106,7 +106,7 @@ TG  GO:0019251;
 --
 SN  9
 ID  Cobaltochelatase, monomeric
-DN  Cobaltochelatase, monomeric
+DN  Cobalamin (vitamin B12) biosynthesis CbiX
 RQ  1
 EV  IPR010388; PF06180; sufficient;
 TG  GO:0019251;
@@ -115,14 +115,14 @@ TG  GO:0019251;
 --
 SN  10
 ID  C-20 methylase (CbiL)
-DN  C-20 methylase (CbiL)
+DN  Precorrin-2 C(20)-methyltransferase domain (CbiL)
 RQ  1
 EV  IPR006364; TIGR01467; sufficient;
 TG  GO:0019251;
 --
 SN  11
 ID  C-5,15 methylase/C-12 decarboxylase  (CbiT)
-DN  C-5,15 methylase/C-12 decarboxylase  (CbiT)
+DN  Cobalamin biosynthesis, precorrin-6Y methyltransferase, CbiT subunit
 RQ  1
 EV  IPR014008; TIGR02469; sufficient;
 TG  GO:0019251;
