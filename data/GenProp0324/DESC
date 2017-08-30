@@ -24,15 +24,14 @@ CC  where RelE acts by cleaving ribosome-associated transcripts.
 **  PF04221  
 --
 SN  1
-ID  Antidote RelB - PF04221
-DN  Antidote RelB - PF04221/A-RelB
+ID  Antidote RelB
+DN  RelB antitoxin/Antitoxin DinJ
 RQ  1
 EV  IPR007337; PF04221; sufficient;
-EV  IPR006442; TIGR01552; sufficient;
 --
 SN  2
-ID  Toxin RelE - TIGR02385
-DN  Toxin RelE - TIGR02385/K-RelE
+ID  Toxin RelE
+DN  Toxin-antitoxin system, RelE/ParE toxin family
 RQ  1
 EV  IPR007712; TIGR02385; sufficient;
 //
