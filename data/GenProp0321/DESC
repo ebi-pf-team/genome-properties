@@ -19,7 +19,6 @@ SN  1
 ID  Antidote partner (various)
 DN  Antidote partner (various)
 RQ  1
-EV  IPR006442; TIGR01552; sufficient;
 EV  IPR006442; PF02604; sufficient;
 EV  IPR009956; PF07362; sufficient;
 EV  IPR007337; TIGR02384; sufficient;
