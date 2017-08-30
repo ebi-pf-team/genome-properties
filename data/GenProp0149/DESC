@@ -25,7 +25,7 @@ CC  into an amino acid acceptor, peptide, or protein[1].
 --
 SN  1
 ID  Sulfate adenylyltransferase, small subunit
-DN  Sulfate adenylyltransferase, small subunit (CysD) (EC 2.7.7.4)/CysD
+DN  Sulfate adenylyltransferase, small subunit (CysD) (EC 2.7.7.4)
 RQ  1
 EV  IPR011784; TIGR02039; sufficient;
 EV  IPR002650; TIGR00339; sufficient;
@@ -33,7 +33,7 @@ TG  GO:0000103;
 --
 SN  2
 ID  Sulfate adenylyltransferase, large subunit
-DN  Sulfate adenylyltransferase, large subunit (CysN) (EC 2.7.7.4)/CysN
+DN  Sulfate adenylyltransferase, large subunit (CysN) (EC 2.7.7.4)
 RQ  1
 EV  IPR011779; TIGR02034; sufficient;
 EV  IPR002650; TIGR00339; sufficient;
@@ -41,14 +41,14 @@ TG  GO:0000103;
 --
 SN  3
 ID  Adenylylsulfate reductase
-DN  Adenylyl-sulfate reductase (thioredoxin) (EC 1.8.4.10)/Cys
+DN  Adenylyl-sulfate reductase (thioredoxin) (EC 1.8.4.10)
 RQ  1
 EV  IPR011798; TIGR02055; sufficient;
 TG  GO:0000103;
 --
 SN  4
 ID  Adenylylsulfate reductase via PAPS
-DN  Adenylyl-sulfate kinase (CysC) (EC 2.7.1.25)/CysC
+DN  Adenylyl-sulfate kinase (CysC) (EC 2.7.1.25)
 RQ  1
 EV  IPR002891; TIGR00455; sufficient;
 TG  GO:0000103;
@@ -63,7 +63,7 @@ TG  GO:0000103;
 --
 SN  6
 ID  Sulfite reductase, beta subunit
-DN  Sulfite reductase (NADPH) hemoprotein, beta-component (CysI) (EC 1.8.1.2)/CysI
+DN  Sulfite reductase (NADPH) hemoprotein, beta-component (CysI) (EC 1.8.1.2)
 RQ  1
 EV  IPR011786; TIGR02041; sufficient;
 TG  GO:0000103;
@@ -72,7 +72,7 @@ TG  GO:0000103;
 --
 SN  7
 ID  Sulfite reductase, alpha subunit
-DN  Sulfite reductase (NADPH) flavoprotein, alpha-component (CysJ) (EC 1.8.1.2)/CysJ
+DN  Sulfite reductase (NADPH) flavoprotein, alpha-component (CysJ) (EC 1.8.1.2)
 RQ  1
 EV  IPR010199; TIGR01931; sufficient;
 TG  GO:0000103;
