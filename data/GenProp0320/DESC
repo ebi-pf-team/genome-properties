@@ -21,14 +21,14 @@ CC  including Cas1 to Cas4, are found only in genomes with CRISPR repeats,
 CC  and are near these repeats. Jansen, et al. describe CRISPR loci as
 CC  having direct repeats, varying in size from 21 to 37 bp, interspaced by
 CC  similarly sized non-repetitive sequences. Variants of CRISP/Cas loci
-CC  (subtypes) have been described [2] in
-CC  which certain groups of subtype-specific genes are found in addition to
-CC  characteristic sets of the more widely distributed cas genes. The Hmari
-CC  subtype, so named because this subtype is the only one found in the
-CC  genome of Haloarcula marismortui ATCC 43049, consists of cas1-6 and the
-CC  subtype specific genes csh1-2. The repeats associated with this subtype
-CC  tend to have a periodicity of 66 nucleotides. This subtype is found
-CC  both in Archaea and Bacteria.
+CC  (subtypes) have been described [2] in which certain groups of 
+CC  subtype-specific genes are found in addition to characteristic sets of 
+CC  the more widely distributed cas genes. The Hmari subtype, so named 
+CC  because this subtype is the only one found in the genome of Haloarcula 
+CC  marismortui ATCC 43049, consists of cas1-6 and the subtype specific 
+CC  genes csh1-2. The repeats associated with this subtype tend to have a 
+CC  periodicity of 66 nucleotides. This subtype is found both in Archaea 
+CC  and Bacteria.
 --
 SN  1
 ID  Cas1, Hmari region
