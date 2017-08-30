@@ -44,92 +44,92 @@ CC  for positioning lipid A in the outer membrane.
 --
 SN  1
 ID  Source of UDP-N-acetylglucosamine
-DN  Source of UDP-N-acetylglucosamine/UDPAG
+DN  Source of UDP-N-acetylglucosamine
 RQ  0
 EV  GenProp0750;
 --
 SN  2
 ID  Lipid A exporter MsbA
-DN  Lipid A exporter MsbA/export
+DN  Lipid A exporter MsbA
 RQ  0
 EV  IPR011917; TIGR02203; sufficient;
 --
 SN  3
 ID  KDO-8 phosphate synthetase
-DN  KDO-8 phosphate synthetase/kdsA
+DN  KDO-8 phosphate synthetase
 RQ  1
 EV  IPR006269; TIGR01362; sufficient;
 --
 SN  4
 ID  KDO cytidylyltransferase
-DN  KDO cytidylyltransferase/kdsB
+DN  KDO cytidylyltransferase
 RQ  0
 EV  IPR004528; TIGR00466; sufficient;
 --
 SN  5
 ID  KDO 8-P phosphatase
-DN  KDO 8-P phosphatase/kdsC
+DN  KDO 8-P phosphatase
 RQ  1
 EV  IPR010023; TIGR01670; sufficient;
 --
 SN  6
 ID  UDP-N-acetylglucosamine O-acyltransferase
-DN  Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase/lpxA
+DN  Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
 RQ  1
 EV  IPR010137; TIGR01852; sufficient;
 --
 SN  7
 ID  Lipid-A-disaccharide synthase
-DN  Lipid-A-disaccharide synthase/lpxB
+DN  Lipid-A-disaccharide synthase
 RQ  1
 EV  IPR003835; TIGR00215; sufficient;
 --
 SN  8
 ID  UDP-3-0-acyl N-acetylglucosamine deacetylase
-DN  UDP-3-0-acyl N-acetylglucosamine deacetylase/lpxC
+DN  UDP-3-0-acyl N-acetylglucosamine deacetylase
 RQ  1
 EV  IPR004463; TIGR00325; sufficient;
 --
 SN  9
 ID  UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase
-DN  UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase/lpxD
+DN  UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase
 RQ  1
 EV  IPR007691; TIGR01853; sufficient;
 --
 SN  10
 ID  UDP-2,3-diacylglucosamine hydrolase
-DN  UDP-2,3-diacylglucosamine hydrolase/lpxH
+DN  UDP-2,3-diacylglucosamine hydrolase
 RQ  1
 EV  IPR010138; TIGR01854; sufficient;
 EV  IPR010415; PF06230;
 --
 SN  11
 ID  Tetraacyldisaccharide 4'-kinase
-DN  Tetraacyldisaccharide 4'-kinase/lpxK
+DN  Tetraacyldisaccharide 4'-kinase
 RQ  1
 EV  IPR003758; TIGR00682; sufficient;
 --
 SN  12
 ID  Add lauroyl to lipid IV-A
-DN  Add lauroyl to lipid IV-A/lpxL
+DN  Add lauroyl to lipid IV-A
 RQ  1
 EV  IPR011920; TIGR02207; sufficient;
 EV  IPR004960; PF03279; sufficient;
 --
 SN  13
 ID  Acylate lauroyl-lipid IV-A
-DN  Acylate lauroyl-lipid IV-A/msbB
+DN  Acylate lauroyl-lipid IV-A
 RQ  0
 EV  IPR011921; TIGR02208; sufficient;
 --
 SN  14
 ID  Temporary_lpxH candidate
-DN  Temporary_lpxH candidate/tmp_lpxH
+DN  Temporary_lpxH candidate
 RQ  0
 --
 SN  15
 ID  Transferase
-DN  Transferase/waaA
+DN  Transferase
 RQ  1
 EV  IPR007507; PF04413; sufficient;
 //
