@@ -32,80 +32,80 @@ CC  Archaea, primarily in the Chrenarchaeota.
 --
 SN  1
 ID  Cas1, Apern region
-DN  Cas1, Apern region/Cas1
+DN  CRISPR-associated protein Cas1
 RQ  1
 EV  IPR002729; TIGR00287;
 --
 SN  2
 ID  Cas2, Apern region
-DN  Cas2, Apern region/Cas2
+DN  CRISPR-associated endonuclease Cas2
 RQ  1
 EV  IPR021127; TIGR01573;
 --
 SN  3
 ID  Cas3, Apern region
-DN  Cas3, Apern region/Cas3
+DN  Helicase Cas3, CRISPR-associated
 RQ  1
 EV  IPR006474; TIGR01587;
 --
 SN  4
 ID  Cas3b, Apern region
-DN  Cas3b, Apern region/Cas3b
+DN  CRISPR-associated Cas3-HD domain
 RQ  1
 EV  IPR006483; TIGR01596;
 --
 SN  5
 ID  Cas4, Apern region
-DN  Cas4, Apern region/Cas4
+DN  CRISPR-associated protein Cas4
 RQ  1
 EV  IPR013343; TIGR00372;
 --
 SN  6
 ID  Cas5, Apern specific variant
-DN  Cas5, Apern specific variant/Cas5a
+DN  CRISPR-associated protein, Cas5a type
 RQ  1
 EV  IPR010153; TIGR01874; sufficient;
 --
 SN  7
 ID  Cas6, Apern region
-DN  Cas6, Apern region/Cas6
+DN  CRISPR-associated protein, Cas6
 RQ  1
 EV  IPR010156; TIGR01877;
 --
 SN  8
 ID  Csa1
-DN  Csa1/Csa1
+DN  CRISPR-associated exonuclease Csa1
 RQ  1
 EV  IPR009260; TIGR01896; sufficient;
 --
 SN  9
 ID  Csa2, regulatory protein
-DN  Csa2, regulatory protein/Csa2
+DN  CRISPR-associated protein Cas7/Cst2/DevR, subtype I-a/Apern
 RQ  1
 EV  IPR002764; TIGR02583; sufficient;
 --
 SN  10
 ID  Csa3, DNA-binding protein
-DN  Csa3, DNA-binding protein/Csa3
+DN  CRISPR locus-related putative DNA-binding protein Csa3
 RQ  1
 EV  IPR010163; TIGR01884; sufficient;
 --
 SN  11
 ID  Csa4
-DN  Csa4/Csa4
+DN  CRISPR-associated protein, MJ0385/Csx9/Csa4
 RQ  0
 EV  IPR010184; TIGR01914; sufficient;
 EV  IPR013488; TIGR02671;
 --
 SN  12
 ID  Csa5
-DN  Csa5/Csa5
+DN  CRISPR type I-A/APERN-associated protein Csa5
 RQ  0
 EV  IPR010157; TIGR01878; sufficient;
 --
 SN  13
 ID  CRISPR-associated protein, CsaX family
-DN  CRISPR-associated protein, CsaX family/CsaX
+DN  CRISPR-associated protein, CsaX
 RQ  0
 EV  IPR022297; TIGR03876;
 //
