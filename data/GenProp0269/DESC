@@ -12,13 +12,13 @@ CC  1-amino-2-propanol and alpha-ribazole.
 --
 SN  1
 ID  Adenosylcobinamide-phosphate synthase
-DN  Adenosylcobinamide-phosphate synthase
+DN  Cobalamin biosynthesis CobD/CbiB
 RQ  0
 EV  IPR004485; TIGR00380; sufficient;
 --
 SN  2
 ID  Cobyrinate adenosyltransferases (BtuR, PduO, EutT)
-DN  Cobyrinate adenosyltransferases (BtuR, PduO, EutT)
+DN  ATP:cob(I)alamin adenosyltransferases (BtuR, PduO, EutT)
 RQ  1
 EV  IPR003724; TIGR00708; sufficient;
 EV  IPR029499; TIGR00636; sufficient;
@@ -26,26 +26,26 @@ EV  IPR016030; PF01923; sufficient;
 --
 SN  3
 ID  Alpha-ribazole-5`-phosphate phosphatase
-DN  Alpha-ribazole-5`-phosphate phosphatase
+DN  Alpha-ribazole phosphatase, CobZ/CobC
 RQ  0
 EV  IPR017577; TIGR03161; sufficient;
 EV  IPR017578; TIGR03162; sufficient;
 --
 SN  4
 ID  Adenosylcobinamide synthase (CobD)
-DN  Adenosylcobinamide synthase (CobD)
+DN  Cobalamin biosynthesis CobD/CbiB
 RQ  1
 EV  IPR004485; PF03186; sufficient;
 --
 SN  5
 ID  Cobyric acid synthase (CobQ/CbiP)
-DN  Cobyric acid synthase (CobQ/CbiP)
+DN  Cobyric acid synthase CobQ
 RQ  1
 EV  IPR004459; TIGR00313; sufficient;
 --
 SN  6
 ID  Cobalamine 5-phosphate synthase (alpha ribazole transferase) (CobV)
-DN  Cobalamin 5-phosphate synthase
+DN  Adenosylcobinamide-GDP ribazoletransferase (CobS)
 RQ  1
 EV  IPR003805; PF02654; sufficient;
 EV  IPR003805; TIGR00317; sufficient;
@@ -64,7 +64,7 @@ EV  IPR003203; PF02283; sufficient;
 --
 SN  9
 ID  Threonine-phosphate decarboxylase
-DN  Threonine-phosphate decarboxylase
+DN  L-threonine-O-3-phosphate decarboxylase
 RQ  0
 EV  IPR005860; TIGR01140; sufficient;
 //
