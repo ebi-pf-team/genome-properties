@@ -10,7 +10,7 @@ CC  modified (GenProp0304).
 --
 SN  1
 ID  Cysteine biosynthesis
-DN  Cysteine biosynthesis/biosyn
+DN  Cysteine biosynthesis
 RQ  1
 EV  GenProp0218;
 TG  GO:0019344;
