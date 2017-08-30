@@ -4,6 +4,12 @@ TP  SYSTEM
 AU  Haft DH
 TH  3
 RN  [1]
+RM  11952905
+RT  Identification of genes that are associated with DNA repeats in
+RT  prokaryotes.
+RA  Jansen R, Embden JD, Gaastra W, Schouls LM;
+RL  Mol Microbiol. 2002;43:1565-1575.
+RN  [2]
 RM  16292354
 RT  A guild of 45 CRISPR-associated (Cas) protein families and multiple
 RT  CRISPR/Cas subtypes exist in prokaryotic genomes.
@@ -15,7 +21,7 @@ CC  including Cas1 to Cas4, are found only in genomes with CRISPR repeats,
 CC  and are near these repeats. Jansen, et al. describe CRISPR loci as
 CC  having direct repeats, varying in size from 21 to 37 bp, interspaced by
 CC  similarly sized non-repetitive sequences. Variants of CRISP/Cas loci
-CC  (subtypes) have been described (Haft, Selengut, et al., submitted) in
+CC  (subtypes) have been described [2] in
 CC  which certain groups of subtype-specific genes are found in addition to
 CC  characteristic sets of the more widely distributed cas genes. The Mtube
 CC  subtype, so named because this subtype is the only one found in the
