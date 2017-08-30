@@ -12,7 +12,7 @@ CC  required.
 --
 SN  1
 ID  Gas vesicle structural protein GvpC
-DN  Gas vesicle structural protein GvpC/GvpC
+DN  Gas vesicle structural protein GvpC
 RQ  1
 EV  IPR002003; PF01304; sufficient;
 EV  IPR008639; PF05465; sufficient;
@@ -20,37 +20,37 @@ EV  IPR002003; TIGR02641; sufficient;
 --
 SN  2
 ID  Gas vesicle protein, GvpG family
-DN  Gas vesicle protein, GvpG family/GvpG_fm
+DN  Gas vesicle protein, GvpG family
 RQ  0
 EV  IPR007804; PF05120; sufficient;
 --
 SN  3
 ID  Gas vesicle protein, GvpK family
-DN  Gas vesicle protein, GvpK family/GvpK
+DN  Gas vesicle protein, GvpK family
 RQ  0
 EV  IPR007805; PF05121; sufficient;
 --
 SN  4
 ID  Gas vesicle protein GvpN
-DN  Gas vesicle protein GvpN/GvpN
+DN  Gas vesicle protein GvpN
 RQ  0
 EV  IPR013462; TIGR02640; sufficient;
 --
 SN  5
 ID  Gas vesicle protein, GvpO family
-DN  Gas vesicle protein, GvpO family/GvpO
+DN  Gas vesicle protein, GvpO family
 RQ  0
 EV  IPR008634; PF05800; sufficient;
 --
 SN  6
 ID  Gas vesicle protein, GvpL/GvpF family
-DN  Gas vesicle protein, GvpL/GvpF family/Gvp_L_F
+DN  Gas vesicle protein, GvpL/GvpF family
 RQ  0
 EV  IPR009430; PF06386; sufficient;
 --
 SN  7
 ID  Gas vesicle major structural protein GvpA
-DN  Gas vesicle major structural protein GvpA/MAJOR
+DN  Gas vesicle major structural protein GvpA
 RQ  1
 EV  IPR000638; PF00741; sufficient;
 //
