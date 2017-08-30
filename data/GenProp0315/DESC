@@ -10,25 +10,25 @@ RT  prokaryotes.
 RA  Jansen R, Embden JD, Gaastra W, Schouls LM;
 RL  Mol Microbiol. 2002;43:1565-1575.
 RN  [2]
+RM  16292354
+RT  A guild of 45 CRISPR-associated (Cas) protein families and multiple
+RT  CRISPR/Cas subtypes exist in prokaryotic genomes.
+RA  Haft DH, Selengut J, Mongodin EF, Nelson KE;
+RL  PLoS Comput Biol. 2005;1:e60.
+RN  [3]
 RM  15822923
 RT  Predicted roles for hypothetical proteins in the low-temperature
 RT  expressed proteome of the Antarctic archaeon Methanococcoides burtonii.
 RA  Saunders NF, Goodchild A, Raftery M, Guilhaus M, Curmi PM, Cavicchioli
 RA  R;
 RL  J Proteome Res. 2005;4:464-472.
-RN  [3]
-RM  16292354
-RT  A guild of 45 CRISPR-associated (Cas) protein families and multiple
-RT  CRISPR/Cas subtypes exist in prokaryotic genomes.
-RA  Haft DH, Selengut J, Mongodin EF, Nelson KE;
-RL  PLoS Comput Biol. 2005;1:e60.
 CC  CRISPR repeats are by definition Clustered Regularly Interspaced Short
 CC  Palindromic Repeats, described by Jansen [1]. Certain proteins,
 CC  including Cas1 to Cas4, are found only in genomes with CRISPR repeats,
 CC  and are near these repeats. Jansen, et al. describe CRISPR loci as
 CC  having direct repeats, varying in size from 21 to 37 bp, interspaced by
 CC  similarly sized non-repetitive sequences. Variants of CRISP/Cas loci
-CC  (subtypes) have been described (Haft, Selengut, et al., submitted) in
+CC  (subtypes) have been described [2] in
 CC  which certain groups of subtype-specific genes are found in addition to
 CC  characteristic sets of the more widely distributed cas genes. The Ecoli
 CC  subtype, so named because this subtype is the only one found in the
@@ -37,7 +37,7 @@ CC  variant of cas5 and the subtype specific genes cse1-4. The repeats
 CC  associated with this subtype tend to have a periodicity of 61
 CC  nucleotides and a repeat size of 29 mucleotides. This subtype is found
 CC  in a wide variety of bacteria and has also been reported to be present
-CC  in an archaeon [2].  
+CC  in an archaeon [3].  
 --
 SN  1
 ID  Cas1, Ecoli region
