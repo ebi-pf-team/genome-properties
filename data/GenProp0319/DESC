@@ -21,15 +21,14 @@ CC  including Cas1 to Cas4, are found only in genomes with CRISPR repeats,
 CC  and are near these repeats. Jansen, et al. describe CRISPR loci as
 CC  having direct repeats, varying in size from 21 to 37 bp, interspaced by
 CC  similarly sized non-repetitive sequences. Variants of CRISP/Cas loci
-CC  (subtypes) have been described [2] in
-CC  which certain groups of subtype-specific genes are found in addition to
-CC  characteristic sets of the more widely distributed cas genes. The Apern
-CC  subtype, so named because this subtype is the only one found in the
-CC  genome of Archaeoglobus pernix, consists of cas1-6, the subtype
-CC  specific genes csa1-3 and either csa4 or csa5. The repeats associated
-CC  with this subtype tend to have a periodicity of 66 nucleotides. This
-CC  subtype is found exclusively in Archaea, primarily in the
-CC  Chrenarchaeota. 
+CC  (subtypes) have been described [2] in which certain groups of 
+CC  subtype-specific genes are found in addition to characteristic sets of 
+CC  the more widely distributed cas genes. The Apern subtype, so named 
+CC  because this subtype is the only one found in the genome of Archaeoglobus 
+CC  pernix, consists of cas1-6, the subtype specific genes csa1-3 and either 
+CC  csa4 or csa5. The repeats associated with this subtype tend to have a 
+CC  periodicity of 66 nucleotides. This subtype is found exclusively in 
+CC  Archaea, primarily in the Chrenarchaeota. 
 --
 SN  1
 ID  Cas1, Apern region
