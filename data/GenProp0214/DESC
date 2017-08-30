@@ -15,28 +15,28 @@ CC  usually found in prokaryotes is described by this property [1].
 --
 SN  1
 ID  Acetyl-CoA carboxylase, carboxyl transferase, alpha subunit
-DN  Acetyl-CoA carboxylase, carboxyl transferase, alpha subunit/accA
+DN  Acetyl-CoA carboxylase, alpha subunit 
 RQ  1
 EV  IPR001095; TIGR00513; sufficient;
 TG  GO:0009317;
 --
 SN  2
 ID  Acetyl-CoA carboxylase, biotin carboxyl carrier protein
-DN  Acetyl-CoA carboxylase, biotin carboxyl carrier protein/accB
+DN  Acetyl-CoA biotin carboxyl carrier 
 RQ  1
 EV  IPR001249; TIGR00531; sufficient;
 TG  GO:0009317;
 --
 SN  3
 ID  Acetyl-CoA carboxylase, biotin carboxylase
-DN  Acetyl-CoA carboxylase, biotin carboxylase/accC
+DN  Acetyl-CoA carboxylase, biotin carboxylase
 RQ  1
 EV  IPR004549; TIGR00514; sufficient;
 TG  GO:0009317;
 --
 SN  4
 ID  Acetyl-CoA carboxylase, carboxyl transferase, beta subunit
-DN  Acetyl-CoA carboxylase, carboxyl transferase, beta subunit/accD
+DN  Acetyl-CoA carboxylase carboxyl transferase, beta subunit
 RQ  1
 EV  IPR000438; TIGR00515; sufficient;
 TG  GO:0009317;
