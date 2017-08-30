@@ -43,37 +43,37 @@ CC  nucleotides. This subtype is found only in the Proteobacteria.
 --
 SN  1
 ID  Cas1, Ypest region
-DN  CRISPR-associated protein Cas1/Cas1
+DN  CRISPR-associated protein Cas1, YPEST subtype
 RQ  1
 EV  IPR019857; TIGR03637;
 --
 SN  2
 ID  Cas3, Ypest subtype variant
-DN  CRISPR-associated helicase Cas3/Cas3
+DN  Helicase Cas3, CRISPR-associated, Yersinia-type
 RQ  1
 EV  IPR013395; TIGR02562; sufficient;
 --
 SN  3
 ID  Csy1
-DN  CRISPR-associated protein, Csy1 family/Csy1
+DN  CRISPR-associated protein Csy1
 RQ  1
 EV  IPR013397; TIGR02564; sufficient;
 --
 SN  4
 ID  Csy2
-DN  CRISPR-associated protein, Csy2 family/Csy2
+DN  CRISPR-associated protein Csy2
 RQ  1
 EV  IPR013398; TIGR02565; sufficient;
 --
 SN  5
 ID  Csy3
-DN  CRISPR-associated protein, Csy3  family/Csy3
+DN  CRISPR-associated protein Csy3
 RQ  1
 EV  IPR013399; TIGR02566; sufficient;
 --
 SN  6
 ID  CRISPR-derived RNA endonuclease Csy4
-DN  CRISPR-associated protein, Csy4 family/Csy4
+DN  CRISPR-associated endoribonuclease Cas6/Csy4, subtype I-F/YPEST
 RQ  1
 EV  IPR013396; TIGR02563; sufficient;
 //
