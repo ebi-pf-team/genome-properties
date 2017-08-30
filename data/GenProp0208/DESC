@@ -14,7 +14,7 @@ ID  Major capsid protein
 DN  Phage major capsid protein
 RQ  1
 EV  IPR006441; TIGR01551; sufficient;
-EV  IPR006444; TIGR01554; sufficient;
+EV  IPR024455; TIGR01554; sufficient;
 EV  IPR005564; PF03864; sufficient;
 EV  IPR006441; PF05125; sufficient;
 EV  IPR003514; PF02305; sufficient;
@@ -57,7 +57,7 @@ EV  IPR006498; TIGR01611; sufficient;
 EV  IPR013046; TIGR01644; sufficient;
 EV  IPR009350; TIGR01715; sufficient;
 EV  IPR006521; TIGR01634; sufficient;
-EV  IPR007067; PF04984; sufficient;
+EV  IPR035089; PF04984; sufficient;
 EV  IPR006498; PF04985; sufficient;
 EV  IPR006487; PF05100; sufficient;
 EV  IPR021145; PF05133; sufficient;
@@ -139,10 +139,9 @@ DN  Phage terminase, large subunit
 RQ  1
 EV  IPR006437; TIGR01547; sufficient;
 EV  IPR005021; PF03354; sufficient;
-EV  IPR006437; PF04466; sufficient;
+EV  IPR035412; PF04466; sufficient;
 EV  IPR008866; PF05876; sufficient;
 EV  IPR010332; PF06056; sufficient;
-EV  IPR004921; PF03237;
 --
 SN  11
 ID  Terminase, small subunit
