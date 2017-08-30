@@ -32,49 +32,49 @@ CC  and Bacteria.
 --
 SN  1
 ID  Cas1, Hmari region
-DN  CRISPR-associated protein Cas1 (Hmari subtype locus)/Cas1
+DN  CRISPR-associated protein Cas1
 RQ  1
 EV  IPR002729; TIGR00287;
 --
 SN  2
 ID  Cas2, Hmari region
-DN  CRISPR-associated protein Cas2 (Hmari subtype locus)/Cas2
+DN  CRISPR-associated endonuclease Cas2
 RQ  1
 EV  IPR021127; TIGR01573;
 --
 SN  3
 ID  Cas3, Hmari region
-DN  CRISPR-associated protein Cas3 (Hmari subtype locus)/Cas3
+DN  Helicase Cas3, CRISPR-associated
 RQ  1
 EV  IPR006474; TIGR01587;
 --
 SN  4
 ID  Cas4, Hmari region
-DN  CRISPR-associated protein Cas4 (Hmari subtype locus)/Cas4
+DN  CRISPR-associated protein Cas4
 RQ  1
 EV  IPR013343; TIGR00372;
 --
 SN  5
 ID  Cas5, Hmari subtype specific variant
-DN  CRISPR-associated protein Cas5 (Hmari subtype locus)/Cas5h
+DN  CRISPR-associated protein Cas5, HALMA
 RQ  1
 EV  IPR013421; TIGR02592; sufficient;
 --
 SN  6
 ID  Cas6, Hmari region
-DN  CRISPR-associated protein Cas6 (Hmari subtype locus)/Cas6
+DN  CRISPR-associated protein, Cas6
 RQ  1
 EV  IPR010156; TIGR01877;
 --
 SN  7
 ID  Csh1 family, TIGR02591
-DN  Csh1 family, TIGR02591/Csh1
+DN  CRISPR-associated protein Csh1
 RQ  1
 EV  IPR013420; TIGR02591; sufficient;
 --
 SN  8
 ID  Csh2 family, TIGR02590
-DN  Csh2 family, TIGR02590/Csh2
+DN  CRISPR-associated protein Csh2
 RQ  1
 EV  IPR013419; TIGR02590; sufficient;
 //
