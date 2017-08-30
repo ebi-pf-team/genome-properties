@@ -33,55 +33,55 @@ CC  often forms hybrid-subtype loci.
 --
 SN  1
 ID  Cas1, Mtube region
-DN  Cas1, Mtube region/Cas1
+DN  CRISPR-associated protein Cas1
 RQ  1
 EV  IPR002729; TIGR00287;
 --
 SN  2
 ID  Cas2, Mtube region
-DN  Cas2, Mtube region/Cas2
+DN  CRISPR-associated endonuclease Cas2
 RQ  1
 EV  IPR021127; TIGR01573;
 --
 SN  3
 ID  Cas6, Mtube region
-DN  Cas6, Mtube region/Cas6
+DN  CRISPR-associated protein, Cas6
 RQ  1
 EV  IPR010156; TIGR01877;
 --
 SN  4
 ID  Csm1
-DN  Csm1/Csm1
+DN  CRISPR-associated protein Csm1
 RQ  1
 EV  IPR013408; TIGR02578; sufficient;
 --
 SN  5
 ID  Csm2
-DN  Csm2/Csm2
+DN  CRISPR-associated protein, Csm2 Type III-A
 RQ  1
 EV  IPR010149; TIGR01870; sufficient;
 --
 SN  6
 ID  Csm3
-DN  Csm3/Csm3
+DN  CRISPR-associated RAMP Csm3
 RQ  1
 EV  IPR013412; TIGR02582; sufficient;
 --
 SN  7
 ID  Csm4
-DN  Csm4/Csm4
+DN  CRISPR type III-associated RAMP protein Csm4
 RQ  1
 EV  IPR005510; TIGR01903; sufficient;
 --
 SN  8
 ID  Csm5
-DN  Csm5/Csm5
+DN  CRISPR-associated protein, TM1807/Csm5
 RQ  1
 EV  IPR010173; TIGR01899; sufficient;
 --
 SN  9
 ID  Csm6
-DN  Csm6/Csm6
+DN  CRISPR-associated protein Csm6
 RQ  0
 EV  IPR013489; TIGR02672; sufficient;
 //
