@@ -21,8 +21,8 @@ CC  Palindromic Repeats, described by Jansen [1]. Certain proteins,
 CC  including Cas1 to Cas4, are found only in genomes with CRISPR repeats,
 CC  and are near these repeats. The repeats vary in size from 24 to 48 bp,
 CC  interspaced by similarly sized non-repetitive sequences. Variants of
-CC  CRISP/Cas loci (subtypes) have been described (Haft, et al., 2005 in
-CC  which certain groups of subtype-specific genes are found in addition to
+CC  CRISP/Cas loci (subtypes) have been described [2] in which certain 
+CC  groups of subtype-specific genes are found in addition to 
 CC  characteristic sets of the more widely distributed cas genes. These
 CC  subtype-specific genes are found proximal to the cas core genes and the
 CC  CRISPR repeats. Unlike these, the set of CRISPR-associated genes
