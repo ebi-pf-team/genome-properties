@@ -26,7 +26,7 @@ CC  subtype-specific genes are found in addition to characteristic sets of
 CC  the more widely distributed cas genes. The Mtube subtype, so named 
 CC  because this subtype is the only one found in the genome of 
 CC  Mycobacterium tuberculosis, consists of cas1, cas2, and the subtype 
-CC  specific genes csm1-5.  Csm3, 4 and 5 are members of the RAMP 
+CC  specific genes csm1-5. Csm3, 4 and 5 are members of the RAMP 
 CC  superfamily, and this subtype shares some similarities with the CRISPR
 CC  RAMP module in that it tends to be associated with other subtypes and
 CC  often forms hybrid-subtype loci. 
