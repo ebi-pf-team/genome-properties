@@ -12,4 +12,14 @@ CC  Lipopolysaccharide (also known as LPS, lipoglycan and endotoxin) is the
 CC  major component of the Gram-negative bacterial cell wall. Lipopolysaccharide
 CC  is composed of three parts, lipid A, a core oligosaccharide, and the 
 CC  O-antigen [1].
+--
+SN  1
+ID  LPS inner core biosynthesis, ketodeoxyoctonate and heptose type
+RQ  0
+EV  GenProp0203;
+--
+SN  2
+ID  KDO(2)-lipid A (Re LPS) biosynthesis and delivery
+RQ  0
+EV  GenProp0204;
 //
