@@ -34,37 +34,37 @@ CC  called the CRISPR RAMP module.
 --
 SN  1
 ID  Cmr1
-DN  Cmr1/Cmr1
+DN  CRISPR-associated protein TM1795/Cmr1
 RQ  1
 EV  IPR007522; TIGR01894; sufficient;
 --
 SN  2
 ID  Cmr2
-DN  Cmr2/Cmr2
+DN  CRISPR-associated protein Cmr2
 RQ  1
 EV  IPR013407; TIGR02577; sufficient;
 --
 SN  3
 ID  Cmr3
-DN  Cmr3/Cmr3
+DN  CRISPR-associated protein, TM1793/Cmr3
 RQ  1
 EV  IPR010165; TIGR01888; sufficient;
 --
 SN  4
 ID  Cmr4
-DN  Cmr4/Cmr4
+DN  CRISPR-associated RAMP Cmr4
 RQ  1
 EV  IPR013410; TIGR02580; sufficient;
 --
 SN  5
 ID  Cmr5
-DN  Cmr5/Cmr5
+DN  CRISPR-associated protein, Cmr5
 RQ  1
 EV  IPR010160; TIGR01881; sufficient;
 --
 SN  6
 ID  Cmr6
-DN  Cmr6/Cmr6
+DN  CRISPR-associated protein, TM1791/Cmr6
 RQ  1
 EV  IPR010172; TIGR01898; sufficient;
 //
