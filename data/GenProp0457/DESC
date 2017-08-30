@@ -4,16 +4,16 @@ TP  SYSTEM
 AU  Haft DH
 TH  1
 RN  [1]
+RM  9893952
+RT  The metabolism of 6-deoxyhexoses in bacterial and animal cells.
+RA  Tonetti M, Sturla L, Bisso A, Zanardi D, Benatti U, De Flora A;
+RL  Biochimie. 1998;80:923-931.
+RN  [2]
 RM  15576793
 RT  A genetic locus necessary for rhamnose uptake and catabolism in
 RT  Rhizobium leguminosarum bv. trifolii.
 RA  Richardson JS, Hynes MF, Oresnik IJ;
 RL  J Bacteriol. 2004;186:8433-8442.
-RN  [2]
-RM  9893952
-RT  The metabolism of 6-deoxyhexoses in bacterial and animal cells.
-RA  Tonetti M, Sturla L, Bisso A, Zanardi D, Benatti U, De Flora A;
-RL  Biochimie. 1998;80:923-931.
 RN  [3]
 RM  8384447
 RT  Proton-linked L-rhamnose transport, and its comparison with L-fucose
@@ -41,7 +41,7 @@ RL  J Mol Biol. 2005;349:153-162.
 DC  rhamnose catabolism
 DR  KEGG; map00051;
 CC  L-rhamnose, (aka 6-deoxy-L-mannose) is a common sugar synthesized and
-CC  utilized in oligosaccharides and glcyolipids by many bacteria [2]. The
+CC  utilized in oligosaccharides and glcyolipids by many bacteria [1]. The
 CC  monosaccharide is available in various environments and thus
 CC  regulatory, transport and enzymatic systems have also evolved for its
 CC  breakdown and use as a carbon source. The system modeled here includes
@@ -53,7 +53,7 @@ CC  components which, by homology alone, cannot be assigned a specific
 CC  substrate. Certain of the enzymes in this system are similar enough to
 CC  cognate enzymes in the fucose catabolism system (GenProp0458) as to
 CC  have caused gene naming errors in the past (i.e.
-CC  fuculokinase/rhamnokinase). The system in certain rhizobial species [1]
+CC  fuculokinase/rhamnokinase). The system in certain rhizobial species [2]
 CC  has been reported to vary from the canonical pathway in that the sugar
 CC  may be phosphorylated prior to isomerization (i.e. the rhamnulokinase
 CC  may in fact be a rhamnokinase and the rhamnose isomerase may be a
