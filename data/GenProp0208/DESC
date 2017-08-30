@@ -19,7 +19,6 @@ EV  IPR005564; PF03864; sufficient;
 EV  IPR006441; PF05125; sufficient;
 EV  IPR003514; PF02305; sufficient;
 EV  IPR024659; PF11651;
-EV  IPRXXXX; TIGR04387;
 --
 SN  2
 ID  Any phage holin
@@ -61,7 +60,7 @@ EV  IPR006521; TIGR01634; sufficient;
 EV  IPR007067; PF04984; sufficient;
 EV  IPR006498; PF04985; sufficient;
 EV  IPR006487; PF05100; sufficient;
-EV  IPRXXXX; PF05126; sufficient;
+EV  IPR021145; PF05133; sufficient;
 EV  IPR008767; TIGR01563; sufficient;
 EV  IPR006522; TIGR01635; sufficient;
 EV  IPR008020; PF05371; sufficient;
@@ -114,13 +113,12 @@ EV  IPR005601; PF03903; sufficient;
 EV  IPR005604; PF03906; sufficient;
 EV  IPR006520; TIGR01633; sufficient;
 EV  IPR010027; PF06894; sufficient;
-EV  IPRXXXX; PF06893; sufficient;
 EV  IPR009678; PF06891; sufficient;
 EV  IPR024455; PF05065; sufficient;
 EV  IPR009312; PF06141; sufficient;
 EV  IPR010633; PF06763; sufficient;
 EV  IPR010265; PF05939; sufficient;
-EV  IPRXXXX; PF06274; sufficient;
+EV  IPR035089; PF04984; sufficient;
 EV  IPR010654; PF06805; sufficient;
 EV  IPR008861; PF05489; sufficient;
 EV  IPR011748; TIGR02242; sufficient;
