@@ -21,12 +21,12 @@ CC  including Cas1 to Cas4, are found only in genomes with CRISPR repeats,
 CC  and are near these repeats. Jansen, et al. describe CRISPR loci as
 CC  having direct repeats, varying in size from 21 to 37 bp, interspaced by
 CC  similarly sized non-repetitive sequences. Variants of CRISP/Cas loci
-CC  (subtypes) have been described [2] in
-CC  which certain groups of subtype-specific genes are found in addition to
-CC  characteristic sets of the more widely distributed cas genes. The Mtube
-CC  subtype, so named because this subtype is the only one found in the
-CC  genome of Mycobacterium tuberculosis, consists of cas1, cas2, and the
-CC  subtype specific genes csm1-5.  Csm3, 4 and 5 are members of the RAMP
+CC  (subtypes) have been described [2] in which certain groups of 
+CC  subtype-specific genes are found in addition to characteristic sets of 
+CC  the more widely distributed cas genes. The Mtube subtype, so named 
+CC  because this subtype is the only one found in the genome of 
+CC  Mycobacterium tuberculosis, consists of cas1, cas2, and the subtype 
+CC  specific genes csm1-5.  Csm3, 4 and 5 are members of the RAMP 
 CC  superfamily, and this subtype shares some similarities with the CRISPR
 CC  RAMP module in that it tends to be associated with other subtypes and
 CC  often forms hybrid-subtype loci. 
