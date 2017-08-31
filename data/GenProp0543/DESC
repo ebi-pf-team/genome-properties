@@ -17,33 +17,33 @@ CC  region of homology and may number more than 50 in a single genome.
 --
 SN  1
 ID  TonB C-terminal domain
-DN  TonB C-terminal domain/TonB
+DN  TonB C-terminal domain
 RQ  1
-EV  IPRXXXX; TIGR01352;
+EV  IPR006260; TIGR01352;
 --
 SN  2
 ID  Barrel domain, tonB-dependent receptor
-DN  Barrel domain, tonB-dependent receptor/barrel
+DN  Barrel domain, tonB-dependent receptor
 RQ  0
 EV  IPR000531; PF00593; sufficient;
 --
 SN  3
 ID  TonB-system energizer ExbB
-DN  TonB-system energizer ExbB/exbB
+DN  TonB-system energizer ExbB
 RQ  1
 EV  IPR014164; TIGR02797; sufficient;
 EV  IPR014172; TIGR02805; sufficient;
 --
 SN  4
 ID  TonB-system energizer ExbD
-DN  TonB-system energizer ExbD/exbD
+DN  onB system transport protein ExbD
 RQ  1
 EV  IPR014170; TIGR02803; sufficient;
 EV  IPR014171; TIGR02804; sufficient;
 --
 SN  5
 ID  Plug domain, tonB-dependent receptor
-DN  Plug domain, tonB-dependent receptor/plug
+DN  Plug domain, tonB-dependent receptor
 RQ  0
 EV  IPR012910; PF07715; sufficient;
 //
