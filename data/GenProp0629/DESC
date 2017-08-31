@@ -41,58 +41,43 @@ CC  acidify cellular compartments.
 --
 SN  1
 ID  A1 stalk complex, A subunit
-DN  A1 stalk complex, A subunit/AhaA
+DN  ATP synthase alpha chain, archaea
 RQ  1
 EV  IPR005726; TIGR01043; sufficient;
 --
 SN  2
 ID  A1 stalk complex, B subunit
-DN  A1 stalk complex, B subunit/AhaB
+DN  ATPase, A1 complex, beta subunit
 RQ  1
 EV  IPR005724; TIGR01041; sufficient;
 --
 SN  3
 ID  A1 stalk complex, C subunit
-DN  A1 stalk complex, C subunit/AhaC
+DN  ATPase, V0 complex, c subunit
 RQ  1
 EV  IPR014272; TIGR02923; sufficient;
 --
 SN  4
 ID  A1 stalk complex, D subunit
-DN  A1 stalk complex, D subunit/AhaD
+DN  ATPase, V1 complex, subunit D
 RQ  1
 EV  IPR002699; TIGR00309; sufficient;
 --
 SN  5
 ID  A1 stalk complex, E subunit
-DN  A1 stalk complex, E subunit/AhaE
+DN  ATPase, V1/A1 complex, subunit E
 RQ  1
 EV  IPR002842; PF01991; sufficient;
 --
 SN  6
 ID  A1 stalk complex, F subunit
-DN  A1 stalk complex, F subunit/AhaF
+DN  ATPase, V1 complex, subunit F
 RQ  1
 EV  IPR008218; PF01990; sufficient;
 --
-SN  7
-ID  A1 stalk complex, G subunit
-DN  A1 stalk complex, G subunit/AhaG
-RQ  0
---
 SN  8
 ID  H subunit
-DN  H subunit/AhaH
+DN  ATPase, A1A0, subunit H
 RQ  0
 EV  IPR014275; TIGR02926; sufficient;
---
-SN  9
-ID  A0 membrane complex, I subunit
-DN  A0 membrane complex, I subunit/AhaI
-RQ  0
---
-SN  10
-ID  A0 membrane complex, K subunit
-DN  A0 membrane complex, K subunit/AhaK
-RQ  0
 //
