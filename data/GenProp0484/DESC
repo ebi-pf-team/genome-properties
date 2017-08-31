@@ -24,35 +24,35 @@ CC  This system is a specialized type-IV secretion system.
 --
 SN  1
 ID  TraF pilus assembly protein
-DN  TraF pilus assembly protein/TraF
+DN  Type-F conjugative transfer system pilin assembly protein TraF
 RQ  1
 EV  IPR014110; TIGR02739; sufficient;
 TG  GO:0009291;
 --
 SN  2
 ID  Possible alternate TraF or TrbB
-DN  Possible alternate TraF or TrbB/TraF-lik
+DN  Type IV conjugative transfer system protein TraF
 RQ  0
 EV  IPR014111; TIGR02740; sufficient;
 TG  GO:0009291;
 --
 SN  3
 ID  TraH pilus assembly protein
-DN  TraH pilus assembly protein/TraH
+DN  Type IV conjugative transfer system protein TraH
 RQ  1
 EV  IPR010927; PF06122; sufficient;
 TG  GO:0009291;
 --
 SN  4
 ID  TraI plasmid relaxase/helicase protein
-DN  TraI plasmid relaxase/helicase protein/TraI
+DN  Conjugative transfer relaxase protein TraI
 RQ  1
 EV  IPR014129; TIGR02760; sufficient;
 TG  GO:0009291;
 --
 SN  5
 ID  TraN outer membrane mating-pair stabilization protein
-DN  TraN outer membrane mating-pair stabilization protein/TraN
+DN  Type-F conjugative transfer system mating-pair stabilisation protein TraN
 RQ  1
 EV  IPR014121; PF06986; sufficient;
 TG  GO:0009291;
@@ -61,54 +61,49 @@ TG  GO:0009291;
 --
 SN  6
 ID  TraQ pilin inner membrane chaperone
-DN  TraQ pilin inner membrane chaperone/TraQ
+DN  Type-F conjugative transfer system pilin chaperone TraQ
 RQ  0
 EV  IPR014112; TIGR02741; sufficient;
 TG  GO:0009291;
 --
 SN  7
 ID  TraU mating-pair stabilization protein
-DN  TraU mating-pair stabilization protein/TraU
+DN  TraU mating-pair stabilization protein
 RQ  1
 EV  IPR009649; PF06834; sufficient;
 TG  GO:0009291;
 --
 SN  8
 ID  TraW pilus assembly protein
-DN  TraW pilus assembly protein/TraW
+DN  Type-F conjugative transfer system protein TraW
 RQ  1
 EV  IPR014114; TIGR02743; sufficient;
 TG  GO:0009291;
 --
 SN  9
 ID  TraX pilin acetylase
-DN  TraX pilin acetylase/TraX
+DN  TType-F conjugative transfer system pilin acetylase TraX
 RQ  0
 EV  IPR014125; TIGR02755; sufficient;
 TG  GO:0009291;
 --
 SN  10
 ID  TrbB pilus assembly disulfide isomerase
-DN  TrbB pilus assembly disulfide isomerase/TrbB
+DN  Type-F conjugative transfer system pilin assembly thiol-disulphide isomerase TrbB
 RQ  1
 EV  IPR014109; TIGR02738; sufficient;
 TG  GO:0009291;
 --
-SN  11
-ID  Possible alternate TrbB, CXXC-containing protein
-DN  Possible alternate TrbB, CXXC-containing protein/TrbB-lik
-RQ  0
---
 SN  12
 ID  TrbC pilus assembly protein
-DN  TrbC pilus assembly protein/TrbC
+DN  Type-F conjugative transfer system pilin assembly protein TrbC
 RQ  1
 EV  IPR014113; TIGR02742; sufficient;
 TG  GO:0009291;
 --
 SN  13
 ID  TrbI pilus assembly protein
-DN  TrbI pilus assembly protein/TrbI
+DN  Type-F conjugative transfer system protein TrbI 
 RQ  0
 EV  IPR014115; TIGR02744; sufficient;
 TG  GO:0009291;
