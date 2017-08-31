@@ -38,19 +38,19 @@ CC  adapted here from literature.
 --
 SN  1
 ID  RepA plasmid partitioning protein
-DN  RepA plasmid partitioning protein/repA
+DN  Plasmid partitioning protein, RepA
 RQ  1
 EV  IPR017818; TIGR03453;
 --
 SN  2
 ID  RepB plasmid partitioning protein
-DN  RepB plasmid partitioning protein/repB
+DN  Plasmid partitioning protein, RepB
 RQ  1
 EV  IPR017819; TIGR03454; sufficient;
 --
 SN  3
 ID  RepC replication initiator protein
-DN  RepC replication initiator protein/repC
+DN  Replication protein C/RepC
 RQ  1
 EV  IPR005090; PF03428; sufficient;
 //
