@@ -20,21 +20,21 @@ CC  may be replaced by auracyanin or an unrelated redox partner.
 --
 SN  1
 ID  Arsenite oxidase, small (Rieske) subunit
-DN  Arsenite oxidase, small (Rieske) subunit/Rieske
+DN  Arsenite oxidase, small subunit
 RQ  1
 EV  IPR014067; TIGR02694; sufficient;
 TG  GO:0015975;
 --
 SN  2
 ID  Azurin
-DN  Azurin/azurin
+DN  Azurin (EC 1.20.9.1)
 RQ  0
 EV  IPR014068; TIGR02695; sufficient;
 TG  GO:0015975;
 --
 SN  3
 ID  Arsenite oxidase, large subunit
-DN  Arsenite oxidase, large subunit/molybdo
+DN  Arsenite oxidase, large subunit
 RQ  1
 EV  IPR014066; TIGR02693; sufficient;
 TG  GO:0015975;
