@@ -38,42 +38,42 @@ CC  part of this system.
 --
 SN  1
 ID  RecF
-DN  DNA replication and repair protein RecF/RecF
+DN  DNA replication and repair protein RecF
 RQ  1
 EV  IPR001238; TIGR00611; sufficient;
 TG  GO:0000724;
 --
 SN  2
 ID  Exonuclease RecJ
-DN  Single-stranded-DNA-specific exonuclease RecJ (EC:3.1.-.-)/RecJ
+DN  Single-stranded-DNA-specific exonuclease RecJ (EC:3.1.-.-)
 RQ  1
 EV  IPR004610; TIGR00644; sufficient;
 TG  GO:0000724;
 --
 SN  3
 ID  RecN
-DN  DNA repair protein RecN/RecN
+DN  DNA repair protein RecN
 RQ  0
 EV  IPR004604; TIGR00634; sufficient;
 TG  GO:0000724;
 --
 SN  4
 ID  RecO
-DN  DNA repair protein RecO/RecO
+DN  DNA repair protein RecO
 RQ  1
 EV  IPR003717; TIGR00613; sufficient;
 TG  GO:0000724;
 --
 SN  5
 ID  Helicase RecQ
-DN  ATP-dependent DNA helicase RecQ (EC:3.6.1.-)/RecQ
+DN  ATP-dependent DNA helicase RecQ (EC:3.6.1.-)
 RQ  0
 EV  IPR006293; TIGR01389; sufficient;
 TG  GO:0000724;
 --
 SN  6
 ID  RecR
-DN  Recombination protein RecR/RecR
+DN  Recombination protein RecR
 RQ  1
 EV  IPR000093; TIGR00615; sufficient;
 TG  GO:0000724;
