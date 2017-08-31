@@ -11,14 +11,14 @@ CC  occasionally annotated (apparently incorrectly) as ATP-dependent
 CC  protease La.
 --
 SN  1
-ID  Downstream (TIGR02688)
-DN  Downstream (TIGR02688)/dnstrm
+ID  Downstream
+DN  Conserved hypothetical protein CHP02688
 RQ  1
 EV  IPR014061; TIGR02688; sufficient;
 --
 SN  2
-ID  Upstream (TIGR02687)
-DN  Upstream (TIGR02687)/upstrm
+ID  Upstream
+DN  Conserved hypothetical protein CHP02687
 RQ  1
 EV  IPR014060; TIGR02687; sufficient;
 //
