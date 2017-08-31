@@ -19,21 +19,21 @@ CC  machines of the cell. Oxygen acts as the terminal electron acceptor for
 CC  the electron-transport chain. 
 --
 SN  1
-ID  Generation of a ATP from ADP utilizing a proton (or sodium ion) gradient
-DN  Generation of a ATP from ADP utilizing a proton (or sodium ion) gradient/ATPsynth
+ID  A1/A0 ATPase/F1/F0 ATPase
+DN  A1/A0 ATPase/F1/F0 ATPase
 RQ  1
 EV  GenProp0128;
 EV  GenProp0629;
 --
 SN  2
-ID  Generation of a proton (or sodium ion) gradient by the coupling of NADH oxidation (to NAD+) with oxygen reduction (to water)
-DN  Generation of a proton (or sodium ion) gradient by the coupling of NADH oxidation (to NAD+) with oxygen reduction (to water)/ETC
+ID  Aerobic electron transfer (transport) chain, ETC
+DN  Aerobic electron transfer (transport) chain, ETC
 RQ  1
 EV  GenProp0612;
 --
 SN  3
-ID  Generation of NADH from NAD+ by oxidation of electron donor molecules
-DN  Generation of NADH from NAD+ by oxidation of electron donor molecules/TCAcyc
+ID  TCA cycle
+DN  TCA cycle
 RQ  1
 EV  GenProp0033;
 //
