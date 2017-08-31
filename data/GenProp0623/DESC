@@ -1,17 +1,26 @@
 AC  GenProp0623
-DE  NADH dehydrogenase, Sno(Mnh)ABCDEFG)
+DE  NADH dehydrogenase, Sno(Mnh)ABCDEFG
 TP  SYSTEM
 AU  Haft DH
 TH  0
+RN  [1]
+RM  16352837
+RT  Transposon disruption of the complex I NADH oxidoreductase gene
+RT  (snoD) in Staphylococcus aureus is associated with reduced
+RT  susceptibility to the microbicidal activity of thrombin-induced
+RT  platelet microbicidal protein 1.
+RA  Bayer AS, McNamara P, Yeaman MR, Lucindo N, Jones T, Cheung AL, Sahl
+RA  HG, Proctor RA;
+RL  J Bacteriol. 2006;188:211-222.
 CC  This gene cluster (snoABCDEFG) has been proposed [1] to encode a
 CC  alternative NADH dehydrogenase complex I based on homology to known
 CC  complex I subunits and certain knockout phenotype characteristics in
-CC  Staphylococcus aureus.  The cluster had been previously characterized
+CC  Staphylococcus aureus. The cluster had been previously characterized
 CC  as a sodium-proton antiporter.
 --
 SN  1
 ID  SnoB subunit, C-terminal domain
-DN  SnoB subunit, C-terminal domain/SnoB-C
+DN  Na+/H+ antiporter MnhB subunit-related protein
 RQ  1
 EV  IPR007182; PF04039; sufficient;
 --
