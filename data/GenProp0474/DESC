@@ -13,29 +13,29 @@ CC  dependent on glutaredoxin or thioredoxin in different instances.
 --
 SN  1
 ID  Arsenical resistance protein ArsH
-DN  Arsenical resistance protein ArsH/arsH
+DN  Arsenical resistance protein ArsH
 RQ  1
 EV  IPR014063; TIGR02690; sufficient;
 --
 SN  2
 ID  Arsenical resistance regulator ArsR
-DN  Arsenical resistance regulator ArsR/arsR
+DN  HTH ArsR-type DNA-binding domain
 RQ  1
-EV  IPRXXXX; PF01022;
+EV  IPR001845; PF01022;
 --
 SN  3
 ID  Arsenite efflux transporter ArsB
-DN  Arsenite efflux transporter ArsB/pump
+DN  Arsenical-resistance protein Acr3/Arsenical pump membrane protein/ArsB
 RQ  1
 EV  IPR004706; TIGR00832; sufficient;
 EV  IPR000802; TIGR00935; sufficient;
 --
 SN  4
 ID  Arsenate reductase
-DN  Arsenate reductase/reduct
+DN  Arsenate reductase
 RQ  1
 EV  IPR014064; TIGR02691; sufficient;
 EV  IPR014062; TIGR02689; sufficient;
-EV  IPRXXXX; TIGR00014;
+EV  IPR006659; TIGR00014;
 EV  IPR023485; PF01451;
 //
