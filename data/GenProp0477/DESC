@@ -13,19 +13,19 @@ CC  systems rely on transporters of other types.
 --
 SN  1
 ID  P-type ATPase copper transporter
-DN  P-type ATPase copper transporter/P_ATP
+DN  P-type ATPase copper transporter
 RQ  1
 EV  IPRXXXX; TIGR01511; sufficient;
 --
 SN  2
 ID  Copper chaperone
-DN  Copper chaperone/chaper
+DN  Heavy metal-associated domain, copper ion-binding
 RQ  1
 EV  IPR006122; TIGR00003;
 --
 SN  3
 ID  Copper transport repressor
-DN  Copper transport repressor/regul
+DN  Copper transport repressor CopY/TcrY
 RQ  0
 EV  IPR014071; TIGR02698; sufficient;
 //
