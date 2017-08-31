@@ -64,7 +64,7 @@ TG  GO:0032324;
 --
 SN  6
 ID  Molybdopterin-guanine dinucleotide biosynthesis protein A
-DN  Molybdopterin-guanine dinucleotide biosynthesis protein A/mobA
+DN  Molybdenum cofactor guanylyltransferase/mobA
 RQ  0
 EV  IPR013482; TIGR02665; sufficient;
 TG  GO:0032324;
