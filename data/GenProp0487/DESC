@@ -9,19 +9,19 @@ RT  The expression of a novel antisense gene mediates incompatibility
 RT  within the large repABC family of alpha-proteobacterial plasmids.
 RA  MacLellan SR, Smallbone LA, Sibley CD, Finan TM;
 RL  Mol Microbiol. 2005;55:611-623.
-CC  Plasmids and second chromosomes in the alpha-proteobacteria, that is,
-CC  replicons other than main chromosome, often are maintained by repABC
+CC  Plasmids and second chromosomes in the alpha-proteobacteria, that is
+CC  replicons other than main chromosome, are often maintained by repABC
 CC  systems (an example of an alternative system is replicator region type
-CC  A).  RepA and RepB are partitioning proteins, while RepC is a
+CC  A). RepA and RepB are partitioning proteins, while RepC is a
 CC  replication protein. In species with multiple plasmids, different
 CC  classes of repABC system work in parallel; it appears that the
 CC  incompatability system that separates the different RepABC subtypes is
-CC  mediated by an untranslated RNA gene, incA, encoded between repB and
-CC  repC and transcribed in the antisense direction (see PMID: 15659174).
-CC  IncA is not modelled as part of this Genome Property. Note that
-CC  homologs to RepA and RepB occur as gene pairs in smaller replicons
-CC  outside the alpha-proteobacteria, such as on the smaller chromosome of
-CC  Vibrio cholerae (a gamma-proteobacterium). These more distantly related
+CC  mediated by an untranslated RNA gene, IncA, encoded between repB and
+CC  repC and transcribed in the antisense direction [1]. IncA is not 
+CC  modelled as part of this Genome Property. Note that homologs to RepA 
+CC  and RepB occur as gene pairs in smaller replicons outside the 
+CC  alpha-proteobacteria, such as on the smaller chromosome of Vibrio 
+CC  cholerae (a gamma-proteobacterium). These more distantly related
 CC  systems, however, fall outside the definition of repABC systems as
 CC  adapted here from literature.
 **  NOTE: accidentally removed Vibrio wings of the model, despite starting
