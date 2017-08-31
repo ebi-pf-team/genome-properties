@@ -26,37 +26,37 @@ CC  Wolbachia.
 --
 SN  1
 ID  Rickettsia palindromic element (RPE)
-DN  Rickettsia palindromic element (RPE)/RPE1
+DN  Rickettsial palindromic element/RPE1
 RQ  0
 EV  IPR005728; TIGR01045; sufficient;
 --
 SN  2
 ID  Rickettsial palindromic element RPE2 domain
-DN  Rickettsial palindromic element RPE2 domain/RPE2
+DN  Rickettsia palindromic element RPE2
 RQ  0
 EV  IPR022436; TIGR03774;
 --
 SN  3
 ID  Rickettsial palindromic element RPE3 domain
-DN  Rickettsial palindromic element RPE3 domain/RPE3
+DN  Rickettsia palindromic element RPE3
 RQ  0
 EV  IPR022437; TIGR03775;
 --
 SN  4
 ID  Rickettsial palindromic element RPE4 domain
-DN  Rickettsial palindromic element RPE4 domain/RPE4
+DN  Rickettsia palindromic element RPE4
 RQ  0
 EV  IPR022439; TIGR03777;
 --
 SN  5
 ID  Rickettsial palindromic element RPE5 domain
-DN  Rickettsial palindromic element RPE5 domain/RPE5
+DN  Rickettsia palindromic element RPE5
 RQ  0
 EV  IPR022438; TIGR03776;
 --
 SN  6
-ID  Wolbachia palidromic element (WPE)
-DN  Wolbachia palidromic element (WPE)/WPE
+ID  Wolbachia palindromic element (WPE)
+DN  Wolbachia palindromic element (WPE)
 RQ  0
 EV  IPR014070; TIGR02697; sufficient;
 //
