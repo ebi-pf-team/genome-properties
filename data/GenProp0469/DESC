@@ -36,49 +36,49 @@ CC  type. Repeats typically are 37 base pairs long.
 --
 SN  1
 ID  Cas1, Dpsyc region
-DN  Cas1, Dpsyc region/Cas1
+DN  CRISPR-associated protein Cas1
 RQ  1
 EV  IPR002729; TIGR00287;
 --
 SN  2
 ID  Cas2, Dpsyc region
-DN  Cas2, Dpsyc region/Cas2
+DN  CRISPR-associated endonuclease Cas2
 RQ  1
 EV  IPR021127; TIGR01573;
 --
 SN  3
 ID  Cas3, Dpsyc subtype variant
-DN  Cas3, Dpsyc subtype variant/Cas3
+DN  Helicase Cas3, CRISPR-associated
 RQ  1
 EV  IPR013444; TIGR02621; sufficient;
 --
 SN  4
 ID  Cas4, Dpsyc region
-DN  Cas4, Dpsyc region/Cas4
+DN  CRISPR-associated protein Cas4
 RQ  1
 EV  IPR013343; TIGR00372;
 --
 SN  5
 ID  Csb1 (GSU0053)
-DN  Csb1 (GSU0053)/csb1
+DN  CRISPR-associated protein GSU0053/csb1
 RQ  1
 EV  IPR013403; TIGR02570; sufficient;
 --
 SN  6
 ID  Csb2 (GSU0054)
-DN  Csb2 (GSU0054)/csb2
+DN  CRISPR-associated protein, GSU0054/csb2
 RQ  1
 EV  IPR019089; TIGR02165; sufficient;
 --
 SN  7
 ID  Csb3 (GSU0052)
-DN  Csb3 (GSU0052)/csb3
+DN  CRISPR-associated protein GSU0052/csb3
 RQ  0
 EV  IPR026391; TIGR04106;
 --
 SN  8
 ID  CRISPR-associated protein Csx17, subtype Dpsyc
-DN  CRISPR-associated protein Csx17, subtype Dpsyc/csx17
+DN  CRISPR-associated protein Csx17, subtype Dpsyc
 RQ  0
 EV  IPR026483; TIGR04113;
 //
