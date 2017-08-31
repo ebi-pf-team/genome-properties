@@ -12,7 +12,7 @@ CC  complex and the cytochrome bo complex.
 --
 SN  1
 ID  Single complex cytochrome (quinone) oxidase
-DN  Single complex cytochrome (quinone) oxidase/quin_ox
+DN  Single complex cytochrome (quinone) oxidase
 RQ  1
 EV  GenProp0617;
 EV  GenProp0618;
