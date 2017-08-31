@@ -4,24 +4,24 @@ TP  SYSTEM
 AU  Haft DH
 TH  0
 RN  [1]
+RM  1847686
+RT  The Bacillus subtilis cytochrome-c oxidase. Variations on a conserved
+RT  protein theme.
+RA  Saraste M, Metso T, Nakari T, Jalli T, Lauraeus M, Van der Oost J;
+RL  Eur J Biochem. 1991;195:517-525.
+RN  [2]
 RM  9380672
 RT  Structure at 2.7 A resolution of the Paracoccus denitrificans
 RT  two-subunit cytochrome c oxidase complexed with an antibody FV
 RT  fragment.
 RA  Ostermeier C, Harrenga A, Ermler U, Michel H;
 RL  Proc Natl Acad Sci U S A. 1997;94:10547-10553.
-RN  [2]
-RM  1847686
-RT  The Bacillus subtilis cytochrome-c oxidase. Variations on a conserved
-RT  protein theme.
-RA  Saraste M, Metso T, Nakari T, Jalli T, Lauraeus M, Van der Oost J;
-RL  Eur J Biochem. 1991;195:517-525.
 CC  The cytochrome c oxidase complex is responsible for coupling the
 CC  oxidation of the reduced cytochrome c protein to the reduction of
 CC  molecular oxygen to form water with the concomitant pumping of protons
 CC  out of the cell. This complex is the type found in mitochondria and
 CC  prokaryotes which utilize mitochondrial-type aerobic respiration.  The
-CC  complex in Bacilli [2] is somewhat different but included here and
+CC  complex in Bacilli [1] is somewhat different but included here and
 CC  carrys the gene symbols CtaD/CtaC.
 --
 SN  1
