@@ -26,28 +26,28 @@ CC  ligase, and polymerase activities.
 --
 SN  1
 ID  Ku protein, bacterial type
-DN  Ku protein, bacterial type/Ku
+DN  Ku protein, bacterial type
 RQ  1
 EV  IPR009187; TIGR02772; sufficient;
 TG  GO:0006303;
 --
 SN  2
 ID  3-prime phosphoesterase domain
-DN  3-prime phosphoesterase domain/PE
+DN  3-prime phosphoesterase domain
 RQ  0
 EV  IPR014144; TIGR02777; sufficient;
 TG  GO:0006303;
 --
 SN  3
 ID  Ligase domain
-DN  Ligase domain/ligase
+DN  Ligase domain
 RQ  1
 EV  IPR014146; TIGR02779; sufficient;
 TG  GO:0006303;
 --
 SN  4
 ID  Polymerase domain
-DN  Polymerase domain/poly
+DN  Polymerase domain
 RQ  1
 EV  IPR014145; TIGR02778; sufficient;
 TG  GO:0006303;
