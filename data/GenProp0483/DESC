@@ -17,38 +17,38 @@ CC  is largely restricted to the Proteobacteria.
 --
 SN  1
 ID  Subunit I (CcoN)
-DN  Subunit I (CcoN)/1_ccoN
+DN  Cytochrome c oxidase cbb3-type, subunit I
 RQ  1
 EV  IPR004677; TIGR00780; sufficient;
 --
 SN  2
 ID  Subunit II (CcoO)
-DN  Subunit II (CcoO)/2_ccoO
+DN  Cytochrome c oxidase, monohaem subunit/FixO
 RQ  1
 EV  IPR003468; TIGR00781; sufficient;
 --
 SN  3
 ID  Subunit III (CcoP)
-DN  Subunit III (CcoP)/3_ccoP
+DN  Cytochrome c oxidase cbb3-type, subunit III
 RQ  1
 EV  IPR004678; TIGR00782; sufficient;
 --
 SN  4
 ID  Subunit CcoQ
-DN  Subunit CcoQ/4_ccoQ
+DN  Cytochrome c oxidase cbb3-type, CcoQ
 RQ  0
 EV  IPR008621; PF05545; sufficient;
 EV  IPR014107; TIGR02736; sufficient;
 --
 SN  5
 ID  Insertion/maturation protein CcoS
-DN  Insertion/maturation protein CcoS/CcoS
+DN  Cytochrome oxidase maturation protein cbb3-type
 RQ  1
 EV  IPR004714; TIGR00847; sufficient;
 --
 SN  6
 ID  Accessory, ferredoxin-like, FixG
-DN  Accessory, ferredoxin-like, FixG/FixG
+DN  Cytochrome c oxidase cbb3 type, accessory protein FixG
 RQ  1
 EV  IPR014116; TIGR02745; sufficient;
 //
