@@ -240,19 +240,19 @@ DN  Spore coat protein, CotS family/cotS
 RQ  0
 EV  IPR014255; TIGR02906; sufficient;
 --
-SN  ger(x)A
+SN  36
 ID  GerKA-like paralogous family
 DN  GerKA-like paralogous family/ger(x)A
 RQ  1
 EV  IPR004995; PF03323; sufficient;
 --
-SN  ger(x)B
+SN  37
 ID  GerKB-like paralogous family
 DN  GerKB-like paralogous family/ger(x)B
 RQ  1
 EV  IPR004761; TIGR00912; sufficient;
 --
-SN  ger(x)C
+SN  38
 ID  GerKC-like paralogous family
 DN  GerKC-like paralogous family/ger(x)C
 RQ  1
