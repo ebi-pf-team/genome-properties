@@ -8,11 +8,6 @@ CC  conjucation systems use a core set of structures for the elaboration of
 CC  a conjugative pilus. Components specific to these two systems are
 CC  found in related Genome Properties.
 --
-SN  1
-ID  Checked, decided not to include
-DN  Checked, decided not to include/IGNORE
-RQ  0
---
 SN  2
 ID  Pilin, TraA/TrbC/VirB2
 DN  Pilin, TraA/TrbC/VirB2/TraA
