@@ -6,7 +6,7 @@ TH  0
 CC  Formaldehyde, a toxic metabolite because it reacts easily with protein
 CC  or DNA, naturally combines with reduced glutathione (GSH) to form
 CC  S-hydroxymethyl-glutathione. In some species, this reaction is
-CC  accelerated by the enzyme  S-(hydroxymethyl)glutathione synthase, also
+CC  accelerated by the enzyme S-(hydroxymethyl)glutathione synthase, also
 CC  called glutathione-dependent formaldehyde activating enzyme. A class
 CC  III alcohol dehydrogenase, with activity for a variety of medium chain
 CC  alcohols (but poor activity for ethanol) can convert
@@ -22,19 +22,19 @@ CC  importance of formaldehyde detoxification.
 --
 SN  1
 ID  S-(hydroxymethyl)glutathione synthase
-DN  S-(hydroxymethyl)glutathione synthase/add_GSH
+DN  S-(hydroxymethyl)glutathione synthase
 RQ  0
 EV  IPR014185; TIGR02820; sufficient;
 --
 SN  2
 ID  S-formylglutathione hydrolase
-DN  S-formylglutathione hydrolase/cleave
+DN  S-formylglutathione hydrolase
 RQ  1
 EV  IPR014186; TIGR02821; sufficient;
 --
 SN  3
 ID  S-(hydroxymethyl)glutathione dehydrogenase
-DN  S-(hydroxymethyl)glutathione dehydrogenase/oxidize
+DN  S-(hydroxymethyl)glutathione dehydrogenase
 RQ  1
 EV  IPR014183; TIGR02818; sufficient;
 //
