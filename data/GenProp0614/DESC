@@ -26,43 +26,44 @@ CC  carrys the gene symbols CtaD/CtaC.
 --
 SN  1
 ID  Oxidase subunit I CoxA/CtaD/Cox1
-DN  Oxidase subunit I CoxA/CtaD/Cox1/CoxA
+DN  Oxidase subunit I CoxA/CtaD/Cox1
 RQ  1
 EV  IPR014241; TIGR02891; sufficient;
 --
 SN  2
 ID  Oxidase subunit II, CoxB
-DN  Oxidase subunit II, CoxB/CoxB
+DN  Oxidase subunit II, CoxB
 RQ  1
 EV  IPR014222; TIGR02866; sufficient;
 --
 SN  3
 ID  Oxidase subunit III, CoxC
-DN  Oxidase subunit III, CoxC/CoxC
+DN  Oxidase subunit III, CoxC
 RQ  1
+EV  IPR024791; PTHR11403; sufficient;
 --
 SN  4
 ID  Oxidase subunit IV, CoxD
-DN  Oxidase subunit IV, CoxD/CoxD
+DN  Oxidase subunit IV, CoxD
 RQ  0
 EV  IPR011743; TIGR02229; sufficient;
 EV  IPR005171; PF03626; sufficient;
 --
-SN  5?
+SN  5
 ID  Protoheme IX farnesyltransferase, CtaB/Cox10
-DN  Protoheme IX farnesyltransferase, CtaB/Cox10/CoxE?
+DN  Protoheme IX farnesyltransferase, CtaB/Cox10
 RQ  0
 EV  IPR006369; TIGR01473; sufficient;
 --
 SN  6
 ID  Assembly protein CoxG/CtaG/Cox11
-DN  Assembly protein CoxG/CtaG/Cox11/CoxG
+DN  Assembly protein CoxG/CtaG/Cox11
 RQ  0
 EV  IPR007533; PF04442; sufficient;
 --
 SN  7
 ID  Assembly protein CoxW/CtaA/Cox15
-DN  Assembly protein CoxW/CtaA/Cox15/CoxW
+DN  Assembly protein CoxW/CtaA/Cox15
 RQ  0
 EV  IPR003780; PF02628; sufficient;
 //
