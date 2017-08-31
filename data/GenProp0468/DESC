@@ -15,13 +15,13 @@ CC  glycolysis and is an alternative to the early steps of glycolysis.
 --
 SN  1
 ID  2-dehydro-3-deoxyphosphogluconate aldolase
-DN  2-dehydro-3-deoxyphosphogluconate aldolase/aldolas
+DN  KDPG/KHG aldolase
 RQ  1
-EV  IPRXXXX; TIGR01182;
+EV  IPR000887; TIGR01182;
 --
 SN  2
 ID  6-phosphogluconate dehydratase
-DN  6-phosphogluconate dehydratase/dehytase
+DN  6-phosphogluconate dehydratase
 RQ  1
 EV  IPR004786; TIGR01196; sufficient;
 //
