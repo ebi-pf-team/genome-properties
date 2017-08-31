@@ -26,26 +26,27 @@ CC  This pathway utilizes acetyl phosphate as an intermediate. This system
 CC  is used in E. coli and other bacteria for the utilization of acetate as
 CC  a carbon source [1].  Alternatively, the reactions may be run in the
 CC  catabolic direction in fermentations in order to produce ATP and
-CC  excrete acetate.  Detection of the phosphate acetyltransferase is via a
-CC  TIGRFAMs equivalog in some cases, while in others the discrimination
-CC  between substrate specificities for acetate and butyrate (PF01515) is
-CC  unclear.  In the absence of an equivalog hit, when a gene adjacent to
-CC  the kinase and in an apparent operon and hits the PFAM subfamily and
-CC  the genomic context does not otherwise indicate the handling of
-CC  butyrate, the gene will be manually included.  A member of PF01515
-CC  which is distal from the acetate kinase in Thermotoga has been
-CC  experimentally characterized [3] and has also been manually included.
+CC  excrete acetate.  
+**  Detection of the phosphate acetyltransferase is via a
+**  TIGRFAMs equivalog in some cases, while in others the discrimination
+**  between substrate specificities for acetate and butyrate (PF01515) is
+**  unclear.  In the absence of an equivalog hit, when a gene adjacent to
+**  the kinase and in an apparent operon and hits the PFAM subfamily and
+**  the genomic context does not otherwise indicate the handling of
+**  butyrate, the gene will be manually included.  A member of PF01515
+**  which is distal from the acetate kinase in Thermotoga has been
+**  experimentally characterized [3] and has also been manually included.
 --
 SN  1
 ID  Phosphate acetyltransferase
-DN  Phosphate acetyltransferase/Ac-tran
+DN  Phosphate acetyltransferase
 RQ  1
 EV  IPR004614; TIGR00651; sufficient;
 TG  GO:0019427;
 --
 SN  2
 ID  Acetyl kinase
-DN  Acetyl kinase/kinase
+DN  Acetate/propionate kinase
 RQ  1
 EV  IPR004372; TIGR00016; sufficient;
 TG  GO:0019427;
