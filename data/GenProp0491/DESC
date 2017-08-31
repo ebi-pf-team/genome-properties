@@ -45,7 +45,7 @@ TG  GO:0000724;
 --
 SN  2
 ID  Exonuclease RecJ
-DN  Single-stranded-DNA-specific exonuclease RecJ (EC:3.1.-.-)
+DN  Single-stranded-DNA-specific exonuclease RecJ (EC 3.1.-.-)
 RQ  1
 EV  IPR004610; TIGR00644; sufficient;
 TG  GO:0000724;
@@ -66,7 +66,7 @@ TG  GO:0000724;
 --
 SN  5
 ID  Helicase RecQ
-DN  ATP-dependent DNA helicase RecQ (EC:3.6.1.-)
+DN  ATP-dependent DNA helicase RecQ (EC 3.6.1.-)
 RQ  0
 EV  IPR006293; TIGR01389; sufficient;
 TG  GO:0000724;
