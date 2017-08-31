@@ -17,56 +17,56 @@ CC  formation.
 --
 SN  1
 ID  Ti conjugation system relaxase TraA
-DN  Ti conjugation system relaxase TraA/TraA
+DN  Ti conjugation system relaxase TraA
 RQ  1
 EV  IPR014136; TIGR02768; sufficient;
 TG  GO:0009291;
 --
 SN  2
 ID  Ti conjugation system protein TraB
-DN  Ti conjugation system protein TraB/TraB
+DN  Conjugal transfer, TraB
 RQ  0
-EV  IPRXXXX; PF07186; sufficient;
+EV  IPR016707; PIRSF017932; sufficient;
 TG  GO:0009291;
 --
 SN  3
 ID  Ti conjugation system protein TraC
-DN  Ti conjugation system protein TraC/TraC
+DN  TraC-like
 RQ  0
 EV  IPR012930; PF07820; sufficient;
 TG  GO:0009291;
 --
 SN  4
 ID  Ti conjugation system protein TraD
-DN  Ti conjugation system protein TraD/TraD
+DN  Conjugal transfer, TraD
 RQ  0
 EV  IPR009444; PF06412; sufficient;
 TG  GO:0009291;
 --
 SN  5
 ID  Ti conjugation system signal peptidase TraF
-DN  Ti conjugation system signal peptidase TraF/TraF
+DN  Peptidase S26C, conjugative transfer signal peptidase TraF
 RQ  0
 EV  IPR014139; TIGR02771; sufficient;
 TG  GO:0009291;
 --
 SN  6
 ID  Ti conjugation system protein TraG
-DN  Ti conjugation system protein TraG/TraG
+DN  Ti-type conjugative transfer system, TraG
 RQ  1
 EV  IPR014135; TIGR02767; sufficient;
 TG  GO:0009291;
 --
 SN  7
 ID  Ti conjugation system protein TraH
-DN  Ti conjugation system protein TraH/TraH
+DN  TraH-2
 RQ  0
 EV  IPR010680; PF06871; sufficient;
 TG  GO:0009291;
 --
 SN  8
 ID  Ti/vir system protein TrbB/VirB11
-DN  Ti/vir system protein TrbB/VirB11/TrbB
+DN  Conjugative transfer TrbB/Type IV secretion system protein VirB11
 RQ  0
 EV  IPR014149; TIGR02782; sufficient;
 TG  GO:0009291;
@@ -75,9 +75,9 @@ TG  GO:0009291;
 --
 SN  9
 ID  Ti/vir system protein TrbF/VirB8
-DN  Ti/vir system protein TrbF/VirB8/TrbF
+DN  Bacterial virulence protein VirB8
 RQ  1
-EV  IPRXXXX; PF04585; sufficient;
+EV  IPR007430; PF04335; sufficient;
 TG  GO:0009291;
 EV  IPR007430; PF04335; sufficient;
 TG  GO:0009291;
