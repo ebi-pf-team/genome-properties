@@ -13,13 +13,13 @@ CC  multi-step pathways are summarized in this property.
 --
 SN  1
 ID  Direct with ATP/AMP: GenProp0480
-DN  Direct with ATP/AMP: GenProp0480/dir ATP
+DN  Direct with ATP/AMP: GenProp0480
 RQ  1
 EV  GenProp0480;
 --
 SN  2
 ID  Via acetyl phosphate: GenProp0478
-DN  Via acetyl phosphate: GenProp0478/via AcP
+DN  Via acetyl phosphate: GenProp0478
 RQ  1
 EV  GenProp0478;
 //
