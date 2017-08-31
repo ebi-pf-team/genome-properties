@@ -5,22 +5,22 @@ AU  Haft DH
 TH  0
 CC  Mitochondria and many aerobic bacteria utilize cytochrome c as a mobile
 CC  electron carrier to couple the processes of oxygen reduction to water
-CC  and quinone re-oxidation.  These two processes occur on two separate
+CC  and quinone re-oxidation. These two processes occur on two separate
 CC  complexes, cytochrome c oxidase and cytochrome c reductase,
-CC  respectively.  Both of these processes als o result in the pumping of
+CC  respectively. Both of these processes also result in the pumping of
 CC  protons across the cell membrane to generate the proton gradient
 CC  necessary for ATP generation.
 --
 SN  1
 ID  A cytochrome c oxidase
-DN  A cytochrome c oxidase/oxidase
+DN  A cytochrome c oxidase
 RQ  1
 EV  GenProp0483;
 EV  GenProp0614;
 --
 SN  2
 ID  A cytochrome c reductase
-DN  A cytochrome c reductase/reduct
+DN  A cytochrome c reductase
 RQ  1
 EV  GenProp0613;
 //
