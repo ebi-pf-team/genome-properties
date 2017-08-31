@@ -24,35 +24,35 @@ CC  Genome Property.
 --
 SN  1
 ID  ABC transporter periplasmic binding protein, urea carboxylase region
-DN  ABC transporter periplasmic binding protein, urea carboxylase region/ABC_bin
+DN  ABC transporter, urea utilisation-associated, substrate-binding protein
 RQ  0
 EV  IPR017793; TIGR03427;
 TG  GO:0043419;
 --
 SN  2
 ID  Allophanate hydrolase
-DN  Allophanate hydrolase (EC:3.5.1.54)/alloph
+DN  Allophanate hydrolase (EC:3.5.1.54)
 RQ  1
 EV  IPR014085; TIGR02713; sufficient;
 TG  GO:0043419;
 --
 SN  3
 ID  Urea carboxylase
-DN  UreA carboxylase (EC:6.3.4.6)/uca
+DN  UreA carboxylase (EC:6.3.4.6)
 RQ  1
 EV  IPR014084; TIGR02712; sufficient;
 TG  GO:0043419;
 --
 SN  4
 ID  Urea carboxylase-associated protein 1
-DN  UreA carboxylase-associated protein 1/unchar1
+DN  UreA carboxylase-associated protein 1
 RQ  1
 EV  IPR017791; TIGR03424;
 TG  GO:0043419;
 --
 SN  5
 ID  Urea carboxylase-associated protein 2
-DN  UreA carboxylase-associated protein 2/unchar2
+DN  UreA carboxylase-associated protein 2
 RQ  1
 EV  IPR017792; TIGR03425;
 TG  GO:0043419;
