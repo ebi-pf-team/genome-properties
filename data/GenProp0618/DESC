@@ -19,31 +19,31 @@ CC  [1] which contains cytochromes a and copper.
 --
 SN  1
 ID  Subunit II, CyoA
-DN  Subunit II, CyoA/CyoA
+DN  Cytochrome o ubiquinol oxidase subunit II
 RQ  1
 EV  IPR006333; TIGR01433; sufficient;
 --
 SN  2
 ID  Subunit I, CyoB
-DN  Subunit I, CyoB/CyoB
+DN  Cytochrome o ubiquinol oxidase, subunit I
 RQ  1
 EV  IPR014207; TIGR02843; sufficient;
 --
 SN  3
 ID  Subunit III, CyoC
-DN  Subunit III, CyoC/CyoC
+DN  Cytochrome o ubiquinol oxidase, subunit III
 RQ  1
 EV  IPR014206; TIGR02842; sufficient;
 --
 SN  4
 ID  Subunit IV, CyoD
-DN  Subunit IV, CyoD/CyoD
+DN  Cytochrome o ubiquinol oxidase subunit IV
 RQ  1
 EV  IPR014210; TIGR02847; sufficient;
 --
 SN  5
 ID  Protoheme IX farnesyltransferase, CyoE
-DN  Protoheme IX farnesyltransferase, CyoE/CyoE
+DN  Protohaem IX farnesyltransferase 
 RQ  1
 EV  IPR006369; TIGR01473; sufficient;
 //
