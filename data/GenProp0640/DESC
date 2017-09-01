@@ -21,19 +21,19 @@ CC  pair.
 --
 SN  1
 ID  Xanthine dehydrogenase, 2Fe2S/FAD subunit
-DN  Xanthine dehydrogenase, 2Fe2S/FAD subunit/xdhA
+DN  Xanthine dehydrogenase, 2Fe2S/FAD subunit
 RQ  1
 EV  IPR014307; TIGR02963; sufficient;
 --
 SN  2
 ID  Xanthine dehydrogenase, molybdopterin subunit
-DN  Xanthine dehydrogenase, molybdopterin subunit/xdhB
+DN  Xanthine dehydrogenase, molybdopterin subunit
 RQ  1
 EV  IPR014309; TIGR02965; sufficient;
 --
 SN  3
 ID  Xanthine dehydrogenase accessory protein XdhC
-DN  Xanthine dehydrogenase accessory protein XdhC/xdhC
+DN  Xanthine dehydrogenase accessory protein XdhC
 RQ  1
 EV  IPR014308; TIGR02964; sufficient;
 //
