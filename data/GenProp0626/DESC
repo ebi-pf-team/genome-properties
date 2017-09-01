@@ -17,13 +17,13 @@ CC  and their cognate sequences.
 --
 SN  1
 ID  LPXTG-like C-terminal region
-DN  LPXTG-motif cell wall anchor domain protein/LPXTG
+DN  LPXTG cell wall anchor domain
 RQ  1
 EV  IPR019931; TIGR01167; sufficient;
 --
 SN  2
 ID  Sortase (transpeptidase)
-DN  Sortase family protein/sortase
+DN  Sortase family
 RQ  1
 EV  IPR005754; TIGR01076; sufficient;
 //
