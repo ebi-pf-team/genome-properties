@@ -53,49 +53,49 @@ CC  only in a minority of phage shock operons.
 --
 SN  1
 ID  Phage shock protein PspA
-DN  Phage shock protein A/pspA
+DN  Phage shock protein PspA
 RQ  1
 EV  IPR014319; TIGR02977; sufficient;
 TG  GO:0006950;
 --
 SN  2
 ID  Phage shock protein PspB
-DN  Phage shock protein B/pspB
+DN  Phage shock protein PspB
 RQ  1
 EV  IPR009554; TIGR02976; sufficient;
 TG  GO:0006950;
 --
 SN  3
 ID  Phage shock protein PspC
-DN  Phage shock protein C/pspC
+DN  Phage shock protein PspC
 RQ  1
 EV  IPR014320; TIGR02978; sufficient;
 TG  GO:0006950;
 --
 SN  4
 ID  Phage shock protein PspD
-DN  Phage shock protein D/pspD
+DN  Phage shock protein PspD
 RQ  0
 EV  IPR014321; TIGR02979; sufficient;
 TG  GO:0006950;
 --
 SN  5
 ID  Rhodanese PspE
-DN  Phage shock protein E/pspE
+DN  Phage shock protein PspE
 RQ  0
 EV  IPR014323; TIGR02981; sufficient;
 TG  GO:0006950;
 --
 SN  6
 ID  Signa-54-dependent activagtor PspF
-DN  Psp operon transcriptional activator/pspF
+DN  Transcription activator PspF
 RQ  1
 EV  IPR014317; TIGR02974; sufficient;
 TG  GO:0006950;
 --
 SN  7
 ID  Phage shock protein PspG (YjbO)
-DN  Phage shock protein G/pspG
+DN  Phage shock protein, PspG
 RQ  0
 EV  IPR014318; TIGR02975; sufficient;
 TG  GO:0006950;
