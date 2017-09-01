@@ -41,13 +41,13 @@ CC  synonyms for the gene symbol rpoN, such as ntrA, reflect these observations.
 --
 SN  1
 ID  Sigma-54 interacting protein, activator
-DN  Sigma-54 interacting protein, activator/S54-dep
+DN  RNA polymerase sigma factor 54 interaction domain
 RQ  1
 EV  IPR002078; PF00158; sufficient;
 --
 SN  2
 ID  Sigma-54 (RpoN)
-DN  Sigma-54 (RpoN)/Sigma-54
+DN  RNA polymerase sigma factor 54
 RQ  1
 EV  IPR000394; TIGR02395; sufficient;
 //
