@@ -4,13 +4,12 @@ TP  SYSTEM
 AU  Haft DH
 TH  0
 CC  For several non-pathogenic Gram-positive bacteria, a protein family
-CC  (TIGR03110) showing considerable sequence similarity to the proposed
-CC  exosortases of Gram-negative bacteria (TIGR02602) occurs in a conserved
-CC  gene neighborhood. This property describes that neighborhood, which
-CC  also includes a glycosyltransferase (TIGR03111) and a domain
-CC  (TIGR03112) related to 6-pyruvoyl tetrahydropterin synthases. These
-CC  regions also include a family of proteins in the which the
-CC  well-conserved C-terminal region (TIGR04145) resembles PEP-CTERM and
+CC  showing considerable sequence similarity to the proposed exosortases 
+CC  of Gram-negative bacteria occurs in a conserved gene neighborhood. 
+CC  This property describes that neighborhood, which also includes a 
+CC  glycosyltransferase and a domain related to 6-pyruvoyl tetrahydropterin 
+CC  synthases. These regions also include a family of proteins in the which 
+CC  the well-conserved C-terminal region (TIGR04145) resembles PEP-CTERM and
 CC  LPXTG protein C-terminal regions. This last family may be the
 CC  protein-sorting target.
 **  Experimental for now, PEP-CTERM/Exosortase-related. The model TIGR03766
@@ -21,32 +20,32 @@ CC  protein-sorting target.
 **  27433).
 --
 SN  1
-ID  Putative glycosyltransferase TIGR03111
-DN  Putative glycosyltransferase TIGR03111/Gtran2
+ID  Putative glycosyltransferase
+DN  Putative glycosyltransferase
 RQ  1
 EV  IPR017542; TIGR03111; sufficient;
 --
 SN  2
 ID  Conserved hypothetical integral membrane protein
-DN  Conserved hypothetical integral membrane protein/chp_mem
+DN  Conserved hypothetical integral membrane protein
 RQ  0
 EV  IPR021200; TIGR03766;
 --
 SN  3
 ID  EpsH core region-related protein
-DN  EpsH core region-related protein/cleave
+DN  EpsH core region-related protein
 RQ  1
 EV  IPR017541; TIGR03110; sufficient;
 --
 SN  4
 ID  6-pyruvoyl tetrahydropterin synthase-related domain
-DN  6-pyruvoyl tetrahydropterin synthase-related domain/pterin
+DN  6-pyruvoyl tetrahydropterin synthase-related domain
 RQ  1
 EV  IPR017543; TIGR03112; sufficient;
 --
 SN  5
 ID  Firmicu-CTERM domain
-DN  Firmicu-CTERM domain/target
+DN  Firmicu-CTERM domain
 RQ  1
 EV  IPR026409; TIGR04145;
 //
