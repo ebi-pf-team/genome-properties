@@ -10,18 +10,31 @@ RA  Bierne H, Garandeau C, Pucciarelli MG, Sabet C, Newton S, Garcia-del
 RA  Portillo F, Cossart P, Charbit A;
 RL  J Bacteriol. 2004;186:1972-1982.
 RN  [2]
+RM  16247833
+RT  Identification of substrates of the Listeria monocytogenes sortases A
+RT  and B by a  non-gel proteomic analysis.
+RA  Pucciarelli MG, Calvo E, Sabet C, Bierne H, Cossart P, Garcia-del
+RA  Portillo F;
+RL  Proteomics. 2005;5:4808-4817.
+RN  [3]
+RM  11914350
+RT  Differential recognition of surface proteins in Streptococcus
+RT  pyogenes by two sortase gene homologs.
+RA  Barnett TC, Scott JR;
+RL  J Bacteriol. 2002;184:2181-2191.
+RN  [4]
 RM  15317792
 RT  A novel sortase, SrtC2, from Streptococcus pyogenes anchors a surface
 RT  protein containing a QVPTGV motif to the cell wall.
 RA  Barnett TC, Patel AR, Scott JR;
 RL  J Bacteriol. 2004;186:5865-5875.
 CC  This is a family of sortases and their substrates, less abundant than
-CC  the housekeeping sortase, SrtA, and the LPXTG-like target sequences.
-CC  SrtB is Listeria monocytogenes appears to process two classes of
-CC  signal, NXZTN and NPKXZ (see PMID:16247833). Note that the protein
-CC  called SrtB in Streptococcus pyogenes (see PMID:11914350) is a member
+CC  the housekeeping sortase, SrtA, and the LPXTG-like target sequences [1].
+CC  SrtB in Listeria monocytogenes appears to process two classes of
+CC  signal, NXZTN and NPKXZ [2]. Note that the protein
+CC  called SrtB in Streptococcus pyogenes [3] is a member
 CC  of the SrtA family, not the family described here, while the protein
-CC  called SrtC2 is a member of the SrtB family (see PMID:15317792).
+CC  called SrtC2 is a member of the SrtB family [4].
 --
 SN  1
 ID  Sortase, SrtB family
