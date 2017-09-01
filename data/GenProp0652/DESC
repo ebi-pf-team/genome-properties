@@ -131,16 +131,6 @@ DN  Sugar transferase, PEP-CTERM/exosortase 1-associated
 RQ  0
 EV  IPR024004; TIGR04063;
 --
-SN  19
-ID  Conserved region, upstream of non-CTERM gene
-DN  Conserved region, upstream of non-CTERM gene
-RQ  0
---
-SN  20
-ID  Conserved region upstream of CTERM genes in proteobacteria
-DN  Conserved region upstream of CTERM genes in proteobacteria
-RQ  0
---
 SN  21
 ID  Probable O-glycosylation ligase
 DN  Probable O-glycosylation ligase
