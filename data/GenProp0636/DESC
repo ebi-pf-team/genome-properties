@@ -8,25 +8,25 @@ CC  an electron acceptor during anaerobic growth.
 --
 SN  1
 ID  Nitrate reductase molybdenum cofactor assembly chaperone
-DN  Nitrate reductase molybdenum cofactor assembly chaperone/narJ
+DN  Nitrate reductase molybdenum cofactor assembly chaperone
 RQ  1
 EV  IPR003765; TIGR00684; sufficient;
 --
 SN  2
 ID  Respiratory nitrate reductase, alpha subunit
-DN  Respiratory nitrate reductase, alpha subunit/nar_alp
+DN  Respiratory nitrate reductase, alpha subunit
 RQ  1
 EV  IPR006468; TIGR01580; sufficient;
 --
 SN  3
 ID  Respiratory nitrate reductase, beta subunit
-DN  Respiratory nitrate reductase, beta subunit/nar_bet
+DN  Respiratory nitrate reductase, beta subunit
 RQ  1
 EV  IPR006547; TIGR01660; sufficient;
 --
 SN  4
 ID  Respiratory nitrate reductase, gamma subunit
-DN  Respiratory nitrate reductase, gamma subunit/nar_gam
+DN  Respiratory nitrate reductase, gamma subunit
 RQ  1
 EV  IPR003816; TIGR00351; sufficient;
 //
