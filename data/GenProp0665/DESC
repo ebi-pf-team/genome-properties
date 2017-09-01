@@ -18,13 +18,13 @@ CC  thought suggest to act in RNA processing.
 --
 SN  1
 ID  Peptide chain release factor H
-DN  Peptide chain release factor H/prfH
+DN  Peptide chain release factor H
 RQ  1
 EV  IPR017509; TIGR03072; sufficient;
 --
 SN  2
 ID  Translationally-coupled RctB family protein
-DN  Translationally-coupled RctB family protein/rtcB_lk
+DN  Translationally-coupled RctB family protein
 RQ  1
 EV  IPR017510; TIGR03073; sufficient;
 //
