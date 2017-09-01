@@ -24,19 +24,19 @@ CC  provided with a fermentable sugar.
 --
 SN  1
 ID  Sulfite reductase, subunit A
-DN  Sulfite reductase, subunit A/SfiteA
+DN  Sulfite reductase, subunit A
 RQ  1
 EV  IPR014259; TIGR02910; sufficient;
 --
 SN  2
 ID  Sulfite reductase, subunit B
-DN  Sulfite reductase, subunit B/SfiteB
+DN  Sulfite reductase, subunit B
 RQ  1
 EV  IPR014260; TIGR02911; sufficient;
 --
 SN  3
 ID  Sulfite reductase, subunit C
-DN  Sulfite reductase, subunit C/SfiteC
+DN  Sulfite reductase, subunit C
 RQ  1
 EV  IPR014261; TIGR02912; sufficient;
 //
