@@ -12,40 +12,40 @@ RL  J Bacteriol. 2005;187:1293-1304.
 CC  This property describes a set of five genes, found together in an
 CC  operon in a number of bacteria, for ectoine catabolism. In
 CC  Sinorhizobium meliloti, where the system is partially characterized,
-CC  these genes occur together four genes for an ectoine/hydroxyectoine ABC
-CC  transporter for ectoine uptake.
+CC  these genes occur together with four genes for an ectoine/hydroxyectoine 
+CC  ABC transporter for ectoine uptake.
 --
 SN  1
 ID  Ectoine utilization protein EutA
-DN  Ectoine utilization protein EutA/eutA
+DN  Ectoine utilization protein EutA
 RQ  1
 EV  IPR014332; TIGR02990; sufficient;
 TG  GO:0042400;
 --
 SN  2
 ID  Ectoine utilization protein EutB
-DN  Ectoine utilization protein EutB/eutB
+DN  Ectoine utilization protein EutB
 RQ  1
 EV  IPR014333; TIGR02991; sufficient;
 TG  GO:0042400;
 --
 SN  3
 ID  Ectoine utilization protein EutC
-DN  Ectoine utilization protein EutC/eutC
+DN  Ectoine utilization protein EutC
 RQ  1
 EV  IPR014334; TIGR02992; sufficient;
 TG  GO:0042400;
 --
 SN  4
 ID  Ectoine utilization protein EutD
-DN  Ectoine utilization protein EutD/eutD
+DN  Ectoine utilization protein EutD
 RQ  1
 EV  IPR014335; TIGR02993; sufficient;
 TG  GO:0042400;
 --
 SN  5
 ID  Ectoine utilization protein EutE
-DN  Ectoine utilization protein EutE/eutE
+DN  Ectoine utilization protein EutE
 RQ  1
 EV  IPR014336; TIGR02994; sufficient;
 TG  GO:0042400;
