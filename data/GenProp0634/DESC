@@ -4,35 +4,40 @@ TP  SYSTEM
 AU  Haft DH
 TH  0
 RN  [1]
+RM  15231786
+RT  Helicobacter pylori FlgR is an enhancer-independent activator of
+RT  sigma54-RNA polymerase holoenzyme.
+RA  Brahmachary P, Dashti MG, Olson JW, Hoover TR;
+RL  J Bacteriol. 2004;186:4535-4542.
+RN  [2]
 RM  7934866
 RT  In a class of its own--the RNA polymerase sigma factor sigma 54 (sigma
 RT  N).
 RA  Merrick MJ;
 RL  Mol Microbiol. 1993;10:903-909.
-RN  [2]
+RN  [3]
 RM  10894718
 RT  The bacterial enhancer-dependent sigma(54) (sigma(N)) transcription
 RT  factor.
 RA  Buck M, Gallegos MT, Studholme DJ, Guo Y, Gralla JD;
 RL  J Bacteriol. 2000;182:4129-4136.
-RN  [3]
+RN  [4]
 RM  11528004
 RT  Metabolic context and possible physiological themes of
 RT  sigma(54)-dependent genes in Escherichia coli.
 RA  Reitzer L, Schneider BL;
 RL  Microbiol Mol Biol Rev. 2001;65:422-44, table of contents.
-CC  A sigma factor is a DNA-binding protein protein that binds to the
-CC  DNA-directed RNA polymerase core to produce the holoenzyme capable of
-CC  initiating transcription at specific sites. Different sigma factors act
-CC  in vegetative growth, heat shock, extracytoplasmic functions (ECF),
-CC  etc. This model represents the clade of sigma factors called sigma-54,
-CC  or RpoN (unrelated to sigma 70-type factors such as RpoD/SigA). RpoN is
+CC  A sigma factor is a DNA-binding protein that binds to the DNA-directed 
+CC  RNA polymerase core, to produce the holoenzyme capable of initiating 
+CC  transcription at specific sites. Different sigma factors act in 
+CC  vegetative growth, heat shock, extracytoplasmic functions (ECF), etc. 
+CC  This model represents the clade of sigma factors called sigma-54, or 
+CC  RpoN (unrelated to sigma 70-type factors such as RpoD/SigA). RpoN is
 CC  responsible for enhancer-dependent transcription, and its presence
 CC  characteristically is associated with varied panels of activators, most
-CC  of which are enhancer-binding proteins (but see Brahmachary, et al.,
-CC  PMID:15231786). RpoN may be responsible for transcription of nitrogen
-CC  fixation genes, flagellins, pilins, etc., and synonyms for the gene
-CC  symbol rpoN, such as ntrA, reflect these observations
+CC  of which are enhancer-binding proteins [1]. RpoN may be responsible for 
+CC  transcription of nitrogen fixation genes, flagellins, pilins, etc., and 
+CC  synonyms for the gene symbol rpoN, such as ntrA, reflect these observations.
 --
 SN  1
 ID  Sigma-54 interacting protein, activator
