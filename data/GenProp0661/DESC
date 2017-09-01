@@ -21,175 +21,175 @@ CC  light-harvesting antennae.
 --
 SN  1
 ID  Photosystem II S4 domain protein
-DN  Photosystem II S4 domain protein/S4_dom
+DN  Photosystem II S4 domain protein
 RQ  1
 EV  IPR017506; TIGR03069; sufficient;
 --
 SN  2
 ID  Photosystem II protein Psb27
-DN  Photosystem II protein Psb27/psb27
+DN  Photosystem II protein Psb27
 RQ  1
 EV  IPR017488; TIGR03044; sufficient;
 --
 SN  3
 ID  Photosystem II reaction center protein Psb28
-DN  Photosystem II reaction center protein Psb28/psb28
+DN  Photosystem II reaction center protein Psb28
 RQ  1
 EV  IPR005610; TIGR03047; sufficient;
 --
 SN  4
 ID  Photosystem II biogenesis protein Psp29
-DN  Photosystem II biogenesis protein Psp29/psb29
+DN  Photosystem II biogenesis protein Psp29
 RQ  1
 EV  IPR017499; TIGR03060; sufficient;
 --
 SN  5
 ID  Photosystem II, DI subunit
-DN  Photosystem II, DI subunit/psbA
+DN  Photosystem II, DI subunit
 RQ  1
 EV  IPR005867; TIGR01151; sufficient;
 --
 SN  6
 ID  Photosystem II chlorophyll-binding protein CP47
-DN  Photosystem II chlorophyll-binding protein CP47/psbB
+DN  Photosystem II chlorophyll-binding protein CP47
 RQ  1
 EV  IPR017486; TIGR03039; sufficient;
 --
 SN  7
 ID  Photosystem II, 44K reaction center protein
-DN  Photosystem II, 44K reaction center protein/psbC
+DN  Photosystem II, 44K reaction center protein
 RQ  1
 EV  IPR005869; TIGR01153; sufficient;
 --
 SN  8
 ID  Photosystem II, D2 subunit
-DN  Photosystem II, D2 subunit/psbD
+DN  Photosystem II, D2 subunit
 RQ  1
 EV  IPR005868; TIGR01152; sufficient;
 --
 SN  9
 ID  Cytochrome b559, alpha subunit
-DN  Cytochrome b559, alpha subunit/psbE
+DN  Cytochrome b559, alpha subunit
 RQ  1
 EV  IPR006217; TIGR01332; sufficient;
 --
 SN  10
 ID  Cytochrome b559, beta subunit
-DN  Cytochrome b559, beta subunit/psbF
+DN  Cytochrome b559, beta subunit
 RQ  1
 EV  IPR006241; TIGR01333; sufficient;
 --
 SN  11
 ID  Photosystem II, 10 kd phosphoprotein PsbH
-DN  Photosystem II, 10 kd phosphoprotein PsbH/psbH
+DN  Photosystem II, 10 kd phosphoprotein PsbH
 RQ  1
 EV  IPR001056; PF00737; sufficient;
 --
 SN  12
 ID  Photosystem II reaction center protein PsbI
-DN  Photosystem II reaction center protein PsbI/psbI
+DN  Photosystem II reaction center protein PsbI
 RQ  1
 EV  IPR003686; PF02532; sufficient;
 --
 SN  13
 ID  Photosystem II protein PsbJ
-DN  Photosystem II protein PsbJ/psbJ
+DN  Photosystem II protein PsbJ
 RQ  1
 EV  IPR002682; PF01788; sufficient;
 --
 SN  14
 ID  Photosystem II 4 kDa reaction center protein
-DN  Photosystem II 4 kDa reaction center protein/psbK
+DN  Photosystem II 4 kDa reaction center protein
 RQ  1
 EV  IPR003687; PF02533; sufficient;
 --
 SN  15
 ID  Photosystem II protein PsbL
-DN  Photosystem II protein PsbL/psbL
+DN  Photosystem II protein PsbL
 RQ  1
 EV  IPR003372; PF02419; sufficient;
 --
 SN  16
 ID  Photosystem II reaction center protein M
-DN  Photosystem II reaction center protein M/psbM
+DN  Photosystem II reaction center protein M
 RQ  1
 EV  IPR007826; TIGR03038; sufficient;
 --
 SN  17
 ID  Photosystem II reaction center protein PsbN
-DN  Photosystem II reaction center protein PsbN/psbN
+DN  Photosystem II reaction center protein PsbN
 RQ  1
 EV  IPR003398; PF02468; sufficient;
 --
 SN  18
 ID  Photosystem II extrinsic protein PsbO
-DN  Photosystem II extrinsic protein PsbO/psbO
+DN  Photosystem II extrinsic protein PsbO
 RQ  1
 EV  IPR002628; PF01716; sufficient;
 --
 SN  19
 ID  Photosystem II extrinsic protein PsbP
-DN  Photosystem II extrinsic protein PsbP/psbP
+DN  Photosystem II extrinsic protein PsbP
 RQ  1
 EV  IPR002683; PF01789; sufficient;
 --
 SN  20
 ID  Photosystem II protein PsbQ
-DN  Photosystem II protein PsbQ/psbQ
+DN  Photosystem II protein PsbQ
 RQ  1
 EV  IPR017487; TIGR03042; sufficient;
 --
 SN  21
 ID  Photosystem II 10 kDa polypeptide PsbR
-DN  Photosystem II 10 kDa polypeptide PsbR/psbR
+DN  Photosystem II 10 kDa polypeptide PsbR
 RQ  0
 EV  IPR006814; PF04725; sufficient;
 --
 SN  22
 ID  Photosystem II reaction center T protein
-DN  Photosystem II reaction center T protein/psbTc
+DN  Photosystem II reaction center T protein
 RQ  1
 EV  IPR001743; PF01405; sufficient;
 --
 SN  23
 ID  Photosystem II 12 kDa extrinsic protein PsbU
-DN  Photosystem II 12 kDa extrinsic protein PsbU/psbU
+DN  Photosystem II 12 kDa extrinsic protein PsbU
 RQ  1
 EV  IPR010527; PF06514; sufficient;
 --
 SN  24
 ID  Cytochrome c-550
-DN  Cytochrome c-550/psbV
+DN  Cytochrome c-550
 RQ  1
 EV  IPR017851; TIGR03045; sufficient;
 --
 SN  25
 ID  Photosystem II reaction center protein PsbW
-DN  Photosystem II reaction center protein PsbW/psbW
+DN  Photosystem II reaction center protein PsbW
 RQ  1
 EV  IPR005610; PF03912; sufficient;
 --
 SN  26
 ID  Photosystem II reaction center protein (plant)
-DN  Photosystem II reaction center protein (plant)/psbW_pl
+DN  Photosystem II reaction center protein (plant)
 RQ  0
 EV  IPR009806; PF07123; sufficient;
 --
 SN  27
 ID  Photosystem II reaction center protein PsbX
-DN  Photosystem II reaction center protein PsbX/psbX
+DN  Photosystem II reaction center protein PsbX
 RQ  1
 EV  IPR009518; PF06596; sufficient;
 --
 SN  28
 ID  Photosystem II protein PsbY
-DN  Photosystem II protein PsbY/psbY
+DN  Photosystem II protein PsbY
 RQ  1
 EV  IPR009388; PF06298; sufficient;
 --
 SN  29
 ID  Photosystem II reaction center protein PsbZ
-DN  Photosystem II reaction center protein PsbZ/psbZ
+DN  Photosystem II reaction center protein PsbZ
 RQ  1
 EV  IPR002644; TIGR03043; sufficient;
 //
