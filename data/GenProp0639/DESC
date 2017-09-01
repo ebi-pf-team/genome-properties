@@ -15,26 +15,25 @@ CC  processed via putrescine.
 --
 SN  1
 ID  Arginine deiminase
-DN  Arginine deiminase/ArcA
+DN  Arginine deiminase
 RQ  1
 EV  IPR003876; TIGR01078; sufficient;
 --
 SN  2
 ID  Ornithine carbamoyltransferase
-DN  Ornithine carbamoyltransferase/ArcB
+DN  Ornithine carbamoyltransferase
 RQ  1
 EV  IPR002292; TIGR00658; sufficient;
 --
 SN  3
 ID  Carbamate kinase
-DN  Carbamate kinase/ArcC
+DN  Carbamate kinase
 RQ  0
 EV  IPR003964; TIGR00746; sufficient;
 --
 SN  4
 ID  Arginine-ornithine antiporter
-DN  Arginine-ornithine antiporter/ArcD
+DN  Arginine-ornithine antiporter
 RQ  0
-EV  IPRXXXX; 2648;
 EV  IPR022461; TIGR03810;
 //
