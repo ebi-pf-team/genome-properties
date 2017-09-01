@@ -15,19 +15,19 @@ CC  in nitrifiers.
 --
 SN  1
 ID  Methane monooxygenase/ammonia monooxygenase, subunit A
-DN  Methane monooxygenase/ammonia monooxygenase, subunit A/monoxA
+DN  Methane monooxygenase/ammonia monooxygenase, subunit A
 RQ  1
 EV  IPR003393; TIGR03080; sufficient;
 --
 SN  2
 ID  Methane monooxygenase/ammonia monooxygenase, subunit B
-DN  Methane monooxygenase/ammonia monooxygenase, subunit B/monoxB
+DN  Methane monooxygenase/ammonia monooxygenase, subunit B
 RQ  1
 EV  IPR006833; TIGR03079; sufficient;
 --
 SN  3
 ID  Methane monooxygenase/ammonia monooxygenase, subunit C
-DN  Methane monooxygenase/ammonia monooxygenase, subunit C/monoxC
+DN  Methane monooxygenase/ammonia monooxygenase, subunit C
 RQ  1
 EV  IPR006980; TIGR03078; sufficient;
 //
