@@ -22,140 +22,140 @@ CC  the PEP-CTERM/exopolysaccharide system.
 --
 SN  1
 ID  ATPase, exosortase type 1 region
-DN  ATPase, exosortase type 1 region/ATPase
+DN  ATPase, exosortase type 1 region
 RQ  1
 EV  IPR017466; TIGR03015; sufficient;
 --
 SN  2
 ID  Exosortase EpsH, type 1
-DN  Exosortase EpsH, type 1/EpsH1
+DN  Exosortase EpsH, type 1
 RQ  1
 EV  IPR013426; TIGR02602;
 EV  IPR017540; TIGR03109; sufficient;
 --
 SN  3
 ID  EpsI
-DN  EpsI/EpsI
+DN  EpsI
 RQ  0
 EV  IPR014263; TIGR02914;
 --
 SN  4
 ID  Hydrolases (1 and 2), exosortase system type 1 associated
-DN  Hydrolases (1 and 2), exosortase system type 1 associated/Hydrol
+DN  Hydrolases (1 and 2), exosortase system type 1 associated
 RQ  0
 EV  IPR017531; TIGR03100; sufficient;
 EV  IPR017532; TIGR03101; sufficient;
 --
 SN  5
 ID  Uncharacterized protein, EpsL-related
-DN  Uncharacterized protein, EpsL-related/L_unchr
+DN  Uncharacterized protein, EpsL-related
 RQ  1
 EV  IPR017467; TIGR03016; sufficient;
 --
 SN  6
 ID  Acyl-CoA ligase, PEP-CTERM/EpsH1 associated
-DN  Acyl-CoA ligase, PEP-CTERM/EpsH1 associated/Lig1
+DN  Acyl-CoA ligase, PEP-CTERM/EpsH1 associated
 RQ  0
 EV  IPR017529; TIGR03098; sufficient;
 --
 SN  7
 ID  Clustered asparagine synthase homolog
-DN  Clustered asparagine synthase homolog/Nsynth
+DN  Clustered asparagine synthase homolog
 RQ  0
 EV  IPR006426; TIGR01536;
 EV  IPR017539; TIGR03108; sufficient;
 --
 SN  8
 ID  Putative transmembrane histidine kinase, PEP-CTERM system
-DN  Putative transmembrane histidine kinase, PEP-CTERM system/PrsK
+DN  Putative transmembrane histidine kinase, PEP-CTERM system
 RQ  1
 EV  IPR014265; TIGR02916; sufficient;
 --
 SN  9
 ID  Putative response regulator, PEP-CTERM system
-DN  Putative response regulator, PEP-CTERM system/PrsR
+DN  Putative response regulator, PEP-CTERM system
 RQ  1
 EV  IPR014264; TIGR02915; sufficient;
 --
 SN  10
 ID  TPR repeat putative lipoprotein, PEP-CTERM system
-DN  TPR repeat putative lipoprotein, PEP-CTERM system/PrsT
+DN  TPR repeat putative lipoprotein, PEP-CTERM system
 RQ  1
 EV  IPR014266; TIGR02917; sufficient;
 --
 SN  11
 ID  Decarboxylase, exosortase system type 1 associated
-DN  Decarboxylase, exosortase system type 1 associated/dCO2ase
+DN  Decarboxylase, exosortase system type 1 associated
 RQ  0
 EV  IPR017530; TIGR03099; sufficient;
 --
 SN  12
 ID  Polysaccharide deacetylase
-DN  Polysaccharide deacetylase/de_acet
+DN  Polysaccharide deacetylase
 RQ  1
 EV  IPR014344; TIGR03006; sufficient;
 --
 SN  13
 ID  Polysaccharide export protein
-DN  Polysaccharide export protein/export
+DN  Polysaccharide export protein
 RQ  1
 EV  IPR017477; TIGR03027; sufficient;
 --
 SN  14
 ID  FemAB-related protein
-DN  FemAB-related protein/femAB
+DN  FemAB-related protein
 RQ  1
 EV  IPR017469; TIGR03019; sufficient;
 --
 SN  15
 ID  Sugar transferase
-DN  Sugar transferase/prsB
+DN  Sugar transferase
 RQ  1
 EV  IPR017464; TIGR03013; sufficient;
 --
 SN  16
 ID  Sugar transferase, PEP-CTERM/EpsH1-associated
-DN  Sugar transferase, PEP-CTERM/EpsH1-associated/stp1
+DN  Sugar transferase, PEP-CTERM/EpsH1-associated
 RQ  0
 EV  IPR017521; TIGR03087; sufficient;
 --
 SN  17
 ID  Sugar transferase, PEP-CTERM/EpsH1-associated
-DN  Sugar transferase, PEP-CTERM/EpsH1-associated/stp2
+DN  Sugar transferase, PEP-CTERM/EpsH1-associated
 RQ  0
 EV  IPR017522; TIGR03088; sufficient;
 --
 SN  18
 ID  Sugar transferase, PEP-CTERM/exosortase 1-associated
-DN  Sugar transferase, PEP-CTERM/exosortase 1-associated/stp3
+DN  Sugar transferase, PEP-CTERM/exosortase 1-associated
 RQ  0
 EV  IPR024004; TIGR04063;
 --
-SN  19?
+SN  19
 ID  Conserved region, upstream of non-CTERM gene
-DN  Conserved region, upstream of non-CTERM gene/up?
+DN  Conserved region, upstream of non-CTERM gene
 RQ  0
 --
 SN  20
 ID  Conserved region upstream of CTERM genes in proteobacteria
-DN  Conserved region upstream of CTERM genes in proteobacteria/upstream
+DN  Conserved region upstream of CTERM genes in proteobacteria
 RQ  0
 --
 SN  21
 ID  Probable O-glycosylation ligase
-DN  Probable O-glycosylation ligase/waaL
+DN  Probable O-glycosylation ligase
 RQ  0
 EV  IPR017528; TIGR03097; sufficient;
 --
 SN  22
 ID  Tryosine autokinase
-DN  Tryosine autokinase/wzc1
+DN  Tryosine autokinase
 RQ  1
 EV  IPR031045; TIGR03018; sufficient;
 --
 SN  23
 ID  Polysaccharide chain length determinant
-DN  Polysaccharide chain length determinant/wzz1
+DN  Polysaccharide chain length determinant
 RQ  1
 EV  IPR014345; TIGR03007; sufficient;
 //
