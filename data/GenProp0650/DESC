@@ -6,7 +6,7 @@ TH  0
 CC  This property consists of type II restriction system enzymes in the
 CC  family of Alw26I, Eco31I, and Esp3I, which have similar recognition
 CC  sites. The m5 cytosine DNA methyltransferase has an unusual cyclical
-CC  perumutation of motifs, while the endonuclease shows only remote
+CC  permutation of motifs, while the endonuclease shows only remote
 CC  sequence similarity to other restriction endonucleases, and the m6
 CC  adenine DNA methyltransferase only remote similarity to other
 CC  methyltransferases. The methyltransferases are tandem genes in some
@@ -19,19 +19,19 @@ CC  GGTCTC and CGTCTC.
 --
 SN  1
 ID  Type II restriction endonuclease, Alw26I/Eco31I/Esp3I family
-DN  Type II restriction endonuclease, Alw26I/Eco31I/Esp3I family/endonuc
+DN  Type II restriction endonuclease, Alw26I/Eco31I/Esp3I family
 RQ  1
 EV  IPR014328; TIGR02986; sufficient;
 --
 SN  2
 ID  Adenine DNA methyltransferase
-DN  Adenine DNA methyltransferase/met_Ade
+DN  Adenine DNA methyltransferase
 RQ  1
 EV  IPR014329; TIGR02987; sufficient;
 --
 SN  3
 ID  Type II restriction m5 cytosine DNA methyltransferase, Alw26I/Eco31I/Esp3I family
-DN  Type II restriction m5 cytosine DNA methyltransferase, Alw26I/Eco31I/Esp3I family/met_Cyt
+DN  Type II restriction m5 cytosine DNA methyltransferase, Alw26I/Eco31I/Esp3I family
 RQ  1
 EV  IPRXXXX; PF00145;
 //
