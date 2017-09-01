@@ -31,19 +31,19 @@ EV  IPR007453; TIGR03342;
 --
 SN  2
 ID  DsrE protein
-DN  DsrE protein/DsrE
+DN  DsrE protein
 RQ  1
 EV  IPR017463; TIGR03012; sufficient;
 --
 SN  3
 ID  DsrF protein
-DN  DsrF protein/DsrF
+DN  DsrF protein
 RQ  1
 EV  IPR017462; TIGR03010; sufficient;
 --
 SN  4
 ID  DsrH protein
-DN  DsrH protein/DsrH
+DN  DsrH protein
 RQ  1
 EV  IPR007215; TIGR03011; sufficient;
 //
