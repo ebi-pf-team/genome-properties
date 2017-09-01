@@ -24,19 +24,19 @@ CC  PEP-CTERM proteins are part of this exopolysaccharide system, and
 CC  therefore are likely to be transported across the outer membrane. This
 CC  property represents a panel of exopolysaccharide biosynthesis genes
 CC  where each belongs to a subfamily that marks its host gene as  carrying
-CC  the PEP-CTERM/exopolysaccharide system.    This type 2 version of the
+CC  the PEP-CTERM/exopolysaccharide system. This type 2 version of the
 CC  system is found in Methylobacillus sp. strain 12S where it is embedded
 CC  in a region for the biosynthesis of the exopolysaccharide mthanolan.
 --
 SN  1
 ID  Transcriptional regulator EpsA
-DN  Transcriptional regulator EpsA/EpsA
+DN  Transcriptional regulator EpsA
 RQ  0
 EV  IPR017470; TIGR03020; sufficient;
 --
 SN  2
 ID  Undecaprenyl-phosphate glucose phosphotransferase EpsB
-DN  Undecaprenyl-phosphate glucose phosphotransferase EpsB/EpsB
+DN  Undecaprenyl-phosphate glucose phosphotransferase EpsB
 RQ  1
 EV  IPR017473; TIGR03023;
 --
@@ -48,25 +48,25 @@ EV  IPR017478; TIGR03028; sufficient;
 --
 SN  4
 ID  Chain length determinant protein EpsF
-DN  Chain length determinant protein EpsF/EpsF
+DN  Chain length determinant protein EpsF
 RQ  1
 EV  IPR017468; TIGR03017; sufficient;
 --
 SN  5
 ID  Protein tyrosine kinase EpsG
-DN  Protein tyrosine kinase EpsG/EpsG
+DN  Protein tyrosine kinase EpsG
 RQ  1
 EV  IPR017479; TIGR03029; sufficient;
 --
 SN  6
 ID  Exosortase 2
-DN  Exosortase 2/EpsH-2
+DN  Exosortase 2
 RQ  1
 EV  IPR017544; TIGR03113; sufficient;
 --
 SN  7
 ID  EpsL protein
-DN  EpsL protein/EpsL
+DN  EpsL protein
 RQ  1
 EV  IPR017465; TIGR03014; sufficient;
 //
