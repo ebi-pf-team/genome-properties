@@ -17,7 +17,7 @@ SN  1
 ID  Circadian clock protein KaiA
 DN  Circadian clock protein KaiA
 RQ  1
-EV  IPR011648; PF07688; sufficient;
+EV  IPR020856; PF07688; sufficient;
 --
 SN  2
 ID  Circadian clock protein KaiB
