@@ -1,6 +1,8 @@
 Funding
 =======
 
+National Science Foundation, grant number 1458808
+
 Genome Properties is supported by the following organisations:
 
 
