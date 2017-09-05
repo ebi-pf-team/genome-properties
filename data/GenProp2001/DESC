@@ -30,14 +30,14 @@ SN  1
 ID  Tissue factor
 DN  Tissue factor
 RQ  1
-EV  IPR001187; PTHR20859:SF72; sufficient;
+EV  IPR001187; PTHR20859:SF22; sufficient;
 TG  GO:0007596;
 --
 SN  2
 ID  Coagulation factor VII
 DN  Coagulation factor VII (EC:3.4.21.21)
 RQ  1
-EV  IPR033190; PTHR24256:SF375; sufficient;
+EV  IPR033190; PTHR44064:SF1; sufficient;
 TG  GO:0007596;
 --
 SN  3
