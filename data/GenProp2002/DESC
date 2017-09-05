@@ -27,18 +27,18 @@ CC  newly exposed N-termini.
 SN  1
 ID  Fibrinogen alpha chain PTHR19143:SF311 
 RQ  0
-EV  -; PTHR19143:SF311; sufficient;
+EV  -; PTHR19143:SF232; sufficient;
 TG  GO:0005577;
 --
 SN  2
 ID  Fibrinogen beta chain PTHR19143:SF311 
 RQ  0
-EV  -; PTHR19143:SF311; sufficient;
+EV  -; PTHR19143:SF332; sufficient;
 TG  GO:0005577;
 --
 SN  3
 ID  Fibrinogen gamma chain PTHR19143:SF311 
 RQ  0
-EV  -; PTHR19143:SF311; sufficient;
+EV  -; PTHR19143:SF338; sufficient;
 TG  GO:0005577;
 //
