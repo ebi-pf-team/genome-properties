@@ -25,32 +25,32 @@ RA  Miles ZD, McCarty RM, Molnar G, Bandarian V;
 RL  Proc Natl Acad Sci U S A. 2011;108:7368-7372.
 CC  preQ0 (7-cyano-7-deazaguanine) is the last common intermediate in the
 CC  biosyntheses of queuosine (in bacteria and eukarya) and archaeosine (in
-CC  archaea).  preQ0 is converted to queuosine by the action of at least
+CC  archaea). preQ0 is converted to queuosine by the action of at least
 CC  four enzymes, two reductases, a tRNA(GUN) transferase and an
 CC  adenosylmethionine ribosyl transferase-isomerase.
 --
 SN  1
 ID  PreQ1 tRNA transferase
-DN  PreQ1 tRNA transferase/Q1trans
+DN  PreQ1 tRNA transferase
 RQ  1
 EV  IPR004803; TIGR00430; sufficient;
 TG  GO:0008616;
 --
 SN  2
 ID  Queuosine synthetase oxo-queuosine reductase
-DN  Queuosine synthetase oxo-queuosine reductase/Qsynth
+DN  Queuosine synthetase oxo-queuosine reductase
 RQ  0
 --
 SN  3
 ID  PreQ1-tRNA adenosyl methionine ribosyl transferase isomerase
-DN  PreQ1-tRNA adenosyl methionine ribosyl transferase isomerase/QueA
+DN  PreQ1-tRNA adenosyl methionine ribosyl transferase isomerase
 RQ  1
 EV  IPR003699; TIGR00113; sufficient;
 TG  GO:0008616;
 --
 SN  4
 ID  PreQ0 reductase
-DN  PreQ0 reductase/QueF
+DN  PreQ0 reductase
 RQ  1
 EV  IPR016428; TIGR03138; sufficient;
 TG  GO:0008616;
@@ -59,7 +59,7 @@ TG  GO:0008616;
 --
 SN  5
 ID  Epoxyqueuosine reductase
-DN  Epoxyqueuosine reductase/QueG
+DN  Epoxyqueuosine reductase
 RQ  1
 EV  IPR004453; TIGR00276;
 TG  GO:0008616;
