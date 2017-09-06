@@ -27,10 +27,9 @@ CC  3-hexulose-6-phosphate synthase (HPS) and 6-phospho-3-hexuloisomerase
 CC  (PHI). In one direction, this pathway removes the toxic metabolite
 CC  formaldehyde by assimilation. In the other direction, in certain
 CC  species lacking the complete pentose phosphate pathway, this pathway
-CC  produces consumes fructose 6-phosphate and releases formaldehyde in
-CC  order to produce ribulose-5-phosphate, essential for nucleotide
-CC  biosynthesis. The two enzymes may occur as a fusion protein, as in
-CC  Thermococcus kodakaraensis.
+CC  releases formaldehyde in order to produce ribulose-5-phosphate, 
+CC  essential for nucleotide biosynthesis. The two enzymes may occur as a 
+CC  fusion protein, as in Thermococcus kodakaraensis.
 --
 SN  1
 ID  3-hexulose-6-phosphate synthase
