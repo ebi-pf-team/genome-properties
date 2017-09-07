@@ -10,32 +10,32 @@ CC  of 1-phosphofructokinase.
 --
 SN  1
 ID  PTS core components
-DN  PTS core components/PTS-core
+DN  PTS core components
 RQ  1
 EV  GenProp0119;
 --
 SN  2
 ID  PTS IIA, fructose-specific
-DN  PTS IIA, fructose-specific/fru-IIA
+DN  PTS IIA, fructose-specific
 RQ  1
 EV  IPR004715; TIGR00848; sufficient;
 --
 SN  3
 ID  PTS IIB, fructose-specific
-DN  PTS IIB, fructose-specific/fru-IIB
+DN  PTS IIB, fructose-specific
 RQ  1
 EV  IPR003353; TIGR00829; sufficient;
 --
 SN  4
 ID  PTS IIC, fructose-specific
-DN  PTS IIC, fructose-specific/fru-IIC
+DN  PTS IIC, fructose-specific
 RQ  1
 EV  IPR006327; TIGR01427; sufficient;
 --
 SN  5
 ID  1-phosphofructokinase
-DN  1-phosphofructokinase/pfkB
+DN  1-phosphofructokinase
 RQ  1
-EV  IPRXXXX; TIGR03168;
+EV  IPR017583; TIGR03168;
 EV  IPR022463; TIGR03828; sufficient;
 //
