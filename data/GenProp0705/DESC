@@ -15,31 +15,31 @@ CC  organisms including Bacillus subtilis, where it has been characterized.
 --
 SN  1
 ID  Accessory factor PucA
-DN  Accessory factor PucA/pucA
+DN  Accessory factor PucA
 RQ  0
 EV  IPR003777; PF02625; sufficient;
 --
 SN  2
 ID  PucB gene
-DN  PucB gene/pucB
+DN  PucB gene
 RQ  0
 EV  IPR017615; TIGR03202; sufficient;
 --
 SN  3
 ID  FAD-binding domain, PucC
-DN  FAD-binding domain, PucC/pucC
+DN  FAD-binding domain, PucC
 RQ  1
 EV  IPR017612; TIGR03199; sufficient;
 --
 SN  4
 ID  Molybdopterin-binding subunit, pucD
-DN  Molybdopterin-binding subunit, pucD/pucD
+DN  Molybdopterin-binding subunit, pucD
 RQ  1
 EV  IPR017609; TIGR03196; sufficient;
 --
 SN  5
 ID  Fe-S cluster-binding subunit, PucE
-DN  Fe-S cluster-binding subunit, PucE/pucE
+DN  Fe-S cluster-binding subunit, PucE
 RQ  1
 EV  IPR017611; TIGR03198; sufficient;
 //
