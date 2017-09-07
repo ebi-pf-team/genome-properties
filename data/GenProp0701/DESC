@@ -4,16 +4,16 @@ TP  SYSTEM
 AU  Haft DH
 TH  0
 RN  [1]
-RM  16102010
-RT  A novel DNA modification by sulphur.
-RA  Zhou X, He X, Liang J, Li A, Xu T, Kieser T, Helmann JD, Deng Z;
-RL  Mol Microbiol. 2005;57:1428-1438.
-RN  [2]
 RM  17439960
 RT  DNA modification by sulfur: analysis of the sequence recognition
 RT  specificity surrounding the modification sites.
 RA  Liang J, Wang Z, He X, Li J, Zhou X, Deng Z;
 RL  Nucleic Acids Res. 2007;35:2944-2954.
+RN  [2]
+RM  16102010
+RT  A novel DNA modification by sulphur.
+RA  Zhou X, He X, Liang J, Li A, Xu T, Kieser T, Helmann JD, Deng Z;
+RL  Mol Microbiol. 2005;57:1428-1438.
 RN  [3]
 RM  19232083
 RT  DNA phosphorothioation in Streptomyces lividans: mutational analysis of
@@ -26,15 +26,13 @@ CC  electrophoresis). This property results from a sulfur modification on a
 CC  G residue, shown in one example to occur at a rate of about one sulfur
 CC  per 6000 base pairs. Study of Streptomyces lividans 1326 showed a
 CC  stringent requirement for a core motif GGCC within a longer recognition
-CC  region represented as cGGCCgccg (see PMID: 17439960). Five
-CC  characteristic genes, including a predicted cysteine sulfurtransferase
-CC  related to IscS, appear responsible for the dnd phenotype. Through
-CC  comparative genomic studies, we find that the, beyond a core set of the
-CC  three genes dndC, dndD, and dndE, other proteins may be associated.
-CC  That is, they show up specifically in genomes that carry dndCDE and
-CC  occur nearby, but do not show up in all such genomes. Models TIGR03236,
-CC  TIGR03237, and TIGR03238 are examples of such dnd-associated protein
-CC  families.
+CC  region represented as cGGCCgccg [1]. Five characteristic genes, 
+CC  including a predicted cysteine sulfurtransferase related to IscS, appear 
+CC  responsible for the dnd phenotype. Through comparative genomic studies, 
+CC  we find that, beyond a core set of three genes dndC, dndD, and dndE, 
+CC  other proteins may be associated. That is, they show up specifically in 
+CC  genomes that carry dndCDE and occur nearby, but do not show up in all 
+CC  such genomes. 
 **  Try to treat in a similar way properties 58195 sporadically distributed
 **  four-gene operon, 58196 uncharacterized gene pair TIGR02683/TIGR02684,
 **  58197 uncharacterized gene pair TIGR02687/TIGR02688 .
