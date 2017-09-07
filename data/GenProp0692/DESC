@@ -45,6 +45,4 @@ DN  2-selenouridine synthase
 RQ  1
 EV  IPR017582; TIGR03167; sufficient;
 TG  GO:0006400;
-EV  GenProp1105;
-TG  GO:0006400;
 //
