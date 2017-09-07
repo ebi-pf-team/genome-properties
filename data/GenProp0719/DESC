@@ -17,37 +17,37 @@ CC  of methane rather than in methanogenesis.
 --
 SN  1
 ID  Methyl-coenzyme M reductase, alpha subunit
-DN  Methyl-coenzyme M reductase, alpha subunit/alpha
+DN  Methyl-coenzyme M reductase, alpha subunit
 RQ  1
 EV  IPR016212; TIGR03256; sufficient;
 --
 SN  2
 ID  Methyl-coenzyme M reductase, beta subunit
-DN  Methyl-coenzyme M reductase, beta subunit/beta
+DN  Methyl-coenzyme M reductase, beta subunit
 RQ  1
 EV  IPR003179; TIGR03257; sufficient;
 --
 SN  3
 ID  Methyl-coenzyme M reductase, gamma subunit
-DN  Methyl-coenzyme M reductase, gamma subunit/gamma
+DN  Methyl-coenzyme M reductase, gamma subunit
 RQ  1
 EV  IPR003178; TIGR03259; sufficient;
 --
 SN  4
 ID  Methyl coenzyme M reductase system, component A2
-DN  Methyl coenzyme M reductase system, component A2/mcr_A2
+DN  Methyl coenzyme M reductase system, component A2
 RQ  1
 EV  IPR017669; TIGR03269; sufficient;
 --
 SN  5
 ID  Methyl-coenzyme M reductase I operon protein C
-DN  Methyl-coenzyme M reductase I operon protein C/oper_C
+DN  Methyl-coenzyme M reductase I operon protein C
 RQ  1
 EV  IPR007687; TIGR03264; sufficient;
 --
 SN  6
 ID  Methyl-coenzyme M reductase operon protein D
-DN  Methyl-coenzyme M reductase operon protein D/oper_D
+DN  Methyl-coenzyme M reductase operon protein D
 RQ  1
 EV  IPR003901; TIGR03260; sufficient;
 //
