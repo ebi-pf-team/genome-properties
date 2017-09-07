@@ -25,19 +25,19 @@ SN  1
 ID  Mannose-binding protein C
 DN  Mannose-binding protein C
 RQ  1
-EV  -; PTHR24020:SF6; sufficient;
+EV  -; PTHR24020:SF0; sufficient;
 --
 SN  2
 ID  Mannan-binding lectin serine protease 1
 DN  Mannan-binding lectin serine protease 1
 RQ  1
-EV  -; PTHR24255:SF19; sufficient;
+EV  -; PTHR24255; sufficient;
 --
 SN  3
 ID  Mannan-binding lectin serine protease 2
 DN  Mannan-binding lectin serine protease 2 (EC:3.4.21.104)
 RQ  1
-EV  -; PTHR24255:SF21; sufficient;
+EV  -; PTHR24255:SF10; sufficient;
 --
 SN  4
 ID  Complement activation, common pathway 1
