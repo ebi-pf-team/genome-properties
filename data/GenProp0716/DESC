@@ -11,18 +11,18 @@ RT  Escherichia coli.
 RA  Hubbard BK, Koch M, Palmer DR, Babbitt PC, Gerlt JA;
 RL  Biochemistry. 1998;37:14369-14375.
 CC  D-glucarate may be utilized by this pathway involving the lyase
-CC  (aldolase) GarL which produces pyruvate and tartronate semi-aldehyde
-CC  which may then be furter converted to 3-phosphoglycerate. GarD, the
-CC  dehydratase and GarR, the reductase, may be present in the absence of
-CC  GarL and where each is part of different processes. When this can be
-CC  convincingly demonstrated, this property may be manually annotated as
-CC  NO.
+CC  (aldolase) GarL which produces pyruvate and tartronate semi-aldehyde,
+CC  which may then be further converted to 3-phosphoglycerate. GarD, the
+CC  dehydratase, and GarR the reductase, may be present in the absence of
+CC  GarL and where each is part of different processes. 
+**  When this can be convincingly demonstrated, this property may be 
+**  manually annotated as NO.
 **  The rule that I want here is: IF (GarD and NOT GarL) AND (GenProp0717 =
 **  YES) THEN (THIS PROPERTY = NO)
 --
 SN  1
-ID  Glycerate kinase (2.7.1.31)
-DN  Glycerate kinase (2.7.1.31)/GarK
+ID  Glycerate kinase (EC 2.7.1.31)
+DN  Glycerate kinase (EC 2.7.1.31)
 RQ  0
 EV  IPR004381; TIGR00045; sufficient;
 TG  GO:0019394;
@@ -30,30 +30,30 @@ EV  IPR004381; TIGR00045; sufficient;
 TG  GO:0019394;
 --
 SN  2
-ID  5-dehydro-4-deoxy-D-glucarate lyase (4.1.2.20)
-DN  5-dehydro-4-deoxy-D-glucarate lyase (4.1.2.20)/GarL
+ID  5-dehydro-4-deoxy-D-glucarate lyase (EC 4.1.2.20)
+DN  5-dehydro-4-deoxy-D-glucarate lyase (EC 4.1.2.20)
 RQ  1
 EV  IPR017648; TIGR03239; sufficient;
 TG  GO:0019394;
 --
 SN  3
-ID  Tartronate semialdehyde reductase (1.1.1.60)
-DN  Tartronate semialdehyde reductase (1.1.1.60)/GarR
+ID  Tartronate semialdehyde reductase (EC 1.1.1.60)
+DN  Tartronate semialdehyde reductase (EC 1.1.1.60)
 RQ  1
 EV  IPR006398; TIGR01505; sufficient;
 TG  GO:0019394;
 --
 SN  4
-ID  Glucarate dehydratase (4.2.1.40)
-DN  Glucarate dehydratase (4.2.1.40)/GudD
+ID  Glucarate dehydratase (EC 4.2.1.40)
+DN  Glucarate dehydratase (EC 4.2.1.40)
 RQ  1
 EV  IPR017653; TIGR03247; sufficient;
 TG  GO:0019394;
 --
 SN  5
 ID  D-glucarate transporter, putative
-DN  D-glucarate transporter, putative/transp
+DN  D-glucarate transporter, putative
 RQ  0
-EV  IPRXXXX; TIGR00893;
+EV  IPR004744; TIGR00893;
 TG  GO:0019394;
 //
