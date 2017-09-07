@@ -10,19 +10,19 @@ CC  oxygenase. Formate is then hydrolyzed from its product by BoxC.
 --
 SN  1
 ID  Benzoyl-CoA oxidase, BoxA subunit
-DN  Benzoyl-CoA oxidase, BoxA subunit/BoxA
+DN  Benzoyl-CoA oxidase, BoxA subunit
 RQ  1
 EV  IPR017634; TIGR03224; sufficient;
 --
 SN  2
 ID  Benzoyl-CoA oxidase, BoxB subunit
-DN  Benzoyl-CoA oxidase, BoxB subunit/BoxB
+DN  Benzoyl-CoA oxidase, BoxB subunit
 RQ  1
 EV  IPR017635; TIGR03225; sufficient;
 --
 SN  3
 ID  Benzoyl-CoA-dihydrodiol lyase
-DN  Benzoyl-CoA-dihydrodiol lyase/BoxC
+DN  Benzoyl-CoA-dihydrodiol lyase
 RQ  1
 EV  IPR017633; TIGR03222; sufficient;
 //
