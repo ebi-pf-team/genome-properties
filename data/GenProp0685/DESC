@@ -13,32 +13,32 @@ CC  long.
 --
 SN  1
 ID  CRISPR-associated protein Cas1, Cyano-type
-DN  CRISPR-associated protein Cas1, Cyano-type/Cas1
+DN  CRISPR-associated protein Cas1, Cyano-type
 RQ  1
 EV  IPR002729; TIGR00287;
 EV  IPR023843; TIGR04093;
 --
 SN  2
 ID  CRISPR-associated helicase, Cyano-type
-DN  CRISPR-associated helicase, Cyano-type/Cy_cas3
+DN  CRISPR-associated helicase, Cyano-type
 RQ  1
 EV  IPR017575; TIGR03158; sufficient;
 --
 SN  3
 ID  CRISPR-associated protein Csc1
-DN  CRISPR-associated protein Csc1/Cyano1
+DN  CRISPR-associated protein Csc1
 RQ  1
 EV  IPR017576; TIGR03159; sufficient;
 --
 SN  4
 ID  CRISPR-associated protein Csc2
-DN  CRISPR-associated protein Csc2/Cyano2
+DN  CRISPR-associated protein Csc2
 RQ  1
 EV  IPR017574; TIGR03157; sufficient;
 --
 SN  5
 ID  CRISPR-associated protein Csc3
-DN  CRISPR-associated protein Csc3/Cyano3
+DN  CRISPR-associated protein Csc3
 RQ  0
 EV  IPR017589; TIGR03174; sufficient;
 //
