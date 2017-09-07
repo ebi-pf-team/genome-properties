@@ -32,13 +32,13 @@ CC  bacteria.
 --
 SN  1
 ID  Formyl-CoA transferase
-DN  Formyl-CoA transferase/1_frc
+DN  Formyl-CoA transferase
 RQ  1
 EV  IPR017659; TIGR03253; sufficient;
 --
 SN  2
 ID  Oxalyl-CoA decarboxylase
-DN  Oxalyl-CoA decarboxylase/2_oxc
+DN  Oxalyl-CoA decarboxylase
 RQ  1
 EV  IPR017660; TIGR03254; sufficient;
 //
