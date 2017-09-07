@@ -37,28 +37,28 @@ SN  2
 ID  Coagulation factor XIa
 DN  Coagulation factor XI (EC:3.4.21.27)
 RQ  1
-EV  IPR035696; PTHR24256:SF402; sufficient;
+EV  IPR035696; PTHR44459:SF1; sufficient;
 TG  GO:0007596;
 --
 SN  3
 ID  Coagulation factor IXa
 DN  Coagulation factor IX (EC:3.4.21.22)
 RQ  1
-EV  IPR035694; PTHR24256:SF397; sufficient;
+EV  IPR035694; PTHR44064:SF4; sufficient;
 TG  GO:0007596;
 --
 SN  4
 ID  von Willebrand factor
 DN  von Willebrand factor
 RQ  1
-EV  IPR012011; PTHR11339:SF319; sufficient;
+EV  -; PTHR11339:SF361; sufficient;
 TG  GO:0007596;
 --
 SN  5
 ID  Coagulation factor VIII
 DN  Coagulation factor VIII
 RQ  1
-EV  IPR014707; PTHR10127:SF725; sufficient;
+EV  IPR014707; PTHR45309; sufficient;
 TG  GO:0007596;
 --
 SN  6
