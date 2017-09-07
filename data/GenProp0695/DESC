@@ -15,6 +15,7 @@ CC  hyperthermoacidophilic member of the Crenarchaeota, and is found also
 CC  in related Crenarchaeota. It is suggested to work in a system analogous
 CC  to cytochrome bc1.
 **  still needs SoxL2 (working), SoxN.
+**  07/09/17 LJR - added SoxL2 step - still missing SoxN - no good model.
 --
 SN  1
 ID  Cytochrome b558/566, subunit A
