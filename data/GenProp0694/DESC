@@ -9,8 +9,8 @@ CC  glycolysis pathway intermediate fructose-1,6-bisphosphate by the action
 CC  of phosphoglucose isomerase (PGI) and 6-phosphofructokinase (6-PFK).
 --
 SN  1
-ID  Phosphofructokinase
-DN  Phosphofructokinase/PFK
+ID  6-Phosphofructokinase
+DN  6-Phosphofructokinase/6-PFK
 RQ  1
 EV  IPR009161; TIGR02478; sufficient;
 EV  IPR012828; TIGR02482; sufficient;
