@@ -15,51 +15,51 @@ CC  product of urate and may be obtained by an endogenous urate catabolism
 CC  pathway or by transport from the environment. This catabolism pathway
 CC  avoids the production of urea (as in the pathway to glyoxalate --
 CC  GenProp0686) and instead produces ammonia by the action of allantoate
-CC  amidohydrolase (3.5.3.9) and the breakdown of carbamoyl-phosphate by
-CC  carbamate kinase (2.7.2.2).  A by-product of this pathway is oxamate
-CC  (oxalic monoamide) which is presumably excreted.
+CC  amidohydrolase and the breakdown of carbamoyl-phosphate by carbamate 
+CC  kinase. A by-product of this pathway is oxamate (oxalic monoamide) 
+CC  which is presumably excreted.
 --
 SN  1
-ID  Carbamate kinase (2.7.2.2)
-DN  Carbamate kinase (2.7.2.2)/CK
+ID  Carbamate kinase (EC 2.7.2.2)
+DN  Carbamate kinase (EC 2.7.2.2)
 RQ  1
 EV  IPR003964; TIGR00746; sufficient;
 --
 SN  2
 ID  Source of allantoin
-DN  Source of allantoin/all-in
+DN  Source of allantoin
 RQ  0
-EV  IPRXXXX; TIGR00800;
+EV  IPR012681; TIGR00800;
 EV  GenProp0688;
 --
 SN  3
-ID  Allantoinase (3.5.2.5)
-DN  Allantoinase (3.5.2.5)/allB
+ID  Allantoinase (EC 3.5.2.5)
+DN  Allantoinase (EC 3.5.2.5)
 RQ  1
 EV  IPR017593; TIGR03178; sufficient;
 --
 SN  4
-ID  Allantoate amidohydrolase (3.5.3.9)
-DN  Allantoate amidohydrolase (3.5.3.9)/allC
+ID  Allantoate amidohydrolase (EC 3.5.3.9)
+DN  Allantoate amidohydrolase (EC 3.5.3.9)
 RQ  1
-EV  IPRXXXX; TIGR01879;
+EV  IPR010158; TIGR01879;
 EV  IPR017591; TIGR03176; sufficient;
 EV  IPR005164; TIGR02961; sufficient;
 --
 SN  5
-ID  Ureidoglycolate dehydrogenase (1.1.1.54)
-DN  Ureidoglycolate dehydrogenase (1.1.1.54)/allD
+ID  Ureidoglycolate dehydrogenase (EC 1.1.1.54)
+DN  Ureidoglycolate dehydrogenase (EC 1.1.1.54)
 RQ  1
 EV  IPR017590; TIGR03175; sufficient;
 --
 SN  6
 ID  Cupin domain protein, unknown function
-DN  Cupin domain protein, unknown function/allX
+DN  Cupin domain protein, unknown function
 RQ  0
 EV  IPR017627; TIGR03214; sufficient;
 --
 SN  7
-ID  Oxamate carbamoyltransferase (2.1.3.5)
-DN  Oxamate carbamoyltransferase (2.1.3.5)/oxaCT
+ID  Oxamate carbamoyltransferase (EC 2.1.3.5)
+DN  Oxamate carbamoyltransferase (EC 2.1.3.5)
 RQ  0
 //
