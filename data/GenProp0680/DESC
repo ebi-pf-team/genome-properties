@@ -6,19 +6,19 @@ TH  0
 CC  This property is system II for c-type cytochrome biosynthesis, one
 CC  among three such systems described, and one of two described in
 CC  bacteria. The two genes critical even in the presence of the added
-CC  disulfide bond reducing compounds are CcsA (or ResB) and CcsB (or
+CC  disulfide bond reducing compounds, are CcsA (or ResB) and CcsB (or
 CC  ResC). This system is much simpler than the CcmABCDEFGH system, system
 CC  I.
 --
 SN  1
 ID  Cytochrome c-type biogenesis protein CcsA
-DN  Cytochrome c-type biogenesis protein CcsA/CcsA
+DN  Cytochrome c-type biogenesis protein CcsA
 RQ  1
 EV  IPR007816; PF05140; sufficient;
 --
 SN  2
 ID  Cytochrome c-type biogenesis protein CcsB
-DN  Cytochrome c-type biogenesis protein CcsB/CcsB
+DN  Cytochrome c-type biogenesis protein CcsB
 RQ  1
 EV  IPR017562; TIGR03144; sufficient;
 //
