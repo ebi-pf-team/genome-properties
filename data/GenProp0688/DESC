@@ -22,20 +22,20 @@ RT  comparison of whole genomes.
 RA  Ramazzina I, Folli C, Secchi A, Berni R, Percudani R;
 RL  Nat Chem Biol. 2006;2:144-148.
 CC  Urate is the product of xanthine catabolism by either the xanthine
-CC  dehydrogenase complex (GenProp0640) or xanthine oxidase. The purine
-CC  ring system of urate is oxidized by uricase (urate oxidase) and the
-CC  6-membered ring is opened by hydroxyisourate hydrolase. The hydrolase
-CC  may be unnecessary in some organisms as the hydroxyisourate will
-CC  hydrolyze spontaneously, albeit an a slow rate. The resulting product
-CC  (OHCU) then spontaneously decarboxylates, resulting in a mixture of
+CC  dehydrogenase complex or xanthine oxidase. The purine ring system of 
+CC  urate is oxidized by uricase (urate oxidase) and the 6-membered ring 
+CC  is opened by hydroxyisourate hydrolase. The hydrolase may be 
+CC  unnecessary in some organisms as the hydroxyisourate will hydrolyze 
+CC  spontaneously, albeit an a slow rate. The resulting product (OHCU) 
+CC  then spontaneously decarboxylates, resulting in a mixture of
 CC  (S)- and (R)-allantoin. For further catabolism, generally only
 CC  (S)-allantoin is processed, so allantoin racemace is also typically
-CC  found.  An OHCU carboxylase has been discovered in Mus musculus which
+CC  found. An OHCU carboxylase has been discovered in Mus musculus which
 CC  does have homologs in prokaryotes.
 --
 SN  2
-ID  Urate oxidase (uricase, 1.7.3.3)
-DN  Urate oxidase (uricase, 1.7.3.3)
+ID  Urate oxidase (EC 1.7.3.3)
+DN  Urate oxidase (EC 1.7.3.3)
 RQ  1
 EV  IPR002042; PF01014; sufficient;
 TG  GO:0019628;
@@ -50,8 +50,8 @@ EV  IPR017595; TIGR03180; sufficient;
 TG  GO:0019628;
 --
 SN  4
-ID  Hydroxyisourate hydrolase (3.5.2.17)
-DN  Hydroxyisourate hydrolase (3.5.2.17)
+ID  Hydroxyisourate hydrolase (EC 3.5.2.17)
+DN  Hydroxyisourate hydrolase (EC 3.5.2.17)
 RQ  1
 EV  IPR014306; TIGR02962; sufficient;
 TG  GO:0019628;
