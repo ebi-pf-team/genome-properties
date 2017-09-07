@@ -31,26 +31,21 @@ CC  adenosylmethionine ribosyl transferase-isomerase.
 --
 SN  1
 ID  PreQ1 tRNA transferase
-DN  PreQ1 tRNA transferase
+DN  PreQ1 tRNA transferase (EC 2.4.2.29)
 RQ  1
 EV  IPR004803; TIGR00430; sufficient;
 TG  GO:0008616;
 --
-SN  2
-ID  Queuosine synthetase oxo-queuosine reductase
-DN  Queuosine synthetase oxo-queuosine reductase
-RQ  0
---
 SN  3
 ID  PreQ1-tRNA adenosyl methionine ribosyl transferase isomerase
-DN  PreQ1-tRNA adenosyl methionine ribosyl transferase isomerase
+DN  PreQ1-tRNA adenosyl methionine ribosyl transferase isomerase (EC 2.4.99.17)
 RQ  1
 EV  IPR003699; TIGR00113; sufficient;
 TG  GO:0008616;
 --
 SN  4
 ID  PreQ0 reductase
-DN  PreQ0 reductase
+DN  PreQ0 reductase (EC 1.7.1.13)
 RQ  1
 EV  IPR016428; TIGR03138; sufficient;
 TG  GO:0008616;
@@ -59,7 +54,7 @@ TG  GO:0008616;
 --
 SN  5
 ID  Epoxyqueuosine reductase
-DN  Epoxyqueuosine reductase
+DN  Epoxyqueuosine reductase (EC 1.17.99.6)
 RQ  1
 EV  IPR004453; TIGR00276;
 TG  GO:0008616;
