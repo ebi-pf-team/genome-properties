@@ -3,12 +3,13 @@ DE  Fatty acid biosynthesis from acetyl-CoA
 TP  PATHWAY
 AU  Haft DH
 TH  0
-CC  The formation from acetyl-CoA of fatty acids, any of the aliphatic
-CC  monocarboxylic acids that can be liberated by hydrolysis from naturally
-CC  occurring  fats and oils. Fatty acids are predominantly straight-chain
-CC  acids of 4 to 24 carbon atoms, which may be saturated or unsaturated;
-CC  branched fatty acids and  hydroxy fatty acids also occur, and very long
-CC  chain acids of over 30 carbons are found in waxes.    
+CC  This property describes the formation of fatty acids from acetyl-CoA. 
+CC  Fatty acids are any of the aliphatic monocarboxylic acids that can be 
+CC  liberated by hydrolysis from naturally occurring fats and oils. Fatty 
+CC  acids are predominantly straight-chain acids of 4 to 24 carbon atoms, 
+CC  which may be saturated or unsaturated; branched fatty acids and hydroxy 
+CC  fatty acids also occur, and very long chain acids of over 30 carbons 
+CC  are found in waxes.    
 **  I created a separate pathway PlsX/Y, removing PlsX from this property,
 **  as putting fatty acid onto glycerol is downstream from this pathway.
 **  DHH 12/2008.
@@ -27,7 +28,7 @@ EV  GenProp0214;
 --
 SN  3
 ID  3-hydroxyacyl-[ACP] dehydratase FabA
-DN  3-hydroxyacyl-[ACP] dehydratase FabA/fabA
+DN  3-hydroxyacyl-[ACP] dehydratase FabA
 RQ  1
 EV  IPR010083; TIGR01749; sufficient;
 --
@@ -63,7 +64,7 @@ EV  IPR017569; TIGR03151; sufficient;
 --
 SN  9
 ID  3-hydroxyacyl-[ACP] dehydratase FabZ
-DN  3-hydroxyacyl-[ACP] dehydratase FabZ/fabZ
+DN  3-hydroxyacyl-[ACP] dehydratase FabZ
 RQ  1
 EV  IPR010084; TIGR01750; sufficient;
 //
