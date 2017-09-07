@@ -11,9 +11,9 @@ RT  Escherichia coli.
 RA  Cusa E, Obradors N, Baldomà L, Badía J, Aguilar J;
 RL  J Bacteriol. 1999;181:7479-7484.
 CC  (S)-allantoin ([(4S)-2,5-dioxoimidazolidin-4-yl]urea) is a breakdown
-CC  product of urate and may be obtained by an endogenous urate catabolism
+CC  product of urate that may be obtained by an endogenous urate catabolism
 CC  pathway or by transport from the environment. Catabolism of allantoate
-CC  consists of a three-step pathway resulting in glyoxalate.  This is
+CC  consists of a three-step pathway resulting in glyoxalate. This is
 CC  further processed to tartronate semi-aldehyde
 CC  (2-hydroxy-3-oxopropanoate) and subsequently to either
 CC  phyosphoglycerate or glycoaldehyde (in the pathway to the pyridoxine
@@ -26,37 +26,37 @@ CC  in urease-containing organisms.
 --
 SN  1
 ID  Source of (S)-allantoin
-DN  Source of (S)-allantoin/all-in
+DN  Source of (S)-allantoin
 RQ  0
-EV  IPRXXXX; TIGR00800;
+EV  IPR012681; TIGR00800;
 TG  GO:0009442;
 EV  GenProp0688;
 TG  GO:0009442;
 --
 SN  2
 ID  Ureidoglycolate lyase (4.3.2.3)
-DN  Ureidoglycolate lyase (4.3.2.3)/allA
+DN  Ureidoglycolate lyase (4.3.2.3)
 RQ  1
 EV  IPR007247; PF04115; sufficient;
 TG  GO:0009442;
 --
 SN  3
 ID  Allantoinase (3.5.2.5)
-DN  Allantoinase (3.5.2.5)/allB
+DN  Allantoinase (3.5.2.5)
 RQ  1
 EV  IPR017593; TIGR03178; sufficient;
 TG  GO:0009442;
 --
 SN  4
 ID  Allantoin hydrolysis, final
-DN  Allantoin hydrolysis, final/allC-f
+DN  Allantoin hydrolysis, final
 RQ  0
 EV  IPR005164; TIGR02961; sufficient;
 TG  GO:0009442;
 --
 SN  5
 ID  Allantoin hydrolysis, initial
-DN  Allantoin hydrolysis, initial/allC-i
+DN  Allantoin hydrolysis, initial
 RQ  1
 EV  IPR005164; TIGR02961; sufficient;
 TG  GO:0009442;
@@ -65,7 +65,7 @@ TG  GO:0009442;
 --
 SN  6
 ID  Cupin domain protein, unknown function
-DN  Cupin domain protein, unknown function/allX
+DN  Cupin domain protein, unknown function
 RQ  0
 EV  IPR017627; TIGR03214; sufficient;
 TG  GO:0009442;
