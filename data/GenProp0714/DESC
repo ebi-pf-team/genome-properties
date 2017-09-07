@@ -5,45 +5,40 @@ AU  Haft DH
 TH  2
 CC  D-galactarate (D-Mucic acid, 2,3,4,5-tetrahydroxyhexanedioic acid) may
 CC  be utilized by this pathway involving the lyase GarL which produces
-CC  pyruvate and tartronate semi-aldehyde (which may then be furter
+CC  pyruvate and tartronate semi-aldehyde (which may then be further
 CC  converted to 3-phosphoglycerate).
 --
 SN  1
-ID  Galactarate dehydratase (4.2.1.42)
-DN  Galactarate dehydratase (4.2.1.42)/GarD
+ID  Galactarate dehydratase (EC 4.2.1.42)
+DN  Galactarate dehydratase (EC 4.2.1.42)
 RQ  1
 EV  IPR007392; PF04295; sufficient;
 TG  GO:0019582;
 --
 SN  2
-ID  Glycerate kinase (2.7.1.31)
-DN  Glycerate kinase (2.7.1.31)/GarK
+ID  Glycerate kinase (EC 2.7.1.31)
+DN  Glycerate kinase (EC 2.7.1.31)
 RQ  1
 EV  IPR004381; TIGR00045;
 TG  GO:0019582;
 --
 SN  3
-ID  5-dehydro-4-deoxy-D-glucarate lyase (4.1.2.20)
-DN  5-dehydro-4-deoxy-D-glucarate lyase (4.1.2.20)/GarL
+ID  5-dehydro-4-deoxy-D-glucarate lyase (EC 4.1.2.20)
+DN  5-dehydro-4-deoxy-D-glucarate lyase (EC 4.1.2.20)
 RQ  1
 EV  IPR017648; TIGR03239; sufficient;
 TG  GO:0019582;
 --
 SN  4
-ID  Tartronate semialdehyde reductase (1.1.1.60)
-DN  Tartronate semialdehyde reductase (1.1.1.60)/GarR
+ID  Tartronate semialdehyde reductase (EC 1.1.1.60)
+DN  Tartronate semialdehyde reductase (EC 1.1.1.60)
 RQ  1
 EV  IPR006398; TIGR01505; sufficient;
 TG  GO:0019582;
 --
-SN  5?
-ID  Possible clustered epimerase
-DN  Possible clustered epimerase/epim?
-RQ  0
---
 SN  6
 ID  D-galactarate transporter, putative
-DN  D-galactarate transporter, putative/transp
+DN  D-galactarate transporter, putative
 RQ  0
 EV  IPR004681; TIGR00786;
 TG  GO:0019582;
