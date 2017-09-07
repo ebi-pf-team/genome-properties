@@ -8,13 +8,13 @@ CC  enzymes consists of A and B subunits.
 --
 SN  1
 ID  DNA gyrase, A subunit
-DN  DNA gyrase, A subunit/gyrA
+DN  DNA gyrase, A subunit
 RQ  1
-EV  IPRXXXX; TIGR01063; sufficient;
+EV  IPR005743; MF_01897; sufficient;
 --
 SN  2
 ID  DNA gyrase, B subunit
-DN  DNA gyrase, B subunit/gyrB
+DN  DNA gyrase, B subunit
 RQ  1
 EV  IPR011557; TIGR01059; sufficient;
 //
