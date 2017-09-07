@@ -11,7 +11,7 @@ RA  Ahuja U, Thöny-Meyer L;
 RL  J Biol Chem. 2005;280:236-243.
 CC  Assembling c-type cytochromes outside the bacterial inner membrane
 CC  requires apocytochome export, heme export, heme ligation, and
-CC  chaperones for both heme and apocytochromes, Of three different c-type
+CC  chaperones for both heme and apocytochromes. Of three different c-type
 CC  cytochrome biogenesis systems, this is system I. It features the operon
 CC  ccmABCDEFGHI in Escherichia coli and the equivalent genes in many other
 CC  bacterial species.
@@ -22,56 +22,56 @@ CC  bacterial species.
 --
 SN  1
 ID  Heme ABC exporter, ATP-binding protein CcmA
-DN  Heme ABC exporter, ATP-binding protein CcmA/CcmA
+DN  Heme ABC exporter, ATP-binding protein CcmA
 RQ  1
 EV  IPR005895; TIGR01189; sufficient;
 --
 SN  2
 ID  Heme exporter protein CcmB
-DN  Heme exporter protein CcmB/CcmB
+DN  Heme exporter protein CcmB
 RQ  1
 EV  IPR026031; TIGR01190; sufficient;
 --
 SN  3
 ID  Heme exporter protein CcmC
-DN  Heme exporter protein CcmC/CcmC
+DN  Heme exporter protein CcmC
 RQ  1
 EV  IPR003557; TIGR01191; sufficient;
 --
 SN  4
 ID  Heme exporter protein CcmD
-DN  Heme exporter protein CcmD/CcmD
+DN  Heme exporter protein CcmD
 RQ  1
 EV  IPR007078; PF04995; sufficient;
 EV  IPRO30888; TIGR04391; sufficient;
 --
 SN  5
 ID  Cytochrome c-type biogenesis protein CcmE
-DN  Cytochrome c-type biogenesis protein CcmE/CcmE
+DN  Cytochrome c-type biogenesis protein CcmE
 RQ  1
 EV  IPR004329; PF03100; sufficient;
 --
 SN  6
 ID  Cytochrome c-type biogenesis protein CcmF
-DN  Cytochrome c-type biogenesis protein CcmF/CcmF
+DN  Cytochrome c-type biogenesis protein CcmF
 RQ  1
 EV  IPR003568; TIGR00353; sufficient;
 --
 SN  7
 ID  CcmG protein
-DN  CcmG protein/CcmG
+DN  CcmG protein
 RQ  1
 EV  IPR004799; TIGR00385; sufficient;
 --
 SN  8
 ID  Cytochrome C biogenesis protein CcmH/CycL/NrfF/Ccl2
-DN  Cytochrome C biogenesis protein CcmH/CycL/NrfF/Ccl2/CcmH
+DN  Cytochrome C biogenesis protein CcmH/CycL/NrfF/Ccl2
 RQ  1
 EV  IPR005616; PF03918; sufficient;
 --
 SN  9
 ID  Cytochrome c-type biogenesis protein CcmI
-DN  Cytochrome c-type biogenesis protein CcmI/CcmI
+DN  Cytochrome c-type biogenesis protein CcmI
 RQ  0
 EV  IPR017560; TIGR03142; sufficient;
 //
