@@ -9,19 +9,19 @@ CC  to the breakdown products of allantoin, oxamate or glyoxalate.
 --
 SN  1
 ID  Urate biosynthesis via xanthine
-DN  Urate biosynthesis via xanthine/G/A/X-U
+DN  Urate biosynthesis via xanthine
 RQ  1
 EV  GenProp0698;
 --
 SN  2
 ID  Urate catabolism to allantoin
-DN  Urate catabolism to allantoin/U-allan
+DN  Urate catabolism to allantoin
 RQ  1
 EV  GenProp0688;
 --
 SN  3
 ID  Allantoin catabolism
-DN  Allantoin catabolism/all-cat
+DN  Allantoin catabolism
 RQ  1
 EV  GenProp0687;
 EV  GenProp0686;
