@@ -25,31 +25,31 @@ SN  1
 ID  Complement C1q subcomponent subunit A
 DN  Complement C1q subcomponent subunit A
 RQ  1
-EV  -; PTHR24023:SF831; sufficient;
+EV  -; PTHR45066; sufficient;
 --
 SN  2
 ID  Complement C1q subcomponent subunit B
 DN  Complement C1q subcomponent subunit B
 RQ  1
-EV  -; PTHR24023:SF772; sufficient;
+EV  -; PTHR44403:SF2; sufficient;
 --
 SN  3
 ID  Complement C1q subcomponent subunit C
 DN  Complement C1q subcomponent subunit C
 RQ  1
-EV  -; PTHR24023:SF627; sufficient;
+EV  -; PTHR44403:SF1; sufficient;
 --
 SN  4
 ID  Complement C1r subcomponent
 DN  Complement C1r subcomponent (EC:3.4.21.41)
 RQ  1
-EV  IPR035707; PTHR24256:SF407; sufficient;
+EV  IPR035707; PTHR45206; sufficient;
 --
 SN  5
 ID  Complement C1s subcomponent
 DN  Complement C1s subcomponent (EC:3.4.21.42)
 RQ  1
-EV  -; PTHR24255:SF18; sufficient;
+EV  -; PTHR24255; sufficient;
 --
 SN  6
 ID  Complement activation, common pathway 1
