@@ -12,8 +12,7 @@ CC  describes the system as encoded by a seven-gene operon in Escherichia
 CC  coli, six of which are modeled explicitly for this property. Several of
 CC  the genes occur as paralogs of genes from the CcmABCDEFGH c-type
 CC  cytochrome biogenesis system present in the same genomes. The most
-CC  distinctive protein from this system is a pentaheme cytochrome c, NrfB,
-CC  modeled by TIGR03146.
+CC  distinctive protein from this system is a pentaheme cytochrome c, NrfB.
 --
 SN  1
 ID  Cytochrome c552
