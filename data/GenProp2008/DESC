@@ -25,41 +25,41 @@ SN  1
 ID  Complement C5
 DN  Complement C5
 RQ  1
-EV  -; PTHR11412:SF128; sufficient;
+EV  -; PTHR11412:SF83; sufficient;
 --
 SN  2
 ID  Complement C6
 DN  Complement C6
 RQ  1
-EV  -; PTHR19325:SF407; sufficient;
+EV  -; PTHR19325:SF23; sufficient;
 --
 SN  3
 ID  Complement C7
 DN  Complement C7
 RQ  1
-EV  -; PTHR19325:SF403; sufficient;
+EV  -; PTHR19325:SF389; sufficient;
 --
 SN  4
 ID  Complement component C8 alpha chain
 DN  Complement component C8 alpha chain
 RQ  1
-EV  -; PTHR19325:SF454; sufficient;
+EV  -; PTHR19325:SF385; sufficient;
 --
 SN  5
 ID  Complement component C8 beta chain
 DN  Complement component C8 beta chain
 RQ  1
-EV  -; PTHR19325:SF422; sufficient;
+EV  -; PTHR19325:SF401; sufficient;
 --
 SN  6
 ID  Complement component C8 gamma chain
 DN  Complement component C8 gamma chain
 RQ  1
-EV  -; PTHR11430:SF104; sufficient;
+EV  -; PTHR11430:SF64; sufficient;
 --
 SN  7
 ID  Complement component C9
 DN  Complement component C9
 RQ  1
-EV  -; PTHR19325:SF455; sufficient;
+EV  -; PTHR19325:SF362; sufficient;
 //
