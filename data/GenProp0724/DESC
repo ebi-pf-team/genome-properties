@@ -26,50 +26,50 @@ RT  polysaccharide B and C biosynthesis loci.
 RA  Coyne MJ, Kalka-Moll W, Tzianabos AO, Kasper DL, Comstock LE;
 RL  Infect Immun. 2000;68:6176-6181.
 CC  Phosphonacetaldehyde is a precursor of natural products, lipids and
-CC  polysaccharides containing phosphonates (C-P linkages).  Often this is
+CC  polysaccharides containing phosphonates (C-P linkages). Often this is
 CC  converted by an aminotransferase to the most common naturally occuring
 CC  phosphonate, 2-aminoethylphosphonate.
 --
 SN  1
 ID  PEP phosphomutase
-DN  PEP phosphomutase/AepX
+DN  PEP phosphomutase
 RQ  1
 EV  IPR012698; TIGR02320; sufficient;
 TG  GO:0006796;
 --
 SN  2
 ID  Phosphonopyruvate decarboxylase
-DN  Phosphonopyruvate decarboxylase/AepY
+DN  Phosphonopyruvate decarboxylase
 RQ  1
 EV  IPR017684; TIGR03297; sufficient;
 TG  GO:0006796;
 --
 SN  3
 ID  2-aminophosphonate transaminase
-DN  2-aminophosphonate transaminase/AepZ
+DN  2-aminophosphonate transaminase
 RQ  0
 --
 SN  4
 ID  Proximal marker of exopolysaccharide biosynthesis
-DN  Proximal marker of exopolysaccharide biosynthesis/EPS
+DN  Proximal marker of exopolysaccharide biosynthesis
 RQ  0
 EV  IPR002797; PF01943;
 --
 SN  5
 ID  Proximal marker of lipid biosynthesis
-DN  Proximal marker of lipid biosynthesis/Lipid
+DN  Proximal marker of lipid biosynthesis
 RQ  0
 EV  IPRXXXX; PF01066;
 --
 SN  6
 ID  Proximal marker of natural products biosynthesis
-DN  Proximal marker of natural products biosynthesis/NatPrd
+DN  Proximal marker of natural products biosynthesis
 RQ  0
 EV  IPRXXXX; TIGR01787;
 --
 SN  7
 ID  Proximal nucleotidyltransferase domain
-DN  Proximal nucleotidyltransferase domain/nuc-tr
+DN  Proximal nucleotidyltransferase domain
 RQ  0
 EV  IPRXXXX; PF01467;
 EV  IPRXXXX; PF00483;
@@ -77,7 +77,7 @@ EV  IPRXXXX; PF02348;
 --
 SN  8
 ID  Proximal oxidoreductases/oxygenases
-DN  Proximal oxidoreductases/oxygenases/oxido
+DN  Proximal oxidoreductases/oxygenases
 RQ  0
 EV  IPRXXXX; PF00465;
 EV  IPR017656; TIGR03250;
