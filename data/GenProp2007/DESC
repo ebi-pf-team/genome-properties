@@ -25,23 +25,23 @@ SN  1
 ID  Complement C2
 DN  Complement C2 (EC:3.4.21.43)
 RQ  1
-EV  -; PTHR19325:SF439; sufficient;
+EV  -; PTHR19325:SF387; sufficient;
 --
 SN  2
 ID  Complement C4-A
 DN  Complement C4-A
 RQ  1
-EV  -; PTHR11412:SF122; sufficient;
+EV  -; PTHR11412:SF134; sufficient;
 --
 SN  3
 ID  Complement C4-B
 DN  Complement C4-B
 RQ  1
-EV  -; PTHR11412:SF122; sufficient;
+EV  -; PTHR11412:SF134; sufficient;
 --
 SN  4
 ID  Complement C3
 DN  Complement C3
 RQ  1
-EV  -; PTHR11412:SF129; sufficient;
+EV  IPR035711; PTHR11412:SF81; sufficient;
 //
