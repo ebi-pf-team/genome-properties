@@ -22,8 +22,8 @@ CC  are found nowhere else). These markers have the same phylogenetic
 CC  distribution, among completely sequenced genomes, as the enzyme
 CC  methyl-coenzyme M reductase, whose components are represented in a separate 
 CC  Genome Property (GenProp0719). This analysis was performed without the 
-CC  availability of an anaerobic methane-oxidizing archaeal genome sequence, and 
-CC  it is unclear how such a genome would affect the results.
+CC  availability of an anaerobic methane-oxidizing archaeal genome sequence, 
+CC  and it is unclear how such a genome would affect the results.
 **  Note. This property superseded by more recent publications. Note that
 **  nickel is important to methanogenesis - not necessarily reflected in
 **  marker set so far.
