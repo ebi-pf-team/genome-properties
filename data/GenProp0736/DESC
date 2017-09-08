@@ -31,7 +31,7 @@ SN  1
 ID  Associated GntR-family transcriptional regulator
 DN  Associated GntR-family transcriptional regulator/GntR
 RQ  0
-EV  IPRXXXX; PF00392;
+EV  IPR000524; PF00392;
 --
 SN  2
 ID  Associated HDIG-domain protein
