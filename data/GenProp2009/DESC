@@ -28,19 +28,19 @@ SN  1
 ID  Complement C3
 DN  Complement C3
 RQ  1
-EV  IPR035711; PTHR11412:SF129; sufficient;
+EV  IPR035711; PTHR11412:SF81; sufficient;
 --
 SN  2
 ID  Complement factor B
 DN  Complement factor B (EC:3.4.21.47)
 RQ  1
-EV  IPR028341; PTHR19325:SF420; sufficient;
+EV  IPR028341; PTHR19325:SF394; sufficient;
 --
 SN  3
 ID  Complement factor D
 DN  Complement factor D (EC:3.4.21.46)
 RQ  1
-EV  -; PTHR24271; sufficient;
+EV  -; PTHR43890:SF17; sufficient;
 --
 SN  4
 ID  Complement activation, common pathway 2
