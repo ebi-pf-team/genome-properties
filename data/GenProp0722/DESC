@@ -11,21 +11,19 @@ RT  formation and ATP synthesis.
 RA  Fricke WF, Seedorf H, Henne A, Krüer M, Liesegang H, Hedderich R,
 RA  Gottschalk G, Thauer RK;
 RL  J Bacteriol. 2006;188:642-658.
-CC  Members of this genome property are, at least for now, largely
-CC  uncharacterized proteins that appear to represent marker proteins for
-CC  methanogenic archaea, as detected by our novel algorithm, partial
-CC  phylogenetic profiling. Substrates that can be reduced wih H2 to
-CC  methane may include methanol only, as in Methanosphaera stadtmanae, or
-CC  carbon dioxide and other compounds. This Genome Property represents
-CC  proteins that both are universal in the first ten completed genomes of
-CC  archaeal methanogens and can serve as markers for methanogenesis (are
-CC  found nowhere else). These markers have the same phylogenetic
+CC  Members of this genome property are largely uncharacterized proteins 
+CC  that appear to represent marker proteins for methanogenic archaea, as 
+CC  detected by partial phylogenetic profiling. Substrates that can be 
+CC  reduced wih H2 to methane may include methanol only, as in Methanosphaera 
+CC  stadtmanae, or carbon dioxide and other compounds. This Genome Property 
+CC  represents proteins that are universal (in the first ten completed genomes 
+CC  of archaeal methanogens) and can serve as markers for methanogenesis (they 
+CC  are found nowhere else). These markers have the same phylogenetic
 CC  distribution, among completely sequenced genomes, as the enzyme
-CC  methyl-coenzyme M reductase, whose components (for now) are represented
-CC  in a separate Genome Property, GenProp0719. This analysis was performed
-CC  without the availability of an anaerobic methane-oxidizing archaeal
-CC  genome sequence, and it is unclear how such a genome would affect the
-CC  results.
+CC  methyl-coenzyme M reductase, whose components are represented in a separate 
+CC  Genome Property (GenProp0719). This analysis was performed without the 
+CC  availability of an anaerobic methane-oxidizing archaeal genome sequence, and 
+CC  it is unclear how such a genome would affect the results.
 **  Note. This property superseded by more recent publications. Note that
 **  nickel is important to methanogenesis - not necessarily reflected in
 **  marker set so far.
