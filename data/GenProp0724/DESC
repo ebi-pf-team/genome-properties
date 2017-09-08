@@ -48,6 +48,8 @@ SN  3
 ID  2-aminophosphonate transaminase
 DN  2-aminophosphonate transaminase
 RQ  0
+EV  IPR012703; TIGR03301;
+EV  IPR012703; TIGR02326;
 --
 SN  4
 ID  Proximal marker of exopolysaccharide biosynthesis
@@ -59,27 +61,27 @@ SN  5
 ID  Proximal marker of lipid biosynthesis
 DN  Proximal marker of lipid biosynthesis
 RQ  0
-EV  IPRXXXX; PF01066;
+EV  IPR000462; PF01066;
 --
 SN  6
 ID  Proximal marker of natural products biosynthesis
-DN  Proximal marker of natural products biosynthesis
+DN  Squalene cyclase
 RQ  0
-EV  IPRXXXX; TIGR01787;
+EV  IPR018333; TIGR01787;
 --
 SN  7
 ID  Proximal nucleotidyltransferase domain
 DN  Proximal nucleotidyltransferase domain
 RQ  0
-EV  IPRXXXX; PF01467;
-EV  IPRXXXX; PF00483;
-EV  IPRXXXX; PF02348;
+EV  IPR004821; PF01467;
+EV  IPR005835; PF00483;
+EV  IPR003329; PF02348;
 --
 SN  8
 ID  Proximal oxidoreductases/oxygenases
 DN  Proximal oxidoreductases/oxygenases
 RQ  0
-EV  IPRXXXX; PF00465;
+EV  IPR001670; PF00465;
 EV  IPR017656; TIGR03250;
-EV  IPRXXXX; PF03171;
+EV  IPR005123; PF03171;
 //
