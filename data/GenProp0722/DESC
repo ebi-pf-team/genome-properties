@@ -30,199 +30,199 @@ CC  it is unclear how such a genome would affect the results.
 --
 SN  1
 ID  CoB--CoM heterodisulfide reductase, subunit B
-DN  CoB--CoM heterodisulfide reductase, subunit B/me_hdrB
+DN  CoB--CoM heterodisulfide reductase, subunit B
 RQ  1
 EV  IPR017678; TIGR03288; sufficient;
 --
 SN  2
 ID  CoB--CoM heterodisulfide reductase, subunit C
-DN  CoB--CoM heterodisulfide reductase, subunit C/me_hdrC
+DN  CoB--CoM heterodisulfide reductase, subunit C
 RQ  1
 EV  IPR017680; TIGR03290; sufficient;
 --
 SN  3
 ID  Methyl coenzyme M reductase system, component A2
-DN  Methyl coenzyme M reductase system, component A2/me_mcr2
+DN  Methyl coenzyme M reductase system, component A2
 RQ  1
 EV  IPR017669; TIGR03269;
 --
 SN  4
 ID  Methyl-coenzyme M reductase, alpha subunit
-DN  Methyl-coenzyme M reductase, alpha subunit/me_mcrA
+DN  Methyl-coenzyme M reductase, alpha subunit
 RQ  1
 EV  IPR016212; TIGR03256; sufficient;
 --
 SN  5
 ID  Methyl-coenzyme M reductase, beta subunit
-DN  Methyl-coenzyme M reductase, beta subunit/me_mcrB
+DN  Methyl-coenzyme M reductase, beta subunit
 RQ  1
 EV  IPR003179; TIGR03257; sufficient;
 --
 SN  6
 ID  Methyl-coenzyme M reductase I operon protein C
-DN  Methyl-coenzyme M reductase I operon protein C/me_mcrC
+DN  Methyl-coenzyme M reductase I operon protein C
 RQ  1
 EV  IPR007687; TIGR03264;
 --
 SN  7
 ID  Methyl-coenzyme M reductase operon protein D
-DN  Methyl-coenzyme M reductase operon protein D/me_mcrD
+DN  Methyl-coenzyme M reductase operon protein D
 RQ  1
 EV  IPR003901; TIGR03260;
 --
 SN  8
 ID  Methyl-coenzyme M reductase, gamma subunit
-DN  Methyl-coenzyme M reductase, gamma subunit/me_mcrG
+DN  Methyl-coenzyme M reductase, gamma subunit
 RQ  1
 EV  IPR003178; TIGR03259; sufficient;
 --
 SN  9
 ID  Tetrahydromethanopterin S-methyltransferase, subunit A
-DN  Tetrahydromethanopterin S-methyltransferase, subunit A/me_mtrA
+DN  Tetrahydromethanopterin S-methyltransferase, subunit A
 RQ  1
 EV  IPR005778; TIGR01111;
 --
 SN  10
 ID  Tetrahydromethanopterin S-methyltransferase, subunit B
-DN  Tetrahydromethanopterin S-methyltransferase, subunit B/me_mtrB
+DN  Tetrahydromethanopterin S-methyltransferase, subunit B
 RQ  1
 EV  IPR008690; TIGR04166;
 --
 SN  11
 ID  Tetrahydromethanopterin S-methyltransferase, subunit C
-DN  Tetrahydromethanopterin S-methyltransferase, subunit C/me_mtrC
+DN  Tetrahydromethanopterin S-methyltransferase, subunit C
 RQ  1
 EV  IPR005865; TIGR01148;
 --
 SN  12
 ID  Tetrahydromethanopterin S-methyltransferase, subunit D
-DN  Tetrahydromethanopterin S-methyltransferase, subunit D/me_mtrD
+DN  Tetrahydromethanopterin S-methyltransferase, subunit D
 RQ  1
 EV  IPR005779; TIGR01112;
 --
 SN  13
 ID  Tetrahydromethanopterin S-methyltransferase, subunit E
-DN  Tetrahydromethanopterin S-methyltransferase, subunit E/me_mtrE
+DN  Tetrahydromethanopterin S-methyltransferase, subunit E
 RQ  1
 EV  IPR005780; TIGR01113;
 --
 SN  14
 ID  Tetrahydromethanopterin S-methyltransferase, subunit F
-DN  Tetrahydromethanopterin S-methyltransferase, subunit F/me_mtrF
+DN  Tetrahydromethanopterin S-methyltransferase, subunit F
 RQ  1
 EV  IPR013347; TIGR02507;
 --
 SN  15
 ID  Tetrahydromethanopterin S-methyltransferase, subunit G
-DN  Tetrahydromethanopterin S-methyltransferase, subunit G/me_mtrG
+DN  Tetrahydromethanopterin S-methyltransferase, subunit G
 RQ  1
 EV  IPR005866; TIGR01149;
 --
 SN  16
 ID  Tetrahydromethanopterin S-methyltransferase, subunit H
-DN  Tetrahydromethanopterin S-methyltransferase, subunit H/me_mtrH
+DN  Tetrahydromethanopterin S-methyltransferase, subunit H
 RQ  1
 EV  IPR023467; TIGR01114;
 --
 SN  17
 ID  Methanogenesis marker protein 1
-DN  Methanogenesis marker protein 1/meth_01
+DN  Methanogenesis marker protein 1
 RQ  1
 EV  IPR017667; TIGR03266; sufficient;
 --
 SN  18
 ID  Methanogenesis marker protein 2
-DN  Methanogenesis marker protein 2/meth_02
+DN  Methanogenesis marker protein 2
 RQ  1
 EV  IPR017668; TIGR03267; sufficient;
 --
 SN  19
 ID  Methanogenesis marker protein 3
-DN  Methanogenesis marker protein 3/meth_03
+DN  Methanogenesis marker protein 3
 RQ  1
 EV  IPR016466; TIGR03268; sufficient;
 --
 SN  20
 ID  Methanogenesis marker protein 4
-DN  Methanogenesis marker protein 4/meth_04
+DN  Methanogenesis marker protein 4
 RQ  1
 EV  IPR016764; TIGR03270; sufficient;
 --
 SN  21
 ID  Methanogenesis marker protein 5
-DN  Methanogenesis marker protein 5/meth_05
+DN  Methanogenesis marker protein 5
 RQ  1
 EV  IPR012356; TIGR03271; sufficient;
 --
 SN  22
 ID  Methanogenesis marker protein 6
-DN  Methanogenesis marker protein 6/meth_06
+DN  Methanogenesis marker protein 6
 RQ  1
 EV  IPR012025; TIGR03272; sufficient;
 --
 SN  23
 ID  Methanogenesis marker protein 7
-DN  Methanogenesis marker protein 7/meth_07
+DN  Methanogenesis marker protein 7
 RQ  1
 EV  IPR011312; TIGR03274; sufficient;
 --
 SN  24
 ID  Methanogenesis marker protein 8
-DN  Methanogenesis marker protein 8/meth_08
+DN  Methanogenesis marker protein 8
 RQ  1
 EV  IPR009181; TIGR03275; sufficient;
 --
 SN  25
 ID  Methanogenesis marker domain 9
-DN  Methanogenesis marker domain 9/meth_09
+DN  Methanogenesis marker domain 9
 RQ  1
 EV  IPR017671; TIGR03277; sufficient;
 --
 SN  26
 ID  Methanogenesis radical SAM marker protein
-DN  Methanogenesis radical SAM marker protein/meth_10
+DN  Methanogenesis radical SAM marker protein
 RQ  1
 EV  IPR017672; TIGR03278; sufficient;
 --
 SN  27
 ID  Methanogenesis imperfect marker 11
-DN  Methanogenesis imperfect marker 11/meth_11
+DN  Methanogenesis imperfect marker 11
 RQ  1
 EV  IPR017674; TIGR03280; sufficient;
 --
 SN  28
 ID  Methanogenesis marker protein 12
-DN  Methanogenesis marker protein 12/meth_12
+DN  Methanogenesis marker protein 12
 RQ  1
 EV  IPR016735; TIGR03281; sufficient;
 --
 SN  29
 ID  Methanogenesis marker 13 metalloprotein
-DN  Methanogenesis marker 13 metalloprotein/meth_13
+DN  Methanogenesis marker 13 metalloprotein
 RQ  1
 EV  IPR017675; TIGR03282; sufficient;
 --
 SN  30
 ID  Methanogenesis marker protein 14
-DN  Methanogenesis marker protein 14/meth_14
+DN  Methanogenesis marker protein 14
 RQ  1
 EV  IPR008303; TIGR03285; sufficient;
 --
 SN  31
 ID  Methanogenesis marker protein 15
-DN  Methanogenesis marker protein 15/meth_15
+DN  Methanogenesis marker protein 15
 RQ  1
 EV  IPR017676; TIGR03286; sufficient;
 --
 SN  32
 ID  Methanogenesis marker 16 metalloprotein
-DN  Methanogenesis marker 16 metalloprotein/meth_16
+DN  Methanogenesis marker 16 metalloprotein
 RQ  1
 EV  IPR017677; TIGR03287; sufficient;
 --
 SN  33
 ID  Methanogenesis marker protein 17
-DN  Methanogenesis marker protein 17/meth_17
+DN  Methanogenesis marker protein 17
 RQ  1
 EV  IPR016762; TIGR03291; sufficient;
 //
