@@ -58,142 +58,144 @@ CC  cavity of the proteasome [3].
 **  Non-ATPase regulatory subunit 9 contains a PDZ domain.
 --
 SN  1
-ID  26S protease regulatory subunit 4
+ID  26S protease regulatory subunit 4/PSMC1
 DN  26S protease regulatory subunit 4 
 RQ  1
-EV  IPR035244; PTHR23073:SF40; sufficient;
+EV  IPR035244; PTHR23073:SF24; sufficient;
 TG  GO:0016887;
 --
 SN  2
-ID  26S protease regulatory subunit 7
+ID  26S protease regulatory subunit 7/PSMC2
 DN  26S protease regulatory subunit 7 
 RQ  1
-EV  IPR035245; PTHR23073:SF46; sufficient;
+EV  IPR035245; PTHR23073:SF13; sufficient;
 TG  GO:0016887;
 --
 SN  3
-ID  26S protease regulatory subunit 6a
+ID  26S protease regulatory subunit 6a/PSMC3
 DN  26S protease regulatory subunit 6a 
 RQ  1
-EV  IPR035254; PTHR23073:SF39; sufficient;
+EV  IPR035254; PTHR23073:SF7; sufficient;
 TG  GO:0016887;
 --
 SN  4
-ID  26S protease regulatory subunit 6b
+ID  26S protease regulatory subunit 6b/PSMC4
 DN  26S protease regulatory subunit 6b 
 RQ  1
-EV  IPR035256; PTHR23073:SF50; sufficient;
+EV  IPR035256; PTHR23073:SF8; sufficient;
 TG  GO:0016887;
 --
 SN  5
-ID  26S protease regulatory subunit 8
+ID  26S protease regulatory subunit 8/PSMC5
 DN  26S protease regulatory subunit 8 
 RQ  1
-EV  IPR035261; PTHR23073:SF47; sufficient;
+EV  IPR035261; PTHR23073:SF12; sufficient;
 TG  GO:0016887;
 --
 SN  6
-ID  26S protease regulatory subunit 10b
+ID  26S protease regulatory subunit 10b/PSMC6
 DN  26S protease regulatory subunit 10b 
 RQ  1
-EV  IPR035263; PTHR23073:SF55; sufficient;
+EV  IPR035263; PTHR23073:SF59; sufficient;
 TG  GO:0016887;
 --
 SN  7
-ID  26S proteasome non-ATPase regulatory subunit 1
+ID  26S proteasome non-ATPase regulatory subunit 1/PSMD1
 DN  26S proteasome non-ATPase regulatory subunit 1 
 RQ  1
-EV  IPR035266; PTHR10943:SF5; sufficient;
+EV  IPR035266; PTHR10943:SF2; sufficient;
 TG  GO:0030234
 --
 SN  8
-ID  26S proteasome non-ATPase regulatory subunit 2
+ID  26S proteasome non-ATPase regulatory subunit 2/PSMD2
 DN  26S proteasome regulatory complex, non-ATPase subcomplex, Rpn1 subunit  
 RQ  1
-EV  IPR016643; PTHR10943:SF7; sufficient;
+EV  IPR016643; PTHR10943:SF1; sufficient;
 TG  GO:0030234
 --
 SN  9
-ID  26S proteasome non-ATPase regulatory subunit 3
+ID  26S proteasome non-ATPase regulatory subunit 3/PSMD3
 DN  26S proteasome non-ATPase regulatory subunit 3 
 RQ  1
-EV  IPR035267; PTHR10758:SF6; sufficient;
+EV  IPR035267; PTHR10758:SF2; sufficient;
 TG  GO:0030234
 --
 SN  10
-ID  26S proteasome non-ATPase regulatory subunit 4
+ID  26S proteasome non-ATPase regulatory subunit 4/PSMD4
 DN  Proteasome subunit Rpn10 
 RQ  1
-EV  IPR027040; PTHR10223; sufficient;
+EV  IPR027040; PTHR10223:SF6; sufficient;
 TG  GO:0031593
 --
 SN  11
-ID  26S proteasome non-ATPase regulatory subunit 5
+ID  26S proteasome non-ATPase regulatory subunit 5/PSMD5
 DN  26S proteasome non-ATPase regulatory subunit 5 
 RQ  0
 EV  IPR019538; PF10508; sufficient;
+EV  IPR019538; PTHR13554; sufficient;
 TG  GO:0070682
 --
 SN  12
-ID  26S proteasome non-ATPase regulatory subunit 6
+ID  26S proteasome non-ATPase regulatory subunit 6/PSMD6
 DN  26S proteasome non-ATPase regulatory subunit 6 
 RQ  1
-EV  IPR035268; PTHR14145:SF6; sufficient;
+EV  IPR035268; PTHR14145:SF1; sufficient;
 --
 SN  13
-ID  26S proteasome non-ATPase regulatory subunit 7
+ID  26S proteasome non-ATPase regulatory subunit 7/PSMD7
 DN  26S Proteasome non-ATPase regulatory subunit 7/8 
 RQ  1
-EV  IPR033858; PTHR10540:SF13; sufficient;
+EV  IPR033858; PTHR10540:SF7; sufficient;
+EV  IPR033858; cd08062; sufficient;
 --
 SN  14
-ID  26S proteasome non-ATPase regulatory subunit 8
+ID  26S proteasome non-ATPase regulatory subunit 8/PSMD8
 DN  26S proteasome non-ATPase regulatory subunit Rpn12 
 RQ  1
 EV  IPR006746; PTHR12387; sufficient;
 --
 SN  15
-ID  26S proteasome non-ATPase regulatory subunit 9
+ID  26S proteasome non-ATPase regulatory subunit 9/PSMD9
 DN  26S proteasome non-ATPase regulatory subunit 9 
 RQ  0
 EV  IPR035269; PTHR12651; sufficient;
 TG  GO:0070682
 --
 SN  16
-ID  26S proteasome non-ATPase regulatory subunit 10
+ID  26S proteasome non-ATPase regulatory subunit 10/PSMD10
 DN  Ankyrin repeat-containing domain 
 RQ  0
-EV  IPR020683; G3DSA:1.25.40.20; sufficient;
+EV  IPR020683; PF12796; sufficient;
 TG  GO:0070682
 --
 SN  17
-ID  26S proteasome non-ATPase regulatory subunit 11
+ID  26S proteasome non-ATPase regulatory subunit 11/PSMD11
 DN  26S proteasome non-ATPase regulatory subunit 11 
 RQ  1
-EV  IPR035295; PTHR10678:SF8; sufficient;
+EV  IPR035295; PTHR10678:SF6; sufficient;
 TG  GO:0070682
 --
 SN  18
-ID  26S proteasome non-ATPase regulatory subunit 12
+ID  26S proteasome non-ATPase regulatory subunit 12/PSMD12
 DN  26S proteasome non-ATPase regulatory subunit 12 
 RQ  1
-EV  IPR035297; PTHR10855:SF4; sufficient;
+EV  IPR035297; PTHR10855:SF1; sufficient;
 --
 SN  19
-ID  26S proteasome non-ATPase regulatory subunit 13
+ID  26S proteasome non-ATPase regulatory subunit 13/PSMD13
 DN  26S proteasome non-ATPase regulatory subunit 13 
 RQ  1
-EV  IPR035298; PTHR10539:SF1; sufficient;
+EV  IPR035298; PTHR10539; sufficient;
 --
 SN  20
-ID  26S proteasome non-ATPase regulatory subunit 14
+ID  26S proteasome non-ATPase regulatory subunit 14/PSMD14
 DN  26S proteasome non-ATPase regulatory subunit 14 
 RQ  1
-EV  IPR035299; PTHR10410:SF8; sufficient;
+EV  IPR035299; PTHR10410:SF13; sufficient;
 TG  GO:0061578
 --
 SN  21
-ID  26S proteasome complex subunit SEM1
+ID  26S proteasome complex subunit SEM1/SEM1
 DN  DSS1/SEM1 
 RQ  1
 EV  IPR007834; PTHR16771; sufficient;
@@ -201,7 +203,7 @@ EV  IPR007834; PF05160; sufficient;
 EV  IPR007834; SM01385; sufficient;
 --
 SN  22
-ID  Proteasomal ubiquitin receptor ADRM1
+ID  Proteasomal ubiquitin receptor ADRM1/ADRM1
 DN  26S proteasome complex ubiquitin receptor, subunit Rpn13 
 RQ  0
 EV  IPR006773; PTHR12225; sufficient;
