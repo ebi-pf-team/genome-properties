@@ -40,14 +40,14 @@ SN  2
 ID  Tuberin
 DN  Tuberin (TSC2) /2
 RQ  1
-EV  IPR003913; PTHR10063:SF8; sufficient;
+EV  IPR003913; PTHR10063:SF0; sufficient;
 TG  GO:0005096;
 --
 SN  3
 ID  GTP-binding protein Rheb
 DN  GTP-binding protein Rheb /3
 RQ  1
-EV  -; PTHR24070:SF332; sufficient;
+EV  -; PTHR24070:SF264; sufficient;
 TG  GO:0005525;
 --
 SN  4
