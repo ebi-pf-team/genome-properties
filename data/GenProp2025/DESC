@@ -42,14 +42,14 @@ SN  1
 ID  Calpain 2
 DN  Calpain-2 catalytic subunit (EC:3.4.22.52) 
 RQ  1
-EV  IPR029539; PTHR10183:SF340; sufficient;
+EV  IPR029539; PTHR10183:SF268; sufficient;
 TG  GO:0004198;
 --
 SN  2
 ID  Caspase-12
 DN  Caspase-12 
 RQ  1
-EV  IPR035713; PTHR10454:SF191; sufficient;
+EV  IPR035713; PTHR10454:SF134; sufficient;
 TG  GO:0070059;
 --
 SN  3
