@@ -51,7 +51,7 @@ SN  1
 ID  Caspase-2 
 DN  Caspase-2 (EC:3.4.22.55) 
 RQ  1
-EV  IPR035702; PTHR10454:SF190; sufficient;
+EV  IPR035702; PTHR10454:SF151; sufficient;
 TG  GO:0006919;
 ID  Granzyme B 
 DN  Granzyme B (EC:3.4.21.79) 
