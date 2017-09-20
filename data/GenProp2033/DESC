@@ -40,7 +40,7 @@ SN  2
 ID  Tuberin
 DN  Tuberin (TSC2) /2
 RQ  1
-EV  IPR003913; PTHR10063:SF0; sufficient;
+EV  IPR003913; PR01431; sufficient;
 TG  GO:0005096;
 --
 SN  3
