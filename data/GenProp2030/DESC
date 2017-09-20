@@ -57,7 +57,7 @@ SN  1
 ID  Serine/threonine-protein kinase mTOR
 DN  Serine/threonine-protein kinase mTOR (EC:2.7.11.1)/1
 RQ  1
-EV  IPR026683; PTHR11139:SF85; sufficient;
+EV  IPR026683; PTHR11139:SF9; sufficient;
 TG  GO:0004674;
 --
 SN  2
@@ -84,6 +84,6 @@ SN  5
 ID  DEP domain-containing mTOR-interacting protein
 DN  DEP domain-containing mTOR-interacting protein /5
 RQ  1
-EV  -; PTHR22829:SF21; sufficient;
+EV  -; PTHR22829:SF18; sufficient;
 TG  GO:0032007;
 //
