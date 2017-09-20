@@ -42,9 +42,9 @@ CC  apoptosis are of two kinds: initiators and executors. Initiator
 CC  caspases activate the executor caspases which cleave other proteins
 CC  in the cell [3,4]. This Genome Property includes the executor 
 CC  caspases.
-XX  IPR015470 is caspase-3, but PTHR10454:SF31 contains caspase-7
-XX  IPR015471 is caspase-7, but PTHR10454:SF31 contains caspase-3
-XX  Neither are checked = Y.
+**  IPR015470 is caspase-3, but PTHR10454:SF31 contains caspase-7
+**  IPR015471 is caspase-7, but PTHR10454:SF31 contains caspase-3
+**  Neither are checked = Y.
 --
 SN  1
 ID  Caspase-3
