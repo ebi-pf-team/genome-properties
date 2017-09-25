@@ -9,25 +9,25 @@ CC  Essential housekeeping genes of bacterial translation elongation.
 --
 SN  1
 ID  Translation elongation factor G
-DN  Translation elongation factor G/EF-G
+DN  Translation elongation factor G
 RQ  1
 EV  IPR004540; TIGR00484;
 --
 SN  2
 ID  Translation elongation factor P
-DN  Translation elongation factor P/EF-P
+DN  Translation elongation factor P
 RQ  1
 EV  IPR011768; TIGR00038;
 --
 SN  3
 ID  Translation elongation factor Ts
-DN  Translation elongation factor Ts/EF-Ts
+DN  Translation elongation factor Ts
 RQ  1
 EV  IPR001816; TIGR00116;
 --
 SN  4
 ID  Translation elongation factor Tu
-DN  Translation elongation factor Tu/EF-Tu
+DN  Translation elongation factor Tu
 RQ  1
 EV  IPR004541; TIGR00485;
 //
