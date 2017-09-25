@@ -18,21 +18,21 @@ CC  interacts and accepts a sulfur at Cys-61 (numbered as in Escherichia
 CC  coli). In contrast to sulfur-accepting components such as NifU and
 CC  IscU, CsdE does not bind iron and is not viewed as a scaffold on which
 CC  Fe-S cluster biosynthesis can be completed prior to transfer to other
-CC  proteins. Rather, this simplicity of this system may reflect a limited
+CC  proteins. Rather, the simplicity of this system may reflect a limited
 CC  role for the maturation of specific Fe-S cluster-containing proteins. 
 **  such as quinolinate synthetase, NadA, they say. That is, maybe
 **  S-donation is enough because the target protein itself is the scaffold.
 --
 SN  1
 ID  Cysteine desulfurase, catalytic subunit CdsA
-DN  Cysteine desulfurase, catalytic subunit CdsA (EC 2.8.1.7)/FeSCsdA
+DN  Cysteine desulfurase, catalytic subunit CdsA (EC 2.8.1.7)
 RQ  1
 EV  IPR022471; TIGR03392;
 TG  GO:0016226;
 --
 SN  2
 ID  Cysteine desulfurase, sulfur acceptor subunit CsdE
-DN  Cysteine desulfurase, sulfur acceptor subunit CsdE/FeSCsdE
+DN  Cysteine desulfurase, sulfur acceptor subunit CsdE
 RQ  1
 EV  IPR017763; TIGR03391;
 TG  GO:0016226;
