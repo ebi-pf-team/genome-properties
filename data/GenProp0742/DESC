@@ -39,7 +39,7 @@ CC  pylori.
 --
 SN  1
 ID  Cysteine desulfurase NifS
-DN  Cysteine desulfurase NifS/NifS
+DN  Cysteine desulfurase NifS
 RQ  1
 EV  IPR017772; TIGR03402;
 TG  GO:0016226;
@@ -48,7 +48,7 @@ TG  GO:0016226;
 --
 SN  2
 ID  FeS cluster formation protein NifU
-DN  FeS cluster formation protein NifU/NifU
+DN  FeS cluster formation protein NifU
 RQ  1
 EV  IPR010238; TIGR02000; sufficient;
 TG  GO:0016226;
