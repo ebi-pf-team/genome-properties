@@ -5,22 +5,22 @@ AU  Haft DH
 TH  0
 CC  This property represents the presence of a characteristic gene pair,
 CC  found in large paralogous families in several species of Acidobacteria.
-CC  One component is a putative transcriptional regulator related to PadR
-CC  (TIGR03433). The other is ADOP, or Acidobacterial duplicated orphan
-CC  permease (TIGR03434), an integral membrane protein related to ABC
-CC  transporter permease components such as LolC, MacB, and FtsX but
-CC  orphaned in the sense of not being found next to ATP-binding cassette
-CC  (ABC) proteins. The function is unknown.
+CC  One component is a putative transcriptional regulator related to PadR. 
+CC  The other is ADOP, or Acidobacterial duplicated orphan permease, an 
+CC  integral membrane protein related to ABC transporter permease 
+CC  components such as LolC, MacB, and FtsX, but orphaned in the sense of 
+CC  not being found next to ATP-binding cassette (ABC) proteins. The 
+CC  function is unknown.
 --
 SN  1
-ID  TIGR03434
-DN  TIGR03434/ADOP
+ID  Acidobacterial duplicated orphan permease
+DN  Acidobacterial duplicated orphan permease
 RQ  1
 EV  IPR017800; TIGR03434;
 --
 SN  2
 ID  Transcriptional regulator, Acidobacterial, PadR-family
-DN  Transcriptional regulator, Acidobacterial, PadR-family/PadR
+DN  Transcriptional regulator, Acidobacterial, PadR-family
 RQ  1
 EV  IPR017799; TIGR03433;
 //
