@@ -7,27 +7,26 @@ CC  This property describes a gene pair for choline sulfate utilization.
 CC  Choline is a precursor to the osmoprotectant glycine-betaine and to
 CC  acetylcholine, and can be used as an energy source. One member of the
 CC  gene pair is a choline-sulfatase, as in Sinorhizobium meliloti and
-CC  Pseudomonas aeruginosa PAO1. The other gene is both adjacent and a
-CC  member of family TIGR03414, periplasmic binding proteins for the ABC
-CC  transporters responsible for choline uptake. It appears that several
-CC  different periplasmic binding protein interact with the same permease
-CC  and ATP-binding subunit.
+CC  Pseudomonas aeruginosa PAO1. The other gene is a periplasmic binding 
+CC  protein for the ABC transporters responsible for choline uptake. It 
+CC  appears that several different periplasmic binding proteins interact 
+CC  with the same permease and ATP-binding subunit.
 --
 SN  1
 ID  Putative choline sulfate transcription factor
-DN  Putative choline sulfate transcription factor/chol_TF
+DN  Putative choline sulfate transcription factor
 RQ  1
 EV  IPR017786; TIGR03418;
 --
 SN  2
 ID  Choline sulfate periplasmic binding protien
-DN  Choline sulfate periplasmic binding protien/peripl
+DN  Choline sulfate periplasmic binding protien
 RQ  1
-EV  IPRXXXX; TIGR03414;
+EV  IPR017783; TIGR03414;
 --
 SN  3
 ID  Choline-sulfatase
-DN  Choline-sulfatase/sulfa
+DN  Choline-sulfatase
 RQ  1
 EV  IPR017785; TIGR03417;
 //
