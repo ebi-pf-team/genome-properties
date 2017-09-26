@@ -13,7 +13,7 @@ CC  SAM-dependent enzyme that trimethylates the histidine alpha-amino group
 CC  to produce hercynine, the histidine-betaine. EgtA gamma-ligates Cys to
 CC  Glu, as occurs in glutathione biosynthesis. Next, EgtB attaches
 CC  hercynine to gammaglutamyl cysteine, with sulfur attachment to the
-CC  histidine-derived ring. EgtC then releases glutamate . Finally, EgtE, a
+CC  histidine-derived ring. EgtC then releases glutamate. Finally EgtE, a
 CC  pyridoxal phosphate-dependent enzyme related to selenocysteine lyase,
 CC  cleaves the hercynylcysteine sulfoxide to leave ergothioneine.
 CC  Ergothioneine production is known also in cyanobacteria and mushrooms,
@@ -29,35 +29,35 @@ CC  and is predicted to be more widely distributed.
 --
 SN  1
 ID  Glutamate--cysteine ligase family protein
-DN  Glutamate--cysteine ligase family protein/egtA
+DN  Glutamate--cysteine ligase family protein
 RQ  0
 EV  IPR017809; TIGR03444;
 TG  GO:0052699;
 --
 SN  2
 ID  Ergothioneine biosynthesis protein EgtB
-DN  Ergothioneine biosynthesis protein EgtB/egtB
+DN  Ergothioneine biosynthesis protein EgtB
 RQ  1
 EV  IPR017806; TIGR03440;
 TG  GO:0052699;
 --
 SN  3
 ID  Ergothioneine biosynthesis protein EgtC
-DN  Ergothioneine biosynthesis protein EgtC/egtC
+DN  Ergothioneine biosynthesis protein EgtC
 RQ  0
 EV  IPR017808; TIGR03442;
 TG  GO:0052699;
 --
 SN  4
 ID  Ergothioneine biosynthesis methyltransferase EgtD
-DN  Ergothioneine biosynthesis methyltransferase EgtD/egtD
+DN  Ergothioneine biosynthesis methyltransferase EgtD
 RQ  1
 EV  IPR017804; TIGR03438;
 TG  GO:0052699;
 --
 SN  5
 ID  Ergothioneine biosynthesis PLP-binding protein EgtE
-DN  Ergothioneine biosynthesis PLP-binding protein EgtE/egtE
+DN  Ergothioneine biosynthesis PLP-binding protein EgtE
 RQ  0
 EV  IPR027563; TIGR04343;
 TG  GO:0052699;
