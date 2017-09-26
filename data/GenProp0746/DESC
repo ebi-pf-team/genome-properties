@@ -17,7 +17,7 @@ CC  genome property is the ribosome recycling factor, which also partipates
 CC  in processes at the conclusion of bacterial protein translation. This
 CC  property does not include PrfH, part of a specialized system present
 CC  only in some bacteria, as it is intended for essentially univeral
-CC  bacterial termination factors; see instead GenProp0665.
+CC  bacterial termination factors.
 **  TIGR03534 (HemK) was made from only members encoded next to prfA, yet
 **  (because of paralog PrmB) does not even detect all members of the seed.
 **  Therefore, a rule based on HMM-CLUST will be necessary.
@@ -27,7 +27,7 @@ ID  Release factor methylase
 DN  Release factor methylase/hemK
 RQ  1
 EV  IPR019874; TIGR03534;
-EV  IPRXXXX; TIGR00536;
+EV  IPR004556; TIGR00536;
 --
 SN  2
 ID  Peptide chain release factor 1
@@ -49,7 +49,7 @@ EV  IPR004548; TIGR00503;
 --
 SN  5
 ID  Ribosome recycling factor
-DN  Ribosome recycling factor/recyc
+DN  Ribosome recycling factor
 RQ  1
 EV  IPR002661; TIGR00496;
 //
