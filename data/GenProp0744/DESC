@@ -4,17 +4,22 @@ TP  PATHWAY
 AU  Haft DH
 TH  0
 RN  [1]
+RM  16958620
+RT  Trypanothione-dependent glyoxalase I in Trypanosoma cruzi.
+RA  Greig N, Wyllie S, Vickers TJ, Fairlamb AH;
+RL  Biochem J. 2006;400:217-223.
+RN  [2]
 RM  17196158
 RT  Escherichia coli glyoxalase II is a binuclear zinc-dependent
 RT  metalloenzyme.
 RA  O'Young J, Sukdeo N, Honek JF;
 RL  Arch Biochem Biophys. 2007;459:20-26.
 CC  Glyoxalase I and glyoxalase II are the enzymes lactoylglutathione lyase
-CC  (EC 4.4.1.5) and hydroxyacylglutathione hydrolase (EC 3.1.2.6),
-CC  respectively. This system detoxifies methylglyoxal and other highly
-CC  reactive aldehydes. Glutathione serves a cofactor; variants of this
+CC  and hydroxyacylglutathione hydrolase, respectively. This system 
+CC  detoxifies methylglyoxal and other highly reactive aldehydes. 
+CC  Glutathione serves as a cofactor; variants of this
 CC  pathway may occur where glutathione is replaced by another cofactor
-CC  such as trypanothione in Trypanosoma cruzi (see PMID:16958620).  
+CC  such as trypanothione in Trypanosoma cruzi [1].  
 **  I found glyoxalase II by PPP vs. the glutathione biosynthesis property.
 **  While glutathione import is possible, it should always be present
 **  somehow. NOTE: I am seeing two different descriptions of what
@@ -23,14 +28,14 @@ CC  such as trypanothione in Trypanosoma cruzi (see PMID:16958620).
 --
 SN  1
 ID  Lactoylglutathione lyase (glyoxalase I)
-DN  Lactoylglutathione lyase (glyoxalase I)/glox_I
+DN  Lactoylglutathione lyase (glyoxalase I) (EC 4.4.1.5)
 RQ  1
 EV  IPR004361; TIGR00068;
 TG  GO:0051596;
 --
 SN  2
 ID  Hydroxyacylglutathione hydrolase (glyoxalase II)
-DN  Hydroxyacylglutathione hydrolase (glyoxalase II)/glox_II
+DN  Hydroxyacylglutathione hydrolase (glyoxalase II) (EC 3.1.2.6)
 RQ  1
 EV  IPR017782; TIGR03413;
 TG  GO:0051596;
