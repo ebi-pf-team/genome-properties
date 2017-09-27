@@ -106,7 +106,7 @@ SN  13
 ID  VacJ like lipoprotein
 DN  VacJ like lipoprotein/HpnO
 RQ  0
-EV  IPRXXXX; PF04333;
+EV  IPR007428; PF04333;
 TG  GO:0019746;
 --
 SN  14
