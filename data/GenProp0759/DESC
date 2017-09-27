@@ -3,11 +3,11 @@ DE  Para-aminobenzoic acid (PABA) biosynthesis from chorismate
 TP  PATHWAY
 AU  Haft DH
 TH  0
-CC  PABA, or para-aminobenzoic acid biosynthesis, is a precursor for folate
+CC  PABA, or para-aminobenzoic acid biosynthesis, is a precursor of folate
 CC  biosynthesis. It is synthesized from the branch point metabolite
-CC  chorismate and glutamine. Aminodeoxychorismate synthase component
-CC  (6.3.5.8) I is PabA, aminodeoxychorismate synthase component II is
-CC  PabB, and 4-amino-4-deoxychorismate lyase (4.1.3.38) is PabC.
+CC  chorismate and glutamine. Aminodeoxychorismate synthase (EC 2.6.1.85) 
+CC  component I is PabA, aminodeoxychorismate synthase component II is
+CC  PabB, and 4-amino-4-deoxychorismate lyase (EC 4.1.3.38) is PabC.
 **  First property since I started with brain_grab. May not use HMMs for
 **  all three components. HORRIBLY WAY FAR FROM PUBLIC because there may be
 **  lots of little families, all related to some Trp-biosynthesis genes and
@@ -15,13 +15,13 @@ CC  PabB, and 4-amino-4-deoxychorismate lyase (4.1.3.38) is PabC.
 --
 SN  1
 ID  Aminodeoxychorismate synthase, component I
-DN  Aminodeoxychorismate synthase, component I/PabA
+DN  Aminodeoxychorismate synthase, component I/PabA (EC 2.6.1.85)
 RQ  1
 EV  IPR010117; TIGR01823;
 --
 SN  2
 ID  Aminodeoxychorismate synthase, component II
-DN  Aminodeoxychorismate synthase, component II/PabB
+DN  Aminodeoxychorismate synthase, component II/PabB (EC 2.6.1.85)
 RQ  1
 EV  IPR005802; TIGR00553;
 EV  IPR010118; TIGR01824;
@@ -29,7 +29,7 @@ EV  IPR010117; TIGR01823;
 --
 SN  3
 ID  Aminodeoxychorismate lyase
-DN  Aminodeoxychorismate lyase/PabC
+DN  Aminodeoxychorismate lyase/PabC (EC 4.1.3.38)
 RQ  1
 EV  IPR017824; TIGR03461;
 //
