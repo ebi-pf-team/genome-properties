@@ -20,19 +20,19 @@ CC  TIGR01654.
 --
 SN  1
 ID  Bacteriocin export protein, lactococcin 972 group
-DN  Bacteriocin export protein, lactococcin 972 group/B_export
+DN  Bacteriocin export protein, lactococcin 972 group
 RQ  1
 EV  IPR019895; TIGR03608;
 --
 SN  2
 ID  Bacteriocin putative immunity protein, lactococcin 972 group
-DN  Bacteriocin putative immunity protein, lactococcin 972 group/B_immun
+DN  Bacteriocin putative immunity protein, lactococcin 972 group
 RQ  1
 EV  IPR006541; TIGR01654;
 --
 SN  3
 ID  Bacteriocin, lactococcin 972 group
-DN  Bacteriocin, lactococcin 972 group/B_ocin
+DN  Bacteriocin, lactococcin 972 group
 RQ  1
 EV  IPR006540; TIGR01653;
 //
