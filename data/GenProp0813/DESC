@@ -51,7 +51,7 @@ SN  5
 ID  Nitroreductase family protein RutE
 DN  Nitroreductase family protein RutE/RutE
 RQ  0
-EV  IPRXXXX; PF00881;
+EV  IPR029479; PF00881;
 --
 SN  6
 ID  Flavin reductase RutF
