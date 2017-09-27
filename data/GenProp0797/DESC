@@ -26,14 +26,14 @@ CC  pathway is replaced by SelA (TIGR00474).
 --
 SN  1
 ID  L-seryl-tRNA(Sec) kinase
-DN  L-seryl-tRNA(Sec) kinase (EC 2.7.1.-)/pstK
+DN  L-seryl-tRNA(Sec) kinase (EC 2.7.1.-)
 RQ  1
 EV  IPR020024; TIGR03574;
 TG  GO:0016260;
 --
 SN  2
 ID  O-phosphoseryl-tRNA(Sec) selenium transferase
-DN  O-phosphoseryl-tRNA(Sec) selenium transferase (EC 2.9.1.-)/spcS
+DN  O-phosphoseryl-tRNA(Sec) selenium transferase (EC 2.9.1.-)
 RQ  1
 EV  IPR019872; TIGR03531;
 TG  GO:0016260;
