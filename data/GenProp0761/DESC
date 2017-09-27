@@ -12,8 +12,8 @@ RA  Kannenberg EL;
 RL  Biochim Biophys Acta. 1998;1393:108-118.
 CC  Hopanoids are pentacyclic steroid-like compounds derived from squalene
 CC  (a diterpene) by cyclization and various elaborations of the side
-CC  chain.  Methylations of the polycyclic body of the molecule have also
-CC  been reported.  The essential enzymes are squalene synthase which
+CC  chain. Methylations of the polycyclic body of the molecule have also
+CC  been reported. The essential enzymes are squalene synthase which
 CC  condenses two molecules of farnesyl-pyrophosphate and squalene-hopene
 CC  cyclase.
 --
@@ -26,14 +26,14 @@ TG  GO:0019746;
 --
 SN  2
 ID  Glycosyl transferase, family 2, HpnB
-DN  Glycosyl transferase, family 2, HpnB/HpnB
+DN  Glycosyl transferase, family 2, HpnB
 RQ  0
 EV  IPR017832; TIGR03469;
 TG  GO:0019746;
 --
 SN  3
 ID  Squalene synthase, HpnC and/or HpnD subunits
-DN  Squalene synthase, HpnC and/or HpnD subunits/HpnCD
+DN  Squalene synthase, HpnC and/or HpnD subunits
 RQ  1
 EV  IPR017827; TIGR03464;
 TG  GO:0019746;
@@ -42,63 +42,63 @@ TG  GO:0019746;
 --
 SN  4
 ID  FAD-dependent desaturase, HpnE
-DN  FAD-dependent desaturase, HpnE/HpnE
+DN  FAD-dependent desaturase, HpnE
 RQ  0
 EV  IPR017830; TIGR03467;
 TG  GO:0019746;
 --
 SN  5
 ID  Phosphorylase, HpnG
-DN  Phosphorylase, HpnG/HpnG
+DN  Phosphorylase, HpnG
 RQ  0
 EV  IPR017831; TIGR03468;
 TG  GO:0019746;
 --
 SN  6
 ID  Radical SAM enzyme, HpnH
-DN  Radical SAM enzyme, HpnH/HpnH
+DN  Radical SAM enzyme, HpnH
 RQ  1
 EV  IPR017833; TIGR03470;
 TG  GO:0019746;
 --
 SN  7
 ID  Glycosyl transferase, family 2, HpnI
-DN  Glycosyl transferase, family 2, HpnI/HpnI
+DN  Glycosyl transferase, family 2, HpnI
 RQ  0
 EV  IPR017835; TIGR03472;
 TG  GO:0019746;
 --
 SN  8
 ID  Radical SAM enzyme, HpnJ
-DN  Radical SAM enzyme, HpnJ/HpnJ
+DN  Radical SAM enzyme, HpnJ
 RQ  0
 EV  IPR017834; TIGR03471;
 TG  GO:0019746;
 --
 SN  9
 ID  YdjC-like enzyme, HpnK
-DN  YdjC-like enzyme, HpnK/HpnK
+DN  YdjC-like enzyme, HpnK
 RQ  0
 EV  IPR017836; TIGR03473;
 TG  GO:0019746;
 --
 SN  10
 ID  Putative membrane protein, TIGR00374 superfamily, HpnL
-DN  Putative membrane protein, TIGR00374 superfamily, HpnL/HpnL
+DN  Putative membrane protein, TIGR00374 superfamily, HpnL
 RQ  0
 EV  IPRXXXX; TIGR03476;
 TG  GO:0019746;
 --
 SN  11
 ID  Toluene tolerance protein homolog, HpnM
-DN  Toluene tolerance protein homolog, HpnM/HpnM
+DN  Toluene tolerance protein homolog, HpnM
 RQ  0
 EV  IPR017842; TIGR03481;
 TG  GO:0019746;
 --
 SN  12
 ID  RND efflux transporter homolog, HpnN
-DN  RND efflux transporter homolog, HpnN/HpnN
+DN  RND efflux transporter homolog, HpnN
 RQ  0
 EV  IPR017841; TIGR03480;
 --
