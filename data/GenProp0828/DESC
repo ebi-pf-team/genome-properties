@@ -104,6 +104,4 @@ DN  Single-NEAT, srt-signal component
 RQ  1
 EV  IPR019909; TIGR03656;
 TG  GO:0015886;
-EV  IPRXXXX; 2352;
-TG  GO:0015886;
 //
