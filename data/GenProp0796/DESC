@@ -34,27 +34,27 @@ RL  J Biol Chem. 2006;281:18489-18498.
 CC  Pseudaminic acid is a component of the O-antigen of certain pseudomonas
 CC  strains [1] as well as the glycosylation modification of Campylobacter
 CC  and Helicobacter flagellins [2], but is clearly more widely
-CC  distributed.  The proposed biosynthetic pathway involves the
+CC  distributed. The proposed biosynthetic pathway involves the
 CC  dehydration/isomerization of UDP-D-GlcNAc to UDP-4-keto-6-deoxy-GlcNAc
-CC  by PseB, a transamination at position 4 by PseC.  The PseH protein is
+CC  by PseB, and a transamination at position 4 by PseC. The PseH protein is
 CC  similar to acetyltransferases and is presumed to carry out transfer to
-CC  the C-4 amine.  PseH itself is occasionally missing.  Often in this
-CC  case, the PseG protein contains an passable acetyltransferase domain.
+CC  the C-4 amine. PseH itself is occasionally missing. Often in this
+CC  case, the PseG protein contains a passable acetyltransferase domain.
 CC  The function of PseG when PseH is present is unknown, it may complex
-CC  with PseH, or ot may be responsible for the UDP-hydrolysis that clearly
-CC  must happen but is not currently assigned to an enzyme with a conserved
-CC  domain for this reaction.  PseI carries out the condensation with
+CC  with PseH, or it may be responsible for the UDP-hydrolysis that clearly
+CC  must happen, but is not currently assigned to an enzyme with a conserved
+CC  domain for this reaction. PseI carries out the condensation with
 CC  phosphoenolpyruvate to create pseudaminic acid, a reaction analagous to
-CC  the carried out by NeuB in the biosynthesis of neuraminic acid
-CC  (GenProp0792).  PseF carries out the transfer of CMP onto pseudaminic
-CC  acid to yield the most common product.  In Campylobacter, the
+CC  that carried out by NeuB in the biosynthesis of neuraminic acid.
+CC  PseF carries out the transfer of CMP onto pseudaminic
+CC  acid to yield the most common product. In Campylobacter, the
 CC  biosynthetic cluster is accompanied by the PseA protein, a homolog of
 CC  WbuX and is responsible for the conversion of the N-acetyl group at
-CC  position 7 into the acetimidino group.  PseA is accompanied by two
+CC  position 7 into the acetimidino group. PseA is accompanied by two
 CC  genes, WbuY and WbuZ which are reported to provide ammonia for the
-CC  reaction (GenProp0794).  Other proteins are found associated with this
-CC  cluster including methylases and possible formyltransferases and
-CC  deacetylases.  Thus, a range of closely related structures are likely
+CC  reaction. Other proteins are found associated with this cluster 
+CC  including methylases and possible formyltransferases and
+CC  deacetylases. Thus, a range of closely related structures are likely
 CC  produced as mature products in various lineages.  
 --
 SN  1
@@ -80,7 +80,7 @@ ID  Pseudaminic acid CMP-transferase
 DN  Pseudaminic acid CMP-transferase (EC:2.7.7.-)/PseF
 RQ  1
 EV  IPR020039; TIGR03584;
-EV  IPRXXXX; PF02348;
+EV  IPR003329; PF02348;
 --
 SN  5
 ID  Possible pseudaminic acid biosynthesis UDP hydrolase
