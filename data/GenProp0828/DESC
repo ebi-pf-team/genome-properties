@@ -72,7 +72,7 @@ SN  3
 ID  Heme ABC transporter, permease protein IsdF
 DN  Heme ABC transporter, permease protein IsdF
 RQ  1
-EV  IPRXXXX; PF01032;
+EV  IPR000522; PF01032;
 TG  GO:0015886;
 --
 SN  4
@@ -86,7 +86,7 @@ SN  5
 ID  Heme ABC transporter, ATP-binding protein
 DN  Heme ABC transporter, ATP-binding protein
 RQ  0
-EV  IPRXXXX; PF00005;
+EV  IPR003439; PF00005;
 TG  GO:0015886;
 --
 SN  6
