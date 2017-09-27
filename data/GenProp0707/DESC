@@ -24,7 +24,7 @@ SN  3
 ID  Haemagglutinin HA17
 DN  Haemagglutinin HA17/HA-17
 RQ  1
-EV  IPRXXXX; PF05588; sufficient;
+EV  IPR033982; PF05588; sufficient;
 --
 SN  4
 ID  Haemagglutinin HA33
