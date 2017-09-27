@@ -9,14 +9,12 @@ CC  (SAH). SAH can be cleaved in one step to adenosine and homocysteine by
 CC  adenosylhomocysteinase (EC 3.3.1.1). The homocysteine can then be used
 CC  to regenerate methionine. Alternatively, it can be cleaved in two
 CC  steps. First adenine is removed by adenosylhomocysteine nucleosidase
-CC  (EC 3.2.2.9, a fascinating enzyme that, with a different bound
-CC  cofactor, acts instead in the pathway of methionine salvage from
-CC  methylthioadenosine - see TIGR01704) to leave S-ribosylhomocysteine.
-CC  Next, S-ribosylhomocysteinase acts to produce homocysteine and
-CC  4,5-dihydroxypentan-2,3-dione, which cyclizes spontaneously and  binds
+CC  (EC 3.2.2.9) to leave S-ribosylhomocysteine. Next, 
+CC  S-ribosylhomocysteinase acts to produce homocysteine and
+CC  4,5-dihydroxypentan-2,3-dione, which cyclizes spontaneously and binds
 CC  borate to become autoinducer-2 (AI-2), a quorum-sensing molecule
 CC  produced and recognized by a wide range of bacteria. This property
-CC  represents the presence at least one of these two mechanisms to
+CC  represents the presence of at least one of these two mechanisms to
 CC  regenerate homocysteine.
 **  The idea is that homocysteine is one step away from methionine, by
 **  2.1.1.14 MetE TIGR01371 or various other chemistries. The use of the
@@ -28,14 +26,14 @@ CC  regenerate homocysteine.
 --
 SN  1
 ID  SAH to homocysteine
-DN  SAH to homocysteine/SAH_clv
+DN  SAH to homocysteine
 RQ  1
 EV  IPR000043; TIGR00936;
 EV  GenProp0757;
 --
 SN  2
 ID  Methionine adenosyltransferase
-DN  Methionine adenosyltransferase/SAM_syn
+DN  Methionine adenosyltransferase
 RQ  1
 EV  IPR002133; TIGR01034;
 EV  IPR027790; PF01941;
