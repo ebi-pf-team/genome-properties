@@ -18,12 +18,11 @@ CC  sugar unit found in certain glycolipids and glycoproteins. Neuraminic
 CC  acid is also commonly known as sialic acid. In particular, Neu5Ac is
 CC  observed in certain versions of the E. coli O-antigen [1]. CMP-Neu5Ac
 CC  is synthesized in three steps: isomerization of UDP-GlcNAc to
-CC  N-Acetyl-D-Mannosamine (ManNAc) catalyzed by NeuC (5.1.3.14), a
-CC  condensation with phosphoenolpyruvate to form NeuNAc catalyzed by NeuB
-CC  (2.5.1.56) and an activation with CTPcatalyzed by NeuA (2.7.7.43). A
-CC  fourth gene product, NeuD is believed to carry out O-acetyltransfers
-CC  onto sialic acid but is often missing and is also found more broadly
-CC  than NeuABC
+CC  N-Acetyl-D-Mannosamine (ManNAc) catalyzed by NeuC, a condensation with 
+CC  phosphoenolpyruvate to form NeuNAc catalyzed by NeuB, and an activation 
+CC  with CTPcatalyzed by NeuA. A fourth gene product, NeuD is believed to 
+CC  carry out O-acetyltransfers onto sialic acid but is often missing and 
+CC  is also found more broadly than NeuABC
 --
 SN  1
 ID  CTP:N-acylneuraminate cytidyltransferase (2.7.7.43)
@@ -48,7 +47,7 @@ TG  GO:0006054;
 --
 SN  4
 ID  Sialic acid O-acetyltransferase NeuD
-DN  Sialic acid O-acetyltransferase NeuD/NeuD
+DN  Sialic acid O-acetyltransferase NeuD
 RQ  0
 EV  IPR020019; TIGR03570;
 TG  GO:0006054;
