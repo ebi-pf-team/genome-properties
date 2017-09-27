@@ -177,10 +177,6 @@ RQ  1
 EV  IPR011841; TIGR02105; sufficient;
 TG  GO:0030254;
 --
-SN  20
-ID  In operon: flanked by, co-oriented and tight with evidence
-RQ  0
---
 SN  21
 ID  Proximal regulatory components
 RQ  0
@@ -193,10 +189,6 @@ DN  NolW-like
 RQ  0
 EV  IPR005644; PF03958;
 TG  GO:0030254;
---
-SN  23
-ID  Narrow clade specific components
-RQ  0
 --
 SN  24
 ID  Secreted proteins, effectors
