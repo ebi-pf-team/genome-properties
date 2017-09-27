@@ -31,7 +31,7 @@ CC  and C. jejuni (PseA) have been proposed to function as N-acetyl sugar
 CC  amidotransferases, forming the positively charged acetamidino moitey on
 CC  both O-antigens and glycosylated flagellins [1,2]. These WbuX homologs
 CC  are invariably associated with homologs of the HisH and HisF proteins
-CC  (WbuYZ) which are proposed to act as a glutaminase and ammonium channel
+CC  (WbuYZ) which are proposed to act as a glutaminase and ammonium channel,
 CC  to provide sufficient ammonium ion under limiting conditions [3]. 
 CC  Occasionally the WbuX protein is found in multiple (tandem) copies
 CC  which may indicate multiple substrates or multiple N-acetyl groups
@@ -39,20 +39,19 @@ CC  being modified on the same substrate.
 --
 SN  1
 ID  N-acetyl sugar amidotransferase
-DN  N-acetyl sugar amidotransferase (EC 6.3.4.-)/WbuX
+DN  N-acetyl sugar amidotransferase/WbuX (EC 6.3.4.-)
 RQ  1
 EV  IPR020022; TIGR03573;
 --
 SN  2
 ID  HisH-like glutaminase WbuY
-DN  HisH-like glutaminase WbuY (EC 2.4.2.-)/WbuY
+DN  HisH-like glutaminase WbuY (EC 2.4.2.-)
 RQ  1
 EV  IPR010139; TIGR01855;
 --
 SN  3
 ID  HisF-like proposed ammonium channel protein WbuZ
-DN  HisF-like proposed ammonium channel protein WbuZ/WbuZ
+DN  HisF-like proposed ammonium channel protein WbuZ
 RQ  1
 EV  IPR020021; TIGR03572;
-EV  IPRXXXX; 2918;
 //
