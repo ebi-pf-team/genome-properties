@@ -112,9 +112,4 @@ ID  Source of UDP-N-acetyl-D-glucosamine
 DN  Source of UDP-N-acetyl-D-glucosamine/UGlcNAc
 RQ  0
 EV  GenProp0750;
---
-SN  10
-ID  Proteins possibly involved in pathway variants
-DN  Proteins possibly involved in pathway variants/variants
-RQ  0
 //
