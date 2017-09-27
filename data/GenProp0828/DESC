@@ -98,11 +98,6 @@ TG  GO:0015886;
 EV  IPR019929; TIGR03657;
 TG  GO:0015886;
 --
-SN  7
-ID  Single-NEAT domain (secreted?) component
-DN  Single-NEAT domain (secreted?) component/sN
-RQ  0
---
 SN  8
 ID  Single-NEAT, srt-signal component
 DN  Single-NEAT, srt-signal component/sNss
