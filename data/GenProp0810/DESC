@@ -11,7 +11,7 @@ RT  therapeutical cargoes.
 RA  Corchero JL, Cedano J;
 RL  Microb Cell Fact. 2011;10:92.
 CC  The protein previously called linocin M18 is now recognized as
-CC  encapsulin, a self-assembling protein forming that associates with an
+CC  encapsulin, a self-assembling protein that associates with an
 CC  enzyme (typically a peroxidase) and forms a proteinaceous organelle.
 CC  Two quite different families, one a peroxidase, the other resembling
 CC  ferritins, can be packaged by encapsulin and have a similar C-terminal
@@ -35,8 +35,7 @@ SN  2
 ID  Encapsulin-associated protein
 DN  Encapsulin-associated protein
 RQ  0
-EV  IPRXXXX; TIGR01413;
-EV  IPRXXXX; TIGR04535;
+EV  IPR006314; TIGR01413;
+EV  IPR030907; TIGR04535;
 EV  IPR030909; TIGR04536;
-EV  IPRXXXX; TIGR04537;
 //
