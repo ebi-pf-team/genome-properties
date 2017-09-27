@@ -27,13 +27,13 @@ RT  Staphylococcus aureus.
 RA  Skaar EP, Gaspar AH, Schneewind O;
 RL  J Biol Chem. 2004;279:436-443.
 CC  This system is found in certain lineages of the Bacillus/Clostridium
-CC  group, including a number of pathogenic species.  In order to obtain
-CC  iron, this system utilizes a number of NEAT domain (PF05031) containing
-CC  proteins to scavenge heme from host hemoproteins and convey them across
-CC  the cell wall to an ABC transporter in the cytoplasmic membrane.  Cell
+CC  group, including a number of pathogenic species. In order to obtain
+CC  iron, this system utilizes a number of NEAT domain containing proteins 
+CC  to scavenge heme from host hemoproteins and convey them across the 
+CC  cell wall to an ABC transporter in the cytoplasmic membrane. Cell
 CC  wall localization of these components is generally mediated by
 CC  sortases, SrtB being particularly critical to this system in many
-CC  organisms.  Heme is often oxidized to biliverdin by heme oxygenases in
+CC  organisms. Heme is often oxidized to biliverdin by heme oxygenases in
 CC  the cytoplasm, releasing iron.  Genes of this system are generally
 CC  given "isd" gene symbols where isd stands for Iron-regulated Surface
 CC  Determinant proteins. 
@@ -54,7 +54,7 @@ CC  Determinant proteins.
 --
 SN  1
 ID  Heme oxygenase
-DN  Heme oxygenase/HO
+DN  Heme oxygenase
 RQ  1
 EV  IPR007138; PF03992;
 TG  GO:0015886;
@@ -63,35 +63,35 @@ TG  GO:0015886;
 --
 SN  2
 ID  Heme ABC transporter, heme-binding protein IsdE
-DN  Heme ABC transporter, heme-binding protein IsdE/IsdE
+DN  Heme ABC transporter, heme-binding protein IsdE
 RQ  1
 EV  IPR019957; TIGR03659;
 TG  GO:0015886;
 --
 SN  3
 ID  Heme ABC transporter, permease protein IsdF
-DN  Heme ABC transporter, permease protein IsdF/IsdF
+DN  Heme ABC transporter, permease protein IsdF
 RQ  1
 EV  IPRXXXX; PF01032;
 TG  GO:0015886;
 --
 SN  4
 ID  NEAT-domain proteins
-DN  NEAT-domain proteins/NEAT
+DN  NEAT-domain proteins
 RQ  1
 EV  IPR006635; PF05031;
 TG  GO:0015886;
 --
 SN  5
 ID  Heme ABC transporter, ATP-binding protein
-DN  Heme ABC transporter, ATP-binding protein/isdD
+DN  Heme ABC transporter, ATP-binding protein
 RQ  0
 EV  IPRXXXX; PF00005;
 TG  GO:0015886;
 --
 SN  6
 ID  Multi-NEAT, srt-signal component
-DN  Multi-NEAT, srt-signal component/mNss
+DN  Multi-NEAT, srt-signal component
 RQ  0
 EV  IPR019930; TIGR03658;
 TG  GO:0015886;
@@ -100,7 +100,7 @@ TG  GO:0015886;
 --
 SN  8
 ID  Single-NEAT, srt-signal component
-DN  Single-NEAT, srt-signal component/sNss
+DN  Single-NEAT, srt-signal component
 RQ  1
 EV  IPR019909; TIGR03656;
 TG  GO:0015886;
