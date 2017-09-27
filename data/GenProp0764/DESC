@@ -16,25 +16,25 @@ CC  a chlorate reductase, and a nitrate reductase.
 --
 SN  1
 ID  DMSO reductase family type II enzyme, molybdopterin subunit
-DN  DMSO reductase family type II enzyme, molybdopterin subunit/II_alph
+DN  DMSO reductase family type II enzyme, molybdopterin subunit
 RQ  1
 EV  IPR017840; TIGR03479;
 --
 SN  2
 ID  DMSO reductase family type II enzyme, iron-sulfur subunit
-DN  DMSO reductase family type II enzyme, iron-sulfur subunit/II_beta
+DN  DMSO reductase family type II enzyme, iron-sulfur subunit
 RQ  1
 EV  IPR017839; TIGR03478;
 --
 SN  3
 ID  DMSO reductase family type II enzyme chaperone
-DN  DMSO reductase family type II enzyme chaperone/II_chap
+DN  DMSO reductase family type II enzyme chaperone
 RQ  0
 EV  IPR017843; TIGR03482;
 --
 SN  4
 ID  DMSO reductase family type II enzyme, heme b subunit
-DN  DMSO reductase family type II enzyme, heme b subunit/II_gam
+DN  DMSO reductase family type II enzyme, heme b subunit
 RQ  1
 EV  IPR017838; TIGR03477;
 //
