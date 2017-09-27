@@ -13,13 +13,13 @@ CC  function is unknown.
 --
 SN  1
 ID  Integral membrane mystery pair protein 1
-DN  Integral membrane mystery pair protein 1/myst_1
+DN  Integral membrane mystery pair protein 1
 RQ  1
 EV  IPR018746; TIGR03662;
 --
 SN  2
 ID  Integral membrane mystery pair protein 2
-DN  Integral membrane mystery pair protein 2/myst_2
+DN  Integral membrane mystery pair protein 2
 RQ  1
 EV  IPR019962; TIGR03663;
 //
