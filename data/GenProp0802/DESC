@@ -15,73 +15,73 @@ CC  the universal bacterial core genome.
 --
 SN  1
 ID  Obg family GTPase CgtA
-DN  Obg family GTPase CgtA/rG_CgtA
+DN  Obg family GTPase CgtA
 RQ  1
 EV  IPR014100; TIGR02729;
 --
 SN  2
 ID  Ribosome biogenesis GTPase Der (EngA)
-DN  Ribosome biogenesis GTPase Der (EngA)/rG_Der
+DN  Ribosome biogenesis GTPase Der (EngA)
 RQ  1
 EV  IPR016484; TIGR03594;
 --
 SN  3
 ID  Ribosome biogenesis GTPase Era
-DN  Ribosome biogenesis GTPase Era/rG_Era
+DN  Ribosome biogenesis GTPase Era
 RQ  0
 EV  IPR005662; TIGR00436;
 --
 SN  4
 ID  Ribosome biogenesis GTPase RsgA
-DN  Ribosome biogenesis GTPase RsgA/rG_RsgA
+DN  Ribosome biogenesis GTPase RsgA
 RQ  0
 EV  IPR004881; TIGR00157;
 --
 SN  5
 ID  Ribosome biogenesis GTPase YlqF
-DN  Ribosome biogenesis GTPase YlqF/rG_YlqF
+DN  Ribosome biogenesis GTPase YlqF
 RQ  0
 EV  IPR019991; TIGR03596;
 --
 SN  6
 ID  Ribosome biogenesis GTPase YqeH
-DN  Ribosome biogenesis GTPase YqeH/rG_YqeH
+DN  Ribosome biogenesis GTPase YqeH
 RQ  0
 EV  IPR019988; TIGR03597;
 --
 SN  7
 ID  Ribosome biogenesis GTPase YsxC
-DN  Ribosome biogenesis GTPase YsxC/rG_YsxC
+DN  Ribosome biogenesis GTPase YsxC
 RQ  0
 EV  IPR019987; TIGR03598;
 --
 SN  8
 ID  RRNA small subunit methyltransferase A
-DN  RRNA small subunit methyltransferase A/rM_RsmA
+DN  RRNA small subunit methyltransferase A
 RQ  1
 EV  IPR011530; TIGR00755;
 --
 SN  9
 ID  16S RNA methyltransferase RsmG
-DN  16S RNA methyltransferase RsmG/rM_RsmG
+DN  16S RNA methyltransferase RsmG
 RQ  0
 EV  IPR003682; TIGR00138;
 --
 SN  10
 ID  16S rRNA methyltransferase RsmH
-DN  16S rRNA methyltransferase RsmH/rM_RsmH
+DN  16S rRNA methyltransferase RsmH
 RQ  0
 EV  IPR002903; TIGR00006;
 --
 SN  11
 ID  Ribosome maturation protein RimM
-DN  Ribosome maturation protein RimM/rR_RimM
+DN  Ribosome maturation protein RimM
 RQ  1
 EV  IPR011961; TIGR02273;
 --
 SN  12
 ID  Ribosome maturation protein RimP
-DN  Ribosome maturation protein RimP/rR_RimP
+DN  Ribosome maturation protein RimP
 RQ  0
 EV  IPR003728; PF02576;
 //
