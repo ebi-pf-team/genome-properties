@@ -29,7 +29,7 @@ SN  1
 ID  CTP:N-acylneuraminate cytidyltransferase (2.7.7.43)
 DN  CTP:N-acylneuraminate cytidyltransferase (EC 2.7.7.43)/NeuA
 RQ  1
-EV  IPRXXXX; PF02348;
+EV  IPR003329; PF02348;
 TG  GO:0006054;
 --
 SN  2
@@ -50,7 +50,7 @@ SN  4
 ID  Sialic acid O-acetyltransferase NeuD
 DN  Sialic acid O-acetyltransferase NeuD/NeuD
 RQ  0
-EV  IPRXXXX; TIGR03570;
+EV  IPR020019; TIGR03570;
 TG  GO:0006054;
 --
 SN  5
