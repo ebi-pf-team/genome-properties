@@ -27,13 +27,13 @@ CC  from their respective core homology regions.
 --
 SN  1
 ID  Encapsulin
-DN  Encapsulin/encap
+DN  Encapsulin
 RQ  1
 EV  IPR007544; PF04454;
 --
 SN  2
 ID  Encapsulin-associated protein
-DN  Encapsulin-associated protein/inside
+DN  Encapsulin-associated protein
 RQ  0
 EV  IPRXXXX; TIGR01413;
 EV  IPRXXXX; TIGR04535;
