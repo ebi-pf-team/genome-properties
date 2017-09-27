@@ -3,14 +3,14 @@ DE  DMSO reductase family type II enzyme
 TP  SYSTEM
 AU  Haft DH
 TH  0
-CC  Several related molybdopterin-containing enzymes for a distinct class
-CC  within the broader set of DMSO reductase family enzymes. The most
-CC  distinct feature is the heme b-containing gamma subunit. However, both
-CC  the molybdopterin-containing alpha subunit and the iron-sulfur
-CC  cluster-containing beta subunit are readily separable by phylogenetic
-CC  analysis from multiple sequence alignments. Many of these complexes act
-CC  in anaerobic respiration, including a selenate reductase, a chlorate
-CC  reductase, and a nitrate reductase.
+CC  This genome property refers to several related molybdopterin-containing 
+CC  enzymes for a distinct class within the broader set of DMSO reductase 
+CC  family enzymes. The most distinct feature is the heme b-containing gamma 
+CC  subunit. However, both the molybdopterin-containing alpha subunit and the 
+CC  iron-sulfur cluster-containing beta subunit are readily separable by 
+CC  phylogenetic analysis from multiple sequence alignments. Many of these 
+CC  complexes act in anaerobic respiration, including a selenate reductase, 
+CC  a chlorate reductase, and a nitrate reductase.
 **  I could require the chaperone by broadening the model and doing
 **  HMM-CLUST.
 --
