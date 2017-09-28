@@ -18,19 +18,15 @@ CC  provide protection against acidic pH.
 --
 SN  1
 ID  Histidine decarboxylase
-DN  Histidine decarboxylase/HdcA
+DN  Histidine decarboxylase
 RQ  1
 EV  IPR003427; TIGR00541;
 TG  GO:0010248;
 --
 SN  2
 ID  Histidine-histamine antiporter
-DN  Histidine-histamine antiporter/HdcC
+DN  Histidine-histamine antiporter
 RQ  1
-EV  IPRXXXX; 2639;
-TG  GO:0010248;
-EV  IPRXXXX; 2642;
-TG  GO:0010248;
 EV  IPR027562; TIGR04298;
 TG  GO:0010248;
 //
