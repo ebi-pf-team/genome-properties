@@ -4,13 +4,13 @@ TP  SYSTEM
 AU  Haft DH
 TH  0
 CC  The flagellar rotor complex consists of the FliG, FliM and FliN
-CC  proteins.  This complex is also known as the flagellar motor switch,
+CC  proteins. This complex is also known as the flagellar motor switch,
 CC  due to its role in determining the clockwise or counter-clockwise
-CC  rotation of the flagellum.  The complex is located at the inner end of
-CC  the basal body.  The FliG protein interacts with the stator complex
-CC  protein MotA.  The FliM protein interacts with phosphorylated CheY from
+CC  rotation of the flagellum. The complex is located at the inner end of
+CC  the basal body. The FliG protein interacts with the stator complex
+CC  protein MotA. The FliM protein interacts with phosphorylated CheY from
 CC  the chemotaxis response regulation system allowing the transduction of
-CC  the directional switching signal.  The subunits of this structure are
+CC  the directional switching signal. The subunits of this structure are
 CC  predicted to be in a 26:34:100 (FliG:FliM:FliN) ratio per motor
 CC  complex.
 --
