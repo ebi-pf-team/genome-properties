@@ -6,19 +6,19 @@ TH  0
 CC  Bacteriorhodopsin is a light-driven proton pump with a covelently bound
 CC  cofactor, retinal, derived from beta-carotene. Phototrophic bacteria
 CC  may have several bacterio-opsin homologs. The protein Blh has been
-CC  shown to be a monooxygenase, EC 1.13.11.63, that creates two retinal
-CC  molecules from oxygen and one beta-carotene. This property describes
-CC  light energy-capturing systems with these components.
+CC  shown to be a monooxygenase, that creates two retinal molecules from 
+CC  oxygen and one beta-carotene. This property describes light 
+CC  energy-capturing systems with these components.
 --
 SN  1
 ID  Beta-carotene monooxygenase
-DN  Beta-carotene monooxygenase/monoox
+DN  Beta-carotene monooxygenase (EC 1.13.11.63)
 RQ  1
 EV  IPR022270; TIGR03753;
 --
 SN  2
 ID  Bacteriorhodopsin
-DN  Bacteriorhodopsin/opsin
+DN  Bacteriorhodopsin
 RQ  1
 EV  IPR001425; PF01036;
 //
