@@ -4,6 +4,14 @@ TP  PATHWAY
 AU  Haft DH
 TH  0
 RN  [1]
+RM  10629195
+RT  Lysine 2,3-aminomutase from Clostridium subterminale SB4: mass
+RT  spectral characterization of cyanogen bromide-treated peptides and
+RT  cloning, sequencing, and expression of the gene kamA in Escherichia
+RT  coli.
+RA  Ruzicka FJ, Lieder KW, Frey PA;
+RL  J Bacteriol. 2000;182:469-476.
+RN  [2]
 RM  14532061
 RT  Lysine-2,3-aminomutase and beta-lysine acetyltransferase genes of
 RT  methanogenic archaea are salt induced and are essential for the
@@ -14,7 +22,7 @@ RL  Appl Environ Microbiol. 2003;69:6047-6055.
 CC  N(epsilon)-acetyl-beta-lysine is a compatible solute produced in
 CC  methanogenic archaea under salt stress. Note that the first enzyme in
 CC  this two-step pathway can instead serve as the first step in lysine
-CC  catabolism, as in Clostridium subterminale SB4 (see PMID:10629195).
+CC  catabolism, as in Clostridium subterminale SB4 [1].
 **  Includes Methanosarcina mazei, Methanosarcina acetivorans,
 **  Methanosarcina barkeri and Methanococcus maripaludis. I wrote a letter
 **  9/14/2009 to Prof. Dr. Erhard Bremer, who works on compatible solutes
