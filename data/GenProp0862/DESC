@@ -19,11 +19,6 @@ RQ  1
 EV  IPR005255; TIGR00557;
 TG  GO:0042823;
 --
-SN  2
-ID  Erythronate-4-phosphate dehydrogenase
-DN  Erythronate-4-phosphate dehydrogenase/pdxB
-RQ  0
---
 SN  3
 ID  Pyridoxal phosphate synthase
 DN  Pyridoxal phosphate synthase/pdxJ
