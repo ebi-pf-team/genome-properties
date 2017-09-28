@@ -11,49 +11,49 @@ CC  excludes the rotor (switch), stator and export apparatus.
 --
 SN  1
 ID  Flagellar basal body rod protein FlgB
-DN  Flagellar basal-body rod protein FlgB/flgB
+DN  Flagellar basal-body rod protein FlgB
 RQ  1
 EV  IPR006300; TIGR01396; sufficient;
 --
 SN  2
 ID  Flagellar basal body rod protein FlgC
-DN  Flagellar basal-body rod protein FlgC/flgC
+DN  Flagellar basal-body rod protein FlgC
 RQ  1
 EV  IPR006299; TIGR01395; sufficient;
 --
 SN  3
 ID  Flagellar basal body rod protein FlgF
-DN  Flagellar basal body rod protein FlgF/flgF
+DN  Flagellar basal body rod protein FlgF
 RQ  1
 EV  IPR012836; TIGR02490; sufficient;
 --
 SN  4
 ID  Flagellar basal body rod protein FlgG
-DN  Flagellar basal-body rod protein FlgG/flgG
+DN  Flagellar basal-body rod protein FlgG
 RQ  1
 EV  IPR012834; TIGR02488; sufficient;
 --
 SN  5
 ID  Flagellar basal body L-ring protein FlgH
-DN  Flagellar L-ring protein FlgH/flgH
+DN  Flagellar L-ring protein FlgH
 RQ  1
 EV  IPR000527; PF02107; sufficient;
 --
 SN  6
 ID  Flagellar basal body P-ring protein FlgI
-DN  Flagellar P-ring protein FlgI/flgI
+DN  Flagellar P-ring protein FlgI
 RQ  1
 EV  IPR001782; PF02119; sufficient;
 --
 SN  7
 ID  Flagellar basal body protein FliE
-DN  Flagellar hook-basal body complex protein FliE/fliE
+DN  Flagellar hook-basal body complex protein FliE
 RQ  1
 EV  IPR001624; TIGR00205; sufficient;
 --
 SN  8
 ID  Flagellar basal-body MS-ring and collar protein FliF
-DN  Flagellar M-ring protein FliF/fliF
+DN  Flagellar M-ring protein FliF
 RQ  1
 EV  IPR000067; TIGR00206; sufficient;
 //
