@@ -4,7 +4,7 @@ TP  SYSTEM
 AU  Haft DH
 TH  0
 CC  This complex can serve as an alternative to the 2-oxoglutarate
-CC  dehydrogenase system (GenProp0630) of the TCA cycle
+CC  dehydrogenase system of the TCA cycle.
 --
 SN  1
 ID  Alpha subunit (TPP binding domain)
