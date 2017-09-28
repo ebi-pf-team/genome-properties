@@ -4,13 +4,13 @@ TP  METAPATH
 AU  Haft DH
 TH  0
 CC  This complex can serve as an alternative to the 2-oxoglutarate
-CC  dehydrogenase system (GenProp0630) of the TCA cycle, but may also
-CC  function in other systems, for instance as a NifJ component acting on
+CC  dehydrogenase system of the TCA cycle, but may also function 
+CC  in other systems, for instance as a NifJ component acting on
 CC  pyruvate, supplying electrons to the nitrogenase system.
 --
 SN  1
 ID  2-oxoacid:ferredoxin oxidoreductase
-DN  2-oxoacid:ferredoxin oxidoreductase/1
+DN  2-oxoacid:ferredoxin oxidoreductase
 RQ  1
 EV  IPR011895; TIGR02176;
 EV  GenProp0839;
