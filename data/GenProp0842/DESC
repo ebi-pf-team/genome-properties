@@ -12,9 +12,9 @@ SN  1
 ID  Ferredoxin, or other gene clustered electron acceptor
 DN  Ferredoxin, or other gene clustered electron acceptor/acceptor
 RQ  0
-EV  IPRXXXX; PF00037;
-EV  IPRXXXX; PF00210;
-EV  IPRXXXX; PF02915;
+EV  IPR017896; PF00037;
+EV  IPR008331; PF00210;
+EV  IPR003251; PF02915;
 --
 SN  2
 ID  2-oxoacid:acceptor oxidoreductase, alpha subunit
@@ -27,5 +27,5 @@ ID  2-oxoacid:acceptor oxidoreductase, beta subuni
 DN  2-oxoacid:acceptor oxidoreductase, beta subuni/beta
 RQ  1
 EV  IPR011896; TIGR02177;
-EV  IPRXXXX; PF02775;
+EV  IPR011766; PF02775;
 //
