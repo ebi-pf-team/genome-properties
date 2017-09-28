@@ -25,25 +25,25 @@ CC  protein, is found in a larger fraction of nitrile hydratase operons.
 --
 SN  1
 ID  Nitrile hydratase activator, CobW family
-DN  Nitrile hydratase activator, CobW family/nitCXCC
+DN  Nitrile hydratase activator, CobW family
 RQ  0
-EV  IPRXXXX; PF02492;
+EV  IPR003495; PF02492;
 --
 SN  2
 ID  Nitrile hydratase accessory protein
-DN  Nitrile hydratase accessory protein/nit_acc
+DN  Nitrile hydratase accessory protein
 RQ  0
 EV  IPR023808; TIGR03889;
 --
 SN  3
 ID  Nitrile hydratase, alpha subunit
-DN  Nitrile hydratase, alpha subunit/nit_alp
+DN  Nitrile hydratase, alpha subunit
 RQ  1
 EV  IPR018141; TIGR01323;
 --
 SN  4
 ID  Nitrile hydratase, beta subunit
-DN  Nitrile hydratase, beta subunit/nit_bet
+DN  Nitrile hydratase, beta subunit
 RQ  1
 EV  IPR003168; TIGR03888;
 //
