@@ -17,13 +17,13 @@ RA  Davidson VL, Liu A;
 RL  Biochim Biophys Acta. 2012;1824:1299-1305.
 CC  The maturation enzyme MauG completes the modification and cross-linking
 CC  of a pair of Trp residues into the novel cofactor tryptophan
-CC  tryptophylquinone, or TTQ, in the light chain (MauA) of methylamine
+CC  tryptophylquinone (TTQ) in the light chain (MauA) of methylamine
 CC  dehydrogenase. While some analogous enzyme cofactors are produced
 CC  autocatalytically from amino acids in the precursor polypeptide, TTQ is
 CC  produced with aid of the maturation enzyme MauG. MauG is a di-heme
 CC  enzyme with peroxidase activity, similar to di-heme cytochrome c
 CC  peroxidases of other biological systems. Interestingly, the pair of
-CC  modified Trp residues is conserved in MauA homologs in species that
+CC  modified Trp residues are conserved in MauA homologs in species that
 CC  have no MauG homolog in the vicinity, suggesting no modification,
 CC  autocatalytic modification, or a different modification enzyme.
 **  Looks like TIGR02659 homologs all have the Tyr-Trp pair that gets
