@@ -5,7 +5,7 @@ AU  Haft DH
 TH  0
 CC  The bacterial flagellum requires a number of assembly cofactors,
 CC  chaperones and scaffold proteins which are not incorporated into the
-CC  assembled flagellum.
+CC  assembled flagellum. This property describes that assembly apparatus.
 --
 SN  1
 ID  Flagellar basal-body P-ring assembly protein FlgA
