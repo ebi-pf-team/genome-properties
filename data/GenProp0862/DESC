@@ -7,8 +7,9 @@ CC  This genome property represents pyridoxal 5-prime phosphate
 CC  biosynthesis as it occurs in Escherichia coli, from deoxyxylulose
 CC  5-phosphate and 4-phosphohydroxy-L-threonine. The key proteins are PdxA
 CC  and PdxJ. This pathway contrasts with the Pdx1 and Pdx2 pathway, as
-CC  found in Bacillus subtilis. The current version of this Genome Property
-CC  assesses only the two signature enzymes PdxA and PdxJ.
+CC  found in Bacillus subtilis. 
+**  The current version of this Genome Property
+**  assesses only the two signature enzymes PdxA and PdxJ.
 **  PdxA called 4th step by PMID: 12896974  Expect the PdxA/PdxJ pathway in
 **  gamma subdivision.  PdxJ is final step. Homooctameric.
 --
