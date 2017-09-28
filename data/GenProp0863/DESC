@@ -12,17 +12,15 @@ RL  Proc Natl Acad Sci U S A. 2006;103:19284-19289.
 --
 SN  1
 ID  PLP synthase, Pdx1 subunit
-DN  PLP synthase, Pdx1 subunit/pdx1
+DN  PLP synthase, Pdx1 subunit
 RQ  1
 EV  IPR001852; TIGR00343;
 TG  GO:0042823;
 --
 SN  2
 ID  PLP synthase, Pdx2 subunit
-DN  PLP synthase, Pdx2 subunit/pdx2
+DN  PLP synthase, Pdx2 subunit
 RQ  1
-EV  IPRXXXX; 2622;
-TG  GO:0042823;
 EV  IPR002161; TIGR03800;
 TG  GO:0042823;
 //
