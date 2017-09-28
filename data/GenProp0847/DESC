@@ -24,7 +24,7 @@ CC  filaments.
 --
 SN  1
 ID  Exosporium leader peptide
-DN  Exosporium leader peptide/exs_ldr
+DN  Exosporium leader peptide
 RQ  1
 EV  IPR021201; TIGR03720;
 TG  GO:0043592;
