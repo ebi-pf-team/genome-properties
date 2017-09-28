@@ -21,12 +21,12 @@ SN  1
 ID  Flagellar motor stator protein MotA
 DN  Flagellar motor stator protein MotA/MotA
 RQ  1
-EV  IPRXXXX; PF01618;
+EV  IPR002898; PF01618;
 EV  IPR022522; TIGR03818;
 --
 SN  2
 ID  Flagellar motor stator protein MotB
 DN  Flagellar motor stator protein MotB/MotB
 RQ  1
-EV  IPRXXXX; PF00691;
+EV  IPR006665; PF00691;
 //
