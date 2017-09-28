@@ -30,14 +30,14 @@ CC  catabolism, as in Clostridium subterminale SB4 [1].
 --
 SN  1
 ID  Lysine-2,3-aminomutase
-DN  Lysine-2,3-aminomutase/ablA
+DN  Lysine-2,3-aminomutase
 RQ  1
 EV  IPR022459; TIGR03820;
 TG  GO:0042398;
 --
 SN  2
 ID  Beta-lysine acetyltransferase
-DN  Beta-lysine acetyltransferase/ablB
+DN  Beta-lysine acetyltransferase
 RQ  1
 EV  IPR022525; TIGR03827;
 TG  GO:0042398;
