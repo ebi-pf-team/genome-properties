@@ -12,25 +12,25 @@ CC  that do not.
 --
 SN  1
 ID  Lantibiotic protection ABC transporter, MutE family permease subunit
-DN  Lantibiotic protection ABC transporter, MutE family permease subunit/lanMutE
+DN  Lantibiotic protection ABC transporter, MutE family permease subunit
 RQ  1
 EV  IPR021205; TIGR03732;
 --
 SN  2
 ID  Lantibiotic protection ABC transporter, MutG family permease subunit
-DN  Lantibiotic protection ABC transporter, MutG family permease subunit/lanMutG
+DN  Lantibiotic protection ABC transporter, MutG family permease subunit
 RQ  1
 EV  IPR022294; TIGR03733;
 --
 SN  3
 ID  Lantibiotic protection ABC transporter, ATP-binding subunit
-DN  Lantibiotic protection ABC transporter, ATP-binding subunit/lan_ABC
+DN  Lantibiotic protection ABC transporter, ATP-binding subunit
 RQ  1
 EV  IPR022501; TIGR03740;
 --
 SN  4
 ID  Lantibiotic precursor, gallidermin/epidermin family
-DN  Lantibiotic precursor, gallidermin/epidermin family/lan_pre
+DN  Lantibiotic precursor, gallidermin/epidermin family
 RQ  1
 EV  IPR006079; TIGR03731;
 //
