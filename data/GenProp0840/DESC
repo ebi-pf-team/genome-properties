@@ -36,7 +36,7 @@ ID  Exopolyphosphatase
 DN  Exopolyphosphatase/PP_ppx
 RQ  1
 EV  IPR022371; TIGR03706;
-EV  IPRXXXX; PF02541;
+EV  IPR003695; PF02541;
 --
 SN  3
 ID  Polyphosphate kinase 2, PA0141 family
