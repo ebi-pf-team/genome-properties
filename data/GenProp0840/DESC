@@ -11,14 +11,14 @@ RL  Proc Natl Acad Sci U S A. 2004;101:16085-16087.
 CC  This property describes systems for polyphosphate metabolism, featuring
 CC  a polyphosphate kinase (PPK1) and an exopolyphosphatase that often are
 CC  encoded by adjacent genes. Polyphosphate can provide functions of
-CC  phosphate and energy storage and may form granules. Genes from this
+CC  phosphate and energy storage, and may form granules. Genes from this
 CC  system are often found next to genes of the inorganic phosphate
-CC  transport system ( GenProp0190). Performing the comparative genomics
-CC  for this system is tricky in part because of numbers of numerous
-CC  apparent bifunctional proteins, exopolyphosphatase/guanosine
-CC  pentaphosphate phosphohydrolase. Proteins of the polyphosphate kinase 2
-CC  (PPK2) family are largely restricted to species with PPK1 and help
-CC  produce GTP from GDP and polyphosphate.
+CC  transport system. Performing comparative genomics for this system is 
+CC  tricky in part because of numbers of numerous apparent bifunctional 
+CC  proteins, exopolyphosphatase/guanosine pentaphosphate phosphohydrolase. 
+CC  Proteins of the polyphosphate kinase 2 (PPK2) family are largely 
+CC  restricted to species with PPK1 and help produce GTP from GDP and 
+CC  polyphosphate.
 **  PF02541 Ppx/GppA phosphatase family  PF02503 PFAM_equivalog
 **  polyphosphate kinase   But I made a bunch of pairs for TIGRFAMs/GenProp
 **  versions.  Now I am adding PPK2 stuff, which is actually a broad family
