@@ -8,25 +8,25 @@ CC  number of control systems.
 --
 SN  1
 ID  Flagellar biosynthesis anti-sigma factor FlgM
-DN  Flagellar biosynthesis anti-sigma factor FlgM/FlgM
+DN  Flagellar biosynthesis anti-sigma factor FlgM
 RQ  0
 EV  IPR007412; TIGR03824;
 --
 SN  2
 ID  Flagellar operon sigma factor FliA
-DN  Flagellar operon sigma factor FliA/FliA
+DN  Flagellar operon sigma factor FliA
 RQ  1
 EV  IPR012845; TIGR02479; sufficient;
 --
 SN  3
 ID  Flagellar regulatory protein FliZ
-DN  Flagellar regulatory protein FliZ/FliZ
+DN  Flagellar regulatory protein FliZ
 RQ  0
 EV  IPR022523; TIGR03823;
 --
 SN  4
 ID  Chemotaxis response regulator system
-DN  Chemotaxis response regulator system/chemo
+DN  Chemotaxis response regulator system
 RQ  0
 EV  GenProp0762;
 //
