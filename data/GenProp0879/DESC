@@ -10,26 +10,26 @@ CC  of type III secretion complexes.
 --
 SN  1
 ID  Flagellar biosynthesis protein FlhA
-DN  Flagellar biosynthesis protein FlhA/flhA
+DN  Flagellar biosynthesis protein FlhA
 RQ  1
 EV  IPR006301; TIGR01398; sufficient;
 --
 SN  2
 ID  Flagellar biosynthetic protein FlhB
-DN  Flagellar biosynthetic protein FlhB/flhB
+DN  Flagellar biosynthetic protein FlhB
 RQ  1
 EV  IPR006136; TIGR00328; sufficient;
 --
 SN  3
 ID  Flagellar assembly protein FliH
-DN  Flagellar assembly protein FliH/fliH
+DN  Flagellar assembly protein FliH
 RQ  1
 EV  IPR018035; PF02108; sufficient;
 EV  IPR022524; TIGR03825;
 --
 SN  4
 ID  Flagellum-specific ATP synthase FliI
-DN  Flagellum-specific ATP synthase FliI/fliI
+DN  Flagellum-specific ATP synthase FliI
 RQ  1
 EV  IPR020005; TIGR03496;
 EV  IPR022425; TIGR03497;
@@ -37,32 +37,32 @@ EV  IPR022426; TIGR03498;
 --
 SN  5
 ID  Flagellar export protein FliJ
-DN  Flagellar export protein FliJ/fliJ
+DN  Flagellar export protein FliJ
 RQ  1
 EV  IPR012823; TIGR02473; sufficient;
 --
 SN  6
 ID  Flagellar assembly protein FliO
-DN  Flagellar assembly protein FliO/fliO
+DN  Flagellar assembly protein FliO
 RQ  1
 EV  IPR022781; PF04347; sufficient;
 EV  IPR022781; TIGR03500;
 --
 SN  7
 ID  Flagellar biosynthetic protein FliP
-DN  Flagellar biosynthetic protein FliP/fliP
+DN  Flagellar biosynthetic protein FliP
 RQ  1
 EV  IPR005837; TIGR01103; sufficient;
 --
 SN  8
 ID  Flagellar biosynthetic protein FliQ
-DN  Flagellar biosynthetic protein FliQ/fliQ
+DN  Flagellar biosynthetic protein FliQ
 RQ  1
 EV  IPR006305; TIGR01402; sufficient;
 --
 SN  9
 ID  Flagellar biosynthetic protein FliR
-DN  Flagellar biosynthetic protein FliR/fliR
+DN  Flagellar biosynthetic protein FliR
 RQ  1
 EV  IPR006303; TIGR01400; sufficient;
 //
