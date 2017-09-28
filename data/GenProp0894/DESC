@@ -12,19 +12,19 @@ CC  phosphoglycerate mutase), and an uncharacterized protein.
 --
 SN  1
 ID  Probable kinase, MSMEG_4191 family
-DN  Probable kinase, MSMEG_4191 family/Msm4191
+DN  Probable kinase, MSMEG_4191 family
 RQ  1
 EV  IPR022292; TIGR03843;
 --
 SN  2
 ID  MSMEG_4192 family protein
-DN  MSMEG_4192 family protein/Msm4192
+DN  MSMEG_4192 family protein
 RQ  1
 EV  IPR021441; TIGR03847;
 --
 SN  3
 ID  Probable phosphomutase, MSMEG_4193 family
-DN  Probable phosphomutase, MSMEG_4193 family/Msm4193
+DN  Probable phosphomutase, MSMEG_4193 family
 RQ  1
 EV  IPR022492; TIGR03848;
 //
