@@ -14,20 +14,20 @@ CC  This Genome Property represents a proton-motive cycle. A cycle of
 CC  decarboxylating an aspartate to alanine plus CO2, then exchanging the
 CC  cytosolic alanine for an extracellular asparate, has the net effect of
 CC  consuming one proton. Analogous systems for antiport of substrates
-CC  related by decarboxylation include, for example, the pairing of an
-CC  acid-induced arginine decarboxylase with an arginine-agmatine
-CC  antiporter as in Escherichia coli.
+CC  related by decarboxylation include the pairing of an acid-induced 
+CC  arginine decarboxylase with an arginine-agmatine antiporter as in 
+CC  Escherichia coli.
 --
 SN  1
 ID  Aspartate 4-decarboxylase
-DN  Aspartate 4-decarboxylase/AspD
+DN  Aspartate 4-decarboxylase
 RQ  1
 EV  IPR022518; TIGR03801;
 TG  GO:0010248;
 --
 SN  2
 ID  Aspartate-alanine antiporter
-DN  Aspartate-alanine antiporter/AspT
+DN  Aspartate-alanine antiporter
 RQ  1
 EV  IPR022457; TIGR03802;
 TG  GO:0010248;
