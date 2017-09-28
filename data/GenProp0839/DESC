@@ -8,22 +8,22 @@ CC  dehydrogenase system (GenProp0630) of the TCA cycle
 --
 SN  1
 ID  Alpha subunit (TPP binding domain)
-DN  Alpha subunit (TPP binding domain)/alpha
+DN  Alpha subunit (TPP binding domain)
 RQ  1
 EV  IPR002880; PF01855;
 --
 SN  2
 ID  Beta subunit (TPP enzyme)
-DN  Beta subunit (TPP enzyme)/beta
+DN  Beta subunit (TPP enzyme)
 RQ  1
-EV  IPRXXXX; PF02775;
+EV  IPR011766; PF02775;
 EV  IPR011896; TIGR02177;
 --
 SN  3
 ID  Ferredoxin (4Fe-4S binding domain)
 DN  Ferredoxin (4Fe-4S binding domain)/f-doxin
 RQ  0
-EV  IPRXXXX; PF00037;
+EV  IPR017896; PF00037;
 --
 SN  4
 ID  Gamma subunit
