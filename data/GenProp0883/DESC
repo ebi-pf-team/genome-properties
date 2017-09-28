@@ -16,19 +16,19 @@ CC  complex.
 --
 SN  1
 ID  Flagellar motor switch (rotor) protein FliG
-DN  Flagellar motor switch protein FliG/fliG
+DN  Flagellar motor switch protein FliG
 RQ  1
 EV  IPR000090; TIGR00207; sufficient;
 --
 SN  2
 ID  Flagellar motor switch (rotor) protein FliM
-DN  Flagellar motor switch protein FliM/fliM
+DN  Flagellar motor switch protein FliM
 RQ  1
 EV  IPR001689; TIGR01397; sufficient;
 --
 SN  3
 ID  Flagellar motor switch (rotor) protein FliN
-DN  Flagellar motor switch (rotor) protein FliN/fliN
+DN  Flagellar motor switch (rotor) protein FliN
 RQ  0
 EV  IPR012826; TIGR02480; sufficient;
 //
