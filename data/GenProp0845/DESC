@@ -14,13 +14,13 @@ CC  modifications are complete.
 --
 SN  1
 ID  KxYKxGKxW motif signal peptide
-DN  KxYKxGKxW motif signal peptide/KxW_sig
+DN  KxYKxGKxW motif signal peptide
 RQ  1
 EV  IPR022263; TIGR03715;
 --
 SN  2
 ID  Putative linked putative esterase TIGR03729
-DN  Putative linked putative esterase TIGR03729/hypot_1
+DN  Putative linked putative esterase TIGR03729
 RQ  0
 EV  IPR022302; TIGR03729;
 //
