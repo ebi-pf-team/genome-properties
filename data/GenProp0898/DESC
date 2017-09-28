@@ -10,13 +10,13 @@ CC  chromosome and then not in the form of an operon.
 --
 SN  1
 ID  RNA ligase, Pab1020 family
-DN  RNA ligase, Pab1020 family/ligase
+DN  RNA ligase, Pab1020 family
 RQ  1
 EV  IPR001072; TIGR01209;
 --
 SN  2
 ID  RNA ligase partner, MJ_0950 family
-DN  RNA ligase partner, MJ_0950 family/withLig
+DN  RNA ligase partner, MJ_0950 family
 RQ  1
 EV  IPR014856; TIGR03875;
 //
