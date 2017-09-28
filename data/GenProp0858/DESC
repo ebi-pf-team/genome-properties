@@ -23,31 +23,31 @@ CC  VPI-5482, may contain several such elements.
 --
 SN  1
 ID  Bacteroides conjugative transposon TraG protein
-DN  Bacteroides conjugative transposon TraG protein/CnjTr_G
+DN  Bacteroides conjugative transposon TraG protein
 RQ  1
 EV  IPR022509; TIGR03783;
 --
 SN  2
 ID  Bacteroides conjugative transposon TraJ protein
-DN  Bacteroides conjugative transposon TraJ protein/CnjTr_J
+DN  Bacteroides conjugative transposon TraJ protein
 RQ  1
 EV  IPR022393; TIGR03782;
 --
 SN  3
 ID  Bacteroides conjugative transposon TraK protein
-DN  Bacteroides conjugative transposon TraK protein/CnjTr_K
+DN  Bacteroides conjugative transposon TraK protein
 RQ  1
 EV  IPR022276; TIGR03781;
 --
 SN  4
 ID  Bacteroides conjugative transposon TraM protein
-DN  Bacteroides conjugative transposon TraM protein/CnjTr_M
+DN  Bacteroides conjugative transposon TraM protein
 RQ  1
 EV  IPR022187; TIGR03779;
 --
 SN  5
 ID  Bacteroides conjugative transposon TraN protein
-DN  Bacteroides conjugative transposon TraN protein/CnjTr_N
+DN  Bacteroides conjugative transposon TraN protein
 RQ  1
 EV  IPR022298; TIGR03780;
 //
