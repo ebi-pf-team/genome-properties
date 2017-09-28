@@ -22,8 +22,8 @@ RT  2-oxoacid metabolism in methanogenic CoM and CoB biosynthesis.
 RA  Graham DE;
 RL  Methods Enzymol. 2011;494:301-326.
 CC  Coenzyme M (2-mercaptoethanesulfonic acid) acts in methanogenesis in
-CC  methanogenic archaea. It is also used as a carrier in a bacterium,
-CC  Xanthobacter autotrophicus Py2, in aerobic propylene metabolism.
+CC  methanogenic archaea. It is also used as a carrier in a bacterium
+CC  (Xanthobacter autotrophicus Py2) in aerobic propylene metabolism.
 CC  Pathways differ from Methanococcus jannaschi to Methanosarcina
 CC  acetivorans, and again to Xanthobacter autotrophicus Py2. This Genome
 CC  Property represents the parent property.
