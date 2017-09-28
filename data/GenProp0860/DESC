@@ -38,25 +38,25 @@ CC  autocatalytic modification, or a different modification enzyme.
 --
 SN  1
 ID  Methylamine dehydrogenase, light chain
-DN  Methylamine dehydrogenase, light chain/MauA
+DN  Methylamine dehydrogenase, light chain
 RQ  1
 EV  IPR004229; TIGR02659;
 --
 SN  2
 ID  Methylamine dehydrogenase heavy chain
-DN  Methylamine dehydrogenase heavy chain/MauB
+DN  Methylamine dehydrogenase heavy chain
 RQ  1
 EV  IPR013476; TIGR02658;
 --
 SN  3
 ID  Methylamine dehydrogenase accessory protein MauD
-DN  Methylamine dehydrogenase accessory protein MauD/MauD
+DN  Methylamine dehydrogenase accessory protein MauD
 RQ  1
 EV  IPR013478; TIGR02661;
 --
 SN  4
 ID  TTQ maturation di-heme protein MauG
-DN  TTQ maturation di-heme protein MauG/MauG
+DN  TTQ maturation di-heme protein MauG
 RQ  1
 EV  IPR022394; TIGR03791;
 //
