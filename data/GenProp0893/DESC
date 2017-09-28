@@ -14,7 +14,7 @@ CC  L-cysteate to sulfopyruvate.
 --
 SN  1
 ID  Cysteate synthase
-DN  Cysteate synthase/M_cyst
+DN  Cysteate synthase
 RQ  1
 EV  IPR022401; TIGR03844;
 //
