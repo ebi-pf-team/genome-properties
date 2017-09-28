@@ -21,13 +21,13 @@ EV  IPR011896; TIGR02177;
 --
 SN  3
 ID  Ferredoxin (4Fe-4S binding domain)
-DN  Ferredoxin (4Fe-4S binding domain)/f-doxin
+DN  Ferredoxin (4Fe-4S binding domain)
 RQ  0
 EV  IPR017896; PF00037;
 --
 SN  4
 ID  Gamma subunit
-DN  Gamma subunit/gamma
+DN  Gamma subunit
 RQ  1
 EV  IPR019752; PF01558;
 //
