@@ -22,40 +22,40 @@ CC  protein involved in [Fe] hydrogenase maturation.
 --
 SN  1
 ID  Iron hydrogenase, large subunit
-DN  Iron hydrogenase, large subunit/Fe_larg
+DN  Iron hydrogenase, large subunit
 RQ  1
 EV  IPR013352; TIGR02512;
 --
 SN  2
 ID  Iron hydrogenase, small subunit
-DN  Iron hydrogenase, small subunit/Fe_smal
+DN  Iron hydrogenase, small subunit
 RQ  1
 EV  IPR003149; PF02256;
 --
 SN  3
 ID  Hydrogenase accessory rSAM protein HydE
-DN  Hydrogenase accessory rSAM protein HydE/hydE
+DN  Hydrogenase accessory rSAM protein HydE
 RQ  1
 EV  IPR024021; TIGR03956;
 TG  GO:0051188;
 --
 SN  4
 ID  Hydrogenase accessory GTP-binding protein HydF
-DN  Hydrogenase accessory GTP-binding protein HydF/hydF
+DN  Hydrogenase accessory GTP-binding protein HydF
 RQ  1
 EV  IPR023873; TIGR03918;
 TG  GO:0051188;
 --
 SN  5
 ID  Hydrogenase accessory rSAM protein HydG
-DN  Hydrogenase accessory rSAM protein HydG/hydG
+DN  Hydrogenase accessory rSAM protein HydG
 RQ  1
 EV  IPR024007; TIGR03955;
 TG  GO:0051188;
 --
 SN  6
 ID  Hydrogenase putative regulator
-DN  Hydrogenase putative regulator/hyd_TF
+DN  Hydrogenase putative regulator
 RQ  0
 EV  IPR023860; TIGR03959;
 //
