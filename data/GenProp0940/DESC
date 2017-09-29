@@ -14,13 +14,13 @@ CC  system proteins and/or copper transport ATPases.
 --
 SN  1
 ID  Metallo-mystery pair system di-heme enzyme
-DN  Metallo-mystery pair system di-heme enzyme/MMP_hem
+DN  Metallo-mystery pair system di-heme enzyme
 RQ  1
 EV  IPR023929; TIGR04039;
 --
 SN  2
 ID  Metallo-mystery pair system AZL_007920/MXAN_0976 family protein
-DN  Metallo-mystery pair system AZL_007920/MXAN_0976 family protein/MMPcccc
+DN  Metallo-mystery pair system AZL_007920/MXAN_0976 family protein
 RQ  1
 EV  IPR023977; TIGR04052;
 //
