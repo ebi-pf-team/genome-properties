@@ -28,7 +28,7 @@ CC  (2S,3R)-capreomycidine.
 --
 SN  1
 ID  Arginine oxygenase VioC
-DN  Arginine oxygenase VioC/VioC
+DN  Arginine oxygenase VioC
 RQ  1
 EV  IPR023966; TIGR03946;
 TG  GO:0042398;
