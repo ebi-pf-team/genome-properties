@@ -9,13 +9,13 @@ CC  maturation.
 --
 SN  1
 ID  Sulfatase maturase
-DN  Sulfatase maturase/matur
+DN  Sulfatase maturase
 RQ  1
-EV  IPRXXXX; TIGR03942;
+EV  IPR023867; TIGR03942;
 --
 SN  2
 ID  Anaerobic sulfatase
-DN  Anaerobic sulfatase/sulfa
+DN  Anaerobic sulfatase
 RQ  1
 EV  IPR000917; PF00884;
 //
