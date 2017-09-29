@@ -3,17 +3,17 @@ DE  Cohesin/dockerin (cellulosome-like) system
 TP  SYSTEM
 AU  Haft DH
 TH  0
-CC  Signature proteins of the cellulosome include cohesins and dockerins.
+CC  The signature proteins of the cellulosome include cohesins and dockerins.
 --
 SN  1
 ID  Cohesin
-DN  Cohesin/cohesin
+DN  Cohesin
 RQ  1
 EV  IPR002102; PF00963;
 --
 SN  2
 ID  Dockerin
-DN  Dockerin/docker
+DN  Dockerin
 RQ  1
 EV  IPR002105; PF00404;
 //
