@@ -22,7 +22,7 @@ CC  a glycosyltransferase, a small protein with a strongly conserved
 CC  central motif, and a very small protein with an invariant C-terminal
 CC  motif GCVY. This last component, the proposed mycofactocin precursor
 CC  MftA, often is not apparent because of faulty gene calling. Species
-CC  with this system in addition always have at least a few examples
+CC  with this system always have in addition at least a few examples
 CC  (usually co-clustered) of nicotinoproteins with tightly bound NAD(P)
 CC  cofactors that cannot be exchanged, requiring an extrinsic mechanism
 CC  (such as the artifical electron acceptor NDMA) to be able to cycle. 
@@ -34,7 +34,7 @@ CC  required electron exchange cofactor.
 --
 SN  1
 ID  Oxidoreductase, FAD/FMN-binding
-DN  Oxidoreductase, FAD/FMN-binding/ac_AD_4
+DN  Oxidoreductase, FAD/FMN-binding
 RQ  0
 EV  IPR023987; TIGR03997;
 TG  GO:0055114;
@@ -43,7 +43,7 @@ TG  GO:0051188;
 --
 SN  2
 ID  Dehydrogenase, Rv0697 family
-DN  Dehydrogenase, Rv0697 family/ac_aux1
+DN  Dehydrogenase, Rv0697 family
 RQ  0
 EV  IPR023978; TIGR03970;
 TG  GO:0055114;
@@ -52,56 +52,56 @@ TG  GO:0051188;
 --
 SN  3
 ID  Mycofactocin precursor
-DN  Mycofactocin precursor/mftA
+DN  Mycofactocin precursor/MftA
 RQ  1
 EV  IPR023988; TIGR03969;
 TG  GO:0051188;
 --
 SN  4
 ID  RPExGFAL protein
-DN  RPExGFAL protein/mftB
+DN  RPExGFAL protein
 RQ  1
 EV  IPR023850; TIGR03967;
 TG  GO:0051188;
 --
 SN  5
 ID  Radical SAM mycofactocin maturase
-DN  Radical SAM mycofactocin maturase/mftCSAM
+DN  Radical SAM mycofactocin maturase
 RQ  1
 EV  IPR023913; TIGR03962;
 TG  GO:0051188;
 --
 SN  6
-ID  Heme/FMN protein,
-DN  Heme/FMN protein,/mftDflv
+ID  Heme/FMN protein
+DN  Heme/FMN protein
 RQ  1
 EV  IPR023989; TIGR03966;
 TG  GO:0055114;
 --
 SN  7
 ID  Creatininase family protein
-DN  Creatininase family protein/mftEcre
+DN  Creatininase family protein
 RQ  1
 EV  IPR023871; TIGR03964;
 TG  GO:0051188;
 --
 SN  8
 ID  Glycosyltransferase
-DN  Glycosyltransferase/mftFgly
+DN  Glycosyltransferase
 RQ  1
 EV  IPR023981; TIGR03965;
 TG  GO:0051188;
 --
 SN  9
 ID  Mycofactocin system transcriptional regulator
-DN  Mycofactocin system transcriptional regulator/mftR
+DN  Mycofactocin system transcriptional regulator
 RQ  0
 EV  IPR023851; TIGR03968;
 TG  GO:0051193;
 --
 SN  10
 ID  Dehydrogenase, SDR family
-DN  Dehydrogenase, SDR family/mft_AD1
+DN  Dehydrogenase, SDR family
 RQ  0
 EV  IPR023985; TIGR03971;
 TG  GO:0055114;
@@ -110,16 +110,16 @@ TG  GO:0051188;
 --
 SN  11
 ID  Dehydrogenase, Rxyl_3153 family
-DN  Dehydrogenase, Rxyl_3153 family/mft_AD2
+DN  Dehydrogenase, Rxyl_3153 family
 RQ  1
 EV  IPR023921; TIGR03989;
 TG  GO:0055114;
 --
 SN  12
 ID  Dehydrogenase, iron-activated family
-DN  Dehydrogenase, iron-activated family/mft_AD3
+DN  Dehydrogenase, iron-activated family
 RQ  0
-EV  IPRXXXX; PF00465;
+EV  IPR001670; PF00465;
 TG  GO:0055114;
 EV  IPR026338; TIGR04266;
 TG  GO:0055114;
