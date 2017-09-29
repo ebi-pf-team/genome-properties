@@ -14,19 +14,19 @@ CC  modification, or both.
 --
 SN  1
 ID  Putative uracil-DNA glycosylase, rSAM/UDG system
-DN  Putative uracil-DNA glycosylase, rSAM/UDG system/UDG_UDG
+DN  Putative uracil-DNA glycosylase, rSAM/UDG system
 RQ  0
 EV  IPR005273; TIGR03914;
 --
 SN  2
 ID  Uncharacterized protein, rSAM/UDG system
-DN  Uncharacterized protein, rSAM/UDG system/UDG_chp
+DN  Uncharacterized protein, rSAM/UDG system
 RQ  1
 EV  IPR023875; TIGR03915;
 --
 SN  3
 ID  Radical SAM protein, rSAM/UDG syste
-DN  Radical SAM protein, rSAM/UDG syste/UDGrSAM
+DN  Radical SAM protein, rSAM/UDG syste
 RQ  1
 EV  IPR023874; TIGR03916;
 //
