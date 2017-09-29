@@ -10,13 +10,13 @@ CC  that generates the active site.
 --
 SN  1
 ID  Glycine radical enzyme YjjI
-DN  Glycine radical enzyme YjjI/YjjI
+DN  Glycine radical enzyme YjjI
 RQ  1
 EV  IPR016905; TIGR04040;
 --
 SN  2
 ID  Radical SAM family activase YjjW
-DN  Radical SAM family activase YjjW/YjjW
+DN  Radical SAM family activase YjjW
 RQ  1
 EV  IPR023912; TIGR04041;
 //
