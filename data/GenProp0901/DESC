@@ -10,29 +10,28 @@ RT  hydratase- and Nif11-related precursor family.
 RA  Haft DH, Basu MK, Mitchell DA;
 RL  BMC Biol. 2010;8:70.
 CC  This system describes a novel system of a bacteriocin-like metabolite
-CC  found in multiple species of Burkholderia, in Acidovorax avenae subsp.
+CC  found in multiple species of Burkholderia (in Acidovorax avenae subsp.
 CC  citrulli AAC00-1 and Delftia acidovorans SPH-1, and in multiple copies
-CC  in Sorangium cellulosum. It features a probable two-chain bacteriocin
-CC  precursor, both recognized by TIGR03795, a fused
-CC  cyclodehydratase/docking scaffold fusion protein, and a kinase and
-CC  cyclase homology domain-containing multidomain protein.
+CC  in Sorangium cellulosum). It features a probable two-chain bacteriocin
+CC  precursor, a fused cyclodehydratase/docking scaffold fusion protein, 
+CC  and a kinase and cyclase homology domain-containing multidomain protein.
 **  ntsc09, gbm, Delftia acidovorans, other Burks, etc.
 --
 SN  1
 ID  Cyclodeydratase/docking scaffold fusion protein
-DN  Cyclodeydratase/docking scaffold fusion protein/bTOMM_C
+DN  Cyclodeydratase/docking scaffold fusion protein
 RQ  1
 EV  IPR022291; TIGR03882;
 --
 SN  2
 ID  TOMM system kinase/cyclase multidomain protein
-DN  TOMM system kinase/cyclase multidomain protein/bTOMM_K
+DN  TOMM system kinase/cyclase multidomain protein
 RQ  1
 EV  IPR023889; TIGR03903;
 --
 SN  3
 ID  TOMM precursor subunit, Burkholderia type
-DN  TOMM precursor subunit, Burkholderia type/bTOMM_P
+DN  TOMM precursor subunit, Burkholderia type
 RQ  1
 EV  IPR022261; TIGR03795;
 //
