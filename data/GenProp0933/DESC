@@ -11,28 +11,28 @@ RA  Gaballa A, Newton GL, Antelmann H, Parsonage D, Upton H, Rawat M,
 RA  Claiborne A, Fahey RC, Helmann JD;
 RL  Proc Natl Acad Sci U S A. 2010;107:6482-6486.
 CC  This property describes the guild of proteins dependent on bacillithiol
-CC  in microbial genomes.Bacillithiol, a thiol analog of glutathione and
+CC  in microbial genomes. Bacillithiol, a thiol analog of glutathione and
 CC  mycothiol, is a 398-Da alpha-anomeric glycoside of
 CC  L-cysteinyl-D-glucosamine with L-malic acid. A separate property
-CC  (GenProp0927) describes the biosynthesis of bacillithiol.
+CC  describes the biosynthesis of bacillithiol.
 --
 SN  1
 ID  Putative bacillithiol TDOR, YpdA family
-DN  Putative bacillithiol TDOR, YpdA family/B_YpdA
+DN  Putative bacillithiol TDOR, YpdA family
 RQ  0
 EV  IPR023856; TIGR04018;
 TG  GO:0071792;
 --
 SN  2
 ID  Putative bacillithiol TDOR, YphP/YqiW family
-DN  Putative bacillithiol TDOR, YphP/YqiW family/B_YphP
+DN  Putative bacillithiol TDOR, YphP/YqiW family
 RQ  0
 EV  IPR009474; PF06491;
 TG  GO:0071792;
 --
 SN  3
 ID  Putative bacillithiol TDOR, YtxJ family
-DN  Putative bacillithiol TDOR, YtxJ family/B_YtxJ
+DN  Putative bacillithiol TDOR, YtxJ family
 RQ  0
 EV  IPR022551; TIGR04019;
 TG  GO:0071792;
