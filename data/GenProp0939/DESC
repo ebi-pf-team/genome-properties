@@ -12,56 +12,56 @@ CC  than catabolic role for the cluster.
 --
 SN  1
 ID  Glycosyltransferase, MSMEG_0565 family
-DN  Glycosyltransferase, MSMEG_0565 family/M_0565
+DN  Glycosyltransferase, MSMEG_0565 family
 RQ  0
 EV  IPR023986; TIGR04047;
 --
 SN  2
 ID  AIR synthase-related protein, sll0787 family
-DN  AIR synthase-related protein, sll0787 family/M_0567c
+DN  AIR synthase-related protein, sll0787 family
 RQ  1
 EV  IPR024030; TIGR04049;
 EV  IPR023911; TIGR04050;
 --
 SN  3
 ID  GNAT class N-acetyltransferase, MSMEG_0567 family
-DN  GNAT class N-acetyltransferase, MSMEG_0567 family/M_0567n
+DN  GNAT class N-acetyltransferase, MSMEG_0567 family
 RQ  1
 EV  IPR024035; TIGR04045;
 --
 SN  4
 ID  Radical SAM protein, MSMEG_0568 family
-DN  Radical SAM protein, MSMEG_0568 family/M_0568
+DN  Radical SAM protein, MSMEG_0568 family
 RQ  1
 EV  IPR016779; TIGR04043;
 --
 SN  5
 ID  Flavin-dependent oxidoreductase, MSMEG_0569 family
-DN  Flavin-dependent oxidoreductase, MSMEG_0569 family/M_0569
+DN  Flavin-dependent oxidoreductase, MSMEG_0569 family
 RQ  1
 EV  IPR024000; TIGR04046;
 --
 SN  6
 ID  MSMEG_0570 family protein
-DN  MSMEG_0570 family protein/M_0570
+DN  MSMEG_0570 family protein
 RQ  1
 EV  IPR023846; TIGR04042;
 --
 SN  7
 ID  MSMEG_0572 family protein
-DN  MSMEG_0572 family protein/M_0572
+DN  MSMEG_0572 family protein
 RQ  1
 EV  IPR023847; TIGR04044;
 --
 SN  8
 ID  Biosynthetic protein, Pnap_2097 family
-DN  Biosynthetic protein, Pnap_2097 family/M_extr_1
+DN  Biosynthetic protein, Pnap_2097 family
 RQ  0
 EV  IPR024092; TIGR04099;
 --
 SN  9
 ID  Putative nitrilase, sll0784 family
-DN  Putative nitrilase, sll0784 family/M_nitr
+DN  Putative nitrilase, sll0784 family
 RQ  1
 EV  IPR023919; TIGR04048;
 //
