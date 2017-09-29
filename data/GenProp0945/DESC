@@ -11,33 +11,34 @@ RT  modification.
 RA  Haft DH, Basu MK;
 RL  J Bacteriol. 2011;193:2745-2755.
 CC  This Genome Property represents mostly Clostridial bacteriocin
-CC  precursors adjacent to a radical SAM protein family and, often, to an
-CC  additional uncharacterized family. The bacteriocin precursors in this
-CC  system, can be different enough in sequence that construction of
-CC  separate models to represent different subsets appears necessary.
+CC  precursors adjacent to a radical SAM protein family and, often to an
+CC  additional uncharacterized family. 
+**  The bacteriocin precursors in this
+**  system can be different enough in sequence that construction of
+**  separate models to represent different subsets appears necessary.
 --
 SN  1
 ID  Peptide maturation system acyl carrier-related protein
-DN  Peptide maturation system acyl carrier-related protein/ocinACP
+DN  Peptide maturation system acyl carrier-related protein
 RQ  0
 EV  IPR023972; TIGR04069;
 --
 SN  2
 ID  Bacteriocin precursor, CLI_3235-class
-DN  Bacteriocin precursor, CLI_3235-class/ocin_oc
+DN  Bacteriocin precursor, CLI_3235-class
 RQ  1
 EV  IPR023968; TIGR04065;
 EV  IPR023964; TIGR04067;
 --
 SN  3
 ID  Radical SAM bacterocin maturase, CLI_3235 system
-DN  Radical SAM bacterocin maturase, CLI_3235 system/ocin_rS
+DN  Radical SAM bacterocin maturase, CLI_3235 system
 RQ  1
 EV  IPR024001; TIGR04068;
 --
 SN  4
 ID  CLI_3235-class bacteriocin system protein
-DN  CLI_3235-class bacteriocin system protein/ocin_xx
+DN  CLI_3235-class bacteriocin system protein
 RQ  0
 EV  IPR023823; TIGR04066;
 //
