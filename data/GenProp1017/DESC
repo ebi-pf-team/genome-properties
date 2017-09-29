@@ -17,7 +17,7 @@ SN  1
 ID  GDP-mannose mannosyl hydrolase
 DN  GDP-mannose mannosyl hydrolase/gmm
 RQ  0
-EV  IPRXXXX; PF00293;
+EV  IPR000086; PF00293;
 --
 SN  2
 ID  Mannose-6P-isomerase
@@ -29,10 +29,10 @@ SN  3
 ID  Phosphomannomutase
 DN  Phosphomannomutase/manB
 RQ  1
-EV  IPRXXXX; PF00408;
-EV  IPRXXXX; PF02878;
-EV  IPRXXXX; PF02880;
-EV  IPRXXXX; PF02879;
+EV  IPR005843; PF00408;
+EV  IPR005844; PF02878;
+EV  IPR005846; PF02880;
+EV  IPR005845; PF02879;
 --
 SN  4
 ID  Mannose-1P-guanylyltransferase
