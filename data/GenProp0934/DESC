@@ -7,25 +7,25 @@ CC  A pathway has been described in which two FMNH2-dependent members of
 CC  the bacterial luciferase-like monooxygenase (LLM) family convert
 CC  dimethyl sulfone (DMS02) first to methanesulfonate (MSA), then from MSA
 CC  to inorganic form. The enzymes are the dimethyl sulphone monooxygenase
-CC  SfnG (TIGR04021) and methanesulfonate sulfonatase (an alkanesulfonate
-CC  monooxygenase) SsuD.
+CC  SfnG and methanesulfonate sulfonatase (an alkanesulfonate monooxygenase) 
+CC  SsuD.
 **  might be changed to mere pathway.
 --
 SN  1
 ID  Acyl-CoA dehydrogenase family protein, SfnB type
-DN  Acyl-CoA dehydrogenase family protein, SfnB type/SfnB
+DN  Acyl-CoA dehydrogenase family protein, SfnB type
 RQ  1
 EV  IPR023922; TIGR04022;
 --
 SN  2
 ID  Dimethyl sulphone monooxygenase SfnG
-DN  Dimethyl sulphone monooxygenase SfnG/SfnG
+DN  Dimethyl sulphone monooxygenase SfnG
 RQ  1
 EV  IPR024014; TIGR04021;
 --
 SN  3
 ID  Methanesulfonate sulfonatase SsuD
-DN  Methanesulfonate sulfonatase SsuD/SsuD
+DN  Methanesulfonate sulfonatase SsuD
 RQ  1
 EV  IPR019911; TIGR03565;
 //
