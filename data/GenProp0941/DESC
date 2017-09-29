@@ -18,6 +18,6 @@ SN  2
 ID  Outer membrane protein, SusD/RagB family
 DN  Outer membrane protein, SusD/RagB family/RagB
 RQ  1
-EV  IPRXXXX; PF07980;
-EV  IPRXXXX; PF14322;
+EV  IPR012944; PF07980;
+EV  IPR033985; PF14322;
 //
