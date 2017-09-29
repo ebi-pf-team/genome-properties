@@ -58,8 +58,8 @@ SN  6
 ID  WXG100 family type VII secretion target
 DN  WXG100 family type VII secretion target
 RQ  1
-EV  IPRXXXX; PF06013;
-EV  IPRXXXX; TIGR03930;
+EV  IPR010310; PF06013;
+EV  IPR010310; TIGR03930;
 --
 SN  7
 ID  Type VII secretion-associated protein, Rv3446c family
