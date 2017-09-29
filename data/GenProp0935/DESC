@@ -8,33 +8,34 @@ CC  transporter both co-clustered and phylogenetically co-distributed
 CC  (although not perfectly) with a putative FMN-dependent luciferase-like
 CC  monooxygenase (LLM). This system is distributed sporadically from
 CC  Gram-negative (e.g. Klebsiella pneumoniae) to Gram-positive (e.g.
-CC  Kineococcus radiotolerans). The substrate-binding protein contains
-CC  enough information to guide construction of the two permease protein
-CC  families, but these additional markers are not yet built.
+CC  Kineococcus radiotolerans). 
+**  The substrate-binding protein contains
+**  enough information to guide construction of the two permease protein
+**  families, but these additional markers are not yet built.
 **  Built this property because I was interested in ppp2d and a particular
 **  subfamily of LLM (TIGR04028).
 --
 SN  1
 ID  Alkylhydroperoxidase domain protein, Avi_7169 family
-DN  Alkylhydroperoxidase domain protein, Avi_7169 family/uti_Cter
+DN  Alkylhydroperoxidase domain protein, Avi_7169 family
 RQ  1
 EV  IPR023923; TIGR04030;
 --
 SN  2
 ID  Utilization system luciferase-like monooxygenase
-DN  Utilization system luciferase-like monooxygenase/uti_FMN
+DN  Utilization system luciferase-like monooxygenase
 RQ  1
 EV  IPR024003; TIGR04027;
 --
 SN  3
 ID  CMD domain protein, Avi_7170 family
-DN  CMD domain protein, Avi_7170 family/uti_Nter
+DN  CMD domain protein, Avi_7170 family
 RQ  1
 EV  IPR023982; TIGR04029;
 --
 SN  4
 ID  Utilization system ABC transporter substrate binding protein
-DN  Utilization system ABC transporter substrate binding protein/uti_SBP
+DN  Utilization system ABC transporter substrate binding protein
 RQ  1
 EV  IPR023920; TIGR04028;
 //
