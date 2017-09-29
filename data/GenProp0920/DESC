@@ -16,13 +16,13 @@ CC  copies.
 --
 SN  1
 ID  Y_X(10)_GDL-associated radical SAM protein
-DN  Y_X(10)_GDL-associated radical SAM protein/GDL_SAM
+DN  Y_X(10)_GDL-associated radical SAM protein
 RQ  1
 EV  IPR023820; TIGR03913;
 --
 SN  2
 ID  Y_X(10)_GDL domain protein
-DN  Y_X(10)_GDL domain protein/GDL_dom
+DN  Y_X(10)_GDL domain protein
 RQ  1
 EV  IPR014994; PF08898;
 //
