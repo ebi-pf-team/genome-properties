@@ -20,21 +20,21 @@ CC  modeled within this Genome Property.
 --
 SN  1
 ID  Antimicrobial peptide system protein, SdpA family
-DN  Antimicrobial peptide system protein, SdpA family/SdpA
+DN  Antimicrobial peptide system protein, SdpA family
 RQ  1
 EV  IPR023902; TIGR04034;
 TG  GO:0030152;
 --
 SN  2
 ID  Antimicrobial peptide system protein, SdpB family
-DN  Antimicrobial peptide system protein, SdpB family/SdpB
+DN  Antimicrobial peptide system protein, SdpB family
 RQ  1
 EV  IPR023894; TIGR04033;
 TG  GO:0030152;
 --
 SN  3
 ID  Antimicrobial peptide, SdpC family
-DN  Antimicrobial peptide, SdpC family/SdpC
+DN  Antimicrobial peptide, SdpC family
 RQ  1
 EV  IPR023888; TIGR04032;
 TG  GO:0030152;
