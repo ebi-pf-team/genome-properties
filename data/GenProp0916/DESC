@@ -13,13 +13,13 @@ CC  The other member is uncharacterized protein TIGR03936.
 --
 SN  1
 ID  Uncharacterized protein TIGR03936
-DN  Uncharacterized protein TIGR03936/partner
+DN  Uncharacterized protein TIGR03936
 RQ  1
 EV  IPR018768; TIGR03936;
 --
 SN  2
 ID  Uncharacterized radical SAM protein
-DN  Uncharacterized radical SAM protein/rSAM
+DN  Uncharacterized radical SAM protein
 RQ  1
 EV  IPR023862; TIGR03960;
 //
