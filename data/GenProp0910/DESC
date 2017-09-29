@@ -14,13 +14,13 @@ CC  from butryate onto ADP, producing ATP.
 --
 SN  1
 ID  Butyrate kinase
-DN  Butyrate kinase/but_kin
+DN  Butyrate kinase
 RQ  1
-EV  IPRXXXX; TIGR02707;
+EV  IPR011245; TIGR02707;
 --
 SN  2
 ID  Phosphate butyryltransferase
-DN  Phosphate butyryltransferase/but_ptb
+DN  Phosphate butyryltransferase
 RQ  1
 EV  IPR014079; TIGR02706;
 //
