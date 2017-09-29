@@ -20,7 +20,7 @@ RA  Dos Santos PC, Redinbo MR, Reid SD, Claiborne A;
 RL  Biochemistry. 2010;49:8398-8414.
 CC  This property describes the biosynthesis of bacillithiol, a thiol
 CC  analog of glutathione and mycothiol. Bacillithiol is a 398-Da
-CC  alpha-anomeric glycoside of L-cysteinyl-D-glucosamine with L-malic acid
+CC  alpha-anomeric glycoside of L-cysteinyl-D-glucosamine with L-malic acid.
 **  YpjH NTL01BS2334 is now BshA, YpjG/BA1557 is now BshB1, BshB2(YojG)
 **  NTL13BA1836, yllA bshC BA_4058. Note: YpdA, YqiW, YphP, and YtxJ are
 **  all probable thiol:disulfide oxidoreductases. GO term has been
@@ -28,14 +28,14 @@ CC  alpha-anomeric glycoside of L-cysteinyl-D-glucosamine with L-malic acid
 --
 SN  1
 ID  Glycosyltransferase BshA
-DN  Glycosyltransferase BshA/BshA
+DN  Glycosyltransferase BshA
 RQ  1
 EV  IPR023881; TIGR03999;
 TG  GO:0071793;
 --
 SN  2
 ID  N-acetylhydrolase BshB
-DN  N-acetylhydrolase BshB/BshB
+DN  N-acetylhydrolase BshB
 RQ  1
 EV  IPR023841; TIGR04000;
 TG  GO:0071793;
@@ -44,7 +44,7 @@ TG  GO:0071793;
 --
 SN  3
 ID  Cysteine-adding enzyme BshC
-DN  Cysteine-adding enzyme BshC/BshC
+DN  Cysteine-adding enzyme BshC
 RQ  1
 EV  IPR011199; TIGR03998;
 TG  GO:0071793;
