@@ -10,13 +10,13 @@ CC  RagB and SusD.
 --
 SN  1
 ID  TonB-linked outer membrane protein, SusC/RagA family
-DN  TonB-linked outer membrane protein, SusC/RagA family/RagA
+DN  TonB-linked outer membrane protein, SusC/RagA family
 RQ  1
 EV  IPR023996; TIGR04056;
 --
 SN  2
 ID  Outer membrane protein, SusD/RagB family
-DN  Outer membrane protein, SusD/RagB family/RagB
+DN  Outer membrane protein, SusD/RagB family
 RQ  1
 EV  IPR012944; PF07980;
 EV  IPR033985; PF14322;
