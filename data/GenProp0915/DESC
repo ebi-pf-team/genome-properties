@@ -21,8 +21,8 @@ RA  Rauchfuss TB, Pelmenschikov V, Case DA, Alp EE, Sturhahn W, Yoda Y,
 RA  Cramer SP;
 RL  Inorg Chem. 2008;47:3969-3977.
 CC  This property describes 5,10-methenyltetrahydromethanopterin
-CC  hydrogenase (HmdA), also called mono-iron hydrogenase or iron-sulfur
-CC  cluster-free hydrogenase, together with a few of its accessory
+CC  hydrogenase (HmdA, also called mono-iron hydrogenase or iron-sulfur
+CC  cluster-free hydrogenase), together with a few of its accessory
 CC  proteins: HmdB (a radical SAM protein) and HmdC. The enzyme contains a
 CC  novel cofactor with an Fe ion ligated by two CO molecules, a cysteine
 CC  side chain, a guanylyl pyridinol cofactor, and an uncharacterized
@@ -32,19 +32,19 @@ CC  additional ligand.
 --
 SN  1
 ID  5,10-methenyltetrahydromethanopterin hydrogenase
-DN  5,10-methenyltetrahydromethanopterin hydrogenase/hmdA
+DN  5,10-methenyltetrahydromethanopterin hydrogenase
 RQ  1
 EV  IPR010062; TIGR01723;
 --
 SN  2
 ID  HmdA cofactor biosynthesis rSAM protein HmdB
-DN  HmdA cofactor biosynthesis rSAM protein HmdB/hmdB
+DN  HmdA cofactor biosynthesis rSAM protein HmdB
 RQ  1
 EV  IPR023858; TIGR03957;
 --
 SN  3
 ID  HmdA cofactor biosynthesis protein HmdC
-DN  HmdA cofactor biosynthesis protein HmdC/hmdC
+DN  HmdA cofactor biosynthesis protein HmdC
 RQ  1
 EV  IPR016760; TIGR03958;
 //
