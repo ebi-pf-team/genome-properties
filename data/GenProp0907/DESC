@@ -40,7 +40,7 @@ TG  GO:0045226;
 --
 SN  4
 ID  Poly-beta-1,6-N-acetyl-D-glucosamine biosynthesis protein PgaD
-DN  Poly-beta-1,6-N-acetyl-D-glucosamine biosynthesis protein PgaD/PgaD
+DN  Poly-beta-1,6-N-acetyl-D-glucosamine biosynthesis protein PgaD
 RQ  1
 EV  IPR023829; TIGR03940;
 TG  GO:0045226;
