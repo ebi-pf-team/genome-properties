@@ -5,26 +5,26 @@ AU  Haft DH
 TH  0
 CC  Undecaprenyl phosphate (Und-P) is synthesized de novo from farnesyl
 CC  diphosphate via eight successive additions of isopentenyl diphosphate
-CC  followed by a final removal of one phosphate.  Und-P is used as a
-CC  carrier for polysaccharide units via a pyrophosphate linkage.  Removal
+CC  followed by a final removal of one phosphate. Und-P is used as a
+CC  carrier for polysaccharide units via a pyrophosphate linkage. Removal
 CC  of the polysaccharide results in Und-PP, so the phosphatase is also
 CC  used in the recycling back to Und-P.
 --
 SN  1
 ID  Source of isopentenyl diphosphate (IPP)
-DN  Source of isopentenyl diphosphate (IPP)/IPP
+DN  Source of isopentenyl diphosphate (IPP)
 RQ  1
 EV  GenProp0046;
 --
 SN  2
 ID  Undecaprenyl-diphosphate phosphohydrolase
-DN  Undecaprenyl-diphosphate phosphohydrolase/UppP
+DN  Undecaprenyl-diphosphate phosphohydrolase
 RQ  1
 EV  IPR003824; TIGR00753;
 --
 SN  3
 ID  Undecaprenyl-diphosphate synthase
-DN  Undecaprenyl-diphosphate synthase/UppS
+DN  Undecaprenyl-diphosphate synthase
 RQ  1
 EV  IPR001441; TIGR00055;
 //
