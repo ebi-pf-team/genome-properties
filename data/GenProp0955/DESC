@@ -19,13 +19,13 @@ CC  from Bacillus subtilis and radical SAM enzymes similar to YydG.
 --
 SN  1
 ID  Exported signaling peptide, YydF/SAG_2028 family
-DN  Exported signaling peptide, YydF/SAG_2028 family/YydF
+DN  Exported signaling peptide, YydF/SAG_2028 family
 RQ  1
 EV  IPR023898; TIGR04077;
 --
 SN  2
 ID  Peptide modification radical SAM enzyme, YydG family
-DN  Peptide modification radical SAM enzyme, YydG family/YydG
+DN  Peptide modification radical SAM enzyme, YydG family
 RQ  1
 EV  IPR023904; TIGR04078;
 //
