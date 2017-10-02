@@ -15,15 +15,14 @@ CC  peptide is modified post-translationally. Many of the natural products
 CC  generated are bacteriocins, although bacteriocin activity cannot be
 CC  presumed. An odd feature of this system is the pairing of a radical SAM
 CC  enzyme (TIGR04148) with a degenerate radical SAM (pseudo-SAM) protein
-CC  (TIGR04150). In family TIGR04150, despite full-length homology, some
-CC  members have but other lack the radical SAM signature 4Fe4S-binding
-CC  site. All members, however, are best conserved at the C-terminus, where
-CC  the signature motif for the SPASM domain (as in Subtilosin, PQQ,
-CC  Anaearobic Sulfatase and Mycofactocin maturases) homology 4Fe4S binding
-CC  site (see TIGR04085) is invariant. This system occurs, so far, only in
-CC  the Bacteroidales.
+CC  (TIGR04150). Despite full-length homology in family TIGR04150, some
+CC  members have but others lack the radical SAM signature 4Fe4S-binding
+CC  site. However, all members are best conserved at the C terminus, where
+CC  the signature motif for the SPASM (Subtilosin, PQQ, Anaearobic 
+CC  Sulfatase and Mycofactocin maturases) domain homology 4Fe4S binding
+CC  site is invariant. This system occurs, so far, only in the Bacteroidales.
 --
-SN  1
+SN  
 ID  Glycosyltransferase, GG-Bacteroidales peptide system
 DN  Glycosyltransferase, GG-Bacteroidales peptide system/CFB_gly
 RQ  1
