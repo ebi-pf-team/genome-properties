@@ -16,13 +16,13 @@ CC  cobalamin riboswitch.
 --
 SN  1
 ID  Cobaltopeptide precursor
-DN  Cobaltopeptide precursor/CbtA
+DN  Cobaltopeptide precursor
 RQ  1
 EV  IPR026421; TIGR04164;
 --
 SN  2
 ID  Radical SAM peptide maturase CbtB
-DN  Radical SAM peptide maturase CbtB/CbtB
+DN  Radical SAM peptide maturase CbtB
 RQ  1
 EV  IPR026423; TIGR04163;
 //
