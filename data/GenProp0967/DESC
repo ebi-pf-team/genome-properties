@@ -17,19 +17,19 @@ CC  contains low-complexity sequence in which every fourth residue is Cys.
 --
 SN  1
 ID  CXXX repeat peptide modification system protein
-DN  CXXX repeat peptide modification system protein/C4_chp
+DN  CXXX repeat peptide modification system protein
 RQ  1
 EV  IPR026413; TIGR04116;
 --
 SN  2
 ID  CXXX repeat peptide maturase
-DN  CXXX repeat peptide maturase/C4_matu
+DN  CXXX repeat peptide maturase
 RQ  1
 EV  IPR026401; TIGR04119;
 --
 SN  3
 ID  CXXX repeats rSAM maturase target
-DN  CXXX repeats rSAM maturase target/C4_pep
+DN  CXXX repeats rSAM maturase target
 RQ  0
 EV  IPR026393; TIGR04114;
 EV  IPR026484; TIGR04117;
@@ -37,7 +37,7 @@ EV  IPR026424; TIGR04118;
 --
 SN  4
 ID  Radical SAM peptide maturase, CXXXX repeats system
-DN  Radical SAM peptide maturase, CXXXX repeats system/C4_rSAM
+DN  Radical SAM peptide maturase, CXXXX repeats system
 RQ  1
 EV  IPR026412; TIGR04115;
 //
