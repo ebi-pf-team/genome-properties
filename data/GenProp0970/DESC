@@ -9,19 +9,19 @@ CC  undecaprenyl phosphate.
 --
 SN  1
 ID  Source of UDP-GlcNAc
-DN  Source of UDP-GlcNAc/UGlcNAc
+DN  Source of UDP-GlcNAc
 RQ  1
 EV  GenProp0750;
 --
 SN  2
 ID  Source of undecaprenyl phosphate (Und-P)
-DN  Source of undecaprenyl phosphate (Und-P)/Und-P
+DN  Source of undecaprenyl phosphate (Und-P)
 RQ  1
 EV  GenProp0971;
 --
 SN  3
 ID  UDP-GlcNAc:undecaprenylphosphate GlcNAc-1-phosphate transferase
-DN  UDP-GlcNAc:undecaprenylphosphate GlcNAc-1-phosphate transferase/WecA
+DN  UDP-GlcNAc:undecaprenylphosphate GlcNAc-1-phosphate transferase
 RQ  1
 EV  IPR012750; TIGR02380;
 //
