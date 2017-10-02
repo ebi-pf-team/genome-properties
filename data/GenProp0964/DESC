@@ -13,8 +13,7 @@ SN  1
 ID  dTDP-3-aminofucose 3N-acetyltransferase
 DN  dTDP-3-aminofucose 3N-acetyltransferase/FdtC
 RQ  1
-EV  IPRXXXX; PF00132;
-EV  IPRXXXX; 2849;
+EV  IPR001451; PF00132;
 --
 SN  2
 ID  Source of dTDP-3-aminofucose
