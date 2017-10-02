@@ -10,13 +10,13 @@ CC  (TIGR03778) and its cognate exosortase (TIGR04151).
 --
 SN  1
 ID  VPDSG-CTERM protein sorting domain
-DN  VPDSG-CTERM protein sorting domain/CTERM
+DN  VPDSG-CTERM protein sorting domain
 RQ  1
 EV  IPR022288; TIGR03778;
 --
 SN  2
 ID  Exosortase, VPDSG-CTERM-specific
-DN  Exosortase, VPDSG-CTERM-specific/EXOSORT
+DN  Exosortase, VPDSG-CTERM-specific
 RQ  1
 EV  IPR026488; TIGR04151;
 //
