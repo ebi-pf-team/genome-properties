@@ -24,25 +24,25 @@ CC  site is invariant. This system occurs, so far, only in the Bacteroidales.
 --
 SN  
 ID  Glycosyltransferase, GG-Bacteroidales peptide system
-DN  Glycosyltransferase, GG-Bacteroidales peptide system/CFB_gly
+DN  Glycosyltransferase, GG-Bacteroidales peptide system
 RQ  1
 EV  IPR026419; TIGR04157;
 --
 SN  2
 ID  Peptide-modifying radical SAM enzyme, GG-Bacteroidales family
-DN  Peptide-modifying radical SAM enzyme, GG-Bacteroidales family/CFB_mod
+DN  Peptide-modifying radical SAM enzyme, GG-Bacteroidales family
 RQ  1
 EV  IPR026407; TIGR04148;
 --
 SN  3
 ID  Natural product precursor, GG-Bacteroidales family
-DN  Natural product precursor, GG-Bacteroidales family/CFB_pep
+DN  Natural product precursor, GG-Bacteroidales family
 RQ  1
 EV  IPR026408; TIGR04149;
 --
 SN  4
 ID  Pseudo-rSAM protein, GG-Bacteroidales system
-DN  Pseudo-rSAM protein, GG-Bacteroidales system/CFB_pse
+DN  Pseudo-rSAM protein, GG-Bacteroidales system
 RQ  1
 EV  IPR026418; TIGR04150;
 //
