@@ -20,13 +20,13 @@ CC  gene-calling) and in Ruminococcus albus 8.
 --
 SN  1
 ID  Radical SAM peptide maturase, FibroRumin system
-DN  Radical SAM peptide maturase, FibroRumin system/FR_rSAM
+DN  Radical SAM peptide maturase, FibroRumin system
 RQ  1
 EV  IPR026426; TIGR04136;
 --
 SN  2
 ID  Cys-rich radical SAM target, FibroRumin family
-DN  Cys-rich radical SAM target, FibroRumin family/FR_targ
+DN  Cys-rich radical SAM target, FibroRumin family
 RQ  1
 EV  IPR026425; TIGR04135;
 //
