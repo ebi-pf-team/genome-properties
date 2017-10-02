@@ -3,18 +3,18 @@ DE  Biosynthesis of UDP-N-acetyl-D-mannosaminuronic acid (UDP-ManNAcA)
 TP  METAPATH
 AU  Haft DH
 TH  0
-CC  UDP-ManNAc is a precursor in the biosynthesis of the entobacterial
+CC  UDP-ManNAcA is a precursor in the biosynthesis of the entobacterial
 CC  common antigen.
 --
 SN  1
 ID  Source of UDP-ManNAc
-DN  Source of UDP-ManNAc/UManNAc
+DN  Source of UDP-ManNAc
 RQ  1
 EV  GenProp0975;
 --
 SN  2
 ID  UDP-N-acetyl-mannosamine dehydrogenase
-DN  UDP-N-acetyl-mannosamine dehydrogenase/WecC
+DN  UDP-N-acetyl-mannosamine dehydrogenase
 RQ  1
 EV  IPR017476; TIGR03026;
 //
