@@ -30,13 +30,13 @@ CC  of which are detected by model TIGR04088.
 --
 SN  1
 ID  Signal peptidase, SipW class
-DN  Signal peptidase, SipW class/sort
+DN  Signal peptidase, SipW class
 RQ  1
 EV  IPR001733; TIGR02228;
 --
 SN  2
 ID  SipW-sorted protein
-DN  SipW-sorted protein/target
+DN  SipW-sorted protein
 RQ  1
 EV  IPR023833; TIGR04088;
 //
