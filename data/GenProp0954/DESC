@@ -21,13 +21,13 @@ CC  probably provides signaling rather than bacteriocin activity.
 --
 SN  1
 ID  KxxxW-cyclizing radical SAM enzyme
-DN  KxxxW-cyclizing radical SAM enzyme/cyc_SAM
+DN  KxxxW-cyclizing radical SAM enzyme
 RQ  1
 EV  IPR024017; TIGR04080;
 --
 SN  2
 ID  KxxxW-cyclized secreted peptide
-DN  KxxxW-cyclized secreted peptide/cyc_pep
+DN  KxxxW-cyclized secreted peptide
 RQ  1
 EV  IPR023903; TIGR04079;
 //
