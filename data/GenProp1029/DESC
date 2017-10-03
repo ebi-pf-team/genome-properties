@@ -29,31 +29,31 @@ CC  Haft & Basu [1].
 --
 SN  1
 ID  Putative SynChlorMet system core peptide
-DN  Putative SynChlorMet system core peptide/ScmA
+DN  Putative SynChlorMet system core peptide
 RQ  0
 EV  IPRXXXX; TIGR04252;
 --
 SN  2
 ID  SynChlorMet cassette protein ScmC
-DN  SynChlorMet cassette protein ScmC/ScmC
+DN  SynChlorMet cassette protein ScmC
 RQ  1
 EV  IPR026343; TIGR04249;
 --
 SN  3
 ID  SynChlorMet cassette protein ScmD
-DN  SynChlorMet cassette protein ScmD/ScmD
+DN  SynChlorMet cassette protein ScmD
 RQ  1
 EV  IPR026342; TIGR04248;
 --
 SN  4
 ID  SynChlorMet cassette radical SAM/SPASM protein ScmE
-DN  SynChlorMet cassette radical SAM/SPASM protein ScmE/ScmE
+DN  SynChlorMet cassette radical SAM/SPASM protein ScmE
 RQ  1
 EV  IPR026344; TIGR04250;
 --
 SN  5
 ID  SynChlorMet cassette radical SAM/SPASM protein ScmF
-DN  SynChlorMet cassette radical SAM/SPASM protein ScmF/ScmF
+DN  SynChlorMet cassette radical SAM/SPASM protein ScmF
 RQ  1
 EV  IPR026346; TIGR04251;
 //
