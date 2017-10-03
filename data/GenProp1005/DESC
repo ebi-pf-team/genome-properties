@@ -17,13 +17,13 @@ CC  residues.
 --
 SN  1
 ID  Exosortase J
-DN  Exosortase J/EXOxrtJ
+DN  Exosortase J
 RQ  1
 EV  IPR026478; TIGR04199;
 --
 SN  2
 ID  TM-motif-TM protein, XrtJ-associated
-DN  TM-motif-TM protein, XrtJ-associated/PExPT
+DN  TM-motif-TM protein, XrtJ-associated
 RQ  1
 EV  IPR026477; TIGR04200;
 //
