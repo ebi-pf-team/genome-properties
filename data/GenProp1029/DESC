@@ -13,7 +13,7 @@ RL  J Bacteriol. 2011;193:2745-2755.
 CC  This property features a four-gene cassette that appears to be involved
 CC  in peptide modification. The system has both a PqqD homolog and two
 CC  PqqE homologs. The predicted fifth component, putative modification
-CC  target ScmA, is not identified, but Clim_1912 (YP_001943923.1) from
+CC  target ScmA is not identified, but Clim_1912 (YP_001943923.1) from
 CC  Chlorobium limicola DSM 245 is suggested; homologous ORFs are
 CC  demonstrated in the cassettes of the other species with the cassette,
 CC  and their alignment modeled by TIGR04252. Three other species with the
@@ -21,8 +21,8 @@ CC  cassette are Syntrophobacter fumaroxidans MPOB, Methanocella paludicola
 CC  SANAE, and delta proteobacterium NaphS2. Regions homologous to
 CC  Clim_1912 are found in the other three species, and conservation at the
 CC  amino acid level appears strongest in the reading frame of Clim_1912.
-CC  The SPASM domain involvement in peptide modification is described in
-CC  PMID:21478363.
+CC  The SPASM domain involvement in peptide modification is described by 
+CC  Haft & Basu [1].
 **  Also, Clim_1912-like homologs are Cys-rich enough in C-terminal half.
 **  This work is a post-publication extension of the principles in
 **  PMID:21478363. DHH.
