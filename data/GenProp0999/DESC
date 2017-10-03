@@ -24,16 +24,17 @@ RT  pathogenesis.
 RA  Sato K, Naito M, Yukitake H, Hirakawa H, Shoji M, McBride MJ, Rhodes
 RA  RG, Nakayama K;
 RL  Proc Natl Acad Sci U S A. 2010;107:276-281.
-CC  Large paralogous families of C-terminal domains shared by proteins
-CC  destined for outer membrane locations occur in a range of species that
-CC  include Porphyromonas gingivalis, Fibrobacter succinogenes,
-CC  Flavobacterium johnsoniae, Cytophaga hutchinsonii, Gramella forsetii,
-CC  Prevotella intermedia, and Salinibacter ruber (HMMs describing
-CC  processing components have not yet been added to this Genome Property).
+CC  This property describes large paralogous families of C-terminal domains 
+CC  shared by proteins destined for outer membrane locations. These occur 
+CC  in a range of species that include Porphyromonas gingivalis, Fibrobacter 
+CC  succinogenes, Flavobacterium johnsoniae, Cytophaga hutchinsonii, Gramella 
+CC  forsetii, Prevotella intermedia, and Salinibacter ruber. 
+**  (HMMs describing processing components have not yet been added to this 
+**  Genome Property).
 --
 SN  1
 ID  Por secretion C-terminal signal
-DN  Por secretion C-terminal signal/PorSIG
+DN  Por secretion C-terminal signal
 RQ  1
 EV  IPR026444; TIGR04183;
 //
