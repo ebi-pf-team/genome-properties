@@ -17,13 +17,13 @@ CC  system, including the precursor and the S-glycosyltransferase.
 --
 SN  1
 ID  S-glycopeptide, SunA family
-DN  S-glycopeptide, SunA family/SunA
+DN  S-glycopeptide, SunA family
 RQ  1
 EV  IPR026479; TIGR04196;
 --
 SN  2
 ID  Peptide cysteine S-glycosyltransferase, SunS family
-DN  Peptide cysteine S-glycosyltransferase, SunS family/SunS
+DN  Peptide cysteine S-glycosyltransferase, SunS family
 RQ  1
 EV  IPR026499; TIGR04195;
 TG  GO:0016144;
