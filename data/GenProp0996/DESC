@@ -10,13 +10,13 @@ CC  exosortase H.
 --
 SN  1
 ID  Exosortase H
-DN  Exosortase H/EXOxrtH
+DN  Exosortase H
 RQ  1
 EV  IPR026441; TIGR04177;
 --
 SN  2
 ID  IPTLxxWG-CTERM protein sorting domain
-DN  IPTLxxWG-CTERM protein sorting domain/IPTLxxW
+DN  IPTLxxWG-CTERM protein sorting domain
 RQ  1
 EV  IPR026442; TIGR04174;
 //
