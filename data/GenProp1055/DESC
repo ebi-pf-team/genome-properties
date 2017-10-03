@@ -14,13 +14,13 @@ CC  active site, is replaced by Ser in ArtG.
 --
 SN  1
 ID  PEFG-CTERM thaumarchaeosortase target domain
-DN  PEFG-CTERM thaumarchaeosortase target domain/CTERM
+DN  PEFG-CTERM thaumarchaeosortase target domain
 RQ  1
 EV  IPR027560; TIGR04296;
 --
 SN  2
 ID  Thaumarchaeosortase
-DN  Thaumarchaeosortase/EXOSORT
+DN  Thaumarchaeosortase
 RQ  1
 EV  IPR027561; TIGR04297;
 //
