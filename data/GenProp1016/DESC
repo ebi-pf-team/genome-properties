@@ -20,73 +20,73 @@ CC  with one recognized coding region on each.
 --
 SN  1
 ID  RNA-dependent RNA polymerase
-DN  RNA-dependent RNA polymerase/VP1
+DN  RNA-dependent RNA polymerase
 RQ  1
 EV  IPR026381; TIGR04234;
 --
 SN  2
 ID  Seadornavirus VP10 protein
-DN  Seadornavirus VP10 protein/VP10
+DN  Seadornavirus VP10 protein
 RQ  1
 EV  IPR009930; PF07322;
 --
 SN  3
 ID  Seadornavirus VP11 protein
-DN  Seadornavirus VP11 protein/VP11
+DN  Seadornavirus VP11 protein
 RQ  1
 EV  IPR026378; TIGR04230;
 --
 SN  4
 ID  Seadornavirus dsRNA-binding protein
-DN  Seadornavirus dsRNA-binding protein/VP12
+DN  Seadornavirus dsRNA-binding protein
 RQ  1
 EV  IPR026388; TIGR04238;
 --
 SN  5
 ID  Seadornavirus VP2 protein
-DN  Seadornavirus VP2 protein/VP2
+DN  Seadornavirus VP2 protein
 RQ  1
 EV  IPR026384; TIGR04236;
 --
 SN  6
 ID  Seadornavirus VP3 protein
-DN  Seadornavirus VP3 protein/VP3
+DN  Seadornavirus VP3 protein
 RQ  1
 EV  IPR026379; TIGR04232;
 --
 SN  7
 ID  Seadornavirus VP4 protein
-DN  Seadornavirus VP4 protein/VP4
+DN  Seadornavirus VP4 protein
 RQ  1
 EV  IPR026383; TIGR04235;
 --
 SN  8
 ID  Seadornavirus VP5 protein
-DN  Seadornavirus VP5 protein/VP5
+DN  Seadornavirus VP5 protein
 RQ  1
 EV  IPR026373; TIGR04231;
 --
 SN  9
 ID  Seadornavirus VP6 protein
-DN  Seadornavirus VP6 protein/VP6
+DN  Seadornavirus VP6 protein
 RQ  1
 EV  IPR009982; PF07407;
 --
 SN  10
 ID  Seadornavirus VP7 protein
-DN  Seadornavirus VP7 protein/VP7
+DN  Seadornavirus VP7 protein
 RQ  1
 EV  IPR009973; PF07387;
 --
 SN  11
 ID  Seadornavirus VP8 protein
-DN  Seadornavirus VP8 protein/VP8
+DN  Seadornavirus VP8 protein
 RQ  1
 EV  IPR026380; TIGR04233;
 --
 SN  12
 ID  Seadornavirus VP9 protein
-DN  Seadornavirus VP9 protein/VP9
+DN  Seadornavirus VP9 protein
 RQ  1
 EV  IPR015072; PF08978;
 EV  IPR015072; TIGR04237;
