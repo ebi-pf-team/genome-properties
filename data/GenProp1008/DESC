@@ -13,43 +13,43 @@ CC  Segment L (negative): polymerase.
 --
 SN  1
 ID  Glycoprotein G1
-DN  Glycoprotein G1/Phl_G1
+DN  Glycoprotein G1
 RQ  1
 EV  IPR010826; PF07243;
 --
 SN  2
 ID  Glycoprotein G2
-DN  Glycoprotein G2/Phl_G2
+DN  Glycoprotein G2
 RQ  1
 EV  IPR009878; PF07245;
 --
 SN  3
 ID  RNA polymerase N-terminal domain
-DN  RNA polymerase N-terminal domain/Phl_L_n
+DN  RNA polymerase N-terminal domain
 RQ  0
 EV  IPR022531; PF12603;
 --
 SN  4
 ID  Nucleocapsid protein
-DN  Nucleocapsid protein/Phl_N
+DN  Nucleocapsid protein
 RQ  1
 EV  IPR009522; PF05733;
 --
 SN  5
 ID  Nonstructural protein NSm
-DN  Nonstructural protein NSm/Phl_NSm
+DN  Nonstructural protein NSm
 RQ  0
 EV  IPR009879; PF07246;
 --
 SN  6
 ID  Nonstructural protein NSs
-DN  Nonstructural protein NSs/Phl_NSs
+DN  Nonstructural protein NSs
 RQ  0
 EV  IPRXXXX; PF11073;
 --
 SN  7
 ID  RNA dependent RNA polymerase
-DN  RNA dependent RNA polymerase/Phl_pol
+DN  RNA dependent RNA polymerase
 RQ  1
 EV  IPR007322; PF04196;
 //
