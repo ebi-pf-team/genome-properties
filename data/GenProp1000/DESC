@@ -10,31 +10,31 @@ RT  acetyltransferase-like domains: synthesis of novel metabolites and
 RT  peptide modifications of proteins.
 RA  Iyer LM, Abhiman S, Maxwell Burroughs A, Aravind L;
 RL  Mol Biosyst. 2009;5:1636-1660.
-CC  The microviridin family (see PF12559) is an example family of
-CC  ribosomally produced, post-translationally modified peptides (RiPP) for
-CC  which the peptide maturases come from the ATP-grasp ligase family. This
-CC  Genome Property describes a cassette with a related ATP-grasp enzyme
-CC  (TIGR04187), a putative target family (TIGR04186), and a
-CC  methyltransferase (TIGR04188). We propose the name TgmABC
-CC  (Target/Grasp/Methyltransferase ABC) for system.
+CC  The microviridin family is an example of ribosomally produced, 
+CC  post-translationally modified peptides (RiPP) for which the peptide 
+CC  maturases come from the ATP-grasp ligase family. This Genome Property 
+CC  describes a cassette with a related ATP-grasp enzyme (TIGR04187), a 
+CC  putative target family, and a methyltransferase (TIGR04188). We 
+CC  propose the name TgmABC (Target/Grasp/Methyltransferase ABC) for the 
+CC  system.
 **  A Dan Haft invention. Um, turns out Iyer had published something on
 **  this, have not read.
 --
 SN  1
 ID  ATP-grasp family maturase
-DN  ATP-grasp family maturase/GRASP
+DN  ATP-grasp family maturase
 RQ  1
 EV  IPR026449; TIGR04187;
 --
 SN  2
 ID  Methyltransferase
-DN  Methyltransferase/methyl
+DN  Methyltransferase
 RQ  1
 EV  IPR026448; TIGR04188;
 --
 SN  3
 ID  Ribosomal peptide modification target
-DN  Ribosomal peptide modification target/precur
+DN  Ribosomal peptide modification target
 RQ  1
 EV  IPR026496; TIGR04186;
 EV  IPR025744; PF14404;
