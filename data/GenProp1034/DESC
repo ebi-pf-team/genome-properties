@@ -30,13 +30,13 @@ CC  microbiome and affects oxalate homeostasis.
 --
 SN  1
 ID  Decarboxylation
-DN  Decarboxylation/decarb
+DN  Decarboxylation
 RQ  1
 EV  GenProp0718;
 --
 SN  2
 ID  Oxalate/formate antiporter
-DN  Oxalate/formate antiporter/oxlT
+DN  Oxalate/formate antiporter
 RQ  1
 EV  IPR026355; TIGR04259;
 //
