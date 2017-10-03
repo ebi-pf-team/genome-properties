@@ -50,11 +50,6 @@ DN  Nonstructural protein NS3/NS3A
 RQ  1
 EV  IPR002565; PF01616;
 --
-SN  4
-ID  Nonstructural protein NS4
-DN  Nonstructural protein NS4
-RQ  0
---
 SN  5
 ID  RNA-dependent RNA polymerase VP1
 DN  RNA-dependent RNA polymerase VP1
