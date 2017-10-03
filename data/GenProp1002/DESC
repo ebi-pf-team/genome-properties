@@ -5,26 +5,26 @@ AU  Haft DH
 TH  0
 CC  This Genome Property describes a Post-Ribosomal Natural Product
 CC  Synthesis (PRNPS) system that features an ATP-GRASP domain protein and
-CC  a SPASM (TIGR04085) domain protein. At least one associated leader
-CC  peptide family is also defined.
+CC  a SPASM domain protein. At least one associated leader peptide family 
+CC  is also defined.
 **  Thomas Hemscheidt a possible collaborator
 --
 SN  1
 ID  Grasp-with-spasm ATP-GRASP maturase
-DN  Grasp-with-spasm ATP-GRASP maturase/GRASP
+DN  Grasp-with-spasm ATP-GRASP maturase
 RQ  1
 EV  IPR026455; TIGR04192;
 --
 SN  2
 ID  Grasp-with-spasm leader peptide
-DN  Grasp-with-spasm leader peptide/LEADER
+DN  Grasp-with-spasm leader peptide
 RQ  0
 EV  IPR026498; TIGR04194;
 EV  IPR026437; TIGR04139;
 --
 SN  3
 ID  Grasp-with-spasm SPASM domain maturase
-DN  Grasp-with-spasm SPASM domain maturase/SPASM
+DN  Grasp-with-spasm SPASM domain maturase
 RQ  1
 EV  IPR026497; TIGR04193;
 //
