@@ -17,19 +17,19 @@ CC  cassettes include a pair of closely related ATP-grasp proteins.
 --
 SN  1
 ID  ATP-grasp family maturase 1
-DN  ATP-grasp family maturase 1/GRASP1
+DN  ATP-grasp family maturase 1
 RQ  1
 EV  IPR026446; TIGR04185;
 --
 SN  2
 ID  ATP-grasp family maturase 2
-DN  ATP-grasp family maturase 2/GRASP2
+DN  ATP-grasp family maturase 2
 RQ  1
 EV  IPR026439; TIGR04184;
 --
 SN  3
 ID  Microviridin/marinostatin family precursor
-DN  Microviridin/marinostatin family precursor/precur
+DN  Microviridin/marinostatin family precursor
 RQ  1
 EV  IPR022217; PF12559;
 //
