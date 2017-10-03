@@ -6,17 +6,17 @@ TH  0
 CC  This system consists of a distinctive subfamily of exosortase-like
 CC  proteins, XrtK, and its adjacent putative target protein. The 
 CC  C-terminal putative sorting sorting signal is MSEP-CTERM, found at the
-CC  C-terminus of proteins in family TIGR04286.
+CC  C terminus of proteins in family TIGR04286.
 --
 SN  1
 ID  Exosortase K
-DN  Exosortase K/EXOxrtK
+DN  Exosortase K
 RQ  1
 EV  IPR027551; TIGR04287;
 --
 SN  2
 ID  MSEP-CTERM protein
-DN  MSEP-CTERM protein/target
+DN  MSEP-CTERM protein
 RQ  1
 EV  IPR027550; TIGR04286;
 //
