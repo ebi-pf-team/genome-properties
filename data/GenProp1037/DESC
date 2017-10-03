@@ -14,19 +14,19 @@ CC  region of the Gly-rich protein.
 --
 SN  1
 ID  RSAM-associated Gly-rich repeat protein
-DN  RSAM-associated Gly-rich repeat protein/grrA
+DN  RSAM-associated Gly-rich repeat protein
 RQ  1
 EV  IPR026356; TIGR04260;
 --
 SN  2
 ID  Radical SAM/SPASM domain protein, GRRM system
-DN  Radical SAM/SPASM domain protein, GRRM system/grrM
+DN  Radical SAM/SPASM domain protein, GRRM system
 RQ  1
 EV  IPR026357; TIGR04261;
 --
 SN  3
 ID  Extracellular substrate-binding orphan protein
-DN  Extracellular substrate-binding orphan protein/grrP
+DN  Extracellular substrate-binding orphan protein
 RQ  0
 EV  IPR026358; TIGR04262;
 //
