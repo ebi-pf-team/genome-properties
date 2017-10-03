@@ -27,19 +27,19 @@ CC  range.
 --
 SN  1
 ID  Nodulation N-acyltransferase NodA
-DN  Nodulation N-acyltransferase NodA/nodA
+DN  Nodulation N-acyltransferase NodA
 RQ  1
 EV  IPR003484; TIGR04245;
 --
 SN  2
 ID  Chitooligosaccharide deacetylase NodB
-DN  Chitooligosaccharide deacetylase NodB/nodB
+DN  Chitooligosaccharide deacetylase NodB
 RQ  1
 EV  IPR026402; TIGR04243;
 --
 SN  3
 ID  Chitooligosaccharide synthase NodC
-DN  Chitooligosaccharide synthase NodC/nodC
+DN  Chitooligosaccharide synthase NodC
 RQ  1
 EV  IPR026463; TIGR04242;
 //
