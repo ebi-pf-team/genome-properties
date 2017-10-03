@@ -11,13 +11,13 @@ CC  family and its putative target, a short peptide with a Cys-Cys motif.
 --
 SN  1
 ID  Geopeptide precursor
-DN  Geopeptide precursor/gptA
+DN  Geopeptide precursor
 RQ  1
 EV  IPR026376; TIGR04229;
 --
 SN  2
 ID  Geopeptide radical SAM maturase
-DN  Geopeptide radical SAM maturase/gptM
+DN  Geopeptide radical SAM maturase
 RQ  1
 EV  IPR026322; TIGR04280;
 //
