@@ -17,7 +17,7 @@ RT  The LptD chaperone LptE is not directly involved in lipopolysaccharide
 RT  transport in Neisseria meningitidis.
 RA  Bos MP, Tommassen J;
 RL  J Biol Chem. 2011;286:28688-28696.
-CC  Lipopolysaccharide transport(Lpt) as it occurs in E. coli requires a
+CC  Lipopolysaccharide transport (Lpt) as it occurs in E. coli requires a
 CC  complex with seven essential genes. LptBCFG spans the inner membrane,
 CC  with LptBFG being an ABC transporter. LptA is periplasmic, and LptDE is
 CC  in the outer membrane.
@@ -26,44 +26,44 @@ CC  in the outer membrane.
 --
 SN  1
 ID  LPS transport periplasmic protein LptA
-DN  LPS transport periplasmic protein LptA/lptA
+DN  LPS transport periplasmic protein LptA
 RQ  1
 EV  IPR014340; TIGR03002;
 --
 SN  2
 ID  LPS export ABC transporter ATP-binding protein
-DN  LPS export ABC transporter ATP-binding protein/lptB
+DN  LPS export ABC transporter ATP-binding protein/LptB
 RQ  1
 EV  IPR030921; TIGR04406;
 --
 SN  3
 ID  Lipopolysaccharide export protein LptC
-DN  Lipopolysaccharide export protein LptC/lptC
+DN  Lipopolysaccharide export protein LptC
 RQ  1
 EV  IPR010664; PF06835;
 EV  IPR026265; TIGR04409;
 --
 SN  4
 ID  LPS assembly OM complex protein LptD
-DN  LPS assembly OM complex protein LptD/lptD
+DN  LPS assembly OM complex protein LptD
 RQ  1
 EV  IPR007543; PF04453;
 --
 SN  5
 ID  LPS assembly OM complex protein LptE
-DN  LPS assembly OM complex protein LptE/lptE
+DN  LPS assembly OM complex protein LptE
 RQ  1
 EV  IPR007485; PF04390;
 --
 SN  6
 ID  LPS export ABC permease LptF
-DN  LPS export ABC permease LptF/lptF
+DN  LPS export ABC permease LptF
 RQ  1
 EV  IPR030922; TIGR04407;
 --
 SN  7
 ID  LPS export ABC permease LptG
-DN  LPS export ABC permease LptG/lptG
+DN  LPS export ABC permease LptG
 RQ  1
 EV  IPR030923; TIGR04408;
 //
