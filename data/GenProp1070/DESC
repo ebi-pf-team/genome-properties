@@ -23,7 +23,7 @@ CC  stress.
 --
 SN  1
 ID  Glutamate 2,3-aminomutase
-DN  Glutamate 2,3-aminomutase/BetaGlu
+DN  Glutamate 2,3-aminomutase
 RQ  1
 EV  IPR030801; TIGR04368;
 //
