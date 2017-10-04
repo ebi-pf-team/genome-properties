@@ -25,13 +25,13 @@ CC  SAM enzyme.
 --
 SN  1
 ID  Cytosylglucuronate synthase
-DN  Cytosylglucuronate synthase/MilC
+DN  Cytosylglucuronate synthase
 RQ  1
 EV  IPR031016; TIGR04467;
 --
 SN  2
 ID  Cytosylglucuronate decarboxylase
-DN  Cytosylglucuronate decarboxylase/MilG
+DN  Cytosylglucuronate decarboxylase
 RQ  1
 EV  IPR031014; TIGR04466;
 //
