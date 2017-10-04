@@ -13,19 +13,19 @@ CC  other more often than is typical for most Genome Properties.
 --
 SN  1
 ID  AmmeMemoRadiSam system protein A
-DN  AmmeMemoRadiSam system protein A/AMR_A
+DN  AmmeMemoRadiSam system protein A
 RQ  1
 EV  IPR027623; TIGR04335;
 --
 SN  2
 ID  AmmeMemoRadiSam system protein B
-DN  AmmeMemoRadiSam system protein B/AMR_B
+DN  AmmeMemoRadiSam system protein B
 RQ  1
 EV  IPR002737; TIGR04336;
 --
 SN  3
 ID  AmmeMemoRadiSam system radical SAM enzyme
-DN  AmmeMemoRadiSam system radical SAM enzyme/AMR_rS
+DN  AmmeMemoRadiSam system radical SAM enzyme
 RQ  1
 EV  IPR027596; TIGR04337;
 //
