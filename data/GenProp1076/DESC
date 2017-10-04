@@ -17,14 +17,14 @@ CC  C-N bond to turn choline into trimethylamine and acetaldehyde.
 --
 SN  1
 ID  Choline TMA-lyase
-DN  Choline TMA-lyase/cutC
+DN  Choline TMA-lyase
 RQ  1
 EV  IPR030897; TIGR04394;
 TG  GO:0042426;
 --
 SN  2
 ID  Choline TMA-lyase-activating enzyme
-DN  Choline TMA-lyase-activating enzyme/cutD
+DN  Choline TMA-lyase-activating enzyme
 RQ  1
 EV  IPR030905; TIGR04395;
 TG  GO:0042426;
