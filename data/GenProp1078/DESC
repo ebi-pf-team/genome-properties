@@ -19,8 +19,8 @@ RA  CR;
 RL  J Bacteriol. 2006;188:5299-5303.
 CC  This system is characterized in Bacillus subtilis 168, but occurs also
 CC  in Bacillus sp. M 2-6 and Paenibacillus larvae subsp. larvae B-3650.
-CC  Sporulation killing factor is ribosomally translated,
-CC  posttranslationally modified sactipeptide, meaning it has a
+CC  Sporulation killing factor is a ribosomally translated,
+CC  post-translationally modified sactipeptide, meaning it has a
 CC  Sulfur-to-Alpha-Carbon covalent crosslink from a Cys residue, catalyzed
 CC  by radical SAM enzyme.
 **  Here are four more families. 1=NTL01BS0194,389572675,357007126
@@ -30,19 +30,19 @@ CC  by radical SAM enzyme.
 --
 SN  1
 ID  Sporulation killing factor
-DN  Sporulation killing factor/SkfA
+DN  Sporulation killing factor
 RQ  1
 EV  IPR030919; TIGR04404;
 --
 SN  2
 ID  Sporulation killing factor maturase
-DN  Sporulation killing factor maturase/SkfB
+DN  Sporulation killing factor maturase
 RQ  1
 EV  IPR030915; TIGR04403;
 --
 SN  3
 ID  Sporulation killing factor system SkfF protein
-DN  Sporulation killing factor system SkfF protein/SkfF
+DN  Sporulation killing factor system SkfF protein
 RQ  1
 EV  IPR030920; TIGR04405;
 //
