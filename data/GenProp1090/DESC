@@ -11,19 +11,19 @@ CC  domain peptide maturase, and neighboring cleavage/export proteins.
 --
 SN  1
 ID  XYE system RiPP precursor XyeA
-DN  XYE system RiPP precursor XyeA/XyeA
+DN  XYE system RiPP precursor XyeA
 RQ  1
 EV  IPR030990; TIGR04495;
 --
 SN  2
 ID  XYE system radical SAM/SPASM maturase
-DN  XYE system radical SAM/SPASM maturase/XyeB
+DN  XYE system radical SAM/SPASM maturase
 RQ  1
 EV  IPR030989; TIGR04496;
 --
 SN  3
 ID  XYE system cleavage/export protein
-DN  XYE system cleavage/export protein/XyeT
+DN  XYE system cleavage/export protein
 RQ  0
 EV  IPR005074; PF03412;
 //
