@@ -21,19 +21,19 @@ CC  indicate lateral gene transfer.
 --
 SN  1
 ID  Mobile rSAM pair MarR family regulator
-DN  Mobile rSAM pair MarR family regulator/FT_MarR
+DN  Mobile rSAM pair MarR family regulator
 RQ  1
 EV  IPR031011; TIGR04472;
 --
 SN  2
 ID  Radical SAM mobile pair protein A
-DN  Radical SAM mobile pair protein A/FTsam1
+DN  Radical SAM mobile pair protein A
 RQ  1
 EV  IPR031010; TIGR04471;
 --
 SN  3
 ID  Radical SAM mobile pair protein B
-DN  Radical SAM mobile pair protein B/FTsam2
+DN  Radical SAM mobile pair protein B
 RQ  1
 EV  IPR031012; TIGR04470;
 //
