@@ -21,14 +21,14 @@ CC  cmoB occur but are not essential.
 --
 SN  1
 ID  tRNA (cmo5U34)-methyltransferase
-DN  tRNA (cmo5U34)-methyltransferase/cmoA
+DN  tRNA (cmo5U34)-methyltransferase
 RQ  1
 EV  IPR005271; TIGR00740;
 TG  GO:0006400;
 --
 SN  2
 ID  tRNA (mo5U34)-methyltransferase
-DN  tRNA (mo5U34)-methyltransferase/cmoB
+DN  tRNA (mo5U34)-methyltransferase
 RQ  1
 EV  IPR010017; TIGR00452;
 TG  GO:0006400;
