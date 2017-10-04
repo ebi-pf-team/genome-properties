@@ -16,13 +16,13 @@ CC  sequence, MKFVKAPTKNISIIKCPYFCNTFFPILPPTF.
 --
 SN  1
 ID  Clo7bot tandem target peptide
-DN  Clo7bot tandem target peptide/multi
+DN  Clo7bot tandem target peptide
 RQ  1
 EV  IPR027601; TIGR04333;
 --
 SN  2
 ID  Radical SAM/SPASM domain Clo7bot peptide maturase
-DN  Radical SAM/SPASM domain Clo7bot peptide maturase/rSAM7
+DN  Radical SAM/SPASM domain Clo7bot peptide maturase
 RQ  1
 EV  IPR027622; TIGR04334;
 //
