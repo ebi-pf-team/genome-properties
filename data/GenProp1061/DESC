@@ -21,25 +21,25 @@ CC  typical repeat has length 36.
 --
 SN  1
 ID  Cas1, PreFran subtype
-DN  Cas1, PreFran subtype/Cas1
+DN  Cas1, PreFran subtype
 RQ  1
 EV  IPR027617; TIGR04329;
 --
 SN  2
 ID  Cas2
-DN  Cas2/Cas2
+DN  Cas2
 RQ  1
 EV  IPR021127; TIGR01573;
 --
 SN  3
 ID  Cas4, PreFran subtype
-DN  Cas4, PreFran subtype/Cas4
+DN  Cas4, PreFran subtype
 RQ  1
 EV  IPR027616; TIGR04328;
 --
 SN  4
 ID  CRISPR-associated protein Cpf1
-DN  CRISPR-associated protein Cpf1/Cpf1
+DN  CRISPR-associated protein Cpf1
 RQ  1
 EV  IPR027620; TIGR04330;
 //
