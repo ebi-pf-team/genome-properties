@@ -29,19 +29,19 @@ CC  PriB than to PriB itself.
 --
 SN  1
 ID  Primosomal protein DnaT
-DN  Primosomal protein DnaT/DnaT
+DN  Primosomal protein DnaT
 RQ  0
 --
 SN  2
 ID  Primosome helicase PriA
-DN  Primosome helicase PriA/PriA
+DN  Primosome helicase PriA
 RQ  1
 EV  IPR005259; TIGR00595;
 TG  GO:0006269;
 --
 SN  3
 ID  Primosome protein PriB
-DN  Primosome protein PriB/PriB
+DN  Primosome protein PriB
 RQ  1
 EV  IPR023646; TIGR04418;
 TG  GO:0006269;
