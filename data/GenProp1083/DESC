@@ -12,31 +12,31 @@ CC  heterocycle modifications.
 --
 SN  1
 ID  Cyanobactin maturation protease, PatA/PatG family
-DN  Cyanobactin maturation protease, PatA/PatG family/PatA
+DN  Cyanobactin maturation protease, PatA/PatG family
 RQ  1
 EV  IPR023830; TIGR03895;
 --
 SN  2
 ID  Cyanobactin biosynthesis protein, PatB/AcyB/McaB family
-DN  Cyanobactin biosynthesis protein, PatB/AcyB/McaB family/PatB
+DN  Cyanobactin biosynthesis protein, PatB/AcyB/McaB family
 RQ  1
 EV  IPR026473; TIGR04220;
 --
 SN  3
 ID  Cyanobactin cluster PatC/TenC/TruC protein
-DN  Cyanobactin cluster PatC/TenC/TruC protein/PatC
+DN  Cyanobactin cluster PatC/TenC/TruC protein
 RQ  1
 EV  IPR031035; TIGR04447;
 --
 SN  4
 ID  Peptide O-prenyltransferase, LynF/TruF/PatF family
-DN  Peptide O-prenyltransferase, LynF/TruF/PatF family/PatF
+DN  Peptide O-prenyltransferase, LynF/TruF/PatF family
 RQ  1
 EV  IPR031037; TIGR04445;
 --
 SN  5
 ID  Cyanobactin
-DN  Cyanobactin/RiPP
+DN  Cyanobactin
 RQ  1
 EV  IPR031036; TIGR04446;
 EV  IPR022264; TIGR03678;
