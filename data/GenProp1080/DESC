@@ -23,13 +23,13 @@ CC  structure recognized by model TIGR04415.
 --
 SN  1
 ID  Autotransporter strand-loop-strand O-heptosyltransferase
-DN  Autotransporter strand-loop-strand O-heptosyltransferase/O_hept
+DN  Autotransporter strand-loop-strand O-heptosyltransferase
 RQ  1
 EV  IPR030929; TIGR04414;
 --
 SN  2
 ID  Autotransporter strand-loop-strand repeat
-DN  Autotransporter strand-loop-strand repeat/O_targ
+DN  Autotransporter strand-loop-strand repeat
 RQ  1
-EV  IPRXXXX; TIGR04415;
+EV  IPR030930; TIGR04415;
 //
