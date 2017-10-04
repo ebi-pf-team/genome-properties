@@ -52,11 +52,6 @@ DN  5-dehydro-2-deoxygluconokinase
 RQ  1
 EV  IPR030830; TIGR04382;
 --
-SN  6
-ID  5-dehydro-2-deoxyphosphogluconate aldolase
-DN  5-dehydro-2-deoxyphosphogluconate aldolase
-RQ  0
---
 SN  7
 ID  Malonate-semialdehyde dehydrogenase (acetylating)
 DN  Malonate-semialdehyde dehydrogenase (acetylating)
