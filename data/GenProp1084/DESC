@@ -25,21 +25,21 @@ CC  synthases (NRPS).
 --
 SN  1
 ID  Enduracididine biosynthesis enzyme MppP
-DN  Enduracididine biosynthesis enzyme MppP/MppP
+DN  Enduracididine biosynthesis enzyme MppP
 RQ  1
 EV  IPR031020; TIGR04462;
 TG  GO:0042398;
 --
 SN  2
 ID  Enduracididine biosynthesis enzyme MppQ
-DN  Enduracididine biosynthesis enzyme MppQ/MppQ
+DN  Enduracididine biosynthesis enzyme MppQ
 RQ  1
 EV  IPR031021; TIGR04461;
 TG  GO:0042398;
 --
 SN  3
 ID  Enduracididine biosynthesis enzyme MppR
-DN  Enduracididine biosynthesis enzyme MppR/MppR
+DN  Enduracididine biosynthesis enzyme MppR
 RQ  1
 EV  IPR031022; TIGR04460;
 TG  GO:0042398;
