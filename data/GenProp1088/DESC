@@ -33,31 +33,31 @@ CC  cytochrome. SoxB is monomeric.
 --
 SN  1
 ID  Sulfur oxidation c-type cytochrome SoxA
-DN  Sulfur oxidation c-type cytochrome SoxA/SoxA
+DN  Sulfur oxidation c-type cytochrome SoxA
 RQ  1
 EV  IPR025710; TIGR04484;
 --
 SN  2
 ID  Sulfur oxidation protein SoxB
-DN  Sulfur oxidation protein SoxB/SoxB
+DN  Sulfur oxidation protein SoxB
 RQ  1
 EV  IPR030998; TIGR04486;
 --
 SN  3
 ID  Sulfur oxidation c-type cytochrome SoxX
-DN  Sulfur oxidation c-type cytochrome SoxX/SoxX
+DN  Sulfur oxidation c-type cytochrome SoxX
 RQ  1
 EV  IPR030999; TIGR04485;
 --
 SN  4
 ID  Sulfur oxidation protein SoxY
-DN  Sulfur oxidation protein SoxY/SoxY
+DN  Sulfur oxidation protein SoxY
 RQ  1
 EV  IPR016568; TIGR04488;
 --
 SN  5
 ID  Sulfur oxidation protein SoxZ
-DN  Sulfur oxidation protein SoxZ/SoxZ
+DN  Sulfur oxidation protein SoxZ
 RQ  1
 EV  IPR030995; TIGR04490;
 //
