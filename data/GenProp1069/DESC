@@ -15,25 +15,25 @@ CC  enzyme for age-damaged proteins.
 --
 SN  1
 ID  FxLD family lantipeptide
-DN  FxLD family lantipeptide/fxlA
+DN  FxLD family lantipeptide
 RQ  1
 EV  IPR027575; TIGR04363;
 --
 SN  2
 ID  Lantibiotic dehydratase
-DN  Lantibiotic dehydratase/fxlD
+DN  Lantibiotic dehydratase
 RQ  1
 EV  IPR006827; PF04738;
 --
 SN  3
 ID  FxLD system methyltransferase
-DN  FxLD system methyltransferase/fxlM
+DN  FxLD system methyltransferase
 RQ  1
 EV  IPR027573; TIGR04364;
 --
 SN  4
 ID  Lanthionine synthetase
-DN  Lanthionine synthetase/fxlS
+DN  Lanthionine synthetase
 RQ  1
 EV  IPR007822; PF05147;
 //
