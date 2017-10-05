@@ -5,22 +5,23 @@ AU  Haft DH
 TH  0
 CC  This property describes gene pairs with a member of family PF07505 and
 CC  a member of family TIGR04474. Both proteins appear to be enzymes, based
-CC  motif-like patterns of sequence conservation. Genomic contexts include
+CC  on motif-like patterns of sequence conservation. Genomic contexts include
 CC  phage contexts but other contexts as well, such as between recAX and
-CC  miaB in Mycobacterium tuberculosis. The protein name assigned by
-CC  PF07505, phage protein Gp37Gp68, is probably misleading in most cases.
+CC  miaB in Mycobacterium tuberculosis. 
+**  The protein name assigned by PF07505, phage protein Gp37Gp68, is probably 
+**  misleading in most cases.
 **  Some stats: of 145 genomes with TIGR04474, one fusion and 102 have
 **  PF07505 adjacent. In other direction, maybe fewer.
 --
 SN  1
 ID  Three Cys motif protein
-DN  Three Cys motif protein/3CysProt
+DN  Three Cys motif protein
 RQ  1
 EV  IPR011101; PF07505;
 --
 SN  2
 ID  Three-Cys-motif partner protein
-DN  Three-Cys-motif partner protein/near3Cys
+DN  Three-Cys-motif partner protein
 RQ  1
 EV  IPR031009; TIGR04474;
 //
