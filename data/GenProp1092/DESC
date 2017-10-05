@@ -14,7 +14,7 @@ CC  structural RNA antitoxin.
 --
 SN  1
 ID  Toxin, type III toxin-antitoxin system
-DN  Toxin, type III toxin-antitoxin system/toxin
+DN  Toxin, type III toxin-antitoxin system
 RQ  1
 EV  IPR025911; PF13958;
 //
