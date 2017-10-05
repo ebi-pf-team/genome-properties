@@ -1222,7 +1222,7 @@ CC  eukaryotes while the deoxyxylulose pathway is typical of prokaryotes.
 CC  This property summarizes the states of the two child properties, IPP
 CC  biosynthesis via mevalonate and IPP biosynthesis from deoxyxylulose.
 --
-SN  IPP
+SN  1
 ID  IPP biosynthesis
 RQ  1
 EV  GenProp0047;
@@ -8580,7 +8580,7 @@ CC  GenProp0058). An alternate pathway, found in both Helicobacter pylori
 CC  and Streptomyces coelicolor, involves the intermediate futalosine (see
 CC  GenProp0829). 
 --
-SN  menaquin
+SN  1
 ID  Menaquinone biosynthesis: SEPHCHC or futalosine
 RQ  1
 EV  GenProp0058;
