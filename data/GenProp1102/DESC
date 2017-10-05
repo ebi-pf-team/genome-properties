@@ -14,13 +14,13 @@ CC  may act as a transpeptidase.
 --
 SN  2
 ID  CGP-CTERM domain
-DN  CGP-CTERM domain/CGP_term
+DN  CGP-CTERM domain
 RQ  1
 EV  IPR027552; TIGR04288;
 --
 SN  3
 ID  Cys-rich CGP-CTERM protein
-DN  Cys-rich CGP-CTERM protein/GCP_A
+DN  Cys-rich CGP-CTERM protein
 RQ  0
 EV  IPR027556; TIGR04292;
 //
