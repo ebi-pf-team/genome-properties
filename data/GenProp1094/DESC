@@ -25,19 +25,19 @@ CC  number of different S subunits.
 --
 SN  1
 ID  ECF transporter ATP-binding component 1
-DN  ECF transporter ATP-binding component 1/ECFA1
+DN  ECF transporter ATP-binding component 1
 RQ  0
 EV  IPR030947; TIGR04520;
 --
 SN  2
 ID  ECF transporter ATP-binding component 2
-DN  ECF transporter ATP-binding component 2/ECFA2
+DN  ECF transporter ATP-binding component 2
 RQ  0
 EV  IPR030946; TIGR04521;
 --
 SN  3
 ID  ECF transporter S component
-DN  ECF transporter S component/ECF_S
+DN  ECF transporter S component
 RQ  1
 EV  IPR003784; PF02632;
 EV  IPR002751; PF01891;
@@ -55,7 +55,7 @@ EV  IPR030945; TIGR04522;
 --
 SN  4
 ID  ECF transporter T component
-DN  ECF transporter T component/ECF_T
+DN  ECF transporter T component
 RQ  1
 EV  IPR003339; PF02361;
 //
