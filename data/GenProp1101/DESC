@@ -26,12 +26,11 @@ CC  This system features a putative carrier protein, TIGR04557, related to
 CC  the SoxY and SoxZ carrier complex of the sulfate oxidation cycle, as
 CC  well as PQQ-dependent enzymes that have a Cys-Cys motif, and
 CC  specialized cytochromes involved in electron transport. Authentic SoxY
-CC  (see TIGR04488) is a carrier protein for sulfur oxidation, with a
-CC  covalent attachment site near its C-terminus, a Cys residue in the
-CC  context GGCGG or GGCG. The  carrier Cys of SoxY is conserved in
-CC  TIGR04557, but what might be attached in the latter is unknown. Note
-CC  that GenProp0895 (alcohol ABC transporter, PedABC-type) describes a
-CC  four-gene operon closely tied to this system.
+CC  is a carrier protein for sulfur oxidation, with a covalent attachment 
+CC  site near its C terminus, and a Cys residue in the context GGCGG or GGCG. 
+CC  The  carrier Cys of SoxY is conserved in TIGR04557, but what might be 
+CC  attached in the latter is unknown. GenProp0895 (alcohol ABC transporter, 
+CC  PedABC-type) describes a four-gene operon closely tied to this system.
 **  Some of this, mostly the fusion, may be new discovery. Property should
 **  require PQQ biosynthesis (but that would make TIGR03075 count twice!).
 **  TIGR03871 needs annotation help. Some of the additional correlated
@@ -40,32 +39,32 @@ CC  four-gene operon closely tied to this system.
 --
 SN  1
 ID  Probable periplasmic binding protein
-DN  Probable periplasmic binding protein/qu_ABCbn
+DN  Probable periplasmic binding protein
 RQ  0
 EV  IPR022448; TIGR03871;
 --
 SN  2
 ID  Relay cytochrome
-DN  Relay cytochrome/quin_Cyt
+DN  Relay cytochrome
 RQ  1
 EV  IPR022411; TIGR03874;
 EV  IPR030991; TIGR04494;
 --
 SN  3
 ID  PQQ-dependent dehydrogenase, CysCys motif family
-DN  PQQ-dependent dehydrogenase, CysCys motif family/quin_PQQ
+DN  PQQ-dependent dehydrogenase, CysCys motif family
 RQ  1
 EV  IPR017512; TIGR03075;
 --
 SN  4
 ID  SoxYZ-like carrier
-DN  SoxYZ-like carrier/quin_YZ
+DN  SoxYZ-like carrier
 RQ  1
 EV  IPR030831; TIGR04557;
 --
 SN  5
 ID  Quinoprotein relay system zinc metallohydrolase
-DN  Quinoprotein relay system zinc metallohydrolase/quin_Zn
+DN  Quinoprotein relay system zinc metallohydrolase
 RQ  1
 EV  IPR030811; TIGR04558;
 EV  IPR030829; TIGR04559;
