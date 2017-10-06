@@ -28,8 +28,8 @@ RT  A novel functional human eukaryotic translation initiation factor 4G.
 RA  Gradi A; Imataka H; Svitkin YV; Rom E; Raught B; Morino S; Sonenberg N; 
 RL  Mol Cell Biol. 1998;18:334-342.
 CC  Eukaryote initiation factor 4F (eI4F) is a complex involved in 
-CC  protein translation [1,4].  It recognizes the mRNA cap, recruits mRNA to the 
-CC  ribosome and unwinds 5'-terminal secondary structure in an ATP- 
+CC  protein translation [1,4]. It recognizes the mRNA cap, recruits mRNA to 
+CC  the ribosome and unwinds 5'-terminal secondary structure in an ATP- 
 CC  dependentmanner [3]. The composition of the complex varies with the
 CC  external and internal conditions.
 **  Only the essential components are listed.
