@@ -14,10 +14,10 @@ RQ  1
 EV  IPR006827; PF04738;
 --
 SN  2
-ID  PF04738 - Lantibiotic dehydratase, C terminus
-DN  PF04738 - Lantibiotic dehydratase, C terminus/PF04738
+ID  PF14028 - Lantibiotic dehydratase, C terminus
+DN  PF14028 - Lantibiotic dehydratase, C terminus/PF14028
 RQ  1
-EV  IPR006827; PF04738;
+EV  IPR023809; PF14028;
 --
 SN  3
 ID  PF05147 - Lanthionine synthetase C-like protein
