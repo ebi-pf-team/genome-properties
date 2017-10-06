@@ -22,7 +22,7 @@ CC  the signature motif for the SPASM (Subtilosin, PQQ, Anaearobic
 CC  Sulfatase and Mycofactocin maturases) domain homology 4Fe4S binding
 CC  site is invariant. This system occurs, so far, only in the Bacteroidales.
 --
-SN  
+SN  1
 ID  Glycosyltransferase, GG-Bacteroidales peptide system
 DN  Glycosyltransferase, GG-Bacteroidales peptide system
 RQ  1
