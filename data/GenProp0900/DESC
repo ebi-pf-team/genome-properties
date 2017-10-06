@@ -8,10 +8,10 @@ CC  translated peptides with lanthionine bridges. Dehydroalanine is a
 CC  standard modification in these same peptides. New families needed!
 --
 SN  1
-ID  PF04737 - Lantibiotic dehydratase, N terminus
-DN  PF04737 - Lantibiotic dehydratase, N terminus/PF04737
+ID  PF04738 - Lantibiotic dehydratase, N terminus
+DN  PF04738 - Lantibiotic dehydratase, N terminus/PF04738
 RQ  1
-EV  IPRXXXX; PF04737;
+EV  IPR006827; PF04738;
 --
 SN  2
 ID  PF04738 - Lantibiotic dehydratase, C terminus
