@@ -5,7 +5,7 @@ use warnings;
 use Getopt::Long;
 use GenomePropertiesIO;
 
-my (@dirs, $help, $go, $interpro, $status, $recursive, $verbose);
+my (@dirs, $help, $go, $interpro, $status, $recursive, $verbose, $connect);
 my $all;
 $| = 1;
 
@@ -15,6 +15,7 @@ GetOptions ( "recursive"   => \$recursive,
              "status=s"    => \$status,
              "gp=s"        => \@dirs,
              "all"         => \$all,
+             "connect"     => \$connect,
              "verbose"     => \$verbose,
              "help|h"      => \$help ) or die;
 
@@ -48,6 +49,11 @@ if($verbose){
   $options->{verbose} = 1;
 }
 
+if($connect and !$all){
+  die "Only check connectivity where using all, this should be on all nodes\n";
+}
+
+
 #Read all of the GP directories
 if($all){
   opendir(D, ".") or die "Could not open the current working directory for reading\n";
@@ -65,7 +71,10 @@ if(scalar(@dirs)){
 #Now go validate
 my $gp = GenomeProperties->new;
 GenomePropertiesIO::validateGP($gp, $options);
-GenomePropertiesIO::checkHierarchy($gp, $options) if($all); 
+#GenomePropertiesIO::checkHierarchy($gp, $options) if($all); 
+if($connect){
+  $gp->checkConnectivity;
+}
 
 sub readInterProFile {
   my ($file) = @_;
@@ -123,6 +132,12 @@ Usage: $0 <options>
 --verbose   : print warnings and status when running in recursive mode
             : with a set status. i.e. --recursive and --status set
             : in addition.
+
+--connect   : This should only be used in combination with the --all
+            : flag and assumes you are working on the whole set of
+            : Genome Properties.  It takes the root category and 
+            : loops over all steps to make sure all genome properties
+            : are connected.
 
 --help      : prints this help message.
 
