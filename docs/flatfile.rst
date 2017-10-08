@@ -2,23 +2,24 @@
 Genome Property Types
 =====================
 
-There are five different types of Genome Properties.
+There are five different types of Genome Properties (GP) represented.
 
-- PATHWAY:
-- METAPATH:
-- SYSTEM:
-- GUILD:
-- CATEGORY:
+:PATHWAY: These represent groups of proteins that perform biochemical steps in order within a recognised enzymatic pathway.
+:METAPATH: These represent a specific type of PATHWAY where one or more of the steps within the pathway are described by another Genome Property. For the purposes of calculation, METAPATHs are dependent on their respective GP steps.
+:SYSTEM: These represent groups of proteins that work together to fulfil a role, but do not necessarily represent a traditional enzymatic pathway (for example, transport systems).
+:GUILD: These represent groups of proteins sharing overall function, but which do not represent a system.
+:CATEGORY: These are organisational properties that allow the full set of genome properties to be arranged into a hierarchy. These properties are not calculated.
 
 
 ===============
 Flatfile Format
 ===============
 
-Each Genome Property is represented by two files
+Each Genome Property is represented by up to three files
 
 + **DESC file** - a description of the GP and the constituent steps
 + **FASTA file** - a concatenation of fasta files that resolve to a yes for each of the constituent steps
++ **status file** - a record of binary flags recording whether the GP has been curated and is to be made public
 
 ---------
 DESC file
@@ -53,7 +54,7 @@ The tags used in the DESC file are listed below, along with the description of t
 +----+----------------------------------------------------+
 | CC | Property description                               |
 +----+----------------------------------------------------+
-| ** | Private notes                                      |
+|\** | Private notes                                      |
 +----+----------------------------------------------------+
 | -- | Separator                                          |
 +----+----------------------------------------------------+
@@ -74,7 +75,7 @@ The tags used in the DESC file are listed below, along with the description of t
 
 The DESC file is formatted such that a single tag is included on each line, followed by 2 blank spaces, followed by the value of the field. 
 
-In the case of the property description (CC) and private notes (**) fields, the information may stretch accross multiple lines. The line length is limited to 80 characters (including the tag) and so any subsequent lines used must also carry the tag. See the example below.
+In the case of the property description (CC) and private notes (**) fields, the information may stretch accross multiple lines. The line length is limited to 80 characters (including the tag) and so any subsequent lines used must also carry the tag. See the PATHWAY example below.
 
 
 .. code-block:: none
@@ -177,20 +178,59 @@ In the case of the property description (CC) and private notes (**) fields, the 
   //
 
 
----------
+While the layout of the DESC file for CATEGORY type properties follows the same format, the steps do not refer to calculable evidence. In the case of CATEGORY, the steps define the properties (including other sub-categories) that exist as children of the CATEGORY. See the CATEGORY example below.
+
+.. code-block:: none
+  
+  AC  GenProp0063
+  DE  Biosynthesis
+  TP  CATEGORY
+  AU  Haft DH
+  TH  0
+  CC  The process of creating complex biomolecules from simpler starting
+  CC  materials.
+  --
+  SN  1
+  ID  Natural products biosynthesis
+  RQ  0
+  EV  GenProp0077;
+  --
+  SN  2
+  ID  Amino acid biosynthesis
+  RQ  0
+  EV  GenProp0126;
+  --
+  SN  3
+  ID  Cofactor biosynthesis
+  RQ  0
+  EV  GenProp0184;
+  --
+  SN  4
+  ID  Nucleotide biosynthesis
+  RQ  0
+  EV  GenProp0185;
+  --
+  SN  5
+  ID  Storage and structural polymer biosynthesis
+  RQ  0
+  EV  GenProp0186;
+  //
+  
+
+----------
 FASTA file
----------
+----------
 
-The FASTA file includes a fasta sequence for each constituent step of the property.
-The file is formatted such that each individual block of fasta sequence includes a descriptive header line, in the format provided by UniProt. The appropriate step number is then added to this header line in parenthesis, as shown below.
+The FASTA file includes fasta sequences that are a match for each constituent step of the property. GPs of type CATEGORY do not have associated FASTA files as they do not contain any calculable steps. Similarly, a METAPATH which contains only GPs as evidence for its steps, would not have an associated FASTA file.
+The FASTA file is formatted such that each individual block of fasta sequence includes a descriptive header line, in the format provided by UniProt. The appropriate step number is then added to this header line in parenthesis, as shown below.
 
-.. code-block::
+.. code-block:: none
 
   >sp|P0AB91|AROG_ECOLI (Step num: 1) Phospho-2-dehydro-3-deoxyheptonate aldolase, Phe-sensitive OS=Escherichia coli (strain K12) GN=aroG PE=1 SV=1  
 
 An example FASTA file is shown here:
 
-.. code-block::
+.. code-block:: none
 
   >sp|P0AB91|AROG_ECOLI (Step num: 1) Phospho-2-dehydro-3-deoxyheptonate aldolase, Phe-sensitive OS=Escherichia coli (strain   K12) GN=aroG PE=1 SV=1
   MNYQNDDLRIKEIKELLPPVALLEKFPATENAANTVAHARKAIHKILKGNDDRLLVVIGP
@@ -247,4 +287,17 @@ An example FASTA file is shown here:
   PGRTINRFGEEVEMITKGRHDPCVGIRAVPIAEAMLAIVLMDHLLRQRAQNADVKTDIPR
   W
 
-  
+-----------
+Status file
+-----------
+
+Each GP has an associated 'status' file which records (using binary flags) whether the property has been curated, and whether it is to be made public. This file is edited by the curator as part of the curation process prior to release. Private curator notes can be included below the double hyphen. An example status file is shown here:
+
+.. code-block:: none
+
+  checked:  1
+  public: 0
+  --
+  contains a dependent GP that is not yet public
+
+

@@ -22,43 +22,51 @@ CC  likely derived from N-acetylgalturonic acid by the action of the
 CC  asparagine synthase homolog WbqG. The O-acetylation is likely carried
 CC  out by WbqF.
 --
-SN  Q4NGAc
+SN  1
 ID  Source of 4-acetylglycylamido-D-quinovose
+DN  Source of 4-acetylglycylamido-D-quinovose/Q4NGAc
 RQ  1
 EV  GenProp1039;
 --
-SN  WbqE
+SN  2
 ID  D-GalNAcAN-b-1,4-D-Qui4NAcGly transferase
+DN  D-GalNAcAN-b-1,4-D-Qui4NAcGly transferase/WbqE
 RQ  1
 EV  IPRXXXX; 2904;
 --
-SN  WbqF
+SN  3
 ID  D-GalNAcAN 3-O-acetyltransferase
+DN  D-GalNAcAN 3-O-acetyltransferase/WbqF
 RQ  1
 EV  IPRXXXX; 2905;
 --
-SN  WbqG
+SN  4
 ID  D-GalNAcA amido-ligase
+DN  D-GalNAcA amido-ligase/WbqG
 RQ  1
 EV  IPRXXXX; 2907;
 --
-SN  WbqH
+SN  5
 ID  D-GalNAcA-a-1,4-D-GalNAcAN transferase
+DN  D-GalNAcA-a-1,4-D-GalNAcAN transferase/WbqH
 RQ  1
 EV  IPRXXXX; 2908;
 --
-SN  WbqI
+SN  6
 ID  D-GlcNAc a-1,3-DGalNAcA transferase
+DN  D-GlcNAc a-1,3-DGalNAcA transferase/WbqI
 RQ  1
 EV  IPRXXXX; 2909;
 --
-SN  wzx121
+SN  7
 ID  O121(Ec)-specific O-antigen transporter (flippase) wzx
+DN  O121(Ec)-specific O-antigen transporter (flippase) wzx/wzx121
 RQ  1
 EV  IPRXXXX; 2903;
 --
-SN  wzy121
+SN  8
 ID  O121(Ec)-specific O-antigen polymerase wzy
+DN  O121(Ec)-specific O-antigen polymerase wzy/wzy121
 RQ  1
 EV  IPRXXXX; 2906;
 //

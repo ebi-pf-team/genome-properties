@@ -26,14 +26,16 @@ CC  N-acetylglucosamine-phosphate.
 **  Oddly, in far to many genomes it is one enzyme or the other, but a
 **  failure to have both. I explored this by PPP, but unsuccessfully.
 --
-SN  anmK
+SN  1
 ID  Anhydro-N-acetylmuramic acid kinase
+DN  Anhydro-N-acetylmuramic acid kinase/anmK
 RQ  1
 EV  IPR005338; PF03702;
 TG  GO:0009254;
 --
-SN  murQ
+SN  2
 ID  N-acetylmuramic acid-phosphate etherase
+DN  N-acetylmuramic acid-phosphate etherase/murQ
 RQ  1
 EV  IPR005488; TIGR00274;
 TG  GO:0009254;

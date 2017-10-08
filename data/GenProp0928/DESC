@@ -11,26 +11,29 @@ RA  Sklar JG, Wu T, Kahne D, Silhavy TJ;
 RL  Genes Dev. 2007;21:2473-2484.
 CC  Outer membrane beta-barrel proteins are translocated into the periplasm
 CC  by the Sec system and subsequently properly folded and inserted into
-CC  the outer membrane by the beta-barrel assembly machine (Bam).  In the
-CC  periplasm chaperones prevent misfolding and aggregation and facilitate
-CC  the transit across the periplasmic space.  The SurA protein appears to
+CC  the outer membrane by the beta-barrel assembly machine (Bam). In the
+CC  periplasm, chaperones prevent misfolding and aggregation, and facilitate
+CC  the transit across the periplasmic space. The SurA protein appears to
 CC  be the primary chaperone, at least in E. coli [1], while Skp and DegP
 CC  may act to rescue any OMPs which fall off of the SurA complex.
 --
-SN  DegP
+SN  1
 ID  Chaperone DegP
+DN  Chaperone DegP
 RQ  1
 EV  IPR011782; TIGR02037;
 TG  GO:0006886;
 --
-SN  Skp
+SN  2
 ID  Chaperone Skp
+DN  Chaperone Skp
 RQ  1
 EV  IPR005632; PF03938;
 TG  GO:0006886;
 --
-SN  SurA
+SN  3
 ID  Chaperone SurA
+DN  Chaperone SurA
 RQ  1
 EV  IPR015391; PF09312;
 TG  GO:0006886;

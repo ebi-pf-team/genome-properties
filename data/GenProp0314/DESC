@@ -29,28 +29,32 @@ CC  structure, and spacer length. The Nmeni subtype, so named because this
 CC  subtype is the only one found in the genome of Neisseria meningitidis,
 CC  consists of cas1 and cas2 and the subtype specific genes csn1-2. This
 CC  subtype has the most limited suite of cas core genes of any subtype
-CC  defined thus far.  The repeats associated with this subtype tend to
+CC  defined thus far. The repeats associated with this subtype tend to
 CC  have a periodicity of 66 nucleotides. This subtype is found only in
 CC  Bacteria, and notably it would seem only in known or potential (i.e.
 CC  containing virulence genes) vertebrate pathogens.                       
 --
-SN  Cas1
+SN  1
 ID  Cas1, Nmeni region
+DN  CRISPR-associated protein Cas1, NMENI subtype
 RQ  1
 EV  IPR019855; TIGR03639;
 --
-SN  Cas2
+SN  2
 ID  Cas2, Nmeni region
+DN  CRISPR-associated endonuclease Cas2
 RQ  1
 EV  IPR021127; TIGR01573;
 --
-SN  Cas9
+SN  3
 ID  RNA-guided endonuclease Cas9/Csn1
+DN  CRISPR-associated endonuclease Cas9
 RQ  1
 EV  IPR028629; TIGR01865; sufficient;
 --
-SN  Csn2
+SN  4
 ID  Csn2
+DN  CRISPR-associated protein, Csn2-type
 RQ  0
 EV  IPR010146; TIGR01866; sufficient;
 //

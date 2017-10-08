@@ -32,33 +32,39 @@ CC  Klebsiella pneumoniae, and Clostridium pasteurianum.
 **  not necessarily hit Clostridium past. seqs, so models cannot say "NO"
 **  very well.
 --
-SN  dhaB
+SN  1
 ID  Glycerol dehydratase, alpha subunit
+DN  Glycerol dehydratase, alpha subunit/dhaB
 RQ  1
 EV  IPRXXXX; 2099;
 --
-SN  dhaC
+SN  2
 ID  Glycerol dehydratase, beta subunit
+DN  Glycerol dehydratase, beta subunit/dhaC
 RQ  1
 EV  IPRXXXX; 2098;
 --
-SN  dhaE
+SN  3
 ID  Glycerol dehydratase, gamma subunit
+DN  Glycerol dehydratase, gamma subunit/dhaE
 RQ  1
 EV  IPRXXXX; 2096;
 --
-SN  dhaF
+SN  4
 ID  Glycerol dehydratase reactivase, large subunit
+DN  Glycerol dehydratase reactivase, large subunit/dhaF
 RQ  1
 EV  IPRXXXX; 2097;
 --
-SN  dhaG
+SN  5
 ID  Glycerol dehydratase reactivase, small subunit
+DN  Glycerol dehydratase reactivase, small subunit/dhaG
 RQ  1
 EV  IPRXXXX; 2095;
 --
-SN  dhaT
+SN  6
 ID  1,3-propanediol dehydrogenase
+DN  1,3-propanediol dehydrogenase/dhaT
 RQ  1
 EV  IPRXXXX; 2094;
 //

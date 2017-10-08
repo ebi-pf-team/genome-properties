@@ -43,56 +43,65 @@ CC  to makes staphylobactin in place of staphyloferrin B.
 **  solanacearum and Staphylococcus aureus make. Looks like Shewanella
 **  denitrificans OS217 has the same eight genes.
 --
-SN  sbnA
+SN  1
 ID  Staphylobactin biosynthesis enzyme SbnA
+DN  Staphylobactin biosynthesis enzyme SbnA/sbnA
 RQ  1
 EV  IPRXXXX; 2226;
 TG  GO:0019290;
 --
-SN  sbnB
+SN  2
 ID  Staphylobactin biosynthesis enzyme SbnB
+DN  Staphylobactin biosynthesis enzyme SbnB/sbnB
 RQ  1
 EV  IPRXXXX; 2227;
 TG  GO:0019290;
 --
-SN  sbnC
+SN  3
 ID  Staphylobactin biosynthesis enzyme SbnC
+DN  Staphylobactin biosynthesis enzyme SbnC/sbnC
 RQ  1
 EV  IPRXXXX; 2228;
 TG  GO:0019290;
 --
-SN  sbnD
+SN  4
 ID  Staphylobactin exporter SbnD
+DN  Staphylobactin exporter SbnD/sbnD
 RQ  1
 EV  IPRXXXX; 2229;
 TG  GO:0015891;
 --
-SN  sbnE
+SN  5
 ID  Staphylobactin biosynthesis enzyme SbnE
+DN  Staphylobactin biosynthesis enzyme SbnE/sbnE
 RQ  1
 EV  IPRXXXX; 2225;
 TG  GO:0019290;
 --
-SN  sbnF
+SN  6
 ID  Staphylobactin biosynthesis enzyme SbnF
+DN  Staphylobactin biosynthesis enzyme SbnF/sbnF
 RQ  1
 EV  IPRXXXX; 2230;
 TG  GO:0019290;
 --
-SN  sbnG
+SN  7
 ID  Staphylobactin biosynthesis enzyme SbnG
+DN  Staphylobactin biosynthesis enzyme SbnG/sbnG
 RQ  1
 EV  IPRXXXX; 2231;
 TG  GO:0019290;
 --
-SN  sbnH
+SN  8
 ID  Staphylobactin biosynthesis enzyme SbnH
+DN  Staphylobactin biosynthesis enzyme SbnH/sbnH
 RQ  1
 EV  IPRXXXX; 2232;
 TG  GO:0019290;
 --
-SN  sbnI
+SN  9
 ID  Staphylobactin biosynthesis operon protein SbnI
+DN  Staphylobactin biosynthesis operon protein SbnI/sbnI
 RQ  0
 EV  IPRXXXX; 2233;
 TG  GO:0019290;

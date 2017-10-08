@@ -39,50 +39,45 @@ CC  synthetic direction [1], although it also has similarities to the V1/V0
 CC  (V-type, vacuolar) ATPase in eucarya which hydrolyzes ATP in order to
 CC  acidify cellular compartments.
 --
-SN  AhaA
+SN  1
 ID  A1 stalk complex, A subunit
+DN  ATP synthase alpha chain, archaea
 RQ  1
 EV  IPR005726; TIGR01043; sufficient;
 --
-SN  AhaB
+SN  2
 ID  A1 stalk complex, B subunit
+DN  ATPase, A1 complex, beta subunit
 RQ  1
 EV  IPR005724; TIGR01041; sufficient;
 --
-SN  AhaC
+SN  3
 ID  A1 stalk complex, C subunit
+DN  ATPase, V0 complex, c subunit
 RQ  1
 EV  IPR014272; TIGR02923; sufficient;
 --
-SN  AhaD
+SN  4
 ID  A1 stalk complex, D subunit
+DN  ATPase, V1 complex, subunit D
 RQ  1
 EV  IPR002699; TIGR00309; sufficient;
 --
-SN  AhaE
+SN  5
 ID  A1 stalk complex, E subunit
+DN  ATPase, V1/A1 complex, subunit E
 RQ  1
 EV  IPR002842; PF01991; sufficient;
 --
-SN  AhaF
+SN  6
 ID  A1 stalk complex, F subunit
+DN  ATPase, V1 complex, subunit F
 RQ  1
 EV  IPR008218; PF01990; sufficient;
 --
-SN  AhaG
-ID  A1 stalk complex, G subunit
-RQ  0
---
-SN  AhaH
+SN  8
 ID  H subunit
+DN  ATPase, A1A0, subunit H
 RQ  0
 EV  IPR014275; TIGR02926; sufficient;
---
-SN  AhaI
-ID  A0 membrane complex, I subunit
-RQ  0
---
-SN  AhaK
-ID  A0 membrane complex, K subunit
-RQ  0
 //

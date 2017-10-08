@@ -15,30 +15,35 @@ CC  different classes. The capacity for TonB-dependent transport is also
 CC  marked by the presence of TonB-dependent transporters, which share a
 CC  region of homology and may number more than 50 in a single genome.
 --
-SN  TonB
+SN  1
 ID  TonB C-terminal domain
+DN  TonB C-terminal domain
 RQ  1
-EV  IPRXXXX; TIGR01352;
+EV  IPR006260; TIGR01352;
 --
-SN  barrel
+SN  2
 ID  Barrel domain, tonB-dependent receptor
+DN  Barrel domain, tonB-dependent receptor
 RQ  0
 EV  IPR000531; PF00593; sufficient;
 --
-SN  exbB
+SN  3
 ID  TonB-system energizer ExbB
+DN  TonB-system energizer ExbB
 RQ  1
 EV  IPR014164; TIGR02797; sufficient;
 EV  IPR014172; TIGR02805; sufficient;
 --
-SN  exbD
+SN  4
 ID  TonB-system energizer ExbD
+DN  onB system transport protein ExbD
 RQ  1
 EV  IPR014170; TIGR02803; sufficient;
 EV  IPR014171; TIGR02804; sufficient;
 --
-SN  plug
+SN  5
 ID  Plug domain, tonB-dependent receptor
+DN  Plug domain, tonB-dependent receptor
 RQ  0
 EV  IPR012910; PF07715; sufficient;
 //

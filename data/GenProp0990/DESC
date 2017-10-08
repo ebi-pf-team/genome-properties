@@ -14,13 +14,15 @@ CC  cobalamin riboswitch.
 **  Archaeoglobus veneficus SNP6]. Vahe Bandararian wants to work on this
 **  but so does Mo.
 --
-SN  CbtA
+SN  1
 ID  Cobaltopeptide precursor
+DN  Cobaltopeptide precursor
 RQ  1
 EV  IPR026421; TIGR04164;
 --
-SN  CbtB
+SN  2
 ID  Radical SAM peptide maturase CbtB
+DN  Radical SAM peptide maturase CbtB
 RQ  1
 EV  IPR026423; TIGR04163;
 //

@@ -32,6 +32,7 @@ GenProp0171	Coenzyme A biosynthesis from pantothenate
 GenProp0187	Pyrimidine (uridine-5'-phosphate) de novo biosynthesis
 GenProp0188	GatABC aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase complex
 GenProp0189	tRNA-Gln direct aminoacylation
+GenProp0193	Lysine biosynthesis via alpha-aminoadipate (AAA pathway)
 GenProp0217	5-aminolevulinate biosynthesis (glutamate pathway)
 GenProp0223	5-aminolevulinate biosynthesis from succinyl-CoA and glycine
 GenProp0231	4-hydroxyphenylacetate degradation
@@ -41,4 +42,6 @@ GenProp0253	Hydroxymethylpyrimidine pyrophosphate (HMP-P) biosynthesis from amin
 GenProp0254	Thiamine pyrophosphate (TPP) biosynthesis from HMP-PP and HET-P
 GenProp0786	Lysine biosynthesis via diaminopimelate (DAP), succinylated branch
 GenProp0787	Lysine biosynthesis via diaminopimelate (DAP), acetylated branch
+GenProp0792	7,8-didemethyl-8-hydroxy-5-deazariboflavin (FO) biosynthesis
+GenProp0829	Menaquinone biosynthesis via futalosine
 GenProp0950	dTDP-4-dehydro-6-deoxy-alpha-D-glucose biosynthesis from glucose-1-phosphate

@@ -1362,4 +1362,27 @@ sub gp_out {
 
   return($s);
 }
+
+sub checkConnectivity {
+  my($self) = @_;
+
+  my %c;
+  my $top = $self->get_def("GenProp0065");
+  $top->checkConnection($self, \%c);
+  
+  my $error = 0;
+  foreach my $p (keys %{ $self->get_defs }){
+    if(!$c{$p}){
+      print STDERR "$p appears to be disconnected\n";
+      $error++;
+    } 
+  }
+
+  if($error){
+    print STDERR "There are $error Genome Properties that are disconnected from the tree\n";
+  }
+
+}
+
+
 1;

@@ -62,38 +62,45 @@ CC  contains a variable number of beta-propellar repeats.
 **  common neighboring radical SAM may be a QueE, given TIGR03963 is top
 **  miss. So, removing the rSAM HMM-CLUST.
 --
-SN  Pal
+SN  1
 ID  Tol-pal system protein Pal (OprL)
+DN  Peptidoglycan-associated lipoprotein/Pal/OprL
 RQ  1
 EV  IPR014169; TIGR02802; sufficient;
 --
-SN  TolA
+SN  2
 ID  TolA
+DN  Tol-Pal system, TolA
 RQ  1
 EV  IPR014161; TIGR02794; sufficient;
 --
-SN  TolB
+SN  3
 ID  TolB
+DN  Tol-Pal system beta propeller repeat-containing protein, TolB
 RQ  1
 EV  IPR014167; TIGR02800; sufficient;
 --
-SN  TolQ
+SN  4
 ID  TolQ
+DN  Tol-Pal system, TolQ
 RQ  1
 EV  IPR014163; TIGR02796; sufficient;
 --
-SN  TolR
+SN  5
 ID  TolR
+DN  Biopolymer transport, TolR
 RQ  1
 EV  IPR014168; TIGR02801; sufficient;
 --
-SN  YbgC
+SN  6
 ID  Tol-pal region thioesterase YbgC
+DN  Tol-Pal system-associated acyl-CoA thioesterase/YbgC
 RQ  0
 EV  IPR014166; TIGR02799; sufficient;
 --
-SN  YbgF
+SN  7
 ID  Tol-pal region protein YbgF
+DN  Cell division coordinator CpoB/YbgF
 RQ  0
 EV  IPR014162; TIGR02795; sufficient;
 //

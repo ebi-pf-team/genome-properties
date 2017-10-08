@@ -13,18 +13,20 @@ CC  The MotAB complex functions as the stator producing torque in the
 CC  mobile flagellar rotor complex. The stator changes conformation in
 CC  response to the passage of protons across the cytoplasmic membrane.
 CC  This complex is also necessarily a force-generating proton transporter.
-CC   The stator complex contains MotA and MotB subunits in a 4:2 ratio and
+CC  The stator complex contains MotA and MotB subunits in a 4:2 ratio and
 CC  several stators are associated with each motor, each generating torque
 CC  independently.
 --
-SN  MotA
+SN  1
 ID  Flagellar motor stator protein MotA
+DN  Flagellar motor stator protein MotA
 RQ  1
-EV  IPRXXXX; PF01618;
+EV  IPR002898; PF01618;
 EV  IPR022522; TIGR03818;
 --
-SN  MotB
+SN  2
 ID  Flagellar motor stator protein MotB
+DN  Flagellar motor stator protein MotB
 RQ  1
-EV  IPRXXXX; PF00691;
+EV  IPR006665; PF00691;
 //

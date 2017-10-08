@@ -1,5 +1,5 @@
 AC  GenProp0861
-DE  Bacteriocin system, NHLP (nif11/nitrile hydratase leader peptide) Transport group
+DE  Bacteriocin system, NHLP (nif11/nitrile hydratase leader peptide) transport group
 TP  SYSTEM
 AU  Haft DH
 TH  0
@@ -16,33 +16,38 @@ CC  domain for cleavage at the Gly-Gly motif at the end of the leader
 CC  peptide region. This property describes the transport operon as well as
 CC  the leader peptide family. 
 --
-SN  NHLP
+SN  1
 ID  Bacteriocin, nitrile hydratase-homologous leader family
+DN  Bacteriocin, nitrile hydratase-homologous leader family
 RQ  1
 EV  IPR022513; TIGR03793;
 EV  IPR022516; TIGR03798;
 TG  GO:0043213;
 --
-SN  NHLP_A
+SN  2
 ID  NHLP bacteriocin system ABC transporter, peptidase/ATP-binding protein
+DN  NHLP bacteriocin system ABC transporter, peptidase/ATP-binding protein
 RQ  1
 EV  IPR022515; TIGR03797;
 TG  GO:0043213;
 --
-SN  NHLP_H
+SN  3
 ID  NHLP class bacteriocin export protein, HlyD family
+DN  NHLP class bacteriocin export protein, HlyD family
 RQ  1
 EV  IPR022275; TIGR03794;
 TG  GO:0043213;
 --
-SN  NHLP_X
+SN  4
 ID  NHLM bacteriocin system ABC transporter, peptidase/ATP-binding protein
+DN  NHLM bacteriocin system ABC transporter, peptidase/ATP-binding protein
 RQ  1
 EV  IPR022514; TIGR03796;
 TG  GO:0043213;
 --
-SN  NHLP_rS
+SN  5
 ID  NHLP bacteriocin system radical SAM enzyme
+DN  NHLP bacteriocin system radical SAM enzyme
 RQ  0
 EV  IPR023984; TIGR03975;
 TG  GO:0043213;

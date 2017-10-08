@@ -10,34 +10,37 @@ RT  prokaryotes.
 RA  Rodionov DA, Vitreschak AG, Mironov AA, Gelfand MS;
 RL  J Biol Chem. 2003;278:41148-41159.
 CC  This ABC transporter is important for the import of cobalt ions
-CC  essential for the biosynthesis of coenzyme B12.  In this complex, the
+CC  essential for the biosynthesis of coenzyme B12. In this complex, the
 CC  solute-binding (CbiN), permease (CbiQ) and ATP-binding (CbiO) subunits
 CC  are accompanied by a fourth subunit (CbiM) of unknown function,
 CC  although it is believed to be a membrane-spanning protein.
 **  WARNING - See energy-coupling factor transporter property. Many alleged
 **  cobalt transport proteins belong to this broader property instead.
 --
-SN  CbiM
+SN  1
 ID  Cobalt ECF transporter S component CbiM
+DN  Cobalamin (vitamin B12) biosynthesis protein CbiM
 RQ  1
 EV  IPR018024; TIGR00123; sufficient;
 TG  GO:0006824;
 --
-SN  CbiN
+SN  2
 ID  Cobalt transporter, subunit CbiN
+DN  Cobalt transport protein CbiN
 RQ  1
 EV  IPR003705; TIGR01165; sufficient;
 TG  GO:0006824;
 --
-SN  CbiO
+SN  3
 ID  Cobalt ECF transporter ATPase CbiO
-DN  Cobalt ABC transporter, ATP-binding protein
+DN  Cobalt transport protein ATP-binding subunit
 RQ  1
 EV  IPR005876; TIGR01166; sufficient;
 TG  GO:0006824;
 --
-SN  CbiQ
+SN  4
 ID  Cobalt ECF transporter T component CbiQ
+DN  Cobalt ECF transporter T component CbiQ
 RQ  1
 EV  IPR012809; TIGR02454; sufficient;
 TG  GO:0006824;

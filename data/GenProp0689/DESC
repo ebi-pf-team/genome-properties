@@ -8,30 +8,35 @@ CC  and anapleurotic pathways, notably the breakdown for allantoate,
 CC  proline and glycine and the glyoxalate shunt. This pathway is initiated
 CC  by the incorporation of carbon dioxide utilizing the TPP-dependent
 CC  enzyme, tartronate-semialdehyde synthase (aka glyoxalate carbo-ligase,
-CC  gcl).  Note that this is not a carbon-fixation pathway.  For instance,
+CC  gcl). Note that this is not a carbon-fixation pathway. For instance,
 CC  in the case of allantoate catabolism, the production of glyoxalate also
-CC  produces one or more molecules of carbon dioxide.  Intermediates in
+CC  produces one or more molecules of carbon dioxide. Intermediates in
 CC  this pathway (tartronate semialdehyde, and glycerate) may be diverted
 CC  to other final products involved, for instance in covactor
 CC  biosynthesis. Phosphoglycerate may be put to a large number of
 CC  metabolic uses.
 --
-SN  gcl
+SN  1
 ID  Glyoxalate carbo-ligase
+DN  Glyoxalate carbo-ligase
 RQ  1
 EV  IPR006397; TIGR01504; sufficient;
 --
-SN  glxK
-ID  Glycerate kinase (2.7.1.31)
+SN  2
+ID  Glycerate kinase (EC 2.7.1.31)
+DN  Glycerate kinase/glxK (EC 2.7.1.31)
 RQ  1
+EV  IPR004381; TIGR00045; sufficient;
 --
-SN  glxR
-ID  Tartronate semialdehyde reductase (1.1.1.60)
+SN  3
+ID  Tartronate semialdehyde reductase (EC 1.1.1.60)
+DN  Tartronate semialdehyde reductase/glxR (EC 1.1.1.60)
 RQ  1
 EV  IPR006398; TIGR01505; sufficient;
 --
-SN  hyi
+SN  4
 ID  Hydroxypyruvate isomerase
+DN  Hydroxypyruvate isomerase
 RQ  0
 EV  IPR017643; TIGR03234; sufficient;
 //

@@ -16,13 +16,15 @@ CC  PrfH, which is a member of the bacterial class I peptide chain release
 CC  factors, and a homolog of RctB, which is a protein of unknown function
 CC  thought suggest to act in RNA processing.
 --
-SN  prfH
+SN  1
 ID  Peptide chain release factor H
+DN  Peptide chain release factor H
 RQ  1
 EV  IPR017509; TIGR03072; sufficient;
 --
-SN  rtcB_lk
+SN  2
 ID  Translationally-coupled RctB family protein
+DN  Translationally-coupled RctB family protein
 RQ  1
 EV  IPR017510; TIGR03073; sufficient;
 //

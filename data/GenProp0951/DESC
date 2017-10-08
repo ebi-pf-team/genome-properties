@@ -9,18 +9,21 @@ CC  3-(3-hydroxybutyramido)-fucose (D-fuc3NBu) [1,2].  In Aneurinibacillus
 CC  thermoaerophilus, where the final product is D-fuc3NAc, the FdtA and
 CC  FdtB genes have been characterized [1].
 --
-SN  FdtA
+SN  1
 ID  DTDP-6-deoxy-3,4-keto-hexulose isomerase
+DN  DTDP-6-deoxy-3,4-keto-hexulose isomerase/FdtA
 RQ  1
 EV  IPRXXXX; 2757;
 --
-SN  FdtB
+SN  2
 ID  DTDP-6-deoxy-D-xylohex-4-ulose 3-aminotransferase
+DN  DTDP-6-deoxy-D-xylohex-4-ulose 3-aminotransferase/FdtB
 RQ  1
 EV  IPRXXXX; 2850;
 --
-SN  ddodtDg
+SN  3
 ID  Source of 4,6-dideoxy-4-oxo-dTDP-D-glucose
+DN  Source of 4,6-dideoxy-4-oxo-dTDP-D-glucose/ddodtDg
 RQ  1
 EV  GenProp0950;
 //

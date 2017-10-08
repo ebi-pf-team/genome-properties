@@ -28,13 +28,15 @@ CC  extensively in Oxalobacter formigenes, which appears in the human
 CC  microbiome and affects oxalate homeostasis.
 **  I wonder if there is a direct oxalate decarboxylase form (4.1.1.2).
 --
-SN  decarb
+SN  1
 ID  Decarboxylation
+DN  Decarboxylation
 RQ  1
 EV  GenProp0718;
 --
-SN  oxlT
+SN  2
 ID  Oxalate/formate antiporter
+DN  Oxalate/formate antiporter
 RQ  1
 EV  IPR026355; TIGR04259;
 //

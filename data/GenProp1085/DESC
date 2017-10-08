@@ -23,13 +23,15 @@ CC  this moeity are cytosylglucuronate (or hydroxymethylcytosylglucuronate)
 CC  synthase and cytosylglucuronate decarboxylase. The latter is a radical
 CC  SAM enzyme.
 --
-SN  MilC
+SN  1
 ID  Cytosylglucuronate synthase
+DN  Cytosylglucuronate synthase
 RQ  1
 EV  IPR031016; TIGR04467;
 --
-SN  MilG
+SN  2
 ID  Cytosylglucuronate decarboxylase
+DN  Cytosylglucuronate decarboxylase
 RQ  1
 EV  IPR031014; TIGR04466;
 //

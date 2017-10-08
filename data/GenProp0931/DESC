@@ -14,83 +14,99 @@ CC  the Enterobacteriaceae, consisting of D-glucose, L-fucose, D-galactose
 CC  and D-glucosamine. The polymer is generally functionalized with acetyl
 CC  and pyruvoyl groups to a variable extent.
 --
-SN  GDPfuc
+SN  1
 ID  GDP-L-fucose biosynthesis
+DN  GDP-L-fucose biosynthesis/GDPfuc
 RQ  1
 EV  GenProp0930;
 --
-SN  WcaJ
+SN  2
 ID  Undecaprenyl-phosphate glucose phosphotransferase
+DN  Undecaprenyl-phosphate glucose phosphotransferase/WcaJ
 RQ  0
 EV  IPR017473; TIGR03023;
 --
-SN  wcaA
+SN  3
 ID  Colanic acid biosynthesis glycosyl transferase WcaA
+DN  Colanic acid biosynthesis glycosyl transferase WcaA/wcaA
 RQ  1
 EV  IPR024009; TIGR04017;
 --
-SN  wcaB
+SN  4
 ID  Putative colanic acid biosynthesis acetyltransferase WcaB
+DN  Putative colanic acid biosynthesis acetyltransferase WcaB/wcaB
 RQ  1
 EV  IPR024027; TIGR04016;
 --
-SN  wcaC
+SN  5
 ID  Putative colanic acid biosynthesis glycosyl transferase WcaC
+DN  Putative colanic acid biosynthesis glycosyl transferase WcaC/wcaC
 RQ  1
 EV  IPR023916; TIGR04015;
 --
-SN  wcaD
+SN  6
 ID  Putative colanic acid biosynthesis protein wcaD
+DN  Putative colanic acid biosynthesis protein wcaD/wcaD
 RQ  1
 EV  IPR024013; TIGR04010;
 --
-SN  wcaE
+SN  7
 ID  Colanic acid biosynthesis glycosyl transferase WcaE
+DN  Colanic acid biosynthesis glycosyl transferase WcaE/wcaE
 RQ  1
 EV  IPR024010; TIGR04009;
 --
-SN  wcaF
+SN  8
 ID  Colanic acid biosynthesis acetyltransferase WcaF
+DN  Colanic acid biosynthesis acetyltransferase WcaF/wcaF
 RQ  1
 EV  IPR024005; TIGR04008;
 --
-SN  wcaI
+SN  9
 ID  Colanic acid biosynthesis glycosyl transferase WcaI
+DN  Colanic acid biosynthesis glycosyl transferase WcaI/wcaI
 RQ  1
 EV  IPR023910; TIGR04007;
 --
-SN  wcaK
+SN  10
 ID  Colanic acid biosynthesis pyruvyl transferase wcaK
+DN  Colanic acid biosynthesis pyruvyl transferase wcaK/wcaK
 RQ  1
 EV  IPR007345; PF04230;
 EV  IPR023918; TIGR04006;
 --
-SN  wcaL
+SN  11
 ID  Colanic acid biosynthesis glycosyl transferase WcaL
+DN  Colanic acid biosynthesis glycosyl transferase WcaL/wcaL
 RQ  1
 EV  IPR023884; TIGR04005;
 --
-SN  wcaM
+SN  12
 ID  Colanic acid biosynthesis protein wcaM
+DN  Colanic acid biosynthesis protein wcaM/wcaM
 RQ  1
 EV  IPR023882; TIGR04004;
 --
-SN  wza
+SN  13
 ID  Colanic acid export protein wza
+DN  Colanic acid export protein wza/wza
 RQ  1
 --
-SN  wzb
+SN  14
 ID  Low molecular weight protein-tyrosine-phosphatase wzb
+DN  Low molecular weight protein-tyrosine-phosphatase wzb/wzb
 RQ  1
 EV  IPR023485; PF01451;
 --
-SN  wzc
+SN  15
 ID  Tyrosine-protein kinase wzc
+DN  Tyrosine-protein kinase wzc/wzc
 RQ  1
 EV  IPR005702; TIGR01007;
 --
-SN  wzxC
+SN  16
 ID  Lipopolysaccharide biosynthesis protein WzxC
+DN  Lipopolysaccharide biosynthesis protein WzxC/wzxC
 RQ  1
 EV  IPR002797; PF01943;
 //

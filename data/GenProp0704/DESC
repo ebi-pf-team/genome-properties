@@ -11,28 +11,33 @@ CC  may be followed by that of the bifunctional MnmC (YfcK) protein.
 **  site, might happen in either order, maybe ought to be a separate
 **  property.
 --
-SN  GidA
+SN  1
 ID  U34 modification protein GidA
+DN  U34 modification protein GidA
 RQ  1
 EV  IPR004416; TIGR00136; sufficient;
 --
-SN  IscS
+SN  2
 ID  Cysteine desulfurase IscS
+DN  Cysteine desulfurase IscS
 RQ  1
 EV  IPR010240; TIGR02006; sufficient;
 --
-SN  MnmA
+SN  3
 ID  tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+DN  tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase/MnmA
 RQ  1
 EV  IPR004506; TIGR00420; sufficient;
 --
-SN  MnmC_C
+SN  4
 ID  MnmC, C-term model
+DN  MnmC, C-term model
 RQ  0
 EV  IPR017610; TIGR03197; sufficient;
 --
-SN  MnmE
+SN  5
 ID  U34 modification protein MnmE
+DN  U34 modification protein MnmE
 RQ  1
 EV  IPR004520; TIGR00450; sufficient;
 //

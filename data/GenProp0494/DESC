@@ -4,33 +4,39 @@ TP  SYSTEM
 AU  Haft DH
 TH  0
 --
-SN  NikA
+SN  1
 ID  Periplasmic binding protein NikA
+DN  Periplasmic binding protein NikA/NikA
 RQ  1
 EV  IPR011980; TIGR02294; sufficient;
 --
-SN  NikB
+SN  2
 ID  Permease NikB
+DN  Permease NikB/NikB
 RQ  1
 EV  IPR014156; TIGR02789; sufficient;
 --
-SN  NikC
+SN  3
 ID  Permease NikC
+DN  Permease NikC/NikC
 RQ  1
 EV  IPR014157; TIGR02790; sufficient;
 --
-SN  NikD
+SN  4
 ID  ATP-binding protein NikD
+DN  ATP-binding protein NikD/NikD
 RQ  1
 EV  IPR014138; TIGR02770; sufficient;
 --
-SN  NikE
+SN  5
 ID  ATP-binding protein NikE
+DN  ATP-binding protein NikE/NikE
 RQ  1
 EV  IPR014137; TIGR02769; sufficient;
 --
-SN  nikR
+SN  6
 ID  Nickel-responsive transcriptional regulator
+DN  Nickel-responsive transcriptional regulator/nikR
 RQ  0
 EV  IPR014160; TIGR02793; sufficient;
 //

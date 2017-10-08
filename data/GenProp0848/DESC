@@ -32,8 +32,9 @@ CC  from one to another.
 **  PF05058. Have ActA, IcsA, BimA, but not the one from Mycobacterium
 **  marinum. DHH.
 --
-SN  actin
+SN  1
 ID  Actin-based motility protein
+DN  Actin-based motility protein/actin
 RQ  1
 EV  IPR007752; PF05058;
 TG  GO:0070358;

@@ -18,19 +18,20 @@ CC  shorter biological half-life than the toxin. Some chromosomal
 CC  toxin-antitoxin gene pairs appear to act in regulation of cellular
 CC  processes and are not necessarily selfish genetic elements. The
 CC  antitoxin generally is a transcription factor. The toxin may act in
-CC  several ways  This addiction module property describes the RelE system,
+CC  several ways. This addiction module property describes the RelE system,
 CC  where RelE acts by cleaving ribosome-associated transcripts.
 **  So which transcription factors can act as partners?  antidote RelB -
 **  PF04221  
 --
-SN  A-RelB
-ID  Antidote RelB - PF04221
+SN  1
+ID  Antidote RelB
+DN  RelB antitoxin/Antitoxin DinJ
 RQ  1
 EV  IPR007337; PF04221; sufficient;
-EV  IPR006442; TIGR01552; sufficient;
 --
-SN  K-RelE
-ID  Toxin RelE - TIGR02385
+SN  2
+ID  Toxin RelE
+DN  Toxin-antitoxin system, RelE/ParE toxin family
 RQ  1
 EV  IPR007712; TIGR02385; sufficient;
 //

@@ -15,13 +15,15 @@ CC  system, including the precursor and the S-glycosyltransferase.
 **  More than two components, but these are the two key ones. YolF is now
 **  immunity protein SunI.
 --
-SN  SunA
+SN  1
 ID  S-glycopeptide, SunA family
+DN  S-glycopeptide, SunA family
 RQ  1
 EV  IPR026479; TIGR04196;
 --
-SN  SunS
+SN  2
 ID  Peptide cysteine S-glycosyltransferase, SunS family
+DN  Peptide cysteine S-glycosyltransferase, SunS family
 RQ  1
 EV  IPR026499; TIGR04195;
 TG  GO:0016144;

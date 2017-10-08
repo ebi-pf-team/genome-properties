@@ -3,7 +3,7 @@ DE  Protein sorting system, Synergist-CTERM/unknown of Synergistetes
 TP  SYSTEM
 AU  Haft DH
 TH  0
-CC  This HMM describes a putative bacterial C-terminal protein-sorting
+CC  This property describes a putative bacterial C-terminal protein-sorting
 CC  system restricted to the Synergistetes, but not universal in that
 CC  lineage. Model genomes from at least seven genera average ten proteins
 CC  apiece with the Synergist-CTERM signal. Some protein-sorting signals
@@ -20,12 +20,9 @@ CC  targets have a spacer.
 **  Fretibacterium fastidiosum, Cloacibacillus evryensis, Synergistes
 **  jonesii all have.
 --
-SN  sorter
-ID  Unknown sorting enzyme for Synergist-CTERM
-RQ  1
---
-SN  target
+SN  2
 ID  Synergist_CTERM protein sorting domain
+DN  Synergist_CTERM protein sorting domain
 RQ  1
 EV  IPR030821; TIGR04564;
 //

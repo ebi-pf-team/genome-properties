@@ -16,28 +16,33 @@ CC  some pathogenic Firmicutes.
 **  Of the five reference proteomes, only that from strain DSM 16379 has
 **  proteins in all steps in this GenomeProperty.
 --
-SN  artA
+SN  1
 ID  Anchored repeat ABC transporter, ATP-binding subunit
+DN  Anchored repeat ABC transporter, ATP-binding subunit
 RQ  1
 EV  IPR022508; TIGR03771;
 --
-SN  artP
+SN  2
 ID  Anchored repeat ABC transporter, permease subunit
+DN  Anchored repeat ABC transporter, permease subunit
 RQ  1
 EV  IPR022392; TIGR03770;
 --
-SN  artR
+SN  3
 ID  Anchored repeat ABC transporter, anchored relay protein
+DN  Anchored repeat ABC transporter, anchored relay protein
 RQ  1
 EV  IPR022395; TIGR03773;
 --
-SN  artS
+SN  4
 ID  Anchored repeat ABC transporter, substrate-binding subunit
+DN  Anchored repeat ABC transporter, substrate-binding subunit
 RQ  1
 EV  IPR022434; TIGR03772;
 --
-SN  art_rpt
+SN  5
 ID  Actinobacterial surface-anchored domain protein
+DN  Actinobacterial surface-anchored domain protein
 RQ  1
 EV  IPR022435; TIGR03769;
 //

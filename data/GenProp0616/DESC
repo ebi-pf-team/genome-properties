@@ -10,8 +10,9 @@ CC  reduced quinones and the pumping of protons to generate the proton
 CC  gradient for ATP generateion. Examples include the cytochrome bd
 CC  complex and the cytochrome bo complex.
 --
-SN  quin_ox
+SN  1
 ID  Single complex cytochrome (quinone) oxidase
+DN  Single complex cytochrome (quinone) oxidase
 RQ  1
 EV  GenProp0617;
 EV  GenProp0618;

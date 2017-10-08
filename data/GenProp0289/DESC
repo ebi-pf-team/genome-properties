@@ -32,42 +32,44 @@ CC  (alpha) and NrdF (beta), althought the first characterized complex from
 CC  E.coli (NrdAB) turns out to be one of a pair in gammaproteobacteria and
 CC  the more divergent one at that. Where multiple class I enzymes exist in
 CC  a single organism they are presumed to be under differential
-CC  regulation.    Note that earlier reports of a manganese-based class IV
+CC  regulation. Note that earlier reports of a manganese-based class IV
 CC  system related to class I in high GC gram positive species was proved
-CC  to be spurious [2].    Electrons for this reduction are supplied by
+CC  to be spurious [2]. Electrons for this reduction are supplied by
 CC  glutaredoxin-like (NrdH, in some species [3]), or flavodoxins specific
 CC  to this system which are in turn reduced by oxygen via thioredoxin
-CC  reductase.  Detection of this component is not required to set the YES
-CC  state because of incomplete knowledge of the various homologs involved.
-CC     Certain class I RNRs are associated with a gene of unknown function
-CC  (NrdI). NrdI shows up more frequently, but not exclusively in species
-CC  with more than one class I RNR, so it may be involved in regulation in
-CC  some way.    
+CC  reductase. Certain class I RNRs are associated with a gene of unknown 
+CC  function (NrdI). NrdI shows up more frequently, but not exclusively in 
+CC  species with more than one class I RNR, so it may be involved in 
+CC  regulation in some way.
 **  An exhaustive search for RNR-related redoxins has not been carried out
 **  -- but might be profitable...
 --
-SN  NrdA/E
+SN  1
 ID  Aerobic RNR, alpha (large) chain
+DN  Ribonucleotide reductase alpha chain
 RQ  1
 EV  IPR013346; TIGR02506; sufficient;
 TG  GO:0009265;
 EV  IPR013350; TIGR02510; sufficient;
 TG  GO:0009265;
 --
-SN  NrdB/F
+SN  2
 ID  Aerobic RNR, beta (small) chain
+DN  Ribonucleotide reductase small subunit family
 RQ  1
 EV  IPR000358; PF00268; sufficient;
 TG  GO:0009265;
 --
-SN  NrdI
-ID  Unknown function
+SN  3
+ID  Ribonucleotide reductase Class Ib, NrdI
+DN  Ribonucleotide reductase Class Ib, NrdI
 RQ  0
 EV  IPR004465; TIGR00333; sufficient;
 TG  GO:0009265;
 --
-SN  redoxin
+SN  4
 ID  Redoxin, ribonucleotide-reductase related
+DN  Ribonucleotide reductase-associated flavodoxin/Glutaredoxin-like protein NrdH
 RQ  0
 EV  IPR011909; TIGR02194; sufficient;
 TG  GO:0009265;

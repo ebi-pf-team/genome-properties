@@ -50,41 +50,45 @@ CC  radical which initiates the reduction of the substrate. Class I enzymes
 CC  utilize a diferric non-heme iron cluster to generate a stable tyrosine
 CC  radical [2]. Note that earlier reports of a manganese-based class IV
 CC  system related to class I in high GC gram positive species was proved
-CC  to be spurious [3].  Class II enzymes utilize adenosylcobalamin
-CC  (vitamin B12) [4].  Class III enzymes utilize radical-SAM domain
-CC  proteins to generate stable glycine radicals [5].    A very small
+CC  to be spurious [3]. Class II enzymes utilize adenosylcobalamin
+CC  (vitamin B12) [4]. Class III enzymes utilize radical-SAM domain
+CC  proteins to generate stable glycine radicals [5]. A very small
 CC  number of genomes appear to be devoid of ribonucleotide reductase
 CC  sequences, Mycoplasma arthritidis 158L3-1, Mycoplasma bovis Donetta
 CC  PG45, Ureaplasma urealyticum parvum biovar serovar 3, Borrelia
-CC  burgdorferi B31 and Borrelia garinii PBi.  Each of these is a reduced
+CC  burgdorferi B31 and Borrelia garinii PBi. Each of these is a reduced
 CC  genome with a limited metabolic portfolio, however other mycoplasma
-CC  species do contain RNRs.  Three possibilities are likely, 1) these
+CC  species do contain RNRs. Three possibilities are likely, 1) these
 CC  genomes harbor a non-orthologous RNR, 2) these genes are located on
 CC  plasmids or small chromosomes which were lost prior to genomic
 CC  sequencing (Borrelia, in particular has a number of small chromosomes
 CC  and plasmids which were sequenced) or 3) these species strictly rely on
 CC  import of deoxyribonucleic acid from the host environment.
 --
-SN  I
+SN  1
 ID  Class I (aerobic) ribonucleotide reductase: GenProp0289
+DN  Class I (aerobic) ribonucleotide reductase: GenProp0289
 RQ  1
 EV  GenProp0289;
 TG  GO:0009265;
 --
-SN  II
+SN  2
 ID  Class II (B12-dependent) ribonucleotide reductase: GenProp0290
+DN  Class II (B12-dependent) ribonucleotide reductase: GenProp0290
 RQ  1
 EV  GenProp0290;
 TG  GO:0009265;
 --
-SN  III
+SN  3
 ID  Class III (anaerobic) ribonucleotide reductase: GenProp0291
+DN  Class III (anaerobic) ribonucleotide reductase: GenProp0291
 RQ  1
 EV  GenProp0291;
 TG  GO:0009265;
 --
-SN  NrdR
+SN  4
 ID  Transcriptional regulator NrdR
+DN  Ribonucleotide reductase regulator NrdR-like
 RQ  0
 EV  IPR003796; TIGR00244; sufficient;
 TG  GO:0009265;

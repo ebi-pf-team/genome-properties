@@ -15,14 +15,16 @@ CC  PlcR depends on binding to the C-terminal heptapeptide of PapR. PapR is
 CC  exported, cleaved extracellularly by the NprB protease, and the active
 CC  peptide imported by the oligopeptide permease system OppABCDF.
 --
-SN  papR
+SN  1
 ID  Cell-cell signalling protein PapR
+DN  Cell-cell signalling protein PapR/papR
 RQ  1
 EV  IPR009239; PF05968;
 TG  GO:0052100;
 --
-SN  plcR
+SN  2
 ID  Global transcriptional regulator PlcR
+DN  Global transcriptional regulator PlcR/plcR
 RQ  1
 EV  IPRXXXX; 2403;
 TG  GO:0052100;

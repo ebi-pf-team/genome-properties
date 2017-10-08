@@ -21,8 +21,8 @@ CC  Palindromic Repeats, described by Jansen [1]. Certain proteins,
 CC  including Cas1 to Cas4, are found only in genomes with CRISPR repeats,
 CC  and are near these repeats. The repeats vary in size from 24 to 48 bp,
 CC  interspaced by similarly sized non-repetitive sequences. Variants of
-CC  CRISP/Cas loci (subtypes) have been described (Haft, et al., 2005 in
-CC  which certain groups of subtype-specific genes are found in addition to
+CC  CRISP/Cas loci (subtypes) have been described [2] in which certain 
+CC  groups of subtype-specific genes are found in addition to 
 CC  characteristic sets of the more widely distributed cas genes. These
 CC  subtype-specific genes are found proximal to the cas core genes and the
 CC  CRISPR repeats. Unlike these, the set of CRISPR-associated genes
@@ -32,33 +32,39 @@ CC  core genes and repeats. Several of these genes belong to the RAMP
 CC  (Repeat-Associated Mystery Protein) family, so this 6-gene cassette is
 CC  called the CRISPR RAMP module.
 --
-SN  Cmr1
+SN  1
 ID  Cmr1
+DN  CRISPR-associated protein TM1795/Cmr1
 RQ  1
 EV  IPR007522; TIGR01894; sufficient;
 --
-SN  Cmr2
+SN  2
 ID  Cmr2
+DN  CRISPR-associated protein Cmr2
 RQ  1
 EV  IPR013407; TIGR02577; sufficient;
 --
-SN  Cmr3
+SN  3
 ID  Cmr3
+DN  CRISPR-associated protein, TM1793/Cmr3
 RQ  1
 EV  IPR010165; TIGR01888; sufficient;
 --
-SN  Cmr4
+SN  4
 ID  Cmr4
+DN  CRISPR-associated RAMP Cmr4
 RQ  1
 EV  IPR013410; TIGR02580; sufficient;
 --
-SN  Cmr5
+SN  5
 ID  Cmr5
+DN  CRISPR-associated protein, Cmr5
 RQ  1
 EV  IPR010160; TIGR01881; sufficient;
 --
-SN  Cmr6
+SN  6
 ID  Cmr6
+DN  CRISPR-associated protein, TM1791/Cmr6
 RQ  1
 EV  IPR010172; TIGR01898; sufficient;
 //

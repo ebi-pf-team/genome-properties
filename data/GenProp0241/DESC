@@ -27,25 +27,28 @@ RT  Phosphonates and their degradation by microorganisms.
 RA  Kononova SV, Nesmeyanova MA;
 RL  Biochemistry (Mosc). 2002;67:184-195.
 CC  The capability to degrade phosphonates is believed to consist minimally
-CC   of a system for transporting phosphonate compounds (those with
+CC  of a system for transporting phosphonate compounds (those with
 CC  carbon-PO3 linkages) coupled with a pathway for the hydrolysis of such
 CC  bonds. Two classes of system are known, those that handle broad classes
-CC  of phosphonate compounds and those that handle specific molecules.
-CC  Genomes with evidence for either system will be assigned the YES state
-CC  for this property.
+CC  of phosphonate compounds and those that handle specific molecules. This
+CC  property describes species utilizing either system.
+**  Genomes with evidence for either system will be assigned the YES state
+**  for this property.
 **  Futher transport and hydrolysis systems as of yet unmodelled most
 **  likely exist.
 --
-SN  assoc
+SN  1
 ID  Phosphonate catabolism operons associated proteins
+DN  Phosphonate catabolism operons associated proteins
 RQ  0
 EV  IPR017741; TIGR03364; sufficient;
 TG  GO:0019700;
 EV  IPR017670; TIGR03276; sufficient;
 TG  GO:0019700;
 --
-SN  phn_cat
+SN  2
 ID  Phosphonate utilization systems
+DN  Phosphonate utilization systems
 RQ  1
 EV  GenProp0232;
 TG  GO:0019700;

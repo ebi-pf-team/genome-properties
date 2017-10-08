@@ -26,13 +26,15 @@ CC  C-methyltransferase that acts on 2-ketoarginine at the 3-position.
 **  mannopeptimycin biosynthesis, converts phenylalanine to
 **  (2S,3S)-beta-methylphenylalanine
 --
-SN  MrsA
+SN  1
 ID  2-ketoarginine methyltransferase
+DN  2-ketoarginine methyltransferase
 RQ  1
 EV  IPR030899; TIGR04543;
 --
-SN  MrsB
+SN  2
 ID  Aminotransferase, 3-methylarginine-biosynthetic
+DN  Aminotransferase, 3-methylarginine-biosynthetic
 RQ  1
 EV  IPR030898; TIGR04544;
 //

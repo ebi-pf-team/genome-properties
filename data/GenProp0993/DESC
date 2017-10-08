@@ -4,23 +4,26 @@ TP  SYSTEM
 AU  Haft DH
 TH  0
 CC  This Genome Property is a strictly archaeal dedicated protein sorting
-CC  system,featuring a variant class of archaeosortase (TIGR04175) and
+CC  system, featuring a variant class of archaeosortase (TIGR04175) and
 CC  always exactly one target protein, with target sequence PIP-CTERM
 CC  (TIGR04173). In each cassette known so far, a short protein with a
-CC  class III signal peptide (PF04021) sits between the two enzymes.
+CC  class III signal peptide sits between the two enzymes.
 --
-SN  PIPCTERM
+SN  1
 ID  PIP-CTERM protein sorting domain
+DN  PIP-CTERM protein sorting domain
 RQ  1
 EV  IPR026495; TIGR04173;
 --
-SN  artD
+SN  2
 ID  Archaeosortase D
+DN  Archaeosortase D
 RQ  1
 EV  IPR026432; TIGR04175;
 --
-SN  cla_III
+SN  3
 ID  Class III signal peptide protein
+DN  Class III signal peptide protein
 RQ  1
 EV  IPR026451; TIGR04205;
 //

@@ -5,21 +5,23 @@ AU  Haft DH
 TH  0
 CC  This two-step pathway in purine biosynthesis begins with IMP (inosine
 CC  monophosphate), a branch point in purine de novo biosynthesis.
-CC  Adenylosuccinate synthetase (EC 6.3.4.4), product of the PurA gene,
-CC  catalyzes the first committed step to AMP. Adenylosuccinate lyase (EC 
-CC  4.3.2.2), product of the purB gene, catalyzes the second and final
-CC  step, but it also catalyzes the eighth step in IMP biosynthesis.
+CC  Adenylosuccinate synthetase, product of the PurA gene, catalyzes the 
+CC  first committed step to AMP. Adenylosuccinate lyase, product of the 
+CC  purB gene, catalyzes the second and final step, but it also catalyzes 
+CC  the eighth step in IMP biosynthesis.
 **  So PurA is marker for this property and PurB is not, since it is shared
 **  with 4051
 --
-SN  purA
+SN  1
 ID  Adenylosuccinate synthetase
+DN  Adenylosuccinate synthetase/purA (EC 6.3.4.4)
 RQ  1
 EV  IPR001114; TIGR00184;
 TG  GO:0006167;
 --
-SN  purB
+SN  2
 ID  Adenylosuccinate lyase
+DN  Adenylosuccinate lyase/purB (EC 4.3.2.2)
 RQ  1
 EV  IPR004769; TIGR00928;
 TG  GO:0006167;

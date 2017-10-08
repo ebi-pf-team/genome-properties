@@ -8,4 +8,14 @@ CC  activity. This may occur at the level of DNA modification, translation
 CC  to RNA, RNA stability, RNA conformation, RNA degradation, transcription
 CC  to protein, protein conformation, protein stability and/or protein
 CC  degradation.
+--
+SN  1
+ID  Attenuation system: tryptophanase
+RQ  0
+EV  GenProp0456;
+--
+SN  2
+ID  Circadian clock system KaiABC
+RQ  0
+EV  GenProp0465;
 //

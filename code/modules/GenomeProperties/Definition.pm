@@ -130,4 +130,22 @@ sub private {
   my ($self) = @_;
   return($self->{private});
 }
+
+sub checkConnection {
+  my ($self, $gps, $connect) = @_;
+  
+  $connect->{$self->accession}++;
+  foreach my $step (@{ $self->get_steps }){
+   	foreach my $evidence (@{$step->get_evidence}){
+      if($evidence->gp){
+          my $def = $gps->get_def($evidence->gp);
+					if($def){
+						$def->checkConnection($gps, $connect);
+					}
+      } 
+  	}
+	}
+
+}
+
 1;

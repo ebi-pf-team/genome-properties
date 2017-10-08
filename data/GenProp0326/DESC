@@ -40,19 +40,22 @@ CC  genes.
 **  exosortase-associated polysaccharide biosynthesis, type 1 (58378) and
 **  type 2 (58381).
 --
-SN  CTERM
+SN  1
 ID  PEP-CTERM motif
+DN  PEP-CTERM protein-sorting domain
 RQ  1
 EV  IPR013424; TIGR02595; sufficient;
 EV  IPR013424; PF07589; sufficient;
 --
-SN  EpsH
+SN  2
 ID  EpsH family 8TM protein
+DN  Exosortase, EpsH
 RQ  1
 EV  IPR013426; TIGR02602; sufficient;
 --
-SN  EpsI
+SN  3
 ID  EpsI protein/fusion
+DN  Methanolan biosynthesis EpsI
 RQ  0
 EV  IPR014263; TIGR02914; sufficient;
 //

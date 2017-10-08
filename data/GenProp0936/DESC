@@ -18,20 +18,23 @@ CC  protein SdpI and regulatory proteins, were not recognized as universal
 CC  to such systems by phylogenetic profiling mechanisms and are not
 CC  modeled within this Genome Property.
 --
-SN  SdpA
+SN  1
 ID  Antimicrobial peptide system protein, SdpA family
+DN  Antimicrobial peptide system protein, SdpA family
 RQ  1
 EV  IPR023902; TIGR04034;
 TG  GO:0030152;
 --
-SN  SdpB
+SN  2
 ID  Antimicrobial peptide system protein, SdpB family
+DN  Antimicrobial peptide system protein, SdpB family
 RQ  1
 EV  IPR023894; TIGR04033;
 TG  GO:0030152;
 --
-SN  SdpC
+SN  3
 ID  Antimicrobial peptide, SdpC family
+DN  Antimicrobial peptide, SdpC family
 RQ  1
 EV  IPR023888; TIGR04032;
 TG  GO:0030152;

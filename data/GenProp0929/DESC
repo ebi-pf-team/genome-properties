@@ -11,19 +11,23 @@ CC  structure of the outer core varies by serovar (strain).  The genes for
 CC  the outer core are often observed interspersed with the more highly
 CC  conserved and more easily identifiable genes for the inner core.
 --
-SN  WaaG
+SN  1
 ID  LPS outer core glucosyltransferase I
+DN  LPS outer core glucosyltransferase I/WaaG
 RQ  0
 --
-SN  WaaI
+SN  2
 ID  LPS outer core 1,3-galactosyltransferase
+DN  LPS outer core 1,3-galactosyltransferase/WaaI
 RQ  0
 --
-SN  WaaJ
+SN  3
 ID  LPS outer core 1,2-glactosyltransferase
+DN  LPS outer core 1,2-glactosyltransferase/WaaJ
 RQ  0
 --
-SN  WaaK
+SN  4
 ID  LPS outer core 1,2-N-acetylglucosamine transferase
+DN  LPS outer core 1,2-N-acetylglucosamine transferase/WaaK
 RQ  0
 //

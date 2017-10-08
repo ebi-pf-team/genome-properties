@@ -5,16 +5,19 @@ AU  Haft DH
 TH  0
 CC  Putrescine may be generated from ornithine by ornithine decarboxylase.
 CC  Orninthine may in turn come from glutamate (GenProp0118) or arginine
-CC  utilizing arginase or via citrulline (SpeAB, GenProp0639).  This
+CC  utilizing arginase or via citrulline (SpeAB, GenProp0639). This
 CC  Property detects the potential for the biosynthesis of putrescine from
 CC  glutamate via ornithine.
 --
-SN  SpeC/F
+SN  1
 ID  Ornithine decarboxylase
+DN  Ornithine decarboxylase SpeF
 RQ  1
+EV  IPR027568; TIGR04301;
 --
-SN  glu-orn
+SN  2
 ID  Conversion of glutamate to ornithine
+DN  Conversion of glutamate to ornithine
 RQ  1
 EV  GenProp0118;
 //

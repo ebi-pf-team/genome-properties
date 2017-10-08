@@ -11,13 +11,15 @@ CC  The other member is uncharacterized protein TIGR03936.
 **  among the 64 sporulators, meaning inheritance (if not universal
 **  conservation) from parent node down, not lateral transfer.
 --
-SN  partner
+SN  1
 ID  Uncharacterized protein TIGR03936
+DN  Uncharacterized protein TIGR03936
 RQ  1
 EV  IPR018768; TIGR03936;
 --
-SN  rSAM
+SN  2
 ID  Uncharacterized radical SAM protein
+DN  Uncharacterized radical SAM protein
 RQ  1
 EV  IPR023862; TIGR03960;
 //

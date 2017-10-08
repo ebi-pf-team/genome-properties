@@ -25,18 +25,21 @@ CC  nitrogen-fixing root nodules, but also vary in ways that determine host
 CC  range. 
 **  PF02474 (NodA) is about ten percent too broad.
 --
-SN  nodA
+SN  1
 ID  Nodulation N-acyltransferase NodA
+DN  Nodulation N-acyltransferase NodA
 RQ  1
 EV  IPR003484; TIGR04245;
 --
-SN  nodB
+SN  2
 ID  Chitooligosaccharide deacetylase NodB
+DN  Chitooligosaccharide deacetylase NodB
 RQ  1
 EV  IPR026402; TIGR04243;
 --
-SN  nodC
+SN  3
 ID  Chitooligosaccharide synthase NodC
+DN  Chitooligosaccharide synthase NodC
 RQ  1
 EV  IPR026463; TIGR04242;
 //

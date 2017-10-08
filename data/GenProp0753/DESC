@@ -16,32 +16,32 @@ CC  related species. Four genes associated with its biosynthesis,
 CC  designated mshA, mshB, mshC, and mshD, are scattered in the M.
 CC  tuberculosis genome rather than arranged as an operon. A fifth reaction
 CC  associated with this biosynthesis, a phosphatase designated MsaA2, has
-CC  been described by, apparently, not yet assigned to a specific protein.
-CC  Genomes with this biosynthesis system will have other proteins that
-CC  make use of mycothiol.
+CC  been described but not yet assigned to a specific protein. Genomes with 
+CC  this biosynthesis system will have other proteins that make use of 
+CC  mycothiol.
 --
-SN  MshA
+SN  1
 ID  D-inositol-3-phosphate glycosyltransferase
 DN  Mycothiol biosynthesis glycosyltransferase, MshA (EC 2.4.1.-)
 RQ  1
 EV  IPR017814; TIGR03449;
 TG  GO:0010125;
 --
-SN  MshB
+SN  2
 ID  Mycothiol biosynthesis protein B
-DN  Mycothiol biosynthesis protein B (EC 2.4.1.-)
+DN  Mycothiol biosynthesis protein B/MshB (EC 2.4.1.-)
 RQ  1
 EV  IPR017810; TIGR03445;
 TG  GO:0010125;
 --
-SN  MshC
+SN  3
 ID  Mycothiol biosynthesis Cys ligase
-DN  Cysteinyl-tRNA ligase (EC 6.1.1.-)
+DN  Cysteinyl-tRNA ligase/MshC (EC 6.1.1.-)
 RQ  1
 EV  IPR017812; TIGR03447;
 TG  GO:0010125;
 --
-SN  MshD
+SN  4
 ID  Mycothiol biosynthesis acetyltransferase
 DN  Mycothiol biosynthesis acetyltransferase protein, MshD (EC 2.3.1.-)
 RQ  1

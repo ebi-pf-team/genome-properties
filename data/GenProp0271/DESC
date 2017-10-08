@@ -4,28 +4,28 @@ TP  SYSTEM
 AU  Haft DH
 TH  0
 CC  This system consists of three components, typically in a single operon.
-CC  First is a PTS system transporter (TIGR01992) by which trehalose enters
-CC  the cell as trehalose-6-phosphate. Second is trehalose-6-phosphate
-CC  hydrolase, or alpha,alpha-phosphotrehalase (TIGR02403). Third is a
-CC  transcriptional repressor for the operon, with different families in E.
-CC  coli (TIGR02405) and Bacillus (TIGR02404). 
+CC  First is a PTS system transporter by which trehalose enters the cell as 
+CC  trehalose-6-phosphate. Second is trehalose-6-phosphate hydrolase, or 
+CC  alpha,alpha-phosphotrehalase. Third is a transcriptional repressor for 
+CC  the operon, with different families in E.coli and Bacillus. 
 **  no comment yet on whether a TreA should be part of this, make
 **  trehalose-6-P from trehalose.
 --
-SN  PTS
+SN  1
 ID  PTS system, trehalose-specific IIBC component
-DN  PTS system, trehalose-specific IIBC component
+DN  Phosphotransferase system, trehalose-specific IIBC component/PTS
 RQ  1
 EV  IPR011296; TIGR01992; sufficient;
 --
-SN  cleave
+SN  2
 ID  Trehalose-6-phosphate hydrolase
 DN  Trehalose-6-phosphate hydrolase
 RQ  1
 EV  IPR012769; TIGR02403; sufficient;
 --
-SN  repress
+SN  3
 ID  Trehalose operon repressor
+DN  Trehalose operon transcriptional repressor
 RQ  1
 EV  IPR012770; TIGR02404; sufficient;
 EV  IPR012771; TIGR02405; sufficient;

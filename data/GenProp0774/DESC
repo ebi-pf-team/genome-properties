@@ -29,32 +29,37 @@ CC  regulatory proteins.
 **  FecA, and may be called the same in siderophore-proper systems as well
 **  as citrate system.
 --
-SN  FecA
+SN  1
 ID  TonB-dependent ferric citrate receptor FecA
+DN  TonB-dependent ferric citrate receptor FecA/FecA
 RQ  1
 EV  IPRXXXX; 2172;
 TG  GO:0015682;
 --
-SN  FecB
+SN  2
 ID  Citrate-dependent iron(III) ABC transporter, periplasmic binding protein FecB
+DN  Citrate-dependent iron(III) ABC transporter, periplasmic binding protein FecB/FecB
 RQ  1
 EV  IPRXXXX; 2173;
 TG  GO:0015682;
 --
-SN  FecC
+SN  3
 ID  Citrate-dependent iron(III) ABC transporter, permease protein FecC
+DN  Citrate-dependent iron(III) ABC transporter, permease protein FecC/FecC
 RQ  1
 EV  IPRXXXX; 2174;
 TG  GO:0015682;
 --
-SN  FecD
+SN  4
 ID  Citrate-dependent iron(III) ABC transporter, permease protein FecD
+DN  Citrate-dependent iron(III) ABC transporter, permease protein FecD/FecD
 RQ  1
 EV  IPRXXXX; 2175;
 TG  GO:0015682;
 --
-SN  FecE
+SN  5
 ID  Citrate-dependent iron(III) ABC transporter, ATP-binding protein FecE
+DN  Citrate-dependent iron(III) ABC transporter, ATP-binding protein FecE/FecE
 RQ  1
 EV  IPRXXXX; 2176;
 TG  GO:0015682;

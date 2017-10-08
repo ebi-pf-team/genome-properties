@@ -10,44 +10,44 @@ RA  Roof DM, Roth JR;
 RL  J Bacteriol. 1988;170:3855-3863.
 CC  Ethanolamine can be broken down to acetaldehyde by the action of
 CC  ethanolamine ammonia lyase, an adenosyl cobalamin (vitamin B12)
-CC  dependent enzyme.  In its simplest form this system consists only of
+CC  dependent enzyme. In its simplest form this system consists only of
 CC  the two subunits of the enzyme, but ususally also includes a
 CC  transporter for ethanolamine and may include a coexpressed acetaldehyde
 CC  dehydrogenase to ensure that the toxic aldehyde is efficiently
-CC  converted to acetyl-CoA.  A more complex version of this system exists
+CC  converted to acetyl-CoA. A more complex version of this system exists
 CC  (GenProp0292) which includes additional genes coding for the
-CC  proteinaceous coat of a specialized organelle as well as other genes
+CC  proteinaceous coat of a specialized organelle, as well as other genes
 CC  for the efficienct maintenance and regulation of the lyase, handling of
-CC  the product and import of the substrate.  Presumably, this organellar
+CC  the product and import of the substrate. Presumably this organellar
 CC  system in organisms which may rely on ethanolamine as a primary carbon
 CC  source.
 --
-SN  eutB
+SN  1
 ID  Ethanolamine ammonia-lyase, large subunit
 DN  Ethanolamine ammonia-lyase, large subunit (EC 4.3.1.7)
 RQ  1
 EV  IPR010628; PF06751; sufficient;
 TG  GO:0046336;
 --
-SN  eutC
+SN  2
 ID  Ethanolamine ammonia-lyase, small subunit
 DN  Ethanolamine ammonia-lyase, small subunit (EC 4.3.1.7)
 RQ  1
 EV  IPR009246; PF05985; sufficient;
 TG  GO:0046336;
 --
-SN  eutE
+SN  3
 ID  Putative acetaldehyde dehydrogenase (acetylating)
 DN  Putative acetaldehyde dehydrogenase (acetylating)
 RQ  0
 EV  IPR013357; TIGR02518; sufficient;
 TG  GO:0046336;
-EV  IPRXXXX; PF00171;
+EV  IPR015590; PF00171;
 TG  GO:0046336;
 --
-SN  eutH
+SN  4
 ID  Ethanolamine diffusion facilitator
-DN  Ethanolamine diffusion facilitator
+DN  Ethanolamine permease/Ethanolamine utilisation protein EutH
 RQ  0
 EV  IPR004757; TIGR00908; sufficient;
 TG  GO:0046336;

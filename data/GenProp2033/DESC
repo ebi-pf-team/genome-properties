@@ -31,47 +31,52 @@ CC  of the lysosome membrane [1-3].
 --
 SN  1
 ID  Hamartin
-DN  Hamartin (TSC1)
+DN  Hamartin (TSC1)/1
 RQ  1
 EV  IPR007483; PTHR15154; sufficient;
 TG  GO:0051087;
 --
 SN  2
 ID  Tuberin
-DN  Tuberin (TSC2) 
+DN  Tuberin (TSC2) /2
 RQ  1
-EV  IPR003913; PTHR10063:SF8; sufficient;
+EV  IPR003913; PR01431; sufficient;
 TG  GO:0005096;
 --
 SN  3
 ID  GTP-binding protein Rheb
-DN  GTP-binding protein Rheb 
+DN  GTP-binding protein Rheb /3
 RQ  1
-EV  -; PTHR24070:SF332; sufficient;
+EV  -; PTHR24070:SF264; sufficient;
 TG  GO:0005525;
 --
 SN  4
 ID  mTORC1 complex
+DN  mTORC1 complex/4
 RQ  1
 EV  GenProp2030;
 --
 SN  5
 ID  Rag complex
+DN  Rag complex/5
 RQ  1
 EV  GenProp2032;
 --
 SN  6
 ID  GATOR1 complex
+DN  GATOR1 complex/6
 RQ  1
 EV  GenProp2028;
 --
 SN  7
 ID  GATOR2 complex
+DN  GATOR2 complex/7
 RQ  1
 EV  GenProp2029;
 --
 SN  8
 ID  Ragulator complex
+DN  Ragulator complex/8
 RQ  1
 EV  GenProp2031;
 //

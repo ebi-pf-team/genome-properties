@@ -11,38 +11,45 @@ CC  Segment L (negative): polymerase.
 **  Organization is quite similar to GenProp1007 orthobunyavirus protein
 **  set, and RNA polymerase model is shared.
 --
-SN  Phl_G1
+SN  1
 ID  Glycoprotein G1
+DN  Glycoprotein G1
 RQ  1
 EV  IPR010826; PF07243;
 --
-SN  Phl_G2
+SN  2
 ID  Glycoprotein G2
+DN  Glycoprotein G2
 RQ  1
 EV  IPR009878; PF07245;
 --
-SN  Phl_L_n
+SN  3
 ID  RNA polymerase N-terminal domain
+DN  RNA polymerase N-terminal domain
 RQ  0
 EV  IPR022531; PF12603;
 --
-SN  Phl_N
+SN  4
 ID  Nucleocapsid protein
+DN  Nucleocapsid protein
 RQ  1
 EV  IPR009522; PF05733;
 --
-SN  Phl_NSm
+SN  5
 ID  Nonstructural protein NSm
+DN  Nonstructural protein NSm
 RQ  0
 EV  IPR009879; PF07246;
 --
-SN  Phl_NSs
+SN  6
 ID  Nonstructural protein NSs
+DN  Nonstructural protein NSs
 RQ  0
 EV  IPRXXXX; PF11073;
 --
-SN  Phl_pol
+SN  7
 ID  RNA dependent RNA polymerase
+DN  RNA dependent RNA polymerase
 RQ  1
 EV  IPR007322; PF04196;
 //

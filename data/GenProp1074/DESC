@@ -24,14 +24,16 @@ CC  folding in the OM.
 **  So far, no passenger domains, no chaperones, no beta barrel assembly
 **  (BAM) system included in property.
 --
-SN  T5SSsig
+SN  1
 ID  Type V secretion system signal peptide
+DN  Type V secretion system signal peptide
 RQ  0
 EV  IPR024973; PF13018;
 TG  GO:0046819;
 --
-SN  autotran
+SN  2
 ID  T5SS outer membrane translocator
+DN  T5SS outer membrane translocator
 RQ  1
 EV  IPR006315; TIGR01414;
 TG  GO:0046819;

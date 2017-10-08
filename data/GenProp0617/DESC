@@ -33,29 +33,34 @@ CC  the cytochrome b0 complex.  Subunit II (CydB) contains the binding site
 CC  for heme b558.  Additionally, the complex contains two other hemes,
 CC  b595 and d which make up the oxygen reduction site [3].
 --
-SN  CydA
+SN  1
 ID  Subunit I, CydA
+DN  Cytochrome ubiquinol oxidase subunit 1
 RQ  1
 EV  IPR002585; PF01654; sufficient;
 --
-SN  CydB
+SN  2
 ID  Subunit II, CydB
+DN  Cytochrome ubiquinol oxidase subunit 2
 RQ  1
 EV  IPR003317; PF02322; sufficient;
 EV  IPR003317; TIGR00203; sufficient;
 --
-SN  CydC
+SN  3
 ID  Transporter for assembly, CydC
+DN  Transporter for assembly, CydC
 RQ  0
 EV  IPR014223; TIGR02868; sufficient;
 --
-SN  CydD
+SN  4
 ID  Transporter for assembly, CydD
+DN  Transporter for assembly, CydD
 RQ  0
 EV  IPR014216; TIGR02857; sufficient;
 --
-SN  YbgT
+SN  5
 ID  Cyd operon protein YbgT (Proteobacterial)
+DN  Cyd operon protein YbgT (Proteobacterial)
 RQ  0
 EV  IPR011724; TIGR02106; sufficient;
 //

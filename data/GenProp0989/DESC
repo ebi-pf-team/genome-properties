@@ -6,19 +6,21 @@ TH  0
 CC  This protein-sorting system occurs so far only in the alpha
 CC  Proteobacteria. The system is largely dedicated, in the sense that the
 CC  presumed substrate is usually one-per-genome and usually adjacent.
-CC  Substrates contain the motif (V)PEID and among the smallest of any
+CC  Substrates contain the motif (V)PEID and are among the smallest of any
 CC  proposed exosortase targets. The processing enzyme is an unusual fusion
 CC  of an N-terminal exosortase region and a C-terminal region related to
 CC  eukaryotic CAAX prenyl proteases and bacterial bacteriocin
 CC  self-immunity proteins.
 --
-SN  EXOCAAX
+SN  1
 ID  Exosortase/CAAX-like protease, VPEID-CTERM system
+DN  Exosortase/CAAX-like protease, VPEID-CTERM system
 RQ  1
 EV  IPR026420; TIGR04162;
 --
-SN  VPEID
+SN  2
 ID  VPEID-CTERM protein sorting domain
+DN  VPEID-CTERM protein sorting domain
 RQ  1
 EV  IPR026422; TIGR04161;
 //

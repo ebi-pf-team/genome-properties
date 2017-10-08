@@ -4,43 +4,44 @@ TP  METAPATH
 AU  Haft DH
 TH  0
 CC  This property summarizes and contains the various pathways and systems
-CC  required for the complete biosynthesis of vitamin B12, 5-deoxyadenosyl
-CC  cobalamin, from 5-aminolevulinate, S-adenosyl methionine, glutamine,
+CC  required for the complete biosynthesis of vitamin B12 (5-deoxyadenosyl
+CC  cobalamin) from 5-aminolevulinate, S-adenosyl methionine, glutamine,
 CC  cobalt, ATP, 1-amino-2-propanol, GDP, nicotinate mononucleotide and
 CC  dimethylbenzimidazole.
 --
 SN  1
 ID  Uroporphyrinogen III from 5-aminolevulinate: GenProp0220
+DN  Uroporphyrinogen III from 5-aminolevulinate: GenProp0220/1
 RQ  1
 EV  GenProp0220;
 --
-SN  2a
+SN  2
 ID  Cobyrinic acid diamide biosynthesis, aerobic pathway: GenProp0113
+DN  Cobyrinic acid diamide biosynthesis, aerobic pathway: GenProp0113/2a
 RQ  1
 EV  GenProp0113;
 --
-SN  2b
+SN  3
 ID  Cobyrinic acid diamide biosynthesis, anaerobic pathway
+DN  Cobyrinic acid diamide biosynthesis, anaerobic pathway/2b
 RQ  1
 EV  GenProp0275;
 --
 SN  4
 ID  B12 from cob(II)yrinate diamide and alpha-ribazole: GenProp0269
+DN  B12 from cob(II)yrinate diamide and alpha-ribazole: GenProp0269/4
 RQ  1
 EV  GenProp0269;
 --
-SN  5
-ID  Alpha-ribazole from nicotinate mononucleotide and dimethylbenzimidazole: GenProp0270
-RQ  0
-EV  GenProp0270;
---
 SN  6
 ID  Cobalt import systems: GenProp0279
+DN  Cobalt import systems: GenProp0279/6
 RQ  1
 EV  GenProp0279;
 --
-SN  B12-enz
+SN  7
 ID  Cobalamin-utilizing enzymes: GenProp0284
+DN  Cobalamin-utilizing enzymes: GenProp0284/B12-enz
 RQ  1
 EV  GenProp0284;
 //

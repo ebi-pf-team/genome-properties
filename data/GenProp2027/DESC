@@ -38,35 +38,35 @@ CC  are associated with thiscomplex [4].
 --
 SN  1
 ID  Cation channel sperm-associated protein 1
-DN  Cation channel sperm-associated protein 1 
+DN  Cation channel sperm-associated protein 1 /1
 RQ  1
-EV  IPR028746; PTHR10037:SF255; sufficient;
+EV  IPR028746; PTHR10037:SF216; sufficient;
 TG  GO:0005248;
 --
 SN  2
 ID  Cation channel sperm-associated protein 2
-DN  Cation channel sperm-associated protein 2 
+DN  Cation channel sperm-associated protein 2 /2
 RQ  1
-EV  IPR028747; PTHR10037:SF271; sufficient;
+EV  IPR028747; PTHR10037:SF189; sufficient;
 TG  GO:0005248;
 --
 SN  3
 ID  Cation channel sperm-associated protein 3
-DN  Cation channel sperm-associated protein 3 
+DN  Cation channel sperm-associated protein 3 /3
 RQ  1
-EV  -; PTHR10037:SF248; sufficient;
+EV  -; PTHR10037:SF192; sufficient;
 TG  GO:0005248;
 --
 SN  4
 ID  Cation channel sperm-associated protein 4
-DN  Cation channel sperm-associated protein 4 
+DN  Cation channel sperm-associated protein 4 /4
 RQ  1
-EV  IPR028744; PTHR10037:SF236; sufficient;
+EV  IPR028744; PTHR10037:SF225; sufficient;
 TG  GO:0005248;
 --
 SN  5
 ID  Cation channel sperm-associated protein associated subunits
-DN  Cation channel sperm-associated protein associated subunits 
+DN  Cation channel sperm-associated protein associated subunits /5
 RQ  0
 EV  IPR028751; PF15020; sufficient;
 //

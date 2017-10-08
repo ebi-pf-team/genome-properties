@@ -3,14 +3,14 @@ DE  Protoheme from protoporphyrin IX
 TP  PATHWAY
 AU  Haft DH
 TH  0
-CC  This property is a one-step property designed to be useful to create a
-CC  summary property that allows for the identification of heme
-CC  biosynthesis from 5-aminolevulinate, when this property is combined
-CC  with GenProp0220 and GenProp0221.
+CC  This property is a one-step property describing the production of
+CC  protoheme from protoporphyrin IX. It is designed to be used in 
+CC  conjunction with GenProp0220 and GenProp0221 to allow the 
+CC  identification of heme biosynthesis from 5-aminolevulinate. 
 --
-SN  hemH
+SN  1
 ID  Ferrochelatase
-DN  Ferrochelatase
+DN  Ferrochelatase/hemH
 RQ  1
 EV  IPR001015; TIGR00109; sufficient;
 TG  GO:0006779;

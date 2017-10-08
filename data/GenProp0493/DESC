@@ -13,18 +13,18 @@ CC  and that pathway may coexist with AddAB in a genome. In some species,
 CC  AddAB is called RexAB.
 **  Probably should always be a gene pair.
 --
-SN  AddA
+SN  1
 ID  AddA protein
-DN  Double-strand break repair protein AddA
+DN  DNA helicase subunit AddA
 RQ  1
 EV  IPR014151; TIGR02784; sufficient;
 TG  GO:0000724;
 EV  IPR014152; TIGR02785; sufficient;
 TG  GO:0000724;
 --
-SN  AddB
+SN  2
 ID  AddB protein
-DN  Double-strand break repair protein AddB
+DN  DNA helicase subunit AddB
 RQ  1
 EV  IPR014153; TIGR02786; sufficient;
 TG  GO:0000724;

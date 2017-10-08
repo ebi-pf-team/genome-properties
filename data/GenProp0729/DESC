@@ -25,34 +25,39 @@ CC  2-keto-4-methylthiobutyrate, apparantly can be catalyzed by a large
 CC  number of functional analogs using different amino donors, and so is
 CC  not included explicitly in the reconstruction.
 --
-SN  mtnA
+SN  1
 ID  Methylthioribose-1-phosphate isomerase
+DN  Methylthioribose-1-phosphate isomerase/mtnA
 RQ  1
 EV  IPR005251; TIGR00512;
 TG  GO:0019509;
 --
-SN  mtnB
+SN  2
 ID  Methylthioribulose-1-phosphate dehydratase
+DN  Methylthioribulose-1-phosphate dehydratase/mtnB
 RQ  1
 EV  IPR017714; TIGR03328;
 TG  GO:0019509;
 --
-SN  mtnC
+SN  3
 ID  2,3-diketo-5-methylthiopentyl-1-P to aci-reductone
+DN  2,3-diketo-5-methylthiopentyl-1-P to aci-reductone/mtnC
 RQ  1
 EV  IPR023943; TIGR01691;
 TG  GO:0019509;
 EV  GenProp0732;
 TG  GO:0019509;
 --
-SN  mtnD
+SN  4
 ID  Aci-reductone dioxygenase
+DN  Aci-reductone dioxygenase/mtnD
 RQ  1
 EV  IPR004313; PF03079;
 TG  GO:0019509;
 --
-SN  mtnP
+SN  5
 ID  MTA to MTR-1-P
+DN  MTA to MTR-1-P/mtnP
 RQ  1
 EV  IPR010044; TIGR01694;
 TG  GO:0019509;

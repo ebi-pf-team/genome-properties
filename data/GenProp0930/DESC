@@ -1,5 +1,5 @@
 AC  GenProp0930
-DE  GDP-4-keto-6-deoxymannose biosynthesis from b-D-fructose-6-phosphate
+DE  GDP-4-keto-6-deoxymannose biosynthesis from beta-D-fructose-6-phosphate
 TP  METAPATH
 AU  Haft DH
 TH  0
@@ -7,16 +7,18 @@ CC  The sugar intermediate GDP-4-keto-6-deoxymannose is produced in a
 CC  4-step pathway from beta-D-fructose-6-phosphate using the ManABC and
 CC  Gmd gene products.  Mannose may be produced as a side-product of this
 CC  pathway by the inclusion of the Gmm gene product (GDP-mannose mannosyl
-CC  hydrolase).  GDP-4-keto-6-deoxymannose may be converted to GDP-L-fucose
+CC  hydrolase). GDP-4-keto-6-deoxymannose may be converted to GDP-L-fucose
 CC  by the Fcl gene product, to perosamine by Per, or to colicin by ColCD.
 --
-SN  GDP-man
+SN  1
 ID  Source of GDP-D-mannose
+DN  Source of GDP-D-mannose
 RQ  1
 EV  GenProp1017;
 --
-SN  gmd
+SN  2
 ID  GDP-mannose-4,6-dehydratase
+DN  GDP-mannose-4,6-dehydratase/Gmd
 RQ  1
 EV  IPR006368; TIGR01472;
 //

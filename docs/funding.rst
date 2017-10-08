@@ -1,6 +1,8 @@
 Funding
 =======
 
+National Science Foundation, grant number 1458808
+
 Genome Properties is supported by the following organisations:
 
 
@@ -24,15 +26,3 @@ Genome Properties is supported by the following organisations:
 | |nsf|   | National Science Foundation                                |
 +---------+------------------------------------------------------------+
 
-
-.. raw:: html 
-
-  <!--
-
-|embl| EMBL is EMBL-EBI's parent organisation.
-|bbsrc| Biotechnology and Biological Sciences Research Council
-|nsf| National Science Foundation
-
-.. raw:: html 
-
-  -->

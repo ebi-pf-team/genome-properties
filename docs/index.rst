@@ -11,8 +11,11 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   background
-   flatfile
-   calculating
+   background.rst
+   content.rst
+   flatfile.rst
+   calculating.rst
+   contributing.rst
+   funding.rst
      
 

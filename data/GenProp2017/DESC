@@ -29,10 +29,7 @@ SN  1
 ID  Presenilin
 DN  Presenilin 
 RQ  1
-EV  IPR002031; PTHR10202:SF27; sufficient;
-TG  GO:0042500;
-TG  GO:0042987;
-EV  IPR001493; PTHR10202:SF26; sufficient;
+EV  IPR002031; PTHR10202; sufficient;
 TG  GO:0042500;
 TG  GO:0042987;
 --

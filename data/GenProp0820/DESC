@@ -15,4 +15,9 @@ SN  2
 ID  Siderophore biosynthesis
 RQ  0
 EV  GenProp0770;
+--
+SN  3
+ID  Protoheme from protoporphyrin IX
+RQ  0
+EV  GenProp0222;
 //

@@ -12,23 +12,27 @@ CC  the sorting enzyme itself. In a majority of species with this system,
 CC  the sortase and target pair are accompanied by a histidine kinase and
 CC  response regulator pair.
 --
-SN  pdsHK
+SN  1
 ID  Proteobacterial dedicated sortase system histidine kinase
+DN  Proteobacterial dedicated sortase system histidine kinase
 RQ  0
 EV  IPR022510; TIGR03785;
 --
-SN  pdsLPXT
+SN  2
 ID  LPXTG-anchored VIT/VWA domain protein
+DN  LPXTG-anchored VIT/VWA domain protein
 RQ  1
 EV  IPR022440; TIGR03788;
 --
-SN  pdsRR
+SN  3
 ID  Proteobacterial dedicated sortase system response regulator
+DN  Proteobacterial dedicated sortase system response regulator
 RQ  0
 EV  IPR022305; TIGR03787;
 --
-SN  pdsSRT
+SN  4
 ID  Sortase, proteobacterial dedicated type
+DN  Sortase, proteobacterial dedicated type
 RQ  1
 EV  IPR022445; TIGR03784;
 //

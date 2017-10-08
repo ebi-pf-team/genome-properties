@@ -3,21 +3,40 @@ DE  Restriction enzyme system, type I
 TP  SYSTEM
 AU  Haft DH
 TH  0
-CC  According to notes in PF01420:  one DNA specificity (S) domain  two
-CC  modification (M) units  two restriction (R) units. 
+RN  [1]
+RM  15121719
+RT  S-Adenosyl-L-methionine-dependent restriction enzymes.
+RA  Sistla S, Rao DN;
+RL  Crit Rev Biochem Mol Biol. 2004;39:1-19.
+RN  [2]
+RM  12595133
+RT  Complex restriction enzymes: NTP-driven molecular motors.
+RA  Bourniquel AA, Bickle TA;
+RL  Biochimie. 2002;84:1047-1059.
+CC  Type I restriction endonucleases are components of prokaryotic DNA 
+CC  restriction-modification mechanisms that protects the organism against 
+CC  invading foreign DNA. Type I enzymes have three different subunits, 
+CC  M (modification), S (specificity), and R (restriction), that form 
+CC  multifunctional enzymes with restriction, methylase, and ATPase activities 
+CC  [1,2].
+**  According to notes in PF01420:  one DNA specificity (S) domain  two
+**  modification (M) units  two restriction (R) units. 
 --
-SN  M
-ID  M modification methylase PF02384
+SN  1
+ID  M modification methylase
+DN  DNA methylase, adenine-specific/M
 RQ  1
 EV  IPR003356; PF02384; sufficient;
 --
-SN  R
-ID  R restriction PF04313
+SN  2
+ID  R restriction
+DN  Restriction endonuclease, type I, HsdR
 RQ  1
 EV  IPR007409; PF04313; sufficient;
 --
-SN  S
-ID  S specificity PF01420
+SN  3
+ID  S specificity
+DN  Restriction endonuclease, type I, HsdS
 RQ  1
 EV  IPR000055; PF01420; sufficient;
 //

@@ -3,9 +3,9 @@ DE  O-antigen polymerization/export system wzx/wzy/wzz
 TP  METAPATH
 AU  Haft DH
 TH  0
-CC  The Wzx/Wzy/Wzz system trnasports the O-antigen monomers from the
+CC  The Wzx/Wzy/Wzz system transports the O-antigen monomers from the
 CC  cytoplasmic face of the plama membrane to the periplamic face and then
-CC  polymerizes the monomers to form the mature O-antigen.  The Wzx protein
+CC  polymerizes the monomers to form the mature O-antigen. The Wzx protein
 CC  is the transporter (aka the flippase), Wzy is the polymerase and Wzz is
 CC  the chain length determinant protein.
 **  Note that Pfam model PF04932, Wzy_C, was previously designated
@@ -15,18 +15,21 @@ CC  the chain length determinant protein.
 **  outer core, making complete LPS. TIGR04370 models an oligosaccharide
 **  repeat unit polymerase.
 --
-SN  wzx
+SN  1
 ID  O-antigen transporter (flippase)
+DN  O-antigen transporter (flippase)/wzx
 RQ  1
 EV  IPR002797; PF01943;
 --
-SN  wzy
+SN  2
 ID  O-antigen polymerase
+DN  O-antigen polymerase/wzy
 RQ  1
 EV  IPRXXXX; TIGR04370;
 --
-SN  wzz
+SN  3
 ID  O-antigen chain length determinant protein
+DN  O-antigen chain length determinant protein/wzz
 RQ  1
 EV  IPR003856; PF02706;
 EV  IPR014345; TIGR03007;

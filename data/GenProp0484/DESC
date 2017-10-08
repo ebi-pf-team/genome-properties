@@ -22,80 +22,88 @@ RL  J Bacteriol. 2004;186:5480-5485.
 CC  A system for the transfer of plasmid DNA between cells via a pilus. 
 CC  This system is a specialized type-IV secretion system.
 --
-SN  TraF
+SN  1
 ID  TraF pilus assembly protein
+DN  Type-F conjugative transfer system pilin assembly protein TraF
 RQ  1
 EV  IPR014110; TIGR02739; sufficient;
 TG  GO:0009291;
 --
-SN  TraF-lik
+SN  2
 ID  Possible alternate TraF or TrbB
+DN  Type IV conjugative transfer system protein TraF
 RQ  0
 EV  IPR014111; TIGR02740; sufficient;
 TG  GO:0009291;
 --
-SN  TraH
+SN  3
 ID  TraH pilus assembly protein
+DN  Type IV conjugative transfer system protein TraH
 RQ  1
 EV  IPR010927; PF06122; sufficient;
 TG  GO:0009291;
 --
-SN  TraI
+SN  4
 ID  TraI plasmid relaxase/helicase protein
+DN  Conjugative transfer relaxase protein TraI
 RQ  1
 EV  IPR014129; TIGR02760; sufficient;
 TG  GO:0009291;
 --
-SN  TraN
+SN  5
 ID  TraN outer membrane mating-pair stabilization protein
+DN  Type-F conjugative transfer system mating-pair stabilisation protein TraN
 RQ  1
 EV  IPR014121; PF06986; sufficient;
 TG  GO:0009291;
 EV  IPR014121; TIGR02750; sufficient;
 TG  GO:0009291;
 --
-SN  TraQ
+SN  6
 ID  TraQ pilin inner membrane chaperone
+DN  Type-F conjugative transfer system pilin chaperone TraQ
 RQ  0
 EV  IPR014112; TIGR02741; sufficient;
 TG  GO:0009291;
 --
-SN  TraU
+SN  7
 ID  TraU mating-pair stabilization protein
+DN  TraU mating-pair stabilization protein
 RQ  1
 EV  IPR009649; PF06834; sufficient;
 TG  GO:0009291;
 --
-SN  TraW
+SN  8
 ID  TraW pilus assembly protein
+DN  Type-F conjugative transfer system protein TraW
 RQ  1
 EV  IPR014114; TIGR02743; sufficient;
 TG  GO:0009291;
 --
-SN  TraX
+SN  9
 ID  TraX pilin acetylase
+DN  TType-F conjugative transfer system pilin acetylase TraX
 RQ  0
 EV  IPR014125; TIGR02755; sufficient;
 TG  GO:0009291;
 --
-SN  TrbB
+SN  10
 ID  TrbB pilus assembly disulfide isomerase
+DN  Type-F conjugative transfer system pilin assembly thiol-disulphide isomerase TrbB
 RQ  1
 EV  IPR014109; TIGR02738; sufficient;
 TG  GO:0009291;
 --
-SN  TrbB-lik
-ID  Possible alternate TrbB, CXXC-containing protein
-RQ  0
---
-SN  TrbC
+SN  12
 ID  TrbC pilus assembly protein
+DN  Type-F conjugative transfer system pilin assembly protein TrbC
 RQ  1
 EV  IPR014113; TIGR02742; sufficient;
 TG  GO:0009291;
 --
-SN  TrbI
+SN  13
 ID  TrbI pilus assembly protein
+DN  Type-F conjugative transfer system protein TrbI 
 RQ  0
 EV  IPR014115; TIGR02744; sufficient;
 TG  GO:0009291;

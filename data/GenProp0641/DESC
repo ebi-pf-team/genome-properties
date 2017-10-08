@@ -6,19 +6,21 @@ TH  0
 CC  Spermine, spermidine and putrescine are a family of polyamines
 CC  (positively charged organic polycations) that are important for
 CC  cellular growth, most likely by stabilizing polynucleotides and
-CC  membranes.  Spermidine is derived from putrescine and the
+CC  membranes. Spermidine is derived from putrescine and the
 CC  4-aminobutyrate moiety of methionine (indirectly via S-adenosyl
-CC  methionine).  Spermine is synthesized by a second addition of
+CC  methionine). Spermine is synthesized by a second addition of
 CC  4-aminobutyrate to spermidine, and is more commonly found in
 CC  eukaryotes.
 --
-SN  speD
+SN  1
 ID  S-adenosylmethionine decarboxylase
+DN  S-adenosylmethionine decarboxylase/speD
 RQ  1
 EV  IPR003826; PF02675; sufficient;
 --
-SN  speE
+SN  2
 ID  Spermidine synthase
+DN  Spermidine synthase/speE
 RQ  1
 EV  IPR001045; TIGR00417; sufficient;
 //

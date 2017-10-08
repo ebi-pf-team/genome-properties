@@ -11,7 +11,7 @@ RA  Marin K, Zuther E, Kerstan T, Kunert A, Hagemann M;
 RL  J Bacteriol. 1998;180:4843-4849.
 CC  Glucosylglycerol is an osmolyte, a solute compatible with biological
 CC  function inside cells that serves as an osmoprotectant. Other osmolytes
-CC  include trehalose, sucrose, and glycine betaine and other betaines.
+CC  include trehalose, sucrose, glycine betaine, and other betaines.
 CC  Betaines offer stronger osmoprotection than glucosylglycerol but are
 CC  nitrogen-requiring. The key enzyme, glucosylglycerol-phosphate
 CC  synthase, uses ADP-glucose + sn-glycerol 3-phosphate.
@@ -26,21 +26,21 @@ CC  roles, such as in glycogen biosynthesis.
 **  Stenotrophomonas sequence in NCBI, running ahead of NIAA, very close in
 **  sequence. DHH.
 --
-SN  ADPgluc
+SN  1
 ID  Glucose-1-phosphate adenylyltransferase
 DN  Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27)
 RQ  1
 EV  IPR011831; TIGR02091; sufficient;
 TG  GO:0006970;
 --
-SN  Pase
+SN  2
 ID  Glucosylglycerol 3-phosphatase
 DN  Glucosylglycerol 3-phosphatase (EC 3.1.3.69)
 RQ  1
 EV  IPR012765; TIGR02399; sufficient;
 TG  GO:0006970;
 --
-SN  synth
+SN  3
 ID  Glucosylglycerol-phosphate synthase
 DN  Glucosylglycerol-phosphate synthase (EC 2.4.1.213)
 RQ  1

@@ -15,4 +15,19 @@ SN  2
 ID  RuvABC Holliday junction complex
 RQ  0
 EV  GenProp0198;
+--
+SN  3
+ID  F-type conjugation system
+RQ  0
+EV  GenProp0489;
+--
+SN  4
+ID  Ti-type conjugation system
+RQ  0
+EV  GenProp0490;
+--
+SN  5
+ID  DNA gyrase
+RQ  0
+EV  GenProp0699;
 //

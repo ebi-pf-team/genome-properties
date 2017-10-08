@@ -19,38 +19,38 @@ CC  the two activities of this pathway are encoded in a fusion protein,
 CC  designated urea amidolyase. This pathway appears to function primarily
 CC  for the purpose of obtaining nitrogen in the form of ammonia. A pair of
 CC  uncharacterized, tandem, homologous genes, restricted to organisms with
-CC  this system and adjacent to the known genes, has been added to this
+CC  this system and adjacent to the known genes, have been added to this
 CC  Genome Property.
 --
-SN  ABC_bin
+SN  1
 ID  ABC transporter periplasmic binding protein, urea carboxylase region
-DN  ABC transporter periplasmic binding protein, urea carboxylase region
+DN  ABC transporter, urea utilisation-associated, substrate-binding protein
 RQ  0
 EV  IPR017793; TIGR03427;
 TG  GO:0043419;
 --
-SN  alloph
+SN  2
 ID  Allophanate hydrolase
 DN  Allophanate hydrolase (EC:3.5.1.54)
 RQ  1
 EV  IPR014085; TIGR02713; sufficient;
 TG  GO:0043419;
 --
-SN  uca
+SN  3
 ID  Urea carboxylase
 DN  UreA carboxylase (EC:6.3.4.6)
 RQ  1
 EV  IPR014084; TIGR02712; sufficient;
 TG  GO:0043419;
 --
-SN  unchar1
+SN  4
 ID  Urea carboxylase-associated protein 1
 DN  UreA carboxylase-associated protein 1
 RQ  1
 EV  IPR017791; TIGR03424;
 TG  GO:0043419;
 --
-SN  unchar2
+SN  5
 ID  Urea carboxylase-associated protein 2
 DN  UreA carboxylase-associated protein 2
 RQ  1

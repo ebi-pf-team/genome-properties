@@ -11,119 +11,130 @@ RA  Rodionov DA, Vitreschak AG, Mironov AA, Gelfand MS;
 RL  J Biol Chem. 2003;278:41148-41159.
 CC  This property covers that part of the Vitamin B12 (cobalamin)
 CC  biosynthesis pathway in which uroporphyrinogen III is converted to
-CC  cobyrinic acid diamide under anaerobic conditions.  This process
-CC  differs from the aerobic version in several key respects.  The most
+CC  cobyrinic acid diamide under anaerobic conditions. This process
+CC  differs from the aerobic version in several key respects. The most
 CC  striking is the fact that here the cobalt atom is inserted early in the
 CC  process (after the formation of the branchpoint compound precorrin-2 by
 CC  CbiK or CbiX) in an ATP-independent manner, as opposed to the aerobic
 CC  pathway in which the cobalt is inserted at the end by a multimeric
-CC  ATP-hydrolyzing system.  Another distinctive feature is the nature of
-CC  the enzyme catalyzing the oxidative ring contraction.  In the aerobic
+CC  ATP-hydrolyzing system. Another distinctive feature is the nature of
+CC  the enzyme catalyzing the oxidative ring contraction. In the aerobic
 CC  pathway, this is carried out by an oxygenase (CobG), while the
 CC  as-of-yet uncharacterized anaerobic enzyme clearly must utilize some
-CC  other mechanism.  Finally, the methylation at position C-1 at the point
+CC  other mechanism. Finally, the methylation at position C-1 at the point
 CC  of the ring contraction is carried out by CobF in the aerobic pathway,
 CC  and by an as-of-yet uncharacterized enzyme in the anaerobic pathway
 CC  (presumably because the proximity of this carbon to the cobalt changes
-CC  the chemistry somewhat).  Two genes (CbiD and CbiG) are found in most
+CC  the chemistry somewhat). Two genes (CbiD and CbiG) are found in most
 CC  anaerobic B12 biosynthetic clusters and have been shown to be essential
-CC  to the pathway.  CbiD is homologous to methylases and is likely to
-CC  catalyze the C-1 methylation.  CbiG then, by process of elimination and
+CC  to the pathway. CbiD is homologous to methylases and is likely to
+CC  catalyze the C-1 methylation. CbiG then, by process of elimination and
 CC  (coupled with unique nature of the chemical transformation) its lack of
-CC  homology to other known classes of enzyme is likely to catalyze the
-CC  ring contraction.    CbiJ, the analog of precorrin-6x reductase (CobK),
-CC  is not found in deltaproteobacteria, a number of archaea and a
-CC  scattering of other species, oftentimes this is the only component
-CC  missing.  Most likely, an unknown reductase replaces CbiJ/CobK in these
-CC  species.  For this reason, the detection of this component is not a
-CC  requirement for the assertion of YES for this property.    The majority
-CC  of genomes for which some evidence has been asserted are missing
-CC  evidence of the CbiK or CbiX chelatase.  This step is still required
-CC  for assertion of the YES state since it is part of the suite of
-CC  components which are diagnostic for the anaerobic pathway.  The
+CC  homology to other known classes of enzyme, is likely to catalyze the
+CC  ring contraction. CbiJ, the analog of precorrin-6x reductase (CobK),
+CC  is not found in deltaproteobacteria, a number of archaea and some other 
+CC  species, often this is the only component missing. Most likely, an 
+CC  unknown reductase replaces CbiJ/CobK in these species. For this reason 
+CC  the detection of this component is not a required step in this property.    
+CC  The majority of genomes for which some evidence has been asserted, are 
+CC  missing evidence of the CbiK or CbiX chelatase. This step is still 
+CC  required for the assertion of the YES state since it is part of the 
+CC  suite of components which are diagnostic for the anaerobic pathway. The
 CC  evidence for the anaerobic pathway is nonetheless quite strong when
 CC  this is the only component missing, especially when the aerobic pathway
 CC  is not supported.
 --
-SN  CbiA
+SN  1
 ID  Cobyrinate diamide synthase (CbiA)
+DN  Cobyrinic acid a,c-diamide synthase CbiA
 RQ  1
 EV  IPR004484; TIGR00379; sufficient;
 TG  GO:0019251;
 --
-SN  CbiC
+SN  2
 ID  C-11, C-12 mutase (CbiC)
+DN  Cobalamin biosynthesis precorrin-8X methylmutase CobH/CbiC
 RQ  1
 EV  IPR003722; PF02570; sufficient;
 TG  GO:0019251;
 --
-SN  CbiD
+SN  3
 ID  CbiD
+DN  Cobalt-precorrin-5B C(1)-methyltransferase CbiD
 RQ  1
 EV  IPR002748; TIGR00312; sufficient;
 TG  GO:0019251;
 EV  IPR002748; PF01888; sufficient;
 TG  GO:0019251;
 --
-SN  CbiE
+SN  4
 ID  C-5,15 methylase/C-12 decarboxylase (CbiE)
+DN  Cobalamin (vitamin B12) biosynthesis CbiE, precorrin-6Y methyltransferase
 RQ  1
 EV  IPR012818; TIGR02467; sufficient;
 TG  GO:0019251;
 --
-SN  CbiF
+SN  5
 ID  C-11 methylase (CbiF)
+DN  Cobalamin (vitamin B12) biosynthesis CobM/CbiF, precorrin-4 C11-methyltransferase
 RQ  1
 EV  IPR006362; TIGR01465; sufficient;
 TG  GO:0019251;
 --
-SN  CbiG
+SN  6
 ID  CbiG
+DN  CobE/GbiG C-terminal domain
 RQ  1
 EV  IPR002750; PF01890; sufficient;
 TG  GO:0019251;
 --
-SN  CbiH
+SN  7
 ID  C-17 methylase (CbiH)
+DN  Precorrin-3B C17-methyltransferase domain
 RQ  1
 EV  IPR006363; TIGR01466; sufficient;
 TG  GO:0019251;
 --
-SN  CbiJ
+SN  8
 ID  Co-precorrin 6 reductase (CbiJ)
+DN  Precorrin-6x reductase (CbiJ)
 RQ  0
 EV  IPR003723; TIGR00715; sufficient;
 TG  GO:0019251;
 EV  IPR003723; PF02571; sufficient;
 TG  GO:0019251;
 --
-SN  CbiK/X
+SN  9
 ID  Cobaltochelatase, monomeric
+DN  Cobalamin (vitamin B12) biosynthesis CbiX
 RQ  1
 EV  IPR010388; PF06180; sufficient;
 TG  GO:0019251;
 EV  IPR002762; PF01903; sufficient;
 TG  GO:0019251;
 --
-SN  CbiL
+SN  10
 ID  C-20 methylase (CbiL)
+DN  Precorrin-2 C(20)-methyltransferase domain (CbiL)
 RQ  1
 EV  IPR006364; TIGR01467; sufficient;
 TG  GO:0019251;
 --
-SN  CbiT
+SN  11
 ID  C-5,15 methylase/C-12 decarboxylase  (CbiT)
+DN  Cobalamin biosynthesis, precorrin-6Y methyltransferase, CbiT subunit
 RQ  1
 EV  IPR014008; TIGR02469; sufficient;
 TG  GO:0019251;
 --
-SN  Co_red
+SN  12
 ID  Cobalt reductase
+DN  Cobalt reductase/Co_red
 RQ  0
 --
-SN  CobA
-ID  Uroporphyrinogen methyltransferase (2.1.1.107)
-DN  Uroporphyrin-III C-methyltransferase
+SN  13
+ID  Uroporphyrinogen methyltransferase
+DN  Uroporphyrin-III C-methyltransferase (EC 2.1.1.107)
 RQ  1
 EV  IPR006366; TIGR01469; sufficient;
 TG  GO:0019251;

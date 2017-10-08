@@ -28,19 +28,17 @@ CC  Decarboxylation/antiporter systems for this and other (e.g.
 CC  aspartate-alanine) substrate pairs can provide protection against
 CC  acidic pH.
 --
-SN  PotE
+SN  1
 ID  Ornithine-putrescine antiporter
+DN  Ornithine-putrescine antiporter
 RQ  1
-EV  IPRXXXX; 2647;
-TG  GO:0010248;
 EV  IPR027566; TIGR04299;
 TG  GO:0010248;
 --
-SN  SpeF
+SN  2
 ID  Ornithine decarboxylase
+DN  Ornithine decarboxylase
 RQ  1
-EV  IPRXXXX; 2646;
-TG  GO:0010248;
 EV  IPR027568; TIGR04301;
 TG  GO:0010248;
 //

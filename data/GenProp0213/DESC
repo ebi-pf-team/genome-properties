@@ -4,30 +4,27 @@ TP  GUILD
 AU  Haft DH
 TH  0
 CC  A number of systems have evolved to protect cells from reactive oxygen
-CC  species (peroxides, superoxides, hydroxyl radicals, etc...).  This
+CC  species (peroxides, superoxides, hydroxyl radicals, etc.) This
 CC  property creates a list of those genes identified as being related to
 CC  this protective role.
 **  We need a more subtle way of grouping and presenting these guys
 --
-SN  Catalase
+SN  1
 ID  Catalases
-DN  NOT APPLICABLE
 RQ  0
 EV  IPR011614; PF00199; sufficient;
 EV  IPR007760; PF05067; sufficient;
 EV  IPR000763; TIGR00198; sufficient;
 --
-SN  MSR
+SN  2
 ID  Methionine sulfoxide reductases
-DN  NOT APPLICABLE
 RQ  0
 EV  IPR002579; TIGR00357; sufficient;
 EV  IPR002569; TIGR00401; sufficient;
 EV  IPR002569; PF01625; sufficient;
 --
-SN  Peroxida
+SN  3
 ID  Peroxidases
-DN  NOT APPLICABLE
 RQ  0
 EV  IPR000763; TIGR00198; sufficient;
 EV  IPR004674; TIGR00777; sufficient;
@@ -37,9 +34,8 @@ EV  IPR019791; PF03098; sufficient;
 EV  IPR004852; PF03150; sufficient;
 EV  IPR017559; TIGR03137; sufficient;
 --
-SN  SOD
+SN  4
 ID  Superoxide dismutases
-DN  NOT APPLICABLE
 RQ  0
 EV  IPR001424; PF00080; sufficient;
 EV  IPR019831; PF00081; sufficient;

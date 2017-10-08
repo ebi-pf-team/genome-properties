@@ -7,24 +7,28 @@ TH  0
 **  upper pathways of both this property and protocatechuate to lower
 **  pathway, beta-ketoadipate, 57271.
 --
-SN  catA
+SN  1
 ID  Catechol 1,2-dioxygenase
+DN  Catechol 1,2-dioxygenase/catA
 RQ  1
 EV  IPR012801; TIGR02439; sufficient;
 EV  IPR012800; TIGR02438; sufficient;
 --
-SN  catB
+SN  2
 ID  Muconate cycloisomerase
+DN  Muconate cycloisomerase/catB
 RQ  1
 EV  IPR013370; TIGR02534; sufficient;
 --
-SN  catC
+SN  3
 ID  Muconolactone delta-isomerase
+DN  Muconolactone delta-isomerase/catC
 RQ  1
 EV  IPR003464; TIGR03221; sufficient;
 --
-SN  catD
+SN  4
 ID  3-oxoadipate enol-lactonase
+DN  3-oxoadipate enol-lactonase/catD
 RQ  1
 EV  IPR026968; TIGR02427; sufficient;
 //

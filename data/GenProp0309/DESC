@@ -10,35 +10,40 @@ RT  Escherichia coli.
 RA  Schneider BL, Kiupakis AK, Reitzer LJ;
 RL  J Bacteriol. 1998;180:4278-4286.
 CC  The AST pathway converts the carbon skeleton of arginine into
-CC  glutamate, with the concomitant production of ammonia and conversion of
+CC  glutamate, with the concomitant production of ammonia, and conversion of
 CC  succinyl-CoA to succinate and CoA.
 --
-SN  1_astA
+SN  1
 ID  Arginine N-succinyltransferase
+DN  Arginine N-succinyltransferase
 RQ  1
 EV  IPR017650; TIGR03244; sufficient;
 TG  GO:0019544;
 --
-SN  2_astB
+SN  2
 ID  Succinylarginine dihydrolase
+DN  Succinylarginine dihydrolase
 RQ  1
 EV  IPR007079; TIGR03241; sufficient;
 TG  GO:0019544;
 --
-SN  3_astC
+SN  3
 ID  Succinylornithine transaminase
+DN  Acetyl/Succinylornithine transaminase
 RQ  1
-EV  IPRXXXX; TIGR03246;
+EV  IPR017652; TIGR03246;
 TG  GO:0019544;
 --
-SN  4_astD
+SN  4
 ID  Succinylglutamic semialdehyde dehydrogenase
+DN  Succinylglutamate-semialdehyde dehydrogenase
 RQ  1
 EV  IPR017649; TIGR03240; sufficient;
 TG  GO:0019544;
 --
-SN  5_astE
+SN  5
 ID  Succinylglutamate desuccinylase
+DN  Succinylglutamate desuccinylase
 RQ  1
 EV  IPR016681; TIGR03242; sufficient;
 TG  GO:0019544;

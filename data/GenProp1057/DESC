@@ -15,18 +15,21 @@ CC  peptide for ribosomal natural product formation has been found.
 **  I call it GeoRSP?  It is in Geobacter, with a Radical Sam enzyme and a
 **  SPASM domain (PseudoSAM) protein
 --
-SN  GeoPqqD
+SN  1
 ID  GeoRSP system PqqD family protein
+DN  GeoRSP system PqqD family protein
 RQ  1
 EV  IPR027569; TIGR04302;
 --
-SN  GeoSPAS
+SN  2
 ID  GeoRSP system SPASM domain protein
+DN  GeoRSP system SPASM domain protein
 RQ  1
 EV  IPR027571; TIGR04304;
 --
-SN  GeorSAM
+SN  3
 ID  GeoRSP system radical SAM/SPASM protein
+DN  GeoRSP system radical SAM/SPASM protein
 RQ  1
 EV  IPR027570; TIGR04303;
 //

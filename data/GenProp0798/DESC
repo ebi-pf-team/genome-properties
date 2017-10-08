@@ -17,43 +17,51 @@ CC  Clostridium difficile QCD-32g58. Neighboring genes, including
 CC  PTS-family transport genes and a member of the carbohydrate kinases,
 CC  tend to suggest a role in carbohydrate catabolism.
 --
-SN  EF_0829
+SN  1
 ID  PRD domain protein EF_0829/AHA_3910
+DN  PRD domain protein EF_0829/AHA_3910
 RQ  1
 EV  IPR020044; TIGR03582;
 --
-SN  EF_0830
+SN  2
 ID  Conserved hypothetical protein EF_0830/AHA_3911
+DN  Conserved hypothetical protein EF_0830/AHA_3911
 RQ  1
 EV  IPR020034; TIGR03577;
 --
-SN  EF_0831
+SN  3
 ID  Conserved hypothetical protein EF_0831/AHA_3912
+DN  Conserved hypothetical protein EF_0831/AHA_3912
 RQ  1
 EV  IPR020037; TIGR03578;
 --
-SN  EF_0832
+SN  4
 ID  Conserved hypothetical protein EF_0832/AHA_3913
+DN  Conserved hypothetical protein EF_0832/AHA_3913
 RQ  1
 EV  IPR020042; TIGR03580;
 --
-SN  EF_0833
+SN  5
 ID  Conserved hypothetical protein EF_0833/AHA_3914
+DN  Conserved hypothetical protein EF_0833/AHA_3914
 RQ  1
 EV  IPR025456; TIGR03579;
 --
-SN  EF_0837
+SN  6
 ID  Probable amidohydrolase EF_0837/AHA_3915
+DN  Probable amidohydrolase EF_0837/AHA_3915
 RQ  1
 EV  IPR020043; TIGR03583;
 --
-SN  EF_0838
+SN  7
 ID  Pyridoxal phosphate-dependent enzyme EF_0838/AHA_3916
+DN  Pyridoxal phosphate-dependent enzyme EF_0838/AHA_3916
 RQ  1
 EV  IPR006337; TIGR01437;
 --
-SN  EF_0839
+SN  8
 ID  Conserved hypothetical protein EF_0839/AHA_3917
+DN  Conserved hypothetical protein EF_0839/AHA_3917
 RQ  1
 EV  IPR010763; TIGR03581;
 //

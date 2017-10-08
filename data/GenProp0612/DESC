@@ -10,14 +10,16 @@ CC  stepped down in potential finally resulting in a reduced cytochrome c
 CC  which, in cytochrome oxidase, pairs with oxygen as a terminal elextron
 CC  acceptor.
 --
-SN  Q_oxid
+SN  1
 ID  Quinone re-oxidation, oxygen reduction
+DN  Quinone re-oxidation, oxygen reduction
 RQ  1
 EV  GenProp0615;
 EV  GenProp0616;
 --
-SN  Q_rdctn
+SN  2
 ID  Quinone reduction (NADH dehydrogenases)
+DN  Quinone reduction (NADH dehydrogenases)
 RQ  1
 EV  GenProp0135;
 EV  GenProp0623;

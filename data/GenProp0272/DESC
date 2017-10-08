@@ -9,8 +9,8 @@ CC  end products. Pyruvate may be converted to acetoin in two steps, and in
 CC  some species from acetoin to 2,3-butanediol, a neutral compound, so
 CC  homeostasis can be maintained. This property describes the catabolic
 CC  form of acetolactate synthase (distinguished from forms used in
-CC  branched chain amino acid biosynthesis - see TIGR00118) and
-CC  alpha-acetolactate decarboxylase.
+CC  branched chain amino acid biosynthesis) and alpha-acetolactate 
+CC  decarboxylase.
 **  A regulator alsR in Bacillus subtilis, LysR family, divergent from
 **  operon of this property, seems a poor candidate for an HMM. I explored
 **  making TIGRO2415, meso-2,3-butanediol dehydrogenase, an extra (in_rule
@@ -18,13 +18,13 @@ CC  alpha-acetolactate decarboxylase.
 **  in Klebsiella terrigena and Enterobacter aerogenes, which are not in
 **  OMNIOME, and poorly correlated even for being in same genome.
 --
-SN  decarb
+SN  1
 ID  Acetolactate decarboxylase
 DN  Alpha-acetolactate decarboxylase
 RQ  1
 EV  IPR005128; TIGR01252; sufficient;
 --
-SN  synth
+SN  2
 ID  Acetolactate synthase, catabolic
 DN  Acetolactate synthase, catabolic
 RQ  1

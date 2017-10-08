@@ -27,25 +27,27 @@ CC  assembly of the eIF4F complex [2].
 --
 SN  1
 ID  mTORC1 complex
+DN  mTORC1 complex/1
 RQ  1
 EV  GenProp2030;
 --
 SN  2
 ID  Eukaryotic translation initiation factor 4E-binding protein 1
-DN  Eukaryotic translation initiation factor 4E-binding protein 1 
+DN  Eukaryotic translation initiation factor 4E-binding protein 1 /2
 RQ  1
-EV  -; PTHR12669:SF17; sufficient;
+EV  -; PTHR12669:SF14; sufficient;
 TG  GO:0008190;
 --
 SN  3
 ID  Ribosomal protein S6 kinase beta-1
-DN  Ribosomal protein S6 kinase beta-1 (EC:2.7.11.1) 
+DN  Ribosomal protein S6 kinase beta-1 (EC:2.7.11.1) /3
 RQ  1
-EV  IPR016238; PTHR24351:SF121; sufficient;
+EV  IPR016238; PIRSF000605; sufficient;
 TG  GO:0004674;
 --
 SN  4
 ID  eI4F complex
+DN  eI4F complex/4
 RQ  1
 EV  GenProp2035;
 //

@@ -11,31 +11,35 @@ RT  oxygen-fragmented pyruvate formate-lyase.
 RA  Wagner AF, Schultz S, Bomke J, Pils T, Lehmann WD, Knappe J;
 RL  Biochem Biophys Res Commun. 2001;285:456-462.
 CC  This property consists of the glycine radical enzyme, pyruvate-formate
-CC  lyase (EC 2.3.1.54, also called formate C-acetyltransferase) and its
-CC  activating enzyme, [Formate-C-acetyltransferase]-activating enzyme (EC
-CC  1.97.1.4). In most Proteobacteria, the gene pair is accompanied by the
-CC  formate channel gene focA. FocA forms a pentameric channel that can
+CC  lyase (also called formate C-acetyltransferase) and its activating 
+CC  enzyme, [Formate-C-acetyltransferase]-activating enzyme. In most 
+CC  Proteobacteria, the gene pair is accompanied by the formate channel 
+CC  gene FocA. FocA forms a pentameric channel that can
 CC  pass formate but not water, and that belongs to the same transporter
 CC  family as nitrate transporter NirC.
 --
-SN  PFL
+SN  1
 ID  Pyruvate formate-lyase
+DN  Pyruvate formate-lyase (EC 2.3.1.54)
 RQ  1
 EV  IPR010098; TIGR01774;
 EV  IPR005949; TIGR01255;
 --
-SN  PFLA
+SN  2
 ID  Pyruvate formate-lyase activating enzyme
+DN  Pyruvate formate-lyase activating enzyme (EC 1.97.1.4)
 RQ  1
 EV  IPR012838; TIGR02493;
 --
-SN  PF_FocA
+SN  3
 ID  Formate transporter
+DN  Formate transporter/FocA
 RQ  0
-EV  IPRXXXX; PF01226;
+EV  IPR000292; PF01226;
 --
-SN  spare
+SN  4
 ID  Autonomous glycyl radical cofactor
+DN  Autonomous glycyl radical cofactor
 RQ  0
 EV  IPR011140; TIGR04365;
 //

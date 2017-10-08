@@ -15,14 +15,16 @@ CC  threonine-type endopeptidase HslV is homologous to the proteasome beta
 CC  subunit and acts in protein degradation. Members of this family
 CC  frequently are described as heat shock proteins.
 --
-SN  hslU
+SN  1
 ID  ATP-dependent protease HslVU, ATPase subunit
+DN  ATP-dependent protease HslVU, ATPase subunit
 RQ  1
 EV  IPR004491; TIGR00390;
 TG  GO:0006510;
 --
-SN  hslV
+SN  2
 ID  ATP-dependent protease HslVU, peptidase subunit
+DN  ATP-dependent protease HslVU, peptidase subunit
 RQ  1
 EV  IPR022281; TIGR03692;
 TG  GO:0006510;

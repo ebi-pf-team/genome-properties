@@ -1,0 +1,2 @@
+Genome Properties version: testv0.1
+Dependency on InterProScan version: 5.25-64.0

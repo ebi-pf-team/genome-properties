@@ -38,38 +38,45 @@ CC  only two ramnosyltransferase genes are observed. Two of these linkaged
 CC  are essentially identical and could easily be catalyzed by the same
 CC  enzyme.
 --
-SN  D-ManNAc
+SN  1
 ID  Source of N-acetyl-D-mannosamine
+DN  Source of N-acetyl-D-mannosamine/D-ManNAc
 RQ  1
 EV  GenProp0975;
 --
-SN  GT-1
+SN  2
 ID  Putative D-ManNAc transferase
+DN  Putative D-ManNAc transferase/GT-1
 RQ  1
 EV  IPRXXXX; 2948;
 --
-SN  GT-2
+SN  3
 ID  O1(Ec)-associated L-rhamnose transferase
+DN  O1(Ec)-associated L-rhamnose transferase/GT-2
 RQ  1
 EV  IPRXXXX; 2946;
 --
-SN  GT-3
+SN  4
 ID  O1(Ec)-associated L-rhamnose transferase
+DN  O1(Ec)-associated L-rhamnose transferase/GT-3
 RQ  1
 EV  IPRXXXX; 2945;
 --
-SN  L-Rha
+SN  5
 ID  Source of L-rhamnose
+DN  Source of L-rhamnose/L-Rha
 RQ  1
 EV  GenProp0183;
 --
-SN  wzx01
+SN  6
 ID  O1(Ec)-antigen transporter (flippase) wzx
+DN  O1(Ec)-antigen transporter (flippase) wzx/wzx01
 RQ  1
 EV  IPRXXXX; 2949;
 --
-SN  wzy01
+SN  7
 ID  O1(Ec)-antigen polymerase wzy
+DN  O1(Ec)-antigen polymerase wzy/wzy01
 RQ  1
 EV  IPRXXXX; 2947;
 //

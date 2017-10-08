@@ -15,15 +15,15 @@ CC  and their cognate sequences.
 **  There are LPXTG variants/ SrtA sortases. 60390 - GenProp0664 is sortase
 **  system, SrtB class.
 --
-SN  LPXTG
+SN  1
 ID  LPXTG-like C-terminal region
-DN  LPXTG-motif cell wall anchor domain protein
+DN  LPXTG cell wall anchor domain
 RQ  1
 EV  IPR019931; TIGR01167; sufficient;
 --
-SN  sortase
+SN  2
 ID  Sortase (transpeptidase)
-DN  Sortase family protein
+DN  Sortase family
 RQ  1
 EV  IPR005754; TIGR01076; sufficient;
 //

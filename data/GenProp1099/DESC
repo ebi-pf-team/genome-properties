@@ -9,21 +9,23 @@ RT  Multiple DNA glycosylases for repair of 8-oxoguanine and their
 RT  potential in vivo functions.
 RA  Hazra TK, Hill JW, Izumi T, Mitra S;
 RL  Prog Nucleic Acid Res Mol Biol. 2001;68:193-205.
-CC  MutM excises 8-oxoguanine (8-oxoG) that has formed in DNA that has not
-CC  since replicated (meaning it should be paired with C). If replication
-CC  allows 8-oxoG to mispair with A, MutY excises the A to allow
+CC  MutM excises 8-oxoguanine (8-oxoG) that has formed in DNA and that has 
+CC  not since replicated (meaning it should be paired with C). If 
+CC  replication allows 8-oxoG to mispair with A, MutY excises the A to allow
 CC  replication repair to replace it with a C. Note that MutT performs a
 CC  different process, hydrolyzing 8-oxo-dGTP to 8-oxo-dGMP to block its
 CC  incorporation into DNA in the first place, and therefore does perform
 CC  DNA repair per se.
 --
-SN  MutM
+SN  1
 ID  DNA-formamidopyrimidine glycosylase
+DN  DNA-formamidopyrimidine glycosylase/MutM
 RQ  1
 EV  IPR020629; TIGR00577;
 --
-SN  MutY
+SN  2
 ID  A/G-specific adenine glycosylase
+DN  A/G-specific adenine glycosylase/MutY
 RQ  1
 EV  IPR005760; TIGR01084;
 //

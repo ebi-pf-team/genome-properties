@@ -23,23 +23,27 @@ CC  small, soluble proteins required for the oxidation of intracellular
 CC  sulfur.
 **  What about DsrM, DsrK? See if these should be added.
 --
-SN  DsrC
+SN  1
 ID  Putative dissimilatory sulfite reductase gamma subunit
+DN  Putative dissimilatory sulfite reductase gamma subunit/DsrC
 RQ  0
 EV  IPR007453; TIGR03342;
 --
-SN  DsrE
+SN  2
 ID  DsrE protein
+DN  DsrE protein
 RQ  1
 EV  IPR017463; TIGR03012; sufficient;
 --
-SN  DsrF
+SN  3
 ID  DsrF protein
+DN  DsrF protein
 RQ  1
 EV  IPR017462; TIGR03010; sufficient;
 --
-SN  DsrH
+SN  4
 ID  DsrH protein
+DN  DsrH protein
 RQ  1
 EV  IPR007215; TIGR03011; sufficient;
 //

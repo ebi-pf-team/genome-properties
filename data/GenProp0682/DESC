@@ -12,36 +12,41 @@ CC  describes the system as encoded by a seven-gene operon in Escherichia
 CC  coli, six of which are modeled explicitly for this property. Several of
 CC  the genes occur as paralogs of genes from the CcmABCDEFGH c-type
 CC  cytochrome biogenesis system present in the same genomes. The most
-CC  distinctive protein from this system is a pentaheme cytochrome c, NrfB,
-CC  modeled by TIGR03146.
+CC  distinctive protein from this system is a pentaheme cytochrome c, NrfB.
 --
-SN  NrfA
+SN  1
 ID  Cytochrome c552
+DN  Cytochrome c552/NrfA
 RQ  1
 EV  IPR003321; PF02335; sufficient;
 --
-SN  NrfB
+SN  2
 ID  Penta-heme cytochrome c
+DN  Penta-heme cytochrome c/NrfB
 RQ  1
 EV  IPR017564; TIGR03146; sufficient;
 --
-SN  NrfC
+SN  3
 ID  Cytochrome c nitrite reductase, NrfC subunit
+DN  Cytochrome c nitrite reductase, NrfC subunit/NrfC
 RQ  1
 EV  IPR017567; TIGR03149; sufficient;
 --
-SN  NrfD
+SN  4
 ID  Cytochrome c nitrite reductase, NrfD subunit
+DN  Cytochrome c nitrite reductase, NrfD subunit/NrfD
 RQ  1
 EV  IPR017566; TIGR03148; sufficient;
 --
-SN  NrfE
+SN  5
 ID  Accessory protein NrfE
+DN  Accessory protein NrfE/NrfE
 RQ  0
 EV  IPR017563; TIGR03145; sufficient;
 --
-SN  NrfF
+SN  6
 ID  Accessory protein NrfF
+DN  Accessory protein NrfF/NrfF
 RQ  1
 EV  IPR017565; TIGR03147; sufficient;
 //

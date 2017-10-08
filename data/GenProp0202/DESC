@@ -11,4 +11,19 @@ SN  1
 ID  Nitrogen fixation
 RQ  0
 EV  GenProp0029;
+--
+SN  2
+ID  Membrane-associated monooxygenase (methane/ammonia)
+RQ  0
+EV  GenProp0666;
+--
+SN  3
+ID  Formate-dependent nitrite reductase, seven-gene type
+RQ  0
+EV  GenProp0682;
+--
+SN  4
+ID  Cytochrome c nitrite reductase NrfHA
+RQ  0
+EV  GenProp0683;
 //

@@ -24,8 +24,9 @@ CC  from Enterococcus faecalis,  uberolysin from Streptococcus uberis, and
 CC  carnocyclin A from Carnobacterium maltaromaticum.
 **  For now, structural proteins only.
 --
-SN  active
+SN  1
 ID  Circular bacteriocin
+DN  Circular bacteriocin/active
 RQ  1
 EV  IPR020038; TIGR03651;
 TG  GO:0030152;

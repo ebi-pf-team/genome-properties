@@ -22,54 +22,61 @@ CC  including Cas1 to Cas4, are found only in genomes with CRISPR repeats,
 CC  and are near these repeats. Jansen, et al. describe CRISPR loci as
 CC  having direct repeats, varying in size from 21 to 37 bp, interspaced by
 CC  similarly sized non-repetitive sequences. Variants of CRISP/Cas loci
-CC  (subtypes) have been described (Haft, Selengut, et al., submitted) in
-CC  which certain groups of subtype-specific genes are found in addition to
-CC  characteristic sets of the more widely distributed cas genes. The Tneap
-CC  subtype, so named because this subtype is the only one found in the
-CC  genome of Thermotoga neapolitana DSM4359, consists of cas1-5 and the
-CC  subtype specific genes cst1-2. The repeats associated with this subtype
-CC  tend to have a periodicity of 66 nucleotides. This subtype is found
-CC  both in Archaea and Bacteria (with the notable exclusion of the
-CC  Proteobacteria).
+CC  (subtypes) have been described [2] in which certain groups of 
+CC  subtype-specific genes are found in addition to characteristic sets of 
+CC  the more widely distributed cas genes. The Tneap subtype, so named 
+CC  because this subtype is the only one found in the genome of Thermotoga 
+CC  neapolitana DSM4359, consists of cas1-5 and the subtype specific genes 
+CC  cst1-2. The repeats associated with this subtype tend to have a 
+CC  periodicity of 66 nucleotides. This subtype is found both in Archaea and 
+CC  Bacteria (with the notable exclusion of the Proteobacteria).
 --
-SN  Cas1
+SN  1
 ID  Cas1, Tneap region
+DN  CRISPR-associated protein Cas1
 RQ  1
 EV  IPR002729; TIGR00287;
 --
-SN  Cas2
+SN  2
 ID  Cas2, Tneap region
+DN  CRISPR-associated endonuclease Cas2
 RQ  1
 EV  IPR021127; TIGR01573;
 --
-SN  Cas3
+SN  3
 ID  Cas3, Tneap region
+DN  Helicase Cas3, CRISPR-associated
 RQ  1
 EV  IPR006483; TIGR01596;
 EV  IPR006474; TIGR01587;
 --
-SN  Cas4
+SN  4
 ID  Cas4, Tneap region
+DN  CRISPR-associated protein Cas4
 RQ  1
 EV  IPR013343; TIGR00372;
 --
-SN  Cas5t
+SN  5
 ID  Cas5, Tneap specific variant
+DN  CRISPR-associated protein Cas5, Tneap type
 RQ  1
 EV  IPR013337; TIGR01895; sufficient;
 --
-SN  Cas6
+SN  6
 ID  Cas6, Tneap region
+DN  CRISPR-associated protein, Cas6
 RQ  1
 EV  IPR010156; TIGR01877;
 --
-SN  Cst1
+SN  7
 ID  Cst1
+DN  CRISPR-associated protein, CXXC-CXXC
 RQ  1
 EV  IPR010180; TIGR01908; sufficient;
 --
-SN  Cst2
+SN  8
 ID  Cst2, DevR family regulator
+DN  CRISPR-associated protein Cas7, subtype I-B/Tneap
 RQ  1
 EV  IPR013414; TIGR02585;
 //

@@ -8,26 +8,26 @@ CC  flagellar components through the cytoplasmic membrane.  This is an
 CC  ATP-driven process mediated by a series of subunits similar to elements
 CC  of type III secretion complexes.
 --
-SN  flhA
+SN  1
 ID  Flagellar biosynthesis protein FlhA
 DN  Flagellar biosynthesis protein FlhA
 RQ  1
 EV  IPR006301; TIGR01398; sufficient;
 --
-SN  flhB
+SN  2
 ID  Flagellar biosynthetic protein FlhB
 DN  Flagellar biosynthetic protein FlhB
 RQ  1
 EV  IPR006136; TIGR00328; sufficient;
 --
-SN  fliH
+SN  3
 ID  Flagellar assembly protein FliH
 DN  Flagellar assembly protein FliH
 RQ  1
 EV  IPR018035; PF02108; sufficient;
 EV  IPR022524; TIGR03825;
 --
-SN  fliI
+SN  4
 ID  Flagellum-specific ATP synthase FliI
 DN  Flagellum-specific ATP synthase FliI
 RQ  1
@@ -35,31 +35,32 @@ EV  IPR020005; TIGR03496;
 EV  IPR022425; TIGR03497;
 EV  IPR022426; TIGR03498;
 --
-SN  fliJ
+SN  5
 ID  Flagellar export protein FliJ
 DN  Flagellar export protein FliJ
 RQ  1
 EV  IPR012823; TIGR02473; sufficient;
 --
-SN  fliO
+SN  6
 ID  Flagellar assembly protein FliO
+DN  Flagellar assembly protein FliO
 RQ  1
 EV  IPR022781; PF04347; sufficient;
 EV  IPR022781; TIGR03500;
 --
-SN  fliP
+SN  7
 ID  Flagellar biosynthetic protein FliP
 DN  Flagellar biosynthetic protein FliP
 RQ  1
 EV  IPR005837; TIGR01103; sufficient;
 --
-SN  fliQ
+SN  8
 ID  Flagellar biosynthetic protein FliQ
 DN  Flagellar biosynthetic protein FliQ
 RQ  1
 EV  IPR006305; TIGR01402; sufficient;
 --
-SN  fliR
+SN  9
 ID  Flagellar biosynthetic protein FliR
 DN  Flagellar biosynthetic protein FliR
 RQ  1

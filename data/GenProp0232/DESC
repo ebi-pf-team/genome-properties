@@ -33,107 +33,117 @@ CC  specificities may occur in a single genome.
 **  Research.  phnN is dual-use, also is a ribose 1,5-bisphosphokinase, NAD
 **  biosynthesis.
 --
-SN  PhnC
+SN  1
 ID  ABC transporter phosphonates ATP-binding protein
-DN  Phosphonate ABC transporter, ATP-binding protein
+DN  ABC transporter, phosphonate import, PhnC
 RQ  1
-EV  IPRXXXX; TIGR02315;
+EV  IPR012693; TIGR02315;
 TG  GO:0019700;
 --
-SN  PhnD
+SN  2
 ID  ABC transporter phosphonates-binding protein
+DN  Phosphonate ABC transporter, substrate-binding protein
 RQ  1
 EV  IPR017797; TIGR03431;
 TG  GO:0019700;
 --
-SN  PhnE
+SN  3
 ID  ABC transporter phosphonates permease
-DN  Phosphonate ABC transporter, permease protein
+DN  ABC transporter, permease PhnE/PtxC 
 RQ  1
-EV  IPRXXXX; TIGR01097;
+EV  IPR005769; TIGR01097;
 TG  GO:0019700;
 --
-SN  PhnO
+SN  4
 ID  Alkylamine acetyltransferase, PhnO
+DN  Alkylamine acetyltransferase, PhnO
 RQ  0
 EV  IPR000182; PF00583;
 TG  GO:0019700;
 --
-SN  phn01
+SN  5
 ID  Phosphonate metabolism protein, uncharacterized
+DN  Phosphonate metabolism protein, uncharacterized
 RQ  0
 EV  IPR009389; TIGR03223; sufficient;
 TG  GO:0019700;
 --
-SN  phn02
+SN  6
 ID  Phosphonate metabolism protein, transferase hexapeptide repeat family
+DN  Phosphonate metabolism protein, transferase hexapeptide repeat family
 RQ  0
 EV  IPR017694; TIGR03308; sufficient;
 TG  GO:0019700;
 --
-SN  phnF
+SN  7
 ID  PhnF transcriptional regulator
+DN  Phosphonate C-P lyase system, transcriptional regulator PhnF
 RQ  0
 EV  IPR012702; TIGR02325; sufficient;
 --
-SN  phnG
+SN  8
 ID  PhnG unchar. phosphonate metabolism protein
-DN  Phosphonate metabolism protein PhnG
+DN  Phosphonate metabolism PhnG
 RQ  1
 EV  IPR009609; PF06754; sufficient;
 TG  GO:0019700;
 EV  IPR009609; TIGR03293; sufficient;
 TG  GO:0019700;
 --
-SN  phnH
+SN  9
 ID  PhnH unchar. phosphonate metabolism protein
+DN  Bacterial phosphonate metabolism, PhnH
 RQ  1
 EV  IPR008772; PF05845; sufficient;
 TG  GO:0019700;
 EV  IPR008772; TIGR03292; sufficient;
 TG  GO:0019700;
 --
-SN  phnI
+SN  10
 ID  PhnI unchar. phosphonate metabolism protein
 DN  Phosphonate metabolism protein PhnI
 RQ  1
 EV  IPR008773; PF05861; sufficient;
 TG  GO:0019700;
 --
-SN  phnJ
+SN  11
 ID  PhnJ unchar. phosphonate metaboism protein
-DN  Phosphonate metabolism protein PhnJ
+DN  Alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase/phnJ
 RQ  1
 EV  IPR010306; PF06007; sufficient;
 TG  GO:0019700;
 --
-SN  phnK
+SN  12
 ID  PhnK (ABC-like) C-P lyase protein, putative
+DN  Phosphonate C-P lyase system, PhnK
 RQ  1
 EV  IPR012700; TIGR02323; sufficient;
 TG  GO:0019700;
 --
-SN  phnL
+SN  13
 ID  Phosphonate C-P lyase system PhnL subunit
+DN  Phosphonate C-P lyase system, PhnL
 RQ  1
 EV  IPR012701; TIGR02324; sufficient;
 TG  GO:0019700;
 --
-SN  phnM
+SN  14
 ID  PhnM unchar. phosphonate metabolism protein
-DN  Phosphonate metabolism protein PhnM
+DN  Phosphonate metabolism PhnM
 RQ  1
 EV  IPR012696; TIGR02318; sufficient;
 TG  GO:0019700;
 --
-SN  phnN
+SN  15
 ID  PhnN unchar. phosphonate metabolism protein
+DN  Ribose 1,5-bisphosphate phosphokinase PhnN
 RQ  0
 EV  IPR012699; TIGR02322; sufficient;
 TG  GO:0019700;
 --
-SN  phnP
+SN  16
 ID  PhnP unchar. phosphonate metabolism protein
+DN  Phosphonate metabolism protein PhnP
 RQ  0
 EV  IPR017693; TIGR03307; sufficient;
 TG  GO:0019700;

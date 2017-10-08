@@ -11,49 +11,57 @@ RT  subunit MtrH.
 RA  Hippler B, Thauer RK;
 RL  FEBS Lett. 1999;449:165-168.
 CC  This complex of eight subunits, MtrA-H, effects the transfer of a
-CC  methyl froup from tetrahydromethanopterin to coenzyme M using a
-CC  cobalamin (B12) cofactor residing on MtrA.  This transfer is coupled to
-CC  an energy-driven sodium-ion pump.  Methane is subsequently released by
+CC  methyl group from tetrahydromethanopterin to coenzyme M using a
+CC  cobalamin (B12) cofactor residing on MtrA. This transfer is coupled to
+CC  an energy-driven sodium-ion pump. Methane is subsequently released by
 CC  a two-electron reduction of the methyl-coenzyme M by the enzyme
 CC  methyl-coenzyme M reductase.
 --
-SN  MtrA
+SN  1
 ID  Subunit A, cobalamin-containing
+DN  Tetrahydromethanopterin S-methyltransferase subunit A/MtrA
 RQ  1
 EV  IPR005778; TIGR01111; sufficient;
 --
-SN  MtrB
-ID   
+SN  2
+ID  Tetrahydromethanopterin S-methyltransferase subunit B
+DN  Tetrahydromethanopterin S-methyltransferase subunit B/MtrB
 RQ  1
 EV  IPR008690; TIGR04166; sufficient;
 --
-SN  MtrC
-ID   
+SN  3
+ID  Tetrahydromethanopterin S-methyltransferase, subunit C
+DN  Tetrahydromethanopterin S-methyltransferase, subunit C/MtrC
 RQ  1
 EV  IPR005865; TIGR01148; sufficient;
 --
-SN  MtrD
-ID   
+SN  4
+ID  Tetrahydromethanopterin S-methyltransferase, subunit D
+DN  Tetrahydromethanopterin S-methyltransferase, subunit D/MtrD
 RQ  1
 EV  IPR005779; TIGR01112; sufficient;
 --
-SN  MtrE
-ID   
+SN  5
+ID  Tetrahydromethanopterin S-methyltransferase, subunit E
+DN  Tetrahydromethanopterin S-methyltransferase, subunit E/MtrE
 RQ  1
 EV  IPR005780; TIGR01113; sufficient;
 --
-SN  MtrF
-ID   
+SN  6
+ID  Tetrahydromethanopterin S-methyltransferase, F subunit
+DN  Tetrahydromethanopterin S-methyltransferase, F subunit/MtrF
 RQ  1
 EV  IPR013347; TIGR02507; sufficient;
 --
-SN  MtrG
-ID   
+SN  7
+ID  Tetrahydromethanopterin S-methyltransferase, subunit G
+DN  Tetrahydromethanopterin S-methyltransferase, subunit G/MtrG
 RQ  1
 EV  IPR005866; TIGR01149; sufficient;
 --
-SN  MtrH
+SN  8
 ID  Subunit H, pterin:cobalamin transferase
+DN  Tetrahydromethanopterin S-methyltransferase, subunit H/Methyltransferase Mtx, subunit H/MtrH
 RQ  1
 EV  IPR023467; TIGR01114; sufficient;
 //

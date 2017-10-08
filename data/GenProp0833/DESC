@@ -25,26 +25,30 @@ CC  proteasomes in Mycobacterium tuberculosis and related Actinobacteria.
 **  built and include this system. This system IS sporadically distributed
 **  OUTSIDE Actinobacteria, yet we have no examples in house.
 --
-SN  PROSOME
+SN  1
 ID  20S proteasome
+DN  20S proteasome
 RQ  1
 EV  GenProp0834;
 TG  GO:0019941;
 --
-SN  pup
+SN  2
 ID  Ubiquitin-like protein Pup
+DN  Ubiquitin-like protein Pup
 RQ  1
 EV  IPR008515; TIGR03687;
 TG  GO:0019941;
 --
-SN  pup_AAA
+SN  3
 ID  AAA family ATPase, pupylation-associated
+DN  AAA family ATPase, pupylation-associated
 RQ  1
 EV  IPR022482; TIGR03689;
 TG  GO:0019941;
 --
-SN  pup_lig
+SN  4
 ID  Pup ligase
+DN  Pup ligase
 RQ  1
 EV  IPR022279; TIGR03686;
 TG  GO:0019941;

@@ -7,12 +7,14 @@ CC  The sorting signal is TIGR03382/TIGR03901 (accidentally built twice,
 CC  and not yet clear which is better). The handling machinery is not yet
 CC  worked out.
 --
-SN  sorter
+SN  1
 ID  Unknown C-terminal GC-motif sorting enzyme
+DN  Unknown C-terminal GC-motif sorting enzyme/sorter
 RQ  1
 --
-SN  target
+SN  2
 ID  Deltaproteobacterial GC-motif protein sorting domain
+DN  Deltaproteobacterial GC-motif protein sorting domain/target
 RQ  1
 EV  IPR017756; TIGR03382;
 EV  IPR024038; TIGR03901;

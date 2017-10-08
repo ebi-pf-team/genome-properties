@@ -12,13 +12,15 @@ CC  that this signal domain is recognized by cellular machinery that delays
 CC  protein translocation until glycosylation or other post-translational
 CC  modifications are complete.
 --
-SN  KxW_sig
+SN  1
 ID  KxYKxGKxW motif signal peptide
+DN  KxYKxGKxW motif signal peptide
 RQ  1
 EV  IPR022263; TIGR03715;
 --
-SN  hypot_1
+SN  2
 ID  Putative linked putative esterase TIGR03729
+DN  Putative linked putative esterase TIGR03729
 RQ  0
 EV  IPR022302; TIGR03729;
 //

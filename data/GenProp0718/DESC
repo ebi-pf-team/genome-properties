@@ -30,13 +30,15 @@ CC  bacteria.
 **  substrates. But the YfdW. crystallographers say it is likely
 **  functionally equivalent, and gene neighborhood agrees.
 --
-SN  1_frc
+SN  1
 ID  Formyl-CoA transferase
+DN  Formyl-CoA transferase
 RQ  1
 EV  IPR017659; TIGR03253; sufficient;
 --
-SN  2_oxc
+SN  2
 ID  Oxalyl-CoA decarboxylase
+DN  Oxalyl-CoA decarboxylase
 RQ  1
 EV  IPR017660; TIGR03254; sufficient;
 //

@@ -17,108 +17,129 @@ RA  Beaber JW, Hochhut B, Waldor MK;
 RL  J Bacteriol. 2002;184:4259-4269.
 CC  This Genome Property represents a collection of mostly uncharacterized
 CC  proteins typical of integrative conjugative elements (ICE) in the 
-CC  class of PFGI-1 of Pseudomonas fluorescens Pf-5. Defining HMMs for this
-CC  property closely follow the scope of PFL_4697 (TIGR03747), one of a
-CC  number of component families that occur only in this context and can
-CC  serve as a marker for the system.
+CC  class of PFGI-1 of Pseudomonas fluorescens Pf-5. 
+**  Defining HMMs for this
+**  property closely follow the scope of PFL_4697 (TIGR03747), one of a
+**  number of component families that occur only in this context and can
+**  serve as a marker for the system.
 --
-SN  PFL4666
+SN  1
 ID  Integrating conjugative element ParB-related protein
+DN  Integrating conjugative element ParB-related protein
 RQ  1
 EV  IPR022304; TIGR03764;
 --
-SN  PFL4669
+SN  2
 ID  Integrating conjugative element protein, PFL_4669 family
+DN  Integrating conjugative element protein, PFL_4669 family
 RQ  1
 EV  IPR014996; TIGR03761;
 --
-SN  PFL4675
+SN  3
 ID  Integrating conjugative element protein PilL, PFGI-1 class
+DN  Integrating conjugative element protein PilL, PFGI-1 class
 RQ  1
 EV  IPR022260; TIGR03748;
 --
-SN  PFL4693
+SN  4
 ID  Integrating conjugative element protein PFL4693
+DN  Integrating conjugative element protein PFL4693
 RQ  1
 EV  IPR022293; TIGR03759;
 --
-SN  PFL4695
+SN  5
 ID  Integrating conjugative element protein, PFL4695 family
+DN  Integrating conjugative element protein, PFL4695 family
 RQ  1
 EV  IPR021300; TIGR03765;
 --
-SN  PFL4696
+SN  6
 ID  Integrating conjugative element TraD protein, PFGI-1 class
+DN  Integrating conjugative element TraD protein, PFGI-1 class
 RQ  1
 EV  IPR022503; TIGR03754;
 --
-SN  PFL4697
+SN  7
 ID  Integrating conjugative element membrane protein PFL4697
+DN  Integrating conjugative element membrane protein PFL4697
 RQ  1
 EV  IPR022266; TIGR03747;
 --
-SN  PFL4700
+SN  8
 ID  Integrating conjugative element protein, RAQPRD family
+DN  Integrating conjugative element protein, RAQPRD family
 RQ  1
 EV  IPR019110; TIGR01690;
 --
-SN  PFL4701
+SN  9
 ID  Integrating conjugative element protein membrane PFL4701
+DN  Integrating conjugative element protein membrane PFL4701
 RQ  1
 EV  IPR021676; TIGR03758;
 --
-SN  PFL4702
+SN  10
 ID  Integrating conjugative element membrane protein PFL4702
+DN  Integrating conjugative element membrane protein PFL4702
 RQ  1
 EV  IPR021356; TIGR03745;
 --
-SN  PFL4703
+SN  11
 ID  Integrating conjugative element protein, PFL4703 family
+DN  Integrating conjugative element protein, PFL4703 family
 RQ  1
 EV  IPR021548; TIGR03746;
 --
-SN  PFL4704
+SN  12
 ID  Integrating conjugative element protein, PFL4704 family
+DN  Integrating conjugative element protein, PFL4704 family
 RQ  1
 EV  IPR021844; TIGR03749;
 --
-SN  PFL4705
+SN  13
 ID  Integrating conjugative element protein, PFL4705 family
+DN  Integrating conjugative element protein, PFL4705 family
 RQ  1
 EV  IPR021207; TIGR03752;
 --
-SN  PFL4706
+SN  14
 ID  Conjugative transfer ATPase, PFL_4706 family
+DN  Conjugative transfer ATPase, PFL_4706 family
 RQ  1
 EV  IPR022303; TIGR03744;
 --
-SN  PFL4709
+SN  15
 ID  Integrating conjugative element protein PFL4709
+DN  Integrating conjugative element protein PFL4709
 RQ  1
 EV  IPR011090; TIGR03757;
 --
-SN  PFL4710
+SN  16
 ID  Integrating conjugative element protein, PFL4710 family
+DN  Integrating conjugative element protein, PFL4710 family
 RQ  1
 EV  IPR026331; TIGR03756;
 --
-SN  PFL4711
+SN  17
 ID  Integrating conjugative element protein, PFL4711 family
+DN  Integrating conjugative element protein, PFL4711 family
 RQ  1
 EV  IPR021204; TIGR03755;
 --
-SN  PFL4751
+SN  18
 ID  Integrating conjugative element relaxase, PFGI-1 class
+DN  Integrating conjugative element relaxase, PFGI-1 class
 RQ  1
 EV  IPR022391; TIGR03760;
 --
-SN  p47202.1
+SN  19
 ID  Conjugative transfer region protein, TIGR03750
+DN  Conjugative transfer region protein, TIGR03750
 RQ  0
 EV  IPR021877; TIGR03750;
 --
-SN  p47205.1
+SN  20
 ID  Conjugative transfer region protein, TIGR03751 family
+DN  Conjugative transfer region protein, TIGR03751 family
 RQ  0
 EV  IPR022262; TIGR03751;
 //

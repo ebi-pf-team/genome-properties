@@ -8,27 +8,30 @@ RM  17303759
 RT  Archaeal type III RuBisCOs function in a pathway for AMP metabolism.
 RA  Sato T, Atomi H, Imanaka T;
 RL  Science. 2007;315:1003-1006.
-CC  Lee, et al. (PMID:17303759) have described an archaeal pathway for the
-CC  conversion of AMP to 3-phosphoglycerate with the release of adenine.
-CC  This pathway includes an AMP phosphorylase previously annotated as a
-CC  probable thymidine phosphorylase, and a ribose-1,5-bisphosphate
-CC  isomerase previously annotated as a translation initation factor.
+CC  Lee, et al. [1] have described an archaeal pathway for the conversion 
+CC  of AMP to 3-phosphoglycerate with the release of adenine. This pathway 
+CC  includes an AMP phosphorylase previously annotated as a probable 
+CC  thymidine phosphorylase, and a ribose-1,5-bisphosphate isomerase 
+CC  previously annotated as a translation initation factor.
 **  A common feature of these genomes is said to be having an ADP-dependent
 **  sugar kinase.  See PF04587 ADP_PFK_GK ADP-specific
 **  Phosphofructokinase/Glucokinase conserved region
 --
-SN  AMPphos
+SN  1
 ID  AMP phosphorylase
+DN  AMP phosphorylase
 RQ  1
 EV  IPR017713; TIGR03327;
 --
-SN  E2b2
+SN  2
 ID  Ribose-1,5-bisphosphate isomerase
+DN  Ribose-1,5-bisphosphate isomerase
 RQ  1
 EV  IPR005250; TIGR00511;
 --
-SN  Rubisco
+SN  3
 ID  Rubisco, type III
+DN  Rubisco, type III
 RQ  1
 EV  IPR017712; TIGR03326;
 //

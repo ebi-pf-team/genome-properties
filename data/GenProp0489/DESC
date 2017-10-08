@@ -20,34 +20,33 @@ RT  constitute an interaction group by yeast two-hybrid analysis.
 RA  Harris RL, Silverman PM;
 RL  J Bacteriol. 2004;186:5480-5485.
 CC  F-type plasmid conjugation systems are those distinctive of the
-CC  F-plasmid first described in E.coli.  This system consists of a type-IV
+CC  F-plasmid first described in E.coli. This system consists of a type-IV
 CC  pilus specialized for plasmid DNA transduction as well as specialized
 CC  machinery for mating-type recognition in the recipient cell and a
 CC  relaxosome and coupling protein system for initiating and providing
-CC  energy for the transfer.      Two genomes properties, GenProp0484 and
+CC  energy for the transfer. Two genome properties, GenProp0484 and
 CC  GenProp0485, encapsulate the F-type-specific and generic components 
-CC  repectively.  The generic components are found in non-F-type
-CC  conjugative systems such as the P and I-like systems.  This parent
-CC  property will match the state of the specific components property
-CC  (GenProp0484) except in the following cases: when the specific property
-CC  is YES and the generic property is less than YES, this property will
-CC  assign the state, some evidence; when the specific property is assigned
-CC  the state, none found, and the generic property is assigned a state
-CC  greater than none found, this property will assign the state, not
-CC  supported.
+CC  repectively. The generic components are found in non-F-type
+CC  conjugative systems such as the P and I-like systems. 
+**  This parent
+**  property will match the state of the specific components property
+**  (GenProp0484) except in the following cases: when the specific property
+**  is YES and the generic property is less than YES, this property will
+**  assign the state, some evidence; when the specific property is assigned
+**  the state, none found, and the generic property is assigned a state
+**  greater than none found, this property will assign the state, not
+**  supported.
 --
-SN  common
+SN  1
 ID  GenProp0485: conjugation common component
+DN  GenProp0485: conjugation common component
 RQ  1
 EV  GenProp0485;
 TG  GO:0009291;
 --
-SN  other
-ID  Apparent operon-associated genes
-RQ  0
---
-SN  specific
+SN  3
 ID  GenProp0484: F-type specific components
+DN  GenProp0484: F-type specific components
 RQ  1
 EV  GenProp0484;
 TG  GO:0009291;

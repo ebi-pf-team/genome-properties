@@ -10,23 +10,27 @@ CC  synthases. It appears these transporters are responsible for
 CC  self-protection in species that make lantibiotics, and defense in those
 CC  that do not.
 --
-SN  lanMutE
+SN  1
 ID  Lantibiotic protection ABC transporter, MutE family permease subunit
+DN  Lantibiotic protection ABC transporter, MutE family permease subunit
 RQ  1
 EV  IPR021205; TIGR03732;
 --
-SN  lanMutG
+SN  2
 ID  Lantibiotic protection ABC transporter, MutG family permease subunit
+DN  Lantibiotic protection ABC transporter, MutG family permease subunit
 RQ  1
 EV  IPR022294; TIGR03733;
 --
-SN  lan_ABC
+SN  3
 ID  Lantibiotic protection ABC transporter, ATP-binding subunit
+DN  Lantibiotic protection ABC transporter, ATP-binding subunit
 RQ  1
 EV  IPR022501; TIGR03740;
 --
-SN  lan_pre
+SN  4
 ID  Lantibiotic precursor, gallidermin/epidermin family
+DN  Lantibiotic precursor, gallidermin/epidermin family
 RQ  1
 EV  IPR006079; TIGR03731;
 //

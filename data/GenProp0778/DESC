@@ -30,14 +30,16 @@ CC  T2SS-mediated secretion.
 **  TIGR03502 and TIGR03503 were listed as candidates but are now
 **  deprecated. TIGR03902 has replaced them and is correct.
 --
-SN  GGcterm
+SN  1
 ID  GlyGly-CTERM sorting domain
+DN  GlyGly-CTERM sorting domain/GGcterm
 RQ  1
 EV  IPR020008; TIGR03501;
 EV  IPR021206; TIGR03867;
 --
-SN  rhomsort
+SN  2
 ID  Rhombosortase
+DN  Rhombosortase/rhomsort
 RQ  1
 EV  IPR023826; TIGR03902;
 //

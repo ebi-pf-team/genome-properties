@@ -16,14 +16,16 @@ CC  (on AhpC) to a sulfenic acid. This subsequently becomes a disulfide
 CC  which is then resolved by reduction. AhpF contains an FAD-binding
 CC  domain along with a NAD(P)H binding domain (PF07992).
 --
-SN  ahpC
+SN  1
 ID  Subunit C
+DN  Subunit C/ahpC
 RQ  1
 EV  IPR017559; TIGR03137; sufficient;
 TG  GO:0006800;
 --
-SN  ahpF
+SN  2
 ID  Subunit F
+DN  Subunit F/ahpF
 RQ  1
 EV  IPR012081; TIGR03140; sufficient;
 TG  GO:0006800;

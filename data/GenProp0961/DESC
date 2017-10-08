@@ -12,20 +12,23 @@ CC  one form of heme into another. HutZ, which resembles the PPOX class
 CC  heme oxidase HugZ, accompanies roughly half of the occurrences of HutW
 CC  and HutX.
 --
-SN  HutW
+SN  1
 ID  Heme utilization radical SAM enzyme HutW
+DN  Heme utilization radical SAM enzyme HutW
 RQ  1
 EV  IPR026332; TIGR04107;
 TG  GO:0042168;
 --
-SN  HutX
+SN  2
 ID  Putative heme utilization carrier protein HutX
+DN  Putative heme utilization carrier protein HutX
 RQ  1
 EV  IPR010413; TIGR04108;
 TG  GO:0042168;
 --
-SN  HutZ
+SN  3
 ID  Heme utilization protein HutZ
+DN  Heme utilization protein HutZ
 RQ  0
 EV  IPR014419; TIGR04110;
 TG  GO:0042168;

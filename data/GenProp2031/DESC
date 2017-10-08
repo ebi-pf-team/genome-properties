@@ -24,35 +24,35 @@ CC  the small GTPases Rag [2].
 --
 SN  1
 ID  Ragulator complex protein LAMTOR1
-DN  Ragulator complex protein LAMTOR1
+DN  Ragulator complex protein LAMTOR1/1
 RQ  1
 EV  IPR026310; PTHR13401; sufficient;
 TG  GO:0051020;
 --
 SN  2
 ID  Ragulator complex protein LAMTOR2
-DN  Ragulator complex protein LAMTOR2 
+DN  Ragulator complex protein LAMTOR2 /2
 RQ  1
-EV  -; PTHR22850:SF163; sufficient;
+EV  -; PTHR13323; sufficient;
 TG  GO:0032008;
 --
 SN  3
 ID  Ragulator complex protein LAMTOR3
-DN  Ragulator complex protein LAMTOR3
+DN  Ragulator complex protein LAMTOR3/3
 RQ  1
 EV  IPR015019; PTHR13378; sufficient;
 TG  GO:0032008;
 --
 SN  4
 ID  Ragulator complex protein LAMTOR4
-DN  Ragulator complex protein LAMTOR4 
+DN  Ragulator complex protein LAMTOR4 /4
 RQ  1
 EV  IPR034601; PTHR33967; sufficient;
 TG  GO:0032008;
 --
 SN  5
 ID  Ragulator complex protein LAMTOR5
-DN  Ragulator complex protein LAMTOR5 
+DN  Ragulator complex protein LAMTOR5 /5
 RQ  1
 EV  IPR024135; PTHR13342; sufficient;
 TG  GO:0032008;

@@ -12,17 +12,20 @@ CC  encodes a 10-amino acid tag that marks the nascent protein, once
 CC  released, for rapid degradation. Small protein B (SmpB) is required for
 CC  tmRNA function and has no other known function.
 --
-SN  SmpB
+SN  1
 ID  TmRNA-binding protein SmpB
+DN  TmRNA-binding protein SmpB/SmpB
 RQ  1
 EV  IPR000037; TIGR00086; sufficient;
 --
-SN  sspB
+SN  2
 ID  SspB adaptor to clpXP
+DN  SspB adaptor to clpXP/sspB
 RQ  0
 EV  IPR007481; PF04386; sufficient;
 --
-SN  tmRNA
+SN  3
 ID  TmRNA structural RNA
+DN  TmRNA structural RNA/tmRNA
 RQ  1
 //

@@ -24,4 +24,29 @@ SN  1
 ID  Glycine betaine biosynthesis from choline
 RQ  0
 EV  GenProp0147;
+--
+SN  2
+ID  Glucosylglycerol biosynthesis
+RQ  0
+EV  GenProp0264;
+--
+SN  3
+ID  Trehalose biosynthesis, OtsAB pathway
+RQ  0
+EV  GenProp0265;
+--
+SN  4
+ID  Trehalose biosynthesis, TreYZ pathway
+RQ  0
+EV  GenProp0266;
+--
+SN  5
+ID  Ectoine biosynthesis
+RQ  0
+EV  GenProp0268;
+--
+SN  6
+ID  Mannosylglycerate biosynthesis
+RQ  0
+EV  GenProp0281;
 //

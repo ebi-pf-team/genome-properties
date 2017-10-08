@@ -16,27 +16,31 @@ CC  Methanobactins are siderophore-like copper chelators. The charter
 CC  member for this Genome Property is Methylosinus trichosporium OB3b, in
 CC  which the methanobactin is made from a 30-residue ribosomally
 CC  translated precursor. The only other system known so far is in
-CC  Azospirillum sp. B510. Protein families TIGR04039, TIGR04052, and
-CC  TIGR04061 contain proteins in which the Methylosinus and Azospirillum
-CC  are mutually the best hits among all genomes, suggesting they act in
-CC  the methanobactin system.
+CC  Azospirillum sp. B510.
+**  Protein families TIGR04039, TIGR04052, and
+**  TIGR04061 contain proteins in which the Methylosinus and Azospirillum
+**  are mutually the best hits among all genomes, suggesting they act in
+**  the methanobactin system.
 **  See TIGR04039 plus TIGR04052 = GenProp0940  metallo-mystery pair. See
 **  TIGR04061 = AZL_007950_fam.
 --
-SN  mbnA
+SN  1
 ID  Methanobactin precursor, Mb-OB3b family
+DN  Methanobactin precursor, Mb-OB3b family
 RQ  1
 EV  IPR023963; TIGR04071;
 TG  GO:0015677;
 --
-SN  mbnB
+SN  2
 ID  Methanobactin biosynthesis cassette protein MbnB
+DN  Methanobactin biosynthesis cassette protein MbnB
 RQ  1
 EV  IPR026431; TIGR04159;
 TG  GO:0015677;
 --
-SN  mbnC
+SN  3
 ID  Methanobactin biosynthesis cassette protein MbnC
+DN  Methanobactin biosynthesis cassette protein MbnC
 RQ  1
 EV  IPR026434; TIGR04160;
 TG  GO:0015677;

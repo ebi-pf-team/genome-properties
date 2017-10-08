@@ -10,13 +10,15 @@ CC  membrane, and couples the enzyme to the quinone pool for electron
 CC  transport.
 **  No rule - running off SIMPLE-CLUST.
 --
-SN  NrfA
+SN  1
 ID  Cytochrome c nitrite reductase, c552 subunit
+DN  Cytochrome c nitrite reductase, c552 subunit/NrfA
 RQ  1
 EV  IPR003321; PF02335;
 --
-SN  NrfH
+SN  2
 ID  Cytochrome c nitrate reductase, small subunit
+DN  Cytochrome c nitrate reductase, small subunit/NrfH
 RQ  1
 EV  IPR017571; TIGR03153; sufficient;
 //

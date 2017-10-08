@@ -38,7 +38,7 @@ CC  from the anaerobic pathway in which the cobalt is inserted early in the
 CC  process by an ATP-independent chelatase (CbiK or CbiX). The other
 CC  distinctive feature of the aerobic pathway is the C-1 methylase (CobF)
 CC  which is replaced by the non-homologous CbiD in the anaerobic process. 
-CC  The cobalt(II) reductase (BluB) which constitutes the final step of
+CC  The cobalt(II) reductase which constitutes the final step of
 CC  this property is also distinctive for the aerobic path, although the
 CC  anaerobic enzyme(s) have not been well studied. The well-characterized 
 CC  trimeric ATP-dependent cobaltochelatase (CobNST) is completely detected 

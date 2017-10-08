@@ -31,28 +31,33 @@ CC  SoxZ. SoxYZ is a heterodimer. SoxXA is a heterodimeric c-type
 CC  cytochrome. SoxB is monomeric.
 **  TIGR04488 is specific SoxY when PF13501 is not.
 --
-SN  SoxA
+SN  1
 ID  Sulfur oxidation c-type cytochrome SoxA
+DN  Sulfur oxidation c-type cytochrome SoxA
 RQ  1
 EV  IPR025710; TIGR04484;
 --
-SN  SoxB
+SN  2
 ID  Sulfur oxidation protein SoxB
+DN  Sulfur oxidation protein SoxB
 RQ  1
 EV  IPR030998; TIGR04486;
 --
-SN  SoxX
+SN  3
 ID  Sulfur oxidation c-type cytochrome SoxX
+DN  Sulfur oxidation c-type cytochrome SoxX
 RQ  1
 EV  IPR030999; TIGR04485;
 --
-SN  SoxY
+SN  4
 ID  Sulfur oxidation protein SoxY
+DN  Sulfur oxidation protein SoxY
 RQ  1
 EV  IPR016568; TIGR04488;
 --
-SN  SoxZ
+SN  5
 ID  Sulfur oxidation protein SoxZ
+DN  Sulfur oxidation protein SoxZ
 RQ  1
 EV  IPR030995; TIGR04490;
 //

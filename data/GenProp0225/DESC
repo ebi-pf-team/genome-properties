@@ -19,19 +19,19 @@ CC  methyl-directed mismatch repair in this subset of species with MMR.
 **  As of 1999, all species lacking MutL but having a MutS family member
 **  have a MutS2 rather than a MutS1. Eisen review.
 --
-SN  endonuc
+SN  1
 ID  MutH (or other) mismatch endonuclease
-DN  NOT APPLICABLE
+DN  DNA mismatch repair protein MutH
 RQ  0
 EV  IPR004230; TIGR02248; sufficient;
 --
-SN  mutL
+SN  2
 ID  DNA mismatch repair protein MutL
 DN  DNA mismatch repair protein MutL
 RQ  1
 EV  IPR002099; TIGR00585; sufficient;
 --
-SN  mutS1
+SN  3
 ID  DNA mismatch repair protein MutS (mutS1)
 DN  DNA mismatch repair protein MutS
 RQ  1

@@ -1,32 +1,32 @@
 Below is a breakdown of the contents of the current release.
 
-.. include:: stats.overview
+.. include:: _stats/stats.SUMMARY
 
 PATHWAYS
 --------
 
-.. include:: stats.PATHWAY
+.. include:: _stats/stats.PATHWAY
 
 
 METAPATH
 --------
 
-.. include:: stats.METAPATH
+.. include:: _stats/stats.METAPATH
 
 
 SYSTEM
 ------
 
-.. include:: stats.SYSTEM
+.. include:: _stats/stats.SYSTEM
 
 
 GUILD
 -----
 
-.. include:: stats.GUILD
+.. include:: _stats/stats.GUILD
 
 
 CATEGORY
 --------
 
-.. include:: stats.CATEGORY
+.. include:: _stats/stats.CATEGORY

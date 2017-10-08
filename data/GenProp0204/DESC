@@ -20,21 +20,21 @@ CC  lipid A-containing material may be designated lipooligosaccharide
 CC  (LOS). Lipid A consists of a disaccharide (often
 CC  beta-D-GlcN-(1-->6)-D-GlcN) with four attached acyl groups. Lipid A is
 CC  attached to a 3-deoxy-D-manno-oct-2-ulosonic acid (KDO), a sugar moeity
-CC  that becomes part of the LPS oligosaccharide inner core. Two of acyl
+CC  that becomes part of the LPS oligosaccharide inner core. Two of the acyl
 CC  groups of lipid A are then modified by further acylations into branched
 CC  structures; acylation varies somewhat by species, and sometimes
 CC  according to conditions within a species. The inner core typically
 CC  contains at least two KDO and two heptose residues. The outer core and
 CC  O-antigen regions are far more variable, and their biosynthesis is
 CC  modeled in this property. LPS biosynthesis mutational studies have
-CC  shown that, in a number of species, lipid A with two KDO residues but
-CC  no additional residues of the inner core is the minimum required form
+CC  shown that in a number of species, lipid A with two KDO residues but
+CC  no additional residues of the inner core, is the minimum required form
 CC  of LPS for viability, called Re LPS or Re endotoxin. This genome
-CC  property describes a set of well-conserved enzymes for biosynthesis of
-CC  KDO(2)-lipid A that resembles but is not necessarily identical to the
-CC  Re endotoxin of E. coli (nor as active in endotoxin assays), as well as
-CC  a transporter, or flippase, responsible in most Proteobacteria for
-CC  positioning lipid A in the outer membrane.
+CC  property describes a set of well-conserved enzymes for the biosynthesis 
+CC  of KDO(2)-lipid A that resembles, but is not necessarily identical to 
+CC  (nor as active in endotoxin assays as), the Re endotoxin of E. coli, as 
+CC  well as a transporter (or flippase) responsible in most Proteobacteria 
+CC  for positioning lipid A in the outer membrane.
 **  Note: KdtA adds both first and second KDO.  Also, adding lauroyl and
 **  myristoyl groups to convert two acyl groups to branched acyloxyacyl
 **  groups happens after KDO addition: KDO(2)-lipid IV(A) is made and
@@ -42,85 +42,94 @@ CC  positioning lipid A in the outer membrane.
 **  msbB acylates (Kdo)2-(lauroyl)-lipid IVA.  Note: just added LptA, but
 **  need to add LptB.
 --
-SN  UDPAG
+SN  1
 ID  Source of UDP-N-acetylglucosamine
+DN  Source of UDP-N-acetylglucosamine
 RQ  0
 EV  GenProp0750;
 --
-SN  export
+SN  2
 ID  Lipid A exporter MsbA
+DN  Lipid A exporter MsbA
 RQ  0
 EV  IPR011917; TIGR02203; sufficient;
 --
-SN  kdsA
+SN  3
 ID  KDO-8 phosphate synthetase
+DN  KDO-8 phosphate synthetase
 RQ  1
 EV  IPR006269; TIGR01362; sufficient;
 --
-SN  kdsB
+SN  4
 ID  KDO cytidylyltransferase
+DN  KDO cytidylyltransferase
 RQ  0
 EV  IPR004528; TIGR00466; sufficient;
 --
-SN  kdsC
+SN  5
 ID  KDO 8-P phosphatase
+DN  KDO 8-P phosphatase
 RQ  1
 EV  IPR010023; TIGR01670; sufficient;
 --
-SN  lpxA
+SN  6
 ID  UDP-N-acetylglucosamine O-acyltransferase
 DN  Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
 RQ  1
 EV  IPR010137; TIGR01852; sufficient;
 --
-SN  lpxB
+SN  7
 ID  Lipid-A-disaccharide synthase
 DN  Lipid-A-disaccharide synthase
 RQ  1
 EV  IPR003835; TIGR00215; sufficient;
 --
-SN  lpxC
+SN  8
 ID  UDP-3-0-acyl N-acetylglucosamine deacetylase
 DN  UDP-3-0-acyl N-acetylglucosamine deacetylase
 RQ  1
 EV  IPR004463; TIGR00325; sufficient;
 --
-SN  lpxD
+SN  9
 ID  UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase
 DN  UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase
 RQ  1
 EV  IPR007691; TIGR01853; sufficient;
 --
-SN  lpxH
+SN  10
 ID  UDP-2,3-diacylglucosamine hydrolase
 DN  UDP-2,3-diacylglucosamine hydrolase
 RQ  1
 EV  IPR010138; TIGR01854; sufficient;
 EV  IPR010415; PF06230;
 --
-SN  lpxK
+SN  11
 ID  Tetraacyldisaccharide 4'-kinase
 DN  Tetraacyldisaccharide 4'-kinase
 RQ  1
 EV  IPR003758; TIGR00682; sufficient;
 --
-SN  lpxL
+SN  12
 ID  Add lauroyl to lipid IV-A
+DN  Add lauroyl to lipid IV-A
 RQ  1
 EV  IPR011920; TIGR02207; sufficient;
 EV  IPR004960; PF03279; sufficient;
 --
-SN  msbB
+SN  13
 ID  Acylate lauroyl-lipid IV-A
+DN  Acylate lauroyl-lipid IV-A
 RQ  0
 EV  IPR011921; TIGR02208; sufficient;
 --
-SN  tmp_lpxH
+SN  14
 ID  Temporary_lpxH candidate
+DN  Temporary_lpxH candidate
 RQ  0
 --
-SN  waaA
+SN  15
 ID  Transferase
+DN  Transferase
 RQ  1
 EV  IPR007507; PF04413; sufficient;
 //

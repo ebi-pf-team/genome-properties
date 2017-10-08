@@ -13,37 +13,44 @@ CC  For now, TorA, TorC, chaperone TorD.
 **  PF06192 hits all over, needs to be HMM-CLUST and needs a TIGRFAMs
 **  equivalog.
 --
-SN  TorA
+SN  1
 ID  Trimethylamine-N-oxide reductase TorA
+DN  Trimethylamine-N-oxide reductase TorA/TorA
 RQ  1
 EV  IPR011887; TIGR02164; sufficient;
 --
-SN  TorC
+SN  2
 ID  TMAO reductase sytem c-type cytochrome
+DN  TMAO reductase sytem c-type cytochrome/TorC
 RQ  1
 EV  IPR009154; TIGR02162; sufficient;
 --
-SN  TorD
+SN  3
 ID  TMAO reductase sytem chaperone TorD
+DN  TMAO reductase sytem chaperone TorD/TorD
 RQ  1
 EV  IPRXXXX; PF06192;
 --
-SN  TorE
+SN  4
 ID  Membrane protein TorE
+DN  Membrane protein TorE/TorE
 RQ  0
 EV  IPR014316; TIGR02972; sufficient;
 --
-SN  TorR
+SN  5
 ID  Response regulator TorR
+DN  Response regulator TorR/TorR
 RQ  1
 --
-SN  TorS
+SN  6
 ID  Sensor histidine kinase TorS
+DN  Sensor histidine kinase TorS/TorS
 RQ  1
 EV  IPR014302; TIGR02956; sufficient;
 --
-SN  TorT
+SN  7
 ID  Periplasmic protein TorT
+DN  Periplasmic protein TorT/TorT
 RQ  1
 EV  IPR014301; TIGR02955; sufficient;
 //

@@ -11,33 +11,33 @@ RA  Jebbar M, Sohn-Bösser L, Bremer E, Bernard T, Blanco C;
 RL  J Bacteriol. 2005;187:1293-1304.
 CC  Ectoine, and its derivative hydroxyectoine, are nitrogen-containing
 CC  compatible solutes that protect enzymes from the stress of high
-CC  osmolarity. Bacteria may synthesize it, import it, or both. This
+CC  osmolarity. Bacteria may synthesize or import it, or both. This
 CC  transporter was partially characterized in Sinorhizobium, where it is
 CC  encoded along with genes for ectoine catabolism. All subunits are
 CC  homologous to various amino acid transporter subunits.
 --
-SN  ehuA
+SN  1
 ID  Ectoine ABC transporter, ATP-binding protein
 DN  Ectoine/hydroxyectoine ABC transporter, ATP-binding protein EhuA
 RQ  1
 EV  IPR014343; TIGR03005; sufficient;
 TG  GO:0051470;
 --
-SN  ehuB
+SN  2
 ID  Ectoine ABC transporter, solute-binding protein
 DN  Ectoine/hydroxyectoine ABC transporter solute-binding protein EhuB
 RQ  1
 EV  IPR014337; TIGR02995; sufficient;
 TG  GO:0051470;
 --
-SN  ehuC
+SN  3
 ID  Ectoine ABC transporter, permease protein EhuC
 DN  Ectoine/hydroxyectoine ABC transporter, permease protein EhuC
 RQ  1
 EV  IPR014342; TIGR03004; sufficient;
 TG  GO:0051470;
 --
-SN  ehuD
+SN  4
 ID  Ectoine ABC transporter, permease protein EhuD
 DN  Ectoine/hydroxyectoine ABC transporter, permease protein EhuD
 RQ  1

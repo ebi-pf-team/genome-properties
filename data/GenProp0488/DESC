@@ -7,13 +7,15 @@ CC  This property consists of a nickel-dependent superoxide dismutase and a
 CC  cognate protease necessary to process an N-terminal sequence.
 **  I have not added nickel transport to this property at this time.
 --
-SN  SOD
+SN  1
 ID  Superoxide dismutase [Ni]
+DN  Superoxide dismutase, Nickel-type
 RQ  1
 EV  IPR014123; TIGR02753; sufficient;
 --
-SN  cleave
+SN  2
 ID  SOD [Ni] protease
+DN  Peptidase S26A, superoxide dismutase maturation protease, nickel-type
 RQ  1
 EV  IPR014124; TIGR02754; sufficient;
 //

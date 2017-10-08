@@ -11,187 +11,218 @@ RT  formation and ATP synthesis.
 RA  Fricke WF, Seedorf H, Henne A, Krüer M, Liesegang H, Hedderich R,
 RA  Gottschalk G, Thauer RK;
 RL  J Bacteriol. 2006;188:642-658.
-CC  Members of this genome property are, at least for now, largely
-CC  uncharacterized proteins that appear to represent marker proteins for
-CC  methanogenic archaea, as detected by our novel algorithm, partial
-CC  phylogenetic profiling. Substrates that can be reduced wih H2 to
-CC  methane may include methanol only, as in Methanosphaera stadtmanae, or
-CC  carbon dioxide and other compounds. This Genome Property represents
-CC  proteins that both are universal in the first ten completed genomes of
-CC  archaeal methanogens and can serve as markers for methanogenesis (are
-CC  found nowhere else). These markers have the same phylogenetic
+CC  Members of this genome property are largely uncharacterized proteins 
+CC  that appear to represent marker proteins for methanogenic archaea, as 
+CC  detected by partial phylogenetic profiling. Substrates that can be 
+CC  reduced wih H2 to methane may include methanol only, as in Methanosphaera 
+CC  stadtmanae, or carbon dioxide and other compounds. This Genome Property 
+CC  represents proteins that are universal (in the first ten completed genomes 
+CC  of archaeal methanogens) and can serve as markers for methanogenesis (they 
+CC  are found nowhere else). These markers have the same phylogenetic
 CC  distribution, among completely sequenced genomes, as the enzyme
-CC  methyl-coenzyme M reductase, whose components (for now) are represented
-CC  in a separate Genome Property, GenProp0719. This analysis was performed
-CC  without the availability of an anaerobic methane-oxidizing archaeal
-CC  genome sequence, and it is unclear how such a genome would affect the
-CC  results.
+CC  methyl-coenzyme M reductase, whose components are represented in a separate 
+CC  Genome Property (GenProp0719). This analysis was performed without the 
+CC  availability of an anaerobic methane-oxidizing archaeal genome sequence, 
+CC  and it is unclear how such a genome would affect the results.
 **  Note. This property superseded by more recent publications. Note that
 **  nickel is important to methanogenesis - not necessarily reflected in
 **  marker set so far.
 --
-SN  me_hdrB
+SN  1
 ID  CoB--CoM heterodisulfide reductase, subunit B
+DN  CoB--CoM heterodisulfide reductase, subunit B
 RQ  1
 EV  IPR017678; TIGR03288; sufficient;
 --
-SN  me_hdrC
+SN  2
 ID  CoB--CoM heterodisulfide reductase, subunit C
+DN  CoB--CoM heterodisulfide reductase, subunit C
 RQ  1
 EV  IPR017680; TIGR03290; sufficient;
 --
-SN  me_mcr2
+SN  3
 ID  Methyl coenzyme M reductase system, component A2
+DN  Methyl coenzyme M reductase system, component A2
 RQ  1
 EV  IPR017669; TIGR03269;
 --
-SN  me_mcrA
+SN  4
 ID  Methyl-coenzyme M reductase, alpha subunit
+DN  Methyl-coenzyme M reductase, alpha subunit
 RQ  1
 EV  IPR016212; TIGR03256; sufficient;
 --
-SN  me_mcrB
+SN  5
 ID  Methyl-coenzyme M reductase, beta subunit
+DN  Methyl-coenzyme M reductase, beta subunit
 RQ  1
 EV  IPR003179; TIGR03257; sufficient;
 --
-SN  me_mcrC
+SN  6
 ID  Methyl-coenzyme M reductase I operon protein C
+DN  Methyl-coenzyme M reductase I operon protein C
 RQ  1
 EV  IPR007687; TIGR03264;
 --
-SN  me_mcrD
+SN  7
 ID  Methyl-coenzyme M reductase operon protein D
+DN  Methyl-coenzyme M reductase operon protein D
 RQ  1
 EV  IPR003901; TIGR03260;
 --
-SN  me_mcrG
+SN  8
 ID  Methyl-coenzyme M reductase, gamma subunit
+DN  Methyl-coenzyme M reductase, gamma subunit
 RQ  1
 EV  IPR003178; TIGR03259; sufficient;
 --
-SN  me_mtrA
+SN  9
 ID  Tetrahydromethanopterin S-methyltransferase, subunit A
+DN  Tetrahydromethanopterin S-methyltransferase, subunit A
 RQ  1
 EV  IPR005778; TIGR01111;
 --
-SN  me_mtrB
+SN  10
 ID  Tetrahydromethanopterin S-methyltransferase, subunit B
+DN  Tetrahydromethanopterin S-methyltransferase, subunit B
 RQ  1
 EV  IPR008690; TIGR04166;
 --
-SN  me_mtrC
+SN  11
 ID  Tetrahydromethanopterin S-methyltransferase, subunit C
+DN  Tetrahydromethanopterin S-methyltransferase, subunit C
 RQ  1
 EV  IPR005865; TIGR01148;
 --
-SN  me_mtrD
+SN  12
 ID  Tetrahydromethanopterin S-methyltransferase, subunit D
+DN  Tetrahydromethanopterin S-methyltransferase, subunit D
 RQ  1
 EV  IPR005779; TIGR01112;
 --
-SN  me_mtrE
+SN  13
 ID  Tetrahydromethanopterin S-methyltransferase, subunit E
+DN  Tetrahydromethanopterin S-methyltransferase, subunit E
 RQ  1
 EV  IPR005780; TIGR01113;
 --
-SN  me_mtrF
+SN  14
 ID  Tetrahydromethanopterin S-methyltransferase, subunit F
+DN  Tetrahydromethanopterin S-methyltransferase, subunit F
 RQ  1
 EV  IPR013347; TIGR02507;
 --
-SN  me_mtrG
+SN  15
 ID  Tetrahydromethanopterin S-methyltransferase, subunit G
+DN  Tetrahydromethanopterin S-methyltransferase, subunit G
 RQ  1
 EV  IPR005866; TIGR01149;
 --
-SN  me_mtrH
+SN  16
 ID  Tetrahydromethanopterin S-methyltransferase, subunit H
+DN  Tetrahydromethanopterin S-methyltransferase, subunit H
 RQ  1
 EV  IPR023467; TIGR01114;
 --
-SN  meth_01
+SN  17
 ID  Methanogenesis marker protein 1
+DN  Methanogenesis marker protein 1
 RQ  1
 EV  IPR017667; TIGR03266; sufficient;
 --
-SN  meth_02
+SN  18
 ID  Methanogenesis marker protein 2
+DN  Methanogenesis marker protein 2
 RQ  1
 EV  IPR017668; TIGR03267; sufficient;
 --
-SN  meth_03
+SN  19
 ID  Methanogenesis marker protein 3
+DN  Methanogenesis marker protein 3
 RQ  1
 EV  IPR016466; TIGR03268; sufficient;
 --
-SN  meth_04
+SN  20
 ID  Methanogenesis marker protein 4
+DN  Methanogenesis marker protein 4
 RQ  1
 EV  IPR016764; TIGR03270; sufficient;
 --
-SN  meth_05
+SN  21
 ID  Methanogenesis marker protein 5
+DN  Methanogenesis marker protein 5
 RQ  1
 EV  IPR012356; TIGR03271; sufficient;
 --
-SN  meth_06
+SN  22
 ID  Methanogenesis marker protein 6
+DN  Methanogenesis marker protein 6
 RQ  1
 EV  IPR012025; TIGR03272; sufficient;
 --
-SN  meth_07
+SN  23
 ID  Methanogenesis marker protein 7
+DN  Methanogenesis marker protein 7
 RQ  1
 EV  IPR011312; TIGR03274; sufficient;
 --
-SN  meth_08
+SN  24
 ID  Methanogenesis marker protein 8
+DN  Methanogenesis marker protein 8
 RQ  1
 EV  IPR009181; TIGR03275; sufficient;
 --
-SN  meth_09
+SN  25
 ID  Methanogenesis marker domain 9
+DN  Methanogenesis marker domain 9
 RQ  1
 EV  IPR017671; TIGR03277; sufficient;
 --
-SN  meth_10
+SN  26
 ID  Methanogenesis radical SAM marker protein
+DN  Methanogenesis radical SAM marker protein
 RQ  1
 EV  IPR017672; TIGR03278; sufficient;
 --
-SN  meth_11
+SN  27
 ID  Methanogenesis imperfect marker 11
+DN  Methanogenesis imperfect marker 11
 RQ  1
 EV  IPR017674; TIGR03280; sufficient;
 --
-SN  meth_12
+SN  28
 ID  Methanogenesis marker protein 12
+DN  Methanogenesis marker protein 12
 RQ  1
 EV  IPR016735; TIGR03281; sufficient;
 --
-SN  meth_13
+SN  29
 ID  Methanogenesis marker 13 metalloprotein
+DN  Methanogenesis marker 13 metalloprotein
 RQ  1
 EV  IPR017675; TIGR03282; sufficient;
 --
-SN  meth_14
+SN  30
 ID  Methanogenesis marker protein 14
+DN  Methanogenesis marker protein 14
 RQ  1
 EV  IPR008303; TIGR03285; sufficient;
 --
-SN  meth_15
+SN  31
 ID  Methanogenesis marker protein 15
+DN  Methanogenesis marker protein 15
 RQ  1
 EV  IPR017676; TIGR03286; sufficient;
 --
-SN  meth_16
+SN  32
 ID  Methanogenesis marker 16 metalloprotein
+DN  Methanogenesis marker 16 metalloprotein
 RQ  1
 EV  IPR017677; TIGR03287; sufficient;
 --
-SN  meth_17
+SN  33
 ID  Methanogenesis marker protein 17
+DN  Methanogenesis marker protein 17
 RQ  1
 EV  IPR016762; TIGR03291; sufficient;
 //

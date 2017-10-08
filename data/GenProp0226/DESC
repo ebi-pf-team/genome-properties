@@ -9,12 +9,9 @@ RT  Integrons or super integrons?
 RA  Hall RM, Stokes HW;
 RL  Microbiology. 2004;150:3-4.
 CC  An integron is a system that enables capture and expression of small
-CC  mobile elements called cassettes. Examples that include large numbers
-CC  of cassettes, as in Vibrio cholerae El Tor N16961, have been called
-CC  super-integron, but it is suggested that this term should be
-CC  deprecated, and no distinct property will be built. An integron should
-CC  contain an intI gene, of any of several classes, encoding an integrase.
-CC  It should have a promoter to drive expression, an attI site, ability to
+CC  mobile elements called cassettes. An integron should contain an intI 
+CC  gene, of any of several classes, encoding an integrase. It should 
+CC  have a promoter to drive expression, an attI site, ability to
 CC  incorporate cassettes, and multiple attC sites (also called 59-base
 CC  element) flanking the cassettes. The attC sites may exhibit high
 CC  homology to each other in a long integron, but are best recognized by
@@ -24,9 +21,14 @@ CC  Note that an integron cassette with a defective integron integrase,
 CC  carried by a Tn7 transposon, is called a class 2 integron.
 **  A Tn7 system has tnsA, tnsB, tnsC, tnsD, and tnsE genes. The integron
 **  integrase with it is likely to have an internal stop codon.
+**  Examples that include large numbers of cassettes, as in Vibrio 
+**  cholerae El Tor N16961, have been called super-integron, but it is 
+**  suggested that this term should be deprecated, and no distinct property 
+**  will be built. 
 --
-SN  integro
+SN  1
 ID  Integron integrase
+DN  Integron integrase
 RQ  1
 EV  IPR011946; TIGR02249;
 TG  GO:0009294;

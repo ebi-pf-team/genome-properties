@@ -16,19 +16,22 @@ CC  described in Methanosarcina acetivorans.
 **  Both rules for ComA (TIGR03849, BGRB:2692) are likely to be a bit too
 **  narrow, as a cost for avoiding false-positives.
 --
-SN  M_comA
+SN  1
 ID  (2R)-phospho-3-sulfolactate synthase
+DN  (2R)-phospho-3-sulfolactate synthase/M_comA
 RQ  1
 EV  IPRXXXX; 2692;
 EV  IPR022370; TIGR03849;
 --
-SN  M_comB
+SN  2
 ID  2-phosphosulfolactate phosphatase
+DN  2-phosphosulfolactate phosphatase/M_comB
 RQ  1
 EV  IPR027639; TIGR00298;
 --
-SN  M_comC
+SN  3
 ID  (R)-2-hydroxyacid dehydrogenase
+DN  (R)-2-hydroxyacid dehydrogenase/M_comC
 RQ  0
 EV  IPRXXXX; 2691;
 //

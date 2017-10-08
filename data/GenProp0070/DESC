@@ -35,4 +35,49 @@ SN  6
 ID  Fermentation
 RQ  0
 EV  GenProp0298;
+--
+SN  7
+ID  Entner-Doudoroff pathway
+RQ  0
+EV  GenProp0468;
+--
+SN  8
+ID  Arsenite oxidase
+RQ  0
+EV  GenProp0473;
+--
+SN  9
+ID  Aerobic respiration
+RQ  0
+EV  GenProp0611;
+--
+SN  10
+ID  Respiratory nitrate reductase
+RQ  0
+EV  GenProp0636;
+--
+SN  11
+ID  Formate-dependent nitrite reductase, seven-gene type
+RQ  0
+EV  GenProp0682;
+--
+SN  12
+ID  Cytochrome c nitrite reductase NrfHA
+RQ  0
+EV  GenProp0683;
+--
+SN  13
+ID  Glycolysis
+RQ  0
+EV  GenProp0691;
+--
+SN  14
+ID  Cytochrome b558/566
+RQ  0
+EV  GenProp0695;
+--
+SN  15
+ID  Hydrogenase, nickel and F420-dependent
+RQ  0
+EV  GenProp0723;
 //

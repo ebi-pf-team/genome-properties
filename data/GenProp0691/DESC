@@ -8,30 +8,34 @@ CC  and subsequently broken down to three carbon units (i.e. pyruvate) via
 CC  this pathway for utilization in basic metabolism.
 **  .
 --
-SN  ENO
+SN  1
 ID  Phosphopyruvate hydratase
+DN  Phosphopyruvate hydratase
 RQ  1
 EV  IPR000941; TIGR01060; sufficient;
 TG  GO:0006096;
 --
-SN  FBA
+SN  2
 ID  Fructose-bisphosphate aldolase
+DN  Fructose-bisphosphate aldolase
 RQ  1
 EV  IPR000741; PF00274; sufficient;
 TG  GO:0006096;
 EV  IPR006411; TIGR01520; sufficient;
 TG  GO:0006096;
 --
-SN  GAPDH
+SN  3
 ID  Glyceraldehyde-3-phosphate dehydrogenase
+DN  Glyceraldehyde-3-phosphate dehydrogenase
 RQ  1
 EV  IPR006424; TIGR01534; sufficient;
 TG  GO:0006096;
 EV  IPR006436; TIGR01546; sufficient;
 TG  GO:0006096;
 --
-SN  PGAM
+SN  4
 ID  Phosphoglycerate mutase
+DN  Phosphoglycerate mutase
 RQ  1
 EV  IPR005995; TIGR01307; sufficient;
 TG  GO:0006096;
@@ -40,28 +44,32 @@ TG  GO:0006096;
 EV  IPR005952; TIGR01258; sufficient;
 TG  GO:0006096;
 --
-SN  PGK
+SN  5
 ID  Phosphoglycerate kinase
+DN  Phosphoglycerate kinase
 RQ  1
 EV  IPR001576; PF00162; sufficient;
 TG  GO:0006096;
 --
-SN  PK
+SN  6
 ID  Pyruvate kinase
+DN  Pyruvate kinase
 RQ  1
 EV  IPR001697; TIGR01064; sufficient;
 TG  GO:0006096;
 --
-SN  TIM
+SN  7
 ID  Triosephosphate isomerase
+DN  Triosephosphate isomerase
 RQ  1
 EV  IPR000652; TIGR00419; sufficient;
 TG  GO:0006096;
 EV  IPR000652; PF00121; sufficient;
 TG  GO:0006096;
 --
-SN  fbp-in
+SN  8
 ID  Source(s) of fructose-1,6-bisphosphate
+DN  Source(s) of fructose-1,6-bisphosphate
 RQ  1
 EV  GenProp0693;
 TG  GO:0006096;

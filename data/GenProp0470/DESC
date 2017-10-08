@@ -12,23 +12,27 @@ CC  near CRISPR repeats in Geobacillus kaustophilus HTA426, whose genome
 CC  has no identified Cas proteins. It is found near a cas gene cluster and
 CC  its CRISPR repeats in another species. 
 --
-SN  A
-ID  Sporadic operon protein A - TIGR02677
+SN  1
+ID  Sporadic operon protein A
+DN  Conserved hypothetical protein CHP02677
 RQ  1
 EV  IPR013493; TIGR02677; sufficient;
 --
-SN  B
-ID  Sporadic operon protein B - TIGR02678
+SN  2
+ID  Sporadic operon protein B
+DN  Conserved hypothetical protein CHP02678
 RQ  1
 EV  IPR013494; TIGR02678; sufficient;
 --
-SN  C
-ID  Sporadic operon protein C - TIGR02680
+SN  3
+ID  Sporadic operon protein C
+DN  Conserved hypothetical protein CHP02680
 RQ  1
 EV  IPR013496; TIGR02680; sufficient;
 --
-SN  D
-ID  Sporadic operon protein D - TIGR02679
+SN  4
+ID  Sporadic operon protein D
+DN  Conserved hypothetical protein CHP02679
 RQ  1
 EV  IPR013495; TIGR02679; sufficient;
 //

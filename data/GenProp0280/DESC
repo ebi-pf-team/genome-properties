@@ -11,7 +11,7 @@ RA  Rodionov DA, Vitreschak AG, Mironov AA, Gelfand MS;
 RL  J Biol Chem. 2003;278:41148-41159.
 CC  The pair of genes making up this property have been proposed to
 CC  comprise a cobalt ion imorter for the biosynthesis of vitamin B12
-CC  (cobalamin).  Evidence for this assignment includes 1) prediction of
+CC  (cobalamin). Evidence for this assignment includes 1) prediction of
 CC  five trans-membrane segments in CbtA and a single additional
 CC  trans-membrane segment and a C-terminal histidine-rich motif likely to
 CC  be a metal-binding site in CbtB, 2) positional gene linkage with known
@@ -19,13 +19,15 @@ CC  B12 biosynthesis genes, 3) upstream proximity of B12 transcriptional
 CC  regulatory sites, 4) the absence of other known cobalt import systems
 CC  and 5) the obligate co-localization of CbtA and CbtB.
 --
-SN  CbtA
+SN  1
 ID  Cobalt transporter subunit CbtA
+DN  Cobalt transporter subunit CbtA
 RQ  1
 EV  IPR012666; TIGR02458; sufficient;
 --
-SN  CbtB
+SN  2
 ID  Cobalt transporter subunit CbtB
+DN  Cobalt transporter subunit CbtB
 RQ  1
 EV  IPR012667; TIGR02459; sufficient;
 //

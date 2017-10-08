@@ -16,43 +16,51 @@ CC  sugar transferases WbgMNOP, the wzx, wzy and wzz components as well as
 CC  the enzymes for the biosynthesis of GDP-L-colitose from D-fructose-6P
 CC  via GDP-mannose.
 --
-SN  GDP-Col
+SN  1
 ID  Source of GDP-colitose
+DN  Source of GDP-colitose/GDP-Col
 RQ  1
 EV  GenProp0946;
 --
-SN  WbgM
+SN  2
 ID  A-D-Gal-(1->3)-b-D-GalNAc transferase
+DN  A-D-Gal-(1->3)-b-D-GalNAc transferase/WbgM
 RQ  1
 EV  IPRXXXX; 2753;
 --
-SN  WbgN
+SN  3
 ID  A-Col-(1->2)-b-D-Gal transferase
+DN  A-Col-(1->2)-b-D-Gal transferase/WbgN
 RQ  1
 EV  IPRXXXX; 2752;
 --
-SN  WbgO
+SN  4
 ID  B-D-Gal-(1->3)-b-D-GlcNAc transferase
+DN  B-D-Gal-(1->3)-b-D-GlcNAc transferase/WbgO
 RQ  1
 EV  IPRXXXX; 2747;
 --
-SN  WbgP
+SN  5
 ID  B-D-GlcNAc-(1->3)-a-D-Gal transferase
+DN  B-D-GlcNAc-(1->3)-a-D-Gal transferase/WbgP
 RQ  1
 EV  IPRXXXX; 2746;
 --
-SN  wzx55
+SN  6
 ID  O55-specific transporter (flippase)
+DN  O55-specific transporter (flippase)/wzx55
 RQ  1
 EV  IPRXXXX; 2750;
 --
-SN  wzy55
+SN  7
 ID  O55-specific polymerase
+DN  O55-specific polymerase/wzy55
 RQ  1
 EV  IPRXXXX; 2751;
 --
-SN  wzz
+SN  8
 ID  Chain length determinant protein
+DN  Chain length determinant protein/wzz
 RQ  0
 EV  IPR003856; PF02706;
 //

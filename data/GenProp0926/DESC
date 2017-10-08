@@ -5,13 +5,15 @@ AU  Haft DH
 TH  0
 CC  A radical SAM protein and NT01HMA3380
 --
-SN  CGCGGHV
+SN  1
 ID  Putative rSAM target CGCGGHV motif protein
+DN  Putative rSAM target CGCGGHV motif protein/CGCGGHV
 RQ  1
 EV  IPR023906; TIGR03995;
 --
-SN  CG_rSAM
+SN  2
 ID  Putative CGCGHHV-modifying radical SAM protein
+DN  Putative CGCGHHV-modifying radical SAM protein/CG_rSAM
 RQ  1
 EV  IPRXXXX; TIGR04053;
 //

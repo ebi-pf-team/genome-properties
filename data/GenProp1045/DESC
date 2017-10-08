@@ -20,28 +20,33 @@ CC  O146 cluster, which is purported to transfer L-rhamnose in two
 CC  different positions. WfbZ, on the other hand, is most closely related
 CC  to a series of Gal->GalNAc transferases.
 --
-SN  L-Rha
+SN  1
 ID  Source of L-rhamnose
+DN  Source of L-rhamnose/L-Rha
 RQ  1
 EV  GenProp0183;
 --
-SN  WfbY
+SN  2
 ID  Alpha-L-rhamnosyltransferase WfbY
+DN  Alpha-L-rhamnosyltransferase WfbY/WfbY
 RQ  1
 EV  IPRXXXX; 2925;
 --
-SN  WfbZ
+SN  3
 ID  N-acetyl-D-galactose beta-1,3-D-galctosuronyltransferase WfbZ
+DN  N-acetyl-D-galactose beta-1,3-D-galctosuronyltransferase WfbZ/WfbZ
 RQ  1
 EV  IPRXXXX; 2926;
 --
-SN  wzx147
+SN  4
 ID  O147(Ec)-antigen specific transporter (flippase) wzx
+DN  O147(Ec)-antigen specific transporter (flippase) wzx/wzx147
 RQ  1
 EV  IPRXXXX; 2924;
 --
-SN  wzy147
+SN  5
 ID  O147(Ec)-antigen specific polymerase wzy
+DN  O147(Ec)-antigen specific polymerase wzy/wzy147
 RQ  1
 EV  IPRXXXX; 2923;
 //

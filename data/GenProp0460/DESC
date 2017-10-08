@@ -5,45 +5,52 @@ AU  Haft DH
 TH  0
 CC  Gas vesicles are gas-filled hollow protein structures, visible by
 CC  phase-contrast microscopy, that confer bouyancy. They occur in 
-CC  cyanobacteria, anoxyphototrophic bacteria, halophilic archaea, at least
-CC  one soil bacterium (Bacillus megaterium). GvpA and GvpC are the
+CC  cyanobacteria, anoxyphototrophic bacteria, halophilic archaea, and at 
+CC  least one soil bacterium (Bacillus megaterium). GvpA and GvpC are the
 CC  characterized structural proteins, but it seems at least 10 genes are
 CC  required. 
 --
-SN  GvpC
+SN  1
 ID  Gas vesicle structural protein GvpC
+DN  Gas vesicle structural protein GvpC
 RQ  1
 EV  IPR002003; PF01304; sufficient;
 EV  IPR008639; PF05465; sufficient;
 EV  IPR002003; TIGR02641; sufficient;
 --
-SN  GvpG_fm
+SN  2
 ID  Gas vesicle protein, GvpG family
+DN  Gas vesicle protein, GvpG family
 RQ  0
 EV  IPR007804; PF05120; sufficient;
 --
-SN  GvpK
+SN  3
 ID  Gas vesicle protein, GvpK family
+DN  Gas vesicle protein, GvpK family
 RQ  0
 EV  IPR007805; PF05121; sufficient;
 --
-SN  GvpN
+SN  4
 ID  Gas vesicle protein GvpN
+DN  Gas vesicle protein GvpN
 RQ  0
 EV  IPR013462; TIGR02640; sufficient;
 --
-SN  GvpO
+SN  5
 ID  Gas vesicle protein, GvpO family
+DN  Gas vesicle protein, GvpO family
 RQ  0
 EV  IPR008634; PF05800; sufficient;
 --
-SN  Gvp_L_F
+SN  6
 ID  Gas vesicle protein, GvpL/GvpF family
+DN  Gas vesicle protein, GvpL/GvpF family
 RQ  0
 EV  IPR009430; PF06386; sufficient;
 --
-SN  MAJOR
+SN  7
 ID  Gas vesicle major structural protein GvpA
+DN  Gas vesicle major structural protein GvpA
 RQ  1
 EV  IPR000638; PF00741; sufficient;
 //

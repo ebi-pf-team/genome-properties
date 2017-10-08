@@ -13,28 +13,32 @@ CC  four-gene cassettes are adjacent to a PEP-CTERM protein (see
 CC  TIGR02595), among the largest PEP-CTERM proteins from any species, with
 CC  repetitive structure that suggests outer membrane autotransporter
 CC  function (see TIGR02601). The surface structures that these cassettes
-CC  may from are not yet understood.
+CC  may form are not yet understood.
 **  I think these cassettes need a paper. The autotransporter/PEP-CTERM
 **  protein is not included in the property. Proteins renamed Verru_Chthon
 **  cassette protein A-D (vccABCD).
 --
-SN  FOUR
+SN  1
 ID  Operon position FOUR protein
+DN  Verru/Chthon cassette protein D
 RQ  1
 EV  IPR019836; TIGR02596; sufficient;
 --
-SN  ONE_BIG
+SN  2
 ID  V. spinosum long paralogous protein
+DN  Verru/Chthon cassette protein A
 RQ  1
 EV  IPR019840; TIGR02600; sufficient;
 --
-SN  THREE
+SN  3
 ID  Mid-operon protein
+DN  Verru/Chthon cassette protein C
 RQ  1
 EV  IPR019839; TIGR02599; sufficient;
 --
-SN  TWO
+SN  4
 ID  V. spinosum short paralogous protein
+DN  Verru/Chthon cassette protein B
 RQ  1
 EV  IPR019838; TIGR02598; sufficient;
 //

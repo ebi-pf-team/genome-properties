@@ -12,83 +12,99 @@ CC  relative archaeal abundance and genome completeness.
 **  is to provide a protein-space metric of relative archaeal abundance and
 **  genome completeness.
 --
-SN  aC04150
+SN  1
 ID  ArCOG04150 KH-domain protein
+DN  ArCOG04150 KH-domain protein/aC04150
 RQ  1
 EV  IPR019964; TIGR03665;
 --
-SN  aIF-2
+SN  2
 ID  Translation initiation factor aIF-2
+DN  Translation initiation factor aIF-2/aIF-2
 RQ  1
 EV  IPR004544; TIGR00491;
 --
-SN  a_L13P
+SN  3
 ID  Archaeal ribosomal protein L13P
+DN  Archaeal ribosomal protein L13P/a_L13P
 RQ  1
 EV  IPR005755; TIGR01077;
 --
-SN  a_L22
+SN  4
 ID  Archaeal ribosomal protein L22P
+DN  Archaeal ribosomal protein L22P/a_L22
 RQ  1
 EV  IPR005721; TIGR01038;
 --
-SN  a_L24
+SN  5
 ID  Archaeal ribosomal protein L24P
+DN  Archaeal ribosomal protein L24P/a_L24
 RQ  1
 EV  IPR005756; TIGR01080;
 --
-SN  a_L3
+SN  6
 ID  Archaeal ribosomal protein L3P
+DN  Archaeal ribosomal protein L3P/a_L3
 RQ  1
 EV  IPR019928; TIGR03626;
 --
-SN  a_L6P
+SN  7
 ID  Archaeal ribosomal protein L6P
+DN  Archaeal ribosomal protein L6P/a_L6P
 RQ  1
 EV  IPR019907; TIGR03653;
 --
-SN  a_S10P
+SN  8
 ID  Archaeal ribosomal protein S10P
+DN  Archaeal ribosomal protein S10P/a_S10P
 RQ  1
 EV  IPR005729; TIGR01046;
 --
-SN  a_S11P
+SN  9
 ID  Archaeal ribosomal protein S11P
+DN  Archaeal ribosomal protein S11P/a_S11P
 RQ  1
 EV  IPR019961; TIGR03628;
 --
-SN  a_S13P
+SN  10
 ID  Archaeal ribosomal protein S13P
+DN  Archaeal ribosomal protein S13P/a_S13P
 RQ  1
 EV  IPR019977; TIGR03629;
 --
-SN  a_S17P
+SN  11
 ID  Archaeal ribosomal protein S17P
+DN  Archaeal ribosomal protein S17P/a_S17P
 RQ  1
 EV  IPR028333; TIGR03630;
 --
-SN  a_S19P
+SN  12
 ID  Archaeal ribosomal protein S19P
+DN  Archaeal ribosomal protein S19P/a_S19P
 RQ  1
 EV  IPR005713; TIGR01025;
 --
-SN  a_S3P
+SN  13
 ID  Archaeal ribosomal protein S3P
+DN  Archaeal ribosomal protein S3P/a_S3P
 RQ  1
 EV  IPR005703; TIGR01008;
 --
-SN  a_S4P
+SN  14
 ID  Archaeal ribosomal protein S4P
+DN  Archaeal ribosomal protein S4P/a_S4P
 RQ  1
 EV  IPR005710; TIGR01018;
 --
-SN  a_S5P
+SN  15
 ID  Archaeal ribosomal protein S5P
+DN  Archaeal ribosomal protein S5P/a_S5P
 RQ  1
 EV  IPR005711; TIGR01020;
 --
-SN  a_S9P
+SN  16
 ID  Archaeal ribosomal protein S9P
+DN  Archaeal ribosomal protein S9P/a_S9P
 RQ  1
 EV  IPR019958; TIGR03627;
 //

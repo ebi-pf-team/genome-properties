@@ -12,33 +12,39 @@ CC  segment L, and overlapping reading frames on the S segment encoding
 CC  nucleocapsid protein N and nonstructural protein NSs.
 **  The ends of the L protein (Bun_pol) are not modeled.
 --
-SN  Bun_G1
+SN  1
 ID  Glycoprotein G1
+DN  Glycoprotein G1
 RQ  1
 EV  IPR005167; PF03557;
 --
-SN  Bun_G2
+SN  2
 ID  Glycoprotein G2
+DN  Glycoprotein G2
 RQ  1
 EV  IPR005168; PF03563;
 --
-SN  Bun_N
+SN  3
 ID  Bunyavirus nucleocapsid protein
+DN  Bunyavirus nucleocapsid protein
 RQ  1
 EV  IPR001784; PF00952;
 --
-SN  Bun_NSm
+SN  4
 ID  Non-structural protein NS-m
+DN  Non-structural protein NS-m
 RQ  1
 EV  IPR026400; TIGR04210;
 --
-SN  Bun_NSs
+SN  5
 ID  Non-structural protein NS-s
+DN  Non-structural protein NS-s
 RQ  1
 EV  IPR000797; PF01104;
 --
-SN  Bun_pol
+SN  6
 ID  RNA-dependent RNA polymerase
+DN  RNA-dependent RNA polymerase
 RQ  1
 EV  IPR007322; PF04196;
 //

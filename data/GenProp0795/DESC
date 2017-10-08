@@ -17,4 +17,14 @@ SN  2
 ID  Lipopolysaccharide biosynthesis
 RQ  0
 EV  GenProp0297;
+--
+SN  3
+ID  Glucosylglycerol biosynthesis
+RQ  0
+EV  GenProp0264;
+--
+SN  4
+ID  UDP-N-acetylglucosamine biosynthesis from fructose-6-phosphate
+RQ  0
+EV  GenProp0750;
 //

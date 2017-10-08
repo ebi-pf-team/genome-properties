@@ -12,8 +12,9 @@ CC  that have been described in publications as abortive infection proteins
 CC  and that do not belong to CRISPR or restriction enzyme systems.
 **  Many toxin-antitoxin system proteins MAY belong to this guild.
 --
-SN  ABI
+SN  1
 ID  Abortive infection protein
+DN  Abortive infection protein
 RQ  1
 EV  IPR025911; PF13958;
 EV  IPR030987; TIGR04498;

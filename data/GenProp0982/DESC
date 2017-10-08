@@ -18,13 +18,15 @@ CC  (Six Cysteines in Forty-Five) system. This system is known so far in
 CC  Fibrobacter succinogenes subsp. succinogenes S85 (targets missed in
 CC  gene-calling) and in Ruminococcus albus 8.
 --
-SN  FR_rSAM
+SN  1
 ID  Radical SAM peptide maturase, FibroRumin system
+DN  Radical SAM peptide maturase, FibroRumin system
 RQ  1
 EV  IPR026426; TIGR04136;
 --
-SN  FR_targ
+SN  2
 ID  Cys-rich radical SAM target, FibroRumin family
+DN  Cys-rich radical SAM target, FibroRumin family
 RQ  1
 EV  IPR026425; TIGR04135;
 //

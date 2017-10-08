@@ -9,8 +9,8 @@ RT  Arsenite oxidase, an ancient bioenergetic enzyme.
 RA  Lebrun E, Brugna M, Baymann F, Muller D, Lièvremont D, Lett MC,
 RA  Nitschke W;
 RL  Mol Biol Evol. 2003;20:686-693.
-CC  The enzyme designated 1.20.9.1, arsenate reductase (azurin), acts in
-CC  the biological process of arsenite oxidation for energy metabolism
+CC  The enzyme designated arsenate reductase (azurin), acts in the 
+CC  biological process of arsenite oxidation for energy metabolism,
 CC  rather than in the reduction of intracellular arsenate to facilitate
 CC  transport as is the case for arsenate reductases of arsenical
 CC  resistance systems. The large subunit contains a molybdopterin
@@ -18,20 +18,23 @@ CC  cofactor, while the small subunit is a Rieske iron-sulfur protein.
 CC  Azurin is present in some but not all species with arsenite oxidase; it
 CC  may be replaced by auracyanin or an unrelated redox partner.
 --
-SN  Rieske
+SN  1
 ID  Arsenite oxidase, small (Rieske) subunit
+DN  Arsenite oxidase, small subunit
 RQ  1
 EV  IPR014067; TIGR02694; sufficient;
 TG  GO:0015975;
 --
-SN  azurin
+SN  2
 ID  Azurin
+DN  Azurin (EC 1.20.9.1)
 RQ  0
 EV  IPR014068; TIGR02695; sufficient;
 TG  GO:0015975;
 --
-SN  molybdo
+SN  3
 ID  Arsenite oxidase, large subunit
+DN  Arsenite oxidase, large subunit
 RQ  1
 EV  IPR014066; TIGR02693; sufficient;
 TG  GO:0015975;

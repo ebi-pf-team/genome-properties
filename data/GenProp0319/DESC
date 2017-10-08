@@ -9,85 +9,103 @@ RT  Identification of genes that are associated with DNA repeats in
 RT  prokaryotes.
 RA  Jansen R, Embden JD, Gaastra W, Schouls LM;
 RL  Mol Microbiol. 2002;43:1565-1575.
+RN  [2]
+RM  16292354
+RT  A guild of 45 CRISPR-associated (Cas) protein families and multiple
+RT  CRISPR/Cas subtypes exist in prokaryotic genomes.
+RA  Haft DH, Selengut J, Mongodin EF, Nelson KE;
+RL  PLoS Comput Biol. 2005;1:e60.
 CC  CRISPR repeats are by definition Clustered Regularly Interspaced Short
 CC  Palindromic Repeats, described by Jansen [1]. Certain proteins,
 CC  including Cas1 to Cas4, are found only in genomes with CRISPR repeats,
 CC  and are near these repeats. Jansen, et al. describe CRISPR loci as
 CC  having direct repeats, varying in size from 21 to 37 bp, interspaced by
 CC  similarly sized non-repetitive sequences. Variants of CRISP/Cas loci
-CC  (subtypes) have been described (Haft, Selengut, et al., submitted) in
-CC  which certain groups of subtype-specific genes are found in addition to
-CC  characteristic sets of the more widely distributed cas genes. The Apern
-CC  subtype, so named because this subtype is the only one found in the
-CC  genome of Archaeoglobus pernix, consists of cas1-6, the subtype
-CC  specific genes csa1-3 and either csa4 or csa5. The repeats associated
-CC  with this subtype tend to have a periodicity of 66 nucleotides. This
-CC  subtype is found exclusively in Archaea, primarily in the
-CC  Chrenarchaeota. 
+CC  (subtypes) have been described [2] in which certain groups of 
+CC  subtype-specific genes are found in addition to characteristic sets of 
+CC  the more widely distributed cas genes. The Apern subtype, so named 
+CC  because this subtype is the only one found in the genome of Archaeoglobus 
+CC  pernix, consists of cas1-6, the subtype specific genes csa1-3 and either 
+CC  csa4 or csa5. The repeats associated with this subtype tend to have a 
+CC  periodicity of 66 nucleotides. This subtype is found exclusively in 
+CC  Archaea, primarily in the Chrenarchaeota. 
 --
-SN  Cas1
+SN  1
 ID  Cas1, Apern region
+DN  CRISPR-associated protein Cas1
 RQ  1
 EV  IPR002729; TIGR00287;
 --
-SN  Cas2
+SN  2
 ID  Cas2, Apern region
+DN  CRISPR-associated endonuclease Cas2
 RQ  1
 EV  IPR021127; TIGR01573;
 --
-SN  Cas3
+SN  3
 ID  Cas3, Apern region
+DN  Helicase Cas3, CRISPR-associated
 RQ  1
 EV  IPR006474; TIGR01587;
 --
-SN  Cas3b
+SN  4
 ID  Cas3b, Apern region
+DN  CRISPR-associated Cas3-HD domain
 RQ  1
 EV  IPR006483; TIGR01596;
 --
-SN  Cas4
+SN  5
 ID  Cas4, Apern region
+DN  CRISPR-associated protein Cas4
 RQ  1
 EV  IPR013343; TIGR00372;
 --
-SN  Cas5a
+SN  6
 ID  Cas5, Apern specific variant
+DN  CRISPR-associated protein, Cas5a type
 RQ  1
 EV  IPR010153; TIGR01874; sufficient;
 --
-SN  Cas6
+SN  7
 ID  Cas6, Apern region
+DN  CRISPR-associated protein, Cas6
 RQ  1
 EV  IPR010156; TIGR01877;
 --
-SN  Csa1
+SN  8
 ID  Csa1
+DN  CRISPR-associated exonuclease Csa1
 RQ  1
 EV  IPR009260; TIGR01896; sufficient;
 --
-SN  Csa2
+SN  9
 ID  Csa2, regulatory protein
+DN  CRISPR-associated protein Cas7/Cst2/DevR, subtype I-a/Apern
 RQ  1
 EV  IPR002764; TIGR02583; sufficient;
 --
-SN  Csa3
+SN  10
 ID  Csa3, DNA-binding protein
+DN  CRISPR locus-related putative DNA-binding protein Csa3
 RQ  1
 EV  IPR010163; TIGR01884; sufficient;
 --
-SN  Csa4
+SN  11
 ID  Csa4
+DN  CRISPR-associated protein, MJ0385/Csx9/Csa4
 RQ  0
 EV  IPR010184; TIGR01914; sufficient;
 EV  IPR013488; TIGR02671;
 --
-SN  Csa5
+SN  12
 ID  Csa5
+DN  CRISPR type I-A/APERN-associated protein Csa5
 RQ  0
 EV  IPR010157; TIGR01878; sufficient;
 --
-SN  CsaX
+SN  13
 ID  CRISPR-associated protein, CsaX family
+DN  CRISPR-associated protein, CsaX
 RQ  0
 EV  IPR022297; TIGR03876;
 //

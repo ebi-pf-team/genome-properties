@@ -10,353 +10,423 @@ CC  for these genes may also identify genes in eukaryotes or bacteria. The
 CC  intended use of this property is to evaluate draft Archaeal genomes to
 CC  determine the degree of completion achieved. 
 --
-SN  PTH2
+SN  1
 ID  Peptidyl-tRNA hydrolase PTH2
+DN  Peptidyl-tRNA hydrolase PTH2/PTH2
 RQ  1
 EV  IPR002833; TIGR00283;
 --
-SN  aC00078
+SN  2
 ID  ArCOG00078 fibrillarin-like rRNA methylase
+DN  ArCOG00078 fibrillarin-like rRNA methylase/aC00078
 RQ  1
 EV  IPR000692; PF01269;
 --
-SN  aC00187
+SN  3
 ID  ArCOG00187 metal-binding-domain/4Fe-4S-binding-domain containing ABC transporter, ATP-binding protein
+DN  ArCOG00187 metal-binding-domain/4Fe-4S-binding-domain containing ABC transporter, ATP-binding protein/aC00187
 RQ  1
 EV  IPR022427; TIGR03679;
 --
-SN  aC00543
+SN  4
 ID  ArCOG00543 universal archaeal KH-domain/beta-lactamase-domain protein
+DN  ArCOG00543 universal archaeal KH-domain/beta-lactamase-domain protein/aC00543
 RQ  1
 EV  IPR019975; TIGR03675;
 --
-SN  aC00985
+SN  5
 ID  ArCOG00985 PUA-domain protein
+DN  ArCOG00985 PUA-domain protein/aC00985
 RQ  1
 EV  IPR022430; TIGR03684;
 --
-SN  aC01695
+SN  6
 ID  ArCOG01695/DUF814
+DN  ArCOG01695/DUF814/aC01695
 RQ  1
 EV  IPR008532; PF05670;
 --
-SN  aC01863
+SN  7
 ID  ArCOG01863 helix-turn-helix domain protein
+DN  ArCOG01863 helix-turn-helix domain protein/aC01863
 RQ  1
 EV  IPR004451; TIGR00270;
 --
-SN  aC04112
+SN  8
 ID  ArCOG04112 diphthamide biosynthesis domain protein
+DN  ArCOG04112 diphthamide biosynthesis domain protein/aC04112
 RQ  1
 EV  IPR022428; TIGR03682;
 --
-SN  aC04150
+SN  9
 ID  ArCOG04150 KH-domain protein
+DN  ArCOG04150 KH-domain protein/aC04150
 RQ  1
 EV  IPR019964; TIGR03665;
 --
-SN  aC04187
+SN  10
 ID  ArCOG04187
+DN  ArCOG04187/aC04187
 RQ  1
 EV  IPR002140; TIGR00291;
 --
-SN  aEF-2
+SN  11
 ID  Translation elongation factor aEF-2
+DN  Translation elongation factor aEF-2/aEF-2
 RQ  1
 EV  IPR004543; TIGR00490;
 --
-SN  aIF-2
+SN  12
 ID  Translation initiation factor aIF-2
+DN  Translation initiation factor aIF-2/aIF-2
 RQ  1
 EV  IPR004544; TIGR00491;
 --
-SN  aIF-2a
+SN  13
 ID  Translation initiation factor aIF-2, alpha subunit
+DN  Translation initiation factor aIF-2, alpha subunit/aIF-2a
 RQ  1
 EV  IPR011488; PF07541;
 --
-SN  aRF1
+SN  14
 ID  Peptide release factor 1
+DN  Peptide release factor 1/aRF1
 RQ  1
 EV  IPR004403; TIGR03676;
 --
-SN  a_L10
+SN  15
 ID  Archaeal ribosomal protein L10P
+DN  Archaeal ribosomal protein L10P/a_L10
 RQ  1
 EV  IPR001790; PF00466;
 --
-SN  a_L10e
+SN  16
 ID  Archaeal ribosomal protein L10e
+DN  Archaeal ribosomal protein L10e/a_L10e
 RQ  1
 EV  IPR016180; PF00252;
 --
-SN  a_L12P
+SN  17
 ID  Archaeal ribosomal protein L12P
+DN  Archaeal ribosomal protein L12P/a_L12P
 RQ  1
 EV  IPR022295; TIGR03685;
 --
-SN  a_L13P
+SN  18
 ID  Archaeal ribosomal protein L13P
+DN  Archaeal ribosomal protein L13P/a_L13P
 RQ  1
 EV  IPR005755; TIGR01077;
 --
-SN  a_L14P
+SN  19
 ID  Archaeal ribosomal protein L14P
+DN  Archaeal ribosomal protein L14P/a_L14P
 RQ  1
 EV  IPR019971; TIGR03673;
 --
-SN  a_L15P
+SN  20
 ID  Archaeal ribosomal protein L15P
+DN  Archaeal ribosomal protein L15P/a_L15P
 RQ  1
 EV  IPR000439; PF00827;
 --
-SN  a_L19e
+SN  21
 ID  Archaeal ribosomal protein L19e
+DN  Archaeal ribosomal protein L19e/a_L19e
 RQ  1
 EV  IPR000196; PF01280;
 --
-SN  a_L21e
+SN  22
 ID  Archaeal ribosomal protein L21e
+DN  Archaeal ribosomal protein L21e/a_L21e
 RQ  1
 EV  IPR001147; PF01157;
 --
-SN  a_L22
+SN  23
 ID  Archaeal ribosomal protein L22P
+DN  Archaeal ribosomal protein L22P/a_L22
 RQ  1
 EV  IPR005721; TIGR01038;
 --
-SN  a_L24
+SN  24
 ID  Archaeal ribosomal protein L24P
+DN  Archaeal ribosomal protein L24P/a_L24
 RQ  1
 EV  IPR005756; TIGR01080;
 --
-SN  a_L26e
+SN  25
 ID  Archaeal ribosomal protein L26e
+DN  Archaeal ribosomal protein L26e/a_L26e
 RQ  1
 EV  IPR011590; TIGR00405;
 --
-SN  a_L29
+SN  26
 ID  Archaeal ribosomal protein L29
+DN  Archaeal ribosomal protein L29/a_L29
 RQ  1
 EV  IPR001854; TIGR00012;
 --
-SN  a_L3
+SN  27
 ID  Archaeal ribosomal protein L3P
+DN  Archaeal ribosomal protein L3P/a_L3
 RQ  1
 EV  IPR019928; TIGR03626;
 --
-SN  a_L30P
+SN  28
 ID  Archaeal ribosomal protein L30P
+DN  Archaeal ribosomal protein L30P/a_L30P
 RQ  1
 EV  IPR005997; TIGR01309;
 --
-SN  a_L32
+SN  29
 ID  Archaeal ribosomal protein L32
+DN  Archaeal ribosomal protein L32/a_L32
 RQ  1
 EV  IPR001515; PF01655;
 --
-SN  a_L6P
+SN  30
 ID  Archaeal ribosomal protein L6P
+DN  Archaeal ribosomal protein L6P/a_L6P
 RQ  1
 EV  IPR019907; TIGR03653;
 --
-SN  a_L7AE
+SN  31
 ID  Archaeal ribosomal protein L7AE
+DN  Archaeal ribosomal protein L7AE/a_L7AE
 RQ  1
 EV  IPR022481; TIGR03677;
 --
-SN  a_S10P
+SN  32
 ID  Archaeal ribosomal protein S10P
+DN  Archaeal ribosomal protein S10P/a_S10P
 RQ  1
 EV  IPR005729; TIGR01046;
 --
-SN  a_S11P
+SN  33
 ID  Archaeal ribosomal protein S11P
+DN  Archaeal ribosomal protein S11P/a_S11P
 RQ  1
 EV  IPR019961; TIGR03628;
 --
-SN  a_S12
+SN  34
 ID  Archaeal ribosomal protein S12P
+DN  Archaeal ribosomal protein S12P/a_S12
 RQ  1
 EV  IPR005680; TIGR00982;
 --
-SN  a_S13P
+SN  35
 ID  Archaeal ribosomal protein S13P
+DN  Archaeal ribosomal protein S13P/a_S13P
 RQ  1
 EV  IPR019977; TIGR03629;
 --
-SN  a_S17P
+SN  36
 ID  Archaeal ribosomal protein S17P
+DN  Archaeal ribosomal protein S17P/a_S17P
 RQ  1
 EV  IPR028333; TIGR03630;
 --
-SN  a_S19P
+SN  37
 ID  Archaeal ribosomal protein S19P
+DN  Archaeal ribosomal protein S19P/a_S19P
 RQ  1
 EV  IPR005713; TIGR01025;
 --
-SN  a_S19e
+SN  38
 ID  Archaeal ribosomal protein S19e
+DN  Archaeal ribosomal protein S19e/a_S19e
 RQ  1
 EV  IPR001266; PF01090;
 --
-SN  a_S2
+SN  39
 ID  Archaeal ribosomal protein S2
+DN  Archaeal ribosomal protein S2/a_S2
 RQ  1
 EV  IPR005707; TIGR01012;
 --
-SN  a_S27
+SN  40
 ID  Archaeal ribosomal protein S27
+DN  Archaeal ribosomal protein S27/a_S27
 RQ  1
 EV  IPR000592; PF01667;
 --
-SN  a_S28e
+SN  41
 ID  Archaeal ribosomal protein S28e
+DN  Archaeal ribosomal protein S28e/a_S28e
 RQ  1
 EV  IPR000289; PF01200;
 --
-SN  a_S3Ae
+SN  42
 ID  Archaeal ribosomal protein S3Ae
+DN  Archaeal ribosomal protein S3Ae/a_S3Ae
 RQ  1
 EV  IPR001593; PF01015;
 --
-SN  a_S3P
+SN  43
 ID  Archaeal ribosomal protein S3P
+DN  Archaeal ribosomal protein S3P/a_S3P
 RQ  1
 EV  IPR005703; TIGR01008;
 --
-SN  a_S4P
+SN  44
 ID  Archaeal ribosomal protein S4P
+DN  Archaeal ribosomal protein S4P/a_S4P
 RQ  1
 EV  IPR005710; TIGR01018;
 --
-SN  a_S4e
+SN  45
 ID  Archaeal ribosomal protein S3e
+DN  Archaeal ribosomal protein S3e/a_S4e
 RQ  1
 EV  IPR013845; PF00900;
 --
-SN  a_S5P
+SN  46
 ID  Archaeal ribosomal protein S5P
+DN  Archaeal ribosomal protein S5P/a_S5P
 RQ  1
 EV  IPR005711; TIGR01020;
 --
-SN  a_S6e
+SN  47
 ID  Archaeal ribosomal protein S6e
+DN  Archaeal ribosomal protein S6e/a_S6e
 RQ  1
 EV  IPR001377; PF01092;
 --
-SN  a_S7
+SN  48
 ID  Rchaeal ribosomal protein S7
+DN  Rchaeal ribosomal protein S7/a_S7
 RQ  1
 EV  IPR005716; TIGR01028;
 --
-SN  a_S8
+SN  49
 ID  Archaeal ribosomal protein S8
+DN  Archaeal ribosomal protein S8/a_S8
 RQ  1
 EV  IPR000630; PF00410;
 --
-SN  a_S8e
+SN  50
 ID  Archaeal ribosomal protein S8e
+DN  Archaeal ribosomal protein S8e/a_S8e
 RQ  1
 EV  IPR001047; TIGR00307;
 --
-SN  a_S9P
+SN  51
 ID  Archaeal ribosomal protein S9P
+DN  Archaeal ribosomal protein S9P/a_S9P
 RQ  1
 EV  IPR019958; TIGR03627;
 --
-SN  a_cca
+SN  52
 ID  tRNA nucleotidyltransferase (CCA-adding enzyme)
+DN  tRNA nucleotidyltransferase (CCA-adding enzyme)/a_cca
 RQ  1
 EV  IPR008229; TIGR03671;
 --
-SN  a_rpoB
+SN  53
 ID  Archaeal DNA-directed RNA polymerase subunit B
+DN  Archaeal DNA-directed RNA polymerase subunit B/a_rpoB
 RQ  1
 EV  IPR019969; TIGR03670;
 --
-SN  alaS
+SN  54
 ID  Alanyl-tRNA synthetase
+DN  Alanyl-tRNA synthetase/alaS
 RQ  1
 EV  IPR022429; TIGR03683;
 --
-SN  dph5
+SN  55
 ID  Diphthine synthase
+DN  Diphthine synthase/dph5
 RQ  1
 EV  IPR004551; TIGR00522;
 --
-SN  eIF-5A
+SN  56
 ID  Translation initiation factor eIF-5A
+DN  Translation initiation factor eIF-5A/eIF-5A
 RQ  1
 EV  IPR001884; TIGR00037;
 --
-SN  eif2g
+SN  57
 ID  Translation initiation factor 2 subunit gamma
+DN  Translation initiation factor 2 subunit gamma/eif2g
 RQ  1
 EV  IPR022424; TIGR03680;
 --
-SN  fen
+SN  58
 ID  Flap structure-specific endonuclease
+DN  Flap structure-specific endonuclease/fen
 RQ  1
 EV  IPR019973; TIGR03674;
 --
-SN  gatD
+SN  59
 ID  Glutamyl-tRNA(Gln) amidotransferase, subunit D
+DN  Glutamyl-tRNA(Gln) amidotransferase, subunit D/gatD
 RQ  1
 EV  IPR011878; TIGR02153;
 --
-SN  gatE
+SN  60
 ID  Glutamyl-tRNA(Gln) amidotransferase, subunit E
+DN  Glutamyl-tRNA(Gln) amidotransferase, subunit E/gatE
 RQ  1
 EV  IPR004414; TIGR00134;
 --
-SN  gltX
+SN  61
 ID  Glutamyl-tRNA synthetase
+DN  Glutamyl-tRNA synthetase/gltX
 RQ  1
 EV  IPR004526; TIGR00463;
 --
-SN  pheS
+SN  62
 ID  Phenylalanyl-tRNA synthetase
+DN  Phenylalanyl-tRNA synthetase/pheS
 RQ  1
 EV  IPR004529; TIGR00468;
 --
-SN  proS
+SN  63
 ID  Prolyl-tRNA synthetase
+DN  Prolyl-tRNA synthetase/proS
 RQ  1
 EV  IPR004499; TIGR00408;
 --
-SN  psmA
+SN  64
 ID  Proteasome endopeptidase complex, archaeal, alpha subunit
+DN  Proteasome endopeptidase complex, archaeal, alpha subunit/psmA
 RQ  1
 EV  IPR019982; TIGR03633;
 --
-SN  radA
+SN  65
 ID  DNA repair and recombination protein RadA, archaeal form
+DN  DNA repair and recombination protein RadA, archaeal form/radA
 RQ  1
 EV  IPR011938; TIGR02236;
 --
-SN  rpoA1
+SN  66
 ID  DNA-directed RNA polymerase, subunit A'
+DN  DNA-directed RNA polymerase, subunit A'/rpoA1
 RQ  1
 EV  IPR012758; TIGR02390;
 --
-SN  rpoA2
+SN  67
 ID  DNA-directed RNA polymerase, subunit A''
+DN  DNA-directed RNA polymerase, subunit A''/rpoA2
 RQ  1
 EV  IPR012757; TIGR02389;
 --
-SN  rpoE
+SN  68
 ID  DNA-directed RNA polymerase
+DN  DNA-directed RNA polymerase/rpoE
 RQ  1
 EV  IPR004519; TIGR00448;
 --
-SN  rpoN
+SN  69
 ID  DNA-directed RNA polymerase, subunit N
+DN  DNA-directed RNA polymerase, subunit N/rpoN
 RQ  1
 EV  IPR000268; PF01194;
 --
-SN  secY
+SN  70
 ID  Preprotein translocase, SecY subunit
+DN  Preprotein translocase, SecY subunit/secY
 RQ  1
 EV  IPR002208; PF00344;
 //

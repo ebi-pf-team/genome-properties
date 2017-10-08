@@ -10,13 +10,15 @@ CC  about 470 amino acids (TIGR02688). The downstream member is
 CC  occasionally annotated (apparently incorrectly) as ATP-dependent
 CC  protease La.
 --
-SN  dnstrm
-ID  Downstream (TIGR02688)
+SN  1
+ID  Downstream
+DN  Conserved hypothetical protein CHP02688
 RQ  1
 EV  IPR014061; TIGR02688; sufficient;
 --
-SN  upstrm
-ID  Upstream (TIGR02687)
+SN  2
+ID  Upstream
+DN  Conserved hypothetical protein CHP02687
 RQ  1
 EV  IPR014060; TIGR02687; sufficient;
 //

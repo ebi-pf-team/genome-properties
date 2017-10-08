@@ -12,8 +12,9 @@ CC  L-cysteate to sulfopyruvate.
 **  The figure shows the same enzyme removing a phosphate, proposed
 **  intermediate of dehydroalanine, and adding a sulfate.
 --
-SN  M_cyst
+SN  1
 ID  Cysteate synthase
+DN  Cysteate synthase
 RQ  1
 EV  IPR022401; TIGR03844;
 //

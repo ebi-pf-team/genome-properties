@@ -11,18 +11,21 @@ CC  AMMECR1-like component may be fused, or encoded by tandem genes if not
 CC  fused, but this three-gene property has its genes encoded far from each
 CC  other more often than is typical for most Genome Properties.
 --
-SN  AMR_A
+SN  1
 ID  AmmeMemoRadiSam system protein A
+DN  AmmeMemoRadiSam system protein A
 RQ  1
 EV  IPR027623; TIGR04335;
 --
-SN  AMR_B
+SN  2
 ID  AmmeMemoRadiSam system protein B
+DN  AmmeMemoRadiSam system protein B
 RQ  1
 EV  IPR002737; TIGR04336;
 --
-SN  AMR_rS
+SN  3
 ID  AmmeMemoRadiSam system radical SAM enzyme
+DN  AmmeMemoRadiSam system radical SAM enzyme
 RQ  1
 EV  IPR027596; TIGR04337;
 //

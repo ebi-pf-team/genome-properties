@@ -18,38 +18,45 @@ CC  that this is the structure as reported in the ECODAB database, whereas
 CC  the original publication [1] has this permuted such that the
 CC  b-D-galactose sugar is in the first position).
 --
-SN  Qui3NAcy
+SN  1
 ID  Source of 3-hydroxybutyramido-quinovose
+DN  Source of 3-hydroxybutyramido-quinovose/Qui3NAcy
 RQ  1
 EV  GenProp1021;
 --
-SN  WbsA
+SN  2
 ID  B-D-GlcA6NGly-(1->3)-b-D-GlcNAc transferase
+DN  B-D-GlcA6NGly-(1->3)-b-D-GlcNAc transferase/WbsA
 RQ  1
 EV  IPRXXXX; 2867;
 --
-SN  WbsE
+SN  3
 ID  A-D-Qui3NAcyl-(1->4)-b-D-Gal transferase
+DN  A-D-Qui3NAcyl-(1->4)-b-D-Gal transferase/WbsE
 RQ  1
 EV  IPRXXXX; 2869;
 --
-SN  WbsF
+SN  4
 ID  B-D-GlcNAc-(1->4)-b-D-GlcA6NGly transferase
+DN  B-D-GlcNAc-(1->4)-b-D-GlcA6NGly transferase/WbsF
 RQ  1
 EV  IPRXXXX; 2872;
 --
-SN  WbsG
+SN  5
 ID  B-D-Gal-(1->4)-b-D-GlcNAc transferase
+DN  B-D-Gal-(1->4)-b-D-GlcNAc transferase/WbsG
 RQ  1
 EV  IPRXXXX; 2873;
 --
-SN  wzx91
+SN  6
 ID  O91-specific transporter (flippase)
+DN  O91-specific transporter (flippase)/wzx91
 RQ  1
 EV  IPRXXXX; 2864;
 --
-SN  wzy91
+SN  7
 ID  O91-specific polymerase
+DN  O91-specific polymerase/wzy91
 RQ  1
 EV  IPRXXXX; 2865;
 //

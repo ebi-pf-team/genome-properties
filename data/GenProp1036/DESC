@@ -36,42 +36,51 @@ CC  by process of elimination. WdaE also has the lowest degree of
 CC  similarity to other glycosyltransferases and is consistent with
 CC  L-fucose being quite rare in known E. coil O-antigen structures.
 --
-SN  Fuc
+SN  1
 ID  Source of L-fucose
+DN  Source of L-fucose/Fuc
 RQ  1
 EV  GenProp1024;
 --
-SN  GalE
+SN  2
 ID  O11(Ec)-associated UDP-glucose 4-epimerase
+DN  O11(Ec)-associated UDP-glucose 4-epimerase/GalE
 RQ  0
 EV  IPR005886; TIGR01179;
 --
-SN  Man
+SN  3
 ID  Source of D-mannose
+DN  Source of D-mannose/Man
 RQ  1
 EV  GenProp1017;
 --
-SN  WdaD
+SN  4
 ID  Putative DGalNAc-a(1,3)-LFuc transferase WdaD
+DN  Putative DGalNAc-a(1,3)-LFuc transferase WdaD/WdaD
 RQ  1
 --
-SN  WdaE
+SN  5
 ID  Putative LFuc-a(1,3)-DMan transferase WdaE
+DN  Putative LFuc-a(1,3)-DMan transferase WdaE/WdaE
 RQ  1
 --
-SN  WdaF
+SN  6
 ID  Putative DMan-a(1,6)-DGalNAc transferase
+DN  Putative DMan-a(1,6)-DGalNAc transferase/WdaF
 RQ  1
 --
-SN  WdaG
+SN  7
 ID  Putative DGalNAc-a(1,3)-LFuc transferase WdaG
+DN  Putative DGalNAc-a(1,3)-LFuc transferase WdaG/WdaG
 RQ  1
 --
-SN  wzx11
+SN  8
 ID  O11(Ec)-antigen specific transporter (flippase) wzx
+DN  O11(Ec)-antigen specific transporter (flippase) wzx/wzx11
 RQ  1
 --
-SN  wzy11
+SN  9
 ID  O11(Ec)-antigen specific polymerase wzy
+DN  O11(Ec)-antigen specific polymerase wzy/wzy11
 RQ  1
 //

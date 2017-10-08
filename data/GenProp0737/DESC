@@ -12,22 +12,25 @@ RA  Cole ST, Eiglmeier K, Ahmed S, Honore N, Elmes L, Anderson WF, Weiner
 RA  JH;
 RL  J Bacteriol. 1988;170:2448-2456.
 CC  A three-protein complex, the anaerobic glycerol-3-phosphate
-CC  dehydrogenase, product of the glpABC genes, is found in Escherichia
-CC  coli and related species. GlpA and GlpB are catalytic, while GlpC
-CC  anchors the complex to the plasma membrane.
+CC  dehydrogenase, which is a product of the glpABC genes, is found 
+CC  in Escherichia coli and related species. GlpA and GlpB are catalytic, 
+CC  while GlpC anchors the complex to the plasma membrane.
 --
-SN  glpA
+SN  1
 ID  Glycerol-3-phosphate dehydrogenase, anaerobic, A subunit
+DN  Glycerol-3-phosphate dehydrogenase, anaerobic, A subunit/glpA
 RQ  1
 EV  IPR017752; TIGR03377;
 --
-SN  glpB
+SN  2
 ID  Glycerol-3-phosphate dehydrogenase, anaerobic, B subunit
+DN  Glycerol-3-phosphate dehydrogenase, anaerobic, B subunit/glpB
 RQ  1
 EV  IPR009158; TIGR03378;
 --
-SN  glpC
+SN  3
 ID  Glycerol-3-phosphate dehydrogenase, anaerobic, anchor subunit
+DN  Glycerol-3-phosphate dehydrogenase, anaerobic, anchor subunit/glpC
 RQ  1
 EV  IPR017753; TIGR03379;
 //

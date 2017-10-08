@@ -11,4 +11,34 @@ SN  1
 ID  Resistance to mercury
 RQ  0
 EV  GenProp0151;
+--
+SN  2
+ID  Resistance to Reactive Oxygen Species (ROS)
+RQ  0
+EV  GenProp0213;
+--
+SN  3
+ID  Arsenical resistance system
+RQ  0
+EV  GenProp0474;
+--
+SN  4
+ID  Superoxide dismutase, nickel-type
+RQ  0
+EV  GenProp0488;
+--
+SN  5
+ID  Formaldehyde detoxification, glutathione-dependent
+RQ  0
+EV  GenProp0562;
+--
+SN  6
+ID  Ribulose monophosphate pathway
+RQ  0
+EV  GenProp0673;
+--
+SN  7
+ID  Alkylhydroperoxide reductase AhpCF (peroxiredoxin)
+RQ  0
+EV  GenProp0676;
 //

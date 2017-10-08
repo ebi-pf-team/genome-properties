@@ -12,13 +12,15 @@ CC  phosphate. The second enzyme, butyrate kinase, transfers the phosphate
 CC  from butryate onto ADP, producing ATP.
 **  A different pathway uses butyryl-CoA:acetate CoA-transferase.
 --
-SN  but_kin
+SN  1
 ID  Butyrate kinase
+DN  Butyrate kinase
 RQ  1
-EV  IPRXXXX; TIGR02707;
+EV  IPR011245; TIGR02707;
 --
-SN  but_ptb
+SN  2
 ID  Phosphate butyryltransferase
+DN  Phosphate butyryltransferase
 RQ  1
 EV  IPR014079; TIGR02706;
 //

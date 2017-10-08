@@ -15,34 +15,40 @@ CC  protons across the membrane. This oxidase is related to, yet
 CC  signficantly different from the mitochondrial cytochrome c oxidase and
 CC  is largely restricted to the Proteobacteria.
 --
-SN  1_ccoN
+SN  1
 ID  Subunit I (CcoN)
+DN  Cytochrome c oxidase cbb3-type, subunit I
 RQ  1
 EV  IPR004677; TIGR00780; sufficient;
 --
-SN  2_ccoO
+SN  2
 ID  Subunit II (CcoO)
+DN  Cytochrome c oxidase, monohaem subunit/FixO
 RQ  1
 EV  IPR003468; TIGR00781; sufficient;
 --
-SN  3_ccoP
+SN  3
 ID  Subunit III (CcoP)
+DN  Cytochrome c oxidase cbb3-type, subunit III
 RQ  1
 EV  IPR004678; TIGR00782; sufficient;
 --
-SN  4_ccoQ
+SN  4
 ID  Subunit CcoQ
+DN  Cytochrome c oxidase cbb3-type, CcoQ
 RQ  0
 EV  IPR008621; PF05545; sufficient;
 EV  IPR014107; TIGR02736; sufficient;
 --
-SN  CcoS
+SN  5
 ID  Insertion/maturation protein CcoS
+DN  Cytochrome oxidase maturation protein cbb3-type
 RQ  1
 EV  IPR004714; TIGR00847; sufficient;
 --
-SN  FixG
+SN  6
 ID  Accessory, ferredoxin-like, FixG
+DN  Cytochrome c oxidase cbb3 type, accessory protein FixG
 RQ  1
 EV  IPR014116; TIGR02745; sufficient;
 //

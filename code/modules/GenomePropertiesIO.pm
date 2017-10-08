@@ -15,6 +15,8 @@ my %TYPES = ( METAPATH => 1,
               GUILD    => 1,
               CATEGORY => 1,
               PATHWAY  => 1,
+              SUMMARY  => 1,
+              #ROOT     => 1
               );
 
 my @ORDER = qw(PATHWAY METAPATH SYSTEM GUILD CATEGORY);
@@ -78,7 +80,10 @@ sub validateGP {
       if(!$prop ){
         die "Failed to establish property for $prop_acc\n";
       }
-      
+     
+      #Check essential fields
+      _checkEssentials($prop, \$errors, \$errorMsg);
+
       #Check threshold is less than number 
       #of steps
       _checkThreshold($prop, \$errors, \$errorMsg);
@@ -113,7 +118,6 @@ sub validateGP {
     }
   }
   if($globalError){
-    die "Got an error\n";
     warn "One or more of the GPs listed has an error, see log above and GP/error file.\n";
     return 0;
   }else{
@@ -259,10 +263,28 @@ sub _checkThreshold {
   return;
 }
 
+
+sub _checkEssentials {
+  my ($prop, $errors, $errorMsg) = @_;
+
+  #DE, TP, AU, TH are all required
+  if(!$prop->type or $prop->type !~ /\S+/){
+    $$errors++;
+    $$errorMsg .= "No property type set for ".$prop->accession."\n";
+  }
+
+  #if($prop->type eq 'ROOT' or $prop->type eq 'CATEGORY' or $prop->type eq 'SUMMARY'){
+  
+  #For each step SN, ID, RQ are all ressential.
+  #die;
+
+}
+
 sub _checkTypeAgainstStep {
   my ($prop, $errors, $errorMsg) = @_;
 
   my $noSteps = scalar(@{$prop->get_steps});
+<<<<<<< HEAD
   # Thes should have all steps as GP
 
   if( $prop->type eq 'CATEGORY' ){
@@ -277,12 +299,14 @@ sub _checkTypeAgainstStep {
       }
     }   
     if($noSteps !=  $gps ){
+  if($prop->type eq 'ROOT' or $prop->type eq 'SUMMARY'){
+    if($noSteps > 0){
       $$errors++;
       $$errorMsg .= "Got type ".$prop->type." but this should have all Genome Property steps\n";
     }
   }
 
-  if($prop->type eq 'GUILD' or $prop->type eq 'SYSTEM' 
+  if($prop->type eq 'GUILD' or $prop->type eq 'SYSTEM' or $prop->type eq 'CATEGORY' 
         or $prop->type eq 'PATHWAY' or $prop->type eq 'METAPATH'){
     if($noSteps == 0){
       $$errors++;

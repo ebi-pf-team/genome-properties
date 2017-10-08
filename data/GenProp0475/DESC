@@ -9,4 +9,24 @@ CC  reasonable hypothesis is that these genes act in a related biological
 CC  process. When none of the genes in such a syntenic grouping have a
 CC  characterized biological process they may still be used to create a
 CC  Genome Property and will be children of this category.
+--
+SN  1
+ID  Sporadically distributed four-gene operon
+RQ  0
+EV  GenProp0470;
+--
+SN  2
+ID  Uncharacterized gene pair TIGR02683/TIGR02684
+RQ  0
+EV  GenProp0471;
+--
+SN  3
+ID  Uncharacterized gene pair TIGR02687/TIGR02688
+RQ  0
+EV  GenProp0472;
+--
+SN  4
+ID  Peptide chain release operon, RctB-like/PrfH
+RQ  0
+EV  GenProp0665;
 //

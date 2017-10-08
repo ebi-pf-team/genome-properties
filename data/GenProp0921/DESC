@@ -29,33 +29,39 @@ CC  with the signature motif LLNDYxLRE.
 **  TIGR04402, a mobilome CxxCx(11)CxxC protein that is often
 **  plasmid-borne.
 --
-SN  aux_B2
+SN  1
 ID  Conserved hypothetical protein TIGR03982
+DN  Conserved hypothetical protein TIGR03982
 RQ  0
 EV  IPR023814; TIGR03982;
 --
-SN  aux_B3
+SN  2
 ID  Putative quinone modification maturase
+DN  Putative quinone modification maturase
 RQ  0
 EV  IPR023893; TIGR03981;
 --
-SN  hxsD
+SN  3
 ID  LLNDYxLRE motif rSAM-associated protein
+DN  LLNDYxLRE motif rSAM-associated protein
 RQ  1
 EV  IPR023974; TIGR03976;
 --
-SN  hxsRPT
+SN  4
 ID  His/Ser-rich radical SAM pair-associated protein
+DN  His/Ser-rich radical SAM pair-associated protein
 RQ  0
 EV  IPR023928; TIGR03979;
 --
-SN  hxsSAM1
+SN  5
 ID  Upstream radical SAM protein
+DN  Upstream radical SAM protein
 RQ  1
 EV  IPR024023; TIGR03978;
 --
-SN  hxsSAM2
+SN  6
 ID  Downstream radical SAM protein
+DN  Downstream radical SAM protein
 RQ  1
 EV  IPR024032; TIGR03977;
 //

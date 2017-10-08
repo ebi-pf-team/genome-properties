@@ -13,18 +13,21 @@ CC  in nitrifiers.
 **  PF02461 PF04744 PF04896 are the Pfam A, B, C. bmc ntne01 ntno01 ntnm03
 **  are the four genomes at last check.
 --
-SN  monoxA
+SN  1
 ID  Methane monooxygenase/ammonia monooxygenase, subunit A
+DN  Methane monooxygenase/ammonia monooxygenase, subunit A
 RQ  1
 EV  IPR003393; TIGR03080; sufficient;
 --
-SN  monoxB
+SN  2
 ID  Methane monooxygenase/ammonia monooxygenase, subunit B
+DN  Methane monooxygenase/ammonia monooxygenase, subunit B
 RQ  1
 EV  IPR006833; TIGR03079; sufficient;
 --
-SN  monoxC
+SN  3
 ID  Methane monooxygenase/ammonia monooxygenase, subunit C
+DN  Methane monooxygenase/ammonia monooxygenase, subunit C
 RQ  1
 EV  IPR006980; TIGR03078; sufficient;
 //

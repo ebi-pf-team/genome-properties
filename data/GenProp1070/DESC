@@ -21,8 +21,9 @@ CC  glutamate 2,3-aminomutase, is often preceded by a ydaO (yuaA) family
 CC  riboswitch, which appears to bind a metabolite that indicates cellular
 CC  stress.
 --
-SN  BetaGlu
+SN  1
 ID  Glutamate 2,3-aminomutase
+DN  Glutamate 2,3-aminomutase
 RQ  1
 EV  IPR030801; TIGR04368;
 //

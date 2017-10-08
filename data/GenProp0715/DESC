@@ -6,24 +6,28 @@ TH  1
 CC  This pathway converts D-galactarate to alpha-ketoglutarate via
 CC  2-oxoglutarate semialdehyde,
 --
-SN  GarD
-ID  Galactarate dehydratase (4.2.1.42)
+SN  1
+ID  Galactarate dehydratase (EC 4.2.1.42)
+DN  Galactarate dehydratase (EC 4.2.1.42)
 RQ  1
 EV  IPR007392; PF04295; sufficient;
 --
-SN  KDGDH
+SN  2
 ID  5-dehydro-4-deoxyglucarate dehydratase
+DN  5-dehydro-4-deoxyglucarate dehydratase
 RQ  1
-EV  IPRXXXX; PF00701;
+EV  IPR002220; PF00701;
 EV  IPR017655; TIGR03249; sufficient;
 --
-SN  KGSADH
+SN  3
 ID  2-oxoglutarate semialdehyde dehydrogenase
+DN  2-oxoglutarate semialdehyde dehydrogenase
 RQ  0
-EV  IPRXXXX; PF00171;
+EV  IPR015590; PF00171;
 --
-SN  transp
+SN  4
 ID  D-galactarate transorter, putative
+DN  D-galactarate transorter, putative
 RQ  0
-EV  IPRXXXX; TIGR00893;
+EV  IPR004744; TIGR00893;
 //

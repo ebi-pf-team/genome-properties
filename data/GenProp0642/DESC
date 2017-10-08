@@ -4,17 +4,20 @@ TP  PATHWAY
 AU  Haft DH
 TH  0
 CC  L-arginine can be converted to the polyamine putrescine via this
-CC  pathway for the purposes of arginine catabolism or for the biosynthesis
-CC  of spermidine.  This version of the pathway utilizes agmatinase while
-CC  another does the same reaction in two steps via carbamoylputrescine.
+CC  pathway, either for the purposes of arginine catabolism or for the 
+CC  biosynthesis of spermidine. This version of the pathway utilizes 
+CC  agmatinase while an alternative pathway does the same reaction in 
+CC  two steps via carbamoylputrescine.
 --
-SN  SpeA
+SN  1
 ID  Arginine decarboxylase
+DN  Arginine decarboxylase/SpeA
 RQ  1
 EV  IPR002985; TIGR01273; sufficient;
 --
-SN  speB
+SN  2
 ID  Agmatinase
+DN  Agmatinase/SpeB
 RQ  1
 EV  IPR005925; TIGR01230; sufficient;
 //

@@ -23,20 +23,23 @@ CC  are responsible for the biosynthesis of enduracididine, a rare
 CC  non-proteinogenic amino acid incorporated by some non-ribosomal peptide
 CC  synthases (NRPS).
 --
-SN  MppP
+SN  1
 ID  Enduracididine biosynthesis enzyme MppP
+DN  Enduracididine biosynthesis enzyme MppP
 RQ  1
 EV  IPR031020; TIGR04462;
 TG  GO:0042398;
 --
-SN  MppQ
+SN  2
 ID  Enduracididine biosynthesis enzyme MppQ
+DN  Enduracididine biosynthesis enzyme MppQ
 RQ  1
 EV  IPR031021; TIGR04461;
 TG  GO:0042398;
 --
-SN  MppR
+SN  3
 ID  Enduracididine biosynthesis enzyme MppR
+DN  Enduracididine biosynthesis enzyme MppR
 RQ  1
 EV  IPR031022; TIGR04460;
 TG  GO:0042398;

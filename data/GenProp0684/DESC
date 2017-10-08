@@ -11,18 +11,21 @@ RT  interference by a mutant form of a new substrate protein, YccA.
 RA  Kihara A, Akiyama Y, Ito K;
 RL  J Mol Biol. 1998;279:175-188.
 --
-SN  HflB
+SN  1
 ID  ATP-dependent metallopeptidase FtsH (HflB)
+DN  ATP-dependent metallopeptidase FtsH (HflB)/HflB
 RQ  1
 EV  IPR005936; TIGR01241; sufficient;
 --
-SN  HflC
+SN  2
 ID  HflC protein
+DN  HflC protein/HflC
 RQ  1
 EV  IPR010200; TIGR01932; sufficient;
 --
-SN  HflK
+SN  3
 ID  HflK protein
+DN  HflK protein/HflK
 RQ  1
 EV  IPR010201; TIGR01933; sufficient;
 //

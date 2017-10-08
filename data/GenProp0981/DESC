@@ -3,22 +3,23 @@ DE  Radical SAM/lipoprotein system
 TP  SYSTEM
 AU  Haft DH
 TH  0
-CC  This tandem two gene system appears restricted to the lineage
-CC  Bacteroidetes and Fibrobacteres lineages (Bacteroides sp.,
-CC  Porphyromonas endodontalis, Prevotella ruminicola, Fibrobacter
-CC  succinogenes, Alistipes putredinis, etc). One member is a putative
-CC  lipoprotein, the other a putative peptide/protein-modifying radical SAM
-CC  enzyme.
+CC  This tandem two gene system appears restricted to the Bacteroidetes 
+CC  and Fibrobacteres lineages (Bacteroides sp., Porphyromonas endodontalis, 
+CC  Prevotella ruminicola, Fibrobacter succinogenes, Alistipes putredinis, 
+CC  etc). One member is a putative lipoprotein, the other a putative 
+CC  peptide/protein-modifying radical SAM enzyme.
 **  The big question is whether the lipoprotein gets modified by the
 **  radical SAM enzyme. 
 --
-SN  rsl_LIP
+SN  1
 ID  Lipoprotein, rSAM/lipoprotein system
+DN  Lipoprotein, rSAM/lipoprotein system
 RQ  1
 EV  IPR026403; TIGR04134;
 --
-SN  rsl_SAM
+SN  2
 ID  Radical SAM protein, rSAM/lipoprotein system
+DN  Radical SAM protein, rSAM/lipoprotein system
 RQ  1
 EV  IPR026404; TIGR04133;
 //

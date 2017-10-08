@@ -10,4 +10,9 @@ SN  1
 ID  F1/F0 ATPase
 RQ  0
 EV  GenProp0128;
+--
+SN  2
+ID  A1/A0 ATPase
+RQ  0
+EV  GenProp0629;
 //

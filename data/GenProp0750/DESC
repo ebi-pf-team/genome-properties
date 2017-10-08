@@ -20,20 +20,20 @@ CC  and (in species with LPS) for lipopolysaccharide biosynthesis.
 --
 SN  1
 ID  Phosphoglucosamine mutase
-DN  Phosphoglucosamine mutase (EC 5.4.2.10)
+DN  Phosphoglucosamine mutase/glmM (EC 5.4.2.10)
 RQ  1
 EV  IPR006352; TIGR01455;
 EV  IPR024086; TIGR03990;
 --
 SN  2
 ID  Glutamine--fructose-6-phosphate transaminase (isomerizing)
-DN  Glucosamine-fructose-6-phosphate aminotransferase, isomerising (EC 2.6.1.16)
+DN  Glucosamine-fructose-6-phosphate aminotransferase, isomerising/glmS (EC 2.6.1.16)
 RQ  1
 EV  IPR005855; TIGR01135;
 --
 SN  3
 ID  Glucosamine-1-phosphate N-acetyltransferase/UDP-N-acetylglucosamine diphosphorylase
-DN  Bifunctional UDP-N-acetylglucosamine pyrophosphorylase/glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157/EC 2.7.7.23)
+DN  Bifunctional UDP-N-acetylglucosamine pyrophosphorylase/glucosamine-1-phosphate N-acetyltransferase/glmU (EC 2.3.1.157/EC 2.7.7.23)
 RQ  1
 EV  IPR005882; TIGR01173;
 EV  IPR023917; TIGR03991;

@@ -36,23 +36,27 @@ CC  probiotic effects.
 **  Form of B12 in L. reuteri said to be a pseudo-B12 (PMID:17888910).
 **  tax_id 491077.
 --
-SN  PduC
+SN  1
 ID  Diol/glycerol dehydratase, large subunit
+DN  Diol/glycerol dehydratase, large subunit/PduC
 RQ  1
 EV  IPR003206; PF02286;
 --
-SN  PduD
+SN  2
 ID  Diol/glycerol dehydratase, medium subunit
+DN  Diol/glycerol dehydratase, medium subunit/PduD
 RQ  1
 EV  IPR003208; PF02288;
 --
-SN  PduE
+SN  3
 ID  Diol/glycerol dehydratase, small subunit
+DN  Diol/glycerol dehydratase, small subunit/PduE
 RQ  1
 EV  IPR003207; PF02287;
 --
-SN  PduG
+SN  4
 ID  Diol dehydratase reactivation protein PduG
+DN  Diol dehydratase reactivation protein PduG/PduG
 RQ  1
 EV  IPR009191; TIGR04491;
 //

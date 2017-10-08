@@ -6,13 +6,15 @@ TH  0
 CC  The term DNA gyrase is synonymous with type II DNA topoisomerase. The
 CC  enzymes consists of A and B subunits.
 --
-SN  gyrA
+SN  1
 ID  DNA gyrase, A subunit
+DN  DNA gyrase, A subunit
 RQ  1
-EV  IPRXXXX; TIGR01063; sufficient;
+EV  IPR005743; MF_01897; sufficient;
 --
-SN  gyrB
+SN  2
 ID  DNA gyrase, B subunit
+DN  DNA gyrase, B subunit
 RQ  1
 EV  IPR011557; TIGR01059; sufficient;
 //

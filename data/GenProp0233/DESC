@@ -3,28 +3,29 @@ DE  GABA utilization
 TP  PATHWAY
 AU  Haft DH
 TH  0
-CC  GABA, gamma-aminobutyric acid (4-aminobutyrate), a compound commonly
-CC  found in plants is utilized by certain organisms.  GABA is imported
-CC  with a specific permease, transaminated to succinate semialdehyde and
-CC  oxidized to succinate.
+CC  GABA (gamma-aminobutyric acid also known as 4-aminobutyrate), a 
+CC  compound commonly found in plants is utilized by certain organisms. 
+CC  GABA is imported with a specific permease, transaminated to succinate 
+CC  semialdehyde and oxidized to succinate.
 --
-SN  SSADH
+SN  1
 ID  Succinic semialdehyde dehydrogenase (1.2.1.16)
-DN  Succinate-semialdehyde dehydrogenase
+DN  Succinate semialdehyde dehydrogenase
 RQ  1
 EV  IPR010102; TIGR01780; sufficient;
 --
-SN  hyp-perm
+SN  2
 ID  Hypothesized GABA transporter
+DN  Hypothesized GABA transporter
 RQ  0
 --
-SN  permease
+SN  3
 ID  GABA permease
 DN  GABA permease
 RQ  1
 EV  IPR011265; TIGR01773; sufficient;
 --
-SN  transam
+SN  4
 ID  GABA transaminase (2.6.1.19)
 DN  4-aminobutyrate transaminase
 RQ  1

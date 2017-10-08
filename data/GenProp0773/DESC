@@ -24,32 +24,37 @@ CC  6-N-acetyl-6-N-hydroxy-L-lysine to a citrate backbone; it is
 CC  convenient, for now, to regard these two steps together as 6.3.2.27.
 **  1.14.13.59 2.3.1.102 6.3.2.27
 --
-SN  iucA
+SN  1
 ID  Aerobactin synthase, IucA component
+DN  Aerobactin synthase, IucA component/iucA
 RQ  1
 EV  IPRXXXX; 2205;
 TG  GO:0019270;
 --
-SN  iucB
+SN  2
 ID  N(6)-hydroxylysine O-acetyltransferase
+DN  N(6)-hydroxylysine O-acetyltransferase/iucB
 RQ  1
 EV  IPRXXXX; 2210;
 TG  GO:0019270;
 --
-SN  iucC
+SN  3
 ID  Aerobactin synthase, iucC component
+DN  Aerobactin synthase, iucC component/iucC
 RQ  1
 EV  IPRXXXX; 2206;
 TG  GO:0019270;
 --
-SN  iucD
+SN  4
 ID  L-lysine 6-monooxygenase (NADPH)
+DN  L-lysine 6-monooxygenase (NADPH)/iucD
 RQ  1
 EV  IPRXXXX; 2211;
 TG  GO:0019270;
 --
-SN  iutA
+SN  5
 ID  Ferric aerobactin receptor IutA
+DN  Ferric aerobactin receptor IutA/iutA
 RQ  1
 EV  IPRXXXX; 2209;
 TG  GO:0019271;

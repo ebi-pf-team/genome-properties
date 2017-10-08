@@ -15,14 +15,23 @@ CC  hyperthermoacidophilic member of the Crenarchaeota, and is found also
 CC  in related Crenarchaeota. It is suggested to work in a system analogous
 CC  to cytochrome bc1.
 **  still needs SoxL2 (working), SoxN.
+**  07/09/17 LJR - added SoxL2 step - still missing SoxN - no good model.
 --
-SN  cbsA
+SN  1
 ID  Cytochrome b558/566, subunit A
+DN  Cytochrome b558/566, subunit A
 RQ  1
 EV  IPR017572; TIGR03154; sufficient;
 --
-SN  cbsB
+SN  2
 ID  Cytochrome b558/566, subunit B
+DN  Cytochrome b558/566, subunit B
 RQ  1
 EV  IPR017573; TIGR03155; sufficient;
+--
+SN  3
+ID  Rieske iron-sulphur protein SoxL2
+DN  Rieske iron-sulphur protein SoxL2
+RQ  0
+EV  IPR017586; TIGR03171; sufficient;
 //

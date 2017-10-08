@@ -9,18 +9,21 @@ CC  sequences targeted to the cell surface, as found in type IV pilus
 CC  components, competence proteins, type II secretion proteins, and some
 CC  other systems.
 --
-SN  cleav
+SN  1
 ID  Prepilin peptidase
+DN  Prepilin type IV endopeptidase, peptidase domain
 RQ  1
 EV  IPR000045; PF01478; sufficient;
 --
-SN  methyl
+SN  2
 ID  N-term residue-methylating domain
+DN  Peptidase A24A, N-terminal
 RQ  1
 EV  IPR010627; PF06750; sufficient;
 --
-SN  site
+SN  3
 ID  Prokaryotic N-term cleave/methyl site
+DN  Prokaryotic N-terminal methylation site
 RQ  1
 EV  IPR012902; TIGR02532; sufficient;
 //

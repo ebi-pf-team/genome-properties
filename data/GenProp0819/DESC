@@ -11,4 +11,24 @@ SN  1
 ID  RNA polymerase, bacterial
 RQ  0
 EV  GenProp0262;
+--
+SN  2
+ID  tRNA aminoacylation
+RQ  0
+EV  GenProp0258;
+--
+SN  3
+ID  Queuosine (Q-tRNA) biosynthesis from preQ0
+RQ  0
+EV  GenProp0677;
+--
+SN  4
+ID  Selenouridine-containing tRNA
+RQ  0
+EV  GenProp0692;
+--
+SN  5
+ID  tRNA U34 carboxymethylaminomethyl modification
+RQ  0
+EV  GenProp0704;
 //

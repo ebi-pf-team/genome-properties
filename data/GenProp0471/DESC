@@ -3,23 +3,25 @@ DE  Uncharacterized gene pair TIGR02683/TIGR02684
 TP  SYSTEM
 AU  Haft DH
 TH  0
-CC  This uncharacterized operon may be an addiction module. The downstream
-CC  member (TIGR02612) is a helix-turn-helix DNA-binding protein in the
-CC  family of PF01381. Both member proteins average under 100 amino acids.
-CC  In one example so far the genes are fused. This bacterial gene pair
-CC  usually but not always occurs in prophage or integrated plasmid regions
-CC  of the genome.
+CC  This uncharacterized operon may be an addiction module. Both member 
+CC  proteins average under 100 amino acids. In one example so far the 
+CC  genes are fused. This bacterial gene pair usually but not always 
+CC  occurs in prophage or integrated plasmid regions of the genome.
+**  The downstream member (TIGR02612) is a helix-turn-helix DNA-binding 
+**  protein in the family of PF01381. 
 **  Many features like addiction modules. The killer gene ORF was missed
 **  initially in a number of genomes: ggs, gac_atcc, ntyp02, and may be
 **  point-mutated in gtf.
 --
-SN  dn_strm
-ID  Downstream (TIGR02684)
+SN  1
+ID  Downstream
+DN  Addiction module antidote protein, HI1420
 RQ  1
 EV  IPR014057; TIGR02684; sufficient;
 --
-SN  up_strm
-ID  Upstream (TIGR02683) kill
+SN  2
+ID  Upstream/kill
+DN  Addiction module killer protein, predicted
 RQ  1
 EV  IPR014056; TIGR02683; sufficient;
 //

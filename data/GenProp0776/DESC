@@ -14,38 +14,44 @@ CC  that, in Pseudomonas aeruginosa, some of these enzymes also play a role
 CC  in making the antibiotic dihydroaeruginoate.
 **  pchC is editing enzyme PMID:15375116.
 --
-SN  pchA
+SN  1
 ID  Isochorismate synthase, PchA family
+DN  Isochorismate synthase, PchA family/pchA
 RQ  1
 EV  IPRXXXX; 2191;
 TG  GO:0042864;
 --
-SN  pchB
+SN  2
 ID  Isochorismate pyruvate-lyase, PchB family
+DN  Isochorismate pyruvate-lyase, PchB family/pchB
 RQ  1
 EV  IPRXXXX; 2192;
 TG  GO:0042864;
 --
-SN  pchC
+SN  3
 ID  Pyochelin biosynthesis editing thioesterase PchC
+DN  Pyochelin biosynthesis editing thioesterase PchC/pchC
 RQ  1
 EV  IPRXXXX; 2194;
 TG  GO:0042864;
 --
-SN  pchD
+SN  4
 ID  Salicyl-AMP ligase, PchD family
+DN  Salicyl-AMP ligase, PchD family/pchD
 RQ  1
 EV  IPRXXXX; 2188;
 TG  GO:0042864;
 --
-SN  pchE
+SN  5
 ID  Pyochelin biosynthesis peptide synthase PchE
+DN  Pyochelin biosynthesis peptide synthase PchE/pchE
 RQ  1
 EV  IPRXXXX; 2196;
 TG  GO:0042864;
 --
-SN  pchF
+SN  6
 ID  Pyochelin biosynthesis peptide synthase PchF
+DN  Pyochelin biosynthesis peptide synthase PchF/pchF
 RQ  1
 EV  IPRXXXX; 2195;
 TG  GO:0042864;

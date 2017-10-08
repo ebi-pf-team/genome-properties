@@ -10,58 +10,69 @@ CC  and NS1.
 **  Matrix protein 1 C-term hit by PF08289. Genes unique to Influenzae B
 **  include PF02942 and PF04772, and (overlapping neuraminidase) PF04159.
 --
-SN  f_PB1F2
+SN  1
 ID  Nonstructural protein PB1-F2
+DN  Nonstructural protein PB1-F2
 RQ  1
 EV  IPR021045; PF11986;
 --
-SN  flu_M1
+SN  2
 ID  Matrix protein 1
+DN  Matrix protein 1
 RQ  1
 EV  IPR001561; PF00598;
 --
-SN  flu_M2
+SN  3
 ID  Matrix protein 2
+DN  Matrix protein 2
 RQ  1
 EV  IPR002089; PF00599;
 --
-SN  flu_NA
+SN  4
 ID  Neuraminidase
+DN  Neuraminidase
 RQ  1
 EV  IPR001860; PF00064;
 --
-SN  flu_NP
+SN  5
 ID  Nucleocapsid
+DN  Nucleocapsid
 RQ  1
 EV  IPR002141; PF00506;
 --
-SN  flu_NS1
+SN  6
 ID  Nonstructural protein 1
+DN  Nonstructural protein 1
 RQ  1
 EV  IPR000256; PF00600;
 --
-SN  flu_NS2
+SN  7
 ID  Nuclear export protein
+DN  Nuclear export protein
 RQ  1
 EV  IPR000968; PF00601;
 --
-SN  flu_PA
+SN  8
 ID  RNA-dependent RNA polymerase subunit PA
+DN  RNA-dependent RNA polymerase subunit PA
 RQ  1
 EV  IPR001009; PF00603;
 --
-SN  flu_PB1
+SN  9
 ID  RNA-dependent RNA polymerase subunit PB1
+DN  RNA-dependent RNA polymerase subunit PB1
 RQ  1
 EV  IPR001407; PF00602;
 --
-SN  flu_PB2
+SN  10
 ID  Influenza RNA-dependent RNA polymerase subunit PB2
+DN  Influenza RNA-dependent RNA polymerase subunit PB2
 RQ  1
 EV  IPR001591; PF00604;
 --
-SN  flu_hem
+SN  11
 ID  Hemagglutinin
+DN  Hemagglutinin
 RQ  1
 EV  IPR001364; PF00509;
 //

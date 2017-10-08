@@ -4,6 +4,13 @@ TP  SYSTEM
 AU  Haft DH
 TH  0
 RN  [1]
+RM  16930487
+RT  Exopolysaccharide-associated protein sorting in environmental
+RT  organisms: the PEP-CTERM/EpsH system. Application of a novel
+RT  phylogenetic profiling heuristic.
+RA  Haft DH, Paulsen IT, Ward N, Selengut JD;
+RL  BMC Biol. 2006;4:29.
+RN  [2]
 RM  11929526
 RT  An ABC-type, high-affinity urea permease identified in cyanobacteria.
 RA  Valladares A, Montesinos ML, Herrero A, Flores E;
@@ -12,47 +19,52 @@ CC  This property represents a conserved five-gene operon for an ABC
 CC  transporter with a substrate-binding protein, two permeases, and two
 CC  ATP-binding cassette proteins. All five genes from this operon are
 CC  detected in Burkholderia mallei, at very high confidence levels, by
-CC  means of the partial phylogenetic profiling algorithm (PMID:16930487)
-CC  vs. a profile for urease, and the operon occurs next to urease genes in
+CC  means of the partial phylogenetic profiling algorithm [1] vs. a 
+CC  profile for urease, and the operon occurs next to urease genes in
 CC  B. mallei and most other species. In Cyanobacteria, high-affinity urea
 CC  transport is shown to be eliminated by mutations to any of several
-CC  different proteins in this system (PMID:11929526).   
+CC  different proteins in this system [2].   
 **  GB|CAB70948.1 (Nostoc sp. PCC 7120). Amazingly beautiful example of
 **  partial phylogenetic profiling off urease GenProp in gbm started the
 **  property. Note that sll0374 in ntss01 is far from operon described.
 --
-SN  urtA
+SN  1
 ID  Urea ABC transporter, periplasmic binding protein
+DN  Urea ABC transporter, periplasmic binding protein
 RQ  1
 EV  IPR017777; TIGR03407;
 TG  GO:0015840;
 EV  IPR019968; TIGR03669;
 TG  GO:0015840;
 --
-SN  urtB
+SN  2
 ID  Urea ABC transporter, permease protein UrtB
+DN  Urea ABC transporter, permease protein UrtB
 RQ  1
 EV  IPR017779; TIGR03409;
 TG  GO:0015840;
 EV  IPR019924; TIGR03622;
 TG  GO:0015840;
 --
-SN  urtC
+SN  3
 ID  Urea ABC transporter, permease protein UrtC
+DN  Urea ABC transporter, permease protein UrtC
 RQ  1
 EV  IPR017778; TIGR03408;
 TG  GO:0015840;
 EV  IPR022497; TIGR03727;
 TG  GO:0015840;
 --
-SN  urtD
+SN  4
 ID  Urea ABC transporter, ATP-binding protein UrtD
+DN  Urea ABC transporter, ATP-binding protein UrtD
 RQ  1
 EV  IPR017781; TIGR03411;
 TG  GO:0015840;
 --
-SN  urtE
+SN  5
 ID  Urea ABC transporter, ATP-binding protein UrtE
+DN  Urea ABC transporter, ATP-binding protein UrtE
 RQ  1
 EV  IPR017780; TIGR03410;
 TG  GO:0015840;

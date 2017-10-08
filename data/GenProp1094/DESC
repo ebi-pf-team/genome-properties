@@ -23,18 +23,21 @@ CC  number of different S subunits.
 **  0 for now.  WARNING - SEE HOW MUCH REPAIR NEEDED FOR GenProp0277,
 **  cobalt.
 --
-SN  ECFA1
+SN  1
 ID  ECF transporter ATP-binding component 1
+DN  ECF transporter ATP-binding component 1
 RQ  0
 EV  IPR030947; TIGR04520;
 --
-SN  ECFA2
+SN  2
 ID  ECF transporter ATP-binding component 2
+DN  ECF transporter ATP-binding component 2
 RQ  0
 EV  IPR030946; TIGR04521;
 --
-SN  ECF_S
+SN  3
 ID  ECF transporter S component
+DN  ECF transporter S component
 RQ  1
 EV  IPR003784; PF02632;
 EV  IPR002751; PF01891;
@@ -50,8 +53,9 @@ EV  IPR023812; TIGR04002;
 EV  IPR018024; TIGR00123;
 EV  IPR030945; TIGR04522;
 --
-SN  ECF_T
+SN  4
 ID  ECF transporter T component
+DN  ECF transporter T component
 RQ  1
 EV  IPR003339; PF02361;
 //

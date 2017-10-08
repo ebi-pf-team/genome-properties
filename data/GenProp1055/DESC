@@ -12,13 +12,15 @@ CC  unusual in that the Cys conserved in all other subfamilies described in
 CC  the exosortase/archaeosortase family, and thought to be part of the
 CC  active site, is replaced by Ser in ArtG.
 --
-SN  CTERM
+SN  1
 ID  PEFG-CTERM thaumarchaeosortase target domain
+DN  PEFG-CTERM thaumarchaeosortase target domain
 RQ  1
 EV  IPR027560; TIGR04296;
 --
-SN  EXOSORT
+SN  2
 ID  Thaumarchaeosortase
+DN  Thaumarchaeosortase
 RQ  1
 EV  IPR027561; TIGR04297;
 //

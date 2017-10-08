@@ -22,18 +22,21 @@ CC  provided with a fermentable sugar.
 **  incidentally making sulfur available in CysI and CysJ mutants in
 **  Salmonella (H2S is more commonly made from thiosulfate). 
 --
-SN  SfiteA
+SN  1
 ID  Sulfite reductase, subunit A
+DN  Sulfite reductase, subunit A
 RQ  1
 EV  IPR014259; TIGR02910; sufficient;
 --
-SN  SfiteB
+SN  2
 ID  Sulfite reductase, subunit B
+DN  Sulfite reductase, subunit B
 RQ  1
 EV  IPR014260; TIGR02911; sufficient;
 --
-SN  SfiteC
+SN  3
 ID  Sulfite reductase, subunit C
+DN  Sulfite reductase, subunit C
 RQ  1
 EV  IPR014261; TIGR02912; sufficient;
 //
