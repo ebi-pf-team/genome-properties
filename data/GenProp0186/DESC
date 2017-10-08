@@ -30,4 +30,14 @@ SN  5
 ID  Lipopolysaccharide biosynthesis
 RQ  0
 EV  GenProp0297;
+--
+SN  6
+ID  Exopolysaccharide biosynthesis, exosortase A-associated
+RQ  0
+EV  GenProp0652;
+--
+SN  7
+ID  Exopolysaccharide biosynthesis, exosortase B-associated
+RQ  0
+EV  GenProp0655;
 //

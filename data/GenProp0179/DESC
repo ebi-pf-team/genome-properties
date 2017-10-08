@@ -35,4 +35,39 @@ SN  6
 ID  Sec system preprotein translocase
 RQ  0
 EV  GenProp0209;
+--
+SN  7
+ID  Prokaryotic N-terminal cleavage/methylation, type IV pilin-like
+RQ  0
+EV  GenProp0295;
+--
+SN  8
+ID  Protein sorting system, PEP-CTERM/exosortase (generic)
+RQ  0
+EV  GenProp0326;
+--
+SN  9
+ID  Protein sorting system, sortase type, LPXTG/SrtA class
+RQ  0
+EV  GenProp0626;
+--
+SN  10
+ID  Protein sorting system, sortase type, SrtB class
+RQ  0
+EV  GenProp0664;
+--
+SN  11
+ID  Protein sorting system, putative, exosortase G class
+RQ  0
+EV  GenProp0669;
+--
+SN  12
+ID  Type VI secretion
+RQ  0
+EV  GenProp0735;
+--
+SN  13
+ID  OMP chaperone system: SurA-Skp-DegP
+RQ  0
+EV  GenProp0928;
 //

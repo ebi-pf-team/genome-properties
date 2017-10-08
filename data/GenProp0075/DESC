@@ -31,4 +31,14 @@ SN  5
 ID  Apoptosome
 RQ  0
 EV  GenProp2021;
+--
+SN  6
+ID  Prokaryotic N-terminal cleavage/methylation, type IV pilin-like
+RQ  0
+EV  GenProp0295;
+--
+SN  7
+ID  Selenium-dependent molybdenum hydroxylase system
+RQ  0
+EV  GenProp0726;
 //

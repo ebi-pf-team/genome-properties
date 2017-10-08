@@ -37,4 +37,19 @@ SN  6
 ID  Sulfate/thiosulfate ABC transporter
 RQ  0
 EV  GenProp0191;
+--
+SN  7
+ID  Sulfite reductase complex, Salmonella/Clostridium type
+RQ  0
+EV  GenProp0624;
+--
+SN  8
+ID  Intracellular sulfur oxidation
+RQ  0
+EV  GenProp0654;
+--
+SN  9
+ID  Methionine salvage from methylthioadenosine
+RQ  0
+EV  GenProp0729;
 //

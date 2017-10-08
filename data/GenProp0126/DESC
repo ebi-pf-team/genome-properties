@@ -69,4 +69,19 @@ SN  13
 ID  Lysine biosynthesis
 RQ  0
 EV  GenProp0199;
+--
+SN  14
+ID  Cysteine biosynthesis, tRNA-dependent
+RQ  0
+EV  GenProp0304;
+--
+SN  15
+ID  Cysteine biosynthesis
+RQ  0
+EV  GenProp0305;
+--
+SN  16
+ID  Methionine salvage from methylthioadenosine
+RQ  0
+EV  GenProp0729;
 //

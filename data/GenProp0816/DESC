@@ -6,4 +6,9 @@ TH  0
 CC  Properties in this category are pathways for the degradation and reuse 
 CC  of nucleosides. Pathways utilizing the bases and the sugar moieties are
 CC  included.
+--
+SN  1
+ID  AMP metabolism using type III Rubisco
+RQ  0
+EV  GenProp0728;
 //

@@ -9,4 +9,9 @@ SN  1
 ID  19S proteasome cap
 RQ  0
 EV  GenProp2012;
+--
+SN  2
+ID  ClpXP degradation machine
+RQ  0
+EV  GenProp0251;
 //

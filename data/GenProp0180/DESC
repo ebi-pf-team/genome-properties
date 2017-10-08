@@ -50,4 +50,44 @@ SN  9
 ID  Ion-motive antiporter cycles
 RQ  0
 EV  GenProp0873;
+--
+SN  10
+ID  Phosphonates ABC transport
+RQ  0
+EV  GenProp0236;
+--
+SN  11
+ID  Tol-Pal system
+RQ  0
+EV  GenProp0542;
+--
+SN  12
+ID  TonB-dependent transport
+RQ  0
+EV  GenProp0543;
+--
+SN  13
+ID  Ectoine ABC transporter EhuABCD
+RQ  0
+EV  GenProp0651;
+--
+SN  14
+ID  Fructose utilization as fructose-1,6-bisphosphate
+RQ  0
+EV  GenProp0693;
+--
+SN  15
+ID  Glucose utilization as fructose-1,6-bisphosphate
+RQ  0
+EV  GenProp0694;
+--
+SN  16
+ID  2-aminoethylphosphonate (AEP) ABC transporter, type I, PhnSTUV
+RQ  0
+EV  GenProp0712;
+--
+SN  17
+ID  2-aminoethylphosphonate (AEP) ABC transporter, type II
+RQ  0
+EV  GenProp0721;
 //

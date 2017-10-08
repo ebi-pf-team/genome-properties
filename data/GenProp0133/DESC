@@ -33,4 +33,9 @@ SN  6
 ID  RNA metabolism
 RQ  0
 EV  GenProp0819;
+--
+SN  7
+ID  Ribonucleotide reduction
+RQ  0
+EV  GenProp0287;
 //

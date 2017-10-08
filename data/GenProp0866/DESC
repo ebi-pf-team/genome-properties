@@ -11,4 +11,9 @@ SN  1
 ID  Carbon fixation
 RQ  0
 EV  GenProp0865;
+--
+SN  2
+ID  H4MPT-linked C1 transfer pathway
+RQ  0
+EV  GenProp0671;
 //
