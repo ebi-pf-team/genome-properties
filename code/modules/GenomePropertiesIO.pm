@@ -72,7 +72,10 @@ sub validateGP {
       if(!$prop ){
         die "Failed to establish property for $prop_acc\n";
       }
-      
+     
+      #Check essential fields
+      _checkEssentials($prop, \$errors, \$errorMsg);
+
       #Check threshold is less than number 
       #of steps
       _checkThreshold($prop, \$errors, \$errorMsg);
@@ -175,6 +178,23 @@ sub _checkThreshold {
     $$error_msg .= "Threshold of greater than the number of steps\n";
   }
   return;
+}
+
+
+sub _checkEssentials {
+  my ($prop, $errors, $errorMsg) = @_;
+
+  #DE, TP, AU, TH are all required
+  if(!$prop->type or $prop->type !~ /\S+/){
+    $$errors++;
+    $$errorMsg .= "No property type set for ".$prop->accession."\n";
+  }
+
+  #if($prop->type eq 'ROOT' or $prop->type eq 'CATEGORY' or $prop->type eq 'SUMMARY'){
+  
+  #For each step SN, ID, RQ are all ressential.
+  #die;
+
 }
 
 sub _checkTypeAgainstStep {
