@@ -38,4 +38,19 @@ SN  7
 ID  Carbon fixation
 RQ  0
 EV  GenProp0865;
+--
+SN  8
+ID  Acetyl-CoA -- acetate interconversion via acetyl phosphate
+RQ  0
+EV  GenProp0478;
+--
+SN  9
+ID  Acetate -- acetyl-CoA interconversions
+RQ  0
+EV  GenProp0479;
+--
+SN  10
+ID  Glyoxalate conversion to phosphoglycerate
+RQ  0
+EV  GenProp0689;
 //

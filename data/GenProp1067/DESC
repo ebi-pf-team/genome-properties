@@ -10,4 +10,14 @@ SN  1
 ID  CRISPR region
 RQ  0
 EV  GenProp0021;
+--
+SN  2
+ID  Restriction enzyme system, type I
+RQ  0
+EV  GenProp0455;
+--
+SN  3
+ID  DNA sulfur modification system dnd
+RQ  0
+EV  GenProp0701;
 //

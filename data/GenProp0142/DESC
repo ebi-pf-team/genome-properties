@@ -46,4 +46,144 @@ SN  8
 ID  Amino acid catabolism
 RQ  0
 EV  GenProp0734;
+--
+SN  9
+ID  GABA utilization
+RQ  0
+EV  GenProp0233;
+--
+SN  10
+ID  Phosphonate catabolism
+RQ  0
+EV  GenProp0241;
+--
+SN  11
+ID  Trehalose utilization
+RQ  0
+EV  GenProp0271;
+--
+SN  12
+ID  Pyruvate fermentation to acetoin
+RQ  0
+EV  GenProp0272;
+--
+SN  13
+ID  Protocatechuate degradation to beta-ketoadipate
+RQ  0
+EV  GenProp0273;
+--
+SN  14
+ID  Beta-ketoadipate degradation to succinyl-CoA and acetyl-CoA
+RQ  0
+EV  GenProp0283;
+--
+SN  15
+ID  Ethanolamine degradation proteinaceous organelle
+RQ  0
+EV  GenProp0294;
+--
+SN  16
+ID  Rhamnose catabolism
+RQ  0
+EV  GenProp0457;
+--
+SN  17
+ID  Fucose catabolism
+RQ  0
+EV  GenProp0458;
+--
+SN  18
+ID  Ectoine catabolism
+RQ  0
+EV  GenProp0653;
+--
+SN  19
+ID  Malonate decarboxylase
+RQ  0
+EV  GenProp0674;
+--
+SN  20
+ID  Allantoin catabolism to glyoxalate and urea
+RQ  0
+EV  GenProp0686;
+--
+SN  21
+ID  Allantoin catabolism to oxamate and carbamoyl-phosphate
+RQ  0
+EV  GenProp0687;
+--
+SN  22
+ID  Urate catabolism to allantoin
+RQ  0
+EV  GenProp0688;
+--
+SN  23
+ID  Glycolysis
+RQ  0
+EV  GenProp0691;
+--
+SN  24
+ID  Fructose utilization as fructose-1,6-bisphosphate
+RQ  0
+EV  GenProp0693;
+--
+SN  25
+ID  Glucose utilization as fructose-1,6-bisphosphate
+RQ  0
+EV  GenProp0694;
+--
+SN  26
+ID  Purine catabolism via urate, xanthine and allantoin
+RQ  0
+EV  GenProp0700;
+--
+SN  27
+ID  Benzoyl-CoA reductase
+RQ  0
+EV  GenProp0702;
+--
+SN  28
+ID  4-hydroxybenzoyl-CoA reductase
+RQ  0
+EV  GenProp0703;
+--
+SN  29
+ID  Cyclohexa-1,5-diene-1-carbonyl-CoA to 3-hydroxypimelyl-CoA, dch/had/oah Pathway
+RQ  0
+EV  GenProp0706;
+--
+SN  30
+ID  Catechol meta-cleavage pathway
+RQ  0
+EV  GenProp0708;
+--
+SN  31
+ID  Benzoate catabolism BoxABC pathway
+RQ  0
+EV  GenProp0709;
+--
+SN  32
+ID  Galactarate utilization via tartronate semi-aldehyde
+RQ  0
+EV  GenProp0714;
+--
+SN  33
+ID  Galactarate utilization via 2-oxoglutarate semialdehyde
+RQ  0
+EV  GenProp0715;
+--
+SN  34
+ID  Glucarate utilization via tartronate semi-aldehyde
+RQ  0
+EV  GenProp0716;
+--
+SN  35
+ID  Glucarate utilization via 2-oxoglutarate semialdehyde
+RQ  0
+EV  GenProp0717;
+--
+SN  36
+ID  Oxalate degradation
+RQ  0
+EV  GenProp0718;
 //

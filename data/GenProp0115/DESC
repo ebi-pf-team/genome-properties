@@ -30,4 +30,29 @@ SN  5
 ID  Direct repair
 RQ  0
 EV  GenProp0228;
+--
+SN  6
+ID  SOS response
+RQ  0
+EV  GenProp0215;
+--
+SN  7
+ID  Mismatch repair
+RQ  0
+EV  GenProp0225;
+--
+SN  8
+ID  RecFOR recombination pathway
+RQ  0
+EV  GenProp0491;
+--
+SN  9
+ID  Nonhomologous end-joining, bacterial type
+RQ  0
+EV  GenProp0492;
+--
+SN  10
+ID  AddAB pathway
+RQ  0
+EV  GenProp0493;
 //

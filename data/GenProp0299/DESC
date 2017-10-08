@@ -9,4 +9,19 @@ CC  from simpler components. Fatty acids are predominantly straight-chain acids
 CC  of 4 to 24 carbon atoms, which may be saturated or unsaturated. Branched 
 CC  fatty acids and hydroxy fatty acids also occur, and very long chain acids 
 CC  of over 30 carbons are found in waxes.
+--
+SN  1
+ID  Acetyl-CoA carboxylase complex
+RQ  0
+EV  GenProp0214;
+--
+SN  2
+ID  Fatty acid biosynthesis from acetyl-CoA
+RQ  0
+EV  GenProp0681;
+--
+SN  3
+ID  Acyl carrier protein phosphopantetheinylation
+RQ  0
+EV  GenProp1104;
 //

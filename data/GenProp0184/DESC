@@ -80,4 +80,34 @@ SN  15
 ID  Menaquinone biosynthesis
 RQ  0
 EV  GenProp0836;
+--
+SN  16
+ID  Uroporhyrinogen III biosynthesis from 5-aminolevulinate
+RQ  0
+EV  GenProp0220;
+--
+SN  17
+ID  Protoporphyrin IX biosynthesis from uroporphyrinogen III
+RQ  0
+EV  GenProp0221;
+--
+SN  18
+ID  Protoheme from protoporphyrin IX
+RQ  0
+EV  GenProp0222;
+--
+SN  19
+ID  Molybdopterin biosynthesis
+RQ  0
+EV  GenProp0466;
+--
+SN  20
+ID  Coenzyme F420 biosynthesis
+RQ  0
+EV  GenProp0791;
+--
+SN  21
+ID  7,8-didemethyl-8-hydroxy-5-deazariboflavin (FO) biosynthesis
+RQ  0
+EV  GenProp0792;
 //

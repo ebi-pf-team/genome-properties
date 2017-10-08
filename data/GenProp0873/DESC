@@ -14,4 +14,9 @@ CC  cytosolic proton, therefore such systems can and do confer acid resistance.
 **  Sample antiporter pairs related by decarboxylation include
 **  aspartate:alanine, arginine:agmatine, histidine:histamine,
 **  lysine:cadaverine, and ornithine:putrescine.
+--
+SN  1
+ID  Arginine degradation via citrulline, ATP-generating
+RQ  0
+EV  GenProp0639;
 //

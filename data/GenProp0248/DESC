@@ -20,4 +20,14 @@ SN  3
 ID  Chaperone system: thermosome/prefoldin
 RQ  0
 EV  GenProp0246;
+--
+SN  4
+ID  Outer membrane protein assembly complex
+RQ  0
+EV  GenProp0725;
+--
+SN  5
+ID  OMP chaperone system: SurA-Skp-DegP
+RQ  0
+EV  GenProp0928;
 //

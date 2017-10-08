@@ -11,4 +11,24 @@ SN  1
 ID  Inteins
 RQ  0
 EV  GenProp0010;
+--
+SN  2
+ID  Phage: major features
+RQ  0
+EV  GenProp0208;
+--
+SN  3
+ID  Integron
+RQ  0
+EV  GenProp0226;
+--
+SN  4
+ID  Toxin-antitoxin system, type II
+RQ  0
+EV  GenProp0321;
+--
+SN  5
+ID  Protein-coding palindromic elements
+RQ  0
+EV  GenProp0476;
 //

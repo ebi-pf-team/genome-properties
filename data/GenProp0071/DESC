@@ -14,4 +14,14 @@ SN  2
 ID  Small molecule transport
 RQ  0
 EV  GenProp0180;
+--
+SN  3
+ID  F-type conjugation system
+RQ  0
+EV  GenProp0489;
+--
+SN  4
+ID  Heterocyst-related ABC exporter DevBCA
+RQ  0
+EV  GenProp0649;
 //
