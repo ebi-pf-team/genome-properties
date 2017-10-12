@@ -41,4 +41,14 @@ SN  7
 ID  Toxin-antitoxin system, type III
 RQ  0
 EV  GenProp1092;
+--
+SN  8
+ID  Addiction module, Hig class
+RQ  0
+EV  GenProp0322;
+--
+SN  9
+ID  Addiction module, RelE-RelB class
+RQ  0
+EV  GenProp0324;
 //
