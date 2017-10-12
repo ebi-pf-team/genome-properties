@@ -13,4 +13,14 @@ CC  releasing sulfur or sulfates rather than 02 as waste products.
 CC  Halobacterium is currently regarded as a photoheterotroph that can 
 CC  harness light for energy for ion pumps but cannnot synthesize new 
 CC  organic compounds from this energy, nor release 02.
+--
+SN  1
+ID  Photosystem II
+RQ  0
+EV  GenProp0661;
+--
+SN  2
+ID  Photosynthetic reaction center, alphaproteobacterial type
+RQ  0
+EV  GenProp0662;
 //
