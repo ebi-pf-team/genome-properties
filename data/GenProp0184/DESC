@@ -160,4 +160,9 @@ SN  31
 ID  Coenzyme B12 biosynthesis from cob(II)yrinate diamide
 RQ  0
 EV  GenProp0269;
+--
+SN  32
+ID  Cobyrinic acid diamide biosynthesis, anaerobic pathway
+RQ  0
+EV  GenProp0275;
 //
