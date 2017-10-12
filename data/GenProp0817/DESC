@@ -25,4 +25,9 @@ SN  4
 ID  Xanthine dehydrogenase, bacillus type (pucABCDE)
 RQ  0
 EV  GenProp0705;
+--
+SN  5
+ID  Pyrimidine utilization
+RQ  0
+EV  GenProp0813;
 //

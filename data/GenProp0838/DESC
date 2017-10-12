@@ -33,4 +33,9 @@ SN  5
 ID  Menaquinone biosynthesis
 RQ  0
 EV  GenProp0836;
+--
+SN  6
+ID  1-acylglycerol-3-phosphate biosynthesis, PlsX/Y pathway
+RQ  0
+EV  GenProp0837;
 //

@@ -90,4 +90,29 @@ SN  17
 ID  2-aminoethylphosphonate (AEP) ABC transporter, type II
 RQ  0
 EV  GenProp0721;
+--
+SN  18
+ID  Urea ABC transporter UrtABCDE
+RQ  0
+EV  GenProp0743;
+--
+SN  19
+ID  Choline ABC transporter, ChoXWV family
+RQ  0
+EV  GenProp0748;
+--
+SN  20
+ID  Choline sulfate utilization
+RQ  0
+EV  GenProp0749;
+--
+SN  21
+ID  Heme uptake system, NEAT-domain mediated
+RQ  0
+EV  GenProp0828;
+--
+SN  22
+ID  Lantibiotic system, gallidermin/epidermin family
+RQ  0
+EV  GenProp0853;
 //

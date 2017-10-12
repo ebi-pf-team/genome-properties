@@ -186,4 +186,39 @@ SN  36
 ID  Oxalate degradation
 RQ  0
 EV  GenProp0718;
+--
+SN  37
+ID  Choline sulfate utilization
+RQ  0
+EV  GenProp0749;
+--
+SN  38
+ID  Encapsulin proteinaceous organelle
+RQ  0
+EV  GenProp0810;
+--
+SN  39
+ID  Pyrimidine utilization
+RQ  0
+EV  GenProp0813;
+--
+SN  40
+ID  Quinohemoprotein amine dehydrogenase
+RQ  0
+EV  GenProp0902;
+--
+SN  41
+ID  Myo-inositol catabolism
+RQ  0
+EV  GenProp1071;
+--
+SN  42
+ID  Cyanase system
+RQ  0
+EV  GenProp1072;
+--
+SN  43
+ID  Choline TMA-lyase system
+RQ  0
+EV  GenProp1076;
 //

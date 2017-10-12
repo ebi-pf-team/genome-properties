@@ -30,4 +30,14 @@ SN  5
 ID  DNA gyrase
 RQ  0
 EV  GenProp0699;
+--
+SN  6
+ID  Integrating conjugative element, PFGI-1 class
+RQ  0
+EV  GenProp0855;
+--
+SN  7
+ID  Conjugative transposon, Bacteroides type
+RQ  0
+EV  GenProp0858;
 //

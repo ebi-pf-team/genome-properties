@@ -40,4 +40,19 @@ SN  7
 ID  Exopolysaccharide biosynthesis, exosortase B-associated
 RQ  0
 EV  GenProp0655;
+--
+SN  8
+ID  CMP-N-acetylneuraminate biosynthesis from UDP-N-acetylglucosamine
+RQ  0
+EV  GenProp0793;
+--
+SN  9
+ID  Poly(gamma-glutamic acid) biosynthesis
+RQ  0
+EV  GenProp0822;
+--
+SN  10
+ID  Poly-beta-1,6 N-acetyl-D-glucosamine system, PgaABCD type
+RQ  0
+EV  GenProp0907;
 //

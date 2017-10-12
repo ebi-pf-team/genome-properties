@@ -4,4 +4,9 @@ TP  CATEGORY
 AU  Haft DH
 TH  0
 CC  The processes by which cells move from place to place.
+--
+SN  1
+ID  Gliding motility, Bacteroidetes type
+RQ  0
+EV  GenProp0781;
 //

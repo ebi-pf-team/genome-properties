@@ -24,4 +24,29 @@ SN  4
 ID  Heterocyst-related ABC exporter DevBCA
 RQ  0
 EV  GenProp0649;
+--
+SN  5
+ID  Putative Na:solute symporter two-gene cassette
+RQ  0
+EV  GenProp0821;
+--
+SN  6
+ID  Anchored repeat-class ABC transporter, P. acnes type
+RQ  0
+EV  GenProp0857;
+--
+SN  7
+ID  Alcohol ABC transporter, PedABC-type
+RQ  0
+EV  GenProp0895;
+--
+SN  8
+ID  TonB-dependent nutrient uptake pairs, RagAB/SusCD type
+RQ  0
+EV  GenProp0941;
+--
+SN  9
+ID  Energy-coupling factor transporters
+RQ  0
+EV  GenProp1094;
 //

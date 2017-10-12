@@ -30,4 +30,24 @@ SN  5
 ID  Outer membrane protein assembly complex
 RQ  0
 EV  GenProp0725;
+--
+SN  6
+ID  S-layer homology domain-mediated cell wall binding
+RQ  0
+EV  GenProp0811;
+--
+SN  7
+ID  Exosporium
+RQ  0
+EV  GenProp0847;
+--
+SN  8
+ID  Anchored repeat-class ABC transporter, P. acnes type
+RQ  0
+EV  GenProp0857;
+--
+SN  9
+ID  Protein sorting system, proteobacterial dedicated sortase type
+RQ  0
+EV  GenProp0859;
 //

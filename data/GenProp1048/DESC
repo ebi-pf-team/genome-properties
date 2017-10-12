@@ -18,4 +18,14 @@ SN  2
 ID  Exopolysaccharide biosynthesis, exosortase B-associated
 RQ  0
 EV  GenProp0655;
+--
+SN  3
+ID  Quorum-sensing, autoinducer-2 system
+RQ  0
+EV  GenProp0757;
+--
+SN  4
+ID  Quorum-sensing system, cyclic peptide-mediated
+RQ  0
+EV  GenProp1011;
 //

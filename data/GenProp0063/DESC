@@ -85,4 +85,29 @@ SN  16
 ID  Phosphonoacetaldehyde biosynthesis from phosphoenolpyruvate
 RQ  0
 EV  GenProp0724;
+--
+SN  17
+ID  Agmatine to putrescine via N-carbamoylputrescine
+RQ  0
+EV  GenProp0738;
+--
+SN  18
+ID  Capreomycidine biosynthesis
+RQ  0
+EV  GenProp0909;
+--
+SN  19
+ID  Alkane biosynthesis, cyanobacterial
+RQ  0
+EV  GenProp0942;
+--
+SN  20
+ID  RSAM/selenodomain system
+RQ  0
+EV  GenProp1053;
+--
+SN  21
+ID  Radical SAM/SPASM system GeoRSP
+RQ  0
+EV  GenProp1057;
 //

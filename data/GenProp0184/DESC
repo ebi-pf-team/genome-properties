@@ -110,4 +110,49 @@ SN  21
 ID  7,8-didemethyl-8-hydroxy-5-deazariboflavin (FO) biosynthesis
 RQ  0
 EV  GenProp0792;
+--
+SN  22
+ID  Ergothioneine biosynthesis
+RQ  0
+EV  GenProp0752;
+--
+SN  23
+ID  Mycothiol biosynthesis
+RQ  0
+EV  GenProp0753;
+--
+SN  24
+ID  Para-aminobenzoic acid (PABA) biosynthesis from chorismate
+RQ  0
+EV  GenProp0759;
+--
+SN  25
+ID  Tryptophan tryptophylquinone modification of methylamine dehydrogenase
+RQ  0
+EV  GenProp0860;
+--
+SN  26
+ID  Pyridoxal phosphate biosynthesis, PdxA/PdxJ pathway
+RQ  0
+EV  GenProp0862;
+--
+SN  27
+ID  Coenzyme M biosynthesis
+RQ  0
+EV  GenProp0891;
+--
+SN  28
+ID  Mycofactocin system
+RQ  0
+EV  GenProp0917;
+--
+SN  29
+ID  Bacillithiol biosynthesis
+RQ  0
+EV  GenProp0927;
+--
+SN  30
+ID  Ovothiol biosynthesis
+RQ  0
+EV  GenProp1064;
 //

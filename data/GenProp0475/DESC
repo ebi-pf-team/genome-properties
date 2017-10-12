@@ -29,4 +29,49 @@ SN  4
 ID  Peptide chain release operon, RctB-like/PrfH
 RQ  0
 EV  GenProp0665;
+--
+SN  5
+ID  Acidobacterial ADOP/PadR gene pairs
+RQ  0
+EV  GenProp0751;
+--
+SN  6
+ID  Sporadic pair TIGR03545/TIGR03546
+RQ  0
+EV  GenProp0790;
+--
+SN  7
+ID  Enterococcus/Aeromonas extended locus
+RQ  0
+EV  GenProp0798;
+--
+SN  8
+ID  Integral membrane mystery pair
+RQ  0
+EV  GenProp0830;
+--
+SN  9
+ID  ParB-rel/ThiF-rel cassette PRTRC
+RQ  0
+EV  GenProp0854;
+--
+SN  10
+ID  Actinobacterial uncharacterized trio
+RQ  0
+EV  GenProp0894;
+--
+SN  11
+ID  Radical SAM/uncharacterized protein TIGR03936 system
+RQ  0
+EV  GenProp0916;
+--
+SN  12
+ID  Metallo-mystery pair
+RQ  0
+EV  GenProp0940;
+--
+SN  13
+ID  Memo/AMMECR1/rSAM family trio system
+RQ  0
+EV  GenProp1063;
 //

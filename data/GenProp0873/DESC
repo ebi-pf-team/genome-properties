@@ -19,4 +19,24 @@ SN  1
 ID  Arginine degradation via citrulline, ATP-generating
 RQ  0
 EV  GenProp0639;
+--
+SN  2
+ID  Decarboxylation/antiport proton-motive cycle: aspartate-alanine
+RQ  0
+EV  GenProp0867;
+--
+SN  3
+ID  Decarboxylation/antiport proton-motive cycle: ornithine-putrescine
+RQ  0
+EV  GenProp0871;
+--
+SN  4
+ID  Decarboxylation/antiport proton-motive cycle: histidine-histamine
+RQ  0
+EV  GenProp0872;
+--
+SN  5
+ID  Decarboxylation/antiport proton-motive cycle: oxalate-formate
+RQ  0
+EV  GenProp1034;
 //

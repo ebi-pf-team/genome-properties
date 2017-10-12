@@ -26,4 +26,14 @@ SN  4
 ID  Cytochrome c nitrite reductase NrfHA
 RQ  0
 EV  GenProp0683;
+--
+SN  5
+ID  Urea utilization
+RQ  0
+EV  GenProp0814;
+--
+SN  6
+ID  Nitrile hydratase
+RQ  0
+EV  GenProp0899;
 //

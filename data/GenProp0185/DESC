@@ -30,4 +30,9 @@ SN  5
 ID  Guanine monophosphate (GMP) biosynthesis from inosine monophosphate (IMP)
 RQ  0
 EV  GenProp0697;
+--
+SN  6
+ID  Adenosine monophosphate (AMP) biosynthesis from inosine monophosphate (IMP)
+RQ  0
+EV  GenProp0747;
 //

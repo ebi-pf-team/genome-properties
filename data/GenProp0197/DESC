@@ -49,4 +49,24 @@ SN  9
 ID  tRNA U34 carboxymethylaminomethyl modification
 RQ  0
 EV  GenProp0704;
+--
+SN  10
+ID  Translation initiation, bacterial
+RQ  0
+EV  GenProp0740;
+--
+SN  11
+ID  Translation elongation, bacterial
+RQ  0
+EV  GenProp0741;
+--
+SN  12
+ID  Translation termination, bacterial
+RQ  0
+EV  GenProp0746;
+--
+SN  13
+ID  Rho-dependent termination
+RQ  0
+EV  GenProp0812;
 //

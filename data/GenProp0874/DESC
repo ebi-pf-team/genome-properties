@@ -7,4 +7,19 @@ CC  A process which allows an organism to cope with the deleterious effects
 CC  of an acidic external environment. Such processes may be regulated to
 CC  respond to changes in external pH or, in the case of acidophiles, may
 CC  be constitutive. 
+--
+SN  1
+ID  Decarboxylation/antiport proton-motive cycle: aspartate-alanine
+RQ  0
+EV  GenProp0867;
+--
+SN  2
+ID  Decarboxylation/antiport proton-motive cycle: ornithine-putrescine
+RQ  0
+EV  GenProp0871;
+--
+SN  3
+ID  Decarboxylation/antiport proton-motive cycle: histidine-histamine
+RQ  0
+EV  GenProp0872;
 //

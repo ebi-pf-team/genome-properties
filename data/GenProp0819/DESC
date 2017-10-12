@@ -31,4 +31,29 @@ SN  5
 ID  tRNA U34 carboxymethylaminomethyl modification
 RQ  0
 EV  GenProp0704;
+--
+SN  6
+ID  RNA ligase/unknown protein pair
+RQ  0
+EV  GenProp0898;
+--
+SN  7
+ID  RNA repair, Hen1/Pnkp system
+RQ  0
+EV  GenProp0948;
+--
+SN  8
+ID  tRNA N6-threonylcarbamoyladenosine modification
+RQ  0
+EV  GenProp1060;
+--
+SN  9
+ID  tRNA(Pro) cmo5UGG modification
+RQ  0
+EV  GenProp1077;
+--
+SN  10
+ID  16S rRNA C1402 m(4)Cm modification
+RQ  0
+EV  GenProp1082;
 //

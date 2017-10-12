@@ -70,4 +70,124 @@ SN  13
 ID  OMP chaperone system: SurA-Skp-DegP
 RQ  0
 EV  GenProp0928;
+--
+SN  14
+ID  Protein sorting system, GlyGly-CTERM/rhombosortase
+RQ  0
+EV  GenProp0778;
+--
+SN  15
+ID  Protein sorting system, KxYKxGKxW class
+RQ  0
+EV  GenProp0845;
+--
+SN  16
+ID  Exosporium
+RQ  0
+EV  GenProp0847;
+--
+SN  17
+ID  Protein sorting system, proteobacterial dedicated sortase type
+RQ  0
+EV  GenProp0859;
+--
+SN  18
+ID  Type VII secretion, Actinobacteria form
+RQ  0
+EV  GenProp0904;
+--
+SN  19
+ID  Type VII secretion, Firmicutes form
+RQ  0
+EV  GenProp0905;
+--
+SN  20
+ID  Protein sorting system, SipW class
+RQ  0
+EV  GenProp0957;
+--
+SN  21
+ID  Protein sorting system, PGF-CTERM/archaeosortase A
+RQ  0
+EV  GenProp0978;
+--
+SN  22
+ID  Protein sorting system, PEF-CTERM/archaeosortase C
+RQ  0
+EV  GenProp0979;
+--
+SN  23
+ID  Protein sorting system, putative, exosortase F class
+RQ  0
+EV  GenProp0980;
+--
+SN  24
+ID  Protein sorting system, VPXXXP-CTERM/archaeosortase B
+RQ  0
+EV  GenProp0983;
+--
+SN  25
+ID  Protein sorting system, VPDSG-CTERM/exosortase C
+RQ  0
+EV  GenProp0985;
+--
+SN  26
+ID  Protein sorting system, cyano-PEP-CTERM class
+RQ  0
+EV  GenProp0987;
+--
+SN  27
+ID  Protein sorting system, VPEID-CTERM/exosortase E
+RQ  0
+EV  GenProp0989;
+--
+SN  28
+ID  Protein sorting system, PIP-CTERM/archaeosortase D
+RQ  0
+EV  GenProp0993;
+--
+SN  29
+ID  Protein sorting system, IPTLxxWG-CTERM/exosortase H
+RQ  0
+EV  GenProp0996;
+--
+SN  30
+ID  Por secretion system
+RQ  0
+EV  GenProp0999;
+--
+SN  31
+ID  Protein sorting system, putative, exosortase J class
+RQ  0
+EV  GenProp1005;
+--
+SN  32
+ID  Protein sorting system, MSEP-CTERM/exosortase K
+RQ  0
+EV  GenProp1054;
+--
+SN  33
+ID  Protein sorting system, PEFG-CTERM/thaumarchaeosortase
+RQ  0
+EV  GenProp1055;
+--
+SN  34
+ID  Type V secretion
+RQ  0
+EV  GenProp1074;
+--
+SN  35
+ID  Protein sorting system, vault protein/exosortase N
+RQ  0
+EV  GenProp1087;
+--
+SN  36
+ID  Protein sorting system, CGP-CTERM/unknown of Thermococcaceae
+RQ  0
+EV  GenProp1102;
+--
+SN  37
+ID  Protein sorting system, Synergist-CTERM/unknown of Synergistetes
+RQ  0
+EV  GenProp1103;
 //

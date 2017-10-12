@@ -41,4 +41,9 @@ SN  7
 ID  Alkylhydroperoxide reductase AhpCF (peroxiredoxin)
 RQ  0
 EV  GenProp0676;
+--
+SN  8
+ID  Glyoxalase pathway, glutathione dependent
+RQ  0
+EV  GenProp0744;
 //

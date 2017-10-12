@@ -80,4 +80,44 @@ SN  15
 ID  Hydrogenase, nickel and F420-dependent
 RQ  0
 EV  GenProp0723;
+--
+SN  16
+ID  Anaerobic glycerol-3-phosphate dehydrogenase complex
+RQ  0
+EV  GenProp0737;
+--
+SN  17
+ID  Fumarate reductase complex
+RQ  0
+EV  GenProp0756;
+--
+SN  18
+ID  DMSO reductase family type II enzyme
+RQ  0
+EV  GenProp0764;
+--
+SN  19
+ID  2-oxoacid:ferredoxin oxidoreductase
+RQ  0
+EV  GenProp0841;
+--
+SN  20
+ID  Hydrogenase, [FeFe]-dependent
+RQ  0
+EV  GenProp0914;
+--
+SN  21
+ID  Hydrogenase, mono-iron type
+RQ  0
+EV  GenProp0915;
+--
+SN  22
+ID  B12-dependent trimeric diol/glycerol dehydratase
+RQ  0
+EV  GenProp1089;
+--
+SN  23
+ID  Quinoprotein cytochrome relay system
+RQ  0
+EV  GenProp1101;
 //

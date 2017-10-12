@@ -27,4 +27,29 @@ SN  4
 ID  UDP-N-acetylglucosamine biosynthesis from fructose-6-phosphate
 RQ  0
 EV  GenProp0750;
+--
+SN  5
+ID  Anhydro-N-acetylmuramic acid to N-acetylglucosamine-phosphate
+RQ  0
+EV  GenProp0766;
+--
+SN  6
+ID  CMP-N-acetylneuraminate biosynthesis from UDP-N-acetylglucosamine
+RQ  0
+EV  GenProp0793;
+--
+SN  7
+ID  Proposed N-acetyl sugar amidation module WbuXYZ
+RQ  0
+EV  GenProp0794;
+--
+SN  8
+ID  CMP-pseudaminic acid biosynthesis from UDP-N-acetylglucosamine
+RQ  0
+EV  GenProp0796;
+--
+SN  9
+ID  S-layer homology domain-mediated cell wall binding
+RQ  0
+EV  GenProp0811;
 //

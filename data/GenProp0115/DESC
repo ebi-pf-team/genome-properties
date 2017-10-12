@@ -55,4 +55,14 @@ SN  10
 ID  AddAB pathway
 RQ  0
 EV  GenProp0493;
+--
+SN  11
+ID  Very short patch repair
+RQ  0
+EV  GenProp0767;
+--
+SN  12
+ID  8-oxoguanine DNA repair
+RQ  0
+EV  GenProp1099;
 //

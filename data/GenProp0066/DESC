@@ -31,4 +31,14 @@ SN  5
 ID  Protein-coding palindromic elements
 RQ  0
 EV  GenProp0476;
+--
+SN  6
+ID  Toxin-antitoxin system, type I
+RQ  0
+EV  GenProp1091;
+--
+SN  7
+ID  Toxin-antitoxin system, type III
+RQ  0
+EV  GenProp1092;
 //

@@ -20,4 +20,14 @@ SN  3
 ID  Protoheme from protoporphyrin IX
 RQ  0
 EV  GenProp0222;
+--
+SN  4
+ID  Heme uptake system, NEAT-domain mediated
+RQ  0
+EV  GenProp0828;
+--
+SN  5
+ID  Heme metabolism pair HutWX
+RQ  0
+EV  GenProp0961;
 //

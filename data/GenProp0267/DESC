@@ -49,4 +49,14 @@ SN  6
 ID  Mannosylglycerate biosynthesis
 RQ  0
 EV  GenProp0281;
+--
+SN  7
+ID  N(epsilon)-acetyl-beta-lysine biosynthesis
+RQ  0
+EV  GenProp0878;
+--
+SN  8
+ID  Beta-glutamate biosynthesis
+RQ  0
+EV  GenProp1070;
 //

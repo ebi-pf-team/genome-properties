@@ -38,4 +38,19 @@ SN  6
 ID  DNA sulfur modification system dnd
 RQ  0
 EV  GenProp0701;
+--
+SN  7
+ID  DNA ligase/helicase system
+RQ  0
+EV  GenProp0977;
+--
+SN  8
+ID  Replication restart, PriA/PriB primosome pathway
+RQ  0
+EV  GenProp1081;
+--
+SN  9
+ID  Exodeoxyribonuclease VII
+RQ  0
+EV  GenProp1095;
 //

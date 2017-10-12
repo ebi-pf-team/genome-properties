@@ -41,4 +41,39 @@ SN  7
 ID  Selenium-dependent molybdenum hydroxylase system
 RQ  0
 EV  GenProp0726;
+--
+SN  8
+ID  Lipoyl-protein attachment
+RQ  0
+EV  GenProp0745;
+--
+SN  9
+ID  Tryptophan tryptophylquinone modification of methylamine dehydrogenase
+RQ  0
+EV  GenProp0860;
+--
+SN  10
+ID  Anaerobic sulfatase/maturase system
+RQ  0
+EV  GenProp0918;
+--
+SN  11
+ID  Mycothiol system
+RQ  0
+EV  GenProp0923;
+--
+SN  12
+ID  Bacillithiol utilization
+RQ  0
+EV  GenProp0933;
+--
+SN  13
+ID  Glycine radical enzyme system, YjjI/YjjW pair
+RQ  0
+EV  GenProp0938;
+--
+SN  14
+ID  Pyruvate formate-lyase system
+RQ  0
+EV  GenProp0943;
 //

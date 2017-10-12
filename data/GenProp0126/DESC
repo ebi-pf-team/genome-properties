@@ -84,4 +84,9 @@ SN  16
 ID  Methionine salvage from methylthioadenosine
 RQ  0
 EV  GenProp0729;
+--
+SN  17
+ID  Selenocysteinyl-tRNA, PSTK/SepSecS pathway
+RQ  0
+EV  GenProp0797;
 //
