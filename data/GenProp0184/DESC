@@ -155,4 +155,9 @@ SN  30
 ID  Ovothiol biosynthesis
 RQ  0
 EV  GenProp1064;
+--
+SN  31
+ID  Coenzyme B12 biosynthesis from cob(II)yrinate diamide
+RQ  0
+EV  GenProp0269;
 //
