@@ -6,4 +6,9 @@ TH  0
 CC  A spore is tough, durable, metabolically inert differentiated form of 
 CC  an organism, capable of returning to active growth (germination) under 
 CC  the right conditions.
+--
+SN  1
+ID  Endospore formation marker gene set
+RQ  0
+EV  GenProp0610;
 //
