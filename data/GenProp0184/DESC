@@ -165,4 +165,9 @@ SN  32
 ID  Cobyrinic acid diamide biosynthesis, anaerobic pathway
 RQ  0
 EV  GenProp0275;
+--
+SN  33
+ID  Cobalt import system (ABC transporter: 3.A.1.18.1)
+RQ  0
+EV  GenProp0277;
 //
