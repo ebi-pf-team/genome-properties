@@ -120,4 +120,14 @@ SN  23
 ID  Quinoprotein cytochrome relay system
 RQ  0
 EV  GenProp1101;
+--
+SN  24
+ID  2-oxoacid:ferredoxin oxidoreductase, multisubunit form
+RQ  0
+EV  GenProp0839;
+--
+SN  25
+ID  2-oxoacid:acceptor oxidoreductase, 2 subunit form
+RQ  0
+EV  GenProp0842;
 //
