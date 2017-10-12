@@ -9,4 +9,9 @@ SN  1
 ID  Gliding motility, Bacteroidetes type
 RQ  0
 EV  GenProp0781;
+--
+SN  2
+ID  Flagella
+RQ  0
+EV  GenProp0007;
 //
