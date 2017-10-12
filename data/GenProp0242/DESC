@@ -25,4 +25,9 @@ SN  4
 ID  Phosphonoacetaldehyde biosynthesis from phosphoenolpyruvate
 RQ  0
 EV  GenProp0724;
+--
+SN  5
+ID  Generic phosphonates utilization
+RQ  0
+EV  GenProp0710;
 //
