@@ -69,4 +69,9 @@ SN  13
 ID  Rho-dependent termination
 RQ  0
 EV  GenProp0812;
+--
+SN  14
+ID  Ribosome biogenesis proteins, bacteria
+RQ  0
+EV  GenProp0802;
 //
