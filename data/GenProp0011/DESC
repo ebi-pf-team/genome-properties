@@ -7,4 +7,19 @@ CC  Known methanogenic species so far all belong to the Archaea and are
 CC  most closely related to the non-methanogenic genus Pyrococcus. 
 CC  Methanogenesis requires the presence of a number of distinctive 
 CC  cofactors. Methanogens tend to be anaerobic.
+--
+SN  1
+ID  Tetrahydromethanopterin S-methyltransferase complex
+RQ  0
+EV  GenProp0288;
+--
+SN  2
+ID  Methyl-coenzyme M reductase
+RQ  0
+EV  GenProp0719;
+--
+SN  3
+ID  Methanogenesis marker set
+RQ  0
+EV  GenProp0722;
 //
