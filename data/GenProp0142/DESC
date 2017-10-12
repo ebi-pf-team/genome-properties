@@ -221,4 +221,9 @@ SN  43
 ID  Choline TMA-lyase system
 RQ  0
 EV  GenProp1076;
+--
+SN  44
+ID  Ethanolamine degradation organelle
+RQ  0
+EV  GenProp0292;
 //
