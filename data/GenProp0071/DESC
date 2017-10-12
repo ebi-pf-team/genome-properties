@@ -49,4 +49,14 @@ SN  9
 ID  Energy-coupling factor transporters
 RQ  0
 EV  GenProp1094;
+--
+SN  10
+ID  Proposed F420-0 transporter
+RQ  0
+EV  GenProp0896;
+--
+SN  11
+ID  Ferrous iron transport Feo system
+RQ  0
+EV  GenProp1075;
 //
