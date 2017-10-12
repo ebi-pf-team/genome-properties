@@ -52,4 +52,14 @@ SN  9
 ID  S-layer homology domain-mediated cell wall binding
 RQ  0
 EV  GenProp0811;
+--
+SN  10
+ID  dTDP-4-acetamido-4,6-dideoxy-D-galactose (dTDP-Fuc4NAc) biosynthesis
+RQ  0
+EV  GenProp0972
+--
+SN  11
+ID  dTDP-4-dehydro-6-deoxy-alpha-D-glucose biosynthesis from glucose-1-phosphate
+RQ  0
+EV  GenProp0950
 //
