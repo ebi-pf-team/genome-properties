@@ -31,4 +31,84 @@ CC  subtype-specific genes are found in addition to characteristic sets of
 CC  the more widely distributed Cas genes [2]. A further review of CRISPR
 CC  families by Makarova, et al. describes broader categories of CRISPR 
 CC  systems, using a polythetic classification system [3]. 
+--
+SN  1
+ID  CRISPR region
+RQ  0
+EV  GenProp0021;
+--
+SN  2
+ID  CRISPR system, I-F/Ypest subtype
+RQ  0
+EV  GenProp0310;
+--
+SN  3
+ID  CRISPR system, I-C/Dvulg subtype
+RQ  0
+EV  GenProp0313;
+--
+SN  4
+ID  CRISPR system, II/Nmeni subtype
+RQ  0
+EV  GenProp0314;
+--
+SN  5
+ID  CRISPR system, I-E/Ecoli subtype
+RQ  0
+EV  GenProp0315;
+--
+SN  6
+ID  CRISPR system, III-B/RAMP module subtype
+RQ  0
+EV  GenProp0316;
+--
+SN  7
+ID  CRISPR system, I-B subtype, Tneap branch
+RQ  0
+EV  GenProp0317;
+--
+SN  8
+ID  CRISPR system, III-A/Mtube subtype
+RQ  0
+EV  GenProp0318;
+--
+SN  9
+ID  CRISPR system, I-A/Apern subtype
+RQ  0
+EV  GenProp0319;
+--
+SN  10
+ID  CRISPR system, I-B subtype, Hmari branch
+RQ  0
+EV  GenProp0320;
+--
+SN  11
+ID  CRISPR system, Dpsyc subtype
+RQ  0
+EV  GenProp0469;
+--
+SN  12
+ID  CRISPR system, Aferr subtype
+RQ  0
+EV  GenProp0670;
+--
+SN  13
+ID  CRISPR system, I-D/Cyano subtype
+RQ  0
+EV  GenProp0685;
+--
+SN  14
+ID  CRISPR system, Pging subtype
+RQ  0
+EV  GenProp0768;
+--
+SN  15
+ID  CRISPR system, Myxan subtype
+RQ  0
+EV  GenProp0922;
+--
+SN  16
+ID  CRISPR system, PreFran subtype
+RQ  0
+EV  GenProp1061;
 //
