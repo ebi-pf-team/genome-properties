@@ -74,4 +74,34 @@ SN  13
 ID  Memo/AMMECR1/rSAM family trio system
 RQ  0
 EV  GenProp1063;
+--
+SN  14
+ID  Verrucomicrobium/Chthoniobacter four-plus-PEP_CTERM cassette
+RQ  0
+EV  GenProp0663;
+--
+SN  15
+ID  Acetyltransferase/synthase/peptidase cassette
+RQ  0
+EV  GenProp0668;
+--
+SN  16
+ID  Uptake/catabolism system KPN_01854/KPN_01858
+RQ  0
+EV  GenProp0935;
+--
+SN  17
+ID  RSAM-containing biosynthetic cluster, MSMEG_0568 system
+RQ  0
+EV  GenProp0939;
+--
+SN  18
+ID  Radical SAM/lipoprotein system
+RQ  0
+EV  GenProp0981;
+--
+SN  19
+ID  Mobile element associated three-Cys-motif pair
+RQ  0
+EV  GenProp1100;
 //
