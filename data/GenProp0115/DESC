@@ -65,4 +65,9 @@ SN  12
 ID  8-oxoguanine DNA repair
 RQ  0
 EV  GenProp1099;
+--
+SN  13
+ID  Radical SAM/uracil DNA glycosylase system
+RQ  0
+EV  GenProp0903;
 //
