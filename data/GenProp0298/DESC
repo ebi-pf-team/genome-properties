@@ -10,4 +10,14 @@ SN  1
 ID  Pyruvate fermentation to acetoin
 RQ  0
 EV  GenProp0272;
+--
+SN  2
+ID  Butyryl-CoA to butyrate, phosphotransbutyrylase pathway
+RQ  0
+EV  GenProp0910;
+--
+SN  3
+ID  Butyryl-CoA to butyrate, acetate CoA-transferase pathway
+RQ  0
+EV  GenProp0911;
 //
