@@ -67,4 +67,9 @@ SN  12
 ID  GDP-4-keto-6-deoxymannose biosynthesis from beta-D-fructose-6-phosphate
 RQ  0
 EV  GenProp0930;
+--
+SN  13
+ID  Biosynthesis of undecaprenyl phosphate (Und-P)
+RQ  0
+EV  GenProp0971;
 //
