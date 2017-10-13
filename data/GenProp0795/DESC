@@ -77,4 +77,9 @@ SN  14
 ID  Biosynthesis of UDP-N-acetyl-D-mannosamine (UDP-ManNAc)
 RQ  0
 EV  GenProp0975;
+--
+SN  15
+ID  GDP-D-mannose biosynthesis from b-D-fructose-6-phosphate
+RQ  0
+EV  GenProp1017;
 //
