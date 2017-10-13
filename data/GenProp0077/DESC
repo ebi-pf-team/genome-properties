@@ -199,4 +199,9 @@ SN  38
 ID  2,3-dihydroxybenzoate biosynthesis
 RQ  0
 EV  GenProp1058;
+--
+SN  39
+ID  FxLD lantipeptide system
+RQ  0
+EV  GenProp1069;
 //
