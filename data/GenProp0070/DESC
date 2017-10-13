@@ -135,4 +135,9 @@ SN  26
 ID  Photosynthesis
 RQ  0
 EV  GenProp0027;
+--
+SN  27
+ID  Methanogenesis
+RQ  0
+EV  GenProp0011;
 //
