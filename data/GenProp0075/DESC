@@ -76,4 +76,9 @@ SN  14
 ID  Pyruvate formate-lyase system
 RQ  0
 EV  GenProp0943;
+--
+SN  15
+ID  Elongation factor P beta-lysylation
+RQ  0
+EV  GenProp0988;
 //
