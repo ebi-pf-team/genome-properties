@@ -190,4 +190,9 @@ SN  37
 ID  Protein sorting system, Synergist-CTERM/unknown of Synergistetes
 RQ  0
 EV  GenProp1103;
+--
+SN  38
+ID  Accessory Sec system, Actinobacterial type
+RQ  0
+EV  GenProp1010;
 //
