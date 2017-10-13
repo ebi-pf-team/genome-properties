@@ -20,4 +20,9 @@ SN  3
 ID  DNA sulfur modification system dnd
 RQ  0
 EV  GenProp0701;
+--
+SN  4
+ID  Abortive infection proteins
+RQ  0
+EV  GenProp1093;
 //
