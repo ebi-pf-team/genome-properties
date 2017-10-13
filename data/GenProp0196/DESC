@@ -52,4 +52,9 @@ SN  9
 ID  Methionine salvage from methylthioadenosine
 RQ  0
 EV  GenProp0729;
+--
+SN  10
+ID  Dimethyl sulphone utilization (aerobic)
+RQ  0
+EV  GenProp0934;
 //
