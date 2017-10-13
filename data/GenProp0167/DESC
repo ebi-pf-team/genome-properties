@@ -35,4 +35,9 @@ SN  6
 ID  C-type cytochrome biogenesis, system II
 RQ  0
 EV  GenProp0680;
+--
+SN  7
+ID  Spore formation
+RQ  0
+EV  GenProp0049;
 //
