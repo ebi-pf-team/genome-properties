@@ -7,9 +7,9 @@ CC  This category includes restriction systems, CRISPR, abortive infection
 CC  systems, and other defenses against invasive nucleic acids.
 --
 SN  1
-ID  CRISPR region
+ID  CRISPR systems
 RQ  0
-EV  GenProp0021;
+EV  GenProp1106;
 --
 SN  2
 ID  Restriction enzyme system, type I
