@@ -130,4 +130,9 @@ SN  25
 ID  2-oxoacid:acceptor oxidoreductase, 2 subunit form
 RQ  0
 EV  GenProp0842;
+--
+SN  26
+ID  Photosynthesis
+RQ  0
+EV  GenProp0027;
 //
