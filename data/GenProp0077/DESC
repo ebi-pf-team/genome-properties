@@ -184,4 +184,9 @@ SN  35
 ID  Biosynthesis of Und-PP-GlcNAc
 RQ  0
 EV  GenProp0970;
+--
+SN  36
+ID  Radical SAM maturase system, methanogen
+RQ  0
+EV  GenProp0992;
 //
