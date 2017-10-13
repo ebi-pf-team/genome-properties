@@ -72,4 +72,9 @@ SN  13
 ID  Biosynthesis of undecaprenyl phosphate (Und-P)
 RQ  0
 EV  GenProp0971;
+--
+SN  14
+ID  Biosynthesis of UDP-N-acetyl-D-mannosamine (UDP-ManNAc)
+RQ  0
+EV  GenProp0975;
 //
