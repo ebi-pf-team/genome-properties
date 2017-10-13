@@ -189,4 +189,14 @@ SN  36
 ID  Radical SAM maturase system, methanogen
 RQ  0
 EV  GenProp0992;
+--
+SN  37
+ID  Nodulation factor production
+RQ  0
+EV  GenProp1026;
+--
+SN  38
+ID  2,3-dihydroxybenzoate biosynthesis
+RQ  0
+EV  GenProp1058;
 //
