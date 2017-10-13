@@ -50,4 +50,9 @@ SN  9
 ID  Protein sorting system, proteobacterial dedicated sortase type
 RQ  0
 EV  GenProp0859;
+--
+SN  10
+ID  Cohesin/dockerin (cellulosome-like) system
+RQ  0
+EV  GenProp0944;
 //
