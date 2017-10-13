@@ -62,4 +62,9 @@ SN  11
 ID  dTDP-4-dehydro-6-deoxy-alpha-D-glucose biosynthesis from glucose-1-phosphate
 RQ  0
 EV  GenProp0950
+--
+SN  12
+ID  GDP-4-keto-6-deoxymannose biosynthesis from beta-D-fructose-6-phosphate
+RQ  0
+EV  GenProp0930;
 //
