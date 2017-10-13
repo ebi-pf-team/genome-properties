@@ -214,4 +214,9 @@ SN  41
 ID  Pyranoside core peptidyl nucleoside antibiotic biosynthesis
 RQ  0
 EV  GenProp1085;
+--
+SN  42
+ID  2,3-diaminopropionic acid biosynthesis
+RQ  0
+EV  GenProp0908;
 //
