@@ -219,4 +219,9 @@ SN  42
 ID  2,3-diaminopropionic acid biosynthesis
 RQ  0
 EV  GenProp0908;
+--
+SN  43
+ID  Acetate production from acetylphosphate
+RQ  0
+EV  GenProp0754;
 //
