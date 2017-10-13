@@ -56,12 +56,12 @@ EV  GenProp0811;
 SN  10
 ID  dTDP-4-acetamido-4,6-dideoxy-D-galactose (dTDP-Fuc4NAc) biosynthesis
 RQ  0
-EV  GenProp0972
+EV  GenProp0972;
 --
 SN  11
 ID  dTDP-4-dehydro-6-deoxy-alpha-D-glucose biosynthesis from glucose-1-phosphate
 RQ  0
-EV  GenProp0950
+EV  GenProp0950;
 --
 SN  12
 ID  GDP-4-keto-6-deoxymannose biosynthesis from beta-D-fructose-6-phosphate
