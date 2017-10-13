@@ -59,4 +59,9 @@ SN  11
 ID  Ferrous iron transport Feo system
 RQ  0
 EV  GenProp1075;
+--
+SN  12
+ID  Lpt lipopolysaccharide export transenvelope protein complex
+RQ  0
+EV  GenProp1079;
 //
