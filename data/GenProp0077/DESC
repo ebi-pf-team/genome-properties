@@ -204,4 +204,14 @@ SN  39
 ID  FxLD lantipeptide system
 RQ  0
 EV  GenProp1069;
+--
+SN  40
+ID  Protein O-heptosyltransferase with autotransporter target
+RQ  0
+EV  GenProp1080;
+--
+SN  41
+ID  Pyranoside core peptidyl nucleoside antibiotic biosynthesis
+RQ  0
+EV  GenProp1085;
 //
