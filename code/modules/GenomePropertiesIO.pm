@@ -387,7 +387,7 @@ sub _checkGO {
  		$ua->timeout(10);
  		$ua->env_proxy;
 
- 		my $response = $ua->get("http://www.ebi.ac.uk/ols/api/ontologies/go/terms?obo_id=$go"); 
+ 		my $response = $ua->get("https://www.ebi.ac.uk/ols/api/ontologies/go/terms?obo_id=$go"); 
 
 		if ($response->is_success) {
   		$options->{goterms}->{$go}++
