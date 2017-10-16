@@ -54,56 +54,56 @@ CC  the biosynthetic genes.
 --
 SN  1
 ID  Cellulose synthase, catalytic subunit CelA
-DN  Cellulose synthase, catalytic subunit CelA/CelA
+DN  Cellulose synthase, catalytic subunit CelA
 RQ  1
 EV  IPR003919; TIGR03030; sufficient;
 TG  GO:0030244;
 --
 SN  2
 ID  Cellulose synthase, regulatory subunit CelB
-DN  Cellulose synthase, regulatory subunit CelB/CelB
+DN  Cellulose synthase, regulatory subunit CelB
 RQ  1
 EV  IPR018513; PF03170; sufficient;
 TG  GO:0030244;
 --
 SN  3
 ID  Cellulose biosynthesis protein BcsE/YhjS
-DN  Cellulose biosynthesis protein BcsE/YhjS/CelBcsE
+DN  Cellulose biosynthesis protein BcsE/YhjS
 RQ  0
 EV  IPR017745; TIGR03369;
 TG  GO:0030244;
 --
 SN  4
 ID  Cellulose biosynthesis operon protein BcsF/YhjT
-DN  Cellulose biosynthesis operon protein BcsF/YhjT/CelBcsF
+DN  Cellulose biosynthesis operon protein BcsF/YhjT
 RQ  0
 EV  IPR019995; TIGR03493;
 TG  GO:0030244;
 --
 SN  5
 ID  Cellulose biosynthesis protein BcsG/YhjU
-DN  Cellulose biosynthesis protein BcsG/YhjU/CelBcsG
+DN  Cellulose biosynthesis protein BcsG/YhjU
 RQ  0
 EV  IPR017744; TIGR03368;
 TG  GO:0030244;
 --
 SN  6
 ID  Cellulose synthase operon protein C
-DN  Cellulose synthase operon protein C/CelC
+DN  Cellulose synthase operon protein C
 RQ  1
 EV  IPR008410; PF05420; sufficient;
 TG  GO:0030244;
 --
 SN  7
 ID  Cellulose synthase operon protein YhjQ
-DN  Cellulose synthase operon protein YhjQ/CelYhjQ
+DN  Cellulose synthase operon protein YhjQ
 RQ  0
 EV  IPR017746; TIGR03371;
 TG  GO:0030244;
 --
 SN  8
 ID  Clustered endoglucanase (cellulase?)
-DN  Clustered endoglucanase (cellulase?)/endoglu
+DN  Clustered endoglucanase (cellulase?)
 RQ  0
 EV  IPR002037; PF01270;
 TG  GO:0030244;
