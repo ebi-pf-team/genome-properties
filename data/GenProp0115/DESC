@@ -21,11 +21,6 @@ ID  RecBCD pathway
 RQ  0
 EV  GenProp0216;
 --
-SN  4
-ID  Excision repair
-RQ  0
-EV  GenProp0227;
---
 SN  5
 ID  Direct repair
 RQ  0
