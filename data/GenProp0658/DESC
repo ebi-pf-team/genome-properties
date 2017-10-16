@@ -105,6 +105,6 @@ SN  8
 ID  Clustered endoglucanase (cellulase?)
 DN  Clustered endoglucanase (cellulase?)/endoglu
 RQ  0
-EV  IPRXXXX; PF01270;
+EV  IPR002037; PF01270;
 TG  GO:0030244;
 //
