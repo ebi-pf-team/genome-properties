@@ -55,4 +55,9 @@ SN  10
 ID  Poly-beta-1,6 N-acetyl-D-glucosamine system, PgaABCD type
 RQ  0
 EV  GenProp0907;
+--
+SN  11
+ID  Cellulose biosynthesis
+RQ  0
+EV  GenProp0658;
 //
