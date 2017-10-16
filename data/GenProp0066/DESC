@@ -51,4 +51,9 @@ SN  9
 ID  Addiction module, RelE-RelB class
 RQ  0
 EV  GenProp0324;
+--
+SN  10
+ID  Viral protein sets
+RQ  0
+EV  GenProp1107;
 //
