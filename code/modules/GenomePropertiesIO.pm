@@ -284,7 +284,6 @@ sub _checkTypeAgainstStep {
   my ($prop, $errors, $errorMsg) = @_;
 
   my $noSteps = scalar(@{$prop->get_steps});
-<<<<<<< HEAD
   # Thes should have all steps as GP
 
   if( $prop->type eq 'CATEGORY' ){
@@ -305,7 +304,8 @@ sub _checkTypeAgainstStep {
       $$errorMsg .= "Got type ".$prop->type." but this should have all Genome Property steps\n";
     }
   }
-
+}
+}
   if($prop->type eq 'GUILD' or $prop->type eq 'SYSTEM' or $prop->type eq 'CATEGORY' 
         or $prop->type eq 'PATHWAY' or $prop->type eq 'METAPATH'){
     if($noSteps == 0){
