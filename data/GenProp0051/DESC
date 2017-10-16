@@ -64,6 +64,7 @@ EV  IPR005848; TIGR01792; sufficient;
 --
 SN  5
 ID  Alpha-subunit, N-terminal domain
+DN  Urease alpha-subunit, N-terminal domain
 RQ  1
 EV  IPR011612; PF00449; sufficient;
 TG  GO:0019627;
