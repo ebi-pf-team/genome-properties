@@ -386,15 +386,17 @@ sub _checkGO {
    	my $ua = LWP::UserAgent->new;
  		$ua->timeout(10);
  		$ua->env_proxy;
-
+    $ua->ssl_opts( 'verify_hostname' => 0 );
  		my $response = $ua->get("https://www.ebi.ac.uk/ols/api/ontologies/go/terms?obo_id=$go"); 
 
 		if ($response->is_success) {
   		$options->{goterms}->{$go}++
  		} else {
+        
      	$$errors++;
 			$$errorMsg .= "Failed to find the GO term $go\n";
       # $response->status_line;
+      $$errorMsg .= $response->status_line;
  		} 
   }
 }
