@@ -40,7 +40,7 @@ SN  3
 ID  Complement factor D
 DN  Complement factor D (EC:3.4.21.46)
 RQ  1
-EV  -; PTHR43890:SF17; sufficient;
+EV  IPR037561; PTHR43890:SF17; sufficient;
 --
 SN  4
 ID  Complement activation, common pathway 2
