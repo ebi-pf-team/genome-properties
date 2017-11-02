@@ -25,7 +25,7 @@ SN  1
 ID  Complement C5
 DN  Complement C5
 RQ  1
-EV  -; PTHR11412:SF83; sufficient;
+EV  IPR037562; PTHR11412:SF83; sufficient;
 --
 SN  2
 ID  Complement C6
