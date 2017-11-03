@@ -31,7 +31,7 @@ SN  2
 ID  Complement C4-A
 DN  Complement C4-A
 RQ  1
-EV  -; PTHR11412:SF134; sufficient;
+EV  IPR037569; PTHR11412:SF134; sufficient;
 --
 SN  3
 ID  Complement C4-B
