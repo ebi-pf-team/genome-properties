@@ -37,7 +37,7 @@ SN  3
 ID  Mannan-binding lectin serine protease 2
 DN  Mannan-binding lectin serine protease 2 (EC:3.4.21.104)
 RQ  1
-EV  -; PTHR24255:SF10; sufficient;
+EV  IPR037571; PTHR24255:SF10; sufficient;
 --
 SN  4
 ID  Complement activation, common pathway 1
