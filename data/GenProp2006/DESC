@@ -25,7 +25,7 @@ SN  1
 ID  Mannose-binding protein C
 DN  Mannose-binding protein C
 RQ  1
-EV  -; PTHR24020:SF0; sufficient;
+EV  IPR037570; PTHR24020:SF0; sufficient;
 --
 SN  2
 ID  Mannan-binding lectin serine protease 1
