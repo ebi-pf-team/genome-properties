@@ -39,6 +39,6 @@ TG  GO:0005577;
 SN  3
 ID  Fibrinogen gamma chain  
 RQ  0
-EV  -; PTHR19143:SF338; sufficient;
+EV  IPR037581; PTHR19143:SF338; sufficient;
 TG  GO:0005577;
 //
