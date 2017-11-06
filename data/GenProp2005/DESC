@@ -25,13 +25,13 @@ SN  1
 ID  Complement C1q subcomponent subunit A
 DN  Complement C1q subcomponent subunit A
 RQ  1
-EV  -; PTHR45066; sufficient;
+EV  IPR037572; PTHR45066; sufficient;
 --
 SN  2
 ID  Complement C1q subcomponent subunit B
 DN  Complement C1q subcomponent subunit B
 RQ  1
-EV  -; PTHR44403:SF2; sufficient;
+EV  IPR037573; PTHR44403:SF2; sufficient;
 --
 SN  3
 ID  Complement C1q subcomponent subunit C
