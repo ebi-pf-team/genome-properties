@@ -33,6 +33,6 @@ SN  3
 ID  GATOR complex protein NPRL3
 DN  GATOR complex protein NPRL3/3
 RQ  1
-EV  IPR009348; PF06218; sufficient;
+EV  IPR005365; PF03666; sufficient;
 TG  GO:0005096;
 //
