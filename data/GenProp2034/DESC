@@ -40,7 +40,7 @@ SN  1
 ID  Eukaryotic initiation factor 4A
 DN  Eukaryotic initiation factor 4A (EC:3.6.4.13)
 RQ  1
-EV  -; PTHR24031:SF226; sufficient;
+EV  IPR037583; PTHR24031:SF226; sufficient;
 TG  GO:0004004;
 --
 SN  2
