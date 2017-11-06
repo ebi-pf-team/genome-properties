@@ -47,14 +47,14 @@ SN  2
 ID  Eukaryotic translation initiation factor 4 gamma 1
 DN  Eukaryotic translation initiation factor 4 gamma 1
 RQ  1
-EV  -; PTHR23253:SF10; sufficient;
+EV  IPR037584; PTHR23253:SF10; sufficient;
 TG  GO:0008190;
 --
 SN  3
 ID  Eukaryotic translation initiation factor 4 gamma 3
 DN  Eukaryotic translation initiation factor 4 gamma 3
 RQ  1
-EV  -; PTHR23253:SF23; sufficient;
+EV  IPR037585; PTHR23253:SF23; sufficient;
 TG  GO:0000339;
 --
 SN  4
