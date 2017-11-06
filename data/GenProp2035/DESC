@@ -35,7 +35,7 @@ SN  2
 ID  Eukaryotic translation initiation factor 4E-binding protein 1
 DN  Eukaryotic translation initiation factor 4E-binding protein 1 /2
 RQ  1
-EV  -; PTHR12669:SF14; sufficient;
+EV  IPR037582; PTHR12669:SF14; sufficient;
 TG  GO:0008190;
 --
 SN  3
