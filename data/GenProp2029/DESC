@@ -19,7 +19,7 @@ SN  1
 ID  GATOR complex protein WDR24
 DN  GATOR complex protein WDR24/1
 RQ  1
-EV  -; PTHR22850:SF131; sufficient;
+EV  IPR037590; PTHR22850:SF131; sufficient;
 TG  GO:0032008;
 --
 SN  2
