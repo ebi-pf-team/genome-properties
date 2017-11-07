@@ -33,7 +33,7 @@ SN  3
 ID  GATOR complex protein MIOS
 DN  GATOR complex protein MIOS /3
 RQ  1
-EV  -; PTHR16453:SF9; sufficient;
+EV  IPR037593; PTHR16453:SF9; sufficient;
 TG  GO:0032008;
 --
 SN  4
