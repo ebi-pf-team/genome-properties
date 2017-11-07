@@ -26,7 +26,7 @@ SN  2
 ID  GATOR complex protein WDR59
 DN  GATOR complex protein WDR59 /2
 RQ  1
-EV  -; PTHR22850:SF116; sufficient;
+EV  IPR037591; PTHR22850:SF116; sufficient;
 TG  GO:0032008;
 --
 SN  3
