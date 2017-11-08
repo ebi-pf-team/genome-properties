@@ -7,8 +7,8 @@ CC  Processes involved in the handling and processing of small, primarily
 CC  1-carbon compounds. This category includes carbon fixation,
 CC  C1-compound interconversion and excretion processes.
 --
-SN  1
-ID  Carbon fixation
+SN  2
+ID  H4MPT-linked C1 transfer pathway
 RQ  0
-EV  GenProp0865;
+EV  GenProp0671;
 //

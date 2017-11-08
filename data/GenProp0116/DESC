@@ -18,4 +18,39 @@ SN  2
 ID  RuvABC Holliday junction complex
 RQ  0
 EV  GenProp0198;
+--
+SN  3
+ID  DNA polymerase III, bacterial
+RQ  0
+EV  GenProp0263;
+--
+SN  4
+ID  Restriction enzyme system, type I
+RQ  0
+EV  GenProp0455;
+--
+SN  5
+ID  RepABC-type alpha-proteobacterial replicon(s)
+RQ  0
+EV  GenProp0487;
+--
+SN  6
+ID  DNA sulfur modification system dnd
+RQ  0
+EV  GenProp0701;
+--
+SN  7
+ID  DNA ligase/helicase system
+RQ  0
+EV  GenProp0977;
+--
+SN  8
+ID  Replication restart, PriA/PriB primosome pathway
+RQ  0
+EV  GenProp1081;
+--
+SN  9
+ID  Exodeoxyribonuclease VII
+RQ  0
+EV  GenProp1095;
 //

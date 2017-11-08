@@ -26,4 +26,9 @@ SN  3
 ID  Glycogen system
 RQ  0
 EV  GenProp0168;
+--
+SN  4
+ID  Polyphosphate kinase/exopolyphosphatase system
+RQ  0
+EV  GenProp0840;
 //

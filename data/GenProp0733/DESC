@@ -10,4 +10,9 @@ SN  1
 ID  Reduction of oxidized methionine
 RQ  0
 EV  GenProp0182;
+--
+SN  2
+ID  Methionine salvage from methylthioadenosine
+RQ  0
+EV  GenProp0729;
 //

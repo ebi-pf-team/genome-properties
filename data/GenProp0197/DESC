@@ -19,4 +19,59 @@ SN  3
 ID  tRNA-Gln direct aminoacylation
 RQ  0
 EV  GenProp0189;
+--
+SN  4
+ID  tRNA aminoacylation
+RQ  0
+EV  GenProp0258;
+--
+SN  5
+ID  tRNA-Asn direct aminoacylation
+RQ  0
+EV  GenProp0259;
+--
+SN  6
+ID  Cysteine biosynthesis, tRNA-dependent
+RQ  0
+EV  GenProp0304;
+--
+SN  7
+ID  Sigma-54 (RpoN) systems
+RQ  0
+EV  GenProp0634;
+--
+SN  8
+ID  Selenouridine-containing tRNA
+RQ  0
+EV  GenProp0692;
+--
+SN  9
+ID  tRNA U34 carboxymethylaminomethyl modification
+RQ  0
+EV  GenProp0704;
+--
+SN  10
+ID  Translation initiation, bacterial
+RQ  0
+EV  GenProp0740;
+--
+SN  11
+ID  Translation elongation, bacterial
+RQ  0
+EV  GenProp0741;
+--
+SN  12
+ID  Translation termination, bacterial
+RQ  0
+EV  GenProp0746;
+--
+SN  13
+ID  Rho-dependent termination
+RQ  0
+EV  GenProp0812;
+--
+SN  14
+ID  Ribosome biogenesis proteins, bacteria
+RQ  0
+EV  GenProp0802;
 //

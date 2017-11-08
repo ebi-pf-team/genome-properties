@@ -11,4 +11,49 @@ SN  1
 ID  Inteins
 RQ  0
 EV  GenProp0010;
+--
+SN  2
+ID  Phage: major features
+RQ  0
+EV  GenProp0208;
+--
+SN  3
+ID  Integron
+RQ  0
+EV  GenProp0226;
+--
+SN  4
+ID  Toxin-antitoxin system, type II
+RQ  0
+EV  GenProp0321;
+--
+SN  5
+ID  Protein-coding palindromic elements
+RQ  0
+EV  GenProp0476;
+--
+SN  6
+ID  Toxin-antitoxin system, type I
+RQ  0
+EV  GenProp1091;
+--
+SN  7
+ID  Toxin-antitoxin system, type III
+RQ  0
+EV  GenProp1092;
+--
+SN  8
+ID  Addiction module, Hig class
+RQ  0
+EV  GenProp0322;
+--
+SN  9
+ID  Addiction module, RelE-RelB class
+RQ  0
+EV  GenProp0324;
+--
+SN  10
+ID  Viral protein sets
+RQ  0
+EV  GenProp1107;
 //

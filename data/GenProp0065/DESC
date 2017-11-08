@@ -19,11 +19,6 @@ ID  Selfish genetic elements
 RQ  0
 EV  GenProp0066;
 --
-SN  4
-ID  Quantitative content
-RQ  0
-EV  GenProp0067;
---
 SN  6
 ID  Cell surface component
 RQ  0

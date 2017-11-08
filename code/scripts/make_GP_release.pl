@@ -91,10 +91,10 @@ chdir("$scratch/genome-properties");
 system("git tag -f -a $version -m \"Genome Properties release $version\"");
 
 #Release notes?
-system("sphinx-build -b latex  $docsdir $scratch/latex");
-chdir("$scratch/latex");
-system("pdflatex GenomeProperties  > GenomeProperties.pdf");
-system("cp GenomeProperties.pdf $releaseDir/$version/."); 
+#system("sphinx-build -b latex  $docsdir $scratch/latex");
+#chdir("$scratch/latex");
+#system("pdflatex GenomeProperties  > GenomeProperties.pdf");
+#system("cp GenomeProperties.pdf $releaseDir/$version/."); 
 #open GenomeProperties.pdf 
 
 

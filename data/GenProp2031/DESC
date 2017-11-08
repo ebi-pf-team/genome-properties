@@ -33,7 +33,7 @@ SN  2
 ID  Ragulator complex protein LAMTOR2
 DN  Ragulator complex protein LAMTOR2 /2
 RQ  1
-EV  -; PTHR13323; sufficient;
+EV  IPR037587; PTHR13323; sufficient;
 TG  GO:0032008;
 --
 SN  3

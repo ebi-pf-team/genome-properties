@@ -70,7 +70,7 @@ SN  3
 ID  Target of rapamycin complex subunit LST8
 DN  Target of rapamycin complex subunit LST8 /3
 RQ  1
-EV  -; PTHR19842; sufficient;
+EV  IPR037588; PTHR19842; sufficient;
 TG  GO:0032008;
 --
 SN  4
@@ -84,6 +84,6 @@ SN  5
 ID  DEP domain-containing mTOR-interacting protein
 DN  DEP domain-containing mTOR-interacting protein /5
 RQ  1
-EV  -; PTHR22829:SF18; sufficient;
+EV  IPR037589; PTHR22829:SF18; sufficient;
 TG  GO:0032007;
 //

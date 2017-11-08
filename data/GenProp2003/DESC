@@ -51,7 +51,7 @@ SN  4
 ID  von Willebrand factor
 DN  von Willebrand factor
 RQ  1
-EV  -; PTHR11339:SF361; sufficient;
+EV  IPR037578; PTHR11339:SF361; sufficient;
 TG  GO:0007596;
 --
 SN  5

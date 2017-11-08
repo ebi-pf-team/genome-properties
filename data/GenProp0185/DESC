@@ -15,4 +15,24 @@ SN  2
 ID  Pyrimidine (uridine-5'-phosphate) de novo biosynthesis
 RQ  0
 EV  GenProp0187;
+--
+SN  3
+ID  Ribulose monophosphate pathway
+RQ  0
+EV  GenProp0673;
+--
+SN  4
+ID  Xanthine utilization as a source of guanine-monophosphate (GMP)
+RQ  0
+EV  GenProp0696;
+--
+SN  5
+ID  Guanine monophosphate (GMP) biosynthesis from inosine monophosphate (IMP)
+RQ  0
+EV  GenProp0697;
+--
+SN  6
+ID  Adenosine monophosphate (AMP) biosynthesis from inosine monophosphate (IMP)
+RQ  0
+EV  GenProp0747;
 //

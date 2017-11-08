@@ -47,7 +47,7 @@ SN  3
 ID  GTP-binding protein Rheb
 DN  GTP-binding protein Rheb /3
 RQ  1
-EV  -; PTHR24070:SF264; sufficient;
+EV  IPR037586; PTHR24070:SF264; sufficient;
 TG  GO:0005525;
 --
 SN  4

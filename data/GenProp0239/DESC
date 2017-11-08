@@ -9,4 +9,9 @@ CC  methylmalonyl-CoA mutase pathway, alpha-hydroxyglutaric acid pathway,
 CC  and methylcitric acid cycle pathway.
 **  methylcitric acid has a variant in S. typhimurium: PduW/Pta parallel to
 **  PrpE.
+--
+SN  1
+ID  Propionyl-CoA catabolism via methylcitric acid
+RQ  0
+EV  GenProp0240;
 //

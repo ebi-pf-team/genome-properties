@@ -1,0 +1,38 @@
+AC  GenProp1107
+DE  Viral protein sets
+TP  CATEGORY
+AU  Richardson L
+TH  0
+CC  This category contains genome properties that describe characteristic sets 
+CC  of proteins found in specific classes of virus.
+--
+SN  1
+ID  Orbivirus protein set
+RQ  0
+EV  GenProp1006;
+--
+SN  2
+ID  Orthobunyavirus protein set
+RQ  0
+EV  GenProp1007;
+--
+SN  3
+ID  Coronavirus protein set
+RQ  0
+EV  GenProp1009;
+--
+SN  4
+ID  Influenzae A virus protein set
+RQ  0
+EV  GenProp1012;
+--
+SN  5
+ID  Influenzae B virus protein set
+RQ  0
+EV  GenProp1013;
+--
+SN  6
+ID  Seadornavirus protein set
+RQ  0
+EV  GenProp1016;
+//

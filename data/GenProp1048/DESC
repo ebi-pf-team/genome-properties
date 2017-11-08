@@ -8,4 +8,24 @@ CC  coordinate behavior between cells. These include quorum-sensing,
 CC  biofilm formation, and various other signal-mediated interactions.
 **  But let us exclude mating type behaviors, mostly. Contact mediated and
 **  signal-mediated both?
+--
+SN  1
+ID  Exopolysaccharide biosynthesis, exosortase A-associated
+RQ  0
+EV  GenProp0652;
+--
+SN  2
+ID  Exopolysaccharide biosynthesis, exosortase B-associated
+RQ  0
+EV  GenProp0655;
+--
+SN  3
+ID  Quorum-sensing, autoinducer-2 system
+RQ  0
+EV  GenProp0757;
+--
+SN  4
+ID  Quorum-sensing system, cyclic peptide-mediated
+RQ  0
+EV  GenProp1011;
 //

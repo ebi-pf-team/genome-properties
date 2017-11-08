@@ -13,13 +13,13 @@ $options->{status} = "checked_and_public";
 
 my $gp = GenomeProperties->new;
 
+#Read the categories file.
 open(C, "<", "category_relationships") or die "Could not open category_relationships";
 while(<C>){
   my($parent, $child) = split(/\s+/, $_);
   push(@{$cats{$parent}}, $child);
 }
 
-#Read the parent file in.
 foreach my $dir (sort keys %cats){
 	print "$dir\n";
   next if(-e "$dir/done.cat");
@@ -49,12 +49,27 @@ foreach my $dir (sort keys %cats){
 
   my $skipped;
   my @desc = read_file("$dir/DESC");
+  
+  #Get a list of all of the previously see steps.
+  my %seen;
+  foreach my $l (@desc){
+    if($l =~ /EV\s+(GenProp\d+)/){
+      $seen{$1}++;
+    }elsif($l =~ /^SN/){
+      $stepNumber++;
+    }
+  }
+
+
   foreach my $child (@{$cats{$dir}}){
+    next if($seen{$child});
+
     if(defined($options->{status}) and ! GenomePropertiesIO::_checkStatus($child, $options)){
       $skipped .= "$child ";
       next;
     }
-    #read in the child ste
+    print "Adding to $child to $dir\n";
+    #read in the child step
     GenomePropertiesIO::parseDESC("$child/DESC", $gp, $options);
     my $cgp = $gp->get_def($child);
     my $desc = $cgp->name;
@@ -74,7 +89,6 @@ foreach my $dir (sort keys %cats){
     $index++;
     $desc[$index] = "//\n"
   }
-  
   #Now write out the DESC.
   write_file("$dir/DESC", @desc);
   open(F,">", "$dir/done.cat");

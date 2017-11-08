@@ -10,4 +10,49 @@ SN  1
 ID  Lipopolysaccharide biosynthesis
 RQ  0
 EV  GenProp0297;
+--
+SN  2
+ID  Protein sorting system, PEP-CTERM/exosortase (generic)
+RQ  0
+EV  GenProp0326;
+--
+SN  3
+ID  Protein sorting system, sortase type, LPXTG/SrtA class
+RQ  0
+EV  GenProp0626;
+--
+SN  4
+ID  Protein sorting system, sortase type, SrtB class
+RQ  0
+EV  GenProp0664;
+--
+SN  5
+ID  Outer membrane protein assembly complex
+RQ  0
+EV  GenProp0725;
+--
+SN  6
+ID  S-layer homology domain-mediated cell wall binding
+RQ  0
+EV  GenProp0811;
+--
+SN  7
+ID  Exosporium
+RQ  0
+EV  GenProp0847;
+--
+SN  8
+ID  Anchored repeat-class ABC transporter, P. acnes type
+RQ  0
+EV  GenProp0857;
+--
+SN  9
+ID  Protein sorting system, proteobacterial dedicated sortase type
+RQ  0
+EV  GenProp0859;
+--
+SN  10
+ID  Cohesin/dockerin (cellulosome-like) system
+RQ  0
+EV  GenProp0944;
 //

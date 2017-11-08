@@ -10,8 +10,213 @@ CC  cyclization, epimerization and rearrangement reactions. Common
 CC  functions for such compounds are as siderophores and toxins
 CC  (antibiotics). Most often these compounds are exported from the cell.
 --
-SN  1
-ID  Siderophore biosynthesis
+SN  2
+ID  Phosphonoacetaldehyde biosynthesis from phosphoenolpyruvate
 RQ  0
-EV  GenProp0770;
+EV  GenProp0724;
+--
+SN  3
+ID  Quorum-sensing, autoinducer-2 system
+RQ  0
+EV  GenProp0757;
+--
+SN  4
+ID  Bacteriocin system, lactococcin 972 group
+RQ  0
+EV  GenProp0809;
+--
+SN  5
+ID  Lantibiotic system, gallidermin/epidermin family
+RQ  0
+EV  GenProp0853;
+--
+SN  6
+ID  Bacteriocin system, NHLP (nif11/nitrile hydratase leader peptide) transport group
+RQ  0
+EV  GenProp0861;
+--
+SN  7
+ID  Post-ribosomal natural product synthesis system, Burkholderia TOMM-type
+RQ  0
+EV  GenProp0901;
+--
+SN  8
+ID  SCIFF/radical SAM Clostridial gene pair
+RQ  0
+EV  GenProp0919;
+--
+SN  9
+ID  Radical SAM Y_X(10)_GDL system
+RQ  0
+EV  GenProp0920;
+--
+SN  10
+ID  Radical SAM pair and His-Xaa-Ser repeats peptide
+RQ  0
+EV  GenProp0921;
+--
+SN  11
+ID  Bacteriocin system, sporulation delay protein group
+RQ  0
+EV  GenProp0936;
+--
+SN  12
+ID  Radical SAM maturase bacteriocin system, CLI_3235 type
+RQ  0
+EV  GenProp0945;
+--
+SN  13
+ID  Radical SAM-cylized peptide, Pep1357C family
+RQ  0
+EV  GenProp0954;
+--
+SN  14
+ID  Modified peptide/radical SAM maturase system, YydFG family
+RQ  0
+EV  GenProp0955;
+--
+SN  15
+ID  Radical SAM maturase/selenobacteriocin system
+RQ  0
+EV  GenProp0956;
+--
+SN  16
+ID  Methanobactin biosynthesis, Mb-OB3b family
+RQ  0
+EV  GenProp0962;
+--
+SN  17
+ID  Radical SAM maturase system, CXXX repeats type
+RQ  0
+EV  GenProp0967;
+--
+SN  18
+ID  Radical SAM maturase system, FibroRumin system
+RQ  0
+EV  GenProp0982;
+--
+SN  19
+ID  Radical SAM maturase system, GG-Bacteroidales group
+RQ  0
+EV  GenProp0984;
+--
+SN  20
+ID  ATP-grasp maturase system, microviridin/marinostatin class
+RQ  0
+EV  GenProp0991;
+--
+SN  21
+ID  ATP-grasp maturase system, uncharacterized
+RQ  0
+EV  GenProp1000;
+--
+SN  22
+ID  Grasp-with-spasm peptide maturase system
+RQ  0
+EV  GenProp1002;
+--
+SN  23
+ID  Cysteine S-glycopeptide biosynthesis, sublancin family
+RQ  0
+EV  GenProp1003;
+--
+SN  24
+ID  Radical SAM/SPASM system GRRM
+RQ  0
+EV  GenProp1037;
+--
+SN  25
+ID  Geopeptide radical SAM/SPASM maturase system
+RQ  0
+EV  GenProp1052;
+--
+SN  26
+ID  Radical SAM/SPASM system Clo7bot
+RQ  0
+EV  GenProp1062;
+--
+SN  27
+ID  Radical SAM/SPASM TIGR04347/TIGR04031 system
+RQ  0
+EV  GenProp1065;
+--
+SN  28
+ID  Sporulation killing factor system
+RQ  0
+EV  GenProp1078;
+--
+SN  29
+ID  Cyanobactin-like ribosomal natural product biosynthesis
+RQ  0
+EV  GenProp1083;
+--
+SN  30
+ID  Enduracididine biosynthesis
+RQ  0
+EV  GenProp1084;
+--
+SN  31
+ID  Radical SAM/SPASM maturase system XYE
+RQ  0
+EV  GenProp1090;
+--
+SN  32
+ID  3-methylarginine biosynthesis
+RQ  0
+EV  GenProp1098;
+--
+SN  33
+ID  D-alanyl-lipoteichoic acid biosynthesis
+RQ  0
+EV  GenProp0958;
+--
+SN  34
+ID  Biosynthesis of UDP-N-acetyl-D-mannosaminuronic acid (UDP-ManNAcA)
+RQ  0
+EV  GenProp0969;
+--
+SN  35
+ID  Biosynthesis of Und-PP-GlcNAc
+RQ  0
+EV  GenProp0970;
+--
+SN  36
+ID  Radical SAM maturase system, methanogen
+RQ  0
+EV  GenProp0992;
+--
+SN  37
+ID  Nodulation factor production
+RQ  0
+EV  GenProp1026;
+--
+SN  38
+ID  2,3-dihydroxybenzoate biosynthesis
+RQ  0
+EV  GenProp1058;
+--
+SN  39
+ID  FxLD lantipeptide system
+RQ  0
+EV  GenProp1069;
+--
+SN  40
+ID  Protein O-heptosyltransferase with autotransporter target
+RQ  0
+EV  GenProp1080;
+--
+SN  41
+ID  Pyranoside core peptidyl nucleoside antibiotic biosynthesis
+RQ  0
+EV  GenProp1085;
+--
+SN  42
+ID  2,3-diaminopropionic acid biosynthesis
+RQ  0
+EV  GenProp0908;
+--
+SN  43
+ID  Acetate production from acetylphosphate
+RQ  0
+EV  GenProp0754;
 //

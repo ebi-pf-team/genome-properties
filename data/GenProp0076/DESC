@@ -15,4 +15,29 @@ SN  2
 ID  RuvABC Holliday junction complex
 RQ  0
 EV  GenProp0198;
+--
+SN  3
+ID  F-type conjugation system
+RQ  0
+EV  GenProp0489;
+--
+SN  4
+ID  Ti-type conjugation system
+RQ  0
+EV  GenProp0490;
+--
+SN  5
+ID  DNA gyrase
+RQ  0
+EV  GenProp0699;
+--
+SN  6
+ID  Integrating conjugative element, PFGI-1 class
+RQ  0
+EV  GenProp0855;
+--
+SN  7
+ID  Conjugative transposon, Bacteroides type
+RQ  0
+EV  GenProp0858;
 //

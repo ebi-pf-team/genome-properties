@@ -14,4 +14,54 @@ SN  2
 ID  Small molecule transport
 RQ  0
 EV  GenProp0180;
+--
+SN  3
+ID  F-type conjugation system
+RQ  0
+EV  GenProp0489;
+--
+SN  4
+ID  Heterocyst-related ABC exporter DevBCA
+RQ  0
+EV  GenProp0649;
+--
+SN  5
+ID  Putative Na:solute symporter two-gene cassette
+RQ  0
+EV  GenProp0821;
+--
+SN  6
+ID  Anchored repeat-class ABC transporter, P. acnes type
+RQ  0
+EV  GenProp0857;
+--
+SN  7
+ID  Alcohol ABC transporter, PedABC-type
+RQ  0
+EV  GenProp0895;
+--
+SN  8
+ID  TonB-dependent nutrient uptake pairs, RagAB/SusCD type
+RQ  0
+EV  GenProp0941;
+--
+SN  9
+ID  Energy-coupling factor transporters
+RQ  0
+EV  GenProp1094;
+--
+SN  10
+ID  Proposed F420-0 transporter
+RQ  0
+EV  GenProp0896;
+--
+SN  11
+ID  Ferrous iron transport Feo system
+RQ  0
+EV  GenProp1075;
+--
+SN  12
+ID  Lpt lipopolysaccharide export transenvelope protein complex
+RQ  0
+EV  GenProp1079;
 //

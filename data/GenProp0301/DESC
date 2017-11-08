@@ -9,4 +9,24 @@ SN  1
 ID  19S proteasome cap
 RQ  0
 EV  GenProp2012;
+--
+SN  2
+ID  ClpXP degradation machine
+RQ  0
+EV  GenProp0251;
+--
+SN  3
+ID  Proteasome-targeting modification by pupylation
+RQ  0
+EV  GenProp0833;
+--
+SN  4
+ID  Proteasome, bacterial
+RQ  0
+EV  GenProp0834;
+--
+SN  5
+ID  ATP-dependent protease HslVU
+RQ  0
+EV  GenProp0835;
 //

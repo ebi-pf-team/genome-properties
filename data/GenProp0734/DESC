@@ -10,4 +10,24 @@ SN  1
 ID  Degradation of tyrosine via homogentisate
 RQ  0
 EV  GenProp0139;
+--
+SN  2
+ID  Arginine catabolism to glutamate via arginine succinyltransferase (AST)
+RQ  0
+EV  GenProp0309;
+--
+SN  3
+ID  Attenuation system: tryptophanase
+RQ  0
+EV  GenProp0456;
+--
+SN  4
+ID  Arginine degradation via citrulline, ATP-generating
+RQ  0
+EV  GenProp0639;
+--
+SN  5
+ID  Tryptophan degradation to anthranilate
+RQ  0
+EV  GenProp0659;
 //

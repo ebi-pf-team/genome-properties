@@ -20,4 +20,24 @@ SN  3
 ID  SMC-ScpA-ScpB complex
 RQ  0
 EV  GenProp0201;
+--
+SN  4
+ID  Gas vesicle
+RQ  0
+EV  GenProp0460;
+--
+SN  5
+ID  C-type cytochrome biogenesis, system I
+RQ  0
+EV  GenProp0678;
+--
+SN  6
+ID  C-type cytochrome biogenesis, system II
+RQ  0
+EV  GenProp0680;
+--
+SN  7
+ID  Spore formation
+RQ  0
+EV  GenProp0049;
 //

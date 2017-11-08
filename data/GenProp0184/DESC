@@ -80,4 +80,94 @@ SN  15
 ID  Menaquinone biosynthesis
 RQ  0
 EV  GenProp0836;
+--
+SN  16
+ID  Uroporhyrinogen III biosynthesis from 5-aminolevulinate
+RQ  0
+EV  GenProp0220;
+--
+SN  17
+ID  Protoporphyrin IX biosynthesis from uroporphyrinogen III
+RQ  0
+EV  GenProp0221;
+--
+SN  18
+ID  Protoheme from protoporphyrin IX
+RQ  0
+EV  GenProp0222;
+--
+SN  19
+ID  Molybdopterin biosynthesis
+RQ  0
+EV  GenProp0466;
+--
+SN  20
+ID  Coenzyme F420 biosynthesis
+RQ  0
+EV  GenProp0791;
+--
+SN  21
+ID  7,8-didemethyl-8-hydroxy-5-deazariboflavin (FO) biosynthesis
+RQ  0
+EV  GenProp0792;
+--
+SN  22
+ID  Ergothioneine biosynthesis
+RQ  0
+EV  GenProp0752;
+--
+SN  23
+ID  Mycothiol biosynthesis
+RQ  0
+EV  GenProp0753;
+--
+SN  24
+ID  Para-aminobenzoic acid (PABA) biosynthesis from chorismate
+RQ  0
+EV  GenProp0759;
+--
+SN  25
+ID  Tryptophan tryptophylquinone modification of methylamine dehydrogenase
+RQ  0
+EV  GenProp0860;
+--
+SN  26
+ID  Pyridoxal phosphate biosynthesis, PdxA/PdxJ pathway
+RQ  0
+EV  GenProp0862;
+--
+SN  27
+ID  Coenzyme M biosynthesis
+RQ  0
+EV  GenProp0891;
+--
+SN  28
+ID  Mycofactocin system
+RQ  0
+EV  GenProp0917;
+--
+SN  29
+ID  Bacillithiol biosynthesis
+RQ  0
+EV  GenProp0927;
+--
+SN  30
+ID  Ovothiol biosynthesis
+RQ  0
+EV  GenProp1064;
+--
+SN  31
+ID  Coenzyme B12 biosynthesis from cob(II)yrinate diamide
+RQ  0
+EV  GenProp0269;
+--
+SN  32
+ID  Cobyrinic acid diamide biosynthesis, anaerobic pathway
+RQ  0
+EV  GenProp0275;
+--
+SN  33
+ID  Cobalt import system (ABC transporter: 3.A.1.18.1)
+RQ  0
+EV  GenProp0277;
 //

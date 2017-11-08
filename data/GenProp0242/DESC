@@ -15,4 +15,19 @@ SN  2
 ID  ATP synthases
 RQ  0
 EV  GenProp0243;
+--
+SN  3
+ID  Phosphonate catabolism
+RQ  0
+EV  GenProp0241;
+--
+SN  4
+ID  Phosphonoacetaldehyde biosynthesis from phosphoenolpyruvate
+RQ  0
+EV  GenProp0724;
+--
+SN  5
+ID  Generic phosphonates utilization
+RQ  0
+EV  GenProp0710;
 //

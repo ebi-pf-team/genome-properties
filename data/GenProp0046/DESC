@@ -18,7 +18,7 @@ CC  eukaryotes while the deoxyxylulose pathway is typical of prokaryotes.
 CC  This property summarizes the states of the two child properties, IPP
 CC  biosynthesis via mevalonate and IPP biosynthesis from deoxyxylulose.
 --
-SN  IPP
+SN  1
 ID  IPP biosynthesis
 RQ  1
 EV  GenProp0047;

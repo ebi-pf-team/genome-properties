@@ -1,0 +1,26 @@
+AC  GenProp0027
+DE  Photosynthesis
+TP  CATEGORY
+AU  Haft DH
+TH  0
+CC  Photosynthesis is defined here as the ability to harness light energy 
+CC  to create new organic compounds from water and CO2. Note that some 
+CC  bacteria perform anoxygenic photosynthesis (either aerobic or 
+CC  anaerobic), an exception to the broadly held view that photosynthesis 
+CC  must convert water and CO2 into oxygen and carbohydrate; this can be 
+CC  achieved by using a H2S rather than H20 as a source of hydrogen, and 
+CC  releasing sulfur or sulfates rather than 02 as waste products. 
+CC  Halobacterium is currently regarded as a photoheterotroph that can 
+CC  harness light for energy for ion pumps but cannnot synthesize new 
+CC  organic compounds from this energy, nor release 02.
+--
+SN  1
+ID  Photosystem II
+RQ  0
+EV  GenProp0661;
+--
+SN  2
+ID  Photosynthetic reaction center, alphaproteobacterial type
+RQ  0
+EV  GenProp0662;
+//

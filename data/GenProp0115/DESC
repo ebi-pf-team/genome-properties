@@ -21,13 +21,43 @@ ID  RecBCD pathway
 RQ  0
 EV  GenProp0216;
 --
-SN  4
-ID  Excision repair
+SN  6
+ID  SOS response
 RQ  0
-EV  GenProp0227;
+EV  GenProp0215;
 --
-SN  5
-ID  Direct repair
+SN  7
+ID  Mismatch repair
 RQ  0
-EV  GenProp0228;
+EV  GenProp0225;
+--
+SN  8
+ID  RecFOR recombination pathway
+RQ  0
+EV  GenProp0491;
+--
+SN  9
+ID  Nonhomologous end-joining, bacterial type
+RQ  0
+EV  GenProp0492;
+--
+SN  10
+ID  AddAB pathway
+RQ  0
+EV  GenProp0493;
+--
+SN  11
+ID  Very short patch repair
+RQ  0
+EV  GenProp0767;
+--
+SN  12
+ID  8-oxoguanine DNA repair
+RQ  0
+EV  GenProp1099;
+--
+SN  13
+ID  Radical SAM/uracil DNA glycosylase system
+RQ  0
+EV  GenProp0903;
 //

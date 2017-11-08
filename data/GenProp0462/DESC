@@ -6,4 +6,9 @@ TH  0
 CC  A change in state or activity of a cell (in terms of movement,
 CC  secretion, enzyme production, gene expression, etc.) as a result of the
 CC  perception of a stress condition.
+--
+SN  1
+ID  Phage shock protein regulon
+RQ  0
+EV  GenProp0648;
 //

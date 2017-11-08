@@ -9,4 +9,99 @@ CC  reasonable hypothesis is that these genes act in a related biological
 CC  process. When none of the genes in such a syntenic grouping have a
 CC  characterized biological process they may still be used to create a
 CC  Genome Property and will be children of this category.
+--
+SN  1
+ID  Sporadically distributed four-gene operon
+RQ  0
+EV  GenProp0470;
+--
+SN  2
+ID  Uncharacterized gene pair TIGR02683/TIGR02684
+RQ  0
+EV  GenProp0471;
+--
+SN  3
+ID  Uncharacterized gene pair TIGR02687/TIGR02688
+RQ  0
+EV  GenProp0472;
+--
+SN  4
+ID  Peptide chain release operon, RctB-like/PrfH
+RQ  0
+EV  GenProp0665;
+--
+SN  5
+ID  Acidobacterial ADOP/PadR gene pairs
+RQ  0
+EV  GenProp0751;
+--
+SN  6
+ID  Sporadic pair TIGR03545/TIGR03546
+RQ  0
+EV  GenProp0790;
+--
+SN  7
+ID  Enterococcus/Aeromonas extended locus
+RQ  0
+EV  GenProp0798;
+--
+SN  8
+ID  Integral membrane mystery pair
+RQ  0
+EV  GenProp0830;
+--
+SN  9
+ID  ParB-rel/ThiF-rel cassette PRTRC
+RQ  0
+EV  GenProp0854;
+--
+SN  10
+ID  Actinobacterial uncharacterized trio
+RQ  0
+EV  GenProp0894;
+--
+SN  11
+ID  Radical SAM/uncharacterized protein TIGR03936 system
+RQ  0
+EV  GenProp0916;
+--
+SN  12
+ID  Metallo-mystery pair
+RQ  0
+EV  GenProp0940;
+--
+SN  13
+ID  Memo/AMMECR1/rSAM family trio system
+RQ  0
+EV  GenProp1063;
+--
+SN  14
+ID  Verrucomicrobium/Chthoniobacter four-plus-PEP_CTERM cassette
+RQ  0
+EV  GenProp0663;
+--
+SN  15
+ID  Acetyltransferase/synthase/peptidase cassette
+RQ  0
+EV  GenProp0668;
+--
+SN  16
+ID  Uptake/catabolism system KPN_01854/KPN_01858
+RQ  0
+EV  GenProp0935;
+--
+SN  17
+ID  RSAM-containing biosynthetic cluster, MSMEG_0568 system
+RQ  0
+EV  GenProp0939;
+--
+SN  18
+ID  Radical SAM/lipoprotein system
+RQ  0
+EV  GenProp0981;
+--
+SN  19
+ID  Mobile element associated three-Cys-motif pair
+RQ  0
+EV  GenProp1100;
 //

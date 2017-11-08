@@ -39,7 +39,7 @@ SN  1
 ID  Granzyme B 
 DN  Granzyme B (EC:3.4.21.79) 
 RQ  1
-EV  -; PTHR24271:SF41; sufficient;
+EV  IPR037553; PTHR24271:SF41; sufficient;
 TG  GO:1900740;
 TG  GO:0004252;
 --

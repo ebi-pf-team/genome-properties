@@ -35,4 +35,109 @@ SN  6
 ID  Fermentation
 RQ  0
 EV  GenProp0298;
+--
+SN  7
+ID  Entner-Doudoroff pathway
+RQ  0
+EV  GenProp0468;
+--
+SN  8
+ID  Arsenite oxidase
+RQ  0
+EV  GenProp0473;
+--
+SN  9
+ID  Aerobic respiration
+RQ  0
+EV  GenProp0611;
+--
+SN  10
+ID  Respiratory nitrate reductase
+RQ  0
+EV  GenProp0636;
+--
+SN  11
+ID  Formate-dependent nitrite reductase, seven-gene type
+RQ  0
+EV  GenProp0682;
+--
+SN  12
+ID  Cytochrome c nitrite reductase NrfHA
+RQ  0
+EV  GenProp0683;
+--
+SN  13
+ID  Glycolysis
+RQ  0
+EV  GenProp0691;
+--
+SN  14
+ID  Cytochrome b558/566
+RQ  0
+EV  GenProp0695;
+--
+SN  15
+ID  Hydrogenase, nickel and F420-dependent
+RQ  0
+EV  GenProp0723;
+--
+SN  16
+ID  Anaerobic glycerol-3-phosphate dehydrogenase complex
+RQ  0
+EV  GenProp0737;
+--
+SN  17
+ID  Fumarate reductase complex
+RQ  0
+EV  GenProp0756;
+--
+SN  18
+ID  DMSO reductase family type II enzyme
+RQ  0
+EV  GenProp0764;
+--
+SN  19
+ID  2-oxoacid:ferredoxin oxidoreductase
+RQ  0
+EV  GenProp0841;
+--
+SN  20
+ID  Hydrogenase, [FeFe]-dependent
+RQ  0
+EV  GenProp0914;
+--
+SN  21
+ID  Hydrogenase, mono-iron type
+RQ  0
+EV  GenProp0915;
+--
+SN  22
+ID  B12-dependent trimeric diol/glycerol dehydratase
+RQ  0
+EV  GenProp1089;
+--
+SN  23
+ID  Quinoprotein cytochrome relay system
+RQ  0
+EV  GenProp1101;
+--
+SN  24
+ID  2-oxoacid:ferredoxin oxidoreductase, multisubunit form
+RQ  0
+EV  GenProp0839;
+--
+SN  25
+ID  2-oxoacid:acceptor oxidoreductase, 2 subunit form
+RQ  0
+EV  GenProp0842;
+--
+SN  26
+ID  Photosynthesis
+RQ  0
+EV  GenProp0027;
+--
+SN  27
+ID  Methanogenesis
+RQ  0
+EV  GenProp0011;
 //

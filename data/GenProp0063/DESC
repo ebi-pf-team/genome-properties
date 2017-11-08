@@ -50,4 +50,64 @@ SN  9
 ID  Lipid biosynthesis
 RQ  0
 EV  GenProp0838;
+--
+SN  10
+ID  Spermidine biosynthesis from arginine (via agmatine)
+RQ  0
+EV  GenProp0219;
+--
+SN  11
+ID  Spermidine biosynthesis from putrescine and S-adenosylmethionine
+RQ  0
+EV  GenProp0641;
+--
+SN  12
+ID  Putrescine biosynthesis from arginine utilizing agmatinase
+RQ  0
+EV  GenProp0642;
+--
+SN  13
+ID  Putrescine biosynthesis from arginine via ornithine
+RQ  0
+EV  GenProp0643;
+--
+SN  14
+ID  Putrescine biosynthesis from glutamate via ornithine
+RQ  0
+EV  GenProp0644;
+--
+SN  15
+ID  Putrescine biosynthesis
+RQ  0
+EV  GenProp0645;
+--
+SN  16
+ID  Phosphonoacetaldehyde biosynthesis from phosphoenolpyruvate
+RQ  0
+EV  GenProp0724;
+--
+SN  17
+ID  Agmatine to putrescine via N-carbamoylputrescine
+RQ  0
+EV  GenProp0738;
+--
+SN  18
+ID  Capreomycidine biosynthesis
+RQ  0
+EV  GenProp0909;
+--
+SN  19
+ID  Alkane biosynthesis, cyanobacterial
+RQ  0
+EV  GenProp0942;
+--
+SN  20
+ID  RSAM/selenodomain system
+RQ  0
+EV  GenProp1053;
+--
+SN  21
+ID  Radical SAM/SPASM system GeoRSP
+RQ  0
+EV  GenProp1057;
 //

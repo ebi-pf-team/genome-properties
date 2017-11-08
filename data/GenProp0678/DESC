@@ -43,7 +43,7 @@ ID  Heme exporter protein CcmD
 DN  Heme exporter protein CcmD
 RQ  1
 EV  IPR007078; PF04995; sufficient;
-EV  IPRO30888; TIGR04391; sufficient;
+EV  IPR030888; TIGR04391; sufficient;
 --
 SN  5
 ID  Cytochrome c-type biogenesis protein CcmE

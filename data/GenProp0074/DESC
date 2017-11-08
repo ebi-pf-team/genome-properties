@@ -10,4 +10,14 @@ SN  1
 ID  Type III secretion
 RQ  0
 EV  GenProp0052;
+--
+SN  2
+ID  Phage shock protein regulon
+RQ  0
+EV  GenProp0648;
+--
+SN  3
+ID  Botulinum toxin system
+RQ  0
+EV  GenProp0707;
 //
