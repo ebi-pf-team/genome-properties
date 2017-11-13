@@ -56,11 +56,11 @@ CC  ring facing the nuclear interior is capped by a fibrous structure
 CC  called the nuclear basket [1].  NUP160, NUP133, NUP107 and NUP96
 CC  form the Nup160 subcomplex [4,5], which plays a role in RNA export 
 CC  and tethering NUP98 and NUP153 to the nucleus [2].  Nup98 must 
-CC  process itself autoproteolytically [3].  The Tpr N-terminus 
-CC  interacts with NUP153 in the NPC [6] while the acidic C-terminus   
-CC  is transported into the nuclear interior, where is interacts with  
-CC  soluble transport factors and can mediate export of macromolecules  
-CC  from thenucleus [7].
+CC  process itself autoproteolytically [3].  Tpr forms the nuclear
+CC  basket.  The Tpr N-terminus interacts with NUP153 in the NPC [6] 
+CC  while the acidic C-terminus is transported into the nuclear 
+CC  interior, where is interacts with soluble transport factors and 
+CC  can mediate export of macromolecules from the nucleus [7].
 **  The same precursor yields Nup96 and Nup98.
 **  NUP98 is an endopeptidase (MEROPS ID S59.001).
 --
