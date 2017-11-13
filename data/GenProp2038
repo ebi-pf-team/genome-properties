@@ -4,30 +4,32 @@ TP  SYSTEM
 AU  Rawlings ND
 TH  1
 RN  [1]
-RM  15146057
-RT  The entire Nup107-160 complex, including three new members, is 
-RT  targeted as one entity to kinetochores in mitosis. 
-RA  Loïodice I; Alves A; Rabut G; Van Overbeek M; Ellenberg J; 
-RA  Sibarita JB; Doye V;   
-RL  Mol Biol Cell. 2004;15:3333-44.
+RM  1846444
+RT  Yeast signal peptidase contains a glycoprotein and the Sec11 
+RT  gene product. 
+RA  YaDeau JT; Klein C; Blobel G;   
+RL  Proc Natl Acad Sci U S A. 1991;88:517-521.
 RN  [2]
-RM  17363900
-RT  The human Nup107-160 nuclear pore subcomplex contributes to 
-RT  proper kinetochore functions.
-RA  Zuccolo M; Alves A; Galy V; Bolhy S; Formstecher E; Racine V; 
-RA  Sibarita JB; Fukagawa T; Shiekhattar R; Yen T; Doye V;
-RL  EMBO J. 2007;26:1853-1864.
+RM  9148931
+RT  The yeast SPC22/23 homolog Spc3p is essential for signal 
+RT  peptidase activity.
+RA  Meyer HA; Hartmann E;
+RL  J Biol Chem. 1997;272:13159-13164.
 RN  [3]
-RM  17360435
-RT  Cell-cycle-dependent phosphorylation of the nuclear pore 
-RT  Nup107-160 subcomplex.
-RA  Glavy JS; Krutchinsky AN; Cristea IM; Berke IC; Boehmer T; 
-RA  Blobel G; Chait BT;
-RL  Proc Natl Acad Sci U S A. 2007;104:3811-3816.
+RM  14559916
+RT  Genetic complementation in yeast reveals functional 
+RT  similarities between the catalytic subunits of mammalian 
+RT  signal peptidase complex.
+RA  Liang H; VanValkenburgh C; Chen X; Mullins C; Van Kaer L; 
+RA  Green N; Fang H;
+RL  J Biol Chem. 2003;278:50932-50939.
 CC  Micosomal signal peptidase removes signal peptides from 
 CC  newly transcribed proteins that are destined for entry into
 CC  the secretory pathway.  Microsomal signal peptidase is a 
 CC  complex consisting of SEC11A, SEC11C, SPCS1, SPCS2 and SPCS3.  
+CC  In the yeast Saccharomyces cerevisiae, there is only one 
+CC  SEC11 component [1,2].  SEC11A and SEC11C are both serine
+CC  endopeptidases with overlapping specificities [3].
 **  SEC11A is a serine endopeptidase (MEROPS identifier S26.009).
 **  SEC11C is a serine endopeptidase (MEROPS identifier S26.010).
 --
