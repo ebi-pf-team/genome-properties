@@ -1,0 +1,71 @@
+AC  GenProp2038
+DE  Microsomal signal peptidase complex
+TP  SYSTEM
+AU  Rawlings ND
+TH  1
+RN  [1]
+RM  15146057
+RT  The entire Nup107-160 complex, including three new members, is 
+RT  targeted as one entity to kinetochores in mitosis. 
+RA  Loïodice I; Alves A; Rabut G; Van Overbeek M; Ellenberg J; 
+RA  Sibarita JB; Doye V;   
+RL  Mol Biol Cell. 2004;15:3333-44.
+RN  [2]
+RM  17363900
+RT  The human Nup107-160 nuclear pore subcomplex contributes to 
+RT  proper kinetochore functions.
+RA  Zuccolo M; Alves A; Galy V; Bolhy S; Formstecher E; Racine V; 
+RA  Sibarita JB; Fukagawa T; Shiekhattar R; Yen T; Doye V;
+RL  EMBO J. 2007;26:1853-1864.
+RN  [3]
+RM  17360435
+RT  Cell-cycle-dependent phosphorylation of the nuclear pore 
+RT  Nup107-160 subcomplex.
+RA  Glavy JS; Krutchinsky AN; Cristea IM; Berke IC; Boehmer T; 
+RA  Blobel G; Chait BT;
+RL  Proc Natl Acad Sci U S A. 2007;104:3811-3816.
+CC  Micosomal signal peptidase removes signal peptides from 
+CC  newly transcribed proteins that are destined for entry into
+CC  the secretory pathway.  Microsomal signal peptidase is a 
+CC  complex consisting of SEC11A, SEC11C, SPCS1, SPCS2 and SPCS3.  
+**  SEC11A is a serine endopeptidase (MEROPS identifier S26.009).
+**  SEC11C is a serine endopeptidase (MEROPS identifier S26.010).
+--
+SN  1
+ID  Signal peptidase complex catalytic subunit SEC11A
+DN  Signal peptidase complex catalytic subunit SEC11A/1
+RQ  1
+EV  -; PTHR22806; sufficient;
+TG  GO:0031080
+--
+SN  2
+ID  Signal peptidase complex catalytic subunit SEC11C
+DN  Signal peptidase complex catalytic subunit SEC11C/2
+RQ  1
+EV  -; PTHR10806:SF12; sufficient;
+TG  GO:0006465
+--
+SN  3
+ID  Signal peptidase complex subunit 1
+DN  Signal peptidase complex subunit 1/3
+RQ  1
+EV  -; PTHR13202:SF0; sufficient;
+TG  GO:0005787
+--
+SN  4
+ID  Signal peptidase complex subunit 2
+DN  Signal peptidase complex subunit 2/4
+RQ  1
+EV  IPR009582; PF06703; sufficient;
+EV  IPR009582; PTHR13085; sufficient;
+TG  GO:0005787
+--
+SN  5
+ID  Signal peptidase complex subunit 3
+DN  Signal peptidase complex subunit 3/5
+RQ  1
+EV  IPR007653; PF04573; sufficient;
+EV  IPR007653; PIRSF016089; sufficient;
+EV  IPR007653; PTHR12804; sufficient;
+TG  GO:0005787;
+//
