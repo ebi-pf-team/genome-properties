@@ -1,0 +1,49 @@
+AC  GenProp2041
+DE  m-AAA protease complex
+TP  SYSTEM
+AU  Rawlings ND
+TH  1
+RN  [1]
+RM  8681382
+RT  The YTA10-12 complex, an AAA protease with chaperone-like 
+RT  activity in the inner membrane of mitochondria. 
+RA  Arlt H; Tauer R; Feldmann H; Neupert W; Langer T;   
+RL  Cell 1996;85:875-885.
+RN  [2]
+RM  9707443
+RT  The formation of respiratory chain complexes in 
+RT  mitochondria is under the proteolytic control of the 
+RT  m-AAA protease..
+RA  Arlt H; Steglich G; Perryman R; Guiard B; Neupert W; 
+RA  Langer T;
+RL  EMBO J. 1998;17:4837-4847.
+CC  The m-AAA protease complex an ATP-dependent 
+CC  metallopeptidase in the mitochondrial membrane which
+CC  degrades nonassembled inner membrane proteins.  The
+CC  complex is also a chaperone for the assembly of the
+CC  the membrane-associated ATP synthase [1].  The 
+CC  components of the complex, Yta10p (Afg3p) and Yta12p 
+CC  (Rcal1p) are both metallopeptidases with overlapping
+CC  specificities.  The complex contains multiple
+CC  copies of both proteins [2].  
+**  This complex is known only in fungi and the AFG3 homologue 
+**  in humans is a pseudogene.  Homologues do exist in other
+**  animals including mammals (PTHR43655:SF7).
+**  Afg3 is MEROPS identifier M41.002.
+**  Rca1 is MEROPS identifier M41.003.
+--
+SN  1
+ID  Mitochondrial respiratory chain complexes assembly protein AFG3
+DN  Mitochondrial respiratory chain complexes assembly protein AFG3/1
+RQ  1
+EV  -; PTHR43655:SF14; sufficient;
+EV  -; PTHR43655:SF7; sufficient;
+TG  GO:0004222
+--
+SN  2
+ID  Mitochondrial respiratory chain complexes assembly protein YTA12
+DN  Mitochondrial respiratory chain complexes assembly protein YTA12/2
+RQ  1
+EV  -; PTHR43655:SF14; sufficient;
+TG  GO:0004222
+//
