@@ -4,55 +4,41 @@ TP  SYSTEM
 AU  Rawlings ND
 TH  1
 RN  [1]
-RM  15229283
-RT  Nucleoporins as components of the nuclear pore complex core 
-RT  structure and Tpr as the architectural element of the nuclear 
-RT  basket. 
-RA  Krull S; Thyberg J; Björkroth B; Rackwitz HR; Cordes VC;   
-RL  Mol Biol Cell. 2004;15:4261-4277.
+RM  9843582
+RT  Functional characterization of a Nup159p-containing nuclear 
+RT  pore subcomplex. 
+RA  Belgareh N; Snay-Hodge C; Pasteau F; Dagher S; Cole CN; 
+RA  Doye V;   
+RL  Mol Biol Cell 1998;9:3475-3492.
 RN  [2]
-RM  11684705
-RT  Novel vertebrate nucleoporins Nup133 and Nup160 play a role in 
-RT  mRNA export.
-RA  Vasu S; Shah S; Orjalo A; Park M; Fischer WH; Forbes DJ;
-RL  J. Cell Biol. 2001;155:339-354.
+RM  10891509
+RT  Assembly and preferential localization of Nup116p on the 
+RT  cytoplasmic face of the nuclear pore complex by interaction 
+RT  with Nup82p.
+RA  Ho AK; Shen TX; Ryan KJ; Kiseleva E; Levy MA; Allen TD; Wente SR;
+RL  Mol Cell Biol. 2000;20:5736-5748.
 RN  [3]
-RM  18287282
-RT  Structural constraints on autoprocessing of the human nucleoporin 
-RT  Nup98.
-RA  Sun Y; Guo HC;
-RL  Protein Sci. 2008;17:494-505.
+RM  12543930
+RT  Deciphering networks of protein interactions at the nuclear pore 
+RT  complex.
+RA  Allen NP; Patel SS; Huang L; Chalkley RJ; Burlingame A; Lutzmann 
+RA  M; Hurt EC; Rexach M;
+RL  Mol Cell Proteomics 2002;1:930-946.
 RN  [4]
-RM  12552102
-RT  Depletion of a single nucleoporin, Nup107, prevents the assembly 
-RT  of a subset of nucleoporins into the nuclear pore complex.
-RA  Boehmer T; Enninga J; Dales S; Blobel G; Zhong H;
-RL  Proc. Natl. Acad. Sci. U.S.A. 2003;100:981-985.
-RN  [5]
-RM  11564755
-RT  An evolutionarily conserved NPC subcomplex, which redistributes 
-RT  in part to kinetochores in mammalian cells.
-RA  Belgareh N; Rabut G; Baï SW; van Overbeek M; Beaudouin J; 
-RA  Daigle N; Zatsepina OV; Pasteau F; Labas V; Fromont-Racine M; 
-RA  Ellenberg J; Doye V;
-RL  J Cell Biol. 2001;154:1147-1160.
-RN  [6]
-RM  12802065
-RT  Direct interaction with nup153 mediates binding of Tpr to the 
-RT  periphery of the nuclear pore complex.
-RA  Hase ME; Cordes VC;
-RL  Mol Biol Cell. 2003;14:1923-1940.
-RN  [7]
-RM  9864356
-RT  Functional analysis of Tpr: identification of nuclear pore complex 
-RT  association and nuclear localization domains and a role in mRNA 
-RT  export.
-RA  Bangs P; Burke B; Powers C; Craig R; Purohit A; Doxsey S;
-RL  J Cell Biol. 1998;143:1801-1812.
+RM  12604785
+RT  Disorder in the nuclear pore complex: the FG repeat regions of 
+RT  nucleoporins are natively unfolded.
+RA  Denning DP; Patel SS; Uversky V; Fink AL; Rexach M;
+RL  Proc Natl Acad Sci U S A. 2003;100:2450-2455.
 CC  The yeast 55-60 MDa nuclear pore complex (NPC) is the exclusive 
 CC  means for transport to and from the nucleus to the cytoplasm.  The 
 CC  NPC consists of at least 31 different subunits and has eight-fold 
-CC  radial symmetry so that there are eight copies of each subunit.  
+CC  radial symmetry so that there are eight copies of each subunit [4].  
+CC  NUP82, NSP1 and NUP159 form a subcomplex known as the NUP82 
+CC  subcomplex [1] which interacts with Nup116 [2].  Transport of 
+CC  macromolecules across the NPC is mediated by nucleocytoplasmic 
+CC  shuttling receptors termed karyopherins, which interact with 
+CC  phenylalanine/glycine (FG) peptide repeats on nucleoporins [3].
 **  The same precursor yields Nup96 and Nup98.
 **  NUP98 is an endopeptidase (MEROPS ID S59.001).
 **  The vertebrate NPC is simpler and is a separate Genome Property.
@@ -123,25 +109,25 @@ EV  -; PTHR23138:SF101; sufficient;
 TG  ;
 --
 SN  10
-ID  NUP100
-DN  /10
+ID  Nucleoporin NUP100/NSP100
+DN  Nucleoporin NUP100/NSP100/10
 RQ  1
 EV  -; PTHR23198:SF6; sufficient;
 TG  ;
 --
 SN  11
-ID  NUP116
-DN  /11
+ID  Nucleoporin NUP116/NSP116
+DN  Nucleoporin NUP116/NSP116/11
 RQ  1
 EV  -; PTHR23198; sufficient;
-TG  ;
+TG  GO:0017056;
 --
 SN  12
-ID  NUP120
-DN  /12
+ID  Nucleoporin NUP120
+DN  Nucleoporin NUP120/12
 RQ  1
 EV  -; PTHR21286; sufficient;
-TG  ;
+TG  GO:0017056;
 --
 SN  13
 ID  NUP133
@@ -258,11 +244,11 @@ EV  -; PTHR28206; sufficient;
 TG  ;
 --
 SN  29
-ID  POM34
-DN  /29
+ID  Nucleoporin POM34
+DN  Nucleoporin POM34/29
 RQ  1
 EV  -; PTHR28003; sufficient;
-TG  ;
+TG  GO:0017056;
 --
 SN  30
 ID  SEH1
