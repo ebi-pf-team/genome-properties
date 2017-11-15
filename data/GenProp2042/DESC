@@ -30,6 +30,12 @@ RT  Disorder in the nuclear pore complex: the FG repeat regions of
 RT  nucleoporins are natively unfolded.
 RA  Denning DP; Patel SS; Uversky V; Fink AL; Rexach M;
 RL  Proc Natl Acad Sci U S A. 2003;100:2450-2455.
+RN  [5]
+RM  11046143
+RT  Nup2p, a yeast nucleoporin, functions in bidirectional transport 
+RT  of importin alpha.
+RA  Solsbacher J; Maurer P; Vogel F; Schlenstedt G;
+RL  Mol Cell Biol. 2000;20:8468-8479.
 CC  The yeast 55-60 MDa nuclear pore complex (NPC) is the exclusive 
 CC  means for transport to and from the nucleus to the cytoplasm.  The 
 CC  NPC consists of at least 31 different subunits and has eight-fold 
@@ -39,6 +45,8 @@ CC  subcomplex [1] which interacts with Nup116 [2].  Transport of
 CC  macromolecules across the NPC is mediated by nucleocytoplasmic 
 CC  shuttling receptors termed karyopherins, which interact with 
 CC  phenylalanine/glycine (FG) peptide repeats on nucleoporins [3].
+CC  The FG repeats of Nup1 and Nup2 are important for disassembling and 
+CC  recycling the karypherins [5].
 **  The same precursor yields Nup96 and Nup98.
 **  NUP98 is an endopeptidase (MEROPS ID S59.001).
 **  The vertebrate NPC is simpler and is a separate Genome Property.
@@ -102,8 +110,8 @@ EV  -; PTHR23193:SF23; sufficient;
 TG  ;
 --
 SN  9
-ID  NUP2
-DN  /9
+ID  Nucleoporin NUP2
+DN  Nucleoporin NUP2/9
 RQ  1
 EV  -; PTHR23138:SF101; sufficient;
 TG  ;
