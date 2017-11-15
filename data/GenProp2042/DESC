@@ -104,6 +104,7 @@ CC  itself into two functional components [12].
 **  The vertebrate NPC is simpler and is a separate Genome Property.
 **  Evidence for step 11 (NUP116) is parent for evidence for steps
 **  9, 10, 14, and 21, so will not work properly.
+**  Evidence for steps 1 and 22 is the same.
 --
 SN  1
 ID  Nucleoporin ASM4
