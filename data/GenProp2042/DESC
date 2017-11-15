@@ -211,97 +211,98 @@ EV  IPR004870; PTHR10350; sufficient;
 TG  GO:0017056;
 --
 SN  16
-ID  NUP159
-DN  /16
+ID  Nucleoporin NUP159
+DN  Nucleoporin NUP159/16
 RQ  1
 EV  -; PTHR21243:SF14; sufficient;
-TG  ;
+TG  GO:0044614;
 --
 SN  17
-ID  NUP170
-DN  /17
+ID  Nucleoporin NUP170
+DN  Nucleoporin NUP170/17
 RQ  1
 EV  IPR004870; PTHR10350; sufficient;
-TG  ;
+TG  GO:0017056;
 --
 SN  18
-ID  NUP188
-DN  /18
+ID  Nucleoporin NUP188
+DN  Nucleoporin NUP188/18
 RQ  1
 EV  IPR018864; PF10487; sufficient;
-TG  ;
+TG  GO:0017056;
 --
 SN  19
-ID  NUP192
-DN  /19
+ID  Nucleoporin NUP192
+DN  Nucleoporin NUP192/19
 RQ  1
 EV  -; PTHR31344:SF0; sufficient;
-TG  ;
+TG  GO:0017056;
 --
 SN  20
-ID  NUP42
-DN  /20
+ID  Nucleoporin NUP42
+DN  Nucleoporin NUP42/20
 RQ  1
 EV  -; PTHR21243; sufficient;
-TG  ;
+TG  GO:0017056;
 --
 SN  21
-ID  NUP49
-DN  /21
+ID  Nucleoporin NUP49/NSP49
+DN  Nucleoporin NUP49/NSP49/21
 RQ  1
 EV  -; PTHR23198:SF12; sufficient;
-TG  ;
+TG  GO:0017056;
 --
 SN  22
-ID  NUP53
-DN  /22
+ID  Nucleoporin NUP53
+DN  Nucleoporin NUP53/22
 RQ  1
 EV  -; PTHR21527:SF6; sufficient;
-TG  ;
+TG  GO:0044613;
+TG  GO:0044615;
 --
 SN  23
-ID  NUP57
-DN  /23
+ID  Nucleoporin NUP57
+DN  Nucleoporin NUP57/23
 RQ  1
 EV  -; PTHR13000:SF0; sufficient;
-TG  ;
+TG  GO:0017056;
 --
 SN  24
-ID  NUP60
-DN  /24
+ID  Nucleoporin NUP60
+DN  Nucleoporin NUP60/24
 RQ  1
 EV  IPR034432; PTHR28284; sufficient;
-TG  ;
+TG  GO:0017056;
 --
 SN  25
-ID  NUP82
-DN  /25
+ID  Nucleoporin NUP82
+DN  Nucleoporin NUP82/25
 RQ  1
 EV  -; PTHR13257; sufficient;
-TG  ;
+TG  GO:0017056;
 --
 SN  26
-ID  NUP84
-DN  /26
+ID  Nucleoporin NUP84
+DN  Nucleoporin NUP84/26
 RQ  1
 EV  IPR007252; PF04121; sufficient;
 EV  IPR007252; PTHR13003; sufficient;
-TG  ;
+TG  GO:0017056;
 --
 SN  27
-ID  NUP85
-DN  /27
+ID  Nucleoporin NUP85
+DN  Nucleoporin NUP85/27
 RQ  1
 EV  IPR011502; PF07575; sufficient;
 EV  IPR011502; PTHR13373; sufficient;
-TG  ;
+TG  GO:0031080;
 --
 SN  28
-ID  POM152
-DN  /28
+ID  Nucleoporin POM152
+DN  Nucleoporin POM152/28
 RQ  1
 EV  -; PTHR28206; sufficient;
-TG  ;
+TG  GO:0070762;
 --
 SN  29
 ID  Nucleoporin POM34
@@ -311,18 +312,16 @@ EV  -; PTHR28003; sufficient;
 TG  GO:0017056;
 --
 SN  30
-ID  SEH1
-DN  /30
+ID  Nucleoporin SEH1
+DN  Nucleoporin SEH1/30
 RQ  1
 EV  IPR037597; PTHR11024:SF3; sufficient;
-TG  ;
+TG  GO:0017056;
 --
 SN  31
-ID  SEC1
-DN  /31
+ID  Protein transport protein SEC13
+DN  Protein transport protein SEC13/31
 RQ  1
-EV  IPR001619; PF00995; sufficient;
-EV  IPR001619; PIRSF005715; sufficient;
-EV  IPR001619; PTHR11679; sufficient;
-TG  ;
+EV  IPR037596; PTHR11024:SF2; sufficient;
+TG  GO:0031080;
 //
