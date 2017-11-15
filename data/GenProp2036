@@ -63,6 +63,8 @@ CC  interior, where is interacts with soluble transport factors and
 CC  can mediate export of macromolecules from the nucleus [7].
 **  The same precursor yields Nup96 and Nup98.
 **  NUP98 is an endopeptidase (MEROPS ID S59.001).
+**  The NPC in yeast is more complex and is a separate Genome 
+**  Property.
 --
 SN  1
 ID  Nuclear pore complex protein Nup98-Nup96
