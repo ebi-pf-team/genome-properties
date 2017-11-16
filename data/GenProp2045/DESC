@@ -51,7 +51,7 @@ SN  5
 ID  Centrin
 DN  Centrin/3
 RQ  1
-EV  -; PTHR23050:SF305; sufficient;
+EV  IPR037629; PTHR23050:SF305; sufficient;
 EV  -; PTHR23050:SF218; sufficient;
 TG  GO:0000715;
 //
