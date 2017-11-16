@@ -117,7 +117,7 @@ SN  2
 ID  Cell division control protein 31
 DN  Cell division control protein 31/2
 RQ  1
-EV  -; PTHR23050:SF305; sufficient;
+EV  IPR037629; PTHR23050:SF305; sufficient;
 TG  GO:0005643;
 --
 SN  3
@@ -131,7 +131,7 @@ SN  4
 ID  Nucleoporin GLE2
 DN  Nucleoporin GLE2/4
 RQ  1
-EV  -; PTHR10971:SF11; sufficient;
+EV  IPR037631; PTHR10971:SF11; sufficient;
 TG  GO:0005643;
 --
 SN  5
@@ -161,7 +161,7 @@ SN  8
 ID  Nucleoporin NUP1
 DN  Nucleoporin NUP1/8
 RQ  1
-EV  -; PTHR23193:SF23; sufficient;
+EV  IPR037633; PTHR23193:SF23; sufficient;
 TG  GO:0017056;
 --
 SN  9
