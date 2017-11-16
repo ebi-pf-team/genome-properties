@@ -70,7 +70,7 @@ SN  1
 ID  Nuclear pore complex protein Nup98-Nup96
 DN  Nuclear pore complex protein Nup98-Nup96/1
 RQ  1
-EV  -; PTHR23198:SF6; sufficient;
+EV  IPR037637; PTHR23198:SF6; sufficient;
 TG  GO:0017056
 --
 SN  2
