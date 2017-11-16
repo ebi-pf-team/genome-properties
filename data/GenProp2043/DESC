@@ -50,14 +50,14 @@ SN  4
 ID  Nucleoporin nup131
 DN  Nucleoporin nup131/4
 RQ  1
-EV  -; PTHR13405; sufficient;
+EV  IPR037624; PTHR13405; sufficient;
 TG  GO:0017056;
 --
 SN  5
 ID  Nucleoporin nup132
 DN  Nucleoporin nup132/5
 RQ  1
-EV  -; PTHR13405; sufficient;
+EV  IPR037624; PTHR13405; sufficient;
 TG  GO:0017056;
 --
 SN  6
