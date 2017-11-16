@@ -39,14 +39,14 @@ SN  1
 ID  Nucleoporin Nup37
 DN  Nucleoporin Nup37/1
 RQ  1
-EV  -; PTHR22806; sufficient;
+EV  IPR037626; PTHR22806; sufficient;
 TG  GO:0031080
 --
 SN  2
 ID  Nucleoporin Nup43
 DN  Nucleoporin Nup43/2
 RQ  1
-EV  -; PTHR22652; sufficient;
+EV  IPR037628; PTHR22652; sufficient;
 TG  GO:0031080
 --
 SN  3
@@ -76,7 +76,7 @@ SN  6
 ID  Nuclear pore complex protein Nup133
 DN  Nuclear pore complex protein Nup133/6
 RQ  1
-EV  -; PTHR13405; sufficient;
+EV  IPR037624; PTHR13405; sufficient;
 TG  GO:0017056;
 --
 SN  7
