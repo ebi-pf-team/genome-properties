@@ -239,7 +239,7 @@ SN  19
 ID  Nucleoporin NUP192
 DN  Nucleoporin NUP192/19
 RQ  1
-EV  -; PTHR31344:SF0; sufficient;
+EV  IPR037687; PTHR31344:SF0; sufficient;
 TG  GO:0017056;
 --
 SN  20
