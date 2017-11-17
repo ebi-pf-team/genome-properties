@@ -168,14 +168,14 @@ SN  9
 ID  Nucleoporin NUP2
 DN  Nucleoporin NUP2/9
 RQ  1
-EV  -; PTHR23138:SF101; sufficient;
+EV  IPR037642; PTHR23138:SF101; sufficient;
 TG  GO:0044615;
 --
 SN  10
 ID  Nucleoporin NUP100/NSP100
 DN  Nucleoporin NUP100/NSP100/10
 RQ  1
-EV  -; PTHR23198:SF6; sufficient;
+EV  IPR037637; PTHR23198:SF6; sufficient;
 TG  GO:0017056;
 --
 SN  11
