@@ -182,7 +182,7 @@ SN  11
 ID  Nucleoporin NUP116/NSP116
 DN  Nucleoporin NUP116/NSP116/11
 RQ  1
-EV  -; PTHR23198; sufficient;
+EV  IPR037665; PTHR23198; sufficient;
 TG  GO:0017056;
 --
 SN  12
