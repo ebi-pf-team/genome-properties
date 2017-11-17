@@ -197,7 +197,7 @@ SN  13
 ID  Nucleoporin NUP133
 DN  Nucleoporin NUP133/13
 RQ  1
-EV  -; PTHR13405; sufficient;
+EV  IPR037624; PTHR13405; sufficient;
 TG  GO:0031080;
 --
 SN  14
