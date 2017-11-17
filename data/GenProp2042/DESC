@@ -189,7 +189,8 @@ SN  12
 ID  Nucleoporin NUP120
 DN  Nucleoporin NUP120/12
 RQ  1
-EV  -; PTHR21286; sufficient;
+EV  IPR021717; PTHR21286; sufficient;
+EV  IPR021717; PF11715; sufficient;
 TG  GO:0017056;
 --
 SN  13
