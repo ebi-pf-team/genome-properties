@@ -218,7 +218,7 @@ SN  16
 ID  Nucleoporin NUP159
 DN  Nucleoporin NUP159/16
 RQ  1
-EV  -; PTHR21243:SF14; sufficient;
+EV  IPR037686; PTHR21243:SF14; sufficient;
 TG  GO:0044614;
 --
 SN  17
