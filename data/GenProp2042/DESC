@@ -268,7 +268,7 @@ SN  23
 ID  Nucleoporin NUP57
 DN  Nucleoporin NUP57/23
 RQ  1
-EV  -; PTHR13000:SF0; sufficient;
+EV  IPR037697; PTHR13000:SF0; sufficient;
 TG  GO:0017056;
 --
 SN  24
