@@ -204,7 +204,7 @@ SN  14
 ID  Nucleoporin NUP145
 DN  Nucleoporin NUP145/14
 RQ  1
-EV  -; PTHR23198:SF13; sufficient;
+EV  IPR037672; PTHR23198:SF13; sufficient;
 TG  GO:0031080 ;
 --
 SN  15
