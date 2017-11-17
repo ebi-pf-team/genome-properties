@@ -282,7 +282,7 @@ SN  25
 ID  Nucleoporin NUP82
 DN  Nucleoporin NUP82/25
 RQ  1
-EV  -; PTHR13257; sufficient;
+EV  IPR037700; PTHR13257; sufficient;
 TG  GO:0017056;
 --
 SN  26
