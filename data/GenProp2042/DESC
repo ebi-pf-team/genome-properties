@@ -305,7 +305,7 @@ SN  28
 ID  Nucleoporin POM152
 DN  Nucleoporin POM152/28
 RQ  1
-EV  -; PTHR28206; sufficient;
+EV  IPR037701; PTHR28206; sufficient;
 TG  GO:0070762;
 --
 SN  29
