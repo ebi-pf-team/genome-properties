@@ -312,7 +312,8 @@ SN  29
 ID  Nucleoporin POM34
 DN  Nucleoporin POM34/29
 RQ  1
-EV  -; PTHR28003; sufficient;
+EV  IPR012578; PF08058; sufficient;
+EV  IPR012578; PTHR28003; sufficient;
 TG  GO:0017056;
 --
 SN  30
