@@ -35,7 +35,7 @@ SN  1
 ID  Mitochondrial-processing peptidase subunit alpha
 DN  Mitochondrial-processing peptidase subunit alpha/1
 RQ  1
-EV  -; PTHR11851:SF183; sufficient;
+EV  IPR037715; PTHR11851:SF183; sufficient;
 TG  GO:0006627
 --
 SN  2
