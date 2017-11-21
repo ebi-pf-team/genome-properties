@@ -28,7 +28,7 @@ SN  1
 ID  DNA repair protein complementing XP-C cells
 DN  DNA repair protein complementing XP-C cells/1
 RQ  1
-EV  -; PTHR12135:SF0; sufficient;
+EV  IPR018026; TIGR00605; sufficient;
 TG  GO:0000715;
 --
 SN  2
