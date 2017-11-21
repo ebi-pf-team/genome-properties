@@ -31,6 +31,7 @@ CC  copies of both proteins [2].
 **  animals including mammals (PTHR43655:SF7).
 **  Afg3 is MEROPS identifier M41.002.
 **  Rca1 is MEROPS identifier M41.003.
+**  PANTHER PTHR43655:SF14 includes both Afg3 and Rca1.
 --
 SN  1
 ID  Mitochondrial respiratory chain complexes assembly protein AFG3
