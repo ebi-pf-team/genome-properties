@@ -43,7 +43,7 @@ SN  3
 ID  COP9 signalosome complex subunit 3
 DN  COP9 signalosome complex subunit 3/3
 RQ  1
-EV  -; PTHR10758:SF1; sufficient;
+EV  IPR037753; PTHR10758:SF1; sufficient;
 TG  GO:0008180;
 --
 SN  4
