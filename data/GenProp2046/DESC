@@ -27,7 +27,7 @@ SN  1
 ID  COP9 signalosome complex subunit 5
 DN  COP9 signalosome complex subunit 5/1
 RQ  1
-EV  -; PTHR10410:SF6; sufficient;
+EV  IPR037740; PTHR10410:SF6; sufficient;
 TG  GO:0004222;
 TG  GO:0008180;
 --
