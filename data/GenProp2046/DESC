@@ -1,0 +1,68 @@
+AC  GenProp2046
+DE  COP9 Signalosome, yeast
+TP  SYSTEM
+AU  Rawlings ND
+TH  1
+RN  [1]
+RM  12672462
+RT  The COP9 signalosome-like complex in S. cerevisiae and links to 
+RT  other PCI complexes. 
+RA  Maytal-Kivity V; Pick E; Piran R; Hofmann K; Glickman MH;   
+RL  Int J Biochem Cell Biol. 2003;35:706-715.
+TH  1
+RN  [1]
+RM  12446563
+RT  COP9 signalosome components play a role in the mating pheromone 
+RT  response of S. cerevisiae. 
+RA  Maytal-Kivity V; Piran R; Pick E; Hofmann K; Glickman MH;   
+RL  EMBO Rep. 2002;3:1215-1221.
+CC  The COP9 signalosome (CSN) consists of RRI1/CSN5, CSN9, 
+CC  RRI2/CSN10, PCI8/CSN11, CSN12 and CSI1 [1].  CSN is a regulator
+CC  of development and signaling in eukaryotes, and in Saccharomyces
+CC  cerevisiae is required for pheromone signaling [2].
+**  CSN5 is a metallopeptidase in family M67
+**  There are no models for CSN10, CSN11 or CSI1
+--
+SN  1
+ID  COP9 signalosome complex subunit 5
+DN  COP9 signalosome complex subunit 5/1
+RQ  1
+EV  -; PTHR10410:SF6; sufficient;
+TG  GO:0004222;
+TG  GO:0008180;
+--
+SN  2
+ID  COP9 signalosome complex subunit 9
+DN  COP9 signalosome complex subunit 9/2
+RQ  1
+EV  IPR016806; PIRSF022632; sufficient;
+TG  GO:0008180;
+--
+SN  3
+ID  COP9 signalosome complex subunit 10
+DN  COP9 signalosome complex subunit 10/2
+RQ  1
+EV  -; -; sufficient;
+TG  GO:0008180;
+--
+SN  4
+ID  Cop9 signalosome complex subunit 11 
+DN  Cop9 signalosome complex subunit 11 /2
+RQ  1
+EV  -; -; sufficient;
+TG  GO:0008180;
+--
+SN  5
+ID  Cop9 signalosome complex subunit 12
+DN  Cop9 signalosome complex subunit 12/3
+RQ  1
+EV  -; PTHR12732:SF0; sufficient;
+TG  GO:0008180;
+--
+SN  6
+ID  Cop9 signalosome-interactor 1
+DN  Cop9 signalosome-interactor 1/3
+RQ  1
+EV  -; -; sufficient;
+TG  GO:0008180;
+//
