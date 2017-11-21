@@ -50,7 +50,7 @@ SN  4
 ID  COP9 signalosome complex subunit 4 
 DN  COP9 signalosome complex subunit 4/4
 RQ  1
-EV  -; PTHR10855:SF2; sufficient;
+EV  IPR037754; PTHR10855:SF2; sufficient;
 TG  GO:0008180;
 --
 SN  5
