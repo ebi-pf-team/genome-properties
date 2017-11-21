@@ -39,28 +39,28 @@ TG  GO:0008180;
 --
 SN  3
 ID  COP9 signalosome complex subunit 10
-DN  COP9 signalosome complex subunit 10/2
+DN  COP9 signalosome complex subunit 10/3
 RQ  1
 EV  -; -; sufficient;
 TG  GO:0008180;
 --
 SN  4
 ID  Cop9 signalosome complex subunit 11 
-DN  Cop9 signalosome complex subunit 11 /2
+DN  Cop9 signalosome complex subunit 11 /4
 RQ  1
 EV  -; -; sufficient;
 TG  GO:0008180;
 --
 SN  5
 ID  Cop9 signalosome complex subunit 12
-DN  Cop9 signalosome complex subunit 12/3
+DN  Cop9 signalosome complex subunit 12/5
 RQ  1
 EV  -; PTHR12732:SF0; sufficient;
 TG  GO:0008180;
 --
 SN  6
 ID  Cop9 signalosome-interactor 1
-DN  Cop9 signalosome-interactor 1/3
+DN  Cop9 signalosome-interactor 1/6
 RQ  1
 EV  -; -; sufficient;
 TG  GO:0008180;
