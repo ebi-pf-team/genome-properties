@@ -20,7 +20,7 @@ CC  The COP9 signalosome (CSN) consists of RRI1/CSN5, CSN9,
 CC  RRI2/CSN10, PCI8/CSN11, CSN12 and CSI1 [1].  CSN is a regulator
 CC  of development and signaling in eukaryotes, and in Saccharomyces
 CC  cerevisiae is required for pheromone signaling [2].
-**  CSN5 is a metallopeptidase in family M67
+**  CSN5 is a metallopeptidase (MEROPS ID M67.002)
 **  There are no models for CSN10, CSN11 or CSI1
 --
 SN  1
