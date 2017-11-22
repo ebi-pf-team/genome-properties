@@ -1,0 +1,182 @@
+AC  GenProp2051
+DE  Spt-Ada-Gcn5-acetyltransferase (SAGA) complex
+TP  SYSTEM
+AU  Rawlings ND
+TH  1
+RN  [1] REPLACE REFERENCE
+RM  10024882
+RT  Reconstitution of the transcription factor TFIIH: assignment of 
+RT  functions for the three enzymatic subunits, XPB, XPD, and cdk7. 
+RA  Tirode F; Busso D; Coin F; Egly JM;   
+RL  Mol Cell. 1999;3:87-95.
+RN  [2] REPLACE REFERENCE
+RM  8230216
+RT  The kin28 protein kinase is associated with a cyclin in 
+RT  Saccharomyces cerevisiae. 
+RA  Valay JG; Simon M; Faye G;   
+RL  J Mol Biol. 1993;234:307-310.
+CC  The SAGA complex consists of at least of TRA1, CHD1, SPT7, TAF5, 
+CC  ADA3, SGF73, SPT20/ADA5, SPT8, TAF12, TAF6, HFI1/ADA1, UBP8, 
+CC  GCN5, ADA2, SPT3, SGF29, TAF10, TAF9, SGF11 and SUS1.  
+CC  Two copies of TAF5, TAF6, TAF9, TAF19, TAF12 and ADA1 are
+CC  present.  There are five distinct subcomplexes or domains, 
+CC  each of which has a specialized function.  Domain I contains 
+CC  TRA1 and probably represents the activator interaction surface. 
+CC  Domain II which contains TAF5 and TAF6, and probably TAF9 and 
+CC  TAF10. Domain III contains GCN5, TAF10, SPT7, TAF5 and ADA1, and 
+CC  probably ADA2, ADA3 and TAF12.  Domain IV contains HFI1/ADA1 and 
+CC  TAF6, and probably TAF9).  Domains II-IV are believed to play  
+CC  architectural roles.  Domain V contains SPT3 and SPT20, and 
+CC  probably SPT8 is the TBP-interacting module, and may be only 
+CC  transiently associated with SAGA.
+--
+SN  1
+ID  Transcription-associated protein 1 
+DN  Transcription-associated protein 1/1
+RQ  1
+EV  IPR033317; PTHR11139:SF1; sufficient;
+TG  GO:0000124;
+--
+SN  2
+ID  Chromo domain-containing protein 1 
+DN  Chromo domain-containing protein 1 (EC 3.6.4.-)/2
+RQ  1
+EV  -; PTHR10799:SF838; sufficient;
+TG  GO:0000124;
+--
+SN  3
+ID  SPT7 NOT DONE
+DN  CDK-activating kinase assembly factor MAT1/3
+RQ  1
+EV  -; -; sufficient;
+TG  GO:0000124;
+--
+SN  4
+ID  Transcription initiation factor TFIID subunit 5 
+DN  Transcription initiation factor TFIID subunit 5 /4
+RQ  1
+EV  -; PTHR19879:SF1; sufficient;
+TG  GO:0000124;
+--
+SN  5
+ID  ADA3 NOT DONE
+DN  CDK-activating kinase assembly factor MAT1/5
+RQ  1
+EV  -; -; sufficient;
+TG  GO:0000124;
+--
+SN  6
+ID  SAGA-associated factor 73
+DN  SAGA-associated factor 73/6
+RQ  1
+EV  -; PTHR15117:SF11; sufficient;
+TG  GO:0000124;
+--
+SN  7
+ID  SPT20/ADA5 NOT DONE
+DN  CDK-activating kinase assembly factor MAT1/7
+RQ  1
+EV  -; -; sufficient;
+TG  GO:0000124;
+--
+SN  8
+ID  SPT8 NOT DONE
+DN  CDK-activating kinase assembly factor MAT1/8
+RQ  1
+EV  -; -; sufficient;
+TG  GO:0000124;
+--
+SN  9
+ID  Transcription initiation factor TFIID subunit 12
+DN  Transcription initiation factor TFIID subunit 12/9
+RQ  1
+EV  -; PTHR12264:SF21; sufficient;
+TG  GO:0000124;
+--
+SN  10
+ID  Transcription initiation factor TFIID subunit 6
+DN  Transcription initiation factor TFIID subunit 6/10
+RQ  1
+EV  -; PTHR10221:SF9; sufficient;
+TG  GO:0000124;
+--
+SN  11
+ID  Transcriptional coactivator HFI1/ADA1
+DN  Transcriptional coactivator HFI1/ADA1/11
+RQ  1
+EV  IPR024738; PF12767; sufficient;
+EV  IPR024738; PTHR21277; sufficient;
+TG  GO:0000124;
+--
+SN  12
+ID  Ubiquitin carboxyl-terminal hydrolase 8
+DN  Ubiquitin carboxyl-terminal hydrolase 8 (EC 3.4.19.12)/12
+RQ  1
+EV  -; PTHR43961:SF2; sufficient;
+TG  GO:0000124;
+--
+SN  13
+ID  Histone acetyltransferase GCN5 
+DN  Histone acetyltransferase GCN5 (EC 2.3.1.48)/13
+RQ  1
+EV  -; PTHR22880:SF124; sufficient;
+TG  GO:0000124;
+--
+SN  14
+ID  Transcriptional adapter 2
+DN  Transcriptional adapter 2/14
+RQ  1
+EV  IPR016827; PIRSF025024; sufficient;
+TG  GO:0000124;
+--
+SN  15
+ID  Protein SPT3
+DN  Protein SPT3/15
+RQ  1
+EV  IPR003195; PF02269; sufficient;
+EV  IPR003195; PTHR11380; sufficient;
+EV  IPR003195; cd07978; sufficient;
+TG  GO:0000124;
+--
+SN  16
+ID  SAGA-associated factor 29
+DN  SAGA-associated factor 29/16
+RQ  1
+EV  -; PTHR21539; sufficient;
+TG  GO:0000124;
+--
+SN  17
+ID  Transcription initiation factor TFIID subunit 10 
+DN  Transcription initiation factor TFIID subunit 10 /17
+RQ  1
+EV  IPR003923; PIRSF017246; sufficient;
+EV  IPR003923; PR01443; sufficient;
+EV  IPR003923; PTHR21242; sufficient;
+EV  IPR003923; cd07982; sufficient;
+TG  GO:0000124;
+--
+SN  18
+ID  Transcription initiation factor TFIID subunit 9 
+DN  Transcription initiation factor TFIID subunit 9 /18
+RQ  1
+EV  IPR003162; PF02291; sufficient;
+EV  IPR003162; cd07979; sufficient;
+TG  GO:0000124;
+--
+SN  19
+ID  SAGA-associated factor 11
+DN  SAGA-associated factor 11/19
+RQ  1
+EV  IPR013246; MF_03047; sufficient;
+EV  IPR013246; PF08209; sufficient;
+TG  GO:0000124;
+--
+SN  20
+ID  Transcription and mRNA export factor SUS1
+DN  Transcription and mRNA export factor SUS1/20
+RQ  1
+EV  IPR018783; MF_03046; sufficient;
+EV  IPR018783; PF10163; sufficient;
+EV  IPR018783; PTHR12514; sufficient;
+TG  GO:0000124;
+//
