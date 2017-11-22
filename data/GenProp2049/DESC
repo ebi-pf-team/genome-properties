@@ -1,0 +1,42 @@
+AC  GenProp2049
+DE  CDK-activating kinase (CAK) complex
+TP  SYSTEM
+AU  Rawlings ND
+TH  1
+RN  [1]
+RM  10024882
+RT  Reconstitution of the transcription factor TFIIH: assignment of 
+RT  functions for the three enzymatic subunits, XPB, XPD, and cdk7. 
+RA  Tirode F; Busso D; Coin F; Egly JM;   
+RL  Mol Cell. 1999;3:87-95.
+CC  The CAK complex consists of cyclin-dependent kinase 7 (CDK7), 
+CC  cyclin-H (CCNH) and MAT1.  The complex associates with the 
+CC  core-TFIIH complex to form the TFIIH basal transcription factor 
+CC  [1].
+--
+SN  1
+ID  Cyclin-dependent kinase 7
+DN  Cyclin-dependent kinase 7/1
+RQ  1
+EV  -; PTHR24056:SF0; sufficient;
+TG  GO:0004693;
+TG  GO:0006289;
+--
+SN  2
+ID  Cyclin-H
+DN  Cyclin-H/2
+RQ  1
+EV  IPR027081; TIGR00569; sufficient;
+TG  GO:0016538;
+TG  GO:0070985;
+--
+SN  3
+ID  CDK-activating kinase assembly factor MAT1
+DN  CDK-activating kinase assembly factor MAT1/3
+RQ  1
+EV  IPR004575; PIRSF003338; sufficient;
+EV  IPR004575; PTHR12683:SF13; sufficient;
+EV  IPR004575; TIGR00570; sufficient;
+TG  GO:0006289;
+TG  GO:0005675;
+//
