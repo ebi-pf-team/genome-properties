@@ -18,7 +18,7 @@ SN  1
 ID  Cyclin-dependent kinase 7
 DN  Cyclin-dependent kinase 7/1
 RQ  1
-EV  -; PTHR24056:SF0; sufficient;
+EV  IPR037770; PTHR24056:SF0; sufficient;
 TG  GO:0004693;
 TG  GO:0006289;
 --
