@@ -9,10 +9,18 @@ RT  Reconstitution of the transcription factor TFIIH: assignment of
 RT  functions for the three enzymatic subunits, XPB, XPD, and cdk7. 
 RA  Tirode F; Busso D; Coin F; Egly JM;   
 RL  Mol Cell. 1999;3:87-95.
+RN  [2]
+RM  8230216
+RT  The kin28 protein kinase is associated with a cyclin in 
+RT  Saccharomyces cerevisiae. 
+RA  Valay JG; Simon M; Faye G;   
+RL  J Mol Biol. 1993;234:307-310.
 CC  The CAK complex consists of cyclin-dependent kinase 7 (CDK7), 
 CC  cyclin-H (CCNH) and MAT1.  The complex associates with the 
 CC  core-TFIIH complex to form the TFIIH basal transcription factor 
-CC  [1].
+CC  [1].  In the yeast Saccharomyces cerevisiae, CDK7 is known as 
+CC  KIN28 and cyclin H is known as CCL1.  Together they form a 
+CC  heterodimer known as TFIIK [2].
 --
 SN  1
 ID  Cyclin-dependent kinase 7
