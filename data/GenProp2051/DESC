@@ -43,14 +43,14 @@ SN  3
 ID  SAGA-associated factor 73
 DN  SAGA-associated factor 73/3
 RQ  1
-EV  -; PTHR15117:SF11; sufficient;
+EV  IPR037804; PTHR15117:SF11; sufficient;
 TG  GO:0000124;
 --
 SN  4
 ID  Transcription factor SPT8
 DN  Transcription factor SPT8/4
 RQ  1
-EV  -; PTHR22847; sufficient;
+EV  -; -; sufficient;
 TG  GO:0000124;
 --
 SN  5
