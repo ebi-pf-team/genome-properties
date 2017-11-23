@@ -119,8 +119,8 @@ EV  -; PTHR22880:SF124; sufficient;
 TG  GO:0000124;
 --
 SN  14
-ID  Transcriptional adapter 2
-DN  Transcriptional adapter 2/14
+ID  Transcriptional adapter 2 (ADA2)
+DN  Transcriptional adapter 2 (ADA2)/14
 RQ  1
 EV  IPR016827; PIRSF025024; sufficient;
 TG  GO:0000124;
