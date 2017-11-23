@@ -1,0 +1,49 @@
+AC  GenProp2053
+DE  ADA complex
+TP  SYSTEM
+AU  Rawlings ND
+TH  1
+RN  [1] REPLACE
+RM  9224714
+RT  Yeast Gcn5 functions in two multisubunit complexes to 
+RT  acetylate nucleosomal histones: characterization of an Ada 
+RT  complex and the SAGA (Spt/Ada) complex. 
+RA  Grant PA; Duggan L; Côté J; Roberts SM; Brownell JE; Candau 
+RA  R; Ohba R; Owen-Hughes T; Allis CD; Winston F; Berger SL; 
+RA  Workman JL;   
+RL  Genes Dev. 1997;11:1640-1650.
+CC  The ADA complex is a transcription regulatory histone 
+CC  acetylation (HAT) complex ADA. ADA preferentially acetylates 
+CC  nucleosomal histones H3 (at 'Lys-14' and 'Lys-18') and H2B. 
+CC  AHC1 is required for the overall structural integrity of the 
+CC  ADA complex.
+--
+SN  1
+ID  Transcriptional adapter 2 (ADA2)
+DN  Transcriptional adapter 2 (ADA2)/1
+RQ  1
+EV  IPR016827; PIRSF025024; sufficient;
+TG  GO:0000124;
+--
+SN  2
+ID  Chromatin-remodeling complexes subunit NGG1 (ADA3)
+DN  Chromatin-remodeling complexes subunit NGG1 (ADA3)/2
+RQ  1
+EV  IPR019340; PTHR13556; sufficient;
+EV  IPR019340; PF10198; sufficient;
+TG  GO:0000124;
+--
+SN  3
+ID  Protein AHC1
+DN  Protein AHC1/3
+RQ  1
+EV  -; PTHR13585:SF19; sufficient;
+TG  ;
+--
+SN  4
+ID  Histone acetyltransferase GCN5 
+DN  Histone acetyltransferase GCN5 (EC 2.3.1.48)/4
+RQ  1
+EV  IPR037800; PTHR22880:SF124; sufficient;
+TG  GO:0000124;
+//
