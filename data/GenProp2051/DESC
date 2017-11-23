@@ -57,7 +57,7 @@ SN  5
 ID  Ubiquitin carboxyl-terminal hydrolase 8
 DN  Ubiquitin carboxyl-terminal hydrolase 8 (EC 3.4.19.12)/5
 RQ  1
-EV  -; PTHR43961:SF2; sufficient;
+EV  IPR037798; PTHR43961:SF2; sufficient;
 TG  GO:0000124;
 --
 SN  6
