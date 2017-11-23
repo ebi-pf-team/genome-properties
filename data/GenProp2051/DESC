@@ -45,10 +45,10 @@ EV  -; PTHR10799:SF838; sufficient;
 TG  GO:0000124;
 --
 SN  3
-ID  SPT7 NOT DONE
-DN  CDK-activating kinase assembly factor MAT1/3
+ID  Transcriptional activator SPT7
+DN  Transcriptional activator SPT7/3
 RQ  1
-EV  -; -; sufficient;
+EV  -; PTHR22880:SF223; sufficient;
 TG  GO:0000124;
 --
 SN  4
@@ -59,10 +59,10 @@ EV  -; PTHR19879:SF1; sufficient;
 TG  GO:0000124;
 --
 SN  5
-ID  ADA3 NOT DONE
-DN  CDK-activating kinase assembly factor MAT1/5
+ID  Chromatin-remodeling complexes subunit NGG1 (ADA3)
+DN  Chromatin-remodeling complexes subunit NGG1 (ADA3)/5
 RQ  1
-EV  -; -; sufficient;
+EV  -; PTHR13556; sufficient;
 TG  GO:0000124;
 --
 SN  6
@@ -73,17 +73,17 @@ EV  -; PTHR15117:SF11; sufficient;
 TG  GO:0000124;
 --
 SN  7
-ID  SPT20/ADA5 NOT DONE
-DN  CDK-activating kinase assembly factor MAT1/7
+ID  Transcription factor SPT20
+DN  Transcription factor SPT20/7
 RQ  1
-EV  -; -; sufficient;
+EV  IPR021950; PF12090; sufficient;
 TG  GO:0000124;
 --
 SN  8
-ID  SPT8 NOT DONE
-DN  CDK-activating kinase assembly factor MAT1/8
+ID  Transcription factor SPT8
+DN  Transcription factor SPT8/8
 RQ  1
-EV  -; -; sufficient;
+EV  -; PTHR22847; sufficient;
 TG  GO:0000124;
 --
 SN  9
