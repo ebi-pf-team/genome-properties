@@ -52,7 +52,7 @@ SN  5
 ID  Chromatin-remodeling complexes subunit NGG1 (ADA3)
 DN  Chromatin-remodeling complexes subunit NGG1 (ADA3)/5
 RQ  1
-EV  -; PTHR13556; sufficient;
+EV  IPR019340; PF10198; sufficient;
 TG  GO:0000124;
 --
 SN  6
