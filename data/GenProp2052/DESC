@@ -53,6 +53,7 @@ ID  Chromatin-remodeling complexes subunit NGG1 (ADA3)
 DN  Chromatin-remodeling complexes subunit NGG1 (ADA3)/5
 RQ  1
 EV  IPR019340; PF10198; sufficient;
+EV  IPR019340; PTHR13556; sufficient;
 TG  GO:0000124;
 --
 SN  6
@@ -66,7 +67,7 @@ SN  7
 ID  High-affinity glucose transporter RGT2
 DN  High-affinity glucose transporter RGT2/7
 RQ  1
-EV  -; PTHR23500:SF343; sufficient;
+EV  IPR037792; PTHR23500:SF343; sufficient;
 TG  GO:0000124;
 --
 SN  8
