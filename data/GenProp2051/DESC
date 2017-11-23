@@ -9,13 +9,13 @@ RT  Chd1 chromodomain links histone H3 methylation with SAGA- and
 RT  SLIK-dependent acetylation. 
 RA  Pray-Grant MG; Daniel JA; Schieltz D; Yates JR 3rd; Grant PA;   
 RL  Nature 2005;433:434-438.
-RN  [2] REPLACE REFERENCE
-RM  8230216
-RT  The kin28 protein kinase is associated with a cyclin in 
-RT  Saccharomyces cerevisiae. 
-RA  Valay JG; Simon M; Faye G;   
-RL  J Mol Biol. 1993;234:307-310.
-CC  Yeast SAGA complex is a histone acetyltransferase that 
+RN  [2] 
+RM  25216679
+RT  Architecture of the Saccharomyces cerevisiae SAGA transcription 
+RT  coactivator complex. 
+RA  Han Y; Luo J; Ranish J; Hahn S;   
+RL  EMBO J. 2014;33:2534-2546.
+CC  Yeast SAGA complex is a histone acetyltransferase (HAT) that 
 CC  acetylates histones H3 and H2B and deubiquitinates histone H2B.
 CC  Modifications to histones affect various nuclear processes, 
 CC  including gene regulation, DNA repair and replication [1].  
@@ -23,16 +23,8 @@ CC  The SAGA complex consists of at least of TRA1, CHD1, SPT7, TAF5,
 CC  ADA3, SGF73, SPT20/ADA5, SPT8, TAF12, TAF6, HFI1/ADA1, UBP8, 
 CC  GCN5, ADA2, SPT3, SGF29, TAF10, TAF9, SGF11 and SUS1.  
 CC  Two copies of TAF5, TAF6, TAF9, TAF19, TAF12 and ADA1 are
-CC  present.  There are five distinct subcomplexes or domains, 
-CC  each of which has a specialized function.  Domain I contains 
-CC  TRA1 and probably represents the activator interaction surface. 
-CC  Domain II which contains TAF5 and TAF6, and probably TAF9 and 
-CC  TAF10. Domain III contains GCN5, TAF10, SPT7, TAF5 and ADA1, and 
-CC  probably ADA2, ADA3 and TAF12.  Domain IV contains HFI1/ADA1 and 
-CC  TAF6, and probably TAF9).  Domains II-IV are believed to play  
-CC  architectural roles.  Domain V contains SPT3 and SPT20, and 
-CC  probably SPT8 is the TBP-interacting module, and may be only 
-CC  transiently associated with SAGA.
+CC  present.  The complex is built up from individual modules [2].
+**  UBP8 is MEROPS identifier C19.087.
 --
 SN  1
 ID  Transcription-associated protein 1 
