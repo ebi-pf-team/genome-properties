@@ -44,7 +44,7 @@ SN  3
 ID  Transcriptional activator SPT7
 DN  Transcriptional activator SPT7/3
 RQ  1
-EV  -; PTHR22880:SF223; sufficient;
+EV  IPR037782; PTHR22880:SF223; sufficient;
 TG  GO:0000124;
 --
 SN  4
