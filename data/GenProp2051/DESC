@@ -64,7 +64,7 @@ SN  6
 ID  SAGA-associated factor 29
 DN  SAGA-associated factor 29/6
 RQ  1
-EV  -; PTHR21539; sufficient;
+EV  IPR037802; PTHR21539; sufficient;
 TG  GO:0000124;
 --
 SN  7
