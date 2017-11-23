@@ -9,15 +9,9 @@ RT  Chd1 chromodomain links histone H3 methylation with SAGA- and
 RT  SLIK-dependent acetylation. 
 RA  Pray-Grant MG; Daniel JA; Schieltz D; Yates JR 3rd; Grant PA;   
 RL  Nature 2005;433:434-438.
-RN  [2] REPLACE
-RM  25216679
-RT  Architecture of the Saccharomyces cerevisiae SAGA transcription 
-RT  coactivator complex. 
-RA  Han Y; Luo J; Ranish J; Hahn S;   
-RL  EMBO J. 2014;33:2534-2546.
 CC  The yeast SLIK complex consists of at least TRA1, CHD1, SPT7, 
 CC  TAF5, ADA3, SPT20, RTG2, TAF12, TAF6, HFI1, UBP8, GCN5, ADA2, 
-CC  SPT3, SGF29, TAF10 and TAF9.
+CC  SPT3, SGF29, TAF10 and TAF9 [1].
 **  UBP8 is MEROPS identifier C19.087.
 --
 SN  1
@@ -74,7 +68,7 @@ SN  8
 ID  Transcription initiation factor TFIID subunit 12
 DN  Transcription initiation factor TFIID subunit 12/8
 RQ  1
-EV  -; PTHR12264:SF21; sufficient;
+EV  IPR037794; PTHR12264:SF21; sufficient;
 TG  GO:0000124;
 --
 SN  9
