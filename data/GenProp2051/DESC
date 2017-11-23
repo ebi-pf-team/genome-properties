@@ -1,6 +1,6 @@
 AC  GenProp2051
 DE  Spt-Ada-Gcn5-acetyltransferase (SAGA) complex
-TP  SYSTEM
+TP  METAPATH
 AU  Rawlings ND
 TH  1
 RN  [1] 
@@ -27,10 +27,9 @@ CC  present.  The complex is built up from individual modules [2].
 **  UBP8 is MEROPS identifier C19.087.
 --
 SN  1
-ID  Transcription-associated protein 1 
-DN  Transcription-associated protein 1/1
+ID  SALSA complex
 RQ  1
-EV  IPR033317; PTHR11139:SF1; sufficient;
+EV  GenProp2053;
 TG  GO:0000124;
 --
 SN  2
@@ -41,109 +40,36 @@ EV  IPR037780; PTHR10799:SF838; sufficient;
 TG  GO:0000124;
 --
 SN  3
-ID  Transcriptional activator SPT7
-DN  Transcriptional activator SPT7/3
-RQ  1
-EV  IPR037782; PTHR22880:SF223; sufficient;
-TG  GO:0000124;
---
-SN  4
-ID  Transcription initiation factor TFIID subunit 5 
-DN  Transcription initiation factor TFIID subunit 5 /4
-RQ  1
-EV  IPR037783; PTHR19879:SF1; sufficient;
-TG  GO:0000124;
---
-SN  5
-ID  Chromatin-remodeling complexes subunit NGG1 (ADA3)
-DN  Chromatin-remodeling complexes subunit NGG1 (ADA3)/5
-RQ  1
-EV  -; PTHR13556; sufficient;
-TG  GO:0000124;
---
-SN  6
 ID  SAGA-associated factor 73
-DN  SAGA-associated factor 73/6
+DN  SAGA-associated factor 73/3
 RQ  1
 EV  -; PTHR15117:SF11; sufficient;
 TG  GO:0000124;
 --
-SN  7
-ID  Transcription factor SPT20
-DN  Transcription factor SPT20/7
-RQ  1
-EV  IPR021950; PF12090; sufficient;
-TG  GO:0000124;
---
-SN  8
+SN  4
 ID  Transcription factor SPT8
-DN  Transcription factor SPT8/8
+DN  Transcription factor SPT8/4
 RQ  1
 EV  -; PTHR22847; sufficient;
 TG  GO:0000124;
 --
-SN  9
-ID  Transcription initiation factor TFIID subunit 12
-DN  Transcription initiation factor TFIID subunit 12/9
-RQ  1
-EV  -; PTHR12264:SF21; sufficient;
-TG  GO:0000124;
---
-SN  10
-ID  Transcription initiation factor TFIID subunit 6
-DN  Transcription initiation factor TFIID subunit 6/10
-RQ  1
-EV  -; PTHR10221:SF9; sufficient;
-TG  GO:0000124;
---
-SN  11
-ID  Transcriptional coactivator HFI1/ADA1
-DN  Transcriptional coactivator HFI1/ADA1/11
-RQ  1
-EV  IPR024738; PF12767; sufficient;
-EV  IPR024738; PTHR21277; sufficient;
-TG  GO:0000124;
---
-SN  12
+SN  5
 ID  Ubiquitin carboxyl-terminal hydrolase 8
-DN  Ubiquitin carboxyl-terminal hydrolase 8 (EC 3.4.19.12)/12
+DN  Ubiquitin carboxyl-terminal hydrolase 8 (EC 3.4.19.12)/5
 RQ  1
 EV  -; PTHR43961:SF2; sufficient;
 TG  GO:0000124;
 --
-SN  13
-ID  Histone acetyltransferase GCN5 
-DN  Histone acetyltransferase GCN5 (EC 2.3.1.48)/13
-RQ  1
-EV  -; PTHR22880:SF124; sufficient;
-TG  GO:0000124;
---
-SN  14
-ID  Transcriptional adapter 2 (ADA2)
-DN  Transcriptional adapter 2 (ADA2)/14
-RQ  1
-EV  IPR016827; PIRSF025024; sufficient;
-TG  GO:0000124;
---
-SN  15
-ID  Protein SPT3
-DN  Protein SPT3/15
-RQ  1
-EV  IPR003195; PF02269; sufficient;
-EV  IPR003195; PTHR11380; sufficient;
-EV  IPR003195; cd07978; sufficient;
-TG  GO:0000124;
---
-SN  16
+SN  6
 ID  SAGA-associated factor 29
-DN  SAGA-associated factor 29/16
+DN  SAGA-associated factor 29/6
 RQ  1
 EV  -; PTHR21539; sufficient;
 TG  GO:0000124;
 --
-SN  17
+SN  7
 ID  Transcription initiation factor TFIID subunit 10 
-DN  Transcription initiation factor TFIID subunit 10 /17
+DN  Transcription initiation factor TFIID subunit 10 /7
 RQ  1
 EV  IPR003923; PIRSF017246; sufficient;
 EV  IPR003923; PR01443; sufficient;
@@ -151,23 +77,23 @@ EV  IPR003923; PTHR21242; sufficient;
 EV  IPR003923; cd07982; sufficient;
 TG  GO:0000124;
 --
-SN  18
+SN  8
 ID  Transcription initiation factor TFIID subunit 9 
-DN  Transcription initiation factor TFIID subunit 9 /18
+DN  Transcription initiation factor TFIID subunit 9 /8
 RQ  1
 EV  IPR003162; PF02291; sufficient;
 EV  IPR003162; cd07979; sufficient;
 TG  GO:0000124;
 --
-SN  19
+SN  9
 ID  SAGA-associated factor 11
-DN  SAGA-associated factor 11/19
+DN  SAGA-associated factor 11/9
 RQ  1
 EV  IPR013246; MF_03047; sufficient;
 EV  IPR013246; PF08209; sufficient;
 TG  GO:0000124;
 --
-SN  20
+SN  10
 ID  Transcription and mRNA export factor SUS1
 DN  Transcription and mRNA export factor SUS1/20
 RQ  1
