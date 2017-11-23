@@ -3,18 +3,22 @@ DE  Spt-Ada-Gcn5-acetyltransferase (SAGA) complex
 TP  SYSTEM
 AU  Rawlings ND
 TH  1
-RN  [1] REPLACE REFERENCE
-RM  10024882
-RT  Reconstitution of the transcription factor TFIIH: assignment of 
-RT  functions for the three enzymatic subunits, XPB, XPD, and cdk7. 
-RA  Tirode F; Busso D; Coin F; Egly JM;   
-RL  Mol Cell. 1999;3:87-95.
+RN  [1] 
+RM  15647753
+RT  Chd1 chromodomain links histone H3 methylation with SAGA- and 
+RT  SLIK-dependent acetylation. 
+RA  Pray-Grant MG; Daniel JA; Schieltz D; Yates JR 3rd; Grant PA;   
+RL  Nature 2005;433:434-438.
 RN  [2] REPLACE REFERENCE
 RM  8230216
 RT  The kin28 protein kinase is associated with a cyclin in 
 RT  Saccharomyces cerevisiae. 
 RA  Valay JG; Simon M; Faye G;   
 RL  J Mol Biol. 1993;234:307-310.
+CC  Yeast SAGA complex is a histone acetyltransferase that 
+CC  acetylates histones H3 and H2B and deubiquitinates histone H2B.
+CC  Modifications to histones affect various nuclear processes, 
+CC  including gene regulation, DNA repair and replication [1].  
 CC  The SAGA complex consists of at least of TRA1, CHD1, SPT7, TAF5, 
 CC  ADA3, SGF73, SPT20/ADA5, SPT8, TAF12, TAF6, HFI1/ADA1, UBP8, 
 CC  GCN5, ADA2, SPT3, SGF29, TAF10, TAF9, SGF11 and SUS1.  
@@ -41,7 +45,7 @@ SN  2
 ID  Chromo domain-containing protein 1 
 DN  Chromo domain-containing protein 1 (EC 3.6.4.-)/2
 RQ  1
-EV  -; PTHR10799:SF838; sufficient;
+EV  IPR037780; PTHR10799:SF838; sufficient;
 TG  GO:0000124;
 --
 SN  3
