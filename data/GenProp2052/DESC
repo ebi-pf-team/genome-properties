@@ -75,7 +75,7 @@ SN  9
 ID  Transcription initiation factor TFIID subunit 6
 DN  Transcription initiation factor TFIID subunit 6/9
 RQ  1
-EV  -; PTHR10221:SF9; sufficient;
+EV  IPR037796; PTHR10221; sufficient;
 TG  GO:0000124;
 --
 SN  10
