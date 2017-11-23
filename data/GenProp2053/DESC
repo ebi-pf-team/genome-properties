@@ -3,16 +3,16 @@ DE  SALSA complex
 TP  SYSTEM
 AU  Rawlings ND
 TH  1
-RN  [1] REPLACE
-RM  15647753
-RT  Chd1 chromodomain links histone H3 methylation with SAGA- and 
-RT  SLIK-dependent acetylation. 
-RA  Pray-Grant MG; Daniel JA; Schieltz D; Yates JR 3rd; Grant PA;   
-RL  Nature 2005;433:434-438.
+RN  [1]
+RM  12186975
+RT  SALSA, a variant of yeast SAGA, contains truncated Spt7, which 
+RT  correlates with activated transcription. 
+RA  Sterner DE; Belotserkovskaya R; Berger SL;   
+RL  Proc Natl Acad Sci U S A 2002;99:11622-11627.
 CC  The yeast SALSA complex is an altered form of the SAGA complex
 CC  and consists of at least TRA1, SPT7 (C-terminal truncated 
 CC  form), TAF5, ADA3, SPT20, TAF12, TAF6, HFI1, GCN5, ADA2 and 
-CC  SPT3.
+CC  SPT3 [1].
 --
 SN  1
 ID  Transcription-associated protein 1 
