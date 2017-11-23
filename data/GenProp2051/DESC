@@ -51,7 +51,7 @@ SN  4
 ID  Transcription initiation factor TFIID subunit 5 
 DN  Transcription initiation factor TFIID subunit 5 /4
 RQ  1
-EV  -; PTHR19879:SF1; sufficient;
+EV  IPR037783; PTHR19879:SF1; sufficient;
 TG  GO:0000124;
 --
 SN  5
