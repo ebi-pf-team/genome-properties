@@ -50,7 +50,7 @@ SN  4
 ID  Transcription factor SPT8
 DN  Transcription factor SPT8/4
 RQ  1
-EV  -; -; sufficient;
+EV  -; PTHR22847; sufficient;
 TG  GO:0000124;
 --
 SN  5
