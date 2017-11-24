@@ -3,7 +3,7 @@ DE  ADA complex
 TP  SYSTEM
 AU  Rawlings ND
 TH  1
-RN  [1] REPLACE
+RN  [1]
 RM  9224714
 RT  Yeast Gcn5 functions in two multisubunit complexes to 
 RT  acetylate nucleosomal histones: characterization of an Ada 
@@ -37,7 +37,7 @@ SN  3
 ID  Protein AHC1
 DN  Protein AHC1/3
 RQ  1
-EV  -; PTHR13585:SF19; sufficient;
+EV  IPR037807; PTHR13585:SF19; sufficient;
 TG  ;
 --
 SN  4
