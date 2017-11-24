@@ -1,0 +1,71 @@
+AC  GenProp2059
+DE  Set1B histone H3-Lys4 methyltransferase complex
+TP  SYSTEM
+AU  Rawlings ND
+TH  1
+RN  [1]
+RM  17355966
+RT  Identification and characterization of the human Set1B histone 
+RT  H3-Lys4 methyltransferase complex. 
+RA  Lee JH; Tate CM; You JS; Skalnik DG;   
+RL  J Biol Chem. 2007;282:13419-13428.
+CC  The SET1 complex is composed of at least the catalytic subunit 
+CC  (SETD1A or SETD1B), WDR5, WDR82, RBBP5, ASH2L/ASH2, CXXC1/CFP1, 
+CC  HCFC1 and DPY30.
+--
+SN  1
+ID  SETD1A or SETD1B
+DN  Cysteine-rich protein 2-binding protein (KAT14)/1
+RQ  1
+EV  -; -; sufficient;
+TG  ;
+--
+SN  2
+ID  WDR5 
+DN  Histone acetyltransferase KAT2A /2
+RQ  1
+EV  -; -; sufficient;
+TG  ;
+--
+SN  3
+ID  WDR82
+DN  Transcriptional adapter 2-alpha (TADA2L) /3
+RQ  1
+EV  -; -; sufficient;
+TG  ;
+--
+SN  4
+ID  RBBP5 
+DN  Transcriptional adapter 3 (TADA3L) /4
+RQ  1
+EV  -; -; sufficient;
+TG  ;
+--
+SN  5
+ID  ASH2L/ASH2
+DN  ZZ-type zinc finger-containing protein 3 (ZZZ3) /5
+RQ  1
+EV  -; -; sufficient;
+TG  ;
+--
+SN  6
+ID  CXXC1/CFP1 
+DN  MAP3K12-binding inhibitory protein 1 (MBIP) /6
+RQ  1
+EV  -; -; sufficient;
+TG  ;
+--
+SN  7
+ID  HCFC1
+DN  WD repeat-containing protein 5 (WDR5)/7
+RQ  1
+EV  -; -; sufficient;
+TG  ;
+--
+SN  8
+ID  DPY30
+DN  YEATS domain-containing protein 2 (YEATS2)/8
+RQ  1
+EV  -; -; sufficient;
+TG  ;
+//
