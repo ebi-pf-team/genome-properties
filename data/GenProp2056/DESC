@@ -21,7 +21,7 @@ SN  1
 ID  Cysteine-rich protein 2-binding protein (KAT14) 
 DN  Cysteine-rich protein 2-binding protein (KAT14)/1
 RQ  1
-EV  -; PTHR20916:SF0; sufficient;
+EV  IPR037829; PTHR20916:SF0; sufficient;
 TG  GO:0005671;
 --
 SN  2
@@ -51,7 +51,7 @@ SN  5
 ID  ZZ-type zinc finger-containing protein 3 (ZZZ3)
 DN  ZZ-type zinc finger-containing protein 3 (ZZZ3) /5
 RQ  1
-EV  -; -; sufficient;
+EV  IPR037830; PTHR22705:SF0; sufficient;
 TG  GO:0005671;
 --
 SN  6
