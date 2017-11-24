@@ -1,0 +1,97 @@
+AC  GenProp2056
+DE  ADA2A-containing complex (ATAC)
+TP  SYSTEM
+AU  Rawlings ND
+TH  1
+RN  [1] REPLACE
+RM  12138208
+RT  Molecular characterization of Saccharomyces cerevisiae TFIID. 
+RA  Sanders SL; Garbett KA; Weil PA;   
+RL  Mol Cell Biol. 2002;22:6000-6013.
+RN  [2] 
+RM  10788514
+RT  Identification of two novel TAF subunits of the yeast 
+RT  Saccharomyces cerevisiae TFIID complex. 
+RA  Sanders SL; Weil PA;   
+RL  J Biol Chem. 2000;275:13895-13900.
+CC  The TFTC-HAT complex is composed of at least TAF5L, TAF6L, 
+CC  TAF3, TADA3L, SUPT3H/SPT3, TAF2/TAFII150, TAF4/TAFII135, 
+CC  TAF5/TAFII100, KAT2A/GCN5L2, TAF10 and TRRAP. 
+--
+SN  1
+ID  TAF5L 
+DN  TATA-box-binding protein/1
+RQ  1
+EV  -; -; sufficient;
+TG  ;
+--
+SN  2
+ID  TAF6L 
+DN  Transcription initiation factor TFIID subunit 1 /2
+RQ  1
+EV  -; -; sufficient;
+TG  ;
+--
+SN  3
+ID  TAF3 
+DN  Transcription initiation factor TFIID subunit 2 /3
+RQ  1
+EV  -; -; sufficient;
+TG  ;
+--
+SN  4
+ID  TADA3L 
+DN  Transcription initiation factor TFIID subunit 3 /4
+RQ  1
+EV  -; -; sufficient;
+TG  ;
+--
+SN  5
+ID  SUPT3H/SPT3 
+DN  Transcription initiation factor TFIID subunit 4 /5
+RQ  1
+EV  -; -; sufficient;
+TG  ;
+--
+SN  6
+ID  TAF2/TAFII150 
+DN  Transcription initiation factor TFIID subunit 5 /6
+RQ  1
+EV  -; -; sufficient;
+TG  ;
+--
+SN  7
+ID  TAF4/TAFII135
+DN  Transcription initiation factor TFIID subunit 6/7
+RQ  1
+EV  -; -; sufficient;
+TG  ;
+--
+SN  8
+ID  TAF5/TAFII100
+DN  Transcription initiation factor TFIID subunit 7/8
+RQ  1
+EV  -; -; sufficient;
+TG  ;
+--
+SN  9
+ID  KAT2A/GCN5L2
+DN  Transcription initiation factor TFIID subunit 8/9
+RQ  1
+EV  -; -; sufficient;
+TG  ;
+--
+SN  10
+ID  TAF10 
+DN  Transcription initiation factor TFIID subunit 9 /10
+RQ  1
+EV  -; -; sufficient;
+TG  ;
+--
+SN  11
+ID  TRRAP 
+DN  Transcription initiation factor TFIID subunit 10 /11
+RQ  1
+EV  -; -; sufficient;
+TG  -;
+//
