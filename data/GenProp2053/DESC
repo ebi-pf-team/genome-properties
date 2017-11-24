@@ -1,0 +1,97 @@
+AC  GenProp2053
+DE  SALSA complex
+TP  SYSTEM
+AU  Rawlings ND
+TH  1
+RN  [1]
+RM  12186975
+RT  SALSA, a variant of yeast SAGA, contains truncated Spt7, which 
+RT  correlates with activated transcription. 
+RA  Sterner DE; Belotserkovskaya R; Berger SL;   
+RL  Proc Natl Acad Sci U S A 2002;99:11622-11627.
+CC  The yeast SALSA complex is an altered form of the SAGA complex
+CC  and consists of at least TRA1, SPT7 (C-terminal truncated 
+CC  form), TAF5, ADA3, SPT20, TAF12, TAF6, HFI1, GCN5, ADA2 and 
+CC  SPT3 [1].
+--
+SN  1
+ID  Transcription-associated protein 1 
+DN  Transcription-associated protein 1/1
+RQ  1
+EV  IPR033317; PTHR11139:SF1; sufficient;
+TG  GO:0000124;
+--
+SN  2
+ID  Transcriptional activator SPT7
+DN  Transcriptional activator SPT7/2
+RQ  1
+EV  IPR037782; PTHR22880:SF223; sufficient;
+TG  GO:0000124;
+--
+SN  3
+ID  Transcription initiation factor TFIID subunit 5 
+DN  Transcription initiation factor TFIID subunit 5 /3
+RQ  1
+EV  IPR037783; PTHR19879:SF1; sufficient;
+TG  GO:0000124;
+--
+SN  4
+ID  Chromatin-remodeling complexes subunit NGG1 (ADA3)
+DN  Chromatin-remodeling complexes subunit NGG1 (ADA3)/4
+RQ  1
+EV  IPR019340; PTHR13556; sufficient;
+EV  IPR019340; PF10198; sufficient;
+TG  GO:0000124;
+--
+SN  5
+ID  Transcription factor SPT20
+DN  Transcription factor SPT20/5
+RQ  1
+EV  IPR021950; PF12090; sufficient;
+TG  GO:0000124;
+--
+SN  6
+ID  Transcription initiation factor TFIID subunit 12
+DN  Transcription initiation factor TFIID subunit 12/6
+RQ  1
+EV  IPR037794; PTHR12264:SF21; sufficient;
+TG  GO:0000124;
+--
+SN  7
+ID  Transcription initiation factor TFIID subunit 6
+DN  Transcription initiation factor TFIID subunit 6/7
+RQ  1
+EV  IPR037796; PTHR10221; sufficient;
+TG  GO:0000124;
+--
+SN  8
+ID  Transcriptional coactivator HFI1/ADA1
+DN  Transcriptional coactivator HFI1/ADA1/8
+RQ  1
+EV  IPR024738; PF12767; sufficient;
+EV  IPR024738; PTHR21277; sufficient;
+TG  GO:0000124;
+--
+SN  9
+ID  Histone acetyltransferase GCN5 
+DN  Histone acetyltransferase GCN5 (EC 2.3.1.48)/9
+RQ  1
+EV  IPR037800; PTHR22880:SF124; sufficient;
+TG  GO:0000124;
+--
+SN  10
+ID  Transcriptional adapter 2 (ADA2)
+DN  Transcriptional adapter 2 (ADA2)/10
+RQ  1
+EV  IPR016827; PIRSF025024; sufficient;
+TG  GO:0000124;
+--
+SN  11
+ID  Protein SPT3
+DN  Protein SPT3/11
+RQ  1
+EV  IPR003195; PF02269; sufficient;
+EV  IPR003195; PTHR11380; sufficient;
+EV  IPR003195; cd07978; sufficient;
+TG  GO:0000124;
+//

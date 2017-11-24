@@ -1,0 +1,68 @@
+AC  GenProp2052
+DE  SAGA-like (SLIK) complex
+TP  METAPATH
+AU  Rawlings ND
+TH  1
+RN  [1]
+RM  15647753
+RT  Chd1 chromodomain links histone H3 methylation with SAGA- and 
+RT  SLIK-dependent acetylation. 
+RA  Pray-Grant MG; Daniel JA; Schieltz D; Yates JR 3rd; Grant PA;   
+RL  Nature 2005;433:434-438.
+CC  The yeast SLIK complex consists of at least TRA1, CHD1, SPT7, 
+CC  TAF5, ADA3, SPT20, RTG2, TAF12, TAF6, HFI1, UBP8, GCN5, ADA2, 
+CC  SPT3, SGF29, TAF10 and TAF9 [1].
+**  UBP8 is MEROPS identifier C19.087.
+--
+SN  1
+ID  SALSA complex
+RQ  1
+EV  GenProp2053;
+TG  GO:0000124;
+--
+SN  2
+ID  Chromo domain-containing protein 1 
+DN  Chromo domain-containing protein 1 (EC 3.6.4.-)/2
+RQ  1
+EV  IPR037780; PTHR10799:SF838; sufficient;
+TG  GO:0000124;
+--
+SN  3
+ID  High-affinity glucose transporter RGT2
+DN  High-affinity glucose transporter RGT2/3
+RQ  1
+EV  IPR037792; PTHR23500:SF343; sufficient;
+TG  GO:0000124;
+--
+SN  4
+ID  Ubiquitin carboxyl-terminal hydrolase 8
+DN  Ubiquitin carboxyl-terminal hydrolase 8 (EC 3.4.19.12)/4
+RQ  1
+EV  IPR037798; PTHR43961:SF2; sufficient;
+TG  GO:0000124;
+--
+SN  5
+ID  SAGA-associated factor 29
+DN  SAGA-associated factor 29/5
+RQ  1
+EV  IPR037802; PTHR21539; sufficient;
+TG  GO:0000124;
+--
+SN  6
+ID  Transcription initiation factor TFIID subunit 10 
+DN  Transcription initiation factor TFIID subunit 10 /6
+RQ  1
+EV  IPR003923; PIRSF017246; sufficient;
+EV  IPR003923; PR01443; sufficient;
+EV  IPR003923; PTHR21242; sufficient;
+EV  IPR003923; cd07982; sufficient;
+TG  GO:0000124;
+--
+SN  7
+ID  Transcription initiation factor TFIID subunit 9 
+DN  Transcription initiation factor TFIID subunit 9 /7
+RQ  1
+EV  IPR003162; PF02291; sufficient;
+EV  IPR003162; cd07979; sufficient;
+TG  GO:0000124;
+//

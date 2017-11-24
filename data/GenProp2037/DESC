@@ -1,0 +1,102 @@
+AC  GenProp2037
+DE  Nuclear pore subcomplex Nup107-160
+TP  SYSTEM
+AU  Rawlings ND
+TH  1
+RN  [1]
+RM  15146057
+RT  The entire Nup107-160 complex, including three new members, is 
+RT  targeted as one entity to kinetochores in mitosis. 
+RA  Loïodice I; Alves A; Rabut G; Van Overbeek M; Ellenberg J; 
+RA  Sibarita JB; Doye V;   
+RL  Mol Biol Cell. 2004;15:3333-44.
+RN  [2]
+RM  17363900
+RT  The human Nup107-160 nuclear pore subcomplex contributes to 
+RT  proper kinetochore functions.
+RA  Zuccolo M; Alves A; Galy V; Bolhy S; Formstecher E; Racine V; 
+RA  Sibarita JB; Fukagawa T; Shiekhattar R; Yen T; Doye V;
+RL  EMBO J. 2007;26:1853-1864.
+RN  [3]
+RM  17360435
+RT  Cell-cycle-dependent phosphorylation of the nuclear pore 
+RT  Nup107-160 subcomplex.
+RA  Glavy JS; Krutchinsky AN; Cristea IM; Berke IC; Boehmer T; 
+RA  Blobel G; Chait BT;
+RL  Proc Natl Acad Sci U S A. 2007;104:3811-3816.
+CC  The Nup107-160 subcomplex of the nuclear pore complex (NPC) 
+CC  consists of NUP160, NUP133, NUP107, NUP98, NUP85, NUP43, NUP37, 
+CC  SEH1 and SEC13. This subcomplex is required for the assembly of  
+CC  a functional NPC [1].  This subcomplex is also required for  
+CC  normal kinetochore microtubule attachment, mitotic progression  
+CC  and chromosome segregation [2].  Phosphorylation of the  
+CC  subcomplex regulates its association with the NPC and other 
+CC  proteins [3].
+**  The same precursor yields Nup96 and Nup98.
+**  NUP98 is an endopeptidase (MEROPS ID S59.001).
+--
+SN  1
+ID  Nucleoporin Nup37
+DN  Nucleoporin Nup37/1
+RQ  1
+EV  IPR037626; PTHR22806; sufficient;
+TG  GO:0031080
+--
+SN  2
+ID  Nucleoporin Nup43
+DN  Nucleoporin Nup43/2
+RQ  1
+EV  IPR037628; PTHR22652; sufficient;
+TG  GO:0031080
+--
+SN  3
+ID  Nuclear pore complex protein Nup85
+DN  Nuclear pore complex protein Nup85/3
+RQ  1
+EV  IPR011502; PF07575; sufficient;
+EV  IPR011502; PTHR13373; sufficient;
+TG  GO:0017056
+--
+SN  4
+ID  Nuclear pore complex protein Nup98-Nup96
+DN  Nuclear pore complex protein Nup98-Nup96/4
+RQ  1
+EV  IPR037637; PTHR23198:SF6; sufficient;
+TG  GO:0017056
+--
+SN  5
+ID  Nuclear pore complex protein Nup107
+DN  Nuclear pore complex protein Nup107/5
+RQ  1
+EV  IPR007252; PF04121; sufficient;
+EV  IPR007252; PTHR13003; sufficient;
+TG  GO:0017056;
+--
+SN  6
+ID  Nuclear pore complex protein Nup133
+DN  Nuclear pore complex protein Nup133/6
+RQ  1
+EV  IPR037624; PTHR13405; sufficient;
+TG  GO:0017056;
+--
+SN  7
+ID  Nuclear pore complex protein Nup160
+DN  Nuclear pore complex protein Nup160/7
+RQ  1
+EV  IPR021717; PF11715; sufficient;
+TG  GO:0031080;
+--
+SN  8
+ID  Nucleoporin SEH1
+DN  Nucleoporin SEH1/8
+RQ  1
+EV  IPR037597; PTHR11024:SF3; sufficient;
+TG  GO:0006999;
+--
+SN  9
+ID  Protein SEC13 homolog
+DN  Protein SEC13 homolog/9
+RQ  1
+EV  IPR037596; PTHR11024:SF2; sufficient;
+TG  GO:0031080;
+//

@@ -1,0 +1,55 @@
+AC  GenProp2039
+DE  Mitochondrial protein processing
+TP  SYSTEM
+AU  Rawlings ND
+TH  1
+RN  [1]
+RM  11470436
+RT  Crystal structures of mitochondrial processing peptidase 
+RT  reveal the mode for specific cleavage of import signal 
+RT  sequences. 
+RA  Taylor AB; Smith BS; Kitada S; Kojima K; Miyaura H; 
+RA  Otwinowski Z; Ito A; Deisenhofer J;   
+RL  Structure 2001;9:615-625.
+RN  [2]
+RM  8035833
+RT  MIP1, a new yeast gene homologous to the rat mitochondrial 
+RT  intermediate peptidase gene, is required for oxidative 
+RT  metabolism in Saccharomyces cerevisiae.
+RA  Isaya G; Miklos D; Rollins RA;
+RL  Mol Cell Biol. 1994;14:5603-5616.
+CC  Mitocondrial processing peptidase (MPP) removes the first, 
+CC  N-terminal targeting sequence from nuclear-encoded proteins
+CC  that are destined for import into the mitochondrion.  MPP
+CC  is a heterodimer of two homologous subunits, MMPalpha and
+CC  MPPbeta.  Only the beta subunit has peptidase activity [1].
+CC  The initial targeting signal may be followed by a second
+CC  signal that targets a protein to the mitochondrial matrix 
+CC  or inner membrane.  This second signal is removed by 
+CC  mitochondrial intermediate peptidase [2].
+**  MPPalpha is MEROPS identifier M16.971.
+**  MPPbeta is MEROPS identifier M16.003.
+**  MIP is MEROPS M03.006.
+--
+SN  1
+ID  Mitochondrial-processing peptidase subunit alpha
+DN  Mitochondrial-processing peptidase subunit alpha/1
+RQ  1
+EV  IPR037715; PTHR11851:SF183; sufficient;
+TG  GO:0006627
+--
+SN  2
+ID  Mitochondrial-processing peptidase subunit beta
+DN  Mitochondrial-processing peptidase subunit beta/2
+RQ  1
+EV  IPR037718; PTHR11851:SF103; sufficient;
+TG  GO:0017087
+--
+SN  3
+ID  Mitochondrial intermediate peptidase
+DN  Mitochondrial intermediate peptidase/3
+RQ  0
+EV  IPR033851; PTHR11804:SF5; sufficient;
+EV  IPR033851; cd06457; sufficient;
+TG  GO:0006627
+//

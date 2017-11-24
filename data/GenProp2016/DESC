@@ -41,6 +41,9 @@ CC  Ubiquitinated proteins are not degraded.
 **  whereas the large form is a form of the 26S proteasome with alpha4S.
 **  Presence of PA200 in the regulatory particle is crucial for
 **  degradation of histones.
+**  The Panther subfamily PTHR11599:SF47 fails to distinguish alpha 7-like
+**  from alpha 7 (PTHR11599:SF15) and the two are included in the same
+**  InterPro entry (IPR037560).
 --
 SN  1
 ID  proteasome subunit alpha type-1
@@ -94,7 +97,7 @@ SN  7
 ID  Proteasome subunit alpha type-7-like
 DN  Proteasome subunit alpha type-7-like
 RQ  1
-EV  IPR037556; PTHR11599:SF47; sufficient;
+EV  IPR037560; PTHR11599:SF47; sufficient;
 TG  GO:0000502;
 --
 SN  8

@@ -1,0 +1,57 @@
+AC  GenProp2045
+DE  TREX-2 complex
+TP  SYSTEM
+AU  Rawlings ND
+TH  1
+RN  [1]
+RM  22307388
+RT  Functional and structural characterization of the mammalian 
+RT  TREX-2 complex that links transcription with nuclear messenger 
+RT  RNA export. 
+RA  Jani D; Lutz S; Hurt E; Laskey RA; Stewart M; Wickramasinghe VO;   
+RL  Nucleic Acids Res. 2012;40:4562-4573.
+CC  The TREX-2 complex helps dock export-competent ribonucleoprotein 
+CC  particles to the nuclear entrance of the nuclear pore complex [1].  
+CC  The TREX-2 complex consists of at least ENY2, GANP, PCID2, SEM1, 
+CC  and either centrin CETN2 or CETN3 [1].
+**  ENY2 is also a component of the SAGA complex.
+**  SEM1 is also a component of the proteasome regulatory cap.
+--
+SN  1
+ID  Transcription and mRNA export factor ENY2
+DN  Transcription and mRNA export factor ENY2/1
+RQ  1
+EV  IPR018783; PF10163; sufficient;
+EV  IPR018783; MF_03046; sufficient;
+EV  IPR018783; PTHR12514; sufficient;
+TG  ;
+--
+SN  2
+ID  Germinal-center associated nuclear protein
+DN  Germinal-center associated nuclear protein/2
+RQ  1
+EV  -; PTHR12436:SF27; sufficient;
+TG  GO:0005643;
+--
+SN  3
+ID  PCI domain-containing protein 2
+DN  PCI domain-containing protein 2/2
+RQ  1
+EV  -; PTHR12732:SF0; sufficient;
+TG  GO:0070390;
+--
+SN  4
+ID  26S proteasome complex subunit SEM1
+DN  26S proteasome complex subunit SEM1/2
+RQ  1
+EV  -; PTHR16771:SF0; sufficient;
+TG  GO:0006406;
+--
+SN  5
+ID  Centrin
+DN  Centrin/3
+RQ  1
+EV  IPR037629; PTHR23050:SF305; sufficient;
+EV  -; PTHR23050:SF218; sufficient;
+TG  GO:0000715;
+//

@@ -1,0 +1,73 @@
+AC  GenProp2038
+DE  Microsomal signal peptidase complex
+TP  SYSTEM
+AU  Rawlings ND
+TH  1
+RN  [1]
+RM  1846444
+RT  Yeast signal peptidase contains a glycoprotein and the Sec11 
+RT  gene product. 
+RA  YaDeau JT; Klein C; Blobel G;   
+RL  Proc Natl Acad Sci U S A. 1991;88:517-521.
+RN  [2]
+RM  9148931
+RT  The yeast SPC22/23 homolog Spc3p is essential for signal 
+RT  peptidase activity.
+RA  Meyer HA; Hartmann E;
+RL  J Biol Chem. 1997;272:13159-13164.
+RN  [3]
+RM  14559916
+RT  Genetic complementation in yeast reveals functional 
+RT  similarities between the catalytic subunits of mammalian 
+RT  signal peptidase complex.
+RA  Liang H; VanValkenburgh C; Chen X; Mullins C; Van Kaer L; 
+RA  Green N; Fang H;
+RL  J Biol Chem. 2003;278:50932-50939.
+CC  Micosomal signal peptidase removes signal peptides from 
+CC  newly transcribed proteins that are destined for entry into
+CC  the secretory pathway.  Microsomal signal peptidase is a 
+CC  complex consisting of SEC11A, SEC11C, SPCS1, SPCS2 and SPCS3.  
+CC  In the yeast Saccharomyces cerevisiae, there is only one 
+CC  SEC11 component [1,2].  SEC11A and SEC11C are both serine
+CC  endopeptidases with overlapping specificities [3].
+**  SEC11A is a serine endopeptidase (MEROPS identifier S26.009).
+**  SEC11C is a serine endopeptidase (MEROPS identifier S26.010).
+--
+SN  1
+ID  Signal peptidase complex catalytic subunit SEC11A
+DN  Signal peptidase complex catalytic subunit SEC11A/1
+RQ  1
+EV  IPR037712; PTHR10806:SF8; sufficient;
+TG  GO:0031080
+--
+SN  2
+ID  Signal peptidase complex catalytic subunit SEC11C
+DN  Signal peptidase complex catalytic subunit SEC11C/2
+RQ  0
+EV  IPR037710; PTHR10806:SF12; sufficient;
+TG  GO:0006465
+--
+SN  3
+ID  Signal peptidase complex subunit 1
+DN  Signal peptidase complex subunit 1/3
+RQ  1
+EV  IPR037713; PTHR13202:SF0; sufficient;
+TG  GO:0005787
+--
+SN  4
+ID  Signal peptidase complex subunit 2
+DN  Signal peptidase complex subunit 2/4
+RQ  1
+EV  IPR009582; PF06703; sufficient;
+EV  IPR009582; PTHR13085; sufficient;
+TG  GO:0005787
+--
+SN  5
+ID  Signal peptidase complex subunit 3
+DN  Signal peptidase complex subunit 3/5
+RQ  1
+EV  IPR007653; PF04573; sufficient;
+EV  IPR007653; PIRSF016089; sufficient;
+EV  IPR007653; PTHR12804; sufficient;
+TG  GO:0005787;
+//

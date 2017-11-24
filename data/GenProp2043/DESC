@@ -1,0 +1,69 @@
+AC  GenProp2043
+DE  Nuclear pore complex 107-120, Schizosaccharomyces
+TP  SYSTEM
+AU  Rawlings ND
+TH  1
+RN  [1]
+RM  15226438
+RT  The fission yeast Nup107-120 complex functionally interacts with 
+RT  the small GTPase Ran/Spi1 and is required for mRNA export, nuclear 
+RT  pore distribution, and proper cell division. 
+RA  Baï SW; Rouquette J; Umeda M; Faigle W; Loew D; Sazer S; Doye V;   
+RL  Mol Cell Biol. 2004;24:6379-6392.
+RN  [2]
+RM  15116432
+RT  Identification of genes encoding putative nucleoporins and 
+RT  transport factors in the fission yeast Schizosaccharomyces pombe: 
+RT  a deletion analysis. 
+RA  Chen XQ; Du X; Liu J; Balasubramanian MK; Balasundaram D;   
+RL  Yeast 2004;21:495-509.
+CC  The NPC107-120 nuclear pore complex (NPC) from Schizosaccharomyes 
+CC  is required for mRNA export, nuclear pore distribution, and cell 
+CC  division [1].  Components of the NPC have been identified by  
+CC  mutation studies [2].
+**  Evidence for steps 4 and 5 is the same.
+--
+SN  1
+ID  Nucleoporin nup85
+DN  Nucleoporin nup85/1
+RQ  1
+EV  IPR011502; PF07575; sufficient;
+EV  IPR011502; PTHR13373; sufficient;
+TG  GO:0017056;
+--
+SN  2
+ID  Nucleoporin nup107
+DN  Nucleoporin nup107/2
+RQ  1
+EV  IPR007252; PF04121; sufficient;
+EV  IPR007252; PTHR13003; sufficient;
+TG  GO:0017056;
+--
+SN  3
+ID  Nucleoporin nup120
+DN  Nucleoporin nup120/3
+RQ  1
+EV  IPR021717; PF11715; sufficient;
+TG  GO:0031080;
+--
+SN  4
+ID  Nucleoporin nup131
+DN  Nucleoporin nup131/4
+RQ  1
+EV  IPR037624; PTHR13405; sufficient;
+TG  GO:0017056;
+--
+SN  5
+ID  Nucleoporin nup132
+DN  Nucleoporin nup132/5
+RQ  1
+EV  IPR037624; PTHR13405; sufficient;
+TG  GO:0017056;
+--
+SN  6
+ID  Nucleoporin seh1
+DN  Nucleoporin seh1
+RQ  1
+EV  IPR037597; PTHR11024:SF3; sufficient;
+TG  GO:0031080;
+//
