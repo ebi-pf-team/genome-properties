@@ -26,6 +26,7 @@ DN  TATA-box-binding protein/1
 RQ  1
 EV  IPR033710; cd04516; sufficient;
 TG  GO:0005669;
+TG  GO:0006352;
 --
 SN  2
 ID  Transcription initiation factor TFIID subunit 1 
@@ -45,7 +46,7 @@ SN  4
 ID  Transcription initiation factor TFIID subunit 3 
 DN  Transcription initiation factor TFIID subunit 3 /4
 RQ  1
-EV  -; PTHR12321:SF95; sufficient;
+EV  IPR037815; PTHR12321:SF95; sufficient;
 TG  GO:0005669;
 --
 SN  5
@@ -67,21 +68,21 @@ SN  7
 ID  Transcription initiation factor TFIID subunit 6
 DN  Transcription initiation factor TFIID subunit 6/7
 RQ  1
-EV  -; PTHR10221:SF9; sufficient;
+EV  IPR037796; PTHR10221; sufficient;
 TG  GO:0005669;
 --
 SN  8
 ID  Transcription initiation factor TFIID subunit 7
 DN  Transcription initiation factor TFIID subunit 7/8
 RQ  1
-EV  -; PTHR12228:SF0; sufficient;
+EV  IPR037817; PTHR12228; sufficient;
 TG  GO:0005669;
 --
 SN  9
 ID  Transcription initiation factor TFIID subunit 8
 DN  Transcription initiation factor TFIID subunit 8/9
 RQ  1
-EV  -; PTHR12321:SF102; sufficient;
+EV  IPR037818; PTHR12321:SF102; sufficient;
 TG  GO:0005669;
 --
 SN  10
@@ -106,7 +107,9 @@ SN  12
 ID  Transcription initiation factor TFIID subunit 11 
 DN  Transcription initiation factor TFIID subunit 11 /12
 RQ  1
-EV  -; PTHR13218:SF8; sufficient;
+EV  IPR006809; PTHR13218; sufficient;
+EV  IPR006809; PF04719; sufficient;
+EV  IPR006809; cd08048; sufficient;
 TG  GO:0005669;
 --
 SN  13
