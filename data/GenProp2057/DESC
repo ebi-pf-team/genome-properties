@@ -19,59 +19,63 @@ CC  TAF3, TADA3L, SUPT3H/SPT3, TAF2/TAFII150, TAF4/TAFII135,
 CC  TAF5/TAFII100, KAT2A/GCN5L2, TAF10 and TRRAP. 
 --
 SN  1
-ID  TAF5L 
-DN  TATA-box-binding protein/1
+ID  TAF5-like RNA polymerase II p300/CBP-associated factor-associated factor 65 kDa subunit 5L (TAF5L) 
+DN  TAF5-like RNA polymerase II p300/CBP-associated factor-associated factor 65 kDa subunit 5L (TAF5L)/1
 RQ  1
-EV  -; -; sufficient;
+EV  IPR037826; PTHR19879:SF6; sufficient;
 TG  ;
 --
 SN  2
-ID  TAF6L 
-DN  Transcription initiation factor TFIID subunit 1 /2
+ID  TAF6-like RNA polymerase II p300/CBP-associated factor-associated factor 65 kDa subunit 6L (TAF6L) 
+DN  TAF6-like RNA polymerase II p300/CBP-associated factor-associated factor 65 kDa subunit 6L (TAF6L) /2
 RQ  1
-EV  -; -; sufficient;
+EV  IPR037796; PTHR10221; sufficient;
 TG  ;
 --
 SN  3
-ID  TAF3 
-DN  Transcription initiation factor TFIID subunit 2 /3
+ID  Transcription initiation factor TFIID subunit 3 (TAF3) 
+DN  Transcription initiation factor TFIID subunit 3 (TAF3) /3
 RQ  1
-EV  -; -; sufficient;
+EV  -; PTHR12321:SF34; sufficient;
 TG  ;
 --
 SN  4
-ID  TADA3L 
-DN  Transcription initiation factor TFIID subunit 3 /4
+ID  Transcriptional adapter 3 (TADA3L) 
+DN  Transcriptional adapter 3 (TADA3L) /4
 RQ  1
-EV  -; -; sufficient;
+EV  IPR019340; PF10198; sufficient;
+EV  IPR019340; PTHR13556; sufficient;
 TG  ;
 --
 SN  5
-ID  SUPT3H/SPT3 
-DN  Transcription initiation factor TFIID subunit 4 /5
+ID  Transcription initiation protein SPT3 homolog (SUPT3H/SPT3) 
+DN  Transcription initiation protein SPT3 homolog (SUPT3H/SPT3) /5
 RQ  1
-EV  -; -; sufficient;
+EV  IPR003195; PF02269; sufficient;
+EV  IPR003195; PTHR11380; sufficient;
+EV  IPR003195; cd07978; sufficient;
 TG  ;
 --
 SN  6
-ID  TAF2/TAFII150 
-DN  Transcription initiation factor TFIID subunit 5 /6
+ID  Transcription initiation factor TFIID subunit 2 (TAF2/TAFII150)
+DN  Transcription initiation factor TFIID subunit 2 (TAF2/TAFII150) /6
 RQ  1
-EV  -; -; sufficient;
+EV  IPR037813; PTHR15137; sufficient;
 TG  ;
 --
 SN  7
-ID  TAF4/TAFII135
-DN  Transcription initiation factor TFIID subunit 6/7
+ID  Transcription initiation factor TFIID subunit 4 (TAF4/TAFII135)
+DN  Transcription initiation factor TFIID subunit 4 (TAF4/TAFII135)/7
 RQ  1
-EV  -; -; sufficient;
+EV  IPR007900; PF05236; sufficient;
+EV  IPR007900; d08045; sufficient;
 TG  ;
 --
 SN  8
-ID  TAF5/TAFII100
-DN  Transcription initiation factor TFIID subunit 7/8
+ID  Transcription initiation factor TFIID subunit 5 (TAF5/TAFII100)
+DN  Transcription initiation factor TFIID subunit 5 (TAF5/TAFII100)/8
 RQ  1
-EV  -; -; sufficient;
+EV  -; PTHR19879:SF4; sufficient;
 TG  ;
 --
 SN  9
@@ -82,16 +86,20 @@ EV  IPR037800; PTHR22880:SF124; sufficient;
 TG  ;
 --
 SN  10
-ID  TAF10 
-DN  Transcription initiation factor TFIID subunit 9 /10
+ID  Transcription initiation factor TFIID subunit 10 (TAF10) 
+DN  Transcription initiation factor TFIID subunit 10 (TAF10) /10
 RQ  1
-EV  -; -; sufficient;
+EV  IPR003923; PF03540; sufficient;
+EV  IPR003923; PIRSF017246; sufficient;
+EV  IPR003923; PR01443; sufficient;
+EV  IPR003923; PTHR21242; sufficient;
+EV  IPR003923; cd07982; sufficient;
 TG  ;
 --
 SN  11
-ID  TRRAP 
-DN  Transcription initiation factor TFIID subunit 10 /11
+ID  Transformation/transcription domain-associated protein (TRRAP) 
+DN  Transformation/transcription domain-associated protein (TRRAP) /11
 RQ  1
-EV  -; -; sufficient;
+EV  IPR033317; PTHR11139:SF1; sufficient;
 TG  -;
 //
