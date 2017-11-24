@@ -9,64 +9,66 @@ RT  Identification and characterization of the human Set1B histone
 RT  H3-Lys4 methyltransferase complex. 
 RA  Lee JH; Tate CM; You JS; Skalnik DG;   
 RL  J Biol Chem. 2007;282:13419-13428.
-CC  The SET1 complex is composed of at least the catalytic subunit 
-CC  (SETD1A or SETD1B), WDR5, WDR82, RBBP5, ASH2L/ASH2, CXXC1/CFP1, 
-CC  HCFC1 and DPY30.
+CC  The SET1 complex is a methyltransferase that that produces 
+CC  trimethylated histone H3 at Lys(4).  It is composed of at least 
+CC  the catalytic subunit (SETD1A or SETD1B), WDR5, WDR82, RBBP5, 
+CC  ASH2L/ASH2, CXXC1/CFP1, HCFC1 and DPY30 [1].
 --
 SN  1
 ID  Histone-lysine N-methyltransferase SETD1A or SETD1B
 DN  Histone-lysine N-methyltransferase SETD1A (EC 2.1.1.43)/1
 RQ  1
-EV  -; PTHR22884:SF295; sufficient;
-EV  -; PTHR22884:SF475; sufficient;
-TG  ;
+EV  IPR037841; PTHR22884:SF295; sufficient;
+EV  IPR037842; PTHR22884:SF475; sufficient;
+TG  GO:0048188;
+TG  GO:0018024;
 --
 SN  2
 ID  WD repeat-containing protein 5 
 DN  WD repeat-containing protein 5 (WDR5) /2
 RQ  1
 EV  IPR037834; PTHR22847:SF560; sufficient;
-TG  ;
+TG  GO:0048188;
 --
 SN  3
 ID  WD repeat-containing protein 82 (WDR82)
 DN  WD repeat-containing protein 82 (WDR82) /3
 RQ  1
 EV  -; PTHR19861:SF2; sufficient;
-TG  ;
+TG  GO:0048188;
 --
 SN  4
 ID  Retinoblastoma-binding protein 5 (RBBP5) 
 DN  Retinoblastoma-binding protein 5 (RBBP5) /4
 RQ  1
 EV  -; PTHR44040; sufficient;
-TG  ;
+TG  GO:0048188;
 --
 SN  5
 ID  Set1/Ash2 histone methyltransferase complex subunit ASH2 
 DN  Set1/Ash2 histone methyltransferase complex subunit ASH2  /5
 RQ  1
 EV  IPR037353; PTHR10598; sufficient;
-TG  ;
+TG  GO:0048188;
 --
 SN  6
 ID  CXXC-type zinc finger protein 1 (CCXC1) 
 DN  CXXC-type zinc finger protein 1 (CCXC1) /6
 RQ  1
 EV  -; PTHR12321:SF58; sufficient;
-TG  ;
+TG  GO:0048188;
 --
 SN  7
 ID  Host cell factor 1 (HCFC1)
 DN  Host cell factor 1 (HCFC1)/7
 RQ  1
 EV  -; PTHR23244:SF339; sufficient;
-TG  ;
+TG  GO:0048188;
 --
 SN  8
 ID  Protein dpy-30 homolog (DPY30)
 DN  Protein dpy-30 homolog (DPY30)/8
 RQ  1
 EV  -; PTHR23356:SF0; sufficient;
-TG  ;
+TG  GO:0048188;
 //
