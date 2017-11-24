@@ -44,17 +44,17 @@ EV  IPR003195; cd07978; sufficient;
 TG  ;
 --
 SN  4
-ID  TAF5L 
-DN  Transcription initiation factor TFIID subunit 3 /4
+ID  TAF5-like RNA polymerase II p300/CBP-associated factor-associated factor 65 kDa subunit 5L (TAF5L) 
+DN  TAF5-like RNA polymerase II p300/CBP-associated factor-associated factor 65 kDa subunit 5L (TAF5L) /4
 RQ  1
-EV  -; -; sufficient;
+EV  -; PTHR19879:SF6; sufficient;
 TG  ;
 --
 SN  5
-ID  TAF6L
-DN  Transcription initiation factor TFIID subunit 4 /5
+ID  TAF6-like RNA polymerase II p300/CBP-associated factor-associated factor 65 kDa subunit 6L (TAF6L)
+DN  TAF6-like RNA polymerase II p300/CBP-associated factor-associated factor 65 kDa subunit 6L (TAF6L) /5
 RQ  1
-EV  -; -; sufficient;
+EV  IPR037796; PTHR10221; sufficient;
 TG  ;
 --
 SN  6
@@ -76,7 +76,10 @@ SN  8
 ID  TAF10
 DN  Transcription initiation factor TFIID subunit 7/8
 RQ  1
-EV  -; -; sufficient;
+EV  IPR003923; PIRSF017246; sufficient;
+EV  IPR003923; PR01443; sufficient;
+EV  IPR003923; PTHR21242; sufficient;
+EV  IPR003923; cd07982; sufficient;
 TG  ;
 --
 SN  9
