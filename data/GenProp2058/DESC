@@ -29,7 +29,7 @@ SN  2
 ID  KAT2A 
 DN  Transcription initiation factor TFIID subunit 1 /2
 RQ  1
-EV  -; -; sufficient;
+EV  IPR037800; PTHR22880:SF124; sufficient;
 TG  ;
 --
 SN  3
