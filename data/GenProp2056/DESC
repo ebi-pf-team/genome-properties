@@ -65,7 +65,7 @@ SN  7
 ID  WD repeat-containing protein 5 (WDR5)
 DN  WD repeat-containing protein 5 (WDR5)/7
 RQ  1
-EV  -; PTHR22847:SF560; sufficient;
+EV  IPR037834; PTHR22847:SF560; sufficient;
 TG  GO:0005671;
 --
 SN  8
