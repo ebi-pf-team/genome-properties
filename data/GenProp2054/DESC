@@ -3,29 +3,29 @@ DE  TFIID complex
 TP  SYSTEM
 AU  Rawlings ND
 TH  1
-RN  [1] REPLACE
-RM  15647753
-RT  Chd1 chromodomain links histone H3 methylation with SAGA- and 
-RT  SLIK-dependent acetylation. 
-RA  Pray-Grant MG; Daniel JA; Schieltz D; Yates JR 3rd; Grant PA;   
-RL  Nature 2005;433:434-438.
-RN  [2] REPLACE
-RM  25216679
-RT  Architecture of the Saccharomyces cerevisiae SAGA transcription 
-RT  coactivator complex. 
-RA  Han Y; Luo J; Ranish J; Hahn S;   
-RL  EMBO J. 2014;33:2534-2546.
-CC  The TFIID complex is composed of TATA binding protein (TBP) and 
+RN  [1] 
+RM  12138208
+RT  Molecular characterization of Saccharomyces cerevisiae TFIID. 
+RA  Sanders SL; Garbett KA; Weil PA;   
+RL  Mol Cell Biol. 2002;22:6000-6013.
+RN  [2] 
+RM  10788514
+RT  Identification of two novel TAF subunits of the yeast 
+RT  Saccharomyces cerevisiae TFIID complex. 
+RA  Sanders SL; Weil PA;   
+RL  J Biol Chem. 2000;275:13895-13900.
+CC  The TFIID complex is a general purpose translation initiator
+CC  factor.  It is composed of TATA binding protein (TBP) and 
 CC  14 TBP-associated factors. One copy of each TAF1, TAF2, TAF3, 
 CC  TAF7, TAF8, TAF11, TAF13, two copies of each TAF4, TAF5, TAF6, 
-CC  TAF9, TAF10, TAF12, and three copies of TAF14. 
+CC  TAF9, TAF10, TAF12, and three copies of TAF14 [1,2]. 
 --
 SN  1
 ID  TATA-box-binding protein 
 DN  TATA-box-binding protein/1
 RQ  1
 EV  IPR033710; cd04516; sufficient;
-TG  ;
+TG  GO:0005669;
 --
 SN  2
 ID  Transcription initiation factor TFIID subunit 1 
