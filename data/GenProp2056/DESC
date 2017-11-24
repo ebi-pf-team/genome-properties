@@ -3,7 +3,7 @@ DE  ADA2A-containing complex (ATAC)
 TP  SYSTEM
 AU  Rawlings ND
 TH  1
-RN  [1] REPLACE
+RN  [1]
 RM  19103755
 RT  The double-histone-acetyltransferase complex ATAC is essential 
 RT  for mammalian development. 
@@ -15,76 +15,77 @@ CC  acetyltransferase acting on histones H3 and H4 that is similar
 CC  to but distinct from a similar complex initially identified in 
 CC  Drosophila melanogaster [1].
 CC  The ATAC complex is composed of KAT14, KAT2A, TADA2L, TADA3L, 
-CC  ZZ3, MBIP, WDR5, YEATS2, CCDC101 and DR1. 
+CC  ZZZ3, MBIP, WDR5, YEATS2, CCDC101 and DR1. 
 --
 SN  1
-ID  KAT14 
-DN  TATA-box-binding protein/1
+ID  Cysteine-rich protein 2-binding protein (KAT14) 
+DN  Cysteine-rich protein 2-binding protein (KAT14)/1
 RQ  1
-EV  -; -; sufficient;
+EV  -; PTHR20916:SF0; sufficient;
 TG  GO:0005671;
 --
 SN  2
-ID  KAT2A 
-DN  Transcription initiation factor TFIID subunit 1 /2
+ID  Histone acetyltransferase KAT2A 
+DN  Histone acetyltransferase KAT2A /2
 RQ  1
 EV  IPR037800; PTHR22880:SF124; sufficient;
 TG  GO:0043966;
 TG  GO:0005671;
 --
 SN  3
-ID  TADA2L
-DN  Transcription initiation factor TFIID subunit 2 /3
+ID  Transcriptional adapter 2-alpha (TADA2L)
+DN  Transcriptional adapter 2-alpha (TADA2L) /3
 RQ  1
-EV  -; -; sufficient;
+EV  IPR034317; PTHR12374:SF38; sufficient;
 TG  GO:0005671;
 --
 SN  4
-ID  TADA3L 
-DN  Transcription initiation factor TFIID subunit 3 /4
+ID  Transcriptional adapter 3 (TADA3L) 
+DN  Transcriptional adapter 3 (TADA3L) /4
 RQ  1
-EV  -; -; sufficient;
+EV  IPR019340; PF10198; sufficient;
+EV  IPR019340; PTHR13556; sufficient;
 TG  GO:0005671;
 --
 SN  5
-ID  ZZ3
-DN  Transcription initiation factor TFIID subunit 4 /5
+ID  ZZ-type zinc finger-containing protein 3 (ZZZ3)
+DN  ZZ-type zinc finger-containing protein 3 (ZZZ3) /5
 RQ  1
 EV  -; -; sufficient;
 TG  GO:0005671;
 --
 SN  6
-ID  MBIP 
-DN  Transcription initiation factor TFIID subunit 5 /6
+ID  MAP3K12-binding inhibitory protein 1 (MBIP) 
+DN  MAP3K12-binding inhibitory protein 1 (MBIP) /6
 RQ  1
-EV  -; -; sufficient;
+EV  IPR026062; PTHR23404:SF3; sufficient;
 TG  GO:0005671;
 --
 SN  7
-ID  WDR5
-DN  Transcription initiation factor TFIID subunit 6/7
+ID  WD repeat-containing protein 5 (WDR5)
+DN  WD repeat-containing protein 5 (WDR5)/7
 RQ  1
-EV  -; -; sufficient;
+EV  -; PTHR22847:SF560; sufficient;
 TG  GO:0005671;
 --
 SN  8
-ID  YEATS2
-DN  Transcription initiation factor TFIID subunit 7/8
+ID  YEATS domain-containing protein 2 (YEATS2)
+DN  YEATS domain-containing protein 2 (YEATS2)/8
 RQ  1
-EV  -; -; sufficient;
+EV  -; PTHR23195:SF7; sufficient;
 TG  GO:0005671;
 --
 SN  9
-ID  CCDC101
-DN  Transcription initiation factor TFIID subunit 8/9
+ID  SAGA-associated factor 29 (CCDC101)
+DN  SAGA-associated factor 29 (CCDC101)/9
 RQ  1
-EV  -; -; sufficient;
+EV  IPR037802; PTHR21539; sufficient;
 TG  GO:0005671;
 --
 SN  10
-ID  DR1 
-DN  Transcription initiation factor TFIID subunit 9 /10
+ID  Protein Dr1 
+DN  Protein Dr1 /10
 RQ  1
-EV  -; -; sufficient;
+EV  -; PTHR11064:SF8; sufficient;
 TG  GO:0005671;
 //
