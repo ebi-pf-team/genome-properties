@@ -75,8 +75,8 @@ EV  -; -; sufficient;
 TG  ;
 --
 SN  9
-ID  KAT2A/GCN5L2
-DN  Transcription initiation factor TFIID subunit 8/9
+ID  Histone acetyltransferase KAT2A
+DN  Histone acetyltransferase KAT2A/9
 RQ  1
 EV  IPR037800; PTHR22880:SF124; sufficient;
 TG  ;
