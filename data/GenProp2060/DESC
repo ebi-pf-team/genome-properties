@@ -45,14 +45,14 @@ SN  2
 ID   
 DN  SWD3 /2
 RQ  1
-EV  -; PTHR22847:SF603; sufficient;
+EV  IPR037866; PTHR22847:SF603; sufficient;
 TG  GO:0048188;
 --
 SN  3
 ID  SWD2
 DN  WD repeat-containing protein 82 (WDR82) /3
 RQ  1
-EV  -; PTHR19861:SF0; sufficient;
+EV  IPR037867; PTHR19861:SF0; sufficient;
 TG  GO:0048188;
 --
 SN  4
@@ -73,7 +73,7 @@ SN  6
 ID  SPP1 
 DN  CXXC-type zinc finger protein 1 (CXXC1) /6
 RQ  1
-EV  -; PTHR12321:SF97; sufficient;
+EV  IPR037869; PTHR12321:SF97; sufficient;
 TG  GO:0048188;
 --
 SN  7
@@ -87,6 +87,6 @@ SN  8
 ID  SDC1
 DN  Protein dpy-30 homolog (DPY30)/8
 RQ  1
-EV  -; PTHR23356:SF8; sufficient;
+EV  IPR037870; PTHR23356:SF8; sufficient;
 TG  GO:0048188;
 //
