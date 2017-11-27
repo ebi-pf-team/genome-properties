@@ -38,8 +38,8 @@ DN  Histone-lysine N-methyltransferase SET1 (EC 2.1.1.43)/1
 RQ  1
 EV  IPR017111; PIRSF037104; sufficient;
 EV  IPR017111; PS51572; sufficient;
+TG  GO:0042800;
 TG  GO:0048188;
-TG  GO:0018024;
 --
 SN  2
 ID   
