@@ -15,12 +15,12 @@ CC  the catalytic subunit (SETD1A or SETD1B), WDR5, WDR82, RBBP5,
 CC  ASH2L/ASH2, CXXC1/CFP1, HCFC1 and DPY30 [1].
 --
 SN  1
-ID  Histone-lysine N-methyltransferase SETD1A or SETD1B
-DN  Histone-lysine N-methyltransferase SETD1A (EC 2.1.1.43)/1
+ID  Histone-lysine N-methyltransferase SET1
+DN  Histone-lysine N-methyltransferase SET1 (EC 2.1.1.43)/1
 RQ  1
 EV  IPR037841; PTHR22884:SF295; sufficient;
 EV  IPR037842; PTHR22884:SF475; sufficient;
-EV  -; PTHR22884:SF464; sufficient;
+EV  IPR037861; PTHR22884:SF464; sufficient;
 TG  GO:0048188;
 TG  GO:0018024;
 --
@@ -57,7 +57,7 @@ ID  CXXC-type zinc finger protein 1 (CXXC1)
 DN  CXXC-type zinc finger protein 1 (CXXC1) /6
 RQ  1
 EV  IPR037852; PTHR12321:SF58; sufficient;
-EV  -; PTHR12321:SF99; sufficient;
+EV  IPR037852; PTHR12321:SF99; sufficient;
 TG  GO:0048188;
 --
 SN  7
