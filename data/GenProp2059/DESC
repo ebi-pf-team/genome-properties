@@ -69,6 +69,6 @@ SN  8
 ID  Protein dpy-30 homolog (DPY30)
 DN  Protein dpy-30 homolog (DPY30)/8
 RQ  1
-EV  -; PTHR23356:SF0; sufficient;
+EV  IPR037856; PTHR23356:SF0; sufficient;
 TG  GO:0048188;
 //
