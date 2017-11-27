@@ -27,8 +27,8 @@ CC  The COMPASS (Complex Proteins Associated with Set1 or Set1C)
 CC  complex mono-, di- and trimethylates histone H3 to form 
 CC  H3K4me1/2/3.  This is important for telomere length 
 CC  maintenance and regulation of transcription elongation [1].  
-CC  The complex consists of SET1*, BRE2*, SPP1*, SDC1*, SHG1, SWD1*, 
-CC  SWD2*, and SWD3* [2,3].
+CC  The complex consists of SET1, BRE2, SPP1, SDC1, SHG1, SWD1, 
+CC  SWD2, and SWD3 [2,3].
 **  This is different enough from the SET1 complex (GP2059) to
 **  merit a difference entry.
 --
@@ -52,7 +52,7 @@ SN  3
 ID  SWD2
 DN  WD repeat-containing protein 82 (WDR82) /3
 RQ  1
-EV  -; PTHR19861 PTHR19861:SF0; sufficient;
+EV  -; PTHR19861:SF0; sufficient;
 TG  GO:0048188;
 --
 SN  4
@@ -73,7 +73,7 @@ SN  6
 ID  SPP1 
 DN  CXXC-type zinc finger protein 1 (CXXC1) /6
 RQ  1
-EV  -; PTHR12321 PTHR12321:SF97; sufficient;
+EV  -; PTHR12321:SF97; sufficient;
 TG  GO:0048188;
 --
 SN  7
