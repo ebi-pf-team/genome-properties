@@ -34,14 +34,14 @@ SN  3
 ID  WD repeat-containing protein 82 (WDR82)
 DN  WD repeat-containing protein 82 (WDR82) /3
 RQ  1
-EV  -; PTHR19861:SF2; sufficient;
+EV  IPR037846; PTHR19861:SF2; sufficient;
 TG  GO:0048188;
 --
 SN  4
 ID  Retinoblastoma-binding protein 5 (RBBP5) 
 DN  Retinoblastoma-binding protein 5 (RBBP5) /4
 RQ  1
-EV  -; PTHR44040; sufficient;
+EV  IPR037850; PTHR44040; sufficient;
 TG  GO:0048188;
 --
 SN  5
@@ -52,17 +52,17 @@ EV  IPR037353; PTHR10598; sufficient;
 TG  GO:0048188;
 --
 SN  6
-ID  CXXC-type zinc finger protein 1 (CCXC1) 
-DN  CXXC-type zinc finger protein 1 (CCXC1) /6
+ID  CXXC-type zinc finger protein 1 (CXXC1) 
+DN  CXXC-type zinc finger protein 1 (CXXC1) /6
 RQ  1
-EV  -; PTHR12321:SF58; sufficient;
+EV  IPR037852; PTHR12321:SF58; sufficient;
 TG  GO:0048188;
 --
 SN  7
 ID  Host cell factor 1 (HCFC1)
 DN  Host cell factor 1 (HCFC1)/7
 RQ  1
-EV  -; PTHR23244:SF339; sufficient;
+EV  IPR037854; PTHR23244:SF339; sufficient;
 TG  GO:0048188;
 --
 SN  8
