@@ -1,0 +1,94 @@
+AC  GenProp2061
+DE  MLL3/4 complex
+TP  SYSTEM
+AU  Rawlings ND
+TH  1
+RN  [1]
+RM  21875999
+RT  The COMPASS family of H3K4 methylases in Drosophila. 
+RA  Mohan M; Herz HM; Smith ER; Zhang Y; Jackson J; Washburn MP; 
+RA  Florens L; Eissenberg JC; Shilatifard A;   
+RL  Mol Cell Biol. 2011;31:4310-4318.
+CC  The MLL3/4 complex is composed at least of the catalytic 
+CC  subunit trr*, ash2*, Rbbp5*, Dpy-30L1*, wds*, hcf*, ptip, Pa1, 
+CC  Utx, Lpt and Ncoa6 [1].
+--
+SN  1*
+ID  Histone-lysine N-methyltransferase trithorax (EC 2.1.1.43)
+DN  Histone-lysine N-methyltransferase trithorax (EC 2.1.1.43)/1
+RQ  1
+EV  -; PTHR22884:SF373; sufficient;
+TG  ;
+TG  ;
+--
+SN  2*
+ID  WD repeat-containing protein 5 
+DN  WD repeat-containing protein 5 (WDR5) /2
+RQ  1
+EV  IPR037834; PTHR22847:SF560; sufficient;
+TG  GO:0048188;
+--
+SN  3
+ID  WD repeat-containing protein 82 (WDR82)
+DN  WD repeat-containing protein 82 (WDR82) /3
+RQ  1
+EV  IPR037846; PTHR19861:SF2; sufficient;
+TG  GO:0048188;
+--
+SN  4*
+ID  Retinoblastoma-binding protein 5 (RBBP5) 
+DN  Retinoblastoma-binding protein 5 (RBBP5) /4
+RQ  1
+EV  IPR037850; PTHR44040; sufficient;
+TG  GO:0048188;
+--
+SN  5*
+ID  Set1/Ash2 histone methyltransferase complex subunit ASH2 
+DN  Set1/Ash2 histone methyltransferase complex subunit ASH2  /5
+RQ  1
+EV  IPR037353; PTHR10598; sufficient;
+TG  GO:0048188;
+--
+SN  6
+ID  CXXC-type zinc finger protein 1 (CXXC1) 
+DN  CXXC-type zinc finger protein 1 (CXXC1) /6
+RQ  1
+EV  IPR037852; PTHR12321:SF58; sufficient;
+EV  IPR037852; PTHR12321:SF99; sufficient;
+TG  GO:0048188;
+--
+SN  7*
+ID  Host cell factor 1 (HCFC1)
+DN  Host cell factor 1 (HCFC1)/7
+RQ  1
+EV  IPR037854; PTHR23244:SF339; sufficient;
+TG  GO:0048188;
+--
+SN  8*
+ID  Protein dpy-30 homolog (DPY30)
+DN  Protein dpy-30 homolog (DPY30)/8
+RQ  1
+EV  IPR037856; PTHR23356:SF0; sufficient;
+TG  GO:0048188;
+--
+SN  9
+ID  
+DN  /9
+RQ  1
+EV  -; -; sufficient;
+TG  -;
+--
+SN  10
+ID  
+DN  /10
+RQ  1
+EV  -; -; sufficient;
+TG  -;
+--
+SN  11
+ID  
+DN  /11
+RQ  1
+EV  -; -; sufficient;
+TG  -;
+//
