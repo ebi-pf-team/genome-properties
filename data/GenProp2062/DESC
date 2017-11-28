@@ -96,6 +96,7 @@ SN  11
 ID  Tubulin beta chain
 DN  Tubulin beta chain/1
 RQ  1
-EV  -; PTHR11588:SF256; sufficient;
-TG  ;
+EV  IPR002453; PR01163; sufficient;
+TG  GO:0005874;
+TG  GO:0005200;
 //
