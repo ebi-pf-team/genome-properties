@@ -1,0 +1,111 @@
+AC  GenProp2062
+DE  MLL2/3 complex
+TP  SYSTEM
+AU  Rawlings ND
+TH  1
+RN  [1]
+RM  17500065
+RT  PTIP associates with MLL3- and MLL4-containing histone H3 
+RT  lysine 4 methyltransferase complex. 
+RA  Cho YW; Hong T; Hong S; Guo H; Yu H; Kim D; Guszczynski T; 
+RA  Dressler GR; Copeland TD; Kalkum M; Ge K;   
+RL  J Biol Chem. 2007;282:20395-20406.
+RN  [2]
+RM  17021013
+RT  Coactivator as a target gene specificity determinant for 
+RT  histone H3 lysine 4 methyltransferases. 
+RA  Lee S; Lee DK; Dou Y; Lee J; Lee B; Kwak E; Kong YY; Lee SK; 
+RA  Roeder RG; Lee JW;   
+RL  Proc Natl Acad Sci U S A 2006;103:15392-15397.
+CC  The MLL2/3 complex is composed at least KMT2D/MLL2 or 
+CC  KMT2C/MLL3, ASH2L, RBBP5, WDR5, NCOA6, DPY30, KDM6A, 
+CC  PAXIP1/PTIP, PAGR1 and alpha- and beta-tubulin [1,2]. 
+**  Neither Lpt nor Ncoa6 have SwissProt entries.
+**  Different isoforms of Ltp are in different Panther subfamiles.
+**  There are several isoforms of Ncoa6, some of which are rich 
+**  in polyGln sequences.  These give false positives in Panther.
+**  There is no good model for Ncoa6, the evidence selected has
+**  566,893 sequences.
+**  Steps 2-6 are common to GP2059.  Steps 1-6 are common to GP2061.
+--
+SN  1
+ID  Histone-lysine N-methyltransferase 2C (EC 2.1.1.43)
+DN  Histone-lysine N-methyltransferase 2C (EC 2.1.1.43)/1
+RQ  1
+EV  IPR037877; PTHR22884:SF373; sufficient;
+TG  GO:0044666;
+TG  GO:0042800;
+--
+SN  2
+ID  WD repeat-containing protein 5 
+DN  WD repeat-containing protein 5 (WDR5) /2
+RQ  1
+EV  IPR037834; PTHR22847:SF560; sufficient;
+TG  GO:0044666;
+--
+SN  3
+ID  Retinoblastoma-binding protein 5 (RBBP5) 
+DN  Retinoblastoma-binding protein 5 (RBBP5) /3
+RQ  1
+EV  IPR037850; PTHR44040; sufficient;
+TG  GO:0044666;
+--
+SN  4
+ID  Set1/Ash2 histone methyltransferase complex subunit ASH2 
+DN  Set1/Ash2 histone methyltransferase complex subunit ASH2  /4
+RQ  1
+EV  IPR037353; PTHR10598; sufficient;
+TG  GO:0044666;
+--
+SN  5
+ID  Host cell factor 1 (HCFC1)
+DN  Host cell factor 1 (HCFC1)/5
+RQ  1
+EV  IPR037854; PTHR23244:SF339; sufficient;
+TG  GO:0044666;
+--
+SN  6
+ID  Protein dpy-30 homolog (DPY30)
+DN  Protein dpy-30 homolog (DPY30)/6
+RQ  1
+EV  IPR037856; PTHR23356:SF0; sufficient;
+TG  GO:0044666;
+--
+SN  7
+ID  PAX transcription activation domain interacting protein (ptip)
+DN  PAX transcription activation domain interacting protein (ptip)/7
+RQ  1
+EV  -; PTHR23196:SF1; sufficient;
+TG  GO:0044666;
+--
+SN  8
+ID  GEO08286p1 (PTIP associated 1) (Pa1)
+DN  GEO08286p1 (PTIP associated 1) (Pa1)/8
+RQ  1
+EV  IPR028213; PF15364; sufficient;
+EV  IPR028213; PTHR28467; sufficient;
+TG  GO:0044666;
+--
+SN  9
+ID  Utx histone demethylase
+DN  Utx histone demethylase (1.14.11.-)/9
+RQ  1
+EV  IPR029516; PTHR14017:SF9; sufficient;
+TG  GO:0071558;
+TG  GO:0044666;
+--
+SN  10
+ID  Lost PHDs of trr (Lpt)
+DN  /10
+RQ  1
+EV  -; PTHR22884:SF472; sufficient;
+EV  -; PTHR22884:SF380; sufficient;
+TG  GO:0044666;
+--
+SN  11
+ID  Nuclear receptor coactivator 6 (Ncoa6)
+DN  Nuclear receptor coactivator 6 (Ncoa6)/11
+RQ  1
+EV  IPR015943; G3DSA:2.130.10.10; sufficient;
+TG  GO:0044666;
+//
