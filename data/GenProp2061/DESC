@@ -2,16 +2,39 @@ AC  GenProp2061
 DE  MLL3/4 complex
 TP  SYSTEM
 AU  Rawlings ND
-TH  1
 RN  [1]
+RM  23459941
+RT  The Drosophila ortholog of MLL3 and MLL4, trithorax related, 
+RT  functions as a negative regulator of tissue growth. 
+RA  Kanda H; Nguyen A; Chen L; Okano H; Hariharan IK;   
+RL  Mol Cell Biol. 2013;33:1702-1710.
+RN  [2]
 RM  21875999
 RT  The COMPASS family of H3K4 methylases in Drosophila. 
 RA  Mohan M; Herz HM; Smith ER; Zhang Y; Jackson J; Washburn MP; 
 RA  Florens L; Eissenberg JC; Shilatifard A;   
 RL  Mol Cell Biol. 2011;31:4310-4318.
+RN  [3]
+RM  23166019
+RT  Enhancer-associated H3K4 monomethylation by Trithorax-related, 
+RT  the Drosophila homolog of mammalian Mll3/Mll4. 
+RA  Herz HM1; Mohan M; Garruss AS; Liang K; Takahashi YH; Mickey K; 
+RA  Voets O; Verrijzer CP; Shilatifard A;   
+RL  Genes Dev. 2012;26:2604-20.
+RN  [4]
+RM  17500065
+RT  PTIP associates with MLL3- and MLL4-containing histone H3 lysine 
+RT  4 methyltransferase complex. 
+RA  Cho YW; Hong T; Hong S; Guo H; Yu H; Kim D; Guszczynski T; 
+RA  Dressler GR; Copeland TD; Kalkum M; Ge K;   
+RL  J Biol Chem. 2007;282:20395-406.
+CC  The Drosophila orthologue of the vertebrate MML3/MML4 complex 
+CC  is also known as trithorax related (trr) [1].  
 CC  The MLL3/4 complex is composed at least of the catalytic 
 CC  subunit trr, ash2, Rbbp5, Dpy-30L1, wds, hcf, ptip, Pa1, 
-CC  Utx, Lpt and Ncoa6 [1].
+CC  Utx, Lpt and Ncoa6 [2].  The trr and MLL3/4 complexes differ 
+CC  from other Set1/COMPASS complexes in that they include a  
+CC  demethylase, Utx [3,4].
 **  Neither Lpt nor Ncoa6 have SwissProt entries.
 **  Different isoforms of Ltp are in different Panther subfamiles.
 **  There are several isoforms of Ncoa6, some of which are rich 
@@ -88,10 +111,9 @@ TG  GO:0044666;
 --
 SN  10
 ID  Lost PHDs of trr (Lpt)
-DN  /10
+DN  Lost PHDs of trr (Lpt)/10
 RQ  1
-EV  -; PTHR22884:SF472; sufficient;
-EV  -; PTHR22884:SF380; sufficient;
+EV  IPR037888; PTHR22884:SF472; sufficient;
 TG  GO:0044666;
 --
 SN  11
