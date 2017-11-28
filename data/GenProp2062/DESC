@@ -14,19 +14,15 @@ CC  complex [1].
 CC  The MLL2/3 complex is composed at least KMT2D/MLL2 or 
 CC  KMT2C/MLL3, ASH2L, RBBP5, WDR5, NCOA6, DPY30, KDM6A, 
 CC  PAXIP1/PTIP, PAGR1 and alpha- and beta-tubulin [1,2]. 
-**  Neither Lpt nor Ncoa6 have SwissProt entries.
-**  Different isoforms of Ltp are in different Panther subfamiles.
-**  There are several isoforms of Ncoa6, some of which are rich 
-**  in polyGln sequences.  These give false positives in Panther.
-**  There is no good model for Ncoa6, the evidence selected has
-**  566,893 sequences.
-**  Steps 2-6 are common to GP2059.  Steps 1-6 are common to GP2061.
+**  Steps 1-8 are common to GP2061.  
+**  Steps 2-5 are common to GP2059.
 --
 SN  1
 ID  Histone-lysine N-methyltransferase 2C (EC 2.1.1.43)
 DN  Histone-lysine N-methyltransferase 2C (EC 2.1.1.43)/1
 RQ  1
 EV  IPR037890; PTHR22884:SF380; sufficient;
+EV  IPR037877; PTHR22884:SF373; sufficient;
 TG  GO:0044666;
 TG  GO:0042800;
 --
@@ -52,54 +48,54 @@ EV  IPR037353; PTHR10598; sufficient;
 TG  GO:0044666;
 --
 SN  5
-ID  Host cell factor 1 (HCFC1)
-DN  Host cell factor 1 (HCFC1)/5
-RQ  1
-EV  IPR037854; PTHR23244:SF339; sufficient;
-TG  GO:0044666;
---
-SN  6
 ID  Protein dpy-30 homolog (DPY30)
-DN  Protein dpy-30 homolog (DPY30)/6
+DN  Protein dpy-30 homolog (DPY30)/5
 RQ  1
 EV  IPR037856; PTHR23356:SF0; sufficient;
 TG  GO:0044666;
 --
-SN  7
+SN  6
 ID  PAX transcription activation domain interacting protein (ptip)
-DN  PAX transcription activation domain interacting protein (ptip)/7
+DN  PAX transcription activation domain interacting protein (ptip)/6
 RQ  1
-EV  -; PTHR23196:SF1; sufficient;
+EV  IPR037886; PTHR23196:SF1; sufficient;
 TG  GO:0044666;
 --
-SN  8
-ID  GEO08286p1 (PTIP associated 1) (Pa1)
-DN  GEO08286p1 (PTIP associated 1) (Pa1)/8
+SN  7
+ID  PAXIP1-associated glutamate-rich protein 1
+DN  PAXIP1-associated glutamate-rich protein 1/7
 RQ  1
 EV  IPR028213; PF15364; sufficient;
 EV  IPR028213; PTHR28467; sufficient;
 TG  GO:0044666;
 --
-SN  9
+SN  8
 ID  Utx histone demethylase
-DN  Utx histone demethylase (1.14.11.-)/9
+DN  Utx histone demethylase (1.14.11.-)/8
 RQ  1
 EV  IPR029516; PTHR14017:SF9; sufficient;
 TG  GO:0071558;
 TG  GO:0044666;
 --
-SN  10
-ID  Lost PHDs of trr (Lpt)
-DN  /10
+SN  9
+ID  Nuclear receptor coactivator 6 (Ncoa6)
+DN  Nuclear receptor coactivator 6 (Ncoa6)/9
 RQ  1
-EV  -; PTHR22884:SF472; sufficient;
-EV  -; PTHR22884:SF380; sufficient;
+EV  IPR026638; PTHR15690; sufficient;
 TG  GO:0044666;
 --
-SN  11
-ID  Nuclear receptor coactivator 6 (Ncoa6)
-DN  Nuclear receptor coactivator 6 (Ncoa6)/11
+SN  10
+ID  Tubulin alpha-1A chain
+DN  Tubulin alpha-1A chain/10
 RQ  1
-EV  IPR015943; G3DSA:2.130.10.10; sufficient;
-TG  GO:0044666;
+EV  IPR002452; PR01162; sufficient;
+TG  GO:0005874;
+TG  GO:0005200;
+--
+SN  11
+ID  Tubulin beta chain
+DN  Tubulin beta chain/1
+RQ  1
+EV  -; PTHR11588:SF256; sufficient;
+TG  ;
 //
