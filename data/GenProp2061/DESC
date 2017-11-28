@@ -26,7 +26,7 @@ DN  Histone-lysine N-methyltransferase trithorax (EC 2.1.1.43)/1
 RQ  1
 EV  IPR037877; PTHR22884:SF373; sufficient;
 TG  GO:0044666;
-TG  ;
+TG  GO:0042800;
 --
 SN  2
 ID  WD repeat-containing protein 5 
