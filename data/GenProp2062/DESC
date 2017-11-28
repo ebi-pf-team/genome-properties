@@ -4,19 +4,13 @@ TP  SYSTEM
 AU  Rawlings ND
 TH  1
 RN  [1]
-RM  17500065
-RT  PTIP associates with MLL3- and MLL4-containing histone H3 
-RT  lysine 4 methyltransferase complex. 
-RA  Cho YW; Hong T; Hong S; Guo H; Yu H; Kim D; Guszczynski T; 
-RA  Dressler GR; Copeland TD; Kalkum M; Ge K;   
-RL  J Biol Chem. 2007;282:20395-20406.
-RN  [2]
-RM  17021013
-RT  Coactivator as a target gene specificity determinant for 
-RT  histone H3 lysine 4 methyltransferases. 
-RA  Lee S; Lee DK; Dou Y; Lee J; Lee B; Kwak E; Kong YY; Lee SK; 
-RA  Roeder RG; Lee JW;   
-RL  Proc Natl Acad Sci U S A 2006;103:15392-15397.
+RM  16603732 
+RT  Identification of the MLL2 complex as a coactivator for 
+RT  estrogen receptor alpha. 
+RA  Mo R; Rao SM; Zhu YJ; 
+RL  J Biol Chem. 2006;281:15714-15720.
+CC  The MLL2/3 complex is an oestrogen receptor alpha coactivator 
+CC  complex [1].
 CC  The MLL2/3 complex is composed at least KMT2D/MLL2 or 
 CC  KMT2C/MLL3, ASH2L, RBBP5, WDR5, NCOA6, DPY30, KDM6A, 
 CC  PAXIP1/PTIP, PAGR1 and alpha- and beta-tubulin [1,2]. 
