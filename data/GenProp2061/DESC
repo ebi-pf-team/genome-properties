@@ -24,7 +24,7 @@ SN  1
 ID  Histone-lysine N-methyltransferase trithorax (EC 2.1.1.43)
 DN  Histone-lysine N-methyltransferase trithorax (EC 2.1.1.43)/1
 RQ  1
-EV  -; PTHR22884:SF373; sufficient;
+EV  IPR037877; PTHR22884:SF373; sufficient;
 TG  GO:0044666;
 TG  ;
 --
