@@ -67,7 +67,7 @@ SN  7
 ID  PAX transcription activation domain interacting protein (ptip)
 DN  PAX transcription activation domain interacting protein (ptip)/7
 RQ  1
-EV  -; PTHR23196:SF1; sufficient;
+EV  IPR037886; PTHR23196:SF1; sufficient;
 TG  GO:0044666;
 --
 SN  8
