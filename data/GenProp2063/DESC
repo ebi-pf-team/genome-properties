@@ -13,9 +13,9 @@ RA  Washburn MP; Conaway JW; Conaway RC;
 RL  J. Biol. Chem. 2010;285:4268-4272.
 CC  The NSL complex is involved in acetylation of nucleosomal 
 CC  histone H4 on several lysine residues and therefore may be 
-CC  involved in the regulation of transcription [1].  The 
-CC  complex is composed of at least MOF/KAT8, KANSL1, KANSL2, 
-CC  KANSL3, MCRS1, PHF20, OGT1/OGT, WDR5 and HCFC1. 
+CC  involved in the regulation of transcription.  The complex 
+CC  is composed of at least MOF/KAT8, KANSL1, KANSL2, KANSL3, 
+CC  MCRS1, PHF20, OGT1/OGT, WDR5 and HCFC1 [1]. 
 --
 SN  1
 ID  Histone acetyltransferase KAT8 
@@ -50,14 +50,14 @@ SN  5
 ID  Microspherule protein 1 
 DN  Microspherule protein 1 (MCRS1) /5
 RQ  1
-EV  -; PTHR13233:SF0; sufficient;
+EV  IPR037912; PTHR13233; sufficient;
 TG  GO:0000123;
 --
 SN  5
 ID  PHD finger protein 20  
 DN  PHD finger protein 20 (PHF20) /5
 RQ  1
-EV  -; PTHR15856:SF27; sufficient;
+EV  IPR037915; PTHR15856:SF27; sufficient;
 TG  GO:0000123;
 --
 SN  7
