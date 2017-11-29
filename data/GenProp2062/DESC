@@ -2,7 +2,7 @@ AC  GenProp2062
 DE  MLL2/3 complex
 TP  SYSTEM
 AU  Rawlings ND
-TH  1
+TH  8
 RN  [1]
 RM  16603732 
 RT  Identification of the MLL2 complex as a coactivator for 
@@ -13,7 +13,7 @@ CC  The MLL2/3 complex is an oestrogen receptor alpha coactivator
 CC  complex [1].  The MLL2/3 complex is composed at least 
 CC  KMT2D/MLL2 or KMT2C/MLL3, ASH2L, RBBP5, WDR5, NCOA6, DPY30, 
 CC  KDM6A, PAXIP1/PTIP, PAGR1 and alpha- and beta-tubulin [1,2]. 
-**  Steps 1-8 are common to GP2061.  
+**  Steps 1-8 are common to GP2061. Hence threshold is high. 
 **  Steps 2-5 are common to GP2059.
 --
 SN  1
