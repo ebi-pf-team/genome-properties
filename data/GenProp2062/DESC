@@ -10,10 +10,9 @@ RT  estrogen receptor alpha.
 RA  Mo R; Rao SM; Zhu YJ; 
 RL  J Biol Chem. 2006;281:15714-15720.
 CC  The MLL2/3 complex is an oestrogen receptor alpha coactivator 
-CC  complex [1].
-CC  The MLL2/3 complex is composed at least KMT2D/MLL2 or 
-CC  KMT2C/MLL3, ASH2L, RBBP5, WDR5, NCOA6, DPY30, KDM6A, 
-CC  PAXIP1/PTIP, PAGR1 and alpha- and beta-tubulin [1,2]. 
+CC  complex [1].  The MLL2/3 complex is composed at least 
+CC  KMT2D/MLL2 or KMT2C/MLL3, ASH2L, RBBP5, WDR5, NCOA6, DPY30, 
+CC  KDM6A, PAXIP1/PTIP, PAGR1 and alpha- and beta-tubulin [1,2]. 
 **  Steps 1-8 are common to GP2061.  
 **  Steps 2-5 are common to GP2059.
 --
