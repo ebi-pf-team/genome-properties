@@ -13,9 +13,9 @@ RL  Mol Cell Biol. 2009;29:1176-1188.
 CC  The human ADA2A-containing complex (ATAC) is a histone 
 CC  acetyltransferase acting on histones H3 and H4 that is similar 
 CC  to but distinct from a similar complex initially identified in 
-CC  Drosophila melanogaster [1].
-CC  The ATAC complex is composed of KAT14, KAT2A, TADA2L, TADA3L, 
-CC  ZZZ3, MBIP, WDR5, YEATS2, CCDC101 and DR1. 
+CC  Drosophila melanogaster.  The ATAC complex is composed of KAT14, 
+CC  KAT2A, TADA2L, TADA3L, ZZZ3, MBIP, WDR5, YEATS2, CCDC101 and 
+CC  DR1 [1]. 
 --
 SN  1
 ID  Cysteine-rich protein 2-binding protein (KAT14) 
