@@ -42,50 +42,50 @@ TG  GO:0042800;
 TG  GO:0048188;
 --
 SN  2
-ID   
-DN  SWD3 /2
+ID  WD40-repeat-containing protein SWD3-like
+DN  WD40-repeat-containing protein SWD3-like /2
 RQ  1
 EV  IPR037866; PTHR22847:SF603; sufficient;
 TG  GO:0048188;
 --
 SN  3
-ID  SWD2
-DN  WD repeat-containing protein 82 (WDR82) /3
+ID  COMPASS component SWD2
+DN  COMPASS component SWD2 /3
 RQ  1
 EV  IPR037867; PTHR19861:SF0; sufficient;
 TG  GO:0048188;
 --
 SN  4
-ID  SWD1 
-DN  Retinoblastoma-binding protein 5 (RBBP5) /4
+ID  COMPASS component SWD1 
+DN  COMPASS component SWD1 /4
 RQ  1
 EV  IPR037850; PTHR44040; sufficient;
 TG  GO:0048188;
 --
 SN  5
-ID  BRE2 
-DN  Set1/Ash2 histone methyltransferase complex subunit ASH2  /5
+ID  COMPASS component BRE2 
+DN  COMPASS component BRE2 /5
 RQ  1
 EV  IPR037353; PTHR10598; sufficient;
 TG  GO:0048188;
 --
 SN  6
-ID  SPP1 
-DN  CXXC-type zinc finger protein 1 (CXXC1) /6
+ID  COMPASS component SPP1 
+DN  COMPASS component SPP1 /6
 RQ  1
 EV  IPR037869; PTHR12321:SF97; sufficient;
 TG  GO:0048188;
 --
 SN  7
-ID  SHG1
-DN  Host cell factor 1 (HCFC1)/7
+ID  COMPASS component SHG1
+DN  COMPASS component SHG1 /7
 RQ  1
 EV  IPR007870; PD086658; sufficient;
 TG  GO:0048188;
 --
 SN  8
-ID  SDC1
-DN  Protein dpy-30 homolog (DPY30)/8
+ID  COMPASS component SDC1
+DN  COMPASS component SDC1 /8
 RQ  1
 EV  IPR037870; PTHR23356:SF8; sufficient;
 TG  GO:0048188;
