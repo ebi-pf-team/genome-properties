@@ -9,9 +9,12 @@ RT  Chd1 chromodomain links histone H3 methylation with SAGA- and
 RT  SLIK-dependent acetylation. 
 RA  Pray-Grant MG; Daniel JA; Schieltz D; Yates JR 3rd; Grant PA;   
 RL  Nature 2005;433:434-438.
-CC  The yeast SLIK complex consists of at least TRA1, CHD1, SPT7, 
-CC  TAF5, ADA3, SPT20, RTG2, TAF12, TAF6, HFI1, UBP8, GCN5, ADA2, 
-CC  SPT3, SGF29, TAF10 and TAF9 [1].
+CC  The yeast SLIK (SAGA-like) is a multi-subunit histone 
+CC  acetyltransferase complex that preferentially acetylates 
+CC  histones H3 and H2B and deubiquitinates histone H2B. It is an 
+CC  embellishment of the SAGA complex. It consists of at least 
+CC  TRA1, CHD1, SPT7, TAF5, ADA3, SPT20, RTG2, TAF12, TAF6, HFI1, 
+CC  UBP8, GCN5, ADA2, SPT3, SGF29, TAF10 and TAF9 [1].
 **  UBP8 is MEROPS identifier C19.087.
 --
 SN  1
