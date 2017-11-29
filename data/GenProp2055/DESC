@@ -16,7 +16,7 @@ CC  The ADA complex is a transcription regulatory histone
 CC  acetylation (HAT) complex ADA. ADA preferentially acetylates 
 CC  nucleosomal histones H3 (at 'Lys-14' and 'Lys-18') and H2B. 
 CC  AHC1 is required for the overall structural integrity of the 
-CC  ADA complex.
+CC  ADA complex [1].
 --
 SN  1
 ID  Transcriptional adapter 2 (ADA2)
