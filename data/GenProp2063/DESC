@@ -21,62 +21,63 @@ SN  1
 ID  Histone acetyltransferase KAT8 
 DN  Histone acetyltransferase KAT8 (EC 2.3.1.48) (MOF/KAT8) /1
 RQ  1
-EV  -; PTHR10615:SF82; sufficient;
-TG  ;
+EV  IPR037906; PTHR10615:SF82; sufficient;
+TG  GO:0004402;
+TG  GO:0000123;
 --
 SN  2
 ID  KAT8 regulatory NSL complex subunit 1 
 DN  KAT8 regulatory NSL complex subunit 1 (KANSL1) /2
 RQ  1
 EV  IPR026180; PTHR22443; sufficient;
-TG  ;
+TG  GO:0000123;
 --
 SN  3
 ID  KAT8 regulatory NSL complex subunit 2 
 DN  KAT8 regulatory NSL complex subunit 2 (KANSL2) /3
 RQ  1
 EV  IPR026316; PTHR13453; sufficient;
-TG  ;
+TG  GO:0000123;
 --
 SN  4
 ID  KAT8 regulatory NSL complex subunit 3 
 DN  KAT8 regulatory NSL complex subunit 3 (KANSL3) /4
 RQ  1
 EV  IPR026555; PTHR13136; sufficient;
-TG  ;
+TG  GO:0000123;
 --
 SN  5
 ID  Microspherule protein 1 
 DN  Microspherule protein 1 (MCRS1) /5
 RQ  1
 EV  -; PTHR13233:SF0; sufficient;
-TG  ;
+TG  GO:0000123;
 --
 SN  5
 ID  PHD finger protein 20  
 DN  PHD finger protein 20 (PHF20) /5
 RQ  1
 EV  -; PTHR15856:SF27; sufficient;
-TG  ;
+TG  GO:0000123;
 --
 SN  7
 ID  WD repeat-containing protein 5 
 DN  WD repeat-containing protein 5 (WDR5) /7
 RQ  1
 EV  IPR037834; PTHR22847:SF560; sufficient;
-TG  ;
+TG  GO:0000123;
 --
 SN  8
 ID  UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase 110 kDa subunit 
 DN  UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase 110 kDa subunit (EC 2.4.1.255) (OGT1/OGT) /8
 RQ  1
 EV  -; PTHR44366; sufficient;
-TG  ;
+TG  GO:0000123;
 --
 SN  9
 ID  Host cell factor 1 
 DN  Host cell factor 1 (HCFC1) /9
 RQ  1
 EV  IPR037854; PTHR23244:SF339; sufficient;
-TG  ;
+TG  GO:0000123;
 //
