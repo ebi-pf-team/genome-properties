@@ -1,0 +1,56 @@
+AC  GenProp2065
+DE  MLL1 core complex
+TP  SYSTEM
+AU  Rawlings ND
+TH  8
+RN  [1]
+RM  15199122 
+RT  Leukemia proto-oncoprotein MLL forms a SET1-like histone 
+RT  methyltransferase complex with menin to regulate Hox gene 
+RT  expression. 
+RA  Yokoyama A; Wang Z; Wysocka J; Sanyal M; Aufiero DJ; 
+RA  Kitabayashi I; Herr W; Cleary ML; 
+RL  Mol Cell Biol. 2004;24:5639-5649.
+CC  The MLL1 complex is composed of at least the core 
+CC  components KMT2A/MLL1, ASH2L, HCFC1, WDR5 and RBBP5. 
+CC  Facultative components are BAP18, CHD8, DPY30, E2F6, 
+CC  HCFC2, HSP70, INO80C, KANSL1, LAS1L, MAX, MCRS1, MEN1, 
+CC  MGA, KAT8, PELP1, PHF20, PRP31, RING2, RUVBL1, RUVBL2, 
+CC  SENP3, TAF1, TAF4, TAF6, TAF7, TAF9 and TEX10.
+--
+SN  1
+ID  Histone-lysine N-methyltransferase 2A (KMT2A/MLL1)
+DN  Histone-lysine N-methyltransferase 2A (EC 2.1.1.43)/1
+RQ  1
+EV  -; PTHR22884:SF387; sufficient;
+TG  GO:0044666;
+TG  GO:0042800;
+--
+SN  2
+ID  Set1/Ash2 histone methyltransferase complex subunit ASH2
+DN  Set1/Ash2 histone methyltransferase complex subunit ASH2 /2
+RQ  1
+EV  IPR037353; PTHR10598; sufficient;
+TG  GO:0035097;
+--
+SN  3
+ID  Host cell factor 1 (HCFC1)
+DN  Host cell factor 1 (HCFC1)/3
+RQ  1
+EV  IPR037854; PTHR23244:SF339; sufficient;
+TG  GO:0035097;
+--
+SN  4
+ID  WD repeat-containing protein 5 (WDR5) 
+DN  WD repeat-containing protein 5 (WDR5) /4
+RQ  1
+EV  IPR037834; PTHR22847:SF560; sufficient;
+TG  GO:0035097;
+--
+SN  5
+ID  Retinoblastoma-binding protein 5 (RBBP5) 
+DN  Retinoblastoma-binding protein 5 (RBBP5) /5
+RQ  1
+EV  IPR037850; PTHR44040; sufficient;
+TG  GO:0035097;
+//
