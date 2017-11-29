@@ -16,8 +16,6 @@ CC  histone H4 on several lysine residues and therefore may be
 CC  involved in the regulation of transcription [1].  The 
 CC  complex is composed of at least MOF/KAT8, KANSL1, KANSL2, 
 CC  KANSL3, MCRS1, PHF20, OGT1/OGT, WDR5 and HCFC1. 
-**  PHF20 is not included in any InterPro member database 
-**  entry.
 --
 SN  1
 ID  Histone acetyltransferase KAT8 
