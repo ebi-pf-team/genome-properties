@@ -102,7 +102,7 @@ debug                    : Turn on verbose debugging
 
 
 Example: 
-$0 -matches /Users/rdf/Projects/InterPro/GenomeProperties/EcoliExample/83333.fasta.tsv  -all -name 83333.test -gpdir /tmp/release/testv0.1 -gp genomeProperties.txt -outfiles summary
+$0 -matches /Users/rdf/Projects/InterPro/GenomeProperties/EcoliExample/83333.fasta.tsv  -all -name 83333.test -gpdir /tmp/release/testv0.1 -gpff genomeProperties.txt -outfiles summary
 
 
 EOF
