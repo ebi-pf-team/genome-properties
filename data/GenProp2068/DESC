@@ -13,8 +13,6 @@ RA  Kitabayashi I; Herr W; Cleary ML;
 RL  Mol Cell Biol. 2004;24:5639-5649.
 CC  The MLL5-L complex is composed of at least KMT2E/MLL5, 
 CC  STK38, PPP1CA, PPP1CB, PPP1CC, HCFC1, ACTB and OGT. 
-**  Steps 2-5 and 7 are common to GP2059 and GP2061.
-**  Hence threshold is high. 
 --
 SN  1
 ID  Histone-lysine N-methyltransferase 2E (EC 2.1.1.43)
