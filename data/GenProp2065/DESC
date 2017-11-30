@@ -27,6 +27,7 @@ CC  Facultative components are BAP18, CHD8, DPY30, E2F6,
 CC  HCFC2, HSP70, INO80C, KANSL1, LAS1L, MAX, MCRS1, MEN1, 
 CC  MGA, KAT8, PELP1, PHF20, PRP31, RING2, RUVBL1, RUVBL2, 
 CC  SENP3, TAF1, TAF4, TAF6, TAF7, TAF9 and TEX10 [1,2].
+**  This is essentially an embellishment of GP2067.
 **  HSP70 exists as proteins 1A and 1B
 **  SENP3 is MEROPS identifier C48.003.
 --
