@@ -1,6 +1,6 @@
 AC  GenProp2065
 DE  MLL1 complex
-TP  SYSTEM
+TP  METAPATH
 AU  Rawlings ND
 TH  8
 RN  [1]
@@ -201,66 +201,58 @@ TG  GO:0071339;
 TG  GO:0036353;
 --
 SN  24
-ID  RuvB-like 1 (RUVBL1) 
-DN  RuvB-like 1 (EC 3.6.4.12) /24
+ID  RuvB-like helicase 
 RQ  1
-EV  IPR037938; PTHR11093:SF6; sufficient;
+EV  GenProp2001;
 TG  GO:0071339;
 TG  GO:0043141;
 --
 SN  25
-ID  RuvB-like 2 (RUVBL2)
-DN  RuvB-like 2 (EC 3.6.4.12) /25
-RQ  1
-EV  -; PTHR11093:SF2; sufficient;
-TG  GO:0071339;
---
-SN  26
 ID  Sentrin-specific protease 3 (SENP3) 
-DN  Sentrin-specific protease 3 (EC 3.4.22.-) /26
+DN  Sentrin-specific protease 3 (EC 3.4.22.-) /25
 RQ  1
 EV  -; PTHR12606:SF16; sufficient;
 TG  GO:0071339;
 --
-SN  27
+SN  26
 ID  Transcription initiation factor TFIID subunit 1 (TAF1) 
-DN  Transcription initiation factor TFIID subunit 1 (EC 2.3.1.48) (EC 2.7.11.1) /27
+DN  Transcription initiation factor TFIID subunit 1 (EC 2.3.1.48) (EC 2.7.11.1) /26
 RQ  1
 EV  IPR011177; PIRSF003047; sufficient;
 TG  GO:0071339;
 --
-SN  28
+SN  27
 ID  Transcription initiation factor TFIID subunit 4 (TAF4) 
-DN  Transcription initiation factor TFIID subunit 4 /28
+DN  Transcription initiation factor TFIID subunit 4 /27
 RQ  1
 EV  IPR007900; PF05236; sufficient;
 EV  IPR007900; cd08045; sufficient;
 TG  GO:0071339;
 --
-SN  29
+SN  28
 ID  Transcription initiation factor TFIID subunit 6 (TAF6) 
-DN  Transcription initiation factor TFIID subunit 6 /29
+DN  Transcription initiation factor TFIID subunit 6 /28
 RQ  1
 EV  IPR037796; PTHR10221; sufficient;
 TG  GO:0071339;
 --
-SN  30
+SN  29
 ID  Transcription initiation factor TFIID subunit 7 (TAF7) 
-DN  Transcription initiation factor TFIID subunit 7 /30
+DN  Transcription initiation factor TFIID subunit 7 /29
 RQ  1
 EV  IPR037817; PTHR12228; sufficient;
 TG  GO:0071339;
 --
-SN  31
+SN  30
 ID  Transcription initiation factor TFIID subunit 9 (TAF9) 
-DN  Transcription initiation factor TFIID subunit 9 /31
+DN  Transcription initiation factor TFIID subunit 9 /30
 RQ  1
 EV  -; PTHR12595:SF8; sufficient;
 TG  GO:0071339;
 --
-SN  32
+SN  31
 ID  Testis-expressed protein 10 (TEX10) 
-DN  Testis-expressed protein 10 /32
+DN  Testis-expressed protein 10 /31
 RQ  1
 EV  -; PTHR16056 PTHR16056:SF2; sufficient;
 TG  GO:0071339;
