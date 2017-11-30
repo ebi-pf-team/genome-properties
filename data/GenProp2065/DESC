@@ -204,8 +204,9 @@ SN  24
 ID  RuvB-like 1 (RUVBL1) 
 DN  RuvB-like 1 (EC 3.6.4.12) /24
 RQ  1
-EV  -; PTHR11093:SF6; sufficient;
+EV  IPR037938; PTHR11093:SF6; sufficient;
 TG  GO:0071339;
+TG  GO:0043141;
 --
 SN  25
 ID  RuvB-like 2 (RUVBL2)
