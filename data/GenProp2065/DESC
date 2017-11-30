@@ -11,14 +11,22 @@ RT  expression.
 RA  Yokoyama A; Wang Z; Wysocka J; Sanyal M; Aufiero DJ; 
 RA  Kitabayashi I; Herr W; Cleary ML; 
 RL  Mol Cell Biol. 2004;24:5639-5649.
+RN  [2]
+RM  15960975 
+RT  Physical association and coordinate function of the H3 K4 
+RT  methyltransferase MLL1 and the H4 K16 acetyltransferase 
+RT  MOF. 
+RA  Dou Y; Milne TA; Tackett AJ; Smith ER; Fukuda A; Wysocka J; 
+RA  Allis CD; Chait BT; Hess JL; Roeder RG; 
+RL  Cell. 2005;121:873-885.
 CC  The MLL1 complex is a histone methyltransferase that
-CC  regulates Hox gene expression.
+CC  regulates Hox gene expression [1].
 CC  The MLL1 complex is composed of at least the core 
 CC  components KMT2A/MLL1, ASH2L, HCFC1, WDR5 and RBBP5. 
 CC  Facultative components are BAP18, CHD8, DPY30, E2F6, 
 CC  HCFC2, HSP70, INO80C, KANSL1, LAS1L, MAX, MCRS1, MEN1, 
 CC  MGA, KAT8, PELP1, PHF20, PRP31, RING2, RUVBL1, RUVBL2, 
-CC  SENP3, TAF1, TAF4, TAF6, TAF7, TAF9 and TEX10.
+CC  SENP3, TAF1, TAF4, TAF6, TAF7, TAF9 and TEX10 [1,2].
 **  HSP70 exists as proteins 1A and 1B
 --
 SN  1
@@ -61,7 +69,7 @@ SN  6
 ID  Chromatin complexes subunit BAP18 
 DN  Chromatin complexes subunit BAP18 /6
 RQ  1
-EV  -; PTHR21397:SF2; sufficient;
+EV  IPR037931; PTHR21397:SF2; sufficient;
 TG  GO:0071339;
 --
 SN  7
@@ -90,7 +98,7 @@ SN  10
 ID  Host cell factor 2 (HCFC2)
 DN  Host cell factor 2 /10
 RQ  1
-EV  -; PTHR23244:SF325; sufficient;
+EV  IPR037932; PTHR23244:SF325; sufficient;
 TG  GO:0071339;
 --
 SN  11
@@ -127,8 +135,9 @@ SN  15
 ID  Protein max (MAX)         
 DN  Protein max /15
 RQ  1
-EV  -; PTHR10328:SF3; sufficient;
+EV  IPR037933; PTHR10328; sufficient;
 TG  GO:0071339;
+TG  GO:0003700;
 --
 SN  16
 ID  Microspherule protein 1 (MCRS1)
@@ -147,11 +156,12 @@ EV  IPR007747; cd14456; sufficient;
 TG  GO:0071339;
 --
 SN  18
-ID  Maltase-glucoamylase, intestinal (MGA)
-DN  Maltase-glucoamylase, intestinal (EC 2.3.1.48) (EC 2.7.11.1) /18
+ID  MAX gene-associated protein (MGA)
+DN  MAX gene-associated protein /18
 RQ  1
-EV  -; PTHR22762:SF63; sufficient;
+EV  IPR037935; PTHR11267:SF32; sufficient;
 TG  GO:0071339;
+TG  GO:0003700;
 --
 SN  19
 ID  Histone acetyltransferase KAT8
@@ -186,8 +196,9 @@ SN  23
 ID  E3 ubiquitin-protein ligase RING2 
 DN  E3 ubiquitin-protein ligase RING2 (EC 2.3.2.27) /23
 RQ  1
-EV  -; PTHR10825:SF41; sufficient;
+EV  IPR037937; PTHR10825:SF41; sufficient;
 TG  GO:0071339;
+TG  GO:0036353;
 --
 SN  24
 ID  RuvB-like 1 (RUVBL1) 
