@@ -28,6 +28,7 @@ CC  HCFC2, HSP70, INO80C, KANSL1, LAS1L, MAX, MCRS1, MEN1,
 CC  MGA, KAT8, PELP1, PHF20, PRP31, RING2, RUVBL1, RUVBL2, 
 CC  SENP3, TAF1, TAF4, TAF6, TAF7, TAF9 and TEX10 [1,2].
 **  HSP70 exists as proteins 1A and 1B
+**  SENP3 is MEROPS identifier C48.003.
 --
 SN  1
 ID  Histone-lysine N-methyltransferase 2A (KMT2A/MLL1)
@@ -203,7 +204,7 @@ TG  GO:0036353;
 SN  24
 ID  RuvB-like helicase 
 RQ  1
-EV  GenProp2001;
+EV  GenProp2066;
 TG  GO:0071339;
 TG  GO:0043141;
 --
@@ -211,8 +212,10 @@ SN  25
 ID  Sentrin-specific protease 3 (SENP3) 
 DN  Sentrin-specific protease 3 (EC 3.4.22.-) /25
 RQ  1
-EV  -; PTHR12606:SF16; sufficient;
+EV  IPR037945; PTHR12606:SF16; sufficient;
 TG  GO:0071339;
+TG  GO:0008234;
+TG  GO:0016926;
 --
 SN  26
 ID  Transcription initiation factor TFIID subunit 1 (TAF1) 
@@ -247,13 +250,14 @@ SN  30
 ID  Transcription initiation factor TFIID subunit 9 (TAF9) 
 DN  Transcription initiation factor TFIID subunit 9 /30
 RQ  1
-EV  -; PTHR12595:SF8; sufficient;
+EV  IPR003162; PF02291; sufficient;
+EV  IPR003162; cd07979; sufficient;
 TG  GO:0071339;
 --
 SN  31
 ID  Testis-expressed protein 10 (TEX10) 
 DN  Testis-expressed protein 10 /31
 RQ  1
-EV  -; PTHR16056 PTHR16056:SF2; sufficient;
+EV  -; PTHR16056:SF2; sufficient;
 TG  GO:0071339;
 //
