@@ -258,6 +258,6 @@ SN  31
 ID  Testis-expressed protein 10 (TEX10) 
 DN  Testis-expressed protein 10 /31
 RQ  1
-EV  -; PTHR16056:SF2; sufficient;
+EV  IPR037947; PTHR16056:SF2; sufficient;
 TG  GO:0071339;
 //
