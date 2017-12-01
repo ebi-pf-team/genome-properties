@@ -1,0 +1,55 @@
+AC  GenProp2070
+DE  Core histone deacetylase (HDAC) complex
+TP  SYSTEM
+AU  Rawlings ND
+TH  2
+RN  [1]
+RM  11784859 
+RT  Role of the Sin3-histone deacetylase complex in 
+RT  growth regulation by the candidate tumor suppressor 
+RT  p33(ING1). 
+RA  Kuzmichev A; Zhang Y; Erdjument-Bromage H; Tempst P; 
+RA  Reinberg D; 
+RL  Mol Cell Biol. 2002;22:835-848.
+RN  [2]
+RM  10444591 
+RT  Analysis of the NuRD subunits reveals a histone 
+RT  deacetylase core complex and a connection with DNA 
+RT  methylation. 
+RA  Zhang Y; Ng HH; Erdjument-Bromage H; Tempst P; 
+RA  Bird A; Reinberg D; 
+RL  Genes Dev. 1999;13:1924-1935.
+CC  The HDAC complex is composed of HDAC1, HDAC2, RBBP4 
+CC  and RBBP7.  This core complex associates with other
+CC  proteins to form the NuRD and SIN3 HDAC complexes 
+CC  [1,2].
+**  Steps 1 and 2 have same evidence.
+--
+SN  1
+ID  Histone deacetylase 1 (HDAC1)
+DN  Histone deacetylase 1 (EC 3.5.1.98) /1
+RQ  1
+EV  -; PTHR10625:SF171; sufficient;
+TG  ;
+--
+SN  2
+ID  Histone deacetylase 2 (HDAC2)
+DN  Histone deacetylase 2 (EC 3.5.1.98) /2
+RQ  1
+EV  -; PTHR10625:SF171; sufficient;
+TG  ;
+--
+SN  3
+ID  Histone-binding protein RBBP4
+DN  Histone-binding protein RBBP4 /3
+RQ  1
+EV  -; PTHR22850:SF90; sufficient;
+TG  ;
+--
+SN  4
+ID  Histone-binding protein RBBP7
+DN  Histone-binding protein RBBP7 /4
+RQ  1
+EV  -; PTHR22850:SF82; sufficient;
+TG  ;
+//
