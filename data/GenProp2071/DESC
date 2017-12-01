@@ -25,15 +25,16 @@ SN  2
 ID  Metastasis-associated protein MTA2 (MTA2)
 DN  Metastasis-associated protein MTA2 /2
 RQ  1
-EV  -; PTHR10865:SF4; sufficient;
+EV  IPR037964; PTHR10865:SF4; sufficient;
 TG  GO:0016581;
 --
 SN  3
 ID  Methyl-CpG-binding domain protein 3 (MBD3)
 DN  Methyl-CpG-binding domain protein 3 /3
 RQ  1
-EV  -; PTHR12396:SF12; sufficient;
+EV  IPR037965; PTHR12396:SF12; sufficient;
 TG  GO:0016581;
+TG  GO:0008327;
 --
 SN  4
 ID  Chromodomain-helicase-DNA-binding protein 3 (CHD3)
