@@ -4,21 +4,34 @@ TP  SYSTEM
 AU  Rawlings ND
 TH  5
 RN  [1]
-RM  15199122 
-RT  Leukemia proto-oncoprotein MLL forms a SET1-like histone 
-RT  methyltransferase complex with menin to regulate Hox 
-RT  gene expression. 
-RA  Yokoyama A; Wang Z; Wysocka J; Sanyal M; Aufiero DJ; 
-RA  Kitabayashi I; Herr W; Cleary ML; 
-RL  Mol Cell Biol. 2004;24:5639-5649.
+RM  19377461 
+RT  GlcNAcylation of a histone methyltransferase in 
+RT  retinoic-acid-induced granulopoiesis. 
+RA  Fujiki R; Chikanishi T; Hashiba W; Ito H; Takada I; 
+RA  Roeder RG; Kitagawa H; Kato S; 
+RL  Nature 2009;459:455-459.
+RN  [2]
+RM  27812132 
+RT  The Human Mixed Lineage Leukemia 5 (MLL5), a 
+RT  Sequentially and structurally divergent SET domain-
+RT  containing protein with no intrinsic catalytic activity. 
+RA  Mas-Y-Mas S; Barbon M; Teyssier C; Déméné H; Carvalho JE; 
+RA  Bird LE; Lebedev A; Fattori J; Schubert M; Dumas C; 
+RA  Bourguet W; le Maire A; 
+RL  PLoS One 2016;11:e0165139.
 CC  The MLL5-L complex is composed of at least KMT2E/MLL5, 
 CC  STK38, PPP1CA, PPP1CB, PPP1CC, HCFC1, ACTB and OGT. 
+**  There are serious problems with this Genome Property.
+**  The paper describing the complex [1] has been retracted
+**  by the authors.  The complex is unlike that of other
+**  histone methyltransferases.  There is also evidence that 
+**  KMT2E/MLL5 lacks catalytic activity [2].
 --
 SN  1
 ID  Histone-lysine N-methyltransferase 2E (EC 2.1.1.43)
 DN  Histone-lysine N-methyltransferase 2E (EC 2.1.1.43)/1
 RQ  1
-EV  -; PTHR44512:SF1; sufficient;
+EV  IPR037955; PTHR44512:SF1; sufficient;
 TG  GO:0071339;
 TG  GO:0042800;
 --
