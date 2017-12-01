@@ -30,6 +30,12 @@ CC  SENP3, TAF1, TAF4, TAF6, TAF7, TAF9 and TEX10 [1,2].
 **  This is essentially an embellishment of GP2067.
 **  HSP70 exists as proteins 1A and 1B
 **  SENP3 is MEROPS identifier C48.003.
+**  It isn't clear to me whether the facultative components
+**  are associated with other histone methyltransferase
+**  complexes or not: SwissProt entries are conflicting.  If 
+**  all MLL complexes require these compones, then they 
+**  should be a separate genome property and all MLL 
+**  complexes should be METAPATHs.
 --
 SN  1
 ID  MLL-HCF complex 
