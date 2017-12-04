@@ -29,7 +29,7 @@ SN  2
 ID  TOX high mobility group box family member 4 (TOX4)
 DN  TOX high mobility group box family member 4 /2
 RQ  1
-EV  -; PTHR13711:SF208; sufficient;
+EV  IPR037985; PTHR13711:SF208; sufficient;
 TG  GO:0072357;
 --
 SN  3
