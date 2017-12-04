@@ -4,6 +4,12 @@ TP  METAPATH
 AU  Rawlings ND
 TH  1
 RN  [1]
+RM  10904264 
+RT  NuRD and SIN3 histone deacetylase complexes in 
+RT  development. 
+RA  Ahringer J; 
+RL  Trends Genet. 2000;16:351-356.
+RN  [2]
 RM  10444591 
 RT  Analysis of the NuRD subunits reveals a histone 
 RT  deacetylase core complex and a connection with DNA 
@@ -11,9 +17,11 @@ RT  methylation.
 RA  Zhang Y; Ng HH; Erdjument-Bromage H; Tempst P; 
 RA  Bird A; Reinberg D; 
 RL  Genes Dev. 1999;13:1924-1935.
+CC  NuRD is one of the two major HDAC complexes that 
+CC  have specific functions in development [1].
 CC  The HDAC complex associates with MTA2, MBD3, CHD3 
 CC  and CHD4 to form the nucleosome remodeling and 
-CC  histone deacetylase (NuRD) complex [1].
+CC  histone deacetylase (NuRD) complex [2].
 **  Steps 1 and 2 have same evidence.
 --
 SN  1
