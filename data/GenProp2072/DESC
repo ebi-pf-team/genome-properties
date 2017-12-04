@@ -9,7 +9,7 @@ RT  NuRD and SIN3 histone deacetylase complexes in
 RT  development. 
 RA  Ahringer J; 
 RL  Trends Genet. 2000;16:351-356.
-RN  [2]
+RN  [2]GO:0016580
 RM  12724404 
 RT  Identification and characterization of three new 
 RT  components of the mSin3A corepressor complex. 
@@ -29,15 +29,16 @@ SN  2
 ID  Paired amphipathic helix protein Sin3a
 DN  Paired amphipathic helix protein Sin3a /2
 RQ  1
-EV  -; PTHR12346:SF2; sufficient;
-TG  ;
+EV  IPR037969; PTHR12346:SF2; sufficient;
+TG  GO:0003714;
+TG  GO:0016580;
 --
-SN  5
+SN  3
 ID  Sin3 histone deacetylase corepressor complex component SDS3 (SUDS3)
-DN  Sin3 histone deacetylase corepressor complex component SDS3 /5
+DN  Sin3 histone deacetylase corepressor complex component SDS3 /3
 RQ  1
 EV  IPR013907; PF08598; sufficient;
 EV  IPR013907; PTHR21964; sufficient;
 EV  IPR013907; SM01401; sufficient;
-TG  ;
+TG  GO:0016580;
 //
