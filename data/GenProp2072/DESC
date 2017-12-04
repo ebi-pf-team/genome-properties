@@ -1,0 +1,43 @@
+AC  GenProp2072
+DE  Sin3 HDAC complex
+TP  METAPATH
+AU  Rawlings ND
+TH  1
+RN  [1]
+RM  10904264 
+RT  NuRD and SIN3 histone deacetylase complexes in 
+RT  development. 
+RA  Ahringer J; 
+RL  Trends Genet. 2000;16:351-356.
+RN  [2]
+RM  12724404 
+RT  Identification and characterization of three new 
+RT  components of the mSin3A corepressor complex. 
+RA  Fleischer TC; Yun UJ; Ayer DE; 
+RL  Mol Cell Biol. 2003;23:3456-3467.
+CC  Sin3 is one of the two major HDAC complexes that 
+CC  have specific functions in development [1].
+CC  The HDAC complex associates with SIN3A and SUDS3 
+CC  to form the Sin3 HDAC complex [2].
+--
+SN  1
+ID  HDAC core complex 
+RQ  1
+EV  GenProp2070;
+--
+SN  2
+ID  Paired amphipathic helix protein Sin3a
+DN  Paired amphipathic helix protein Sin3a /2
+RQ  1
+EV  -; PTHR12346:SF2; sufficient;
+TG  ;
+--
+SN  5
+ID  Sin3 histone deacetylase corepressor complex component SDS3 (SUDS3)
+DN  Sin3 histone deacetylase corepressor complex component SDS3 /5
+RQ  1
+EV  IPR013907; PF08598; sufficient;
+EV  IPR013907; PTHR21964; sufficient;
+EV  IPR013907; SM01401; sufficient;
+TG  ;
+//
