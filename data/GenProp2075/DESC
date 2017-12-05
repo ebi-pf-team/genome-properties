@@ -32,6 +32,7 @@ CC  BRD8/SMAP, EPC1, DMAP1/DNMAP1, RUVBL1/TIP49, RUVBL2, ING3,
 CC  actin, ACTL6A/BAF53A, MORF4L1/MRG15, MORF4L2/MRGX, MRGBP, 
 CC  YEATS4/GAS41, VPS72/YL1 and MEAF6* [3].
 **  Asterisked steps are also components of GP2074.
+**  Step 9 represents step 13 of GP2074; could the two be merged?
 --
 SN  1*
 ID  Histone acetyltransferase ESA1 (ESA1/KAT5/TIP60)
@@ -45,7 +46,7 @@ SN  2
 ID  E1A-binding protein p400 (EP400)
 DN  E1A-binding protein p400 /2
 RQ  1
-EV  -; PTHR10799:SF599; sufficient;
+EV  IPR038000; PTHR10799:SF599; sufficient;
 TG  GO:0035267;
 --
 SN  3
@@ -59,7 +60,7 @@ SN  4
 ID  Bromodomain-containing protein 8 (BRD8/SMAP)
 DN  Bromodomain-containing protein 8 /4
 RQ  1
-EV  -; PTHR15398:SF6; sufficient;
+EV  IPR038002; PTHR15398:SF6; sufficient;
 TG  GO:0035267;
 --
 SN  5*
@@ -94,7 +95,7 @@ SN  9
 ID  Inhibitor of growth protein 3 (ING3)
 DN  Inhibitor of growth protein 3 /2
 RQ  1
-EV  -; PTHR10333:SF91; sufficient;
+EV  IPR038004; PTHR10333:SF91; sufficient;
 TG  GO:0035267;
 --
 SN  10*
