@@ -30,6 +30,7 @@ CC  The NuA4 complex is also involved in DNA repair [1,2].
 CC  The complex in yeast is composed of at least 
 CC  ACT1, ARP4, YAF9, VID21, SWC4, EAF3, EAF5, EAF6, 
 CC  EAF7, EPL1, ESA1, TRA1 and YNG2 [1].  
+**  Evidence for step 2 is a child of evidence for step 1.
 **  There is no good model for VID21.
 **  PTHR10880:SF15 is more specific for EAF3, but both 
 **  underhits and overhits.
@@ -56,7 +57,7 @@ RQ  1
 EV  IPR037989; PTHR23195:SF15; sufficient;
 TG  GO:0035267;
 --
-SN  4
+SN  4*
 ID  Chromatin modification-related protein EAF1 (VID21)
 DN  Chromatin modification-related protein EAF1 /4
 RQ  1
