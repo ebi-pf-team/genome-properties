@@ -1,6 +1,6 @@
 AC  GenProp2074
-DE  NuA4 histone acetyltransferase complex
-TP  METAPATH
+DE  NuA4 histone acetyltransferase complex, yeast
+TP  SYSTEM
 AU  Rawlings ND
 TH  1
 RN  [1]
@@ -11,16 +11,31 @@ RT  into euchromatin.
 RA  Kobor MS; Venkatasubrahmanyam S; Meneghini MD; Gin JW; 
 RA  Jennings JL; Link AJ; Madhani HD; Rine J; 
 RL  PLoS Biol. 2004;2:E131.
+RN  [2]
+RM  10911987 
+RT  Multiple links between the NuA4 histone acetyltransferase 
+RT  complex and epigenetic control of transcription. 
+RA  Galarneau L; Nourani A; Boudreault AA; Zhang Y; Héliot L; 
+RA  Allard S; Savard J; Lane WS; Stillman DJ; Côté J; 
+RL  Mol Cell. 2000;5:927-937.
+RN  [3]
+RM  10911987 
+RT  The highly conserved and multifunctional NuA4 HAT complex. 
+RA  Doyon Y; Côté J; 
+RL  Curr Opin Genet Dev. 2004;14:147-154.
 CC  The NuA4 histone acetyltransferase complex is involved 
-CC  in transcriptional activation of selected genes by 
-CC  acetylation of nucleosomal histone H4 and H2A. The 
-CC  NuA4 complex is also involved in DNA repair [1].  The 
-CC  complex is composed of at least 
+CC  in epigenetic transcriptional activation of selected  
+CC  genes by acetylation of nucleosomal histone H4 and H2A. 
+CC  The NuA4 complex is also involved in DNA repair [1,2].  
+CC  The complex in yeast is composed of at least 
 CC  ACT1, ARP4, YAF9, VID21, SWC4, EAF3, EAF5, EAF6, 
-CC  EAF7, EPL1, ESA1, TRA1 and YNG2 [1].
+CC  EAF7, EPL1, ESA1, TRA1 and YNG2 [1].  
 **  There is no good model for VID21.
+**  PTHR10880:SF15 is more specific for EAF3, but both 
+**  underhits and overhits.
+**  Asterisked steps are also components of GP2075.
 --
-SN  1
+SN  1*
 ID  Actin (ACT1) 
 DN  Actin;
 RQ  1
@@ -48,7 +63,7 @@ RQ  1
 EV  -; -; sufficient;
 TG  GO:0035267;
 --
-SN  5
+SN  5*
 ID  SWR1-complex protein 4 (SWC4)
 DN  SWR1-complex protein 4 /5
 RQ  1
@@ -59,7 +74,7 @@ SN  6
 ID  Chromatin modification-related protein EAF3 (EAF3)
 DN  Chromatin modification-related protein EAF3 /6
 RQ  1
-EV  -; PTHR10880:SF15; sufficient;
+EV  IPR008676; PTHR10880; sufficient;
 TG  GO:0035267;
 --
 SN  7
@@ -69,14 +84,14 @@ RQ  1
 EV  IPR026226; PR02067; sufficient;
 TG  GO:0035267;
 --
-SN  8
-ID  Chromatin modification-related protein EAF6
+SN  8*
+ID  Chromatin modification-related protein EAF6/MEAF6
 DN  Chromatin modification-related protein EAF6 /8
 RQ  1
 EV  IPR015418; PF09340; sufficient;
 TG  GO:0035267;
 --
-SN  9
+SN  9*
 ID  Chromatin modification-related protein EAF7
 DN  Chromatin modification-related protein EAF7 /9
 RQ  1
@@ -84,18 +99,19 @@ EV  IPR012423; PF07904; sufficient;
 EV  IPR012423; PTHR13581; sufficient;
 TG  GO:0035267;
 --
-SN  10
+SN  10*
 ID  Enhancer of polycomb-like protein 1 (EPL1)
 DN  Enhancer of polycomb-like protein 1 /10
 RQ  1
 EV  IPR024943; PTHR14898; sufficient;
 TG  GO:0035267;
 --
-SN  11
-ID  Histone acetyltransferase ESA1 (ESA1)
+SN  11*
+ID  Histone acetyltransferase ESA1 (ESA1/KAT5/TIP60)
 DN  Histone acetyltransferase ESA1 (EC 2.3.1.48) /11
 RQ  1
-EV  -; PTHR10615:SF124; sufficient;
+EV  IPR037995; PTHR10615:SF124; sufficient;
+TG  GO:0004402;
 TG  GO:0035267;
 --
 SN  12
@@ -109,6 +125,6 @@ SN  13
 ID  Chromatin modification-related protein YNG2 
 DN  Chromatin modification-related protein YNG2 /13
 RQ  1
-EV  -; PTHR10333:SF88; sufficient;
+EV  IPR037996; PTHR10333:SF88; sufficient;
 TG  GO:0035267;
 //
