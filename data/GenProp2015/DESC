@@ -2,7 +2,7 @@ AC  GenProp2015
 DE  Thymoproteasome
 TP  SYSTEM
 AU  Rawlings ND
-TH  11
+TH  12
 RN  [1]
 RM  11265247
 RT  Antigen processing by the proteasome.
@@ -28,7 +28,20 @@ DC  Proteasome
 DR  KEGG; map03050;
 CC  The thymooproteasome is a specialist form of the immunoproteasome [1] in 
 CC  which the beta5i component (also known as beta type-8) is replaced by 
-CC  beta5t (also known as beta type-11)[2].  
+CC  beta5t (also known as beta type-11)[2]. 
+**  Evidence for step 1 is also used in GP2014, GP2011 and GP2016.
+**  Evidence for step 2 is also used in GP2014, GP2011 and GP2016.
+**  Evidence for step 3 is also used in GP2014, GP2011 and GP2016.
+**  Evidence for step 4 is also used in GP2014, GP2011 and GP2016.
+**  Evidence for step 5 is also used in GP2014, GP2011 and GP2016.
+**  Evidence for step 6 is also used in GP2014, GP2011 and GP2016.
+**  Evidence for step 7 is also used in GP2014 and GP2011.
+**  Evidence for step 8 is also used in GP2014, GP2011 and GP2016.
+**  Evidence for step 9 is also used in GP2014, GP2011 and GP2016.
+**  Evidence for step 10 is also used in GP2014, GP2011 and GP2016.
+**  Evidence for step 13 is also used in GP2014.
+**  Evidence for step 14 is also used in GP2014.
+**  Threshold is therefore set to 12.
 --
 SN  1
 ID  proteasome subunit alpha type-1
