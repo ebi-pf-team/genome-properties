@@ -31,7 +31,8 @@ CC  The complex in yeast is composed of at least
 CC  ACT1, ARP4, YAF9, VID21, SWC4, EAF3, EAF5, EAF6, 
 CC  EAF7, EPL1, ESA1, TRA1 and YNG2 [1].  
 **  Evidence for step 2 is a child of evidence for step 1.
-**  There is no good model for VID21.
+**  Evidence for step 4 does not include protein from 
+**  Saccharomyces cerevisiae, for which there is no good model.
 **  PTHR10880:SF15 is more specific for EAF3, but both 
 **  underhits and overhits.
 **  Asterisked steps are also components of GP2075.
@@ -61,7 +62,7 @@ SN  4*
 ID  Chromatin modification-related protein EAF1 (VID21)
 DN  Chromatin modification-related protein EAF1 /4
 RQ  1
-EV  -; -; sufficient;
+EV  IPR038000; PTHR10799:SF599; sufficient;
 TG  GO:0035267;
 --
 SN  5*
