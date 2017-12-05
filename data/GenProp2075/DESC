@@ -116,14 +116,14 @@ SN  12
 ID  Mortality factor 4-like protein 1 (MORF4L1/MRG15)
 DN  Mortality factor 4-like protein 1 /2
 RQ  1
-EV  -; PTHR10880:SF29; sufficient;
+EV  IPR038011; PTHR10880:SF29; sufficient;
 TG  GO:0035267;
 --
 SN  13
 ID  Mortality factor 4-like protein 2 (MORF4L2/MRGX)
 DN  Mortality factor 4-like protein 2 /2
 RQ  1
-EV  -; PTHR10880:SF25; sufficient;
+EV  IPR038012; PTHR10880:SF25; sufficient;
 TG  GO:0035267;
 --
 SN  14*
