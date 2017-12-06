@@ -2,7 +2,7 @@ AC  GenProp2068
 DE  MLL5 complex
 TP  SYSTEM
 AU  Rawlings ND
-TH  5
+TH  2
 RN  [1]
 RM  19377461 
 RT  GlcNAcylation of a histone methyltransferase in 
@@ -26,6 +26,9 @@ CC  STK38, PPP1CA, PPP1CB, PPP1CC, HCFC1, ACTB and OGT.
 **  by the authors.  The complex is unlike that of other
 **  histone methyltransferases.  There is also evidence that 
 **  KMT2E/MLL5 lacks catalytic activity [2].
+**  Evidence for step 6 is also used in GP2059, GP2061, GP2063, GP2067 and GP2069.
+**  Evidence for step 8 is also used in GP2063 and GP2069.
+**  Threshold is therefore set to 2.
 --
 SN  1
 ID  Histone-lysine N-methyltransferase 2E (EC 2.1.1.43)
