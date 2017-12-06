@@ -2,7 +2,7 @@ AC  GenProp2073
 DE  PTW/PP1 phosphatase complex
 TP  SYSTEM
 AU  Rawlings ND
-TH  2
+TH  1
 RN  [1]
 RM  20516061 
 RT  Identification and characterization of a novel 
@@ -14,9 +14,7 @@ CC  structure during the transition from mitosis into
 CC  interphase [1].  The complex is composed of 
 CC  PPP1R10/PNUTS, TOX4, WDR82, and PPP1CA or PPP1CB or 
 CC  PPP1CC [1].
-**  WDR82 is a component of the Setd1a and Setd1b 
-**  histone H3-lysine 4 methyltransferase complexes.
-**  Hence threshold is higher.
+**  Evidence for step 3 is also used in GP2059.
 --
 SN  1
 ID  Serine/threonine-protein phosphatase 1 regulatory subunit 10 (PPP1R10/PNUTS) 
