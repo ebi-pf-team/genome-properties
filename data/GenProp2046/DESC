@@ -21,6 +21,7 @@ CC  of development and signaling in eukaryotes, and in Saccharomyces
 CC  cerevisiae is required for pheromone signaling [2].
 **  CSN5 is a metallopeptidase (MEROPS ID M67.002)
 **  There are no models for CSN10, CSN11 or CSI1
+**  Evidence for step 1 is also used in GP2047.
 --
 SN  1
 ID  COP9 signalosome complex subunit 5
