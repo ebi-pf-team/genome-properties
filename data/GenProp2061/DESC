@@ -2,7 +2,7 @@ AC  GenProp2061
 DE  MLL3/4 complex
 TP  SYSTEM
 AU  Rawlings ND
-TH  5
+TH  7
 RN  [1]
 RM  23459941
 RT  The Drosophila ortholog of MLL3 and MLL4, trithorax related, 
@@ -42,7 +42,14 @@ CC  demethylase, Utx [3,4].
 **  in polyGln sequences.  These give false positives in Panther.
 **  There is no good model for Ncoa6, the evidence selected has
 **  566,893 sequences.
-**  Steps 2-6 are common to GP2059, hence threshold is high.
+**  Evidence for step 1 is also used in GP2062.
+**  Evidence for step 2 is also used in GP2056, GP2059, GP2062, GP2063 and GP2067
+**  Evidence for step 3 is also used in GP2059, GP2060, GP2062 and GP2067
+**  Evidence for step 4 is also used in GP2059, GP2060, GP2062 and GP2067
+**  Evidence for step 5 is also used in GP2059, GP2061, GP2063, GP2068 and GP2069
+**  Evidence for step 6 is also used in GP2059, GP2062 and GP2067
+**  Evidence for step 7 is also used in GP2062.
+**  Threshold is set to 7.
 --
 SN  1
 ID  Histone-lysine N-methyltransferase trithorax (EC 2.1.1.43)
