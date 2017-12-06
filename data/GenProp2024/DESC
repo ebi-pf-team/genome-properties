@@ -34,6 +34,7 @@ CC  caspases activate the executor caspases which cleave other proteins
 CC  in the cell.  There are at least four routes by which the initiator
 CC  caspase precursors are activated.  This Genome Property describes
 CC  the granzyme B-mediated pathway [1, 2].
+**  Evidence for step 1 is also used in GP2023.
 --
 SN  1
 ID  Granzyme B 
