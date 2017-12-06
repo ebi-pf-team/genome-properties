@@ -18,6 +18,7 @@ CC  nucleosomal histones H3 (at 'Lys-14' and 'Lys-18') and H2B.
 CC  The complex consists of at least ADA2, ADA3, AHC1, and GCN5.
 CC  AHC1 is required for the overall structural integrity of the 
 CC  ADA complex [1].
+**  Evidence for step 4 is also used in GP2053, GP2056, GP2057 and GP2058.
 --
 SN  1
 ID  Transcriptional adapter 2 (ADA2)
