@@ -2,7 +2,7 @@ AC  GenProp2060
 DE  COMPASS methyltransferase complex
 TP  SYSTEM
 AU  Rawlings ND
-TH  1
+TH  2
 RN  [1]
 RM  9398665
 RT  SET1, a yeast member of the trithorax family, functions in 
@@ -31,6 +31,9 @@ CC  The complex consists of SET1, BRE2, SPP1, SDC1, SHG1, SWD1,
 CC  SWD2, and SWD3 [2,3].
 **  This is different enough from the SET1 complex (GP2059) to
 **  merit a difference entry.
+**  Evidence for step 4 is also used in GP2059, GP2061, GP2062 and GP2067.
+**  Evidence for step 5 is also used in GP2059, GP2061, GP2062 and GP2067.
+**  Threshold is therefore set to 2.
 --
 SN  1
 ID  Histone-lysine N-methyltransferase SET1
