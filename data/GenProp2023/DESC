@@ -46,6 +46,7 @@ CC  caspases activate the executor caspases which cleave other proteins
 CC  in the cell. There are at least four routes by which the initiator
 CC  caspase precursors are activated. This Genome Property describes
 CC  the intrinsic or mitochondria-mediated pathway [3,4,5].
+**  Evidence for step 1 is also used in GP2024.
 --
 SN  1
 ID  Caspase-2 
