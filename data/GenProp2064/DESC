@@ -13,7 +13,8 @@ RL  Cell Res. 2012;22:1078-1081.
 CC  The MSL histone acetyltransferase complex acetylates 
 CC  histone H4 Lys16 (H4K16) along the male X-chromosome
 CC  The complex consists of at least composed of the 
-CC  MOF/KAT8, MSL1/hampin, MSL2 and MSL3 [1]. 
+CC  MOF/KAT8, MSL1/hampin, MSL2 and MSL3 [1].
+**  Evidence for step 1 is also used in GP2063 and GP2065.
 --
 SN  1
 ID  Histone acetyltransferase KAT8 
