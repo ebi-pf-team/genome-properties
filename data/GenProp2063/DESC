@@ -2,7 +2,7 @@ AC  GenProp2063
 DE  NSL complex
 TP  SYSTEM
 AU  Rawlings ND
-TH  1
+TH  5
 RN  [1]
 RM  20018852 
 RT  Subunit composition and substrate specificity of a MOF-
@@ -17,6 +17,12 @@ CC  involved in the regulation of transcription.  The complex
 CC  is composed of at least MOF/KAT8, KANSL1, KANSL2, KANSL3, 
 CC  MCRS1, PHF20, OGT1/OGT, WDR5 and HCFC1 [1]. 
 **  Is there a UniProt entry for the OGT 78 kDa subunit?
+**  Evidence for step 1 is also used in GP2064 and GP2065.
+**  Evidence for step 5 is also used in GP2065.
+**  Evidence for step 7 is also used in GP2056, GP2059, GP2061, GP2062 and GP2067.
+**  Evidence for step 8 is also used in GP2068 and GP2069.
+**  Evidence for step 9 is also used in GP2059, GP2061, GP2067, GP2068 and GP2069.
+**  Threshold is therefore set to 5.
 --
 SN  1
 ID  Histone acetyltransferase KAT8 
