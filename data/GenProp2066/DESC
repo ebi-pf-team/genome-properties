@@ -2,7 +2,7 @@ AC  GenProp2066
 DE  RuvB-like helicase
 TP  SYSTEM
 AU  Rawlings ND
-TH  8
+TH  1
 RN  [1]
 RM  10428817 
 RT  TIP49b, a new RuvB-like DNA helicase, is included in a 
@@ -17,6 +17,7 @@ CC  of subunit RUVBL2, one stacked upon the other.  Each
 CC  is assumed to be a homohexamer, but this is not 
 CC  confirmed experimentally [1].  This complex itself is a
 CC  component in many other complexes.
+**  Evidence for step 1 is alos used in GP2075.
 --
 SN  1
 ID  RuvB-like 1 (RUVBL1/TIP49a) 
