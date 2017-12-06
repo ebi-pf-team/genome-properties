@@ -2,7 +2,7 @@ AC  GenProp2056
 DE  ADA2A-containing complex (ATAC)
 TP  SYSTEM
 AU  Rawlings ND
-TH  1
+TH  3
 RN  [1]
 RM  19103755
 RT  The double-histone-acetyltransferase complex ATAC is essential 
@@ -16,6 +16,10 @@ CC  to but distinct from a similar complex initially identified in
 CC  Drosophila melanogaster.  The ATAC complex is composed of KAT14, 
 CC  KAT2A, TADA2L, TADA3L, ZZZ3, MBIP, WDR5, YEATS2, CCDC101 and 
 CC  DR1 [1]. 
+**  Evidence for step 2 is also used in GP2053, GP2055, GP2057 and GP2058.
+**  Evidence for step 7 is also used in GP2059, GP2061, GP2062, GP2063 and GP2067.
+**  Evidence for step 9 is also used in GP2051 and GP2052.
+**  Threshold is therefore set to 3.
 --
 SN  1
 ID  Cysteine-rich protein 2-binding protein (KAT14) 
