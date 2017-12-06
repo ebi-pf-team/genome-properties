@@ -2,7 +2,7 @@ AC  GenProp2052
 DE  SAGA-like (SLIK) complex
 TP  METAPATH
 AU  Rawlings ND
-TH  1
+TH  3
 RN  [1]
 RM  15647753
 RT  Chd1 chromodomain links histone H3 methylation with SAGA- and 
@@ -16,6 +16,11 @@ CC  embellishment of the SAGA complex. It consists of at least
 CC  TRA1, CHD1, SPT7, TAF5, ADA3, SPT20, RTG2, TAF12, TAF6, HFI1, 
 CC  UBP8, GCN5, ADA2, SPT3, SGF29, TAF10 and TAF9 [1].
 **  UBP8 is MEROPS identifier C19.087.
+**  Evidence for step 2 is also used in GP2051.
+**  Evidence for step 4 is also used in GP2051.
+**  Evidence for step 5 is also used in GP2051 and GP2056.
+**  Threshold is therfore set to 3.
+
 --
 SN  1
 ID  SALSA complex
