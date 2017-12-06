@@ -2,7 +2,7 @@ AC  GenProp2043
 DE  Nuclear pore complex 107-120, Schizosaccharomyces
 TP  SYSTEM
 AU  Rawlings ND
-TH  1
+TH  2
 RN  [1]
 RM  15226438
 RT  The fission yeast Nup107-120 complex functionally interacts with 
@@ -22,6 +22,9 @@ CC  is required for mRNA export, nuclear pore distribution, and cell
 CC  division [1].  Components of the NPC have been identified by  
 CC  mutation studies [2].
 **  Evidence for steps 4 and 5 is the same.
+**  Evidence for step 4 is also used in GP2036, GP2037 and GP2042.
+**  Evidence for step 6 is also used in GP2029, GP2037 and GP2042.
+**  Threshold is therefore set to 2.
 --
 SN  1
 ID  Nucleoporin nup85
