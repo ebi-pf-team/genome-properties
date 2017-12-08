@@ -35,14 +35,13 @@ CC  EAF7, EPL1, ESA1, TRA1 and YNG2 [1].
 **  Saccharomyces cerevisiae, for which there is no good model.
 **  PTHR10880:SF15 is more specific for EAF3, but both 
 **  underhits and overhits.
-**  Asterisked steps are also components of GP2075.
 **  Evidence for step 3 is also used in GP2075.
 **  Evidence for step 4 is also used in GP2075.
 **  Evidence for step 11 is also used in GP2075.
 **  Evidence for step 12 is also used in GP2053, GP2057, GP2058 and GP2075.
 **  Threshold is therefore set to 4.
 --
-SN  1*
+SN  1
 ID  Actin (ACT1) 
 DN  Actin;
 RQ  1
@@ -63,14 +62,14 @@ RQ  1
 EV  IPR037989; PTHR23195:SF15; sufficient;
 TG  GO:0035267;
 --
-SN  4*
+SN  4
 ID  Chromatin modification-related protein EAF1 (VID21)
 DN  Chromatin modification-related protein EAF1 /4
 RQ  1
 EV  IPR038000; PTHR10799:SF599; sufficient;
 TG  GO:0035267;
 --
-SN  5*
+SN  5
 ID  SWR1-complex protein 4 (SWC4)
 DN  SWR1-complex protein 4 /5
 RQ  1
@@ -91,14 +90,14 @@ RQ  1
 EV  IPR026226; PR02067; sufficient;
 TG  GO:0035267;
 --
-SN  8*
+SN  8
 ID  Chromatin modification-related protein EAF6/MEAF6
 DN  Chromatin modification-related protein EAF6 /8
 RQ  1
 EV  IPR015418; PF09340; sufficient;
 TG  GO:0035267;
 --
-SN  9*
+SN  9
 ID  Chromatin modification-related protein EAF7
 DN  Chromatin modification-related protein EAF7 /9
 RQ  1
@@ -106,14 +105,14 @@ EV  IPR012423; PF07904; sufficient;
 EV  IPR012423; PTHR13581; sufficient;
 TG  GO:0035267;
 --
-SN  10*
+SN  10
 ID  Enhancer of polycomb-like protein 1 (EPL1)
 DN  Enhancer of polycomb-like protein 1 /10
 RQ  1
 EV  IPR024943; PTHR14898; sufficient;
 TG  GO:0035267;
 --
-SN  11*
+SN  11
 ID  Histone acetyltransferase ESA1 (ESA1/KAT5/TIP60)
 DN  Histone acetyltransferase ESA1 (EC 2.3.1.48) /11
 RQ  1
