@@ -30,29 +30,33 @@ CC  ACT1, IES2, IES5 and INO80 [1,2].
 **  Evidence for step 11 is also used in GP2065.
 **  Evidence for step 12 is also used in GP2074 and GP2075.
 **  Threshold is therefore set to 6.
+**  Components also found in Schizosaccharomyces pombe are asterisked.
+**  The following Schizosaccharomyces pombe components are 
+**  problems.  Evidence for IEC1, PTHR19818:SF86, is a mixture
+**  of proteins; and there is no model for IEC5.
 --
-SN  1
-ID  Actin-related protein 4  (ARP4)
-DN  Actin-related protein 4  /1
+SN  1*
+ID  Actin-related protein 4 (ARP4)
+DN  Actin-related protein 4 /1
 RQ  1
 EV  IPR027667; PTHR11937:SF274; sufficient;
 TG  GO:0031011;
 --
-SN  2
+SN  2*
 ID  Actin-related protein 5 (ARP5)
 DN  Actin-related protein 5 /2
 RQ  1
 EV  IPR027664; PTHR11937:SF16; sufficient;
 TG  GO:0031011;
 --
-SN  3
+SN  3*
 ID  Actin-like protein ARP8 (ARP8)
 DN  Actin-like protein ARP8 /2
 RQ  1
 EV  IPR027668; PTHR11937:SF13; sufficient;
 TG  GO:0031011;
 --
-SN  4
+SN  4*
 ID  RuvB-like protein 1 (RVB1)
 DN  RuvB-like protein 1 (EC 3.6.4.12) /4
 RQ  1
@@ -60,7 +64,7 @@ EV  IPR037938; PTHR11093:SF6; sufficient;
 TG  GO:0043140;
 TG  GO:0031011;
 --
-SN  5
+SN  5*
 ID  RuvB-like protein 2 (RVB2)
 DN  RuvB-like protein 2 (EC 3.6.4.12) /5
 RQ  1
@@ -68,7 +72,7 @@ EV  IPR037942; PTHR11093:SF2; sufficient;
 TG  GO:0043140;
 TG  GO:0031011;
 --
-SN  6
+SN  6*
 ID  Transcription initiation factor TFIID subunit 14 (TAF14)
 DN  Transcription initiation factor TFIID subunit 14 /6
 RQ  1
@@ -88,30 +92,31 @@ ID  Ino eighty subunit 1 (IES1)
 DN  Ino eighty subunit 1 /8
 RQ  1
 EV  IPR038014; PTHR37287; sufficient;
+EV  -; PTHR19818:SF86; sufficient;
 TG  GO:0031011;
 --
-SN  9
+SN  9*
 ID  Ino eighty subunit 3 (IES3)
 DN  Ino eighty subunit 3 /2
 RQ  1
-EV  -; -; sufficient;
+EV  IPR032742; PF14612; sufficient;
 TG  GO:0031011;
 --
-SN  10
+SN  10*
 ID  Ino eighty subunit 4 (IES4)
 DN  Ino eighty subunit 4 /10
 RQ  1
 EV  IPR013175; PTHR28061; sufficient;
 TG  GO:0031011;
 --
-SN  11
+SN  11*
 ID  Chromatin-remodeling complex subunit IES6 (IES6)
 DN  Chromatin-remodeling complex subunit IES6 /2
 RQ  1
 EV  IPR029525; PTHR31200; sufficient;
 TG  GO:0031011;
 --
-SN  12
+SN  12*
 ID  Actin (ACT1)
 DN  Actin /2
 RQ  1
@@ -121,7 +126,7 @@ EV  IPR004000; PTHR11937; sufficient;
 EV  IPR004000; SM00268; sufficient;
 TG  GO:0031011;
 --
-SN  13
+SN  13*
 ID  Ino eighty subunit 2 (IES2)
 DN  Ino eighty subunit 2 /2
 RQ  1
@@ -136,7 +141,7 @@ EV  IPR020366; PD079054; sufficient;
 EV  IPR020366; PF17335; sufficient;
 TG  GO:0031011;
 --
-SN  15
+SN  15*
 ID  DNA helicase INO80 (INO80)
 DN  DNA helicase INO80 (EC 3.6.4.12) /15
 RQ  1
