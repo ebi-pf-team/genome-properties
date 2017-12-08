@@ -2,7 +2,7 @@ AC  GenProp2074
 DE  NuA4 histone acetyltransferase complex, yeast
 TP  SYSTEM
 AU  Rawlings ND
-TH  4
+TH  5
 RN  [1]
 RM  15045029 
 RT  A protein complex containing the conserved Swi2/Snf2-
@@ -35,11 +35,12 @@ CC  EAF7, EPL1, ESA1, TRA1 and YNG2 [1].
 **  Saccharomyces cerevisiae, for which there is no good model.
 **  PTHR10880:SF15 is more specific for EAF3, but both 
 **  underhits and overhits.
+**  Evidence for step 2 is also used in GP2076.
 **  Evidence for step 3 is also used in GP2075.
 **  Evidence for step 4 is also used in GP2075.
 **  Evidence for step 11 is also used in GP2075.
 **  Evidence for step 12 is also used in GP2053, GP2057, GP2058 and GP2075.
-**  Threshold is therefore set to 4.
+**  Threshold is therefore set to 5.
 --
 SN  1
 ID  Actin (ACT1) 
