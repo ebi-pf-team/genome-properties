@@ -1,5 +1,5 @@
 AC  GenProp2076
-DE  INO80 complex
+DE  INO80 complex, fungi
 TP  SYSTEM
 AU  Rawlings ND
 TH  6
@@ -23,6 +23,7 @@ CC  The complex in yeast is composed of at least ARP4, ARP5,
 CC  ARP8, RVB1, RVB2, TAF14, NHP10, IES1, IES3, IES4, IES6, 
 CC  ACT1, IES2, IES5 and INO80 [1,2].
 **  There is no model in any member database for IES3.
+**  Steps 6, 7, 8, 9, 10 and 14 are found only in Fungi.
 **  Evidence for step 1 is also used in GP2074.
 **  Evidence for step 4 is also used in GP2066 and GP2075.
 **  Evidence for step 5 is also used in GP2066.
@@ -31,9 +32,12 @@ CC  ACT1, IES2, IES5 and INO80 [1,2].
 **  Evidence for step 12 is also used in GP2074 and GP2075.
 **  Threshold is therefore set to 6.
 **  Components also found in Schizosaccharomyces pombe are asterisked.
+**  Components also found in human have a plus symbol.
 **  The following Schizosaccharomyces pombe components are 
 **  problems.  Evidence for IEC1, PTHR19818:SF86, is a mixture
-**  of proteins; and there is no model for IEC5.
+**  of proteins; and there is no model for IEC5.  There is no 
+**  homologue for step 7.
+**  Human component INO80D (IPR025927, PF13891) corresponds to what?
 --
 SN  1*
 ID  Actin-related protein 4 (ARP4)
@@ -49,14 +53,14 @@ RQ  1
 EV  IPR027664; PTHR11937:SF16; sufficient;
 TG  GO:0031011;
 --
-SN  3*
-ID  Actin-like protein ARP8 (ARP8)
+SN  3*+
+ID  Actin-like protein ARP8 (ARP8/ACTR8)
 DN  Actin-like protein ARP8 /2
 RQ  1
 EV  IPR027668; PTHR11937:SF13; sufficient;
 TG  GO:0031011;
 --
-SN  4*
+SN  4*+
 ID  RuvB-like protein 1 (RVB1)
 DN  RuvB-like protein 1 (EC 3.6.4.12) /4
 RQ  1
@@ -64,7 +68,7 @@ EV  IPR037938; PTHR11093:SF6; sufficient;
 TG  GO:0043140;
 TG  GO:0031011;
 --
-SN  5*
+SN  5*+
 ID  RuvB-like protein 2 (RVB2)
 DN  RuvB-like protein 2 (EC 3.6.4.12) /5
 RQ  1
@@ -87,7 +91,7 @@ RQ  1
 EV  IPR030483; PTHR13711:SF309; sufficient;
 TG  GO:0031011;
 --
-SN  8
+SN  8*
 ID  Ino eighty subunit 1 (IES1)
 DN  Ino eighty subunit 1 /8
 RQ  1
@@ -109,14 +113,14 @@ RQ  1
 EV  IPR013175; PTHR28061; sufficient;
 TG  GO:0031011;
 --
-SN  11*
-ID  Chromatin-remodeling complex subunit IES6 (IES6)
+SN  11*+
+ID  Chromatin-remodeling complex subunit IES6 (IES6/INO80C)
 DN  Chromatin-remodeling complex subunit IES6 /2
 RQ  1
 EV  IPR029525; PTHR31200; sufficient;
 TG  GO:0031011;
 --
-SN  12*
+SN  12*+
 ID  Actin (ACT1)
 DN  Actin /2
 RQ  1
@@ -126,8 +130,8 @@ EV  IPR004000; PTHR11937; sufficient;
 EV  IPR004000; SM00268; sufficient;
 TG  GO:0031011;
 --
-SN  13*
-ID  Ino eighty subunit 2 (IES2)
+SN  13*+
+ID  Ino eighty subunit 2 (IES2/INO80B-WBP1)
 DN  Ino eighty subunit 2 /2
 RQ  1
 EV  IPR029523; PTHR21561; sufficient;
@@ -141,7 +145,7 @@ EV  IPR020366; PD079054; sufficient;
 EV  IPR020366; PF17335; sufficient;
 TG  GO:0031011;
 --
-SN  15*
+SN  15*+
 ID  DNA helicase INO80 (INO80)
 DN  DNA helicase INO80 (EC 3.6.4.12) /15
 RQ  1
