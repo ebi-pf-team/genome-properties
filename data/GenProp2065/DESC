@@ -2,7 +2,7 @@ AC  GenProp2065
 DE  MLL1 complex
 TP  METAPATH
 AU  Rawlings ND
-TH  5
+TH  6
 RN  [1]
 RM  15199122 
 RT  Leukemia proto-oncoprotein MLL forms a SET1-like histone 
@@ -36,6 +36,7 @@ CC  SENP3, TAF1, TAF4, TAF6, TAF7, TAF9 and TEX10 [1,2].
 **  all MLL complexes require these compones, then they 
 **  should be a separate genome property and all MLL 
 **  complexes should be METAPATHs.
+**  Evidence for step 6 is also used in GP2077.
 **  Evidence for step 10 is also used in GP2063.
 **  Evidence for step 12 is also used in GP2063 and GP2064.
 **  Evidence for step 14 is also used in GP2063.
