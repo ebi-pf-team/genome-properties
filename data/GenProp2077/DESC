@@ -11,11 +11,18 @@ RA  Jin J; Cai Y; Yao T; Gottschalk AJ; Florens L;
 RA  Swanson SK; Gutiérrez JL; Coleman MK; Workman JL; 
 RA  Mushegian A; Washburn MP; Conaway RC; Conaway JW; 
 RL  J Biol Chem. 2005;280:41207-41212.
+RN  [2]
+RM  12887900  
+RT  Involvement of actin-related proteins in ATP-dependent 
+RT  chromatin remodeling. 
+RA  Shen X; Ranallo R; Choi E; Wu C; 
+RL  Mol Cell. 2003;12:147-155.
 CC  The INO80 complex remodels chromatin by increasing 
 CC  nucleosome mobility thus allowing access to enzymes that 
 CC  process DNA.  The complex in human is composed of at least 
 CC  KIAA1259, ARP8, ARP5, ARP4, TIP49a, TIP49b, PAPA-1, 
-CC  C18orf37, Amida, FLJ90652, NFRKB, MCRS1, FLJ20309 [1].
+CC  C18orf37, Amida, FLJ90652, NFRKB, MCRS1, FLJ20309 [1] plus
+CC  actin [2].
 **  Evidence for step 1 is also used in GP2075.
 **  Evidence for step 2 is also used in GP2076.
 **  Evidence for step 3 is also used in GP2076.
