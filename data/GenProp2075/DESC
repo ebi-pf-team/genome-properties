@@ -27,11 +27,10 @@ CC  The NuA4 histone acetyltransferase complex is involved
 CC  in epigenetic transcriptional activation of selected  
 CC  genes by acetylation of nucleosomal histone H4 and H2A. 
 CC  The NuA4 complex is also involved in DNA repair [1,2].  
-CC  The complex in human consists of KAT5/TIP60* and the subunits EP400, TRRAP/PAF400, 
+CC  The complex in human consists of KAT5/TIP60 and the subunits EP400, TRRAP/PAF400, 
 CC  BRD8/SMAP, EPC1, DMAP1/DNMAP1, RUVBL1/TIP49, RUVBL2, ING3, 
 CC  actin, ACTL6A/BAF53A, MORF4L1/MRG15, MORF4L2/MRGX, MRGBP, 
-CC  YEATS4/GAS41, VPS72/YL1 and MEAF6* [3].
-**  Asterisked steps are also components of GP2074.
+CC  YEATS4/GAS41, VPS72/YL1 and MEAF6 [3].
 **  Step 9 represents step 13 of GP2074; could the two be merged?
 **  Evidence for step 1 is also used in GP2074.
 **  Evidence for step 2 is also used in GP2074.
@@ -40,7 +39,7 @@ CC  YEATS4/GAS41, VPS72/YL1 and MEAF6* [3].
 **  Evidence for step 15 is also used in GP2074.
 **  Threshold is therefore set to 6.
 --
-SN  1*
+SN  1
 ID  Histone acetyltransferase ESA1 (ESA1/KAT5/TIP60)
 DN  Histone acetyltransferase ESA1 (EC 2.3.1.48) /11
 RQ  1
@@ -69,14 +68,14 @@ RQ  1
 EV  IPR038002; PTHR15398:SF6; sufficient;
 TG  GO:0035267;
 --
-SN  5*
+SN  5
 ID  Enhancer of polycomb homolog 1 (EPC1)
 DN  Enhancer of polycomb homolog 1 /5
 RQ  1
 EV  IPR024943; PTHR14898; sufficient;
 TG  GO:0035267;
 --
-SN  6*
+SN  6
 ID  DNA methyltransferase 1-associated protein 1 (DMAP1/DNMAP1)
 DN  DNA methyltransferase 1-associated protein 1 /6
 RQ  1
@@ -104,7 +103,7 @@ RQ  1
 EV  IPR038004; PTHR10333:SF91; sufficient;
 TG  GO:0035267;
 --
-SN  10*
+SN  10
 ID  Actin
 DN  Actin /10
 RQ  1
@@ -132,7 +131,7 @@ RQ  1
 EV  IPR038012; PTHR10880:SF25; sufficient;
 TG  GO:0035267;
 --
-SN  14*
+SN  14
 ID  MRG/MORF4L-binding protein (MRGBP)
 DN  MRG/MORF4L-binding protein /14
 RQ  1
@@ -140,7 +139,7 @@ EV  IPR012423; PF07904; sufficient;
 EV  IPR012423; PTHR13581; sufficient;
 TG  GO:0035267;
 --
-SN  15*
+SN  15
 ID  YEATS domain-containing protein 4 (YEATS4/GAS41)
 DN  YEATS domain-containing protein 4 /15
 RQ  1
@@ -155,7 +154,7 @@ EV  IPR008895; PTHR13275; sufficient;
 EV  IPR008895; PTHR13275; sufficient;
 TG  GO:0035267;
 --
-SN  17*
+SN  17
 ID  Chromatin modification-related protein EAF6/MEAF6
 DN  Chromatin modification-related protein EAF6 /17
 RQ  1
