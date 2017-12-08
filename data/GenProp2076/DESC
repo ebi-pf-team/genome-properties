@@ -86,7 +86,7 @@ SN  8
 ID  Ino eighty subunit 1 (IES1)
 DN  Ino eighty subunit 1 /8
 RQ  1
-EV  -; PTHR37287; sufficient;
+EV  IPR038014; PTHR37287; sufficient;
 TG  GO:0031011;
 --
 SN  9
