@@ -18,7 +18,7 @@ CC  is assumed to be a homohexamer, but this is not
 CC  confirmed experimentally [1].  This complex itself is a
 CC  component in many other complexes.
 **  Evidence for step 1 is also used in GP2075.
-**  Evidence for step 2 is also used in GP2077.
+**  Evidence for step 2 is also used in GP2075 and GP2077.
 **  Threshold is therefore set to 2.
 --
 SN  1
