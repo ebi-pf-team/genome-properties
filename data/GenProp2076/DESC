@@ -9,13 +9,19 @@ RT  A chromatin remodelling complex involved in transcription
 RT  and DNA processing. 
 RA  Shen X; Mizuguchi G; Hamiche A; Wu C; 
 RL  Nature 2000;406:541-544.
+RN  [2]
+RM  12887900  
+RT  Involvement of actin-related proteins in ATP-dependent 
+RT  chromatin remodeling. 
+RA  Shen X; Ranallo R; Choi E; Wu C; 
+RL  Mol Cell. 2003;12:147-155.
 CC  The INO80 complex remodels chromatin by increasing 
 CC  nucleosome mobility thus allowing access to enzymes that 
 CC  process DNA.  Hydrolysis of ATP is required and the INO80
 CC  component is an ATPase [1].
 CC  The complex in yeast is composed of at least ARP4, ARP5, 
 CC  ARP8, RVB1, RVB2, TAF14, NHP10, IES1, IES3, IES4, IES6, 
-CC  ACT1, IES2, IES5 and INO80 [1].
+CC  ACT1, IES2, IES5 and INO80 [1,2].
 **  There is no model in any member database for IES3.
 **  Evidence for step 1 is also used in GP2074.
 **  Evidence for step 4 is also used in GP2066 and GP2075.
@@ -73,7 +79,7 @@ SN  7
 ID  Non-histone protein 10 (NHP10)
 DN  Non-histone protein 10 /7
 RQ  1
-EV  -; PTHR13711:SF309; sufficient;
+EV  IPR030483; PTHR13711:SF309; sufficient;
 TG  GO:0031011;
 --
 SN  8
