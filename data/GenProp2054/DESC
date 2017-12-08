@@ -2,7 +2,7 @@ AC  GenProp2054
 DE  TFIID complex
 TP  SYSTEM
 AU  Rawlings ND
-TH  5
+TH  6
 RN  [1] 
 RM  12138208
 RT  Molecular characterization of Saccharomyces cerevisiae TFIID. 
@@ -25,7 +25,8 @@ CC  TAF9, TAF10, TAF12, and three copies of TAF14 [1,2].
 **  Evidence for step 4 is also used in GP2057.
 **  Evidence for step 7 is also used in GP2053, GP2057, GP2058 and GP2065.
 **  Evidence for step 8 is also used in GP2065.
-**  Threshold is therefore set t0 5.
+**  Evidence for step 15 is also used in GP2076.
+**  Threshold is therefore set to 6.
 --
 SN  1
 ID  TATA-box-binding protein 
