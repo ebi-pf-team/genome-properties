@@ -2,7 +2,7 @@ AC  GenProp2077
 DE  INO80 complex, vertebrate
 TP  SYSTEM
 AU  Rawlings ND
-TH  7
+TH  9
 RN  [1]
 RM  16230350  
 RT  A mammalian chromatin remodeling complex with 
@@ -17,13 +17,15 @@ CC  process DNA.  The complex in human is composed of at least
 CC  KIAA1259, ARP8, ARP5, ARP4, TIP49a, TIP49b, PAPA-1, 
 CC  C18orf37, Amida, FLJ90652, NFRKB, MCRS1, FLJ20309 [1].
 **  Evidence for step 1 is also used in GP2075.
+**  Evidence for step 2 is also used in GP2076.
+**  Evidence for step 3 is also used in GP2076.
 **  Evidence for step 4 is also used in GP2066 and GP2075.
 **  Evidence for step 5 is also used in GP2066.
 **  Evidence for step 9 is also used in GP2063 and GP2065.
 **  Evidence for step 6 is also used in GP2054.
 **  Evidence for step 11 is also used in GP2065.
 **  Evidence for step 12 is also used in GP2074 and GP2075.
-**  Threshold is therefore set to 7.
+**  Threshold is therefore set to 9.
 --
 SN  1
 ID  Actin-like protein 6A (ACTL6A/BAF53A)
