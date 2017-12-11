@@ -9,6 +9,7 @@ CC  Inosine monophosphate (IMP) can be used as a source of guanosine
 CC  monophosphate (GMP) via this pathway in which xanthosine monophosphate
 CC  (XMP) is an intermediate.  IMP may come from de novo biosynthesis
 CC  or by the import of inosine derivatives.
+**  Evidence for step 1 is also used for GP0696.
 --
 SN  1
 ID  GMP synthase, C-term
