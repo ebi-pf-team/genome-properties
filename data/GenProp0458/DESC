@@ -15,6 +15,7 @@ CC  L-fuculose 1P by L-fuculokinase, then to L-lactaldehyde and
 CC  glycerone phosphate by L-fuculose-phosphate aldolase. The property
 CC  also includes a transporter to import fucose and transcription factors.
 **  PMID:2664711
+**  Evidence for step 5 is also used in GP0713 and GP0736.
 --
 SN  1
 ID  Lactaldehyde oxidoreductases
