@@ -15,6 +15,7 @@ CC  Ribosome, bacterial, small subunit. This property allows HMMs specific
 CC  for ribosomal proteins to be tested in phylogenetic profiles
 **  A work in progress
 **  Evidence for step bS6 is also used in GP0799.
+**  Evidence for step bS8 is also used in GP0799 and GP0831.
 **  Evidence for step bS16 is also used in GP0799.
 **  Evidence for step uS17 is also used in GP0799.
 --
