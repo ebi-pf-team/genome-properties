@@ -20,6 +20,7 @@ CC  encoded upstream in a heat shock operon; it is included here as an
 CC  optional component.
 **  When the HcrA model hits nothing, there generally is no upstream gene
 **  in operon - true negative.
+**  Evidence for step 3 is also used in GP0799.
 --
 SN  1
 ID  Co-chaperone DnaJ
