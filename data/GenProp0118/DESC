@@ -12,6 +12,7 @@ CC  biosynthesis of arginine and in the urea cycle. Ornithine can also be
 CC  interconverted with glutamate semialdehyde from the proline
 CC  biosynthetic pathway. This pathway represents one of two possible 
 CC  branches for the creation of ornithine from glutamate.
+**  Evidence for step 3 is also used for GP0193.
 --
 SN  1
 ID  Glutamate N-acetyltransferase
