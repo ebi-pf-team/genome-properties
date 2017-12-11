@@ -10,6 +10,7 @@ CC  genomes found greater than 95% having exactly one copy of each of these
 CC  genes. In certain cases, such as with glycyl-tRNA synthetase, one or
 CC  more separate homofunctional gene families may combine to completely
 CC  cover all bacterial genomes.
+**  Evidence for step 98 is also used in GP0211.
 --
 SN  1
 ID  Alanyl-tRNA synthetase
