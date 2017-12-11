@@ -10,11 +10,49 @@ CC  genomes found greater than 95% having exactly one copy of each of these
 CC  genes. In certain cases, such as with glycyl-tRNA synthetase, one or
 CC  more separate homofunctional gene families may combine to completely
 CC  cover all bacterial genomes.
-**  Evidence for step 25 is also used in GP0740.
-**  Evidence for step 53 is also used in GP0174.
-**  Evidence for step 57 is also used in GP0174.
-**  Evidence for step 93 is also used in GP0209.
-**  Evidence for step 98 is also used in GP0211.
+**  Evidence for step 1 is also used for GP0258.
+**  Evidence for step 2 is also used for GP0258.
+**  Evidence for step 5 is also used for GP0171.
+**  Evidence for step 7 is also used for GP0806.
+**  Evidence for step 10 is also used for GP0263.
+**  Evidence for step 18 is also used for GP0258.
+**  Evidence for step 20 is also used for GP0244.
+**  Evidence for step 24 is also used for GP0258.
+**  Evidence for step 25 is also used for GP0740.
+**  Evidence for step 26 is also used for GP0740.
+**  Evidence for step 29 is also used for GP0258.
+**  Evidence for step 34 is also used for GP0132.
+**  Evidence for step 35 is also used for GP0691.
+**  Evidence for step 46 is also used for GP0174.
+**  Evidence for step 47 is also used for GP0174.
+**  Evidence for step 51 is also used for GP0174 and GP0831.
+**  Evidence for step 53 is also used for GP0174.
+**  Evidence for step 57 is also used for GP0174.
+**  Evidence for step 58 is also used for GP0174.
+**  Evidence for step 60 is also used for GP0174.
+**  Evidence for step 62 is also used for GP0174.
+**  Evidence for step 66 is also used for GP0174.
+**  Evidence for step 67 is also used for GP0174.
+**  Evidence for step 68 is also used for GP0174 and GP0831.
+**  Evidence for step 70 is also used for GP0174.
+**  Evidence for step 71 is also used for GP0174.
+**  Evidence for step 79 is also used for GP0175 and GP0831.
+**  Evidence for step 81 is also used for GP0175.
+**  Evidence for step 82 is also used for GP0175.
+**  Evidence for step 83 is also used for GP0132 and GP0175.
+**  Evidence for step 84 is also used for GP0175.
+**  Evidence for step 86 is also used for GP0175.
+**  Evidence for step 88 is also used for GP0175.
+**  Evidence for step 89 is also used for GP0175.
+**  Evidence for step 90 is also used for GP0175.
+**  Evidence for step 93 is also used for GP0209.
+**  Evidence for step 96 is also used for GP0209 and GP0831.
+**  Evidence for step 97 is also used for GP0258.
+**  Evidence for step 98 is also used for GP0211.
+**  Evidence for step 99 is also used for GP0258.
+**  Evidence for step 102 is also used for GP0741.
+**  Evidence for step 104 is also used for GP0258 and GP0832.
+**  Evidence for step 106 is also used for GP0258.
 --
 SN  1
 ID  Alanyl-tRNA synthetase
