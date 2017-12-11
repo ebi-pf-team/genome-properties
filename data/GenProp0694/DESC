@@ -7,6 +7,7 @@ CC  Glucose may be imported into the cell as a carbon source via the
 CC  glucose-specific phosphotransferase system (PTS) and converted to the
 CC  glycolysis pathway intermediate fructose-1,6-bisphosphate by the action
 CC  of phosphoglucose isomerase (PGI) and 6-phosphofructokinase (6-PFK).
+**  Evidence for step 2 is also used for GP0120.
 --
 SN  1
 ID  6-Phosphofructokinase
