@@ -11,6 +11,7 @@ CC  mRNA with a short coding region and stop codon. The coding region
 CC  encodes a 10-amino acid tag that marks the nascent protein, once
 CC  released, for rapid degradation. Small protein B (SmpB) is required for
 CC  tmRNA function and has no other known function.
+**  Evidence for step 1 is also used in GP0799.
 --
 SN  1
 ID  TmRNA-binding protein SmpB
