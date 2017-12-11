@@ -3,6 +3,7 @@ DE  Leptospira exopolysaccharide biosynthesis clusters
 TP  GUILD
 AU  Haft DH
 TH  0
+**  Evidence for step 3 is also used for GP1032.
 **  Evidence for step 10 is also used in GP0232 and GP0796.
 --
 SN  1
