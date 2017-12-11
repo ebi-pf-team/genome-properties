@@ -7,6 +7,7 @@ CC  In all species, it is presumed that tRNA molecules for all 20 common
 CC  amino acids exist and become charged with the correct amino acid. Most
 CC  are changed directly by a known ligase that is a single polypeptide
 CC  chain, but not all. 
+**  Evidence for step 2 is also used for GP0799.
 --
 SN  1
 ID  Alanyl-tRNA synthetase
