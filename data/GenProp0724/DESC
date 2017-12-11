@@ -29,6 +29,7 @@ CC  Phosphonacetaldehyde is a precursor of natural products, lipids and
 CC  polysaccharides containing phosphonates (C-P linkages). Often this is
 CC  converted by an aminotransferase to the most common naturally occuring
 CC  phosphonate, 2-aminoethylphosphonate.
+**  Evidence for step 8 is also used for GP0292, GP0457, GP0458 and GP0917.
 --
 SN  1
 ID  PEP phosphomutase
