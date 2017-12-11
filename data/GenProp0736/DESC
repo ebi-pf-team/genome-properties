@@ -26,6 +26,7 @@ CC  phosphonate-related context and are typically observed near other
 CC  phosphonate catabolic pathways such as genes of the HDIG domain family
 CC  (PF01966), certain GntR-type transcriptional regulators and
 CC  phosphonate-related transporters.
+**  Evidence for step 1 also occurs in GP0458 and GP0713.
 --
 SN  1
 ID  Associated GntR-family transcriptional regulator
