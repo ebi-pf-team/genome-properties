@@ -21,6 +21,7 @@ CC  improve transcriptase turnover speeds. Nus factors can block Rho
 CC  action, a process called anti-termination [1]. See GenProp0812 for
 CC  Rho-dependent transcription termination.
 **  Evidence for step 4 is also used for GP0799.
+**  Evidence for step 5 is also used for GP0175 and GP0799.
 --
 SN  1
 ID  Transcription termination factor NusA
