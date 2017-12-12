@@ -33,6 +33,7 @@ CC  type. Repeats typically are 37 base pairs long.
 **  occur in steps csb2, csb3 and csx17.  A sequence from Desulfotalea 
 **  psychrophila is present in TIGR02165; a sequence from Geobacter 
 **  sulfurreducens is present in TIGR04106.
+**  Evidence for step 1 is also used for GP0021, GP0313, GP0315, GP0317, GP0318, GP0319, GP0320, GP0685 and GP0768.
 --
 SN  1
 ID  Cas1, Dpsyc region
