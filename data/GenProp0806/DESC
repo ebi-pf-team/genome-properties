@@ -8,8 +8,9 @@ RM  16036556
 RT  Protein--protein interactions in the eubacterial replisome.
 RA  Schaeffer PM, Headlam MJ, Dixon NE;
 RL  IUBMB Life. 2005;57:5-12.
-**  Evidence for step 1 is also used for GP0799.
-**  Evidence for step 3 is also used for GP0799.
+**  Evidence for step 1 is also used for GP0799 (GUILD).
+**  Evidence for step 2 is also used for GP0800 (GUILD).
+**  Evidence for step 3 is also used for GP0799 (GUILD).
 --
 SN  1
 ID  Chromosomal replication initiator protein DnaA
