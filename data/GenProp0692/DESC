@@ -31,6 +31,7 @@ CC  the action of 2-selenouridine synthase; the enzyme(s) responsible is
 CC  not currently included in the definition of this Genome Property.
 **  MMP0899 and MMP0900 together in archaea add up to YbbB in bacteria.
 **  This needs to be done.
+**  Evidence for step 1 is also used for GP0016 and GP0726.
 --
 SN  1
 ID  Selenide, water dikinase
