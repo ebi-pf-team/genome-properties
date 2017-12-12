@@ -8,6 +8,7 @@ CC  be utilized by this pathway involving the lyase GarL which produces
 CC  pyruvate and tartronate semi-aldehyde (which may then be further
 CC  converted to 3-phosphoglycerate).
 **  Evidence for step 2 is also used for GP0689 and GP0716.
+**  Evidence for step 6 is also used for GP0176.
 --
 SN  1
 ID  Galactarate dehydratase (EC 4.2.1.42)
@@ -43,12 +44,12 @@ DN  D-galactarate transporter, putative
 RQ  0
 EV  IPR004681; TIGR00786;
 TG  GO:0019582;
+EV  IPR004681; TIGR00786;
+TG  GO:0019582;
 EV  IPR007387; PF04290;
 TG  GO:0019582;
 EV  IPR004682; TIGR00787;
 TG  GO:0019582;
 EV  IPR004744; TIGR00893;
-TG  GO:0019582;
-EV  IPR004681; TIGR00786;
 TG  GO:0019582;
 //
