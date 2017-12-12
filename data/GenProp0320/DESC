@@ -29,6 +29,7 @@ CC  marismortui ATCC 43049, consists of cas1-6 and the subtype specific
 CC  genes csh1-2. The repeats associated with this subtype tend to have a 
 CC  periodicity of 66 nucleotides. This subtype is found both in Archaea 
 CC  and Bacteria.
+**  Evidence for step 1 is also used for GP0021, GP0313, GP0315, GP0317, GP0318, GP0319, GP0469, GP0685 and GP0768.
 --
 SN  1
 ID  Cas1, Hmari region
