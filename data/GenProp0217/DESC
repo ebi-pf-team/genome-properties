@@ -29,6 +29,7 @@ CC  an amino acid-charged tRNA as an enzymatic substrate.  An alternative
 CC  pathway from succinyl-CoA and glycine utilizing 5-aminolevulinate
 CC  synthase is found in the alphaproteobacteria and eukaryotic
 CC  mitochondria[1,2,3].
+**  Evidence for step 2 is also used for GP0258 and GP0831.
 --
 SN  1
 ID  APPARENT DISRUPTED READING FRAMES
