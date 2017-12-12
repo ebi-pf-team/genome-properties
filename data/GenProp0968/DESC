@@ -14,6 +14,7 @@ CC  the chain length determinant protein.
 **  oligosaccharide repeat unit) from is undecaprenyl-PP carrier to the LPS
 **  outer core, making complete LPS. TIGR04370 models an oligosaccharide
 **  repeat unit polymerase.
+**  Evidence for step 1 is also used for GP0724, GP0912, GP0931.
 --
 SN  1
 ID  O-antigen transporter (flippase)
