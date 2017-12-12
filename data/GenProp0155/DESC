@@ -19,6 +19,7 @@ CC  reducers comprise both gram-positive and gram-negative bacteria, as
 CC  well as archeae [1]. Sulfur oxidizing bacterium, such as Chromatium
 CC  vinosum, can reversibly catalyze this pathway freeing electrons and
 CC  ATP.
+**  Evidence for step 1 is also used for GP0149.
 --
 SN  1
 ID  Sulfate adenylyltransferase
