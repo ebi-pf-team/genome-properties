@@ -24,6 +24,7 @@ CC  of pyruvate. The first step of the pathway, acetolactate synthase,
 CC  requires thiamine pyrophosphate and two molecules of pyruvate, one of
 CC  which is decarboxylated to the acetoacetate adduct,
 CC  2-(alpha-hydroxyethyl)-ThPP.
+**  Evidence for step 4 is also used for GP0162 and GP0164.
 --
 SN  1
 ID  Acetohydroxyacid synthase, large subunit
