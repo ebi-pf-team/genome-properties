@@ -41,6 +41,7 @@ CC  cofactor maturation proteins and subunits of predicted labile selenium
 CC  cofactor enzymes.
 **  Should be re-evaluated using new HMP reference genomes, and should be
 **  split into two properties.
+**  Evidence for step 5 is also used for GP0016 and GP0692.
 --
 SN  1
 ID  Diaminopropionate ammonia-lyase
