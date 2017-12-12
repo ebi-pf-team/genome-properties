@@ -38,6 +38,7 @@ CC  subtype tend to have a periodicity of 66 nucleotides. This subtype is
 CC  found in a wide variety of bacteria and never in the Archaea. Cas2 in 
 CC  this system has been shown to act as an endonuclease for dsDNA rather 
 CC  than ssRNA.
+**  Evidence for step 1 is also used for GP0021, GP0315, GP0317, GP0318, GP0319, GP0320, GP0469, GP0685 and GP0768.
 --
 SN  1
 ID  Cas1, Dvulg region
