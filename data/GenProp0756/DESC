@@ -11,6 +11,7 @@ CC  fermentation pathways. Although reversible, certain enzymes have
 CC  evolved to prefer one direction over the other, this property captures
 CC  those which are likely to function in the process of fumarate
 CC  reduction.
+**  Evidence for step 2 is also used for GP0033.
 --
 SN  1
 ID  Flavoprotein subunit
