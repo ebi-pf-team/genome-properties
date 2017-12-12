@@ -13,6 +13,7 @@ CC  Arginine may be degraded to generate ammonia, ATP and ornithine via
 CC  citrulline and carbamoyl phosphate. The ornithine may be further
 CC  processed via putrescine.
 **  Evidence for step 2 is also used for GP0117.
+**  Evidence for step 3 is also used for GP0687.
 --
 SN  1
 ID  Arginine deiminase
