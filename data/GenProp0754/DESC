@@ -19,6 +19,7 @@ CC  acylphosphatase) or by a reversible ATP-dependent reaction (EC 2.7.2.1,
 CC  ATP:acetate phosphohydrolase). The literature also refers to a reversible 
 CC  pyrophophate-dependent reaction in Entamoeba histolytica [1] although the 
 CC  sequence of the enzyme responsible is not yet known.
+**  Evidence for step 1 is also used for GP0478.
 --
 SN  1
 ID  Acetetylphosphate dephosphorylation
