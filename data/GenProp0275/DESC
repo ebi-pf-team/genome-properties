@@ -43,6 +43,8 @@ CC  suite of components which are diagnostic for the anaerobic pathway. The
 CC  evidence for the anaerobic pathway is nonetheless quite strong when
 CC  this is the only component missing, especially when the aerobic pathway
 CC  is not supported.
+**  Evidence for step 2 is also used for GP0113.
+**  Evidence for step 8 is also used for GP0113.
 --
 SN  1
 ID  Cobyrinate diamide synthase (CbiA)
