@@ -9,6 +9,8 @@ CC  property creates a list of those genes identified as being related to
 CC  this protective role.
 **  We need a more subtle way of grouping and presenting these guys
 **  Evidence for steps 1 and 3 are the same.
+**  Evidence for step 1 is also used in GP0182.
+**  Evidence for step 2 is also used in GP0182.
 --
 SN  1
 ID  Catalases
