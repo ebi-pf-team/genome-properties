@@ -7,6 +7,7 @@ CC  D-galactarate (D-Mucic acid, 2,3,4,5-tetrahydroxyhexanedioic acid) may
 CC  be utilized by this pathway involving the lyase GarL which produces
 CC  pyruvate and tartronate semi-aldehyde (which may then be further
 CC  converted to 3-phosphoglycerate).
+**  Evidence for step 2 is also used for GP0689 and GP0716.
 --
 SN  1
 ID  Galactarate dehydratase (EC 4.2.1.42)
