@@ -40,6 +40,7 @@ CC  critical for coagulation factors. Note that an alternative pathway for
 CC  menaquinone biosynthesis (not described by this property) operates in 
 CC  Helicobacter pylori, Campylobacter jejuni, Streptomyces, and other 
 CC  species [3].
+**  Evidence for step 3 is also used for GP0136.
 --
 SN  1
 ID  Isochorismate synthase
