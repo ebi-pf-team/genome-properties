@@ -19,6 +19,10 @@ CC  amidohydrolase and the breakdown of carbamoyl-phosphate by carbamate
 CC  kinase. A by-product of this pathway is oxamate (oxalic monoamide) 
 CC  which is presumably excreted.
 **  Evidence for step 1 is also used for GP0639.
+**  Evidence for step 2 is also used for GP0686.
+**  Evidence for step 3 is also used for GP0686.
+**  Evidence for step 4 is also used for GP0686.
+**  Evidence for step 6 is also used for GP0686.
 --
 SN  1
 ID  Carbamate kinase (EC 2.7.2.2)
