@@ -19,6 +19,7 @@ CC  GarL and where each is part of different processes.
 **  manually annotated as NO.
 **  The rule that I want here is: IF (GarD and NOT GarL) AND (GenProp0717 =
 **  YES) THEN (THIS PROPERTY = NO)
+**  Evidence for step 1 is also used for GP0689 and GP0714.
 --
 SN  1
 ID  Glycerate kinase (EC 2.7.1.31)
