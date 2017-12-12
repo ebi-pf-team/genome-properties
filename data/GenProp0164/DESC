@@ -25,6 +25,7 @@ CC  which is decarboxylated to the acetoacetate adduct,
 CC  2-(alpha-hydroxyethyl)-ThPP. The acetyl-CoA required for the fourth
 CC  step, 2-isopropylmalate synthase, may also derive from this ThPP adduct
 CC  by oxidation.
+**  Evidence for step 4 is also used for GP0162 and GP0163.
 --
 SN  1
 ID  Acetohydroxyacid synthase, large subunit
