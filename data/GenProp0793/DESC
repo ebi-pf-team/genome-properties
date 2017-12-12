@@ -23,6 +23,7 @@ CC  phosphoenolpyruvate to form NeuNAc catalyzed by NeuB, and an activation
 CC  with CTPcatalyzed by NeuA. A fourth gene product, NeuD is believed to 
 CC  carry out O-acetyltransfers onto sialic acid but is often missing and 
 CC  is also found more broadly than NeuABC
+**  Evidence for step 1 is also used for GP0724 and GP0796.
 --
 SN  1
 ID  CTP:N-acylneuraminate cytidyltransferase (2.7.7.43)
