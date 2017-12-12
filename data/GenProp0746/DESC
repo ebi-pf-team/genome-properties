@@ -21,6 +21,7 @@ CC  bacterial termination factors.
 **  TIGR03534 (HemK) was made from only members encoded next to prfA, yet
 **  (because of paralog PrmB) does not even detect all members of the seed.
 **  Therefore, a rule based on HMM-CLUST will be necessary.
+**  Evidence for step 2 is also used for GP0799.
 **  Evidence for step 5 is also used for GP0799.
 --
 SN  1
