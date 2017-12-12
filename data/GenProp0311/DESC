@@ -39,11 +39,6 @@ DN  DNA internalization-related competence protein ComEC/Rec2
 RQ  1
 EV  IPR004797; TIGR00361; sufficient;
 --
-SN  4
-ID  ComED
-DN  ComED
-RQ  0
---
 SN  5
 ID  ComF
 DN  ComF
