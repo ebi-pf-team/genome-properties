@@ -8,6 +8,7 @@ CC  fructose-specific phosphotransferase system (PTS) and converted to the
 CC  glycolysis pathway intermediate fructose-1,6-bisphosphate by the action
 CC  of 1-phosphofructokinase.
 **  Evidence for step 3 is also used for GP0119.
+**  Evidence for step 4 is also used for GP0119.
 --
 SN  1
 ID  PTS core components
