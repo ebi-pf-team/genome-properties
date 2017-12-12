@@ -3,6 +3,21 @@ DE  Competence-related genes
 TP  SYSTEM
 AU  Haft DH
 TH  0
+RN  [1]
+RM  8901420
+RT  Who's competent and when: regulation of natural genetic competence in
+RT  bacteria.
+RA  Solomon JM, Grossman AD;
+RL  Trends Genet. 1996;12:150-155.
+CC  Competence is the ability of a cell to take up exogenous DNA from its 
+CC  environment, resulting in transformation. It is widespread among bacteria 
+CC  and is probably an important mechanism for the horizontal transfer of 
+CC  genes. DNA usually becomes available by the death and lysis of other cells. 
+CC  Competent bacteria use components of extracellular filaments called type 4 
+CC  pili to create pores in their membranes and pull DNA through the pores into 
+CC  the cytoplasm. This process, including the development of competence and 
+CC  the expression of the uptake machinery, is regulated in response to 
+CC  cell-cell signalling and/or nutritional conditions [1].
 **  Some uptake sequences: Neisseria ATGCCGTCTGAA, most Pasteurellacaea
 **  AAAGTGCGGT, and alternative Actinobacillus pleuropneumoniae ACAAGCGGTC
 --
@@ -20,24 +35,24 @@ EV  IPR013404; TIGR02571; sufficient;
 --
 SN  3
 ID  DNA internalization-related competence protein ComEC/Rec2
-DN  DNA internalization-related competence protein ComEC/Rec2/ComEC
+DN  DNA internalization-related competence protein ComEC/Rec2
 RQ  1
 EV  IPR004797; TIGR00361; sufficient;
 --
 SN  4
 ID  ComED
-DN  ComED/ComED
+DN  ComED
 RQ  0
 --
 SN  5
 ID  ComF
-DN  ComF/ComF
+DN  ComF
 RQ  0
 EV  IPR005222; TIGR00201; sufficient;
 --
 SN  6
 ID  ComK
-DN  ComK/ComK
+DN  ComK
 RQ  0
 EV  IPR010461; PF06338; sufficient;
 //
