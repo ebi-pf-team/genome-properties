@@ -40,4 +40,9 @@ SN  7
 ID  Conjugative transposon, Bacteroides type
 RQ  0
 EV  GenProp0858;
+--
+SN  8
+ID  Competence-related genes
+RQ  0
+EV  GenProp0311;
 //
