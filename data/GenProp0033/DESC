@@ -24,7 +24,8 @@ CC  reductive (reverse) direction. The full reverse TCA cycle, an
 CC  alternative to the Calvin cycle for carbon dioxide fixation, is 
 CC  covered by a separate property.
 **  Same state YES no matter what malate dehydrogenase reduces - different
-**  EC number for differet choices, e.g. NAD vs. quinones.
+**  EC number for different choices, e.g. NAD vs. quinones.
+**  Evidence for step 8 is also used for GP0756.
 --
 SN  1
 ID  Citrate synthase
