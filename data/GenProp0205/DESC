@@ -12,6 +12,7 @@ CC  lipoproteins. Signal peptide peptidases are enzymes that degrade the
 CC  signal peptides (oligopeptides that may have signaling roles, and also
 CC  that may interfere with protein secretion), which are left after 
 CC  removal from a nascent protein by some signal peptidase.
+**  Evidence for step 1 is also used for GP0799.
 --
 SN  1
 ID  SRP receptor
