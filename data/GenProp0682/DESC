@@ -13,6 +13,7 @@ CC  coli, six of which are modeled explicitly for this property. Several of
 CC  the genes occur as paralogs of genes from the CcmABCDEFGH c-type
 CC  cytochrome biogenesis system present in the same genomes. The most
 CC  distinctive protein from this system is a pentaheme cytochrome c, NrfB.
+**  Evidence for step 1 is also used for GP0683.
 --
 SN  1
 ID  Cytochrome c552
