@@ -18,6 +18,7 @@ CC  conversion of pyruvate to oxaloacetate would require ATP (EC 6.4.1.1)
 CC  and be considerably less efficient.    Note that a number of the
 CC  components of this pathway are also elements of the TCA cycle running
 CC  in reverse (malate DH, fumarate hydratase, succinate dehydrogenase).
+**  Evidence for step 1 is also used for GP0033.
 --
 SN  1
 ID  Fumarate hydratase (4.2.1.2)
