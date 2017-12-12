@@ -36,6 +36,7 @@ CC  excrete acetate.
 **  butyrate, the gene will be manually included.  A member of PF01515
 **  which is distal from the acetate kinase in Thermotoga has been
 **  experimentally characterized [3] and has also been manually included.
+**  Evidence for step 2 is also used for GP0754.
 --
 SN  1
 ID  Phosphate acetyltransferase
