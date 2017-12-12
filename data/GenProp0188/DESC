@@ -16,6 +16,7 @@ CC  Glu-tRNA(Gln) while GatABC act on Asp-tRNA(Asn). In Lactobacillus and
 CC  possibly all Firmicutes, GatABC acts on Glu-tRNA(Gln) only. Note that
 CC  the amidotransferase reaction is a mechanism not only to charge a tRNA
 CC  with Asn or Gln, but to complete the synthesis of that amino acid.
+**  Evidence for step 3 is also used for GP0258.
 --
 SN  1
 ID  Glutamyl-tRNA(Gln) amidotransferase, A subunit
