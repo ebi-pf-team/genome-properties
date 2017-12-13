@@ -16,6 +16,14 @@ CC  cobalamin (B12) cofactor residing on MtrA. This transfer is coupled to
 CC  an energy-driven sodium-ion pump. Methane is subsequently released by
 CC  a two-electron reduction of the methyl-coenzyme M by the enzyme
 CC  methyl-coenzyme M reductase.
+**  Evidence for step 1 is also used for GP0722.
+**  Evidence for step 2 is also used for GP0722.
+**  Evidence for step 3 is also used for GP0722.
+**  Evidence for step 4 is also used for GP0722.
+**  Evidence for step 5 is also used for GP0722.
+**  Evidence for step 6 is also used for GP0722.
+**  Evidence for step 7 is also used for GP0722.
+**  Evidence for step 8 is also used for GP0722.
 --
 SN  1
 ID  Subunit A, cobalamin-containing
