@@ -11,7 +11,7 @@ CC  RNA polymerase. The recA gene product is required not only for the
 CC  regulation of the SOS response, but also for homologous recombination
 CC  and for various other DNA repair and damage tolerance pathways.
 **  Unsure whether or not to include recBCD and others into this property.
-**  Evidence for step 2 is also used for GP0799.
+**  Evidence for step 2 is also used for GP0799 (GUILD).
 --
 SN  1
 ID  LexA repressor
