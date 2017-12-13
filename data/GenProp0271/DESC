@@ -10,6 +10,7 @@ CC  alpha,alpha-phosphotrehalase. Third is a transcriptional repressor for
 CC  the operon, with different families in E.coli and Bacillus. 
 **  no comment yet on whether a TreA should be part of this, make
 **  trehalose-6-P from trehalose.
+**  Evidence for step 1 is also used for GP0119.
 --
 SN  1
 ID  PTS system, trehalose-specific IIBC component
