@@ -13,15 +13,15 @@ CC  chain, but not all.
 **  Evidence for step 4 is also used for GP0799 (GUILD).
 **  Evidence for step 5 is also used for GP0799 (GUILD).
 **  Evidence for step 6 is also used for GP0189.
-**  Evidence for step 7 is also used for GP0217 and GP0831.
+**  Evidence for step 7 is also used for GP0217 and GP0831 (GUILD).
 **  Evidence for step 8 is also used for GP0799 (GUILD).
 **  Evidence for step 11 is also used for GP0799 (GUILD).
 **  Evidence for step 12 is also used for GP0799 (GUILD).
 **  Evidence for step 13 is also used for GP0799 (GUILD).
 **  Evidence for step 14 is also used for GP0800 (GUILD).
-**  Evidence for step 17 is also used for GP0799 (GUILD) and GP0831.
+**  Evidence for step 17 is also used for GP0799 (GUILD) and GP0831 (GUILD).
 **  Evidence for step 18 is also used for GP0799 (GUILD).
-**  Evidence for step 19 is also used for GP0799 (GUILD) and GP0831.
+**  Evidence for step 19 is also used for GP0799 (GUILD) and GP0831 (GUILD).
 **  Evidence for step 20 is also used for GP0799 (GUILD).
 **  Evidence for step 21 is also used for GP0799 (GUILD).
 **  Evidence for step 22 is also used for GP0800 (GUILD).
@@ -30,7 +30,8 @@ CC  chain, but not all.
 **  Evidence for step 25 is also used for GP0188.
 **  Evidence for step 27 is also used for GP0188.
 **  Evidence for step 29 is also used for GP0188.
-**  Evidence for step 32 is also used for GP0831.
+**  Evidence for step 31 is also used for GP0831 (GUILD).
+**  Evidence for step 32 is also used for GP0831 (GUILD).
 --
 SN  1
 ID  Alanyl-tRNA synthetase
