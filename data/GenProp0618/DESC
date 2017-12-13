@@ -16,6 +16,7 @@ CC  bacteria. The bo complex contains two heme b (protoheme IX) molecules
 CC  designated b562 and b595 as well as an active site copper atom. This
 CC  complex is structurally analagous to the aa3-type cytochrome c oxidases
 CC  [1] which contains cytochromes a and copper.
+**  Evidence for step 5 is also used for GP0614.
 --
 SN  1
 ID  Subunit II, CyoA
