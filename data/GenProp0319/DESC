@@ -29,8 +29,8 @@ CC  pernix, consists of cas1-6, the subtype specific genes csa1-3 and either
 CC  csa4 or csa5. The repeats associated with this subtype tend to have a 
 CC  periodicity of 66 nucleotides. This subtype is found exclusively in 
 CC  Archaea, primarily in the Chrenarchaeota. 
-**  Evidence for step 1 is also used for GP0021, GP0313, GP0315, GP0317, GP0318, GP0320, GP0469, GP0685 and GP0768.
-**  Evidence for step 9 is also used for GP0021.
+**  Evidence for step 1 is also used for GP0021 (GUILD), GP0313, GP0315, GP0317, GP0318, GP0320, GP0469, GP0685 and GP0768.
+**  Evidence for step 9 is also used for GP0021 (GUILD).
 --
 SN  1
 ID  Cas1, Apern region
