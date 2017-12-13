@@ -19,6 +19,7 @@ CC  describes a rare CRISPR/cas subtype, named Pging for its occurence in
 CC  Porphyromonas gingivalis W83.
 **  Evidence for step 1 is also used for GP0021 (GUILD), GP0313, GP0315, GP0317, GP0318, GP0319, GP0320, GP0469 and GP0685.
 **  Evidence for step 3 is also used for GP0021 (GUILD), GP0313, GP0315, GP0317, GP0319, GP0320 and GP0922.
+**  Evidence for step 6 is also used for GP0021 (GUILD), GP0317, GP0318, GP0319 and GP0320.
 --
 SN  1
 ID  Cas1, Pging region
