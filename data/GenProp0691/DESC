@@ -6,9 +6,9 @@ TH  0
 CC  Various monosaccharides can be converted into fructose-1,6-bisphosphate
 CC  and subsequently broken down to three carbon units (i.e. pyruvate) via
 CC  this pathway for utilization in basic metabolism.
-**  Evidence for step 1 is also used for GP0800.
+**  Evidence for step 1 is also used for GP0800 (GUILD).
 **  Evidence for step 2 is also used for GP0120.
-**  Evidence for step 5 is also used for GP0799.
+**  Evidence for step 5 is also used for GP0799 (GUILD).
 **  Evidence for step 7 is also used for GP0120.
 --
 SN  1
