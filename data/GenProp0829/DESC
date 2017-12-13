@@ -18,6 +18,7 @@ CC  pathway (GenProp0058), which also starts with chorismate [1].
 **  ANNOTATION. One of these, SCO4490 (TIGR03701) is supported by PPP while
 **  the other three are not (SCO4556, SCO4491, SCO4492). By contrast, PPP
 **  shows SCO4494 (TIGR03700), not discussed in the paper, to be important.
+**  Evidence for step 1 is also used for GP0136.
 --
 SN  1
 ID  Prenyltransferase
