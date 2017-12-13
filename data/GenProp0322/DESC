@@ -6,6 +6,7 @@ TH  0
 CC  This addiction module consists of homologs of the killer HigB and the
 CC  antidote HigA. It is unusual in that the killer protein is encoded by
 CC  the upstream gene.
+**  Evidence for step 1 is also used for GP0321.
 **  Evidence for step 2 is also used for GP0321.
 --
 SN  1
