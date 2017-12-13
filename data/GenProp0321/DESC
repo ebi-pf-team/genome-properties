@@ -14,7 +14,12 @@ CC  Chromosomal pairs frequently have mRNA-cleaving activity with
 CC  bacteriostatic rather than bacteriocidal activity, and may benefit the
 CC  host cell by enabling a persister state in response to certain
 CC  challenges.
+**  Evidence for step 1 is also used for GP0322.
+**  Evidence for step 1 is also used for GP0323.
+**  Evidence for step 1 is also used for GP0324.
 **  Evidence for step 1 is also used for GP0457.
+**  Evidence for step 2 is also used for GP0322.
+**  Evidence for step 2 is also used for GP0323 and GP0324.
 --
 SN  1
 ID  Antidote partner (various)
@@ -25,22 +30,22 @@ EV  IPR009956; PF07362; sufficient;
 EV  IPR007337; TIGR02384; sufficient;
 EV  IPR007337; PF04221; sufficient;
 EV  IPR022789; PF03693;
+EV  IPR022789; TIGR02606; sufficient;
 EV  IPR001387; PF01381;
 EV  IPR013432; TIGR02609; sufficient;
 EV  IPR013430; TIGR02607; sufficient;
-EV  IPR022789; TIGR02606; sufficient;
 --
 SN  2
 ID  Killing partner
 DN  Killing partner
 RQ  1
 EV  IPR007712; PF05016; sufficient;
-EV  IPR009614; TIGR02116; sufficient;
 EV  IPR007712; TIGR02385; sufficient;
+EV  IPR007711; PF05015; sufficient;
+EV  IPR009614; TIGR02116; sufficient;
 EV  IPR004386; TIGR00053; sufficient;
 EV  IPR002712; PF01845; sufficient;
 EV  IPR003812; PF02661; sufficient;
-EV  IPR007711; PF05015; sufficient;
 EV  IPR006440; TIGR01550; sufficient;
 EV  IPR033439; PF03882; sufficient;
 EV  IPR012556; PF08085; sufficient;
