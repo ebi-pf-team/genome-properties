@@ -11,6 +11,7 @@ CC  directly into polysaccharides such as the E. coli O8 and O9 antigens
 CC  and the Klebsiella O5 antigen. The pathway consists of three acivities, 
 CC  an isomerase, a phosphomutase and a guanylyl transferase. The first and 
 CC  last steps are often catalyzed by a fusion protein (ManAC).
+**  Evidence for steps 2 and 4 is the same (IPR006375).
 --
 SN  1
 ID  GDP-mannose mannosyl hydrolase
