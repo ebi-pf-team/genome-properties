@@ -10,14 +10,14 @@ CC  for these genes may also identify genes in eukaryotes or bacteria. The
 CC  intended use of this property is to evaluate draft Archaeal genomes to
 CC  determine the degree of completion achieved. 
 **  Evidence for step 12 is also used for GP0815.
-**  Evidence for step 15 is also used for GP0174 and GP0799.
-**  Evidence for step 26 is also used for GP0174 and GP0799.
-**  Evidence for step 49 is also used for GP0175 and GP0799.
+**  Evidence for step 15 is also used for GP0174 and GP0799 (GUILD).
+**  Evidence for step 26 is also used for GP0174 and GP0799 (GUILD).
+**  Evidence for step 49 is also used for GP0175 and GP0799 (GUILD).
 **  Evidence for step 60 is also used for GP0258.
 **  Evidence for step 61 is also used for GP0217 and GP0258.
-**  Evidence for step 62 is also used for GP0258 and GP0799.
-**  Evidence for step 63 is also used for GP0258 and GP0799.
-**  Evidence for step 70 is also used for GP0209 and GP0799.
+**  Evidence for step 62 is also used for GP0258 and GP0799 (GUILD).
+**  Evidence for step 63 is also used for GP0258 and GP0799 (GUILD).
+**  Evidence for step 70 is also used for GP0209 and GP0799 (GUILD).
 --
 SN  1
 ID  Peptidyl-tRNA hydrolase PTH2
