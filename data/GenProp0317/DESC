@@ -32,7 +32,10 @@ CC  periodicity of 66 nucleotides. This subtype is found both in Archaea and
 CC  Bacteria (with the notable exclusion of the Proteobacteria).
 **  Evidence for step 1 is also used for GP0021 (GUILD), GP0313, GP0315, GP0318, GP0319, GP0320, GP0469, GP0685 and GP0768.
 **  Evidence for step 3 is also used for GP0021 (GUILD), GP0313, GP0315, GP0319, GP0320, GP0768 and GP0922.
+**  Evidence for step 4 is also used for GP0021 (GUILD), GP0313, GP0319, GP0320, GP0469, GP0768 and GP0922.
+**  Evidence for step 5 is also used for GP0021 (GUILD)
 **  Evidence for step 7 is also used for GP0021 (GUILD), GP0318, GP0319, GP0320 and GP0768.
+**  Evidence for step 8 is also used for GP0021 (GUILD)
 --
 SN  1
 ID  Cas1, Tneap region
