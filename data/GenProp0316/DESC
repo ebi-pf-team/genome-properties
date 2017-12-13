@@ -31,6 +31,7 @@ CC  CRISPRs, but may be located at a remote site on the genome from the
 CC  core genes and repeats. Several of these genes belong to the RAMP
 CC  (Repeat-Associated Mystery Protein) family, so this 6-gene cassette is
 CC  called the CRISPR RAMP module.
+**  Evidence for step 1 is also used for GP0021 (GUILD).
 --
 SN  1
 ID  Cmr1
