@@ -11,15 +11,22 @@ CC  relative archaeal abundance and genome completeness.
 **  The purpose of this property, during its early stages of development,
 **  is to provide a protein-space metric of relative archaeal abundance and
 **  genome completeness.
+**  Evidence for step 1 is also used for GP0831 (GUILD).
 **  Evidence for step 2 is also used for GP0831 (GUILD).
 **  Evidence for step 3 is also used for GP0831 (GUILD).
 **  Evidence for step 4 is also used for GP0831 (GUILD).
 **  Evidence for step 5 is also used for GP0831 (GUILD).
+**  Evidence for step 6 is also used for GP0831 (GUILD).
+**  Evidence for step 7 is also used for GP0831 (GUILD).
 **  Evidence for step 8 is also used for GP0831 (GUILD).
+**  Evidence for step 9 is also used for GP0831 (GUILD).
+**  Evidence for step 10 is also used for GP0831 (GUILD).
+**  Evidence for step 11 is also used for GP0831 (GUILD).
 **  Evidence for step 12 is also used for GP0831 (GUILD).
 **  Evidence for step 13 is also used for GP0831 (GUILD).
 **  Evidence for step 14 is also used for GP0831 (GUILD).
 **  Evidence for step 15 is also used for GP0831 (GUILD).
+**  Evidence for step 16 is also used for GP0831 (GUILD).
 --
 SN  1
 ID  ArCOG04150 KH-domain protein
