@@ -20,6 +20,16 @@ GetOptions( "out=s"     => \$outDir,
 #This means Complete proteome
 my $keyword =  'keyword:181';
 
+if(!$outDir){
+  die "Please specify an output directory, see --help for more details\n";
+}
+if(!$taxList){
+  die "Please specify a list of genomes, see --help for more details\n";
+}
+if($help){
+  help()
+}
+
 #Set up the UA
 my $agent = LWP::UserAgent->new;
 $agent->env_proxy;
@@ -31,12 +41,17 @@ foreach my $l (@taxlist){
   my($species, $tid, $up) = split(/,/, $l);
   $taxids->{$tid}->{name}  = $species;
   $taxids->{$tid}->{found} = 0;
-  $taxids->{$tid}->{UPid}  = $up;;
+  $taxids->{$tid}->{UPid}  = $up;
 }
 
 
-mkdir($outDir."/taxonomy/proteomes") or die "Could not make directory $outdir/taxonomy/proteomes";
-chdir($outDir."/taxonomy/proteomes") or die "Could not change to directory $outdir/taxonomy/proteomes";
+if(!-e $outDir."/taxonomy"){
+  mkdir($outDir."/taxonomy") or die "Could not make directory $outDir/taxonomy"; 
+}
+if(!-e $outDir."/taxonomy/proteomes"){
+  mkdir($outDir."/taxonomy/proteomes") or die "Could not make directory $outDir/taxonomy/proteomes";
+}
+chdir($outDir."/taxonomy/proteomes") or die "Could not change to directory $outDir/taxonomy/proteomes";
 
 # For each taxon, mirror its proteome set in FASTA format.
 for my $taxon (keys %$taxids) {
@@ -56,5 +71,35 @@ for my $taxon (keys %$taxids) {
     die 'Failed, got ' . $response_taxon->status_line .
       ' for ' . $response_taxon->request->uri . "\n";
   }
+
+  #Now check that the file has a size.
+  if(!-s $file) {
+    warn "The taxid, $taxon, has no file size\n";
+  }else{
+    my $chunk = 1;
+    my $noSeqs;
+    open(F, "<", $file) or die "Could not open $file for reading\n";
+    while(<F>){
+      $noSeqs++ if(/^>/)
+    }
+    close(F);
+    print "The proteome $taxon contained $noSeqs sequences\n";
+  }
+
+
 }
 
+
+sub help {
+
+print<<EOF
+$0
+usage:
+
+out     : Output directory
+taxlist : File containing the list of taxids that you want to retrieve
+help    : Prints this help message
+
+EOF
+
+}
