@@ -6,6 +6,9 @@ TH  0
 CC  This model is being roughed in. Lantibiotics are ribosomoally
 CC  translated peptides with lanthionine bridges. Dehydroalanine is a
 CC  standard modification in these same peptides. New families needed!
+**  Evidence for step 1 is also used for GP1069.
+**  Evidence for step 3 is also used for GP1069.
+**  Evidence for step 4 is also used for GP0853.
 --
 SN  1
 ID  PF04738 - Lantibiotic dehydratase, N terminus
