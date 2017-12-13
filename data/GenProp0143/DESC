@@ -12,6 +12,7 @@ CC  uridylyltransferase, and UDP-galactose 4-epimerase.
 **  (was in groups table first).  This property has just (July 2005) been
 **  revised by adding the mutarotase (Pfam subfamily version), with
 **  TIGRFAMs version on the way, I hope. DHH.
+**  Evidence for step 4 is also used for GP1031, GP1035 and GP1036.
 --
 SN  1
 ID  Aldose 1-epimerase (mutarotase)
