@@ -12,6 +12,8 @@ CC  protein-L-isoaspartate(D-aspartate) O-methyltransferase, a repair
 CC  enzyme for age-damaged proteins. 
 **  Is finding a protein repair enzyme homolog in a PRNP cluster
 **  unprecedented?
+**  Evidence for step 2 is also used for GP0900.
+**  Evidence for step 4 is also used for GP0900.
 --
 SN  1
 ID  FxLD family lantipeptide
