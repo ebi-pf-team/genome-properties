@@ -21,6 +21,7 @@ CC  antitoxin generally is a transcription factor. The toxin may act in
 CC  several ways. This addiction module property describes the ParE system
 CC  where ParE inhibits gyrase and thereby blocks chromosome replication 
 CC  [1].
+**  Evidence for step 2 is also used for GP0321 and GP0324.
 --
 SN  1
 ID  Antidote TIGR02606
