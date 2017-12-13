@@ -11,6 +11,10 @@ CC  23270, where this system is carried on the chromosome rather than on a
 CC  plasmid, and where it is the only CRISPR subtype in the species. None
 CC  of the familiar core cas genes, cas1-cas4, are found in A. ferrooxidans,
 CC  making this type of CRISPR/cas locus unusual.
+**  Evidence for step 1 is also used for GP0021 (GUILD).
+**  Evidence for step 2 is also used for GP0021 (GUILD).
+**  Evidence for step 3 is also used for GP0021 (GUILD).
+**  Evidence for step 4 is also used for GP0021 (GUILD).
 --
 SN  1
 ID  CRISPR-associated protein, Csf1
