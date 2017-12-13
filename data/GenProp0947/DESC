@@ -15,7 +15,7 @@ CC  one colitose sugar [1].  The O55 biosynthetic cluster encodes four
 CC  sugar transferases WbgMNOP, the wzx, wzy and wzz components as well as
 CC  the enzymes for the biosynthesis of GDP-L-colitose from D-fructose-6P
 CC  via GDP-mannose.
-**  Evidence for step 8 is also used for GP0912, GP0932, GP0953, GP0968 and GP0973.
+**  Evidence for step 8 is also used for GP0912 (GUILD), GP0932, GP0953, GP0968 and GP0973.
 --
 SN  1
 ID  Source of GDP-colitose
