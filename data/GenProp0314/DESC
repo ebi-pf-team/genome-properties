@@ -33,6 +33,7 @@ CC  defined thus far. The repeats associated with this subtype tend to
 CC  have a periodicity of 66 nucleotides. This subtype is found only in
 CC  Bacteria, and notably it would seem only in known or potential (i.e.
 CC  containing virulence genes) vertebrate pathogens.                       
+**  Evidence for step 4 is also used for GP0021 (GUILD).
 --
 SN  1
 ID  Cas1, Nmeni region
