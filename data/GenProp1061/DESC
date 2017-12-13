@@ -18,6 +18,7 @@ CC  several additional species. It has a single long protein, Cpf1 (Cas
 CC  protein 1 of PreFran subtype), in addition to Cas4, Cas1, and Cas2. The
 CC  typical repeat has length 36.
 **  specialty Cas4 and Cas1, generic Cas2, a novel gene.
+**  Evidence for step 2 is also used for GP0021 (GUILD), GP0313, GP0314, GP0317, GP0318, GP0319, GP0320, GP0469, GP0768 and GP0922.
 --
 SN  1
 ID  Cas1, PreFran subtype
