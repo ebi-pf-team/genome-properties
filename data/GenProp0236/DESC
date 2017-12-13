@@ -15,6 +15,9 @@ CC  phosphonates and related C-P bond-containing compounds (e.g.
 CC  phosphites); it should be found in association with either the C-P
 CC  lysase membrane complex or specific phoshonatases, but not all of the
 CC  latter are known.
+**  Evidence for step 1 is also used for GP0232.
+**  Evidence for step 2 is also used for GP0232.
+**  Evidence for step 3 is also used for GP0232.
 --
 SN  1
 ID  ABC transporter phosphonates ATP-binding protein
