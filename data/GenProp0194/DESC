@@ -5,6 +5,7 @@ AU  Haft DH
 TH  0
 DC  Siroheme biosynthesis
 DR  MetaCyc; PWY-5194;
+**  Evidence for step 1 is also used for GP0113 and GP0275.
 --
 SN  1
 ID  C-methyltransferase
