@@ -11,6 +11,7 @@ CC  a single polypeptide chain tRNA ligase responsible for direct
 CC  aminoacylation with Asn.
 **  For use with other tRNA charging properties in building a summary
 **  property.
+**  Evidence for step 1 is also used for GP0652.
 **  Evidence for step 2 is also used for GP0258.
 --
 SN  1
