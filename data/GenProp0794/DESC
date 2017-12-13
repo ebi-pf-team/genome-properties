@@ -36,6 +36,8 @@ CC  to provide sufficient ammonium ion under limiting conditions [3].
 CC  Occasionally the WbuX protein is found in multiple (tandem) copies
 CC  which may indicate multiple substrates or multiple N-acetyl groups
 CC  being modified on the same substrate.
+**  Evidence for step 1 is also used for GP0796 and GP0912 (GUILD).
+**  Evidence for step 2 is also used for GP0109 and GP0912 (GUILD).
 --
 SN  1
 ID  N-acetyl sugar amidotransferase
