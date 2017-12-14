@@ -27,6 +27,7 @@ CC  where each belongs to a subfamily that marks its host gene as  carrying
 CC  the PEP-CTERM/exopolysaccharide system. This type 2 version of the
 CC  system is found in Methylobacillus sp. strain 12S where it is embedded
 CC  in a region for the biosynthesis of the exopolysaccharide mthanolan.
+**  Evidence for step 2 is also used for GP0931 (IPR017473).
 --
 SN  1
 ID  Transcriptional regulator EpsA
