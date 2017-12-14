@@ -29,6 +29,7 @@ CC  metabolized instead of 4-hydroxyphenylacetic acid.
 **  Note the first use here of a step for disrupted reading frames to hold
 **  the feat_names of those things marked as FRAMESHIFT or POINT_MUTATION
 **  in other steps.
+**  Evidence for step 1 is also used for GP0233.
 --
 SN  1
 ID  Succinate-semialdehyde dehydrogenase
