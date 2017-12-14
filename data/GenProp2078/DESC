@@ -4,14 +4,20 @@ TP  METAPATH
 AU  Rawlings ND
 TH  1
 RN  [1]
+RM  12502740 
+RT  Biological functions of the ISWI chromatin remodeling 
+RT  complex NURF. 
+RA  Badenhorst P; Voas M; Rebay I; Wu C; 
+RL  Genes Dev. 2002;16:3186-3198.
+RN  [2]
 RM  16728976 
 RT  A PHD finger of NURF couples histone H3 lysine 4 
-RT  trimethylation with chromatin remodelling.. 
+RT  trimethylation with chromatin remodelling. 
 RA  Wysocka J; Swigut T; Xiao H; Milne TA; Kwon SY; 
 RA  Landry J; Kauer M; Tackett AJ; Chait BT; Badenhorst P; 
 RA  Wu C; Allis CD; 
 RL  Nature 2006;442:86-90.
-RN  [2]
+RN  [3]
 RM  11583616 
 RT  Dual functions of largest NURF subunit NURF301 in 
 RT  nucleosome sliding and transcription factor 
@@ -19,14 +25,22 @@ RT  interactions.
 RA  Xiao H; Sandaltzopoulos R; Wang HM; Hamiche A; 
 RA  Ranallo R; Lee KM; Fu D; Wu C; 
 RL  Mol Cell. 2001;8:531-543.
+RN  [4]
+RM  14609955 
+RT  Isolation of human NURF: a regulator of Engrailed gene 
+RT  expression. 
+RA  Barak O; Lazzaro MA; Lane WS; Speicher DW; Picketts DJ; 
+RA  Shiekhattar R; 
+RL  EMBO J. 2003;22:6089-6100.
 CC  The NURF (nucleosome remodeling factor) complex 
 CC  catalyzes ATP-dependent nucleosome sliding and 
-CC  facilitates transcription of chromatin.  It 
+CC  facilitates transcription of chromatin [1].  It 
 CC  recognizes H3 tails trimethylated on 'Lys-4' 
 CC  (H3K4me3), which mark transcription start sites of 
-CC  virtually all active genes [1].  In Drosophila
+CC  virtually all active genes [2].  In Drosophila
 CC  melanogaster, the complex is composed of Caf1, 
-CC  E(bx), Nurf-38 and Iswi [2].
+CC  E(bx), Nurf-38 and Iswi [3].  In human the complex
+CC  consists of SMARCA1; BPTF; RBBP4 and RBBP7 [4].
 --
 SN  1
 ID  Probable histone-binding protein Caf1 (Caf1 )
@@ -36,10 +50,11 @@ EV  -; PTHR22850:SF90; sufficient;
 TG  GO:0016589;
 --
 SN  2
-ID  Nucleosome-remodeling factor subunit NURF301 (E(bx))
+ID  Nucleosome-remodeling factor subunit NURF301 (E(bx)/BPTF)
 DN  Nucleosome-remodeling factor subunit NURF301 /2
 RQ  1
-EV  -; PTHR22880:SF137; sufficient;
+EV  IPR038028; PTHR22880:SF137; sufficient;
+TG  GO:0035064;
 TG  GO:0016589;
 --
 SN  3
