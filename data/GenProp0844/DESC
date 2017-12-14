@@ -25,6 +25,7 @@ CC  for glycosylation rather than export.
 **  include SAG_1462, SP_1772, SACOL2676. Look at all species with paralog
 **  to SecA (TIGR00963), and species with putative TIGR03715 signal
 **  peptide. TIGR04224 hits too narrowly (just Strep).
+**  Evidence for step 1 is also used for GP0845 (IPR022263).
 --
 SN  1
 ID  Serine-rich glycoprotein
