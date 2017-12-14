@@ -25,6 +25,9 @@ CC  some components. See the article "Discovery of a widely distributed
 CC  toxin biosynthetic gene cluster.", PMID: 18375757
 **  curated protoxins include NTL02CB0485, NTL11SA1381, ORF03586(blm),
 **  ORFB01064(gpp), NTL16SP0616, and some others.
+**  Evidence for step 1 is also used for GP0901 (IPR022291).
+**  Evidence for step 4 is also used for GP0861 (IPR022513, IPR022516).
+**  Evidence for step 4 is also used for GP1083 (IPR022264).
 --
 SN  1
 ID  Cyclodehydratase(SagC)
