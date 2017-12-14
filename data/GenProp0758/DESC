@@ -3,6 +3,7 @@ DE  Lycopene biosynthesis from IPP
 TP  METAPATH
 AU  Haft DH
 TH  2
+**  Evidence for steps 8 and 9 is the same (IPR014105).
 --
 SN  1
 ID  Source of IPP
