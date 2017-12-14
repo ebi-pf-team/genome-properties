@@ -26,8 +26,11 @@ CC  covered by a separate property.
 **  Same state YES no matter what malate dehydrogenase reduces - different
 **  EC number for different choices, e.g. NAD vs. quinones.
 **  Evidence for steps 11 and 12 is the same.
+**  Evidence for step 1 is also used for GP0240.
+**  Evidence for step 7 is also used for GP0756.
 **  Evidence for step 8 is also used for GP0756.
 **  Evidence for step 11 is also used for GP0755.
+**  Evidence for step 13 is also used for GP0755.
 --
 SN  1
 ID  Citrate synthase
