@@ -13,7 +13,9 @@ CC  Colanic acid is a repeat unit polysaccharide that is generally found in
 CC  the Enterobacteriaceae, consisting of D-glucose, L-fucose, D-galactose
 CC  and D-glucosamine. The polymer is generally functionalized with acetyl
 CC  and pyruvoyl groups to a variable extent.
-**  Evidence for step 16 is also used for GP0724, GP0912 (GUILD), GP0968.
+**  Evidence for step 2 is also used for GP0655 (IPR017473).
+**  Evidence for step 14 is also used for GP0474 (IPR023485).
+**  Evidence for step 16 is also used for GP0724, GP0912 (GUILD), GP0968 (IPR002797).
 --
 SN  1
 ID  GDP-L-fucose biosynthesis
