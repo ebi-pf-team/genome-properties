@@ -23,6 +23,7 @@ CC  sulfite product from either branch of the assimilation pathway is
 CC  enzymatically reduced by sulfite reductase to sulfide for incorporation 
 CC  into an amino acid acceptor, peptide, or protein[1].
 **  The same evidence is used in steps 1 and 2.
+**  Evidence for steps 6 and 7 is the same (IPR011787).
 **  Evidence for step 1 is also used for GP0155.
 **  Evidence for step 2 is also used for GP0155.
 --
