@@ -7,6 +7,7 @@ CC  GABA (gamma-aminobutyric acid also known as 4-aminobutyrate), a
 CC  compound commonly found in plants is utilized by certain organisms. 
 CC  GABA is imported with a specific permease, transaminated to succinate 
 CC  semialdehyde and oxidized to succinate.
+**  Evidence for step 1 is also used for GP0231.
 --
 SN  1
 ID  Succinic semialdehyde dehydrogenase (1.2.1.16)
