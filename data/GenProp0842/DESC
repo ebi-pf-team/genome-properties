@@ -7,6 +7,8 @@ CC  This form of 2-oxoacid:acceptor oxidoreductase  has been shown to
 CC  possess 2-oxoglutarate oxidoreductase (succinyl-CoA forming) activity
 CC  in a number of species and likely replaces the lipoate-based E1/E2/E3
 CC  system in many organisms lacking it.
+**  Evidence for step 1 is also used for GP0839.
+**  Evidence for step 3 is also used for GP0839.
 --
 SN  1
 ID  Ferredoxin, or other gene clustered electron acceptor
