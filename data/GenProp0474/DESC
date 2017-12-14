@@ -10,6 +10,7 @@ CC  arsenite for transport, a protein ArsH of unknown function that is
 CC  sometimes not required, and a regulatory protein. Several distinct
 CC  families are known for the arsenate reductase, ArsC, which may be
 CC  dependent on glutaredoxin or thioredoxin in different instances.
+**  Evidence for step 4 is also used for GP0931 (IPR023485).
 --
 SN  1
 ID  Arsenical resistance protein ArsH
