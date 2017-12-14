@@ -21,6 +21,7 @@ CC  beta-ketoadipate is degraded in a two-step pathway to succinyl-CoA and
 CC  acetyl-CoA.
 **  In a eukaryotic form, substitute 5.5.1.5 for 5.5.1.2 and then 3.1.1.-
 **  for 4.1.1.44. DHH.  
+**  Evidence for step 5 is also used for GP0711 (IPR026968).
 --
 SN  1
 ID  Protocatechuate 3,4-dioxygenase, alpha subunit
