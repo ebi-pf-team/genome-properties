@@ -16,6 +16,7 @@ CC  are accompanied by a fourth subunit (CbiM) of unknown function,
 CC  although it is believed to be a membrane-spanning protein.
 **  WARNING - See energy-coupling factor transporter property. Many alleged
 **  cobalt transport proteins belong to this broader property instead.
+**  Evidence for step 1 is also used for GP1094 (IPR018024).
 --
 SN  1
 ID  Cobalt ECF transporter S component CbiM
