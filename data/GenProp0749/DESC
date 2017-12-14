@@ -11,6 +11,7 @@ CC  Pseudomonas aeruginosa PAO1. The other gene is a periplasmic binding
 CC  protein for the ABC transporters responsible for choline uptake. It 
 CC  appears that several different periplasmic binding proteins interact 
 CC  with the same permease and ATP-binding subunit.
+**  Evidence for step 2 also occurs in GP0748 (IPR017783).
 --
 SN  1
 ID  Putative choline sulfate transcription factor
