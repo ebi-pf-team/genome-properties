@@ -7,6 +7,7 @@ CC  The assembly of the bacterial flagellum requires the export of
 CC  flagellar components through the cytoplasmic membrane.  This is an
 CC  ATP-driven process mediated by a series of subunits similar to elements
 CC  of type III secretion complexes.
+**  Evidence for step 5 is also used for GP0885 (IPR012823).
 --
 SN  1
 ID  Flagellar biosynthesis protein FlhA
