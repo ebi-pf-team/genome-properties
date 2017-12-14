@@ -27,6 +27,7 @@ CC  cycle that effectively removes a cytosolic protein.
 CC  Decarboxylation/antiporter systems for this and other (e.g.
 CC  aspartate-alanine) substrate pairs can provide protection against
 CC  acidic pH.
+**  Evidence for step 2 is also used for GP0643 and GP0644 (IPR027568).
 --
 SN  1
 ID  Ornithine-putrescine antiporter
