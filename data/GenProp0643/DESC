@@ -10,6 +10,7 @@ CC  (GenProp0118) and possibly proline as well as the pathways from
 CC  arginine represented here. A pathway found only in eukaryotes for the
 CC  biosynthesis of creatine also incidentally generates ornithine (and
 CC  guanidinoacetate) from arginine and glycine. 
+**  Evidence for step 1 is also used for GP0644 and GP0871 (IPR027568).
 --
 SN  1
 ID  Ornithine decarboxylase
