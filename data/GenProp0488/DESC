@@ -6,6 +6,7 @@ TH  0
 CC  This property consists of a nickel-dependent superoxide dismutase and a
 CC  cognate protease necessary to process an N-terminal sequence.
 **  I have not added nickel transport to this property at this time.
+**  Evidence for step 1 is also used for GP0213 (IPR014123).
 --
 SN  1
 ID  Superoxide dismutase [Ni]
