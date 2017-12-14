@@ -19,6 +19,7 @@ CC  acetaldehyde plus inorganic phosphate[1]. In species that appear to
 CC  encode a phosphonate ABC transporter, this property is likely to be 
 CC  present only when the large phosphonate operon proposed to encode a
 CC  multisubunit C-P lyase, as found in Escherichia coli, is not found.
+**  Evidence for step 1 is also used for GP0713 and GP0724.
 --
 SN  1
 ID  2-aminoethylphosphonate--pyruvate transaminase
