@@ -12,6 +12,7 @@ CC  substrate.
 **  WARNING: MUST REINVESTIGATE having three times as many binding proteins
 **  as permease or ATP-binding. Maybe the binding include secondary
 **  substrates, like choline-sulfate binding, next to choline sulfatase.
+**  Evidence for step 2 also occurs in GP0749 (IPR017783).
 --
 SN  1
 ID  Choline ABC transporter, ATP-binding protein
