@@ -22,7 +22,9 @@ CC  number of different S subunits.
 **  models built so far are not comprehensive, and these steps are in-rule
 **  0 for now.  WARNING - SEE HOW MUCH REPAIR NEEDED FOR GenProp0277,
 **  cobalt.
-**  Evidence for step 3 is also used for GP0036.
+**  Evidence for step 3 is also used for GP0036 (IPR003784).
+**  Evidence for step 3 is also used for GP0277 (IPR018024).
+**  Evidence for step 3 is also used for GP0959 (IPR023812).
 --
 SN  1
 ID  ECF transporter ATP-binding component 1
