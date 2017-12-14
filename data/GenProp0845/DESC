@@ -11,6 +11,7 @@ CC  regions of low-complexity sequence, usually serine-rich. We propose
 CC  that this signal domain is recognized by cellular machinery that delays
 CC  protein translocation until glycosylation or other post-translational
 CC  modifications are complete.
+**  Evidence for step 1 is also used for GP0844 (IPR022263).
 --
 SN  1
 ID  KxYKxGKxW motif signal peptide
