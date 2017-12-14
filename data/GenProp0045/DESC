@@ -16,6 +16,7 @@ CC  transamination of 4-hydroxyphenylpyruvate to form tyrosine, has not
 CC  been ascribed to a specific transaminase. In mammals, tyrosine is
 CC  formed from the tetrahydrobiopterin-dependent oxidation of
 CC  phenylalanine and is not included in this property.
+**  Evidence for step 1 is also used for GP0039.
 **  Evidence for step 3 is also used for GP0039.
 --
 SN  1
