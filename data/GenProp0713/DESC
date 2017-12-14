@@ -5,7 +5,8 @@ AU  Haft DH
 TH  1
 CC  This AEP degradation pathway utilizes PhnA, phosphonoacetate hydrolase,
 CC  generating acetate and inorganic phosphate as products.
-**  Evidence for step 4 also occurs in GP0458 and GP0736.
+**  Evidence for step 4 is also used for GP0457 and GP0458 (IPR014036).
+**  Evidence for step 4 is also used for GP0458 and GP0736.
 --
 SN  1
 ID  Phosphonoacetate hydrolase
