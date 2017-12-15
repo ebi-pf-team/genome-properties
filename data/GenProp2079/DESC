@@ -68,7 +68,8 @@ SN  8
 ID  E3 ubiquitin-protein ligase RING1
 DN  E3 ubiquitin-protein ligase RING1 (EC 2.3.2.27) /8
 RQ  1
-EV  -; PTHR10825:SF6; sufficient;
+EV  IPR038036; PTHR10825:SF6; sufficient;
+TG  GO:0000151;
 TG  GO:0005667;
 --
 SN  9
