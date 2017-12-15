@@ -8,6 +8,18 @@ RM  16221580
 RT  Microbial dimethylsulfoxide and trimethylamine-N-oxide respiration.
 RA  McCrindle SL, Kappler U, McEwan AG;
 RL  Adv Microb Physiol. 2005;50:147-198.
+RN  [2]
+RM  27656177
+RT  The Two Sets of DMSO Respiratory Systems of Shewanella piezotolerans
+RT  WP3 Are Involved in Deep Sea Environmental Adaptation.
+RA  Xiong L, Jian H, Zhang Y, Xiao X;
+RL  Front Microbiol. 2016;7:1418.
+CC  This property describes the dimethyl sulfoxide (DMSO) reductase complex, 
+CC  which reduces DMSO to DMS (dimethyl sulfide). The complex consists of three
+CC  functional proteins encoded by the DmsABC operon. DmsA is a molybdopterin 
+CC  cofactor-containing subunit, DmsB is an ion-sulfur subunit, and DmsC is a 
+CC  NapC-like integral membrane anchor, that anchors the complex to the 
+CC  periplasmic side of the inner membrane [1,2].
 --
 SN  1
 ID  Anaerobic dimethylsulfoxide reductase, chain A
