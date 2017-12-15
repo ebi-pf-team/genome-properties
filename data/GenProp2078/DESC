@@ -1,5 +1,5 @@
 AC  GenProp2078
-DE  Nucleosome remodeling factor (NuRF) complex
+DE  Nucleosome remodeling factor (NuRF) complex, Drosophila
 TP  METAPATH
 AU  Rawlings ND
 TH  1
@@ -25,13 +25,6 @@ RT  interactions.
 RA  Xiao H; Sandaltzopoulos R; Wang HM; Hamiche A; 
 RA  Ranallo R; Lee KM; Fu D; Wu C; 
 RL  Mol Cell. 2001;8:531-543.
-RN  [4]
-RM  14609955 
-RT  Isolation of human NURF: a regulator of Engrailed gene 
-RT  expression. 
-RA  Barak O; Lazzaro MA; Lane WS; Speicher DW; Picketts DJ; 
-RA  Shiekhattar R; 
-RL  EMBO J. 2003;22:6089-6100.
 CC  The NURF (nucleosome remodeling factor) complex 
 CC  catalyzes ATP-dependent nucleosome sliding and 
 CC  facilitates transcription of chromatin [1].  It 
@@ -39,8 +32,7 @@ CC  recognizes H3 tails trimethylated on 'Lys-4'
 CC  (H3K4me3), which mark transcription start sites of 
 CC  virtually all active genes [2].  In Drosophila
 CC  melanogaster, the complex is composed of Caf1, 
-CC  E(bx), Nurf-38 and Iswi [3].  In human the complex
-CC  consists of SMARCA1; BPTF; RBBP4 and RBBP7 [4].
+CC  E(bx), Nurf-38 and Iswi [3].  
 --
 SN  1
 ID  Probable histone-binding protein Caf1 (Caf1 )
@@ -50,7 +42,7 @@ EV  -; PTHR22850:SF90; sufficient;
 TG  GO:0016589;
 --
 SN  2
-ID  Nucleosome-remodeling factor subunit NURF301 (E(bx)/BPTF)
+ID  Nucleosome-remodeling factor subunit NURF301 (E(bx))
 DN  Nucleosome-remodeling factor subunit NURF301 /2
 RQ  1
 EV  IPR038028; PTHR22880:SF137; sufficient;
