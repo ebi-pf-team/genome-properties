@@ -101,6 +101,6 @@ SN  12
 ID  YY1-associated factor 2 (YAF2)
 DN  YY1-associated factor 2 /12
 RQ  1
-EV  -; PTHR12920:SF2; sufficient;
+EV  IPR038039; PTHR12920:SF2; sufficient;
 TG  GO:0005667;
 //
