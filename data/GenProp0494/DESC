@@ -3,12 +3,30 @@ DE  Nickel import ABC transporter
 TP  SYSTEM
 AU  Haft DH
 TH  0
-CC  Nickel is an essential trace element, but is also toxic in high levels. 
-CC  This genome property descibed a specifc ABC transporter that is responsible 
+RN  [1]
+RM  7934931
+RT  The nik operon of Escherichia coli encodes a periplasmic
+RT  binding-protein-dependent transport system for nickel.
+RA  Navarro C, Wu LF, Mandrand-Berthelot MA;
+RL  Mol Microbiol. 1993;9:1181-1191.
+RN  [2]
+RM  23139401
+RT  Helicobacter hepaticus NikR controls urease and hydrogenase
+RT  activities via the NikABDE and HH0418 putative nickel import
+RT  proteins.
+RA  Benoit SL, Seshadri S, Lamichhane-Khadka R, Maier RJ;
+RL  Microbiology. 2013;159:136-146.
+RN  [3]
+RM  9882686
+RT  Isolation and characterization of the nikR gene encoding a
+RT  nickel-responsive regulator in Escherichia coli.
+RA  De Pina K, Desjardin V, Mandrand-Berthelot MA, Giordano G, Wu LF;
+RL  J Bacteriol. 1999;181:670-674.
+CC  Nickel is an essential trace element, but is also toxic at high levels. 
+CC  This genome property descibes a specifc ABC transporter that is responsible 
 CC  for the uptake of nickel. The transporter is encoded by the nikABCDE operon.
 CC  This property also includes nikR which has been shown to function as a 
-CC  regulator for this transporter, allowing the nickel levels to be maintained
-CC  at a non-toxic level [1,2,3].
+CC  regulator for this transporter [1,2,3].
 --
 SN  1
 ID  Periplasmic binding protein NikA
