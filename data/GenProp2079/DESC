@@ -1,0 +1,100 @@
+AC  GenProp2079
+DE  E2F6.com-1 complex
+TP  SYSTEM
+AU  Rawlings ND
+TH  1
+RN  [1]
+RM  12004135  
+RT  A complex with chromatin modifiers that occupies E2F- and 
+RT  Myc-responsive genes in G0 cells. 
+RA  Ogawa H; Ishiguro K; Gaubatz S; Livingston DM; Nakatani Y; 
+RL  Science 2002;296:1132-1136.
+CC  The E2F6.com-1 complex is composed of E2F6, MGA, 
+CC  MAX, TFDP1, CBX3, BAT8, EUHMTASE1, RING1, RNF2, MBLR, 
+CC  L3MBTL2 and YAF2 [1].
+--
+SN  1
+ID  Transcription factor E2F6
+DN  Transcription factor E2F6 /1
+RQ  1
+EV  IPR015635; PTHR12081:SF19; sufficient;
+TG  ;
+--
+SN  2
+ID  MAX gene-associated protein (MGA)
+DN  MAX gene-associated protein /2
+RQ  1
+EV  IPR037935; PTHR11267:SF32; sufficient;
+TG  ;
+--
+SN  3
+ID  Protein max (MAX)
+DN  Protein max /3
+RQ  1
+EV  IPR037933; PTHR10328; sufficient;
+TG  ;
+--
+SN  4
+ID  Transcription factor Dp-1 (TFDP1)
+DN  Transcription factor Dp-1 /4
+RQ  1
+EV  IPR028313; PTHR12548:SF4; sufficient;
+TG  ;
+--
+SN  5
+ID  Chromobox protein homolog 3 (CBX3)
+DN  Chromobox protein homolog 3 /5
+RQ  1
+EV  -; PTHR22812:SF110; sufficient;
+TG  ;
+--
+SN  6
+ID  Histone-lysine N-methyltransferase EHMT2 (BAT8)
+DN  Histone-lysine N-methyltransferase EHMT2 (EC:2.1.1.43) /6
+RQ  1
+EV  -; PTHR22884:SF361; sufficient;
+TG  ;
+--
+SN  7
+ID  Histone-lysine N-methyltransferase EHMT1 (EUHMTASE1)
+DN  Histone-lysine N-methyltransferase EHMT1 (EC:2.1.1.43) /7
+RQ  1
+EV  -; PTHR22884:SF364; sufficient;
+TG  ;
+--
+SN  8
+ID  E3 ubiquitin-protein ligase RING1
+DN  E3 ubiquitin-protein ligase RING1 (EC 2.3.2.27) /8
+RQ  1
+EV  -; PTHR10825:SF6; sufficient;
+TG  ;
+--
+SN  9
+ID  E3 ubiquitin-protein ligase RING2 (RNF2)
+DN  E3 ubiquitin-protein ligase RING2 (EC 2.3.2.27) /9
+RQ  1
+EV  IPR037937; PTHR10825:SF41; sufficient;
+TG  GO:0036353;
+TG  GO:0000151;
+--
+SN  10
+ID  Polycomb group RING finger protein 6 (PCGF6/MBLR)
+DN  Polycomb group RING finger protein 6 /10
+RQ  1
+EV  -; PTHR10825:SF15; sufficient;
+TG  ;
+--
+SN  11
+ID  Lethal(3)malignant brain tumor-like protein 2 (L3MBTL2)
+DN  Lethal(3)malignant brain tumor-like protein 2 /11
+RQ  1
+EV  -; PTHR12247:SF64; sufficient;
+TG  ;
+--
+SN  12
+ID  YY1-associated factor 2 (YAF2)
+DN  YY1-associated factor 2 /12
+RQ  1
+EV  -; PTHR12920:SF2; sufficient;
+TG  ;
+//
