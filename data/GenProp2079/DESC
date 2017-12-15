@@ -2,7 +2,7 @@ AC  GenProp2079
 DE  E2F6.com-1 complex
 TP  SYSTEM
 AU  Rawlings ND
-TH  1
+TH  4
 RN  [1]
 RM  12004135  
 RT  A complex with chromatin modifiers that occupies E2F- and 
@@ -12,6 +12,11 @@ RL  Science 2002;296:1132-1136.
 CC  The E2F6.com-1 complex is composed of E2F6, MGA, 
 CC  MAX, TFDP1, CBX3, BAT8, EUHMTASE1, RING1, RNF2, MBLR, 
 CC  L3MBTL2 and YAF2 [1].
+**  Evidence for step 1 is also used in GP2065 (IPR015635).
+**  Evidence for step 2 is also used in GP2065 (IPR037935).
+**  Evidence for step 3 is also used in GP2065 (IPR037933).
+**  Evidence for step 9 is also used in GP2065 (IPR037937).
+**  Threshold is therefore set to 4.
 --
 SN  1
 ID  Transcription factor E2F6
