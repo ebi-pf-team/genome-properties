@@ -52,7 +52,7 @@ SN  6
 ID  Histone-lysine N-methyltransferase EHMT2 (BAT8)
 DN  Histone-lysine N-methyltransferase EHMT2 (EC:2.1.1.43) /6
 RQ  1
-EV  -; PTHR22884:SF361; sufficient;
+EV  IPR038034; PTHR22884:SF361; sufficient;
 TG  GO:0005667;
 --
 SN  7
