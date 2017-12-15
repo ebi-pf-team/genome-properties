@@ -93,7 +93,8 @@ SN  11
 ID  Lethal(3)malignant brain tumor-like protein 2 (L3MBTL2)
 DN  Lethal(3)malignant brain tumor-like protein 2 /11
 RQ  1
-EV  -; PTHR12247:SF64; sufficient;
+EV  IPR038038; PTHR12247:SF64; sufficient;
+TG  GO:0042393;
 TG  GO:0005667;
 --
 SN  12
