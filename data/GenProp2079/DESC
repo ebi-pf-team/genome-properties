@@ -85,7 +85,8 @@ SN  10
 ID  Polycomb group RING finger protein 6 (PCGF6/MBLR)
 DN  Polycomb group RING finger protein 6 /10
 RQ  1
-EV  -; PTHR10825:SF15; sufficient;
+EV  IPR038037; PTHR10825:SF15; sufficient;
+TG  GO:0045892;
 TG  GO:0005667;
 --
 SN  11
