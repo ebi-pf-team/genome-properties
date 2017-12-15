@@ -53,13 +53,15 @@ ID  Histone-lysine N-methyltransferase EHMT2 (BAT8)
 DN  Histone-lysine N-methyltransferase EHMT2 (EC:2.1.1.43) /6
 RQ  1
 EV  IPR038034; PTHR22884:SF361; sufficient;
+TG  GO:0018024;
 TG  GO:0005667;
 --
 SN  7
 ID  Histone-lysine N-methyltransferase EHMT1 (EUHMTASE1)
 DN  Histone-lysine N-methyltransferase EHMT1 (EC:2.1.1.43) /7
 RQ  1
-EV  -; PTHR22884:SF364; sufficient;
+EV  IPR038035; PTHR22884:SF364; sufficient;
+TG  GO:0018024;
 TG  GO:0005667;
 --
 SN  8
