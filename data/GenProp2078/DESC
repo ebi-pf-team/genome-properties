@@ -63,6 +63,7 @@ ID  Inorganic pyrophosphatase (Nurf-38)
 DN  Inorganic pyrophosphatase (EC 3.6.1.1) /3
 RQ  0
 EV  -; PTHR10286:SF3; sufficient;
+TG  GO:0004427;
 TG  GO:0016589;
 --
 SN  4
