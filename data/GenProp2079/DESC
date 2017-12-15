@@ -45,7 +45,7 @@ SN  5
 ID  Chromobox protein homolog 3 (CBX3)
 DN  Chromobox protein homolog 3 /5
 RQ  1
-EV  -; PTHR22812:SF110; sufficient;
+EV  IPR038033; PTHR22812:SF110; sufficient;
 TG  ;
 --
 SN  6
