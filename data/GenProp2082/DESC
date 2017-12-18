@@ -93,13 +93,15 @@ ID  Zinc finger protein neuro-d4 (DPF1/BAF45B)
 DN  Zinc finger protein neuro-d4 /10
 RQ  1
 EV  IPR038046; PTHR10615:SF12; sufficient;
+TG  GO:0008270
 TG  GO:0071565;
 --
 SN  11
 ID  Zinc finger protein DPF3 (DPF3/BAF45C)
 DN  Zinc finger protein DPF3 /11
 RQ  1
-EV  -; PTHR10615:SF120; sufficient;
+EV  IPR038047; PTHR10615:SF120; sufficient;
+TG  GO:0008270;
 TG  GO:0071565;
 --
 SN  12
