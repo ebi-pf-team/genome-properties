@@ -22,6 +22,8 @@ CC  SMARCA2/BRM/BAF190B, SMARCA4/BRG1/BAF190A, SMARCB1/BAF47,
 CC  SMARCC1/BAF155, SMARCE1/BAF57, SMARCC2/BAF170, PHF10/BAF45A, 
 CC  ACTL6A/BAF53A and actin.
 **  Evidence for steps 10 and 11 is the same (IPR004000).
+**  Evidence for step 3 is also used in GP2080 (IPR030088).
+**  Evidence for step 10 is also used in GP2074, GP2075, GP2076, GP2077, GP2080 (IPR004000).
 --
 SN  1
 ID  AT-rich interactive domain-containing protein 1A/1B (ARID1A/BAF250A or ARID1B/BAF250B)
