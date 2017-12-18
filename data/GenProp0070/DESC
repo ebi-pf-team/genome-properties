@@ -140,4 +140,9 @@ SN  27
 ID  Methanogenesis
 RQ  0
 EV  GenProp0011;
+--
+SN  28
+ID  Anaerobic dimethyl sulfoxide reductase
+RQ  0
+EV  GenProp0637;
 //
