@@ -2,7 +2,7 @@ AC  GenProp2075
 DE  NuA4 histone acetyltransferase complex, mamalian
 TP  SYSTEM
 AU  Rawlings ND
-TH  6
+TH  5
 RN  [1]
 RM  15045029 
 RT  A protein complex containing the conserved Swi2/Snf2-
@@ -32,12 +32,12 @@ CC  BRD8/SMAP, EPC1, DMAP1/DNMAP1, RUVBL1/TIP49, RUVBL2, ING3,
 CC  actin, ACTL6A/BAF53A, MORF4L1/MRG15, MORF4L2/MRGX, MRGBP, 
 CC  YEATS4/GAS41, VPS72/YL1 and MEAF6 [3].
 **  Step 9 represents step 13 of GP2074; could the two be merged?
-**  Evidence for step 1 is also used in GP2074.
+**  Evidence for step 1 is also used in GP2074, GP2076, GP2077 and GP2080.
 **  Evidence for step 2 is also used in GP2074.
 **  Evidence for step 3 is also used in GP2053, GP2057, GP2058 and GP2074.
 **  Evidence for step 7 is also used in GP2066.
 **  Evidence for step 15 is also used in GP2074.
-**  Threshold is therefore set to 6.
+**  Threshold is therefore set to 5.
 --
 SN  1
 ID  Histone acetyltransferase ESA1 (ESA1/KAT5/TIP60)
