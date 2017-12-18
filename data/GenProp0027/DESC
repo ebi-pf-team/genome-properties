@@ -23,4 +23,9 @@ SN  2
 ID  Photosynthetic reaction center, alphaproteobacterial type
 RQ  0
 EV  GenProp0662;
+--
+SN  3
+ID  Photosystem I
+RQ  0
+EV  GenProp0660;
 //
