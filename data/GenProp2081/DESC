@@ -85,7 +85,7 @@ SN  9
 ID  PHD finger protein 10 (PHF10/BAF45A)
 DN  PHD finger protein 10 /9
 RQ  1
-EV  -; PTHR10615:SF133; sufficient;
+EV  IPR038045; PTHR10615:SF133; sufficient;
 TG  GO:0071564;
 --
 SN  10
