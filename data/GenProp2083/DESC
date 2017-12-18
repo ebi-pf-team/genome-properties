@@ -2,7 +2,7 @@ AC  GenProp2083
 DE  BAF complex
 TP  SYSTEM
 AU  Rawlings ND
-TH  3
+TH  11
 RN  [1]
 RM  18765789  
 RT  Regulation of muscle development by DPF3, a novel histone 
@@ -21,6 +21,19 @@ CC  SMARCB1/SNF5/INI1, and one or more SMARCD1/BAF60A,
 CC  SMARCD2/BAF60B, or SMARCD3/BAF60C. In muscle, the complex 
 CC  also contains DPF3 (PubMed:18765789).
 **  Evidence for steps 1, 6 and 7 is the same (IPR004000).
+**  Evidence for step 1 is also used in GP2074, GP2075, GP2076, GP2077, GP2080, GP2081 and GP2082 IPR004000).
+**  Evidence for step 2 is also used in GP2081 and GP2082 (IPR030094).
+**  Evidence for step 3 is also used in GP2081 and GP2082 (IPR038040).
+**  Evidence for step 4 is also used in GP2080, GP2081 and GP2082 (IPR030088).
+**  Evidence for step 5 is also used in GP2081 and GP2082 (IPR030100).
+**  Evidence for step 8 is also used in GP2081 and GP2082 (IPR030089).
+**  Evidence for step 9 is also used in GP2081 and GP2082 (IPR030087).
+**  Evidence for step 10 is also used in GP2081 and GP2082 (IPR038044).
+**  Evidence for step 11 is also used in GP2081 and GP2082 (IPR006939).
+**  Evidence for step 12 is also used in GP2081 and GP2082 (IPR038041).
+**  Evidence for step 12 is also used in GP2082 (IPR038043).
+**  Evidence for step 13 is also used in GP2082 (IPR038047).
+**  Threhold therefore ste to 11.
 **  How does this differ from nBAF?
 --
 SN  1
