@@ -13,14 +13,15 @@ RA  Grimm C; Schlesinger J; Just S; Dunkel I; Krueger T;
 RA  Mebus S; Lehrach H; Lurz R; Gobom J; Rottbauer W; 
 RA  Abdelilah-Seyfried S; Sperling S; 
 RL  Genes Dev. 2008;22:2370-2384.
-CC  The BAF complex includes at least actin (ACTB)*, 
-CC  ARID1A/BAF250A*, ARID1B/BAF250B*, SMARCA2/BRM*, 
-CC  SMARCA4/BRG1/BAF190A*, ACTL6A/BAF53*, ACTL6B/BAF53B*, 
-CC  SMARCE1/BAF57*, SMARCC1/BAF155*, SMARCC2/BAF170*, 
-CC  SMARCB1/SNF5/INI1*, and one or more SMARCD1/BAF60A*, 
-CC  SMARCD2/BAF60B*, or SMARCD3/BAF60C*. In muscle, the complex 
-CC  also contains DPF3* (PubMed:18765789).
-**  Evidence for steps 1 and 7 is the same (IPR004000).
+CC  The BAF complex includes at least actin (ACTB), 
+CC  ARID1A/BAF250A, ARID1B/BAF250B, SMARCA2/BRM, 
+CC  SMARCA4/BRG1/BAF190A, ACTL6A/BAF53, ACTL6B/BAF53B, 
+CC  SMARCE1/BAF57, SMARCC1/BAF155, SMARCC2/BAF170, 
+CC  SMARCB1/SNF5/INI1, and one or more SMARCD1/BAF60A, 
+CC  SMARCD2/BAF60B, or SMARCD3/BAF60C. In muscle, the complex 
+CC  also contains DPF3 (PubMed:18765789).
+**  Evidence for steps 1, 6 and 7 is the same (IPR004000).
+**  How does this differ from nBAF?
 --
 SN  1
 ID  Actin
@@ -64,7 +65,10 @@ SN  6
 ID  Actin-like protein 6A (ACTL6A/BAF53)
 DN  Actin-like protein 6A /6
 RQ  1
-EV  -; -; sufficient;
+EV  IPR004000; PF00022; sufficient;
+EV  IPR004000; PR00190; sufficient;
+EV  IPR004000; PTHR11937; sufficient;
+EV  IPR004000; SM00268; sufficient;
 TG  GO:0071565;
 --
 SN  7
@@ -95,7 +99,7 @@ SN  10
 ID  SWI/SNF complex subunit SMARCC2 (SMARCC2/BAF170)
 DN  SWI/SNF complex subunit SMARCC2 /10
 RQ  1
-EV  -; PTHR12802:SF38; sufficient;
+EV  IPR038044; PTHR12802:SF38; sufficient;
 TG  GO:0071565;
 --
 SN  11
@@ -111,14 +115,15 @@ ID  SWI/SNF-related matrix-associated actin-dependent regulator of chromatin sub
 DN  SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily D member 1/2/3 /12
 RQ  1
 EV  IPR038041; PTHR13844:SF1; sufficient;
-EV  -; -; ; sufficient;
-EV  -; PTHR13844:SF5; sufficient;
+EV  IPR030090; PTHR13844:SF2; sufficient;
+EV  IPR038043; PTHR13844:SF5; sufficient;
 TG  GO:0071565;
 --
 SN  13
 ID  Zinc finger protein DPF3 (DPF3/BAF45C)
 DN  Zinc finger protein DPF3 /13
 RQ  0
-EV  -; PTHR10615:SF120; sufficient;
+EV  IPR038047; PTHR10615:SF120; sufficient;
+TG  GO:0008270;
 TG  GO:0071565;
 //
