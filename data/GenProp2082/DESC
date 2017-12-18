@@ -35,7 +35,7 @@ SN  2
 ID  SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily D member 1 (SMARCD1/BAF60A)
 DN  SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily D member 1 /2
 RQ  1
-EV  -; PTHR13844:SF1; sufficient;
+EV  IPR038041; PTHR13844:SF1; sufficient;
 TG  GO:0071565;
 --
 SN  3
