@@ -28,7 +28,7 @@ ID  AT-rich interactive domain-containing protein 1A/1B (ARID1A/BAF250A or ARID1
 DN  AT-rich interactive domain-containing protein 1A/1B /1
 RQ  1
 EV  IPR030094; PTHR12656:SF12; sufficient;
-EV  -; PTHR12656:SF11; sufficient;
+EV  IPR038040; PTHR12656:SF11; sufficient;
 TG  GO:0071565;
 --
 SN  2
