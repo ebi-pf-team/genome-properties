@@ -42,7 +42,7 @@ SN  3
 ID  SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily D member 3 (SMARCD3/BAF60C)
 DN  SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily D member 3 /3
 RQ  1
-EV  -; PTHR13844:SF5; sufficient;
+EV  IPR038043; PTHR13844:SF5; sufficient;
 TG  GO:0071565;
 --
 SN  4
