@@ -3,7 +3,18 @@ DE  Photosystem I
 TP  SYSTEM
 AU  Haft DH
 TH  0
-CC  Photosystem I
+RN  [1]
+RM  3333014
+RT  Structure, function and organization of the Photosystem I reaction
+RT  center complex.
+RA  Golbeck JH;
+RL  Biochim Biophys Acta. 1987;895:167-204.
+CC  Photosystem I is a membrane complex found in the chloroplasts of plants and 
+CC  cyanobacteria. It uses light energy to transfer electrons from plastocyanin 
+CC  to ferredoxin. The core proteins of photosystem I are PsaA and PsaB, 
+CC  homologous integral membrane proteins that form a heterodimer that binds 
+CC  the electron-donating chlorophyll dimer P700, as well as chlorophyll, 
+CC  phylloquinone, and 4FE-4S electron acceptors [1].
 **  One of two properties under development in parallel, photosystems I and
 **  II.
 --
