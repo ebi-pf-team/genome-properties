@@ -14,53 +14,53 @@ CC  SMARCA4/BRG1/BAF190A* or SMARCA2/BRM/BAF190B*) and at least
 CC  SMARCE1*, ACTL6A/BAF53*, SMARCC1/BAF155*, SMARCC2/BAF170*, and 
 CC  SMARCB1/SNF5/BAF47*.
 --
-SN  5
+SN  1
 ID  Transcription activator BRG1 (SMARCA4/BRG1/BAF190A)
-DN  Transcription activator BRG1 (EC 3.6.4.-) /5
+DN  Transcription activator BRG1 (EC 3.6.4.-) /1
 RQ  1
 EV  IPR030100; PTHR10799:SF76; sufficient;
-TG  GO:0071565;
+TG  GO:0016514;
 --
-SN  4
+SN  2
 ID  Probable global transcription activator SNF2L2 (SMARCA2/BRM/BAF190B)
-DN  Probable global transcription activator SNF2L2 (EC 3.6.4.-) /4
+DN  Probable global transcription activator SNF2L2 (EC 3.6.4.-) /2
 RQ  1
 EV  IPR030088; PTHR10799:SF541 ; sufficient;
-TG  GO:0071565;
+TG  GO:0016514;
 --
-SN  8
+SN  3
 ID  SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily E member 1 (SMARCE1/BAF57)
-DN  SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily E member 1 /8
+DN  SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily E member 1 /3
 RQ  1
 EV  IPR030089; PTHR13711:SF206; sufficient;
-TG  GO:0071565;
+TG  GO:0016514;
 --
-SN  12
+SN  4
 ID  Actin-like protein 6A (ACTL6A/BAF53)
-DN  Actin-like protein 6A /12
+DN  Actin-like protein 6A /4
 RQ  1
 EV  -; -; sufficient;
-TG  GO:0071565;
+TG  GO:0016514;
 --
-SN  7
+SN  5
 ID  SWI/SNF complex subunit SMARCC1 (SMARCC1/BAF155)
-DN  SWI/SNF complex subunit SMARCC1 /7
+DN  SWI/SNF complex subunit SMARCC1 /5
 RQ  1
 EV  IPR030087; PTHR12802:SF9; sufficient;
-TG  GO:0071565;
---
-SN  9
-ID  SWI/SNF complex subunit SMARCC2 (SMARCC2/BAF170)
-DN  SWI/SNF complex subunit SMARCC2 /9
-RQ  1
-EV  -; PTHR12802:SF38; sufficient;
-TG  GO:0071565;
+TG  GO:0016514;
 --
 SN  6
+ID  SWI/SNF complex subunit SMARCC2 (SMARCC2/BAF170)
+DN  SWI/SNF complex subunit SMARCC2 /6
+RQ  1
+EV  -; PTHR12802:SF38; sufficient;
+TG  GO:0016514;
+--
+SN  7
 ID  SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily B member 1 (SMARCB1/BAF47)
-DN  SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily B member 1 /6
+DN  SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily B member 1 /7
 RQ  1
 EV  IPR006939; PF04855 ; sufficient;
 EV  IPR006939; PTHR10019; sufficient;
-TG  GO:0071565;
+TG  GO:0016514;
 //
