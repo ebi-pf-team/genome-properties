@@ -2,7 +2,7 @@ AC  GenProp2081
 DE  npBAF complex
 TP  SYSTEM
 AU  Rawlings ND
-TH  3
+TH  9
 RN  [1]
 RM  17640523  
 RT  An essential switch in subunit composition of a chromatin 
@@ -23,9 +23,16 @@ CC  SMARCC1/BAF155, SMARCE1/BAF57, SMARCC2/BAF170, PHF10/BAF45A,
 CC  ACTL6A/BAF53A and actin.
 **  Evidence for steps 10 and 11 is the same (IPR004000).
 **  Evidence for step 1 is also used in GP2082 (IPR030094).
-**  Evidence for step 3 is also used in GP2080 (IPR030088).
+**  Evidence for step 1 is also used in GP2082 (IPR038040).
+**  Evidence for step 2 is also used in GP2082 (IPR038041).
+**  Evidence for step 3 is also used in GP2080 and GP2082 (IPR030088).
+**  Evidence for step 4 is also used in GP2082 (IPR030100).
+**  Evidence for step 5 is also used in GP2082 (IPR006939).
+**  Evidence for step 6 is also used in GP2082 (IPR030087).
+**  Evidence for step 7 is also used in GP2082 (IPR030089).
+**  Evidence for step 8 is also used in GP2082 (IPR038044).
 **  Evidence for step 10 is also used in GP2074, GP2075, GP2076, GP2077, GP2080 (IPR004000).
-**  Threshold therefore changed to 3.
+**  Threshold therefore changed to 9.
 --
 SN  1
 ID  AT-rich interactive domain-containing protein 1A/1B (ARID1A/BAF250A or ARID1B/BAF250B)
