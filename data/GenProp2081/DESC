@@ -28,14 +28,14 @@ ID  AT-rich interactive domain-containing protein 1A/1B (ARID1A/BAF250A or ARID1
 DN  AT-rich interactive domain-containing protein 1A/1B /1
 RQ  1
 EV  IPR030094; PTHR12656:SF12; sufficient;
-EV  -; PTHR12656:SF11; sufficient;
+EV  IPR038040; PTHR12656:SF11; sufficient;
 TG  GO:0071564;
 --
 SN  2
 ID  SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily D member 1 (SMARCD1/BAF60A)
 DN  SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily D member 1 /2
 RQ  1
-EV  -; PTHR13844:SF1; sufficient;
+EV  IPR038041; PTHR13844:SF1; sufficient;
 TG  GO:0071564;
 --
 SN  3
