@@ -85,7 +85,7 @@ SN  9
 ID  SWI/SNF complex subunit SMARCC2 (SMARCC2/BAF170)
 DN  SWI/SNF complex subunit SMARCC2 /9
 RQ  1
-EV  -; PTHR12802:SF38; sufficient;
+EV  IPR038044; PTHR12802:SF38; sufficient;
 TG  GO:0071565;
 --
 SN  10
