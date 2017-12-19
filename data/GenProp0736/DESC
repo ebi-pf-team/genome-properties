@@ -3,29 +3,24 @@ DE  Proposed phosphonate catabolism pathway HpnWXZ
 TP  PATHWAY
 AU  Haft DH
 TH  0
-CC  The enzyme phosphonatase (PhnX) catalyzes the hydrolysis of
-CC  phosphonoacetaldehyde via a bicatalytic mechanism involving a specific
-CC  enzyme lysine which forms a Shiff base with the aldehyde, and a
-CC  magnesium-aspartate (HAD-type) nucleophile to cleave the
-CC  (now-activated) phosphonate carbon-phosphorous bond. The model for
-CC  PhnX (TIGR01422) effectively identifies the clade of enzymes which are
-CC  associated with the PhnW enzyme that provides the substrate for the
-CC  reaction.  Genes mosty closely related to PhnX (modelled by TIGR03351,
-CC  HpnX) share a significant degree of similarity at critical catalytic
-CC  sites suggesting that it, too, acts as a phosphonatase on a
-CC  beta-phosphonoaldehyde.  HpnX genes are often found in the vicinity of
-CC  (and uniformly in the same genomes with) a family of FAD-dependent
-CC  oxidoreductases (TIGR03364, HpnW).  These genes may act in an analagous
-CC  fashion to PhnW by converting an aminophosphonate into an aldehyde,
-CC  here by oxidative deamination. HpnW genes are members of a larger
-CC  family of genes (PF01266) including enzymes with amino acid deaminating
-CC  oxidase activities.  This pair of genes often also is associated with a
-CC  family of Zn++ dependent alcohol dehydrogenases of the PF00107 family
-CC  (TIGR0####). Other genes in the vicinity of these three indicate a
-CC  phosphonate-related context and are typically observed near other
-CC  phosphonate catabolic pathways such as genes of the HDIG domain family
-CC  (PF01966), certain GntR-type transcriptional regulators and
-CC  phosphonate-related transporters.
+CC  Phosphonatase (PhnX) is an enzyme that catalyzes the hydrolysis of 
+CC  phosphonoacetaldehyde via a bicatalytic mechanism involving a specific 
+CC  enzyme lysine which forms a Shiff base with the aldehyde, and a 
+CC  magnesium-aspartate (HAD-type) nucleophile to cleave the phosphonate 
+CC  carbon-phosphorous bond. The PhnW enzyme provides the substrate for this 
+CC  reaction. HpnX (closely related to PhnX) shares a significant degree of 
+CC  similarity at critical catalytic sites suggesting that it also acts as a 
+CC  phosphonatase on a beta-phosphonoaldehyde. HpnX genes are often found in the 
+CC  vicinity of a family of FAD-dependent oxidoreductases (HpnW). These genes 
+CC  may act in an analagous fashion to PhnW by converting an aminophosphonate 
+CC  into an aldehyde, here by oxidative deamination. HpnW genes are members of 
+CC  a larger family of genes including enzymes with amino acid deaminating 
+CC  oxidase activities. These genes (HpnX and HpnW) are often associated with a 
+CC  family of Zn++ dependent alcohol dehydrogenases. Other genes in the vicinity 
+CC  indicate a phosphonate-related context and are typically observed near other 
+CC  phosphonate catabolic pathways such as genes of the HDIG domain family, 
+CC  certain GntR-type transcriptional regulators and phosphonate-related 
+CC  transporters.
 **  Evidence for step 1 also occurs in GP0458 and GP0713 (IPR000524).
 **  Evidence for step 2 also occurs in GP0241 (IPR017670).
 **  Evidence for step 3 also occurs in GP0241 (IPR017741).
