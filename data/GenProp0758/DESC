@@ -21,7 +21,7 @@ CC  plant and bacterial pathways [1].
 --
 SN  1
 ID  Source of IPP
-DN  Source of IPP/IPP-in
+DN  Source of IPP
 RQ  0
 EV  GenProp0048;
 EV  GenProp0047;
@@ -38,7 +38,6 @@ DN  Lycopene cyclases/crtLY
 RQ  0
 EV  IPR010108; TIGR01790;
 EV  IPR017825; TIGR03462;
-EV  IPRXXXX; PF05834;
 --
 SN  4
 ID  Beta carotene hydroxylase
@@ -60,7 +59,7 @@ EV  IPR000092; PF00348;
 --
 SN  7
 ID  Uncharacterized syntenic membrane protein
-DN  Uncharacterized syntenic membrane protein/membr
+DN  Uncharacterized syntenic membrane protein
 RQ  0
 EV  IPR017822; TIGR03459;
 EV  IPR017823; TIGR03460;
