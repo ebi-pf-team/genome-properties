@@ -219,4 +219,9 @@ SN  43
 ID  Acetate production from acetylphosphate
 RQ  0
 EV  GenProp0754;
+--
+SN  44
+ID  Lycopene biosynthesis from IPP
+RQ  0
+EV  GenProp0758;
 //
