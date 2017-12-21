@@ -3,6 +3,20 @@ DE  Lycopene biosynthesis from IPP
 TP  METAPATH
 AU  Haft DH
 TH  2
+RN  [1]
+RM  16669779
+RT  Vitamin synthesis in plants: tocopherols and carotenoids.
+RA  DellaPenna D, Pogson BJ;
+RL  Annu Rev Plant Biol. 2006;57:711-738.
+CC  Lycopene is one of the most commonly occurring carotenes (nonoxygenated 
+CC  carotenoids). Carotenoids are synthesized via the isoprenoid biosynthetic 
+CC  pathway, of which isopetenylpyrophosphate (IPP) is an intermediate. IPP 
+CC  undergoes a series of condensation reactions to form geranylgeranyl 
+CC  diphosphate (GGDP), a key intermediate in the synthesis of carotenoids. In 
+CC  plants, the first committed step in carotenoid synthesis is the condensation 
+CC  of two GGDP molecules, producing phytoene. Multiple desaturation steps then 
+CC  occur to yield lycopene. These desaturation steps vary slightly between 
+CC  plant and bacterial pathways [1].
 **  Evidence for steps 8 and 9 is the same (IPR014105).
 --
 SN  1
