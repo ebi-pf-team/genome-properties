@@ -53,4 +53,9 @@ SN  9
 ID  Exodeoxyribonuclease VII
 RQ  0
 EV  GenProp1095;
+--
+SN  10
+ID  Replication initiation, bacterial
+RQ  0
+EV  GenProp0806;
 //
