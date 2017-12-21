@@ -39,11 +39,6 @@ RQ  0
 EV  IPR010108; TIGR01790;
 EV  IPR017825; TIGR03462;
 --
-SN  4
-ID  Beta carotene hydroxylase
-DN  Beta carotene hydroxylase/crtZ
-RQ  0
---
 SN  5
 ID  Isopentenyl-diphosphate delta-isomerase (5.3.3.2)
 DN  Isopentenyl-diphosphate delta-isomerase (5.3.3.2)/idi
