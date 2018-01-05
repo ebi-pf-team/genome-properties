@@ -13,10 +13,10 @@ CC  carotenoids). Carotenoids are synthesized via the isoprenoid biosynthetic
 CC  pathway, of which isopetenylpyrophosphate (IPP) is an intermediate. IPP 
 CC  undergoes a series of condensation reactions to form geranylgeranyl 
 CC  diphosphate (GGDP), a key intermediate in the synthesis of carotenoids. In 
-CC  plants, the first committed step in carotenoid synthesis is the condensation 
-CC  of two GGDP molecules, producing phytoene. Multiple desaturation steps then 
-CC  occur to yield lycopene. These desaturation steps vary slightly between 
-CC  plant and bacterial pathways [1].
+CC  plants, the first committed step in carotenoid synthesis is the 
+CC  condensation of two GGDP molecules, producing phytoene. Multiple 
+CC  desaturation steps then occur to yield lycopene. These desaturation steps 
+CC  vary slightly between plant and bacterial pathways [1].
 **  Evidence for steps 8 and 9 is the same (IPR014105).
 --
 SN  1
