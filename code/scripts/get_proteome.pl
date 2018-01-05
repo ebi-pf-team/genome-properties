@@ -18,8 +18,6 @@ GetOptions( "out=s"     => \$outDir,
             "help"      => \$help    ) or die "Unknown option\n";
 
 #This means Complete proteome
-my $keyword =  'keyword:181';
-
 if(!$outDir){
   die "Please specify an output directory, see --help for more details\n";
 }
@@ -55,9 +53,9 @@ chdir($outDir."/taxonomy/proteomes") or die "Could not change to directory $outD
 
 # For each taxon, mirror its proteome set in FASTA format.
 for my $taxon (keys %$taxids) {
-   
+  my $proteome = $taxids->{$taxon}->{UPid}; 
   my $file = $taxon . '.fasta';
-  my $query_taxon = "http://www.uniprot.org/uniprot/?query=organism:$taxon+$keyword&format=fasta&include=yes";
+  my $query_taxon = "http://www.uniprot.org/uniprot/?query=proteome:$proteome&format=fasta&include=yes";
   my $response_taxon = $agent->mirror($query_taxon, $file);
 
   if ($response_taxon->is_success) {
@@ -74,19 +72,53 @@ for my $taxon (keys %$taxids) {
 
   #Now check that the file has a size.
   if(!-s $file) {
-    warn "The taxid, $taxon, has no file size\n";
-  }else{
-    my $chunk = 1;
-    my $noSeqs;
-    open(F, "<", $file) or die "Could not open $file for reading\n";
-    while(<F>){
-      $noSeqs++ if(/^>/)
-    }
-    close(F);
-    print "The proteome $taxon contained $noSeqs sequences\n";
+    die "The taxid, $taxon, has no file size\n";
   }
+}  
+ 
+#Now loop oevr and chunk the files read for I5.
+for my $taxon (keys %$taxids){
+  
+  my $file = $taxon . '.fasta';
+  my $chunk = 1;
+  my $noSeqs = 1;
+  my $totalSeqs;
+  open(F, "<", $file) or die "Could not open $file for reading\n";
+  open(C, ">", $file.".$chunk") or die "Could not open $file for reading\n";
+  while(<F>){
+    if(/^>/){
+      $noSeqs++;
+      $totalSeqs++;
+    }
+    if($noSeqs > 5000){
+      close(C);
+      $chunk++;
+      open(C, ">", $file.".$chunk") or die "Could not open $file for reading\n";
+      $noSeqs = 1; 
+    }
+    print C $_;
+  }
+  close(F);
+  close(C);
+  $taxids->{$taxon}->{chunk} = $chunk;
+  print "The file $file contains $totalSeqs\n";
+}
 
 
+mkdir("i5_analysis") if(!-d "i5_analysis");
+mkdir("i5_logs") if(!-d "i5_logs");
+
+
+for my $taxon (keys %$taxids){
+  
+  my $chunk = $taxids->{$taxon}->{chunk};
+
+  while($chunk){
+    my $file = $taxon . '.fasta.'.$chunk;
+    #bsub -q production-rh7 -n 8 -M 8000 -J i5onhps /hps/nobackup/production/interpro/sw/interproscan/current/interproscan.sh -i /hps/nobackup/production/interpro/sw/interproscan/current/test_all_appl.fasta -o interproscan_test_all_appl.tsv -f tsv
+    print "bsub -o i5_logs/$taxon.$chunk.out -q production-rh7 -n 8 -M 8000 -J i5onhps \"/hps/nobackup/production/interpro/sw/interproscan/current/interproscan.sh -appl tigrfam,pfam,cdd,panther,hamap,prints,pirsf,smart  -i $file -o $taxon.$chunk.tsv -f tsv\"\n";
+    $chunk--;
+  }
 }
 
 
