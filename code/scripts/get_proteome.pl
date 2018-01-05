@@ -10,10 +10,12 @@ use LWP::UserAgent;
 use HTTP::Date;
 use Getopt::Long;
 use File::Slurp;
+use Cwd qw(abs_path);
 
-my ($taxList, $outDir, $help);
+my ($taxList, $outDir, $help, $gpDir);
 
 GetOptions( "out=s"     => \$outDir,
+            "gpdir=s"   => \$gpDir,
             "taxlist=s" => \$taxList,
             "help"      => \$help    ) or die "Unknown option\n";
 
@@ -24,6 +26,15 @@ if(!$outDir){
 if(!$taxList){
   die "Please specify a list of genomes, see --help for more details\n";
 }
+if(!$gpDir){
+  die "Please secific the directory containing the GP flatfile\n";
+}
+if(!-d $gpDir){
+  die "The GP flatfile direcotry, $gpDir, does not exist\n";
+}else{
+  $gpDir = abs_path($gpDir);
+}
+
 if($help){
   help()
 }
@@ -50,7 +61,7 @@ if(!-e $outDir."/taxonomy/proteomes"){
   mkdir($outDir."/taxonomy/proteomes") or die "Could not make directory $outDir/taxonomy/proteomes";
 }
 chdir($outDir."/taxonomy/proteomes") or die "Could not change to directory $outDir/taxonomy/proteomes";
-
+my $cwd = $outDir."/taxonomy/proteomes";
 # For each taxon, mirror its proteome set in FASTA format.
 for my $taxon (keys %$taxids) {
   my $proteome = $taxids->{$taxon}->{UPid}; 
@@ -78,7 +89,7 @@ for my $taxon (keys %$taxids) {
  
 #Now loop oevr and chunk the files read for I5.
 for my $taxon (keys %$taxids){
-  
+  print STDERR "Chunking $taxon\n";  
   my $file = $taxon . '.fasta';
   my $chunk = 1;
   my $noSeqs = 1;
@@ -105,22 +116,86 @@ for my $taxon (keys %$taxids){
 }
 
 
-mkdir("i5_analysis") if(!-d "i5_analysis");
-mkdir("i5_logs") if(!-d "i5_logs");
+mkdir("$cwd/i5_analysis") if(!-d "i5_analysis");
+mkdir("$cwd/i5_logs") if(!-d "i5_logs");
 
 
 for my $taxon (keys %$taxids){
-  
+  print "Preparing to submit $taxon\n";
   my $chunk = $taxids->{$taxon}->{chunk};
 
   while($chunk){
     my $file = $taxon . '.fasta.'.$chunk;
     #bsub -q production-rh7 -n 8 -M 8000 -J i5onhps /hps/nobackup/production/interpro/sw/interproscan/current/interproscan.sh -i /hps/nobackup/production/interpro/sw/interproscan/current/test_all_appl.fasta -o interproscan_test_all_appl.tsv -f tsv
-    print "bsub -o i5_logs/$taxon.$chunk.out -q production-rh7 -n 8 -M 8000 -J i5onhps \"/hps/nobackup/production/interpro/sw/interproscan/current/interproscan.sh -appl tigrfam,pfam,cdd,panther,hamap,prints,pirsf,smart  -i $file -o $taxon.$chunk.tsv -f tsv\"\n";
+    if(!-e "$cwd/i5_analysis/$taxon.$chunk.tsv" or !-s "$cwd/i5_analysis/$taxon.$chunk.tsv"){
+      if(-e "$cwd/i5_logs/$taxon.$chunk.out"){
+        unlink("$cwd/i5_logs/$taxon.$chunk.out");
+      }
+      system( "bsub -o $cwd/i5_logs/$taxon.$chunk.out -q production-rh7 -n 8 -M 8000 -J i5onhps \"/hps/nobackup/production/interpro/sw/interproscan/current/interproscan.sh -appl tigrfam,pfam,cdd,panther,hamap,prints,pirsf,smart  -i $cwd/$file -o $cwd/i5_analysis/$taxon.$chunk.tsv -f tsv\"" );
+      #warn "Missing $file\n";
+    }
     $chunk--;
   }
 }
 
+
+my $incomplete = 1;
+while($incomplete){
+  my $missing = 0;
+  
+  print "checking that all I5 jobs have finished\n";
+
+  for my $taxon (keys %$taxids){
+    my $chunk = $taxids->{$taxon}->{chunk};
+    while($chunk){
+      my $file = "$taxon.$chunk.tsv";
+      $missing++ if(!-e "$cwd/i5_analysis/$file");
+      $chunk--;
+    }
+  }
+
+  if($missing == 0){
+    print "All I5 jobs complete\n";
+    $incomplete = 0;
+  }else{
+    print "There are $missing files, will wait 10 minutes and check again.\n";
+    sleep(600);
+  }
+}
+
+
+
+
+for my $taxon (keys %$taxids){
+  print "Joining files for $taxon\n";
+  my $chunk = $taxids->{$taxon}->{chunk};
+
+  my $all_i5;
+  while($chunk){
+    my $file = "$taxon.$chunk.tsv";
+    $all_i5 .= read_file("$cwd/i5_analysis/$file");
+    $chunk--;
+  }
+  write_file("$cwd/i5_analysis/$taxon.tsv", $all_i5);
+  
+}
+
+#Final step, assign genome properties. 
+my $gpoutdir = "$cwd/gp_assingments";
+if(!-d $gpoutdir){
+  mkdir($gpoutdir ) or die "Failied to make directory $gpoutdir\n";
+}
+
+for my $taxon (keys %$taxids){
+  print "Assigning genome properties files for $taxon\n";
+  
+  my $matches = "$cwd/i5_analysis/$taxon.tsv";
+  my $name    = "$taxon.gp";
+ 
+  system("assign_genome_properties.pl -matches $matches -all -name $name -gpdir $gpDir ".
+          " -gpff genomeProperties.txt -outfiles summary -outdir $gpoutdir") 
+          and die "Error assigning genome properties\n"; 
+}
 
 sub help {
 
@@ -130,6 +205,7 @@ usage:
 
 out     : Output directory
 taxlist : File containing the list of taxids that you want to retrieve
+gpdir   : Directory contaning the GP flatfile.
 help    : Prints this help message
 
 EOF
