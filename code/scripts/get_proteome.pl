@@ -10,10 +10,12 @@ use LWP::UserAgent;
 use HTTP::Date;
 use Getopt::Long;
 use File::Slurp;
+use Cwd qw(abs_path);
 
-my ($taxList, $outDir, $help);
+my ($taxList, $outDir, $help, $gpDir);
 
 GetOptions( "out=s"     => \$outDir,
+            "gpdir=s"   => \$gpDir,
             "taxlist=s" => \$taxList,
             "help"      => \$help    ) or die "Unknown option\n";
 
@@ -24,6 +26,15 @@ if(!$outDir){
 if(!$taxList){
   die "Please specify a list of genomes, see --help for more details\n";
 }
+if(!$gpDir){
+  die "Please secific the directory containing the GP flatfile\n";
+}
+if(!-d $gpDir){
+  die "The GP flatfile direcotry, $gpDir, does not exist\n";
+}else{
+  $gpDir = abs_path($gpDir);
+}
+
 if($help){
   help()
 }
@@ -128,7 +139,6 @@ for my $taxon (keys %$taxids){
 }
 
 
-#Need to write wait function here.....
 my $incomplete = 1;
 while($incomplete){
   my $missing = 0;
@@ -168,12 +178,24 @@ for my $taxon (keys %$taxids){
   }
   write_file("$cwd/i5_analysis/$taxon.tsv", $all_i5);
   
-  
 }
 
+#Final step, assign genome properties. 
+my $gpoutdir = "$cwd/gp_assingments";
+if(!-d $gpoutdir){
+  mkdir($gpoutdir ) or die "Failied to make directory $gpoutdir\n";
+}
 
-
-
+for my $taxon (keys %$taxids){
+  print "Assigning genome properties files for $taxon\n";
+  
+  my $matches = "$cwd/i5_analysis/$taxon.tsv";
+  my $name    = "$taxon.gp";
+ 
+  system("assign_genome_properties.pl -matches $matches -all -name $name -gpdir $gpDir ".
+          " -gpff genomeProperties.txt -outfiles summary -outdir $gpoutdir") 
+          and die "Error assigning genome properties\n"; 
+}
 
 sub help {
 
@@ -183,6 +205,7 @@ usage:
 
 out     : Output directory
 taxlist : File containing the list of taxids that you want to retrieve
+gpdir   : Directory contaning the GP flatfile.
 help    : Prints this help message
 
 EOF
