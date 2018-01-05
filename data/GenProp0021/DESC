@@ -33,14 +33,19 @@ CC  families by Makarova, et al. describes broader categories of CRISPR
 CC  systems, using a polythetic classification system [3]. 
 **  Evidence for step 1 is also used for GP0670.
 **  Evidence for step 2 is also used for GP0319.
-**  Evidence for step 3 is also used for GP0313, GP0315, GP0317, GP0318, GP0319, GP0320, GP0469, GP0685 and GP0768.
-**  Evidence for step 4 is also used for GP0313, GP0314, GP0317, GP0318, GP0319, GP0320, GP0469, GP0768, GP0922 and GP1061.
+**  Evidence for step 3 is also used for GP0313, GP0315, GP0317, GP0318, 
+**  GP0319, GP0320, GP0469, GP0685 and GP0768.
+**  Evidence for step 4 is also used for GP0313, GP0314, GP0317, GP0318, 
+**  GP0319, GP0320, GP0469, GP0768, GP0922 and GP1061.
 **  Evidence for step 4 is also used for GP0315.
-**  Evidence for step 5 is also used for GP0313, GP0315, GP0317, GP0319, GP0320, GP0768 and GP0922.
+**  Evidence for step 5 is also used for GP0313, GP0315, GP0317, GP0319, 
+**  GP0320, GP0768 and GP0922.
 **  Evidence for step 5 is also used for GP0310.
 **  Evidence for step 5 is also used for GP0469.
-**  Evidence for step 6 is also used for GP0313, GP0317, GP0319, GP0320, GP0469, GP0768 and GP0922.
-**  Evidence for step 8 is also used for GP0317, GP0318, GP0319, GP0320 and GP0768.
+**  Evidence for step 6 is also used for GP0313, GP0317, GP0319, GP0320, 
+**  GP0469, GP0768 and GP0922.
+**  Evidence for step 8 is also used for GP0317, GP0318, GP0319, GP0320 
+**  and GP0768.
 **  Evidence for step 9 is also used for GP0469.
 **  Evidence for step 10 is also used for GP0313.
 **  Evidence for step 11 is also used for GP0315.
