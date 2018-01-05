@@ -38,10 +38,14 @@ CC  subtype tend to have a periodicity of 66 nucleotides. This subtype is
 CC  found in a wide variety of bacteria and never in the Archaea. Cas2 in 
 CC  this system has been shown to act as an endonuclease for dsDNA rather 
 CC  than ssRNA.
-**  Evidence for step 1 is also used for GP0021 (GUILD), GP0315, GP0317, GP0318, GP0319, GP0320, GP0469, GP0685 and GP0768.
-**  Evidence for step 2 is also used for GP0021 (GUILD), GP0314, GP0317, GP0318, GP0319, GP0320, GP0469, GP0768, GP0922 and GP1061.
-**  Evidence for step 3 is also used for GP0021 (GUILD), GP0315, GP0317, GP0319, GP0320, GP0768 and GP0922.
-**  Evidence for step 4 is also used for GP0021 (GUILD), GP0317, GP0319, GP0320, GP0469, GP0768 and GP0922.
+**  Evidence for step 1 is also used for GP0021 (GUILD), GP0315, GP0317, 
+**  GP0318, GP0319, GP0320, GP0469, GP0685 and GP0768.
+**  Evidence for step 2 is also used for GP0021 (GUILD), GP0314, GP0317, 
+**  GP0318, GP0319, GP0320, GP0469, GP0768, GP0922 and GP1061.
+**  Evidence for step 3 is also used for GP0021 (GUILD), GP0315, GP0317, 
+**  GP0319, GP0320, GP0768 and GP0922.
+**  Evidence for step 4 is also used for GP0021 (GUILD), GP0317, GP0319, 
+**  GP0320, GP0469, GP0768 and GP0922.
 **  Evidence for step 6 is also used for GP0021 (GUILD)
 **  Evidence for step 7 is also used for GP0021 (GUILD)
 --
