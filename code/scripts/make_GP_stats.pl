@@ -10,8 +10,10 @@ use GenomePropertiesIO;
 my (@dirs, $help, $go, $interpro, $status, $recursive, $verbose);
 my $all;
 $| = 1;
+my $outdir = ".";
 
-GetOptions ( "recursive"   => \$recursive,
+GetOptions ( "outdir=s" => \$outdir,
+              "recursive"   => \$recursive,
              "go"          => \$go,
              "interpro=s"  => \$interpro,
              "status=s"    => \$status,
@@ -26,8 +28,7 @@ help() if($help);
 my $dir = ".";
 my $options;
 $options->{status} = "public_and_checked";
-$options->{recursive} = 1;
-
+$options->{recursive} = 1; 
 
 #Read all of the GP directories
 opendir(D, $dir) or die "Could not open $dir directory for reading\n";
@@ -45,7 +46,7 @@ chdir($dir);
 #Now go validate
 my $gp = GenomeProperties->new;
 
-if (! GenomePropertiesIO::stats($gp, $options)){
+if (! GenomePropertiesIO::stats($gp, $options, $outdir)){
   die "Can not make stats as there are errors\n";
 }
 

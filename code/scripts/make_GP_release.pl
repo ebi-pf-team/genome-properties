@@ -7,33 +7,59 @@ use File::Slurp;
 
 use GenomePropertiesIO;
 
-my (@dirs, $help, $go, $interpro, $status, $recursive, $verbose);
+my (@dirs, $help, $interpro, $i5version, $scratch, $releaseDir );
 my $all;
 $| = 1;
 
-GetOptions ( "recursive"   => \$recursive,
-             "go"          => \$go,
-             "interpro=s"  => \$interpro,
-             "status=s"    => \$status,
-             "gp=s"        => \@dirs,
-             "all"         => \$all,
-             "verbose"     => \$verbose,
-             "help|h"      => \$help ) or die;
+my $version;
+
+GetOptions ( "scratch=s"    => \$scratch,
+             "releasedir=s" => \$releaseDir, 
+             "interpro=s"   => \$interpro,
+             "version=s"    => \$version,
+             "i5version=s"  => \$i5version,
+             "help|h"       => \$help ) or die;
 
 
 help() if($help);
 
-my $scratch = '/tmp/scratch';
-my $releaseDir = '/tmp/';
-my $version    = '0.1';
+if(!$scratch){
+  warn "No scratch directory supplied\n";
+  help();
+}
+
+if(!-d $scratch){
+  die "The scratch directory, $scratch does not exist\n";
+}
+
+
+if(!$releaseDir){
+  warn "No release directory supplied\n";
+  help();
+}
+
+if(!-d $releaseDir){
+  die "The release contianer directory, $releaseDir does not exist\n";
+}
+
+if(!$i5version){
+  warn "Interproscan version not definedi\n";
+  help();
+}
+
+if(!$version){
+  warn "No version defined\n";
+  help();
+}
 
 my $options;
 
 $options->{status} = "public_and_checked";
 $options->{recursive} = 1;
-$options->{checkgoterms} = 1; 
+#$options->{checkgoterms} = 1; 
 $options->{interpro} = readInterProFile($interpro);
 $options->{verbose} = 1;
+
 
 #In theory, we want to checkout HEAD from git.
 chdir($scratch) or die "Could not chdir $scratch:[$!]\n";
@@ -61,6 +87,9 @@ if (! GenomePropertiesIO::validateGP($gp, $options)){
   die "Can not make release as there are errors\n";
 }
 
+#Now check the hierarchy
+GenomePropertiesIO::checkHierarchy($gp, $options);
+
 #Now make the release directory
 if(! -d $releaseDir."/".$version ){
   mkdir( $releaseDir."/".$version ) or die "Could not make the release directory";
@@ -69,8 +98,8 @@ if(! -d $releaseDir."/".$version ){
 #Concatenate all DESC files that are listed 
 #$gp object, place in the flatfile directory
 
-open(R, ">", $releaseDir."/".$version."/PropertyDefinitions") or 
-  die "Could not open ".$releaseDir."/".$version."/PropertyDefinitions, [$!]";
+open(R, ">", $releaseDir."/".$version."/genomeProperties.txt") or 
+  die "Could not open ".$releaseDir."/".$version."/genomeProperties.txt, [$!]";
 
 foreach my $gp ( sort keys { %{ $gp->get_defs } } ){
   my @f = read_file( $datadir."/".$gp."/DESC");
@@ -81,10 +110,23 @@ foreach my $gp ( sort keys { %{ $gp->get_defs } } ){
 }
 close(R);
 
+# Write out the JSON file
+#Now generate the hierarchy JSON file
+my $json = GenomePropertiesIO::JSONHierarchy($gp);
+open(J, ">", $releaseDir."/".$version."/hierarchy.json") or 
+  die "Could not open ".$releaseDir."/".$version."/hierarchy, [$!]";
+print J $json;
+close(J);
+
 #Version file
-open(V, ">", "$releaseDir/$version/version") or die "Could not open $releaseDir/$version/version";
-print V "Genome Properties version: $version\nDependency on InterProScan version: XX\n";
+open(V, ">", "$releaseDir/$version/version.txt") or die "Could not open $releaseDir/$version/version.txt";
+print V "Genome Properties version: $version\nDependency on InterProScan version: $i5version\n";
 close(V);
+
+#Now make the stats
+chdir("$scratch/genome-properties/data");
+system("make_GP_stats.pl -outdir $scratch/genome-properties/docs/_stats"); 
+#Want to commit these in....
 
 #Git Tag...
 chdir("$scratch/genome-properties");
