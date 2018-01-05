@@ -186,9 +186,17 @@ $logger->info('Removing excessive nodes');
 
 
   my $taxString = '';
-  my $taxJson = [];
-  traverseTreeForPrint( $tree, $nodes, $taxString, $taxJson);
+  my $taxJson = { parent   => 0,
+                  taxid    => 0,
+                  name     => "root",
+                  rank     => "root",
+                  lineage  => "",
+                  children => []};
+  traverseTreeForPrint( $tree, $nodes, $taxString, $taxJson->{children});
   #p($tree);
+  foreach my $child ( @{ $taxJson->{children}} ){
+    $taxJson->{number_of_leaves} += $child->{number_of_leaves};
+  }
   
   write_file( $treeJson, to_json($taxJson, { ascii => 1, pretty => 1 } ));
 
@@ -216,19 +224,27 @@ sub traverseTreeForPrint {
   foreach my $k ( keys %{$hash} ) {
     my $thisTaxString = $taxString;
     $thisTaxString .= $nodes->[$k]->{name} . ';';
-    my $jNode = { parent => $nodes->[$k]->{parent},
-                  taxid  => $nodes->[$k]->{taxid},
-                  name   => $nodes->[$k]->{name},
-                  #lft    => $nodes->[$k]->{lft},
-                  #rgt    => $nodes->[$k]->{rgt},
-                  rank   => $nodes->[$k]->{rank},
-                  tax    => $thisTaxString,
+    my $jNode = { parent   => $nodes->[$k]->{parent},
+                  taxid    => $nodes->[$k]->{taxid},
+                  name     => $nodes->[$k]->{name},
+                  lft      => $nodes->[$k]->{lft},
+                  rgt      => $nodes->[$k]->{rgt},
+                  rank     => $nodes->[$k]->{rank},
+                  lineage  => $thisTaxString,
                   children => []};
 
     $jNode->{UPid} = $nodes->[$k]->{UPid} if($nodes->[$k]->{UPid});
 
     push(@{$taxJson}, $jNode);
     traverseTreeForPrint( $hash->{$k}, $nodes, $thisTaxString, $jNode->{children} );
+    if(scalar @{ $jNode->{children}} == 0){
+      #This is a leaf node of the tree.
+      $jNode->{number_of_leaves} = 1;
+    }else{
+      foreach my $child (@{ $jNode->{children}}){
+        $jNode->{number_of_leaves} += $child->{number_of_leaves};
+      }
+    }
   }
 }
 
