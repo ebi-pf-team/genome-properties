@@ -12,6 +12,8 @@ use Getopt::Long;
 use Archive::Tar;
 use File::Slurp;
 use Log::Log4perl qw(:easy);
+use Cwd 'abs_path';
+
 Log::Log4perl->easy_init($DEBUG);
 
 my ($taxList, $outDir, $help, $force);
@@ -20,6 +22,24 @@ GetOptions( "out=s"     => \$outDir,
             "taxlist=s" => \$taxList,
             "help"      => \$help    ) or die "Unknown option\n";
 
+if(! defined($outDir)){
+  warn "Need to define an output directory\n";
+  help();
+}
+
+if(!-d $outDir){
+  die "The output directory, $outDir does not exist\n";
+}
+$outDir = abs_path($outDir);
+
+
+if(!defined($taxList)){
+  warn "The list of proteomes was not defined\n"; 
+  help();
+}
+if(! -s $taxList){
+  die "The list of proteomes, $taxList, has no size or does not exist\n"; 
+}
 
 
 #-------------------------------------------------------------------------------
@@ -27,16 +47,17 @@ GetOptions( "out=s"     => \$outDir,
 #-------------------------------------------------------------------------------
 
 my $logger = Log::Log4perl->get_logger();
+
+
+$logger->info('Processing the proteome list');
 my @taxlist = read_file($taxList, chomp => 1);
 my $taxids;
 foreach my $l (@taxlist){
-  my($species, $tid, $up) = split(/,/, $l);
+  my($up, $tid, $species) = split(/,/, $l);
   $taxids->{$tid}->{name}  = $species;
   $taxids->{$tid}->{found} = 0;
-  $taxids->{$tid}->{UPid}  = $up;;
+  $taxids->{$tid}->{UPid}  = $up;
 }
-
-
 
 
 #-------------------------------------------------------------------------------
@@ -247,6 +268,7 @@ sub traverseTreeAndPrint {
     traverseTreeAndPrint( $hash->{$k}, $nodes, $thisTaxString );
   }
 }
+
 
 sub buildTree {
   my ( $tree, $nodes, $taxids, $ranksRef ) = @_;
