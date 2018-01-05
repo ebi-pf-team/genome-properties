@@ -20,4 +20,9 @@ SN  3
 ID  Butyryl-CoA to butyrate, acetate CoA-transferase pathway
 RQ  0
 EV  GenProp0911;
+--
+SN  4
+ID  Citrate lyase system
+RQ  0
+EV  GenProp0672;
 //
