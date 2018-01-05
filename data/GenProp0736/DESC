@@ -10,17 +10,17 @@ CC  magnesium-aspartate (HAD-type) nucleophile to cleave the phosphonate
 CC  carbon-phosphorous bond. The PhnW enzyme provides the substrate for this 
 CC  reaction. HpnX (closely related to PhnX) shares a significant degree of 
 CC  similarity at critical catalytic sites suggesting that it also acts as a 
-CC  phosphonatase on a beta-phosphonoaldehyde. HpnX genes are often found in the 
-CC  vicinity of a family of FAD-dependent oxidoreductases (HpnW). These genes 
-CC  may act in an analagous fashion to PhnW by converting an aminophosphonate 
-CC  into an aldehyde, here by oxidative deamination. HpnW genes are members of 
-CC  a larger family of genes including enzymes with amino acid deaminating 
-CC  oxidase activities. These genes (HpnX and HpnW) are often associated with a 
-CC  family of Zn++ dependent alcohol dehydrogenases. Other genes in the vicinity 
-CC  indicate a phosphonate-related context and are typically observed near other 
-CC  phosphonate catabolic pathways such as genes of the HDIG domain family, 
-CC  certain GntR-type transcriptional regulators and phosphonate-related 
-CC  transporters.
+CC  phosphonatase on a beta-phosphonoaldehyde. HpnX genes are often found in 
+CC  the vicinity of a family of FAD-dependent oxidoreductases (HpnW). These 
+CC  genes may act in an analagous fashion to PhnW by converting an 
+CC  aminophosphonate into an aldehyde, here by oxidative deamination. HpnW 
+CC  genes are members of a larger family of genes including enzymes with amino 
+CC  acid deaminating oxidase activities. These genes (HpnX and HpnW) are often 
+CC  associated with a family of Zn++ dependent alcohol dehydrogenases. Other 
+CC  genes in the vicinity indicate a phosphonate-related context and are 
+CC  typically observed near other phosphonate catabolic pathways such as genes 
+CC  of the HDIG domain family, certain GntR-type transcriptional regulators and 
+CC  phosphonate-related transporters.
 **  Evidence for step 1 also occurs in GP0458 and GP0713 (IPR000524).
 **  Evidence for step 2 also occurs in GP0241 (IPR017670).
 **  Evidence for step 3 also occurs in GP0241 (IPR017741).
