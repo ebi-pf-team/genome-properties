@@ -4,6 +4,7 @@ use strict;
 use warnings;
 use Getopt::Long;
 use File::Slurp;
+use File::Copy;
 use Cwd qw(abs_path getcwd);
 use GenomePropertiesIO;
 
@@ -164,28 +165,38 @@ system("make_GP_stats.pl -outdir $scratch/genome-properties/docs/_stats");
 
 
 
+#Now start organising things into the appropriate directories
+# TODO:Agree name and fix.
+copy("$releaseDir/taxonomy/tree.json", "$releaseDir/$version/taxonomy.json");
+copy("$releaseDir/taxonomy/tree.json", "$flatdir/taxonomy.json");
 
 
+my $gpaDir = "$releaseDir/taxonomy/proteomes/gp_assingments";
+opendir MYDIR, $gpaDir  or die "Could not opendir $gpaDir: $!\n";
+my @allfiles = grep { $_ ne '.' and $_ ne '..' } readdir MYDIR ;
+closedir(MYDIR);
 
+my $gpaRelDir = "$releaseDir/$version/gp_assignments";
+if(!-d $gpaRelDir){
+  mkdir($gpaRelDir) or die "Could not make diretory $gpaRelDir:[$!]\n";
+}
+
+foreach my $f (@allfiles){
+  copy("$gpaDir/$f", "$gpaRelDir/$f");
+  copy("$gpaDir/$f", "$flatdir/gp_assignments/$f");  
+}
+
+#Copy all files across and commit in.
+copy("$releaseDir/$version/version.txt", "$flatdir/version.txt");
+copy("$releaseDir/$version/hierarchy.json", "$flatdir/hierarchy.json"); 
 
 #Git Tag...
 chdir("$scratch/genome-properties");
+system("git commit -a -m \"Updated release file for release $version\"");
 system("git tag -f -a $version -m \"Genome Properties release $version\"");
 
-#Release notes?
-#system("sphinx-build -b latex  $docsdir $scratch/latex");
-#chdir("$scratch/latex");
-#system("pdflatex GenomeProperties  > GenomeProperties.pdf");
-#system("cp GenomeProperties.pdf $releaseDir/$version/."); 
-#open GenomeProperties.pdf 
-
-
 #Git push...
-#system("git push");
-
-#Copy to an ftp site....
-
-
+system("git push");
 
 #----------------------------------------------------------------------------------------
 #Move this into GPIO, fix in validate GP script....
