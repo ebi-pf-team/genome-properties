@@ -502,11 +502,6 @@ sub evaluate_property {
   }
   
 
-  #Need to check the threshold
-  p($def->threshold);
-
-
-
   #Three possible results for the evaluation
   if($found == 0 or $found < $def->threshold){
     $def->result('NO'); #No required steps found
