@@ -1,2 +1,2 @@
-Genome Properties version: wibble
+Genome Properties version: release1.0
 Dependency on InterProScan version: 5.27-66.0
