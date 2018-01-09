@@ -30,7 +30,7 @@ SN  4
 ID  Haemagglutinin HA33
 DN  Haemagglutinin HA33
 RQ  1
-EV  IPR000772; cd00161; sufficient;
+EV  IPR000772; PF00652; sufficient;
 --
 SN  5
 ID  Haemagglutinin HA70
