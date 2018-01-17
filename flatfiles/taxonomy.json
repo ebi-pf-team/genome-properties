@@ -9250,11 +9250,11 @@
                                              "children" : [
                                                 {
                                                    "parent" : "1747",
-                                                   "name" : "Propionibacterium acnes KPA171202",
+                                                   "name" : "Cutibacterium acnes KPA171202",
                                                    "children" : [],
                                                    "taxid" : "267747",
                                                    "number_of_leaves" : 1,
-                                                   "lineage" : "Bacteria;Actinobacteria;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Cutibacterium;Cutibacterium acnes;Propionibacterium acnes KPA171202;",
+                                                   "lineage" : "Bacteria;Actinobacteria;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Cutibacterium;Cutibacterium acnes;Cutibacterium acnes KPA171202;",
                                                    "lft" : 1543,
                                                    "rgt" : 1544,
                                                    "rank" : "no rank",
