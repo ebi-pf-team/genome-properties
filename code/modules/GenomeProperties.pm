@@ -205,7 +205,7 @@ sub open_outputfiles {
    if(!defined($self->{outdir})){
     $self->{outdir} = ".";  
    }
-   print STDERR $self->{outdir}."\n";
+   #print STDERR $self->{outdir}."\n";
    
    my $root = $self->{outdir};
    foreach my $f (@{$self->{outfiles}}){
@@ -501,11 +501,6 @@ sub evaluate_property {
     }
   }
   
-
-  #Need to check the threshold
-  p($def->threshold);
-
-
 
   #Three possible results for the evaluation
   if($found == 0 or $found < $def->threshold){

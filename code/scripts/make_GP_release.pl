@@ -4,7 +4,8 @@ use strict;
 use warnings;
 use Getopt::Long;
 use File::Slurp;
-
+use File::Copy;
+use Cwd qw(abs_path getcwd);
 use GenomePropertiesIO;
 
 my (@dirs, $help, $interpro, $i5version, $scratch, $releaseDir );
@@ -31,7 +32,7 @@ if(!$scratch){
 if(!-d $scratch){
   die "The scratch directory, $scratch does not exist\n";
 }
-
+$scratch = abs_path($scratch);
 
 if(!$releaseDir){
   warn "No release directory supplied\n";
@@ -41,6 +42,8 @@ if(!$releaseDir){
 if(!-d $releaseDir){
   die "The release contianer directory, $releaseDir does not exist\n";
 }
+$releaseDir = abs_path($releaseDir);
+
 
 if(!$i5version){
   warn "Interproscan version not definedi\n";
@@ -52,22 +55,36 @@ if(!$version){
   help();
 }
 
+if(!$interpro){
+  warn "No InterPro file provided\n";
+  help();
+}
+if(!-s $interpro){
+  die "The interpro file $interpro does not exist or has no size\n";
+}
+
+
 my $options;
 
 $options->{status} = "public_and_checked";
 $options->{recursive} = 1;
-#$options->{checkgoterms} = 1; 
+$options->{checkgoterms} = 1; 
 $options->{interpro} = readInterProFile($interpro);
 $options->{verbose} = 1;
+$options->{startdir} = getcwd();
+
+#TODO: Check the the I5 version and the central install versions are appropriate.
 
 
-#In theory, we want to checkout HEAD from git.
+
+#We want to checkout HEAD from git.
 chdir($scratch) or die "Could not chdir $scratch:[$!]\n";
 system("git clone https://github.com/rdfinn/genome-properties.git");
 
 #Now validate the data.
 my $datadir = "$scratch/genome-properties/data";
 my $docsdir = "$scratch/genome-properties/docs";
+my $flatdir = "$scratch/genome-properties/flatfiles";
 #Read all of the GP directories
 opendir(D, $datadir) or die "Could not open $datadir directory for reading\n";
 @dirs = sort {$a cmp $b } grep{ $_ =~ /GenProp\d{4}/}readdir(D);
@@ -110,13 +127,26 @@ foreach my $gp ( sort keys { %{ $gp->get_defs } } ){
 }
 close(R);
 
-# Write out the JSON file
+# Write out the JSON files
+# 1. GP hierarchy files
+# 2. Taxonomy tree for the species tree
+
+
 #Now generate the hierarchy JSON file
 my $json = GenomePropertiesIO::JSONHierarchy($gp);
 open(J, ">", $releaseDir."/".$version."/hierarchy.json") or 
   die "Could not open ".$releaseDir."/".$version."/hierarchy, [$!]";
 print J $json;
 close(J);
+
+#Within the GP directiry, there should be a species list.
+#Get this an make an ncbi taxonomy tree, based on this subset of species
+
+system("ncbi_taxonomy.pl -out $releaseDir -taxList $flatdir/proteome_list.csv") and die "Failied to make taxonomy tree\n";
+
+#Now download the the proteomes in the taxList and assign genome properties from the new assembled flatfile
+
+system("get_proteome.pl -out $releaseDir -taxlist $flatdir/proteome_list.csv -gpdir $releaseDir/$version") and die "Failed to run get_proteome script\n";;
 
 #Version file
 open(V, ">", "$releaseDir/$version/version.txt") or die "Could not open $releaseDir/$version/version.txt";
@@ -128,24 +158,45 @@ chdir("$scratch/genome-properties/data");
 system("make_GP_stats.pl -outdir $scratch/genome-properties/docs/_stats"); 
 #Want to commit these in....
 
+#TODO: Add
+
+#TODO:Need to generate a white list
+
+
+
+
+#Now start organising things into the appropriate directories
+# TODO:Agree name and fix.
+copy("$releaseDir/taxonomy/tree.json", "$releaseDir/$version/taxonomy.json");
+copy("$releaseDir/taxonomy/tree.json", "$flatdir/taxonomy.json");
+
+
+my $gpaDir = "$releaseDir/taxonomy/proteomes/gp_assingments";
+opendir MYDIR, $gpaDir  or die "Could not opendir $gpaDir: $!\n";
+my @allfiles = grep { $_ ne '.' and $_ ne '..' } readdir MYDIR ;
+closedir(MYDIR);
+
+my $gpaRelDir = "$releaseDir/$version/gp_assignments";
+if(!-d $gpaRelDir){
+  mkdir($gpaRelDir) or die "Could not make diretory $gpaRelDir:[$!]\n";
+}
+
+foreach my $f (@allfiles){
+  copy("$gpaDir/$f", "$gpaRelDir/$f");
+  copy("$gpaDir/$f", "$flatdir/gp_assignments/$f");  
+}
+
+#Copy all files across and commit in.
+copy("$releaseDir/$version/version.txt", "$flatdir/version.txt");
+copy("$releaseDir/$version/hierarchy.json", "$flatdir/hierarchy.json"); 
+
 #Git Tag...
 chdir("$scratch/genome-properties");
+system("git commit -a -m \"Updated release file for release $version\"");
 system("git tag -f -a $version -m \"Genome Properties release $version\"");
 
-#Release notes?
-#system("sphinx-build -b latex  $docsdir $scratch/latex");
-#chdir("$scratch/latex");
-#system("pdflatex GenomeProperties  > GenomeProperties.pdf");
-#system("cp GenomeProperties.pdf $releaseDir/$version/."); 
-#open GenomeProperties.pdf 
-
-
 #Git push...
-#system("git push");
-
-#Copy to an ftp site....
-
-
+system("git push");
 
 #----------------------------------------------------------------------------------------
 #Move this into GPIO, fix in validate GP script....
@@ -181,35 +232,26 @@ print<<EOF;
 
 Usage: $0 <options>
 
---recursive : If a genome property refers to other genome properties, then by
-            : follow all referred properties.
-         
---status (public_and_checked|public|checked)
-            : default mode is to ignore the status file and check  everything. 
-            :
-            : <public> check all geneome properties that have public status,
-            : regardless of their checked status.
-            : <checked> check all genome properties that have checked status,
-            : regardless of their public status.
-            : <public_and_checked>, only public and checked genome properties will be
-            : checked.
 
---go        : Use GO API to check all GO terms used in the genome properties
+
+--scratch <dir>
+              : A directory where files will be temporarily stored during making the
+              : the release
+
+--releasedir <dir>
+              : directory for storing all of the files that we want to keep, but
+              : no necessarily put under version control. Some of the files
+              : generated there will be put under version control.
+
+--version  <string>    
+              : version label to add to Genome Properties release.
 
 --interpro <file>
             : Use the file to check all of the InterPro accessions used in
             : the genome properties.
 
---gp <GP>
-            : Check the format of the genome property. Directory containing
-            : each GP is assumed to be in the present working directory.
-
---all       : evaluate all of the genome properties found in the present
-            : working directory
-
---verbose   : print warnings and status when running in recursive mode
-            : with a set status. i.e. --recursive and --status set
-            : in addition.
+--i5version <string>
+            : String indicating the version of InterProScan that this release works with.
 
 --help      : prints this help message.
 

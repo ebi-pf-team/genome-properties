@@ -184,6 +184,10 @@ $logger->info('Removing excessive nodes');
               species      => 1 );
 
   buildTree( $tree, $nodes, $taxids, \%ranks );
+  #Set the top nodes in the tree to have a parent 0, which will be our root.
+  foreach my $top (keys %$tree){
+    $nodes->[$top]->{parent} = 0;
+  }
 
   my $error;
   foreach my $tid (keys %{$taxids}){

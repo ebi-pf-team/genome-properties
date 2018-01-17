@@ -47,7 +47,7 @@ $agent->env_proxy;
 my @taxlist = read_file($taxList, chomp => 1);
 my $taxids;
 foreach my $l (@taxlist){
-  my($species, $tid, $up) = split(/,/, $l);
+  my($up, $tid, $species) = split(/,/, $l);
   $taxids->{$tid}->{name}  = $species;
   $taxids->{$tid}->{found} = 0;
   $taxids->{$tid}->{UPid}  = $up;
