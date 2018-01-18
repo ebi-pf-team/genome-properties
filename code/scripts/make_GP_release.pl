@@ -8,7 +8,7 @@ use File::Copy;
 use Cwd qw(abs_path getcwd);
 use GenomePropertiesIO;
 
-my (@dirs, $help, $interpro, $i5version, $scratch, $releaseDir );
+my (@dirs, $help, $interpro, $i5version, $gitBranch, $scratch, $releaseDir );
 my $all;
 $| = 1;
 
@@ -19,6 +19,7 @@ GetOptions ( "scratch=s"    => \$scratch,
              "interpro=s"   => \$interpro,
              "version=s"    => \$version,
              "i5version=s"  => \$i5version,
+             "git-branch"   => \$gitBranch,
              "help|h"       => \$help ) or die;
 
 
@@ -55,6 +56,12 @@ if(!$version){
   help();
 }
 
+if(! $gitBranch){
+  warn "Please indicate the git branch to checkout after cloning.\n";
+  help();
+
+}
+
 if(!$interpro){
   warn "No InterPro file provided\n";
   help();
@@ -79,7 +86,10 @@ $options->{startdir} = getcwd();
 
 #We want to checkout HEAD from git.
 chdir($scratch) or die "Could not chdir $scratch:[$!]\n";
-system("git clone https://github.com/rdfinn/genome-properties.git");
+system("git clone https://github.com/ebi-pf-team/genome-properties.git");
+chdir("genome-properties") or die "Could not change into genome properties directory\n";
+system("git checkout $version") and die "Failed to checkout $version from github\n";
+chdir($scratch) or die "Could not change back to the scratch working directory are git checkout\n";
 
 #Now validate the data.
 my $datadir = "$scratch/genome-properties/data";
@@ -154,7 +164,7 @@ print V "Genome Properties version: $version\nDependency on InterProScan version
 close(V);
 
 #Now make the stats
-chdir("$scratch/genome-properties/data");
+chdir("$scratch/genome-properties/data") or die "Chould not change directory to $scratch/genome-properties/data";
 system("make_GP_stats.pl -outdir $scratch/genome-properties/docs/_stats"); 
 #Want to commit these in....
 
@@ -193,7 +203,7 @@ copy("$releaseDir/$version/hierarchy.json", "$flatdir/hierarchy.json");
 #Git Tag...
 chdir("$scratch/genome-properties");
 system("git commit -a -m \"Updated release file for release $version\"");
-system("git tag -f -a $version -m \"Genome Properties release $version\"");
+#system("git tag -f -a $version -m \"Genome Properties release $version\"");
 
 #Git push...
 system("git push");
@@ -253,7 +263,12 @@ Usage: $0 <options>
 --i5version <string>
             : String indicating the version of InterProScan that this release works with.
 
+--git-branch <string>
+            : Name of the git branch that the release should be built from.
+
+
 --help      : prints this help message.
+
 
 EOF
 exit;
