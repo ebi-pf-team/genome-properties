@@ -19,4 +19,4 @@ Genome properties is an annotation system whereby functional attributes can be a
 Users can browse the genome properties, which are arranged within a hierarchy, examining the specific steps defined within each property. Alternatively, the properties can be compared in terms of the species they are found/not found in, across a modifiable set of genomes using our interactive viewer.
 
 
-.. include:: flatfiles/version.txt
+.. include:: ../flatfiles/version.txt
