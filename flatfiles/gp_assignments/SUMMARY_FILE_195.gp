@@ -263,7 +263,7 @@ GenProp0703	4-hydroxybenzoyl-CoA reductase	NO
 GenProp0704	tRNA U34 carboxymethylaminomethyl modification	PARTIAL
 GenProp0705	Xanthine dehydrogenase, bacillus type (pucABCDE)	NO
 GenProp0706	Cyclohexa-1,5-diene-1-carbonyl-CoA to 3-hydroxypimelyl-CoA, dch/had/oah Pathway	NO
-GenProp0707	Botulinum toxin system	NO
+GenProp0707	Botulinum toxin system	PARTIAL
 GenProp0708	Catechol meta-cleavage pathway	PARTIAL
 GenProp0709	Benzoate catabolism BoxABC pathway	NO
 GenProp0710	Generic phosphonates utilization	NO
