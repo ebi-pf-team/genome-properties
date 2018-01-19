@@ -19,7 +19,7 @@ GetOptions ( "scratch=s"    => \$scratch,
              "interpro=s"   => \$interpro,
              "version=s"    => \$version,
              "i5version=s"  => \$i5version,
-             "git-branch"   => \$gitBranch,
+             "git-branch=s" => \$gitBranch,
              "help|h"       => \$help ) or die;
 
 
@@ -88,7 +88,7 @@ $options->{startdir} = getcwd();
 chdir($scratch) or die "Could not chdir $scratch:[$!]\n";
 system("git clone https://github.com/ebi-pf-team/genome-properties.git");
 chdir("genome-properties") or die "Could not change into genome properties directory\n";
-system("git checkout $version") and die "Failed to checkout $version from github\n";
+system("git checkout $gitBranch") and die "Failed to checkout $gitBranch from github\n";
 chdir($scratch) or die "Could not change back to the scratch working directory are git checkout\n";
 
 #Now validate the data.
