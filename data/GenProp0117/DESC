@@ -27,6 +27,7 @@ CC  allostery and thermophily [1]. The third step of the pathway yields
 CC  L-arginine by argininosuccinate lyase, and the amino acid can be
 CC  cleaved by arginase, yielding urea and reconstituting ornithine.
 **  L-arginine also can be utilized in the creatine biosynthesis.
+**  Evidence for step 1 is also used for GP0639.
 --
 SN  1
 ID  Ornithine carbamoyltransferase

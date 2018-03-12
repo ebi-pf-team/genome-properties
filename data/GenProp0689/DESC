@@ -15,6 +15,8 @@ CC  this pathway (tartronate semialdehyde, and glycerate) may be diverted
 CC  to other final products involved, for instance in covactor
 CC  biosynthesis. Phosphoglycerate may be put to a large number of
 CC  metabolic uses.
+**  Evidence for step 2 is also used for GP0714 and GP0716.
+**  Evidence for step 3 is also used for GP0714 and GP0716.
 --
 SN  1
 ID  Glyoxalate carbo-ligase

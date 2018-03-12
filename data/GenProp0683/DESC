@@ -9,6 +9,7 @@ CC  subunit, is a tetraheme cytochrome c that binds NrfA, anchors it to the
 CC  membrane, and couples the enzyme to the quinone pool for electron
 CC  transport.
 **  No rule - running off SIMPLE-CLUST.
+**  Evidence for step 1 is also used for GP0682.
 --
 SN  1
 ID  Cytochrome c nitrite reductase, c552 subunit

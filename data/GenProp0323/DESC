@@ -1,9 +1,28 @@
 AC  GenProp0323
 DE  Addiction module, ParE class
 TP  SYSTEM
-AU  Haft DH
+AU  Haft DH, Richardson L
 TH  0
-CC  (pending description)
+RN  [1]
+RM  20487277
+RT  Interaction specificity, toxicity and regulation of a paralogous set
+RT  of ParE/RelE-family toxin-antitoxin systems.
+RA  Fiebig A, Castro Rojas CM, Siegal-Gaskins D, Crosson S;
+RL  Mol Microbiol. 2010;77:236-251.
+CC  Toxin-antitoxin gene pairs, called addiction modules, are found often
+CC  on plasmids but also on the chromosome. These modules can promote
+CC  plasmid stability in populations by killing daughter cells that don't
+CC  receive a copy of the plasmid during cell division. The phenomenon,
+CC  called post-segregational killing, occurs because the antitoxin has a
+CC  shorter biological half-life than the toxin. Some chromosomal
+CC  toxin-antitoxin gene pairs appear to act in regulation of cellular
+CC  processes and are not necessarily selfish genetic elements. The
+CC  antitoxin generally is a transcription factor. The toxin may act in
+CC  several ways. This addiction module property describes the ParE system
+CC  where ParE inhibits gyrase and thereby blocks chromosome replication 
+CC  [1].
+**  Evidence for step 1 is also used for GP0321.
+**  Evidence for step 2 is also used for GP0321 and GP0324.
 --
 SN  1
 ID  Antidote TIGR02606

@@ -18,6 +18,7 @@ CC  protein proposed to act as a molecular precursor. At least 6 genes are
 CC  located within the PQQ-operon, all of which are required for PQQ 
 CC  biosynthesis, although in some cases the exact mechanism of the gene 
 CC  product is not known [1].
+**  Evidence for step 8 is also used for GP1101 (IPR017512).
 --
 SN  1
 ID  PQQ-binding repeats

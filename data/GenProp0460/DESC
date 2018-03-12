@@ -15,8 +15,8 @@ ID  Gas vesicle structural protein GvpC
 DN  Gas vesicle structural protein GvpC
 RQ  1
 EV  IPR002003; PF01304; sufficient;
-EV  IPR008639; PF05465; sufficient;
 EV  IPR002003; TIGR02641; sufficient;
+EV  IPR008639; PF05465; sufficient;
 --
 SN  2
 ID  Gas vesicle protein, GvpG family

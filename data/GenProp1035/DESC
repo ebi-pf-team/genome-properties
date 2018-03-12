@@ -38,6 +38,7 @@ CC  correlation between the homologs activities and the ones needed in the
 CC  O113 cluster are weak and ambiguous. So although ECODAB makes
 CC  predictions, we do not regard them as sufficiently strong to drive
 CC  transitive annotations.
+**  Evidence for step 1 is also used for GP0143, GP1031 and GP1036.
 --
 SN  1
 ID  UDP-glucose 4-epimerase

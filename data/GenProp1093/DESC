@@ -11,6 +11,7 @@ CC  the host cell. This Genome Property is designed as a guild for proteins
 CC  that have been described in publications as abortive infection proteins
 CC  and that do not belong to CRISPR or restriction enzyme systems.
 **  Many toxin-antitoxin system proteins MAY belong to this guild.
+**  Evidence for step 1 is also used for GP1092 (GUILD).
 --
 SN  1
 ID  Abortive infection protein

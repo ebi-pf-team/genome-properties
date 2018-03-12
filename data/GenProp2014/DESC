@@ -2,7 +2,7 @@ AC  GenProp2014
 DE  Immunoproteasome
 TP  SYSTEM
 AU  Rawlings ND
-TH  2
+TH  12
 RN  [1]
 RM  12015144
 RT  The structure of the mammalian 20S proteasome at 2.75 A resolution.
@@ -30,6 +30,19 @@ CC  of production of the usual beta1, beta2 and beta5 subunits.  The
 CC  interferon-induced subunits have modified specificities and the 
 CC  immunoproteasome generates peptides that act as ligands for the  
 CC  major histocompatibility complex [3].
+**  Evidence for step 1 is also used in GP2011, GP2015 and GP2016.
+**  Evidence for step 2 is also used in GP2011, GP2015 and GP2016.
+**  Evidence for step 3 is also used in GP2011, GP2015 and GP2016.
+**  Evidence for step 4 is also used in GP2011, GP2015 and GP2016.
+**  Evidence for step 5 is also used in GP2011, GP2015 and GP2016.
+**  Evidence for step 6 is also used in GP2011, GP2015 and GP2016.
+**  Evidence for step 7 is also used in GP2015 and GP2016.
+**  Evidence for step 8 is also used in GP2011, GP2015 and GP2016.
+**  Evidence for step 9 is also used in GP2011, GP2015 and GP2016.
+**  Evidence for step 10 is also used in GP2011, GP2015 and GP2016.
+**  Evidence for step 13 is also used in GP2015.
+**  Evidence for step 14 is also used in GP2015.
+**  Threshold is therefore set to 12.
 --
 SN  1
 ID  proteasome subunit alpha type-1

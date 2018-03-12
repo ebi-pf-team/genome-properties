@@ -20,6 +20,9 @@ CC  essentially universal in bacteria. In species with Rho, Nus factors
 CC  improve transcriptase turnover speeds. Nus factors can block Rho
 CC  action, a process called anti-termination [1]. See GenProp0812 for
 CC  Rho-dependent transcription termination.
+**  Evidence for step 1 is also used for GP0799 (GUILD).
+**  Evidence for step 4 is also used for GP0799 (GUILD).
+**  Evidence for step 5 is also used for GP0175 and GP0799 (GUILD).
 --
 SN  1
 ID  Transcription termination factor NusA

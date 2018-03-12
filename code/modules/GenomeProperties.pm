@@ -7,6 +7,7 @@ use Carp;
 use GenomeProperties::Definition;
 use GenomeProperties::Step;
 use GenomeProperties::StepEvidence;
+use GenomePropertiesIO;
 use Text::Wrap;
 use LWP::Simple;
 use JSON;
@@ -26,9 +27,6 @@ sub new {
 
   #These should be constants;
   $self->{_skip}          = { CATEGORY => 1, ROOT => 1, SUMMARY => 1 };
-  $self->{_prop_def}      = "PROP_DEF.TABLE";
-  $self->{_prop_step}     = "PROP_STEP.TABLE";
-  $self->{_step_ev_link}  = "STEP_EV_LINK.TABLE";
   
   bless( $self, $class);  
   return $self;
@@ -56,6 +54,7 @@ sub write_results{
   foreach my $acc (sort{$a cmp $b}keys(% { $self->get_defs })){
     #next unless($acc eq 'GenProp0643' or $acc eq 'GenProp0001' or $acc eq 'GenProp0639');
     my $prop = $self->get_def($acc);
+    next if(defined( $self->{_skip}->{ $prop->type } ));
     $self->print_summary($prop) if($self->summaryFH);
     $self->print_long($prop) if($self->longFH);
     $self->print_table($prop) if($self->tableFH);
@@ -206,7 +205,7 @@ sub open_outputfiles {
    if(!defined($self->{outdir})){
     $self->{outdir} = ".";  
    }
-   print STDERR $self->{outdir}."\n";
+   #print STDERR $self->{outdir}."\n";
    
    my $root = $self->{outdir};
    foreach my $f (@{$self->{outfiles}}){
@@ -343,35 +342,7 @@ sub annotate_sequences {
   if($self->signature_matches){
     ;
   }else{
-    #Run the searches.....ultimately, this will be depricated.
-  
-  #TODO Replace annotation of sequences.
-    #This is a temporary hack and need to be replaced!
-    #76-84
-    
-    my @gp = qw(PF01202
-    TIGR01920
-    TIGR00033
-    TIGR01357
-    PF01959
-    TIGR00507
-    TIGR01809
-    TIGR01088
-    TIGR01093
-    TIGR00034
-    TIGR01358
-    TIGR01361
-    TIGR01949
-    TIGR01356
-    TIGR00658
-    );   
-  
-    my $i = 0;
-    foreach my $s (keys %{$self->{seqs_and_annotations}}){
-      push(@{ $self->{seqs_and_annotations}->{$s} }, $gp[$i]);
-      $i++;
-      $i = 0 if($i > 14);
-    }
+    die "Can only run using pre-calculated i5 output\n";
   }
   $self->transform_annotations;
   $self->annotated(1);
@@ -384,13 +355,12 @@ sub signature_matches {
     open(FH, '<', $self->{matches}) or die "Could not open signature file\n";
     while(<FH>){
       chomp;
-      my($family, $s) = split(/\t/, $_);
-      push(@{ $self->{seqs_and_annotations}->{$s} }, $family);
+      my @i5 = split(/\t/, $_);
+      push(@{ $self->{seqs_and_annotations}->{$i5[0]} }, $i5[4]);
     }
     close(FH);
     $self->{read_sig} =1;  
   }
-  
   return $self->{read_sig};
   
 }
@@ -469,9 +439,6 @@ sub check_results{
 	
   my @prop_list = keys(% { $self->get_defs });  
   
-#my @prop_list = ('GenProp0001', 'GenProp0643', 'GenProp0639');#
-
-  #my @prop_list = ('GenProp0016');
   my $miss = 0;
   foreach my $acc (@prop_list){
     #Some property types are not required to be evaluated
@@ -511,6 +478,7 @@ sub evaluate_property {
   if($self->debug){
     print "In evaluate proptery, $acc\n";
   }
+
   my $def = $self->get_def($acc);
   $def->evaluated(1);
   foreach my $step (@{ $def->get_steps }){
@@ -533,8 +501,9 @@ sub evaluate_property {
     }
   }
   
+
   #Three possible results for the evaluation
-  if($found == 0){
+  if($found == 0 or $found < $def->threshold){
     $def->result('NO'); #No required steps found
   }elsif($missing){
     $def->result('PARTIAL'); #One or more required steps found, but one or more required steps missing
@@ -571,48 +540,33 @@ sub evaluate_step {
 			#if (!$ev_id) {print RESULTS ("there is no ev_id\n"); next;} - Add to the object method
 			if ($self->debug) {print ("\tevidence is ".p($evObj)."\n");}
 			if ($self->debug) {print "\tev type is: ".$evObj->type."\n";}
-			if ($evObj->type eq "RULE_BASE")																		#if the type is RULE_BASE
-			{
-				#TODO print RESULTS ("\tUNABLE TO EVALUATE EVIDENCE TYPE RULE_BASE. MARKING STEP AS NOT FOUND\n");					#warn that RULE_BASE cannot be evaluated at this time
-				next;
-			}	elsif (($evObj->type eq "HMM") || ($evObj->type eq "HMM-CLUST")){
-				#TODO print RESULTS ("\tSEARCHING HMM $ev{$ev_id}[2]\n");
-				if ($evObj->type eq "HMM-CLUST"){
-					#TODO print RESULTS ("\tWARNING: DISTANCE CHECKING NOT CURRENTLY IMPLEMENTED. ONLY CHECKING HMM HIT\n");
-				  #TODO Once working on DNA, will need to determine how to do this.
-				}
-
-        #Need to 
-        if(!$self->annotated){  
-				  $self->annotate_sequences
-        }
-
-        if($self->get_family( $evObj->accession ) ){
-						  $succeed++;
-						  last EV;
-        }
-        #Loop over the annotate_sequences
-        #TODO Incredible inefficient. Transform once. Then we have counts and best scores.
-        #foreach my $seqAcc (keys(%{ $self->get_sequence_set })){
-        #    if($annotation eq $evObj->accession){
-        #   foreach my $annotation (@{ $self->get_sequence_set->{$seqAcc} }){
-        #      last EV; 
-				#		  $succeed++; 
-        #    }
-        #   }
-        #}
-			} elsif ($evObj->type eq "GENPROP")	{																		#if the type is GenProp
-        if(defined($self->get_defs->{$evObj->accession})){
+			
+      if($evObj->gp){
+        if(defined($self->get_defs->{ $evObj->gp })){
           # For properties a PARTIAL or YES result is considered success           
-          if( $self->get_defs->{ $evObj->accession }->result eq 'YES' or 
-                $self->get_defs->{ $evObj->accession}->result eq 'PARTIAL' ){
+          if( $self->get_defs->{ $evObj->gp }->result eq 'YES' or 
+                $self->get_defs->{ $evObj->gp }->result eq 'PARTIAL' ){
               $succeed++;
-           }elsif($self->get_defs->{ $evObj->accession }->result eq 'UNTESTED'){
+           }elsif($self->get_defs->{ $evObj->gp }->result eq 'UNTESTED'){
               $step->evaluated(0);  
 #Todo - need to check this bit. Some times a step can have two evidences, so need to check this is okay.               
            }
         }
-		  }
+
+      }elsif($evObj->interpro){
+        #Need to annotated the sequences  
+        if(!$self->annotated){  
+				  $self->annotate_sequences
+        }
+        #See if the accession has been found  
+        if($self->get_family( $evObj->accession ) ){
+						  $succeed++;
+						  last EV;
+        }
+
+      }else{
+        die "unknown evidence object type\n";
+      }
 	  }
   }
 	if ($succeed){
@@ -629,7 +583,7 @@ sub read_properties {
     #been told if we have a file or a database.
     #If not, we are got to fail!
   if($self->gp_source eq 'file'){
-    $self->_read_properties_from_file
+    $self->_read_properties_from_flatfile
   }elsif($self->gp_source eq 'db'){
     $self->_read_properties_from_db 
   }else{
@@ -706,6 +660,11 @@ sub _read_order_from_file {
 
 }
 
+sub _gp_flatfile {
+  my ( $self ) = @_;
+  return($self->{gpdir}.'/'.$self->{gpff});
+}
+
 
 sub _gp_def_file {
   my ($self) = @_;
@@ -734,6 +693,21 @@ sub _write_properties_to_file {
   #$self->_write_steps;  
   $self->_write_step_evidences;
 }
+
+sub _read_properties_from_flatfile{
+  my ( $self ) = @_;
+
+  if( -e $self->_gp_flatfile){
+   if( -s $self->_gp_flatfile ){ 
+      GenomePropertiesIO::parseFlatfile($self, $self->_gp_flatfile);   
+   }else{
+      croak("The genome properties file has no size ".$self->_gp_def_file."\n");
+   }
+  }else{
+    croak("The geneome properties file, ".$self->_gp_def_file." does not exist.\n");
+  }
+}
+
 
 sub _read_properties_from_file {
   my ($self) = @_;

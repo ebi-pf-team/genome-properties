@@ -11,6 +11,7 @@ CC  glycoprotein G1 encoded by the M segment, an RNA polymerase encoded on
 CC  segment L, and overlapping reading frames on the S segment encoding
 CC  nucleocapsid protein N and nonstructural protein NSs.
 **  The ends of the L protein (Bun_pol) are not modeled.
+**  Evidence for step 6 is also used for GP1008.
 --
 SN  1
 ID  Glycoprotein G1

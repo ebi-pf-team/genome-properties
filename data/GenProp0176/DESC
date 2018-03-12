@@ -29,6 +29,10 @@ CC  moved by related transporters appear to include mannitol, aspartate
 CC  derivative ectoine, and other as yet uncharacterized solutes. Some 
 CC  bacteria, such as Bradyrhizobium japonicum, may contain over a dozen 
 CC  such transporters. 
+**  Evidence for steps 1 and 2 is the same (IPR011853).
+**  Evidence for step 1 is also used for GP0714.
+**  Evidence for step 2 is also used for GP0714.
+**  Evidence for step 3 is also used for GP0714.
 --
 SN  1
 ID  DctM-like 12-transmembrane helix protein

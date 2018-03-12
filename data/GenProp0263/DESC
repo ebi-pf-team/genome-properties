@@ -28,6 +28,9 @@ CC  the same gene, dnaX. Some known accessory subunits include chi, psi,
 CC  and theta.
 **  The list of in_rule=1 needs to be revised, and Gram-positive families
 **  upgraded. DHH 10/6/2006
+**  Evidence for step 1 is also used for GP0800 (GUILD).
+**  Evidence for step 2 is also used for GP0799 (GUILD).
+**  Evidence for step 4 is also used for GP0799 (GUILD).
 --
 SN  1
 ID  DNA polymerase III, alpha subunit (DnaE)

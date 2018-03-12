@@ -8,15 +8,19 @@ CC  structure, and lysis.
 **  Now adding some for replication, although these
 **  may be hard to tell from plasmid replication proteins.
 **  an open-ended project
+**  Evidence for steps 1 and 8 are the same (IPR024455).
+**  Evidence for steps 4 and 5 are the same (IPR021145).
+**  Evidence for steps 4 and 8 are the same (IPR010027).
+**  Evidence for steps 4 and 8 are the same (IPR035089).
 --
 SN  1
 ID  Major capsid protein
 DN  Phage major capsid protein
 RQ  1
 EV  IPR006441; TIGR01551; sufficient;
+EV  IPR006441; PF05125; sufficient;
 EV  IPR024455; TIGR01554; sufficient;
 EV  IPR005564; PF03864; sufficient;
-EV  IPR006441; PF05125; sufficient;
 EV  IPR003514; PF02305; sufficient;
 EV  IPR024659; PF11651;
 --
@@ -25,68 +29,68 @@ ID  Any phage holin
 DN  Phage holin
 RQ  1
 EV  IPR006479; TIGR01592; sufficient;
-EV  IPR006481; TIGR01594; sufficient;
-EV  IPR006485; TIGR01598; sufficient;
-EV  IPR006493; TIGR01606; sufficient;
-EV  IPR010026; TIGR01673; sufficient;
-EV  IPR006493; PF05102; sufficient;
-EV  IPR006480; TIGR01593; sufficient;
-EV  IPR009708; PF06946; sufficient;
-EV  IPR007633; PF04550; sufficient;
-EV  IPR006481; PF05106; sufficient;
 EV  IPR006479; PF04688; sufficient;
+EV  IPR006480; TIGR01593; sufficient;
+EV  IPR006481; TIGR01594; sufficient;
+EV  IPR006481; PF05106; sufficient;
+EV  IPR006485; TIGR01598; sufficient;
 EV  IPR006485; PF04531; sufficient;
+EV  IPR006493; TIGR01606; sufficient;
+EV  IPR006493; PF05102; sufficient;
+EV  IPR007633; PF04550; sufficient;
+EV  IPR009708; PF06946; sufficient;
+EV  IPR010026; TIGR01673; sufficient;
 --
 SN  3
 ID  Major tail protein
 DN  Major tail protein
 RQ  0
 EV  IPR006490; TIGR01603; sufficient;
-EV  IPR011855; TIGR02126; sufficient;
 EV  IPR006724; PF04630; sufficient;
+EV  IPR011855; TIGR02126; sufficient;
 EV  IPR011855; PF06199; sufficient;
 --
 SN  4
 ID  Various structural components
 DN  NOT APPLICABLE
 RQ  0
-EV  IPR006949; PF04865; sufficient;
 EV  IPR006487; TIGR01600; sufficient;
-EV  IPR009493; PF06528; sufficient;
-EV  IPR006498; TIGR01611; sufficient;
-EV  IPR013046; TIGR01644; sufficient;
-EV  IPR009350; TIGR01715; sufficient;
-EV  IPR006521; TIGR01634; sufficient;
-EV  IPR035089; PF04984; sufficient;
-EV  IPR006498; PF04985; sufficient;
 EV  IPR006487; PF05100; sufficient;
-EV  IPR021145; PF05133; sufficient;
-EV  IPR008767; TIGR01563; sufficient;
+EV  IPR006498; TIGR01611; sufficient;
+EV  IPR006498; PF04985; sufficient;
+EV  IPR006521; TIGR01634; sufficient;
 EV  IPR006522; TIGR01635; sufficient;
-EV  IPR008020; PF05371; sufficient;
-EV  IPR007119; TIGR01665; sufficient;
-EV  IPR010027; TIGR01674; sufficient;
-EV  IPR009228; PF05929; sufficient;
-EV  IPR008018; PF05354; sufficient;
-EV  IPR009225; PF05926; sufficient;
-EV  IPR010411; PF06222; sufficient;
 EV  IPR006528; PF04233; sufficient;
 EV  IPR006528; TIGR01641; sufficient;
+EV  IPR006949; PF04865; sufficient;
+EV  IPR007119; TIGR01665; sufficient;
+EV  IPR008020; PF05371; sufficient;
+EV  IPR008018; PF05354; sufficient;
+EV  IPR008767; TIGR01563; sufficient;
 EV  IPR008768; PF05396; sufficient;
+EV  IPR009225; PF05926; sufficient;
+EV  IPR009228; PF05929; sufficient;
+EV  IPR009350; TIGR01715; sufficient;
+EV  IPR009493; PF06528; sufficient;
 EV  IPR009636; PF06810; sufficient;
+EV  IPR010027; TIGR01674; sufficient;
+EV  IPR010411; PF06222; sufficient;
+EV  IPR013046; TIGR01644; sufficient;
+EV  IPR021145; PF05133; sufficient;
+EV  IPR035089; PF04984; sufficient;
 --
 SN  5
 ID  Portal protein
 DN  Phage portal protein
 RQ  1
-EV  IPR006944; PF04860; sufficient;
 EV  IPR006427; TIGR01537; sufficient;
 EV  IPR006428; TIGR01538; sufficient;
 EV  IPR006429; TIGR01539; sufficient;
+EV  IPR006429; PF05136; sufficient;
 EV  IPR006430; TIGR01540; sufficient;
 EV  IPR006432; TIGR01542; sufficient;
+EV  IPR006944; PF04860; sufficient;
 EV  IPR021145; PF05133; sufficient;
-EV  IPR006429; PF05136; sufficient;
 --
 SN  6
 ID  Prohead protease
@@ -112,36 +116,36 @@ EV  IPR005068; PF03406; sufficient;
 EV  IPR005601; PF03903; sufficient;
 EV  IPR005604; PF03906; sufficient;
 EV  IPR006520; TIGR01633; sufficient;
-EV  IPR010027; PF06894; sufficient;
-EV  IPR009678; PF06891; sufficient;
-EV  IPR024455; PF05065; sufficient;
-EV  IPR009312; PF06141; sufficient;
-EV  IPR010633; PF06763; sufficient;
-EV  IPR010265; PF05939; sufficient;
-EV  IPR035089; PF04984; sufficient;
-EV  IPR010654; PF06805; sufficient;
 EV  IPR008861; PF05489; sufficient;
+EV  IPR009312; PF06141; sufficient;
+EV  IPR009678; PF06891; sufficient;
+EV  IPR010027; PF06894; sufficient;
+EV  IPR010265; PF05939; sufficient;
+EV  IPR010633; PF06763; sufficient;
+EV  IPR010654; PF06805; sufficient;
 EV  IPR011748; TIGR02242; sufficient;
+EV  IPR024455; PF05065; sufficient;
+EV  IPR035089; PF04984; sufficient;
 --
 SN  9
 ID  Tail tape measure protein
 DN  Tail tape measure protein
 RQ  0
 EV  IPR006431; TIGR01541; sufficient;
-EV  IPR010090; TIGR01760; sufficient;
-EV  IPR009628; PF06791; sufficient;
-EV  IPR013491; TIGR02675; sufficient;
 EV  IPR009302; PF06120;
+EV  IPR009628; PF06791; sufficient;
+EV  IPR010090; TIGR01760; sufficient;
+EV  IPR013491; TIGR02675; sufficient;
 --
 SN  10
 ID  Terminase, large subunit
 DN  Phage terminase, large subunit
 RQ  1
-EV  IPR006437; TIGR01547; sufficient;
 EV  IPR005021; PF03354; sufficient;
-EV  IPR035412; PF04466; sufficient;
+EV  IPR006437; TIGR01547; sufficient;
 EV  IPR008866; PF05876; sufficient;
 EV  IPR010332; PF06056; sufficient;
+EV  IPR035412; PF04466; sufficient;
 --
 SN  11
 ID  Terminase, small subunit
@@ -157,20 +161,20 @@ SN  12
 ID  Uncharacterized phage proteins
 DN  NOT APPLICABLE
 RQ  0
-EV  IPR010064; PF04883; sufficient;
-EV  IPR009752; PF07030; sufficient;
-EV  IPR009750; PF07026; sufficient;
-EV  IPR006450; TIGR01560; sufficient;
-EV  IPR010064; TIGR01725; sufficient;
+EV  IPR006445; TIGR01555; sufficient;
 EV  IPR006505; TIGR01618; sufficient;
 EV  IPR006517; TIGR01630; sufficient;
+EV  IPR009750; PF07026; sufficient;
+EV  IPR009752; PF07030; sufficient;
+EV  IPR009773; PF07066; sufficient;
+EV  IPR006450; TIGR01560; sufficient;
 EV  IPR010022; TIGR01669; sufficient;
 EV  IPR010024; TIGR01671; sufficient;
-EV  IPR006445; TIGR01555; sufficient;
+EV  IPR010064; TIGR01725; sufficient;
+EV  IPR010064; PF04883; sufficient;
 EV  IPR010877; PF07409; sufficient;
-EV  IPR009773; PF07066; sufficient;
-EV  IPR011741; TIGR02220; sufficient;
 EV  IPR011738; TIGR02215; sufficient;
 EV  IPR011739; TIGR02216; sufficient;
+EV  IPR011741; TIGR02220; sufficient;
 EV  IPR014054; TIGR02681; sufficient;
 //

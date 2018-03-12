@@ -33,6 +33,10 @@ CC  coli, this pathway is carried out by the eight genes in the 'his'
 CC  operon. hisI, hisB, and hisD are bifunctional enzymes, hisF and 
 CC  hisH form a monofunctional dimer, and the rest are monofunctional 
 CC  enzymes [2].
+**  Evidence for step 1 is also used for GP0037, GP0110, GP0187 and 
+**  GP0800 (GUILD).
+**  Evidence for step 6 is also used for GP0037.
+**  Evidence for step 7 is also used for GP0794 and GP0912 (GUILD).
 --
 SN  1
 ID  Ribose-phosphate pyrophosphokinase

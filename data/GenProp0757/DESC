@@ -26,6 +26,7 @@ CC  nucleosidase is essential both for this and other systems.
 **  currently represented as part of this genome property.
 **  Role for the nucleotidase picked up by PPP which pointed me to
 **  PMID:16101288. I am also seeing a PTS transporter family role.
+**  Evidence for step 2 is also used for GP0730.
 --
 SN  1
 ID  S-ribosylhomocysteine lyase

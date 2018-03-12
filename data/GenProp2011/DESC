@@ -2,7 +2,7 @@ AC  GenProp2011
 DE  Eukaryote 20S proteasome
 TP  SYSTEM
 AU  Rawlings ND
-TH  2
+TH  13
 RN  [1]
 RM  9087403
 RT  Structure of 20S proteasome from yeast at 2.4 A resolution.
@@ -54,6 +54,20 @@ CC  homoheptamer of a single alpha or beta subunit.
 **  The proteasome is EC 3.4.25.1; this has been incorrectly applied to
 **  all 20S proteasome subunits, including the inactive ones.
 **  GO:0043161 has been applied to all subunits, even the inactive ones.
+**  Evidence for step 1 is also used in GP2014, GP2015 and GP2016.
+**  Evidence for step 2 is also used in GP2014, GP2015 and GP2016.
+**  Evidence for step 3 is also used in GP2014, GP2015 and GP2016.
+**  Evidence for step 4 is also used in GP2014, GP2015 and GP2016.
+**  Evidence for step 5 is also used in GP2014, GP2015 and GP2016.
+**  Evidence for step 6 is also used in GP2014, GP2015 and GP2016.
+**  Evidence for step 7 is also used in GP2014 and GP2015.
+**  Evidence for step 8 is also used in GP2014, GP2015 and GP2016.
+**  Evidence for step 9 is also used in GP2014, GP2015 and GP2016.
+**  Evidence for step 10 is also used in GP2014, GP2015 and GP2016.
+**  Evidence in step 12 is also used in GP2016.
+**  Evidence in step 13 is also used in GP2016.
+**  Evidence in step 14 is also used in GP2016.
+**  Threshold is therefore set to 13.
 --
 SN  1
 ID  Proteasome subunit alpha type-1

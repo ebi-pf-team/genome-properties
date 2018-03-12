@@ -33,6 +33,8 @@ CC  biosynthesis.
 **  F420H2 dehydrogenase complex  F420-dependent
 **  N5,N10-methylenetetrahydromethanopterin dehydrogenase  F420H2:NADP+
 **  oxidoreductase
+**  Evidence for steps 7 and 10 is the same (IPR019946).
+**  Evidence for step 9 is also used for GP0791.
 --
 SN  1
 ID  LLM-family F420-associated subfamilies

@@ -1,0 +1,142 @@
+AC  GenProp2083
+DE  BAF complex
+TP  SYSTEM
+AU  Rawlings ND
+TH  11
+RN  [1]
+RM  18765789  
+RT  Regulation of muscle development by DPF3, a novel histone 
+RT  acetylation and methylation reader of the BAF chromatin 
+RT  remodeling complex. 
+RA  Lange M; Kaynak B; Forster UB; Tönjes M; Fischer JJ; 
+RA  Grimm C; Schlesinger J; Just S; Dunkel I; Krueger T; 
+RA  Mebus S; Lehrach H; Lurz R; Gobom J; Rottbauer W; 
+RA  Abdelilah-Seyfried S; Sperling S; 
+RL  Genes Dev. 2008;22:2370-2384.
+CC  The BAF complex includes at least actin (ACTB), 
+CC  ARID1A/BAF250A, ARID1B/BAF250B, SMARCA2/BRM, 
+CC  SMARCA4/BRG1/BAF190A, ACTL6A/BAF53, ACTL6B/BAF53B, 
+CC  SMARCE1/BAF57, SMARCC1/BAF155, SMARCC2/BAF170, 
+CC  SMARCB1/SNF5/INI1, and one or more SMARCD1/BAF60A, 
+CC  SMARCD2/BAF60B, or SMARCD3/BAF60C. In muscle, the complex 
+CC  also contains DPF3 (PubMed:18765789).
+**  Evidence for steps 1, 6 and 7 is the same (IPR004000).
+**  Evidence for step 1 is also used in GP2074, GP2075, GP2076, GP2077, GP2080, GP2081 and GP2082 IPR004000).
+**  Evidence for step 2 is also used in GP2081 and GP2082 (IPR030094).
+**  Evidence for step 3 is also used in GP2081 and GP2082 (IPR038040).
+**  Evidence for step 4 is also used in GP2080, GP2081, GP2082 and GP2084 (IPR030088).
+**  Evidence for step 5 is also used in GP2081, GP2082 and GP2084 (IPR030100).
+**  Evidence for step 8 is also used in GP2081 and GP2082 (IPR030089).
+**  Evidence for step 9 is also used in GP2081 and GP2082 (IPR030087).
+**  Evidence for step 10 is also used in GP2081 and GP2082 (IPR038044).
+**  Evidence for step 11 is also used in GP2081 and GP2082 (IPR006939).
+**  Evidence for step 12 is also used in GP2081 and GP2082 (IPR038041).
+**  Evidence for step 12 is also used in GP2082 (IPR038043).
+**  Evidence for step 13 is also used in GP2082 (IPR038047).
+**  Threhold therefore ste to 11.
+**  How does this differ from nBAF?
+--
+SN  1
+ID  Actin
+DN  Actin /1
+RQ  1
+EV  IPR004000; PF00022; sufficient;
+EV  IPR004000; PR00190; sufficient;
+EV  IPR004000; PTHR11937; sufficient;
+EV  IPR004000; SM00268; sufficient;
+TG  GO:0071565;
+--
+SN  2
+ID  AT-rich interactive domain-containing protein 1A (ARID1A/BAF250A)
+DN  AT-rich interactive domain-containing protein 1A /2
+RQ  1
+EV  IPR030094; PTHR12656:SF12; sufficient;
+TG  GO:0071565;
+--
+SN  3
+ID  AT-rich interactive domain-containing protein 1B (ARID1B/BAF250B)
+DN  AT-rich interactive domain-containing protein 1A /3
+RQ  1
+EV  IPR038040; PTHR12656:SF11; sufficient;
+TG  GO:0071565;
+--
+SN  4
+ID  Probable global transcription activator SNF2L2 (SMARCA2/BRM/BAF190B)
+DN  Probable global transcription activator SNF2L2 (EC 3.6.4.-) /4
+RQ  1
+EV  IPR030088; PTHR10799:SF541 ; sufficient;
+TG  GO:0071565;
+--
+SN  5
+ID  Transcription activator BRG1 (SMARCA4/BRG1/BAF190A)
+DN  Transcription activator BRG1 (EC 3.6.4.-) /5
+RQ  1
+EV  IPR030100; PTHR10799:SF76; sufficient;
+TG  GO:0071565;
+--
+SN  6
+ID  Actin-like protein 6A (ACTL6A/BAF53)
+DN  Actin-like protein 6A /6
+RQ  1
+EV  IPR004000; PF00022; sufficient;
+EV  IPR004000; PR00190; sufficient;
+EV  IPR004000; PTHR11937; sufficient;
+EV  IPR004000; SM00268; sufficient;
+TG  GO:0071565;
+--
+SN  7
+ID  Actin-like protein 6B (ACTL6B/BAF53B)
+DN  Actin-like protein 6B /7
+RQ  1
+EV  IPR004000; PF00022; sufficient;
+EV  IPR004000; PR00190; sufficient;
+EV  IPR004000; PTHR11937; sufficient;
+EV  IPR004000; SM00268; sufficient;
+TG  GO:0071565;
+--
+SN  8
+ID  SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily E member 1 (SMARCE1/BAF57)
+DN  SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily E member 1 /8
+RQ  1
+EV  IPR030089; PTHR13711:SF206; sufficient;
+TG  GO:0071565;
+--
+SN  9
+ID  SWI/SNF complex subunit SMARCC1 (SMARCC1/BAF155)
+DN  SWI/SNF complex subunit SMARCC1 /9
+RQ  1
+EV  IPR030087; PTHR12802:SF9; sufficient;
+TG  GO:0071565;
+--
+SN  10
+ID  SWI/SNF complex subunit SMARCC2 (SMARCC2/BAF170)
+DN  SWI/SNF complex subunit SMARCC2 /10
+RQ  1
+EV  IPR038044; PTHR12802:SF38; sufficient;
+TG  GO:0071565;
+--
+SN  11
+ID  SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily B member 1 (SMARCB1/BAF47)
+DN  SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily B member 1 /11
+RQ  1
+EV  IPR006939; PF04855 ; sufficient;
+EV  IPR006939; PTHR10019; sufficient;
+TG  GO:0071565;
+--
+SN  12
+ID  SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily D member 1/2/3 (SMARCD1/BAF60A, SMARCD2/BAF60B or SMARCD3/BAF60C)
+DN  SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily D member 1/2/3 /12
+RQ  1
+EV  IPR038041; PTHR13844:SF1; sufficient;
+EV  IPR030090; PTHR13844:SF2; sufficient;
+EV  IPR038043; PTHR13844:SF5; sufficient;
+TG  GO:0071565;
+--
+SN  13
+ID  Zinc finger protein DPF3 (DPF3/BAF45C)
+DN  Zinc finger protein DPF3 /13
+RQ  0
+EV  IPR038047; PTHR10615:SF120; sufficient;
+TG  GO:0008270;
+TG  GO:0071565;
+//

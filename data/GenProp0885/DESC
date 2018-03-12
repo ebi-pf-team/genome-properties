@@ -7,6 +7,7 @@ CC  Certain flagellar proteins, particularly the flagellin subunits
 CC  themselves as well as other components with access to the
 CC  extracellular environment, may be post-translationally altered by this
 CC  group of proteins.
+**  Evidence for step 1 is also used for GP0879 (IPR012823).
 --
 SN  1
 ID  Flagellar rod assembly protein/muramidase FlgJ

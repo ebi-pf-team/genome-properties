@@ -17,6 +17,7 @@ CC  and succinyl-CoA. In addition to lipoate and thiamine pyrophosphate,
 CC  FAD is also involved. In the course of the reaction CO2 is released
 CC  and one molecule of NAD+ is converted to NADH. This reaction is an
 CC  essential component of the TCA (Krebs) cycle [1].
+**  Evidence for step 3 is also used for GP0178.
 --
 SN  1
 ID  Thiamine pyrophosphate-binding subunit, SucA (E1)

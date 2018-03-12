@@ -10,6 +10,7 @@ CC  from adenine), or may be imported via a permease. Several systems
 CC  exist for the conversion of xanthine to urate including the XdhABC
 CC  xanthine dehydrogenase complex, xanthine oxidase and other less 
 CC  well-described oxidoreductases.
+**  Evidence for step 2 is also used for GP0696 (IPR017588).
 --
 SN  1
 ID  Xanthine conversion to urate (uric acid)

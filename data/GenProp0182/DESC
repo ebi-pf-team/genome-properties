@@ -9,6 +9,8 @@ CC  by different reductases. MsrB (TIGR00357) was previously designated
 CC  PilB because of altered cytoadherence in a mutant. MsrA and MsrB are
 CC  sometimes expressed as a fusion protein.
 **  different enzymes/domains for different oxidized forms
+**  Evidence for step 1 is also used in GP0213.
+**  Evidence for step 2 is also used in GP0182.
 --
 SN  1
 ID  Methionine-S-sulfoxide reductase

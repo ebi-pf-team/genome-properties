@@ -5,6 +5,11 @@ AU  Haft DH
 TH  0
 CC  This pathway converts D-glucarate to alpha-ketoglutarate via
 CC  2-oxoglutarate.
+**  Evidence for step 1 is also used for GP0716.
+**  Evidence for step 2 is also used for GP0715.
+**  Evidence for step 3 is also used for GP0292, GP0294, GP0457 and GP0717.
+**  Evidence for step 4 is also used for GP0714, GP0715 and GP0716.
+**  Evidence for step 4 is also used for GP0457 (IPR011701).
 --
 SN  1
 ID  Glucarate dehydratase (EC 4.2.1.40)

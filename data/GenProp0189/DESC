@@ -15,6 +15,7 @@ CC  a single protein, glutaminyl-tRNA synthetase.
 **  Different Gat systems in bacteria and archaea - I think the archaeal
 **  gatABC homologs in archaea are Asn instead of Gln, and a GatDE system
 **  operates (so gatABC) 
+**  Evidence for step 1 is also used for GP0258.
 --
 SN  1
 ID  Glutaminyl-tRNA synthetase

@@ -23,6 +23,7 @@ CC  releases the ubiquitin-like protein Nedd8 from the Cul1 subunit
 CC  of SCF ubiquitin ligases [12183637] 
 **  COPS5 is a metallopeptidase (MEROPS ID M67.002)
 **  COPS6 is MEROPS identifier M67.972
+**  Evidence for step 5 is also used in GP2046.
 --
 SN  1
 ID  COP9 signalosome complex subunit 1/GPS1

@@ -29,4 +29,9 @@ SN  5
 ID  ATP-dependent protease HslVU
 RQ  0
 EV  GenProp0835;
+--
+SN  6
+ID  FtsH/HflKC protease complex
+RQ  0
+EV  GenProp0684;
 //

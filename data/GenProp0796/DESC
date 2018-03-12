@@ -56,6 +56,9 @@ CC  reaction. Other proteins are found associated with this cluster
 CC  including methylases and possible formyltransferases and
 CC  deacetylases. Thus, a range of closely related structures are likely
 CC  produced as mature products in various lineages.  
+**  Evidence for step 2 is also used for GP0794 and GP0912 (GUILD).
+**  Evidence for step 4 is also used for GP0724 and GP0793.
+**  Evidence for step 6 is also used in GP0232 and GP0912 (GUILD).
 --
 SN  1
 ID  CMP-pseudaminic acid C7-N-acetyl amidotransferase

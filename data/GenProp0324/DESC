@@ -22,6 +22,8 @@ CC  several ways. This addiction module property describes the RelE system,
 CC  where RelE acts by cleaving ribosome-associated transcripts.
 **  So which transcription factors can act as partners?  antidote RelB -
 **  PF04221  
+**  Evidence for step 1 is also used for GP0321.
+**  Evidence for step 2 is also used for GP0321 and GP0324.
 --
 SN  1
 ID  Antidote RelB

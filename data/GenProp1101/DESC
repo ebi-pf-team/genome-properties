@@ -36,6 +36,7 @@ CC  PedABC-type) describes a four-gene operon closely tied to this system.
 **  TIGR03871 needs annotation help. Some of the additional correlated
 **  proteins are subfamilies with multiple equivalogs, none universal and
 **  often several paralogs per genome. Beware.
+**  Evidence for step 3 is also used for GP0170 (IPR017512).
 --
 SN  1
 ID  Probable periplasmic binding protein

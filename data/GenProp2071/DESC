@@ -1,0 +1,59 @@
+AC  GenProp2071
+DE  Nucleosome remodeling and histone deacetylase (NuRD) complex
+TP  METAPATH
+AU  Rawlings ND
+TH  1
+RN  [1]
+RM  10904264 
+RT  NuRD and SIN3 histone deacetylase complexes in 
+RT  development. 
+RA  Ahringer J; 
+RL  Trends Genet. 2000;16:351-356.
+RN  [2]
+RM  10444591 
+RT  Analysis of the NuRD subunits reveals a histone 
+RT  deacetylase core complex and a connection with DNA 
+RT  methylation. 
+RA  Zhang Y; Ng HH; Erdjument-Bromage H; Tempst P; 
+RA  Bird A; Reinberg D; 
+RL  Genes Dev. 1999;13:1924-1935.
+CC  NuRD is one of the two major HDAC complexes that 
+CC  have specific functions in development [1].
+CC  The HDAC complex associates with MTA2, MBD3, CHD3 
+CC  and CHD4 to form the nucleosome remodeling and 
+CC  histone deacetylase (NuRD) complex [2].
+--
+SN  1
+ID  HDAC core complex 
+RQ  1
+EV  GenProp2070;
+--
+SN  2
+ID  Metastasis-associated protein MTA2 (MTA2)
+DN  Metastasis-associated protein MTA2 /2
+RQ  1
+EV  IPR037964; PTHR10865:SF4; sufficient;
+TG  GO:0016581;
+--
+SN  3
+ID  Methyl-CpG-binding domain protein 3 (MBD3)
+DN  Methyl-CpG-binding domain protein 3 /3
+RQ  1
+EV  IPR037965; PTHR12396:SF12; sufficient;
+TG  GO:0016581;
+TG  GO:0008327;
+--
+SN  4
+ID  Chromodomain-helicase-DNA-binding protein 3 (CHD3)
+DN  Chromodomain-helicase-DNA-binding protein 3 (EC 3.6.4.12) /4
+RQ  1
+EV  IPR028722; PTHR10799:SF544; sufficient;
+TG  GO:0016581;
+--
+SN  5
+ID  Chromodomain-helicase-DNA-binding protein 4 (CHD4)
+DN  Chromodomain-helicase-DNA-binding protein 4 (EC 3.6.4.12) /5
+RQ  1
+EV  IPR028725; PTHR10799:SF554; sufficient;
+TG  GO:0016581;
+//

@@ -11,6 +11,7 @@ CC  is an example of an adaptor that brings targets, including but not
 CC  restricted to proteins tagged by trans-translation, to the ClpXP
 CC  machine.
 **  Explore idea of this property testing state of tmRNA property.
+**  Evidence for step 1 is also used in GP0211.
 --
 SN  1
 ID  Adaptor SspB

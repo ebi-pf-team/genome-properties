@@ -10,6 +10,102 @@ CC  genomes found greater than 95% having exactly one copy of each of these
 CC  genes. In certain cases, such as with glycyl-tRNA synthetase, one or
 CC  more separate homofunctional gene families may combine to completely
 CC  cover all bacterial genomes.
+**  Evidence for step 1 is also used for GP0258.
+**  Evidence for step 2 is also used for GP0258 (IPR001278).
+**  Evidence for step 3 is also used for GP0258.
+**  Evidence for step 4 is also used for GP0802.
+**  Evidence for step 5 is also used for GP0171 (IPR001977).
+**  Evidence for step 6 is also used for GP0258.
+**  Evidence for step 7 is also used for GP0806 (IPR001957).
+**  Evidence for step 8 is also used for GP0806.
+**  Evidence for step 9 is also used for GP0244.
+**  Evidence for step 10 is also used for GP0263 (IPR001001).
+**  Evidence for step 11 is also used for GP0263.
+**  Evidence for step 12 is also used for GP0802.
+**  Evidence for step 13 is also used for GP0802.
+**  Evidence for step 14 is also used for GP0205.
+**  Evidence for step 16 is also used for GP0746.
+**  Evidence for step 17 is also used for GP0205.
+**  Evidence for step 18 is also used for GP0258.
+**  Evidence for step 20 is also used for GP0244 (IPR000740).
+**  Evidence for step 22 is also used for GP0699.
+**  Evidence for step 23 is also used for GP0258.
+**  Evidence for step 24 is also used for GP0258.
+**  Evidence for step 25 is also used for GP0740 (IPR000178).
+**  Evidence for step 26 is also used for GP0740 (IPR001288).
+**  Evidence for step 27 is also used for GP0802.
+**  Evidence for step 29 is also used for GP0258.
+**  Evidence for step 31 is also used for GP0704.
+**  Evidence for step 32 is also used for GP0802 and GP1082.
+**  Evidence for step 33 is also used for GP0132.
+**  Evidence for step 34 is also used for GP0132 (IPR001062).
+**  Evidence for step 35 is also used for GP0691 (IPR001576).
+**  Evidence for step 36 is also used for GP0258 and GP0831.
+**  Evidence for step 37 is also used for GP0258.
+**  Evidence for step 38 is also used for GP0746.
+**  Evidence for step 39 is also used for GP0258 and GP0831.
+**  Evidence for step 41 is also used for GP0215.
+**  Evidence for step 44 is also used for GP0174.
+**  Evidence for step 45 is also used for GP0174.
+**  Evidence for step 46 is also used for GP0174 (IPR000597).
+**  Evidence for step 47 is also used for GP0174.
+**  Evidence for step 48 is also used for GP0174.
+**  Evidence for step 49 is also used for GP0174.
+**  Evidence for step 50 is also used for GP0174.
+**  Evidence for step 51 is also used for GP0174 and GP0831 (IPR001790).
+**  Evidence for step 52 is also used for GP0174.
+**  Evidence for step 53 is also used for GP0174 (IPR000206).
+**  Evidence for step 54 is also used for GP0174.
+**  Evidence for step 55 is also used for GP0174.
+**  Evidence for step 56 is also used for GP0174.
+**  Evidence for step 57 is also used for GP0174 (IPR000114).
+**  Evidence for step 58 is also used for GP0174 (IPR000456).
+**  Evidence for step 59 is also used for GP0174.
+**  Evidence for step 60 is also used for GP0174 (IPR001857).
+**  Evidence for step 61 is also used for GP0174.
+**  Evidence for step 62 is also used for GP0174 (IPR001787).
+**  Evidence for step 63 is also used for GP0174.
+**  Evidence for step 64 is also used for GP0174.
+**  Evidence for step 65 is also used for GP0174.
+**  Evidence for step 66 is also used for GP0174 (IPR001684).
+**  Evidence for step 67 is also used for GP0174 (IPR001383).
+**  Evidence for step 68 is also used for GP0174 and GP0831 (IPR001854).
+**  Evidence for step 69 is also used for GP0174.
+**  Evidence for step 70 is also used for GP0174 (IPR000271).
+**  Evidence for step 71 is also used for GP0174 (IPR001706).
+**  Evidence for step 72 is also used for GP0262.
+**  Evidence for step 73 is also used for GP0262.
+**  Evidence for step 74 is also used for GP0262.
+**  Evidence for step 75 is also used for GP0175.
+**  Evidence for step 76 is also used for GP0175.
+**  Evidence for step 77 is also used for GP0175.
+**  Evidence for step 78 is also used for GP0175.
+**  Evidence for step 79 is also used for GP0175 and GP0831 (IPR000529).
+**  Evidence for step 80 is also used for GP0175.
+**  Evidence for step 81 is also used for GP0175 (IPR000630).
+**  Evidence for step 82 is also used for GP0175 (IPR000754).
+**  Evidence for step 83 is also used for GP0132 and GP0175 (IPR001848).
+**  Evidence for step 84 is also used for GP0175 (IPR001971).
+**  Evidence for step 85 is also used for GP0175.
+**  Evidence for step 86 is also used for GP0175 (IPR001892).
+**  Evidence for step 87 is also used for GP0175.
+**  Evidence for step 88 is also used for GP0175 (IPR000307).
+**  Evidence for step 89 is also used for GP0175 (IPR000266).
+**  Evidence for step 90 is also used for GP0175 (IPR001648).
+**  Evidence for step 91 is also used for GP0175.
+**  Evidence for step 92 is also used for GP0175.
+**  Evidence for step 93 is also used for GP0209 (IPR000185).
+**  Evidence for step 94 is also used for GP0209.
+**  Evidence for step 95 is also used for GP0209.
+**  Evidence for step 96 is also used for GP0209 and GP0831.
+**  Evidence for step 97 is also used for GP0258.
+**  Evidence for step 98 is also used for GP0211 (IPR000037).
+**  Evidence for step 99 is also used for GP0258.
+**  Evidence for step 102 is also used for GP1060.
+**  Evidence for step 103 is also used for GP0741 (IPR001816).
+**  Evidence for step 104 is also used for GP0258 and GP0832.
+**  Evidence for step 105 is also used for GP0114.
+**  Evidence for step 106 is also used for GP0258.
 --
 SN  1
 ID  Alanyl-tRNA synthetase

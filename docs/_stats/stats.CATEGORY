@@ -1,9 +1,12 @@
+GenProp0007	Flagella
+GenProp0011	Methanogenesis
 GenProp0017	Metabolism
+GenProp0027	Photosynthesis
+GenProp0049	Spore formation
 GenProp0063	Biosynthesis
 GenProp0064	Biological niche
 GenProp0065	Genome properties
 GenProp0066	Selfish genetic elements
-GenProp0067	Quantitative content
 GenProp0069	Cell surface component
 GenProp0070	Energy metabolism
 GenProp0071	Transport
@@ -30,8 +33,6 @@ GenProp0186	Storage and structural polymer biosynthesis
 GenProp0196	Sulfur metabolism
 GenProp0197	Protein biosynthesis
 GenProp0202	Nitrogen metabolism
-GenProp0227	Excision repair
-GenProp0228	Direct repair
 GenProp0239	Propionyl-CoA catabolism
 GenProp0242	Phosphorus metabolism
 GenProp0243	ATP synthases
@@ -47,13 +48,11 @@ GenProp0302	Protein repair
 GenProp0303	Detoxification
 GenProp0462	Response to stress
 GenProp0475	Unknown biological process
-GenProp0501	Metrics of biological environment
 GenProp0551	Regulatory systems
 GenProp0603	Lifestyle
 GenProp0731	Amino acid metabolism
 GenProp0733	Amino acid salvage
 GenProp0734	Amino acid catabolism
-GenProp0770	Siderophore biosynthesis
 GenProp0795	Carbohydrate biosynthesis
 GenProp0816	Nucleoside catabolism/utilization pathways
 GenProp0817	Nucleotide catabolism/utilization pathways
@@ -61,9 +60,10 @@ GenProp0819	RNA metabolism
 GenProp0820	Iron metabolism
 GenProp0838	Lipid biosynthesis
 GenProp0864	Response to external environment
-GenProp0865	Carbon fixation
 GenProp0866	Carbon metabolism
 GenProp0873	Ion-motive antiporter cycles
 GenProp0874	Response to acidic (low pH) environment
 GenProp1048	Quorum-sensing, biofilm formation, and developmental systems
 GenProp1067	Defense systems
+GenProp1106	CRISPR systems
+GenProp1107	Viral protein sets

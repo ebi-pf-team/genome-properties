@@ -37,6 +37,7 @@ CC  delay translocation until the cofactor has bound [2].
 **  ntmc01 ntps01 gcc52592  when I separated TatB from TatA/E as steps,
 **  10/6/2006 DHH.  Should probably add PF02613 TIGR03482 to list of TAT
 **  chaperones (although these may do additional chaperoning functions).
+**  Evidence for step 1 is also used for GP0200.
 --
 SN  1
 ID  TAT signal peptide-binding chaperone

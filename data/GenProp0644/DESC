@@ -8,6 +8,7 @@ CC  Orninthine may in turn come from glutamate (GenProp0118) or arginine
 CC  utilizing arginase or via citrulline (SpeAB, GenProp0639). This
 CC  Property detects the potential for the biosynthesis of putrescine from
 CC  glutamate via ornithine.
+**  Evidence for step 1 is also used for GP0643 and GP0871 (IPR027568).
 --
 SN  1
 ID  Ornithine decarboxylase

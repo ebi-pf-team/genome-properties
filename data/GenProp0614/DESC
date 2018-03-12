@@ -23,6 +23,7 @@ CC  out of the cell. This complex is the type found in mitochondria and
 CC  prokaryotes which utilize mitochondrial-type aerobic respiration.  The
 CC  complex in Bacilli [1] is somewhat different but included here and
 CC  carrys the gene symbols CtaD/CtaC.
+**  Evidence for step 5 is also used for GP0618.
 --
 SN  1
 ID  Oxidase subunit I CoxA/CtaD/Cox1

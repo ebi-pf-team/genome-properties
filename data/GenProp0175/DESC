@@ -14,6 +14,25 @@ RL  Curr Opin Struct Biol. 2014;24:165-169.
 CC  Ribosome, bacterial, small subunit. This property allows HMMs specific
 CC  for ribosomal proteins to be tested in phylogenetic profiles
 **  A work in progress
+**  Evidence for step bS6 is also used for GP0799 (GUILD).
+**  Evidence for step bS8 is also used for GP0799 (GUILD) and GP0831.
+**  Evidence for step bS16 is also used for GP0799 (GUILD).
+**  Evidence for step bS18 is also used for GP0799 (GUILD).
+**  Evidence for step uS2 is also used for GP0799 (GUILD).
+**  Evidence for step uS3 is also used for GP0799 (GUILD).
+**  Evidence for step uS4 is also used for GP0799 (GUILD).
+**  Evidence for step uS5 is also used for GP0799 (GUILD).
+**  Evidence for step uS7 is also used for GP0799 (GUILD).
+**  Evidence for step uS9 is also used for GP0799 (GUILD).
+**  Evidence for step uS10 is also used for GP0132 and GP0799 (GUILD).
+**  Evidence for step uS11 is also used for GP0799 (GUILD).
+**  Evidence for step uS12 is also used for GP0799 (GUILD).
+**  Evidence for step uS13 is also used for GP0799 (GUILD).
+**  Evidence for step uS14 is also used for GP0800 (GUILD).
+**  Evidence for step uS15 is also used for GP0799 (GUILD).
+**  Evidence for step uS17 is also used for GP0799 (GUILD).
+**  Evidence for step uS19 is also used for GP0799 (GUILD).
+**  Evidence for step uS20 is also used for GP0799 (GUILD).
 --
 SN  bS1
 ID  S1

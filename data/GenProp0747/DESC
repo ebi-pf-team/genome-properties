@@ -11,6 +11,7 @@ CC  purB gene, catalyzes the second and final step, but it also catalyzes
 CC  the eighth step in IMP biosynthesis.
 **  So PurA is marker for this property and PurB is not, since it is shared
 **  with 4051
+**  Evidence for step 2 is also used for GP0110.
 --
 SN  1
 ID  Adenylosuccinate synthetase

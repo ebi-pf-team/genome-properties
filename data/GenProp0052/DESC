@@ -43,6 +43,8 @@ CC  analogous [1,2,3].
 **  well-conserved across type III systems: YscC,D,J,L,N,Q,R,S,T,U,V.  HRP
 **  refers to Hypersensitive Response/Pathogenesis.  Harpins into the
 **  medium, avirulence proteins into plant cell.
+**  Evidence for steps 13 and 24 is the same (IPR006972).
+**  Evidence for step 21 is also used for GP0292, GP0457 and GP0458.
 --
 SN  1
 ID  HpaP

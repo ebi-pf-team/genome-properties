@@ -8,6 +8,7 @@ CC  biosynthesis, and a precursor of other sugars such as
 CC  N-acetylmannosaminic acid, N-acetylfucosamine. The final enzyme,
 CC  UDP-N-acetylglucosamine 2-epimerase carries a variety of gene symbols
 CC  (WecB, gne, RffE, FnlC) depending on its context.
+**  Evidence for step 2 is also used for GP0912 (GUILD).
 --
 SN  1
 ID  Source of UDP-N-acetyl glucosamine (UDP-GlcNAc)

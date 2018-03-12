@@ -28,6 +28,7 @@ CC  glutathione and a number of glutathione-dependent enzymes.
 **  86.  Actinomyces use a different small, cysteine-derived thiol,
 **  mycothione.  Also used are gamma-glutamylcysteine in Halobacterium,
 **  trypanothione  in trypanosomes. Cysteine and CoA may also serve.
+**  Evidence for steps 1 and 2 is the same (IPR006335).
 --
 SN  1
 ID  Glutamate--cysteine ligase

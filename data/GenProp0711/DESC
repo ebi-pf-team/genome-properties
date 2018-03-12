@@ -2,10 +2,26 @@ AC  GenProp0711
 DE  Catechol ortho-cleavage upper pathway
 TP  PATHWAY
 AU  Haft DH
-TH  0
+TH  1
+RN  [1]
+RM  18836712
+RT  Induction of ortho- and meta-cleavage pathways in Pseudomonas in
+RT  biodegradation of high benzoate concentration: MS identification of
+RT  catabolic enzymes.
+RA  Cao B, Geng A, Loh KC;
+RL  Appl Microbiol Biotechnol. 2008;81:99-107.
+CC  Catechol is an intermediate in the degradation of a number of 
+CC  aromatic compounds, including benzoate. Cleavage of the catechol 
+CC  ring can occur either by the ortho- or the meta-cleavage pathways. 
+CC  This property describes the initial steps in the ortho-cleavage 
+CC  pathway. Catechol is cleaved between two ring hydroxyls by catechol 
+CC  1,2-dioxygenase (catA) to produce cis,cis-muconate.  cis,cis-muconate 
+CC  is then metabolised (via the three steps catB, catC and catD) to form 
+CC  3-oxoadipate (the end-point of this upper part of the pathway)[1].
 **  57271 : all should have this. DHH. Note that catD could be moved from
 **  upper pathways of both this property and protocatechuate to lower
 **  pathway, beta-ketoadipate, 57271.
+**  Evidence for step 4 is also used for GP0273 (IPR026968).
 --
 SN  1
 ID  Catechol 1,2-dioxygenase

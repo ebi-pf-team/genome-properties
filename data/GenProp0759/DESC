@@ -12,6 +12,7 @@ CC  PabB, and 4-amino-4-deoxychorismate lyase (EC 4.1.3.38) is PabC.
 **  all three components. HORRIBLY WAY FAR FROM PUBLIC because there may be
 **  lots of little families, all related to some Trp-biosynthesis genes and
 **  maybe even some doing double duty.
+**  Evidence for steps 1 and 2 is the same (IPR010117).
 --
 SN  1
 ID  Aminodeoxychorismate synthase, component I

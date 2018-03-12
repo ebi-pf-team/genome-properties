@@ -39,6 +39,8 @@ CC  genes.
 **  systems 60383 (which includes gray zone hits to TIGR02595), and
 **  exosortase-associated polysaccharide biosynthesis, type 1 (58378) and
 **  type 2 (58381).
+**  Evidence for step 2 is also used for GP0652.
+**  Evidence for step 3 is also used for GP0652.
 --
 SN  1
 ID  PEP-CTERM motif

@@ -8,6 +8,10 @@ CC  species (peroxides, superoxides, hydroxyl radicals, etc.) This
 CC  property creates a list of those genes identified as being related to
 CC  this protective role.
 **  We need a more subtle way of grouping and presenting these guys
+**  Evidence for steps 1 and 3 are the same (IPR000763).
+**  Evidence for step 2 is also used for GP0182 (IPR002569, IPR002579).
+**  Evidence for step 3 is also used for GP0676 (IPR017559).
+**  Evidence for step 4 is also used for GP0488 (IPR014123).
 --
 SN  1
 ID  Catalases

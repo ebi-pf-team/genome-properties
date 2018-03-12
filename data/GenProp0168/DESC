@@ -17,6 +17,7 @@ CC  glucose-1-phosphate from the polysaccharide.
 **  this property or not.  Just added 4-alpha-glucanotransferase as an
 **  in_rule=0 step, found it (amylo) fits quite well with glgP.  Rewrite
 **  comment to reflect. DHH.
+**  Evidence for step 5 is also used for GP0264.
 --
 SN  1
 ID  4-alpha-glucanotransferase (disproportionating enzyme)

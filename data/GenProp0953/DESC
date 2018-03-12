@@ -25,6 +25,7 @@ CC  of which enzyme carries out each reaction has not yet been determined.
 CC  The needed reactions are: 1) aDGalNAc-(1->3)-bDGlcNAc, 2)
 CC  aDGlcNAc-(1->4)-aDGalNAc, 3) bDFuc3NBu-(1->6)-aDGlcNAc, and 4)
 CC  bDGlc-(1->2)-bDFuc3NBu.
+**  Evidence for step 8 is also used for GP0912 (GUILD), GP0932, GP0947, GP0968 and GP0973.
 --
 SN  1
 ID  Source of dTDP-DFuc3NBu

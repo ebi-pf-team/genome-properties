@@ -33,6 +33,9 @@ CC  well as their trp counterparts [1].
 **  similarity to PABA synthase component I.  ECNUM evidence cannot be used
 **  because the ECNUM for step 1A is identical to the ECNUM for step 1B
 **  {grrrr}.
+**  Evidence for step 1 is also used for GP0109, GP0110, GP0187 and 
+**  GP0800 (GUILD).
+**  Evidence for step 5 is also used for GP0109.
 --
 SN  1
 ID  Ribose-phosphate pyrophosphokinase

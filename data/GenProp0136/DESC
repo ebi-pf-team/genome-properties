@@ -48,6 +48,8 @@ CC  pathway exists starting from 4-hydroxyphenylpyruvate, having latter steps
 CC  in common with the bacterial pathway [4]. In addition to ubiquinone, 
 CC  bacteria may contain menaquinone and/or phylloquinone which together make 
 CC  up their quinone pool.
+**  Evidence for step 2 is also used for GP0829.
+**  Evidence for step 7 is also used for GP0058.
 --
 SN  1
 ID  Chorismate-pyruvate lyase

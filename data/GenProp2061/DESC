@@ -1,0 +1,133 @@
+AC  GenProp2061
+DE  MLL3/4 complex
+TP  SYSTEM
+AU  Rawlings ND
+TH  7
+RN  [1]
+RM  23459941
+RT  The Drosophila ortholog of MLL3 and MLL4, trithorax related, 
+RT  functions as a negative regulator of tissue growth. 
+RA  Kanda H; Nguyen A; Chen L; Okano H; Hariharan IK;   
+RL  Mol Cell Biol. 2013;33:1702-1710.
+RN  [2]
+RM  21875999
+RT  The COMPASS family of H3K4 methylases in Drosophila. 
+RA  Mohan M; Herz HM; Smith ER; Zhang Y; Jackson J; Washburn MP; 
+RA  Florens L; Eissenberg JC; Shilatifard A;   
+RL  Mol Cell Biol. 2011;31:4310-4318.
+RN  [3]
+RM  23166019
+RT  Enhancer-associated H3K4 monomethylation by Trithorax-related, 
+RT  the Drosophila homolog of mammalian Mll3/Mll4. 
+RA  Herz HM1; Mohan M; Garruss AS; Liang K; Takahashi YH; Mickey K; 
+RA  Voets O; Verrijzer CP; Shilatifard A;   
+RL  Genes Dev. 2012;26:2604-20.
+RN  [4]
+RM  17500065
+RT  PTIP associates with MLL3- and MLL4-containing histone H3 lysine 
+RT  4 methyltransferase complex. 
+RA  Cho YW; Hong T; Hong S; Guo H; Yu H; Kim D; Guszczynski T; 
+RA  Dressler GR; Copeland TD; Kalkum M; Ge K;   
+RL  J Biol Chem. 2007;282:20395-406.
+CC  The Drosophila orthologue of the vertebrate MML3/MML4 complex 
+CC  is also known as trithorax related (trr) [1].  
+CC  The MLL3/4 complex is composed at least of the catalytic 
+CC  subunit trr, ash2, Rbbp5, Dpy-30L1, wds, hcf, ptip, Pa1, 
+CC  Utx, Lpt and Ncoa6 [2].  The trr and MLL3/4 complexes differ 
+CC  from other Set1/COMPASS complexes in that they include a  
+CC  demethylase, Utx [3,4].
+**  Neither Lpt nor Ncoa6 have SwissProt entries.
+**  Different isoforms of Ltp are in different Panther subfamiles.
+**  There are several isoforms of Ncoa6, some of which are rich 
+**  in polyGln sequences.  These give false positives in Panther.
+**  There is no good model for Ncoa6, the evidence selected has
+**  566,893 sequences.
+**  Evidence for step 1 is also used in GP2062.
+**  Evidence for step 2 is also used in GP2056, GP2059, GP2062, GP2063 and GP2067
+**  Evidence for step 3 is also used in GP2059, GP2060, GP2062 and GP2067
+**  Evidence for step 4 is also used in GP2059, GP2060, GP2062 and GP2067
+**  Evidence for step 5 is also used in GP2059, GP2061, GP2063, GP2068 and GP2069
+**  Evidence for step 6 is also used in GP2059, GP2062 and GP2067
+**  Evidence for step 7 is also used in GP2062.
+**  Threshold is set to 7.
+--
+SN  1
+ID  Histone-lysine N-methyltransferase trithorax (EC 2.1.1.43)
+DN  Histone-lysine N-methyltransferase trithorax (EC 2.1.1.43)/1
+RQ  1
+EV  IPR037877; PTHR22884:SF373; sufficient;
+TG  GO:0044666;
+TG  GO:0042800;
+--
+SN  2
+ID  WD repeat-containing protein 5 
+DN  WD repeat-containing protein 5 (WDR5) /2
+RQ  1
+EV  IPR037834; PTHR22847:SF560; sufficient;
+TG  GO:0044666;
+--
+SN  3
+ID  Retinoblastoma-binding protein 5 (RBBP5) 
+DN  Retinoblastoma-binding protein 5 (RBBP5) /3
+RQ  1
+EV  IPR037850; PTHR44040; sufficient;
+TG  GO:0044666;
+--
+SN  4
+ID  Set1/Ash2 histone methyltransferase complex subunit ASH2 
+DN  Set1/Ash2 histone methyltransferase complex subunit ASH2  /4
+RQ  1
+EV  IPR037353; PTHR10598; sufficient;
+TG  GO:0044666;
+--
+SN  5
+ID  Host cell factor 1 (HCFC1)
+DN  Host cell factor 1 (HCFC1)/5
+RQ  1
+EV  IPR037854; PTHR23244:SF339; sufficient;
+TG  GO:0044666;
+--
+SN  6
+ID  Protein dpy-30 homolog (DPY30)
+DN  Protein dpy-30 homolog (DPY30)/6
+RQ  1
+EV  IPR037856; PTHR23356:SF0; sufficient;
+TG  GO:0044666;
+--
+SN  7
+ID  PAX transcription activation domain interacting protein (ptip)
+DN  PAX transcription activation domain interacting protein (ptip)/7
+RQ  1
+EV  IPR037886; PTHR23196:SF1; sufficient;
+TG  GO:0044666;
+--
+SN  8
+ID  GEO08286p1 (PTIP associated 1) (Pa1)
+DN  GEO08286p1 (PTIP associated 1) (Pa1)/8
+RQ  1
+EV  IPR028213; PF15364; sufficient;
+EV  IPR028213; PTHR28467; sufficient;
+TG  GO:0044666;
+--
+SN  9
+ID  Utx histone demethylase
+DN  Utx histone demethylase (1.14.11.-)/9
+RQ  1
+EV  IPR029516; PTHR14017:SF9; sufficient;
+TG  GO:0071558;
+TG  GO:0044666;
+--
+SN  10
+ID  Lost PHDs of trr (Lpt)
+DN  Lost PHDs of trr (Lpt)/10
+RQ  1
+EV  IPR037888; PTHR22884:SF472; sufficient;
+TG  GO:0044666;
+--
+SN  11
+ID  Nuclear receptor coactivator 6 (Ncoa6)
+DN  Nuclear receptor coactivator 6 (Ncoa6)/11
+RQ  1
+EV  IPR015943; G3DSA:2.130.10.10; sufficient;
+TG  GO:0044666;
+//

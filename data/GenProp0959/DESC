@@ -24,6 +24,7 @@ CC  likely to modify what the ECF system imports.
 **  ANAEROBES (most gut, one molasses sludge digester), probably acting on
 **  a salvaged thiamine precursor. rSAM enzyme TIGR04100 is a sub-clade of
 **  TIGR04038 (tadD-assoc).
+**  Evidence for step 1 is also used for GP1094 (IPR023812).
 --
 SN  1
 ID  ECF transport S component

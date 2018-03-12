@@ -19,6 +19,10 @@ CC  therefore are likely to be transported across the outer membrane. This
 CC  property represents a panel of exopolysaccharide biosynthesis genes
 CC  where each belongs to a subfamily that marks its host gene as carrying
 CC  the PEP-CTERM/exopolysaccharide system.
+**  Evidence for step 2 is also used for GP0326.
+**  Evidence for step 3 is also used for GP0326.
+**  Evidence for step 7 is also used for GP0259.
+**  Evidence for step 23 is also used for GP0968.
 --
 SN  1
 ID  ATPase, exosortase type 1 region

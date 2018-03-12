@@ -5,6 +5,9 @@ AU  Haft DH
 TH  0
 CC  Xanthine may be imported into the cell and converted to GMP by the
 CC  route described by this property.
+**  Evidence for step 1 is also used for GP0697 (IPR001674).
+**  Evidence for step 2 is also used for GP0697 (IPR004739).
+**  Evidence for step 3 is also used for GP0698 (IPR017588).
 --
 SN  1
 ID  GMP synthase, C-term

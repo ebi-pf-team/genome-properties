@@ -23,6 +23,7 @@ CC  regenerate homocysteine.
 **  represent other SAM uses.  The top hit by PPP is MoaA (TIGR02666), a
 **  SAM-dependent enzyme or molybdenum cofactor biosynthesis, followed by
 **  other Mo-related proteins.
+**  Evidence for step 2 is also used for GP0800.
 --
 SN  1
 ID  SAH to homocysteine

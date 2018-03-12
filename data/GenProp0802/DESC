@@ -12,6 +12,11 @@ CC  the universal bacterial core genome.
 **  for RNA maturation. Maybe. ::Accumulating evidence indicates that the
 **  proteins Era, Obg, YjeQ, YlqF and RimM are chaperones which may be
 **  crucial to bacterial ribosome assembly...::
+**  Evidence for step 1 is also used for GP0799 (GUILD).
+**  Evidence for step 2 is also used for GP0799 (GUILD).
+**  Evidence for step 3 is also used for GP0799 (GUILD).
+**  Evidence for step 8 is also used for GP0799 (GUILD).
+**  Evidence for step 10 is also used for GP0799 (GUILD) and GP1082.
 --
 SN  1
 ID  Obg family GTPase CgtA

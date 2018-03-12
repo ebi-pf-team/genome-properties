@@ -23,6 +23,11 @@ CC  enzymes may be grouped into apparent operons in many organisms (i.e. E.
 CC  coli).  Degradation of allantoin results in the production of two
 CC  molecules of urea which may be excreted or used as a source of ammonia
 CC  in urease-containing organisms.
+**  Evidence for step 1 is also used for GP0687.
+**  Evidence for step 3 is also used for GP0687.
+**  Evidence for step 4 is also used for GP0687.
+**  Evidence for step 5 is also used for GP0687.
+**  Evidence for step 6 is also used for GP0687.
 --
 SN  1
 ID  Source of (S)-allantoin

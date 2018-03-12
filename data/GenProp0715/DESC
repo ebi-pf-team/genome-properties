@@ -5,6 +5,10 @@ AU  Haft DH
 TH  1
 CC  This pathway converts D-galactarate to alpha-ketoglutarate via
 CC  2-oxoglutarate semialdehyde,
+**  Evidence for step 1 is also used for GP0714.
+**  Evidence for step 2 is also used for GP0717.
+**  Evidence for step 3 is also used for GP0292, GP0294, GP0457 and GP0717.
+**  Evidence for step 4 is also used for GP0714, GP0716 and GP0717.
 --
 SN  1
 ID  Galactarate dehydratase (EC 4.2.1.42)

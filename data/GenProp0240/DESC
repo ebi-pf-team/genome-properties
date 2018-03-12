@@ -14,6 +14,7 @@ CC  steps, by PrpD and an aconitase, to 2-methylisocitrate.
 CC  2-methylisocitrate is cleaved by PrpB to pyruvate and succinate. The
 CC  TCA cycle enzymes needed to complete the cycle are not modelled here as
 CC  part of the pathway
+**  Evidence for step 3 is also used for GP0033.
 --
 SN  1
 ID  2-methylisocitrate dehydratase

@@ -115,4 +115,9 @@ SN  22
 ID  Lantibiotic system, gallidermin/epidermin family
 RQ  0
 EV  GenProp0853;
+--
+SN  23
+ID  Nickel import ABC transporter
+RQ  0
+EV  GenProp0494;
 //

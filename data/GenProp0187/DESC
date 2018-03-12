@@ -19,6 +19,8 @@ CC  monophosphate is decarboxylated to uridine monophosphate (UMP), a
 CC  pyrimidine nucleotide from which other pyrimidines are made.  The few
 CC  species lacking pyrimidine de novo biosynthesis include some members of
 CC  the Chlamydiae, Mycoplasmatales, Rickettsiales, and Spirochaetes.
+**  Evidence for step 1 is also used for GP0037, GP0109, GP0110 and 
+**  GP0800 (GUILD).
 --
 SN  1
 ID  Ribose-phosphate pyrophosphokinase

@@ -2,7 +2,7 @@ AC  GenProp2037
 DE  Nuclear pore subcomplex Nup107-160
 TP  SYSTEM
 AU  Rawlings ND
-TH  1
+TH  4
 RN  [1]
 RM  15146057
 RT  The entire Nup107-160 complex, including three new members, is 
@@ -34,6 +34,11 @@ CC  subcomplex regulates its association with the NPC and other
 CC  proteins [3].
 **  The same precursor yields Nup96 and Nup98.
 **  NUP98 is an endopeptidase (MEROPS ID S59.001).
+**  Evidence for step 4 is also used in GP2036 and GP2042.
+**  Evidence for step 6 is also used in GP2036, GP2042 and GP2043.
+**  Evidence for step 8 is also used in GP2029, GP2042 and GP2043.
+**  Evidence for step 9 is also used in GP2029 and GP2042.
+**  Threshold is therefore set to 4.
 --
 SN  1
 ID  Nucleoporin Nup37

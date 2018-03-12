@@ -4,12 +4,17 @@ TP  SYSTEM
 AU  Haft DH
 TH  0
 RN  [1]
-RM  16952946
-RT  Both subunits of ATP-citrate lyase from Chlorobium tepidum contribute
-RT  to catalytic activity.
-RA  Kim W, Tabita FR;
-RL  J Bacteriol. 2006;188:6544-6552.
-CC  ghi as start point. description to follow.
+RM  9457870
+RT  Purification of Leuconostoc mesenteroides citrate lyase and cloning
+RT  and characterization of the citCDEFG gene cluster.
+RA  Bekal S, Van Beeumen J, Samyn B, Garmyn D, Henini S, Divies C,
+RA  Prevost H;
+RL  J Bacteriol. 1998;180:647-654.
+CC  Citrate lyase is a holoenzyme composed of alpha (citrate:acetyl-ACP 
+CC  transferase), beta (citryl-S-ACP lyase), and gamma (acyl carrier protein) 
+CC  subunits in a stoichiometric relationship of 6:6:6. Citrate lyase is an 
+CC  enzyme which converts citrate to oxaloacetate. In bacteria, this reaction 
+CC  is involved in citrate fermentation [1].
 --
 SN  1
 ID  [citrate (pro-3S)-lyase] ligase

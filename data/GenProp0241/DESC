@@ -36,6 +36,7 @@ CC  property describes species utilizing either system.
 **  for this property.
 **  Futher transport and hydrolysis systems as of yet unmodelled most
 **  likely exist.
+**  Evidence for step 1 also occurs in GP0736 (IPR017670, IPR017741).
 --
 SN  1
 ID  Phosphonate catabolism operons associated proteins

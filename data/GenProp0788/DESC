@@ -28,6 +28,9 @@ CC  which the acyltransferases of the common pathway act.
 **  up as not supported.  Consequently, genomes with ddh and lacking one of
 **  the other pieces must be manually toggled to some evidence with the
 **  curators assignby.
+**  Evidence for step 2 is also used for GP0125.
+**  Evidence for step 3 is also used for GP0125.
+**  Evidence for step 4 is also used for GP0125.
 --
 SN  1
 ID  Source of aspartate-semialdehyde

@@ -30,4 +30,9 @@ SN  5
 ID  Generic phosphonates utilization
 RQ  0
 EV  GenProp0710;
+--
+SN  6
+ID  Proposed phosphonate catabolism pathway HpnWXZ
+RQ  0
+EV  GenProp0736;
 //

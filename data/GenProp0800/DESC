@@ -15,6 +15,23 @@ CC  genome but may be present in multiple copies generally or in greater
 CC  than 5% of genomes.  An evaluation of 311 publicly available bacterial
 CC  genomes found greater than 95% having at least one copy of each of
 CC  these genes. 
+**  Evidence for step 1 is also used for GP0245.
+**  Evidence for step 2 is also used for GP0128.
+**  Evidence for step 3 is also used for GP0806.
+**  Evidence for step 4 is also used for GP0263.
+**  Evidence for step 5 is also used for GP0741.
+**  Evidence for step 6 is also used for GP0691.
+**  Evidence for step 7 is also used for GP0741.
+**  Evidence for step 8 is also used for GP0217 and GP0258.
+**  Evidence for step 11 is also used for GP0684.
+**  Evidence for step 12 is also used for GP0740.
+**  Evidence for step 13 is also used for GP0258.
+**  Evidence for step 14 is also used for GP0789.
+**  Evidence for step 15 is also used for GP0037, GP0109, GP0110 and GP0187.
+**  Evidence for step 17 is also used for GP0174.
+**  Evidence for step 18 is also used for GP0175.
+**  Evidence for step 22 is also used for GP0741.
+**  Evidence for step 23 is also used for GP0209.
 --
 SN  1
 ID  Chaperonin GroS

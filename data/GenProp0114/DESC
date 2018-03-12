@@ -17,6 +17,7 @@ CC  as well. The status of nucleotide excision repair in the archaea is
 CC  not fully defined. Eukaryotic NER differs in that many more genes are 
 CC  involved, and the characteristic size of the oligomer removed is 
 CC  different.
+**  Evidence for step 2 is also used for GP0799 (GUILD).
 --
 SN  1
 ID  Excinuclease ABC subunit A

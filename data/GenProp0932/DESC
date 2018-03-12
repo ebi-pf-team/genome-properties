@@ -8,6 +8,9 @@ CC  strains.  It consists of repeating of
 CC  [->4)-a-D-Gal-(1->4)-a-Neu5,7,9Ac3-(2->3)-b-D-Gal-(1->3)b-D-GalNAc-(1-]
 CC  units.  The NeuABCD cassette for the biosynthesis of CMP-Neu5Ac is
 CC  observed within the O-antigen cluster.
+**  Evidence for step 2 is also used for GP0963.
+**  Evidence for step 3 is also used for GP0120 and GP0963.
+**  Evidence for step 10 is also used for GP0912 (GUILD), GP0947, GP0953, GP0968 and GP0973.
 --
 SN  1
 ID  Source of CMP-Neu5Ac

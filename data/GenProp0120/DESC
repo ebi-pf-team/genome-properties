@@ -17,6 +17,11 @@ CC  shunt) is a metabolic pathway that generates NADPH when glucose
 CC  6-phosphate is oxidised to ribose 5-phosphate. Ribose 5-phosphate is a 
 CC  precursor for biosynthesis of nucleotides [1]. NADPH is used in many
 CC  syntheses, including fatty acid synthesis.
+**  Evidence for step 2 is also used for GP0912 (GUILD).
+**  Evidence for step 3 is also used for GP0932 and GP0963.
+**  Evidence for step 8 is also used for GP0691.
+**  Evidence for step 9 is also used for GP0691.
+**  Evidence for step 11 is also used for GP0694.
 --
 SN  1
 ID  Glucose-6-phosphate 1-dehydrogenase
@@ -103,11 +108,11 @@ DN  Fructose bisphosphatase (EC 3.1.3.11)
 RQ  0
 EV  IPR004464; PF03320; sufficient;
 TG  GO:0006098;
+EV  IPR004464; TIGR00330; sufficient;
+TG  GO:0006098;
 EV  IPR009164; PF06874; sufficient;
 TG  GO:0006098;
 EV  IPR033391; PF00316; sufficient;
-TG  GO:0006098;
-EV  IPR004464; TIGR00330; sufficient;
 TG  GO:0006098;
 EV  IPR002803; PF01950; sufficient;
 TG  GO:0006098;

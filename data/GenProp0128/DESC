@@ -10,6 +10,7 @@ CC  in prokaryotes and eukaryotes. F0 is the integral membrane cluster. In
 CC  F0, nomenclatures differ. For example, prokaryotic chain A matches
 CC  eukaryotic chain 6.
 **  See egad groups 10022.
+**  Evidence for step 4 is also used for GP0800 (GUILD).
 --
 SN  1
 ID  A subunit of ATP synthase F0 cluster

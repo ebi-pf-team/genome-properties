@@ -226,4 +226,14 @@ SN  44
 ID  Ethanolamine degradation organelle
 RQ  0
 EV  GenProp0292;
+--
+SN  45
+ID  Catechol ortho-cleavage upper pathway
+RQ  0
+EV  GenProp0711;
+--
+SN  46
+ID  Proposed phosphonate catabolism pathway HpnWXZ
+RQ  0
+EV  GenProp0736;
 //

@@ -30,6 +30,8 @@ CC  adenylyltransferase and dephospho-CoA kinase [1].
 **  coaE, and need to know YES/NO for chlamydias. DHH.
 **  Archaeal coaA step is different to euk/bac as it performs condensation 
 **  with beta-alanine after phosphorylation of pantoate [PMID:19666462]LR.
+**  Evidence for steps 3 and 4 is the same.
+**  Evidence for step 6 is also used for GP0799 (GUILD).
 --
 SN  1
 ID  Sodium/pantothenate symporter

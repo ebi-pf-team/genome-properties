@@ -71,6 +71,13 @@ CC  only under limiting L-rhamnose conditions [6]. Partial rhamnose
 CC  catabolism operons have been detected in Thermotoga species which
 CC  appear to handle the import and cleavage of rhamnose-containing
 CC  oligosaccharides.
+**  Evidence for step 1 is also used for GP0292, GP0458, GP0724 and GP0917.
+**  Evidence for step 5 is also used for GP0458.
+**  Evidence for step 6 is also used for GP0052, GP0292 and GP0458.
+**  Evidence for step 6 is also used for GP0458 and GP0713 (IPR014036).
+**  Evidence for step 6 is also used for GP0321.
+**  Evidence for step 7 is also used for GP0717 (IPR011701).
+**  Evidence for step 7 is also used for GP0828.
 --
 SN  1
 ID  Clustered alcohol/aldehyde dehydrogenases

@@ -36,6 +36,7 @@ CC  dTDP-6-deoxy-D-xylo-4-hexulose 3,5-epimerase, gene name rmlC or rfbC);
 CC  and dTDP-4-dehydrorhamnose reductase (also known as 
 CC  dTDP-6-deoxy-L-lyxo-4-hexulose reductase (gene name rmlD or rfbD)[1,2]. 
 CC  This property refers to the first two steps of this pathway.
+**  Evidence for step 1 is also used for GP0912 (GUILD).
 --
 SN  1
 ID  Glucose-1-phosphate thymidylyltransferase

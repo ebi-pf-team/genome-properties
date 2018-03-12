@@ -49,6 +49,7 @@ CC  incorporates pyrrolysine at specific TAG codons.
 **  ID  Selenocysteine-specific tRNA (tRNA-SeC)
 **  DN  NOT APPLICABLE
 **  RQ  1
+**  Evidence for step 3 is also used for GP0692 and GP0726.
 --
 SN  1
 ID  Sec-tRNA(Sec) synthesis

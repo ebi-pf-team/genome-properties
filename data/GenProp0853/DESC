@@ -9,6 +9,7 @@ CC  lack both the lantibiotic precursor molecule and the corresponding
 CC  synthases. It appears these transporters are responsible for
 CC  self-protection in species that make lantibiotics, and defense in those
 CC  that do not.
+**  Evidence for step 4 is also used for GP0900.
 --
 SN  1
 ID  Lantibiotic protection ABC transporter, MutE family permease subunit

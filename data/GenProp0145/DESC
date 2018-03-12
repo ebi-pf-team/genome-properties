@@ -39,6 +39,7 @@ CC  process found in some bacteria where N-formimino-L-glutamate is first
 CC  converted to N-formyl-l-glutamate by hutF (formimidoylglutamate 
 CC  deiminase) and then hydrolyzed to L-glutamate by hutG 
 CC  (N-formyl-l-glutamate deformylase)[2].
+**  Evidence for steps 4 and 5 is the same.
 --
 SN  1
 ID  Histidine ammonia-lyase (hutH)

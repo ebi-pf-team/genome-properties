@@ -10,6 +10,14 @@ RT  membrane-embedded protease complex: an implication from the
 RT  interference by a mutant form of a new substrate protein, YccA.
 RA  Kihara A, Akiyama Y, Ito K;
 RL  J Mol Biol. 1998;279:175-188.
+CC  FtsH/HflKC protease complex is a membrane-embedded protease 
+CC  complex that degrades uncomplexed forms of the SecY subunit of 
+CC  protein translocase. It is composed of FtsH (HflB), an 
+CC  ATP-dependent zinc-metalloproteinase, HflK and HflC. HflK and 
+CC  HflC are periplasmically exposed membrane proteins, which 
+CC  together form a complex (HflKC) which in turn complexes with 
+CC  FtsH [1].
+**  Evidence for step 1 is also used for GP0800 (GUILD).
 --
 SN  1
 ID  ATP-dependent metallopeptidase FtsH (HflB)

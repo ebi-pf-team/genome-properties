@@ -2,7 +2,7 @@ AC  GenProp2051
 DE  Spt-Ada-Gcn5-acetyltransferase (SAGA) complex
 TP  METAPATH
 AU  Rawlings ND
-TH  1
+TH  3
 RN  [1] 
 RM  15647753
 RT  Chd1 chromodomain links histone H3 methylation with SAGA- and 
@@ -25,6 +25,10 @@ CC  GCN5, ADA2, SPT3, SGF29, TAF10, TAF9, SGF11 and SUS1.
 CC  Two copies of TAF5, TAF6, TAF9, TAF19, TAF12 and ADA1 are
 CC  present.  The complex is built up from individual modules [2].
 **  UBP8 is MEROPS identifier C19.087.
+**  Evidence for step 2 is also used in GP2052.
+**  Evidence for step 5 is also used in GP2052.
+**  Evidence for step 6 is also used in GP2052 and GP2056.
+**  Threshold is therfore set to 3.
 --
 SN  1
 ID  SALSA complex

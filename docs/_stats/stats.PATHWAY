@@ -33,15 +33,96 @@ GenProp0187	Pyrimidine (uridine-5'-phosphate) de novo biosynthesis
 GenProp0188	GatABC aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase complex
 GenProp0189	tRNA-Gln direct aminoacylation
 GenProp0193	Lysine biosynthesis via alpha-aminoadipate (AAA pathway)
+GenProp0203	LPS inner core biosynthesis, ketodeoxyoctonate and heptose type
 GenProp0217	5-aminolevulinate biosynthesis (glutamate pathway)
+GenProp0218	Cysteine biosynthesis from serine
+GenProp0220	Uroporhyrinogen III biosynthesis from 5-aminolevulinate
+GenProp0221	Protoporphyrin IX biosynthesis from uroporphyrinogen III
+GenProp0222	Protoheme from protoporphyrin IX
 GenProp0223	5-aminolevulinate biosynthesis from succinyl-CoA and glycine
 GenProp0231	4-hydroxyphenylacetate degradation
+GenProp0233	GABA utilization
 GenProp0238	2-aminoethylphosphonate catabolism to acetaldehyde
+GenProp0240	Propionyl-CoA catabolism via methylcitric acid
 GenProp0250	Hydroxyethylthiazole (HET) biosynthesis from 1-deoxy-D-xylulose-5-phosphate, Cysteine, and either Tyr or Gly
 GenProp0253	Hydroxymethylpyrimidine pyrophosphate (HMP-P) biosynthesis from aminoimidazole ribotide
 GenProp0254	Thiamine pyrophosphate (TPP) biosynthesis from HMP-PP and HET-P
+GenProp0259	tRNA-Asn direct aminoacylation
+GenProp0264	Glucosylglycerol biosynthesis
+GenProp0265	Trehalose biosynthesis, OtsAB pathway
+GenProp0266	Trehalose biosynthesis, TreYZ pathway
+GenProp0268	Ectoine biosynthesis
+GenProp0269	Coenzyme B12 biosynthesis from cob(II)yrinate diamide
+GenProp0272	Pyruvate fermentation to acetoin
+GenProp0273	Protocatechuate degradation to beta-ketoadipate
+GenProp0275	Cobyrinic acid diamide biosynthesis, anaerobic pathway
+GenProp0281	Mannosylglycerate biosynthesis
+GenProp0283	Beta-ketoadipate degradation to succinyl-CoA and acetyl-CoA
+GenProp0304	Cysteine biosynthesis, tRNA-dependent
+GenProp0309	Arginine catabolism to glutamate via arginine succinyltransferase (AST)
+GenProp0466	Molybdopterin biosynthesis
+GenProp0468	Entner-Doudoroff pathway
+GenProp0473	Arsenite oxidase
+GenProp0478	Acetyl-CoA -- acetate interconversion via acetyl phosphate
+GenProp0480	Acetyl-CoA biosynthesis from acetate, direct
+GenProp0481	Urea carboxylase/allophanate hydrolase pathway
+GenProp0562	Formaldehyde detoxification, glutathione-dependent
+GenProp0624	Sulfite reductase complex, Salmonella/Clostridium type
+GenProp0639	Arginine degradation via citrulline, ATP-generating
+GenProp0641	Spermidine biosynthesis from putrescine and S-adenosylmethionine
+GenProp0642	Putrescine biosynthesis from arginine utilizing agmatinase
+GenProp0653	Ectoine catabolism
+GenProp0659	Tryptophan degradation to anthranilate
+GenProp0671	H4MPT-linked C1 transfer pathway
+GenProp0673	Ribulose monophosphate pathway
+GenProp0677	Queuosine (Q-tRNA) biosynthesis from preQ0
+GenProp0681	Fatty acid biosynthesis from acetyl-CoA
+GenProp0687	Allantoin catabolism to oxamate and carbamoyl-phosphate
+GenProp0688	Urate catabolism to allantoin
+GenProp0689	Glyoxalate conversion to phosphoglycerate
+GenProp0691	Glycolysis
+GenProp0692	Selenouridine-containing tRNA
+GenProp0697	Guanine monophosphate (GMP) biosynthesis from inosine monophosphate (IMP)
+GenProp0704	tRNA U34 carboxymethylaminomethyl modification
+GenProp0706	Cyclohexa-1,5-diene-1-carbonyl-CoA to 3-hydroxypimelyl-CoA, dch/had/oah Pathway
+GenProp0708	Catechol meta-cleavage pathway
+GenProp0709	Benzoate catabolism BoxABC pathway
+GenProp0711	Catechol ortho-cleavage upper pathway
+GenProp0713	2-aminoethylphosphonate catabolism via phosphonoacetate
+GenProp0718	Oxalate degradation
+GenProp0724	Phosphonoacetaldehyde biosynthesis from phosphoenolpyruvate
+GenProp0728	AMP metabolism using type III Rubisco
+GenProp0730	Methylthioadenosine to methylthioribose-1-phosphate via MTR
+GenProp0732	Methionine salvage enolase-phosphate pair MtnW/MtnX
+GenProp0736	Proposed phosphonate catabolism pathway HpnWXZ
+GenProp0738	Agmatine to putrescine via N-carbamoylputrescine
+GenProp0744	Glyoxalase pathway, glutathione dependent
+GenProp0747	Adenosine monophosphate (AMP) biosynthesis from inosine monophosphate (IMP)
+GenProp0750	UDP-N-acetylglucosamine biosynthesis from fructose-6-phosphate
+GenProp0753	Mycothiol biosynthesis
+GenProp0754	Acetate production from acetylphosphate
+GenProp0759	Para-aminobenzoic acid (PABA) biosynthesis from chorismate
+GenProp0766	Anhydro-N-acetylmuramic acid to N-acetylglucosamine-phosphate
 GenProp0786	Lysine biosynthesis via diaminopimelate (DAP), succinylated branch
 GenProp0787	Lysine biosynthesis via diaminopimelate (DAP), acetylated branch
 GenProp0792	7,8-didemethyl-8-hydroxy-5-deazariboflavin (FO) biosynthesis
+GenProp0797	Selenocysteinyl-tRNA, PSTK/SepSecS pathway
+GenProp0813	Pyrimidine utilization
+GenProp0822	Poly(gamma-glutamic acid) biosynthesis
 GenProp0829	Menaquinone biosynthesis via futalosine
+GenProp0837	1-acylglycerol-3-phosphate biosynthesis, PlsX/Y pathway
+GenProp0862	Pyridoxal phosphate biosynthesis, PdxA/PdxJ pathway
+GenProp0878	N(epsilon)-acetyl-beta-lysine biosynthesis
+GenProp0893	Sulfopyruvate biosynthesis via L-cysteate
+GenProp0908	2,3-diaminopropionic acid biosynthesis
+GenProp0909	Capreomycidine biosynthesis
+GenProp0927	Bacillithiol biosynthesis
+GenProp0942	Alkane biosynthesis, cyanobacterial
 GenProp0950	dTDP-4-dehydro-6-deoxy-alpha-D-glucose biosynthesis from glucose-1-phosphate
+GenProp0991	ATP-grasp maturase system, microviridin/marinostatin class
+GenProp1017	GDP-D-mannose biosynthesis from b-D-fructose-6-phosphate
+GenProp1058	2,3-dihydroxybenzoate biosynthesis
+GenProp1064	Ovothiol biosynthesis
+GenProp1070	Beta-glutamate biosynthesis
+GenProp1084	Enduracididine biosynthesis
+GenProp1098	3-methylarginine biosynthesis

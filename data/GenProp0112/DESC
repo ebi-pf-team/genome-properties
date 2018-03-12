@@ -20,6 +20,7 @@ CC  deaminase steps take place.
 **  The KEGG entry for step 5, riboflavin synthase, EC 2.5.1.9, is
 **  apparently in error, subsuming step 4 (which does not have an EC#) and
 **  representing that incorrectly to boot. (1/05, JDS)
+**  Evidence for steps 2 and 3 is the same.
 --
 SN  1
 ID  GTP cyclohydrolase II (3.5.4.25)

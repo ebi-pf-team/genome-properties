@@ -2,7 +2,7 @@ AC  GenProp2016
 DE  Mammalian spermatoproteasome
 TP  SYSTEM
 AU  Rawlings ND
-TH  2
+TH  13
 RN  [1]
 RM  12015144
 RT  The structure of the mammalian 20S proteasome at 2.75 A resolution.
@@ -44,6 +44,20 @@ CC  Ubiquitinated proteins are not degraded.
 **  The Panther subfamily PTHR11599:SF47 fails to distinguish alpha 7-like
 **  from alpha 7 (PTHR11599:SF15) and the two are included in the same
 **  InterPro entry (IPR037560).
+**  Evidence for step 1 is also used in GP2011, GP2014 and GP2015.
+**  Evidence for step 2 is also used in GP2011, GP2014 and GP2015.
+**  Evidence for step 3 is also used in GP2011, GP2014 and GP2015.
+**  Evidence for step 4 is also used in GP2011, GP2014 and GP2015.
+**  Evidence for step 5 is also used in GP2011, GP2014 and GP2015.
+**  Evidence for step 6 is also used in GP2011, GP2014 and GP2015.
+**  Evidence for step 7 is also used in GP2014 and GP2015.
+**  Evidence for step 8 is also used in GP2011, GP2014 and GP2015.
+**  Evidence for step 9 is also used in GP2011, GP2014 and GP2015.
+**  Evidence for step 10 is also used in GP2011, GP2014 and GP2015.
+**  Evidence for step 12 is also used in GP2011.
+**  Evidence for step 13 is also used in GP2011.
+**  Evidence for step 14 is also used in GP2011.
+**  Threshold is therefore set to 13.
 --
 SN  1
 ID  proteasome subunit alpha type-1

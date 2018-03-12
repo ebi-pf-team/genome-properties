@@ -22,6 +22,7 @@ CC  new nomenclature starting with ecc (esx conserved component).
 **  available.  EccC not built yet because fusion protein gets split. 
 **  Additional secreted proteins include Rv3616c, Rv3881c, Rv3615c, Rv3864,
 **  Rv3865
+**  Evidence for step 6 is also used for GP0905.
 --
 SN  1
 ID  Type VII secretion AAA-ATPase EccA

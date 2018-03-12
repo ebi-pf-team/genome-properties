@@ -24,6 +24,8 @@ CC  3-acylamino-fucose (Fuc3NAc), both of which arise from the same
 CC  intermediate, 4,6-dideoxy-4-oxo-dTDP-D-glucose, are found within the
 CC  cluster.
 **  Identical to (?) cross-reacts with O74
+**  Evidence for step 3 is also used for GP0120 and GP0932.
+**  Evidence for step 6 is also used for GP0932.
 --
 SN  1
 ID  Source of 3-acetamidofucose

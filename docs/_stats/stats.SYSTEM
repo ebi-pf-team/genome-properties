@@ -1,4 +1,5 @@
 GenProp0010	Inteins
+GenProp0051	Urease
 GenProp0052	Type III secretion
 GenProp0053	Type II secretion
 GenProp0055	Polyhydroxyalkanoic acids
@@ -11,6 +12,7 @@ GenProp0128	F1/F0 ATPase
 GenProp0129	Na+-translocating NADH-quinone reductase
 GenProp0130	Rnf-type electron transport complex
 GenProp0132	Transcription termination/antitermination Nus factors
+GenProp0135	NADH dehydrogenase complex I
 GenProp0137	Iron-sulfur cluster assembly SUF system
 GenProp0138	Iron-sulfur cluster assembly iscSUA-hscBA-fdx system
 GenProp0151	Resistance to mercury
@@ -29,18 +31,296 @@ GenProp0198	RuvABC Holliday junction complex
 GenProp0201	SMC-ScpA-ScpB complex
 GenProp0207	Lipoprotein localization system lolABCDE
 GenProp0209	Sec system preprotein translocase
+GenProp0214	Acetyl-CoA carboxylase complex
+GenProp0215	SOS response
 GenProp0216	RecBCD pathway
+GenProp0225	Mismatch repair
+GenProp0226	Integron
+GenProp0232	Phosphonates C-P lyase system
+GenProp0236	Phosphonates ABC transport
 GenProp0244	Chaperone system: DnaK-DnaJ-GrpE
 GenProp0245	Chaperone system: GroEL/GroES
 GenProp0246	Chaperone system: thermosome/prefoldin
+GenProp0251	ClpXP degradation machine
 GenProp0252	Thiamine/TPP ABC transporter ThiBPQ
 GenProp0262	RNA polymerase, bacterial
+GenProp0263	DNA polymerase III, bacterial
+GenProp0271	Trehalose utilization
+GenProp0277	Cobalt import system (ABC transporter: 3.A.1.18.1)
+GenProp0288	Tetrahydromethanopterin S-methyltransferase complex
+GenProp0289	Class I (aerobic) ribonucleotide reductase
+GenProp0290	Class II (B12-dependent) ribonucleotide reductase
+GenProp0291	Class III (anaerobic) ribonucleotide reductase
+GenProp0292	Ethanolamine degradation organelle
+GenProp0294	Ethanolamine degradation proteinaceous organelle
+GenProp0295	Prokaryotic N-terminal cleavage/methylation, type IV pilin-like
+GenProp0310	CRISPR system, I-F/Ypest subtype
+GenProp0311	Competence-related genes
+GenProp0313	CRISPR system, I-C/Dvulg subtype
+GenProp0314	CRISPR system, II/Nmeni subtype
+GenProp0315	CRISPR system, I-E/Ecoli subtype
+GenProp0316	CRISPR system, III-B/RAMP module subtype
+GenProp0317	CRISPR system, I-B subtype, Tneap branch
+GenProp0318	CRISPR system, III-A/Mtube subtype
+GenProp0319	CRISPR system, I-A/Apern subtype
+GenProp0320	CRISPR system, I-B subtype, Hmari branch
+GenProp0322	Addiction module, Hig class
+GenProp0323	Addiction module, ParE class
+GenProp0324	Addiction module, RelE-RelB class
+GenProp0326	Protein sorting system, PEP-CTERM/exosortase (generic)
+GenProp0455	Restriction enzyme system, type I
+GenProp0456	Attenuation system: tryptophanase
+GenProp0457	Rhamnose catabolism
+GenProp0458	Fucose catabolism
+GenProp0460	Gas vesicle
+GenProp0465	Circadian clock system KaiABC
+GenProp0469	CRISPR system, Dpsyc subtype
+GenProp0470	Sporadically distributed four-gene operon
+GenProp0471	Uncharacterized gene pair TIGR02683/TIGR02684
+GenProp0472	Uncharacterized gene pair TIGR02687/TIGR02688
+GenProp0474	Arsenical resistance system
+GenProp0483	Cytochrome c oxidase, cbb3-type
+GenProp0484	F-type conjugation system (type IV secretion) specific components
+GenProp0485	F and P-type conjugation systems (type IV secretion), common components
+GenProp0487	RepABC-type alpha-proteobacterial replicon(s)
+GenProp0488	Superoxide dismutase, nickel-type
+GenProp0490	Ti-type conjugation system
+GenProp0491	RecFOR recombination pathway
+GenProp0492	Nonhomologous end-joining, bacterial type
+GenProp0493	AddAB pathway
+GenProp0494	Nickel import ABC transporter
+GenProp0542	Tol-Pal system
+GenProp0543	TonB-dependent transport
+GenProp0610	Endospore formation marker gene set
+GenProp0613	Cytochrome c reductase
+GenProp0614	Cytochrome c oxidase, mitochondrial, caa3-type
+GenProp0617	Cytochrome (quinone) oxidase, bd type
+GenProp0618	Cytochrome (quinone) oxidase, bo type
+GenProp0620	Cytochrome (quinone) oxidase, aa3 type, QoxABCD
+GenProp0626	Protein sorting system, sortase type, LPXTG/SrtA class
+GenProp0629	A1/A0 ATPase
 GenProp0630	2-oxoglutarate dehydrogenase system
 GenProp0631	Nitrogenase, Fe-only
 GenProp0632	Nitrogenase, V-containing
 GenProp0633	Nitrogenase, Mo-containing
+GenProp0634	Sigma-54 (RpoN) systems
+GenProp0636	Respiratory nitrate reductase
+GenProp0637	Anaerobic dimethyl sulfoxide reductase
+GenProp0640	Xanthine dehydrogenase
+GenProp0648	Phage shock protein regulon
+GenProp0649	Heterocyst-related ABC exporter DevBCA
+GenProp0651	Ectoine ABC transporter EhuABCD
+GenProp0652	Exopolysaccharide biosynthesis, exosortase A-associated
+GenProp0654	Intracellular sulfur oxidation
+GenProp0655	Exopolysaccharide biosynthesis, exosortase B-associated
+GenProp0658	Cellulose biosynthesis
+GenProp0660	Photosystem I
+GenProp0661	Photosystem II
+GenProp0662	Photosynthetic reaction center, alphaproteobacterial type
+GenProp0663	Verrucomicrobium/Chthoniobacter four-plus-PEP_CTERM cassette
+GenProp0664	Protein sorting system, sortase type, SrtB class
+GenProp0665	Peptide chain release operon, RctB-like/PrfH
+GenProp0666	Membrane-associated monooxygenase (methane/ammonia)
+GenProp0668	Acetyltransferase/synthase/peptidase cassette
+GenProp0669	Protein sorting system, putative, exosortase G class
+GenProp0670	CRISPR system, Aferr subtype
+GenProp0672	Citrate lyase system
+GenProp0674	Malonate decarboxylase
+GenProp0676	Alkylhydroperoxide reductase AhpCF (peroxiredoxin)
+GenProp0678	C-type cytochrome biogenesis, system I
+GenProp0680	C-type cytochrome biogenesis, system II
+GenProp0682	Formate-dependent nitrite reductase, seven-gene type
+GenProp0683	Cytochrome c nitrite reductase NrfHA
+GenProp0684	FtsH/HflKC protease complex
+GenProp0685	CRISPR system, I-D/Cyano subtype
+GenProp0693	Fructose utilization as fructose-1,6-bisphosphate
+GenProp0694	Glucose utilization as fructose-1,6-bisphosphate
+GenProp0695	Cytochrome b558/566
+GenProp0696	Xanthine utilization as a source of guanine-monophosphate (GMP)
+GenProp0699	DNA gyrase
+GenProp0701	DNA sulfur modification system dnd
+GenProp0702	Benzoyl-CoA reductase
+GenProp0703	4-hydroxybenzoyl-CoA reductase
+GenProp0705	Xanthine dehydrogenase, bacillus type (pucABCDE)
+GenProp0707	Botulinum toxin system
+GenProp0712	2-aminoethylphosphonate (AEP) ABC transporter, type I, PhnSTUV
+GenProp0714	Galactarate utilization via tartronate semi-aldehyde
+GenProp0715	Galactarate utilization via 2-oxoglutarate semialdehyde
+GenProp0716	Glucarate utilization via tartronate semi-aldehyde
+GenProp0717	Glucarate utilization via 2-oxoglutarate semialdehyde
+GenProp0719	Methyl-coenzyme M reductase
+GenProp0721	2-aminoethylphosphonate (AEP) ABC transporter, type II
+GenProp0722	Methanogenesis marker set
 GenProp0723	Hydrogenase, nickel and F420-dependent
+GenProp0726	Selenium-dependent molybdenum hydroxylase system
+GenProp0735	Type VI secretion
+GenProp0737	Anaerobic glycerol-3-phosphate dehydrogenase complex
+GenProp0739	Iron-sulfur cluster assembly CsdA-CsdE system
+GenProp0740	Translation initiation, bacterial
+GenProp0741	Translation elongation, bacterial
+GenProp0742	Iron-sulfur cluster assembly NIF system
+GenProp0743	Urea ABC transporter UrtABCDE
+GenProp0745	Lipoyl-protein attachment
+GenProp0746	Translation termination, bacterial
+GenProp0748	Choline ABC transporter, ChoXWV family
+GenProp0749	Choline sulfate utilization
+GenProp0751	Acidobacterial ADOP/PadR gene pairs
+GenProp0752	Ergothioneine biosynthesis
+GenProp0756	Fumarate reductase complex
+GenProp0757	Quorum-sensing, autoinducer-2 system
+GenProp0764	DMSO reductase family type II enzyme
+GenProp0767	Very short patch repair
+GenProp0768	CRISPR system, Pging subtype
+GenProp0778	Protein sorting system, GlyGly-CTERM/rhombosortase
+GenProp0781	Gliding motility, Bacteroidetes type
+GenProp0790	Sporadic pair TIGR03545/TIGR03546
+GenProp0794	Proposed N-acetyl sugar amidation module WbuXYZ
+GenProp0798	Enterococcus/Aeromonas extended locus
+GenProp0802	Ribosome biogenesis proteins, bacteria
+GenProp0806	Replication initiation, bacterial
+GenProp0809	Bacteriocin system, lactococcin 972 group
+GenProp0810	Encapsulin proteinaceous organelle
+GenProp0811	S-layer homology domain-mediated cell wall binding
+GenProp0821	Putative Na:solute symporter two-gene cassette
+GenProp0828	Heme uptake system, NEAT-domain mediated
+GenProp0830	Integral membrane mystery pair
+GenProp0833	Proteasome-targeting modification by pupylation
+GenProp0834	Proteasome, bacterial
+GenProp0835	ATP-dependent protease HslVU
+GenProp0839	2-oxoacid:ferredoxin oxidoreductase, multisubunit form
+GenProp0840	Polyphosphate kinase/exopolyphosphatase system
+GenProp0842	2-oxoacid:acceptor oxidoreductase, 2 subunit form
+GenProp0845	Protein sorting system, KxYKxGKxW class
+GenProp0847	Exosporium
+GenProp0853	Lantibiotic system, gallidermin/epidermin family
+GenProp0854	ParB-rel/ThiF-rel cassette PRTRC
+GenProp0855	Integrating conjugative element, PFGI-1 class
+GenProp0857	Anchored repeat-class ABC transporter, P. acnes type
+GenProp0858	Conjugative transposon, Bacteroides type
+GenProp0859	Protein sorting system, proteobacterial dedicated sortase type
+GenProp0860	Tryptophan tryptophylquinone modification of methylamine dehydrogenase
+GenProp0861	Bacteriocin system, NHLP (nif11/nitrile hydratase leader peptide) transport group
+GenProp0867	Decarboxylation/antiport proton-motive cycle: aspartate-alanine
+GenProp0871	Decarboxylation/antiport proton-motive cycle: ornithine-putrescine
+GenProp0872	Decarboxylation/antiport proton-motive cycle: histidine-histamine
+GenProp0877	Flagellar motor stator complex
+GenProp0879	Flagellar export apparatus
+GenProp0880	Flagellar basal body complex
+GenProp0881	Flagellar assembly apparatus
+GenProp0882	Flagellar filament and hook complex
+GenProp0883	Flagellar motor switch (rotor) complex
+GenProp0885	Flagellar post-translational modification components
+GenProp0891	Coenzyme M biosynthesis
+GenProp0894	Actinobacterial uncharacterized trio
+GenProp0895	Alcohol ABC transporter, PedABC-type
+GenProp0896	Proposed F420-0 transporter
+GenProp0898	RNA ligase/unknown protein pair
+GenProp0899	Nitrile hydratase
+GenProp0901	Post-ribosomal natural product synthesis system, Burkholderia TOMM-type
+GenProp0902	Quinohemoprotein amine dehydrogenase
+GenProp0903	Radical SAM/uracil DNA glycosylase system
+GenProp0904	Type VII secretion, Actinobacteria form
+GenProp0905	Type VII secretion, Firmicutes form
+GenProp0907	Poly-beta-1,6 N-acetyl-D-glucosamine system, PgaABCD type
+GenProp0910	Butyryl-CoA to butyrate, phosphotransbutyrylase pathway
+GenProp0911	Butyryl-CoA to butyrate, acetate CoA-transferase pathway
+GenProp0914	Hydrogenase, [FeFe]-dependent
+GenProp0915	Hydrogenase, mono-iron type
+GenProp0916	Radical SAM/uncharacterized protein TIGR03936 system
+GenProp0917	Mycofactocin system
+GenProp0918	Anaerobic sulfatase/maturase system
+GenProp0919	SCIFF/radical SAM Clostridial gene pair
+GenProp0920	Radical SAM Y_X(10)_GDL system
+GenProp0921	Radical SAM pair and His-Xaa-Ser repeats peptide
+GenProp0922	CRISPR system, Myxan subtype
+GenProp0923	Mycothiol system
+GenProp0928	OMP chaperone system: SurA-Skp-DegP
+GenProp0934	Dimethyl sulphone utilization (aerobic)
+GenProp0935	Uptake/catabolism system KPN_01854/KPN_01858
+GenProp0936	Bacteriocin system, sporulation delay protein group
+GenProp0938	Glycine radical enzyme system, YjjI/YjjW pair
+GenProp0939	RSAM-containing biosynthetic cluster, MSMEG_0568 system
+GenProp0940	Metallo-mystery pair
+GenProp0941	TonB-dependent nutrient uptake pairs, RagAB/SusCD type
+GenProp0943	Pyruvate formate-lyase system
+GenProp0944	Cohesin/dockerin (cellulosome-like) system
+GenProp0945	Radical SAM maturase bacteriocin system, CLI_3235 type
+GenProp0948	RNA repair, Hen1/Pnkp system
+GenProp0954	Radical SAM-cylized peptide, Pep1357C family
+GenProp0955	Modified peptide/radical SAM maturase system, YydFG family
+GenProp0956	Radical SAM maturase/selenobacteriocin system
+GenProp0957	Protein sorting system, SipW class
+GenProp0958	D-alanyl-lipoteichoic acid biosynthesis
+GenProp0961	Heme metabolism pair HutWX
+GenProp0962	Methanobactin biosynthesis, Mb-OB3b family
+GenProp0967	Radical SAM maturase system, CXXX repeats type
+GenProp0977	DNA ligase/helicase system
+GenProp0978	Protein sorting system, PGF-CTERM/archaeosortase A
+GenProp0979	Protein sorting system, PEF-CTERM/archaeosortase C
+GenProp0980	Protein sorting system, putative, exosortase F class
+GenProp0981	Radical SAM/lipoprotein system
+GenProp0982	Radical SAM maturase system, FibroRumin system
+GenProp0983	Protein sorting system, VPXXXP-CTERM/archaeosortase B
+GenProp0984	Radical SAM maturase system, GG-Bacteroidales group
+GenProp0985	Protein sorting system, VPDSG-CTERM/exosortase C
+GenProp0987	Protein sorting system, cyano-PEP-CTERM class
+GenProp0988	Elongation factor P beta-lysylation
+GenProp0989	Protein sorting system, VPEID-CTERM/exosortase E
+GenProp0992	Radical SAM maturase system, methanogen
+GenProp0993	Protein sorting system, PIP-CTERM/archaeosortase D
+GenProp0996	Protein sorting system, IPTLxxWG-CTERM/exosortase H
+GenProp0999	Por secretion system
+GenProp1000	ATP-grasp maturase system, uncharacterized
+GenProp1002	Grasp-with-spasm peptide maturase system
+GenProp1003	Cysteine S-glycopeptide biosynthesis, sublancin family
 GenProp1004	Light-independent protochlorophyllide reductase
+GenProp1005	Protein sorting system, putative, exosortase J class
+GenProp1006	Orbivirus protein set
+GenProp1007	Orthobunyavirus protein set
+GenProp1009	Coronavirus protein set
+GenProp1010	Accessory Sec system, Actinobacterial type
+GenProp1011	Quorum-sensing system, cyclic peptide-mediated
+GenProp1012	Influenzae A virus protein set
+GenProp1013	Influenzae B virus protein set
+GenProp1016	Seadornavirus protein set
+GenProp1026	Nodulation factor production
+GenProp1034	Decarboxylation/antiport proton-motive cycle: oxalate-formate
+GenProp1037	Radical SAM/SPASM system GRRM
+GenProp1052	Geopeptide radical SAM/SPASM maturase system
+GenProp1053	RSAM/selenodomain system
+GenProp1054	Protein sorting system, MSEP-CTERM/exosortase K
+GenProp1055	Protein sorting system, PEFG-CTERM/thaumarchaeosortase
+GenProp1057	Radical SAM/SPASM system GeoRSP
+GenProp1060	tRNA N6-threonylcarbamoyladenosine modification
+GenProp1061	CRISPR system, PreFran subtype
+GenProp1062	Radical SAM/SPASM system Clo7bot
+GenProp1063	Memo/AMMECR1/rSAM family trio system
+GenProp1065	Radical SAM/SPASM TIGR04347/TIGR04031 system
+GenProp1069	FxLD lantipeptide system
+GenProp1071	Myo-inositol catabolism
+GenProp1072	Cyanase system
+GenProp1074	Type V secretion
+GenProp1075	Ferrous iron transport Feo system
+GenProp1076	Choline TMA-lyase system
+GenProp1077	tRNA(Pro) cmo5UGG modification
+GenProp1078	Sporulation killing factor system
+GenProp1079	Lpt lipopolysaccharide export transenvelope protein complex
+GenProp1080	Protein O-heptosyltransferase with autotransporter target
+GenProp1081	Replication restart, PriA/PriB primosome pathway
+GenProp1082	16S rRNA C1402 m(4)Cm modification
+GenProp1083	Cyanobactin-like ribosomal natural product biosynthesis
+GenProp1085	Pyranoside core peptidyl nucleoside antibiotic biosynthesis
+GenProp1087	Protein sorting system, vault protein/exosortase N
+GenProp1088	Thiosulfate oxidation to sulfate
+GenProp1089	B12-dependent trimeric diol/glycerol dehydratase
+GenProp1090	Radical SAM/SPASM maturase system XYE
+GenProp1095	Exodeoxyribonuclease VII
+GenProp1099	8-oxoguanine DNA repair
+GenProp1100	Mobile element associated three-Cys-motif pair
+GenProp1101	Quinoprotein cytochrome relay system
+GenProp1102	Protein sorting system, CGP-CTERM/unknown of Thermococcaceae
+GenProp1103	Protein sorting system, Synergist-CTERM/unknown of Synergistetes
+GenProp1104	Acyl carrier protein phosphopantetheinylation
 GenProp2012	19S proteasome cap
 GenProp2017	Gamma secretase
 GenProp2021	Apoptosome

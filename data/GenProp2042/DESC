@@ -2,7 +2,7 @@ AC  GenProp2042
 DE  Nuclear pore complex, yeast
 TP  SYSTEM
 AU  Rawlings ND
-TH  1
+TH  5
 RN  [1]
 RM  9843582
 RT  Functional characterization of a Nup159p-containing nuclear 
@@ -105,6 +105,13 @@ CC  itself into two functional components [12].
 **  Evidence for step 11 (NUP116) is parent for evidence for steps
 **  9, 10, 14, and 21, so will not work properly.
 **  Evidence for steps 1 and 22 is the same.
+**  Evidence for step 2 is also used in GP2044 and GP2045.
+**  Evidence for step 10 is also used in GP2036 and GP2037.
+**  Evidence for step 13 is also used in GP2036, GP2037 and GP2043.
+**  Evidence for step 30 is also used in GP2029, GP2037 and GP2043.
+**  Evidence for step 31 is also used in GP2029 and GP2042.
+**  Threshold is therefore set to 5.
+
 --
 SN  1
 ID  Nucleoporin ASM4

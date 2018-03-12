@@ -22,6 +22,7 @@ CC  in a universal tRNA modification, N6-threonylcarbamoyladenosine.
 **  Ecogene says yrdC = rimN, proposed to be a threonine-bicarbonate
 **  ligase. ygjD is previously (incorrectly) gcp. Is it really all four
 **  genes? gmg is two yes, two no!
+**  Evidence for step 2 is also used for GP0799 (GUILD).
 --
 SN  1
 ID  YeaZ protein

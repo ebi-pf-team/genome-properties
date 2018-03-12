@@ -19,6 +19,11 @@ CC  heterotrimeric translocase, although SecG is not essential at some
 CC  temperatures. SecD, SecG, and YajC form an accessory complex that may
 CC  prevent backsliding of proteins being translocated, and may not be
 CC  essential proteins.
+**  Evidence for step 1 is also used in GP0800 (GUILD).
+**  Evidence for step 2 is also used in GP0799 (GUILD).
+**  Evidence for step 5 is also used in GP0799 (GUILD).
+**  Evidence for step 7 is also used in GP0799 (GUILD).
+**  Evidence for step 8 is also used for GP0799 (GUILD) and GP0831.
 --
 SN  1
 ID  Inner membrane protein oxaA

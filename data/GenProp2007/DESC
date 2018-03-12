@@ -2,7 +2,7 @@ AC  GenProp2007
 DE  Complement activation, common pathway 1
 TP  PATHWAY
 AU  Rawlings ND
-TH  4
+TH  2
 RN  [1]
 RM  26489954
 RT  Complement activation, regulation, and molecular basis for complement-
@@ -20,6 +20,8 @@ CC  of the activation pathways.  The classical and lectin pathways converge
 CC  at the activation of the C2/C4 complex, whereas the alternative pathway
 CC  converges at C5 activation [1].  The pathways are found only in 
 CC  chordates.
+**  Evidence for step 4 is also used in GP2009.
+**  Threshold is therefore set to 2.
 --
 SN  1
 ID  Complement C2

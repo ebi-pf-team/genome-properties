@@ -35,6 +35,7 @@ CC  This property refers to the third step in this pathway, the conversion of
 CC  dTDP-4-dehydro-6-deoxy-alpha-D-glucose to dTDP-4-dehydro-L-rhamnose. 
 CC  dTDP-4-dehydro-L-rhamnose is a precursor of both dTDP-L-rhamnose and 
 CC  dTDP-6-deoxy-L-talose.
+**  Evidence for step 2 is also used for GP0912 (GUILD).
 --
 SN  1
 ID  Source of 4,6-dideoxy-4-oxo-dTDP-D-glucose

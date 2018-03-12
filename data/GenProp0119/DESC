@@ -19,6 +19,12 @@ CC  EIIA (enzyme IIA), and then on to EIIB (enzyme IIB), before being
 CC  transferred to the incoming carbohydrate. The carbohydrate is transported 
 CC  by EIIC (enzyme IIC), and occasionally EIID (enzyme IID), which are 
 CC  sugar-specific transmembrane components [1].
+**  Evidence for steps 4, 5 and 6 is the same.
+**  Evidence for step 4 is also used for GP0693.
+**  Evidence for step 5 is also used for GP0271.
+**  Evidence for step 5 is also used for GP0693.
+**  Evidence for step 6 is also used for GP0271.
+**  Evidence for step 6 is also used for GP0693.
 --
 SN  1
 ID  Phosphoenolpyruvate-protein phosphotransferase
@@ -55,6 +61,8 @@ EV  IPR013789; TIGR00824; sufficient;
 TG  GO:0009401;
 EV  IPR001127; TIGR00830; sufficient;
 TG  GO:0009401;
+EV  IPR001127; PF00358; sufficient;
+TG  GO:0009401;
 EV  IPR004715; TIGR00848; sufficient;
 TG  GO:0009401;
 EV  IPR018454; TIGR00849; sufficient;
@@ -62,8 +70,6 @@ TG  GO:0009401;
 EV  IPR011297; TIGR01995; sufficient;
 TG  GO:0009401;
 EV  IPR002178; PF00359; sufficient;
-TG  GO:0009401;
-EV  IPR001127; PF00358; sufficient;
 TG  GO:0009401;
 --
 SN  5

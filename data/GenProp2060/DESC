@@ -1,0 +1,95 @@
+AC  GenProp2060
+DE  COMPASS methyltransferase complex
+TP  SYSTEM
+AU  Rawlings ND
+TH  2
+RN  [1]
+RM  9398665
+RT  SET1, a yeast member of the trithorax family, functions in 
+RT  transcriptional silencing and diverse cellular processes. 
+RA  Nislow C; Ray E; Pillus L;   
+RL  Mol Biol Cell. 1997;8:2421-2436.
+RN  [2]
+RM  11742990
+RT  The Saccharomyces cerevisiae Set1 complex includes an Ash2 
+RT  homologue and methylates histone 3 lysine 4. 
+RA  Miller T; Krogan NJ; Dover J; Erdjument-Bromage H; Tempst P; 
+RA  Johnston M; Greenblatt JF; Shilatifard A;   
+RL  EMBO J. 2001;20:7137-7148.
+RN  [3]
+RM  11687631
+RT  COMPASS: a complex of proteins associated with a trithorax-
+CC  related SET domain protein. 
+RA  Roguev A; Schaft D; Shevchenko A; Pijnappel WW; Wilm M; 
+RA  Aasland R; Stewart AF;   
+RL  Proc Natl Acad Sci U S A 2001;98:12902-12907.
+CC  The COMPASS (Complex Proteins Associated with Set1 or Set1C) 
+CC  complex mono-, di- and trimethylates histone H3 to form 
+CC  H3K4me1/2/3.  This is important for telomere length 
+CC  maintenance and regulation of transcription elongation [1].  
+CC  The complex consists of SET1, BRE2, SPP1, SDC1, SHG1, SWD1, 
+CC  SWD2, and SWD3 [2,3].
+**  This is different enough from the SET1 complex (GP2059) to
+**  merit a difference entry.
+**  Evidence for step 4 is also used in GP2059, GP2061, GP2062 and GP2067.
+**  Evidence for step 5 is also used in GP2059, GP2061, GP2062 and GP2067.
+**  Threshold is therefore set to 2.
+--
+SN  1
+ID  Histone-lysine N-methyltransferase SET1
+DN  Histone-lysine N-methyltransferase SET1 (EC 2.1.1.43)/1
+RQ  1
+EV  IPR017111; PIRSF037104; sufficient;
+EV  IPR017111; PS51572; sufficient;
+TG  GO:0042800;
+TG  GO:0048188;
+--
+SN  2
+ID  WD40-repeat-containing protein SWD3-like
+DN  WD40-repeat-containing protein SWD3-like /2
+RQ  1
+EV  IPR037866; PTHR22847:SF603; sufficient;
+TG  GO:0048188;
+--
+SN  3
+ID  COMPASS component SWD2
+DN  COMPASS component SWD2 /3
+RQ  1
+EV  IPR037867; PTHR19861:SF0; sufficient;
+TG  GO:0048188;
+--
+SN  4
+ID  COMPASS component SWD1 
+DN  COMPASS component SWD1 /4
+RQ  1
+EV  IPR037850; PTHR44040; sufficient;
+TG  GO:0048188;
+--
+SN  5
+ID  COMPASS component BRE2 
+DN  COMPASS component BRE2 /5
+RQ  1
+EV  IPR037353; PTHR10598; sufficient;
+TG  GO:0048188;
+--
+SN  6
+ID  COMPASS component SPP1 
+DN  COMPASS component SPP1 /6
+RQ  1
+EV  IPR037869; PTHR12321:SF97; sufficient;
+TG  GO:0048188;
+--
+SN  7
+ID  COMPASS component SHG1
+DN  COMPASS component SHG1 /7
+RQ  1
+EV  IPR007870; PD086658; sufficient;
+TG  GO:0048188;
+--
+SN  8
+ID  COMPASS component SDC1
+DN  COMPASS component SDC1 /8
+RQ  1
+EV  IPR037870; PTHR23356:SF8; sufficient;
+TG  GO:0048188;
+//

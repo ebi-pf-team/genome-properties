@@ -9,6 +9,7 @@ CC  4-acetamido-4,6-dideoxy-D-galactose and ManNAcA is
 CC  N-acetyl-D-mannosaminuronic acid.  Polymerization and translocation
 CC  from the cytoplasmic face to the periplasmic face of the plasma
 CC  membrane is handled by an ECA-specific wzx/wzy/wzz system.
+**  Evidence for step 13 is also used for GP0912 (GUILD), GP0932, GP0947, GP0953 and GP0968.
 --
 SN  1
 ID  Source of dTDP-4-acetamido-4,6-dideoxy-D-galactose (dTDP-Fuc4NAc)
