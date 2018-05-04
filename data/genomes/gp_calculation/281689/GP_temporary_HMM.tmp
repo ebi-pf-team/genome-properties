@@ -1,0 +1,15 @@
+#                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name          accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#  ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+tr|Q1K416|Q1K416_DESAC -            456 Wzy_C                PF04932.12   155   9.2e-18   61.9   0.2   1   1   5.7e-21   9.2e-18   61.9   0.2     5   155   237   372   233   372 0.76 O-antigen polymerase OS=Desulfuromonas acetoxidans DSM 684 GN=Dace_3153 PE=4 SV=1
+tr|Q1K149|Q1K149_DESAC -            390 Wzy_C                PF04932.12   155   2.6e-14   50.7   7.2   1   1   1.6e-17   2.6e-14   50.7   7.2     6   154   192   326   187   327 0.88 O-antigen polymerase OS=Desulfuromonas acetoxidans DSM 684 GN=Dace_1623 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM
+# Target file:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/281689.fasta
+# Option settings: /nfs/production/xfam/pfam/software/bin/hmmsearch --domtblout GP_temporary_HMM.tmp --noali --cut_tc --cpu 4 /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/281689.fasta 
+# Current dir:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/gp_calculation/281689
+# Date:            Thu Aug 10 15:36:15 2017
+# [ok]

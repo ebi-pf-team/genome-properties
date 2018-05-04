@@ -1,0 +1,15 @@
+#                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name          accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#  ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+tr|I0IRM2|I0IRM2_LEPFC -            546 Wzy_C                PF04932.12   155   2.3e-22   76.5   1.5   1   1   1.9e-25   2.3e-22   76.5   1.5     6   155   318   468   309   468 0.87 Putative o-antigen polymerase OS=Leptospirillum ferrooxidans (strain C2-3) GN=LFE_2249 PE=4 SV=1
+tr|I0IPA2|I0IPA2_LEPFC -            325 Wzy_C                PF04932.12   155   1.3e-15   54.5   1.9   1   1   1.1e-18   1.3e-15   54.5   1.9     3   153    96   231    90   233 0.90 Putative o-antigen polymerase OS=Leptospirillum ferrooxidans (strain C2-3) GN=LFE_1418 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM
+# Target file:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/1162668.fasta
+# Option settings: /nfs/production/xfam/pfam/software/bin/hmmsearch --domtblout GP_temporary_HMM.tmp --noali --cut_tc --cpu 4 /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/1162668.fasta 
+# Current dir:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/gp_calculation/1162668
+# Date:            Thu Aug 10 15:35:17 2017
+# [ok]

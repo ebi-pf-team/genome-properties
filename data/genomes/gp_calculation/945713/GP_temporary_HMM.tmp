@@ -1,0 +1,18 @@
+#                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name          accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#  ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+tr|I0AMG3|I0AMG3_IGNAJ -            428 Wzy_C                PF04932.12   155   9.7e-15   52.1  15.9   1   1   1.5e-17   9.7e-15   52.1  15.9     1   155   209   360   209   360 0.82 Lipid A core-like protein OS=Ignavibacterium album (strain DSM 19864 / JCM 16511 / NBRC 101810 / Mat9-16) GN=IALB_2467 PE=4 SV=1
+tr|I0AHD2|I0AHD2_IGNAJ -            616 Wzy_C                PF04932.12   155   5.4e-14   49.7  12.6   1   1   8.6e-17   5.4e-14   49.7  12.6     3   155   195   346   159   346 0.71 Uncharacterized protein OS=Ignavibacterium album (strain DSM 19864 / JCM 16511 / NBRC 101810 / Mat9-16) GN=IALB_0677 PE=4 SV=1
+tr|I0ALC8|I0ALC8_IGNAJ -            474 Wzy_C                PF04932.12   155   5.3e-13   46.4  14.0   1   1   8.3e-16   5.3e-13   46.4  14.0     4   153   243   388   240   390 0.83 Uncharacterized protein OS=Ignavibacterium album (strain DSM 19864 / JCM 16511 / NBRC 101810 / Mat9-16) GN=IALB_2080 PE=4 SV=1
+tr|I0AJG9|I0AJG9_IGNAJ -            406 Wzy_C                PF04932.12   155   1.1e-10   38.9   9.3   1   1   1.7e-13   1.1e-10   38.9   9.3     2   154   222   347   221   348 0.81 Uncharacterized protein OS=Ignavibacterium album (strain DSM 19864 / JCM 16511 / NBRC 101810 / Mat9-16) GN=IALB_1416 PE=4 SV=1
+tr|I0AGG6|I0AGG6_IGNAJ -            392 Wzy_C                PF04932.12   155   8.4e-09   32.8   5.5   1   1   1.3e-11   8.4e-09   32.8   5.5     2   155   181   316   177   316 0.80 Uncharacterized protein OS=Ignavibacterium album (strain DSM 19864 / JCM 16511 / NBRC 101810 / Mat9-16) GN=IALB_0361 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM
+# Target file:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/945713.fasta
+# Option settings: /nfs/production/xfam/pfam/software/bin/hmmsearch --domtblout GP_temporary_HMM.tmp --noali --cut_tc --cpu 4 /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/945713.fasta 
+# Current dir:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/gp_calculation/945713
+# Date:            Thu Aug 10 15:34:12 2017
+# [ok]

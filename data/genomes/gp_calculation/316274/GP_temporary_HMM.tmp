@@ -1,0 +1,19 @@
+#                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name          accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#  ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+tr|A9AZ26|A9AZ26_HERA2 -            474 Wzy_C                PF04932.12   155   2.4e-24   84.0   1.5   1   1   2.8e-27   2.4e-24   84.0   1.5     2   155   247   402   246   402 0.84 O-antigen polymerase OS=Herpetosiphon aurantiacus (strain ATCC 23779 / DSM 785) GN=Haur_4434 PE=4 SV=1
+tr|A9B578|A9B578_HERA2 -            501 Wzy_C                PF04932.12   155   5.1e-18   63.4   0.0   1   1   5.9e-21   5.1e-18   63.4   0.0     6   154   270   415   265   416 0.89 O-antigen polymerase OS=Herpetosiphon aurantiacus (strain ATCC 23779 / DSM 785) GN=Haur_3579 PE=4 SV=1
+tr|A9AYP0|A9AYP0_HERA2 -            700 Wzy_C                PF04932.12   155   1.1e-17   62.4   5.1   1   1   1.3e-20   1.1e-17   62.4   5.1     5   154   501   635   495   636 0.85 O-antigen polymerase OS=Herpetosiphon aurantiacus (strain ATCC 23779 / DSM 785) GN=Haur_2378 PE=4 SV=1
+tr|A9B4G0|A9B4G0_HERA2 -            502 Wzy_C                PF04932.12   155   3.1e-13   47.9  10.7   1   1   3.5e-16   3.1e-13   47.9  10.7     2   154   291   432   249   433 0.67 O-antigen polymerase OS=Herpetosiphon aurantiacus (strain ATCC 23779 / DSM 785) GN=Haur_0065 PE=4 SV=1
+tr|A9AZP3|A9AZP3_HERA2 -            479 Wzy_C                PF04932.12   155   2.4e-12   45.0   9.6   1   1   2.7e-15   2.4e-12   45.0   9.6     4   155   270   398   267   398 0.82 O-antigen polymerase OS=Herpetosiphon aurantiacus (strain ATCC 23779 / DSM 785) GN=Haur_4465 PE=4 SV=1
+tr|A9B824|A9B824_HERA2 -           1141 Wzy_C                PF04932.12   155   1.2e-07   29.8   1.5   1   1   1.3e-10   1.2e-07   29.8   1.5     3   152   393   567   391   570 0.72 Tetratricopeptide TPR_2 repeat protein OS=Herpetosiphon aurantiacus (strain ATCC 23779 / DSM 785) GN=Haur_3321 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM
+# Target file:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/316274.fasta
+# Option settings: /nfs/production/xfam/pfam/software/bin/hmmsearch --domtblout GP_temporary_HMM.tmp --noali --cut_tc --cpu 4 /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/316274.fasta 
+# Current dir:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/gp_calculation/316274
+# Date:            Thu Aug 10 15:39:19 2017
+# [ok]

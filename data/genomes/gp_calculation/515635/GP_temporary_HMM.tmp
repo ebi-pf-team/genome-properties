@@ -1,0 +1,17 @@
+#                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name          accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#  ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+tr|B8DYV5|B8DYV5_DICTD -            390 Wzy_C                PF04932.12   155   5.5e-17   58.5  11.3   1   1   1.3e-19   5.5e-17   58.5  11.3     2   154   174   327   171   328 0.73 O-antigen polymerase OS=Dictyoglomus turgidum (strain Z-1310 / DSM 6724) GN=Dtur_0156 PE=4 SV=1
+tr|B8E0S1|B8E0S1_DICTD -            870 Wzy_C                PF04932.12   155   3.9e-16   55.8   1.6   1   1     9e-19   3.9e-16   55.8   1.6     1   155   219   394   219   394 0.72 TPR repeat-containing protein OS=Dictyoglomus turgidum (strain Z-1310 / DSM 6724) GN=Dtur_1384 PE=4 SV=1
+tr|B8DZR6|B8DZR6_DICTD -            781 Wzy_C                PF04932.12   155   5.8e-16   55.2  16.1   1   1   1.3e-18   5.8e-16   55.2  16.1     2   155   227   377   226   377 0.83 O-antigen polymerase OS=Dictyoglomus turgidum (strain Z-1310 / DSM 6724) GN=Dtur_0714 PE=4 SV=1
+tr|B8DZD8|B8DZD8_DICTD -            449 Wzy_C                PF04932.12   155   1.5e-09   34.4  12.4   1   1   3.5e-12   1.5e-09   34.4  12.4     4   155   224   379   218   379 0.82 O-antigen polymerase OS=Dictyoglomus turgidum (strain Z-1310 / DSM 6724) GN=Dtur_0583 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM
+# Target file:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/515635.fasta
+# Option settings: /nfs/production/xfam/pfam/software/bin/hmmsearch --domtblout GP_temporary_HMM.tmp --noali --cut_tc --cpu 4 /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/515635.fasta 
+# Current dir:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/gp_calculation/515635
+# Date:            Thu Aug 10 15:33:49 2017
+# [ok]

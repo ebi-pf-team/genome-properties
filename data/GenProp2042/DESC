@@ -260,7 +260,7 @@ SN  21
 ID  Nucleoporin NUP49/NSP49
 DN  Nucleoporin NUP49/NSP49/21
 RQ  1
-EV  -; PTHR23198:SF12; sufficient;
+EV  IPR039079; PTHR23198:SF12; sufficient;
 TG  GO:0017056;
 --
 SN  22

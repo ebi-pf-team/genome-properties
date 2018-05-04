@@ -1,0 +1,148 @@
+[Clostridium] cellulosi	29343
+Acetobacter aceti NBRC 14818	887700
+Acholeplasma laidlawii PG-8A	441768
+Acidimicrobium ferrooxidans DSM 10331	525909
+Acidithiobacillus caldus ATCC 51756	637389
+Acidobacterium capsulatum ATCC 51196	240015
+Aeromonas hydrophila subsp. hydrophila ATCC 7966	380703
+Anabaena cylindrica PCC 7122	272123
+Anaerolinea thermophila UNI-1	926569
+Aquifex aeolicus VF5	224324
+Arabidopsis thaliana	3702
+Archaeoglobus fulgidus DSM 4304	224325
+Atopobium parvulum DSM 20469	521095
+Azoarcus sp. BH72	62928
+Bacillus subtilis subsp. subtilis str. 168	224308
+Bacteroides fragilis NCTC 9343	272559
+Bdellovibrio bacteriovorus HD100	264462
+Bifidobacterium adolescentis ATCC 15703	367928
+Brucella abortus 2308	359391
+Burkholderia cenocepacia J2315	216591
+Caenorhabditis elegans	6239
+Caldilinea aerophila DSM 14535	926550
+Caldisericum exile AZM16c01	511051
+Campylobacter jejuni subsp. jejuni NCTC 11168 = ATCC 700819	192222
+Candidatus Thorarchaeota archaeon AB_25	1837170
+Cloacimonas acidaminovorans (strain Evry)	459349
+Candidatus Korarchaeum cryptofilum OPF8	374847
+Candidatus Lokiarchaeota archaeon CR_4	1849166
+Candidatus Nitrososphaera gargensis Ga9.2	1237085
+Candidatus Odinarchaeota archaeon LCB_4	1841599
+Candidatus Saccharimonas aalborgensis	1332188
+Caulobacter crescentus CB15	190650
+Chlamydia trachomatis D/UW-3/CX	272561
+Chlorobium limicola DSM 245	290315
+Chloroflexus aurantiacus J-10-fl	324602
+Chroococcidiopsis thermalis PCC 7203	251229
+Chthoniobacter flavus Ellin428	497964
+Chthonomonas calidirosea  T49	1303518
+Clostridium botulinum A str. Hall	441771
+Clostridium sporogenes	1509
+Cyclobacterium marinum DSM 745	880070
+Dehalococcoides ethenogenes 195	243164
+Deinococcus radiodurans R1	243230
+Delftia acidovorans SPH-1	398578
+Desulfarculus baarsii DSM 2075	644282
+Desulfomonile tiedjei DSM 6799	706587
+Desulfovibrio africanus Walvis Bay	690850
+Desulfurispirillum indicum S5	653733
+Desulfuromonas acetoxidans DSM 684	281689
+Dethiosulfovibrio peptidovorans DSM 11002	469381
+Dichelobacter nodosus VCS1703A	246195
+Dickeya chrysanthemi Ech1591	561229
+Dictyoglomus turgidum DSM 6724	515635
+Dictyostelium discoideum AX4	44689
+Drosophila melanogaster	7227
+Elizabethkingia anophelis NUHP1	1338011
+Erysipelothrix rhusiopathiae str. Fujisawa	650150
+Erythrobacter litoralis HTCC2594	314225
+Escherichia coli K12	83333
+Fibrobacter succinogenes subsp. succinogenes S85	59374
+Fischerella sp. JSC-11	741277
+Flexistipes sinusarabici DSM 4947	717231
+Francisella tularensis subsp. tularensis SCHU S4	177416
+Gallibacterium anatis UMN179	1005058
+Gemmata sp. SH-PL17	1630693
+Gemmatimonas aurantiaca T-27	379066
+Geobacter sulfurreducens PCA	243231
+Granulicella mallensis MP5ACTX8	682795
+Halanaerobium praevalens DSM 2228	572479
+Haloarcula marismortui ATCC 43049	272569
+Haloferax mediterranei ATCC 33500	523841
+Halomonas elongata DSM 2581	768066
+Halothiobacillus neapolitanus c2	555778
+Herpetosiphon aurantiacus ATCC 23779	316274
+Hippea maritima DSM 10411	760142
+human	9606
+Ignavibacterium album JCM 16511	945713
+Influenza A virus (A/Sendai/EQ080/2011(H3N2))	1111798
+Ktedonobacter racemifer DSM 44963	485913
+Lactobacillus brevis	1580
+Lactobacillus brevis ATCC 367	387344
+Lactococcus lactis subsp. lactis	1360
+Lactococcus lactis subsp. lactis Il1403	272623
+Legionella pneumophila subsp. pneumophila str. Philadelphia 1	272624
+Leisingera methylohalidivorans DSM 14336	999552
+Lentisphaera araneosa HTCC2155	313628
+Leptospirillum ferrooxidans C2-3	1162668
+Methanocaldococcus jannaschii DSM 2661	243232
+Methanohalophilus mahii DSM 5219	547558
+Methanopyrus kandleri AV19	190192
+Methanosarcina mazei Go1	192952
+Methanothermus fervidus DSM 2088	523846
+Methylobacillus flagellatus KT	265072
+Methylococcus capsulatus str. Bath	243233
+Methylocystis sp. SC2	187303
+mouse	10090
+Mumia flava	1348852
+Mycobacterium tuberculosis strain ATCC 25618 / H37Rv	83332
+Mycoplasma genitalium G37	243273
+Myxococcus xanthus DK 1622	246197
+Nanoarchaeum equitans Kin4-M	228908
+Natranaerobius thermophilus JW/NM-WN-LF	457570
+Nautilia profundicola AmH	598659
+Neisseria gonorrhoeae FA 1090	242231
+Nitrosomonas europaea ATCC 19718	228410
+Opitutus terrae PB90-1	452637
+Parvularcula bermudensis HTCC2503	314260
+Pasteurella multocida subsp. multocida str. Pm70	272843
+Phycisphaera mikurensis NBRC 102666	1142394
+Plasmodium falciparum 3D7	36329
+Porphyromonas gingivalis W83	242619
+Prochlorococcus marinus MED4	59919
+Pseudomonas aeruginosa PAO1	208964
+Pseudomonas fluorescens HK44	1042209
+Pyrococcus furiosus DSM 3638	186497
+Ralstonia solanacearum GMI1000	267608
+Rickettsia prowazekii str. Madrid E	272947
+Roseobacter denitrificans OCh 114	375451
+Rubrobacter xylanophilus DSM 9941	266117
+Ruminococcus albus 8	246199
+Saccharomyces cerevisiae S288C	559292
+Salinisphaera shabanensis E1L3A	1033802
+Schizosaccharomyces pombe 972h-	284812
+Shewanella oneidensis MR-1	211586
+Shinella sp. DD12	1410620
+Solibacter usitatus Ellin6076	234267
+Sphaerobacter thermophilus DSM 20745	479434
+Sphingobacterium spiritivorum ATCC 33861	525373
+Spiroplasma melliferum KC3	570509
+Staphylococcus aureus subsp. aureus NCTC 8325	93061
+Streptomyces griseus subsp. griseus NBRC 13350	455632
+Sulfolobus solfataricus P2	273057
+Sulfuricella denitrificans skB26	1163617
+Synechococcus elongatus PCC 7942	1140
+Thermoanaerobacter pseudethanolicus ATCC 33223	340099
+Thermodesulfatator indicus DSM 15286	667014
+Thermomicrobium roseum DSM 5159	309801
+Thermoplasma acidophilum DSM 1728	273075
+Thermotoga maritima MSB8	243274
+Thermus aquaticus Y51MC23	498848
+Treponema denticola ATCC 35405	243275
+Trichodesmium erythraeum IMS101	203124
+uncultured Termite group 1 bacterium phylotype Rs-D17	471821
+Verrucomicrobiae bacterium DG1235	382464
+Vibrio cholerae O1 biovar eltor str. N16961	243277
+Winogradskyella sp. PG-2	754409
+Xanthomonas campestris pv. campestris str. ATCC 33913	190485
+Zea mays	4577

@@ -1,0 +1,16 @@
+#                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name          accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#  ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+tr|S6ABD4|S6ABD4_9PROT -            303 Wzy_C                PF04932.12   155   2.4e-18   63.7   5.5   1   1   2.8e-21   2.8e-18   63.5   1.3     5   155    74   228    37   228 0.77 Uncharacterized protein OS=Sulfuricella denitrificans skB26 GN=SCD_n02871 PE=4 SV=1
+tr|S6ABH8|S6ABH8_9PROT -            442 Wzy_C                PF04932.12   155   2.5e-15   53.9   1.7   1   1   2.5e-18   2.5e-15   53.9   1.7     2   155   201   337   200   337 0.91 Uncharacterized protein OS=Sulfuricella denitrificans skB26 GN=SCD_n02966 PE=4 SV=1
+tr|S6ADS8|S6ADS8_9PROT -            428 Wzy_C                PF04932.12   155   4.4e-13   46.7   0.6   1   1   4.3e-16   4.4e-13   46.7   0.6     4   155   209   353   206   353 0.76 Uncharacterized protein OS=Sulfuricella denitrificans skB26 GN=SCD_n02909 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM
+# Target file:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/1163617.fasta
+# Option settings: /nfs/production/xfam/pfam/software/bin/hmmsearch --domtblout GP_temporary_HMM.tmp --noali --cut_tc --cpu 4 /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/1163617.fasta 
+# Current dir:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/gp_calculation/1163617
+# Date:            Thu Aug 10 15:46:28 2017
+# [ok]

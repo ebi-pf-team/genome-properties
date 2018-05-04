@@ -1,0 +1,16 @@
+#                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name          accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#  ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+tr|Q1D7Y8|Q1D7Y8_MYXXD -            426 Wzy_C                PF04932.12   155   4.5e-19   67.4   3.2   1   1   2.4e-22   4.5e-19   67.4   3.2     2   155   198   335   197   335 0.86 O-antigen polymerase family protein OS=Myxococcus xanthus (strain DK 1622) GN=MXAN_3026 PE=4 SV=1
+tr|Q1DDG0|Q1DDG0_MYXXD -            889 Wzy_C                PF04932.12   155   5.3e-17   60.6   0.2   1   1   2.9e-20   5.3e-17   60.6   0.2     5   154   253   400   249   401 0.94 O-antigen polymerase family protein OS=Myxococcus xanthus (strain DK 1622) GN=MXAN_1052 PE=4 SV=1
+tr|Q1CVM6|Q1CVM6_MYXXD -            508 Wzy_C                PF04932.12   155   4.1e-08   31.7   1.0   1   1   2.3e-11   4.1e-08   31.7   1.0     3   153   247   397   245   399 0.86 Putative membrane protein OS=Myxococcus xanthus (strain DK 1622) GN=MXAN_7442 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM
+# Target file:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/246197.fasta
+# Option settings: /nfs/production/xfam/pfam/software/bin/hmmsearch --domtblout GP_temporary_HMM.tmp --noali --cut_tc --cpu 4 /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/246197.fasta 
+# Current dir:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/gp_calculation/246197
+# Date:            Thu Aug 10 15:38:07 2017
+# [ok]

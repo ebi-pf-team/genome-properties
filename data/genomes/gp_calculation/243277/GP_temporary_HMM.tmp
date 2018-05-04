@@ -1,0 +1,16 @@
+#                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name          accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#  ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+tr|Q9KTH1|Q9KTH1_VIBCH -            438 Wzy_C                PF04932.12   155   2.2e-20   70.7   0.8   1   1   1.7e-23   2.2e-20   70.7   0.8     2   154   217   359   216   360 0.81 Uncharacterized protein OS=Vibrio cholerae serotype O1 (strain ATCC 39315 / El Tor Inaba N16961) GN=VC_0931 PE=4 SV=1
+tr|H9L4P0|H9L4P0_VIBCH -            399 Wzy_C                PF04932.12   155   6.6e-18   62.6   3.4   1   1   5.3e-21   6.6e-18   62.6   3.4     3   154   173   329   171   330 0.83 Uncharacterized protein OS=Vibrio cholerae serotype O1 (strain ATCC 39315 / El Tor Inaba N16961) GN=VC_0237 PE=4 SV=1
+tr|Q9KUW6|Q9KUW6_VIBCH -            597 Wzy_C                PF04932.12   155   1.2e-14   52.0   1.2   1   1   9.4e-18   1.2e-14   52.0   1.2     4   153   224   369   221   371 0.81 Uncharacterized protein OS=Vibrio cholerae serotype O1 (strain ATCC 39315 / El Tor Inaba N16961) GN=VC_0393 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM
+# Target file:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/243277.fasta
+# Option settings: /nfs/production/xfam/pfam/software/bin/hmmsearch --domtblout GP_temporary_HMM.tmp --noali --cut_tc --cpu 4 /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/243277.fasta 
+# Current dir:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/gp_calculation/243277
+# Date:            Thu Aug 10 15:34:30 2017
+# [ok]

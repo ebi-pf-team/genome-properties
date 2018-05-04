@@ -1,0 +1,20 @@
+#                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name          accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#  ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+tr|I0I821|I0I821_CALAS -            477 Wzy_C                PF04932.12   155   2.6e-19   67.3   2.4   1   1   5.1e-22   2.6e-19   67.3   2.4     2   155   246   404   245   404 0.80 O-antigen polymerase family protein OS=Caldilinea aerophila (strain DSM 14535 / JCM 11387 / NBRC 104270 / STL-6-O1) GN=CLDAP_33690 PE=4 SV=1
+tr|I0I9X8|I0I9X8_CALAS -            424 Wzy_C                PF04932.12   155   1.3e-18   65.0   3.1   1   1   2.5e-21   1.3e-18   65.0   3.1     2   155   202   342   201   342 0.89 O-antigen polymerase family protein OS=Caldilinea aerophila (strain DSM 14535 / JCM 11387 / NBRC 104270 / STL-6-O1) GN=CLDAP_40260 PE=4 SV=1
+tr|I0I8S6|I0I8S6_CALAS -            549 Wzy_C                PF04932.12   155   1.4e-17   61.7   7.5   1   1   2.8e-20   1.4e-17   61.7   7.5     5   155   140   287   131   287 0.78 Uncharacterized protein OS=Caldilinea aerophila (strain DSM 14535 / JCM 11387 / NBRC 104270 / STL-6-O1) GN=CLDAP_36240 PE=4 SV=1
+tr|I0I7T4|I0I7T4_CALAS -            731 Wzy_C                PF04932.12   155   1.5e-16   58.4   2.8   1   1   2.9e-19   1.5e-16   58.4   2.8     4   153   509   654   505   655 0.80 Uncharacterized protein OS=Caldilinea aerophila (strain DSM 14535 / JCM 11387 / NBRC 104270 / STL-6-O1) GN=CLDAP_32820 PE=4 SV=1
+tr|I0HYS1|I0HYS1_CALAS -            852 Wzy_C                PF04932.12   155   4.3e-12   43.9  12.5   1   1   8.3e-15   4.3e-12   43.9  12.5     2   154   642   786   640   787 0.76 Uncharacterized protein OS=Caldilinea aerophila (strain DSM 14535 / JCM 11387 / NBRC 104270 / STL-6-O1) GN=CLDAP_01190 PE=4 SV=1
+tr|I0I219|I0I219_CALAS -            486 Wzy_C                PF04932.12   155     4e-10   37.4   7.7   1   1   7.8e-13     4e-10   37.4   7.7     5   154   281   403   273   404 0.82 O-antigen polymerase family protein OS=Caldilinea aerophila (strain DSM 14535 / JCM 11387 / NBRC 104270 / STL-6-O1) GN=CLDAP_12670 PE=4 SV=1
+tr|I0I1D8|I0I1D8_CALAS -           1196 Wzy_C                PF04932.12   155   1.9e-06   25.5   6.8   1   1   3.7e-09   1.9e-06   25.5   6.8     1   155   232   412   232   412 0.82 Uncharacterized protein OS=Caldilinea aerophila (strain DSM 14535 / JCM 11387 / NBRC 104270 / STL-6-O1) GN=CLDAP_10360 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM
+# Target file:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/926550.fasta
+# Option settings: /nfs/production/xfam/pfam/software/bin/hmmsearch --domtblout GP_temporary_HMM.tmp --noali --cut_tc --cpu 4 /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/926550.fasta 
+# Current dir:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/gp_calculation/926550
+# Date:            Thu Aug 10 15:37:33 2017
+# [ok]

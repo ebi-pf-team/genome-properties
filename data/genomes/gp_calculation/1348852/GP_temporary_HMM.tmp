@@ -1,0 +1,16 @@
+#                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                  accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#          ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+tr|A0A0B2AW15|A0A0B2AW15_9ACTN -            426 Wzy_C                PF04932.12   155   4.5e-17   61.8   2.3   1   1   9.5e-21   4.5e-17   61.8   2.3     6   153   199   346   194   348 0.88 Polymerase OS=Mumia flava GN=LK11_66755 PE=4 SV=1
+tr|A0A0B2B602|A0A0B2B602_9ACTN -            591 Wzy_C                PF04932.12   155   1.5e-16   60.1   4.3   1   1   3.2e-20   1.5e-16   60.1   4.3     3   154   208   360   205   361 0.82 Polymerase OS=Mumia flava GN=LK11_40580 PE=4 SV=1
+tr|A0A0B2AWC7|A0A0B2AWC7_9ACTN -            426 Wzy_C                PF04932.12   155   4.5e-13   48.8   6.3   1   1   9.5e-17   4.5e-13   48.8   6.3     7   155   200   351   175   351 0.59 Polymerase OS=Mumia flava GN=LK11_57610 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM
+# Target file:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/1348852.fasta
+# Option settings: /nfs/production/xfam/pfam/software/bin/hmmsearch --domtblout GP_temporary_HMM.tmp --noali --cut_tc --cpu 4 /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/1348852.fasta 
+# Current dir:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/gp_calculation/1348852
+# Date:            Thu Aug 10 15:45:46 2017
+# [ok]

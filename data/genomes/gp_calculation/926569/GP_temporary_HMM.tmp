@@ -1,0 +1,18 @@
+#                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name          accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#  ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+tr|E8N3D8|E8N3D8_ANATU -            408 Wzy_C                PF04932.12   155   5.5e-21   72.3   6.5   1   1   8.9e-24   5.5e-21   72.3   6.5     4   155   194   330   191   330 0.95 O-antigen polymerase family protein OS=Anaerolinea thermophila (strain DSM 14523 / JCM 11388 / NBRC 100420 / UNI-1) GN=ANT_09180 PE=4 SV=1
+tr|E8N1G7|E8N1G7_ANATU -            770 Wzy_C                PF04932.12   155   1.2e-20   71.3   9.4   1   1   1.9e-23   1.2e-20   71.3   9.4     3   155   208   358   206   358 0.82 O-antigen polymerase family protein OS=Anaerolinea thermophila (strain DSM 14523 / JCM 11388 / NBRC 100420 / UNI-1) GN=ANT_28840 PE=4 SV=1
+tr|E8N088|E8N088_ANATU -            443 Wzy_C                PF04932.12   155   5.6e-11   39.8   6.0   1   1     9e-14   5.6e-11   39.8   6.0     3   154   236   372   233   373 0.79 Hypothetical membrane protein OS=Anaerolinea thermophila (strain DSM 14523 / JCM 11388 / NBRC 100420 / UNI-1) GN=ANT_26110 PE=4 SV=1
+tr|E8N200|E8N200_ANATU -            484 Wzy_C                PF04932.12   155   7.7e-11   39.4   7.3   1   1   1.2e-13   7.7e-11   39.4   7.3     3   155   224   416   222   416 0.69 O-antigen polymerase family protein OS=Anaerolinea thermophila (strain DSM 14523 / JCM 11388 / NBRC 100420 / UNI-1) GN=ANT_29210 PE=4 SV=1
+tr|E8MXH6|E8MXH6_ANATU -            482 Wzy_C                PF04932.12   155   2.8e-08   31.1  22.0   1   1   4.6e-11   2.8e-08   31.1  22.0    15   155   280   398   158   398 0.68 O-antigen polymerase family protein OS=Anaerolinea thermophila (strain DSM 14523 / JCM 11388 / NBRC 100420 / UNI-1) GN=ANT_20310 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM
+# Target file:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/926569.fasta
+# Option settings: /nfs/production/xfam/pfam/software/bin/hmmsearch --domtblout GP_temporary_HMM.tmp --noali --cut_tc --cpu 4 /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/926569.fasta 
+# Current dir:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/gp_calculation/926569
+# Date:            Thu Aug 10 15:34:40 2017
+# [ok]

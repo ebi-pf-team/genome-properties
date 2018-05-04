@@ -1,0 +1,15 @@
+#                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name          accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#  ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+tr|Q7MXR0|Q7MXR0_PORGI -            407 Wzy_C                PF04932.12   155   2.9e-12   43.3   6.5   1   1   3.1e-15   2.9e-12   43.3   6.5     3   155   195   343   193   343 0.82 Uncharacterized protein OS=Porphyromonas gingivalis (strain ATCC BAA-308 / W83) GN=PG_0109 PE=4 SV=1
+tr|Q7MVK6|Q7MVK6_PORGI -            471 Wzy_C                PF04932.12   155   2.5e-09   33.8  10.2   1   1   2.7e-12   2.5e-09   33.8  10.2     2   154   278   408   277   409 0.84 Uncharacterized protein OS=Porphyromonas gingivalis (strain ATCC BAA-308 / W83) GN=PG_1051 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM
+# Target file:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/242619.fasta
+# Option settings: /nfs/production/xfam/pfam/software/bin/hmmsearch --domtblout GP_temporary_HMM.tmp --noali --cut_tc --cpu 4 /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/242619.fasta 
+# Current dir:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/gp_calculation/242619
+# Date:            Thu Aug 10 15:33:05 2017
+# [ok]

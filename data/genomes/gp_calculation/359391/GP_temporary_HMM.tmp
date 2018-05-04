@@ -1,0 +1,15 @@
+#                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name          accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#  ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+tr|Q2YMX2|Q2YMX2_BRUA2 -            703 Wzy_C                PF04932.12   155   3.3e-17   60.0   2.8   1   1   2.2e-20   3.3e-17   60.0   2.8     2   154   458   623   456   624 0.84 Glycosyl transferase, family 25:O-antigen polymerase OS=Brucella abortus (strain 2308) GN=BAB1_0639 PE=4 SV=1
+tr|Q2YJ92|Q2YJ92_BRUA2 -            441 Wzy_C                PF04932.12   155   2.6e-16   57.1   7.8   1   1   1.7e-19   2.6e-16   57.1   7.8     8   154   224   365   188   366 0.88 Blood group Rhesus C/E and D polypeptide:O-antigen polymerase OS=Brucella abortus (strain 2308) GN=BAB2_0106 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM
+# Target file:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/359391.fasta
+# Option settings: /nfs/production/xfam/pfam/software/bin/hmmsearch --domtblout GP_temporary_HMM.tmp --noali --cut_tc --cpu 4 /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/359391.fasta 
+# Current dir:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/gp_calculation/359391
+# Date:            Thu Aug 10 15:34:19 2017
+# [ok]

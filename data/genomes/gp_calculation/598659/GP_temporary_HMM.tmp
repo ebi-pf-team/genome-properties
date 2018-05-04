@@ -1,0 +1,15 @@
+#                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name          accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#  ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+tr|B9L6V7|B9L6V7_NAUPA -            421 Wzy_C                PF04932.12   155   6.7e-15   51.7   5.9   1   1   7.8e-18   6.7e-15   51.7   5.9     1   155   182   346   182   346 0.72 O-Antigen Polymerase family OS=Nautilia profundicola (strain ATCC BAA-1463 / DSM 18972 / AmH) GN=NAMH_1715 PE=4 SV=1
+tr|B9L6P8|B9L6P8_NAUPA -            424 Wzy_C                PF04932.12   155   4.7e-11   39.2  12.1   1   1   5.5e-14   4.7e-11   39.2  12.1     3   153   212   344   210   346 0.75 O-Antigen Polymerase family OS=Nautilia profundicola (strain ATCC BAA-1463 / DSM 18972 / AmH) GN=NAMH_1656 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM
+# Target file:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/598659.fasta
+# Option settings: /nfs/production/xfam/pfam/software/bin/hmmsearch --domtblout GP_temporary_HMM.tmp --noali --cut_tc --cpu 4 /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/598659.fasta 
+# Current dir:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/gp_calculation/598659
+# Date:            Thu Aug 10 15:33:35 2017
+# [ok]

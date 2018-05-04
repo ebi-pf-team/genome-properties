@@ -1,0 +1,17 @@
+#                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name          accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#  ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+tr|Q1AYJ5|Q1AYJ5_RUBXD -            647 Wzy_C                PF04932.12   155   3.2e-17   60.1   0.5   1   1   4.1e-20   3.2e-17   60.1   0.5     2   154   200   429   199   430 0.72 O-antigen polymerase OS=Rubrobacter xylanophilus (strain DSM 9941 / NBRC 16129) GN=Rxyl_0559 PE=4 SV=1
+tr|Q1AUM9|Q1AUM9_RUBXD -            653 Wzy_C                PF04932.12   155   4.7e-17   59.6   1.2   1   1     6e-20   4.7e-17   59.6   1.2     2   154   202   430   201   431 0.88 O-antigen polymerase OS=Rubrobacter xylanophilus (strain DSM 9941 / NBRC 16129) GN=Rxyl_1952 PE=4 SV=1
+tr|Q1AUP1|Q1AUP1_RUBXD -            453 Wzy_C                PF04932.12   155   4.4e-14   49.9   9.1   1   1   5.7e-17   4.4e-14   49.9   9.1     6   154   241   390   233   391 0.68 O-antigen polymerase OS=Rubrobacter xylanophilus (strain DSM 9941 / NBRC 16129) GN=Rxyl_1940 PE=4 SV=1
+tr|Q1ASL7|Q1ASL7_RUBXD -            535 Wzy_C                PF04932.12   155   2.1e-13   47.7  12.6   1   1   2.7e-16   2.1e-13   47.7  12.6     2   154   222   450   220   451 0.79 O-antigen polymerase OS=Rubrobacter xylanophilus (strain DSM 9941 / NBRC 16129) GN=Rxyl_2694 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM
+# Target file:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/266117.fasta
+# Option settings: /nfs/production/xfam/pfam/software/bin/hmmsearch --domtblout GP_temporary_HMM.tmp --noali --cut_tc --cpu 4 /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/266117.fasta 
+# Current dir:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/gp_calculation/266117
+# Date:            Thu Aug 10 15:34:26 2017
+# [ok]

@@ -1,0 +1,15 @@
+#                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name          accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#  ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+tr|F2LUS7|F2LUS7_HIPMA -            408 Wzy_C                PF04932.12   155   2.1e-17   59.8   7.5   1   1   2.6e-20   2.1e-17   59.8   7.5     1   155   180   335   180   335 0.84 O-antigen polymerase OS=Hippea maritima (strain ATCC 700847 / DSM 10411 / MH2) GN=Hipma_0561 PE=4 SV=1
+tr|F2LVC1|F2LVC1_HIPMA -            642 Wzy_C                PF04932.12   155   1.1e-15   54.3   1.3   1   1   1.3e-18   1.1e-15   54.3   1.3     2   153   214   366   213   368 0.79 O-antigen polymerase OS=Hippea maritima (strain ATCC 700847 / DSM 10411 / MH2) GN=Hipma_0735 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM
+# Target file:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/760142.fasta
+# Option settings: /nfs/production/xfam/pfam/software/bin/hmmsearch --domtblout GP_temporary_HMM.tmp --noali --cut_tc --cpu 4 /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/760142.fasta 
+# Current dir:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/gp_calculation/760142
+# Date:            Thu Aug 10 15:35:06 2017
+# [ok]

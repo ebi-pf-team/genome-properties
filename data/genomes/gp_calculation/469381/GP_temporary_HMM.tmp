@@ -1,0 +1,15 @@
+#                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name          accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#  ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+tr|D2Z2X2|D2Z2X2_9BACT -            585 Wzy_C                PF04932.12   155   3.7e-18   62.8   3.5   1   1   3.1e-21   3.7e-18   62.8   3.5     5   155   218   370   214   370 0.75 O-antigen polymerase OS=Dethiosulfovibrio peptidovorans DSM 11002 GN=Dpep_0158 PE=4 SV=1
+tr|D2Z5R1|D2Z5R1_9BACT -            399 Wzy_C                PF04932.12   155   4.3e-11   39.9   5.7   1   1   3.6e-14   4.3e-11   39.9   5.7     2   137   207   323   206   341 0.73 Uncharacterized protein OS=Dethiosulfovibrio peptidovorans DSM 11002 GN=Dpep_0782 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM
+# Target file:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/469381.fasta
+# Option settings: /nfs/production/xfam/pfam/software/bin/hmmsearch --domtblout GP_temporary_HMM.tmp --noali --cut_tc --cpu 4 /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/469381.fasta 
+# Current dir:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/gp_calculation/469381
+# Date:            Thu Aug 10 15:33:38 2017
+# [ok]

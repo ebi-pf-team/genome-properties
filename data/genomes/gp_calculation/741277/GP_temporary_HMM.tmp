@@ -1,0 +1,18 @@
+#                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name          accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#  ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+tr|G6FNZ7|G6FNZ7_9CYAN -            509 Wzy_C                PF04932.12   155   6.6e-19   66.1   8.5   1   1   7.3e-22   6.6e-19   66.1   8.5     3   155   270   420   266   420 0.86 Inorganic carbon transporter OS=Fischerella sp. JSC-11 GN=FJSC11DRAFT_0577 PE=4 SV=1
+tr|G6FQZ3|G6FQZ3_9CYAN -            417 Wzy_C                PF04932.12   155   7.8e-16   56.2   5.9   1   1   8.5e-19   7.8e-16   56.2   5.9     1   155   186   337   186   337 0.76 O-antigen polymerase OS=Fischerella sp. JSC-11 GN=FJSC11DRAFT_1290 PE=4 SV=1
+tr|G6FP87|G6FP87_9CYAN -            431 Wzy_C                PF04932.12   155   1.2e-15   55.6   8.0   1   1   1.3e-18   1.2e-15   55.6   8.0     2   155   194   340   193   340 0.91 O-antigen polymerase OS=Fischerella sp. JSC-11 GN=FJSC11DRAFT_0667 PE=4 SV=1
+tr|G6FSN4|G6FSN4_9CYAN -            473 Wzy_C                PF04932.12   155   3.5e-14   50.8   5.9   1   1   3.8e-17   3.5e-14   50.8   5.9     2   154   242   390   241   391 0.78 O-antigen polymerase OS=Fischerella sp. JSC-11 GN=FJSC11DRAFT_1781 PE=4 SV=1
+tr|G6FVD2|G6FVD2_9CYAN -            459 Wzy_C                PF04932.12   155   3.2e-11   41.2   6.6   1   1   3.5e-14   3.2e-11   41.2   6.6     3   154   232   376   227   377 0.80 O-antigen polymerase OS=Fischerella sp. JSC-11 GN=FJSC11DRAFT_2829 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM
+# Target file:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/741277.fasta
+# Option settings: /nfs/production/xfam/pfam/software/bin/hmmsearch --domtblout GP_temporary_HMM.tmp --noali --cut_tc --cpu 4 /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/741277.fasta 
+# Current dir:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/gp_calculation/741277
+# Date:            Thu Aug 10 15:36:42 2017
+# [ok]

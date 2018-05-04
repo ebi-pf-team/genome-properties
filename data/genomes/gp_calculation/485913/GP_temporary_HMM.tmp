@@ -1,0 +1,17 @@
+#                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name          accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#  ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+tr|D6TKQ1|D6TKQ1_9CHLR -            537 Wzy_C                PF04932.12   155   8.9e-24   83.2   6.9   1   1   3.2e-27   8.9e-24   83.2   6.9     2   155   276   429   275   429 0.81 O-antigen polymerase OS=Ktedonobacter racemifer DSM 44963 GN=Krac_7645 PE=4 SV=1
+tr|D6TIH3|D6TIH3_9CHLR -            553 Wzy_C                PF04932.12   155   9.2e-22   76.7   4.6   1   1   3.3e-25   9.2e-22   76.7   4.6     3   155   306   468   301   468 0.85 O-antigen polymerase OS=Ktedonobacter racemifer DSM 44963 GN=Krac_10774 PE=4 SV=1
+tr|D6TQ95|D6TQ95_9CHLR -           1047 Wzy_C                PF04932.12   155   1.4e-13   50.1   7.0   1   1   5.1e-17   1.4e-13   50.1   7.0     4   149   262   389   258   398 0.85 Polysaccharide biosynthesis protein OS=Ktedonobacter racemifer DSM 44963 GN=Krac_6977 PE=4 SV=1
+tr|D6TLU7|D6TLU7_9CHLR -            535 Wzy_C                PF04932.12   155   1.8e-06   27.0   0.3   1   1   6.5e-10   1.8e-06   27.0   0.3    13   153   290   437   283   439 0.77 Uncharacterized protein OS=Ktedonobacter racemifer DSM 44963 GN=Krac_8060 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM
+# Target file:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/485913.fasta
+# Option settings: /nfs/production/xfam/pfam/software/bin/hmmsearch --domtblout GP_temporary_HMM.tmp --noali --cut_tc --cpu 4 /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/485913.fasta 
+# Current dir:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/gp_calculation/485913
+# Date:            Thu Aug 10 15:45:54 2017
+# [ok]

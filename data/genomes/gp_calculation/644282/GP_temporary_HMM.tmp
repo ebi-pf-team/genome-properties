@@ -1,0 +1,16 @@
+#                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name          accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#  ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+tr|E1QIC9|E1QIC9_DESB2 -            422 Wzy_C                PF04932.12   155   1.7e-15   54.6   0.2   1   1   1.5e-18   1.7e-15   54.6   0.2     2   154   200   348   199   349 0.79 O-antigen polymerase OS=Desulfarculus baarsii (strain ATCC 33931 / DSM 2075 / VKM B-1802 / 2st14) GN=Deba_2081 PE=4 SV=1
+tr|E1QLL1|E1QLL1_DESB2 -            419 Wzy_C                PF04932.12   155   1.6e-13   48.2   6.6   1   1   1.5e-16   1.6e-13   48.2   6.6     7   155   197   313   190   313 0.79 O-antigen polymerase OS=Desulfarculus baarsii (strain ATCC 33931 / DSM 2075 / VKM B-1802 / 2st14) GN=Deba_3093 PE=4 SV=1
+tr|E1QM83|E1QM83_DESB2 -            650 Wzy_C                PF04932.12   155   6.2e-10   36.5   0.7   1   1   5.7e-13   6.2e-10   36.5   0.7     2   154   278   419   276   420 0.86 O-antigen polymerase OS=Desulfarculus baarsii (strain ATCC 33931 / DSM 2075 / VKM B-1802 / 2st14) GN=Deba_2772 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM
+# Target file:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/644282.fasta
+# Option settings: /nfs/production/xfam/pfam/software/bin/hmmsearch --domtblout GP_temporary_HMM.tmp --noali --cut_tc --cpu 4 /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/644282.fasta 
+# Current dir:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/gp_calculation/644282
+# Date:            Thu Aug 10 15:35:10 2017
+# [ok]

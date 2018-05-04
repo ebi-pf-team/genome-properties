@@ -1,0 +1,70 @@
+cannot read domtblout file
+
+------------------------------------------------------------
+Sender: LSF System <lsf@ebi6-060>
+Subject: Job 4128078: <246199> in cluster <EBI> Exited
+
+Job <246199> was submitted from host <ebi-cli-001> by user <ndr> in cluster <EBI>.
+Job was executed on host(s) <ebi6-060>, in queue <research-rh7>, as user <ndr> in cluster <EBI>.
+</homes/ndr> was used as the home directory.
+</nfs/nobackup/interpro/ndr/genome-properties/data/genomes/gp_calculation/246199> was used as the working directory.
+Started at Fri Jul 14 14:41:04 2017
+Results reported at Fri Jul 14 14:41:06 2017
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+/nfs/nobackup/interpro/ndr/genome-properties/code/genome_properties_JCVI/genome_properties.pl -seqs /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/246199.fasta -all -name 246199 -eval_order /nfs/nobackup/interpro/ndr/genome-properties/data/evaluation_order
+
+------------------------------------------------------------
+
+Exited with exit code 2.
+
+Resource usage summary:
+
+    CPU time :               0.64 sec.
+    Max Memory :             7 MB
+    Average Memory :         7.00 MB
+    Total Requested Memory : 1000.00 MB
+    Delta Memory :           993.00 MB
+    (Delta: the difference between total requested memory and actual max usage.)
+    Max Swap :               365 MB
+
+    Max Processes :          4
+    Max Threads :            5
+
+The output (if any) is above this job summary.
+
+cannot read domtblout file
+
+------------------------------------------------------------
+Sender: LSF System <lsf@ebi6-016>
+Subject: Job 8358820: <246199> in cluster <EBI> Exited
+
+Job <246199> was submitted from host <ebi-cli-001> by user <ndr> in cluster <EBI>.
+Job was executed on host(s) <ebi6-016>, in queue <research-rh7>, as user <ndr> in cluster <EBI>.
+</homes/ndr> was used as the home directory.
+</nfs/nobackup/interpro/ndr/genome-properties/data/genomes/gp_calculation/246199> was used as the working directory.
+Started at Thu Aug 10 15:28:42 2017
+Results reported at Thu Aug 10 15:28:43 2017
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+/nfs/nobackup/interpro/ndr/genome-properties/code/genome_properties_JCVI/genome_properties.pl -seqs /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/246199.fasta -all -name 246199 -eval_order /nfs/nobackup/interpro/ndr/genome-properties/data/evaluation_order
+
+------------------------------------------------------------
+
+Exited with exit code 2.
+
+Resource usage summary:
+
+    CPU time :               0.39 sec.
+    Total Requested Memory : 1000.00 MB
+    Delta Memory :           -
+    (Delta: the difference between total requested memory and actual max usage.)
+
+The output (if any) is above this job summary.
+

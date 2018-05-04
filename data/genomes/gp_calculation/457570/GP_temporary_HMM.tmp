@@ -1,0 +1,17 @@
+#                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name          accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#  ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+tr|B2A849|B2A849_NATTJ -            561 Wzy_C                PF04932.12   155   1.6e-19   67.5   0.3   1   1     2e-19   1.4e-16   57.9   0.4    10   154    20   171     2   172 0.73 O-antigen polymerase OS=Natranaerobius thermophilus (strain ATCC BAA-1301 / DSM 18059 / JW/NM-WN-LF) GN=Nther_2251 PE=4 SV=1
+tr|B2A1C6|B2A1C6_NATTJ -            784 Wzy_C                PF04932.12   155     2e-19   67.2  12.4   1   1   2.7e-22     2e-19   67.2  12.4     5   154   205   413   201   414 0.84 O-antigen polymerase OS=Natranaerobius thermophilus (strain ATCC BAA-1301 / DSM 18059 / JW/NM-WN-LF) GN=Nther_2501 PE=4 SV=1
+tr|B2A0R9|B2A0R9_NATTJ -            436 Wzy_C                PF04932.12   155   7.9e-17   58.7   4.3   1   1   1.1e-19   7.9e-17   58.7   4.3     2   155   226   361   225   361 0.87 O-antigen polymerase OS=Natranaerobius thermophilus (strain ATCC BAA-1301 / DSM 18059 / JW/NM-WN-LF) GN=Nther_2384 PE=4 SV=1
+tr|B2A1P5|B2A1P5_NATTJ -            419 Wzy_C                PF04932.12   155   1.2e-14   51.6   2.0   1   1   1.7e-17   1.2e-14   51.6   2.0     3   154   197   337   192   338 0.91 Uncharacterized protein OS=Natranaerobius thermophilus (strain ATCC BAA-1301 / DSM 18059 / JW/NM-WN-LF) GN=Nther_2532 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM
+# Target file:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/457570.fasta
+# Option settings: /nfs/production/xfam/pfam/software/bin/hmmsearch --domtblout GP_temporary_HMM.tmp --noali --cut_tc --cpu 4 /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/457570.fasta 
+# Current dir:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/gp_calculation/457570
+# Date:            Thu Aug 10 15:36:48 2017
+# [ok]

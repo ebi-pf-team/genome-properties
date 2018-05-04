@@ -43,7 +43,9 @@ SN  4
 ID  26S proteasome complex subunit SEM1
 DN  26S proteasome complex subunit SEM1/2
 RQ  1
-EV  -; PTHR16771:SF0; sufficient;
+EV  IPR007834; PTHR16771; sufficient;
+EV  IPR007834; SM01385; sufficient;
+EV  IPR007834; PF05160; sufficient;
 TG  GO:0006406;
 --
 SN  5

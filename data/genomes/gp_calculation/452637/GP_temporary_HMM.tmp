@@ -1,0 +1,21 @@
+#                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name          accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#  ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+tr|B1ZW17|B1ZW17_OPITP -            489 Wzy_C                PF04932.12   155   3.2e-16   57.4   0.8   1   1   5.7e-19   3.2e-16   57.4   0.8     2   153   250   415   249   417 0.69 O-antigen polymerase OS=Opitutus terrae (strain DSM 11246 / JCM 15787 / PB90-1) GN=Oter_2750 PE=4 SV=1
+tr|B1ZV50|B1ZV50_OPITP -            508 Wzy_C                PF04932.12   155   9.6e-16   55.9   2.7   1   1   1.7e-18   9.6e-16   55.9   2.7     2   153   272   431   271   433 0.85 O-antigen polymerase OS=Opitutus terrae (strain DSM 11246 / JCM 15787 / PB90-1) GN=Oter_3440 PE=4 SV=1
+tr|B1ZQU0|B1ZQU0_OPITP -            717 Wzy_C                PF04932.12   155     1e-15   55.8   2.4   1   1   1.8e-18     1e-15   55.8   2.4     3   153   266   406   264   408 0.81 O-antigen polymerase OS=Opitutus terrae (strain DSM 11246 / JCM 15787 / PB90-1) GN=Oter_4567 PE=4 SV=1
+tr|B1ZVW2|B1ZVW2_OPITP -            560 Wzy_C                PF04932.12   155   6.9e-14   49.8   1.2   1   1   1.2e-16   6.9e-14   49.8   1.2     9   153   199   332   189   334 0.89 O-antigen polymerase OS=Opitutus terrae (strain DSM 11246 / JCM 15787 / PB90-1) GN=Oter_1764 PE=4 SV=1
+tr|B1ZQA1|B1ZQA1_OPITP -            492 Wzy_C                PF04932.12   155   9.1e-14   49.4   0.6   1   1   1.6e-16   9.1e-14   49.4   0.6     3   155   242   408   239   408 0.74 O-antigen polymerase OS=Opitutus terrae (strain DSM 11246 / JCM 15787 / PB90-1) GN=Oter_0291 PE=4 SV=1
+tr|B1ZVX3|B1ZVX3_OPITP -            713 Wzy_C                PF04932.12   155   1.2e-13   49.1   1.8   1   1   2.1e-16   1.2e-13   49.1   1.8     1   153   207   351   207   353 0.81 Uncharacterized protein OS=Opitutus terrae (strain DSM 11246 / JCM 15787 / PB90-1) GN=Oter_1775 PE=4 SV=1
+tr|B1ZT69|B1ZT69_OPITP -            501 Wzy_C                PF04932.12   155   1.1e-12   45.9   0.2   1   1   1.9e-15   1.1e-12   45.9   0.2     2   155   237   422   236   422 0.86 O-antigen polymerase OS=Opitutus terrae (strain DSM 11246 / JCM 15787 / PB90-1) GN=Oter_3244 PE=4 SV=1
+tr|B1ZV64|B1ZV64_OPITP -            462 Wzy_C                PF04932.12   155     5e-09   34.1   2.4   1   1   8.6e-12     5e-09   34.1   2.4     2   153   209   366   207   368 0.77 Uncharacterized protein OS=Opitutus terrae (strain DSM 11246 / JCM 15787 / PB90-1) GN=Oter_3454 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM
+# Target file:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/452637.fasta
+# Option settings: /nfs/production/xfam/pfam/software/bin/hmmsearch --domtblout GP_temporary_HMM.tmp --noali --cut_tc --cpu 4 /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/452637.fasta 
+# Current dir:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/gp_calculation/452637
+# Date:            Thu Aug 10 15:37:21 2017
+# [ok]

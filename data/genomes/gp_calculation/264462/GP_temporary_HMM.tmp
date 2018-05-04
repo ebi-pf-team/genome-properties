@@ -1,0 +1,15 @@
+#                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name          accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#  ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+tr|Q6MMF8|Q6MMF8_BDEBA -            419 Wzy_C                PF04932.12   155   1.6e-25   87.3   7.8   1   1   9.1e-29   1.6e-25   87.3   7.8     3   155   195   336   192   336 0.78 Putative O-antigen ligase WaaL OS=Bdellovibrio bacteriovorus (strain ATCC 15356 / DSM 50701 / NCIB 9529 / HD100) GN=Bd1674 PE=4 SV=1
+tr|Q6MI87|Q6MI87_BDEBA -            426 Wzy_C                PF04932.12   155   2.7e-17   60.5   1.4   1   1   1.5e-20   2.7e-17   60.5   1.4     2   153   210   356   209   358 0.92 Uncharacterized protein OS=Bdellovibrio bacteriovorus (strain ATCC 15356 / DSM 50701 / NCIB 9529 / HD100) GN=Bd3282 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM
+# Target file:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/264462.fasta
+# Option settings: /nfs/production/xfam/pfam/software/bin/hmmsearch --domtblout GP_temporary_HMM.tmp --noali --cut_tc --cpu 4 /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/264462.fasta 
+# Current dir:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/gp_calculation/264462
+# Date:            Thu Aug 10 15:34:44 2017
+# [ok]

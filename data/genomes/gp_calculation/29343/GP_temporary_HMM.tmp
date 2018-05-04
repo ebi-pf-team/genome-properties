@@ -1,0 +1,15 @@
+#                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                  accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#          ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+tr|A0A078KTB1|A0A078KTB1_9FIRM -            383 Wzy_C                PF04932.12   155   8.9e-17   58.1   7.2   1   1   8.9e-20   8.9e-17   58.1   7.2     7   154   179   302   170   303 0.89 Putative membrane protein OS=[Clostridium] cellulosi GN=CCDG5_1281 PE=4 SV=1
+tr|A0A078KN28|A0A078KN28_9FIRM -            450 Wzy_C                PF04932.12   155   1.5e-11   41.1   4.8   1   1   1.5e-14   1.5e-11   41.1   4.8     2   155   219   363   218   363 0.83 Putative membrane protein OS=[Clostridium] cellulosi GN=CCDG5_0714 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM
+# Target file:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/29343.fasta
+# Option settings: /nfs/production/xfam/pfam/software/bin/hmmsearch --domtblout GP_temporary_HMM.tmp --noali --cut_tc --cpu 4 /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/29343.fasta 
+# Current dir:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/gp_calculation/29343
+# Date:            Thu Aug 10 15:33:38 2017
+# [ok]

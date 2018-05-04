@@ -1,0 +1,19 @@
+#                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name          accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#  ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+tr|E0TCG1|E0TCG1_PARBH -            476 Wzy_C                PF04932.12   155   4.2e-19   66.0   4.1   1   1   9.3e-22   4.2e-19   66.0   4.1     2   154   240   382   191   383 0.89 Putative binding-protein-dependent transport system protein OS=Parvularcula bermudensis (strain ATCC BAA-594 / HTCC2503 / KCTC 12087) GN=PB2503_11349 PE=4 SV=1
+tr|E0TDQ7|E0TDQ7_PARBH -            441 Wzy_C                PF04932.12   155   2.5e-17   60.2   1.7   1   1   5.6e-20   2.5e-17   60.2   1.7     5   155   202   335   196   335 0.80 Uncharacterized protein OS=Parvularcula bermudensis (strain ATCC BAA-594 / HTCC2503 / KCTC 12087) GN=PB2503_09604 PE=4 SV=1
+tr|E0TBN4|E0TBN4_PARBH -            394 Wzy_C                PF04932.12   155     1e-16   58.3   7.1   1   1   2.2e-19     1e-16   58.3   7.1     6   155   172   323   164   323 0.90 Uncharacterized protein OS=Parvularcula bermudensis (strain ATCC BAA-594 / HTCC2503 / KCTC 12087) GN=PB2503_01652 PE=4 SV=1
+tr|E0THM0|E0THM0_PARBH -            420 Wzy_C                PF04932.12   155   2.1e-15   54.0   6.3   1   1   4.8e-18   2.1e-15   54.0   6.3     2   153   199   340   198   342 0.83 Uncharacterized protein OS=Parvularcula bermudensis (strain ATCC BAA-594 / HTCC2503 / KCTC 12087) GN=PB2503_06252 PE=4 SV=1
+tr|E0TI90|E0TI90_PARBH -            458 Wzy_C                PF04932.12   155   2.4e-13   47.3   8.5   1   1   5.5e-16   2.4e-13   47.3   8.5     4   155   233   365   229   365 0.78 O-antigen polymerase OS=Parvularcula bermudensis (strain ATCC BAA-594 / HTCC2503 / KCTC 12087) GN=PB2503_06817 PE=4 SV=1
+tr|E0TI84|E0TI84_PARBH -            457 Wzy_C                PF04932.12   155   1.5e-12   44.7   5.5   1   1   3.4e-15   1.5e-12   44.7   5.5     2   154   237   380   235   381 0.89 Exopolysaccharide production protein, putative OS=Parvularcula bermudensis (strain ATCC BAA-594 / HTCC2503 / KCTC 12087) GN=PB2503_06787 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM
+# Target file:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/314260.fasta
+# Option settings: /nfs/production/xfam/pfam/software/bin/hmmsearch --domtblout GP_temporary_HMM.tmp --noali --cut_tc --cpu 4 /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/314260.fasta 
+# Current dir:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/gp_calculation/314260
+# Date:            Thu Aug 10 15:34:02 2017
+# [ok]

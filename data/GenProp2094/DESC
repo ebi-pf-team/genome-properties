@@ -1,0 +1,54 @@
+AC  GenProp2094
+DE  Insulin secretion, PACAP signalled
+TP  METAPATH
+AU  Rawlings ND
+TH  1
+RN  [1]
+RM  7902709 
+RT  Molecular cloning and functional expression of a cDNA 
+RT  encoding a human pituitary adenylate cyclase activating 
+RT  polypeptide receptor. 
+RA  Ogi K; Miyamoto Y; Masuda Y; Habata Y; Hosoya M; Ohtaki 
+RA  T; Masuo Y; Onda H; Fujino M; 
+RL  Best Pract Res Clin Endocrinol Metab 2004;18:587-606.
+CC  Insulin is secreted by the pancreatic beta cells. Its
+CC  secretion can be stimulated by the import of glucose
+CC  via a surface transporter, and metabolism of glucose
+CC  increases intracellular ATP, inhibiting ATP-sensitive
+CC  potassium channels, causing an influx of calcium into
+CC  the cell.  Alternatively, there are surface receptors
+CC  for peptide hormones such as PACAP [1].  
+CC  Binding triggers adenylyl cyclase activation, an 
+CC  increase in cAMP, activation of cAMP-dependent second
+CC  messengers such as protein kinase A, and secretion of
+CC  insulin from vesicles [1].
+**  This Genome Property models the release of insulin
+**  stored in vesicles induced by peptide hormone GIP.
+**  It is difficult to model the pathway initiated by
+**  glucose, because it involves the TCA cycle and
+**  it is the increase in ATP that triggers Na+/K+ flux
+**  and an increase in intracellular Ca2+. 
+**  Part of the pathway induced by peptide hormones 
+**  requires de novo synthesis of insulin, so is also
+**  difficult to model.
+--
+SN  1
+ID  Pituitary adenylate cyclase-activating polypeptide
+DN  Pituitary adenylate cyclase-activating polypeptide (PACAP) /1
+RQ  1
+EV  IPR039080; PTHR11213:SF1; sufficient;
+TG  GO:0005184;
+--
+SN  2
+ID  Pituitary adenylate cyclase-activating polypeptide type I receptor
+DN  Pituitary adenylate cyclase-activating polypeptide type I receptor (ADCYAP1R1) /2
+RQ  1
+EV  IPR002285; PR01156; sufficient;
+EV  IPR002285; PTHR12011:SF228; sufficient;
+TG  GO:0007166;
+--
+SN  3
+ID  Insulin secretion, common pathway
+RQ  1
+EV  GenProp2091;
+//

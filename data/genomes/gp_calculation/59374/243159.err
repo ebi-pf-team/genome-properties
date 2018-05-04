@@ -1,0 +1,32 @@
+cannot read domtblout file
+
+------------------------------------------------------------
+Sender: LSF System <lsf@ebi6-160>
+Subject: Job 8358865: <243159> in cluster <EBI> Exited
+
+Job <243159> was submitted from host <ebi-cli-001> by user <ndr> in cluster <EBI>.
+Job was executed on host(s) <ebi6-160>, in queue <research-rh7>, as user <ndr> in cluster <EBI>.
+</homes/ndr> was used as the home directory.
+</nfs/nobackup/interpro/ndr/genome-properties/data/genomes/gp_calculation/59374> was used as the working directory.
+Started at Thu Aug 10 15:28:57 2017
+Results reported at Thu Aug 10 15:28:57 2017
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+/nfs/nobackup/interpro/ndr/genome-properties/code/genome_properties_JCVI/genome_properties.pl -seqs /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/243159.fasta -all -name 243159 -eval_order /nfs/nobackup/interpro/ndr/genome-properties/data/evaluation_order
+
+------------------------------------------------------------
+
+Exited with exit code 2.
+
+Resource usage summary:
+
+    CPU time :               0.19 sec.
+    Total Requested Memory : 1000.00 MB
+    Delta Memory :           -
+    (Delta: the difference between total requested memory and actual max usage.)
+
+The output (if any) is above this job summary.
+

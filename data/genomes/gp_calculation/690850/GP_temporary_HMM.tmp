@@ -1,0 +1,16 @@
+#                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name          accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#  ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+tr|F3YXP6|F3YXP6_DESAF -            440 Wzy_C                PF04932.12   155   2.5e-17   60.7   4.6   1   1   2.1e-20   2.5e-17   60.7   4.6     2   154   214   359   213   360 0.82 O-antigen polymerase OS=Desulfovibrio africanus str. Walvis Bay GN=Desaf_1148 PE=4 SV=1
+tr|F3YYK4|F3YYK4_DESAF -            435 Wzy_C                PF04932.12   155   8.7e-15   52.5   6.3   1   1   7.1e-18   8.7e-15   52.5   6.3     5   155   217   347   209   347 0.85 O-antigen polymerase OS=Desulfovibrio africanus str. Walvis Bay GN=Desaf_2435 PE=4 SV=1
+tr|F3YUQ7|F3YUQ7_DESAF -            501 Wzy_C                PF04932.12   155   1.6e-06   25.6   2.2   1   1   1.3e-09   1.6e-06   25.6   2.2     3   154   249   403   244   404 0.61 Uncharacterized protein OS=Desulfovibrio africanus str. Walvis Bay GN=Desaf_0733 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM
+# Target file:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/690850.fasta
+# Option settings: /nfs/production/xfam/pfam/software/bin/hmmsearch --domtblout GP_temporary_HMM.tmp --noali --cut_tc --cpu 4 /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/690850.fasta 
+# Current dir:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/gp_calculation/690850
+# Date:            Thu Aug 10 15:48:14 2017
+# [ok]

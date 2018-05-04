@@ -1,0 +1,15 @@
+#                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name          accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#  ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+tr|Q6ABG2|Q6ABG2_PROAC -            419 Wzy_C                PF04932.12   155   2.3e-16   56.9   4.1   1   1     2e-19   2.3e-16   56.9   4.1     2   153   213   356   211   357 0.91 Uncharacterized protein OS=Propionibacterium acnes (strain KPA171202 / DSM 16379) GN=PPA0146 PE=4 SV=1
+tr|Q6ABH7|Q6ABH7_PROAC -            440 Wzy_C                PF04932.12   155   2.7e-09   33.9  13.2   1   1   2.4e-12   2.7e-09   33.9  13.2     1   155   210   347   210   347 0.83 Hypothetical membrane spanning protein OS=Propionibacterium acnes (strain KPA171202 / DSM 16379) GN=PPA0132 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM
+# Target file:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/267747.fasta
+# Option settings: /nfs/production/xfam/pfam/software/bin/hmmsearch --domtblout GP_temporary_HMM.tmp --noali --cut_tc --cpu 4 /nfs/production/interpro/genome_properties/data/pfam_and_tigrfam/PF04932.HMM /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/fasta/267747.fasta 
+# Current dir:     /nfs/nobackup/interpro/ndr/genome-properties/data/genomes/gp_calculation/754409
+# Date:            Thu Aug 10 15:33:45 2017
+# [ok]
