@@ -141,7 +141,7 @@ UP000001414,226186,bacteroides_thetaiotaomicron
 UP000007241,684364,batrachochytrium_dendrobatidis
 UP000009136,9913,bos_taurus
 UP000008810,15368,brachypodium_distachyon
-UP000002526,224911,Bradyrhizobium diazoefficiens 
+UP000002526,224911,Bradyrhizobium diazoefficiens√ä
 UP000001554,7739,branchiostoma_floridae
 UP000008549,6238,caenorhabditis_briggsae
 UP000000559,237561,candida_albicans
@@ -216,3 +216,4 @@ UP000001010,190485,xanthomonas_campestris
 UP000008143,8364,xenopus_tropicalis
 UP000001300,284591,yarrowia_lipolytica
 UP000000815,632,yersinia_pestis
+UP000030944,1410606,Candidatus_Nitrosopelagicus_brevis
