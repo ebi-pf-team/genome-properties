@@ -59,6 +59,7 @@ sub write_results{
     $self->print_long($prop) if($self->longFH);
     $self->print_table($prop) if($self->tableFH);
   }
+  return(1);
 }
 
   
@@ -209,7 +210,6 @@ sub open_outputfiles {
    
    my $root = $self->{outdir};
    foreach my $f (@{$self->{outfiles}}){
-      print "$f\n";
       if($f eq 'long'){
         my $file = $root."/LONGFORM_REPORT_".$self->{name};
         my $fh;
@@ -227,6 +227,8 @@ sub open_outputfiles {
         $self->tableFH($fh);
       }
    }
+
+   return 1;
    
 }
 
@@ -274,6 +276,7 @@ sub close_outputfiles {
   close($self->longFH) if ($self->longFH);
   close($self->summaryFH) if ($self->summaryFH); 
   close($self->tableFH) if ($self->tableFH);
+  return(1);
 }
 	
 sub debug{
@@ -312,16 +315,28 @@ sub set_options {
   }
   
   #TODO: die on fatal option omitions.
+  return 1;
 }
 
 
 sub define_sequence_set {
-  my($self) = @_;
+  my($self, $seq_blob) = @_;
   
-  #open and read the sequence file
-  open(FH, '<', $self->{seqs}) or croak( "Failed to open ".$self->{seqs}."\n");
-  while(<FH>){
-    if(/^>(\S+)/){
+  my @sb;
+  if($seq_blob){
+    @sb = split(/\n/, $seq_blob);
+    foreach my $r (@sb){
+      
+    }
+  }else{
+    #open and read the sequence file
+    open(FH, '<', $self->{seqs}) or croak( "Failed to open ".$self->{seqs}."\n");
+    @sb = <FH>;
+  }
+
+
+  foreach my $l (@sb){
+    if($l =~ /^>(\S+)/){
       $self->{seqs_and_annotations}->{$1} = [];
     }
   }
@@ -352,13 +367,23 @@ sub signature_matches {
   my ($self) = @_;
   
   if(!$self->{read_sig} && $self->{matches}){
-    open(FH, '<', $self->{matches}) or die "Could not open signature file\n";
-    while(<FH>){
-      chomp;
-      my @i5 = split(/\t/, $_);
+    my @mb;
+    #If we get matches passed as a blob on command line via CGI,
+    #split on carriage return, other than that, try and read
+    #from the command line
+    if(defined($self->{match_source}) and $self->{match_source} eq "inline"){
+      @mb = split(/\n/, $self->{matches});  
+    }else{
+      open(FH, '<', $self->{matches}) or die "Could not open signature matches file\n";
+      @mb = <FH>;
+      close(FH);
+    }
+    
+    foreach my $line (@mb){
+      chomp($line);
+      my @i5 = split(/\t/, $line);
       push(@{ $self->{seqs_and_annotations}->{$i5[0]} }, $i5[4]);
     }
-    close(FH);
     $self->{read_sig} =1;  
   }
   return $self->{read_sig};
@@ -367,7 +392,7 @@ sub signature_matches {
 
 sub transform_annotations {
   my ($self) = @_; 
-  
+
   my %fams;
   foreach my $seq (keys %{$self->{seqs_and_annotations} }){
     foreach my $fam (@{ $self->{seqs_and_annotations}->{$seq} }){
@@ -407,6 +432,7 @@ sub evaluate_properties {
   while ($self->incomplete) {
 	  $self->check_results();
   }
+  return 1;
 }
 
 
@@ -607,6 +633,7 @@ sub write_properties {
   }else{
     croak("No source for genome properties.");
   }
+  return 1;
 }
 =head1 set_execution_order
 
@@ -701,10 +728,10 @@ sub _read_properties_from_flatfile{
    if( -s $self->_gp_flatfile ){ 
       GenomePropertiesIO::parseFlatfile($self, $self->_gp_flatfile);   
    }else{
-      croak("The genome properties file has no size ".$self->_gp_def_file."\n");
+      croak("The genome properties file has no size ".$self->_gp_flatfile."\n");
    }
   }else{
-    croak("The geneome properties file, ".$self->_gp_def_file." does not exist.\n");
+    croak("The geneome properties file, ".$self->_gp_flatfile." does not exist.\n");
   }
 }
 
