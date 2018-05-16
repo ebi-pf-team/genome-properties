@@ -19,13 +19,14 @@ use GenomeProperties::StepEvidence;
 my(%options);
 GetOptions ( \%options, 
               'seqs=s',
-              'matches=s', 
+              'matches=s',
+              'match_source=s',
               'gpdir=s',
               'gpff=s',
               'outdir=s',
               'outfiles=s@',
               'property=s',
-			        'list=s',       
+			        'list=s',
 			        'all',
 			        'name=s',
               'debug',
@@ -41,7 +42,10 @@ my $gp = GenomeProperties->new;
 
 $gp->set_options(\%options, 'cal');
 $gp->open_outputfiles;
+
+#Read in the GP definitions file.
 $gp->read_properties;
+
 $gp->define_sequence_set;
 $gp->annotate_sequences;
 $gp->evaluate_properties;
@@ -67,7 +71,8 @@ Options:
 == Sequence set ==
 
 One or both of these two options:
-matches <filename>       : TSV file of InterProScan5 output.
+matches <filename|TSV content> : TSV file of InterProScan5 output.
+match_source <file|inline> : file or inline. Default is to assume file.
 seq <filename>           : FASTA file of sequences that need to be analysed.
 
 
@@ -108,5 +113,3 @@ $0 -matches /Users/rdf/Projects/InterPro/GenomeProperties/EcoliExample/83333.fas
 EOF
 exit;
 }
-
-#==================================
