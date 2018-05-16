@@ -30,14 +30,8 @@ RQ  1
 EV  IPR037568; PTHR19325:SF387; sufficient;
 --
 SN  2
-ID  Complement C4-A
-DN  Complement C4-A
-RQ  1
-EV  IPR037569; PTHR11412:SF134; sufficient;
---
-SN  3
-ID  Complement C4-B
-DN  Complement C4-B
+ID  Complement C4
+DN  Complement C4
 RQ  1
 EV  IPR037569; PTHR11412:SF134; sufficient;
 --
