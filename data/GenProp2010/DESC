@@ -41,6 +41,6 @@ EV  IPR023317; PIRSF001150; sufficient;
 SN  3
 ID  Fibrinogen
 RQ  1
-EV  GenProp2001;
+EV  GenProp2002;
 TG  GO:0005577;
 //
