@@ -68,7 +68,7 @@ EV  IPR035712; PTHR14913; sufficient;
 TG  GO:0089720;
 --
 SN  3
-ID  Extrinsic initiator caspases
+ID  Initiator caspases of the apoptosis extrinsic pathway
 RQ  1
 EV  GenProp2018;
 //
