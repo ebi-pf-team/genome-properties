@@ -163,9 +163,9 @@ TG  GO:0070682
 --
 SN  16
 ID  26S proteasome non-ATPase regulatory subunit 10/PSMD10
-DN  Ankyrin repeat-containing domain 
+DN  26S proteasome non-ATPase regulatory subunit 10-like 
 RQ  0
-EV  IPR020683; PF12796; sufficient;
+EV  IPR039334; PTHR44187; sufficient;
 TG  GO:0070682
 --
 SN  17
