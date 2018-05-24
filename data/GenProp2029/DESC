@@ -18,35 +18,35 @@ CC  activating the TORC1 pathway [1].
 --
 SN  1
 ID  GATOR complex protein WDR24
-DN  GATOR complex protein WDR24/1
+DN  GATOR complex protein WDR24
 RQ  1
 EV  IPR037590; PTHR22850:SF131; sufficient;
 TG  GO:0032008;
 --
 SN  2
 ID  GATOR complex protein WDR59
-DN  GATOR complex protein WDR59 /2
+DN  GATOR complex protein WDR59
 RQ  1
 EV  IPR037591; PTHR22850:SF116; sufficient;
 TG  GO:0032008;
 --
 SN  3
 ID  GATOR complex protein MIOS
-DN  GATOR complex protein MIOS /3
+DN  GATOR complex protein MIOS
 RQ  1
 EV  IPR037593; PTHR16453:SF9; sufficient;
 TG  GO:0032008;
 --
 SN  4
 ID  Protein SEC13 homolog
-DN  Protein SEC13 homolog /4
+DN  Protein SEC13 homolog
 RQ  1
 EV  IPR037596; PTHR11024:SF2; sufficient;
 TG  GO:0032008;
 --
 SN  5
 ID  Nucleoporin SEH1
-DN  Nucleoporin SEH1 /5
+DN  Nucleoporin SEH1
 RQ  1
 EV  IPR037597; PTHR11024:SF3; sufficient;
 TG  GO:0032008;
