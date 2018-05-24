@@ -45,7 +45,7 @@ CC  controls protein synthesis by activating protein translation [1].
 CC  Protein synthesis requires a supply of amino acids, an energy
 CC  source, oxygen abundance and the required growth factors.  When
 CC  these conditons are met, Rag GTPase heterodimers are activated, 
-CC  interact with Raptor and mTORC1 is localized to the lysosomal
+CC  interact with Raptor, and mTORC1 is localized to the lysosomal
 CC  membrane surface where it can interact with the G protein Rheb
 CC  and ATP [2, 3].  The pathway is controlled by two complexes that
 CC  interact with the Rag GTPase, GATOR1 (inhibitor) and GATOR2
