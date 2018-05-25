@@ -39,7 +39,7 @@ EV  IPR004825; PR00277; sufficient;
 TG  GO:0005179;
 --
 SN  2
-ID  Signal peptidase complex
+ID  Microsomal signal peptidase complex
 RQ  1
 EV  GenProp2038;
 TG  GO:0005787;
