@@ -11,7 +11,7 @@ RL  Nature 1960;187:483-485.
 RN  [2]
 RM  7845206  
 RT  Pro-protein convertases of subtilisin/kexin family. 
-RA  Seidah NG; Chrétien M; 
+RA  Seidah NG; ChrÃ©tien M; 
 RL  Methods Enzymol 1994;244:175-188.
 RN  [3]
 RM  10966857  
@@ -33,7 +33,7 @@ CC  sequentially by a carboxypeptidase [3].
 --
 SN  1
 ID  Pro-insulin
-DN  Pro-insulin /1
+DN  Pro-insulin
 RQ  1
 EV  IPR004825; PR00277; sufficient;
 TG  GO:0005179;
@@ -47,7 +47,7 @@ TG  GO:0006465;
 --
 SN  3
 ID  Neuroendocrine convertase 1
-DN  Neuroendocrine convertase 1 (EC 3.4.21.93) /3
+DN  Neuroendocrine convertase 1 (EC 3.4.21.93)
 RQ  1
 EV  IPR034182; cd04059; sufficient;
 TG  GO:0004252;
@@ -55,7 +55,7 @@ TG  GO:0016486;
 --
 SN  4
 ID  Carboxypeptidase E
-DN  Carboxypeptidase E (EC 3.4.17.10) /4
+DN  Carboxypeptidase E (EC 3.4.17.10)
 RQ  1
 EV  IPR034232; cd03865; sufficient;
 TG  GO:0004181;
