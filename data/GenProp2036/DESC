@@ -2,7 +2,7 @@ AC  GenProp2036
 DE  Nuclear pore complex, vertebrate
 TP  SYSTEM
 AU  Rawlings ND
-TH  2
+TH  3
 RN  [1]
 RM  15229283
 RT  Nucleoporins as components of the nuclear pore complex core 
@@ -67,7 +67,8 @@ CC  can mediate export of macromolecules from the nucleus [7].
 **  Property.
 **  Evidence for step 1 is also used in GP2037 and GP2042.
 **  Evidence for step 3 is also used in GP2037, GP2042 and GP2043.
-**  Threshold is therefore set to 2.
+**  Evidence for SN6 is not very specific.
+**  Threshold is therefore set to 3.
 --
 SN  1
 ID  Nuclear pore complex protein Nup98-Nup96
