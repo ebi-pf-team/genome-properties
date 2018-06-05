@@ -28,7 +28,7 @@ CC  mutation studies [2].
 --
 SN  1
 ID  Nucleoporin nup85
-DN  Nucleoporin nup85/1
+DN  Nucleoporin Nup85-like
 RQ  1
 EV  IPR011502; PF07575; sufficient;
 EV  IPR011502; PTHR13373; sufficient;
@@ -36,7 +36,7 @@ TG  GO:0017056;
 --
 SN  2
 ID  Nucleoporin nup107
-DN  Nucleoporin nup107/2
+DN  Nuclear pore protein 84/107
 RQ  1
 EV  IPR007252; PF04121; sufficient;
 EV  IPR007252; PTHR13003; sufficient;
@@ -44,28 +44,28 @@ TG  GO:0017056;
 --
 SN  3
 ID  Nucleoporin nup120
-DN  Nucleoporin nup120/3
+DN  Nucleoporin Nup120/160
 RQ  1
 EV  IPR021717; PF11715; sufficient;
 TG  GO:0031080;
 --
 SN  4
 ID  Nucleoporin nup131
-DN  Nucleoporin nup131/4
+DN  Nuclear pore complex protein Nup133-like
 RQ  1
 EV  IPR037624; PTHR13405; sufficient;
 TG  GO:0017056;
 --
 SN  5
 ID  Nucleoporin nup132
-DN  Nucleoporin nup132/5
+DN  Nuclear pore complex protein Nup133-like
 RQ  1
 EV  IPR037624; PTHR13405; sufficient;
 TG  GO:0017056;
 --
 SN  6
 ID  Nucleoporin seh1
-DN  Nucleoporin seh1
+DN  Nucleoporin Seh1
 RQ  1
 EV  IPR037597; PTHR11024:SF3; sufficient;
 TG  GO:0031080;
