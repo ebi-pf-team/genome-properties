@@ -18,10 +18,10 @@ RT  C protein complex..
 RA  Thompson JR; Ryan ZC; Salisbury JL; Kumar R;
 RL  J Biol Chem. 2006;281:18746-18752.
 CC  The XPC complex recognizes damaged DNA which is required for 
-CC  global genome nucleotide excision repair [1].  Once XPC 
+CC  global genome nucleotide excision repair [1]. Once XPC 
 CC  has interacted with unpaired bases on the undamaged DNA strand, 
 CC  the TFIH complex is recruited to find lesions on the opposite 
-CC  strand.  The XPC complex is composed of XPC, RAD23B and CETN2 
+CC  strand. The XPC complex is composed of XPC, RAD23B and CETN2 
 CC  [2].
 **  Evidence for step 3 is also used in GP2042 and GP2045.
 --
