@@ -27,21 +27,21 @@ CC  [2].
 --
 SN  1
 ID  DNA repair protein complementing XP-C cells
-DN  DNA repair protein complementing XP-C cells/1
+DN  DNA repair protein Rad4, subgroup 
 RQ  1
 EV  IPR018026; TIGR00605; sufficient;
 TG  GO:0000715;
 --
 SN  2
 ID  UV excision repair protein RAD23 homolog B
-DN  UV excision repair protein RAD23 homolog B/2
+DN  UV excision repair protein Rad23 
 RQ  1
 EV  IPR004806; TIGR00601; sufficient;
 TG  GO:0000715;
 --
 SN  3
 ID  Centrin-2
-DN  Centrin-2/3
+DN  Centrin-2
 RQ  1
 EV  IPR037629; PTHR23050:SF305; sufficient;
 TG  GO:0000715;
