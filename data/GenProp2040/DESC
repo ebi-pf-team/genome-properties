@@ -27,21 +27,21 @@ CC  cytochrome b2 [2].
 --
 SN  1
 ID  Mitochondrial inner membrane protease subunit 1
-DN  Mitochondrial inner membrane protease subunit 1/1
+DN  Mitochondrial inner membrane protease subunit 1
 RQ  1
 EV  IPR026730; PTHR12383:SF16; sufficient;
 TG  GO:0042720
 --
 SN  2
 ID  Mitochondrial inner membrane protease subunit 2
-DN  Mitochondrial inner membrane protease subunit 2/2
+DN  Mitochondrial inner membrane protease subunit 2
 RQ  1
 EV  IPR037730; PTHR12383:SF3; sufficient;
 TG  GO:0042720
 --
 SN  3
 ID  Protein SOM1, mitochondrial
-DN  Protein SOM1, mitochondrial/3
+DN  Mitochondrial export protein Som1 
 RQ  1
 EV  IPR024645; PF11093; sufficient;
 TG  GO:0042720
