@@ -50,15 +50,15 @@ RT  export.
 RA  Bangs P; Burke B; Powers C; Craig R; Purohit A; Doxsey S;
 RL  J Cell Biol. 1998;143:1801-1812.
 CC  The vertebrate nuclear pore complex (NPC) has eight-fold radial
-CC  symmetry.  The core complex consists of globular subunits that
-CC  are sandwiched between two coaxial ring-like structures.  The 
+CC  symmetry. The core complex consists of globular subunits that
+CC  are sandwiched between two coaxial ring-like structures. The 
 CC  ring facing the nuclear interior is capped by a fibrous structure 
-CC  called the nuclear basket [1].  NUP160, NUP133, NUP107 and NUP96
+CC  called the nuclear basket [1]. NUP160, NUP133, NUP107 and NUP96
 CC  form the Nup160 subcomplex [4,5], which plays a role in RNA export 
-CC  and tethering NUP98 and NUP153 to the nucleus [2].  Nup98 must 
-CC  process itself autoproteolytically [3].  Tpr forms the nuclear
-CC  basket.  The Tpr N-terminus interacts with NUP153 in the NPC [6] 
-CC  while the acidic C-terminus is transported into the nuclear 
+CC  and tethering NUP98 and NUP153 to the nucleus [2]. Nup98 must 
+CC  process itself autoproteolytically [3]. Tpr forms the nuclear
+CC  basket. The Tpr N terminus interacts with NUP153 in the NPC [6] 
+CC  while the acidic C terminus is transported into the nuclear 
 CC  interior, where is interacts with soluble transport factors and 
 CC  can mediate export of macromolecules from the nucleus [7].
 **  The same precursor yields Nup96 and Nup98.
