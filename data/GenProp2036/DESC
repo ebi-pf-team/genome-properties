@@ -78,7 +78,7 @@ TG  GO:0017056
 --
 SN  2
 ID  Nuclear pore complex protein Nup107
-DN  Nuclear pore complex protein Nup107
+DN  Nuclear pore protein 84/107
 RQ  1
 EV  IPR007252; PF04121; sufficient;
 EV  IPR007252; PTHR13003; sufficient;
@@ -86,14 +86,14 @@ TG  GO:0017056;
 --
 SN  3
 ID  Nuclear pore complex protein Nup133
-DN  Nuclear pore complex protein Nup133
+DN  Nuclear pore complex protein Nup133-like
 RQ  1
 EV  IPR037624; PTHR13405; sufficient;
 TG  GO:0017056;
 --
 SN  4
 ID  Nuclear pore complex protein Nup160
-DN  Nuclear pore complex protein Nup160
+DN  Nucleoporin Nup120/160
 RQ  1
 EV  IPR021717; PF11715; sufficient;
 TG  GO:0031080;
@@ -107,7 +107,7 @@ TG  GO:0017056;
 --
 SN  6
 ID  Nucleoprotein TPR
-DN  Nucleoprotein TPR
+DN  Nucleoprotein TPR/MLP1
 RQ  1
 EV  IPR012929; PF07926; sufficient;
 TG  GO:0044615;
