@@ -71,14 +71,14 @@ CC  can mediate export of macromolecules from the nucleus [7].
 --
 SN  1
 ID  Nuclear pore complex protein Nup98-Nup96
-DN  Nuclear pore complex protein Nup98-Nup96/1
+DN  Nuclear pore complex protein Nup98-Nup96
 RQ  1
 EV  IPR037637; PTHR23198:SF6; sufficient;
 TG  GO:0017056
 --
 SN  2
 ID  Nuclear pore complex protein Nup107
-DN  Nuclear pore complex protein Nup107/2
+DN  Nuclear pore complex protein Nup107
 RQ  1
 EV  IPR007252; PF04121; sufficient;
 EV  IPR007252; PTHR13003; sufficient;
@@ -86,28 +86,28 @@ TG  GO:0017056;
 --
 SN  3
 ID  Nuclear pore complex protein Nup133
-DN  Nuclear pore complex protein Nup133/3
+DN  Nuclear pore complex protein Nup133
 RQ  1
 EV  IPR037624; PTHR13405; sufficient;
 TG  GO:0017056;
 --
 SN  4
 ID  Nuclear pore complex protein Nup160
-DN  Nuclear pore complex protein Nup160/4
+DN  Nuclear pore complex protein Nup160
 RQ  1
 EV  IPR021717; PF11715; sufficient;
 TG  GO:0031080;
 --
 SN  5
 ID  Nuclear pore complex protein Nup153
-DN  Nuclear pore complex protein Nup153/5
+DN  Nuclear pore complex protein Nup153
 RQ  1
 EV  IPR037625; PTHR23193:SF31; sufficient;
 TG  GO:0017056;
 --
 SN  6
 ID  Nucleoprotein TPR
-DN  Nucleoprotein TPR/6
+DN  Nucleoprotein TPR
 RQ  1
 EV  IPR012929; PF07926; sufficient;
 TG  GO:0044615;
