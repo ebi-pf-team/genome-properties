@@ -27,7 +27,7 @@ CC  of SCF ubiquitin ligases [2].
 --
 SN  1
 ID  COP9 signalosome complex subunit 1/GPS1
-DN  COP9 signalosome complex subunit 1/1
+DN  COP9 signalosome complex subunit 1
 RQ  1
 EV  IPR033008; PTHR14145:SF2; sufficient;
 TG  GO:0008180;
@@ -35,35 +35,35 @@ TG  GO:0000338;
 --
 SN  2
 ID  COP9 signalosome complex subunit 2 
-DN  COP9 signalosome complex subunit 2/2
+DN  COP9 signalosome complex subunit 2
 RQ  1
 EV  IPR037750; PTHR10678:SF3; sufficient;
 TG  GO:0008180;
 --
 SN  3
 ID  COP9 signalosome complex subunit 3
-DN  COP9 signalosome complex subunit 3/3
+DN  COP9 signalosome complex subunit 3
 RQ  1
 EV  IPR037753; PTHR10758:SF1; sufficient;
 TG  GO:0008180;
 --
 SN  4
 ID  COP9 signalosome complex subunit 4 
-DN  COP9 signalosome complex subunit 4/4
+DN  COP9 signalosome complex subunit 4
 RQ  1
 EV  IPR037754; PTHR10855:SF2; sufficient;
 TG  GO:0008180;
 --
 SN  5
 ID  COP9 signalosome complex subunit 5
-DN  COP9 signalosome complex subunit 5/5
+DN  COP9 signalosome complex subunit 5
 RQ  1
 EV  IPR037740; PTHR10410:SF6; sufficient;
 TG  GO:0008180;
 --
 SN  6
 ID  COP9 signalosome complex subunit 6
-DN  COP9 signalosome complex subunit 6/6
+DN  COP9 signalosome complex subunit 6
 RQ  1
 EV  IPR033859; PTHR10540:SF8; sufficient;
 EV  IPR033859; cd08063; sufficient;
@@ -71,7 +71,7 @@ TG  GO:0008180;
 --
 SN  7
 ID  COP9 signalosome complex subunit 7
-DN  COP9 signalosome complex subunit 7/7
+DN  COP9 signalosome complex subunit 7a/b
 RQ  1
 EV  IPR037757; PTHR15350:SF7; sufficient;
 EV  IPR027530; PTHR15350:SF8; sufficient;
@@ -79,14 +79,14 @@ TG  GO:0008180;
 --
 SN  8
 ID  COP9 signalosome complex subunit 8
-DN  COP9 signalosome complex subunit 8/8
+DN  COP9 signalosome complex subunit 8
 RQ  1
 EV  IPR033205; PTHR13339; sufficient;
 TG  GO:0008180;
 --
 SN  9
 ID  COP9 signalosome complex subunit 9
-DN  COP9 signalosome complex subunit 9/9
+DN  COP9 signalosome complex subunit 9, metazoa
 RQ  1
 EV  IPR029391; PF15004; sufficient;
 EV  IPR029391; PTHR28562; sufficient;
