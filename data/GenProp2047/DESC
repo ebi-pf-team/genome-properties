@@ -18,9 +18,9 @@ RA  Deshaies RJ;
 RL  Science 2002;298:608-611.
 CC  The COP9 signalosome (CSN) consists of COPS1/GPS1, COPS2, COPS3, 
 CC  COPS4, COPS5, COPS6, COPS7 (COPS7A or COPS7B), COPS8 and COPS9
-CC  isoform 1 [1].  CSN subunit 5 is a metallo-isopeptidase that 
+CC  isoform 1 [1]. CSN subunit 5 is a metallo-isopeptidase that 
 CC  releases the ubiquitin-like protein Nedd8 from the Cul1 subunit 
-CC  of SCF ubiquitin ligases [12183637] 
+CC  of SCF ubiquitin ligases [2].
 **  COPS5 is a metallopeptidase (MEROPS ID M67.002)
 **  COPS6 is MEROPS identifier M67.972
 **  Evidence for step 5 is also used in GP2046.
