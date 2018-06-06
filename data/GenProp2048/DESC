@@ -25,11 +25,10 @@ RT  the multiprotein complexes.
 RA  Kershnar E; Wu SY; Chiang CM;   
 RL  J Biol Chem. 1998;273:34444-34453.
 CC  The core-TFIIH basal transcription factor is involved in 
-CC  nucleotide excision repair (NER) of DNA [1].  The core-TFIIH 
-CC  basal transcription factor consists of six subunits.  The sixth 
-CC  component is a helicase, either XPB [2] or XPD [3].  The complex 
-CC  associates with the CAK complex to form the TFIIH basal 
-CC  transcription factor [2].
+CC  nucleotide excision repair (NER) of DNA [1]. Consisting of six 
+CC  subunits, the sixth component is a helicase, either XPB [2] or 
+CC  XPD [3]. The complex associates with the CAK complex to form 
+CC  the TFIIH basal transcription factor [2].
 --
 SN  1
 ID  General transcription factor IIH subunit 1
