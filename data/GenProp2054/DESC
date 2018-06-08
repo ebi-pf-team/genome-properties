@@ -15,7 +15,7 @@ RT  Saccharomyces cerevisiae TFIID complex.
 RA  Sanders SL; Weil PA;   
 RL  J Biol Chem. 2000;275:13895-13900.
 CC  The TFIID complex is a general purpose translation initiator
-CC  factor.  It is composed of the TATA binding protein (TBP) and 
+CC  factor. It is composed of the TATA binding protein (TBP) and 
 CC  14 TBP-associated factors. One copy of each TAF1, TAF2, TAF3, 
 CC  TAF7, TAF8, TAF11, TAF13, two copies of each TAF4, TAF5, TAF6, 
 CC  TAF9, TAF10, TAF12, and three copies of TAF14 [1,2].
