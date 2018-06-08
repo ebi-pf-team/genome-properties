@@ -30,7 +30,7 @@ CC  TAF9, TAF10, TAF12, and three copies of TAF14 [1,2].
 --
 SN  1
 ID  TATA-box-binding protein 
-DN  TATA-box-binding protein/1
+DN  TATA-box-binding protein/TBP
 RQ  1
 EV  IPR033710; cd04516; sufficient;
 TG  GO:0005669;
@@ -38,9 +38,9 @@ TG  GO:0006352;
 --
 SN  2
 ID  Transcription initiation factor TFIID subunit 1 
-DN  Transcription initiation factor TFIID subunit 1 /2
+DN  Transcription initiation factor TFIID subunit 1/TAF1
 RQ  1
-EV  IPR037783; PTHR19879:SF1; sufficient;
+EV  IPR011177; PTHR19879:SF1; sufficient;
 TG  GO:0005669;
 --
 SN  3
