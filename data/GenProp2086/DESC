@@ -49,7 +49,7 @@ SN  3
 ID  Neuroendocrine convertase 1
 DN  Neuroendocrine convertase 1 (EC 3.4.21.93)
 RQ  1
-EV  IPR034182; cd04059; sufficient;
+EV  IPR022005; PF12177; sufficient;
 TG  GO:0004252;
 TG  GO:0016486;
 --
