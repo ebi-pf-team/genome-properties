@@ -23,14 +23,14 @@ CC  DR1 [1].
 --
 SN  1
 ID  Cysteine-rich protein 2-binding protein (KAT14) 
-DN  Cysteine-rich protein 2-binding protein (KAT14)/1
+DN  Cysteine-rich protein 2-binding protein (KAT14)
 RQ  1
 EV  IPR037829; PTHR20916:SF0; sufficient;
 TG  GO:0005671;
 --
 SN  2
 ID  Histone acetyltransferase KAT2A 
-DN  Histone acetyltransferase KAT2A /2
+DN  Histone acetyltransferase GCN5 (KAT2A)
 RQ  1
 EV  IPR037800; PTHR22880:SF124; sufficient;
 TG  GO:0043966;
@@ -38,14 +38,14 @@ TG  GO:0005671;
 --
 SN  3
 ID  Transcriptional adapter 2-alpha (TADA2L)
-DN  Transcriptional adapter 2-alpha (TADA2L) /3
+DN  Transcriptional adapter 2-alpha (TADA2L)
 RQ  1
 EV  IPR034317; PTHR12374:SF38; sufficient;
 TG  GO:0005671;
 --
 SN  4
 ID  Transcriptional adapter 3 (TADA3L) 
-DN  Transcriptional adapter 3 (TADA3L) /4
+DN  Histone acetyltransferases subunit 3 (TADA3L)
 RQ  1
 EV  IPR019340; PF10198; sufficient;
 EV  IPR019340; PTHR13556; sufficient;
@@ -53,7 +53,7 @@ TG  GO:0005671;
 --
 SN  5
 ID  ZZ-type zinc finger-containing protein 3 (ZZZ3)
-DN  ZZ-type zinc finger-containing protein 3 (ZZZ3) /5
+DN  ZZ-type zinc finger-containing protein 3 (ZZZ3)
 RQ  1
 EV  IPR037830; PTHR22705:SF0; sufficient;
 TG  GO:0005671;
