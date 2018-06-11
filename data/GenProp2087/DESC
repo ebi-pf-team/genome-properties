@@ -2,7 +2,7 @@ AC  GenProp2087
 DE  Proglucagon activation
 TP  METAPATH
 AU  Rawlings ND
-TH  1
+TH  4
 RN  [1]
 RM  2901414  
 RT  Glucagon gene expression in vertebrate brain. 
@@ -37,6 +37,11 @@ CC  [4].
 **  Neuroendocrine convertase 1 (PCSK1) is MEROPS S08.072.
 **  Neuroendocrine convertase 1 (PCSK2) is MEROPS S08.073
 **  Carboxypeptidase E is MEROPS M14.005.
+**  IPR015550 (SN1) is found in 1 other propery
+**  GenProp2038 (SN2) is found in 1 other property
+**  IPR022005 (SN3) is found in 1 other property
+**  IPR034232 (SN5) is found in 1 other property
+**  Threshold adjusted to account for this
 --
 SN  1
 ID  Proglucagon
