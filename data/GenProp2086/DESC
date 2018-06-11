@@ -47,7 +47,7 @@ TG  GO:0006465;
 --
 SN  3
 ID  Neuroendocrine convertase 1
-DN  Neuroendocrine convertase 1 (EC 3.4.21.93)
+DN  Prohormone convertase enzyme (EC 3.4.21.93)
 RQ  1
 EV  IPR022005; PF12177; sufficient;
 TG  GO:0004252;
