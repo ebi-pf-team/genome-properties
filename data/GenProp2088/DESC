@@ -81,14 +81,14 @@ CC  of glycogen synthase and thus glycogen synthesis [6].
 --
 SN  1
 ID  Insulin
-DN  Insulin /1
+DN  Insulin
 RQ  1
 EV  IPR004825; PR00277; sufficient;
 TG  GO:0005179;
 --
 SN  2
 ID  Insulin receptor
-DN  Insulin receptor (INSR) /2
+DN  Insulin receptor (INSR)
 RQ  1
 EV  IPR016246; PIRSF000620; sufficient;
 TG  GO:0005009;
@@ -96,35 +96,35 @@ TG  GO:0004713;
 --
 SN  3
 ID  Insulin receptor substrate
-DN  Insulin receptor substrate /3
+DN  Insulin receptor substrate
 RQ  1
 EV  IPR039011; PTHR10614; sufficient;
 TG  GO:0005158;
 --
 SN  4
 ID  Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha
-DN  Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha (PIK3CA) (EC 2.7.1.153) /4
+DN  Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha (PIK3CA) (EC 2.7.1.153)
 RQ  1
 EV  IPR015433; PTHR10048; sufficient;
 TG  GO:0004674;
 --
 SN  5
 ID  Phosphatidylinositol 3-kinase regulatory subunit
-DN  Phosphatidylinositol 3-kinase regulatory subunit  (PIK3R1) /5
+DN  Phosphatidylinositol 3-kinase regulatory subunit  (PIK3R1)
 RQ  1
 EV  IPR001720; PTHR10155; sufficient;
 TG  GO:0001784;
 --
 SN  6
 ID  3-phosphoinositide-dependent protein kinase 1
-DN  3-phosphoinositide-dependent protein kinase 1 (PDPK1) (EC 2.7.11.1) /6
+DN  3-phosphoinositide-dependent protein kinase 1 (PDPK1) (EC 2.7.11.1)
 RQ  1
 EV  IPR039046; PTHR24356:SF163; sufficient;
 TG  GO:0004674;
 --
 SN  7
 ID  RAC-gamma serine/threonine-protein kinase
-DN  RAC-gamma serine/threonine-protein kinase (AKT1) (EC 2.7.11.1) /7
+DN  RAC-gamma serine/threonine-protein kinase (AKT1) (EC 2.7.11.1)
 RQ  1
 EV  IPR039027; PTHR24356:SF176; sufficient;
 EV  IPR039029; PTHR24356:SF190; sufficient;
@@ -132,14 +132,14 @@ TG  GO:0004674;
 --
 SN  8
 ID  Glycogen synthase kinase-3 beta
-DN  Glycogen synthase kinase-3 beta (GSK3B) (EC 2.7.11.26) /8
+DN  Glycogen synthase kinase-3 beta (GSK3B) (EC 2.7.11.26)
 RQ  1
 EV  IPR033573; PTHR24057:SF8; sufficient;
 TG  GO:0004674;
 --
 SN  9
 ID  Glycogen [starch] synthase, muscle
-DN  Glycogen [starch] synthase, muscle (GYS1) (EC 2.4.1.11) /9
+DN  Glycogen [starch] synthase, muscle (GYS1) (EC 2.4.1.11)
 RQ  1
 EV  IPR008631; PF05693; sufficient;
 EV  IPR008631; PTHR10176; sufficient;
