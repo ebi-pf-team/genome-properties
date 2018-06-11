@@ -2,7 +2,7 @@ AC  GenProp2088
 DE  Insulin signaling pathway - glycogenesis
 TP  PATHWAY
 AU  Rawlings ND
-TH  1
+TH  7
 RN  [1]
 RM  8276809 
 RT  Direct activation of the phosphatidylinositol 3'-
@@ -69,6 +69,15 @@ CC  of glycogen synthase and thus glycogen synthesis [6].
 **  INSR in glucose uptake and proliferation/differentiation 
 **  pathways; Akt on glycolysis, antilipolysis and antiapoptosis;
 **  and PDK1 on fatty acid biosynthesis.
+**  IPR004825 (SN1) is in 4 other props
+**  IPR016246 (SN2) is in 1 other prop
+**  IPR039011 (SN3) is in 1 other prop
+**  IPR015433 (SN4) is in 1 other prop
+**  IPR001720 (SN5) is in 1 other prop
+**  IPR039046 (SN6) is in 1 other prop
+**  IPR039027 (SN7) is in 1 other prop
+**  IPR039029 (SN7) is in 1 other prop
+**  Threshold adjusted to account for this
 --
 SN  1
 ID  Insulin
