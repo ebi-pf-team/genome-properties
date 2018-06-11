@@ -2,7 +2,7 @@ AC  GenProp2086
 DE  Pro-insulin activation
 TP  METAPATH
 AU  Rawlings ND
-TH  1
+TH  3
 RN  [1]
 RM  14426955  
 RT  Amino-acid sequence of human insulin. 
@@ -30,6 +30,11 @@ CC  sequentially by a carboxypeptidase [3].
 **  Neuroendocrine convertase 1 (PCSK2) can perform some of the
 **  same cleavages as PCSK1, and both are included in the same
 **  InterPro entry.
+**  IPR004825 (SN1) is found in 4 other properties
+**  GenProp2038 (SN2) is found in 1 other property
+**  IPR022005 (SN3) is found in 1 other property
+**  IPR034232 (SN4) is found in 1 other property
+**  Threshold adjusted to account for this
 --
 SN  1
 ID  Pro-insulin
