@@ -19,9 +19,9 @@ RT  Translational regulation of proinsulin biosynthesis and
 RT  proinsulin conversion in the pancreatic beta-cell. 
 RA  Goodge KA; Hutton JC;
 RL  Semin Cell Dev Biol 2000;11:235-242.
-CC  Insulin is synthesized as a precursor.  It is processed to
+CC  Insulin is synthesized as a precursor. It is processed to
 CC  generate insulin A and B chains, which are disulfide-linked,
-CC  and the C-peptide [1].  Processing occurs at dibasic 
+CC  and the C-peptide [1]. Processing occurs at dibasic 
 CC  residues [2] and the C-terminal dibasics are removed 
 CC  sequentially by a carboxypeptidase [3].
 **  The signal peptidase complex MEROPS XS26.001.
@@ -33,7 +33,7 @@ CC  sequentially by a carboxypeptidase [3].
 --
 SN  1
 ID  Pro-insulin
-DN  Pro-insulin
+DN  Insulin
 RQ  1
 EV  IPR004825; PR00277; sufficient;
 TG  GO:0005179;
