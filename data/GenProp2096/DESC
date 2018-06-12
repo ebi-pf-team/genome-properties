@@ -2,7 +2,7 @@ AC  GenProp2096
 DE  Insulin secretion via PKC
 TP  METAPATH
 AU  Rawlings ND
-TH  1
+TH  3
 RN  [1]
 RM  9914469 
 RT  Molecular mechanisms and regulation of insulin 
@@ -26,6 +26,11 @@ CC  receptors for acetylcholine, CCK and FA. Binding
 CC  leads to activation of PLC, which generates the second 
 CC  messenger diacylglycerol, and PKC [2], followed by 
 CC  release of insulin from insulin secretory granules.
+**  SN1 IPR000596, IPR001183, IPR013313 in 1 other prop
+**  SN2 IPR000654 in 1 other prop
+**  SN4 IPR016280 in 1 other prop
+**  SN6 GenProp2097 in 4 other prop
+**  Threshold adjusted to allow for this
 --
 SN  1
 ID  Cholecystokinin/acetylcholine/free fatty acid receptor
