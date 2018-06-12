@@ -22,6 +22,8 @@ RT  Crystal structure of a SNARE complex involved in
 CC  synaptic exocytosis at 2.4 A resolution. 
 RA  Sutton RB; Fasshauer D; Jahn R; Brunger AT; 
 RL  Nature 1998;395:347-353.
+DC  Insulin secretion
+DR  KEGG; map04911;
 CC  Insulin is secreted by the pancreatic beta cells. There
 CC  are numerous stilumi that promote release of the 
 CC  hormone from secretory granules [1,2]. Fusion of the 
