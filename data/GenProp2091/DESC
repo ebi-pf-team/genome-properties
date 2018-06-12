@@ -54,7 +54,7 @@ CC  membrane [2].
 --
 SN  1
 ID  Guanine nucleotide-binding protein G subunit alpha
-DN  Guanine nucleotide-binding protein G subunit alpha (GNA) /1
+DN  Guanine nucleotide binding protein (G-protein), alpha subunit
 RQ  1
 EV  IPR001019; PF00503; sufficient;
 EV  IPR001019; PR00318; sufficient;
@@ -65,14 +65,14 @@ TG  GO:0019001;
 --
 SN  2
 ID  Guanine nucleotide-binding protein G subunit beta
-DN  Guanine nucleotide-binding protein G subunit beta (GNB) /2
+DN  Guanine nucleotide-binding protein, beta subunit
 RQ  1
 EV  IPR016346; PTHR19850; sufficient;
 TG  GO:0003924;
 --
 SN  3
 ID  Guanine nucleotide-binding protein G subunit gamma
-DN  Guanine nucleotide-binding protein G subunit gamma (GNG) /3
+DN  G-protein, gamma subunit
 RQ  1
 EV  IPR001770; PTHR13809; sufficient;
 EV  IPR001770; PR00321; sufficient;
@@ -80,35 +80,35 @@ TG  GO:0003924;
 --
 SN  4
 ID  Adenylate cyclase
-DN  Adenylate cyclase (GNG) /4
+DN  Adenylate cyclase
 RQ  1
 EV  IPR030672; PIRSF039050; sufficient;
 TG  GO:0004016;
 --
 SN  5
 ID  Rap guanine nucleotide exchange
-DN  Rap guanine nucleotide exchange (EPAC/RAPGEF4) /5
+DN  Rap guanine nucleotide exchange (EPAC/RAPGEF4)
 RQ  1
 EV  IPR008937; PTHR23113; sufficient;
 TG  GO:0005085;
 --
 SN  6
 ID  Regulating synaptic membrane exocytosis protein 2
-DN  Regulating synaptic membrane exocytosis protein 2 (RIMS2) /6
+DN  Regulating synaptic membrane exocytosis protein 2
 RQ  1
 EV  IPR030631; PTHR12157:SF15; sufficient;
 TG  GO:0017157;
 --
 SN  7
 ID  Protein piccolo
-DN  Protein piccolo (PCLO) /7
+DN  Protein piccolo
 RQ  1
 EV  IPR030629; PTHR14113:SF6; sufficient;
 TG  GO:0017157;
 --
 SN  8
 ID  Ras-related protein Rab-3A
-DN  Ras-related protein Rab-3A (RAB3A) /8
+DN  Rab3
 RQ  1
 EV  IPR037872; cd01865; sufficient;
 TG  GO:0016079;
