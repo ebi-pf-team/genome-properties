@@ -30,6 +30,7 @@ CC  insulin from vesicles [1].
 **  Part of the pathway induced by peptide hormones 
 **  requires de novo synthesis of insulin, so is also
 **  difficult to model.
+**  SN3 GenProp2091 in 2 other prop
 --
 SN  1
 ID  Gastric inhibitory polypeptide
