@@ -15,7 +15,7 @@ RT  Cloning and functional expression of the human islet
 RT  GLP-1 receptor. Demonstration that exendin-4 is an 
 RT  agonist and exendin-(9-39) an antagonist of the 
 RT  receptor. 
-RA  Thorens B; Porret A; Bühler L; Deng SP; Morel P; 
+RA  Thorens B; Porret A; BÃ¼hler L; Deng SP; Morel P; 
 RA  Widmann C; 
 RL  Diabetes 1993;42:1678-1682.
 RN  [3]
@@ -43,18 +43,18 @@ CC  insulin from vesicles [1-3].
 **  Part of the pathway induced by peptide hormones 
 **  requires de novo synthesis of insulin, so is also
 **  difficult to model.
-**  Does it make sense to use glucagon model for GLP1?
+**  Does it make sense to use glucagon model for GLP1? - yes (LR)
 --
 SN  1
 ID  Glucagon-like peptide-1
-DN  Glucagon-like peptide-1 (GLP1) /1
+DN  Glucagon
 RQ  1
-EV  IPR004825; PR00277; sufficient;
+EV  IPR015550; PR00277; sufficient;
 TG  GO:0005179;
 --
 SN  2
 ID  Glucagon-like peptide 1 receptor
-DN  Glucagon-like peptide 1 receptor (GLP1R) /2
+DN  GPCR, family 2, glucagon-like peptide-1 receptor
 RQ  1
 EV  IPR003292; PR01355; sufficient;
 EV  IPR003292; PTHR12011:SF245; sufficient;
@@ -62,7 +62,7 @@ EV  IPR003292; cd15268; sufficient;
 TG  GO:0044508;
 --
 SN  3
-ID  insulin secretion, common pathway
+ID  Insulin secretion, EPAC pathway
 RQ  1
 EV  GenProp2091;
 //
