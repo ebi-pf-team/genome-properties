@@ -52,14 +52,14 @@ CC  cAMP.
 --
 SN  1
 ID  Glucagon-like peptide-1
-DN  Glucagon
+DN  Glucagon (GLP-1)
 RQ  1
 EV  IPR015550; PR00277; sufficient;
 TG  GO:0005179;
 --
 SN  2
 ID  Glucagon-like peptide 1 receptor
-DN  GPCR, family 2, glucagon-like peptide-1 receptor
+DN  GPCR, family 2, glucagon-like peptide-1 receptor (GLP-1R)
 RQ  1
 EV  IPR003292; PR01355; sufficient;
 EV  IPR003292; PTHR12011:SF245; sufficient;
@@ -68,7 +68,7 @@ TG  GO:0044508;
 --
 SN  3
 ID  Guanine nucleotide-binding protein G subunit alpha
-DN  Guanine nucleotide binding protein (G-protein), alpha subunit
+DN  Guanine nucleotide binding protein (G-protein), alpha subunit (GNA)
 RQ  1
 EV  IPR001019; PF00503; sufficient;
 EV  IPR001019; PR00318; sufficient;
