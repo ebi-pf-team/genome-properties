@@ -2,7 +2,7 @@ AC  GenProp2090
 DE  Insulin signaling pathway - glucose uptake
 TP  PATHWAY
 AU  Rawlings ND
-TH  1
+TH  7
 RN  [1]
 RM  8276809 
 RT  Direct activation of the phosphatidylinositol 3'-
@@ -66,6 +66,13 @@ CC  uptake.
 **  The first seven steps are the same as in Genprop2088.
 **  The KEGG pathway makes no mention of TBC1D4.
 **  SN1 IPR004825 in 4 other props
+**  SN2 IPR016246 in 1 other prop
+**  SN3 IPR039011 in 1 other prop
+**  SN4 IPR015433 in 1 other prop
+**  SN5 IPR001720 in 1 other prop
+**  SN6 IPR039046 in 1 other prop
+**  SN7 IPR039027 & IPR039029 in 1 other prop
+**  Threshold adjusted to allow for this
 --
 SN  1
 ID  Insulin
