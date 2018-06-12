@@ -22,6 +22,8 @@ RT  subunit of the KATP channel alters coupling with the
 RT  SUR2A subunit. 
 RA  Tammaro P; Ashcroft F; 
 RL  J Physiol 2007;584:743-753.
+DC  Insulin secretion
+DR  KEGG; map04911;
 CC  Insulin is secreted by the pancreatic beta cells. Its
 CC  secretion can be stimulated by the import of glucose
 CC  via a surface transporter, and metabolism of glucose
