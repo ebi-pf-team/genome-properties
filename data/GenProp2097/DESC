@@ -34,7 +34,7 @@ CC  [3].
 --
 SN  1
 ID  Vesicle-associated membrane protein 2
-DN  Vesicle-associated membrane protein 2 
+DN  Vesicle-associated membrane protein 2 (VAMP2)
 RQ  1
 EV  IPR028717; PTHR21136:SF91; sufficient;
 TG  GO:0006887;
@@ -50,7 +50,7 @@ TG  GO:0045921;
 --
 SN  3
 ID  Synaptosomal-associated protein 25
-DN  Synaptosomal-associated protein 25
+DN  Synaptosomal-associated protein 25 (SNAP25)
 RQ  1
 EV  IPR039077; PTHR19305:SF5; sufficient;
 TG  GO:0017075;
