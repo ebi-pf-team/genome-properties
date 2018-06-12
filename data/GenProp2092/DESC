@@ -23,6 +23,8 @@ RM  19817800
 RT  Roles of cAMP signalling in insulin granule exocytosis. 
 RA  Seino S; Takahashi H; Fujimoto W; Shibasaki T; 
 RL  Diabetes Obes Metab 2009;11 Suppl 4:180-188.
+DC  Insulin secretion
+DR  KEGG; map04911;
 CC  Insulin is secreted by the pancreatic beta cells. Its
 CC  secretion can be stimulated by the import of glucose
 CC  via a surface transporter, and metabolism of glucose
