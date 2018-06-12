@@ -2,7 +2,7 @@ AC  GenProp2091
 DE  Insulin secretion, EPAC pathway
 TP  METAPATH
 AU  Rawlings ND
-TH  1
+TH  5
 RN  [1]
 RM  9914469 
 RT  Molecular mechanisms and regulation of insulin 
@@ -51,6 +51,12 @@ CC  membrane [2].
 **  subunits.  The alpha chain has the nucleotide binding 
 **  site; beta and gamma are GTPases.
 **  Can this pathway can be a separate GenomeProperty for exocytosis?
+**  SN1 IPR001019 in 2 other prop
+**  SN2 IPR016346 in 2 other prop
+**  SN3 IPR001770 in 2 other prop
+**  SN4 IPR030672 in 2 other prop
+**  SN9 GenProp2097 in 4 other prop
+**  Threshold adjusted to allow for this
 --
 SN  1
 ID  Guanine nucleotide-binding protein G subunit alpha
