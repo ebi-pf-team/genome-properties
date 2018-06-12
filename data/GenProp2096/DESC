@@ -29,7 +29,7 @@ CC  release of insulin from insulin secretory granules.
 --
 SN  1
 ID  Cholecystokinin/acetylcholine/free fatty acid receptor
-DN  Guanine nucleotide-binding protein subunit alpha-11 (CCKAR, CHRM3, FFAR1) /2
+DN  Cholecystokinin/acetylcholine/free fatty acid receptor (CCKAR/CHRM3/FFAR1)
 RQ  1
 EV  IPR000596; PR00524; sufficient;
 EV  IPR001183; PR00540; sufficient;
@@ -39,29 +39,22 @@ EV  IPR013313; cd15169; sufficient;
 TG  GO:0007186;
 --
 SN  2
-ID  Guanine nucleotide-binding protein subunit alpha-11
-DN  Guanine nucleotide-binding protein subunit alpha-11 (GNA11) /2
-RQ  1
-EV  -; PTHR10218:SF57; sufficient;
-TG  GO:0001664;
---
-SN  3
-ID  Guanine nucleotide-binding protein G(q) subunit alpha
-DN  Guanine nucleotide-binding protein G(q) subunit alpha (GNAQ) /3
+ID  Guanine nucleotide-binding protein subunit alpha-11/G(q) subunit alpha
+DN  Guanine nucleotide-binding protein subunit alpha-11 (GNA11)/Guanine nucleotide-binding protein G(q) subunit alpha (GNAQ)
 RQ  1
 EV  IPR000654; PR00442; sufficient;
 TG  GO:0001664;
 --
 SN  4
 ID  1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta
-DN  1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta (PLCB1, PLCB2, PLCB3, PLCB4) (EC 3.1.4.11) /4
+DN  1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta (PLCB1, PLCB2, PLCB3, PLCB4) (EC 3.1.4.11)
 RQ  1
 EV  IPR016280; PIRSF000956; sufficient;
 TG  GO:0004435;
 --
 SN  5
 ID  Protein kinase C
-DN  Protein kinase C (PRKCA, PRKCB, PRKCG) (EC 2.7.11.13) /5
+DN  Protein kinase C (PRKCA, PRKCB, PRKCG) (EC 2.7.11.13)
 RQ  1
 EV  IPR014375; PIRSF000550; sufficient;
 TG  GO:0004697;
