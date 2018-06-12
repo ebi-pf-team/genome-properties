@@ -34,21 +34,21 @@ CC  insulin from vesicles [1].
 --
 SN  1
 ID  Pituitary adenylate cyclase-activating polypeptide
-DN  Pituitary adenylate cyclase-activating polypeptide (PACAP) /1
+DN  Pituitary adenylate cyclase-activating polypeptide
 RQ  1
 EV  IPR039080; PTHR11213:SF1; sufficient;
 TG  GO:0005184;
 --
 SN  2
 ID  Pituitary adenylate cyclase-activating polypeptide type I receptor
-DN  Pituitary adenylate cyclase-activating polypeptide type I receptor (ADCYAP1R1) /2
+DN  GPCR, family 2, pituitary adenylate cyclase activating polypeptide type 1 receptor
 RQ  1
 EV  IPR002285; PR01156; sufficient;
 EV  IPR002285; PTHR12011:SF228; sufficient;
 TG  GO:0007166;
 --
 SN  3
-ID  Insulin secretion, common pathway
+ID  Insulin secretion, EPAC pathway
 RQ  1
 EV  GenProp2091;
 //
