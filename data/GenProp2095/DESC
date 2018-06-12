@@ -24,12 +24,12 @@ RA  Jones PMl Persaud SJ;
 RL  Endocr Rev 1998;19:429-461.
 CC  Insulin is secreted by the pancreatic beta cells. Its
 CC  secretion can be stimulated by the import of glucose
-CC  via a surface transporter, and metabolism of glucose
+CC  via a surface transporter. Metabolism of glucose
 CC  increases intracellular ATP, inhibiting ATP-sensitive
 CC  potassium channels, causing an influx of calcium into
-CC  the cell [1].  Alternatively, there are surface 
+CC  the cell [1]. Alternatively, there are surface 
 CC  receptors for peptide hormones such as glucagon-like 
-CC  peptide 1.  Binding triggers an increase in cAMP, 
+CC  peptide 1. Binding triggers an increase in cAMP, 
 CC  activation of G proteins, leading to insulin secretion
 CC  via binding of storage vesicles to the membrane [2].
 CC  Depolarization of the plasma membrane leads to an 
@@ -46,7 +46,7 @@ CC  containing vesicles to the cell surface [3].
 --
 SN  1
 ID  Guanine nucleotide-binding protein G subunit alpha
-DN  Guanine nucleotide-binding protein G subunit alpha (GNA) /1
+DN  Guanine nucleotide binding protein (G-protein), alpha subunit
 RQ  1
 EV  IPR001019; PF00503; sufficient;
 EV  IPR001019; PR00318; sufficient;
