@@ -2,7 +2,7 @@ AC  GenProp2098
 DE  Insulin secretion via IP3
 TP  METAPATH
 AU  Rawlings ND
-TH  1
+TH  5
 RN  [1]
 RM  9914469 
 RT  Molecular mechanisms and regulation of insulin 
@@ -34,6 +34,12 @@ CC  of insulin from insulin secretory granules.
 **  ryanodine receptor 2, but the SwissProt entry describes
 **  this receptor as restricted to cardiac muscle, not
 **  pancreatic beta cells.
+**  SN1 IPR000596, IPR001183, IPR013313 in 1 other prop
+**  SN2 IPR000654 in 1 other prop
+**  SN4 IPR016280 in 1 other prop
+**  SN6 IPR039071 in 2 other prop
+**  SN7 GenProp2097 in 4 other prop
+**  Threshold adjusted to allow for this
 --
 SN  1
 ID  Cholecystokinin/acetylcholine/free fatty acid receptor
