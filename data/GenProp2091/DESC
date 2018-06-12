@@ -32,9 +32,9 @@ CC  secretion can be stimulated by the import of glucose
 CC  via a surface transporter, and metabolism of glucose
 CC  increases intracellular ATP, inhibiting ATP-sensitive
 CC  potassium channels, causing an influx of calcium into
-CC  the cell [1].  Alternatively, there are surface 
+CC  the cell [1]. Alternatively, there are surface 
 CC  receptors for peptide hormones such as glucagon-like 
-CC  peptide 1.  Binding triggers an increase in cAMP, 
+CC  peptide 1. Binding triggers an increase in cAMP, 
 CC  activation of G proteins [2,3,4], leading to insulin 
 CC  secretion via binding of storage vesicles to the 
 CC  membrane [2].
