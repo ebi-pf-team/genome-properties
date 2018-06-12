@@ -2,7 +2,7 @@ AC  GenProp2089
 DE  Glucagon signaling pathway for glycogenolysis
 TP  PATHWAY
 AU  Rawlings ND
-TH  1
+TH  8
 RN  [1]
 RM  17110384 
 RT  Conditional stimulation of type V and VI adenylyl 
@@ -57,6 +57,15 @@ CC  membrane by facilitated glucose transporters [6].
 **  Step 13: SLC2A2 (IPR002440) mediates bidirectional glucose 
 **  transport across the membrane; SLC2A1 (IPR002439) may just
 **  facilitate glucose uptake by the cell. 
+**  SN1 IPR015550 in 1 other prop
+**  SN3 IPR001019 in 2 other prop
+**  SN4 IPR016346 in 2 other prop
+**  SN5 IPR001770 in 2 other prop
+**  SN6 IPR030672 in 2 other prop
+**  SN7 IPR039035 in 1 other prop
+**  SN11 IPR011833 in 1 other prop
+**  SN13 IPR002439 & IPR002440 in 1 other prop
+**  Threshold adjusted to allow for this
 --
 SN  1
 ID  Glucagon
