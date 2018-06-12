@@ -11,6 +11,8 @@ RT  polypeptide receptor.
 RA  Ogi K; Miyamoto Y; Masuda Y; Habata Y; Hosoya M; Ohtaki 
 RA  T; Masuo Y; Onda H; Fujino M; 
 RL  Best Pract Res Clin Endocrinol Metab 2004;18:587-606.
+DC  Insulin secretion
+DR  KEGG; map04911;
 CC  Insulin is secreted by the pancreatic beta cells. Its
 CC  secretion can be stimulated by the import of glucose
 CC  via a surface transporter, and metabolism of glucose
