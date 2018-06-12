@@ -1,8 +1,8 @@
 AC  GenProp2092
-DE  Insulin secretion, GLP-1 signalled
+DE  GLP-1 signalled increase in cAMP
 TP  METAPATH
 AU  Rawlings ND
-TH  2
+TH  1
 RN  [1]
 RM  17306374 
 RT  Mechanisms of action of glucagon-like peptide 1 in 
@@ -33,7 +33,9 @@ CC  for peptide hormones such as glucogon-like peptide 1.
 CC  Binding triggers adenylyl cyclase activation, an 
 CC  increase in cAMP, activation of cAMP-dependent second
 CC  messengers such as protein kinase A, and secretion of
-CC  insulin from vesicles [1-3].
+CC  insulin from vesicles [1-3]. This property describes
+CC  the steps of the pathway leading to an increase in 
+CC  cAMP.
 **  This Genome Property models the release of insulin
 **  stored in vesicles induced by peptide hormone GLP-1.
 **  It is difficult to model the pathway initiated by
@@ -45,8 +47,6 @@ CC  insulin from vesicles [1-3].
 **  difficult to model.
 **  Does it make sense to use glucagon model for GLP1? - yes (LR)
 **  SN1 IPR015550 in 1 other prop
-**  SN3 GenProp2091 in 2 other prop
-**  Threshold adjusted to allow for this
 --
 SN  1
 ID  Glucagon-like peptide-1
@@ -65,7 +65,35 @@ EV  IPR003292; cd15268; sufficient;
 TG  GO:0044508;
 --
 SN  3
-ID  Insulin secretion, EPAC pathway
+ID  Guanine nucleotide-binding protein G subunit alpha
+DN  Guanine nucleotide binding protein (G-protein), alpha subunit
 RQ  1
-EV  GenProp2091;
+EV  IPR001019; PF00503; sufficient;
+EV  IPR001019; PR00318; sufficient;
+EV  IPR001019; PTHR10218; sufficient;
+EV  IPR001019; SM00275; sufficient;
+EV  IPR001019; cd00066; sufficient;
+TG  GO:0019001;
+--
+SN  4
+ID  Guanine nucleotide-binding protein G subunit beta
+DN  Guanine nucleotide-binding protein G subunit beta (GNB)
+RQ  1
+EV  IPR016346; PTHR19850; sufficient;
+TG  GO:0003924;
+--
+SN  5
+ID  Guanine nucleotide-binding protein G subunit gamma
+DN  Guanine nucleotide-binding protein G subunit gamma (GNG)
+RQ  1
+EV  IPR001770; PTHR13809; sufficient;
+EV  IPR001770; PR00321; sufficient;
+TG  GO:0003924;
+--
+SN  6
+ID  Adenylate cyclase
+DN  Adenylate cyclase (AC)
+RQ  1
+EV  IPR030672; PIRSF039050; sufficient;
+TG  GO:0004016;
 //
