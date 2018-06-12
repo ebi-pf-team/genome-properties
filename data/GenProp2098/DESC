@@ -15,6 +15,8 @@ RT  Studies of inositol phospholipid-specific phospholipase
 RT  C. 
 RA  Rhee SG; Suh PG; Ryu SH; Lee SY; 
 RL  Science 1989;244:546-550.
+DC  Insulin secretion
+DR  KEGG; map04911;
 CC  Insulin is secreted by the pancreatic beta cells. Its
 CC  secretion can be stimulated by the import of glucose
 CC  via a surface transporter, and metabolism of glucose
