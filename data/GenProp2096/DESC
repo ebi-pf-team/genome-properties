@@ -21,8 +21,8 @@ CC  secretion can be stimulated by the import of glucose
 CC  via a surface transporter, and metabolism of glucose
 CC  increases intracellular ATP, inhibiting ATP-sensitive
 CC  potassium channels, causing an influx of calcium into
-CC  the cell [1].  Alternatively, there are surface 
-CC  receptors for acetylcholine, CCK and FA.  Binding 
+CC  the cell [1]. Alternatively, there are surface 
+CC  receptors for acetylcholine, CCK and FA. Binding 
 CC  leads to activation of PLC, which generates the second 
 CC  messenger diacylglycerol, and PKC [2], followed by 
 CC  release of insulin from insulin secretory granules.
