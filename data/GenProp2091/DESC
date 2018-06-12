@@ -2,7 +2,7 @@ AC  GenProp2091
 DE  Insulin secretion, EPAC pathway
 TP  METAPATH
 AU  Rawlings ND
-TH  5
+TH  1
 RN  [1]
 RM  9914469 
 RT  Molecular mechanisms and regulation of insulin 
@@ -40,10 +40,6 @@ CC  secretion via binding of storage vesicles to the
 CC  membrane [2].
 **  This Genome Property models the release of insulin
 **  stored in vesicles induced by peptide hormones.
-**  It is difficult to model the pathway initiated by
-**  glucose, because it involves the TCA cycle and
-**  it is the increase in ATP that triggers Na+/K+ flux
-**  and an increase in intracellular Ca2+. 
 **  Part of the pathway induced by peptide hormones 
 **  requires de novo synthesis of insulin, so is also
 **  difficult to model.
@@ -51,45 +47,14 @@ CC  membrane [2].
 **  subunits.  The alpha chain has the nucleotide binding 
 **  site; beta and gamma are GTPases.
 **  Can this pathway can be a separate GenomeProperty for exocytosis?
-**  SN1 IPR001019 in 2 other prop
-**  SN2 IPR016346 in 2 other prop
-**  SN3 IPR001770 in 2 other prop
-**  SN4 IPR030672 in 2 other prop
-**  SN9 GenProp2097 in 4 other prop
-**  Threshold adjusted to allow for this
 --
 SN  1
-ID  Guanine nucleotide-binding protein G subunit alpha
-DN  Guanine nucleotide binding protein (G-protein), alpha subunit
+ID  Peptide hormone initiated increase in cAMP
+DN  Peptide hormone initiated increase in cAMP
 RQ  1
-EV  IPR001019; PF00503; sufficient;
-EV  IPR001019; PR00318; sufficient;
-EV  IPR001019; PTHR10218; sufficient;
-EV  IPR001019; SM00275; sufficient;
-EV  IPR001019; cd00066; sufficient;
-TG  GO:0019001;
---
-SN  2
-ID  Guanine nucleotide-binding protein G subunit beta
-DN  Guanine nucleotide-binding protein, beta subunit
-RQ  1
-EV  IPR016346; PTHR19850; sufficient;
-TG  GO:0003924;
---
-SN  3
-ID  Guanine nucleotide-binding protein G subunit gamma
-DN  G-protein, gamma subunit
-RQ  1
-EV  IPR001770; PTHR13809; sufficient;
-EV  IPR001770; PR00321; sufficient;
-TG  GO:0003924;
---
-SN  4
-ID  Adenylate cyclase
-DN  Adenylate cyclase
-RQ  1
-EV  IPR030672; PIRSF039050; sufficient;
-TG  GO:0004016;
+EV  GenProp2092; sufficient;
+EV  GenProp2093; sufficient;
+EV  GenProp2094; sufficient;
 --
 SN  5
 ID  Rap guanine nucleotide exchange
@@ -100,7 +65,7 @@ TG  GO:0005085;
 --
 SN  6
 ID  Regulating synaptic membrane exocytosis protein 2
-DN  Regulating synaptic membrane exocytosis protein 2
+DN  Regulating synaptic membrane exocytosis protein 2 (Rim2)
 RQ  1
 EV  IPR030631; PTHR12157:SF15; sufficient;
 TG  GO:0017157;
