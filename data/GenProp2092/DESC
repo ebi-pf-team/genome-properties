@@ -2,7 +2,7 @@ AC  GenProp2092
 DE  Insulin secretion, GLP-1 signalled
 TP  METAPATH
 AU  Rawlings ND
-TH  1
+TH  2
 RN  [1]
 RM  17306374 
 RT  Mechanisms of action of glucagon-like peptide 1 in 
@@ -44,6 +44,9 @@ CC  insulin from vesicles [1-3].
 **  requires de novo synthesis of insulin, so is also
 **  difficult to model.
 **  Does it make sense to use glucagon model for GLP1? - yes (LR)
+**  SN1 IPR015550 in 1 other prop
+**  SN3 GenProp2091 in 2 other prop
+**  Threshold adjusted to allow for this
 --
 SN  1
 ID  Glucagon-like peptide-1
