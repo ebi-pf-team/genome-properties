@@ -2,7 +2,7 @@ AC  GenProp2099
 DE  Insulin secretion via glucose
 TP  METAPATH
 AU  Rawlings ND
-TH  1
+TH  5
 RN  [1]
 RM  9914469 
 RT  Molecular mechanisms and regulation of insulin 
@@ -36,6 +36,12 @@ CC  into the cell [1].
 **  KEGG includes subunit gamma of the Na2+/K2+ ATPase, but
 **  the SwissProt entry (P54710) states it is found only in 
 **  the nephron of the kidney.
+**  SN1 IPR002439 and IPR002440 in 1 other prop
+**  SN3 GenProp0033 in 2 other prop
+**  SN9 IPR005446 in 1 other prop
+**  SN10 IPR039071 in 2 other prop
+**  SN11 GenProp2097 in 4 other prop
+**  Threshold adjusted to allow for this
 --
 SN  1
 ID  Solute carrier family 2, facilitated glucose transporter
