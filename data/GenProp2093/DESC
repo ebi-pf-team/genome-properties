@@ -10,6 +10,8 @@ RT  dependent insulinotropic polypeptide/gastric
 RT  inhibitory polypeptide. 
 RA  Meier JJ; Nauck MA; 
 RL  Best Pract Res Clin Endocrinol Metab 2004;18:587-606.
+DC  Insulin secretion
+DR  KEGG; map04911;
 CC  Insulin is secreted by the pancreatic beta cells. Its
 CC  secretion can be stimulated by the import of glucose
 CC  via a surface transporter, and metabolism of glucose
