@@ -27,6 +27,8 @@ RT  Attenuated processing of proglucagon and glucagon-like
 RT  peptide-1 in carboxypeptidase E-deficient mice. 
 RA  Friis-Hansen L; Lacourse KA; Samuelson LC; Holst JJ; 
 RL  J Endocrinol 2001;169:595-602.
+DC  Insulin secretion
+DR  KEGG; map04911;
 CC  Glucagon is synthesized as a precursor [1]. It is 
 CC  processed to generate glicentin, oxyntomodulin, 
 CC  glucagon and glucagon-like peptides 1 and 2. Processing 
