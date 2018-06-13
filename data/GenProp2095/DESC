@@ -22,6 +22,8 @@ RT  regulation of insulin secretion from pancreatic beta-
 RT  cells. 
 RA  Jones PMl Persaud SJ; 
 RL  Endocr Rev 1998;19:429-461.
+DC  Insulin secretion
+DR  KEGG; map04911;
 CC  Insulin is secreted by the pancreatic beta cells. Its
 CC  secretion can be stimulated by the import of glucose
 CC  via a surface transporter. Metabolism of glucose
