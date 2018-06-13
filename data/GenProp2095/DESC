@@ -56,31 +56,31 @@ EV  GenProp2094; sufficient;
 --
 SN  5
 ID  cAMP-dependent protein kinase catalytic subunits
-DN  cAMP-dependent protein kinase catalytic subunits (PRKACA, PRKACB, PRKACG) (EC 2.7.11.11) /4
+DN  cAMP-dependent protein kinase catalytic subunits (PRKACA, PRKACB, PRKACG) (EC 2.7.11.11)
 RQ  1
 EV  IPR039035; PTHR24353:SF82; sufficient;
-EV  -; PTHR24353:SF116; sufficient;
-EV  -; PTHR24353:SF113; sufficient;
+EV  IPR039083; PTHR24353:SF116; sufficient;
+EV  IPR039084; PTHR24353:SF113; sufficient;
 TG  GO:0004674;
 TG  GO:0004691;
 --
 SN  6
 ID  cAMP-dependent protein kinase regulatory subunits
-DN  cAMP-dependent protein kinase regulatory subunits (PRKAR1A, PRKAR1B, PRKAR2A, PRKAR2B) /6
+DN  cAMP-dependent protein kinase regulatory subunits (PRKAR1A, PRKAR1B, PRKAR2A, PRKAR2B)
 RQ  1
 EV  IPR012198; PIRSF000548; sufficient;
 TG  GO:0000166;
 --
 SN  7
 ID  Voltage-dependent L-type calcium channel subunits alpha
-DN  Voltage-dependent L-type calcium channel subunits alpha (CACNA1C, CACNA1D, CACNA1F, CACNA1S) /7
+DN  Voltage-dependent L-type calcium channel subunits alpha (CACNA1C, CACNA1D, CACNA1F, CACNA1S)
 RQ  1
 EV  IPR005446; PR01630; sufficient;
 TG  GO:0005245;
 --
 SN  8
 ID  Calcium/calmodulin-dependent protein kinase type II
-DN  Calcium/calmodulin-dependent protein kinase type II (CAMK2A, CAMK2B, CAMK2D, CAMK2G) /8
+DN  Calcium/calmodulin-dependent protein kinase type II (CAMK2A, CAMK2B, CAMK2D, CAMK2G)
 RQ  1
 EV  IPR039071; PTHR43940; sufficient;
 TG  GO:0004683;
