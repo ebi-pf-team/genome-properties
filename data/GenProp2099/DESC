@@ -54,7 +54,7 @@ TG  GO:0005355;
 --
 SN  2
 ID  Glucokinase
-DN  GGlucokinase, chordate (GCK) (EC 2.7.1.2)
+DN  Glucokinase, chordate (GCK) (EC 2.7.1.2)
 EV  IPR039073; PTHR19443:SF3; sufficient;
 TG  GO:0004340;
 --
