@@ -2,7 +2,7 @@ AC  GenProp2058
 DE  STAGA transcription coactivator-HAT complex
 TP  SYSTEM
 AU  Rawlings ND
-TH  5
+TH  7
 RN  [1]
 RM  11564863
 RT  Human STAGA complex is a chromatin-acetylating transcription 
@@ -17,12 +17,14 @@ CC  interacts with pre-mRNA splicing and DNA damage-binding
 CC  factors. The STAGA complex is composed of at least SUPT3H, 
 CC  KAT2A, SUPT7L, TAF5L, TAF6L, TADA3L, TAD1L, TAF10, TAF12, 
 CC  TRRAP and TAF9 [1]. 
+**  Evidence for step 1 is also used in GP2057.
 **  Evidence for step 2 is also used in GP2053, GP2055, GP2056 and GP2057.
 **  Evidence for step 4 is also used in GP2057.
 **  Evidence for step 5 is also used in GP2053, GP2054, GP2057 and GP2065.
+**  Evidence for step 8 is also used in GP2057.
 **  Evidence for step 9 is also used in GP2053.
 **  Evidence for step 10 is also used in GP2053, GP2057, GP2074 and GP2075.
-**  Threshold is therefore set to 5.
+**  Threshold is therefore set to 7.
 --
 SN  1
 ID  Transcription initiation protein SPT3 homolog (SUPT3H)
