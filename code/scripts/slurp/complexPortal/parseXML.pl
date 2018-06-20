@@ -35,16 +35,45 @@ if($options{help}){
   help();
 }
 
-my $gp = GenomeProperties->new;
+
+my $cpUrl = "ftp://ftp.ebi.ac.uk/pub/databases/intact/complex/current/psi30/ecoli";
+my $content;
+my $response = $ua->get($cpUrl);
+if ( $response->is_success ) {
+  $content = $response->decoded_content;
+} else {
+  die $response->status_line;
+}
 
 
-my $data;
+my $outDir = "/tmp/GP";
+foreach my $line (split(/\n/, $content)){
+  my @row = split(/\s+/, $line);
+  my $file = pop(@row);
 
-$data->{AC} = "GenPropXXXX";
-$data->{TP} = "COMPLEX";
-$data->{AU} = "Complex Portal";
+  mkdir("/tmp/GP/$file");
+  chdir("/tmp/GP/$file") or die "Could not change into /tmp/GP/$file:[$!]\n";
+   
+  my $xmlContent;
+  my $response = $ua->get("$cpUrl/$file");
+  if ( $response->is_success ) {
+    $xmlContent = $response->decoded_content;
+  } else {
+    die $response->status_line;
+  }
 
-my $xp = XML::XPath->new(filename => '/Users/rdf/Documents/InterPro/Projects/GenomeProperties/CPX-2107.xml');
+
+  
+  my $gp = GenomeProperties->new;
+
+  my $data;
+
+  $data->{AC} = "GenPropXXXX";
+  $data->{TP} = "COMPLEX";
+  $data->{AU} = "Complex Portal";
+
+
+  my $xp = XML::XPath->new(xml => $xmlContent);
 
 my $ins = $xp->find("/entrySet/entry/interactionList/abstractInteraction/names/alias[\@type='complex recommended name']");
 foreach my $e ($ins->get_nodelist){
@@ -163,3 +192,5 @@ foreach my $f (@fasta){
   print FA $f;
 }
 close(FA);
+exit;
+}
