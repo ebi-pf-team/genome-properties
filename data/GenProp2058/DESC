@@ -72,7 +72,7 @@ TG  GO:0030914;
 --
 SN  7
 ID  Transcriptional adapter 1 (TAD1L)
-DN  Transcriptional adapter 1 (TAD1L)
+DN  Transcriptional adapter 1/Hfi1 (TAD1L)
 RQ  1
 EV  IPR024738; PF12767; sufficient;
 EV  IPR024738; PTHR21277; sufficient;
