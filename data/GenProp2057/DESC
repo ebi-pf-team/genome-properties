@@ -25,6 +25,7 @@ CC  TRRAP [1].
 **  Evidence for step 1 is also used in GP2058.
 **  Evidence for step 2 is also used in GP2053, GP2054, GP2058 and GP2065.
 **  Evidence for step 3 is also used in GP2054.
+**  Evidence for SN5 may overhit.
 **  Evidence for step 6 is also used in GP2054.
 **  Evidence for step 8 is also used in GP2053 and GP2054.
 **  Evidence for step 9 is also used in GP2053, GP2055, GP2056 and GP2058.
@@ -33,28 +34,28 @@ CC  TRRAP [1].
 --
 SN  1
 ID  TAF5-like RNA polymerase II p300/CBP-associated factor-associated factor 65 kDa subunit 5L (TAF5L) 
-DN  TAF5-like RNA polymerase II p300/CBP-associated factor-associated factor 65 kDa subunit 5L (TAF5L)/1
+DN  TAF5-like RNA polymerase II p300/CBP-associated factor-associated factor 65 kDa subunit 5L (TAF5L)
 RQ  1
 EV  IPR037826; PTHR19879:SF6; sufficient;
 TG  GO:0033276;
 --
 SN  2
 ID  TAF6-like RNA polymerase II p300/CBP-associated factor-associated factor 65 kDa subunit 6L (TAF6L) 
-DN  TAF6-like RNA polymerase II p300/CBP-associated factor-associated factor 65 kDa subunit 6L (TAF6L) /2
+DN  Transcription initiation factor TFIID subunit 6 (TAF6L)
 RQ  1
 EV  IPR037796; PTHR10221; sufficient;
 TG  GO:0033276;
 --
 SN  3
 ID  Transcription initiation factor TFIID subunit 3 (TAF3) 
-DN  Transcription initiation factor TFIID subunit 3 (TAF3) /3
+DN  Transcription initiation factor TFIID subunit 3 (TAF3)
 RQ  1
 EV  IPR037815; PTHR12321:SF34; sufficient;
 TG  GO:0033276;
 --
 SN  4
 ID  Transcriptional adapter 3 (TADA3L) 
-DN  Transcriptional adapter 3 (TADA3L) /4
+DN  Histone acetyltransferases subunit 3 (TADA3L)
 RQ  1
 EV  IPR019340; PF10198; sufficient;
 EV  IPR019340; PTHR13556; sufficient;
@@ -62,7 +63,7 @@ TG  GO:0033276;
 --
 SN  5
 ID  Transcription initiation protein SPT3 homolog (SUPT3H/SPT3) 
-DN  Transcription initiation protein SPT3 homolog (SUPT3H/SPT3) /5
+DN  Transcription initiation protein SPT3 homolog (SUPT3H/SPT3)
 RQ  1
 EV  IPR003195; PF02269; sufficient;
 EV  IPR003195; PTHR11380; sufficient;
@@ -71,14 +72,14 @@ TG  GO:0033276;
 --
 SN  6
 ID  Transcription initiation factor TFIID subunit 2 (TAF2/TAFII150)
-DN  Transcription initiation factor TFIID subunit 2 (TAF2/TAFII150) /6
+DN  Transcription initiation factor TFIID subunit 2 (TAF2/TAFII150)
 RQ  1
 EV  IPR037813; PTHR15137; sufficient;
 TG  GO:0033276;
 --
 SN  7
 ID  Transcription initiation factor TFIID subunit 4 (TAF4/TAFII135)
-DN  Transcription initiation factor TFIID subunit 4 (TAF4/TAFII135)/7
+DN  Transcription initiation factor TFIID subunit 4 (TAF4/TAFII135)
 RQ  1
 EV  IPR007900; PF05236; sufficient;
 EV  IPR007900; d08045; sufficient;
@@ -86,14 +87,14 @@ TG  GO:0033276;
 --
 SN  8
 ID  Transcription initiation factor TFIID subunit 5 (TAF5/TAFII100)
-DN  Transcription initiation factor TFIID subunit 5 (TAF5/TAFII100)/8
+DN  Transcription initiation factor TFIID subunit 5 (TAF5/TAFII100)
 RQ  1
 EV  IPR037783; PTHR19879:SF4; sufficient;
 TG  GO:0033276;
 --
 SN  9
 ID  Histone acetyltransferase KAT2A
-DN  Histone acetyltransferase KAT2A/9
+DN  Histone acetyltransferase KAT2A
 RQ  1
 EV  IPR037800; PTHR22880:SF124; sufficient;
 TG  GO:0033276;
@@ -101,7 +102,7 @@ TG  GO:0016573;
 --
 SN  10
 ID  Transcription initiation factor TFIID subunit 10 (TAF10) 
-DN  Transcription initiation factor TFIID subunit 10 (TAF10) /10
+DN  Transcription initiation factor TFIID subunit 10 (TAF10)
 RQ  1
 EV  IPR003923; PF03540; sufficient;
 EV  IPR003923; PIRSF017246; sufficient;
@@ -112,7 +113,7 @@ TG  GO:0033276;
 --
 SN  11
 ID  Transformation/transcription domain-associated protein (TRRAP) 
-DN  Transformation/transcription domain-associated protein (TRRAP) /11
+DN  Transformation/transcription domain-associated protein (TRRAP)
 RQ  1
 EV  IPR033317; PTHR11139:SF1; sufficient;
 TG  GO:0033276;
