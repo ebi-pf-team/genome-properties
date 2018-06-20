@@ -45,9 +45,7 @@ SN  3
 ID  STAGA complex 65 subunit gamma (SUPT7L)
 DN  STAGA complex 65 subunit gamma (SUPT7L)
 RQ  1
-EV  IPR003195; PF02269; sufficient;
-EV  IPR003195; PTHR11380; sufficient;
-EV  IPR003195; cd07978; sufficient;
+EV  -; PTHR28598; sufficient;
 TG  GO:0030914;
 --
 SN  4
