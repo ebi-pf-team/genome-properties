@@ -1,5 +1,5 @@
 AC  GenProp2094
-DE  Insulin secretion, PACAP signalled
+DE  PACAP signalled increase in cAMP
 TP  METAPATH
 AU  Rawlings ND
 TH  1
@@ -11,6 +11,8 @@ RT  polypeptide receptor.
 RA  Ogi K; Miyamoto Y; Masuda Y; Habata Y; Hosoya M; Ohtaki 
 RA  T; Masuo Y; Onda H; Fujino M; 
 RL  Best Pract Res Clin Endocrinol Metab 2004;18:587-606.
+DC  Insulin secretion
+DR  KEGG; map04911;
 CC  Insulin is secreted by the pancreatic beta cells. Its
 CC  secretion can be stimulated by the import of glucose
 CC  via a surface transporter, and metabolism of glucose
@@ -31,24 +33,53 @@ CC  insulin from vesicles [1].
 **  Part of the pathway induced by peptide hormones 
 **  requires de novo synthesis of insulin, so is also
 **  difficult to model.
+**  SN3 GenProp2091 in 2 other prop
 --
 SN  1
 ID  Pituitary adenylate cyclase-activating polypeptide
-DN  Pituitary adenylate cyclase-activating polypeptide (PACAP) /1
+DN  Pituitary adenylate cyclase-activating polypeptide (PACAP)
 RQ  1
 EV  IPR039080; PTHR11213:SF1; sufficient;
 TG  GO:0005184;
 --
 SN  2
 ID  Pituitary adenylate cyclase-activating polypeptide type I receptor
-DN  Pituitary adenylate cyclase-activating polypeptide type I receptor (ADCYAP1R1) /2
+DN  GPCR, family 2, pituitary adenylate cyclase activating polypeptide type 1 receptor (PACAPR)
 RQ  1
 EV  IPR002285; PR01156; sufficient;
 EV  IPR002285; PTHR12011:SF228; sufficient;
 TG  GO:0007166;
 --
 SN  3
-ID  Insulin secretion, common pathway
+ID  Guanine nucleotide-binding protein G subunit alpha
+DN  Guanine nucleotide binding protein (G-protein), alpha subunit (GNA)
 RQ  1
-EV  GenProp2091;
+EV  IPR001019; PF00503; sufficient;
+EV  IPR001019; PR00318; sufficient;
+EV  IPR001019; PTHR10218; sufficient;
+EV  IPR001019; SM00275; sufficient;
+EV  IPR001019; cd00066; sufficient;
+TG  GO:0019001;
+--
+SN  4
+ID  Guanine nucleotide-binding protein G subunit beta
+DN  Guanine nucleotide-binding protein G subunit beta (GNB)
+RQ  1
+EV  IPR016346; PTHR19850; sufficient;
+TG  GO:0003924;
+--
+SN  5
+ID  Guanine nucleotide-binding protein G subunit gamma
+DN  Guanine nucleotide-binding protein G subunit gamma (GNG)
+RQ  1
+EV  IPR001770; PTHR13809; sufficient;
+EV  IPR001770; PR00321; sufficient;
+TG  GO:0003924;
+--
+SN  6
+ID  Adenylate cyclase
+DN  Adenylate cyclase (AC)
+RQ  1
+EV  IPR030672; PIRSF039050; sufficient;
+TG  GO:0004016;
 //

@@ -4,7 +4,7 @@ TP  SYSTEM
 AU  Rawlings ND
 TH  1
 RN  [1]
-RM  20381137
+RM  23723238
 RT  A Tumor suppressor complex with GAP activity for the Rag GTPases 
 RT  that signal amino acid sufficiency to mTORC1. 
 RA  Bar-Peled L; Chantranupong L; Cherniack AD; Chen WW; Ottina KA; 
@@ -30,15 +30,15 @@ CC  controlled by the GATOR1 and GATOR2 complexes.
 --
 SN  1
 ID  Ras-related GTP-binding protein A/B
-DN  Ras-related GTP-binding protein A/B/1
+DN  RagA-like
 RQ  1
-EV  IPR006762; PTHR11259; sufficient;
+EV  IPR039397; cd11384; sufficient;
 TG  GO:0003924;
 --
 SN  2
 ID  Ras-related GTP-binding protein C/D
-DN  Ras-related GTP-binding protein C/D/1
+DN  RagC-like
 RQ  1
-EV  IPR006762; PTHR11259; sufficient;
+EV  IPR039400; cd11385; sufficient;
 TG  GO:0003924;
 //

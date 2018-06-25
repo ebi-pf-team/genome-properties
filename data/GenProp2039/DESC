@@ -20,12 +20,12 @@ RA  Isaya G; Miklos D; Rollins RA;
 RL  Mol Cell Biol. 1994;14:5603-5616.
 CC  Mitocondrial processing peptidase (MPP) removes the first, 
 CC  N-terminal targeting sequence from nuclear-encoded proteins
-CC  that are destined for import into the mitochondrion.  MPP
+CC  that are destined for import into the mitochondrion. MPP
 CC  is a heterodimer of two homologous subunits, MMPalpha and
-CC  MPPbeta.  Only the beta subunit has peptidase activity [1].
+CC  MPPbeta. Only the beta subunit has peptidase activity [1].
 CC  The initial targeting signal may be followed by a second
 CC  signal that targets a protein to the mitochondrial matrix 
-CC  or inner membrane.  This second signal is removed by 
+CC  or inner membrane. This second signal is removed by 
 CC  mitochondrial intermediate peptidase [2].
 **  MPPalpha is MEROPS identifier M16.971.
 **  MPPbeta is MEROPS identifier M16.003.
@@ -33,21 +33,21 @@ CC  mitochondrial intermediate peptidase [2].
 --
 SN  1
 ID  Mitochondrial-processing peptidase subunit alpha
-DN  Mitochondrial-processing peptidase subunit alpha/1
+DN  Mitochondrial-processing peptidase subunit alpha
 RQ  1
 EV  IPR037715; PTHR11851:SF183; sufficient;
 TG  GO:0006627
 --
 SN  2
 ID  Mitochondrial-processing peptidase subunit beta
-DN  Mitochondrial-processing peptidase subunit beta/2
+DN  Mitochondrial-processing peptidase subunit beta
 RQ  1
 EV  IPR037718; PTHR11851:SF103; sufficient;
 TG  GO:0017087
 --
 SN  3
 ID  Mitochondrial intermediate peptidase
-DN  Mitochondrial intermediate peptidase/3
+DN  Mitochondrial intermediate peptidase
 RQ  0
 EV  IPR033851; PTHR11804:SF5; sufficient;
 EV  IPR033851; cd06457; sufficient;

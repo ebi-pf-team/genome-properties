@@ -2,7 +2,7 @@ AC  GenProp2099
 DE  Insulin secretion via glucose
 TP  METAPATH
 AU  Rawlings ND
-TH  1
+TH  5
 RN  [1]
 RM  9914469 
 RT  Molecular mechanisms and regulation of insulin 
@@ -22,6 +22,8 @@ RT  subunit of the KATP channel alters coupling with the
 RT  SUR2A subunit. 
 RA  Tammaro P; Ashcroft F; 
 RL  J Physiol 2007;584:743-753.
+DC  Insulin secretion
+DR  KEGG; map04911;
 CC  Insulin is secreted by the pancreatic beta cells. Its
 CC  secretion can be stimulated by the import of glucose
 CC  via a surface transporter, and metabolism of glucose
@@ -36,17 +38,23 @@ CC  into the cell [1].
 **  KEGG includes subunit gamma of the Na2+/K2+ ATPase, but
 **  the SwissProt entry (P54710) states it is found only in 
 **  the nephron of the kidney.
+**  SN1 IPR002439 and IPR002440 in 1 other prop
+**  SN3 GenProp0033 in 2 other prop
+**  SN9 IPR005446 in 1 other prop
+**  SN10 IPR039071 in 2 other prop
+**  SN11 GenProp2097 in 4 other prop
+**  Threshold adjusted to allow for this
 --
 SN  1
 ID  Solute carrier family 2, facilitated glucose transporter
-DN  Solute carrier family 2, facilitated glucose transporter (GLUT1/SLC2A1, GLUT2/SLC2A2) /1
+DN  Glucose transporter, type 1/2 (GLUT1/SLC2A1, GLUT2/SLC2A2)
 EV  IPR002439; PR01190; sufficient;
 EV  IPR002440; PR01191; sufficient;
 TG  GO:0005355;
 --
 SN  2
 ID  Glucokinase
-DN  Glucokinase (GCK) (EC 2.7.1.2) /2
+DN  Glucokinase, chordate (GCK) (EC 2.7.1.2)
 EV  IPR039073; PTHR19443:SF3; sufficient;
 TG  GO:0004340;
 --
@@ -57,20 +65,20 @@ EV  GenProp0033;
 --
 SN  4
 ID  Transient receptor potential cation channel subfamily M member 4
-DN  Transient receptor potential cation channel subfamily M member 4 (TRPM4) /4
+DN  Transient receptor potential cation channel subfamily M member 4 (TRPM4)
 EV  IPR029581; PTHR13800:SF6; sufficient;
 TG  GO:0005272;
 --
 SN  5
 ID  Sodium/potassium-transporting ATPase subunit alpha-1
-DN  Sodium/potassium-transporting ATPase subunit alpha-1 (ATP1A1, ATP1A2, ATP1A3, ATP1A4) /4
+DN  P-type ATPase subfamily IIC, subunit alpha (ATP1A1, ATP1A2, ATP1A3, ATP1A4)
 EV  IPR005775; TIGR01106; sufficient;
 EV  IPR005775; cd02608; sufficient;
 TG  GO:0005391;
 --
 SN  6
 ID  Sodium/potassium-transporting ATPase subunit beta-1
-DN  Sodium/potassium-transporting ATPase subunit beta-1 (ATP1B1, ATP1B2, ATP1B3) /6
+DN  Sodium/potassium-transporting ATPase subunit beta (ATP1B1, ATP1B2, ATP1B3)
 EV  IPR000402; PF00287; sufficient;
 EV  IPR000402; PS00390; sufficient;
 EV  IPR000402; PS00391; sufficient;
@@ -80,28 +88,28 @@ TG  GO:0005391;
 --
 SN  7
 ID  ATP-binding cassette sub-family C member 8
-DN  ATP-binding cassette sub-family C member 8 (ABCC8) /7
+DN  ATP-binding cassette subfamily C member 8 (ABCC8)
 EV  IPR000844; PR01093; sufficient;
 EV  IPR000844; PTHR24223:SF187; sufficient;
 TG  GO:0005267;
 --
 SN  8
 ID  ATP-sensitive inward rectifier potassium channel 11
-DN  ATP-sensitive inward rectifier potassium channel 11 (KCNJ11) /8
+DN  Potassium channel, inwardly rectifying, Kir6.2 (KCNJ11)
 EV  IPR003279; PR01332; sufficient;
 EV  IPR003279; PTHR11767:SF44; sufficient;
 TG  GO:0005249;
 --
 SN  9
 ID  Voltage-dependent L-type calcium channel subunits alpha
-DN  Voltage-dependent L-type calcium channel subunits alpha (CACNA1C, CACNA1D, CACNA1F, CACNA1S) /9
+DN  Voltage-dependent calcium channel, L-type, alpha-1 subunit (CACNA1C, CACNA1D, CACNA1F, CACNA1S)
 RQ  1
 EV  IPR005446; PR01630; sufficient;
 TG  GO:0005245;
 --
 SN  10
 ID  Calcium/calmodulin-dependent protein kinase type II
-DN  Calcium/calmodulin-dependent protein kinase type II (CAMK2A, CAMK2B, CAMK2D, CAMK2G) /10
+DN  Calcium/calmodulin-dependent protein kinase type II (CAMK2A, CAMK2B, CAMK2D, CAMK2G)
 RQ  1
 EV  IPR039071; PTHR43940; sufficient;
 TG  GO:0004683;

@@ -20,9 +20,6 @@ CC  of the activation pathways.  The classical and lectin pathways converge
 CC  at the activation of the C2/C4 complex, whereas the alternative pathway
 CC  converges at C5 activation [1].  The pathways are found only in 
 CC  chordates.
-**  There is no unique signature for complement factor D.  PTHR24271 covers
-**  numerous members of the trypsin family, most of which occur in any
-**  vertebrate genome, and includes the non-proteolytic azurocidin.
 **  Evidence for step 1 is also used in GP2007.
 **  Threshold is therefore set to 2.
 --
