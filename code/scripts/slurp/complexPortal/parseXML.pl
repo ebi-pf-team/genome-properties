@@ -53,7 +53,8 @@ while(<I>){
 }
 close(I);
 
-my $cpUrl = "ftp://ftp.ebi.ac.uk/pub/databases/intact/complex/current/psi30/ecoli";
+#my $cpUrl = "ftp://ftp.ebi.ac.uk/pub/databases/intact/complex/current/psi30/ecoli";
+my $cpUrl = "ftp://ftp.ebi.ac.uk/pub/databases/intact/complex/current/psi30/yeast";
 my $content;
 my $response = $ua->get($cpUrl);
 if ( $response->is_success ) {
@@ -61,8 +62,6 @@ if ( $response->is_success ) {
 } else {
   die $response->status_line;
 }
-
-
 
 
 
