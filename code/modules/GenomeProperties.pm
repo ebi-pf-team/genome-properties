@@ -714,8 +714,8 @@ sub _gp_step_ev_file {
 sub _write_properties_to_file {
   my ($self) = @_;
 
-  #$self->_write_defs;
-  #$self->_write_steps;  
+  $self->_write_defs;
+  $self->_write_steps;  
   $self->_write_step_evidences;
 }
 
@@ -878,10 +878,10 @@ sub toDESC {
     or die "Could not open $descfile file for writing to\n";
   $Text::Wrap::unexpand = 0;
   $Text::Wrap::columns = 76;
- 
+
+  #binmode(D, ":utf8");
 
   while (my ($acc, $desc) = each %$defs) {
-    p($acc);
     print D wrap( "AC  ", "AC  ", $desc->accession );
     print D "\n";
     print D wrap( "DE  ", "DE  ", $desc->name);
@@ -932,9 +932,9 @@ sub toDESC {
       }
     }
     print D wrap( "CC  ", "CC  ", $desc->comment);
-    print D "\n";
+    print D "\n" if($desc->comment);
     print D wrap( "**  ", "**  ", $desc->private);
-    print D "\n";
+    print D "\n" if($desc->private);
 
     foreach my $step (@{ $desc->get_steps }){
       print D "--\n";
