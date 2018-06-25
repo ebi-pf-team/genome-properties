@@ -21,7 +21,7 @@ CC  LarB, LarE and LarC are involved in the synthesis of the nickel-pincer
 CC  cofactor of lactate racemase LarA. LarB converts nicotinic acid adenine
 CC  dinucleotide (NaAD) into pyridinium-3,5-biscarboxylic acid mononucleotide
 CC  (P2CMN). LarE incorporates two sulfur atoms to yield P2TMN, and LarC donates
-CC  Ni, so that the mature cofactor becomes covalently attached to LarA. 
+CC  Ni, so that the mature cofactor becomes covalently attached to LarA [2]. 
 **  In species where larA is absent, this pathway could be used to generate a
 **  pincer complex in other enzymes.
 --
