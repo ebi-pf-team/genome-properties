@@ -38,10 +38,4 @@ ID  Cobalt import systems: GenProp0279
 DN  Cobalt import systems: GenProp0279/6
 RQ  1
 EV  GenProp0279;
---
-SN  7
-ID  Cobalamin-utilizing enzymes: GenProp0284
-DN  Cobalamin-utilizing enzymes: GenProp0284/B12-enz
-RQ  1
-EV  GenProp0284;
 //
