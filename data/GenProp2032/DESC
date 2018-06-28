@@ -17,6 +17,8 @@ RT  and is necessary for its activation by amino acids.
 RA  Sancak Y; Bar-Peled L; Zoncu R; Markhard AL; Nada S;  
 RA  Sabatini DM; 
 RL  Cell. 2010;141:290-303.
+DC  mTOR signaling pathway
+DR  KEGG; map04150;
 CC  The RAG complex is a component of the the TORC1 sensor pathway  
 CC  which promotes protein synthesis in the presence of adequate
 CC  energy and amino acids.  The heterodimeric Rag complex 
