@@ -27,6 +27,8 @@ RT  ALG9 mannosyltransferase is involved in two different steps of
 RT  lipid-linked oligosaccharide biosynthesis.
 RA  Frank CG, Aebi M;
 RL  Glycobiology. 2005;15:1156-1163.
+DC  N-Glycan precursor biosynthesis
+DR  KEGG; hsa_M00055;
 CC  N-linked glycosylation in eukaryotes requires the assembly of lipid-linked
 CC  oligosaccharide (LLO) precursor Glc3Man9GlcNAc2-pyrophosphate-dolichol
 CC  (Glc3Man9Gn2-PDol), the substrate for the oligosaccharyltransferase (OST),
@@ -38,7 +40,7 @@ CC  oligosaccharide pathway. Alg13 contains the catalytic domain. Alg4 functions
 CC  as a membrane anchor that recruits Alg13 to the cytosolic face of the ER
 CC  [2]. Rft1 translocates the Man5GlcNAc2-PP-Dol intermediate from the
 CC  cytosolic site of the ER membrane to the lumen [3].
-CC  Alg9 is required at two differeng steps [4].
+CC  Alg9 is required at two different steps [4].
 --
 SN  1
 ID  UDP-GlcNAc-dolichyl-phosphate GlcNAc phosphotransferase (ALG7)
@@ -124,15 +126,6 @@ TG  GO:0000009;
 TG  GO:0005788;
 --
 SN  11
-ID  Dol-P-Man:Man(7)GlcNAc(2)-PP-Dol alpha-1,6-mannosyltransferase (ALG12)
-DN  Dol-P-Man:Man(7)GlcNAc(2)-PP-Dol alpha-1,6-mannosyltransferase (EC:2.4.1.260)
-RQ  1
-EV  IPR039485; PTHR22760:SF1; sufficient;
-TG  GO:0006488;
-TG  GO:0000009;
-TG  GO:0005788;
---
-SN  12
 ID  Dolichyl pyrophosphate Man9GlcNAc2 alpha-1,3-glucosyltransferase (ALG6)
 DN  Dolichyl pyrophosphate Man9GlcNAc2 alpha-1,3-glucosyltransferase (EC:2.4.1.267)
 RQ  1
@@ -141,7 +134,7 @@ TG  GO:0006488;
 TG  GO:0042281;
 TG  GO:0005783;
 --
-SN  13
+SN  12
 ID  Dolichyl pyrophosphate Glc1Man9GlcNAc2 alpha-1,3-glucosyltransferase (ALG8)
 DN  Dolichyl pyrophosphate Glc1Man9GlcNAc2 alpha-1,3-glucosyltransferase (EC:2.4.1.265)
 RQ  1
@@ -150,7 +143,7 @@ TG  GO:0005783;
 TG  GO:0042283;
 TG  GO:0006490;
 --
-SN  14
+SN  13
 ID  Dol-P-Glc:Glc(2)Man(9)GlcNAc(2)-PP-Dol alpha-1,2-glucosyltransferase (ALG10)
 DN  Dol-P-Glc:Glc(2)Man(9)GlcNAc(2)-PP-Dol alpha-1,2-glucosyltransferase (EC:2.4.1.256)
 RQ  1
