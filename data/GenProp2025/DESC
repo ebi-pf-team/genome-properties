@@ -15,6 +15,8 @@ RT  Purification of catalytically active caspase-12 and its biochemical
 RT  characterization.  
 RA  Lee HJ; Lee SH; Park SH; Sharoar MG; Shin SY; Lee JS; Cho B; Park IS; 
 RL  Arch Biochem Biophys. 2010;502:68-73.
+DC  Apoptosis
+DR  KEGG; map04210;
 CC  Apoptosis or programmed cell death is the mechanism by which cells 
 CC  in eukaryotes are killed.  Cysteine endopeptidases known as caspases 
 CC  are activated and these deactivate cellular proteins, often by 
