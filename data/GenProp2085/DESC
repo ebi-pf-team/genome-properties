@@ -68,6 +68,8 @@ CC  antagnoist of AT1R [5].  Alamandine is derived from
 CC  angiotensin 1-7 by decarboxylation or by cleavage of 
 CC  angiotensin A by ACE2.  Alamandine binds to the Mas-related 
 CC  G protein coupled receptor D and induces vasorelaxation [6].
+DC  Renin-angiotensin system
+DR  KEGG; map04614;
 **  Angiotensinogen is related to serpins and is MEROPS I04.953
 **  Renin is MEROPS A01.007.
 **  Angiotensin-converting enzymes 1 and 2 are MEROPS XM02.001 (complex), M02.001 (ACE domain 1), M02.004 (ACE domain 2) and M02.006 (ACE2).
