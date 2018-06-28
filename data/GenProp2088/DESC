@@ -61,6 +61,8 @@ CC  3-phosphoinositide-dependent protein kinase 1 [3], which in
 CC  turn activates serine kinase Akt [4].  Akt deactivates 
 CC  glycogen synthase kinase 3 [5] which leads to the activation
 CC  of glycogen synthase and thus glycogen synthesis [6].
+DC  Insulin signaling pathway
+DR  KEGG; map04910;
 **  PTHR10614 includes insulin receptor substrates 1, 2 and 4.
 **  PTHR10155 includes PIK3R1, PIK3R2 and PIK3R3, any of 
 **  which can form a heterodimer with PIK3CA.
