@@ -40,6 +40,8 @@ CC  peptide 1. Binding triggers an increase in cAMP,
 CC  activation of G proteins [2,3,4], leading to insulin 
 CC  secretion via binding of storage vesicles to the 
 CC  membrane [2].
+DC  Insulin signaling pathway
+DR  KEGG; map04910;
 **  This Genome Property models the release of insulin
 **  stored in vesicles induced by peptide hormones.
 **  Part of the pathway induced by peptide hormones 
