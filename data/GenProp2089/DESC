@@ -39,8 +39,8 @@ RT  Liver glucose transporter: a basolateral protein in
 RT  hepatocytes and intestine and kidney cells. 
 RA  Thorens B; Cheng ZQ; Brown D; Lodish HF; 
 RL  Am J Physiol 1990;259:C279-C285.
-DC  Insulin secretion
-DR  KEGG; map04911;
+DC  Glucagon signaling pathway
+DR  KEGG; map04922;
 CC  Glucagon is counter-regulatory to insulin and increases the
 CC  levels of glucose in the blood by promoting its release from
 CC  stores of glycogen, increasing biosynthesis of glucose and
