@@ -13,6 +13,8 @@ CC  The complex contains a catalytic subunit (either
 CC  SMARCA4/BRG1/BAF190A or SMARCA2/BRM/BAF190B) and at least 
 CC  SMARCE1, ACTL6A/BAF53, SMARCC1/BAF155, SMARCC2/BAF170, and 
 CC  SMARCB1/SNF5/BAF47.
+DC  Hepatocellular carcinoma
+DR  KEGG; map05225;
 **  Evidence for step 1 is also used in GP2080, GP2081, GP2082 and GP2083 (IPR030088).
 **  Evidence for step 1 is also used in GP2081, GP2082 and GP2083 (IPR030100).
 **  Evidence for step 2 is also used in GP2081, GP2082 and GP2083 (IPR030089).
