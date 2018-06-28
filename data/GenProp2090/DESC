@@ -49,8 +49,8 @@ RT  activating protein regulates GLUT4 translocation.
 RA  Sano H; Kane S; Sano E; Mîinea CP; Asara JM; Lane WS; 
 RA  Garner CW; Lienhard GE; 
 RL  J Biol Chem. 2003;278:14599-14602.
-DC  Insulin secretion
-DR  KEGG; map04911;
+DC  Insulin signaling pathway
+DR  KEGG; map04910;
 CC  The binding of insulin to its receptor INSR leads to the
 CC  phosphorylation and activation of the receptor, which is 
 CC  also a tyrosine kinase [1]. INSR then phosphorylates  
@@ -65,8 +65,6 @@ CC  bound state. Other proteins in the cascade remain in their
 CC  activated state, stimulating the glucose transporter GLUT4 
 CC  to be expressed on the plasma membrane, leading to glucose
 CC  uptake.
-DC  Insulin signaling pathway
-DR  KEGG; map04910;
 **  The first seven steps are the same as in Genprop2088.
 **  The KEGG pathway makes no mention of TBC1D4.
 **  SN1 IPR004825 in 4 other props
