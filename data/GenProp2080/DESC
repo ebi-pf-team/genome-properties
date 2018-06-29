@@ -2,7 +2,7 @@ AC  GenProp2080
 DE  BAF53 complex
 TP  COMPLEX
 AU  Rawlings ND
-TH  4
+TH  3
 RN  [1]
 RM  11839798  
 RT  BAF53 forms distinct nuclear complexes and functions as a 
@@ -16,7 +16,7 @@ CC  RUVBL1/TIP49, SMARCA2/BRM, and TRRAP/PAF400 [1].
 **  Evidence for step 2 is also used in GP2066, GP2075, GP2076 and GP2077 (IPR037938).
 **  Evidence for step 3 is also used in GP2081 and GP2082 (IPR030088).
 **  Evidence for step 4 is also used in GP2053, GP2057, GP2058, GP2074 and GP2075 (IPR033317).
-**  Threshold is therefore set to 4.
+**  Threshold is therefore set to 3.
 --
 SN  1
 ID  Actin-like protein 6A (ACTL6A/BAF53A)
