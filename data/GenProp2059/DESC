@@ -19,7 +19,7 @@ CC  ASH2L/ASH2, CXXC1/CFP1, HCFC1 and DPY30 [1].
 **  Evidence for step 5 is also used in GP2060, GP2061, GP2062 and GP2067.
 **  Evidence for step 7 is also used in GP2061, GP2063, GP2067, GP2068 and GP2069.
 **  Evidence for step 8 is also used in GP2061, GP2062 and GP2067.
-** Threshold is set to 6.
+**  Threshold is set to 6.
 --
 SN  1
 ID  Histone-lysine N-methyltransferase SET1
