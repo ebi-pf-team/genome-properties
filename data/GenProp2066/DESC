@@ -2,7 +2,7 @@ AC  GenProp2066
 DE  RuvB-like helicase
 TP  COMPLEX
 AU  Rawlings ND
-TH  2
+TH  1
 RN  [1]
 RM  10428817 
 RT  TIP49b, a new RuvB-like DNA helicase, is included in a 
@@ -19,7 +19,6 @@ CC  confirmed experimentally [1].  This complex itself is a
 CC  component in many other complexes.
 **  Evidence for step 1 is also used in GP2075.
 **  Evidence for step 2 is also used in GP2075 and GP2077.
-**  Threshold is therefore set to 2.
 --
 SN  1
 ID  RuvB-like 1 (RUVBL1/TIP49a) 
