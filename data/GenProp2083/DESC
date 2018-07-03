@@ -55,7 +55,7 @@ TG  GO:0071565;
 --
 SN  3
 ID  AT-rich interactive domain-containing protein 1B (ARID1B/BAF250B)
-DN  AT-rich interactive domain-containing protein 1A
+DN  AT-rich interactive domain-containing protein 1B
 RQ  1
 EV  IPR038040; PTHR12656:SF11; sufficient;
 TG  GO:0071565;
@@ -78,20 +78,14 @@ SN  6
 ID  Actin-like protein 6A (ACTL6A/BAF53)
 DN  Actin-like protein 6A
 RQ  1
-EV  IPR004000; PF00022; sufficient;
-EV  IPR004000; PR00190; sufficient;
-EV  IPR004000; PTHR11937; sufficient;
-EV  IPR004000; SM00268; sufficient;
+EV  IPR029912; PTHR11937:SF191; sufficient;
 TG  GO:0071565;
 --
 SN  7
 ID  Actin-like protein 6B (ACTL6B/BAF53B)
 DN  Actin-like protein 6B
 RQ  1
-EV  IPR004000; PF00022; sufficient;
-EV  IPR004000; PR00190; sufficient;
-EV  IPR004000; PTHR11937; sufficient;
-EV  IPR004000; SM00268; sufficient;
+EV  -; PTHR11937:SF196; sufficient;
 TG  GO:0071565;
 --
 SN  8
