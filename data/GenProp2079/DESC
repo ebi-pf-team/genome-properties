@@ -81,7 +81,7 @@ SN  9
 ID  E3 ubiquitin-protein ligase RING2 (RNF2)
 DN  E3 ubiquitin-protein ligase RING2 (EC 2.3.2.27)
 RQ  1
-EV  IPR037937; PTHR10825:SF41; sufficient;
+EV  -; PTHR10825:SF41; sufficient;
 TG  GO:0036353;
 TG  GO:0000151;
 TG  GO:0005667;
