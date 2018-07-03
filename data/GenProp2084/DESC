@@ -43,10 +43,7 @@ SN  3
 ID  Actin-like protein 6A (ACTL6A/BAF53)
 DN  Actin-like protein 6A
 RQ  1
-EV  IPR004000; PF00022; sufficient;
-EV  IPR004000; PR00190; sufficient;
-EV  IPR004000; PTHR11937; sufficient;
-EV  IPR004000; SM00268; sufficient;
+EV  IPR029912; PTHR11937:SF191; sufficient;
 TG  GO:0016514;
 --
 SN  4
