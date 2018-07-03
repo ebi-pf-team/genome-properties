@@ -26,7 +26,7 @@ DR  KEGG; map05225;
 --
 SN  1
 ID  Transcription activator BRG1/SNF2L2 (SMARCA4/BRG1/BAF190A or SMARCA2/BRM/BAF190B)
-DN  Transcription activator BRG1 (EC 3.6.4.-) /1
+DN  Transcription activator BRG1 (EC 3.6.4.-)
 RQ  1
 EV  IPR030100; PTHR10799:SF76; sufficient;
 EV  IPR030088; PTHR10799:SF541 ; sufficient;
@@ -34,14 +34,14 @@ TG  GO:0016514;
 --
 SN  2
 ID  SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily E member 1 (SMARCE1/BAF57)
-DN  SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily E member 1 /2
+DN  SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily E member 1
 RQ  1
 EV  IPR030089; PTHR13711:SF206; sufficient;
 TG  GO:0016514;
 --
 SN  3
 ID  Actin-like protein 6A (ACTL6A/BAF53)
-DN  Actin-like protein 6A /3
+DN  Actin-like protein 6A
 RQ  1
 EV  IPR004000; PF00022; sufficient;
 EV  IPR004000; PR00190; sufficient;
@@ -51,21 +51,21 @@ TG  GO:0016514;
 --
 SN  4
 ID  SWI/SNF complex subunit SMARCC1 (SMARCC1/BAF155)
-DN  SWI/SNF complex subunit SMARCC1 /4
+DN  SWI/SNF complex subunit SMARCC1
 RQ  1
 EV  IPR030087; PTHR12802:SF9; sufficient;
 TG  GO:0016514;
 --
 SN  5
 ID  SWI/SNF complex subunit SMARCC2 (SMARCC2/BAF170)
-DN  SWI/SNF complex subunit SMARCC2 /5
+DN  SWI/SNF complex subunit SMARCC2
 RQ  1
 EV  IPR038044; PTHR12802:SF38; sufficient;
 TG  GO:0016514;
 --
 SN  6
 ID  SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily B member 1 (SMARCB1/BAF47)
-DN  SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily B member 1 /6
+DN  SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily B member 1
 RQ  1
 EV  IPR006939; PF04855 ; sufficient;
 EV  IPR006939; PTHR10019; sufficient;
