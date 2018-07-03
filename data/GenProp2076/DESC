@@ -17,7 +17,7 @@ RA  Shen X; Ranallo R; Choi E; Wu C;
 RL  Mol Cell. 2003;12:147-155.
 CC  The INO80 complex remodels chromatin by increasing 
 CC  nucleosome mobility thus allowing access to enzymes that 
-CC  process DNA.  Hydrolysis of ATP is required and the INO80
+CC  process DNA. Hydrolysis of ATP is required and the INO80
 CC  component is an ATPase [1].
 CC  The complex in yeast is composed of at least ARP4, ARP5, 
 CC  ARP8, RVB1, RVB2, TAF14, NHP10, IES1, IES3, IES4, IES6, 
@@ -30,7 +30,8 @@ CC  ACT1, IES2, IES5 and INO80 [1,2].
 **  Evidence for step 5 is also used in GP2066.
 **  Evidence for step 6 is also used in GP2054.
 **  Evidence for step 11 is also used in GP2065.
-**  Evidence for step 12 is also used in GP2074, GP2075, GP2077 and GP2080.
+**  Evidence for step 12 is also used in GP2074, GP2075, GP2077 
+**  and GP2080.
 **  Evidence for step 14 is also used in GP2077.
 **  Evidence for step 15 is also used in GP2077.
 **  Threshold is therefore set to 10.
@@ -41,28 +42,28 @@ CC  ACT1, IES2, IES5 and INO80 [1,2].
 --
 SN  1
 ID  Actin-related protein 4 (ARP4)
-DN  Actin-related protein 4 /1
+DN  Actin-related protein 4
 RQ  1
 EV  IPR027667; PTHR11937:SF274; sufficient;
 TG  GO:0031011;
 --
 SN  2
 ID  Actin-related protein 5 (ARP5)
-DN  Actin-related protein 5 /2
+DN  Actin-related protein 5
 RQ  1
 EV  IPR027664; PTHR11937:SF16; sufficient;
 TG  GO:0031011;
 --
 SN  3
 ID  Actin-like protein ARP8 (ARP8/ACTR8)
-DN  Actin-like protein ARP8 /2
+DN  Actin-like protein ARP8
 RQ  1
 EV  IPR027668; PTHR11937:SF13; sufficient;
 TG  GO:0031011;
 --
 SN  4
 ID  RuvB-like protein 1 (RVB1)
-DN  RuvB-like protein 1 (EC 3.6.4.12) /4
+DN  RuvB-like protein 1 (EC 3.6.4.12)
 RQ  1
 EV  IPR037938; PTHR11093:SF6; sufficient;
 TG  GO:0043140;
@@ -70,7 +71,7 @@ TG  GO:0031011;
 --
 SN  5
 ID  RuvB-like protein 2 (RVB2)
-DN  RuvB-like protein 2 (EC 3.6.4.12) /5
+DN  RuvB-like protein 2 (EC 3.6.4.12)
 RQ  1
 EV  IPR037942; PTHR11093:SF2; sufficient;
 TG  GO:0043140;
@@ -78,7 +79,7 @@ TG  GO:0031011;
 --
 SN  6
 ID  Transcription initiation factor TFIID subunit 14 (TAF14)
-DN  Transcription initiation factor TFIID subunit 14 /6
+DN  Transcription initiation factor TFIID subunit 14
 RQ  1
 EV  IPR016665; PIRSF016551; sufficient;
 EV  IPR016665; PTHR23195:SF2; sufficient;
@@ -86,14 +87,14 @@ TG  GO:0031011;
 --
 SN  7
 ID  Non-histone protein 10 (NHP10)
-DN  Non-histone protein 10 /7
+DN  Non-histone protein 10
 RQ  1
 EV  IPR030483; PTHR13711:SF309; sufficient;
 TG  GO:0031011;
 --
 SN  8
 ID  Ino eighty subunit 1 (IES1)
-DN  Ino eighty subunit 1 /8
+DN  Ino eighty subunit 1
 RQ  1
 EV  IPR038014; PTHR37287; sufficient;
 EV  -; PTHR19818:SF86; sufficient;
@@ -101,28 +102,28 @@ TG  GO:0031011;
 --
 SN  9
 ID  Ino eighty subunit 3 (IES3)
-DN  Ino eighty subunit 3 /2
+DN  Ino eighty subunit 3
 RQ  1
 EV  IPR032742; PF14612; sufficient;
 TG  GO:0031011;
 --
 SN  10
 ID  Ino eighty subunit 4 (IES4)
-DN  Ino eighty subunit 4 /10
+DN  Ino eighty subunit 4
 RQ  1
 EV  IPR013175; PTHR28061; sufficient;
 TG  GO:0031011;
 --
 SN  11
 ID  Chromatin-remodeling complex subunit IES6 (IES6/INO80C)
-DN  Chromatin-remodeling complex subunit IES6 /2
+DN  Chromatin-remodeling complex subunit IES6
 RQ  1
 EV  IPR029525; PTHR31200; sufficient;
 TG  GO:0031011;
 --
 SN  12
 ID  Actin (ACT1)
-DN  Actin /2
+DN  Actin
 RQ  1
 EV  IPR004000; PF00022; sufficient;
 EV  IPR004000; PR00190; sufficient;
@@ -132,14 +133,14 @@ TG  GO:0031011;
 --
 SN  13
 ID  Ino eighty subunit 2 (IES2/INO80B-WBP1)
-DN  Ino eighty subunit 2 /2
+DN  Ino eighty subunit 2
 RQ  1
 EV  IPR029523; PTHR21561; sufficient;
 TG  GO:0031011;
 --
 SN  14
 ID  Ino eighty subunit 5 (IES5)
-DN  Ino eighty subunit 5 /14
+DN  Ino eighty subunit 5
 RQ  1
 EV  IPR020366; PD079054; sufficient;
 EV  IPR020366; PF17335; sufficient;
@@ -147,7 +148,7 @@ TG  GO:0031011;
 --
 SN  15
 ID  DNA helicase INO80 (INO80)
-DN  DNA helicase INO80 (EC 3.6.4.12) /15
+DN  DNA helicase INO80 (EC 3.6.4.12)
 RQ  1
 EV  IPR031047; PTHR10799:SF868; sufficient;
 TG  GO:0043140;
