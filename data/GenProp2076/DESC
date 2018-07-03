@@ -44,7 +44,7 @@ SN  1
 ID  Actin-related protein 4 (ARP4)
 DN  Actin-related protein 4
 RQ  1
-EV  IPR027667; PTHR11937:SF274; sufficient;
+EV  -; PTHR11937:SF274; sufficient;
 TG  GO:0031011;
 --
 SN  2
