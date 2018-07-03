@@ -51,7 +51,7 @@ SN  2
 ID  E1A-binding protein p400 (EP400)
 DN  E1A-binding protein p400
 RQ  1
-EV  IPR038000; PTHR10799:SF599; sufficient;
+EV  -; PTHR10799:SF599; sufficient;
 TG  GO:0035267;
 --
 SN  3
