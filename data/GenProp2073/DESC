@@ -20,7 +20,7 @@ SN  1
 ID  Serine/threonine-protein phosphatase 1 regulatory subunit 10 (PPP1R10/PNUTS) 
 DN  Serine/threonine-protein phosphatase 1 regulatory subunit 10
 RQ  1
-EV  IPR037973; PTHR12506:SF30; sufficient;
+EV  -; PTHR12506:SF30; sufficient;
 TG  GO:0072357;
 --
 SN  2
