@@ -11,35 +11,35 @@ RA  Lee JH; You J; Dobrota E; Skalnik DG;
 RL  J Biol Chem. 2010;285:24466-24476.
 CC  The PTW/PP1 phosphatase complex regulates chromatin 
 CC  structure during the transition from mitosis into 
-CC  interphase [1].  The complex is composed of 
+CC  interphase [1]. The complex is composed of 
 CC  PPP1R10/PNUTS, TOX4, WDR82, and PPP1CA or PPP1CB or 
 CC  PPP1CC [1].
 **  Evidence for step 3 is also used in GP2059.
 --
 SN  1
 ID  Serine/threonine-protein phosphatase 1 regulatory subunit 10 (PPP1R10/PNUTS) 
-DN  Serine/threonine-protein phosphatase 1 regulatory subunit 10;
+DN  Serine/threonine-protein phosphatase 1 regulatory subunit 10
 RQ  1
 EV  IPR037973; PTHR12506:SF30; sufficient;
 TG  GO:0072357;
 --
 SN  2
 ID  TOX high mobility group box family member 4 (TOX4)
-DN  TOX high mobility group box family member 4 /2
+DN  TOX high mobility group box family member 4
 RQ  1
 EV  IPR037985; PTHR13711:SF208; sufficient;
 TG  GO:0072357;
 --
 SN  3
 ID  WD repeat-containing protein 82 (WDR82)
-DN  WD repeat-containing protein 82 (WDR82) /3
+DN  WD repeat-containing protein 82 (WDR82)
 RQ  1
 EV  IPR037846; PTHR19861:SF2; sufficient;
 TG  GO:0072357;
 --
 SN  4
 ID  Serine/threonine-protein phosphatase PP1 catalytic subunit (PPP1CA or PPP1CB or PPP1CC)
-DN  Serine/threonine-protein phosphatase PP1 catalytic subunit (EC 3.1.3.16) /4
+DN  Serine/threonine-protein phosphatase PP1 catalytic subunit (EC 3.1.3.16)
 RQ  1
 EV  IPR037979; PTHR11668:SF377; sufficient;
 EV  IPR037981; PTHR11668:SF204; sufficient;
