@@ -54,7 +54,7 @@ SN  2
 ID  Actin-related protein 4 (ARP4)
 DN  Actin-related protein 4
 RQ  1
-EV  IPR027667; PTHR11937:SF274; sufficient;
+EV  -; PTHR11937:SF274; sufficient;
 TG  GO:0035267;
 --
 SN  3
@@ -68,7 +68,7 @@ SN  4
 ID  Chromatin modification-related protein EAF1 (VID21)
 DN  Chromatin modification-related protein EAF1
 RQ  1
-EV  IPR038000; PTHR10799:SF599; sufficient;
+EV  -; PTHR10799:SF599; sufficient;
 TG  GO:0035267;
 --
 SN  5
