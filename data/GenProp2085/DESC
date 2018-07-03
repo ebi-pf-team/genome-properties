@@ -100,7 +100,7 @@ TG  GO:0002016;
 --
 SN  2
 ID  Renin
-DN  Renin (EC 3.4.23.15 )
+DN  Renin (EC 3.4.23.15)
 RQ  1
 EV  IPR034135; cd05487; sufficient;
 TG  GO:0002016;
@@ -108,7 +108,7 @@ TG  GO:0004190;
 --
 SN  3
 ID  Angiotensin-converting enzyme
-DN  Angiotensin-converting enzyme (EC 3.4.17.23 )
+DN  Angiotensin-converting enzyme (EC 3.4.17.23)
 RQ  1
 EV  IPR001548; PF01401; sufficient;
 EV  IPR001548; PR00791; sufficient;
