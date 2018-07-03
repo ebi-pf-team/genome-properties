@@ -30,14 +30,14 @@ EV  GenProp2070;
 --
 SN  2
 ID  Metastasis-associated protein MTA2 (MTA2)
-DN  Metastasis-associated protein MTA2 /2
+DN  Metastasis-associated protein MTA2
 RQ  1
 EV  IPR037964; PTHR10865:SF4; sufficient;
 TG  GO:0016581;
 --
 SN  3
 ID  Methyl-CpG-binding domain protein 3 (MBD3)
-DN  Methyl-CpG-binding domain protein 3 /3
+DN  Methyl-CpG-binding domain protein 3
 RQ  1
 EV  IPR037965; PTHR12396:SF12; sufficient;
 TG  GO:0016581;
@@ -45,14 +45,14 @@ TG  GO:0008327;
 --
 SN  4
 ID  Chromodomain-helicase-DNA-binding protein 3 (CHD3)
-DN  Chromodomain-helicase-DNA-binding protein 3 (EC 3.6.4.12) /4
+DN  Chromodomain-helicase-DNA-binding protein 3 (EC 3.6.4.12)
 RQ  1
 EV  IPR028722; PTHR10799:SF544; sufficient;
 TG  GO:0016581;
 --
 SN  5
 ID  Chromodomain-helicase-DNA-binding protein 4 (CHD4)
-DN  Chromodomain-helicase-DNA-binding protein 4 (EC 3.6.4.12) /5
+DN  Chromodomain-helicase-DNA-binding protein 4 (EC 3.6.4.12)
 RQ  1
 EV  IPR028725; PTHR10799:SF554; sufficient;
 TG  GO:0016581;
