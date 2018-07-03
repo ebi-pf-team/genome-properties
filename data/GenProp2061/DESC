@@ -98,7 +98,7 @@ SN  7
 ID  PAX transcription activation domain interacting protein (ptip)
 DN  PAX transcription activation domain interacting protein (ptip)
 RQ  1
-EV  IPR037886; PTHR23196:SF1; sufficient;
+EV  -; PTHR23196:SF1; sufficient;
 TG  GO:0044666;
 --
 SN  8
@@ -121,13 +121,13 @@ SN  10
 ID  Lost PHDs of trr (Lpt)
 DN  Lost PHDs of trr (Lpt)
 RQ  1
-EV  IPR037888; PTHR22884:SF472; sufficient;
+EV  -; PTHR22884:SF472; sufficient;
 TG  GO:0044666;
 --
 SN  11
 ID  Nuclear receptor coactivator 6 (Ncoa6)
 DN  Nuclear receptor coactivator 6 (Ncoa6)
 RQ  1
-EV  IPR015943; G3DSA:2.130.10.10; sufficient;
+EV  -; -; sufficient;
 TG  GO:0044666;
 //
