@@ -48,25 +48,25 @@ RA  Etelvino GM; Peluso AA; Santos RA;
 RL  Curr Hypertens Rep 2014;16:433.
 CC  Blood pressure and hydro-electrolyte balance is regulated by 
 CC  the peptide hormone angiotensin, which is secreted as a 
-CC  precursor, angiotensinogen, by the kidney.  The aspastic
+CC  precursor, angiotensinogen, by the kidney. The aspastic
 CC  endopeptidase releases the active decapeptide angiotensin I
 CC  which is in turn cleaved by the metalloendopeptidase ACE 
 CC  (angiotensin-converting enzyme) to generate angiotensin II.
 CC  The binding of angiotensin II to its cell-surface receptor 
 CC  AT1R brings about vasoconstriction, absorption of sodium in
 CC  the kidney and aldosterone secretion, all of which increase
-CC  blood pressure and hypertension.  Glutamyl aminopeptidase
+CC  blood pressure and hypertension. Glutamyl aminopeptidase
 CC  converts angiotensin II to angiotensin III, which leads to
-CC  aldosterone release from the adrenal glands.  Aldosterone
+CC  aldosterone release from the adrenal glands. Aldosterone
 CC  is essential for sodium conservation in the kidney, salivary
-CC  glands, sweat glands and colon [1].  Membrane alanyl 
+CC  glands, sweat glands and colon [1]. Membrane alanyl 
 CC  aminopeptidase (aminopeptidase N) generates angiotensin IV.
 CC  Cystinyl aminopeptidase is the angiotensin IV receptor [2].
 CC  Neprilysin and prolyl oligopeptidase generate angiotensin 
-CC  1-7 [3,4].  MAS1 is the angiotensin 1-7 receptor and an
-CC  antagnoist of AT1R [5].  Alamandine is derived from 
+CC  1-7 [3,4]. MAS1 is the angiotensin 1-7 receptor and an
+CC  antagnoist of AT1R [5]. Alamandine is derived from 
 CC  angiotensin 1-7 by decarboxylation or by cleavage of 
-CC  angiotensin A by ACE2.  Alamandine binds to the Mas-related 
+CC  angiotensin A by ACE2. Alamandine binds to the Mas-related 
 CC  G protein coupled receptor D and induces vasorelaxation [6].
 DC  Renin-angiotensin system
 DR  KEGG; map04614;
@@ -92,7 +92,7 @@ DR  KEGG; map04614;
 --
 SN  1
 ID  Angiotensinogen
-DN  Angiotensinogen /1
+DN  Angiotensinogen
 RQ  1
 EV  IPR000227; PR00654; sufficient;
 EV  IPR000227; PTHR11461:SF13; sufficient;
@@ -100,7 +100,7 @@ TG  GO:0002016;
 --
 SN  2
 ID  Renin
-DN  Renin (EC 3.4.23.15 ) /2
+DN  Renin (EC 3.4.23.15 )
 RQ  1
 EV  IPR034135; cd05487; sufficient;
 TG  GO:0002016;
@@ -108,7 +108,7 @@ TG  GO:0004190;
 --
 SN  3
 ID  Angiotensin-converting enzyme
-DN  Angiotensin-converting enzyme (EC 3.4.17.23 ) /3
+DN  Angiotensin-converting enzyme (EC 3.4.17.23 )
 RQ  1
 EV  IPR001548; PF01401; sufficient;
 EV  IPR001548; PR00791; sufficient;
@@ -119,14 +119,14 @@ TG  GO:0008241;
 --
 SN  4
 ID  Angiotensin II receptor
-DN  Angiotensin II receptor /4
+DN  Angiotensin II receptor
 RQ  1
 EV  IPR000248; PR00241; sufficient;
 TG  GO:0001595;
 --
 SN  5
 ID  Glutamyl aminopeptidase
-DN  Glutamyl aminopeptidase (EC 3.4.11.7) /5
+DN  Glutamyl aminopeptidase (EC 3.4.11.7)
 RQ  1
 EV  IPR033508; PTHR11533:SF242; sufficient;
 TG  GO:0002016;
@@ -134,7 +134,7 @@ TG  GO:0070006;
 --
 SN  6
 ID  Aminopeptidase N
-DN  Aminopeptidase N (EC 3.4.11.2) /6
+DN  Aminopeptidase N (EC 3.4.11.2)
 RQ  1
 EV  IPR034016; cd09601; sufficient;
 TG  GO:0002016;
@@ -142,21 +142,21 @@ TG  GO:0070006;
 --
 SN  7
 ID  Cystinyl aminopeptidase
-DN  Cystinyl aminopeptidase (EC 3.4.11.3) /7
+DN  Cystinyl aminopeptidase (EC 3.4.11.3)
 RQ  1
 EV  IPR034017; PTHR11533:SF42; sufficient;
 TG  GO:0001595;
 --
 SN  8
 ID  Neprilysin
-DN  Neprilysin (EC 3.4.24.11) /8
+DN  Neprilysin (EC 3.4.24.11)
 RQ  1
 EV  IPR029727; PTHR11733:SF114; sufficient;
 TG  GO:0004222;
 --
 SN  9
 ID  Prolyl oligopeptidase
-DN  Prolyl oligopeptidase (EC 3.4.21.26) /9
+DN  Prolyl oligopeptidase (EC 3.4.21.26)
 RQ  1
 EV  IPR002470; PR00862; sufficient;
 TG  GO:0002016;
@@ -164,21 +164,21 @@ TG  GO:0004252;
 --
 SN  10
 ID  Acidic amino acid decarboxylase GADL1
-DN  Acidic amino acid decarboxylase GADL1 (EC 4.1.1.11) /10
+DN  Acidic amino acid decarboxylase GADL1 (EC 4.1.1.11)
 RQ  1
 EV  IPR039025; PTHR11999:SF95; sufficient;
 TG  GO:0004068;
 --
 SN  11
 ID  Proto-oncogene Mas
-DN  Proto-oncogene Mas (MAS1) /11
+DN  Proto-oncogene Mas (MAS1)
 RQ  1
 EV  IPR000820; PR00533; sufficient;
 TG  GO:0001595;
 --
 SN  12
 ID  Mas-related G-protein coupled receptor member D
-DN  Mas-related G-protein coupled receptor member D /12
+DN  Mas-related G-protein coupled receptor member D
 RQ  1
 EV  IPR026232; PR02110; sufficient;
 EV  IPR026232; cd15108; sufficient;
