@@ -13,7 +13,7 @@ RL  Neuron 2007;55:201-215.
 CC  The switch that forces mammalian neural stem cells to
 CC  differentiate is the change in the composition of the 
 CC  neural, ATP-dependent SWI/SNF-like chromatin remodeling 
-CC  complexes.  As progenitors exit mitosis and differentiate 
+CC  complexes. As progenitors exit mitosis and differentiate 
 CC  into neurons, components in the npBAF complex are
 CC  replaced to form the nBAF complex [1].
 CC  The nBAF complex is composed of at least ARID1A/BAF250A or 
@@ -38,7 +38,7 @@ CC  DPF3/BAF45C, ACTL6B/BAF53B and actin.
 --
 SN  1
 ID  AT-rich interactive domain-containing protein 1A/1B (ARID1A/BAF250A or ARID1B/BAF250B)
-DN  AT-rich interactive domain-containing protein 1A/1B /1
+DN  AT-rich interactive domain-containing protein 1A/1B
 RQ  1
 EV  IPR030094; PTHR12656:SF12; sufficient;
 EV  IPR038040; PTHR12656:SF11; sufficient;
@@ -46,35 +46,35 @@ TG  GO:0071565;
 --
 SN  2
 ID  SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily D member 1 (SMARCD1/BAF60A)
-DN  SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily D member 1 /2
+DN  SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily D member 1
 RQ  1
 EV  IPR038041; PTHR13844:SF1; sufficient;
 TG  GO:0071565;
 --
 SN  3
 ID  SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily D member 3 (SMARCD3/BAF60C)
-DN  SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily D member 3 /3
+DN  SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily D member 3
 RQ  1
 EV  IPR038043; PTHR13844:SF5; sufficient;
 TG  GO:0071565;
 --
 SN  4
 ID  Probable global transcription activator SNF2L2 (SMARCA2/BRM/BAF190B)
-DN  Probable global transcription activator SNF2L2 (EC 3.6.4.-) /4
+DN  Probable global transcription activator SNF2L2 (EC 3.6.4.-)
 RQ  1
 EV  IPR030088; PTHR10799:SF541 ; sufficient;
 TG  GO:0071565;
 --
 SN  5
 ID  Transcription activator BRG1 (SMARCA4/BRG1/BAF190A)
-DN  Transcription activator BRG1 (EC 3.6.4.-) /5
+DN  Transcription activator BRG1 (EC 3.6.4.-)
 RQ  1
 EV  IPR030100; PTHR10799:SF76; sufficient;
 TG  GO:0071565;
 --
 SN  6
 ID  SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily B member 1 (SMARCB1/BAF47)
-DN  SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily B member 1 /6
+DN  SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily B member 1
 RQ  1
 EV  IPR006939; PF04855 ; sufficient;
 EV  IPR006939; PTHR10019; sufficient;
@@ -82,28 +82,28 @@ TG  GO:0071565;
 --
 SN  7
 ID  SWI/SNF complex subunit SMARCC1 (SMARCC1/BAF155)
-DN  SWI/SNF complex subunit SMARCC1 /7
+DN  SWI/SNF complex subunit SMARCC1
 RQ  1
 EV  IPR030087; PTHR12802:SF9; sufficient;
 TG  GO:0071565;
 --
 SN  8
 ID  SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily E member 1 (SMARCE1/BAF57)
-DN  SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily E member 1 /8
+DN  SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily E member 1
 RQ  1
 EV  IPR030089; PTHR13711:SF206; sufficient;
 TG  GO:0071565;
 --
 SN  9
 ID  SWI/SNF complex subunit SMARCC2 (SMARCC2/BAF170)
-DN  SWI/SNF complex subunit SMARCC2 /9
+DN  SWI/SNF complex subunit SMARCC2
 RQ  1
 EV  IPR038044; PTHR12802:SF38; sufficient;
 TG  GO:0071565;
 --
 SN  10
 ID  Zinc finger protein neuro-d4 (DPF1/BAF45B)
-DN  Zinc finger protein neuro-d4 /10
+DN  Zinc finger protein neuro-d4
 RQ  1
 EV  IPR038046; PTHR10615:SF12; sufficient;
 TG  GO:0008270
@@ -111,7 +111,7 @@ TG  GO:0071565;
 --
 SN  11
 ID  Zinc finger protein DPF3 (DPF3/BAF45C)
-DN  Zinc finger protein DPF3 /11
+DN  Zinc finger protein DPF3
 RQ  1
 EV  IPR038047; PTHR10615:SF120; sufficient;
 TG  GO:0008270;
@@ -119,7 +119,7 @@ TG  GO:0071565;
 --
 SN  12
 ID  Actin-like protein 6B (ACTL6B/BAF53B)
-DN  Actin-like protein 6B /12
+DN  Actin-like protein 6B
 RQ  1
 EV  IPR004000; PF00022; sufficient;
 EV  IPR004000; PR00190; sufficient;
@@ -129,7 +129,7 @@ TG  GO:0071565;
 --
 SN  13
 ID  Actin
-DN  Actin /13
+DN  Actin
 RQ  1
 EV  IPR004000; PF00022; sufficient;
 EV  IPR004000; PR00190; sufficient;
