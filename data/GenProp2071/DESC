@@ -54,6 +54,6 @@ SN  5
 ID  Chromodomain-helicase-DNA-binding protein 4 (CHD4)
 DN  Chromodomain-helicase-DNA-binding protein 4 (EC 3.6.4.12)
 RQ  1
-EV  IPR028725; PTHR10799:SF554; sufficient;
+EV  -; PTHR10799:SF554; sufficient;
 TG  GO:0016581;
 //
