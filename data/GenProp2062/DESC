@@ -10,7 +10,7 @@ RT  estrogen receptor alpha.
 RA  Mo R; Rao SM; Zhu YJ; 
 RL  J Biol Chem. 2006;281:15714-15720.
 CC  The MLL2/3 complex is an oestrogen receptor alpha coactivator 
-CC  complex [1].  The MLL2/3 complex is composed at least 
+CC  complex [1]. The MLL2/3 complex is composed at least 
 CC  KMT2D/MLL2 or KMT2C/MLL3, ASH2L, RBBP5, WDR5, NCOA6, DPY30, 
 CC  KDM6A, PAXIP1/PTIP, PAGR1 and alpha- and beta-tubulin [1,2]. 
 **  Evidence for step 1 is also used in GP2061.
@@ -23,7 +23,7 @@ CC  KDM6A, PAXIP1/PTIP, PAGR1 and alpha- and beta-tubulin [1,2].
 --
 SN  1
 ID  Histone-lysine N-methyltransferase 2C (EC 2.1.1.43)
-DN  Histone-lysine N-methyltransferase 2C (EC 2.1.1.43)/1
+DN  Histone-lysine N-methyltransferase 2C (EC 2.1.1.43)
 RQ  1
 EV  IPR037890; PTHR22884:SF380; sufficient;
 EV  IPR037877; PTHR22884:SF373; sufficient;
@@ -32,42 +32,42 @@ TG  GO:0042800;
 --
 SN  2
 ID  WD repeat-containing protein 5 
-DN  WD repeat-containing protein 5 (WDR5) /2
+DN  WD repeat-containing protein 5 (WDR5)
 RQ  1
 EV  IPR037834; PTHR22847:SF560; sufficient;
 TG  GO:0044666;
 --
 SN  3
 ID  Retinoblastoma-binding protein 5 (RBBP5) 
-DN  Retinoblastoma-binding protein 5 (RBBP5) /3
+DN  Retinoblastoma-binding protein 5 (RBBP5)
 RQ  1
 EV  IPR037850; PTHR44040; sufficient;
 TG  GO:0044666;
 --
 SN  4
 ID  Set1/Ash2 histone methyltransferase complex subunit ASH2 
-DN  Set1/Ash2 histone methyltransferase complex subunit ASH2  /4
+DN  Set1/Ash2 histone methyltransferase complex subunit ASH2
 RQ  1
 EV  IPR037353; PTHR10598; sufficient;
 TG  GO:0044666;
 --
 SN  5
 ID  Protein dpy-30 homolog (DPY30)
-DN  Protein dpy-30 homolog (DPY30)/5
+DN  Protein dpy-30 homolog (DPY30)
 RQ  1
 EV  IPR037856; PTHR23356:SF0; sufficient;
 TG  GO:0044666;
 --
 SN  6
 ID  PAX transcription activation domain interacting protein (ptip)
-DN  PAX transcription activation domain interacting protein (ptip)/6
+DN  PAX transcription activation domain interacting protein (ptip)
 RQ  1
 EV  IPR037886; PTHR23196:SF1; sufficient;
 TG  GO:0044666;
 --
 SN  7
 ID  PAXIP1-associated glutamate-rich protein 1
-DN  PAXIP1-associated glutamate-rich protein 1/7
+DN  PAXIP1-associated glutamate-rich protein 1
 RQ  1
 EV  IPR028213; PF15364; sufficient;
 EV  IPR028213; PTHR28467; sufficient;
@@ -75,7 +75,7 @@ TG  GO:0044666;
 --
 SN  8
 ID  Utx histone demethylase
-DN  Utx histone demethylase (1.14.11.-)/8
+DN  Utx histone demethylase (1.14.11.-)
 RQ  1
 EV  IPR029516; PTHR14017:SF9; sufficient;
 TG  GO:0071558;
@@ -83,14 +83,14 @@ TG  GO:0044666;
 --
 SN  9
 ID  Nuclear receptor coactivator 6 (Ncoa6)
-DN  Nuclear receptor coactivator 6 (Ncoa6)/9
+DN  Nuclear receptor coactivator 6 (Ncoa6)
 RQ  1
 EV  IPR026638; PTHR15690; sufficient;
 TG  GO:0044666;
 --
 SN  10
 ID  Tubulin alpha-1A chain
-DN  Tubulin alpha-1A chain/10
+DN  Tubulin alpha-1A chain
 RQ  1
 EV  IPR002452; PR01162; sufficient;
 TG  GO:0005874;
@@ -98,7 +98,7 @@ TG  GO:0005200;
 --
 SN  11
 ID  Tubulin beta chain
-DN  Tubulin beta chain/1
+DN  Tubulin beta chain
 RQ  1
 EV  IPR002453; PR01163; sufficient;
 TG  GO:0005874;
