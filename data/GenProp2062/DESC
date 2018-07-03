@@ -22,8 +22,8 @@ CC  KDM6A, PAXIP1/PTIP, PAGR1 and alpha- and beta-tubulin [1,2].
 **  Threshold is set to 6.
 --
 SN  1
-ID  Histone-lysine N-methyltransferase 2C (EC 2.1.1.43)
-DN  Histone-lysine N-methyltransferase 2C (EC 2.1.1.43)
+ID  Histone-lysine N-methyltransferase 2C/2D (EC 2.1.1.43)
+DN  Histone-lysine N-methyltransferase 2C/2D (EC 2.1.1.43)
 RQ  1
 EV  IPR037890; PTHR22884:SF380; sufficient;
 EV  IPR037877; PTHR22884:SF373; sufficient;
@@ -62,7 +62,7 @@ SN  6
 ID  PAX transcription activation domain interacting protein (ptip)
 DN  PAX transcription activation domain interacting protein (ptip)
 RQ  1
-EV  IPR037886; PTHR23196:SF1; sufficient;
+EV  -; PTHR23196:SF1; sufficient;
 TG  GO:0044666;
 --
 SN  7
