@@ -103,7 +103,7 @@ SN  10
 ID  INO80 complex subunit D (INO80D/FLJ20309)
 DN  INO80 complex subunit D
 RQ  1
-EV  IPR038015; PTHR16198; sufficient;
+EV  -; PTHR16198; sufficient;
 TG  GO:0031011;
 --
 SN  11
