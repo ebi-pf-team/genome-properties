@@ -1,0 +1,29 @@
+AC  GenProp1154
+DE  FtsBL complex
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+RN  [1]
+RM  22888013
+RT  Bacterial cytokinesis: From Z ring to divisome.
+RA  Lutkenhaus J, Pichoff S, Du S
+RL  Cytoskeleton (Hoboken). 2012;69:778-790
+DR  Complex Portal; CPX-3299;
+CC  Hypothesized to be structural proteins that contribute to the
+CC  stabilization of the Z-ring. May be a multi-valent tethering structural
+CC  element of the divisome.
+--
+SN  1
+ID  Cell division protein FtsL
+RQ  1
+EV  IPR011922; MF_00910; sufficient;
+EV  IPR011922; PF04999; sufficient;
+EV  IPR011922; PTHR37479; sufficient;
+EV  IPR011922; TIGR02209; sufficient;
+--
+SN  2
+ID  Cell division protein FtsB
+RQ  1
+EV  IPR023081; MF_00599; sufficient;
+EV  IPR023081; PTHR37485; sufficient;
+//

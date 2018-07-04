@@ -1,0 +1,23 @@
+AC  GenProp1175
+DE  ThiF-ThiS complex
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+DR  Complex Portal; CPX-2134;
+CC  Catalyses the initial steps of thiamine (vitamin B1) pyrophosphate
+CC  synthesis by donating the sulfur for the synthesis of the intermediate
+CC  thiazole phosphate moiety. This step is ATP-dependent as ThiS is
+CC  temporarity adenylated by ThiF. A further persulfate group is donated
+CC  to the intermediate products by ThiI (P77718).
+--
+SN  1
+ID  Sulfur carrier protein ThiS adenylyltransferase (ThiF)
+RQ  1
+EV  IPR012731; TIGR02356; sufficient;
+--
+SN  2
+ID  Sulfur carrier protein ThiS
+RQ  1
+EV  IPR010035; PTHR34472; sufficient;
+EV  IPR010035; TIGR01683; sufficient;
+//

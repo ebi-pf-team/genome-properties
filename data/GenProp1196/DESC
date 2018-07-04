@@ -1,0 +1,60 @@
+AC  GenProp1196
+DE  Cas1-Cas2 complex
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+RN  [1]
+RM  27672148
+RT  CRISPR-Cas: biology, mechanisms and relevance.
+RA  Hille F, Charpentier E
+RL  Philos Trans R Soc Lond B Biol Sci. 2016;371:-
+RN  [2]
+RM  26503043
+RT  Foreign DNA capture during CRISPR-Cas adaptive immunity.
+RA  Nuñez JK, Harrington LB, Kranzusch PJ, Engelman AN, Doudna JA
+RL  Nature. 2015;527:535-538
+RN  [3]
+RM  26478180
+RT  Structural and Mechanistic Basis of PAM-Dependent Spacer Acquisition in
+RT  CRISPR-Cas Systems.
+RA  Wang J, Li J, Zhao H, Sheng G, Wang M, Yin M, Wang Y
+RL  Cell. 2015;163:840-853
+DR  Complex Portal; CPX-996;
+DR  PDBe; 5dqt;
+DR  PDBe; 4p6i;
+DR  PDBe; 4qdl;
+DR  PDBe; 5dlj;
+DR  PDBe; 5dqz;
+DR  PDBe; 5ds4;
+DR  PDBe; 5ds5;
+DR  PDBe; 5ds6;
+DR  PDBe; 5dqu;
+CC  CRISPR (clustered regularly interspaced short palindromic repeat), is
+CC  an adaptive immune system that provides protection against mobile
+CC  genetic elements (viruses, transposable elements and conjugative
+CC  plasmids). The system memorizes previous infections by integrating
+CC  short sequences of invading genomes (spacers) into the CRISPR locus.
+CC  The spacers, interspaced with repeats, are expressed as small guide
+CC  CRISPR RNAs (crRNAs) that are employed by Cas proteins to target
+CC  invaders, sequence-specifically, upon a recurring infection. The
+CC  Cas1-Cas2 complex is essential for the incorporation of 33-bp long
+CC  sequence-variable foreign DNA protospacers into the host CRISPR locus.
+CC  CRISPR transcripts generated from the loci assemble with Cas proteins
+CC  to detect and cleave foreign nucleic acids bearing sequence
+CC  complementarity to the spacer segment. Cas1 is the probable nuclease
+CC  that catalyzes the integration reaction, whilst Cas2 may provide a
+CC  structural scaffold and stimulate the catalytic activity of Cas1. 
+--
+SN  1
+ID  CRISPR-associated endoribonuclease Cas2
+RQ  1
+EV  IPR010152; PF09707; sufficient;
+EV  IPR010152; TIGR01873; sufficient;
+--
+SN  2
+ID  CRISPR-associated endonuclease Cas1
+RQ  1
+EV  IPR002729; MF_01470; sufficient;
+EV  IPR002729; PF01867; sufficient;
+EV  IPR002729; TIGR00287; sufficient;
+//

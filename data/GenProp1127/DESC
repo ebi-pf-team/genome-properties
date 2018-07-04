@@ -1,0 +1,28 @@
+AC  GenProp1127
+DE  ThiG-ThiH thiazole phosphate synthase complex
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+DR  Complex Portal; CPX-2135;
+CC  Role in thiamine biosynthesis, catalysing the synthesis of the thiazole
+CC  phosphate moiety of thiamine. ThiG-ThiH is found downstream of the
+CC  activities of IscS, the ThiS-ThiF complex (CPX-2134) and ThiI, and
+CC  requires the activity of 1-deoxy-D-xylulose 5-phosphate (DXP). The ThiH
+CC  subunit binds a 4Fe-4S cluster that is coordinated by 3 cysteines
+CC  (Cys-X-X-X-Cys-X-X-Cys) and an exchangeable S-adenosyl-L-methionine
+CC  molecule. Sulfur is donated by the ThiS-ThiF complex.
+--
+SN  1
+ID  Thiazole synthase (ThiG)
+RQ  1
+EV  IPR008867; MF_00443; sufficient;
+EV  IPR008867; PTHR34266; sufficient;
+EV  IPR008867; cd04728; sufficient;
+--
+SN  2
+ID  2-iminoacetate synthase (ThiH)
+RQ  1
+EV  IPR012726; PTHR43583:SF1; sufficient;
+EV  IPR012726; SFLDF00301; sufficient;
+EV  IPR012726; TIGR02351; sufficient;
+//

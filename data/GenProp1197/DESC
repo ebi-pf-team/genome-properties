@@ -1,0 +1,39 @@
+AC  GenProp1197
+DE  IscS-TusA complex
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+RN  [1]
+RM  16387657
+RT  Mechanistic insights into sulfur relay by multiple sulfur mediators
+RT  involved in thiouridine biosynthesis at tRNA wobble positions.
+RA  Ikeuchi Y, Shigi N, Kato J, Nishimura A, Suzuki T
+RL  Mol Cell. 2006;21:97-108
+RN  [2]
+RM  20404999
+RT  Structural basis for Fe-S cluster assembly and tRNA thiolation mediated
+RT  by IscS protein-protein interactions.
+RA  Shi R, Proteau A, Villarroya M, Moukadiri I, Zhang L, Trempe JF, Matte
+RA  A, Armengod ME, Cygler M
+RL  PLoS Biol. 2010;8:e1000354
+DR  Complex Portal; CPX-2139;
+DR  PDBe; 3lvj;
+CC  Involved in the sulfur-relay system required for 2-thiolation of
+CC  5-methylaminomethyl-2-thiouridine (mnm5s2U) at tRNA wobble positions.
+CC  TusA  stimulates IscS activity while IscS transfers sulfur on
+CC  Cys19-TusA in a transpersulfidation reaction. In turn, TusA transfers
+CC  the sulfur to TusD in the TusA-TusBCD-TusE-MnmA pathway.
+--
+SN  1
+ID  Cysteine desulfurase IscS
+RQ  1
+EV  IPR010240; MF_00331; sufficient;
+EV  IPR010240; PTHR11601:SF34; sufficient;
+EV  IPR010240; TIGR02006; sufficient;
+--
+SN  2
+ID  Sulfur carrier protein TusA
+RQ  1
+EV  IPR022931; MF_00413; sufficient;
+EV  IPR022931; cd03423; sufficient;
+//

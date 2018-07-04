@@ -1,0 +1,24 @@
+AC  GenProp1205
+DE  Trimethylamine-N-oxide reductase TorAC complex
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+DR  Complex Portal; CPX-319;
+CC  Reduces trimethylamine-N-oxide (TMAO) to trimethylamine, enabling its
+CC  use under anaerobic conditions as an electron acceptor for the
+CC  oxidation of organic substrates and the production of energy. TorAC is
+CC  also present under aerobic conditions, when production of alkaline
+CC  trimethylamine may balance the acidification of the cell caused by
+CC  generation of acetic acid caused by glycerol utilization.
+--
+SN  1
+ID  Trimethylamine-N-oxide reductase 1 (TorA)
+RQ  1
+EV  IPR011887; TIGR02164; sufficient;
+--
+SN  2
+ID  Cytochrome c-type protein TorC
+RQ  1
+EV  IPR009154; PIRSF000014; sufficient;
+EV  IPR009154; TIGR02162; sufficient;
+//

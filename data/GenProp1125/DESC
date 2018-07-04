@@ -1,0 +1,52 @@
+AC  GenProp1125
+DE  DinJ-YafQ toxin-antitoxin complex
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+RN  [1]
+RM  24898247
+RT  Mechanisms of toxin inhibition and transcriptional repression by
+RT  Escherichia coli DinJ-YafQ.
+RA  Ruangprasert A, Maehigashi T, Miles SJ, Giridharan N, Liu JX, Dunham CM
+RL  J Biol Chem. 2014;289:20559-20569
+RN  [2]
+RM  26991085
+RT  Toxin-antitoxin systems in bacterial growth arrest and persistence.
+RA  Page R, Peti W
+RL  Nat Chem Biol. 2016;12:208-214
+DR  Complex Portal; CPX-1079;
+CC  Toxin-antitoxin (TA) system that appears to be a principal mediator of
+CC  cell death in biofilm formations. TA systems act as effectors of
+CC  dormancy and persistence and are composed of a toxin, which causes
+CC  growth arrest by interfering with a vital cellular process, and a
+CC  cognate antitoxin, which neutralizes the toxin activity during normal
+CC  growth conditions. Under conditions of stress the antitoxins are
+CC  selectively degraded, leaving the toxins to exert their toxic effects,
+CC  leading to growth arrest and dormancy. Type II TA complexes are small
+CC  protein-protein pairs; under growth conditions, the toxin is bound to
+CC  the antitoxin, which inhibits its activity. Both the antitoxin and, in
+CC  most cases, the TA complex bind the TA promoter to repress
+CC  transcription. Under stress conditions, cellular proteases such as Lon
+CC  (P0A9M0) and ClpXP (CPX-3176) are activated that preferentially cleave
+CC  the antitoxins, freeing the toxins to inhibit growth by inhibiting
+CC  translation or replication, enabling cells to enter a metabolically
+CC  dormant state until the stress is removed. The toxin YafQ degrades mRNA
+CC  at adenosine-rich codons, most likely while it is bound to the
+CC  ribosome. The binding of DinJ occludes the active site of YafQ and a
+CC  single YafQ-(DinJ)2-YafQ complex bound to one inverted repeat in one of
+CC  two palindromic operator regions in the dinJ promoter represses
+CC  transcription.
+--
+SN  1
+ID  Antitoxin DinJ
+RQ  1
+EV  IPR026262; PIRSF003108; sufficient;
+--
+SN  2
+ID  mRNA interferase toxin YafQ
+RQ  1
+EV  IPR004386; PF15738; sufficient;
+EV  IPR004386; PIRSF006156; sufficient;
+EV  IPR004386; PTHR40588; sufficient;
+EV  IPR004386; TIGR00053; sufficient;
+//

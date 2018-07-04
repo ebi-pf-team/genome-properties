@@ -1,0 +1,49 @@
+AC  GenProp1116
+DE  Bam complex
+TP  COMPLEX
+AU  Complex Portal
+TH  4
+RN  [1]
+RM  21586578
+RT  Structural basis of outer membrane protein biogenesis in bacteria.
+RA  Albrecht R, Zeth K
+RL  J Biol Chem. 2011;286:27792-27803
+DR  Complex Portal; CPX-1923;
+DR  PDBe; 5d0q;
+CC  Outer membrane protein assembly complex involved in assembly and
+CC  insertion of beta-barrel proteins into the outer membrane.
+--
+SN  1
+ID  Outer membrane protein assembly factor BamD
+RQ  1
+EV  IPR017689; MF_00922; sufficient;
+EV  IPR017689; PTHR37423; sufficient;
+EV  IPR017689; TIGR03302; sufficient;
+EV  IPR017689; cd15830; sufficient;
+--
+SN  2
+ID  Outer membrane protein assembly factor BamC
+RQ  1
+EV  IPR014524; MF_00924; sufficient;
+EV  IPR014524; PIRSF026343; sufficient;
+--
+SN  3
+ID  Outer membrane protein assembly factor BamA
+RQ  1
+EV  IPR023707; MF_01430; sufficient;
+EV  IPR023707; PIRSF006076; sufficient;
+EV  IPR023707; PTHR12815:SF23; sufficient;
+EV  IPR023707; TIGR03303; sufficient;
+--
+SN  4
+ID  Outer membrane protein assembly factor BamE
+RQ  1
+EV  IPR026592; MF_00925; sufficient;
+EV  IPR026592; PTHR37482; sufficient;
+--
+SN  5
+ID  Outer membrane protein assembly factor BamB
+RQ  1
+EV  IPR017687; MF_00923; sufficient;
+EV  IPR017687; TIGR03300; sufficient;
+//

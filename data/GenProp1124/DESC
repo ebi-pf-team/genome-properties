@@ -1,0 +1,35 @@
+AC  GenProp1124
+DE  UgpAEC-UgpB complex
+TP  COMPLEX
+AU  Complex Portal
+TH  3
+DR  Complex Portal; CPX-2150;
+CC  Binds glycerol-3-phosphate (G3P) and glycerol-3-phosphocholine (GPC)
+CC  and functions as an ATPase. It is thought to facilitate G3P transport
+CC  into the cell. Genetic studies have shown that excess phosphate in the
+CC  cell can inhibit the Ugp transporter but this observation has not been
+CC  replicated in vitro.
+--
+SN  1
+ID  sn-glycerol-3-phosphate-binding periplasmic protein UgpB
+RQ  1
+EV  IPR006059; PF01547; sufficient;
+EV  IPR006059; PF13416; sufficient;
+--
+SN  2
+ID  sn-glycerol-3-phosphate transport system permease protein UgpE
+RQ  1
+EV  IPR030165; PTHR43744:SF8; sufficient;
+--
+SN  3
+ID  sn-glycerol-3-phosphate transport system permease protein UgpA
+RQ  1
+EV  IPR000515; PF00528; sufficient;
+EV  IPR000515; PS50928; sufficient;
+EV  IPR000515; cd06261; sufficient;
+--
+SN  4
+ID  sn-glycerol-3-phosphate import ATP-binding protein UgpC
+RQ  1
+EV  IPR017922; PS51315; sufficient;
+//

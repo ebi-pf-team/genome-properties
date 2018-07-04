@@ -1,0 +1,36 @@
+AC  GenProp1178
+DE  GyrA-GyrB complex
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+RN  [1]
+RM  20675723
+RT  A domain insertion in Escherichia coli GyrB adopts a novel fold that
+RT  plays a critical role in gyrase function.
+RA  Schoeffler AJ, May AP, Berger JM
+RL  Nucleic Acids Res. 2010;38:7830-7844
+DR  Complex Portal; CPX-2177;
+CC  A DNA gyrase of type IIA topoisomerase that negatively supercoils
+CC  closed circular double-stranded DNA in an ATP-dependent manner and also
+CC  catalyzes the interconversion of other topological isomers of
+CC  double-stranded DNA rings, including catenanes and knotted rings. It
+CC  cleaves both strands and facilitates DNA melting at oriC in order for
+CC  replication initiation to take place. Gyrase also removes the
+CC  left-handed positive supercoiling generated in front of moving
+CC  replication forks. It is vital in all bacteria but not found in
+CC  eukaryotes except some plant organelles. Structure-guided deletion of a
+CC  170-amino acid insertion (Thr565 - Arg731) in GyrB greatly reduces the
+CC  DNA binding, supercoiling and DNA-stimulated ATPase activities of
+CC  gyrase.
+--
+SN  1
+ID  DNA gyrase subunit B
+RQ  1
+EV  IPR011557; MF_01898; sufficient;
+EV  IPR011557; TIGR01059; sufficient;
+--
+SN  2
+ID  DNA gyrase subunit A
+RQ  1
+EV  IPR005743; MF_01897; sufficient;
+//

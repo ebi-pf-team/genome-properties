@@ -1,0 +1,29 @@
+AC  GenProp1118
+DE  DnaB-DnaC complex
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+RN  [1]
+RM  21856207
+RT  Replication initiation at the Escherichia coli chromosomal origin.
+RA  Kaguni JM
+RL  Curr Opin Chem Biol. 2011;15:606-613
+DR  Complex Portal; CPX-1934;
+CC  Facilitates replication initiation following recruitment to each strand
+CC  of the replication origin oriC by DnaA. DnaB is complexed with ATP
+CC  whose hydrolysis facilitates translocation and unwinding. This process
+CC  is inhibited by DnaC which needs to be displaced by the binding of
+CC  primase DnaG to DnaB before DnaB can initiate its helicase
+CC  function. DnaC is a weak ATPase and binds weakly to ssDNA. It acts as a
+CC  regulator of DnaB activity.
+--
+SN  1
+ID  DNA replication protein DnaC
+RQ  1
+EV  IPR028350; PIRSF003073; sufficient;
+--
+SN  2
+ID  Replicative DNA helicase (DnaB)
+RQ  1
+EV  IPR007692; TIGR00665; sufficient;
+//
