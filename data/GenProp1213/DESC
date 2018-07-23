@@ -7,7 +7,7 @@ CC  Properties that describe systems involved in the response to
 CC  various stimuli.
 --
 SN  1
-ID  
+ID  Response to external environment
 RQ  0
-EV  GenProp;
+EV  GenProp0864;
 //
