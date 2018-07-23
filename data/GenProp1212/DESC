@@ -1,0 +1,14 @@
+AC  GenProp1212
+DE  Regulation of biological processes
+TP  CATEGORY
+AU  Richardson L
+TH  0
+CC  Properties that describe systems involved in the regulation of
+CC  various biological processes, incluing both positive and negative
+CC  regulation.
+--
+SN  1
+ID  
+RQ  0
+EV  GenProp;
+//
