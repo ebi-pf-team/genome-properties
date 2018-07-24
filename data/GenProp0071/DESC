@@ -64,4 +64,84 @@ SN  12
 ID  Lpt lipopolysaccharide export transenvelope protein complex
 RQ  0
 EV  GenProp1079;
+--
+SN  13
+ID  LptDE outer membrane translocon complex
+RQ  0
+EV  GenProp1115;
+--
+SN  14
+ID  UgpAEC-UgpB complex
+RQ  0
+EV  GenProp1124;
+--
+SN  15
+ID  Holo-translocon SecYEG-SecDF-YajC-YidC complex
+RQ  0
+EV  GenProp1132;
+--
+SN  16
+ID  TusBCDE complex
+RQ  0
+EV  GenProp1134;
+--
+SN  17
+ID  Twin-arginine translocation complex
+RQ  0
+EV  GenProp1136;
+--
+SN  18
+ID  Cobalamin transport complex
+RQ  0
+EV  GenProp1150;
+--
+SN  19
+ID  MacAB-TolC complex
+RQ  0
+EV  GenProp1151;
+--
+SN  20
+ID  Vitamin B12 outer membrane transporter complex
+RQ  0
+EV  GenProp1157;
+--
+SN  21
+ID  TusE-MnmA complex
+RQ  0
+EV  GenProp1161;
+--
+SN  22
+ID  IscS-IscU complex
+RQ  0
+EV  GenProp1163;
+--
+SN  23
+ID  PhnGHIJKL complex
+RQ  0
+EV  GenProp1165;
+--
+SN  24
+ID  CdsA-CdsE complex
+RQ  0
+EV  GenProp1174;
+--
+SN  25
+ID  Protein-conducting channel SecYEG complex
+RQ  0
+EV  GenProp1176;
+--
+SN  26
+ID  IscS-TusA complex
+RQ  0
+EV  GenProp1197;
+--
+SN  27
+ID  MdtBC complex
+RQ  0
+EV  GenProp1199;
+--
+SN  28
+ID  Maltose transport complex
+RQ  0
+EV  GenProp1204;
 //
