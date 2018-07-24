@@ -39,12 +39,12 @@ CC  Alg14 and Alg13 are responsible for the second step of the dolichol-linked
 CC  oligosaccharide pathway. Alg13 contains the catalytic domain. Alg4 functions
 CC  as a membrane anchor that recruits Alg13 to the cytosolic face of the ER
 CC  [2]. Rft1 translocates the Man5GlcNAc2-PP-Dol intermediate from the
-CC  cytosolic site of the ER membrane to the lumen [3].
-CC  Alg9 is required at two different steps [4].
+CC  cytosolic site of the ER membrane to the lumen [3]. Alg9 is required at two 
+CC  different steps [4].
 --
 SN  1
 ID  UDP-GlcNAc-dolichyl-phosphate GlcNAc phosphotransferase (ALG7)
-DN  UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase (EC:2.7.8.15)
+DN  UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase (EC 2.7.8.15)
 RQ  1
 EV  IPR033895; PTHR10571; sufficient;
 EV  IPR033895; cd06855; sufficient;
@@ -61,21 +61,21 @@ TG  GO:0006488;
 --
 SN  3
 ID  UDP-N-acetylglucosamine transferase subunit ALG13
-DN  UDP-N-acetylglucosamine transferase subunit ALG13 (EC:2.4.1.141)
+DN  UDP-N-acetylglucosamine transferase subunit ALG13 (EC 2.4.1.141)
 RQ  1
 EV  IPR039042; PTHR12867; sufficient;
 TG  GO:0006488
 --
 SN  4
 ID  Chitobiosyldiphosphodolichol beta-mannosyltransferase (ALG1)
-DN  Chitobiosyldiphosphodolichol beta-mannosyltransferase (EC:2.4.1.142)
+DN  Chitobiosyldiphosphodolichol beta-mannosyltransferase (EC 2.4.1.142)
 RQ  1
 EV  IPR026051; PTHR13036; sufficient;
 TG  GO:0000030;
 --
 SN  5
 ID  Alpha-1,3/1,6-mannosyltransferase ALG2
-DN  Alpha-1,3/1,6-mannosyltransferase ALG2 (EC:2.4.1.132, EC:2.4.1.257)
+DN  Alpha-1,3/1,6-mannosyltransferase ALG2 (EC 2.4.1.132, EC 2.4.1.257)
 RQ  1
 EV  IPR027054; cd03805; sufficient;
 TG  GO:0004378;
@@ -83,7 +83,7 @@ TG  GO:0006486;
 --
 SN  6
 ID  GDP-Man:Man(3)GlcNAc(2)-PP-Dol alpha-1,2-mannosyltransferase (ALG11)
-DN  GDP-Man:Man(3)GlcNAc(2)-PP-Dol alpha-1,2-mannosyltransferase (EC:2.4.1.131)
+DN  GDP-Man:Man(3)GlcNAc(2)-PP-Dol alpha-1,2-mannosyltransferase (EC 2.4.1.131)
 RQ  1
 EV  IPR038013; cd03806; sufficient;
 TG  GO:0004377;
@@ -101,7 +101,7 @@ TG  GO:0016021;
 --
 SN  8
 ID  Dol-P-Man:Man(5)GlcNAc(2)-PP-Dol alpha-1,3-mannosyltransferase (ALG3)
-DN  Dol-P-Man:Man(5)GlcNAc(2)-PP-Dol alpha-1,3-mannosyltransferase (EC:2.4.1.258)
+DN  Dol-P-Man:Man(5)GlcNAc(2)-PP-Dol alpha-1,3-mannosyltransferase (EC 2.4.1.258)
 RQ  1
 EV  IPR007873; PF05208; sufficient;
 EV  IPR007873; PTHR12646; sufficient;
@@ -110,7 +110,7 @@ TG  GO:0030176;
 --
 SN  9
 ID  Alpha-1,2-mannosyltransferase ALG9
-DN  Alpha-1,2-mannosyltransferase ALG9 (EC:2.4.1.259, EC:2.4.1.261)
+DN  Alpha-1,2-mannosyltransferase ALG9 (EC 2.4.1.259, EC 2.4.1.261)
 RQ  1
 EV  IPR039484; PTHR22760:SF2; sufficient;
 TG  GO:0000030;
@@ -118,7 +118,7 @@ TG  GO:0030176;
 --
 SN  10
 ID  Dol-P-Man:Man(7)GlcNAc(2)-PP-Dol alpha-1,6-mannosyltransferase (ALG12)
-DN  Dol-P-Man:Man(7)GlcNAc(2)-PP-Dol alpha-1,6-mannosyltransferase (EC:2.4.1.260)
+DN  Dol-P-Man:Man(7)GlcNAc(2)-PP-Dol alpha-1,6-mannosyltransferase (EC 2.4.1.260)
 RQ  1
 EV  IPR039485; PTHR22760:SF1; sufficient;
 TG  GO:0006488;
@@ -127,7 +127,7 @@ TG  GO:0005788;
 --
 SN  11
 ID  Dolichyl pyrophosphate Man9GlcNAc2 alpha-1,3-glucosyltransferase (ALG6)
-DN  Dolichyl pyrophosphate Man9GlcNAc2 alpha-1,3-glucosyltransferase (EC:2.4.1.267)
+DN  Dolichyl pyrophosphate Man9GlcNAc2 alpha-1,3-glucosyltransferase (EC 2.4.1.267)
 RQ  1
 EV  IPR039488; PTHR12413:SF1; sufficient;
 TG  GO:0006488;
@@ -136,7 +136,7 @@ TG  GO:0005783;
 --
 SN  12
 ID  Dolichyl pyrophosphate Glc1Man9GlcNAc2 alpha-1,3-glucosyltransferase (ALG8)
-DN  Dolichyl pyrophosphate Glc1Man9GlcNAc2 alpha-1,3-glucosyltransferase (EC:2.4.1.265)
+DN  Dolichyl pyrophosphate Glc1Man9GlcNAc2 alpha-1,3-glucosyltransferase (EC 2.4.1.265)
 RQ  1
 EV  IPR039487; PTHR12413:SF2; sufficient;
 TG  GO:0005783;
@@ -145,7 +145,7 @@ TG  GO:0006490;
 --
 SN  13
 ID  Dol-P-Glc:Glc(2)Man(9)GlcNAc(2)-PP-Dol alpha-1,2-glucosyltransferase (ALG10)
-DN  Dol-P-Glc:Glc(2)Man(9)GlcNAc(2)-PP-Dol alpha-1,2-glucosyltransferase (EC:2.4.1.256)
+DN  Dol-P-Glc:Glc(2)Man(9)GlcNAc(2)-PP-Dol alpha-1,2-glucosyltransferase (EC 2.4.1.256)
 RQ  1
 EV  IPR016900; PF04922; sufficient;
 EV  IPR016900; PIRSF028810; sufficient;
