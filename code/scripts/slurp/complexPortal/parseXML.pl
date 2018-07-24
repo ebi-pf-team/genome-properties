@@ -54,13 +54,19 @@ while(<I>){
 close(I);
 
 #my $cpUrl = "ftp://ftp.ebi.ac.uk/pub/databases/intact/complex/current/psi30/ecoli";
-my $cpUrl = "ftp://ftp.ebi.ac.uk/pub/databases/intact/complex/current/psi30/yeast";
+#my $cpUrl = "ftp://ftp.ebi.ac.uk/pub/databases/intact/complex/current/psi30/yeast";
+
+my $cpUrl = "ftp://ftp.ebi.ac.uk/pub/databases/intact/complex/current/psi30/human";
+
 my $content;
 my $response = $ua->get($cpUrl);
 if ( $response->is_success ) {
   $content = $response->decoded_content;
 } else {
-  die $response->status_line;
+  warn $response->status_line;
+  $content = $response->decoded_content;
+  print STDERR "$content\n";
+  die;
 }
 
 
@@ -70,6 +76,8 @@ foreach my $line (split(/\n/, $content)){
   my @row = split(/\s+/, $line);
   my $file = pop(@row);
   p($file);
+  next if(-e "$outDir/$file");
+  
   mkdir("/tmp/GP/$file");
   chdir("/tmp/GP/$file") or die "Could not change into /tmp/GP/$file:[$!]\n";
    
@@ -180,7 +188,10 @@ foreach my $node ($ns->get_nodelist) {
       if ( $response->is_success ) {
         $fasta = $response->decoded_content;
       } else {
-        die $response->status_line;
+          warn "$acc not matched\n";
+          $fasta = ">$acc NOT MATCHED\n";
+#print "$acc returned ".$response->status_line."\n";
+#        die;
       }
 
     }
