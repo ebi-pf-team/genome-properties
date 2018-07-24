@@ -1,8 +1,8 @@
 AC  GenProp2084
 DE  SWI/SNF complex
-TP  SYSTEM
+TP  COMPLEX
 AU  Rawlings ND
-TH  6
+TH  5
 RN  [1]
 RM  22952240  
 RT  SWI/SNF chromatin-remodeling factors: multiscale analyses and 
@@ -13,6 +13,8 @@ CC  The complex contains a catalytic subunit (either
 CC  SMARCA4/BRG1/BAF190A or SMARCA2/BRM/BAF190B) and at least 
 CC  SMARCE1, ACTL6A/BAF53, SMARCC1/BAF155, SMARCC2/BAF170, and 
 CC  SMARCB1/SNF5/BAF47.
+DC  Hepatocellular carcinoma
+DR  KEGG; map05225;
 **  Evidence for step 1 is also used in GP2080, GP2081, GP2082 and GP2083 (IPR030088).
 **  Evidence for step 1 is also used in GP2081, GP2082 and GP2083 (IPR030100).
 **  Evidence for step 2 is also used in GP2081, GP2082 and GP2083 (IPR030089).
@@ -24,7 +26,7 @@ CC  SMARCB1/SNF5/BAF47.
 --
 SN  1
 ID  Transcription activator BRG1/SNF2L2 (SMARCA4/BRG1/BAF190A or SMARCA2/BRM/BAF190B)
-DN  Transcription activator BRG1 (EC 3.6.4.-) /1
+DN  Transcription activator BRG1 (EC 3.6.4.-)
 RQ  1
 EV  IPR030100; PTHR10799:SF76; sufficient;
 EV  IPR030088; PTHR10799:SF541 ; sufficient;
@@ -32,38 +34,35 @@ TG  GO:0016514;
 --
 SN  2
 ID  SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily E member 1 (SMARCE1/BAF57)
-DN  SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily E member 1 /2
+DN  SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily E member 1
 RQ  1
 EV  IPR030089; PTHR13711:SF206; sufficient;
 TG  GO:0016514;
 --
 SN  3
 ID  Actin-like protein 6A (ACTL6A/BAF53)
-DN  Actin-like protein 6A /3
+DN  Actin-like protein 6A
 RQ  1
-EV  IPR004000; PF00022; sufficient;
-EV  IPR004000; PR00190; sufficient;
-EV  IPR004000; PTHR11937; sufficient;
-EV  IPR004000; SM00268; sufficient;
+EV  IPR029912; PTHR11937:SF191; sufficient;
 TG  GO:0016514;
 --
 SN  4
 ID  SWI/SNF complex subunit SMARCC1 (SMARCC1/BAF155)
-DN  SWI/SNF complex subunit SMARCC1 /4
+DN  SWI/SNF complex subunit SMARCC1
 RQ  1
 EV  IPR030087; PTHR12802:SF9; sufficient;
 TG  GO:0016514;
 --
 SN  5
 ID  SWI/SNF complex subunit SMARCC2 (SMARCC2/BAF170)
-DN  SWI/SNF complex subunit SMARCC2 /5
+DN  SWI/SNF complex subunit SMARCC2
 RQ  1
 EV  IPR038044; PTHR12802:SF38; sufficient;
 TG  GO:0016514;
 --
 SN  6
 ID  SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily B member 1 (SMARCB1/BAF47)
-DN  SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily B member 1 /6
+DN  SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily B member 1
 RQ  1
 EV  IPR006939; PF04855 ; sufficient;
 EV  IPR006939; PTHR10019; sufficient;

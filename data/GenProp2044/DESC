@@ -1,6 +1,6 @@
 AC  GenProp2044
 DE  XPC complex
-TP  SYSTEM
+TP  COMPLEX
 AU  Rawlings ND
 TH  1
 RN  [1]
@@ -14,9 +14,11 @@ RL  J Biol Chem. 2001;276:18665-18672.
 RN  [2]
 RM  16627479
 RT  The structure of the human centrin 2-xeroderma pigmentosum group 
-RT  C protein complex..
+RT  C protein complex.
 RA  Thompson JR; Ryan ZC; Salisbury JL; Kumar R;
 RL  J Biol Chem. 2006;281:18746-18752.
+DC  Nucleotide excision repair
+DR  KEGG; map03420;
 CC  The XPC complex recognizes damaged DNA which is required for 
 CC  global genome nucleotide excision repair [1]. Once XPC 
 CC  has interacted with unpaired bases on the undamaged DNA strand, 

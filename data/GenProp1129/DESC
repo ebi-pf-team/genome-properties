@@ -1,0 +1,34 @@
+AC  GenProp1129
+DE  Carbamoyl phosphate synthetase complex
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+DR  Complex Portal; CPX-1937;
+DR  PDBe; 1A9X;
+DR  PDBe; 1BXR;
+DR  PDBe; 1CE8;
+CC  Plays a key role in both pyrimidine and arginine biosynthesis by
+CC  catalyzing the production of carbamoyl phosphate from one molecule of
+CC  bicarbonate, two molecules of MgATP, and one molecule of glutamine.
+CC  Consists of two polypeptide chains referred to as the small and large
+CC  subunits, which contain a total of three separate active sites that are
+CC  connected by an intramolecular tunnel. The small subunit harbors one of
+CC  these active sites and is responsible for the hydrolysis of glutamine
+CC  to glutamate and ammonia. The large subunit binds the two required
+CC  molecules of MgATP and is involved in assembling the final product.
+CC  Compounds such as L-ornithine, UMP, and IMP allosterically regulate the
+CC  enzyme.
+--
+SN  1
+ID  Carbamoyl-phosphate synthase small chain
+RQ  1
+EV  IPR006274; MF_01209; sufficient;
+EV  IPR006274; TIGR01368; sufficient;
+--
+SN  2
+ID  Carbamoyl-phosphate synthase large chain
+RQ  1
+EV  IPR006275; MF_01210_A; sufficient;
+EV  IPR006275; MF_01210_B; sufficient;
+EV  IPR006275; TIGR01369; sufficient;
+//

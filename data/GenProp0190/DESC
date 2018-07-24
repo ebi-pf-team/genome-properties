@@ -65,7 +65,6 @@ TG  GO:0006817;
 --
 SN  7
 ID  Periplasmic protein
-DN  NOT APPLICABLE
 RQ  1
 EV  IPR005673; TIGR00975; sufficient;
 TG  GO:0006817;

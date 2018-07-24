@@ -1,0 +1,35 @@
+AC  GenProp1170
+DE  MalFGK2 maltose transport complex
+TP  COMPLEX
+AU  Complex Portal
+TH  2
+RN  [1]
+RM  19250913
+RT  Alternating access in maltose transporter mediated by rigid-body
+RT  rotations.
+RA  Khare D, Oldham ML, Orelle C, Davidson AL, Chen J
+RL  Mol Cell. 2009;33:528-536
+DR  Complex Portal; CPX-2103;
+DR  PDBe; 2r6g;
+CC  Central subunit of the maltose transporter (CPX-1932). Maltose
+CC  transport is initiated when maltose-bound maltose binding protein MalE
+CC  (P0AEX9) binds to this subunit on the periplasmic site of the plasma
+CC  membrane.
+--
+SN  1
+ID  Maltose transport system permease protein MalG
+RQ  1
+EV  IPR000515; PF00528; sufficient;
+EV  IPR000515; PS50928; sufficient;
+EV  IPR000515; cd06261; sufficient;
+--
+SN  2
+ID  Maltose/maltodextrin import ATP-binding protein MalK
+RQ  1
+EV  IPR015855; PS51245; sufficient;
+--
+SN  3
+ID  Maltose transport system permease protein MalF
+RQ  1
+EV  IPR030156; PTHR30193:SF22; sufficient;
+//

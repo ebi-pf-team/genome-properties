@@ -1,6 +1,6 @@
 AC  GenProp2063
 DE  NSL complex
-TP  SYSTEM
+TP  COMPLEX
 AU  Rawlings ND
 TH  5
 RN  [1]
@@ -13,7 +13,7 @@ RA  Washburn MP; Conaway JW; Conaway RC;
 RL  J. Biol. Chem. 2010;285:4268-4272.
 CC  The NSL complex is involved in acetylation of nucleosomal 
 CC  histone H4 on several lysine residues and therefore may be 
-CC  involved in the regulation of transcription.  The complex 
+CC  involved in the regulation of transcription. The complex 
 CC  is composed of at least MOF/KAT8, KANSL1, KANSL2, KANSL3, 
 CC  MCRS1, PHF20, OGT1/OGT, WDR5 and HCFC1 [1]. 
 **  Is there a UniProt entry for the OGT 78 kDa subunit?
@@ -26,7 +26,7 @@ CC  MCRS1, PHF20, OGT1/OGT, WDR5 and HCFC1 [1].
 --
 SN  1
 ID  Histone acetyltransferase KAT8 
-DN  Histone acetyltransferase KAT8 (EC 2.3.1.48) (MOF/KAT8) /1
+DN  Histone acetyltransferase KAT8 (EC 2.3.1.48) (MOF/KAT8)
 RQ  1
 EV  IPR037906; PTHR10615:SF82; sufficient;
 TG  GO:0004402;
@@ -34,49 +34,49 @@ TG  GO:0000123;
 --
 SN  2
 ID  KAT8 regulatory NSL complex subunit 1 
-DN  KAT8 regulatory NSL complex subunit 1 (KANSL1) /2
+DN  KAT8 regulatory NSL complex subunit 1 (KANSL1)
 RQ  1
 EV  IPR026180; PTHR22443; sufficient;
 TG  GO:0000123;
 --
 SN  3
 ID  KAT8 regulatory NSL complex subunit 2 
-DN  KAT8 regulatory NSL complex subunit 2 (KANSL2) /3
+DN  KAT8 regulatory NSL complex subunit 2 (KANSL2)
 RQ  1
 EV  IPR026316; PTHR13453; sufficient;
 TG  GO:0000123;
 --
 SN  4
 ID  KAT8 regulatory NSL complex subunit 3 
-DN  KAT8 regulatory NSL complex subunit 3 (KANSL3) /4
+DN  KAT8 regulatory NSL complex subunit 3 (KANSL3)
 RQ  1
 EV  IPR026555; PTHR13136; sufficient;
 TG  GO:0000123;
 --
 SN  5
 ID  Microspherule protein 1 
-DN  Microspherule protein 1 (MCRS1) /5
+DN  Microspherule protein 1 (MCRS1)
 RQ  1
 EV  IPR037912; PTHR13233; sufficient;
 TG  GO:0000123;
 --
-SN  5
+SN  6
 ID  PHD finger protein 20  
-DN  PHD finger protein 20 (PHF20) /5
+DN  PHD finger protein 20 (PHF20)
 RQ  1
 EV  IPR037915; PTHR15856:SF27; sufficient;
 TG  GO:0000123;
 --
 SN  7
 ID  WD repeat-containing protein 5 
-DN  WD repeat-containing protein 5 (WDR5) /7
+DN  WD repeat-containing protein 5 (WDR5)
 RQ  1
 EV  IPR037834; PTHR22847:SF560; sufficient;
 TG  GO:0000123;
 --
 SN  8
 ID  UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase 110 kDa subunit 
-DN  UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase 110 kDa subunit (EC 2.4.1.255) (OGT1/OGT) /8
+DN  UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase 110 kDa subunit (EC 2.4.1.255) (OGT1/OGT)
 RQ  1
 EV  IPR037919; PTHR44366; sufficient;
 TG  GO:0000123;
@@ -84,7 +84,7 @@ TG  GO:0097363;
 --
 SN  9
 ID  Host cell factor 1 
-DN  Host cell factor 1 (HCFC1) /9
+DN  Host cell factor 1 (HCFC1)
 RQ  1
 EV  IPR037854; PTHR23244:SF339; sufficient;
 TG  GO:0000123;

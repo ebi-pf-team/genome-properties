@@ -49,8 +49,8 @@ RT  glycogen synthase kinase-3. Dominant role of the
 RT  phosphorylation of Ser-640 (site-3a). 
 RA  Wang Y; Roach PJ; 
 RL  J Biol Chem 1993;268:23876-23880.
-DC  Insulin secretion
-DR  KEGG; map04911;
+DC  Insulin signaling pathway
+DR  KEGG; map04910;
 CC  The binding of insulin to its receptor INSR leads to the
 CC  phosphorylation and activation of the receptor, which is 
 CC  also a tyrosine kinase [1].  INSR then phosphorylates  

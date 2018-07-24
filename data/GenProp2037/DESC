@@ -1,6 +1,6 @@
 AC  GenProp2037
 DE  Nuclear pore subcomplex Nup107-160
-TP  SYSTEM
+TP  COMPLEX
 AU  Rawlings ND
 TH  4
 RN  [1]
@@ -24,6 +24,8 @@ RT  Nup107-160 subcomplex.
 RA  Glavy JS; Krutchinsky AN; Cristea IM; Berke IC; Boehmer T; 
 RA  Blobel G; Chait BT;
 RL  Proc Natl Acad Sci U S A. 2007;104:3811-3816.
+DC  RNA transport
+DR  KEGG; map03013;
 CC  The Nup107-160 subcomplex of the nuclear pore complex (NPC) 
 CC  consists of NUP160, NUP133, NUP107, NUP98, NUP85, NUP43, NUP37, 
 CC  SEH1 and SEC13. This subcomplex is required for the assembly of  

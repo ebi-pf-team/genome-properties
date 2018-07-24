@@ -1,0 +1,41 @@
+AC  GenProp1164
+DE  Cytochrome o ubiquinol oxidase complex
+TP  COMPLEX
+AU  Complex Portal
+TH  3
+DR  Complex Portal; CPX-2102;
+DR  PDBe; 1fft;
+CC  A protein complex integral to the bacterial electron transport chain.
+CC  Electrons are donated by the oxidation of ubiquinol to ubiquinone,
+CC  transferred to a slow-spinning heme b and subsequently accepted by a
+CC  binuclear centre consisting of a heme o3 and a copper ion. In the
+CC  process, the ubiquinol oxidase functions as a proton pump creating a
+CC  transmembrane electrochemical gradient as 4 hydrogen ions are pumped
+CC  through the membrane into the periplasmic space while 1/2 O2 molecule
+CC  is oxidized to water. The electron transport happens exclusively in
+CC  subunit I (cyoB). Ubiquinol oxidase is the final electron acceptor in
+CC  the bacterial respiratory chain and thought to possess one of the most
+CC  important functions in the cellular system due to its anti-oxidant
+CC  properties.
+--
+SN  1
+ID  Cytochrome bo(3) ubiquinol oxidase subunit 2
+RQ  1
+EV  IPR006333; PIRSF000292; sufficient;
+EV  IPR006333; TIGR01433; sufficient;
+--
+SN  2
+ID  Cytochrome bo(3) ubiquinol oxidase subunit 4
+RQ  1
+EV  IPR014210; TIGR02847; sufficient;
+--
+SN  3
+ID  Cytochrome bo(3) ubiquinol oxidase subunit 1
+RQ  1
+EV  IPR014207; TIGR02843; sufficient;
+--
+SN  4
+ID  Cytochrome bo(3) ubiquinol oxidase subunit 3
+RQ  1
+EV  IPR014206; TIGR02842; sufficient;
+//

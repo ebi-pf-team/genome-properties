@@ -17,6 +17,8 @@ RT  effectors S6K1 and 4E-BP1/eukaryotic translation initiation
 RT  factor 4E.   
 RA  Fingar DC; Richardson CJ; Tee AR; Cheatham L; Tsou C; Blenis J;   
 RL  Mol Cell Biol. 2004;24:200-216.
+DC  mTOR signaling pathway
+DR  KEGG; map04150;
 CC  The mTORC1 (mammalian target of rapamycin) complex is a sensor 
 CC  detecting energy levels and amino acid abundance. Once activated, 
 CC  the mTORC1 complex leads to protein synthesis [1]. Activation of 

@@ -1,0 +1,44 @@
+AC  GenProp1172
+DE  Aspartate carbamoyltransferase complex
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+RN  [1]
+RM  22011033
+RT  Structure and mechanisms of Escherichia coli aspartate
+RT  transcarbamoylase.
+RA  Lipscomb WN, Kantrowitz ER
+RL  Acc Chem Res. 2012;45:444-453
+DR  Complex Portal; CPX-3091;
+DR  PDBe; 1EZZ;
+DR  PDBe; 1SKU;
+DR  PDBe; 1TUG;
+DR  PDBe; 1TTH;
+DR  PDBe; 1F1B;
+DR  PDBe; 1I5O;
+DR  PDBe; 1Q95;
+DR  PDBe; 1R0B;
+DR  PDBe; 1R0C;
+DR  PDBe; 1TU0;
+CC  Catalyzes the committed step in pyrimidine nucleotide biosynthesis and
+CC  allosterically regulates the pathway. The enzyme is activated by ATP, 
+CC  inhibited by CTP and can be further inhibited by UTP, although UTP
+CC  alone has little effect on activity. The catalytic mechanism is
+CC  ordered, carbamoyl phosphate binds before aspartate and carbamoyl
+CC  aspartate leaves before phosphate.
+--
+SN  1
+ID  Aspartate carbamoyltransferase regulatory chain
+RQ  1
+EV  IPR002801; MF_00002; sufficient;
+EV  IPR002801; PTHR35805; sufficient;
+EV  IPR002801; TIGR00240; sufficient;
+--
+SN  2
+ID  Aspartate carbamoyltransferase catalytic subunit
+RQ  1
+EV  IPR002082; MF_00001; sufficient;
+EV  IPR002082; PR00101; sufficient;
+EV  IPR002082; PTHR11405:SF16; sufficient;
+EV  IPR002082; TIGR00670; sufficient;
+//

@@ -1,0 +1,34 @@
+AC  GenProp1214
+DE  Transcription
+TP  CATEGORY
+AU  Richardson L
+TH  0
+CC  This category covers properties that are involved in the transcription 
+CC  of genetic information. This includes initiation, regulation, and 
+CC  termination of transcription.
+--
+SN  1
+ID  ModE complex
+RQ  0
+EV  GenProp1121;
+--
+SN  2
+ID  H-NS-Hha complex
+RQ  0
+EV  GenProp1182;
+--
+SN  3
+ID  H-NS-Cnu complex
+RQ  0
+EV  GenProp1206;
+--
+SN  4
+ID  HU complex
+RQ  0
+EV  GenProp1110;
+--
+SN  5
+ID  IHF complex
+RQ  0
+EV  GenProp1140;
+//

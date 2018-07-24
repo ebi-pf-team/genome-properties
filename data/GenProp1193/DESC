@@ -1,0 +1,56 @@
+AC  GenProp1193
+DE  RelBE toxin-antitoxin complex
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+RN  [1]
+RM  22981948
+RT  The crystal structure of the intact E. coli RelBE toxin-antitoxin
+RT  complex provides the structural basis for conditional cooperativity.
+RA  Bøggild A, Sofos N, Andersen KR, Feddersen A, Easter AD, Passmore LA,
+RA  Brodersen DE
+RL  Structure. 2012;20:1641-1648
+RN  [2]
+RM  26991085
+RT  Toxin-antitoxin systems in bacterial growth arrest and persistence.
+RA  Page R, Peti W
+RL  Nat Chem Biol. 2016;12:208-214
+DR  Complex Portal; CPX-1081;
+DR  PDBe; 2kc8;
+DR  PDBe; 2k29;
+CC  Type II toxin-antitoxin (TA) module consisting of relA toxin and relB
+CC  antitoxin. TA systems act as effectors of dormancy and persistence and
+CC  are composed of a toxin, which causes growth arrest by interfering with
+CC  a vital cellular process, and a cognate antitoxin, which neutralizes
+CC  the toxin activity during normal growth conditions. Under conditions
+CC  of stress the antitoxins are selectively degraded, leaving the toxins
+CC  to exert their toxic effects, leading to growth arrest and dormancy.
+CC  Type II TA complexes are small protein-protein pairs; under growth
+CC  conditions, the toxin is bound to the antitoxin, which inhibits its
+CC  activity. Both the antitoxin and, in most cases, the TA complex bind
+CC  the TA promoter to repress transcription. Under stress conditions,
+CC  cellular proteases such as Lon (P0A9M0) and ClpXP (CPX-3176) are
+CC  activated that preferentially cleave the antitoxins, freeing the toxins
+CC  to inhibit growth by inhibiting translation or replication, enabling
+CC  cells to enter a metabolically dormant state until the stress is
+CC  removed. Free RelE toxin is capable of cleaving mRNA during translation
+CC  at the ribosomal A site, thus inhibiting translation during amino acid
+CC  starvation (the stringent response). The antitoxin, RelB, both binds
+CC  and inhibits RelE by inducing conformational changes in the RelE active
+CC  site, and regulates transcription through operator binding and
+CC  conditional cooperativity controlled by RelE. During nutritional
+CC  stress, the labile RelB is degraded by Lon, releasing RelE.
+--
+SN  1
+ID  mRNA interferase toxin RelE
+RQ  1
+EV  IPR007712; PF05016; sufficient;
+EV  IPR007712; TIGR02385; sufficient;
+--
+SN  2
+ID  Antitoxin RelB
+RQ  1
+EV  IPR007337; PF04221; sufficient;
+EV  IPR007337; PTHR38781; sufficient;
+EV  IPR007337; TIGR02384; sufficient;
+//

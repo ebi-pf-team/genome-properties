@@ -27,14 +27,14 @@ CC  Ni, so that the mature cofactor becomes covalently attached to LarA [2].
 --
 SN  1
 ID  Pyridinium-3,5-biscarboxylic acid mononucleotide synthase (LarB)
-DN  Pyridinium-3,5-biscarboxylic acid mononucleotide synthase (EC:3.-.-.-)
+DN  Pyridinium-3,5-biscarboxylic acid mononucleotide synthase (EC 3.-.-.-)
 RQ  1
 EV  IPR039476; PTHR43064; sufficient;
 TG  GO:0016787;
 --
 SN  2
 ID  Pyridinium-3,5-biscarboxylic acid mononucleotide sulfurtransferase (LarE)
-DN  Pyridinium-3,5-biscarboxylic acid mononucleotide sulfurtransferase (EC:2.8.1.-)
+DN  Pyridinium-3,5-biscarboxylic acid mononucleotide sulfurtransferase (EC 2.8.1.-)
 RQ  1
 EV  IPR005232; PIRSF006661; sufficient;
 EV  IPR005232; PTHR43169:SF2; sufficient;
@@ -44,7 +44,7 @@ TG  GO:0016783;
 --
 SN  3
 ID  Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein (LarC)
-DN  Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein (EC:4.99.1.12)
+DN  Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein (EC 4.99.1.12)
 RQ  1
 EV  IPR002822; MF_01074; sufficient;
 EV  IPR002822; PF01969; sufficient;
@@ -54,7 +54,7 @@ TG
 --
 SN  4
 ID  Lactate racemase (LarA)
-DN  Lactate racemase (EC:5.1.2.1)
+DN  Lactate racemase (EC 5.1.2.1)
 RQ  1
 EV  IPR018657; PF09861; sufficient;
 TG  GO:0050043;

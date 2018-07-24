@@ -1,0 +1,35 @@
+AC  GenProp1110
+DE  HU complex
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+DR  Complex Portal; CPX-1958;
+CC  Histone-like DNA-binding complex that is capable of wrapping DNA
+CC  forming nucleosome-like structures. May play a role in replication
+CC  initiation, transcription, DNA repair (esp. site-specific
+CC  recombination) and may protect DNA against UV or gamma radiation. Alpha
+CC  knock-out mutants cause uncoordinated replication initiation.
+CC  Preferentially binds strongly bent, kinked or distorted DNA such as
+CC  that found in damaged DNA. In cooperation with topoisomerase I, the
+CC  complex generates negative supercoiling of the bacterial chromosome.
+CC  Also binds to DnaA during replication initiation as does the alpha
+CC  homodimer (CPX-1959). The alpha/beta heterodimer is predominantly
+CC  present during the transition phase, end of exponential phase and
+CC  stationary phase.
+--
+SN  1
+ID  DNA-binding protein HU-beta
+RQ  1
+EV  IPR000119; PF00216; sufficient;
+EV  IPR000119; PR01727; sufficient;
+EV  IPR000119; PTHR33175; sufficient;
+EV  IPR000119; SM00411; sufficient;
+--
+SN  2
+ID  DNA-binding protein HU-alpha
+RQ  1
+EV  IPR000119; PF00216; sufficient;
+EV  IPR000119; PR01727; sufficient;
+EV  IPR000119; PTHR33175; sufficient;
+EV  IPR000119; SM00411; sufficient;
+//

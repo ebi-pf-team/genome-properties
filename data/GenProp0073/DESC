@@ -14,4 +14,19 @@ SN  2
 ID  Flagella
 RQ  0
 EV  GenProp0007;
+--
+SN  3
+ID  Chemotaxis phosphorelay complex CheA-CheY
+RQ  0
+EV  GenProp1147;
+--
+SN  4
+ID  Flagellar Motor Switch Complex, CCW variant
+RQ  0
+EV  GenProp1183;
+--
+SN  5
+ID  Flagellar Motor Switch Complex, CW variant
+RQ  0
+EV  GenProp1194;
 //

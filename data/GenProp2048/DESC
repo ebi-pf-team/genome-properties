@@ -1,6 +1,6 @@
 AC  GenProp2048
 DE  General transcription factor IIH
-TP  SYSTEM
+TP  COMPLEX
 AU  Rawlings ND
 TH  1
 RN  [1]
@@ -24,6 +24,8 @@ RT  cell lines that conditionally express epitope-tagged subunits of
 RT  the multiprotein complexes. 
 RA  Kershnar E; Wu SY; Chiang CM;   
 RL  J Biol Chem. 1998;273:34444-34453.
+DC  Basal transcription factors
+DR  KEGG; map03022;
 CC  The core-TFIIH basal transcription factor is involved in 
 CC  nucleotide excision repair (NER) of DNA [1]. It consists of six 
 CC  subunits where the sixth component is a helicase, either XPB [2] 

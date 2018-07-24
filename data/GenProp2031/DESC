@@ -1,6 +1,6 @@
 AC  GenProp2031
 DE  Ragulator complex
-TP  SYSTEM
+TP  COMPLEX
 AU  Rawlings ND
 TH  1
 RN  [1]
@@ -16,6 +16,8 @@ RT  Ragulator is a GEF for the rag GTPases that signal amino acid
 RT  levels to mTORC1.   
 RA  Bar-Peled L; Schweitzer LD; Zoncu R; Sabatini DM;  
 RL  Cell. 2012;150:1196-1208.
+DC  mTOR signaling pathway
+DR  KEGG; map04150;
 CC  The Ragulator complex is required for the activation of the 
 CC  mTORC1 sensor complex, which promotes protein synthesis when 
 CC  there is sufficient energy and amino acids [1].  Ragulator 

@@ -1,6 +1,6 @@
 AC  GenProp2064
 DE  MSL complex
-TP  SYSTEM
+TP  COMPLEX
 AU  Rawlings ND
 TH  1
 RN  [1]
@@ -11,14 +11,14 @@ RT  complex.
 RA  Huang J; Wan B; Wu L; Yang Y; Dou Y; Lei M; 
 RL  Cell Res. 2012;22:1078-1081.
 CC  The MSL histone acetyltransferase complex acetylates 
-CC  histone H4 Lys16 (H4K16) along the male X-chromosome
-CC  The complex consists of at least composed of the 
-CC  MOF/KAT8, MSL1/hampin, MSL2 and MSL3 [1].
+CC  histone H4 Lys16 (H4K16) along the male X-chromosome.
+CC  The complex consists of at least MOF/KAT8, MSL1/hampin, 
+CC  MSL2 and MSL3 [1].
 **  Evidence for step 1 is also used in GP2063 and GP2065.
 --
 SN  1
 ID  Histone acetyltransferase KAT8 
-DN  Histone acetyltransferase KAT8 (EC 2.3.1.48) (MOF/KAT8) /1
+DN  Histone acetyltransferase KAT8 (EC 2.3.1.48) (MOF/KAT8)
 RQ  1
 EV  IPR037906; PTHR10615:SF82; sufficient;
 TG  GO:0004402;
@@ -27,23 +27,22 @@ TG  GO:0072487;
 --
 SN  2
 ID  Male-specific lethal 1 homolog (MSL1/hampin) 
-DN  Male-specific lethal 1 homolog (MSL1/hampin) /2
+DN  Male-specific lethal 1 homolog (MSL1/hampin)
 RQ  1
 EV  IPR026711; PTHR21656; sufficient;
 TG  GO:0072487;
 --
 SN  3
 ID  E3 ubiquitin-protein ligase MSL2 (EC 6.3.2.-) 
-DN  E3 ubiquitin-protein ligase MSL2 (EC 6.3.2.-) /3
+DN  E3 ubiquitin-protein ligase MSL2 (EC 6.3.2.-)
 RQ  1
 EV  IPR037922; PTHR16048; sufficient;
 TG  GO:0072487;
 --
 SN  4
 ID  Male-specific lethal 3 homolog (MSL3) 
-DN  Male-specific lethal 3 homolog (MSL3) /4
+DN  Male-specific lethal 3 homolog (MSL3)
 RQ  1
 EV  IPR037921; PTHR10880:SF26; sufficient;
-EV  -; PTHR10880:SF15; sufficient;
 TG  GO:0072487;
 //

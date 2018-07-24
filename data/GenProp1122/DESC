@@ -1,0 +1,45 @@
+AC  GenProp1122
+DE  Nitrate reductase A complex
+TP  COMPLEX
+AU  Complex Portal
+TH  2
+DR  Complex Portal; CPX-1974;
+DR  PDBe; 3egw;
+DR  PDBe; 1siw;
+DR  PDBe; 3ir7;
+DR  PDBe; 1y5l;
+DR  PDBe; 1y5i;
+DR  PDBe; 1y5n;
+DR  PDBe; 1y4z;
+DR  PDBe; 3ir6;
+DR  PDBe; 3ir5;
+CC  Involved in electron transport during anaerobic respiration: electrons
+CC  are passed from the formate dehydrogenase-N (Fdh-N) complex (CPX-1975)
+CC  to nitrate reductase (NarGHI) complex via a quinone-quinol redox
+CC  reaction. Within NarGHI, the distal heme molecule of NarI receives
+CC  electrons from quinol (hydroquinone), passes them on to the proximal
+CC  heme which passes it down a Fe-S cluster chain to the molybdopterin
+CC  cofactor Mo-bisMGD where they reduce nitrate to nitrite. The
+CC  collaboration of these two complexes contributes to the proton motive
+CC  force: electrons are ultimately donated to Fdh-N by formate in the
+CC  periplasm, transported to the cytoplasm and accepted by nitrate.
+CC  Hydrogen ions are transported in the opposite direction: Quinone is
+CC  reduced to quinol by cytoplasmic protons which are in turn released
+CC  into the periplasm when quinol is oxidized to quinone.
+--
+SN  1
+ID  Respiratory nitrate reductase 1 beta chain
+RQ  1
+EV  IPR006547; TIGR01660; sufficient;
+EV  IPR006547; cd10557; sufficient;
+--
+SN  2
+ID  Respiratory nitrate reductase 1 alpha chain
+RQ  1
+EV  IPR006468; TIGR01580; sufficient;
+--
+SN  3
+ID  Respiratory nitrate reductase 1 gamma chain
+RQ  1
+EV  IPR003816; TIGR00351; sufficient;
+//

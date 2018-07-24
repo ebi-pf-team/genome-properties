@@ -1,6 +1,6 @@
 AC  GenProp2038
 DE  Microsomal signal peptidase complex
-TP  SYSTEM
+TP  COMPLEX
 AU  Rawlings ND
 TH  1
 RN  [1]
@@ -23,6 +23,8 @@ RT  signal peptidase complex.
 RA  Liang H; VanValkenburgh C; Chen X; Mullins C; Van Kaer L; 
 RA  Green N; Fang H;
 RL  J Biol Chem. 2003;278:50932-50939.
+DC  Protein export
+DR  KEGG; map03060;
 CC  Microsomal signal peptidase removes signal peptides from 
 CC  newly transcribed proteins that are destined for entry into
 CC  the secretory pathway.  Microsomal signal peptidase is a 

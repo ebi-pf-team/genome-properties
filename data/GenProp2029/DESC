@@ -1,6 +1,6 @@
 AC  GenProp2029
 DE  GATOR2 complex
-TP  SYSTEM
+TP  COMPLEX
 AU  Rawlings ND
 TH  2
 RN  [1]
@@ -10,6 +10,8 @@ RT  that signal amino acid sufficiency to mTORC1.
 RA  Bar-Peled L; Chantranupong L; Cherniack AD; Chen WW; Ottina KA; 
 RA  Grabiner BC; Spear ED; Carter SL; Meyerson M; Sabatini DM; 
 RL  Science. 2013;340:1100-1106.
+DC  mTOR signaling pathway
+DR  KEGG; map04150;
 CC  The GATOR2 subcomplex inhibits the GATOR1 subcomplex, thereby  
 CC  activating the TORC1 pathway [1].  
 **  Evidence for step 4 is also used in GP2037 and GP2042.

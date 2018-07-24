@@ -1,8 +1,8 @@
 AC  GenProp2080
 DE  BAF53 complex
-TP  SYSTEM
+TP  COMPLEX
 AU  Rawlings ND
-TH  4
+TH  3
 RN  [1]
 RM  11839798  
 RT  BAF53 forms distinct nuclear complexes and functions as a 
@@ -16,35 +16,31 @@ CC  RUVBL1/TIP49, SMARCA2/BRM, and TRRAP/PAF400 [1].
 **  Evidence for step 2 is also used in GP2066, GP2075, GP2076 and GP2077 (IPR037938).
 **  Evidence for step 3 is also used in GP2081 and GP2082 (IPR030088).
 **  Evidence for step 4 is also used in GP2053, GP2057, GP2058, GP2074 and GP2075 (IPR033317).
-**  Threshold is therefore set to 4.
+**  Threshold is therefore set to 3.
 --
 SN  1
 ID  Actin-like protein 6A (ACTL6A/BAF53A)
-DN  Actin-like protein 6A /1
+DN  Actin-like protein 6A
 RQ  1
-EV  IPR004000; PF00022; sufficient;
-EV  IPR004000; PR00190; sufficient;
-EV  IPR004000; PTHR11937; sufficient;
-EV  IPR004000; SM00268; sufficient;
-TG  ;
+EV  IPR029912; PTHR11937:SF191; sufficient;
 --
 SN  2
 ID  RuvB-like helicase 1 (RUVBL1/TIP49)
-DN  RuvB-like helicase 1 (EC 3.6.4.12) /2
+DN  RuvB-like helicase 1 (EC 3.6.4.12)
 RQ  1
 EV  IPR037938; PTHR11093:SF6; sufficient;
 TG  GO:0043141;
 --
 SN  3
 ID  Probable global transcription activator SNF2L2 (SMARCA2/BRM)
-DN  Probable global transcription activator SNF2L2 (EC 3.6.4.-) /3
+DN  Probable global transcription activator SNF2L2 (EC 3.6.4.-)
 RQ  1
 EV  IPR030088; PTHR10799:SF541; sufficient;
 TG  GO:0016887;
 --
 SN  4
 ID  Transformation/transcription domain-associated protein (TRRAP/PAF400)
-DN  Transformation/transcription domain-associated protein /4
+DN  Transformation/transcription domain-associated protein
 RQ  1
 EV  IPR033317; PTHR11139:SF1; sufficient;
 TG  ;

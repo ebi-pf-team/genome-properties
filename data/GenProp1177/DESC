@@ -1,0 +1,67 @@
+AC  GenProp1177
+DE  MazEF toxin-antitoxin complex
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+RN  [1]
+RM  12718874
+RT  Crystal structure of the MazE/MazF complex: molecular bases of
+RT  antidote-toxin recognition.
+RA  Kamada K, Hanaoka F, Burley SK
+RL  Mol Cell. 2003;11:875-884
+RN  [2]
+RM  26991085
+RT  Toxin-antitoxin systems in bacterial growth arrest and persistence.
+RA  Page R, Peti W
+RL  Nat Chem Biol. 2016;12:208-214
+DR  Complex Portal; CPX-1086;
+DR  PDBe; 1mvf;
+DR  PDBe; 2mrn;
+DR  PDBe; 2mru;
+DR  PDBe; 5cqx;
+DR  PDBe; 5cqy;
+DR  PDBe; 3nfc;
+DR  PDBe; 5ck9;
+DR  PDBe; 5ckb;
+DR  PDBe; 5ckd;
+DR  PDBe; 5cke;
+DR  PDBe; 5ckf;
+DR  PDBe; 5ckh;
+DR  PDBe; 5co7;
+DR  PDBe; 5cr2;
+CC  Type II toxin-antitoxin (TA) module consisting of MazF toxin and MazE
+CC  antitoxin. TA systems act as effectors of dormancy and persistence and
+CC  are composed of a toxin, which causes growth arrest by interfering with
+CC  a vital cellular process, and a cognate antitoxin, which neutralizes
+CC  the toxin activity during normal growth conditions. Under conditions
+CC  of stress the antitoxins are selectively degraded, allowing the toxins
+CC  to exert their toxic effects, leading to growth arrest and dormancy.
+CC  Type II TA complexes are small protein-protein pairs; under growth
+CC  conditions, the toxin is bound to the antitoxin, which inhibits its
+CC  activity. Both the antitoxin and, in most cases, the TA complex bind
+CC  the TA promoter to repress transcription. Under stress conditions,
+CC  cellular proteases such as Lon (P0A9M0) and ClpXP (CPX-3176) are
+CC  activated that preferentially cleave the antitoxins, freeing the toxins
+CC  to inhibit growth by inhibiting translation or replication, enabling
+CC  cells to enter a metabolically dormant state until the stress is
+CC  removed. The complex binds to mazEF operon to inhibit its own
+CC  transcription. Presence of free MazF toxin induces programmed cell
+CC  death by cleavage of RNA specifically at ACA sequences to block protein
+CC  synthesis. Binding of MazE antitoxin inhibits MazF endoribonuclease
+CC  activity. Plays a role in biofilm formation.
+--
+SN  1
+ID  Antitoxin MazE
+RQ  1
+EV  IPR007159; PF04014; sufficient;
+EV  IPR007159; PS51740; sufficient;
+EV  IPR007159; SM00966; sufficient;
+EV  IPR007159; TIGR01439; sufficient;
+--
+SN  2
+ID  Endoribonuclease toxin MazF
+RQ  1
+EV  IPR003477; PF02452; sufficient;
+EV  IPR003477; PIRSF033490; sufficient;
+EV  IPR003477; PTHR33988; sufficient;
+//

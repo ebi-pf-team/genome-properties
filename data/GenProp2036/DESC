@@ -1,6 +1,6 @@
 AC  GenProp2036
 DE  Nuclear pore complex, vertebrate
-TP  SYSTEM
+TP  COMPLEX
 AU  Rawlings ND
 TH  3
 RN  [1]
@@ -49,6 +49,8 @@ RT  association and nuclear localization domains and a role in mRNA
 RT  export.
 RA  Bangs P; Burke B; Powers C; Craig R; Purohit A; Doxsey S;
 RL  J Cell Biol. 1998;143:1801-1812.
+DC  RNA transport
+DR  KEGG; map03013;
 CC  The vertebrate nuclear pore complex (NPC) has eight-fold radial
 CC  symmetry. The core complex consists of globular subunits that
 CC  are sandwiched between two coaxial ring-like structures. The 

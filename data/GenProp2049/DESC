@@ -1,6 +1,6 @@
 AC  GenProp2049
 DE  CDK-activating kinase (CAK) complex
-TP  SYSTEM
+TP  COMPLEX
 AU  Rawlings ND
 TH  1
 RN  [1]
@@ -15,6 +15,8 @@ RT  The kin28 protein kinase is associated with a cyclin in
 RT  Saccharomyces cerevisiae. 
 RA  Valay JG; Simon M; Faye G;   
 RL  J Mol Biol. 1993;234:307-310.
+DC  Cell cycle
+DR  KEGG; map04110;
 CC  The CAK complex consists of cyclin-dependent kinase 7 (CDK7), 
 CC  cyclin-H (CCNH) and MAT1.  The complex associates with the 
 CC  core-TFIIH complex to form the TFIIH basal transcription factor 

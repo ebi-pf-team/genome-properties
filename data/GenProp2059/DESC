@@ -1,6 +1,6 @@
 AC  GenProp2059
 DE  Set1B histone H3-Lys4 methyltransferase complex
-TP  SYSTEM
+TP  COMPLEX
 AU  Rawlings ND
 TH  6
 RN  [1]
@@ -10,7 +10,7 @@ RT  H3-Lys4 methyltransferase complex.
 RA  Lee JH; Tate CM; You JS; Skalnik DG;   
 RL  J Biol Chem. 2007;282:13419-13428.
 CC  The SET1 complex is a methyltransferase that that produces 
-CC  trimethylated histone H3 at Lys(4).  It is composed of at least 
+CC  trimethylated histone H3 at Lys(4). It is composed of at least 
 CC  the catalytic subunit (SETD1A or SETD1B), WDR5, WDR82, RBBP5, 
 CC  ASH2L/ASH2, CXXC1/CFP1, HCFC1 and DPY30 [1].
 **  Evidence for step 2 is also used in GP2056, GP2061, GP2062, GP2063 and GP2067.
@@ -19,11 +19,11 @@ CC  ASH2L/ASH2, CXXC1/CFP1, HCFC1 and DPY30 [1].
 **  Evidence for step 5 is also used in GP2060, GP2061, GP2062 and GP2067.
 **  Evidence for step 7 is also used in GP2061, GP2063, GP2067, GP2068 and GP2069.
 **  Evidence for step 8 is also used in GP2061, GP2062 and GP2067.
-** Threshold is set to 6.
+**  Threshold is set to 6.
 --
 SN  1
 ID  Histone-lysine N-methyltransferase SET1
-DN  Histone-lysine N-methyltransferase SET1 (EC 2.1.1.43)/1
+DN  Histone-lysine N-methyltransferase SET1 (EC 2.1.1.43)
 RQ  1
 EV  IPR037841; PTHR22884:SF295; sufficient;
 EV  IPR037842; PTHR22884:SF475; sufficient;
@@ -33,35 +33,35 @@ TG  GO:0018024;
 --
 SN  2
 ID  WD repeat-containing protein 5 
-DN  WD repeat-containing protein 5 (WDR5) /2
+DN  WD repeat-containing protein 5 (WDR5)
 RQ  1
 EV  IPR037834; PTHR22847:SF560; sufficient;
 TG  GO:0048188;
 --
 SN  3
 ID  WD repeat-containing protein 82 (WDR82)
-DN  WD repeat-containing protein 82 (WDR82) /3
+DN  WD repeat-containing protein 82 (WDR82)
 RQ  1
 EV  IPR037846; PTHR19861:SF2; sufficient;
 TG  GO:0048188;
 --
 SN  4
 ID  Retinoblastoma-binding protein 5 (RBBP5) 
-DN  Retinoblastoma-binding protein 5 (RBBP5) /4
+DN  Retinoblastoma-binding protein 5 (RBBP5)
 RQ  1
 EV  IPR037850; PTHR44040; sufficient;
 TG  GO:0048188;
 --
 SN  5
 ID  Set1/Ash2 histone methyltransferase complex subunit ASH2 
-DN  Set1/Ash2 histone methyltransferase complex subunit ASH2  /5
+DN  Set1/Ash2 histone methyltransferase complex subunit ASH2
 RQ  1
 EV  IPR037353; PTHR10598; sufficient;
 TG  GO:0048188;
 --
 SN  6
 ID  CXXC-type zinc finger protein 1 (CXXC1) 
-DN  CXXC-type zinc finger protein 1 (CXXC1) /6
+DN  CXXC-type zinc finger protein 1 (CXXC1)
 RQ  1
 EV  IPR037852; PTHR12321:SF58; sufficient;
 EV  IPR037852; PTHR12321:SF99; sufficient;
@@ -69,14 +69,14 @@ TG  GO:0048188;
 --
 SN  7
 ID  Host cell factor 1 (HCFC1)
-DN  Host cell factor 1 (HCFC1)/7
+DN  Host cell factor 1 (HCFC1)
 RQ  1
 EV  IPR037854; PTHR23244:SF339; sufficient;
 TG  GO:0048188;
 --
 SN  8
 ID  Protein dpy-30 homolog (DPY30)
-DN  Protein dpy-30 homolog (DPY30)/8
+DN  Protein dpy-30 homolog (DPY30)
 RQ  1
 EV  IPR037856; PTHR23356:SF0; sufficient;
 TG  GO:0048188;

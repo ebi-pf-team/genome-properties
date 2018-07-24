@@ -1,6 +1,6 @@
 AC  GenProp2028
 DE  GATOR1 complex
-TP  SYSTEM
+TP  COMPLEX
 AU  Rawlings ND
 TH  1
 RN  [1]
@@ -10,6 +10,8 @@ RT  that signal amino acid sufficiency to mTORC1.
 RA  Bar-Peled L; Chantranupong L; Cherniack AD; Chen WW; Ottina KA; 
 RA  Grabiner BC; Spear ED; Carter SL; Meyerson M; Sabatini DM; 
 RL  Science. 2013;340:1100-1106.
+DC  mTOR signaling pathway
+DR  KEGG; map04150;
 CC  The GATOR1 complex inhibits the amino acid-sensing branch of the 
 CC  TORC1 pathway by leading to the release of mTORC1 from the 
 CC  lysosomal surface [1].  

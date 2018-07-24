@@ -1,0 +1,39 @@
+AC  GenProp1130
+DE  DnaB-DnaC-DnaT-PriA-PriB complex
+TP  COMPLEX
+AU  Complex Portal
+TH  4
+DR  Complex Portal; CPX-1951;
+CC  An intermediate but essential pre-primosome complex formed during
+CC  re-initiation of replication. It is formed by the interaction of the
+CC  helicase loading complex DnaB-DnaC with replication restart proteins
+CC  after a stalled replication fork has been repaired.
+--
+SN  1
+ID  Replicative DNA helicase
+RQ  1
+EV  IPR007692; TIGR00665; sufficient;
+--
+SN  2
+ID  Primosomal protein 1
+RQ  1
+EV  IPR020917; MF_01061; sufficient;
+--
+SN  3
+ID  DNA replication protein DnaC
+RQ  1
+EV  IPR028350; PIRSF003073; sufficient;
+--
+SN  4
+ID  Primosomal protein N'
+RQ  1
+EV  IPR005259; MF_00983; sufficient;
+EV  IPR005259; TIGR00595; sufficient;
+--
+SN  5
+ID  Primosomal replication protein N
+RQ  1
+EV  IPR023646; MF_00720; sufficient;
+EV  IPR023646; PIRSF003135; sufficient;
+EV  IPR023646; TIGR04418; sufficient;
+//

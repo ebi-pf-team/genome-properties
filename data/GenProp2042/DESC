@@ -1,6 +1,6 @@
 AC  GenProp2042
 DE  Nuclear pore complex, yeast
-TP  SYSTEM
+TP  COMPLEX
 AU  Rawlings ND
 TH  5
 RN  [1]
@@ -81,6 +81,8 @@ RT  of Nup145p: a novel biogenesis pathway for nucleoporins.
 RA  Teixeira MT; Siniossoglou S; Podtelejnikov S; Bénichou JC; 
 RA  Mann M; Dujon B; Hurt E; Fabre E;
 RL  EMBO J. 1997;16:5086-5097.
+DC  RNA transport
+DR  KEGG; map03013;
 CC  The yeast 55-60 MDa nuclear pore complex (NPC) is the exclusive 
 CC  means for transport to and from the nucleus to the cytoplasm.  The 
 CC  NPC consists of at least 31 different subunits and has eight-fold 

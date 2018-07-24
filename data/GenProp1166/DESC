@@ -1,0 +1,39 @@
+AC  GenProp1166
+DE  Degradosome
+TP  COMPLEX
+AU  Complex Portal
+TH  3
+RN  [1]
+RM  21805185
+RT  Current perspectives of the Escherichia coli RNA degradosome.
+RA  Burger A, Whiteley C, Boshoff A
+RL  Biotechnol Lett. 2011;33:2337-2350
+DR  Complex Portal; CPX-403;
+CC  Key role in mRNA degradation and RNA processing. RNA binds to RnaE,
+CC  RhlB helicase is necessary to unwind the RNA secondary structures and,
+CC  once unwound, the 3'-5' decay of the transcripts is ensued by
+CC  phosphate-dependent PNPase. RNase E bound-enolase may connect cellular
+CC  metabolic status with post-transcriptional gene regulation and link RNA
+CC  degradation to glycolytic processes. A dynamic set of minor components
+CC  of this complex may regulate its function and compartmentalization.
+--
+SN  1
+ID  Ribonuclease E
+RQ  1
+EV  IPR028878; MF_00970; sufficient;
+--
+SN  2
+ID  Enolase
+RQ  1
+EV  IPR000941; cd03313; sufficient;
+--
+SN  3
+ID  Polyribonucleotide nucleotidyltransferase
+RQ  1
+EV  IPR012162; TIGR03591; sufficient;
+--
+SN  4
+ID  ATP-dependent RNA helicase RhlB
+RQ  1
+EV  IPR023554; MF_00661; sufficient;
+//

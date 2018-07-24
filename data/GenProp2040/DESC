@@ -1,6 +1,6 @@
 AC  GenProp2040
 DE  Mitochondrial inner membrane peptidase complex
-TP  SYSTEM
+TP  COMPLEX
 AU  Rawlings ND
 TH  1
 RN  [1]
@@ -15,6 +15,8 @@ RT  SOM 1, a small new gene required for mitochondrial inner
 RT  membrane peptidase function in Saccharomyces cerevisiae.
 RA  Esser K; Pratje E; Michaelis G;
 RL  Mol Gen Genet. 1996;252:437-445.
+DC  Protein export
+DR  KEGG; map03060;
 CC  The mitochondrial inner membrane peptidase (MIP) complex 
 CC  removes the N-terminal signal peptide from proteins that
 CC  are synthesized in the mitochondrial matrix but destined for

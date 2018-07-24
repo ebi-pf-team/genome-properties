@@ -23,6 +23,8 @@ RT  Rheb GTPase is a direct target of TSC2 GAP activity and regulates
 RT  mTOR signaling. 
 RA  Inoki K; Li Y; Xu T; Guan KL;  
 RL  Genes Dev. 2003;17:1829-1834.
+DC  mTOR signaling pathway
+DR  KEGG; map04150;
 CC  The mTORC1 complex is a sensor detecting energy levels and amino
 CC  acid abundance. Once activated, the mTORC1 complex leads to 
 CC  protein synthesis. Activation of mTORC1 occurs on the surface

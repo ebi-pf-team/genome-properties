@@ -1,6 +1,6 @@
 AC  GenProp2069
 DE  THAP1/THAP3-HCFC1-OGT complex
-TP  SYSTEM
+TP  COMPLEX
 AU  Rawlings ND
 TH  2
 RN  [1]
@@ -22,20 +22,20 @@ CC  OGT.
 --
 SN  1
 ID  THAP domain-containing protein (THAP1/THAP3)
-DN  THAP domain-containing protein (THAP1/THAP3) /1
+DN  THAP domain-containing protein (THAP1/THAP3)
 RQ  1
 EV  IPR026516; PTHR23080:SF85; sufficient;
 EV  IPR026520; PTHR23080:SF64; sufficient;
 --
 SN  2
 ID  Host cell factor 1 (HCFC1)
-DN  Host cell factor 1 /7
+DN  Host cell factor 1
 RQ  1
 EV  IPR037854; PTHR23244:SF339; sufficient;
 --
 SN  3
 ID  UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase 110 kDa subunit (OGT)
-DN  UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase 110 kDa subunit (EC 2.4.1.255)/3
+DN  UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase 110 kDa subunit (EC 2.4.1.255)
 RQ  1
 EV  IPR037919; PTHR44366; sufficient;
 TG  GO:0097363;

@@ -1,0 +1,36 @@
+AC  GenProp1142
+DE  FtsQBL complex 
+TP  COMPLEX
+AU  Complex Portal
+TH  2
+RN  [1]
+RM  22888013
+RT  Bacterial cytokinesis: From Z ring to divisome.
+RA  Lutkenhaus J, Pichoff S, Du S
+RL  Cytoskeleton (Hoboken). 2012;69:778-790
+DR  Complex Portal; CPX-3099;
+CC  Sub-complex of the divisome, required for cell division. FtsQBL appears
+CC  to form independently of the divisome and is hypothesized to link
+CC  cytoplasmic to periplasmic events during cell division through a
+CC  multitude of transient interactions.
+--
+SN  1
+ID  Cell division protein FtsL
+RQ  1
+EV  IPR011922; MF_00910; sufficient;
+EV  IPR011922; PF04999; sufficient;
+EV  IPR011922; PTHR37479; sufficient;
+EV  IPR011922; TIGR02209; sufficient;
+--
+SN  2
+ID  Cell division protein FtsB
+RQ  1
+EV  IPR023081; MF_00599; sufficient;
+EV  IPR023081; PTHR37485; sufficient;
+--
+SN  3
+ID  Cell division protein FtsQ
+RQ  1
+EV  IPR026579; MF_00911; sufficient;
+EV  IPR026579; PTHR35851; sufficient;
+//

@@ -1,0 +1,80 @@
+AC  GenProp1191
+DE  Ribonucleoside-diphosphate reductase complex
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+RN  [1]
+RM  22160671
+RT  Structural interconversions modulate activity of Escherichia coli
+RT  ribonucleotide reductase.
+RA  Ando N, Brignole EJ, Zimanyi CM, Funk MA, Yokoyama K, Asturias FJ,
+RA  Stubbe J, Drennan CL
+RL  Proc Natl Acad Sci U S A. 2011;108:21046-21051
+DR  Complex Portal; CPX-1075;
+DR  PDBe; 5cnv;
+DR  PDBe; 1r1r;
+DR  PDBe; 2r1r;
+DR  PDBe; 4r1r;
+DR  PDBe; 3uus;
+DR  PDBe; 2x0x;
+DR  PDBe; 6r1r;
+DR  PDBe; 7r1r;
+DR  PDBe; 4erp;
+DR  PDBe; 4erm;
+DR  PDBe; 5cnu;
+DR  PDBe; 5cns;
+DR  PDBe; 5cnt;
+DR  PDBe; 2xaw;
+DR  PDBe; 3r1r;
+DR  PDBe; 2xax;
+DR  PDBe; 1piz;
+DR  PDBe; 1pj0;
+DR  PDBe; 1pj1;
+DR  PDBe; 1yfd;
+DR  PDBe; 5ci2;
+DR  PDBe; 2xap;
+DR  PDBe; 2xay;
+DR  PDBe; 2xo4;
+DR  PDBe; 2xaz;
+DR  PDBe; 2xo5;
+DR  PDBe; 2xak;
+DR  PDBe; 2xav;
+DR  PDBe; 5r1r;
+DR  PDBe; 1av8;
+DR  PDBe; 1biq;
+DR  PDBe; 1jpr;
+DR  PDBe; 1jqc;
+DR  PDBe; 1mrr;
+DR  PDBe; 1mxr;
+DR  PDBe; 1pfr;
+DR  PDBe; 1pim;
+DR  PDBe; 1piu;
+DR  PDBe; 1piy;
+DR  PDBe; 1pm2;
+DR  PDBe; 1r65;
+DR  PDBe; 1rib;
+DR  PDBe; 1rnr;
+DR  PDBe; 1rsr;
+DR  PDBe; 1rsv;
+DR  PDBe; 1xik;
+DR  PDBe; 2alx;
+DR  PDBe; 2av8;
+DR  PDBe; 2xof;
+DR  PDBe; 5ci3;
+CC  Catalyzes the reduction of ribonucleotides to the corresponding
+CC  deoxyribonucleotides, an essential step in the de novo synthesis of
+CC  monomeric precursors for DNA replication and repair. The binding of
+CC  effector dATP alters the active site to select for pyrimidines over
+CC  purines, whereas effectors dGTP and TTP select for substrates ADP and
+CC  GDP, respectively.
+--
+SN  1
+ID  Ribonucleoside-diphosphate reductase 1 subunit beta
+RQ  1
+EV  IPR033909; cd01049; sufficient;
+--
+SN  2
+ID  Ribonucleoside-diphosphate reductase 1 subunit alpha
+RQ  1
+EV  IPR013346; TIGR02506; sufficient;
+//

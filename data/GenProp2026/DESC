@@ -1,6 +1,6 @@
 AC  GenProp2026
 DE  KICSTOR complex
-TP  SYSTEM
+TP  COMPLEX
 AU  Rawlings ND
 TH  1
 RN  [1]
@@ -11,8 +11,8 @@ RA  Wolfson RL; Chantranupong L; Wyant GA; Gu X; Orozco JM; Shen K;
 RA  Condon KJ; Petri S; Kedir J; Scaria SM; Abu-Remaileh M; Frankel WN; 
 RA  Sabatini DM; 
 RL  Nature. 2017;543:438-442.
-DC  Apoptosis
-DR  KEGG; map04210;
+DC  mTOR signaling pathway
+DR  KEGG; map04150;
 CC  The KICSTOR complex functions in the TORC1 signaling pathway and is
 CC  an amino acid-sensor.  In the absence of amino acids, KICSTOR 
 CC  recruits the GATOR1 complex to lysosomal membranes and permits  

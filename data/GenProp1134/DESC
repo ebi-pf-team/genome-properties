@@ -1,0 +1,39 @@
+AC  GenProp1134
+DE  TusBCDE complex
+TP  COMPLEX
+AU  Complex Portal
+TH  3
+DR  Complex Portal; CPX-2144;
+DR  PDBe; 2d1p;
+CC  Involved in the sulfur-relay system required for 2-thiolation of
+CC  5-methylaminomethyl-2-thiouridine (mnm5s2U) at tRNA wobble positions.
+CC  It transfers sulfur (most likely in persulfide form) from TusA (P0A890)
+CC  to the TusE-MnmA complex (CPX-2145) via Cys78-TusD and
+CC  Cys108-TusE. Although TusBCD complex has been crystallised it has not
+CC  yet been shown experimentally that it exists in vivo without subunit
+CC  TusE attached.
+--
+SN  1
+ID  Sulfurtransferase TusE
+RQ  1
+EV  IPR007453; PF04358; sufficient;
+EV  IPR007453; PIRSF006223; sufficient;
+EV  IPR007453; PTHR37010; sufficient;
+EV  IPR007453; TIGR03342; sufficient;
+--
+SN  2
+ID  Sulfurtransferase TusD
+RQ  1
+EV  IPR017463; MF_00390; sufficient;
+EV  IPR017463; TIGR03012; sufficient;
+--
+SN  3
+ID  Protein TusC
+RQ  1
+EV  IPR037450; MF_00389; sufficient;
+--
+SN  4
+ID  Protein TusB
+RQ  1
+EV  IPR023526; MF_01564; sufficient;
+//

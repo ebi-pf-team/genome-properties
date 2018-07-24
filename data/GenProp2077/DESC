@@ -1,6 +1,6 @@
 AC  GenProp2077
 DE  INO80 complex, vertebrate
-TP  SYSTEM
+TP  COMPLEX
 AU  Rawlings ND
 TH  9
 RN  [1]
@@ -19,7 +19,7 @@ RA  Shen X; Ranallo R; Choi E; Wu C;
 RL  Mol Cell. 2003;12:147-155.
 CC  The INO80 complex remodels chromatin by increasing 
 CC  nucleosome mobility thus allowing access to enzymes that 
-CC  process DNA.  The complex in human is composed of at least 
+CC  process DNA. The complex in human is composed of at least 
 CC  KIAA1259, ARP8, ARP5, ARP4, TIP49a, TIP49b, PAPA-1, 
 CC  C18orf37, Amida, FLJ90652, NFRKB, MCRS1, FLJ20309 [1] plus
 CC  actin [2].
@@ -36,28 +36,28 @@ CC  actin [2].
 --
 SN  1
 ID  Actin-like protein 6A (ACTL6A/BAF53A)
-DN  Actin-like protein 6A /1
+DN  Actin-like protein 6A
 RQ  1
 EV  IPR029912; PTHR11937:SF170; sufficient;
 TG  GO:0031011;
 --
 SN  2
 ID  Actin-related protein 5 (ARP5)
-DN  Actin-related protein 5 /2
+DN  Actin-related protein 5
 RQ  1
 EV  IPR027664; PTHR11937:SF16; sufficient;
 TG  GO:0031011;
 --
 SN  3
 ID  Actin-like protein ARP8 (ARP8/ACTR8)
-DN  Actin-like protein ARP8 /2
+DN  Actin-like protein ARP8
 RQ  1
 EV  IPR027668; PTHR11937:SF13; sufficient;
 TG  GO:0031011;
 --
 SN  4
 ID  RuvB-like protein 1 (RVB1/TIP49a)
-DN  RuvB-like protein 1 (EC 3.6.4.12) /4
+DN  RuvB-like protein 1 (EC 3.6.4.12)
 RQ  1
 EV  IPR037938; PTHR11093:SF6; sufficient;
 TG  GO:0043140;
@@ -65,7 +65,7 @@ TG  GO:0031011;
 --
 SN  5
 ID  RuvB-like protein 2 (RVB2/TIP42b)
-DN  RuvB-like protein 2 (EC 3.6.4.12) /5
+DN  RuvB-like protein 2 (EC 3.6.4.12)
 RQ  1
 EV  IPR037942; PTHR11093:SF2; sufficient;
 TG  GO:0043140;
@@ -73,49 +73,49 @@ TG  GO:0031011;
 --
 SN  6
 ID  TCF3 fusion partner (TFPT/Amida)
-DN  TCF3 fusion partner /6
+DN  TCF3 fusion partner
 RQ  1
 EV  IPR033555; PTHR35084; sufficient;
 TG  GO:0031011;
 --
 SN  7
 ID  INO80 complex subunit E (INO80E/FLJ90652)
-DN  INO80 complex subunit E /7
+DN  INO80 complex subunit E
 RQ  1
 EV  IPR026678; PTHR21812; sufficient;
 TG  GO:0031011;
 --
 SN  8
 ID  Nuclear factor related to kappa-B-binding protein (NFRKB)
-DN  Nuclear factor related to kappa-B-binding protein /8
+DN  Nuclear factor related to kappa-B-binding protein
 RQ  1
 EV  IPR024867; PTHR13052; sufficient;
 TG  GO:0031011;
 --
 SN  9
 ID  Microspherule protein 1 (MCRS1)
-DN  Microspherule protein 1 /9
+DN  Microspherule protein 1
 RQ  1
 EV  IPR037912; PTHR13233; sufficient;
 TG  GO:0031011;
 --
 SN  10
 ID  INO80 complex subunit D (INO80D/FLJ20309)
-DN  INO80 complex subunit D /10
+DN  INO80 complex subunit D
 RQ  1
-EV  IPR038015; PTHR16198; sufficient;
+EV  -; PTHR16198; sufficient;
 TG  GO:0031011;
 --
 SN  11
 ID  Chromatin-remodeling complex subunit IES6 (IES6/INO80C/C18orf37)
-DN  Chromatin-remodeling complex subunit IES6 /2
+DN  Chromatin-remodeling complex subunit IES6
 RQ  1
 EV  IPR029525; PTHR31200; sufficient;
 TG  GO:0031011;
 --
 SN  12
 ID  Actin (ACT1)
-DN  Actin /2
+DN  Actin
 RQ  1
 EV  IPR004000; PF00022; sufficient;
 EV  IPR004000; PR00190; sufficient;
@@ -125,14 +125,14 @@ TG  GO:0031011;
 --
 SN  13
 ID  Ino eighty subunit 2 (IES2/PAPA-1)
-DN  Ino eighty subunit 2 /2
+DN  Ino eighty subunit 2
 RQ  1
 EV  IPR029523; PTHR21561; sufficient;
 TG  GO:0031011;
 --
 SN  14
 ID  DNA helicase INO80 (INO80/KIAA1259)
-DN  DNA helicase INO80 (EC 3.6.4.12) /15
+DN  DNA helicase INO80 (EC 3.6.4.12)
 RQ  1
 EV  IPR031047; PTHR10799:SF868; sufficient;
 TG  GO:0043140;

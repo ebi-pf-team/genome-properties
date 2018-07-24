@@ -45,4 +45,9 @@ SN  8
 ID  Competence-related genes
 RQ  0
 EV  GenProp0311;
+--
+SN  9
+ID  Transcription
+RQ  0
+EV  GenProp1214;
 //

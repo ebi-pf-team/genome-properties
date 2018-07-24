@@ -1,6 +1,6 @@
 AC  GenProp2074
 DE  NuA4 histone acetyltransferase complex, yeast
-TP  SYSTEM
+TP  COMPLEX
 AU  Rawlings ND
 TH  6
 RN  [1]
@@ -45,63 +45,63 @@ CC  EAF7, EPL1, ESA1, TRA1 and YNG2 [1].
 --
 SN  1
 ID  Actin (ACT1) 
-DN  Actin;
+DN  Actin
 RQ  1
 EV  IPR004000; PTHR11937; sufficient;
 TG  GO:0035267;
 --
 SN  2
 ID  Actin-related protein 4 (ARP4)
-DN  Actin-related protein 4 /2
+DN  Actin-related protein 4
 RQ  1
-EV  IPR027667; PTHR11937:SF274; sufficient;
+EV  -; PTHR11937:SF274; sufficient;
 TG  GO:0035267;
 --
 SN  3
 ID  Protein AF-9 homolog (YAF9)
-DN  Protein AF-9 homolog /3
+DN  Protein AF-9 homolog
 RQ  1
 EV  IPR037989; PTHR23195:SF15; sufficient;
 TG  GO:0035267;
 --
 SN  4
 ID  Chromatin modification-related protein EAF1 (VID21)
-DN  Chromatin modification-related protein EAF1 /4
+DN  Chromatin modification-related protein EAF1
 RQ  1
-EV  IPR038000; PTHR10799:SF599; sufficient;
+EV  -; PTHR10799:SF599; sufficient;
 TG  GO:0035267;
 --
 SN  5
 ID  SWR1-complex protein 4 (SWC4)
-DN  SWR1-complex protein 4 /5
+DN  SWR1-complex protein 4
 RQ  1
 EV  IPR027109; PTHR12855; sufficient;
 TG  GO:0035267;
 --
 SN  6
 ID  Chromatin modification-related protein EAF3 (EAF3)
-DN  Chromatin modification-related protein EAF3 /6
+DN  Chromatin modification-related protein EAF3
 RQ  1
 EV  IPR008676; PTHR10880; sufficient;
 TG  GO:0035267;
 --
 SN  7
 ID  Chromatin modification-related protein EAF5
-DN  Chromatin modification-related protein EAF5 /7
+DN  Chromatin modification-related protein EAF5
 RQ  1
 EV  IPR026226; PR02067; sufficient;
 TG  GO:0035267;
 --
 SN  8
 ID  Chromatin modification-related protein EAF6/MEAF6
-DN  Chromatin modification-related protein EAF6 /8
+DN  Chromatin modification-related protein EAF6
 RQ  1
 EV  IPR015418; PF09340; sufficient;
 TG  GO:0035267;
 --
 SN  9
 ID  Chromatin modification-related protein EAF7
-DN  Chromatin modification-related protein EAF7 /9
+DN  Chromatin modification-related protein EAF7
 RQ  1
 EV  IPR012423; PF07904; sufficient;
 EV  IPR012423; PTHR13581; sufficient;
@@ -109,14 +109,14 @@ TG  GO:0035267;
 --
 SN  10
 ID  Enhancer of polycomb-like protein 1 (EPL1)
-DN  Enhancer of polycomb-like protein 1 /10
+DN  Enhancer of polycomb-like protein 1
 RQ  1
 EV  IPR024943; PTHR14898; sufficient;
 TG  GO:0035267;
 --
 SN  11
 ID  Histone acetyltransferase ESA1 (ESA1/KAT5/TIP60)
-DN  Histone acetyltransferase ESA1 (EC 2.3.1.48) /11
+DN  Histone acetyltransferase ESA1 (EC 2.3.1.48)
 RQ  1
 EV  IPR037995; PTHR10615:SF124; sufficient;
 TG  GO:0004402;
@@ -124,14 +124,14 @@ TG  GO:0035267;
 --
 SN  12
 ID  Transcription-associated protein 1 (TRA1)
-DN  Transcription-associated protein 1 /12
+DN  Transcription-associated protein 1
 RQ  1
 EV  IPR033317; PTHR11139:SF1; sufficient;
 TG  GO:0035267;
 --
 SN  13
 ID  Chromatin modification-related protein YNG2 
-DN  Chromatin modification-related protein YNG2 /13
+DN  Chromatin modification-related protein YNG2
 RQ  1
 EV  IPR037996; PTHR10333:SF88; sufficient;
 TG  GO:0035267;

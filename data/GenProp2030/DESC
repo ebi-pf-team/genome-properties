@@ -1,6 +1,6 @@
 AC  GenProp2030
 DE  mTORC1 complex
-TP  SYSTEM
+TP  COMPLEX
 AU  Rawlings ND
 TH  1
 RN  [1]
@@ -39,6 +39,8 @@ RT  multiple myeloma cells and required for their survival.
 RA  Peterson TR; Laplante M; Thoreen CC; Sancak Y; Kang SA; 
 RA  Kuehl WM; Gray NS; Sabatini DM;  
 RL  Cell. 2009;137:873-886.
+DC  mTOR signaling pathway
+DR  KEGG; map04150;
 CC  mTORC1 (mammalian target of rapamycin complex 1 or mechanistic 
 CC  target of rapamycin complex 1) is a nutrient sensor which  
 CC  controls protein synthesis by activating protein translation [1]. 

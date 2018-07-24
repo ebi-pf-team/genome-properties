@@ -1,0 +1,22 @@
+AC  GenProp1156
+DE  BtuCD complex
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+DR  Complex Portal; CPX-2106;
+CC  Core subunit of the cobalamin transport complex containing the
+CC  transmembrane homodimer BtuC and the cytoplasmic ATPase homodimer
+CC  BtuD. Requires the binding of cobalamin (vitamin B12)-bound subunit BtuF
+CC  to bind to the periplasmic site of the transmembrane subunit in order
+CC  to transport cobalamin through the periplasmic membrane.
+--
+SN  1
+ID  Vitamin B12 import ATP-binding protein BtuD
+RQ  1
+EV  IPR023693; MF_01005; sufficient;
+--
+SN  2
+ID  Vitamin B12 import system permease protein BtuC
+RQ  1
+EV  IPR023691; MF_01004; sufficient;
+//

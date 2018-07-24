@@ -1,8 +1,8 @@
 AC  GenProp2066
 DE  RuvB-like helicase
-TP  SYSTEM
+TP  COMPLEX
 AU  Rawlings ND
-TH  2
+TH  1
 RN  [1]
 RM  10428817 
 RT  TIP49b, a new RuvB-like DNA helicase, is included in a 
@@ -13,17 +13,16 @@ RA  Okazaki K; Morishita T; Tamura TA;
 RL  J Biol Chem. 1999;274:22437-22444.
 CC  The RuvB-like helicase is a heteroligomer consisting of
 CC  a hexameric ring of subunit RUVBL1 and a hexameric ring 
-CC  of subunit RUVBL2, one stacked upon the other.  Each 
+CC  of subunit RUVBL2, one stacked upon the other. Each 
 CC  is assumed to be a homohexamer, but this is not 
-CC  confirmed experimentally [1].  This complex itself is a
+CC  confirmed experimentally [1]. This complex itself is a
 CC  component in many other complexes.
 **  Evidence for step 1 is also used in GP2075.
 **  Evidence for step 2 is also used in GP2075 and GP2077.
-**  Threshold is therefore set to 2.
 --
 SN  1
 ID  RuvB-like 1 (RUVBL1/TIP49a) 
-DN  RuvB-like 1 (EC 3.6.4.12) /1
+DN  RuvB-like 1 (EC 3.6.4.12)
 RQ  1
 EV  IPR037938; PTHR11093:SF6; sufficient;
 TG  GO:0071339;
@@ -31,7 +30,7 @@ TG  GO:0043141;
 --
 SN  2
 ID  RuvB-like 2 (RUVBL2/TIP49b)
-DN  RuvB-like 2 (EC 3.6.4.12) /2
+DN  RuvB-like 2 (EC 3.6.4.12)
 RQ  1
 EV  IPR037942; PTHR11093:SF2; sufficient;
 TG  GO:0071339;

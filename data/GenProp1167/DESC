@@ -1,0 +1,28 @@
+AC  GenProp1167
+DE  Ethanolamine ammonia-lyase complex
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+DR  Complex Portal; CPX-2313;
+DR  PDBe; 3abo;
+DR  PDBe; 3abs;
+DR  PDBe; 3abq;
+CC  Catalyzes the adenosylcobalamin (coenzyme B12)-dependent conversion of
+CC  ethanolamine to acetaldehyde and ammonia and enabling growth on
+CC  ethanolamine. The complex acts on both enantiomers of ethanolamine.
+--
+SN  1
+ID  Ethanolamine ammonia-lyase light chain
+RQ  1
+EV  IPR009246; MF_00601; sufficient;
+EV  IPR009246; PF05985; sufficient;
+EV  IPR009246; PIRSF018982; sufficient;
+EV  IPR009246; PTHR39330; sufficient;
+--
+SN  2
+ID  Ethanolamine ammonia-lyase heavy chain
+RQ  1
+EV  IPR010628; PF06751; sufficient;
+EV  IPR010628; PIRSF018788; sufficient;
+EV  IPR010628; PTHR39329; sufficient;
+//

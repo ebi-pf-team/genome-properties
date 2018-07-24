@@ -1,0 +1,23 @@
+AC  GenProp1119
+DE  p-aminobenzoyl-glutamate hydrolase
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+DR  Complex Portal; CPX-28;
+CC  Catalyzes the cleavage of the folate breakdown product
+CC  p-aminobenzoyl-glutamate (PABA-GLU) to form p-aminobenzoate (PABA) and
+CC  glutamate. Reduced derivatives of folic acid are required for
+CC  biosynthesis of DNA, RNA, amino acids, and other important cellular
+CC  components.
+--
+SN  1
+ID  p-aminobenzoyl-glutamate hydrolase subunit A
+RQ  1
+EV  IPR033845; cd05665; sufficient;
+--
+SN  2
+ID  p-aminobenzoyl-glutamate hydrolase subunit B
+RQ  1
+EV  IPR017145; PIRSF037227; sufficient;
+EV  IPR017145; cd05673; sufficient;
+//
