@@ -89,4 +89,104 @@ SN  17
 ID  Selenocysteinyl-tRNA, PSTK/SepSecS pathway
 RQ  0
 EV  GenProp0797;
+--
+SN  18
+ID  Beta-alanine biosynthesis IV
+RQ  0
+EV  GenProp1678;
+--
+SN  19
+ID  L-ornithine biosynthesis I
+RQ  0
+EV  GenProp1466;
+--
+SN  20
+ID  L-ornithine biosynthesis II
+RQ  0
+EV  GenProp1472;
+--
+SN  21
+ID  L-homocysteine biosynthesis
+RQ  0
+EV  GenProp1507;
+--
+SN  22
+ID  L-homoserine biosynthesis
+RQ  0
+EV  GenProp1553;
+--
+SN  23
+ID  L-alanine biosynthesis I
+RQ  0
+EV  GenProp1667;
+--
+SN  24
+ID  L-asparagine biosynthesis III (tRNA-dependent)
+RQ  0
+EV  GenProp1660;
+--
+SN  25
+ID  L-cysteine biosynthesis IV (fungi)
+RQ  0
+EV  GenProp1238;
+--
+SN  26
+ID  L-methionine salvage from L-homocysteine
+RQ  0
+EV  GenProp1719;
+--
+SN  27
+ID  L-phenylalanine biosynthesis I
+RQ  0
+EV  GenProp1708;
+--
+SN  28
+ID  L-selenocysteine biosynthesis I (bacteria)
+RQ  0
+EV  GenProp1499;
+--
+SN  29
+ID  L-serine biosynthesis
+RQ  0
+EV  GenProp1640;
+--
+SN  30
+ID  L-tryptophan biosynthesis
+RQ  0
+EV  GenProp1450;
+--
+SN  31
+ID  L-tyrosine biosynthesis I
+RQ  0
+EV  GenProp1251;
+--
+SN  32
+ID  L-homoserine and L-methionine biosynthesis
+RQ  0
+EV  GenProp1581;
+--
+SN  33
+ID  3-Dehydroquinate biosynthesis I
+RQ  0
+EV  GenProp1731;
+--
+SN  34
+ID  Chorismate biosynthesis from 3-dehydroquinate
+RQ  0
+EV  GenProp1478;
+--
+SN  35
+ID  Chorismate biosynthesis I
+RQ  0
+EV  GenProp1643;
+--
+SN  36
+ID  Salicylate biosynthesis I
+RQ  0
+EV  GenProp1243;
+--
+SN  37
+ID  2,3-Dihydroxybenzoate biosynthesis
+RQ  0
+EV  GenProp1336;
 //

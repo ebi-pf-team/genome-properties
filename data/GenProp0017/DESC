@@ -63,4 +63,29 @@ SN  11
 ID  Carbon metabolism
 RQ  0
 EV  GenProp0866;
+--
+SN  12
+ID  Gibberellin inactivation II (methylation)
+RQ  0
+EV  GenProp1420;
+--
+SN  13
+ID  Indole-3-acetate inactivation VIII
+RQ  0
+EV  GenProp1490;
+--
+SN  14
+ID  Violaxanthin, antheraxanthin and zeaxanthin interconversion
+RQ  0
+EV  GenProp1508;
+--
+SN  15
+ID  Abscisic acid degradation by glucosylation
+RQ  0
+EV  GenProp1600;
+--
+SN  16
+ID  Homocysteine and cysteine interconversion
+RQ  0
+EV  GenProp1654;
 //

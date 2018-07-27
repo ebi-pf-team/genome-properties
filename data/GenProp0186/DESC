@@ -60,4 +60,44 @@ SN  11
 ID  Cellulose biosynthesis
 RQ  0
 EV  GenProp0658;
+--
+SN  12
+ID  CMP-N-acetylneuraminate biosynthesis I (eukaryotes)
+RQ  0
+EV  GenProp1737;
+--
+SN  13
+ID  Peptidoglycan biosynthesis I (meso-diaminopimelate containing)
+RQ  0
+EV  GenProp1480;
+--
+SN  14
+ID  Poly(glycerol phosphate) wall teichoic acid biosynthesis
+RQ  0
+EV  GenProp1398;
+--
+SN  15
+ID  Poly(3-O-beta-D-glucopyranosyl-N-acetylgalactosamine 1-phosphate) wall teichoic acid biosynthesis
+RQ  0
+EV  GenProp1756;
+--
+SN  16
+ID  UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)
+RQ  0
+EV  GenProp1448;
+--
+SN  17
+ID  Kdo transfer to lipid IVA I
+RQ  0
+EV  GenProp1684;
+--
+SN  18
+ID  Enterobacterial common antigen biosynthesis
+RQ  0
+EV  GenProp1270;
+--
+SN  19
+ID  Lipid IVA biosynthesis
+RQ  0
+EV  GenProp1290;
 //

@@ -1,9 +1,9 @@
 AC  GenProp1403
-DE  DTDP-N-acetylthomosamine biosynthesis
+DE  dTDP-N-acetylthomosamine biosynthesis
 TP  PATHWAY
 AU  Caspi R
 TH  2
-DC  DTDP-N-acetylthomosamine biosynthesis
+DC  dTDP-N-acetylthomosamine biosynthesis
 DR  MetaCyc; PWY-7315;
 CC  This property has been automatically generated from MetaCyc and has not
 CC  been manually verified to check the validity of the InterPro signatures
@@ -11,8 +11,8 @@ CC  used for the evidence. See MetaCyc for additional information and
 CC  references relating to this property.
 --
 SN  1
-ID  DTDP-glucose 4,6-dehydratase
-DN  DTDP-glucose 4,6-dehydratase (EC 4.2.1.46)
+ID  dTDP-glucose 4,6-dehydratase
+DN  dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)
 RQ  1
 EV  IPR005888; TIGR01181; sufficient;
 EV  IPR016040; PF16363; sufficient;
@@ -25,15 +25,15 @@ EV  IPR005835; PF00483; sufficient;
 EV  IPR005907; TIGR01207; sufficient;
 --
 SN  3
-ID  DTDP-4-dehydro-6-deoxy-D-glucose transaminase
-DN  DTDP-4-dehydro-6-deoxy-D-glucose transaminase (EC 2.6.1.59)
+ID  dTDP-4-dehydro-6-deoxy-D-glucose transaminase
+DN  dTDP-4-dehydro-6-deoxy-D-glucose transaminase (EC 2.6.1.59)
 RQ  1
 EV  IPR000653; PF01041; sufficient;
 EV  IPR012749; TIGR02379; sufficient;
 --
 SN  4
-ID  DTDP-4-amino-4,6-dideoxy-D-galactose acyltransferase
-DN  DTDP-4-amino-4,6-dideoxy-D-galactose acyltransferase (EC 2.3.1.210)
+ID  dTDP-4-amino-4,6-dideoxy-D-galactose acyltransferase
+DN  dTDP-4-amino-4,6-dideoxy-D-galactose acyltransferase (EC 2.3.1.210)
 RQ  1
 EV  IPR012752; TIGR02382; sufficient;
 //

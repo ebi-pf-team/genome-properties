@@ -170,4 +170,9 @@ SN  33
 ID  Cobalt import system (ABC transporter: 3.A.1.18.1)
 RQ  0
 EV  GenProp0277;
+--
+SN  34
+ID  Coenzyme B/coenzyme M regeneration III (coenzyme F420-dependent)
+RQ  0
+EV  GenProp1477;
 //

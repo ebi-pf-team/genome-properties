@@ -30,4 +30,19 @@ SN  5
 ID  Tryptophan degradation to anthranilate
 RQ  0
 EV  GenProp0659;
+--
+SN  6
+ID  L-glutamate degradation II
+RQ  0
+EV  GenProp1233;
+--
+SN  7
+ID  Uracil degradation I (reductive)
+RQ  0
+EV  GenProp1371;
+--
+SN  8
+ID  L-arginine degradation I (arginase pathway)
+RQ  0
+EV  GenProp1428;
 //

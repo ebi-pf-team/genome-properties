@@ -30,50 +30,50 @@ RQ  1
 EV  IPR006694; PF04116; sufficient;
 --
 SN  4
-ID  4Alpha-hydroxymethyl-4beta-methyl-5alpha-cholesta-8,24-dien-3beta-ol dehydrogenase
-DN  4Alpha-hydroxymethyl-4beta-methyl-5alpha-cholesta-8,24-dien-3beta-ol dehydrogenase
+ID  4-Alpha-hydroxymethyl-4-beta-methyl-5-alpha-cholesta-8,24-dien-3-beta-ol dehydrogenase
+DN  4-Alpha-hydroxymethyl-4-beta-methyl-5-alpha-cholesta-8,24-dien-3-beta-ol dehydrogenase
 RQ  1
 EV  IPR006694; PF04116; sufficient;
 --
 SN  5
-ID  4Alpha-formyl-4beta-methyl-5alpha-cholesta-8,24-dien-3beta-ol 4-hydroxylase
-DN  4Alpha-formyl-4beta-methyl-5alpha-cholesta-8,24-dien-3beta-ol 4-hydroxylase
+ID  4-Alpha-formyl-4-beta-methyl-5-alpha-cholesta-8,24-dien-3-beta-ol 4-hydroxylase
+DN  4-Alpha-formyl-4-beta-methyl-5-alpha-cholesta-8,24-dien-3-beta-ol 4-hydroxylase
 RQ  1
 EV  IPR006694; PF04116; sufficient;
 --
 SN  6
-ID  3Beta-hydroxysteroid dehydrogenase/C4-decarboxylase
-DN  3Beta-hydroxysteroid dehydrogenase/C4-decarboxylase (EC 1.1.1.170)
+ID  3-beta-hydroxysteroid dehydrogenase/C4-decarboxylase
+DN  3-beta-hydroxysteroid dehydrogenase/C4-decarboxylase (EC 1.1.1.170)
 RQ  1
 EV  IPR002225; PF01073; sufficient;
 --
 SN  7
-ID  4Alpha-methylzymosterol 3-dehydrogenase
-DN  4Alpha-methylzymosterol 3-dehydrogenase (EC 1.1.1.270)
+ID  4-Alpha-methylzymosterol 3-dehydrogenase
+DN  4-Alpha-methylzymosterol 3-dehydrogenase (EC 1.1.1.270)
 RQ  1
 EV  IPR002347; PF00106; sufficient;
 --
 SN  8
-ID  4Alpha-methyl-zymosterol 4-hydroxylase
-DN  4Alpha-methyl-zymosterol 4-hydroxylase
+ID  4-Alpha-methyl-zymosterol 4-hydroxylase
+DN  4-Alpha-methyl-zymosterol 4-hydroxylase
 RQ  1
 EV  IPR006694; PF04116; sufficient;
 --
 SN  9
-ID  4Alpha-hydroxymethyl-5alpha-cholesta-8,24-dien-3beta-ol dehydrogenase
-DN  4Alpha-hydroxymethyl-5alpha-cholesta-8,24-dien-3beta-ol dehydrogenase
+ID  4-Alpha-hydroxymethyl-5-alpha-cholesta-8,24-dien-3-beta-ol dehydrogenase
+DN  4-Alpha-hydroxymethyl-5-alpha-cholesta-8,24-dien-3-beta-ol dehydrogenase
 RQ  1
 EV  IPR006694; PF04116; sufficient;
 --
 SN  10
-ID  4Alpha-formyl-5alpha-cholesta-8,24-dien-3beta-ol 4-hydroxylase
-DN  4Alpha-formyl-5alpha-cholesta-8,24-dien-3beta-ol 4-hydroxylase
+ID  4-Alpha-formyl-5-alpha-cholesta-8,24-dien-3-beta-ol 4-hydroxylase
+DN  4-Alpha-formyl-5-alpha-cholesta-8,24-dien-3-beta-ol 4-hydroxylase
 RQ  1
 EV  IPR006694; PF04116; sufficient;
 --
 SN  11
-ID  4Alpha-carboxy-5alpha-cholesta-8,24-dien-3beta-ol:NAD(P)+ 3-oxidoreductase (decarboxylating)
-DN  4Alpha-carboxy-5alpha-cholesta-8,24-dien-3beta-ol:NAD(P)+ 3-oxidoreductase (decarboxylating) (EC 1.1.1.170)
+ID  4-Alpha-carboxy-5-alpha-cholesta-8,24-dien-3-beta-ol:NAD(P)+ 3-oxidoreductase (decarboxylating)
+DN  4-Alpha-carboxy-5-alpha-cholesta-8,24-dien-3-beta-ol:NAD(P)+ 3-oxidoreductase (decarboxylating) (EC 1.1.1.170)
 RQ  1
 EV  IPR002225; PF01073; sufficient;
 --

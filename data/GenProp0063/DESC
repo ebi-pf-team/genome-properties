@@ -110,4 +110,24 @@ SN  21
 ID  Radical SAM/SPASM system GeoRSP
 RQ  0
 EV  GenProp1057;
+--
+SN  22
+ID  Aminopropylcadaverine biosynthesis
+RQ  0
+EV  GenProp1433;
+--
+SN  23
+ID  Spermine biosynthesis
+RQ  0
+EV  GenProp1571;
+--
+SN  24
+ID  Octopamine biosynthesis
+RQ  0
+EV  GenProp1606;
+--
+SN  25
+ID  Glutaminyl-tRNAgln biosynthesis via transamidation
+RQ  0
+EV  GenProp1383;
 //

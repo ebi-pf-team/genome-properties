@@ -11,8 +11,8 @@ CC  used for the evidence. See MetaCyc for additional information and
 CC  references relating to this property.
 --
 SN  1
-ID  Estradiol-17beta dehydrogenase / estrone reductase
-DN  Estradiol-17beta dehydrogenase / estrone reductase (EC 1.1.1.62)
+ID  Estradiol-17-beta dehydrogenase / estrone reductase
+DN  Estradiol-17-beta dehydrogenase / estrone reductase (EC 1.1.1.62)
 RQ  1
 EV  IPR002347; PF00106; sufficient;
 --

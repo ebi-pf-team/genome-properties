@@ -11,116 +11,116 @@ CC  used for the evidence. See MetaCyc for additional information and
 CC  references relating to this property.
 --
 SN  1
-ID  N-terminal methionine Nalpha-acetyltransferase
-DN  N-terminal methionine Nalpha-acetyltransferase (EC 2.3.1.254)
+ID  N-terminal methionine N-alpha-acetyltransferase
+DN  N-terminal methionine N-alpha-acetyltransferase (EC 2.3.1.254)
 RQ  1
 EV  IPR019183; PF09797; sufficient;
 EV  IPR000182; PF00583; sufficient;
 --
 SN  2
-ID  N-terminal methionine Nalpha-acetyltransferase
-DN  N-terminal methionine Nalpha-acetyltransferase (EC 2.3.1.254)
+ID  N-terminal methionine N-alpha-acetyltransferase
+DN  N-terminal methionine N-alpha-acetyltransferase (EC 2.3.1.254)
 RQ  1
 EV  IPR019183; PF09797; sufficient;
 EV  IPR000182; PF00583; sufficient;
 --
 SN  3
-ID  N-terminal methionine Nalpha-acetyltransferase
-DN  N-terminal methionine Nalpha-acetyltransferase (EC 2.3.1.254)
+ID  N-terminal methionine N-alpha-acetyltransferase
+DN  N-terminal methionine N-alpha-acetyltransferase (EC 2.3.1.254)
 RQ  1
 EV  IPR019183; PF09797; sufficient;
 EV  IPR000182; PF00583; sufficient;
 --
 SN  4
-ID  N-terminal methionine Nalpha-acetyltransferase
-DN  N-terminal methionine Nalpha-acetyltransferase (EC 2.3.1.254)
+ID  N-terminal methionine N-alpha-acetyltransferase
+DN  N-terminal methionine N-alpha-acetyltransferase (EC 2.3.1.254)
 RQ  1
 EV  IPR019183; PF09797; sufficient;
 EV  IPR000182; PF00583; sufficient;
 --
 SN  5
-ID  N-terminal methionine Nalpha-acetyltransferase
-DN  N-terminal methionine Nalpha-acetyltransferase (EC 2.3.1.258)
+ID  N-terminal methionine N-alpha-acetyltransferase
+DN  N-terminal methionine N-alpha-acetyltransferase (EC 2.3.1.258)
 RQ  1
 EV  IPR007244; PF04112; sufficient;
 EV  IPR000182; PF00583; sufficient;
 EV  IPR001163; PF01423; sufficient;
 --
 SN  6
-ID  N-terminal methionine Nalpha-acetyltransferase
-DN  N-terminal methionine Nalpha-acetyltransferase (EC 2.3.1.256)
+ID  N-terminal methionine N-alpha-acetyltransferase
+DN  N-terminal methionine N-alpha-acetyltransferase (EC 2.3.1.256)
 RQ  1
 EV  IPR007244; PF04112; sufficient;
 EV  IPR000182; PF00583; sufficient;
 EV  IPR001163; PF01423; sufficient;
 --
 SN  7
-ID  N-terminal methionine Nalpha-acetyltransferase
-DN  N-terminal methionine Nalpha-acetyltransferase (EC 2.3.1.256)
+ID  N-terminal methionine N-alpha-acetyltransferase
+DN  N-terminal methionine N-alpha-acetyltransferase (EC 2.3.1.256)
 RQ  1
 EV  IPR007244; PF04112; sufficient;
 EV  IPR000182; PF00583; sufficient;
 EV  IPR001163; PF01423; sufficient;
 --
 SN  8
-ID  N-terminal methionine Nalpha-acetyltransferase
-DN  N-terminal methionine Nalpha-acetyltransferase (EC 2.3.1.256)
+ID  N-terminal methionine N-alpha-acetyltransferase
+DN  N-terminal methionine N-alpha-acetyltransferase (EC 2.3.1.256)
 RQ  1
 EV  IPR007244; PF04112; sufficient;
 EV  IPR000182; PF00583; sufficient;
 EV  IPR001163; PF01423; sufficient;
 --
 SN  9
-ID  N-terminal L-methionine Nalpha-acetyltransferase
-DN  N-terminal L-methionine Nalpha-acetyltransferase (EC 2.3.1.256)
+ID  N-terminal L-methionine N-alpha-acetyltransferase
+DN  N-terminal L-methionine N-alpha-acetyltransferase (EC 2.3.1.256)
 RQ  1
 EV  IPR007244; PF04112; sufficient;
 EV  IPR000182; PF00583; sufficient;
 EV  IPR001163; PF01423; sufficient;
 --
 SN  10
-ID  N-terminal valine Nalpha-acetyltransferase
-DN  N-terminal valine Nalpha-acetyltransferase (EC 2.3.1.255)
+ID  N-terminal valine N-alpha-acetyltransferase
+DN  N-terminal valine N-alpha-acetyltransferase (EC 2.3.1.255)
 RQ  1
 EV  IPR019734; PF13181; sufficient;
 EV  IPR021183; PF12569; sufficient;
 EV  IPR000182; PF00583; sufficient;
 --
 SN  11
-ID  N-terminal alanine Nalpha-acetyltransferase
-DN  N-terminal alanine Nalpha-acetyltransferase (EC 2.3.1.255)
+ID  N-terminal alanine N-alpha-acetyltransferase
+DN  N-terminal alanine N-alpha-acetyltransferase (EC 2.3.1.255)
 RQ  1
 EV  IPR019734; PF13181; sufficient;
 EV  IPR021183; PF12569; sufficient;
 EV  IPR000182; PF00583; sufficient;
 --
 SN  12
-ID  N-terminal cysteine Nalpha-acetyltransferase
-DN  N-terminal cysteine Nalpha-acetyltransferase (EC 2.3.1.255)
+ID  N-terminal cysteine N-alpha-acetyltransferase
+DN  N-terminal cysteine N-alpha-acetyltransferase (EC 2.3.1.255)
 RQ  1
 EV  IPR019734; PF13181; sufficient;
 EV  IPR021183; PF12569; sufficient;
 EV  IPR000182; PF00583; sufficient;
 --
 SN  13
-ID  N-terminal glycine Nalpha-acetyltransferase
-DN  N-terminal glycine Nalpha-acetyltransferase (EC 2.3.1.255)
+ID  N-terminal glycine N-alpha-acetyltransferase
+DN  N-terminal glycine N-alpha-acetyltransferase (EC 2.3.1.255)
 RQ  1
 EV  IPR019734; PF13181; sufficient;
 EV  IPR021183; PF12569; sufficient;
 EV  IPR000182; PF00583; sufficient;
 --
 SN  14
-ID  N-terminal serine Nalpha-acetyltransferase
-DN  N-terminal serine Nalpha-acetyltransferase (EC 2.3.1.255)
+ID  N-terminal serine N-alpha-acetyltransferase
+DN  N-terminal serine N-alpha-acetyltransferase (EC 2.3.1.255)
 RQ  1
 EV  IPR019734; PF13181; sufficient;
 EV  IPR021183; PF12569; sufficient;
 EV  IPR000182; PF00583; sufficient;
 --
 SN  15
-ID  N-terminal threonine Nalpha-acetyltransferase
-DN  N-terminal threonine Nalpha-acetyltransferase (EC 2.3.1.255)
+ID  N-terminal threonine N-alpha-acetyltransferase
+DN  N-terminal threonine N-alpha-acetyltransferase (EC 2.3.1.255)
 RQ  1
 EV  IPR019734; PF13181; sufficient;
 EV  IPR021183; PF12569; sufficient;
