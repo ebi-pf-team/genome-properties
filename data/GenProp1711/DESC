@@ -1,0 +1,75 @@
+AC  GenProp1711
+DE  Molybdenum cofactor biosynthesis
+TP  PATHWAY
+AU  Caspi R
+TH  6
+DC  Molybdenum cofactor biosynthesis
+DR  MetaCyc; PWY-6823;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Molybdopterin-synthase adenylyltransferase
+DN  Molybdopterin-synthase adenylyltransferase (EC 2.7.7.80)
+RQ  1
+EV  IPR000594; PF00899; sufficient;
+EV  IPR012730; TIGR02355; sufficient;
+EV  IPR001763; PF00581; sufficient;
+--
+SN  2
+ID  Molybdopterin synthase sulfurtransferase
+DN  Molybdopterin synthase sulfurtransferase (EC 2.8.1.11)
+RQ  1
+EV  IPR000594; PF00899; sufficient;
+EV  IPR001763; PF00581; sufficient;
+--
+SN  3
+ID  Cyclic pyranopterin monophosphate synthase
+DN  Cyclic pyranopterin monophosphate synthase (EC 4.6.1.17)
+RQ  1
+EV  IPR002820; PF01967; sufficient;
+EV  IPR023045; TIGR00581; sufficient;
+--
+SN  4
+ID  GTP 3',8'-cyclase
+DN  GTP 3',8'-cyclase (EC 4.1.99.22)
+RQ  1
+EV  IPR007197; PF04055; sufficient;
+EV  IPR010505; PF06463; sufficient;
+EV  IPR013483; TIGR02666; sufficient;
+--
+SN  5
+ID  Molybdopterin synthase
+DN  Molybdopterin synthase (EC 2.8.1.12)
+RQ  1
+EV  IPR003448; PF02391; sufficient;
+EV  IPR003749; PF02597; sufficient;
+EV  IPR010034; TIGR01682; sufficient;
+--
+SN  6
+ID  Molybdopterin adenylyltransferase
+DN  Molybdopterin adenylyltransferase (EC 2.7.7.75)
+RQ  1
+EV  IPR001453; PF00994; sufficient;
+EV  IPR001453; TIGR00177; sufficient;
+EV  IPR005110; PF03453; sufficient;
+EV  IPR005111; PF03454; sufficient;
+--
+SN  7
+ID  Molybdopterin molybdotransferase
+DN  Molybdopterin molybdotransferase (EC 2.10.1.1)
+RQ  1
+EV  IPR001453; PF00994; sufficient;
+EV  IPR001453; TIGR00177; sufficient;
+EV  IPR005110; PF03453; sufficient;
+EV  IPR005111; PF03454; sufficient;
+--
+SN  8
+ID  Cysteine desulfurase
+DN  Cysteine desulfurase
+RQ  1
+EV  IPR000192; PF00266; sufficient;
+EV  IPR010240; TIGR02006; sufficient;
+//

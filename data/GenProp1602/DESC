@@ -1,0 +1,41 @@
+AC  GenProp1602
+DE  PreQ0 biosynthesis
+TP  PATHWAY
+AU  Caspi R, Keseler I
+TH  2
+DC  PreQ0 biosynthesis
+DR  MetaCyc; PWY-6703;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  GTP cyclohydrolase
+DN  GTP cyclohydrolase (EC 3.5.4.16)
+RQ  1
+EV  IPR001474; TIGR00063; sufficient;
+EV  IPR020602; PF01227; sufficient;
+--
+SN  2
+ID  7-Cyano-7-deazaguanine synthase
+DN  7-Cyano-7-deazaguanine synthase (EC 6.3.4.20)
+RQ  1
+EV  IPR018317; PF06508; sufficient;
+EV  IPR018317; TIGR00364; sufficient;
+--
+SN  3
+ID  6-Carboxy-5,6,7,8-tetrahydropterin synthase
+DN  6-Carboxy-5,6,7,8-tetrahydropterin synthase (EC 4.1.2.50)
+RQ  1
+EV  IPR007115; PF01242; sufficient;
+EV  IPR007115; TIGR00039; sufficient;
+EV  IPR007115; TIGR03367; sufficient;
+--
+SN  4
+ID  7-Carboxy-7-deazaguanine synthase
+DN  7-Carboxy-7-deazaguanine synthase (EC 4.3.99.3)
+RQ  1
+EV  IPR007197; PF04055; sufficient;
+EV  IPR017742; TIGR03365; sufficient;
+//

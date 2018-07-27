@@ -1,0 +1,27 @@
+AC  GenProp1670
+DE  Di-trans,poly-cis-undecaprenyl phosphate biosynthesis
+TP  PATHWAY
+AU  Caspi R
+
+DC  Di-trans,poly-cis-undecaprenyl phosphate biosynthesis
+DR  MetaCyc; PWY-5785;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Di-trans,poly-cis-decaprenyl diphosphate:isopentenyl-diphosphate undecaprenylcistransferase
+DN  Di-trans,poly-cis-decaprenyl diphosphate:isopentenyl-diphosphate undecaprenylcistransferase (EC 2.5.1.31)
+RQ  1
+EV  IPR001441; PF01255; sufficient;
+EV  IPR001441; TIGR00055; sufficient;
+--
+SN  2
+ID  Undecaprenyl pyrophosphate phosphatase
+DN  Undecaprenyl pyrophosphate phosphatase (EC 3.6.1.27)
+RQ  1
+EV  IPR003824; PF02673; sufficient;
+EV  IPR003824; TIGR00753; sufficient;
+EV  IPR000326; PF01569; sufficient;
+//

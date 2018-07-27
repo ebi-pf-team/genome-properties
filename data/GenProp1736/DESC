@@ -1,0 +1,42 @@
+AC  GenProp1736
+DE  NADH repair
+TP  PATHWAY
+AU  Caspi R
+TH  2
+DC  NADH repair
+DR  MetaCyc; PWY-6938;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  ATP-dependent NADH-hydrate dehydratase
+DN  ATP-dependent NADH-hydrate dehydratase (EC 4.2.1.93)
+RQ  1
+EV  IPR000631; PF01256; sufficient;
+EV  IPR000631; TIGR00196; sufficient;
+--
+SN  2
+ID  NADHX epimerase
+DN  NADHX epimerase (EC 5.1.99.6)
+RQ  1
+EV  IPR004443; PF03853; sufficient;
+EV  IPR004443; TIGR00197; sufficient;
+--
+SN  3
+ID  NADH hydratase
+DN  NADH hydratase
+RQ  1
+EV  IPR006424; TIGR01534; sufficient;
+EV  IPR020828; PF00044; sufficient;
+EV  IPR020829; PF02800; sufficient;
+--
+SN  4
+ID  NADH hydratase
+DN  NADH hydratase
+RQ  1
+EV  IPR006424; TIGR01534; sufficient;
+EV  IPR020828; PF00044; sufficient;
+EV  IPR020829; PF02800; sufficient;
+//

@@ -1,0 +1,32 @@
+AC  GenProp1593
+DE  Staphyloferrin A biosynthesis
+TP  PATHWAY
+AU  Caspi R
+TH  1
+DC  Staphyloferrin A biosynthesis
+DR  MetaCyc; PWY-7990;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Ornithine racemase
+DN  Ornithine racemase (EC 5.1.1.12)
+RQ  1
+EV  IPR001608; PF01168; sufficient;
+--
+SN  2
+ID  Staphyloferrin A synthase
+DN  Staphyloferrin A synthase (EC 6.3.2)
+RQ  1
+EV  IPR007310; PF04183; sufficient;
+EV  IPR022770; PF06276; sufficient;
+--
+SN  3
+ID  D-ornithine--citrate ligase
+DN  D-ornithine--citrate ligase (EC 6.3.2)
+RQ  1
+EV  IPR007310; PF04183; sufficient;
+EV  IPR022770; PF06276; sufficient;
+//

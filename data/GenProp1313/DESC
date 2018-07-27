@@ -1,0 +1,38 @@
+AC  GenProp1313
+DE  TRNA-uridine 2-thiolation (mammalian mitochondria)
+TP  PATHWAY
+AU  Caspi R
+TH  2
+DC  TRNA-uridine 2-thiolation (mammalian mitochondria)
+DR  MetaCyc; PWY-7889;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  TRNA 2-thiouridylase
+DN  TRNA 2-thiouridylase (EC 2.8.1.14)
+RQ  1
+EV  IPR004506; TIGR00420; sufficient;
+--
+SN  2
+ID  5-Taurinomethyluridine-[tRNA] synthase
+DN  5-Taurinomethyluridine-[tRNA] synthase
+RQ  1
+EV  IPR002218; PF01134; sufficient;
+EV  IPR026904; PF13932; sufficient;
+--
+SN  3
+ID  Cysteine desulfurase:TUM1 sulfurtransferase
+DN  Cysteine desulfurase:TUM1 sulfurtransferase (EC 2.8.1)
+RQ  1
+EV  IPR001763; PF00581; sufficient;
+--
+SN  4
+ID  Cysteine desulfurase
+DN  Cysteine desulfurase
+RQ  1
+EV  IPR000192; PF00266; sufficient;
+EV  IPR010240; TIGR02006; sufficient;
+//

@@ -1,0 +1,39 @@
+AC  GenProp1348
+DE  2-Oxoglutarate decarboxylation to succinyl-CoA
+TP  PATHWAY
+AU  Caspi R
+TH  1
+DC  2-Oxoglutarate decarboxylation to succinyl-CoA
+DR  MetaCyc; PWY-5084;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  2-Oxoglutarate decarboxylase
+DN  2-Oxoglutarate decarboxylase (EC 1.2.4.2)
+RQ  1
+EV  IPR001017; PF00676; sufficient;
+EV  IPR005475; PF02779; sufficient;
+EV  IPR011603; TIGR00239; sufficient;
+EV  IPR031717; PF16870; sufficient;
+EV  IPR032106; PF16078; sufficient;
+--
+SN  2
+ID  Dihydrolipoyl dehydrogenase
+DN  Dihydrolipoyl dehydrogenase (EC 1.8.1.4)
+RQ  1
+EV  IPR004099; PF02852; sufficient;
+EV  IPR006258; TIGR01350; sufficient;
+EV  IPR023753; PF07992; sufficient;
+--
+SN  3
+ID  Dihydrolipoyltranssuccinylase
+DN  Dihydrolipoyltranssuccinylase (EC 2.3.1.61)
+RQ  1
+EV  IPR000089; PF00364; sufficient;
+EV  IPR001078; PF00198; sufficient;
+EV  IPR006255; TIGR01347; sufficient;
+EV  IPR004167; PF02817; sufficient;
+//

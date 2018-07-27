@@ -1,0 +1,61 @@
+AC  GenProp1647
+DE  Superpathway of lipopolysaccharide biosynthesis
+TP  PATHWAY
+AU  Sarker M, Johnson A
+TH  5
+DC  Superpathway of lipopolysaccharide biosynthesis
+DR  MetaCyc; LPSSYN-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  3-Deoxy-manno-octulosonate cytidylyltransferase
+DN  3-Deoxy-manno-octulosonate cytidylyltransferase (EC 2.7.7.38)
+RQ  1
+EV  IPR003329; PF02348; sufficient;
+EV  IPR004528; TIGR00466; sufficient;
+--
+SN  2
+ID  Lipid IVA (2-6) 3-deoxy-D-manno-octulosonic acid transferase
+DN  Lipid IVA (2-6) 3-deoxy-D-manno-octulosonic acid transferase (EC 2.4.99.12)
+RQ  1
+EV  IPR001296; PF00534; sufficient;
+EV  IPR007507; PF04413; sufficient;
+--
+SN  3
+ID  KDO transferase
+DN  KDO transferase (EC 2.4.99.13)
+RQ  1
+EV  IPR001296; PF00534; sufficient;
+EV  IPR007507; PF04413; sufficient;
+--
+SN  4
+ID  Lauroyl acyltransferase
+DN  Lauroyl acyltransferase (EC 2.3.1.241)
+RQ  1
+EV  IPR004960; PF03279; sufficient;
+EV  IPR011920; TIGR02207; sufficient;
+--
+SN  5
+ID  Myristoyl-acyl carrier protein-dependent acyltransferase
+DN  Myristoyl-acyl carrier protein-dependent acyltransferase (EC 2.3.1.243)
+RQ  1
+EV  IPR004960; PF03279; sufficient;
+EV  IPR011921; TIGR02208; sufficient;
+--
+SN  6
+ID  ADP-heptose:Kdo2-lipid A heptosyltransferase
+DN  ADP-heptose:Kdo2-lipid A heptosyltransferase (EC 2.4)
+RQ  1
+EV  IPR002201; PF01075; sufficient;
+EV  IPR011908; TIGR02193; sufficient;
+--
+SN  7
+ID  Tetraacyldisaccharide 4'-kinase
+DN  Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130)
+RQ  1
+EV  IPR003758; PF02606; sufficient;
+EV  IPR003758; TIGR00682; sufficient;
+//

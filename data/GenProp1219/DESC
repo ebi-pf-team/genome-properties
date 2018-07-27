@@ -1,0 +1,27 @@
+AC  GenProp1219
+DE  Thiamine salvage I
+TP  PATHWAY
+AU  Caspi R
+
+DC  Thiamine salvage I
+DR  MetaCyc; PWY-6896;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Thiamine-monophosphate kinase
+DN  Thiamine-monophosphate kinase (EC 2.7.4.16)
+RQ  1
+EV  IPR006283; TIGR01379; sufficient;
+EV  IPR010918; PF02769; sufficient;
+EV  IPR016188; PF00586; sufficient;
+--
+SN  2
+ID  Thiamine kinase
+DN  Thiamine kinase (EC 2.7.1.89)
+RQ  1
+EV  IPR002575; PF01636; sufficient;
+EV  IPR014093; TIGR02721; sufficient;
+//

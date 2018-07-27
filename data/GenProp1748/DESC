@@ -1,0 +1,48 @@
+AC  GenProp1748
+DE  Phosphopantothenate biosynthesis I
+TP  PATHWAY
+AU  Foerster H, Keseler I, Arnaud M
+TH  2
+DC  Phosphopantothenate biosynthesis I
+DR  MetaCyc; PANTO-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  2-Dehydropantoate 2-reductase
+DN  2-Dehydropantoate 2-reductase (EC 1.1.1.169)
+RQ  1
+EV  IPR003710; TIGR00745; sufficient;
+EV  IPR013332; PF02558; sufficient;
+EV  IPR013752; PF08546; sufficient;
+EV  IPR000506; PF01450; sufficient;
+EV  IPR013023; TIGR00465; sufficient;
+EV  IPR013116; PF07991; sufficient;
+--
+SN  2
+ID  Ketopantoate hydroxymethyltransferase
+DN  Ketopantoate hydroxymethyltransferase (EC 2.1.2.11)
+RQ  1
+EV  IPR003700; PF02548; sufficient;
+EV  IPR003700; TIGR00222; sufficient;
+--
+SN  3
+ID  Pantoate beta-alanine ligase
+DN  Pantoate beta-alanine ligase (EC 6.3.2.1)
+RQ  1
+EV  IPR003721; PF02569; sufficient;
+EV  IPR003721; TIGR00018; sufficient;
+EV  IPR004821; TIGR00125; sufficient;
+--
+SN  4
+ID  Pantothenate kinase
+DN  Pantothenate kinase (EC 2.7.1.33)
+RQ  1
+EV  IPR002791; PF01937; sufficient;
+EV  IPR004567; PF03630; sufficient;
+EV  IPR004567; TIGR00555; sufficient;
+EV  IPR004566; TIGR00554; sufficient;
+EV  IPR006083; PF00485; sufficient;
+//

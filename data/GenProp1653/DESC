@@ -1,0 +1,52 @@
+AC  GenProp1653
+DE  Leukotriene biosynthesis
+TP  PATHWAY
+AU  Trupp M
+TH  4
+DC  Leukotriene biosynthesis
+DR  MetaCyc; PWY66-375;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Arachidonate 5-lipoxygenase
+DN  Arachidonate 5-lipoxygenase
+RQ  1
+EV  IPR001024; PF01477; sufficient;
+EV  IPR013819; PF00305; sufficient;
+--
+SN  2
+ID  Leukotriene A-4 hydrolase
+DN  Leukotriene A-4 hydrolase (EC 3.3.2.6)
+RQ  1
+EV  IPR012777; TIGR02411; sufficient;
+EV  IPR014782; PF01433; sufficient;
+EV  IPR015211; PF09127; sufficient;
+--
+SN  3
+ID  Leukotriene C4 synthase
+DN  Leukotriene C4 synthase (EC 4.4.1.20)
+RQ  1
+EV  IPR001129; PF01124; sufficient;
+--
+SN  4
+ID  (6E,8Z,11Z,14Z)-(5S)-5-hydroperoxyicosa-6,8,11,14-tetraenoate dehydratase
+DN  (6E,8Z,11Z,14Z)-(5S)-5-hydroperoxyicosa-6,8,11,14-tetraenoate dehydratase
+RQ  1
+EV  IPR001024; PF01477; sufficient;
+EV  IPR013819; PF00305; sufficient;
+--
+SN  5
+ID  Leukotriene-C4 gamma-glutamyl transferase
+DN  Leukotriene-C4 gamma-glutamyl transferase (EC 2.3.2.2)
+RQ  1
+EV  IPR000101; PF01019; sufficient;
+--
+SN  6
+ID  LTD4 dipeptidase
+DN  LTD4 dipeptidase (EC 3.4.13.19)
+RQ  1
+EV  IPR008257; PF01244; sufficient;
+//

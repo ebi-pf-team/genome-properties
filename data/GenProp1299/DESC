@@ -1,0 +1,27 @@
+AC  GenProp1299
+DE  2-O-alpha-mannosyl-D-glycerate degradation
+TP  PATHWAY
+AU  Johnson A
+
+DC  2-O-alpha-mannosyl-D-glycerate degradation
+DR  MetaCyc; PWY0-1300;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Glycerate 2-kinase
+DN  Glycerate 2-kinase (EC 2.7.1.165)
+RQ  1
+EV  IPR004381; PF02595; sufficient;
+EV  IPR004381; TIGR00045; sufficient;
+--
+SN  2
+ID  2-O-(6-phospho-alpha-mannosyl)-D-glycerate hydrolase
+DN  2-O-(6-phospho-alpha-mannosyl)-D-glycerate hydrolase (EC 3.2.1)
+RQ  1
+EV  IPR000602; PF01074; sufficient;
+EV  IPR011682; PF07748; sufficient;
+EV  IPR015341; PF09261; sufficient;
+//

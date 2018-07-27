@@ -1,0 +1,27 @@
+AC  GenProp1457
+DE  Thiamine diphosphate biosynthesis I (E. coli)
+TP  PATHWAY
+AU  Caspi R
+
+DC  Thiamine diphosphate biosynthesis I (E. coli)
+DR  MetaCyc; PWY-6894;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Thiamin phosphate synthase
+DN  Thiamin phosphate synthase (EC 2.5.1.3)
+RQ  1
+EV  IPR003733; PF02581; sufficient;
+EV  IPR003733; TIGR00693; sufficient;
+--
+SN  2
+ID  Thiamine-monophosphate kinase
+DN  Thiamine-monophosphate kinase (EC 2.7.4.16)
+RQ  1
+EV  IPR006283; TIGR01379; sufficient;
+EV  IPR010918; PF02769; sufficient;
+EV  IPR016188; PF00586; sufficient;
+//

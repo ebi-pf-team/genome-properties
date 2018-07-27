@@ -1,0 +1,41 @@
+AC  GenProp1514
+DE  D-glucarate degradation I
+TP  PATHWAY
+AU  Keseler I, Riley M
+TH  2
+DC  D-glucarate degradation I
+DR  MetaCyc; GLUCARDEG-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Glycerate 2-kinase
+DN  Glycerate 2-kinase (EC 2.7.1.165)
+RQ  1
+EV  IPR004381; PF02595; sufficient;
+EV  IPR004381; TIGR00045; sufficient;
+--
+SN  2
+ID  D-glucarate dehydratase
+DN  D-glucarate dehydratase (EC 4.2.1.40)
+RQ  1
+EV  IPR017653; TIGR03247; sufficient;
+EV  IPR029065; PF13378; sufficient;
+--
+SN  3
+ID  Alpha-dehydro-beta-deoxy-D-glucarate aldolase
+DN  Alpha-dehydro-beta-deoxy-D-glucarate aldolase (EC 4.1.2.20)
+RQ  1
+EV  IPR005000; PF03328; sufficient;
+EV  IPR017648; TIGR03239; sufficient;
+--
+SN  4
+ID  Tartronate semialdehyde reductase
+DN  Tartronate semialdehyde reductase (EC 1.1.1.60)
+RQ  1
+EV  IPR006115; PF03446; sufficient;
+EV  IPR006398; TIGR01505; sufficient;
+EV  IPR029154; PF14833; sufficient;
+//

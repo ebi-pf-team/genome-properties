@@ -1,0 +1,35 @@
+AC  GenProp1627
+DE  Cardiolipin biosynthesis I
+TP  PATHWAY
+AU  Caspi R
+TH  1
+DC  Cardiolipin biosynthesis I
+DR  MetaCyc; PWY-5668;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Cardiolipin synthase
+DN  Cardiolipin synthase (EC 2.7.8)
+RQ  1
+EV  IPR022924; TIGR04265; sufficient;
+EV  IPR025202; PF13091; sufficient;
+EV  IPR027379; PF13396; sufficient;
+--
+SN  2
+ID  Phosphatidylglycerolphosphate phosphatase
+DN  Phosphatidylglycerolphosphate phosphatase (EC 3.1.3.27)
+RQ  1
+EV  IPR000326; PF01569; sufficient;
+EV  IPR006435; TIGR01545; sufficient;
+EV  IPR007686; PF04608; sufficient;
+--
+SN  3
+ID  Phosphatidylglycerolphosphate synthase
+DN  Phosphatidylglycerolphosphate synthase (EC 2.7.8.5)
+RQ  1
+EV  IPR000462; PF01066; sufficient;
+EV  IPR004570; TIGR00560; sufficient;
+//

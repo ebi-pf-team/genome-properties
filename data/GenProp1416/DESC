@@ -1,0 +1,26 @@
+AC  GenProp1416
+DE  Allantoin degradation to glyoxylate III
+TP  PATHWAY
+AU  Caspi R
+
+DC  Allantoin degradation to glyoxylate III
+DR  MetaCyc; PWY-5705;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Ureidoglycolate urea-lyase
+DN  Ureidoglycolate urea-lyase (EC 4.3.2.3)
+RQ  1
+EV  IPR007247; PF04115; sufficient;
+--
+SN  2
+ID  Ureidoglycine aminohydrolase
+DN  Ureidoglycine aminohydrolase (EC 3.5.3.26)
+RQ  1
+EV  IPR008579; PF05899; sufficient;
+EV  IPR013096; PF07883; sufficient;
+EV  IPR017627; TIGR03214; sufficient;
+//

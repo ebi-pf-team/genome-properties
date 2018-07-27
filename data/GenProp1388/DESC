@@ -1,0 +1,26 @@
+AC  GenProp1388
+DE  Pterostilbene biosynthesis
+TP  PATHWAY
+AU  Pujar A
+
+DC  Pterostilbene biosynthesis
+DR  MetaCyc; PWY-6665;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Resveratrol O-methyltransferase
+DN  Resveratrol O-methyltransferase
+RQ  1
+EV  IPR001077; PF00891; sufficient;
+EV  IPR012967; PF08100; sufficient;
+--
+SN  2
+ID  3-Methoxy-4',5-dihydroxy-trans-stilbene methyltransferase
+DN  3-Methoxy-4',5-dihydroxy-trans-stilbene methyltransferase
+RQ  1
+EV  IPR001077; PF00891; sufficient;
+EV  IPR012967; PF08100; sufficient;
+//

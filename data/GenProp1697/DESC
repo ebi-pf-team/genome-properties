@@ -1,0 +1,24 @@
+AC  GenProp1697
+DE  Thiazole biosynthesis III (eukaryotes)
+TP  PATHWAY
+AU  Foerster H, Caspi R
+
+DC  Thiazole biosynthesis III (eukaryotes)
+DR  MetaCyc; PWY-6909;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Thiazole synthase (eucaryotic)
+DN  Thiazole synthase (eucaryotic)
+RQ  1
+EV  IPR002922; TIGR00292; sufficient;
+--
+SN  2
+ID  4-Methyl-5-(beta-hydroxyethyl)thiazole phosphate synthase
+DN  4-Methyl-5-(beta-hydroxyethyl)thiazole phosphate synthase
+RQ  1
+EV  IPR002922; TIGR00292; sufficient;
+//

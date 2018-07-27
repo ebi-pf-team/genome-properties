@@ -1,0 +1,66 @@
+AC  GenProp1547
+DE  Anthocyanidin modification (Arabidopsis)
+TP  PATHWAY
+AU  Foerster H
+TH  7
+DC  Anthocyanidin modification (Arabidopsis)
+DR  MetaCyc; PWY-7450;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Cyanidin 3-O-glucoside 2''-O-xylosyltransferase
+DN  Cyanidin 3-O-glucoside 2''-O-xylosyltransferase (EC 2.4.2.51)
+RQ  1
+EV  IPR002213; PF00201; sufficient;
+--
+SN  2
+ID  Cyanidin 3-O-glucoside-p-coumaroyltransferase
+DN  Cyanidin 3-O-glucoside-p-coumaroyltransferase (EC 2.3.1)
+RQ  1
+EV  IPR003480; PF02458; sufficient;
+--
+SN  3
+ID  Cyanidin 3-O-p-coumaroylglucoside 2-O-xylosyltransferase
+DN  Cyanidin 3-O-p-coumaroylglucoside 2-O-xylosyltransferase (EC 2.4.2)
+RQ  1
+EV  IPR002213; PF00201; sufficient;
+--
+SN  4
+ID  Cyanidin 3-O-sambubioside 6''-O-p-coumaroyltransferase
+DN  Cyanidin 3-O-sambubioside 6''-O-p-coumaroyltransferase (EC 2.3.1)
+RQ  1
+EV  IPR003480; PF02458; sufficient;
+--
+SN  5
+ID  Cyanidin 3-O-[2-O-(xylosyl)-6-O-(p-coumaroyl) glucoside] 5-O-glucosyltransferase
+DN  Cyanidin 3-O-[2-O-(xylosyl)-6-O-(p-coumaroyl) glucoside] 5-O-glucosyltransferase (EC 2.4.1)
+RQ  1
+EV  IPR002213; PF00201; sufficient;
+--
+SN  6
+ID  Cyanidin 3-O-[2-O-(xylosyl)-6-O-(p-coumaroyl) glucoside] 5-O-glucoside malonyltransferase
+DN  Cyanidin 3-O-[2-O-(xylosyl)-6-O-(p-coumaroyl) glucoside] 5-O-glucoside malonyltransferase (EC 2.3.1)
+RQ  1
+EV  IPR003480; PF02458; sufficient;
+--
+SN  7
+ID  Cyanidin 3-O-[2-O-(2'-O-(sinapoyl) xylosyl) 6-O-(p-coumaroyl) glucoside] 5-O-[6-O-(malonyl) glucoside] sinapoyltransferase
+DN  Cyanidin 3-O-[2-O-(2'-O-(sinapoyl) xylosyl) 6-O-(p-coumaroyl) glucoside] 5-O-[6-O-(malonyl) glucoside] sinapoyltransferase (EC 2.3.1)
+RQ  1
+EV  IPR001563; PF00450; sufficient;
+--
+SN  8
+ID  Cyanidin 3-O-[2-O-(2'-O-(sinapoyl) xylosyl) 6-O-(p-O-(glucosyl)-p-coumaroyl) glucoside] 5-O-[6-O-(malonyl) glucoside] acylglucose glucosyltransferase
+DN  Cyanidin 3-O-[2-O-(2'-O-(sinapoyl) xylosyl) 6-O-(p-O-(glucosyl)-p-coumaroyl) glucoside] 5-O-[6-O-(malonyl) glucoside] acylglucose glucosyltransferase (EC 2.4.1)
+RQ  1
+EV  IPR001360; PF00232; sufficient;
+--
+SN  9
+ID  Cyanidin 3-O-glucosyltransferase
+DN  Cyanidin 3-O-glucosyltransferase (EC 2.4.1.115)
+RQ  1
+EV  IPR002213; PF00201; sufficient;
+//

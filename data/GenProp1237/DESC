@@ -1,0 +1,27 @@
+AC  GenProp1237
+DE  Lipoate biosynthesis and incorporation I
+TP  PATHWAY
+AU  Caspi R, Arnaud M
+
+DC  Lipoate biosynthesis and incorporation I
+DR  MetaCyc; PWY0-501;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  LIPoyl ligase 2
+DN  LIPoyl ligase 2 (EC 2.3.1.181)
+RQ  1
+EV  IPR000544; TIGR00214; sufficient;
+EV  IPR004143; PF03099; sufficient;
+--
+SN  2
+ID  Lipoyl synthase
+DN  Lipoyl synthase (EC 2.8.1.8)
+RQ  1
+EV  IPR003698; TIGR00510; sufficient;
+EV  IPR007197; PF04055; sufficient;
+EV  IPR031691; PF16881; sufficient;
+//

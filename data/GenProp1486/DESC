@@ -1,0 +1,27 @@
+AC  GenProp1486
+DE  Oleate beta-oxidation
+TP  PATHWAY
+AU  Keseler I
+
+DC  Oleate beta-oxidation
+DR  MetaCyc; PWY0-1337;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Acyl-CoA thioesterase
+DN  Acyl-CoA thioesterase (EC 3.1.2)
+RQ  1
+EV  IPR006684; TIGR00051; sufficient;
+--
+SN  2
+ID  Delta3-cis-Delta2-trans-enoyl-CoA isomerase
+DN  Delta3-cis-Delta2-trans-enoyl-CoA isomerase (EC 5.3.3.8)
+RQ  1
+EV  IPR001753; PF00378; sufficient;
+EV  IPR006108; PF00725; sufficient;
+EV  IPR006176; PF02737; sufficient;
+EV  IPR012799; TIGR02437; sufficient;
+//

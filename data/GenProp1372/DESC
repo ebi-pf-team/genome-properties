@@ -1,0 +1,36 @@
+AC  GenProp1372
+DE  Adenosine ribonucleotides de novo biosynthesis
+TP  PATHWAY
+AU  Caspi R
+TH  1
+DC  Adenosine ribonucleotides de novo biosynthesis
+DR  MetaCyc; PWY-7219;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  AMP kinase
+DN  AMP kinase (EC 2.7.4.3)
+RQ  1
+EV  IPR006259; TIGR01351; sufficient;
+EV  IPR007862; PF05191; sufficient;
+EV  IPR006267; TIGR01360; sufficient;
+--
+SN  2
+ID  Adenylosuccinate synthase
+DN  Adenylosuccinate synthase (EC 6.3.4.4)
+RQ  1
+EV  IPR001114; PF00709; sufficient;
+EV  IPR001114; TIGR00184; sufficient;
+--
+SN  3
+ID  Adenylosuccinate lyase
+DN  Adenylosuccinate lyase (EC 4.3.2.2)
+RQ  1
+EV  IPR004769; TIGR00928; sufficient;
+EV  IPR013539; PF08328; sufficient;
+EV  IPR022761; PF00206; sufficient;
+EV  IPR019468; PF10397; sufficient;
+//

@@ -1,0 +1,28 @@
+AC  GenProp1399
+DE  Superpathway of L-cysteine biosynthesis (mammalian)
+TP  PATHWAY
+AU  Caspi R
+
+DC  Superpathway of L-cysteine biosynthesis (mammalian)
+DR  MetaCyc; PWY-6292;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  S-adenosylhomocysteine hydrolase
+DN  S-adenosylhomocysteine hydrolase (EC 3.3.1.1)
+RQ  1
+EV  IPR000043; PF05221; sufficient;
+EV  IPR000043; TIGR00936; sufficient;
+EV  IPR015878; PF00670; sufficient;
+--
+SN  2
+ID  Cystathionine beta-synthase
+DN  Cystathionine beta-synthase (EC 4.2.1.22)
+RQ  1
+EV  IPR000644; PF00571; sufficient;
+EV  IPR001926; PF00291; sufficient;
+EV  IPR005857; TIGR01137; sufficient;
+//

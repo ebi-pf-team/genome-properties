@@ -1,0 +1,67 @@
+AC  GenProp1744
+DE  Ubiquinol-8 biosynthesis (prokaryotic)
+TP  PATHWAY
+AU  Caspi R
+TH  6
+DC  Ubiquinol-8 biosynthesis (prokaryotic)
+DR  MetaCyc; PWY-6708;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  2-Octaprenyl-6-methoxyphenol hydroxylase
+DN  2-Octaprenyl-6-methoxyphenol hydroxylase (EC 1.14.13.M56)
+RQ  1
+EV  IPR002938; PF01494; sufficient;
+EV  IPR010971; TIGR01988; sufficient;
+EV  IPR011295; TIGR01984; sufficient;
+--
+SN  2
+ID  2-Octaprenyl-6-hydroxyphenyl methylase
+DN  2-Octaprenyl-6-hydroxyphenyl methylase (EC 2.1.1.222)
+RQ  1
+EV  IPR010233; TIGR01983; sufficient;
+--
+SN  3
+ID  2-Octaprenyl-6-methoxy-1,4-benzoquinone methylase
+DN  2-Octaprenyl-6-methoxy-1,4-benzoquinone methylase (EC 2.1.1.201)
+RQ  1
+EV  IPR004033; PF01209; sufficient;
+EV  IPR004033; TIGR01934; sufficient;
+--
+SN  4
+ID  2-Octaprenylphenol hydroxylase
+DN  2-Octaprenylphenol hydroxylase
+RQ  1
+EV  IPR002938; PF01494; sufficient;
+EV  IPR010971; TIGR01988; sufficient;
+--
+SN  5
+ID  3-Octaprenyl-4-hydroxybenzoate decarboxylase
+DN  3-Octaprenyl-4-hydroxybenzoate decarboxylase (EC 4.1.1.98)
+RQ  1
+EV  IPR002830; PF01977; sufficient;
+EV  IPR002830; TIGR00148; sufficient;
+--
+SN  6
+ID  4-Hydroxybenzoate octaprenyltransferase
+DN  4-Hydroxybenzoate octaprenyltransferase (EC 2.5.1.39)
+RQ  1
+EV  IPR000537; PF01040; sufficient;
+EV  IPR006370; TIGR01474; sufficient;
+--
+SN  7
+ID  3-Demethylubiquinone-8 3-O-methyltransferase
+DN  3-Demethylubiquinone-8 3-O-methyltransferase (EC 2.1.1.64)
+RQ  1
+EV  IPR010233; TIGR01983; sufficient;
+--
+SN  8
+ID  5-Demethoxyubiquinol-8 5-hydroxylase
+DN  5-Demethoxyubiquinol-8 5-hydroxylase
+RQ  1
+EV  IPR002938; PF01494; sufficient;
+EV  IPR010971; TIGR01988; sufficient;
+//

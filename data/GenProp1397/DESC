@@ -1,0 +1,26 @@
+AC  GenProp1397
+DE  (Kdo)2-lipid A biosynthesis I
+TP  PATHWAY
+AU  Johnson A
+
+DC  (Kdo)2-lipid A biosynthesis I
+DR  MetaCyc; KDO-LIPASYN-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Lauroyl acyltransferase
+DN  Lauroyl acyltransferase (EC 2.3.1.241)
+RQ  1
+EV  IPR004960; PF03279; sufficient;
+EV  IPR011920; TIGR02207; sufficient;
+--
+SN  2
+ID  Myristoyl-acyl carrier protein-dependent acyltransferase
+DN  Myristoyl-acyl carrier protein-dependent acyltransferase (EC 2.3.1.243)
+RQ  1
+EV  IPR004960; PF03279; sufficient;
+EV  IPR011921; TIGR02208; sufficient;
+//

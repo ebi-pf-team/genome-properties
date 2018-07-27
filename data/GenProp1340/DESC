@@ -1,0 +1,25 @@
+AC  GenProp1340
+DE  5-(Carboxymethoxy)uridine biosynthesis
+TP  PATHWAY
+AU  Keseler I
+
+DC  5-(Carboxymethoxy)uridine biosynthesis
+DR  MetaCyc; PWY0-1554;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Carboxy-S-adenosyl-L-methionine synthase
+DN  Carboxy-S-adenosyl-L-methionine synthase
+RQ  1
+EV  IPR005271; TIGR00740; sufficient;
+--
+SN  2
+ID  TRNA U34 carboxymethyltransferase
+DN  TRNA U34 carboxymethyltransferase
+RQ  1
+EV  IPR010017; TIGR00452; sufficient;
+EV  IPR027555; PF08003; sufficient;
+//

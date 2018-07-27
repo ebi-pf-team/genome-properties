@@ -1,0 +1,37 @@
+AC  GenProp1543
+DE  Pyruvate fermentation to acetate IV
+TP  PATHWAY
+AU  Caspi R
+TH  1
+DC  Pyruvate fermentation to acetate IV
+DR  MetaCyc; PWY-5485;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Acetate kinase
+DN  Acetate kinase (EC 2.7.2.1)
+RQ  1
+EV  IPR000890; PF00871; sufficient;
+EV  IPR004372; TIGR00016; sufficient;
+EV  IPR003135; PF02222; sufficient;
+EV  IPR005862; TIGR01142; sufficient;
+--
+SN  2
+ID  Phosphotransacetylase
+DN  Phosphotransacetylase (EC 2.3.1.8)
+RQ  1
+EV  IPR002505; PF01515; sufficient;
+EV  IPR004614; TIGR00651; sufficient;
+EV  IPR010766; PF07085; sufficient;
+--
+SN  3
+ID  Pyruvate formate lyase
+DN  Pyruvate formate lyase (EC 2.3.1.54)
+RQ  1
+EV  IPR001150; PF01228; sufficient;
+EV  IPR004184; PF02901; sufficient;
+EV  IPR005949; TIGR01255; sufficient;
+//

@@ -1,0 +1,49 @@
+AC  GenProp1591
+DE  Heme degradation I
+TP  PATHWAY
+AU  Caspi R
+TH  4
+DC  Heme degradation I
+DR  MetaCyc; PWY-5874;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Biliverdin reductase
+DN  Biliverdin reductase (EC 1.3.1.24)
+RQ  1
+EV  IPR000683; PF01408; sufficient;
+EV  IPR015249; PF09166; sufficient;
+--
+SN  2
+ID  Heme oxygenase
+DN  Heme oxygenase (EC 1.14.14.18)
+RQ  1
+EV  IPR016053; PF01126; sufficient;
+--
+SN  3
+ID  Bilirubin glucuronosyltransferase (C8 isomer-forming)
+DN  Bilirubin glucuronosyltransferase (C8 isomer-forming) (EC 2.4.1.17)
+RQ  1
+EV  IPR002213; PF00201; sufficient;
+--
+SN  4
+ID  Bilirubin glucuronosyltransferase (C12 isomer-forming)
+DN  Bilirubin glucuronosyltransferase (C12 isomer-forming) (EC 2.4.1.17)
+RQ  1
+EV  IPR002213; PF00201; sufficient;
+--
+SN  5
+ID  Bilirubin glucuronoside glucuronosyltransferase
+DN  Bilirubin glucuronoside glucuronosyltransferase (EC 2.4.1.17)
+RQ  1
+EV  IPR002213; PF00201; sufficient;
+--
+SN  6
+ID  Bilirubin glucuronoside glucuronosyltransferase
+DN  Bilirubin glucuronoside glucuronosyltransferase (EC 2.4.1.17)
+RQ  1
+EV  IPR002213; PF00201; sufficient;
+//

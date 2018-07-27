@@ -1,0 +1,42 @@
+AC  GenProp1538
+DE  Superpathway of aromatic amino acid biosynthesis
+TP  PATHWAY
+AU  N/A
+TH  1
+DC  Superpathway of aromatic amino acid biosynthesis
+DR  MetaCyc; COMPLETE-ARO-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Anthranilate synthase
+DN  Anthranilate synthase (EC 4.1.3.27)
+RQ  1
+EV  IPR005257; TIGR00565; sufficient;
+EV  IPR006805; PF04715; sufficient;
+EV  IPR015890; PF00425; sufficient;
+EV  IPR000312; PF00591; sufficient;
+EV  IPR005940; TIGR01245; sufficient;
+EV  IPR006221; TIGR00566; sufficient;
+EV  IPR017459; PF02885; sufficient;
+EV  IPR017926; PF00117; sufficient;
+--
+SN  2
+ID  Chorismate synthase
+DN  Chorismate synthase (EC 4.2.3.5)
+RQ  1
+EV  IPR000453; PF01264; sufficient;
+EV  IPR000453; TIGR00033; sufficient;
+--
+SN  3
+ID  Chorismate mutase
+DN  Chorismate mutase (EC 5.4.99.5)
+RQ  1
+EV  IPR003099; PF02153; sufficient;
+EV  IPR011277; TIGR01799; sufficient;
+EV  IPR020822; PF01817; sufficient;
+EV  IPR001086; PF00800; sufficient;
+EV  IPR010952; TIGR01797; sufficient;
+//

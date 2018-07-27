@@ -1,0 +1,36 @@
+AC  GenProp1613
+DE  Formate assimilation into 5,10-methylenetetrahydrofolate
+TP  PATHWAY
+AU  Caspi R
+TH  1
+DC  Formate assimilation into 5,10-methylenetetrahydrofolate
+DR  MetaCyc; PWY-1722;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Formate--tetrahydrofolate ligase
+DN  Formate--tetrahydrofolate ligase (EC 6.3.4.3)
+RQ  1
+EV  IPR000559; PF01268; sufficient;
+EV  IPR020630; PF00763; sufficient;
+EV  IPR020631; PF02882; sufficient;
+--
+SN  2
+ID  Methenyltetrahydrofolate cyclohydrolase
+DN  Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9)
+RQ  1
+EV  IPR000559; PF01268; sufficient;
+EV  IPR020630; PF00763; sufficient;
+EV  IPR020631; PF02882; sufficient;
+--
+SN  3
+ID  Methylenetetrahydrofolate dehydrogenase
+DN  Methylenetetrahydrofolate dehydrogenase (EC 1.5.1.5)
+RQ  1
+EV  IPR000559; PF01268; sufficient;
+EV  IPR020630; PF00763; sufficient;
+EV  IPR020631; PF02882; sufficient;
+//

@@ -1,0 +1,25 @@
+AC  GenProp1293
+DE  Chitobiose degradation
+TP  PATHWAY
+AU  Keseler I, Johnson A
+
+DC  Chitobiose degradation
+DR  MetaCyc; PWY0-1309;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Chitin disaccharide deacetylase
+DN  Chitin disaccharide deacetylase (EC 3.5.1.105)
+RQ  1
+EV  IPR006879; PF04794; sufficient;
+--
+SN  2
+ID  Monoacetylchitobiose-6-phosphate hydrolase
+DN  Monoacetylchitobiose-6-phosphate hydrolase (EC 3.2.1.86)
+RQ  1
+EV  IPR001088; PF02056; sufficient;
+EV  IPR022616; PF11975; sufficient;
+//

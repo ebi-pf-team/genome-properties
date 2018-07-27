@@ -1,0 +1,26 @@
+AC  GenProp1501
+DE  Allantoin degradation to ureidoglycolate I (urea producing)
+TP  PATHWAY
+AU  Caspi R
+
+DC  Allantoin degradation to ureidoglycolate I (urea producing)
+DR  MetaCyc; PWY-5697;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Allantoicase
+DN  Allantoicase (EC 3.5.3.4)
+RQ  1
+EV  IPR005164; TIGR02961; sufficient;
+EV  IPR015908; PF03561; sufficient;
+--
+SN  2
+ID  Allantoinase
+DN  Allantoinase (EC 3.5.2.5)
+RQ  1
+EV  IPR006680; PF01979; sufficient;
+EV  IPR017593; TIGR03178; sufficient;
+//

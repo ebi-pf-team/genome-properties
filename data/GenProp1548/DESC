@@ -1,0 +1,52 @@
+AC  GenProp1548
+DE  D-myo-inositol (1,4,5)-trisphosphate biosynthesis
+TP  PATHWAY
+AU  Caspi R
+TH  3
+DC  D-myo-inositol (1,4,5)-trisphosphate biosynthesis
+DR  MetaCyc; PWY-6351;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Phosphatidylinositol 4-kinase
+DN  Phosphatidylinositol 4-kinase (EC 2.7.1.67)
+RQ  1
+EV  IPR000403; PF00454; sufficient;
+EV  IPR001263; PF00613; sufficient;
+--
+SN  2
+ID  Phosphatidylinositol-5-phosphate 4-kinase
+DN  Phosphatidylinositol-5-phosphate 4-kinase (EC 2.7.1.149)
+RQ  1
+EV  IPR002498; PF01504; sufficient;
+--
+SN  3
+ID  Phosphatidylinositol-4-phosphate 5-kinase
+DN  Phosphatidylinositol-4-phosphate 5-kinase (EC 2.7.1.68)
+RQ  1
+EV  IPR002498; PF01504; sufficient;
+--
+SN  4
+ID  CDP-diacylglycerol:myo-inositol phosphatidyltransferase
+DN  CDP-diacylglycerol:myo-inositol phosphatidyltransferase (EC 2.7.8.11)
+RQ  1
+EV  IPR000462; PF01066; sufficient;
+--
+SN  5
+ID  1-Phosphatidylinositol-4,5-bisphosphate phosphodiesterase
+DN  1-Phosphatidylinositol-4,5-bisphosphate phosphodiesterase (EC 3.1.4.11)
+RQ  1
+EV  IPR000008; PF00168; sufficient;
+EV  IPR000909; PF00388; sufficient;
+EV  IPR001711; PF00387; sufficient;
+EV  IPR015359; PF09279; sufficient;
+EV  IPR014815; PF08703; sufficient;
+EV  IPR000980; PF00017; sufficient;
+EV  IPR001452; PF00018; sufficient;
+EV  IPR000159; PF00788; sufficient;
+EV  IPR001895; PF00617; sufficient;
+EV  IPR001849; PF00169; sufficient;
+//

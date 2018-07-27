@@ -1,0 +1,32 @@
+AC  GenProp1566
+DE  D-galactonate degradation
+TP  PATHWAY
+AU  Fulcher C, Keseler I, Riley M
+TH  1
+DC  D-galactonate degradation
+DR  MetaCyc; GALACTCAT-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  2-Dehydro-3-deoxygalactonokinase
+DN  2-Dehydro-3-deoxygalactonokinase (EC 2.7.1.58)
+RQ  1
+EV  IPR007729; PF05035; sufficient;
+EV  IPR011611; PF00294; sufficient;
+--
+SN  2
+ID  2-Dehydro-3-deoxy-6-phosphogalactonate aldolase
+DN  2-Dehydro-3-deoxy-6-phosphogalactonate aldolase (EC 4.1.2.21)
+RQ  1
+EV  IPR000887; PF01081; sufficient;
+--
+SN  3
+ID  D-galactonate dehydratase
+DN  D-galactonate dehydratase (EC 4.2.1.6)
+RQ  1
+EV  IPR013341; PF02746; sufficient;
+EV  IPR029065; PF13378; sufficient;
+//

@@ -1,0 +1,39 @@
+AC  GenProp1391
+DE  Glycerol-3-phosphate to fumarate electron transfer
+TP  PATHWAY
+AU  Mackie A
+
+DC  Glycerol-3-phosphate to fumarate electron transfer
+DR  MetaCyc; PWY0-1582;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Fumarate reductase
+DN  Fumarate reductase (EC 1.3.5.4)
+RQ  1
+EV  IPR004489; TIGR00384; sufficient;
+EV  IPR017896; PF13183; sufficient;
+EV  IPR025192; PF13085; sufficient;
+EV  IPR003953; PF00890; sufficient;
+EV  IPR005884; TIGR01176; sufficient;
+EV  IPR014006; TIGR01812; sufficient;
+EV  IPR015939; PF02910; sufficient;
+EV  IPR003510; PF02300; sufficient;
+EV  IPR003418; PF02313; sufficient;
+--
+SN  2
+ID  Glycerol-3-phosphate dehydrogenase, anaerobic
+DN  Glycerol-3-phosphate dehydrogenase, anaerobic (EC 1.1.5.3)
+RQ  1
+EV  IPR006076; PF01266; sufficient;
+EV  IPR007419; PF04324; sufficient;
+EV  IPR017752; TIGR03377; sufficient;
+EV  IPR003953; PF00890; sufficient;
+EV  IPR009158; TIGR03378; sufficient;
+EV  IPR004017; PF02754; sufficient;
+EV  IPR017753; TIGR03379; sufficient;
+EV  IPR017896; PF13183; sufficient;
+//

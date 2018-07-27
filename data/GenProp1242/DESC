@@ -1,0 +1,40 @@
+AC  GenProp1242
+DE  Muropeptide degradation
+TP  PATHWAY
+AU  Keseler I
+TH  2
+DC  Muropeptide degradation
+DR  MetaCyc; PWY0-1546;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Muramoyltetrapeptide carboxypeptidase
+DN  Muramoyltetrapeptide carboxypeptidase (EC 3.4.17.13)
+RQ  1
+EV  IPR003507; PF02016; sufficient;
+EV  IPR000064; PF00877; sufficient;
+--
+SN  2
+ID  L-Ala-D/L-Glu epimerase
+DN  L-Ala-D/L-Glu epimerase (EC 5.1.1.20)
+RQ  1
+EV  IPR013341; PF02746; sufficient;
+EV  IPR029065; PF13378; sufficient;
+--
+SN  3
+ID  Alanylglutamate dipeptidase
+DN  Alanylglutamate dipeptidase (EC 3.4.13.18)
+RQ  1
+EV  IPR001160; TIGR01893; sufficient;
+EV  IPR002933; PF01546; sufficient;
+EV  IPR011650; PF07687; sufficient;
+--
+SN  4
+ID  Murein tripeptide amidase
+DN  Murein tripeptide amidase
+RQ  1
+EV  IPR000834; PF00246; sufficient;
+//

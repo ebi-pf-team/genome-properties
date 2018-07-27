@@ -1,0 +1,77 @@
+AC  GenProp1555
+DE  TRNA-uridine 2-thiolation (bacteria)
+TP  PATHWAY
+AU  Caspi R
+TH  6
+DC  TRNA-uridine 2-thiolation (bacteria)
+DR  MetaCyc; PWY-7892;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  IscS:TusA sulfurtransferase
+DN  IscS:TusA sulfurtransferase (EC 2.8.1)
+RQ  1
+EV  IPR001455; PF01206; sufficient;
+--
+SN  2
+ID  TusD:TusE sulfurtransferase
+DN  TusD:TusE sulfurtransferase (EC 2.8.1)
+RQ  1
+EV  IPR007453; PF04358; sufficient;
+EV  IPR007453; TIGR03342; sufficient;
+--
+SN  3
+ID  TusA:TusD sulfurtransferase
+DN  TusA:TusD sulfurtransferase (EC 2.8.1)
+RQ  1
+EV  IPR007215; PF04077; sufficient;
+EV  IPR007215; TIGR03011; sufficient;
+EV  IPR003787; PF02635; sufficient;
+EV  IPR017462; TIGR03010; sufficient;
+EV  IPR017463; TIGR03012; sufficient;
+--
+SN  4
+ID  5-Carboxymethylaminomethyluridine-tRNA synthase
+DN  5-Carboxymethylaminomethyluridine-tRNA synthase
+RQ  1
+EV  IPR002218; PF01134; sufficient;
+EV  IPR004416; TIGR00136; sufficient;
+EV  IPR026904; PF13932; sufficient;
+EV  IPR004520; TIGR00450; sufficient;
+EV  IPR005225; TIGR00231; sufficient;
+EV  IPR006073; PF01926; sufficient;
+EV  IPR018948; PF10396; sufficient;
+EV  IPR025867; PF12631; sufficient;
+--
+SN  5
+ID  TRNA-specific 2-thiouridylase
+DN  TRNA-specific 2-thiouridylase (EC 2.8.1.13)
+RQ  1
+EV  IPR004506; TIGR00420; sufficient;
+--
+SN  6
+ID  Cysteine desulfurase
+DN  Cysteine desulfurase
+RQ  1
+EV  IPR000192; PF00266; sufficient;
+EV  IPR010240; TIGR02006; sufficient;
+--
+SN  7
+ID  5-Methylaminomethyl-2-thiouridine-forming methyltransferase
+DN  5-Methylaminomethyl-2-thiouridine-forming methyltransferase (EC 2.1.1.61)
+RQ  1
+EV  IPR006076; PF01266; sufficient;
+EV  IPR008471; PF05430; sufficient;
+EV  IPR017610; TIGR03197; sufficient;
+--
+SN  8
+ID  5-Aminomethyl-2-thiouridine synthase
+DN  5-Aminomethyl-2-thiouridine synthase
+RQ  1
+EV  IPR006076; PF01266; sufficient;
+EV  IPR008471; PF05430; sufficient;
+EV  IPR017610; TIGR03197; sufficient;
+//

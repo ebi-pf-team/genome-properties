@@ -1,0 +1,41 @@
+AC  GenProp1504
+DE  Nitrate reduction X (dissimilatory, periplasmic)
+TP  PATHWAY
+AU  Caspi R, Mackie A
+TH  1
+DC  Nitrate reduction X (dissimilatory, periplasmic)
+DR  MetaCyc; PWY0-1584;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Nitrate reductase (cytochrome)
+DN  Nitrate reductase (cytochrome) (EC 1.9.6.1)
+RQ  1
+EV  IPR006656; PF00384; sufficient;
+EV  IPR006657; PF01568; sufficient;
+EV  IPR006963; PF04879; sufficient;
+EV  IPR010051; TIGR01706; sufficient;
+EV  IPR019546; TIGR01409; sufficient;
+EV  IPR005591; PF03892; sufficient;
+--
+SN  2
+ID  Ubiquinol-[NapC cytochrome] reductase
+DN  Ubiquinol-[NapC cytochrome] reductase (EC 1.10.2.2)
+RQ  1
+EV  IPR004494; TIGR00397; sufficient;
+EV  IPR017896; PF12800; sufficient;
+EV  IPR017896; PF12838; sufficient;
+EV  IPR011886; TIGR02163; sufficient;
+EV  IPR017896; PF12801; sufficient;
+EV  IPR017896; PF13237; sufficient;
+--
+SN  3
+ID  Sn-glycerol 3-phosphate:ubiquinone oxidoreductase
+DN  Sn-glycerol 3-phosphate:ubiquinone oxidoreductase (EC 1.1.5.3)
+RQ  1
+EV  IPR006076; PF01266; sufficient;
+EV  IPR031656; PF16901; sufficient;
+//

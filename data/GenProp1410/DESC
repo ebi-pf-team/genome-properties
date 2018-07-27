@@ -1,0 +1,44 @@
+AC  GenProp1410
+DE  Pyrimidine deoxyribonucleosides degradation
+TP  PATHWAY
+AU  Caspi R
+TH  1
+DC  Pyrimidine deoxyribonucleosides degradation
+DR  MetaCyc; PWY-7181;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Deoxycytidine deaminase
+DN  Deoxycytidine deaminase (EC 3.5.4.5)
+RQ  1
+EV  IPR002125; PF00383; sufficient;
+EV  IPR006263; TIGR01355; sufficient;
+EV  IPR013171; PF08211; sufficient;
+EV  IPR006262; TIGR01354; sufficient;
+--
+SN  2
+ID  Thymidine phosphorylase
+DN  Thymidine phosphorylase (EC 2.4.2.4)
+RQ  1
+EV  IPR009664; PF06865; sufficient;
+EV  IPR000312; PF00591; sufficient;
+EV  IPR013102; PF07831; sufficient;
+EV  IPR017459; PF02885; sufficient;
+EV  IPR018090; TIGR02644; sufficient;
+EV  IPR013465; TIGR02643; sufficient;
+--
+SN  3
+ID  2'-Deoxyuridine phosphorylase
+DN  2'-Deoxyuridine phosphorylase (EC 2.4.2.2)
+RQ  1
+EV  IPR000845; PF01048; sufficient;
+EV  IPR010059; TIGR01719; sufficient;
+EV  IPR000312; PF00591; sufficient;
+EV  IPR013102; PF07831; sufficient;
+EV  IPR017459; PF02885; sufficient;
+EV  IPR018090; TIGR02644; sufficient;
+EV  IPR013465; TIGR02643; sufficient;
+//

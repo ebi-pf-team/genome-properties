@@ -1,0 +1,42 @@
+AC  GenProp1589
+DE  D-arabinose degradation I
+TP  PATHWAY
+AU  Keseler I
+TH  2
+DC  D-arabinose degradation I
+DR  MetaCyc; DARABCATK12-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  D-ribulose-phosphate aldolase
+DN  D-ribulose-phosphate aldolase
+RQ  1
+EV  IPR001303; PF00596; sufficient;
+EV  IPR004782; TIGR01086; sufficient;
+--
+SN  2
+ID  D-arabinose isomerase
+DN  D-arabinose isomerase (EC 5.3.1.3)
+RQ  1
+EV  IPR005763; TIGR01089; sufficient;
+EV  IPR012888; PF07881; sufficient;
+EV  IPR012889; PF07882; sufficient;
+EV  IPR015888; PF02952; sufficient;
+--
+SN  3
+ID  D-ribulokinase
+DN  D-ribulokinase
+RQ  1
+EV  IPR013450; TIGR02628; sufficient;
+EV  IPR018484; PF00370; sufficient;
+EV  IPR018485; PF02782; sufficient;
+--
+SN  4
+ID  Glycolaldehyde dehydrogenase
+DN  Glycolaldehyde dehydrogenase (EC 1.2.1.21)
+RQ  1
+EV  IPR015590; PF00171; sufficient;
+//

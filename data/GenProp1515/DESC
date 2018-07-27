@@ -1,0 +1,36 @@
+AC  GenProp1515
+DE  Succinate to cytochrome bd oxidase electron transfer
+TP  PATHWAY
+AU  Mackie A, Nolan L
+
+DC  Succinate to cytochrome bd oxidase electron transfer
+DR  MetaCyc; PWY0-1353;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Cytochrome bd-I ubiquinol oxidase
+DN  Cytochrome bd-I ubiquinol oxidase (EC 1.10.3.14)
+RQ  1
+EV  IPR002585; PF01654; sufficient;
+EV  IPR003317; PF02322; sufficient;
+EV  IPR003317; TIGR00203; sufficient;
+EV  IPR011724; TIGR02106; sufficient;
+EV  IPR012994; PF08173; sufficient;
+--
+SN  2
+ID  Succinate dehydrogenase
+DN  Succinate dehydrogenase (EC 1.3.5.1)
+RQ  1
+EV  IPR004489; TIGR00384; sufficient;
+EV  IPR025192; PF13085; sufficient;
+EV  IPR003953; PF00890; sufficient;
+EV  IPR011281; TIGR01816; sufficient;
+EV  IPR014006; TIGR01812; sufficient;
+EV  IPR015939; PF02910; sufficient;
+EV  IPR000701; PF01127; sufficient;
+EV  IPR014314; TIGR02970; sufficient;
+EV  IPR014312; TIGR02968; sufficient;
+//

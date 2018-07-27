@@ -1,0 +1,47 @@
+AC  GenProp1270
+DE  Enterobacterial common antigen biosynthesis
+TP  PATHWAY
+AU  N/A
+TH  3
+DC  Enterobacterial common antigen biosynthesis
+DR  MetaCyc; ECASYN-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  4-Acetamido-4,6-dideoxy-D-galactose transferase
+DN  4-Acetamido-4,6-dideoxy-D-galactose transferase (EC 2.4.1.325)
+RQ  1
+EV  IPR009993; PF07429; sufficient;
+--
+SN  2
+ID  UDP-N-acetylglucosamine-undecaprenyl-phosphate N-acetylglucosaminephosphotransferase
+DN  UDP-N-acetylglucosamine-undecaprenyl-phosphate N-acetylglucosaminephosphotransferase (EC 2.7.8.33)
+RQ  1
+EV  IPR000715; PF00953; sufficient;
+EV  IPR012750; TIGR02380; sufficient;
+--
+SN  3
+ID  DTDP-4-amino-4,6-dideoxy-D-galactose acyltransferase
+DN  DTDP-4-amino-4,6-dideoxy-D-galactose acyltransferase (EC 2.3.1.210)
+RQ  1
+EV  IPR012752; TIGR02382; sufficient;
+--
+SN  4
+ID  UDP-N-acetyl-D-mannosaminuronic acid transferase
+DN  UDP-N-acetyl-D-mannosaminuronic acid transferase (EC 2.4.1.180)
+RQ  1
+EV  IPR004629; PF03808; sufficient;
+EV  IPR004629; TIGR00696; sufficient;
+--
+SN  5
+ID  UDP-N-acetyl-D-mannosamine dehydrogenase
+DN  UDP-N-acetyl-D-mannosamine dehydrogenase (EC 1.1.1.336)
+RQ  1
+EV  IPR001732; PF03721; sufficient;
+EV  IPR014026; PF00984; sufficient;
+EV  IPR014027; PF03720; sufficient;
+EV  IPR017476; TIGR03026; sufficient;
+//

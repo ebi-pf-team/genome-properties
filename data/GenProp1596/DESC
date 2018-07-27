@@ -1,0 +1,55 @@
+AC  GenProp1596
+DE  Superpathway of polyamine biosynthesis I
+TP  PATHWAY
+AU  N/A
+TH  4
+DC  Superpathway of polyamine biosynthesis I
+DR  MetaCyc; POLYAMSYN-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Agmatinase
+DN  Agmatinase (EC 3.5.3.11)
+RQ  1
+EV  IPR005925; TIGR01230; sufficient;
+EV  IPR006035; PF00491; sufficient;
+--
+SN  2
+ID  L-lysine decarboxylase
+DN  L-lysine decarboxylase (EC 4.1.1.18)
+RQ  1
+EV  IPR000310; PF01276; sufficient;
+EV  IPR005308; PF03709; sufficient;
+EV  IPR008286; PF03711; sufficient;
+--
+SN  3
+ID  Ornithine decarboxylase
+DN  Ornithine decarboxylase (EC 4.1.1.17)
+RQ  1
+EV  IPR000310; PF01276; sufficient;
+EV  IPR005308; PF03709; sufficient;
+EV  IPR008286; PF03711; sufficient;
+EV  IPR027568; TIGR04301; sufficient;
+--
+SN  4
+ID  Aminopropylcadaverine synthase
+DN  Aminopropylcadaverine synthase (EC 2.5.1)
+RQ  1
+EV  IPR001045; TIGR00417; sufficient;
+--
+SN  5
+ID  S-adenosylmethionine decarboxylase
+DN  S-adenosylmethionine decarboxylase (EC 4.1.1.50)
+RQ  1
+EV  IPR003826; PF02675; sufficient;
+EV  IPR009165; TIGR03331; sufficient;
+--
+SN  6
+ID  Spermidine synthase
+DN  Spermidine synthase (EC 2.5.1.16)
+RQ  1
+EV  IPR001045; TIGR00417; sufficient;
+//

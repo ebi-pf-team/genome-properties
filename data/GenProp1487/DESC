@@ -1,0 +1,49 @@
+AC  GenProp1487
+DE  L-lysine degradation XI (mammalian)
+TP  PATHWAY
+AU  Weerasinghe D
+TH  3
+DC  L-lysine degradation XI (mammalian)
+DR  MetaCyc; LYSINE-DEG1-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Alpha-aminoadipic semialdehyde dehydrogenase
+DN  Alpha-aminoadipic semialdehyde dehydrogenase (EC 1.2.1.31)
+RQ  1
+EV  IPR015590; PF00171; sufficient;
+--
+SN  2
+ID  L-lysine-alpha-ketoglutarate reductase
+DN  L-lysine-alpha-ketoglutarate reductase (EC 1.5.1.8)
+RQ  1
+EV  IPR005097; PF03435; sufficient;
+EV  IPR007886; PF05222; sufficient;
+EV  IPR032095; PF16653; sufficient;
+--
+SN  3
+ID  Saccharopine dehydrogenase
+DN  Saccharopine dehydrogenase (EC 1.5.1.9)
+RQ  1
+EV  IPR005097; PF03435; sufficient;
+EV  IPR007886; PF05222; sufficient;
+EV  IPR032095; PF16653; sufficient;
+--
+SN  4
+ID  2-Aminoadipate-2-oxoglutarate aminotransferase
+DN  2-Aminoadipate-2-oxoglutarate aminotransferase (EC 2.6.1.39)
+RQ  1
+EV  IPR004839; PF00155; sufficient;
+--
+SN  5
+ID  2-Oxoadipate dehydrogenase
+DN  2-Oxoadipate dehydrogenase (EC 1.2.1.M9)
+RQ  1
+EV  IPR001017; PF00676; sufficient;
+EV  IPR005475; PF02779; sufficient;
+EV  IPR011603; TIGR00239; sufficient;
+EV  IPR031717; PF16870; sufficient;
+//

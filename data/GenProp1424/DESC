@@ -1,0 +1,26 @@
+AC  GenProp1424
+DE  Two-component alkanesulfonate monooxygenase
+TP  PATHWAY
+AU  Pellegrini-Toole A, Keseler I
+
+DC  Two-component alkanesulfonate monooxygenase
+DR  MetaCyc; ALKANEMONOX-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  FMN reductase (NADPH)
+DN  FMN reductase (NADPH) (EC 1.5.1.38)
+RQ  1
+EV  IPR005025; PF03358; sufficient;
+EV  IPR020048; TIGR03567; sufficient;
+--
+SN  2
+ID  Alkanesulfonate monooxygenase
+DN  Alkanesulfonate monooxygenase (EC 1.14.14.5)
+RQ  1
+EV  IPR011251; PF00296; sufficient;
+EV  IPR019911; TIGR03565; sufficient;
+//

@@ -1,0 +1,29 @@
+AC  GenProp1746
+DE  Alkylnitronates degradation
+TP  PATHWAY
+AU  Fulcher C
+
+DC  Alkylnitronates degradation
+DR  MetaCyc; PWY-723;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Ethylnitronate monooxygenase
+DN  Ethylnitronate monooxygenase (EC 1.13.12.16)
+RQ  1
+EV  IPR004136; PF03060; sufficient;
+--
+SN  2
+ID  Nitrite reductase
+DN  Nitrite reductase (EC 1.7.1.4)
+RQ  1
+EV  IPR005117; PF03460; sufficient;
+EV  IPR006067; PF01077; sufficient;
+EV  IPR007419; PF04324; sufficient;
+EV  IPR012744; TIGR02374; sufficient;
+EV  IPR017941; PF00355; sufficient;
+EV  IPR023753; PF07992; sufficient;
+//

@@ -1,0 +1,25 @@
+AC  GenProp1387
+DE  Superpathway of beta-D-glucuronosides degradation
+TP  PATHWAY
+AU  Caspi R, Keseler I, Riley M
+
+DC  Superpathway of beta-D-glucuronosides degradation
+DR  MetaCyc; GLUCUROCAT-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  D-glucuronate isomerase
+DN  D-glucuronate isomerase (EC 5.3.1.12)
+RQ  1
+EV  IPR003766; PF02614; sufficient;
+--
+SN  2
+ID  D-mannonate dehydrogenase
+DN  D-mannonate dehydrogenase (EC 1.1.1.57)
+RQ  1
+EV  IPR013118; PF08125; sufficient;
+EV  IPR013131; PF01232; sufficient;
+//

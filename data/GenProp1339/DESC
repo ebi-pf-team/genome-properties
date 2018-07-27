@@ -1,0 +1,26 @@
+AC  GenProp1339
+DE  Alpha-linolenate biosynthesis I (plants and red algae)
+TP  PATHWAY
+AU  Caspi R
+
+DC  Alpha-linolenate biosynthesis I (plants and red algae)
+DR  MetaCyc; PWY-5997;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Linolenoyl-lipid 15-desaturase
+DN  Linolenoyl-lipid 15-desaturase (EC 1.14.19.25)
+RQ  1
+EV  IPR005804; PF00487; sufficient;
+EV  IPR021863; PF11960; sufficient;
+--
+SN  2
+ID  Linolenoyl-lipid 15-desaturase
+DN  Linolenoyl-lipid 15-desaturase (EC 1.14.19.35)
+RQ  1
+EV  IPR005804; PF00487; sufficient;
+EV  IPR021863; PF11960; sufficient;
+//

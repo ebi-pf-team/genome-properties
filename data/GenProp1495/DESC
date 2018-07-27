@@ -1,0 +1,26 @@
+AC  GenProp1495
+DE  N-end rule pathway I (prokaryotic)
+TP  PATHWAY
+AU  Caspi R
+
+DC  N-end rule pathway I (prokaryotic)
+DR  MetaCyc; PWY-7801;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Leucyl-tRNA-protein transferase
+DN  Leucyl-tRNA-protein transferase (EC 2.3.2.6)
+RQ  1
+EV  IPR004616; PF03588; sufficient;
+EV  IPR004616; TIGR00667; sufficient;
+--
+SN  2
+ID  Leucyl-tRNA-protein transferase
+DN  Leucyl-tRNA-protein transferase (EC 2.3.2.6)
+RQ  1
+EV  IPR004616; PF03588; sufficient;
+EV  IPR004616; TIGR00667; sufficient;
+//

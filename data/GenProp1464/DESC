@@ -1,0 +1,24 @@
+AC  GenProp1464
+DE  Indole-3-acetate biosynthesis I
+TP  PATHWAY
+AU  Caspi R, Schaeffer M
+
+DC  Indole-3-acetate biosynthesis I
+DR  MetaCyc; PWYDQC-4;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  L-tryptophan:pyruvate aminotransferase
+DN  L-tryptophan:pyruvate aminotransferase (EC 2.6.1.99)
+RQ  1
+EV  IPR006948; PF04864; sufficient;
+--
+SN  2
+ID  Indole-3-pyruvate monooxygenase
+DN  Indole-3-pyruvate monooxygenase (EC 1.14.13.168)
+RQ  1
+EV  IPR020946; PF00743; sufficient;
+//

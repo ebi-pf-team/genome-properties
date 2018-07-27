@@ -1,0 +1,26 @@
+AC  GenProp1482
+DE  S-methyl-5'-thioadenosine degradation I
+TP  PATHWAY
+AU  Caspi R
+
+DC  S-methyl-5'-thioadenosine degradation I
+DR  MetaCyc; PWY-6754;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  MTR kinase
+DN  MTR kinase (EC 2.7.1.100)
+RQ  1
+EV  IPR002575; PF01636; sufficient;
+EV  IPR009212; TIGR01767; sufficient;
+--
+SN  2
+ID  MTA nucleosidase
+DN  MTA nucleosidase (EC 3.2.2.16)
+RQ  1
+EV  IPR000845; PF01048; sufficient;
+EV  IPR010049; TIGR01704; sufficient;
+//

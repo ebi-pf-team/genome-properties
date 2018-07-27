@@ -1,0 +1,39 @@
+AC  GenProp1449
+DE  D-fructuronate degradation
+TP  PATHWAY
+AU  Caspi R
+TH  2
+DC  D-fructuronate degradation
+DR  MetaCyc; PWY-7242;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  2-Dehydro-3-deoxygluconate kinase
+DN  2-Dehydro-3-deoxygluconate kinase (EC 2.7.1.45)
+RQ  1
+EV  IPR011611; PF00294; sufficient;
+--
+SN  2
+ID  2-Dehydro-3-deoxy-phosphogluconate aldolase
+DN  2-Dehydro-3-deoxy-phosphogluconate aldolase (EC 4.1.2.14)
+RQ  1
+EV  IPR000887; PF01081; sufficient;
+EV  IPR000887; TIGR01182; sufficient;
+--
+SN  3
+ID  D-mannonate dehydratase
+DN  D-mannonate dehydratase (EC 4.2.1.8)
+RQ  1
+EV  IPR004628; PF03786; sufficient;
+EV  IPR004628; TIGR00695; sufficient;
+--
+SN  4
+ID  D-mannonate dehydrogenase
+DN  D-mannonate dehydrogenase (EC 1.1.1.57)
+RQ  1
+EV  IPR013118; PF08125; sufficient;
+EV  IPR013131; PF01232; sufficient;
+//

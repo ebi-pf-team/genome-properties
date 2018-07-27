@@ -1,0 +1,26 @@
+AC  GenProp1656
+DE  Xylose degradation I
+TP  PATHWAY
+AU  Riley M, Ingraham J
+
+DC  Xylose degradation I
+DR  MetaCyc; XYLCAT-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Xylose isomerase
+DN  Xylose isomerase (EC 5.3.1.5)
+RQ  1
+EV  IPR013452; TIGR02630; sufficient;
+--
+SN  2
+ID  D-xylulokinase
+DN  D-xylulokinase (EC 2.7.1.17)
+RQ  1
+EV  IPR006000; TIGR01312; sufficient;
+EV  IPR018484; PF00370; sufficient;
+EV  IPR018485; PF02782; sufficient;
+//

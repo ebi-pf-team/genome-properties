@@ -1,0 +1,25 @@
+AC  GenProp1540
+DE  Pyrimidine ribonucleosides salvage III
+TP  PATHWAY
+AU  Caspi R
+
+DC  Pyrimidine ribonucleosides salvage III
+DR  MetaCyc; PWY-7195;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Cytosine deaminase
+DN  Cytosine deaminase (EC 3.5.4.1)
+RQ  1
+EV  IPR013108; PF07969; sufficient;
+EV  IPR002125; PF00383; sufficient;
+--
+SN  2
+ID  Cytidine nucleosidase
+DN  Cytidine nucleosidase (EC 3.2.2.3)
+RQ  1
+EV  IPR001910; PF01156; sufficient;
+//

@@ -1,0 +1,48 @@
+AC  GenProp1745
+DE  GA12 biosynthesis
+TP  PATHWAY
+AU  N/A
+TH  4
+DC  GA12 biosynthesis
+DR  MetaCyc; PWY-5034;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Ent-kaurene 19-hydroxylase
+DN  Ent-kaurene 19-hydroxylase
+RQ  1
+EV  IPR001128; PF00067; sufficient;
+--
+SN  2
+ID  Ent-kaurenoate monooxygenase
+DN  Ent-kaurenoate monooxygenase
+RQ  1
+EV  IPR001128; PF00067; sufficient;
+--
+SN  3
+ID  Ent-kaurenol 19-dehydrogenase
+DN  Ent-kaurenol 19-dehydrogenase
+RQ  1
+EV  IPR001128; PF00067; sufficient;
+--
+SN  4
+ID  Ent-kaurenal 19-hydroxylase
+DN  Ent-kaurenal 19-hydroxylase
+RQ  1
+EV  IPR001128; PF00067; sufficient;
+--
+SN  5
+ID  Ent-7alpha-hydroxykaur-16-en-19-oate monooxygenase
+DN  Ent-7alpha-hydroxykaur-16-en-19-oate monooxygenase
+RQ  1
+EV  IPR001128; PF00067; sufficient;
+--
+SN  6
+ID  GA12-aldehyde monooxygenase
+DN  GA12-aldehyde monooxygenase
+RQ  1
+EV  IPR001128; PF00067; sufficient;
+//

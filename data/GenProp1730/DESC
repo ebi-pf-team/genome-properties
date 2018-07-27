@@ -1,0 +1,57 @@
+AC  GenProp1730
+DE  Inosine-5'-phosphate biosynthesis I
+TP  PATHWAY
+AU  Caspi R
+TH  4
+DC  Inosine-5'-phosphate biosynthesis I
+DR  MetaCyc; PWY-6123;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Adenylosuccinate lyase
+DN  Adenylosuccinate lyase (EC 4.3.2.2)
+RQ  1
+EV  IPR004769; TIGR00928; sufficient;
+EV  IPR013539; PF08328; sufficient;
+EV  IPR022761; PF00206; sufficient;
+--
+SN  2
+ID  AICAR transformylase
+DN  AICAR transformylase (EC 2.1.2.3)
+RQ  1
+EV  IPR002695; PF01808; sufficient;
+EV  IPR002695; TIGR00355; sufficient;
+EV  IPR011607; PF02142; sufficient;
+--
+SN  3
+ID  IMP cyclohydrolase
+DN  IMP cyclohydrolase (EC 3.5.4.10)
+RQ  1
+EV  IPR002695; PF01808; sufficient;
+EV  IPR002695; TIGR00355; sufficient;
+EV  IPR011607; PF02142; sufficient;
+--
+SN  4
+ID  5-(Carboxyamino)imidazole ribonucleotide synthase
+DN  5-(Carboxyamino)imidazole ribonucleotide synthase (EC 6.3.4.18)
+RQ  1
+EV  IPR003135; PF02222; sufficient;
+EV  IPR005875; TIGR01161; sufficient;
+--
+SN  5
+ID  N5-carboxyaminoimidazole ribonucleotide mutase
+DN  N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)
+RQ  1
+EV  IPR000031; PF00731; sufficient;
+EV  IPR000031; TIGR01162; sufficient;
+--
+SN  6
+ID  Phosphoribosylaminoimidazole-succinocarboxamide synthase
+DN  Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+RQ  1
+EV  IPR001636; TIGR00081; sufficient;
+EV  IPR028923; PF01259; sufficient;
+//

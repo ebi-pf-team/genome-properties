@@ -1,0 +1,58 @@
+AC  GenProp1583
+DE  Nitrate reduction VIII (dissimilatory)
+TP  PATHWAY
+AU  Mackie A, Nolan L
+
+DC  Nitrate reduction VIII (dissimilatory)
+DR  MetaCyc; PWY0-1352;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Menaquinol:nitrate oxidoreductase
+DN  Menaquinol:nitrate oxidoreductase (EC 1.7.5.1)
+RQ  1
+EV  IPR006468; TIGR01580; sufficient;
+EV  IPR006656; PF00384; sufficient;
+EV  IPR006657; PF01568; sufficient;
+EV  IPR028189; PF14710; sufficient;
+EV  IPR006547; TIGR01660; sufficient;
+EV  IPR017896; PF13247; sufficient;
+EV  IPR029263; PF14711; sufficient;
+EV  IPR003816; TIGR00351; sufficient;
+EV  IPR023234; PF02665; sufficient;
+--
+SN  2
+ID  NADH:menaquinone oxidoreductase (H+-transporting)
+DN  NADH:menaquinone oxidoreductase (H+-transporting) (EC 1.6.5)
+RQ  1
+EV  IPR000440; PF00507; sufficient;
+EV  IPR006137; PF01058; sufficient;
+EV  IPR006138; TIGR01957; sufficient;
+EV  IPR001135; PF00346; sufficient;
+EV  IPR001268; PF00329; sufficient;
+EV  IPR010218; TIGR01961; sufficient;
+EV  IPR022885; TIGR01962; sufficient;
+EV  IPR002023; TIGR01958; sufficient;
+EV  IPR011537; TIGR01959; sufficient;
+EV  IPR011538; PF01512; sufficient;
+EV  IPR019554; PF10531; sufficient;
+EV  IPR019575; PF10589; sufficient;
+EV  IPR006656; PF00384; sufficient;
+EV  IPR006657; PF01568; sufficient;
+EV  IPR006963; PF04879; sufficient;
+EV  IPR010228; TIGR01973; sufficient;
+EV  IPR019574; PF10588; sufficient;
+EV  IPR001694; PF00146; sufficient;
+EV  IPR010226; TIGR01971; sufficient;
+EV  IPR017896; PF12838; sufficient;
+EV  IPR001457; PF00499; sufficient;
+EV  IPR001133; PF00420; sufficient;
+EV  IPR001516; PF00662; sufficient;
+EV  IPR001750; PF00361; sufficient;
+EV  IPR003945; TIGR01974; sufficient;
+EV  IPR010227; TIGR01972; sufficient;
+EV  IPR010096; TIGR01770; sufficient;
+//

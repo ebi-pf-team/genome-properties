@@ -1,0 +1,80 @@
+AC  GenProp1295
+DE  Methylerythritol phosphate pathway I
+TP  PATHWAY
+AU  Weerasinghe D, Pellegrini-Toole A, Shearer A
+TH  7
+DC  Methylerythritol phosphate pathway I
+DR  MetaCyc; NONMEVIPP-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  4-(Cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase
+DN  4-(Cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
+RQ  1
+EV  IPR004424; TIGR00154; sufficient;
+EV  IPR006204; PF00288; sufficient;
+EV  IPR013750; PF08544; sufficient;
+--
+SN  2
+ID  4-Diphosphocytidyl-2C-methyl-D-erythritol synthase
+DN  4-Diphosphocytidyl-2C-methyl-D-erythritol synthase (EC 2.7.7.60)
+RQ  1
+EV  IPR001228; PF01128; sufficient;
+EV  IPR001228; TIGR00453; sufficient;
+--
+SN  3
+ID  1-Deoxy-D-xylulose 5-phosphate reductoisomerase
+DN  1-Deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+RQ  1
+EV  IPR003821; TIGR00243; sufficient;
+EV  IPR013512; PF02670; sufficient;
+EV  IPR013644; PF08436; sufficient;
+EV  IPR026877; PF13288; sufficient;
+--
+SN  4
+ID  1-Deoxy-D-xylulose 5-phosphate synthase
+DN  1-Deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
+RQ  1
+EV  IPR005475; PF02779; sufficient;
+EV  IPR005477; PF13292; sufficient;
+EV  IPR005477; TIGR00204; sufficient;
+EV  IPR033248; PF02780; sufficient;
+--
+SN  5
+ID  Isopentenyl pyrophosphate isomerase
+DN  Isopentenyl pyrophosphate isomerase (EC 5.3.3.2)
+RQ  1
+EV  IPR000086; PF00293; sufficient;
+EV  IPR011876; TIGR02150; sufficient;
+--
+SN  6
+ID  Isopentenyl-diphosphate:NAD(P)+ oxidoreductase
+DN  Isopentenyl-diphosphate:NAD(P)+ oxidoreductase (EC 1.17.7.4)
+RQ  1
+EV  IPR003451; PF02401; sufficient;
+EV  IPR003451; TIGR00216; sufficient;
+--
+SN  7
+ID  1-Hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase
+DN  1-Hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase (EC 1.17.7.3)
+RQ  1
+EV  IPR004588; PF04551; sufficient;
+EV  IPR004588; TIGR00612; sufficient;
+--
+SN  8
+ID  2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+DN  2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+RQ  1
+EV  IPR003526; PF02542; sufficient;
+EV  IPR003526; TIGR00151; sufficient;
+--
+SN  9
+ID  Dimethylallyl-diphosphate:NAD(P)+ oxidoreductase
+DN  Dimethylallyl-diphosphate:NAD(P)+ oxidoreductase (EC 1.17.7.4)
+RQ  1
+EV  IPR003451; PF02401; sufficient;
+EV  IPR003451; TIGR00216; sufficient;
+//

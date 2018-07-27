@@ -1,0 +1,26 @@
+AC  GenProp1682
+DE  Factor 420 polyglutamylation
+TP  PATHWAY
+AU  Caspi R
+
+DC  Factor 420 polyglutamylation
+DR  MetaCyc; PWY-5199;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  F420-0-glutamyl ligase
+DN  F420-0-glutamyl ligase (EC 6.3.2.31)
+RQ  1
+EV  IPR002847; PF01996; sufficient;
+EV  IPR008225; TIGR01916; sufficient;
+--
+SN  2
+ID  F420-1:gamma-glutamyl ligase
+DN  F420-1:gamma-glutamyl ligase (EC 6.3.2.34)
+RQ  1
+EV  IPR002847; PF01996; sufficient;
+EV  IPR008225; TIGR01916; sufficient;
+//

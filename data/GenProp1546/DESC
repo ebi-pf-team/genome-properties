@@ -1,0 +1,25 @@
+AC  GenProp1546
+DE  Sulfoquinovosyl diacylglycerol biosynthesis
+TP  PATHWAY
+AU  Caspi R
+
+DC  Sulfoquinovosyl diacylglycerol biosynthesis
+DR  MetaCyc; PWYQT-4427;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  UDP-sulfoquinovose synthase
+DN  UDP-sulfoquinovose synthase (EC 3.13.1.1)
+RQ  1
+EV  IPR001509; PF01370; sufficient;
+--
+SN  2
+ID  Sulfoquinovosyldiacylglycerol synthase
+DN  Sulfoquinovosyldiacylglycerol synthase (EC 2.4.1.M2)
+RQ  1
+EV  IPR001296; PF00534; sufficient;
+EV  IPR028098; PF13439; sufficient;
+//

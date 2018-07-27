@@ -1,0 +1,26 @@
+AC  GenProp1433
+DE  Aminopropylcadaverine biosynthesis
+TP  PATHWAY
+AU  Johnson A
+
+DC  Aminopropylcadaverine biosynthesis
+DR  MetaCyc; PWY0-1303;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  L-lysine decarboxylase
+DN  L-lysine decarboxylase (EC 4.1.1.18)
+RQ  1
+EV  IPR000310; PF01276; sufficient;
+EV  IPR005308; PF03709; sufficient;
+EV  IPR008286; PF03711; sufficient;
+--
+SN  2
+ID  Aminopropylcadaverine synthase
+DN  Aminopropylcadaverine synthase (EC 2.5.1)
+RQ  1
+EV  IPR001045; TIGR00417; sufficient;
+//

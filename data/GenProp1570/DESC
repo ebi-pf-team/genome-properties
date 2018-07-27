@@ -1,0 +1,29 @@
+AC  GenProp1570
+DE  N6-L-threonylcarbamoyladenosine37-modified tRNA biosynthesis
+TP  PATHWAY
+AU  Keseler I
+
+DC  N6-L-threonylcarbamoyladenosine37-modified tRNA biosynthesis
+DR  MetaCyc; PWY0-1587;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Threonylcarbamoyl-AMP synthase
+DN  Threonylcarbamoyl-AMP synthase (EC 2.7.7.87)
+RQ  1
+EV  IPR006070; PF01300; sufficient;
+--
+SN  2
+ID  N6-L-threonylcarbamoyladenine synthase
+DN  N6-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
+RQ  1
+EV  IPR000905; PF00814; sufficient;
+EV  IPR017861; TIGR00329; sufficient;
+EV  IPR022450; TIGR03723; sufficient;
+EV  IPR003442; PF02367; sufficient;
+EV  IPR003442; TIGR00150; sufficient;
+EV  IPR022496; TIGR03725; sufficient;
+//

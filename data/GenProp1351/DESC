@@ -1,0 +1,31 @@
+AC  GenProp1351
+DE  Phosphatidylcholine biosynthesis I
+TP  PATHWAY
+AU  Caspi R, Fulcher C, Hong E
+TH  1
+DC  Phosphatidylcholine biosynthesis I
+DR  MetaCyc; PWY3O-450;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  CTP:phosphocholine cytidylyltransferase
+DN  CTP:phosphocholine cytidylyltransferase (EC 2.7.7.15)
+RQ  1
+EV  IPR004821; PF01467; sufficient;
+EV  IPR004821; TIGR00125; sufficient;
+--
+SN  2
+ID  Choline kinase
+DN  Choline kinase (EC 2.7.1.32)
+RQ  1
+EV  IPR007521; PF04428; sufficient;
+--
+SN  3
+ID  Diacylglycerol cholinephosphotransferase
+DN  Diacylglycerol cholinephosphotransferase (EC 2.7.8.2)
+RQ  1
+EV  IPR000462; PF01066; sufficient;
+//

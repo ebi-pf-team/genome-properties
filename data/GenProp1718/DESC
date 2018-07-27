@@ -1,0 +1,32 @@
+AC  GenProp1718
+DE  Phospholipid remodeling (phosphatidylcholine, yeast)
+TP  PATHWAY
+AU  Foerster H
+TH  1
+DC  Phospholipid remodeling (phosphatidylcholine, yeast)
+DR  MetaCyc; PWY-7416;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Phospholipase A2
+DN  Phospholipase A2 (EC 3.1.1.4)
+RQ  1
+EV  IPR002641; PF01734; sufficient;
+EV  IPR021771; PF11815; sufficient;
+--
+SN  2
+ID  Acyl-CoA:lyso-phosphatidylcholine acyltransferase
+DN  Acyl-CoA:lyso-phosphatidylcholine acyltransferase (EC 2.3.1.23)
+RQ  1
+EV  IPR002123; PF01553; sufficient;
+EV  IPR004299; PF03062; sufficient;
+--
+SN  3
+ID  Phospholipid:diacylglycerol acyltransferase
+DN  Phospholipid:diacylglycerol acyltransferase (EC 2.3.1.158)
+RQ  1
+EV  IPR002123; PF01553; sufficient;
+//

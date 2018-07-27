@@ -1,0 +1,24 @@
+AC  GenProp1696
+DE  Curcumin degradation
+TP  PATHWAY
+AU  Fulcher C
+
+DC  Curcumin degradation
+DR  MetaCyc; PWY0-1527;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  NADPH-dependent curcumin reductase
+DN  NADPH-dependent curcumin reductase
+RQ  1
+EV  IPR013149; PF00107; sufficient;
+--
+SN  2
+ID  NADPH-dependent dihydrocurcumin reductase
+DN  NADPH-dependent dihydrocurcumin reductase
+RQ  1
+EV  IPR013149; PF00107; sufficient;
+//

@@ -1,0 +1,38 @@
+AC  GenProp1222
+DE  UDP-N-acetyl-D-glucosamine biosynthesis II
+TP  PATHWAY
+AU  Fulcher C, Ying H
+TH  2
+DC  UDP-N-acetyl-D-glucosamine biosynthesis II
+DR  MetaCyc; UDPNACETYLGALSYN-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Glucosamine-6-phosphate acetyltransferase
+DN  Glucosamine-6-phosphate acetyltransferase (EC 2.3.1.4)
+RQ  1
+EV  IPR000182; PF00583; sufficient;
+--
+SN  2
+ID  Glutamine:fructose-6-phosphate amidotransferase
+DN  Glutamine:fructose-6-phosphate amidotransferase (EC 2.6.1.16)
+RQ  1
+EV  IPR001347; PF01380; sufficient;
+EV  IPR005855; TIGR01135; sufficient;
+--
+SN  3
+ID  UDP-N-acetylglucosamine pyrophosphorylase
+DN  UDP-N-acetylglucosamine pyrophosphorylase (EC 2.7.7.23)
+RQ  1
+EV  IPR002618; PF01704; sufficient;
+--
+SN  4
+ID  Phosphoacetylglucosamine mutase
+DN  Phosphoacetylglucosamine mutase (EC 5.4.2.3)
+RQ  1
+EV  IPR005843; PF00408; sufficient;
+EV  IPR005844; PF02878; sufficient;
+//

@@ -1,0 +1,36 @@
+AC  GenProp1338
+DE  Estradiol biosynthesis I (via estrone)
+TP  PATHWAY
+AU  Trupp M
+TH  2
+DC  Estradiol biosynthesis I (via estrone)
+DR  MetaCyc; PWY66-380;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Estradiol-17beta dehydrogenase / estrone reductase
+DN  Estradiol-17beta dehydrogenase / estrone reductase (EC 1.1.1.62)
+RQ  1
+EV  IPR002347; PF00106; sufficient;
+--
+SN  2
+ID  Androstenedione 19-hydroxylase
+DN  Androstenedione 19-hydroxylase
+RQ  1
+EV  IPR001128; PF00067; sufficient;
+--
+SN  3
+ID  19-Hydroxyandrostendione 19-dehydrogenase
+DN  19-Hydroxyandrostendione 19-dehydrogenase
+RQ  1
+EV  IPR001128; PF00067; sufficient;
+--
+SN  4
+ID  19-Oxoandrostenedione 2-betahydroxylase
+DN  19-Oxoandrostenedione 2-betahydroxylase
+RQ  1
+EV  IPR001128; PF00067; sufficient;
+//

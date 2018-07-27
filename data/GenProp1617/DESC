@@ -1,0 +1,81 @@
+AC  GenProp1617
+DE  Pyrimidine deoxyribonucleotides de novo biosynthesis I
+TP  PATHWAY
+AU  Caspi R
+TH  7
+DC  Pyrimidine deoxyribonucleotides de novo biosynthesis I
+DR  MetaCyc; PWY-7184;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  CDP reductase
+DN  CDP reductase (EC 1.17.4.1)
+RQ  1
+EV  IPR000788; PF02867; sufficient;
+EV  IPR005144; PF03477; sufficient;
+EV  IPR013346; TIGR02506; sufficient;
+EV  IPR013509; PF00317; sufficient;
+EV  IPR000358; PF00268; sufficient;
+--
+SN  2
+ID  DCDP kinase
+DN  DCDP kinase (EC 2.7.4.6)
+RQ  1
+EV  IPR001564; PF00334; sufficient;
+EV  IPR006259; TIGR01351; sufficient;
+EV  IPR007862; PF05191; sufficient;
+--
+SN  3
+ID  DTDP kinase
+DN  DTDP kinase (EC 2.7.4.6)
+RQ  1
+EV  IPR001564; PF00334; sufficient;
+EV  IPR006259; TIGR01351; sufficient;
+EV  IPR007862; PF05191; sufficient;
+--
+SN  4
+ID  Thymidylate kinase
+DN  Thymidylate kinase (EC 2.7.4.12)
+RQ  1
+EV  IPR018094; TIGR00041; sufficient;
+--
+SN  5
+ID  DUDP kinase
+DN  DUDP kinase (EC 2.7.4.6)
+RQ  1
+EV  IPR001564; PF00334; sufficient;
+--
+SN  6
+ID  DUTP pyrophosphohydrolase
+DN  DUTP pyrophosphohydrolase (EC 3.6.1.23)
+RQ  1
+EV  IPR000086; PF00293; sufficient;
+EV  IPR008180; PF00692; sufficient;
+EV  IPR008181; TIGR00576; sufficient;
+--
+SN  7
+ID  CTP triphosphatase
+DN  CTP triphosphatase (EC 3.6.1.15)
+RQ  1
+EV  IPR004948; PF03266; sufficient;
+--
+SN  8
+ID  Thymidylate synthase
+DN  Thymidylate synthase (EC 2.1.1.45)
+RQ  1
+EV  IPR000398; TIGR03284; sufficient;
+EV  IPR023451; PF00303; sufficient;
+--
+SN  9
+ID  UDP reductase
+DN  UDP reductase (EC 1.17.4.1)
+RQ  1
+EV  IPR000788; PF02867; sufficient;
+EV  IPR005144; PF03477; sufficient;
+EV  IPR013346; TIGR02506; sufficient;
+EV  IPR013509; PF00317; sufficient;
+EV  IPR000358; PF00268; sufficient;
+//

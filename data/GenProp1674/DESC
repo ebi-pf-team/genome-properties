@@ -1,0 +1,66 @@
+AC  GenProp1674
+DE  Thiamine formation from pyrithiamine and oxythiamine (yeast)
+TP  PATHWAY
+AU  Foerster H
+TH  4
+DC  Thiamine formation from pyrithiamine and oxythiamine (yeast)
+DR  MetaCyc; PWY-7357;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  4-Amino-2-methyl-5-hydroxymethylpyrimidine kinase
+DN  4-Amino-2-methyl-5-hydroxymethylpyrimidine kinase (EC 2.7.1.49)
+RQ  1
+EV  IPR004305; PF03070; sufficient;
+EV  IPR004399; TIGR00097; sufficient;
+EV  IPR013749; PF08543; sufficient;
+EV  IPR027574; TIGR04306; sufficient;
+--
+SN  2
+ID  Phosphomethylpyrimidine kinase
+DN  Phosphomethylpyrimidine kinase (EC 2.7.4.7)
+RQ  1
+EV  IPR004305; PF03070; sufficient;
+EV  IPR004399; TIGR00097; sufficient;
+EV  IPR013749; PF08543; sufficient;
+EV  IPR027574; TIGR04306; sufficient;
+--
+SN  3
+ID  Thiaminase II
+DN  Thiaminase II (EC 3.5.99)
+RQ  1
+EV  IPR004305; PF03070; sufficient;
+EV  IPR004399; TIGR00097; sufficient;
+EV  IPR013749; PF08543; sufficient;
+EV  IPR027574; TIGR04306; sufficient;
+--
+SN  4
+ID  Thiaminase II
+DN  Thiaminase II (EC 3.5.99)
+RQ  1
+EV  IPR004305; PF03070; sufficient;
+EV  IPR004399; TIGR00097; sufficient;
+EV  IPR013749; PF08543; sufficient;
+EV  IPR027574; TIGR04306; sufficient;
+--
+SN  5
+ID  Thiamine monophosphate pyrophosphorylase
+DN  Thiamine monophosphate pyrophosphorylase (EC 2.5.1.3)
+RQ  1
+EV  IPR000417; PF02110; sufficient;
+EV  IPR000417; TIGR00694; sufficient;
+EV  IPR003733; PF02581; sufficient;
+EV  IPR003733; TIGR00693; sufficient;
+--
+SN  6
+ID  Hydroxyethylthiazole kinase
+DN  Hydroxyethylthiazole kinase (EC 2.7.1.50)
+RQ  1
+EV  IPR000417; PF02110; sufficient;
+EV  IPR000417; TIGR00694; sufficient;
+EV  IPR003733; PF02581; sufficient;
+EV  IPR003733; TIGR00693; sufficient;
+//

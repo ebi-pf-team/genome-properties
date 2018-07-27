@@ -1,0 +1,30 @@
+AC  GenProp1346
+DE  Glutathione degradation (DUG pathway - yeast)
+TP  PATHWAY
+AU  Foerster H
+
+DC  Glutathione degradation (DUG pathway - yeast)
+DR  MetaCyc; PWY-7559;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Glutathione hydrolase
+DN  Glutathione hydrolase (EC 3.4.19.13)
+RQ  1
+EV  IPR001680; PF00400; sufficient;
+EV  IPR002933; PF01546; sufficient;
+EV  IPR011650; PF07687; sufficient;
+EV  IPR026869; PF13230; sufficient;
+EV  IPR000101; PF01019; sufficient;
+EV  IPR000101; TIGR00066; sufficient;
+--
+SN  2
+ID  Cysteinylglycine dipeptidase
+DN  Cysteinylglycine dipeptidase (EC 3.4.13.18)
+RQ  1
+EV  IPR002933; PF01546; sufficient;
+EV  IPR011650; PF07687; sufficient;
+//

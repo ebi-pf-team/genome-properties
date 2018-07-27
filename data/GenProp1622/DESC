@@ -1,0 +1,25 @@
+AC  GenProp1622
+DE  Mycocyclosin biosynthesis
+TP  PATHWAY
+AU  Caspi R
+
+DC  Mycocyclosin biosynthesis
+DR  MetaCyc; PWY-7236;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Mycocyclosin synthase
+DN  Mycocyclosin synthase (EC 1.14.21.9)
+RQ  1
+EV  IPR001128; PF00067; sufficient;
+--
+SN  2
+ID  Cyclo(L-tyrosyl-L-tyrosyl) synthase
+DN  Cyclo(L-tyrosyl-L-tyrosyl) synthase (EC 2.3.2.21)
+RQ  1
+EV  IPR030903; PF16715; sufficient;
+EV  IPR030903; TIGR04539; sufficient;
+//

@@ -1,0 +1,36 @@
+AC  GenProp1392
+DE  Sulfate reduction II (assimilatory)
+TP  PATHWAY
+AU  Caspi R, Irina Iourovitski I
+TH  1
+DC  Sulfate reduction II (assimilatory)
+DR  MetaCyc; SULFMETII-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  APS reductase
+DN  APS reductase (EC 1.8.4.9)
+RQ  1
+EV  IPR002500; PF01507; sufficient;
+EV  IPR004508; TIGR00424; sufficient;
+EV  IPR013766; PF00085; sufficient;
+--
+SN  2
+ID  Sulfate adenylyltransferase
+DN  Sulfate adenylyltransferase (EC 2.7.7.4)
+RQ  1
+EV  IPR002650; TIGR00339; sufficient;
+EV  IPR024951; PF01747; sufficient;
+EV  IPR025980; PF14306; sufficient;
+--
+SN  3
+ID  Octaheme sulfite reductase
+DN  Octaheme sulfite reductase (EC 1.8.7.1)
+RQ  1
+EV  IPR005117; PF03460; sufficient;
+EV  IPR006067; PF01077; sufficient;
+EV  IPR011787; TIGR02042; sufficient;
+//

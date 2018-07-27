@@ -1,0 +1,75 @@
+AC  GenProp1524
+DE  Complex N-linked glycan biosynthesis (vertebrates)
+TP  PATHWAY
+AU  Caspi R
+TH  8
+DC  Complex N-linked glycan biosynthesis (vertebrates)
+DR  MetaCyc; PWY-7426;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Alpha-1,3-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase
+DN  Alpha-1,3-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase (EC 2.4.1.101)
+RQ  1
+EV  IPR004139; PF03071; sufficient;
+--
+SN  2
+ID  Alpha-1,6-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase
+DN  Alpha-1,6-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase (EC 2.4.1.143)
+RQ  1
+EV  IPR007754; PF05060; sufficient;
+--
+SN  3
+ID  Beta-1,4-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase
+DN  Beta-1,4-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase (EC 2.4.1.144)
+RQ  1
+EV  IPR006813; PF04724; sufficient;
+--
+SN  4
+ID  Alpha-1,3-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase
+DN  Alpha-1,3-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase (EC 2.4.1.145)
+RQ  1
+EV  IPR006759; PF04666; sufficient;
+--
+SN  5
+ID  Alpha-1,6-mannosyl-glycoprotein 6-beta-N-acetylglucosaminyltransferase
+DN  Alpha-1,6-mannosyl-glycoprotein 6-beta-N-acetylglucosaminyltransferase (EC 2.4.1.155)
+RQ  1
+EV  IPR027833; PF15027; sufficient;
+--
+SN  6
+ID  Glycoprotein 6-alpha-L-fucosyltransferase
+DN  Glycoprotein 6-alpha-L-fucosyltransferase (EC 2.4.1.68)
+RQ  1
+EV  IPR001452; PF14604; sufficient;
+--
+SN  7
+ID  Mannosyl-oligosaccharide 1,3-1,6-alpha-mannosidase
+DN  Mannosyl-oligosaccharide 1,3-1,6-alpha-mannosidase (EC 3.2.1.114)
+RQ  1
+EV  IPR000602; PF01074; sufficient;
+EV  IPR011682; PF07748; sufficient;
+EV  IPR015341; PF09261; sufficient;
+--
+SN  8
+ID  Beta-N-acetylglucosaminylglycopeptide beta-1,4-galactosyltransferase
+DN  Beta-N-acetylglucosaminylglycopeptide beta-1,4-galactosyltransferase (EC 2.4.1.38)
+RQ  1
+EV  IPR027791; PF02709; sufficient;
+EV  IPR027995; PF13733; sufficient;
+--
+SN  9
+ID  Beta-D-galactosyl-1,3-N-acetyl-D-galatosaminyl-glycoprotein alpha-2,3-N-acetylneuraminyltransferase
+DN  Beta-D-galactosyl-1,3-N-acetyl-D-galatosaminyl-glycoprotein alpha-2,3-N-acetylneuraminyltransferase (EC 2.4.99.6)
+RQ  1
+EV  IPR001675; PF00777; sufficient;
+--
+SN  10
+ID  Beta-galactoside alpha-2,6-sialyltransferase
+DN  Beta-galactoside alpha-2,6-sialyltransferase (EC 2.4.99.1)
+RQ  1
+EV  IPR001675; PF00777; sufficient;
+//

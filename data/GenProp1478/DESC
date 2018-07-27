@@ -1,0 +1,89 @@
+AC  GenProp1478
+DE  Chorismate biosynthesis from 3-dehydroquinate
+TP  PATHWAY
+AU  Weerasinghe D, Caspi R
+TH  4
+DC  Chorismate biosynthesis from 3-dehydroquinate
+DR  MetaCyc; PWY-6163;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  3-Phosphoshikimate 1-carboxyvinyltransferase
+DN  3-Phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+RQ  1
+EV  IPR001986; PF00275; sufficient;
+EV  IPR006264; TIGR01356; sufficient;
+EV  IPR001381; PF01487; sufficient;
+EV  IPR001381; TIGR01093; sufficient;
+EV  IPR006151; PF01488; sufficient;
+EV  IPR010110; TIGR01809; sufficient;
+EV  IPR013708; PF08501; sufficient;
+EV  IPR016037; TIGR01357; sufficient;
+EV  IPR030960; PF01761; sufficient;
+EV  IPR031322; PF01202; sufficient;
+--
+SN  2
+ID  3-Dehydroquinate dehydratase
+DN  3-Dehydroquinate dehydratase (EC 4.2.1.10)
+RQ  1
+EV  IPR001381; PF01487; sufficient;
+EV  IPR001381; TIGR01093; sufficient;
+EV  IPR001986; PF00275; sufficient;
+EV  IPR006151; PF01488; sufficient;
+EV  IPR006264; TIGR01356; sufficient;
+EV  IPR010110; TIGR01809; sufficient;
+EV  IPR013708; PF08501; sufficient;
+EV  IPR016037; TIGR01357; sufficient;
+EV  IPR030960; PF01761; sufficient;
+EV  IPR031322; PF01202; sufficient;
+--
+SN  3
+ID  Chorismate synthase
+DN  Chorismate synthase (EC 4.2.3.5)
+RQ  1
+EV  IPR000453; PF01264; sufficient;
+EV  IPR000453; TIGR00033; sufficient;
+--
+SN  4
+ID  Shikimate dehydrogenase
+DN  Shikimate dehydrogenase (EC 1.1.1.282)
+RQ  1
+EV  IPR013708; PF08501; sufficient;
+--
+SN  5
+ID  Shikimate dehydrogenase
+DN  Shikimate dehydrogenase (EC 1.1.1.25)
+RQ  1
+EV  IPR006151; PF01488; sufficient;
+EV  IPR011342; TIGR00507; sufficient;
+EV  IPR013708; PF08501; sufficient;
+EV  IPR001381; PF01487; sufficient;
+EV  IPR001381; TIGR01093; sufficient;
+EV  IPR001986; PF00275; sufficient;
+EV  IPR006264; TIGR01356; sufficient;
+EV  IPR010110; TIGR01809; sufficient;
+EV  IPR016037; TIGR01357; sufficient;
+EV  IPR030960; PF01761; sufficient;
+EV  IPR031322; PF01202; sufficient;
+--
+SN  6
+ID  Shikimate kinase
+DN  Shikimate kinase (EC 2.7.1.71)
+RQ  1
+EV  IPR006204; PF00288; sufficient;
+EV  IPR010189; TIGR01920; sufficient;
+EV  IPR013750; PF08544; sufficient;
+EV  IPR001381; PF01487; sufficient;
+EV  IPR001381; TIGR01093; sufficient;
+EV  IPR001986; PF00275; sufficient;
+EV  IPR006151; PF01488; sufficient;
+EV  IPR006264; TIGR01356; sufficient;
+EV  IPR010110; TIGR01809; sufficient;
+EV  IPR013708; PF08501; sufficient;
+EV  IPR016037; TIGR01357; sufficient;
+EV  IPR030960; PF01761; sufficient;
+EV  IPR031322; PF01202; sufficient;
+//

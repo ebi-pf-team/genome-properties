@@ -1,0 +1,28 @@
+AC  GenProp1646
+DE  L-threonine degradation II
+TP  PATHWAY
+AU  Caspi R, Wagg J
+
+DC  L-threonine degradation II
+DR  MetaCyc; THREONINE-DEG2-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  2-Amino-3-ketobutyrate coenzyme A ligase
+DN  2-Amino-3-ketobutyrate coenzyme A ligase (EC 2.3.1.29)
+RQ  1
+EV  IPR004839; PF00155; sufficient;
+EV  IPR011282; TIGR01822; sufficient;
+--
+SN  2
+ID  L-threonine dehydrogenase
+DN  L-threonine dehydrogenase (EC 1.1.1.103)
+RQ  1
+EV  IPR001670; PF00465; sufficient;
+EV  IPR004627; TIGR00692; sufficient;
+EV  IPR013149; PF00107; sufficient;
+EV  IPR013154; PF08240; sufficient;
+//

@@ -1,0 +1,25 @@
+AC  GenProp1312
+DE  Aminopropanol phosphate biosynthesis I
+TP  PATHWAY
+AU  Caspi R
+
+DC  Aminopropanol phosphate biosynthesis I
+DR  MetaCyc; PWY-5443;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Threonine-phosphate decarboxylase
+DN  Threonine-phosphate decarboxylase (EC 4.1.1.81)
+RQ  1
+EV  IPR004839; PF00155; sufficient;
+EV  IPR005860; TIGR01140; sufficient;
+--
+SN  2
+ID  L-threonine kinase
+DN  L-threonine kinase (EC 2.7.1.177)
+RQ  1
+EV  IPR006204; PF00288; sufficient;
+//

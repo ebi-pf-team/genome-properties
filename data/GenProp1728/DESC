@@ -1,0 +1,58 @@
+AC  GenProp1728
+DE  Thyroid hormone biosynthesis
+TP  PATHWAY
+AU  Fulcher C
+TH  4
+DC  Thyroid hormone biosynthesis
+DR  MetaCyc; PWY-6241;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  [thyroglobulin]-3-iodotyrosine synthase
+DN  [thyroglobulin]-3-iodotyrosine synthase (EC 1.11.1.8)
+RQ  1
+EV  IPR000436; PF00084; sufficient;
+EV  IPR019791; PF03098; sufficient;
+--
+SN  2
+ID  [thyroglobulin]-3,5-diiodotyrosine synthase
+DN  [thyroglobulin]-3,5-diiodotyrosine synthase (EC 1.11.1.8)
+RQ  1
+EV  IPR000436; PF00084; sufficient;
+EV  IPR019791; PF03098; sufficient;
+--
+SN  3
+ID  [thyroglobulin]-triiodothyronine synthase
+DN  [thyroglobulin]-triiodothyronine synthase (EC 1.11.1.8)
+RQ  1
+EV  IPR000436; PF00084; sufficient;
+EV  IPR019791; PF03098; sufficient;
+--
+SN  4
+ID  [thyroglobulin]-L-thyroxine synthase
+DN  [thyroglobulin]-L-thyroxine synthase (EC 1.11.1.8)
+RQ  1
+EV  IPR000436; PF00084; sufficient;
+EV  IPR019791; PF03098; sufficient;
+--
+SN  5
+ID  [thyroglobulin]-3,5,3'-triiodo-L-thyronine hydrolase
+DN  [thyroglobulin]-3,5,3'-triiodo-L-thyronine hydrolase
+RQ  1
+EV  IPR000668; PF00112; sufficient;
+EV  IPR012599; PF08127; sufficient;
+EV  IPR013201; PF08246; sufficient;
+EV  IPR012848; PF07966; sufficient;
+EV  IPR033121; PF00026; sufficient;
+--
+SN  6
+ID  [thyroglobulin]-L-thyroxine hydrolase
+DN  [thyroglobulin]-L-thyroxine hydrolase
+RQ  1
+EV  IPR000668; PF00112; sufficient;
+EV  IPR012599; PF08127; sufficient;
+EV  IPR013201; PF08246; sufficient;
+//

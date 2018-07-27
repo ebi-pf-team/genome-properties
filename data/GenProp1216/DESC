@@ -1,0 +1,34 @@
+AC  GenProp1216
+DE  Tetrahydrofolate salvage from 5,10-methenyltetrahydrofolate
+TP  PATHWAY
+AU  Caspi R
+
+DC  Tetrahydrofolate salvage from 5,10-methenyltetrahydrofolate
+DR  MetaCyc; PWY-6613;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Phosphoribosylglycinamide formyltransferase
+DN  Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
+RQ  1
+EV  IPR002376; PF00551; sufficient;
+EV  IPR004607; TIGR00639; sufficient;
+EV  IPR000115; TIGR00877; sufficient;
+EV  IPR004733; TIGR00878; sufficient;
+EV  IPR010918; PF02769; sufficient;
+EV  IPR016188; PF00586; sufficient;
+EV  IPR020560; PF02843; sufficient;
+EV  IPR020561; PF01071; sufficient;
+EV  IPR020562; PF02844; sufficient;
+--
+SN  2
+ID  Methenyltetrahydrofolate cyclohydrolase
+DN  Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9)
+RQ  1
+EV  IPR000559; PF01268; sufficient;
+EV  IPR020630; PF00763; sufficient;
+EV  IPR020631; PF02882; sufficient;
+//

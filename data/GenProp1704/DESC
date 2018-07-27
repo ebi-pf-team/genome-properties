@@ -1,0 +1,31 @@
+AC  GenProp1704
+DE  Trans, trans-farnesyl diphosphate biosynthesis
+TP  PATHWAY
+AU  Tissier C
+TH  1
+DC  Trans, trans-farnesyl diphosphate biosynthesis
+DR  MetaCyc; PWY-5123;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Omega,E,E-farnesyl diphosphate synthase
+DN  Omega,E,E-farnesyl diphosphate synthase (EC 2.5.1.10)
+RQ  1
+EV  IPR000092; PF00348; sufficient;
+--
+SN  2
+ID  Dimethylallyltransferase
+DN  Dimethylallyltransferase (EC 2.5.1.1)
+RQ  1
+EV  IPR000092; PF00348; sufficient;
+--
+SN  3
+ID  Isopentenyl pyrophosphate isomerase
+DN  Isopentenyl pyrophosphate isomerase (EC 5.3.3.2)
+RQ  1
+EV  IPR000086; PF00293; sufficient;
+EV  IPR011876; TIGR02150; sufficient;
+//

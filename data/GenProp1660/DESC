@@ -1,0 +1,32 @@
+AC  GenProp1660
+DE  L-asparagine biosynthesis III (tRNA-dependent)
+TP  PATHWAY
+AU  Caspi R
+
+DC  L-asparagine biosynthesis III (tRNA-dependent)
+DR  MetaCyc; PWY490-4;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Anspartyl-tRNA(Asn) amidotransferase
+DN  Anspartyl-tRNA(Asn) amidotransferase (EC 6.3.5.6)
+RQ  1
+EV  IPR004412; TIGR00132; sufficient;
+EV  IPR023631; PF01425; sufficient;
+EV  IPR004413; TIGR00133; sufficient;
+EV  IPR006075; PF02934; sufficient;
+EV  IPR018027; PF02637; sufficient;
+EV  IPR003837; PF02686; sufficient;
+EV  IPR003837; TIGR00135; sufficient;
+--
+SN  2
+ID  Aspartate--tRNA ligase
+DN  Aspartate--tRNA ligase (EC 6.1.1.23)
+RQ  1
+EV  IPR004364; PF00152; sufficient;
+EV  IPR004365; PF01336; sufficient;
+EV  IPR004523; TIGR00458; sufficient;
+//

@@ -1,0 +1,47 @@
+AC  GenProp1603
+DE  C20 prostanoid biosynthesis
+TP  PATHWAY
+AU  Weerasinghe D, Trupp M
+TH  3
+DC  C20 prostanoid biosynthesis
+DR  MetaCyc; PWY66-374;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Prostaglandin-H2 D-isomerase
+DN  Prostaglandin-H2 D-isomerase (EC 5.3.99.2)
+RQ  1
+EV  IPR000566; PF00061; sufficient;
+EV  IPR004045; PF02798; sufficient;
+EV  IPR004046; PF14497; sufficient;
+--
+SN  2
+ID  Prostaglandin E synthase
+DN  Prostaglandin E synthase (EC 5.3.99.3)
+RQ  1
+EV  IPR001129; PF01124; sufficient;
+EV  IPR007052; PF04969; sufficient;
+EV  IPR004045; PF13417; sufficient;
+--
+SN  3
+ID  Prostaglandin G/H synthase
+DN  Prostaglandin G/H synthase (EC 1.14.99.1)
+RQ  1
+EV  IPR000742; PF00008; sufficient;
+EV  IPR019791; PF03098; sufficient;
+--
+SN  4
+ID  Prostacyclin synthase
+DN  Prostacyclin synthase (EC 5.3.99.4)
+RQ  1
+EV  IPR001128; PF00067; sufficient;
+--
+SN  5
+ID  Thromboxane-A synthase
+DN  Thromboxane-A synthase (EC 5.3.99.5)
+RQ  1
+EV  IPR001128; PF00067; sufficient;
+//

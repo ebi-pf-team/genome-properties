@@ -1,0 +1,31 @@
+AC  GenProp1335
+DE  Ceramide degradation
+TP  PATHWAY
+AU  Zhang P
+TH  1
+DC  Ceramide degradation
+DR  MetaCyc; PWY-6483;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Ceramidase
+DN  Ceramidase (EC 3.5.1.23)
+RQ  1
+EV  IPR031329; PF04734; sufficient;
+EV  IPR031331; PF17048; sufficient;
+--
+SN  2
+ID  Sphingoid base kinase
+DN  Sphingoid base kinase (EC 2.7.1.91)
+RQ  1
+EV  IPR001206; PF00781; sufficient;
+--
+SN  3
+ID  Sphingoid 1-phosphate lyase
+DN  Sphingoid 1-phosphate lyase
+RQ  1
+EV  IPR002129; PF00282; sufficient;
+//

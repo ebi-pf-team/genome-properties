@@ -1,0 +1,178 @@
+AC  GenProp1491
+DE  Ac/N-end rule pathway
+TP  PATHWAY
+AU  Caspi R
+TH  19
+DC  Ac/N-end rule pathway
+DR  MetaCyc; PWY-7800;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  N-terminal methionine Nalpha-acetyltransferase
+DN  N-terminal methionine Nalpha-acetyltransferase (EC 2.3.1.254)
+RQ  1
+EV  IPR019183; PF09797; sufficient;
+EV  IPR000182; PF00583; sufficient;
+--
+SN  2
+ID  N-terminal methionine Nalpha-acetyltransferase
+DN  N-terminal methionine Nalpha-acetyltransferase (EC 2.3.1.254)
+RQ  1
+EV  IPR019183; PF09797; sufficient;
+EV  IPR000182; PF00583; sufficient;
+--
+SN  3
+ID  N-terminal methionine Nalpha-acetyltransferase
+DN  N-terminal methionine Nalpha-acetyltransferase (EC 2.3.1.254)
+RQ  1
+EV  IPR019183; PF09797; sufficient;
+EV  IPR000182; PF00583; sufficient;
+--
+SN  4
+ID  N-terminal methionine Nalpha-acetyltransferase
+DN  N-terminal methionine Nalpha-acetyltransferase (EC 2.3.1.254)
+RQ  1
+EV  IPR019183; PF09797; sufficient;
+EV  IPR000182; PF00583; sufficient;
+--
+SN  5
+ID  N-terminal methionine Nalpha-acetyltransferase
+DN  N-terminal methionine Nalpha-acetyltransferase (EC 2.3.1.258)
+RQ  1
+EV  IPR007244; PF04112; sufficient;
+EV  IPR000182; PF00583; sufficient;
+EV  IPR001163; PF01423; sufficient;
+--
+SN  6
+ID  N-terminal methionine Nalpha-acetyltransferase
+DN  N-terminal methionine Nalpha-acetyltransferase (EC 2.3.1.256)
+RQ  1
+EV  IPR007244; PF04112; sufficient;
+EV  IPR000182; PF00583; sufficient;
+EV  IPR001163; PF01423; sufficient;
+--
+SN  7
+ID  N-terminal methionine Nalpha-acetyltransferase
+DN  N-terminal methionine Nalpha-acetyltransferase (EC 2.3.1.256)
+RQ  1
+EV  IPR007244; PF04112; sufficient;
+EV  IPR000182; PF00583; sufficient;
+EV  IPR001163; PF01423; sufficient;
+--
+SN  8
+ID  N-terminal methionine Nalpha-acetyltransferase
+DN  N-terminal methionine Nalpha-acetyltransferase (EC 2.3.1.256)
+RQ  1
+EV  IPR007244; PF04112; sufficient;
+EV  IPR000182; PF00583; sufficient;
+EV  IPR001163; PF01423; sufficient;
+--
+SN  9
+ID  N-terminal L-methionine Nalpha-acetyltransferase
+DN  N-terminal L-methionine Nalpha-acetyltransferase (EC 2.3.1.256)
+RQ  1
+EV  IPR007244; PF04112; sufficient;
+EV  IPR000182; PF00583; sufficient;
+EV  IPR001163; PF01423; sufficient;
+--
+SN  10
+ID  N-terminal valine Nalpha-acetyltransferase
+DN  N-terminal valine Nalpha-acetyltransferase (EC 2.3.1.255)
+RQ  1
+EV  IPR019734; PF13181; sufficient;
+EV  IPR021183; PF12569; sufficient;
+EV  IPR000182; PF00583; sufficient;
+--
+SN  11
+ID  N-terminal alanine Nalpha-acetyltransferase
+DN  N-terminal alanine Nalpha-acetyltransferase (EC 2.3.1.255)
+RQ  1
+EV  IPR019734; PF13181; sufficient;
+EV  IPR021183; PF12569; sufficient;
+EV  IPR000182; PF00583; sufficient;
+--
+SN  12
+ID  N-terminal cysteine Nalpha-acetyltransferase
+DN  N-terminal cysteine Nalpha-acetyltransferase (EC 2.3.1.255)
+RQ  1
+EV  IPR019734; PF13181; sufficient;
+EV  IPR021183; PF12569; sufficient;
+EV  IPR000182; PF00583; sufficient;
+--
+SN  13
+ID  N-terminal glycine Nalpha-acetyltransferase
+DN  N-terminal glycine Nalpha-acetyltransferase (EC 2.3.1.255)
+RQ  1
+EV  IPR019734; PF13181; sufficient;
+EV  IPR021183; PF12569; sufficient;
+EV  IPR000182; PF00583; sufficient;
+--
+SN  14
+ID  N-terminal serine Nalpha-acetyltransferase
+DN  N-terminal serine Nalpha-acetyltransferase (EC 2.3.1.255)
+RQ  1
+EV  IPR019734; PF13181; sufficient;
+EV  IPR021183; PF12569; sufficient;
+EV  IPR000182; PF00583; sufficient;
+--
+SN  15
+ID  N-terminal threonine Nalpha-acetyltransferase
+DN  N-terminal threonine Nalpha-acetyltransferase (EC 2.3.1.255)
+RQ  1
+EV  IPR019734; PF13181; sufficient;
+EV  IPR021183; PF12569; sufficient;
+EV  IPR000182; PF00583; sufficient;
+--
+SN  16
+ID  Methionine aminopeptidase
+DN  Methionine aminopeptidase (EC 3.4.11.18)
+RQ  1
+EV  IPR000994; PF00557; sufficient;
+EV  IPR002467; TIGR00500; sufficient;
+EV  IPR031615; PF15801; sufficient;
+EV  IPR002468; TIGR00501; sufficient;
+--
+SN  17
+ID  Methionine aminopeptidase
+DN  Methionine aminopeptidase (EC 3.4.11.18)
+RQ  1
+EV  IPR000994; PF00557; sufficient;
+EV  IPR002467; TIGR00500; sufficient;
+EV  IPR031615; PF15801; sufficient;
+EV  IPR002468; TIGR00501; sufficient;
+--
+SN  18
+ID  Methionine aminopeptidase
+DN  Methionine aminopeptidase (EC 3.4.11.18)
+RQ  1
+EV  IPR000994; PF00557; sufficient;
+EV  IPR002467; TIGR00500; sufficient;
+EV  IPR031615; PF15801; sufficient;
+EV  IPR002468; TIGR00501; sufficient;
+--
+SN  19
+ID  Methionine aminopeptidase
+DN  Methionine aminopeptidase (EC 3.4.11.18)
+RQ  1
+EV  IPR000994; PF00557; sufficient;
+EV  IPR002467; TIGR00500; sufficient;
+EV  IPR031615; PF15801; sufficient;
+EV  IPR002468; TIGR00501; sufficient;
+--
+SN  20
+ID  Methionine aminopeptidase
+DN  Methionine aminopeptidase (EC 3.4.11.18)
+RQ  1
+EV  IPR000994; PF00557; sufficient;
+EV  IPR002468; TIGR00501; sufficient;
+--
+SN  21
+ID  Methionine aminopeptidase
+DN  Methionine aminopeptidase (EC 3.4.11.18)
+RQ  1
+EV  IPR000994; PF00557; sufficient;
+EV  IPR002468; TIGR00501; sufficient;
+//

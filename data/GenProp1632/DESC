@@ -1,0 +1,33 @@
+AC  GenProp1632
+DE  Erythro-tetrahydrobiopterin biosynthesis I
+TP  PATHWAY
+AU  Caspi R
+TH  1
+DC  Erythro-tetrahydrobiopterin biosynthesis I
+DR  MetaCyc; PWY-5663;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  6-Pyruvoyltetrahydropterin synthase
+DN  6-Pyruvoyltetrahydropterin synthase (EC 4.2.3.12)
+RQ  1
+EV  IPR007115; PF01242; sufficient;
+EV  IPR007115; TIGR00039; sufficient;
+--
+SN  2
+ID  GTP cyclohydrolase
+DN  GTP cyclohydrolase (EC 3.5.4.16)
+RQ  1
+EV  IPR001474; TIGR00063; sufficient;
+EV  IPR020602; PF01227; sufficient;
+--
+SN  3
+ID  Sepiapterin reductase [(6R)-tetrahydrobiopterin-forming]
+DN  Sepiapterin reductase [(6R)-tetrahydrobiopterin-forming] (EC 1.1.1.153)
+RQ  1
+EV  IPR002347; PF00106; sufficient;
+EV  IPR006393; TIGR01500; sufficient;
+//

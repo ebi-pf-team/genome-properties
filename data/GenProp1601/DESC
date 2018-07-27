@@ -1,0 +1,42 @@
+AC  GenProp1601
+DE  Superpathway of coenzyme A biosynthesis I (bacteria)
+TP  PATHWAY
+AU  Arnaud M
+TH  2
+DC  Superpathway of coenzyme A biosynthesis I (bacteria)
+DR  MetaCyc; PANTOSYN-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Aspartate 1-decarboxylase
+DN  Aspartate 1-decarboxylase (EC 4.1.1.11)
+RQ  1
+EV  IPR003190; PF02261; sufficient;
+EV  IPR003190; TIGR00223; sufficient;
+--
+SN  2
+ID  Phosphopantothenoylcysteine synthetase
+DN  Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
+RQ  1
+EV  IPR003382; PF02441; sufficient;
+EV  IPR005252; TIGR00521; sufficient;
+EV  IPR007085; PF04127; sufficient;
+--
+SN  3
+ID  Pantoate beta-alanine ligase
+DN  Pantoate beta-alanine ligase (EC 6.3.2.1)
+RQ  1
+EV  IPR003721; PF02569; sufficient;
+EV  IPR003721; TIGR00018; sufficient;
+EV  IPR004821; TIGR00125; sufficient;
+--
+SN  4
+ID  Pantothenate kinase
+DN  Pantothenate kinase (EC 2.7.1.33)
+RQ  1
+EV  IPR004566; TIGR00554; sufficient;
+EV  IPR006083; PF00485; sufficient;
+//

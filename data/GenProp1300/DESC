@@ -1,0 +1,54 @@
+AC  GenProp1300
+DE  Urea cycle
+TP  PATHWAY
+AU  Caspi R
+TH  3
+DC  Urea cycle
+DR  MetaCyc; PWY-4984;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Arginase
+DN  Arginase (EC 3.5.3.1)
+RQ  1
+EV  IPR006035; PF00491; sufficient;
+EV  IPR014033; TIGR01229; sufficient;
+--
+SN  2
+ID  Argininosuccinase
+DN  Argininosuccinase (EC 4.3.2.1)
+RQ  1
+EV  IPR009049; TIGR00838; sufficient;
+EV  IPR022761; PF00206; sufficient;
+EV  IPR029419; PF14698; sufficient;
+--
+SN  3
+ID  Argininosuccinate synthase
+DN  Argininosuccinate synthase (EC 6.3.4.5)
+RQ  1
+EV  IPR001518; PF00764; sufficient;
+EV  IPR001518; TIGR00032; sufficient;
+--
+SN  4
+ID  Ornithine carbamoyltransferase
+DN  Ornithine carbamoyltransferase (EC 2.1.3.3)
+RQ  1
+EV  IPR002292; TIGR00658; sufficient;
+EV  IPR006131; PF00185; sufficient;
+EV  IPR006132; PF02729; sufficient;
+--
+SN  5
+ID  Ammonia-dependent carbamoyl-phosphate synthase
+DN  Ammonia-dependent carbamoyl-phosphate synthase (EC 6.3.4.16)
+RQ  1
+EV  IPR002474; PF00988; sufficient;
+EV  IPR005479; PF02786; sufficient;
+EV  IPR005480; PF02787; sufficient;
+EV  IPR006274; TIGR01368; sufficient;
+EV  IPR006275; TIGR01369; sufficient;
+EV  IPR011607; PF02142; sufficient;
+EV  IPR017926; PF00117; sufficient;
+//

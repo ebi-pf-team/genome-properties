@@ -1,0 +1,21 @@
+AC  GenProp1526
+DE  Chondroitin sulfate biosynthesis
+TP  Pathway
+AU  Caspi R
+DC  Chondroitin sulfate biosynthesis
+DR  MetaCyc; PWY-6569;
+CC  See MetaCyc for additional information and references relating to this
+CC  property.
+--
+SN  1
+ID  Galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase
+DN  Galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase (EC 2.4.1.135)
+RQ  1
+EV  IPR005027; PF03360; sufficient;
+--
+SN  2
+ID  Glucuronylgalactosylproteoglycan 4-beta-N-acetylgalactosaminyltransferase
+DN  Glucuronylgalactosylproteoglycan 4-beta-N-acetylgalactosaminyltransferase (EC 2.4.1.174)
+RQ  1
+EV  IPR008428; PF05679; sufficient;
+//

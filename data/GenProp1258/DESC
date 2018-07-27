@@ -1,0 +1,40 @@
+AC  GenProp1258
+DE  Superpathway of S-adenosyl-L-methionine biosynthesis
+TP  PATHWAY
+AU  Caspi R
+TH  1
+DC  Superpathway of S-adenosyl-L-methionine biosynthesis
+DR  MetaCyc; MET-SAM-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Cobalamin-independent homocysteine transmethylase
+DN  Cobalamin-independent homocysteine transmethylase (EC 2.1.1.14)
+RQ  1
+EV  IPR002629; PF01717; sufficient;
+EV  IPR006276; TIGR01371; sufficient;
+EV  IPR013215; PF08267; sufficient;
+--
+SN  2
+ID  Methionine synthase
+DN  Methionine synthase (EC 2.1.1.13)
+RQ  1
+EV  IPR000489; PF00809; sufficient;
+EV  IPR003726; PF02574; sufficient;
+EV  IPR003759; PF02607; sufficient;
+EV  IPR004223; PF02965; sufficient;
+EV  IPR006158; PF02310; sufficient;
+EV  IPR011822; TIGR02082; sufficient;
+--
+SN  3
+ID  Methionine adenosyltransferase
+DN  Methionine adenosyltransferase (EC 2.5.1.6)
+RQ  1
+EV  IPR002133; TIGR01034; sufficient;
+EV  IPR022628; PF00438; sufficient;
+EV  IPR022629; PF02772; sufficient;
+EV  IPR022630; PF02773; sufficient;
+//

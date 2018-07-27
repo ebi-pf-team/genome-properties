@@ -1,0 +1,36 @@
+AC  GenProp1408
+DE  2-Oxoisovalerate decarboxylation to isobutanoyl-CoA
+TP  PATHWAY
+AU  Caspi R
+TH  1
+DC  2-Oxoisovalerate decarboxylation to isobutanoyl-CoA
+DR  MetaCyc; PWY-5046;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  2-Keto-isovalerate dehydrogenase component
+DN  2-Keto-isovalerate dehydrogenase component (EC 1.2.4.4)
+RQ  1
+EV  IPR001017; PF00676; sufficient;
+EV  IPR005475; PF02779; sufficient;
+EV  IPR033248; PF02780; sufficient;
+--
+SN  2
+ID  Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase
+DN  Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase (EC 2.3.1.168)
+RQ  1
+EV  IPR000089; PF00364; sufficient;
+EV  IPR001078; PF00198; sufficient;
+EV  IPR004167; PF02817; sufficient;
+--
+SN  3
+ID  Dihydrolipoyl dehydrogenase
+DN  Dihydrolipoyl dehydrogenase (EC 1.8.1.4)
+RQ  1
+EV  IPR004099; PF02852; sufficient;
+EV  IPR006258; TIGR01350; sufficient;
+EV  IPR023753; PF07992; sufficient;
+//

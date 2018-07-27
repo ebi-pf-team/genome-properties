@@ -1,0 +1,44 @@
+AC  GenProp1381
+DE  Methylphosphonate degradation I
+TP  PATHWAY
+AU  Caspi R, Keseler I
+TH  2
+DC  Methylphosphonate degradation I
+DR  MetaCyc; PWY0-1533;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Phosphoribosyl 1,2-cyclic phosphodiesterase
+DN  Phosphoribosyl 1,2-cyclic phosphodiesterase (EC 3.1.4.55)
+RQ  1
+EV  IPR001279; PF12706; sufficient;
+EV  IPR017693; TIGR03307; sufficient;
+--
+SN  2
+ID  alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase
+DN  alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase (EC 2.7.8.37)
+RQ  1
+EV  IPR009609; PF06754; sufficient;
+EV  IPR009609; TIGR03293; sufficient;
+EV  IPR008772; PF05845; sufficient;
+EV  IPR008772; TIGR03292; sufficient;
+EV  IPR008773; PF05861; sufficient;
+EV  IPR003439; PF00005; sufficient;
+EV  IPR012701; TIGR02324; sufficient;
+--
+SN  3
+ID  alpha-D-ribose-1-methylphosphonate-5-triphosphate diphosphatase
+DN  alpha-D-ribose-1-methylphosphonate-5-triphosphate diphosphatase (EC 3.6.1.63)
+RQ  1
+EV  IPR012696; TIGR02318; sufficient;
+EV  IPR013108; PF07969; sufficient;
+--
+SN  4
+ID  Carbon-phosphorous lyase
+DN  Carbon-phosphorous lyase (EC 4.7.1.1)
+RQ  1
+EV  IPR010306; PF06007; sufficient;
+//

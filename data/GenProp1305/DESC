@@ -1,0 +1,28 @@
+AC  GenProp1305
+DE  NAD phosphorylation and transhydrogenation
+TP  PATHWAY
+AU  Weerasinghe D, Riley M
+
+DC  NAD phosphorylation and transhydrogenation
+DR  MetaCyc; NADPHOS-DEPHOS-PWY-1;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  NAD kinase
+DN  NAD kinase (EC 2.7.1.23)
+RQ  1
+EV  IPR002504; PF01513; sufficient;
+--
+SN  2
+ID  NAD(P) transhydrogenase
+DN  NAD(P) transhydrogenase (EC 1.6.1.5)
+RQ  1
+EV  IPR007698; PF01262; sufficient;
+EV  IPR007886; PF05222; sufficient;
+EV  IPR012136; PF02233; sufficient;
+EV  IPR024605; PF12769; sufficient;
+EV  IPR026255; TIGR00561; sufficient;
+//

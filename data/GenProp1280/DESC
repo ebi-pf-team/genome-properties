@@ -1,0 +1,50 @@
+AC  GenProp1280
+DE  L-arginine degradation II (AST pathway)
+TP  PATHWAY
+AU  Caspi R, Ingraham J
+TH  3
+DC  L-arginine degradation II (AST pathway)
+DR  MetaCyc; AST-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Arginine succinyltransferase
+DN  Arginine succinyltransferase (EC 2.3.1.109)
+RQ  1
+EV  IPR007041; PF04958; sufficient;
+EV  IPR007041; TIGR03243; sufficient;
+EV  IPR017650; TIGR03244; sufficient;
+EV  IPR017651; TIGR03245; sufficient;
+--
+SN  2
+ID  N-succinylarginine dihydrolase
+DN  N-succinylarginine dihydrolase (EC 3.5.3.23)
+RQ  1
+EV  IPR007079; PF04996; sufficient;
+EV  IPR007079; TIGR03241; sufficient;
+--
+SN  3
+ID  Succinylglutamate semialdehyde dehydrogenase
+DN  Succinylglutamate semialdehyde dehydrogenase (EC 1.2.1.71)
+RQ  1
+EV  IPR015590; PF00171; sufficient;
+EV  IPR017649; TIGR03240; sufficient;
+--
+SN  4
+ID  Succinylglutamate desuccinylase
+DN  Succinylglutamate desuccinylase (EC 3.5.1.96)
+RQ  1
+EV  IPR007036; PF04952; sufficient;
+EV  IPR016681; TIGR03242; sufficient;
+--
+SN  5
+ID  Succinylornithine transaminase
+DN  Succinylornithine transaminase (EC 2.6.1.81)
+RQ  1
+EV  IPR004636; TIGR00707; sufficient;
+EV  IPR005814; PF00202; sufficient;
+EV  IPR017652; TIGR03246; sufficient;
+//

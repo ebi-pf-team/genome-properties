@@ -1,0 +1,38 @@
+AC  GenProp1695
+DE  Serotonin and melatonin biosynthesis
+TP  PATHWAY
+AU  Weerasinghe D, Evsikov A
+TH  2
+DC  Serotonin and melatonin biosynthesis
+DR  MetaCyc; PWY-6030;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Acetylserotonin O-methyltransferase
+DN  Acetylserotonin O-methyltransferase (EC 2.1.1.4)
+RQ  1
+EV  IPR001077; PF00891; sufficient;
+EV  IPR031725; PF16864; sufficient;
+--
+SN  2
+ID  5-Hydroxy-L-tryptophan decarboxylase
+DN  5-Hydroxy-L-tryptophan decarboxylase (EC 4.1.1.28)
+RQ  1
+EV  IPR002129; PF00282; sufficient;
+--
+SN  3
+ID  Serotonin N-acetyltransferase
+DN  Serotonin N-acetyltransferase (EC 2.3.1.87)
+RQ  1
+EV  IPR000182; PF00583; sufficient;
+--
+SN  4
+ID  Tryptophan 5-hydroxylase
+DN  Tryptophan 5-hydroxylase (EC 1.14.16.4)
+RQ  1
+EV  IPR005963; TIGR01270; sufficient;
+EV  IPR019774; PF00351; sufficient;
+//

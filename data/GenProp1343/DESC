@@ -1,0 +1,50 @@
+AC  GenProp1343
+DE  Guanosine deoxyribonucleotides de novo biosynthesis II
+TP  PATHWAY
+AU  Caspi R
+TH  2
+DC  Guanosine deoxyribonucleotides de novo biosynthesis II
+DR  MetaCyc; PWY-7222;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  DGDP kinase
+DN  DGDP kinase (EC 2.7.4.6)
+RQ  1
+EV  IPR001564; PF00334; sufficient;
+EV  IPR006259; TIGR01351; sufficient;
+EV  IPR007862; PF05191; sufficient;
+--
+SN  2
+ID  GDP reductase
+DN  GDP reductase (EC 1.17.4.1)
+RQ  1
+EV  IPR000788; PF02867; sufficient;
+EV  IPR005144; PF03477; sufficient;
+EV  IPR013346; TIGR02506; sufficient;
+EV  IPR013509; PF00317; sufficient;
+EV  IPR000358; PF00268; sufficient;
+--
+SN  3
+ID  GTP reductase
+DN  GTP reductase (EC 1.1.98.6)
+RQ  1
+EV  IPR005144; PF03477; sufficient;
+EV  IPR012833; PF13597; sufficient;
+EV  IPR012833; TIGR02487; sufficient;
+--
+SN  4
+ID  2'-Deoxyguanosine 5'-diphosphate:oxidized NrdH glutaredoxin-like protein oxidoreductase
+DN  2'-Deoxyguanosine 5'-diphosphate:oxidized NrdH glutaredoxin-like protein oxidoreductase (EC 1.17.4.1)
+RQ  1
+EV  IPR000788; PF02867; sufficient;
+EV  IPR013346; TIGR02506; sufficient;
+EV  IPR013509; PF00317; sufficient;
+EV  IPR013554; PF08343; sufficient;
+EV  IPR026459; TIGR04170; sufficient;
+EV  IPR000358; PF00268; sufficient;
+EV  IPR026494; TIGR04171; sufficient;
+//

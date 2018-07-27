@@ -1,0 +1,30 @@
+AC  GenProp1394
+DE  Trehalose degradation I (low osmolarity)
+TP  PATHWAY
+AU  Caspi R, Riley M
+
+DC  Trehalose degradation I (low osmolarity)
+DR  MetaCyc; TREDEGLOW-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Glucokinase
+DN  Glucokinase (EC 2.7.1.2)
+RQ  1
+EV  IPR000600; PF00480; sufficient;
+EV  IPR004654; TIGR00744; sufficient;
+EV  IPR003836; PF02685; sufficient;
+EV  IPR003836; TIGR00749; sufficient;
+--
+SN  2
+ID  Trehalose-6-phosphate hydrolase
+DN  Trehalose-6-phosphate hydrolase (EC 3.2.1.93)
+RQ  1
+EV  IPR006047; PF00128; sufficient;
+EV  IPR012769; TIGR02403; sufficient;
+EV  IPR032091; PF16657; sufficient;
+EV  IPR022567; PF11941; sufficient;
+//

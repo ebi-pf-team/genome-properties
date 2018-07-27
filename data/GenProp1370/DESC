@@ -1,0 +1,25 @@
+AC  GenProp1370
+DE  Ethylene glycol degradation
+TP  PATHWAY
+AU  Ingraham J
+
+DC  Ethylene glycol degradation
+DR  MetaCyc; PWY0-1280;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Glycolaldehyde dehydrogenase
+DN  Glycolaldehyde dehydrogenase (EC 1.2.1.21)
+RQ  1
+EV  IPR015590; PF00171; sufficient;
+--
+SN  2
+ID  Glycolaldehyde reductase
+DN  Glycolaldehyde reductase (EC 1.1.1.77)
+RQ  1
+EV  IPR001670; PF00465; sufficient;
+EV  IPR013460; TIGR02638; sufficient;
+//
