@@ -130,4 +130,9 @@ SN  25
 ID  Glutaminyl-tRNAgln biosynthesis via transamidation
 RQ  0
 EV  GenProp1383;
+--
+SN  26
+ID  Vitamin Biosynthesis
+RQ  0
+EV  GenProp1765;
 //
