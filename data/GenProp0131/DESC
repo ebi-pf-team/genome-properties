@@ -35,4 +35,19 @@ SN  6
 ID  NAD/NADP-NADH/NADPH mitochondrial interconversion (yeast)
 RQ  0
 EV  GenProp1677;
+--
+SN  7
+ID  Trans, trans-farnesyl diphosphate biosynthesis
+RQ  0
+EV  GenProp1704;
+--
+SN  8
+ID  Polyisoprenoid biosynthesis (E. coli)
+RQ  0
+EV  GenProp1479;
+--
+SN  9
+ID  Di-trans,poly-cis-undecaprenyl phosphate biosynthesis
+RQ  0
+EV  GenProp1670;
 //
