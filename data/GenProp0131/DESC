@@ -10,4 +10,29 @@ SN  1
 ID  Rnf-type electron transport complex
 RQ  0
 EV  GenProp0130;
+--
+SN  2
+ID  NAD biosynthesis III
+RQ  0
+EV  GenProp1296;
+--
+SN  3
+ID  NAD salvage pathway III
+RQ  0
+EV  GenProp1658;
+--
+SN  4
+ID  NAD phosphorylation and transhydrogenation
+RQ  0
+EV  GenProp1305;
+--
+SN  5
+ID  NAD/NADP-NADH/NADPH cytosolic interconversion (yeast)
+RQ  0
+EV  GenProp1502;
+--
+SN  6
+ID  NAD/NADP-NADH/NADPH mitochondrial interconversion (yeast)
+RQ  0
+EV  GenProp1677;
 //
