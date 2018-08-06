@@ -135,4 +135,24 @@ SN  26
 ID  Vitamin Biosynthesis
 RQ  0
 EV  GenProp1765;
+--
+SN  27
+ID  Glutathione biosynthesis
+RQ  0
+EV  GenProp1359;
+--
+SN  28
+ID  Bacillithiol biosynthesis
+RQ  0
+EV  GenProp1505;
+--
+SN  29
+ID  Gamma-glutamyl cycle
+RQ  0
+EV  GenProp1664;
+--
+SN  30
+ID  Glutathione-peroxide redox reactions
+RQ  0
+EV  GenProp1721;
 //
