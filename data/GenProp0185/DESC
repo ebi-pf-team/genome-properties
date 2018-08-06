@@ -35,4 +35,154 @@ SN  6
 ID  Adenosine monophosphate (AMP) biosynthesis from inosine monophosphate (IMP)
 RQ  0
 EV  GenProp0747;
+--
+SN  7
+ID  Adenosine deoxyribonucleotides de novo biosynthesis II
+RQ  0
+EV  GenProp1446;
+--
+SN  8
+ID  Adenosine deoxyribonucleotides de novo biosynthesis
+RQ  0
+EV  GenProp1586;
+--
+SN  9
+ID  Guanosine deoxyribonucleotides de novo biosynthesis I
+RQ  0
+EV  GenProp1227;
+--
+SN  10
+ID  Guanosine deoxyribonucleotides de novo biosynthesis II
+RQ  0
+EV  GenProp1343;
+--
+SN  11
+ID  Pyrimidine deoxyribonucleotides de novo biosynthesis I
+RQ  0
+EV  GenProp1617;
+--
+SN  12
+ID  Pyrimidine deoxyribonucleotides de novo biosynthesis II
+RQ  0
+EV  GenProp1621;
+--
+SN  13
+ID  5-Aminoimidazole ribonucleotide biosynthesis I
+RQ  0
+EV  GenProp1284;
+--
+SN  14
+ID  5-Aminoimidazole ribonucleotide biosynthesis II
+RQ  0
+EV  GenProp1628;
+--
+SN  15
+ID  Inosine-5'-phosphate biosynthesis I
+RQ  0
+EV  GenProp1730;
+--
+SN  16
+ID  Inosine-5'-phosphate biosynthesis II
+RQ  0
+EV  GenProp1757;
+--
+SN  17
+ID  Adenosine ribonucleotides de novo biosynthesis
+RQ  0
+EV  GenProp1372;
+--
+SN  18
+ID  Guanosine ribonucleotides de novo biosynthesis
+RQ  0
+EV  GenProp1650;
+--
+SN  19
+ID  Adenine and adenosine salvage III
+RQ  0
+EV  GenProp1235;
+--
+SN  20
+ID  Adenine salvage
+RQ  0
+EV  GenProp1268;
+--
+SN  21
+ID  Adenine and adenosine salvage II
+RQ  0
+EV  GenProp1430;
+--
+SN  22
+ID  Adenine and adenosine salvage V
+RQ  0
+EV  GenProp1741;
+--
+SN  23
+ID  Guanine and guanosine salvage
+RQ  0
+EV  GenProp1528;
+--
+SN  24
+ID  Purine deoxyribonucleosides salvage
+RQ  0
+EV  GenProp1607;
+--
+SN  25
+ID  Xanthine and xanthosine salvage
+RQ  0
+EV  GenProp1611;
+--
+SN  26
+ID  UMP biosynthesis III
+RQ  0
+EV  GenProp1418;
+--
+SN  27
+ID  UMP biosynthesis I
+RQ  0
+EV  GenProp1427;
+--
+SN  28
+ID  UMP biosynthesis II
+RQ  0
+EV  GenProp1614;
+--
+SN  29
+ID  UTP and CTP de novo biosynthesis
+RQ  0
+EV  GenProp1262;
+--
+SN  30
+ID  Pyrimidine deoxyribonucleosides salvage
+RQ  0
+EV  GenProp1221;
+--
+SN  31
+ID  Pyrimidine nucleobases salvage II
+RQ  0
+EV  GenProp1361;
+--
+SN  32
+ID  Pyrimidine ribonucleosides salvage I
+RQ  0
+EV  GenProp1384;
+--
+SN  33
+ID  Pyrimidine ribonucleosides salvage II
+RQ  0
+EV  GenProp1465;
+--
+SN  34
+ID  Pyrimidine deoxyribonucleotide phosphorylation
+RQ  0
+EV  GenProp1494;
+--
+SN  35
+ID  Pyrimidine ribonucleosides salvage III
+RQ  0
+EV  GenProp1540;
+--
+SN  36
+ID  CMP phosphorylation
+RQ  0
+EV  GenProp1634;
 //
