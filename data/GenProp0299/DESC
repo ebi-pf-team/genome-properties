@@ -24,4 +24,59 @@ SN  3
 ID  Acyl carrier protein phosphopantetheinylation
 RQ  0
 EV  GenProp1104;
+--
+SN  4
+ID  Alpha-linolenate biosynthesis I (plants and red algae)
+RQ  0
+EV  GenProp1339;
+--
+SN  5
+ID  Gamma-linolenate biosynthesis II (animals)
+RQ  0
+EV  GenProp1452;
+--
+SN  6
+ID  Linoleate biosynthesis I (plants)
+RQ  0
+EV  GenProp1761;
+--
+SN  7
+ID  Oleate biosynthesis II (animals and fungi)
+RQ  0
+EV  GenProp1587;
+--
+SN  8
+ID  Pinolenate and coniferonate biosynthesis
+RQ  0
+EV  GenProp1597;
+--
+SN  9
+ID  Fatty acid biosynthesis initiation II
+RQ  0
+EV  GenProp1220;
+--
+SN  10
+ID  Fatty acid biosynthesis initiation III
+RQ  0
+EV  GenProp1315;
+--
+SN  11
+ID  Very long chain fatty acid biosynthesis II
+RQ  0
+EV  GenProp1376;
+--
+SN  12
+ID  Fatty acid biosynthesis initiation I
+RQ  0
+EV  GenProp1512;
+--
+SN  13
+ID  Fatty acid salvage
+RQ  0
+EV  GenProp1562;
+--
+SN  14
+ID  Very long chain fatty acid biosynthesis I
+RQ  0
+EV  GenProp1569;
 //
