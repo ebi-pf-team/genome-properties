@@ -160,4 +160,14 @@ SN  31
 ID  Hormone biosynthesis
 RQ  0
 EV  GenProp1766;
+--
+SN  32
+ID  Fructose 2,6-bisphosphate biosynthesis
+RQ  0
+EV  GenProp1248;
+--
+SN  33
+ID  PpGpp biosynthesis
+RQ  0
+EV  GenProp1755;
 //
