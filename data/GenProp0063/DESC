@@ -175,4 +175,14 @@ SN  34
 ID  Secondary metabolites biosynthesis
 RQ  0
 EV  GenProp1767;
+--
+SN  35
+ID  Yersiniabactin biosynthesis
+RQ  0
+EV  GenProp1462;
+--
+SN  36
+ID  Staphyloferrin A biosynthesis
+RQ  0
+EV  GenProp1593;
 //
