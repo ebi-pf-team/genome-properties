@@ -155,4 +155,9 @@ SN  30
 ID  Glutathione-peroxide redox reactions
 RQ  0
 EV  GenProp1721;
+--
+SN  31
+ID  Hormone biosynthesis
+RQ  0
+EV  GenProp1766;
 //
