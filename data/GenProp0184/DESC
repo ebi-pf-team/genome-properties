@@ -210,4 +210,19 @@ SN  41
 ID  Molybdenum cofactor biosynthesis
 RQ  0
 EV  GenProp1711;
+--
+SN  42
+ID  Erythro-tetrahydrobiopterin biosynthesis I
+RQ  0
+EV  GenProp1632;
+--
+SN  43
+ID  Tetrapyrrole biosynthesis II (from glycine)
+RQ  0
+EV  GenProp1525;
+--
+SN  44
+ID  Tetrapyrrole biosynthesis I (from glutamate)
+RQ  0
+EV  GenProp1701;
 //
