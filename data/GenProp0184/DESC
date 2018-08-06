@@ -185,4 +185,29 @@ SN  36
 ID  Factor 420 polyglutamylation
 RQ  0
 EV  GenProp1682;
+--
+SN  37
+ID  Lipoate salvage I
+RQ  0
+EV  GenProp1224;
+--
+SN  38
+ID  Lipoate biosynthesis and incorporation I
+RQ  0
+EV  GenProp1237;
+--
+SN  39
+ID  Lipoate biosynthesis and incorporation II
+RQ  0
+EV  GenProp1298;
+--
+SN  40
+ID  Lipoate biosynthesis and incorporation III (Bacillus)
+RQ  0
+EV  GenProp1625;
+--
+SN  41
+ID  Molybdenum cofactor biosynthesis
+RQ  0
+EV  GenProp1711;
 //
