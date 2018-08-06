@@ -175,4 +175,14 @@ SN  34
 ID  Coenzyme B/coenzyme M regeneration III (coenzyme F420-dependent)
 RQ  0
 EV  GenProp1477;
+--
+SN  35
+ID  Bis(guanylyl molybdenum cofactor) biosynthesis
+RQ  0
+EV  GenProp1409;
+--
+SN  36
+ID  Factor 420 polyglutamylation
+RQ  0
+EV  GenProp1682;
 //
