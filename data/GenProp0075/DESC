@@ -81,4 +81,49 @@ SN  15
 ID  Elongation factor P beta-lysylation
 RQ  0
 EV  GenProp0988;
+--
+SN  16
+ID  Chlorophyll a biosynthesis II
+RQ  0
+EV  GenProp1355;
+--
+SN  17
+ID  Chlorophyll a biosynthesis I
+RQ  0
+EV  GenProp1724;
+--
+SN  18
+ID  Heme b biosynthesis I (aerobic)
+RQ  0
+EV  GenProp1421;
+--
+SN  19
+ID  Heme b biosynthesis IV (Gram-positive bacteria)
+RQ  0
+EV  GenProp1663;
+--
+SN  20
+ID  Heme b biosynthesis II (anaerobic)
+RQ  0
+EV  GenProp1686;
+--
+SN  21
+ID  Siroheme biosynthesis
+RQ  0
+EV  GenProp1215;
+--
+SN  22
+ID  2-Carboxy-1,4-naphthoquinol biosynthesis
+RQ  0
+EV  GenProp1560;
+--
+SN  23
+ID  Ubiquinol-8 biosynthesis (prokaryotic)
+RQ  0
+EV  GenProp1744;
+--
+SN  24
+ID  Vitamin E biosynthesis (tocopherols)
+RQ  0
+EV  GenProp1337;
 //
