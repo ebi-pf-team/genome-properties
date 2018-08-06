@@ -7,7 +7,87 @@ CC  The chemical reactions and pathways resulting in the formation of
 CC  hormones.
 --
 SN  1
-ID  
+ID  Indole-3-acetate biosynthesis I
 RQ  0
-EV  ;
+EV  GenProp1464;
+--
+SN  2
+ID  Cytokinins 7-N-glucoside biosynthesis
+RQ  0
+EV  GenProp1261;
+--
+SN  3
+ID  Ethylene biosynthesis I (plants)
+RQ  0
+EV  GenProp1657;
+--
+SN  4
+ID  Ent-kaurene biosynthesis I
+RQ  0
+EV  GenProp1739;
+--
+SN  5
+ID  GA12 biosynthesis
+RQ  0
+EV  GenProp1745;
+--
+SN  6
+ID  Estradiol biosynthesis I (via estrone)
+RQ  0
+EV  GenProp1338;
+--
+SN  7
+ID  Progesterone biosynthesis
+RQ  0
+EV  GenProp1385;
+--
+SN  8
+ID  Estradiol biosynthesis II
+RQ  0
+EV  GenProp1417;
+--
+SN  9
+ID  Lipoxin biosynthesis
+RQ  0
+EV  GenProp1588;
+--
+SN  10
+ID  C20 prostanoid biosynthesis
+RQ  0
+EV  GenProp1603;
+--
+SN  11
+ID  Mineralocorticoid biosynthesis
+RQ  0
+EV  GenProp1644;
+--
+SN  12
+ID  Leukotriene biosynthesis
+RQ  0
+EV  GenProp1653;
+--
+SN  13
+ID  Glucocorticoid biosynthesis
+RQ  0
+EV  GenProp1666;
+--
+SN  14
+ID  Serotonin and melatonin biosynthesis
+RQ  0
+EV  GenProp1695;
+--
+SN  15
+ID  Thyroid hormone biosynthesis
+RQ  0
+EV  GenProp1728;
+--
+SN  16
+ID  Pregnenolone biosynthesis
+RQ  0
+EV  GenProp1740;
+--
+SN  17
+ID  Androgen biosynthesis
+RQ  0
+EV  GenProp1742;
 //
