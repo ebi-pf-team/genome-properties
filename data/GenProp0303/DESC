@@ -46,4 +46,14 @@ SN  8
 ID  Glyoxalase pathway, glutathione dependent
 RQ  0
 EV  GenProp0744;
+--
+SN  9
+ID  Superoxide radicals degradation
+RQ  0
+EV  GenProp1598;
+--
+SN  10
+ID  D-galactose detoxification
+RQ  0
+EV  GenProp1459;
 //
