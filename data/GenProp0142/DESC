@@ -326,4 +326,9 @@ SN  64
 ID  Lipid degradation
 RQ  0
 EV  GenProp1773;
+--
+SN  65
+ID  Secondary metabolites degradation
+RQ  0
+EV  GenProp1775;
 //
