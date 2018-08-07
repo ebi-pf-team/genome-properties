@@ -45,4 +45,139 @@ SN  8
 ID  L-arginine degradation I (arginase pathway)
 RQ  0
 EV  GenProp1428;
+--
+SN  9
+ID  L-citrulline degradation
+RQ  0
+EV  GenProp1357;
+--
+SN  10
+ID  Glycine cleavage
+RQ  0
+EV  GenProp1275;
+--
+SN  11
+ID  L-alanine degradation I
+RQ  0
+EV  GenProp1626;
+--
+SN  12
+ID  L-arginine degradation II (AST pathway)
+RQ  0
+EV  GenProp1280;
+--
+SN  13
+ID  L-arginine degradation III (arginine decarboxylase/agmatinase pathway)
+RQ  0
+EV  GenProp1282;
+--
+SN  14
+ID  L-arginine degradation IV (arginine decarboxylase/agmatine deiminase pathway)
+RQ  0
+EV  GenProp1431;
+--
+SN  15
+ID  L-asparagine degradation III (mammalian)
+RQ  0
+EV  GenProp1365;
+--
+SN  16
+ID  L-aspartate degradation II
+RQ  0
+EV  GenProp1584;
+--
+SN  17
+ID  L-cysteine degradation III
+RQ  0
+EV  GenProp1681;
+--
+SN  18
+ID  L-histidine degradation I
+RQ  0
+EV  GenProp1619;
+--
+SN  19
+ID  L-isoleucine degradation II
+RQ  0
+EV  GenProp1328;
+--
+SN  20
+ID  L-isoleucine degradation I
+RQ  0
+EV  GenProp1533;
+--
+SN  21
+ID  L-leucine degradation III
+RQ  0
+EV  GenProp1334;
+--
+SN  22
+ID  L-leucine degradation I
+RQ  0
+EV  GenProp1673;
+--
+SN  23
+ID  L-lysine degradation XI (mammalian)
+RQ  0
+EV  GenProp1487;
+--
+SN  24
+ID  L-methionine degradation III
+RQ  0
+EV  GenProp1655;
+--
+SN  25
+ID  L-phenylalanine degradation I (aerobic)
+RQ  0
+EV  GenProp1679;
+--
+SN  26
+ID  L-phenylalanine degradation III
+RQ  0
+EV  GenProp1698;
+--
+SN  27
+ID  L-threonine degradation V
+RQ  0
+EV  GenProp1223;
+--
+SN  28
+ID  L-threonine degradation IV
+RQ  0
+EV  GenProp1445;
+--
+SN  29
+ID  L-threonine degradation II
+RQ  0
+EV  GenProp1646;
+--
+SN  30
+ID  L-tryptophan degradation VIII (to tryptophol)
+RQ  0
+EV  GenProp1292;
+--
+SN  31
+ID  L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde
+RQ  0
+EV  GenProp1503;
+--
+SN  32
+ID  L-tryptophan degradation X (mammalian, via tryptamine)
+RQ  0
+EV  GenProp1551;
+--
+SN  33
+ID  L-tyrosine degradation III
+RQ  0
+EV  GenProp1245;
+--
+SN  34
+ID  L-tyrosine degradation I
+RQ  0
+EV  GenProp1375;
+--
+SN  35
+ID  L-valine degradation II
+RQ  0
+EV  GenProp1467;
 //
