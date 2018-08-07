@@ -6,7 +6,32 @@ TH  0
 CC  The chemical reactions and pathways resulting in the breakdown of lipids.
 --
 SN  1
-ID  
+ID  Sphingosine and sphingosine-1-phosphate metabolism
 RQ  0
-EV  ;
+EV  GenProp1277;
+--
+SN  2
+ID  Ceramide degradation
+RQ  0
+EV  GenProp1335;
+--
+SN  3
+ID  Phosphatidylcholine resynthesis via glycerophosphocholine
+RQ  0
+EV  GenProp1352;
+--
+SN  4
+ID  Sphingolipid recycling and degradation (yeast)
+RQ  0
+EV  GenProp1363;
+--
+SN  5
+ID  Mitochondrial L-carnitine shuttle
+RQ  0
+EV  GenProp1413;
+--
+SN  6
+ID  Acetoacetate degradation (to acetyl CoA)
+RQ  0
+EV  GenProp1441;
 //
