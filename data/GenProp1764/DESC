@@ -2,7 +2,7 @@ AC  GenProp1764
 DE  Flavin biosynthesis IV (mammalian)
 TP  PATHWAY
 AU  Trupp M
-
+TH  0
 DC  Flavin biosynthesis IV (mammalian)
 DR  MetaCyc; PWY66-366;
 CC  This property has been automatically generated from MetaCyc and has not
