@@ -88,4 +88,9 @@ SN  16
 ID  Homocysteine and cysteine interconversion
 RQ  0
 EV  GenProp1654;
+--
+SN  17
+ID  Inorganic nutrients metabolism
+RQ  0
+EV  GenProp1774;
 //
