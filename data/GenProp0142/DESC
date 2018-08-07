@@ -316,4 +316,14 @@ SN  62
 ID  Carbohydrates degradation
 RQ  0
 EV  GenProp1770;
+--
+SN  63
+ID  Fatty acids degradation
+RQ  0
+EV  GenProp1772;
+--
+SN  64
+ID  Lipid degradation
+RQ  0
+EV  GenProp1773;
 //
