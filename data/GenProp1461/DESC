@@ -1,9 +1,9 @@
 AC  GenProp1461
-DE  TRNA-uridine 2-thiolation (cytoplasmic)
+DE  tRNA-uridine 2-thiolation (cytoplasmic)
 TP  PATHWAY
 AU  Caspi R
 TH  5
-DC  TRNA-uridine 2-thiolation (cytoplasmic)
+DC  tRNA-uridine 2-thiolation (cytoplasmic)
 DR  MetaCyc; PWY-7888;
 CC  This property has been automatically generated from MetaCyc and has not
 CC  been manually verified to check the validity of the InterPro signatures
@@ -11,8 +11,8 @@ CC  used for the evidence. See MetaCyc for additional information and
 CC  references relating to this property.
 --
 SN  1
-ID  TRNA (carboxymethyluridine34-5-O)-methyltransferase
-DN  TRNA (carboxymethyluridine34-5-O)-methyltransferase (EC 2.1.1.229)
+ID  tRNA (carboxymethyluridine34-5-O)-methyltransferase
+DN  tRNA (carboxymethyluridine34-5-O)-methyltransferase (EC 2.1.1.229)
 RQ  1
 EV  IPR013216; PF08241; sufficient;
 EV  IPR015095; PF09004; sufficient;
@@ -20,8 +20,8 @@ EV  IPR027450; PF13532; sufficient;
 EV  IPR005651; PF03966; sufficient;
 --
 SN  2
-ID  TRNA-5-(2-methoxy-2-oxoethyl)uridine 2-sulfurtransferase
-DN  TRNA-5-(2-methoxy-2-oxoethyl)uridine 2-sulfurtransferase (EC 2.8.1)
+ID  tRNA-5-(2-methoxy-2-oxoethyl)uridine 2-sulfurtransferase
+DN  tRNA-5-(2-methoxy-2-oxoethyl)uridine 2-sulfurtransferase (EC 2.8.1)
 RQ  1
 EV  IPR011063; PF01171; sufficient;
 EV  IPR032442; PF16503; sufficient;
