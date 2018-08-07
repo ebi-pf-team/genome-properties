@@ -11,4 +11,14 @@ SN  2
 ID  H4MPT-linked C1 transfer pathway
 RQ  0
 EV  GenProp0671;
+--
+SN  3
+ID  CO2 fixation into oxaloacetate (anaplerotic)
+RQ  0
+EV  GenProp1669;
+--
+SN  4
+ID  Formate assimilation into 5,10-methylenetetrahydrofolate
+RQ  0
+EV  GenProp1613;
 //
