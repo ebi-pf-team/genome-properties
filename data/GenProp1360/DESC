@@ -1,9 +1,9 @@
 AC  GenProp1360
-DE  TRNA processing
+DE  tRNA processing
 TP  PATHWAY
 AU  Shearer A
 TH  8
-DC  TRNA processing
+DC  tRNA processing
 DR  MetaCyc; PWY0-1479;
 CC  This property has been automatically generated from MetaCyc and has not
 CC  been manually verified to check the validity of the InterPro signatures
