@@ -1,9 +1,9 @@
 AC  GenProp1555
-DE  TRNA-uridine 2-thiolation (bacteria)
+DE  tRNA-uridine 2-thiolation (bacteria)
 TP  PATHWAY
 AU  Caspi R
 TH  6
-DC  TRNA-uridine 2-thiolation (bacteria)
+DC  tRNA-uridine 2-thiolation (bacteria)
 DR  MetaCyc; PWY-7892;
 CC  This property has been automatically generated from MetaCyc and has not
 CC  been manually verified to check the validity of the InterPro signatures
@@ -47,8 +47,8 @@ EV  IPR018948; PF10396; sufficient;
 EV  IPR025867; PF12631; sufficient;
 --
 SN  5
-ID  TRNA-specific 2-thiouridylase
-DN  TRNA-specific 2-thiouridylase (EC 2.8.1.13)
+ID  tRNA-specific 2-thiouridylase
+DN  tRNA-specific 2-thiouridylase (EC 2.8.1.13)
 RQ  1
 EV  IPR004506; TIGR00420; sufficient;
 --
