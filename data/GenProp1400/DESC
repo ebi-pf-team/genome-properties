@@ -18,16 +18,16 @@ EV  IPR004453; TIGR00276; sufficient;
 EV  IPR013542; PF08331; sufficient;
 --
 SN  2
-ID  TRNA-guanine transglycosylase
-DN  TRNA-guanine transglycosylase (EC 2.4.2.29)
+ID  tRNA-guanine transglycosylase
+DN  tRNA-guanine transglycosylase (EC 2.4.2.29)
 RQ  1
 EV  IPR002616; PF01702; sufficient;
 EV  IPR002616; TIGR00449; sufficient;
 EV  IPR004803; TIGR00430; sufficient;
 --
 SN  3
-ID  TRNA preQ134 S-adenosylmethionine ribosyltransferase-isomerase
-DN  TRNA preQ134 S-adenosylmethionine ribosyltransferase-isomerase (EC 2.4.99.17)
+ID  tRNA preQ134 S-adenosylmethionine ribosyltransferase-isomerase
+DN  tRNA preQ134 S-adenosylmethionine ribosyltransferase-isomerase (EC 2.4.99.17)
 RQ  1
 EV  IPR003699; PF02547; sufficient;
 EV  IPR003699; TIGR00113; sufficient;
