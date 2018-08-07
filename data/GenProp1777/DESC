@@ -7,7 +7,62 @@ CC  The chemical reactions and pathways involved in the processing
 CC  of nucleic acids.
 --
 SN  1
-ID  
+ID  tRNA splicing II
 RQ  0
-EV  ;
+EV  GenProp1707;
+--
+SN  2
+ID  Wybutosine biosynthesis
+RQ  0
+EV  GenProp1241;
+--
+SN  3
+ID  tRNA-uridine 2-thiolation (mammalian mitochondria)
+RQ  0
+EV  GenProp1313;
+--
+SN  4
+ID  5-(Carboxymethoxy)uridine biosynthesis
+RQ  0
+EV  GenProp1340;
+--
+SN  5
+ID  mRNA capping I
+RQ  0
+EV  GenProp1354;
+--
+SN  6
+ID  tRNA processing
+RQ  0
+EV  GenProp1360;
+--
+SN  7
+ID  Queuosine biosynthesis
+RQ  0
+EV  GenProp1400;
+--
+SN  8
+ID  tRNA-uridine 2-thiolation (cytoplasmic)
+RQ  0
+EV  GenProp1461;
+--
+SN  9
+ID  tRNA methylation (yeast)
+RQ  0
+EV  GenProp1521;
+--
+SN  10
+ID  tRNA-uridine 2-thiolation (bacteria)
+RQ  0
+EV  GenProp1555;
+--
+SN  11
+ID  N6-L-threonylcarbamoyladenosine37-modified tRNA biosynthesis
+RQ  0
+EV  GenProp1570;
+--
+SN  12
+ID  Archaeosine biosynthesis I
+RQ  0
+EV  GenProp1735;
 //
