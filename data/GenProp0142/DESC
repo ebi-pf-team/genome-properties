@@ -306,4 +306,9 @@ SN  60
 ID  Alkylnitronates degradation
 RQ  0
 EV  GenProp1746;
+--
+SN  61
+ID  Muropeptide degradation
+RQ  0
+EV  GenProp1242;
 //
