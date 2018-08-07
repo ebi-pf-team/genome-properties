@@ -236,4 +236,9 @@ SN  46
 ID  Proposed phosphonate catabolism pathway HpnWXZ
 RQ  0
 EV  GenProp0736;
+--
+SN  47
+ID  Alcohols degradation
+RQ  0
+EV  GenProp1768;
 //
