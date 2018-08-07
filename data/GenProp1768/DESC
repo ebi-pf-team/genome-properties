@@ -7,7 +7,37 @@ CC  Any metabolic process involving the breakdown of alcohols
 CC  into smaller products.
 --
 SN  1
-ID  
+ID  Ethanol degradation IV
 RQ  0
-EV  ;
+EV  GenProp1379;
+--
+SN  2
+ID  Ethanol degradation III
+RQ  0
+EV  GenProp1437;
+--
+SN  3
+ID  Ethanol degradation I
+RQ  0
+EV  GenProp1497;
+--
+SN  4
+ID  Ethanol degradation II
+RQ  0
+EV  GenProp1715;
+--
+SN  5
+ID  Glycerol degradation V
+RQ  0
+EV  GenProp1324;
+--
+SN  6
+ID  Glycerol degradation I
+RQ  0
+EV  GenProp1567;
+--
+SN  7
+ID  Ethylene glycol degradation
+RQ  0
+EV  GenProp1370;
 //
