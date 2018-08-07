@@ -1,9 +1,9 @@
 AC  GenProp1354
-DE  MRNA capping I
+DE  mRNA capping I
 TP  PATHWAY
 AU  Caspi R
 TH  1
-DC  MRNA capping I
+DC  mRNA capping I
 DR  MetaCyc; PWY-7375;
 CC  This property has been automatically generated from MetaCyc and has not
 CC  been manually verified to check the validity of the InterPro signatures
@@ -17,16 +17,16 @@ RQ  1
 EV  IPR004971; PF03291; sufficient;
 --
 SN  2
-ID  MRNA guanylyltransferase
-DN  MRNA guanylyltransferase (EC 2.7.7.50)
+ID  mRNA guanylyltransferase
+DN  mRNA guanylyltransferase (EC 2.7.7.50)
 RQ  1
 EV  IPR001339; PF01331; sufficient;
 EV  IPR013846; PF03919; sufficient;
 EV  IPR000340; PF00782; sufficient;
 --
 SN  3
-ID  MRNA 5'-triphosphate phosphatase
-DN  MRNA 5'-triphosphate phosphatase (EC 3.1.3.33)
+ID  mRNA 5'-triphosphate phosphatase
+DN  mRNA 5'-triphosphate phosphatase (EC 3.1.3.33)
 RQ  1
 EV  IPR004206; PF02940; sufficient;
 EV  IPR000340; PF00782; sufficient;
