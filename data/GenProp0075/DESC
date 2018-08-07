@@ -126,4 +126,34 @@ SN  24
 ID  Vitamin E biosynthesis (tocopherols)
 RQ  0
 EV  GenProp1337;
+--
+SN  25
+ID  Protein NEDDylation
+RQ  0
+EV  GenProp1311;
+--
+SN  26
+ID  Protein Pupylation and dePupylation
+RQ  0
+EV  GenProp1317;
+--
+SN  27
+ID  Lipoprotein posttranslational modification
+RQ  0
+EV  GenProp1327;
+--
+SN  28
+ID  Ac/N-end rule pathway
+RQ  0
+EV  GenProp1491;
+--
+SN  29
+ID  N-end rule pathway I (prokaryotic)
+RQ  0
+EV  GenProp1495;
+--
+SN  30
+ID  Protein ubiquitination
+RQ  0
+EV  GenProp1754;
 //
