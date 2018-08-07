@@ -311,4 +311,9 @@ SN  61
 ID  Muropeptide degradation
 RQ  0
 EV  GenProp1242;
+--
+SN  62
+ID  Carbohydrates degradation
+RQ  0
+EV  GenProp1770;
 //
