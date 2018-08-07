@@ -246,4 +246,19 @@ SN  48
 ID  Amines and polyamines catabolism
 RQ  0
 EV  GenProp1769;
+--
+SN  49
+ID  L-lactaldehyde degradation (aerobic)
+RQ  0
+EV  GenProp1662;
+--
+SN  50
+ID  Methylglyoxal degradation III
+RQ  0
+EV  GenProp1263;
+--
+SN  51
+ID  Methylglyoxal degradation I
+RQ  0
+EV  GenProp1578;
 //
