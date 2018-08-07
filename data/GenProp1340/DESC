@@ -2,7 +2,7 @@ AC  GenProp1340
 DE  5-(Carboxymethoxy)uridine biosynthesis
 TP  PATHWAY
 AU  Keseler I
-
+TH  0
 DC  5-(Carboxymethoxy)uridine biosynthesis
 DR  MetaCyc; PWY0-1554;
 CC  This property has been automatically generated from MetaCyc and has not
@@ -17,8 +17,8 @@ RQ  1
 EV  IPR005271; TIGR00740; sufficient;
 --
 SN  2
-ID  TRNA U34 carboxymethyltransferase
-DN  TRNA U34 carboxymethyltransferase
+ID  tRNA U34 carboxymethyltransferase
+DN  tRNA U34 carboxymethyltransferase
 RQ  1
 EV  IPR010017; TIGR00452; sufficient;
 EV  IPR027555; PF08003; sufficient;
