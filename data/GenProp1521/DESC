@@ -1,9 +1,9 @@
 AC  GenProp1521
-DE  TRNA methylation (yeast)
+DE  tRNA methylation (yeast)
 TP  PATHWAY
 AU  Caspi R
-
-DC  TRNA methylation (yeast)
+TH  0
+DC  tRNA methylation (yeast)
 DR  MetaCyc; PWY-6829;
 CC  This property has been automatically generated from MetaCyc and has not
 CC  been manually verified to check the validity of the InterPro signatures
@@ -11,15 +11,15 @@ CC  used for the evidence. See MetaCyc for additional information and
 CC  references relating to this property.
 --
 SN  1
-ID  TRNA (guanine26-N2)-methyltransferase
-DN  TRNA (guanine26-N2)-methyltransferase (EC 2.1.1.216)
+ID  tRNA (guanine26-N2)-methyltransferase
+DN  tRNA (guanine26-N2)-methyltransferase (EC 2.1.1.216)
 RQ  1
 EV  IPR002905; PF02005; sufficient;
 EV  IPR002905; TIGR00308; sufficient;
 --
 SN  2
-ID  TRNA (N2-methylguanine26-N2)-methyltransferase
-DN  TRNA (N2-methylguanine26-N2)-methyltransferase (EC 2.1.1.216)
+ID  tRNA (N2-methylguanine26-N2)-methyltransferase
+DN  tRNA (N2-methylguanine26-N2)-methyltransferase (EC 2.1.1.216)
 RQ  1
 EV  IPR002905; PF02005; sufficient;
 EV  IPR002905; TIGR00308; sufficient;
