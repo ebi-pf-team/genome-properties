@@ -7,7 +7,42 @@ CC  The chemical reactions and pathways resulting in the degradation and
 CC  catabolism of secondary metabolites.
 --
 SN  1
-ID  
+ID  Anhydromuropeptides recycling I
 RQ  0
-EV  ;
+EV  GenProp1623;
+--
+SN  2
+ID  D-myo-inositol (1,4,5)-trisphosphate degradation
+RQ  0
+EV  GenProp1605;
+--
+SN  3
+ID  Myo-, chiro- and scyllo-inositol degradation
+RQ  0
+EV  GenProp1271;
+--
+SN  4
+ID  Myo-inositol degradation I
+RQ  0
+EV  GenProp1286;
+--
+SN  5
+ID  Myo-inositol degradation II
+RQ  0
+EV  GenProp1527;
+--
+SN  6
+ID  Fructoselysine and psicoselysine degradation
+RQ  0
+EV  GenProp1624;
+--
+SN  7
+ID  Autoinducer AI-2 degradation
+RQ  0
+EV  GenProp1476;
+--
+SN  8
+ID  Curcumin degradation
+RQ  0
+EV  GenProp1696;
 //
