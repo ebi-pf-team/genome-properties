@@ -241,4 +241,9 @@ SN  47
 ID  Alcohols degradation
 RQ  0
 EV  GenProp1768;
+--
+SN  48
+ID  Amines and polyamines catabolism
+RQ  0
+EV  GenProp1769;
 //
