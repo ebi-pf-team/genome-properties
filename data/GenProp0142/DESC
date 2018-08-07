@@ -331,4 +331,9 @@ SN  65
 ID  Secondary metabolites degradation
 RQ  0
 EV  GenProp1775;
+--
+SN  66
+ID  Nucleosides and nucleotides degradation
+RQ  0
+EV  GenProp1776;
 //
