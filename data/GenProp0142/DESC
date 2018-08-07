@@ -261,4 +261,49 @@ SN  51
 ID  Methylglyoxal degradation I
 RQ  0
 EV  GenProp1578;
+--
+SN  52
+ID  3-Phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation to 2-hydroxypentadienoate
+RQ  0
+EV  GenProp1287;
+--
+SN  53
+ID  Cinnamate and 3-hydroxycinnamate degradation to 2-hydroxypentadienoate
+RQ  0
+EV  GenProp1458;
+--
+SN  54
+ID  Urate conversion to allantoin I
+RQ  0
+EV  GenProp1652;
+--
+SN  55
+ID  CO2 fixation into oxaloacetate (anaplerotic)
+RQ  0
+EV  GenProp1669;
+--
+SN  56
+ID  Formate assimilation into 5,10-methylenetetrahydrofolate
+RQ  0
+EV  GenProp1613;
+--
+SN  57
+ID  Heme degradation I
+RQ  0
+EV  GenProp1591;
+--
+SN  58
+ID  Heme degradation VII
+RQ  0
+EV  GenProp1688;
+--
+SN  59
+ID  Glutathione degradation (DUG pathway - yeast)
+RQ  0
+EV  GenProp1346;
+--
+SN  60
+ID  Alkylnitronates degradation
+RQ  0
+EV  GenProp1746;
 //
