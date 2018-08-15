@@ -2,7 +2,7 @@ AC  GenProp1526
 DE  Chondroitin sulfate biosynthesis
 TP  Pathway
 AU  Caspi R
-DC  Chondroitin sulfate biosynthesis
+TH  0
 DR  MetaCyc; PWY-6569;
 CC  See MetaCyc for additional information and references relating to this
 CC  property.

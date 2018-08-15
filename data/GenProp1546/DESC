@@ -2,7 +2,7 @@ AC  GenProp1546
 DE  Sulfoquinovosyl diacylglycerol biosynthesis
 TP  PATHWAY
 AU  Caspi R
-
+TH  0
 DC  Sulfoquinovosyl diacylglycerol biosynthesis
 DR  MetaCyc; PWYQT-4427;
 CC  This property has been automatically generated from MetaCyc and has not

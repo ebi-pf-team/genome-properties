@@ -2,7 +2,7 @@ AC  GenProp1297
 DE  Superpathway of glycol metabolism and degradation
 TP  PATHWAY
 AU  Weerasinghe D
-
+TH  0
 DC  Superpathway of glycol metabolism and degradation
 DR  MetaCyc; GLYCOL-GLYOXDEG-PWY;
 CC  This property has been automatically generated from MetaCyc and has not

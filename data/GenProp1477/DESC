@@ -2,7 +2,7 @@ AC  GenProp1477
 DE  Coenzyme B/coenzyme M regeneration III (coenzyme F420-dependent)
 TP  PATHWAY
 AU  Caspi R
-
+TH  0
 DC  Coenzyme B/coenzyme M regeneration III (coenzyme F420-dependent)
 DR  MetaCyc; PWY-7866;
 CC  This property has been automatically generated from MetaCyc and has not

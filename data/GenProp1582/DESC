@@ -2,7 +2,7 @@ AC  GenProp1582
 DE  Hydrogen to trimethylamine N-oxide electron transfer
 TP  PATHWAY
 AU  Mackie A
-
+TH  0
 DC  Hydrogen to trimethylamine N-oxide electron transfer
 DR  MetaCyc; PWY0-1578;
 CC  This property has been automatically generated from MetaCyc and has not

@@ -2,7 +2,7 @@ AC  GenProp1223
 DE  L-threonine degradation V
 TP  PATHWAY
 AU  Weerasinghe D
-
+TH  0
 DC  L-threonine degradation V
 DR  MetaCyc; PWY66-428;
 CC  This property has been automatically generated from MetaCyc and has not

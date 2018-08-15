@@ -2,7 +2,7 @@ AC  GenProp1465
 DE  Pyrimidine ribonucleosides salvage II
 TP  PATHWAY
 AU  Zhang P
-
+TH  0
 DC  Pyrimidine ribonucleosides salvage II
 DR  MetaCyc; PWY-6556;
 CC  This property has been automatically generated from MetaCyc and has not

@@ -2,7 +2,7 @@ AC  GenProp1542
 DE  Phosphatidylethanolamine biosynthesis I
 TP  PATHWAY
 AU  Caspi R
-
+TH  0
 DC  Phosphatidylethanolamine biosynthesis I
 DR  MetaCyc; PWY-5669;
 CC  This property has been automatically generated from MetaCyc and has not

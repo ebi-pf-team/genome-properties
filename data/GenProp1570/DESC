@@ -2,7 +2,7 @@ AC  GenProp1570
 DE  N6-L-threonylcarbamoyladenosine37-modified tRNA biosynthesis
 TP  PATHWAY
 AU  Keseler I
-
+TH  0
 DC  N6-L-threonylcarbamoyladenosine37-modified tRNA biosynthesis
 DR  MetaCyc; PWY0-1587;
 CC  This property has been automatically generated from MetaCyc and has not

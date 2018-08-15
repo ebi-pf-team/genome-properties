@@ -2,7 +2,7 @@ AC  GenProp1564
 DE  Trehalose degradation II (trehalase)
 TP  PATHWAY
 AU  Fulcher C, Keseler I, Caspi R
-
+TH  0
 DC  Trehalose degradation II (trehalase)
 DR  MetaCyc; PWY0-1182;
 CC  This property has been automatically generated from MetaCyc and has not

@@ -2,7 +2,7 @@ AC  GenProp1339
 DE  Alpha-linolenate biosynthesis I (plants and red algae)
 TP  PATHWAY
 AU  Caspi R
-
+TH  0
 DC  Alpha-linolenate biosynthesis I (plants and red algae)
 DR  MetaCyc; PWY-5997;
 CC  This property has been automatically generated from MetaCyc and has not

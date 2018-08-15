@@ -2,7 +2,7 @@ AC  GenProp1496
 DE  Hydrogen production V
 TP  PATHWAY
 AU  Weerasinghe D
-
+TH  0
 DC  Hydrogen production V
 DR  MetaCyc; PWY-6772;
 CC  This property has been automatically generated from MetaCyc and has not

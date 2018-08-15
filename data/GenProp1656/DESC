@@ -2,7 +2,7 @@ AC  GenProp1656
 DE  Xylose degradation I
 TP  PATHWAY
 AU  Riley M, Ingraham J
-
+TH  0
 DC  Xylose degradation I
 DR  MetaCyc; XYLCAT-PWY;
 CC  This property has been automatically generated from MetaCyc and has not

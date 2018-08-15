@@ -2,7 +2,7 @@ AC  GenProp1606
 DE  Octopamine biosynthesis
 TP  PATHWAY
 AU  Fulcher C
-
+TH  0
 DC  Octopamine biosynthesis
 DR  MetaCyc; PWY-7297;
 CC  This property has been automatically generated from MetaCyc and has not

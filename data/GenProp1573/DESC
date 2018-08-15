@@ -2,7 +2,7 @@ AC  GenProp1573
 DE  Sulfate activation for sulfonation
 TP  PATHWAY
 AU  Caspi R
-
+TH  0
 DC  Sulfate activation for sulfonation
 DR  MetaCyc; PWY-5340;
 CC  This property has been automatically generated from MetaCyc and has not

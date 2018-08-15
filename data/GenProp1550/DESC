@@ -2,7 +2,7 @@ AC  GenProp1550
 DE  Superpathway of L-tryptophan biosynthesis
 TP  PATHWAY
 AU  Caspi R
-
+TH  0
 DC  Superpathway of L-tryptophan biosynthesis
 DR  MetaCyc; PWY-6629;
 CC  This property has been automatically generated from MetaCyc and has not

@@ -2,7 +2,7 @@ AC  GenProp1387
 DE  Superpathway of beta-D-glucuronosides degradation
 TP  PATHWAY
 AU  Caspi R, Keseler I, Riley M
-
+TH  0
 DC  Superpathway of beta-D-glucuronosides degradation
 DR  MetaCyc; GLUCUROCAT-PWY;
 CC  This property has been automatically generated from MetaCyc and has not

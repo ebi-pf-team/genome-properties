@@ -2,7 +2,7 @@ AC  GenProp1324
 DE  Glycerol degradation V
 TP  PATHWAY
 AU  Keseler I, Riley M
-
+TH  0
 DC  Glycerol degradation V
 DR  MetaCyc; GLYCEROLMETAB-PWY;
 CC  This property has been automatically generated from MetaCyc and has not

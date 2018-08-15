@@ -2,7 +2,7 @@ AC  GenProp1457
 DE  Thiamine diphosphate biosynthesis I (E. coli)
 TP  PATHWAY
 AU  Caspi R
-
+TH  0
 DC  Thiamine diphosphate biosynthesis I (E. coli)
 DR  MetaCyc; PWY-6894;
 CC  This property has been automatically generated from MetaCyc and has not

@@ -2,7 +2,7 @@ AC  GenProp1684
 DE  Kdo transfer to lipid IVA I
 TP  PATHWAY
 AU  Riley M
-
+TH  0
 DC  Kdo transfer to lipid IVA I
 DR  MetaCyc; KDOSYN-PWY;
 CC  This property has been automatically generated from MetaCyc and has not

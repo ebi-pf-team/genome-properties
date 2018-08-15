@@ -2,7 +2,7 @@ AC  GenProp1402
 DE  Phenylethylamine degradation I
 TP  PATHWAY
 AU  Pellegrini-Toole A
-
+TH  0
 DC  Phenylethylamine degradation I
 DR  MetaCyc; 2PHENDEG-PWY;
 CC  This property has been automatically generated from MetaCyc and has not

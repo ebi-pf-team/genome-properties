@@ -2,7 +2,7 @@ AC  GenProp1643
 DE  Chorismate biosynthesis I
 TP  PATHWAY
 AU  Caspi R, Ingraham J
-
+TH  0
 DC  Chorismate biosynthesis I
 DR  MetaCyc; ARO-PWY;
 CC  This property has been automatically generated from MetaCyc and has not

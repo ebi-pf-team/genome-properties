@@ -2,7 +2,7 @@ AC  GenProp1729
 DE  Glycerol-3-phosphate to hydrogen peroxide electron transport
 TP  PATHWAY
 AU  Mackie A
-
+TH  0
 DC  Glycerol-3-phosphate to hydrogen peroxide electron transport
 DR  MetaCyc; PWY0-1591;
 CC  This property has been automatically generated from MetaCyc and has not

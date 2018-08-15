@@ -2,7 +2,7 @@ AC  GenProp1475
 DE  Superpathway of L-lysine, L-threonine and L-methionine biosynthesis I
 TP  PATHWAY
 AU  Caspi R
-
+TH  0
 DC  Superpathway of L-lysine, L-threonine and L-methionine biosynthesis I
 DR  MetaCyc; P4-PWY;
 CC  This property has been automatically generated from MetaCyc and has not

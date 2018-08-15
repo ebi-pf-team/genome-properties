@@ -2,7 +2,7 @@ AC  GenProp1697
 DE  Thiazole biosynthesis III (eukaryotes)
 TP  PATHWAY
 AU  Foerster H, Caspi R
-
+TH  0
 DC  Thiazole biosynthesis III (eukaryotes)
 DR  MetaCyc; PWY-6909;
 CC  This property has been automatically generated from MetaCyc and has not

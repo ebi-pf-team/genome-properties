@@ -2,7 +2,7 @@ AC  GenProp1567
 DE  Glycerol degradation I
 TP  PATHWAY
 AU  Caspi R
-
+TH  0
 DC  Glycerol degradation I
 DR  MetaCyc; PWY-4261;
 CC  This property has been automatically generated from MetaCyc and has not

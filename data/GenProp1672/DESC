@@ -2,7 +2,7 @@ AC  GenProp1672
 DE  Hydrogen to fumarate electron transfer
 TP  PATHWAY
 AU  Mackie A
-
+TH  0
 DC  Hydrogen to fumarate electron transfer
 DR  MetaCyc; PWY0-1576;
 CC  This property has been automatically generated from MetaCyc and has not

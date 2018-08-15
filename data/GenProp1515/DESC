@@ -2,7 +2,7 @@ AC  GenProp1515
 DE  Succinate to cytochrome bd oxidase electron transfer
 TP  PATHWAY
 AU  Mackie A, Nolan L
-
+TH  0
 DC  Succinate to cytochrome bd oxidase electron transfer
 DR  MetaCyc; PWY0-1353;
 CC  This property has been automatically generated from MetaCyc and has not

@@ -2,7 +2,7 @@ AC  GenProp1322
 DE  Superpathway of geranylgeranyl diphosphate biosynthesis II (via MEP)
 TP  PATHWAY
 AU  Caspi R, Tissier C
-
+TH  0
 DC  Superpathway of geranylgeranyl diphosphate biosynthesis II (via MEP)
 DR  MetaCyc; PWY-5121;
 CC  This property has been automatically generated from MetaCyc and has not

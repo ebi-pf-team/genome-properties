@@ -2,7 +2,7 @@ AC  GenProp1330
 DE  UDP-beta-L-arabinose biosynthesis II (from beta-L-arabinose)
 TP  PATHWAY
 AU  N/A
-
+TH  0
 DC  UDP-beta-L-arabinose biosynthesis II (from beta-L-arabinose)
 DR  MetaCyc; PWY-82;
 CC  This property has been automatically generated from MetaCyc and has not

@@ -2,7 +2,7 @@ AC  GenProp1282
 DE  L-arginine degradation III (arginine decarboxylase/agmatinase pathway)
 TP  PATHWAY
 AU  Caspi R, Arnaud M
-
+TH  0
 DC  L-arginine degradation III (arginine decarboxylase/agmatinase pathway)
 DR  MetaCyc; PWY0-823;
 CC  This property has been automatically generated from MetaCyc and has not

@@ -2,7 +2,7 @@ AC  GenProp1395
 DE  Superpathway of D-myo-inositol (1,4,5)-trisphosphate metabolism
 TP  PATHWAY
 AU  Caspi R
-
+TH  0
 DC  Superpathway of D-myo-inositol (1,4,5)-trisphosphate metabolism
 DR  MetaCyc; PWY-6358;
 CC  This property has been automatically generated from MetaCyc and has not

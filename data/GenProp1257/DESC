@@ -2,7 +2,7 @@ AC  GenProp1257
 DE  Allantoin degradation to glyoxylate I
 TP  PATHWAY
 AU  Caspi R
-
+TH  0
 DC  Allantoin degradation to glyoxylate I
 DR  MetaCyc; PWY-5694;
 CC  This property has been automatically generated from MetaCyc and has not

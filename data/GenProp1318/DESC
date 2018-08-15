@@ -2,7 +2,7 @@ AC  GenProp1318
 DE  Superpathway of pyrimidine ribonucleotides de novo biosynthesis
 TP  PATHWAY
 AU  Caspi R, Arnaud M
-
+TH  0
 DC  Superpathway of pyrimidine ribonucleotides de novo biosynthesis
 DR  MetaCyc; PWY0-162;
 CC  This property has been automatically generated from MetaCyc and has not

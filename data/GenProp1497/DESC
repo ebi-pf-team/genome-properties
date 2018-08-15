@@ -2,7 +2,7 @@ AC  GenProp1497
 DE  Ethanol degradation I
 TP  PATHWAY
 AU  N/A
-
+TH  0
 DC  Ethanol degradation I
 DR  MetaCyc; ETOH-ACETYLCOA-ANA-PWY;
 CC  This property has been automatically generated from MetaCyc and has not

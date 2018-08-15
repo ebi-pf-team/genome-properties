@@ -2,7 +2,7 @@ AC  GenProp1218
 DE  Hydroxymethylpyrimidine salvage
 TP  PATHWAY
 AU  Caspi R
-
+TH  0
 DC  Hydroxymethylpyrimidine salvage
 DR  MetaCyc; PWY-6910;
 CC  This property has been automatically generated from MetaCyc and has not

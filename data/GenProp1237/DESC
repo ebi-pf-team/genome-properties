@@ -2,7 +2,7 @@ AC  GenProp1237
 DE  Lipoate biosynthesis and incorporation I
 TP  PATHWAY
 AU  Caspi R, Arnaud M
-
+TH  0
 DC  Lipoate biosynthesis and incorporation I
 DR  MetaCyc; PWY0-501;
 CC  This property has been automatically generated from MetaCyc and has not

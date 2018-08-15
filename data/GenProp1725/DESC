@@ -2,7 +2,7 @@ AC  GenProp1725
 DE  Thiamine diphosphate biosynthesis II (Bacillus)
 TP  PATHWAY
 AU  Caspi R
-
+TH  0
 DC  Thiamine diphosphate biosynthesis II (Bacillus)
 DR  MetaCyc; PWY-6893;
 CC  This property has been automatically generated from MetaCyc and has not

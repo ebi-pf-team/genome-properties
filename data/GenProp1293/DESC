@@ -2,7 +2,7 @@ AC  GenProp1293
 DE  Chitobiose degradation
 TP  PATHWAY
 AU  Keseler I, Johnson A
-
+TH  0
 DC  Chitobiose degradation
 DR  MetaCyc; PWY0-1309;
 CC  This property has been automatically generated from MetaCyc and has not

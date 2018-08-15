@@ -2,7 +2,7 @@ AC  GenProp1662
 DE  L-lactaldehyde degradation (aerobic)
 TP  PATHWAY
 AU  Keseler I
-
+TH  0
 DC  L-lactaldehyde degradation (aerobic)
 DR  MetaCyc; PWY0-1317;
 CC  This property has been automatically generated from MetaCyc and has not

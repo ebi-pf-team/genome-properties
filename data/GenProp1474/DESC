@@ -2,7 +2,7 @@ AC  GenProp1474
 DE  Nitrate reduction VIIIb (dissimilatory)
 TP  PATHWAY
 AU  Mackie A
-
+TH  0
 DC  Nitrate reduction VIIIb (dissimilatory)
 DR  MetaCyc; PWY0-1573;
 CC  This property has been automatically generated from MetaCyc and has not

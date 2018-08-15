@@ -2,7 +2,7 @@ AC  GenProp1739
 DE  Ent-kaurene biosynthesis I
 TP  PATHWAY
 AU  N/A
-
+TH  0
 DC  Ent-kaurene biosynthesis I
 DR  MetaCyc; PWY-5032;
 CC  This property has been automatically generated from MetaCyc and has not

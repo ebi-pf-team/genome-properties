@@ -2,7 +2,7 @@ AC  GenProp1401
 DE  Proline to cytochrome bo oxidase electron transfer
 TP  PATHWAY
 AU  Mackie A
-
+TH  0
 DC  Proline to cytochrome bo oxidase electron transfer
 DR  MetaCyc; PWY0-1544;
 CC  This property has been automatically generated from MetaCyc and has not

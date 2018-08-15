@@ -2,7 +2,7 @@ AC  GenProp1746
 DE  Alkylnitronates degradation
 TP  PATHWAY
 AU  Fulcher C
-
+TH  0
 DC  Alkylnitronates degradation
 DR  MetaCyc; PWY-723;
 CC  This property has been automatically generated from MetaCyc and has not

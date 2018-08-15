@@ -2,7 +2,7 @@ AC  GenProp1727
 DE  4-Aminobenzoate biosynthesis
 TP  PATHWAY
 AU  Caspi R, Pujar A
-
+TH  0
 DC  4-Aminobenzoate biosynthesis
 DR  MetaCyc; PWY-6543;
 CC  This property has been automatically generated from MetaCyc and has not

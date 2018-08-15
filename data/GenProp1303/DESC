@@ -2,7 +2,7 @@ AC  GenProp1303
 DE  N-acetylglucosamine degradation I
 TP  PATHWAY
 AU  Riley M, Keseler I, Ingraham J
-
+TH  0
 DC  N-acetylglucosamine degradation I
 DR  MetaCyc; GLUAMCAT-PWY;
 CC  This property has been automatically generated from MetaCyc and has not

@@ -2,7 +2,7 @@ AC  GenProp1445
 DE  L-threonine degradation IV
 TP  PATHWAY
 AU  Caspi R
-
+TH  0
 DC  L-threonine degradation IV
 DR  MetaCyc; PWY-5436;
 CC  This property has been automatically generated from MetaCyc and has not

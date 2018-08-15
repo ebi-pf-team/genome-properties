@@ -2,7 +2,7 @@ AC  GenProp1299
 DE  2-O-alpha-mannosyl-D-glycerate degradation
 TP  PATHWAY
 AU  Johnson A
-
+TH  0
 DC  2-O-alpha-mannosyl-D-glycerate degradation
 DR  MetaCyc; PWY0-1300;
 CC  This property has been automatically generated from MetaCyc and has not

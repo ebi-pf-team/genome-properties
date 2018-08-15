@@ -2,7 +2,7 @@ AC  GenProp1220
 DE  Fatty acid biosynthesis initiation II
 TP  PATHWAY
 AU  Caspi R
-
+TH  0
 DC  Fatty acid biosynthesis initiation II
 DR  MetaCyc; PWY-5966;
 CC  This property has been automatically generated from MetaCyc and has not

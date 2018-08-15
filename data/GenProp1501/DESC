@@ -2,7 +2,7 @@ AC  GenProp1501
 DE  Allantoin degradation to ureidoglycolate I (urea producing)
 TP  PATHWAY
 AU  Caspi R
-
+TH  0
 DC  Allantoin degradation to ureidoglycolate I (urea producing)
 DR  MetaCyc; PWY-5697;
 CC  This property has been automatically generated from MetaCyc and has not

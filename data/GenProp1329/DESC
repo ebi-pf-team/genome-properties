@@ -2,7 +2,7 @@ AC  GenProp1329
 DE  Nitrate reduction III (dissimilatory)
 TP  PATHWAY
 AU  Mackie A, Nolan L, Krummenacker M
-
+TH  0
 DC  Nitrate reduction III (dissimilatory)
 DR  MetaCyc; PWY0-1321;
 CC  This property has been automatically generated from MetaCyc and has not

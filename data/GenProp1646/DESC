@@ -2,7 +2,7 @@ AC  GenProp1646
 DE  L-threonine degradation II
 TP  PATHWAY
 AU  Caspi R, Wagg J
-
+TH  0
 DC  L-threonine degradation II
 DR  MetaCyc; THREONINE-DEG2-PWY;
 CC  This property has been automatically generated from MetaCyc and has not

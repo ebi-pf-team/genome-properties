@@ -2,7 +2,7 @@ AC  GenProp1641
 DE  NADH to cytochrome bo oxidase electron transfer II
 TP  PATHWAY
 AU  Mackie A
-
+TH  0
 DC  NADH to cytochrome bo oxidase electron transfer II
 DR  MetaCyc; PWY0-1567;
 CC  This property has been automatically generated from MetaCyc and has not

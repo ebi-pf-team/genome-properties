@@ -2,7 +2,7 @@ AC  GenProp1611
 DE  Xanthine and xanthosine salvage
 TP  PATHWAY
 AU  Caspi R, Sarker M, Arnaud M
-
+TH  0
 DC  Xanthine and xanthosine salvage
 DR  MetaCyc; SALVPURINE2-PWY;
 CC  This property has been automatically generated from MetaCyc and has not

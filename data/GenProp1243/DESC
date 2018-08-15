@@ -2,7 +2,7 @@ AC  GenProp1243
 DE  Salicylate biosynthesis I
 TP  PATHWAY
 AU  Caspi R
-
+TH  0
 DC  Salicylate biosynthesis I
 DR  MetaCyc; PWY-6406;
 CC  This property has been automatically generated from MetaCyc and has not

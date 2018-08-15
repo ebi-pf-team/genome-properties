@@ -2,7 +2,7 @@ AC  GenProp1441
 DE  Acetoacetate degradation (to acetyl CoA)
 TP  PATHWAY
 AU  Riley M, Ingraham J
-
+TH  0
 DC  Acetoacetate degradation (to acetyl CoA)
 DR  MetaCyc; ACETOACETATE-DEG-PWY;
 CC  This property has been automatically generated from MetaCyc and has not

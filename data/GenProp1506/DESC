@@ -2,7 +2,7 @@ AC  GenProp1506
 DE  4-Aminobutanoate degradation I
 TP  PATHWAY
 AU  Caspi R
-
+TH  0
 DC  4-Aminobutanoate degradation I
 DR  MetaCyc; PWY-6535;
 CC  This property has been automatically generated from MetaCyc and has not

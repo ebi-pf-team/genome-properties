@@ -2,7 +2,7 @@ AC  GenProp1598
 DE  Superoxide radicals degradation
 TP  PATHWAY
 AU  Caspi R, Riley M, Foerster H
-
+TH  0
 DC  Superoxide radicals degradation
 DR  MetaCyc; DETOX1-PWY;
 CC  This property has been automatically generated from MetaCyc and has not

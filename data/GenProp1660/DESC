@@ -2,7 +2,7 @@ AC  GenProp1660
 DE  L-asparagine biosynthesis III (tRNA-dependent)
 TP  PATHWAY
 AU  Caspi R
-
+TH  0
 DC  L-asparagine biosynthesis III (tRNA-dependent)
 DR  MetaCyc; PWY490-4;
 CC  This property has been automatically generated from MetaCyc and has not
