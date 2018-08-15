@@ -884,8 +884,7 @@ sub toDESC {
   while (my ($acc, $desc) = each %$defs) {
     print D wrap( "AC  ", "AC  ", $desc->accession );
     print D "\n";
-    print D wrap( "DE  ", "DE  ", $desc->name);
-    print D "\n";
+    print D "DE  ".$desc->name."\n";
     print D wrap( "TP  ", "TP  ", $desc->type); 
     print D "\n";
 
@@ -945,7 +944,9 @@ sub toDESC {
       foreach my $ev (@{ $step->get_evidence}){
         print D "EV  ".$ev->interpro."; ".$ev->accession."; ".$ev->type.";\n";
         if($ev->get_go){
-          print D  "TG  ".$ev->get_go.";\n";
+          foreach my $go (@{$ev->get_go}){
+            print D  "TG  ".$go.";\n";
+          }
         }
       }
     }
