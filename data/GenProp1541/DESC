@@ -1,9 +1,7 @@
 AC  GenProp1541
-DE  Superpathway of geranylgeranyldiphosphate biosynthesis I (via
-DE  mevalonate)
+DE  Superpathway of geranylgeranyldiphosphate biosynthesis I (via mevalonate)
 TP  PATHWAY
 TH  0
-
 DC  Superpathway of geranylgeranyldiphosphate biosynthesis I (via
 DC  mevalonate)
 DR  MetaCyc; PWY-5910;

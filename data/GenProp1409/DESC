@@ -15,12 +15,10 @@ ID  Bis(molybdenum cofactor) guanylyltransferase
 DN  Bis(molybdenum cofactor) guanylyltransferase (EC 2.7.7.77)
 RQ  1
 EV  IPR013482; TIGR02665; sufficient;
-EV  IPR025877; PF12804; sufficient;
 --
 SN  2
 ID  Bis(molybdenum cofactor) synthase
 DN  Bis(molybdenum cofactor) synthase
 RQ  1
 EV  IPR013482; TIGR02665; sufficient;
-EV  IPR025877; PF12804; sufficient;
 //

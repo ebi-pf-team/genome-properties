@@ -21,6 +21,4 @@ ID  Aspartate ammonia-lyase
 DN  Aspartate ammonia-lyase (EC 4.3.1.1)
 RQ  1
 EV  IPR004708; TIGR00839; sufficient;
-EV  IPR018951; PF10415; sufficient;
-EV  IPR022761; PF00206; sufficient;
 //

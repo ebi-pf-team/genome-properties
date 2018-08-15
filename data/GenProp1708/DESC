@@ -16,7 +16,6 @@ DN  Chorismate mutase (EC 5.4.99.5)
 RQ  1
 EV  IPR003099; PF02153; sufficient;
 EV  IPR011277; TIGR01799; sufficient;
-EV  IPR020822; PF01817; sufficient;
 EV  IPR001086; PF00800; sufficient;
 EV  IPR010952; TIGR01797; sufficient;
 --
@@ -24,7 +23,6 @@ SN  2
 ID  L-phenylalanine:2-oxoglutarate aminotransferase
 DN  L-phenylalanine:2-oxoglutarate aminotransferase (EC 2.6.1.57)
 RQ  1
-EV  IPR004839; PF00155; sufficient;
 EV  IPR001544; PF01063; sufficient;
 EV  IPR005785; TIGR01122; sufficient;
 --
@@ -34,5 +32,4 @@ DN  Prephenate dehydratase (EC 4.2.1.51)
 RQ  1
 EV  IPR001086; PF00800; sufficient;
 EV  IPR010952; TIGR01797; sufficient;
-EV  IPR020822; PF01817; sufficient;
 //

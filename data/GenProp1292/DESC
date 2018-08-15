@@ -14,10 +14,7 @@ SN  1
 ID  Indole-3-ethanol dehydrogenase
 DN  Indole-3-ethanol dehydrogenase (EC 1.1.1.190)
 RQ  1
-EV  IPR013149; PF00107; sufficient;
-EV  IPR013154; PF08240; sufficient;
 EV  IPR014183; TIGR02818; sufficient;
-EV  IPR001670; PF00465; sufficient;
 --
 SN  2
 ID  L-tryptophan:phenylpyruvate aminotransferas

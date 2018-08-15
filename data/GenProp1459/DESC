@@ -15,16 +15,12 @@ ID  Galactokinase
 DN  Galactokinase (EC 2.7.1.6)
 RQ  1
 EV  IPR000705; TIGR00131; sufficient;
-EV  IPR006204; PF00288; sufficient;
-EV  IPR013750; PF08544; sufficient;
-EV  IPR019539; PF10509; sufficient;
 --
 SN  2
 ID  UDP-galactose 4-epimerase
 DN  UDP-galactose 4-epimerase (EC 5.1.3.2)
 RQ  1
 EV  IPR005886; TIGR01179; sufficient;
-EV  IPR016040; PF16363; sufficient;
 --
 SN  3
 ID  UDP-galactose pyrophosphorylase

@@ -20,11 +20,6 @@ SN  2
 ID  Methionine synthase
 DN  Methionine synthase (EC 2.1.1.13)
 RQ  1
-EV  IPR000489; PF00809; sufficient;
-EV  IPR003726; PF02574; sufficient;
-EV  IPR003759; PF02607; sufficient;
-EV  IPR004223; PF02965; sufficient;
-EV  IPR006158; PF02310; sufficient;
 EV  IPR011822; TIGR02082; sufficient;
 --
 SN  3

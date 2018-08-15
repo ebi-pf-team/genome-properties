@@ -15,13 +15,7 @@ ID  Phosphoribosylformylglycinamide cyclo-ligase
 DN  Phosphoribosylformylglycinamide cyclo-ligase (EC 6.3.3.1)
 RQ  1
 EV  IPR004733; TIGR00878; sufficient;
-EV  IPR010918; PF02769; sufficient;
-EV  IPR016188; PF00586; sufficient;
 EV  IPR000115; TIGR00877; sufficient;
-EV  IPR020560; PF02843; sufficient;
-EV  IPR020561; PF01071; sufficient;
-EV  IPR020562; PF02844; sufficient;
-EV  IPR002376; PF00551; sufficient;
 EV  IPR004607; TIGR00639; sufficient;
 --
 SN  2
@@ -29,21 +23,14 @@ ID  Phosphoribosylformylglycinamidine synthetase
 DN  Phosphoribosylformylglycinamidine synthetase (EC 6.3.5.3)
 RQ  1
 EV  IPR010073; TIGR01735; sufficient;
-EV  IPR010918; PF02769; sufficient;
 --
 SN  3
 ID  Phosphoribosylglycinamide formyltransferase
 DN  Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)
 RQ  1
-EV  IPR002376; PF00551; sufficient;
 EV  IPR004607; TIGR00639; sufficient;
 EV  IPR000115; TIGR00877; sufficient;
 EV  IPR004733; TIGR00878; sufficient;
-EV  IPR010918; PF02769; sufficient;
-EV  IPR016188; PF00586; sufficient;
-EV  IPR020560; PF02843; sufficient;
-EV  IPR020561; PF01071; sufficient;
-EV  IPR020562; PF02844; sufficient;
 --
 SN  4
 ID  Phosphoribosylamine-glycine ligase
@@ -51,18 +38,11 @@ DN  Phosphoribosylamine-glycine ligase (EC 6.3.4.13)
 RQ  1
 EV  IPR000115; TIGR00877; sufficient;
 EV  IPR004733; TIGR00878; sufficient;
-EV  IPR010918; PF02769; sufficient;
-EV  IPR016188; PF00586; sufficient;
-EV  IPR020560; PF02843; sufficient;
-EV  IPR020561; PF01071; sufficient;
-EV  IPR020562; PF02844; sufficient;
-EV  IPR002376; PF00551; sufficient;
 EV  IPR004607; TIGR00639; sufficient;
 --
 SN  5
 ID  Phosphoribosylpyrophosphate amidotransferase
 DN  Phosphoribosylpyrophosphate amidotransferase (EC 2.4.2.14)
 RQ  1
-EV  IPR000836; PF00156; sufficient;
 EV  IPR005854; TIGR01134; sufficient;
 //

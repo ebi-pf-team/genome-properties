@@ -21,7 +21,6 @@ ID  Xanthosine phosphorylase
 DN  Xanthosine phosphorylase (EC 2.4.2.1)
 RQ  1
 EV  IPR009664; PF06865; sufficient;
-EV  IPR000845; PF01048; sufficient;
 EV  IPR010943; TIGR01699; sufficient;
 EV  IPR011268; TIGR01697; sufficient;
 //

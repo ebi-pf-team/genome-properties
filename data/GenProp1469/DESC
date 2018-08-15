@@ -14,7 +14,6 @@ SN  1
 ID  Guanine deaminase
 DN  Guanine deaminase (EC 3.5.4.3)
 RQ  1
-EV  IPR006680; PF01979; sufficient;
 EV  IPR014311; TIGR02967; sufficient;
 --
 SN  2
@@ -24,13 +23,11 @@ RQ  1
 EV  IPR008380; PF05761; sufficient;
 EV  IPR008380; TIGR02244; sufficient;
 EV  IPR006439; TIGR01509; sufficient;
-EV  IPR023214; PF13419; sufficient;
 --
 SN  3
 ID  Guanosine phosphorylase
 DN  Guanosine phosphorylase (EC 2.4.2.15)
 RQ  1
-EV  IPR000845; PF01048; sufficient;
 EV  IPR011268; TIGR01697; sufficient;
 EV  IPR011270; TIGR01700; sufficient;
 EV  IPR010943; TIGR01699; sufficient;

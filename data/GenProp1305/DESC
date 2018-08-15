@@ -20,9 +20,6 @@ SN  2
 ID  NAD(P) transhydrogenase
 DN  NAD(P) transhydrogenase (EC 1.6.1.5)
 RQ  1
-EV  IPR007698; PF01262; sufficient;
-EV  IPR007886; PF05222; sufficient;
 EV  IPR012136; PF02233; sufficient;
-EV  IPR024605; PF12769; sufficient;
 EV  IPR026255; TIGR00561; sufficient;
 //

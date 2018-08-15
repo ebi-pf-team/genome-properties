@@ -16,8 +16,6 @@ DN  Phosphatidylserine decarboxylase (EC 4.1.1.65)
 RQ  1
 EV  IPR003817; PF02666; sufficient;
 EV  IPR033177; TIGR00163; sufficient;
-EV  IPR000008; PF00168; sufficient;
-EV  IPR002048; PF13833; sufficient;
 --
 SN  2
 ID  Phosphatidylserine synthase

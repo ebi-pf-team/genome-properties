@@ -21,7 +21,6 @@ ID  5-Taurinomethyluridine-[tRNA] synthase
 DN  5-Taurinomethyluridine-[tRNA] synthase
 RQ  1
 EV  IPR002218; PF01134; sufficient;
-EV  IPR026904; PF13932; sufficient;
 --
 SN  3
 ID  Cysteine desulfurase:TUM1 sulfurtransferase
@@ -33,6 +32,5 @@ SN  4
 ID  Cysteine desulfurase
 DN  Cysteine desulfurase
 RQ  1
-EV  IPR000192; PF00266; sufficient;
 EV  IPR010240; TIGR02006; sufficient;
 //

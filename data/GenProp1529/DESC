@@ -14,7 +14,6 @@ SN  1
 ID  Fuculose-1-phosphate aldolase
 DN  Fuculose-1-phosphate aldolase (EC 4.1.2.17)
 RQ  1
-EV  IPR001303; PF00596; sufficient;
 EV  IPR004782; TIGR01086; sufficient;
 --
 SN  2
@@ -27,13 +26,11 @@ SN  3
 ID  L-1,2-propanediol oxidoreductase
 DN  L-1,2-propanediol oxidoreductase (EC 1.1.1.77)
 RQ  1
-EV  IPR001670; PF00465; sufficient;
 EV  IPR013460; TIGR02638; sufficient;
 --
 SN  4
 ID  Rhamnulose-1-phosphate aldolase
 DN  Rhamnulose-1-phosphate aldolase (EC 4.1.2.19)
 RQ  1
-EV  IPR001303; PF00596; sufficient;
 EV  IPR013447; TIGR02624; sufficient;
 //

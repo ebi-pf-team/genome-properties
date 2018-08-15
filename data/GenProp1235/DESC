@@ -14,14 +14,12 @@ SN  1
 ID  Adenosine deaminase
 DN  Adenosine deaminase (EC 3.5.4.4)
 RQ  1
-EV  IPR001365; PF00962; sufficient;
 EV  IPR006330; TIGR01430; sufficient;
 --
 SN  2
 ID  Adenosine phosphorylase
 DN  Adenosine phosphorylase (EC 2.4.2.1)
 RQ  1
-EV  IPR000845; PF01048; sufficient;
 EV  IPR004402; TIGR00107; sufficient;
 EV  IPR009664; PF06865; sufficient;
 --
@@ -29,14 +27,12 @@ SN  3
 ID  Hypoxanthine phosphoribosyltransferase
 DN  Hypoxanthine phosphoribosyltransferase (EC 2.4.2.8)
 RQ  1
-EV  IPR000836; PF00156; sufficient;
 EV  IPR005904; TIGR01203; sufficient;
 --
 SN  4
 ID  Inosine phosphorylase
 DN  Inosine phosphorylase (EC 2.4.2.1)
 RQ  1
-EV  IPR000845; PF01048; sufficient;
 EV  IPR011268; TIGR01697; sufficient;
 EV  IPR011270; TIGR01700; sufficient;
 EV  IPR010943; TIGR01699; sufficient;

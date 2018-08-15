@@ -40,7 +40,6 @@ SN  5
 ID  Prolycopene isomerase
 DN  Prolycopene isomerase (EC 5.2.1.13)
 RQ  1
-EV  IPR002937; PF01593; sufficient;
 EV  IPR014101; TIGR02730; sufficient;
 --
 SN  6

@@ -17,7 +17,6 @@ RQ  1
 EV  IPR003826; PF02675; sufficient;
 EV  IPR017716; TIGR03330; sufficient;
 EV  IPR001985; PF01536; sufficient;
-EV  IPR018167; TIGR00535; sufficient;
 --
 SN  2
 ID  Spermine synthase

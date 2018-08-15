@@ -74,11 +74,5 @@ SN  9
 ID  Ubiquitin-activating enzyme
 DN  Ubiquitin-activating enzyme (EC 6.2.1.45)
 RQ  1
-EV  IPR000594; PF00899; sufficient;
 EV  IPR018075; TIGR01408; sufficient;
-EV  IPR018965; PF09358; sufficient;
-EV  IPR019572; PF10585; sufficient;
-EV  IPR032418; PF16190; sufficient;
-EV  IPR032420; PF16191; sufficient;
-EV  IPR014929; PF08825; sufficient;
 //

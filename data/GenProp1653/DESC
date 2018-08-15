@@ -22,8 +22,6 @@ ID  Leukotriene A-4 hydrolase
 DN  Leukotriene A-4 hydrolase (EC 3.3.2.6)
 RQ  1
 EV  IPR012777; TIGR02411; sufficient;
-EV  IPR014782; PF01433; sufficient;
-EV  IPR015211; PF09127; sufficient;
 --
 SN  3
 ID  Leukotriene C4 synthase

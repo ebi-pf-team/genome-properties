@@ -14,11 +14,7 @@ SN  1
 ID  Acetaldehyde dehydrogenase
 DN  Acetaldehyde dehydrogenase (EC 1.2.1.10)
 RQ  1
-EV  IPR001670; PF00465; sufficient;
-EV  IPR015590; PF00171; sufficient;
-EV  IPR000534; PF01118; sufficient;
 EV  IPR003361; TIGR03215; sufficient;
-EV  IPR015426; PF09290; sufficient;
 --
 SN  2
 ID  Acetate kinase
@@ -29,7 +25,6 @@ EV  IPR004372; TIGR00016; sufficient;
 EV  IPR010424; PF06249; sufficient;
 EV  IPR012381; PF10662; sufficient;
 EV  IPR012381; TIGR02528; sufficient;
-EV  IPR003135; PF02222; sufficient;
 EV  IPR005862; TIGR01142; sufficient;
 --
 SN  3
@@ -53,7 +48,4 @@ ID  Phosphotransacetylase
 DN  Phosphotransacetylase (EC 2.3.1.8)
 RQ  1
 EV  IPR008300; PF06130; sufficient;
-EV  IPR002505; PF01515; sufficient;
-EV  IPR004614; TIGR00651; sufficient;
-EV  IPR010766; PF07085; sufficient;
 //

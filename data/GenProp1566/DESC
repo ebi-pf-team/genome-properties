@@ -15,7 +15,6 @@ ID  2-Dehydro-3-deoxygalactonokinase
 DN  2-Dehydro-3-deoxygalactonokinase (EC 2.7.1.58)
 RQ  1
 EV  IPR007729; PF05035; sufficient;
-EV  IPR011611; PF00294; sufficient;
 --
 SN  2
 ID  2-Dehydro-3-deoxy-6-phosphogalactonate aldolase

@@ -21,14 +21,11 @@ ID  Alanine racemase
 DN  Alanine racemase (EC 5.1.1.1)
 RQ  1
 EV  IPR000821; TIGR00492; sufficient;
-EV  IPR001608; PF01168; sufficient;
-EV  IPR011079; PF00842; sufficient;
 --
 SN  3
 ID  Cysteine desulfurase
 DN  Cysteine desulfurase (EC 2.8.1.7)
 RQ  1
-EV  IPR000192; PF00266; sufficient;
 EV  IPR010240; TIGR02006; sufficient;
 EV  IPR010970; TIGR01979; sufficient;
 --
@@ -36,6 +33,5 @@ SN  4
 ID  Cysteine desulfurase
 DN  Cysteine desulfurase
 RQ  1
-EV  IPR000192; PF00266; sufficient;
 EV  IPR010240; TIGR02006; sufficient;
 //

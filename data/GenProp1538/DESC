@@ -15,13 +15,7 @@ ID  Anthranilate synthase
 DN  Anthranilate synthase (EC 4.1.3.27)
 RQ  1
 EV  IPR005257; TIGR00565; sufficient;
-EV  IPR006805; PF04715; sufficient;
-EV  IPR015890; PF00425; sufficient;
-EV  IPR000312; PF00591; sufficient;
 EV  IPR005940; TIGR01245; sufficient;
-EV  IPR006221; TIGR00566; sufficient;
-EV  IPR017459; PF02885; sufficient;
-EV  IPR017926; PF00117; sufficient;
 --
 SN  2
 ID  Chorismate synthase
@@ -36,7 +30,6 @@ DN  Chorismate mutase (EC 5.4.99.5)
 RQ  1
 EV  IPR003099; PF02153; sufficient;
 EV  IPR011277; TIGR01799; sufficient;
-EV  IPR020822; PF01817; sufficient;
 EV  IPR001086; PF00800; sufficient;
 EV  IPR010952; TIGR01797; sufficient;
 //

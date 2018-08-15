@@ -14,21 +14,7 @@ SN  1
 ID  Yersiniabactin synthase
 DN  Yersiniabactin synthase (EC 2.3.1)
 RQ  1
-EV  IPR000873; PF00501; sufficient;
-EV  IPR025110; PF13193; sufficient;
-EV  IPR000683; PF01408; sufficient;
 EV  IPR010091; TIGR01761; sufficient;
-EV  IPR001031; PF00975; sufficient;
-EV  IPR001242; PF00668; sufficient;
-EV  IPR009081; PF00550; sufficient;
-EV  IPR013217; PF08242; sufficient;
-EV  IPR013624; PF08415; sufficient;
-EV  IPR013968; PF08659; sufficient;
-EV  IPR014030; PF00109; sufficient;
-EV  IPR014031; PF02801; sufficient;
-EV  IPR014043; PF00698; sufficient;
-EV  IPR032821; PF16197; sufficient;
-EV  IPR010071; TIGR01733; sufficient;
 --
 SN  2
 ID  Salicilate adenylyltransferase

@@ -14,9 +14,7 @@ SN  1
 ID  2-Isopropylmalate synthase
 DN  2-Isopropylmalate synthase (EC 2.3.3.13)
 RQ  1
-EV  IPR000891; PF00682; sufficient;
 EV  IPR005671; TIGR00973; sufficient;
-EV  IPR013709; PF08502; sufficient;
 --
 SN  2
 ID  2,3-Dihydroxy-isovalerate dehydratase

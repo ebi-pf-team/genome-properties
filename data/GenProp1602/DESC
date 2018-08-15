@@ -15,7 +15,6 @@ ID  GTP cyclohydrolase
 DN  GTP cyclohydrolase (EC 3.5.4.16)
 RQ  1
 EV  IPR001474; TIGR00063; sufficient;
-EV  IPR020602; PF01227; sufficient;
 --
 SN  2
 ID  7-Cyano-7-deazaguanine synthase
@@ -36,6 +35,5 @@ SN  4
 ID  7-Carboxy-7-deazaguanine synthase
 DN  7-Carboxy-7-deazaguanine synthase (EC 4.3.99.3)
 RQ  1
-EV  IPR007197; PF04055; sufficient;
 EV  IPR017742; TIGR03365; sufficient;
 //

@@ -29,7 +29,6 @@ ID  Imidazolonepropionase
 DN  Imidazolonepropionase (EC 3.5.2.7)
 RQ  1
 EV  IPR005920; TIGR01224; sufficient;
-EV  IPR006680; PF01979; sufficient;
 --
 SN  4
 ID  Urocanase

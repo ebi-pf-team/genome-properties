@@ -25,7 +25,6 @@ DN  Propionyl-CoA:succinate CoA transferase (EC 2.8.3)
 RQ  1
 EV  IPR003702; PF02550; sufficient;
 EV  IPR017821; TIGR03458; sufficient;
-EV  IPR026888; PF13336; sufficient;
 --
 SN  3
 ID  Methylmalonyl-CoA decarboxylase

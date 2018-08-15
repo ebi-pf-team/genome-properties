@@ -14,16 +14,12 @@ SN  1
 ID  UDP-N-acetylglucosamine 6-dehydrogenase
 DN  UDP-N-acetylglucosamine 6-dehydrogenase (EC 1.1.1.136)
 RQ  1
-EV  IPR001732; PF03721; sufficient;
-EV  IPR014026; PF00984; sufficient;
-EV  IPR014027; PF03720; sufficient;
 EV  IPR017476; TIGR03026; sufficient;
 --
 SN  2
 ID  UDP-2,3-diacetamido-2,3-dideoxyglucuronic acid 2-epimerase
 DN  UDP-2,3-diacetamido-2,3-dideoxyglucuronic acid 2-epimerase (EC 5.1.3.23)
 RQ  1
-EV  IPR003331; PF02350; sufficient;
 EV  IPR029767; TIGR00236; sufficient;
 --
 SN  3

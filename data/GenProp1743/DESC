@@ -16,15 +16,10 @@ DN  UDP-glucose pyrophosphorylase (EC 2.7.7.9)
 RQ  1
 EV  IPR002618; PF01704; sufficient;
 EV  IPR005771; TIGR01099; sufficient;
-EV  IPR005835; PF00483; sufficient;
 --
 SN  2
 ID  Phosphoglucomutase
 DN  Phosphoglucomutase (EC 5.4.2.2)
 RQ  1
-EV  IPR005843; PF00408; sufficient;
-EV  IPR005844; PF02878; sufficient;
-EV  IPR005845; PF02879; sufficient;
-EV  IPR005846; PF02880; sufficient;
 EV  IPR005852; TIGR01132; sufficient;
 //

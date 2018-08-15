@@ -21,8 +21,6 @@ ID  3-Ketoacyl-CoA thiolase
 DN  3-Ketoacyl-CoA thiolase (EC 2.3.1.16)
 RQ  1
 EV  IPR002155; TIGR01930; sufficient;
-EV  IPR020616; PF00108; sufficient;
-EV  IPR020617; PF02803; sufficient;
 --
 SN  3
 ID  Acyl-CoA oxidase
@@ -37,12 +35,10 @@ ID  (R)-specific enoyl-CoA hydratase
 DN  (R)-specific enoyl-CoA hydratase (EC 4.2.1.119)
 RQ  1
 EV  IPR002347; PF00106; sufficient;
-EV  IPR002539; PF01575; sufficient;
 --
 SN  5
 ID  3-Hydroxyacyl-CoA dehydrogenase
 DN  3-Hydroxyacyl-CoA dehydrogenase (EC 1.1.1.M19)
 RQ  1
 EV  IPR002347; PF00106; sufficient;
-EV  IPR002539; PF01575; sufficient;
 //

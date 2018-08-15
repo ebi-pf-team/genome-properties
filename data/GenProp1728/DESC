@@ -14,28 +14,24 @@ SN  1
 ID  [thyroglobulin]-3-iodotyrosine synthase
 DN  [thyroglobulin]-3-iodotyrosine synthase (EC 1.11.1.8)
 RQ  1
-EV  IPR000436; PF00084; sufficient;
 EV  IPR019791; PF03098; sufficient;
 --
 SN  2
 ID  [thyroglobulin]-3,5-diiodotyrosine synthase
 DN  [thyroglobulin]-3,5-diiodotyrosine synthase (EC 1.11.1.8)
 RQ  1
-EV  IPR000436; PF00084; sufficient;
 EV  IPR019791; PF03098; sufficient;
 --
 SN  3
 ID  [thyroglobulin]-triiodothyronine synthase
 DN  [thyroglobulin]-triiodothyronine synthase (EC 1.11.1.8)
 RQ  1
-EV  IPR000436; PF00084; sufficient;
 EV  IPR019791; PF03098; sufficient;
 --
 SN  4
 ID  [thyroglobulin]-L-thyroxine synthase
 DN  [thyroglobulin]-L-thyroxine synthase (EC 1.11.1.8)
 RQ  1
-EV  IPR000436; PF00084; sufficient;
 EV  IPR019791; PF03098; sufficient;
 --
 SN  5

@@ -14,9 +14,7 @@ SN  1
 ID  L-malate glycosyltransferase
 DN  L-malate glycosyltransferase
 RQ  1
-EV  IPR001296; PF00534; sufficient;
 EV  IPR023881; TIGR03999; sufficient;
-EV  IPR028098; PF13439; sufficient;
 --
 SN  2
 ID  Malyl-N-acetyl-D-glucosamine N-acetyl hydrolase

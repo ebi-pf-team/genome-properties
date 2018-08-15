@@ -16,16 +16,12 @@ DN  Hydroxyisourate hydrolase (EC 3.5.2.17)
 RQ  1
 EV  IPR001360; PF00232; sufficient;
 EV  IPR014306; TIGR02962; sufficient;
-EV  IPR018020; PF09349; sufficient;
-EV  IPR023416; PF00576; sufficient;
 --
 SN  2
 ID  OHCU decarboxylase
 DN  OHCU decarboxylase (EC 4.1.1.97)
 RQ  1
 EV  IPR014306; TIGR02962; sufficient;
-EV  IPR018020; PF09349; sufficient;
-EV  IPR023416; PF00576; sufficient;
 --
 SN  3
 ID  Urate hydroxylase

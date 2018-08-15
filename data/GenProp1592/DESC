@@ -22,15 +22,11 @@ ID  Phosphoribosylformylglycinamide cyclo-ligase
 DN  Phosphoribosylformylglycinamide cyclo-ligase (EC 6.3.3.1)
 RQ  1
 EV  IPR004733; TIGR00878; sufficient;
-EV  IPR010918; PF02769; sufficient;
-EV  IPR016188; PF00586; sufficient;
 --
 SN  3
 ID  Inosine-5'-monophosphate dehydrogenase
 DN  Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)
 RQ  1
-EV  IPR000644; PF00571; sufficient;
-EV  IPR001093; PF00478; sufficient;
 EV  IPR005990; TIGR01302; sufficient;
 --
 SN  4
@@ -39,7 +35,6 @@ DN  IMP cyclohydrolase (EC 3.5.4.10)
 RQ  1
 EV  IPR002695; PF01808; sufficient;
 EV  IPR002695; TIGR00355; sufficient;
-EV  IPR011607; PF02142; sufficient;
 --
 SN  5
 ID  5-(Carboxyamino)imidazole ribonucleotide synthase

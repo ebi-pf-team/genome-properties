@@ -28,19 +28,13 @@ SN  3
 ID  Aconitase
 DN  Aconitase
 RQ  1
-EV  IPR001030; PF00330; sufficient;
 EV  IPR004406; TIGR00117; sufficient;
-EV  IPR015929; PF06434; sufficient;
-EV  IPR015933; PF11791; sufficient;
 --
 SN  4
 ID  Cis-aconitate hydratase
 DN  Cis-aconitate hydratase
 RQ  1
-EV  IPR001030; PF00330; sufficient;
 EV  IPR004406; TIGR00117; sufficient;
-EV  IPR015929; PF06434; sufficient;
-EV  IPR015933; PF11791; sufficient;
 --
 SN  5
 ID  Alcohol dehydrogenase
@@ -70,17 +64,7 @@ ID  Formate hydrogenlyase complex
 DN  Formate hydrogenlyase complex
 RQ  1
 EV  IPR006478; TIGR01591; sufficient;
-EV  IPR006656; PF00384; sufficient;
-EV  IPR006657; PF01568; sufficient;
-EV  IPR006963; PF04879; sufficient;
-EV  IPR017896; PF13247; sufficient;
-EV  IPR001750; PF00361; sufficient;
 EV  IPR001694; PF00146; sufficient;
-EV  IPR001135; PF00346; sufficient;
-EV  IPR001268; PF00329; sufficient;
-EV  IPR001501; PF00374; sufficient;
-EV  IPR017896; PF12838; sufficient;
-EV  IPR006137; PF01058; sufficient;
 --
 SN  9
 ID  Fumarase B
@@ -88,28 +72,19 @@ DN  Fumarase B (EC 4.2.1.2)
 RQ  1
 EV  IPR024493; PF10965; sufficient;
 EV  IPR007761; PF05068; sufficient;
-EV  IPR004646; PF05681; sufficient;
-EV  IPR004646; TIGR00722; sufficient;
-EV  IPR004647; PF05683; sufficient;
-EV  IPR004647; TIGR00723; sufficient;
 EV  IPR005677; TIGR00979; sufficient;
-EV  IPR018951; PF10415; sufficient;
-EV  IPR022761; PF00206; sufficient;
 --
 SN  10
 ID  NADP+-dependent isocitrate dehydrogenase
 DN  NADP+-dependent isocitrate dehydrogenase (EC 1.1.1.42)
 RQ  1
 EV  IPR004439; TIGR00183; sufficient;
-EV  IPR024084; PF00180; sufficient;
 --
 SN  11
 ID  Malate dehydrogenase (NAD)
 DN  Malate dehydrogenase (NAD) (EC 1.1.1.37)
 RQ  1
-EV  IPR001236; PF00056; sufficient;
 EV  IPR010097; TIGR01772; sufficient;
-EV  IPR022383; PF02866; sufficient;
 --
 SN  12
 ID  Phosphoenolpyruvate carboxylase
@@ -122,8 +97,6 @@ ID  Pyruvate kinase
 DN  Pyruvate kinase (EC 2.7.1.40)
 RQ  1
 EV  IPR001697; TIGR01064; sufficient;
-EV  IPR015793; PF00224; sufficient;
-EV  IPR015795; PF02887; sufficient;
 --
 SN  14
 ID  Phosphotransacetylase
@@ -137,8 +110,6 @@ SN  15
 ID  Pyruvate formate lyase
 DN  Pyruvate formate lyase (EC 2.3.1.54)
 RQ  1
-EV  IPR001150; PF01228; sufficient;
-EV  IPR004184; PF02901; sufficient;
 EV  IPR005949; TIGR01255; sufficient;
 --
 SN  16
@@ -146,12 +117,8 @@ ID  Fumarate reductase
 DN  Fumarate reductase (EC 1.3.5.4)
 RQ  1
 EV  IPR004489; TIGR00384; sufficient;
-EV  IPR017896; PF13183; sufficient;
-EV  IPR025192; PF13085; sufficient;
-EV  IPR003953; PF00890; sufficient;
 EV  IPR005884; TIGR01176; sufficient;
 EV  IPR014006; TIGR01812; sufficient;
-EV  IPR015939; PF02910; sufficient;
 EV  IPR003510; PF02300; sufficient;
 EV  IPR003418; PF02313; sufficient;
 //

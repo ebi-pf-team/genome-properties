@@ -22,13 +22,10 @@ ID  Arginine decarboxylase
 DN  Arginine decarboxylase (EC 4.1.1.19)
 RQ  1
 EV  IPR002985; TIGR01273; sufficient;
-EV  IPR022643; PF00278; sufficient;
-EV  IPR022644; PF02784; sufficient;
 --
 SN  3
 ID  N-carbamolyputrescine amidohydrolase
 DN  N-carbamolyputrescine amidohydrolase (EC 3.5.1.53)
 RQ  1
-EV  IPR003010; PF00795; sufficient;
 EV  IPR017755; TIGR03381; sufficient;
 //

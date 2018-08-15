@@ -29,14 +29,10 @@ ID  NADH hydratase
 DN  NADH hydratase
 RQ  1
 EV  IPR006424; TIGR01534; sufficient;
-EV  IPR020828; PF00044; sufficient;
-EV  IPR020829; PF02800; sufficient;
 --
 SN  4
 ID  NADH hydratase
 DN  NADH hydratase
 RQ  1
 EV  IPR006424; TIGR01534; sufficient;
-EV  IPR020828; PF00044; sufficient;
-EV  IPR020829; PF02800; sufficient;
 //

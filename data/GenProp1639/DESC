@@ -42,7 +42,5 @@ SN  5
 ID  Sucrose synthase
 DN  Sucrose synthase (EC 2.4.1.13)
 RQ  1
-EV  IPR000368; PF00862; sufficient;
-EV  IPR001296; PF00534; sufficient;
 EV  IPR012820; TIGR02470; sufficient;
 //

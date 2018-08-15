@@ -22,7 +22,6 @@ ID  GTP cyclohydrolase
 DN  GTP cyclohydrolase (EC 3.5.4.16)
 RQ  1
 EV  IPR001474; TIGR00063; sufficient;
-EV  IPR020602; PF01227; sufficient;
 --
 SN  3
 ID  Sepiapterin reductase [(6R)-tetrahydrobiopterin-forming]

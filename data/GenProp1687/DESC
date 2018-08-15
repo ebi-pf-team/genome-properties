@@ -28,11 +28,7 @@ SN  3
 ID  (2R,3S)-2-methylisocitrate hydro-lyase
 DN  (2R,3S)-2-methylisocitrate hydro-lyase (EC 4.2.1.99)
 RQ  1
-EV  IPR001030; PF00330; sufficient;
 EV  IPR004406; TIGR00117; sufficient;
-EV  IPR015929; PF06434; sufficient;
-EV  IPR015933; PF11791; sufficient;
-EV  IPR000573; PF00694; sufficient;
 EV  IPR006249; TIGR01341; sufficient;
 --
 SN  4
@@ -45,9 +41,6 @@ SN  5
 ID  Propionyl-CoA synthetase
 DN  Propionyl-CoA synthetase (EC 6.2.1.17)
 RQ  1
-EV  IPR000873; PF00501; sufficient;
 EV  IPR012694; TIGR02316; sufficient;
-EV  IPR025110; PF13193; sufficient;
-EV  IPR032387; PF16177; sufficient;
 EV  IPR011904; TIGR02188; sufficient;
 //

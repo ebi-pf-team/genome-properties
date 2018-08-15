@@ -21,15 +21,12 @@ SN  2
 ID  Glyoxalase I
 DN  Glyoxalase I (EC 4.4.1.5)
 RQ  1
-EV  IPR004360; PF00903; sufficient;
 EV  IPR004361; TIGR00068; sufficient;
 --
 SN  3
 ID  Hydroxyacylglutathione hydrolase
 DN  Hydroxyacylglutathione hydrolase (EC 3.1.2.6)
 RQ  1
-EV  IPR001279; PF00753; sufficient;
-EV  IPR032282; PF16123; sufficient;
 EV  IPR000801; PF00756; sufficient;
 EV  IPR014186; TIGR02821; sufficient;
 EV  IPR017782; TIGR03413; sufficient;

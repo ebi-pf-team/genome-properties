@@ -15,13 +15,11 @@ ID  dTDP-glucose 4,6-dehydratase
 DN  dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)
 RQ  1
 EV  IPR005888; TIGR01181; sufficient;
-EV  IPR016040; PF16363; sufficient;
 --
 SN  2
 ID  Glucose-1-phosphate thymidylyltransferase
 DN  Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)
 RQ  1
-EV  IPR005835; PF00483; sufficient;
 EV  IPR005907; TIGR01207; sufficient;
 --
 SN  3

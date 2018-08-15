@@ -14,7 +14,6 @@ SN  1
 ID  Threonine-phosphate decarboxylase
 DN  Threonine-phosphate decarboxylase (EC 4.1.1.81)
 RQ  1
-EV  IPR004839; PF00155; sufficient;
 EV  IPR005860; TIGR01140; sufficient;
 --
 SN  2

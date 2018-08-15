@@ -16,7 +16,6 @@ DN  Acetate kinase (EC 2.7.2.1)
 RQ  1
 EV  IPR000890; PF00871; sufficient;
 EV  IPR004372; TIGR00016; sufficient;
-EV  IPR003135; PF02222; sufficient;
 EV  IPR005862; TIGR01142; sufficient;
 --
 SN  2
@@ -31,7 +30,5 @@ SN  3
 ID  Pyruvate formate lyase
 DN  Pyruvate formate lyase (EC 2.3.1.54)
 RQ  1
-EV  IPR001150; PF01228; sufficient;
-EV  IPR004184; PF02901; sufficient;
 EV  IPR005949; TIGR01255; sufficient;
 //

@@ -23,14 +23,11 @@ ID  Prostaglandin E synthase
 DN  Prostaglandin E synthase (EC 5.3.99.3)
 RQ  1
 EV  IPR001129; PF01124; sufficient;
-EV  IPR007052; PF04969; sufficient;
-EV  IPR004045; PF13417; sufficient;
 --
 SN  3
 ID  Prostaglandin G/H synthase
 DN  Prostaglandin G/H synthase (EC 1.14.99.1)
 RQ  1
-EV  IPR000742; PF00008; sufficient;
 EV  IPR019791; PF03098; sufficient;
 --
 SN  4

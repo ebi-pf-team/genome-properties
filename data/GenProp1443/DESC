@@ -14,34 +14,25 @@ SN  1
 ID  Glucosamine-1-phosphate acetyltransferase
 DN  Glucosamine-1-phosphate acetyltransferase (EC 2.3.1.157)
 RQ  1
-EV  IPR001451; PF00132; sufficient;
 EV  IPR005882; TIGR01173; sufficient;
-EV  IPR025877; PF12804; sufficient;
 --
 SN  2
 ID  Phosphoglucosamine mutase
 DN  Phosphoglucosamine mutase (EC 5.4.2.10)
 RQ  1
-EV  IPR005843; PF00408; sufficient;
-EV  IPR005844; PF02878; sufficient;
-EV  IPR005845; PF02879; sufficient;
-EV  IPR005846; PF02880; sufficient;
 EV  IPR006352; TIGR01455; sufficient;
 --
 SN  3
 ID  Glutamine:fructose-6-phosphate amidotransferase
 DN  Glutamine:fructose-6-phosphate amidotransferase (EC 2.6.1.16)
 RQ  1
-EV  IPR001347; PF01380; sufficient;
 EV  IPR005855; TIGR01135; sufficient;
 --
 SN  4
 ID  UDP-N-acetylglucosamine pyrophosphorylase
 DN  UDP-N-acetylglucosamine pyrophosphorylase (EC 2.7.7.23)
 RQ  1
-EV  IPR001451; PF00132; sufficient;
 EV  IPR005882; TIGR01173; sufficient;
-EV  IPR025877; PF12804; sufficient;
 --
 SN  5
 ID  Glucose-6-phosphate isomerase

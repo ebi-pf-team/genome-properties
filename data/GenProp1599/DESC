@@ -15,14 +15,11 @@ ID  Enolase
 DN  Enolase (EC 4.2.1.11)
 RQ  1
 EV  IPR000941; TIGR01060; sufficient;
-EV  IPR020810; PF00113; sufficient;
-EV  IPR020811; PF03952; sufficient;
 --
 SN  2
 ID  6-Phosphofructokinase
 DN  6-Phosphofructokinase (EC 2.7.1.11)
 RQ  1
-EV  IPR000023; PF00365; sufficient;
 EV  IPR012828; TIGR02482; sufficient;
 EV  IPR009161; TIGR02478; sufficient;
 --
@@ -37,15 +34,11 @@ ID  Glyceraldehyde-3-phosphate dehydrogenase
 DN  Glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
 RQ  1
 EV  IPR006424; TIGR01534; sufficient;
-EV  IPR020828; PF00044; sufficient;
-EV  IPR020829; PF02800; sufficient;
 --
 SN  5
 ID  Glucokinase
 DN  Glucokinase (EC 2.7.1.2)
 RQ  1
-EV  IPR022672; PF00349; sufficient;
-EV  IPR022673; PF03727; sufficient;
 EV  IPR000600; PF00480; sufficient;
 EV  IPR004654; TIGR00744; sufficient;
 --
@@ -54,8 +47,6 @@ ID  Pyruvate kinase
 DN  Pyruvate kinase (EC 2.7.1.40)
 RQ  1
 EV  IPR001697; TIGR01064; sufficient;
-EV  IPR015793; PF00224; sufficient;
-EV  IPR015795; PF02887; sufficient;
 --
 SN  7
 ID  Glucose-6-phosphate isomerase
@@ -77,7 +68,6 @@ DN  2,3-Bisphosphoglycerate-dependent phosphoglycerate mutase (EC 5.4.2.11)
 RQ  1
 EV  IPR004456; PF10143; sufficient;
 EV  IPR004456; TIGR00306; sufficient;
-EV  IPR006124; PF01676; sufficient;
 EV  IPR005952; TIGR01258; sufficient;
 EV  IPR013078; PF00300; sufficient;
 --

@@ -14,8 +14,6 @@ SN  1
 ID  Inosine-5'-monophosphate dehydrogenase
 DN  Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)
 RQ  1
-EV  IPR000644; PF00571; sufficient;
-EV  IPR001093; PF00478; sufficient;
 EV  IPR005990; TIGR01302; sufficient;
 --
 SN  2
@@ -35,7 +33,6 @@ SN  3
 ID  Xanthosine phosphorylase
 DN  Xanthosine phosphorylase (EC 2.4.2.1)
 RQ  1
-EV  IPR000845; PF01048; sufficient;
 EV  IPR011268; TIGR01697; sufficient;
 EV  IPR011270; TIGR01700; sufficient;
 EV  IPR009664; PF06865; sufficient;
@@ -47,6 +44,4 @@ DN  XMP phosphohydrolase (EC 3.1.3.5)
 RQ  1
 EV  IPR008380; PF05761; sufficient;
 EV  IPR008380; TIGR02244; sufficient;
-EV  IPR004843; PF00149; sufficient;
-EV  IPR008334; PF02872; sufficient;
 //

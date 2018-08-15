@@ -22,9 +22,4 @@ ID  Arginine decarboxylase
 DN  Arginine decarboxylase (EC 4.1.1.19)
 RQ  1
 EV  IPR002985; TIGR01273; sufficient;
-EV  IPR022643; PF00278; sufficient;
-EV  IPR022644; PF02784; sufficient;
-EV  IPR000310; PF01276; sufficient;
-EV  IPR005308; PF03709; sufficient;
-EV  IPR008286; PF03711; sufficient;
 //

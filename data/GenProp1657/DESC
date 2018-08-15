@@ -28,7 +28,4 @@ ID  Methionine adenosyltransferase
 DN  Methionine adenosyltransferase (EC 2.5.1.6)
 RQ  1
 EV  IPR002133; TIGR01034; sufficient;
-EV  IPR022628; PF00438; sufficient;
-EV  IPR022629; PF02772; sufficient;
-EV  IPR022630; PF02773; sufficient;
 //

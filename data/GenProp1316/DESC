@@ -14,18 +14,13 @@ SN  1
 ID  Glycerol-3-phosphate dehydrogenase
 DN  Glycerol-3-phosphate dehydrogenase (EC 1.1.1.8)
 RQ  1
-EV  IPR006109; PF07479; sufficient;
-EV  IPR011128; PF01210; sufficient;
 EV  IPR017751; TIGR03376; sufficient;
 --
 SN  2
 ID  Oleoyl-CoA:lysophosphatidate acyltransferase
 DN  Oleoyl-CoA:lysophosphatidate acyltransferase (EC 2.3.1.51)
 RQ  1
-EV  IPR002641; PF01734; sufficient;
 EV  IPR021771; PF11815; sufficient;
-EV  IPR002123; PF01553; sufficient;
-EV  IPR004552; TIGR00530; sufficient;
 EV  IPR004299; PF03062; sufficient;
 --
 SN  3

@@ -1,6 +1,5 @@
 AC  GenProp1279
-DE  Superpathway of L-arginine, putrescine, and 4-aminobutanoate
-DE  degradation
+DE  Superpathway of L-arginine, putrescine, and 4-aminobutanoate degradation
 TP  PATHWAY
 AU  Caspi R
 TH  5
@@ -23,7 +22,6 @@ SN  2
 ID  4-Aminobutyraldehyde dehydrogenase
 DN  4-Aminobutyraldehyde dehydrogenase (EC 1.2.1.19)
 RQ  1
-EV  IPR015590; PF00171; sufficient;
 EV  IPR017749; TIGR03374; sufficient;
 --
 SN  3

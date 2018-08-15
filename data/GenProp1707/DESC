@@ -14,22 +14,14 @@ SN  1
 ID  tRNA-splicing endonuclease
 DN  tRNA-splicing endonuclease (EC 4.6.1.16)
 RQ  1
-EV  IPR006677; PF01974; sufficient;
-EV  IPR006678; PF02778; sufficient;
 EV  IPR006676; TIGR00324; sufficient;
-EV  IPR024336; PF12928; sufficient;
-EV  IPR018593; PF09631; sufficient;
 --
 SN  2
 ID  tRNA-splicing ligase
 DN  tRNA-splicing ligase (EC 6.5.1.8)
 RQ  1
-EV  IPR001650; PF00271; sufficient;
-EV  IPR003877; PF00622; sufficient;
-EV  IPR011545; PF00270; sufficient;
 EV  IPR019265; PF10036; sufficient;
 EV  IPR001233; PF01139; sufficient;
 EV  IPR024887; PF15323; sufficient;
 EV  IPR018797; PF10239; sufficient;
-EV  IPR023572; PF01951; sufficient;
 //

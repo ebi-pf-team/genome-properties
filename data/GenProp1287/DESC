@@ -1,6 +1,5 @@
 AC  GenProp1287
-DE  3-Phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation to
-DE  2-hydroxypentadienoate
+DE  3-Phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation to 2-hydroxypentadienoate
 TP  PATHWAY
 AU  Riley M
 TH  3
@@ -22,10 +21,6 @@ ID  3-Phenylpropionate dioxygenase
 DN  3-Phenylpropionate dioxygenase (EC 1.14.12.19)
 RQ  1
 EV  IPR000391; PF00866; sufficient;
-EV  IPR017941; PF00355; sufficient;
-EV  IPR023753; PF07992; sufficient;
-EV  IPR028202; PF14759; sufficient;
-EV  IPR015879; PF00848; sufficient;
 --
 SN  3
 ID  2-Hydroxy-6-ketonona-2,4-dienedioate hydrolase

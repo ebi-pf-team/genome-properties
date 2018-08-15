@@ -14,11 +14,7 @@ SN  1
 ID  Acetaldehyde dehydrogenase
 DN  Acetaldehyde dehydrogenase (EC 1.2.1.10)
 RQ  1
-EV  IPR001670; PF00465; sufficient;
-EV  IPR015590; PF00171; sufficient;
-EV  IPR000534; PF01118; sufficient;
 EV  IPR003361; TIGR03215; sufficient;
-EV  IPR015426; PF09290; sufficient;
 --
 SN  2
 ID  L-threonine aldolase

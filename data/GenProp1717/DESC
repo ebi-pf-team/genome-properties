@@ -31,8 +31,6 @@ ID  Dodecenoyl-CoA D-isomerase
 DN  Dodecenoyl-CoA D-isomerase (EC 5.3.3.8)
 RQ  1
 EV  IPR001753; PF00378; sufficient;
-EV  IPR006108; PF00725; sufficient;
-EV  IPR006176; PF02737; sufficient;
 EV  IPR012799; TIGR02437; sufficient;
 EV  IPR012802; TIGR02440; sufficient;
 --
@@ -41,8 +39,6 @@ ID  Enoyl-CoA hydratase
 DN  Enoyl-CoA hydratase (EC 4.2.1.17)
 RQ  1
 EV  IPR001753; PF00378; sufficient;
-EV  IPR006108; PF00725; sufficient;
-EV  IPR006176; PF02737; sufficient;
 EV  IPR012799; TIGR02437; sufficient;
 EV  IPR012802; TIGR02440; sufficient;
 --
@@ -51,10 +47,7 @@ ID  3-Ketoacyl-CoA thiolase
 DN  3-Ketoacyl-CoA thiolase (EC 2.3.1.16)
 RQ  1
 EV  IPR002155; TIGR01930; sufficient;
-EV  IPR020616; PF00108; sufficient;
-EV  IPR020617; PF02803; sufficient;
 EV  IPR012806; TIGR02446; sufficient;
-EV  IPR003033; PF02036; sufficient;
 EV  IPR012805; TIGR02445; sufficient;
 --
 SN  6
@@ -62,8 +55,6 @@ ID  3-Hydroxyacyl-CoA dehydrogenase
 DN  3-Hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35)
 RQ  1
 EV  IPR001753; PF00378; sufficient;
-EV  IPR006108; PF00725; sufficient;
-EV  IPR006176; PF02737; sufficient;
 EV  IPR012802; TIGR02440; sufficient;
 EV  IPR002347; PF00106; sufficient;
 EV  IPR012799; TIGR02437; sufficient;
@@ -73,8 +64,6 @@ ID  3-Hydroxyacyl-CoA epimerase
 DN  3-Hydroxyacyl-CoA epimerase (EC 5.1.2.3)
 RQ  1
 EV  IPR001753; PF00378; sufficient;
-EV  IPR006108; PF00725; sufficient;
-EV  IPR006176; PF02737; sufficient;
 EV  IPR012802; TIGR02440; sufficient;
 EV  IPR012799; TIGR02437; sufficient;
 //

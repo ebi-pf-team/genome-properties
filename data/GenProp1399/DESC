@@ -16,13 +16,10 @@ DN  S-adenosylhomocysteine hydrolase (EC 3.3.1.1)
 RQ  1
 EV  IPR000043; PF05221; sufficient;
 EV  IPR000043; TIGR00936; sufficient;
-EV  IPR015878; PF00670; sufficient;
 --
 SN  2
 ID  Cystathionine beta-synthase
 DN  Cystathionine beta-synthase (EC 4.2.1.22)
 RQ  1
-EV  IPR000644; PF00571; sufficient;
-EV  IPR001926; PF00291; sufficient;
 EV  IPR005857; TIGR01137; sufficient;
 //

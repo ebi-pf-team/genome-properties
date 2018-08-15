@@ -16,9 +16,7 @@ DN  Asparagine synthetase (EC 6.3.1.1)
 RQ  1
 EV  IPR004618; PF03590; sufficient;
 EV  IPR004618; TIGR00669; sufficient;
-EV  IPR001962; PF00733; sufficient;
 EV  IPR006426; TIGR01536; sufficient;
-EV  IPR017932; PF13537; sufficient;
 --
 SN  2
 ID  Aspartate aminotransferase
@@ -31,7 +29,6 @@ ID  L-asparaginase
 DN  L-asparaginase (EC 3.5.1.1)
 RQ  1
 EV  IPR006033; TIGR00519; sufficient;
-EV  IPR027474; PF00710; sufficient;
 EV  IPR004550; TIGR00520; sufficient;
 EV  IPR000246; PF01112; sufficient;
 --
@@ -40,6 +37,4 @@ ID  Aspartate ammonia-lyase
 DN  Aspartate ammonia-lyase (EC 4.3.1.1)
 RQ  1
 EV  IPR004708; TIGR00839; sufficient;
-EV  IPR018951; PF10415; sufficient;
-EV  IPR022761; PF00206; sufficient;
 //

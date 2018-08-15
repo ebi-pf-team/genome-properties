@@ -20,9 +20,7 @@ SN  2
 ID  Malate dehydrogenase (NAD)
 DN  Malate dehydrogenase (NAD) (EC 1.1.1.37)
 RQ  1
-EV  IPR001236; PF00056; sufficient;
 EV  IPR010945; TIGR01759; sufficient;
 EV  IPR011274; TIGR01758; sufficient;
-EV  IPR022383; PF02866; sufficient;
 EV  IPR010097; TIGR01772; sufficient;
 //

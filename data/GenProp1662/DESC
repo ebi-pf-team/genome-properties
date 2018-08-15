@@ -20,7 +20,5 @@ SN  2
 ID  NAD+ L-lactaldehyde dehydrogenase
 DN  NAD+ L-lactaldehyde dehydrogenase (EC 1.2.1.22)
 RQ  1
-EV  IPR001303; PF00596; sufficient;
 EV  IPR013454; TIGR02632; sufficient;
-EV  IPR015590; PF00171; sufficient;
 //

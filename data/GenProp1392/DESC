@@ -14,9 +14,7 @@ SN  1
 ID  APS reductase
 DN  APS reductase (EC 1.8.4.9)
 RQ  1
-EV  IPR002500; PF01507; sufficient;
 EV  IPR004508; TIGR00424; sufficient;
-EV  IPR013766; PF00085; sufficient;
 --
 SN  2
 ID  Sulfate adenylyltransferase
@@ -30,7 +28,5 @@ SN  3
 ID  Octaheme sulfite reductase
 DN  Octaheme sulfite reductase (EC 1.8.7.1)
 RQ  1
-EV  IPR005117; PF03460; sufficient;
-EV  IPR006067; PF01077; sufficient;
 EV  IPR011787; TIGR02042; sufficient;
 //

@@ -21,12 +21,6 @@ ID  Ubiquinol:nitrate oxidoreductase
 DN  Ubiquinol:nitrate oxidoreductase (EC 1.7.5.1)
 RQ  1
 EV  IPR006468; TIGR01580; sufficient;
-EV  IPR006656; PF00384; sufficient;
-EV  IPR006657; PF01568; sufficient;
-EV  IPR028189; PF14710; sufficient;
 EV  IPR006547; TIGR01660; sufficient;
-EV  IPR017896; PF13247; sufficient;
-EV  IPR029263; PF14711; sufficient;
 EV  IPR003816; TIGR00351; sufficient;
-EV  IPR023234; PF02665; sufficient;
 //

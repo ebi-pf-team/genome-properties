@@ -20,7 +20,6 @@ SN  2
 ID  N6-L-threonylcarbamoyladenine synthase
 DN  N6-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)
 RQ  1
-EV  IPR000905; PF00814; sufficient;
 EV  IPR017861; TIGR00329; sufficient;
 EV  IPR022450; TIGR03723; sufficient;
 EV  IPR003442; PF02367; sufficient;

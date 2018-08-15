@@ -21,7 +21,5 @@ SN  2
 ID  Tartronate semialdehyde reductase
 DN  Tartronate semialdehyde reductase (EC 1.1.1.60)
 RQ  1
-EV  IPR006115; PF03446; sufficient;
 EV  IPR006398; TIGR01505; sufficient;
-EV  IPR029154; PF14833; sufficient;
 //

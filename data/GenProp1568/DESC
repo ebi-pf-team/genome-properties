@@ -14,14 +14,12 @@ SN  1
 ID  Adenosine deaminase
 DN  Adenosine deaminase (EC 3.5.4.4)
 RQ  1
-EV  IPR001365; PF00962; sufficient;
 EV  IPR006330; TIGR01430; sufficient;
 --
 SN  2
 ID  Deoxyguanosine phosphorylase
 DN  Deoxyguanosine phosphorylase (EC 2.4.2.1)
 RQ  1
-EV  IPR000845; PF01048; sufficient;
 EV  IPR011268; TIGR01697; sufficient;
 EV  IPR011270; TIGR01700; sufficient;
 --
@@ -29,7 +27,6 @@ SN  3
 ID  Deoxyinosine phosphorylase
 DN  Deoxyinosine phosphorylase (EC 2.4.2.1)
 RQ  1
-EV  IPR000845; PF01048; sufficient;
 EV  IPR011268; TIGR01697; sufficient;
 EV  IPR011270; TIGR01700; sufficient;
 //

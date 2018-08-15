@@ -15,10 +15,7 @@ ID  Anspartyl-tRNA(Asn) amidotransferase
 DN  Anspartyl-tRNA(Asn) amidotransferase (EC 6.3.5.6)
 RQ  1
 EV  IPR004412; TIGR00132; sufficient;
-EV  IPR023631; PF01425; sufficient;
 EV  IPR004413; TIGR00133; sufficient;
-EV  IPR006075; PF02934; sufficient;
-EV  IPR018027; PF02637; sufficient;
 EV  IPR003837; PF02686; sufficient;
 EV  IPR003837; TIGR00135; sufficient;
 --
@@ -26,7 +23,5 @@ SN  2
 ID  Aspartate--tRNA ligase
 DN  Aspartate--tRNA ligase (EC 6.1.1.23)
 RQ  1
-EV  IPR004364; PF00152; sufficient;
-EV  IPR004365; PF01336; sufficient;
 EV  IPR004523; TIGR00458; sufficient;
 //

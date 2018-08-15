@@ -15,14 +15,12 @@ ID  Carnitine palmitoyltransferase
 DN  Carnitine palmitoyltransferase (EC 2.3.1.21)
 RQ  1
 EV  IPR000542; PF00755; sufficient;
-EV  IPR032476; PF16484; sufficient;
 --
 SN  2
 ID  Carnitine O-palmitoyltransferase
 DN  Carnitine O-palmitoyltransferase (EC 2.3.1.21)
 RQ  1
 EV  IPR000542; PF00755; sufficient;
-EV  IPR032476; PF16484; sufficient;
 --
 SN  3
 ID  Transport of L-carnitine and O-acyl-L-carnitine

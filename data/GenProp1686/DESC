@@ -15,8 +15,6 @@ ID  Coproporphyrinogen dehydrogenase
 DN  Coproporphyrinogen dehydrogenase (EC 1.3.98.3)
 RQ  1
 EV  IPR004558; TIGR00538; sufficient;
-EV  IPR007197; PF04055; sufficient;
-EV  IPR010723; PF06969; sufficient;
 --
 SN  2
 ID  Deferrochelatase
@@ -35,6 +33,5 @@ SN  4
 ID  Uroporphyrinogen decarboxylase
 DN  Uroporphyrinogen decarboxylase (EC 4.1.1.37)
 RQ  1
-EV  IPR000257; PF01208; sufficient;
 EV  IPR006361; TIGR01464; sufficient;
 //

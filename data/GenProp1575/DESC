@@ -28,7 +28,6 @@ SN  3
 ID  Oleoyl-CoA:lysophosphatidylethanolamine acyltransferase
 DN  Oleoyl-CoA:lysophosphatidylethanolamine acyltransferase (EC 2.3.1.23)
 RQ  1
-EV  IPR002641; PF01734; sufficient;
 EV  IPR021771; PF11815; sufficient;
 EV  IPR004299; PF03062; sufficient;
 --
@@ -36,6 +35,5 @@ SN  4
 ID  Phospholipase A2
 DN  Phospholipase A2 (EC 3.1.1.4)
 RQ  1
-EV  IPR002641; PF01734; sufficient;
 EV  IPR021771; PF11815; sufficient;
 //

@@ -21,9 +21,7 @@ SN  2
 ID  UDP-2,3-diacylglucosamine diphosphatase
 DN  UDP-2,3-diacylglucosamine diphosphatase (EC 3.6.1.54)
 RQ  1
-EV  IPR004843; PF00149; sufficient;
 EV  IPR010138; TIGR01854; sufficient;
-EV  IPR024654; PF12850; sufficient;
 --
 SN  3
 ID  Tetraacyldisaccharide 4'-kinase
@@ -43,16 +41,11 @@ SN  5
 ID  UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase
 DN  UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase (EC 2.3.1.191)
 RQ  1
-EV  IPR001451; PF00132; sufficient;
-EV  IPR001451; PF14602; sufficient;
 EV  IPR007691; TIGR01853; sufficient;
-EV  IPR020573; PF04613; sufficient;
 --
 SN  6
 ID  UDP-N-acetylglucosamine acyltransferase
 DN  UDP-N-acetylglucosamine acyltransferase (EC 2.3.1.129)
 RQ  1
-EV  IPR001451; PF00132; sufficient;
 EV  IPR010137; TIGR01852; sufficient;
-EV  IPR029098; PF13720; sufficient;
 //

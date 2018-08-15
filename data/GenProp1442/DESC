@@ -14,9 +14,6 @@ SN  1
 ID  UDP-N-acetylglucosamine:glycoprotein beta-N-acetylglucosaminyltransferase
 DN  UDP-N-acetylglucosamine:glycoprotein beta-N-acetylglucosaminyltransferase (EC 2.4.1.255)
 RQ  1
-EV  IPR001440; PF00515; sufficient;
-EV  IPR011990; PF13414; sufficient;
-EV  IPR019734; PF13181; sufficient;
 EV  IPR029489; PF13844; sufficient;
 --
 SN  2

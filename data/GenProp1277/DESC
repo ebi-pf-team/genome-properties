@@ -14,17 +14,12 @@ SN  1
 ID  2-Alkenal reductase
 DN  2-Alkenal reductase (EC 1.3.1.27)
 RQ  1
-EV  IPR013149; PF00107; sufficient;
 EV  IPR014190; TIGR02825; sufficient;
 --
 SN  2
 ID  N-acylsphingosine amidohydrolase (alkaline ceramidase)
 DN  N-acylsphingosine amidohydrolase (alkaline ceramidase) (EC 3.5.1.23)
 RQ  1
-EV  IPR029130; PF15508; sufficient;
-EV  IPR029132; PF02275; sufficient;
-EV  IPR031329; PF04734; sufficient;
-EV  IPR031331; PF17048; sufficient;
 EV  IPR008901; PF05875; sufficient;
 --
 SN  3

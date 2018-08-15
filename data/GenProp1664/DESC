@@ -28,7 +28,6 @@ SN  3
 ID  Glutathione synthetase
 DN  Glutathione synthetase (EC 6.3.2.3)
 RQ  1
-EV  IPR004887; PF03199; sufficient;
 EV  IPR005615; PF03917; sufficient;
 EV  IPR005615; TIGR01986; sufficient;
 --
@@ -37,7 +36,6 @@ ID  Glutamate-cysteine ligase
 DN  Glutamate-cysteine ligase (EC 6.3.2.2)
 RQ  1
 EV  IPR004308; PF03074; sufficient;
-EV  IPR023210; PF00248; sufficient;
 --
 SN  5
 ID  Gamma-glutamyl transpeptidase

@@ -32,7 +32,6 @@ SN  4
 ID  Thymidine kinase
 DN  Thymidine kinase (EC 2.7.1.21)
 RQ  1
-EV  IPR031314; PF01712; sufficient;
 EV  IPR001267; PF00265; sufficient;
 --
 SN  5
@@ -41,5 +40,4 @@ DN  Thymidylate synthase (EC 2.1.1.45)
 RQ  1
 EV  IPR003745; PF02593; sufficient;
 EV  IPR000398; TIGR03284; sufficient;
-EV  IPR023451; PF00303; sufficient;
 //

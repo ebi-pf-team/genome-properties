@@ -18,7 +18,6 @@ EV  IPR000403; PF00454; sufficient;
 EV  IPR001263; PF00613; sufficient;
 EV  IPR002420; PF00792; sufficient;
 EV  IPR000719; PF00069; sufficient;
-EV  IPR001680; PF00400; sufficient;
 --
 SN  2
 ID  Phosphatidylinositol 4-kinase
@@ -31,24 +30,13 @@ SN  3
 ID  Phoshatidylinositol-3-phosphate 5-kinase
 DN  Phoshatidylinositol-3-phosphate 5-kinase (EC 2.7.1.150)
 RQ  1
-EV  IPR000306; PF01363; sufficient;
 EV  IPR002423; PF00118; sufficient;
-EV  IPR002498; PF01504; sufficient;
-EV  IPR000591; PF00610; sufficient;
 --
 SN  4
 ID  Phosphatidylinositol-4,5-bisphosphate 3-kinase
 DN  Phosphatidylinositol-4,5-bisphosphate 3-kinase (EC 2.7.1.153)
 RQ  1
 EV  IPR019522; PF10486; sufficient;
-EV  IPR000341; PF00794; sufficient;
-EV  IPR000403; PF00454; sufficient;
-EV  IPR001263; PF00613; sufficient;
-EV  IPR002420; PF00792; sufficient;
-EV  IPR000198; PF00620; sufficient;
-EV  IPR000980; PF00017; sufficient;
-EV  IPR032498; PF16454; sufficient;
-EV  IPR003113; PF02192; sufficient;
 --
 SN  5
 ID  Phosphatidylinositol-4,5-bisphosphate 3-kinase

@@ -14,9 +14,6 @@ SN  1
 ID  Orotidine 5'-phosphate decarboxylase
 DN  Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
 RQ  1
-EV  IPR000836; PF00156; sufficient;
-EV  IPR001754; PF00215; sufficient;
-EV  IPR004467; TIGR00336; sufficient;
 EV  IPR014732; TIGR01740; sufficient;
 --
 SN  2
@@ -24,6 +21,5 @@ ID  UMP kinase
 DN  UMP kinase (EC 2.7.4.14)
 RQ  1
 EV  IPR006266; TIGR01359; sufficient;
-EV  IPR001048; PF00696; sufficient;
 EV  IPR015963; TIGR02075; sufficient;
 //

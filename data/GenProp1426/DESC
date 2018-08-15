@@ -21,10 +21,6 @@ ID  Cytochrome c oxidase
 DN  Cytochrome c oxidase (EC 1.9.3.1)
 RQ  1
 EV  IPR000883; PF00115; sufficient;
-EV  IPR002429; PF00116; sufficient;
-EV  IPR011759; PF02790; sufficient;
-EV  IPR014222; TIGR02866; sufficient;
-EV  IPR000298; PF00510; sufficient;
 EV  IPR002124; PF01215; sufficient;
 EV  IPR001349; PF02046; sufficient;
 EV  IPR003204; PF02284; sufficient;

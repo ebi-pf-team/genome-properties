@@ -14,26 +14,15 @@ SN  1
 ID  Glycerol-3-phosphate dehydrogenase, anaerobic
 DN  Glycerol-3-phosphate dehydrogenase, anaerobic (EC 1.1.5.3)
 RQ  1
-EV  IPR006076; PF01266; sufficient;
-EV  IPR007419; PF04324; sufficient;
 EV  IPR017752; TIGR03377; sufficient;
-EV  IPR003953; PF00890; sufficient;
 EV  IPR009158; TIGR03378; sufficient;
-EV  IPR004017; PF02754; sufficient;
 EV  IPR017753; TIGR03379; sufficient;
-EV  IPR017896; PF13183; sufficient;
 --
 SN  2
 ID  Menaquinol:nitrate oxidoreductase
 DN  Menaquinol:nitrate oxidoreductase (EC 1.7.5.1)
 RQ  1
 EV  IPR006468; TIGR01580; sufficient;
-EV  IPR006656; PF00384; sufficient;
-EV  IPR006657; PF01568; sufficient;
-EV  IPR028189; PF14710; sufficient;
 EV  IPR006547; TIGR01660; sufficient;
-EV  IPR017896; PF13247; sufficient;
-EV  IPR029263; PF14711; sufficient;
 EV  IPR003816; TIGR00351; sufficient;
-EV  IPR023234; PF02665; sufficient;
 //

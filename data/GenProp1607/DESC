@@ -40,12 +40,10 @@ DN  DGDP kinase (EC 2.7.4.6)
 RQ  1
 EV  IPR001564; PF00334; sufficient;
 EV  IPR006259; TIGR01351; sufficient;
-EV  IPR007862; PF05191; sufficient;
 --
 SN  6
 ID  DGMP kinase
 DN  DGMP kinase (EC 2.7.4.12)
 RQ  1
-EV  IPR008145; PF00625; sufficient;
 EV  IPR017665; TIGR03263; sufficient;
 //

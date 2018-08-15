@@ -20,9 +20,5 @@ SN  2
 ID  Glycolate oxidase
 DN  Glycolate oxidase (EC 1.1.99.14)
 RQ  1
-EV  IPR006094; PF01565; sufficient;
-EV  IPR004113; PF02913; sufficient;
 EV  IPR004490; TIGR00387; sufficient;
-EV  IPR004017; PF02754; sufficient;
-EV  IPR017896; PF13183; sufficient;
 //

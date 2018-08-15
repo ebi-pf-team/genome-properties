@@ -14,8 +14,6 @@ SN  1
 ID  Glycerol-3-phosphate dehydrogenase
 DN  Glycerol-3-phosphate dehydrogenase (EC 1.1.1.8)
 RQ  1
-EV  IPR006109; PF07479; sufficient;
-EV  IPR011128; PF01210; sufficient;
 EV  IPR017751; TIGR03376; sufficient;
 --
 SN  2

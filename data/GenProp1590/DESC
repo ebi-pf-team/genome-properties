@@ -16,7 +16,6 @@ DN  HMP-P synthase (EC 4.1.99.17)
 RQ  1
 EV  IPR002817; PF01964; sufficient;
 EV  IPR002817; TIGR00190; sufficient;
-EV  IPR025747; PF13667; sufficient;
 --
 SN  2
 ID  Phosphomethylpyrimidine kinase
@@ -24,6 +23,4 @@ DN  Phosphomethylpyrimidine kinase (EC 2.7.4.7)
 RQ  1
 EV  IPR004399; TIGR00097; sufficient;
 EV  IPR013749; PF08543; sufficient;
-EV  IPR003733; PF02581; sufficient;
-EV  IPR003733; TIGR00693; sufficient;
 //

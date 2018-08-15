@@ -15,8 +15,6 @@ ID  Biotin synthase
 DN  Biotin synthase (EC 2.8.1.6)
 RQ  1
 EV  IPR002684; TIGR00433; sufficient;
-EV  IPR007197; PF04055; sufficient;
-EV  IPR010722; PF06968; sufficient;
 --
 SN  2
 ID  7,8-Diaminopelargonic acid aminotransferase

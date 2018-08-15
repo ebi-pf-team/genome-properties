@@ -17,19 +17,14 @@ RQ  1
 EV  IPR000422; PF00926; sufficient;
 EV  IPR000422; TIGR00506; sufficient;
 EV  IPR000926; TIGR00505; sufficient;
-EV  IPR032677; PF00925; sufficient;
 --
 SN  2
 ID  FAD synthetase
 DN  FAD synthetase (EC 2.7.7.2)
 RQ  1
 EV  IPR002606; TIGR00083; sufficient;
-EV  IPR004821; TIGR00125; sufficient;
-EV  IPR015864; PF06574; sufficient;
-EV  IPR015865; PF01687; sufficient;
 EV  IPR006439; TIGR01509; sufficient;
 EV  IPR006439; TIGR01549; sufficient;
-EV  IPR023214; PF13419; sufficient;
 --
 SN  3
 ID  GTP cyclohydrolase
@@ -38,7 +33,6 @@ RQ  1
 EV  IPR000422; PF00926; sufficient;
 EV  IPR000422; TIGR00506; sufficient;
 EV  IPR000926; TIGR00505; sufficient;
-EV  IPR032677; PF00925; sufficient;
 --
 SN  4
 ID  6,7-Dimethyl-8-ribityllumazine synthase
@@ -52,47 +46,32 @@ ID  Riboflaving synthase
 DN  Riboflaving synthase (EC 2.5.1.9)
 RQ  1
 EV  IPR001783; TIGR00187; sufficient;
-EV  IPR026017; PF00677; sufficient;
 --
 SN  6
 ID  Riboflavin kinase
 DN  Riboflavin kinase (EC 2.7.1.26)
 RQ  1
 EV  IPR002606; TIGR00083; sufficient;
-EV  IPR004821; TIGR00125; sufficient;
-EV  IPR015864; PF06574; sufficient;
-EV  IPR015865; PF01687; sufficient;
 EV  IPR006439; TIGR01509; sufficient;
 EV  IPR006439; TIGR01549; sufficient;
-EV  IPR023214; PF13419; sufficient;
 --
 SN  7
 ID  Diaminohydroxyphosphoribosylaminopyrimidine deaminase
 DN  Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26)
 RQ  1
-EV  IPR002125; PF00383; sufficient;
 EV  IPR004794; TIGR00326; sufficient;
-EV  IPR002734; PF01872; sufficient;
-EV  IPR011549; TIGR00227; sufficient;
 --
 SN  8
 ID  5-Amino-6-(5-phosphoribosylamino)uracil reductase
 DN  5-Amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)
 RQ  1
-EV  IPR002125; PF00383; sufficient;
-EV  IPR002734; PF01872; sufficient;
 EV  IPR004794; TIGR00326; sufficient;
-EV  IPR011549; TIGR00227; sufficient;
-EV  IPR012816; PF08719; sufficient;
-EV  IPR012816; TIGR02464; sufficient;
 --
 SN  9
 ID  5-Amino-6-(5-phospho-D-ribitylamino)uracil phosphatase
 DN  5-Amino-6-(5-phospho-D-ribitylamino)uracil phosphatase (EC 3.1.3.104)
 RQ  1
 EV  IPR006439; TIGR01549; sufficient;
-EV  IPR023214; PF13419; sufficient;
 EV  IPR000150; TIGR00099; sufficient;
 EV  IPR006379; TIGR01484; sufficient;
-EV  IPR023214; PF08282; sufficient;
 //

@@ -15,8 +15,6 @@ ID  Selenophosphate synthetase
 DN  Selenophosphate synthetase (EC 2.7.9.3)
 RQ  1
 EV  IPR004536; TIGR00476; sufficient;
-EV  IPR010918; PF02769; sufficient;
-EV  IPR016188; PF00586; sufficient;
 --
 SN  2
 ID  Selenocysteine synthase
@@ -24,13 +22,10 @@ DN  Selenocysteine synthase (EC 2.9.1.1)
 RQ  1
 EV  IPR004534; TIGR00474; sufficient;
 EV  IPR018319; PF03841; sufficient;
-EV  IPR025862; PF12390; sufficient;
 --
 SN  3
 ID  Seryl-tRNAsec synthetase
 DN  Seryl-tRNAsec synthetase (EC 6.1.1.11)
 RQ  1
-EV  IPR002314; PF00587; sufficient;
 EV  IPR002317; TIGR00414; sufficient;
-EV  IPR015866; PF02403; sufficient;
 //

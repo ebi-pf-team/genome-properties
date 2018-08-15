@@ -30,7 +30,5 @@ SN  3
 ID  Dihydrolipoyl dehydrogenase
 DN  Dihydrolipoyl dehydrogenase (EC 1.8.1.4)
 RQ  1
-EV  IPR004099; PF02852; sufficient;
 EV  IPR006258; TIGR01350; sufficient;
-EV  IPR023753; PF07992; sufficient;
 //

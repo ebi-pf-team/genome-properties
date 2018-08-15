@@ -14,9 +14,7 @@ SN  1
 ID  Molybdopterin-synthase adenylyltransferase
 DN  Molybdopterin-synthase adenylyltransferase (EC 2.7.7.80)
 RQ  1
-EV  IPR000594; PF00899; sufficient;
 EV  IPR012730; TIGR02355; sufficient;
-EV  IPR001763; PF00581; sufficient;
 --
 SN  2
 ID  Molybdopterin synthase sulfurtransferase
@@ -29,15 +27,12 @@ SN  3
 ID  Cyclic pyranopterin monophosphate synthase
 DN  Cyclic pyranopterin monophosphate synthase (EC 4.6.1.17)
 RQ  1
-EV  IPR002820; PF01967; sufficient;
 EV  IPR023045; TIGR00581; sufficient;
 --
 SN  4
 ID  GTP 3',8'-cyclase
 DN  GTP 3',8'-cyclase (EC 4.1.99.22)
 RQ  1
-EV  IPR007197; PF04055; sufficient;
-EV  IPR010505; PF06463; sufficient;
 EV  IPR013483; TIGR02666; sufficient;
 --
 SN  5
@@ -70,6 +65,5 @@ SN  8
 ID  Cysteine desulfurase
 DN  Cysteine desulfurase
 RQ  1
-EV  IPR000192; PF00266; sufficient;
 EV  IPR010240; TIGR02006; sufficient;
 //

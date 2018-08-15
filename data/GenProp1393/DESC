@@ -16,7 +16,6 @@ DN  Allantoate amidohydrolase (EC 3.5.3.9)
 RQ  1
 EV  IPR002933; PF01546; sufficient;
 EV  IPR010158; TIGR01879; sufficient;
-EV  IPR011650; PF07687; sufficient;
 --
 SN  2
 ID  Ureidoglycolate amidohydrolase

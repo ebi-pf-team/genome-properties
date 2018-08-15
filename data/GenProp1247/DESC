@@ -14,33 +14,23 @@ SN  1
 ID  ADP-glucose pyrophosphorylase
 DN  ADP-glucose pyrophosphorylase (EC 2.7.7.27)
 RQ  1
-EV  IPR005835; PF00483; sufficient;
 EV  IPR011831; TIGR02091; sufficient;
 --
 SN  2
 ID  1,4-Alpha-glucan branching enzyme
 DN  1,4-Alpha-glucan branching enzyme (EC 2.4.1.18)
 RQ  1
-EV  IPR004193; PF02922; sufficient;
-EV  IPR006047; PF00128; sufficient;
-EV  IPR006048; PF02806; sufficient;
 EV  IPR006407; TIGR01515; sufficient;
 --
 SN  3
 ID  Starch synthase
 DN  Starch synthase (EC 2.4.1.21)
 RQ  1
-EV  IPR001296; PF00534; sufficient;
 EV  IPR011835; TIGR02095; sufficient;
-EV  IPR013534; PF08323; sufficient;
 --
 SN  4
 ID  Phosphoglucomutase
 DN  Phosphoglucomutase (EC 5.4.2.2)
 RQ  1
-EV  IPR005843; PF00408; sufficient;
-EV  IPR005844; PF02878; sufficient;
-EV  IPR005845; PF02879; sufficient;
-EV  IPR005846; PF02880; sufficient;
 EV  IPR005852; TIGR01132; sufficient;
 //

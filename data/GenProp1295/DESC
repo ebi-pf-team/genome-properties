@@ -15,8 +15,6 @@ ID  4-(Cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase
 DN  4-(Cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)
 RQ  1
 EV  IPR004424; TIGR00154; sufficient;
-EV  IPR006204; PF00288; sufficient;
-EV  IPR013750; PF08544; sufficient;
 --
 SN  2
 ID  4-Diphosphocytidyl-2C-methyl-D-erythritol synthase
@@ -30,24 +28,18 @@ ID  1-Deoxy-D-xylulose 5-phosphate reductoisomerase
 DN  1-Deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
 RQ  1
 EV  IPR003821; TIGR00243; sufficient;
-EV  IPR013512; PF02670; sufficient;
-EV  IPR013644; PF08436; sufficient;
-EV  IPR026877; PF13288; sufficient;
 --
 SN  4
 ID  1-Deoxy-D-xylulose 5-phosphate synthase
 DN  1-Deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
 RQ  1
-EV  IPR005475; PF02779; sufficient;
 EV  IPR005477; PF13292; sufficient;
 EV  IPR005477; TIGR00204; sufficient;
-EV  IPR033248; PF02780; sufficient;
 --
 SN  5
 ID  Isopentenyl pyrophosphate isomerase
 DN  Isopentenyl pyrophosphate isomerase (EC 5.3.3.2)
 RQ  1
-EV  IPR000086; PF00293; sufficient;
 EV  IPR011876; TIGR02150; sufficient;
 --
 SN  6

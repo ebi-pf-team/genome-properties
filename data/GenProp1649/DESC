@@ -20,8 +20,6 @@ SN  2
 ID  D-arabinono-1,4-lactone oxidase
 DN  D-arabinono-1,4-lactone oxidase (EC 1.1.3.37)
 RQ  1
-EV  IPR006094; PF01565; sufficient;
-EV  IPR007173; PF04030; sufficient;
 EV  IPR030654; TIGR01678; sufficient;
 --
 SN  3

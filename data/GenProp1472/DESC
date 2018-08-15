@@ -21,20 +21,14 @@ SN  2
 ID  Gamma-glutamyl kinase
 DN  Gamma-glutamyl kinase (EC 2.7.2.11)
 RQ  1
-EV  IPR000965; TIGR00407; sufficient;
-EV  IPR001048; PF00696; sufficient;
 EV  IPR005766; TIGR01092; sufficient;
-EV  IPR015590; PF00171; sufficient;
 EV  IPR005715; TIGR01027; sufficient;
 --
 SN  3
 ID  Glutamate-5-semialdehyde dehydrogenase
 DN  Glutamate-5-semialdehyde dehydrogenase (EC 1.2.1.41)
 RQ  1
-EV  IPR000965; TIGR00407; sufficient;
-EV  IPR001048; PF00696; sufficient;
 EV  IPR005766; TIGR01092; sufficient;
-EV  IPR015590; PF00171; sufficient;
 EV  IPR005715; TIGR01027; sufficient;
 --
 SN  4

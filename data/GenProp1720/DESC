@@ -14,7 +14,6 @@ SN  1
 ID  Uroporphyrinogen decarboxylase
 DN  Uroporphyrinogen decarboxylase (EC 4.1.1.37)
 RQ  1
-EV  IPR000257; PF01208; sufficient;
 EV  IPR006361; TIGR01464; sufficient;
 --
 SN  2

@@ -14,7 +14,6 @@ SN  1
 ID  Adenine phosphoribosyltransferase
 DN  Adenine phosphoribosyltransferase (EC 2.4.2.7)
 RQ  1
-EV  IPR000836; PF00156; sufficient;
 EV  IPR005764; TIGR01090; sufficient;
 --
 SN  2
@@ -33,7 +32,6 @@ EV  IPR009609; TIGR03293; sufficient;
 EV  IPR008772; PF05845; sufficient;
 EV  IPR008772; TIGR03292; sufficient;
 EV  IPR008773; PF05861; sufficient;
-EV  IPR003439; PF00005; sufficient;
 EV  IPR012701; TIGR02324; sufficient;
 --
 SN  4
@@ -41,7 +39,6 @@ ID  Alpha-D-ribose-1-(2-N-acetamidomethylphosphonate)-5-triphosphate diphosphata
 DN  Alpha-D-ribose-1-(2-N-acetamidomethylphosphonate)-5-triphosphate diphosphatase (EC 3.6.1.63)
 RQ  1
 EV  IPR012696; TIGR02318; sufficient;
-EV  IPR013108; PF07969; sufficient;
 --
 SN  5
 ID  Carbon-phosphorous lyase
@@ -59,7 +56,6 @@ SN  7
 ID  Phosphoribosyl 1,2-cyclic phosphodiesterase
 DN  Phosphoribosyl 1,2-cyclic phosphodiesterase (EC 3.1.4.55)
 RQ  1
-EV  IPR001279; PF12706; sufficient;
 EV  IPR017693; TIGR03307; sufficient;
 --
 SN  8

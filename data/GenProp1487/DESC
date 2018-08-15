@@ -42,8 +42,5 @@ SN  5
 ID  2-Oxoadipate dehydrogenase
 DN  2-Oxoadipate dehydrogenase (EC 1.2.1.M9)
 RQ  1
-EV  IPR001017; PF00676; sufficient;
-EV  IPR005475; PF02779; sufficient;
 EV  IPR011603; TIGR00239; sufficient;
-EV  IPR031717; PF16870; sufficient;
 //

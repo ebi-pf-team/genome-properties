@@ -14,24 +14,18 @@ SN  1
 ID  3-Oxo-arachidoyl-CoA synthase
 DN  3-Oxo-arachidoyl-CoA synthase (EC 2.3.1.199)
 RQ  1
-EV  IPR013601; PF08392; sufficient;
-EV  IPR013747; PF08541; sufficient;
 EV  IPR002076; PF01151; sufficient;
 --
 SN  2
 ID  3-Oxo-behenoyl-CoA synthase
 DN  3-Oxo-behenoyl-CoA synthase (EC 2.3.1.199)
 RQ  1
-EV  IPR013601; PF08392; sufficient;
-EV  IPR013747; PF08541; sufficient;
 EV  IPR002076; PF01151; sufficient;
 --
 SN  3
 ID  3-Oxo-cerotoyl-CoA synthase
 DN  3-Oxo-cerotoyl-CoA synthase (EC 2.3.1.199)
 RQ  1
-EV  IPR013601; PF08392; sufficient;
-EV  IPR013747; PF08541; sufficient;
 EV  IPR002076; PF01151; sufficient;
 --
 SN  4

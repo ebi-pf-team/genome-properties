@@ -29,7 +29,6 @@ SN  3
 ID  Propionyl-CoA carboxylase
 DN  Propionyl-CoA carboxylase (EC 6.4.1.3)
 RQ  1
-EV  IPR000022; PF01039; sufficient;
 EV  IPR000089; PF00364; sufficient;
 EV  IPR005479; PF02786; sufficient;
 EV  IPR005481; PF00289; sufficient;

@@ -3,7 +3,8 @@ DE  L-arginine degradation IV (arginine decarboxylase/agmatine deiminase pathway
 TP  PATHWAY
 AU  Caspi R, Ying H
 TH  1
-DC  L-arginine degradation IV (arginine decarboxylase/agmatine deiminase pathway)
+DC  L-arginine degradation IV (arginine decarboxylase/agmatine deiminase
+DC  pathway)
 DR  MetaCyc; ARGDEG-III-PWY;
 CC  This property has been automatically generated from MetaCyc and has not
 CC  been manually verified to check the validity of the InterPro signatures

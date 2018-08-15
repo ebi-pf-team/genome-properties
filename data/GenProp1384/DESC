@@ -14,9 +14,7 @@ SN  1
 ID  Cytidine deaminase
 DN  Cytidine deaminase (EC 3.5.4.5)
 RQ  1
-EV  IPR002125; PF00383; sufficient;
 EV  IPR006263; TIGR01355; sufficient;
-EV  IPR013171; PF08211; sufficient;
 EV  IPR006262; TIGR01354; sufficient;
 --
 SN  2
@@ -24,12 +22,10 @@ ID  Cytidine kinase
 DN  Cytidine kinase (EC 2.7.1.213)
 RQ  1
 EV  IPR000764; TIGR00235; sufficient;
-EV  IPR006083; PF00485; sufficient;
 --
 SN  3
 ID  Uridine kinase
 DN  Uridine kinase (EC 2.7.1.48)
 RQ  1
 EV  IPR000764; TIGR00235; sufficient;
-EV  IPR006083; PF00485; sufficient;
 //

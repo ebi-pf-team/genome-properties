@@ -21,9 +21,7 @@ SN  2
 ID  Phosphopantothenoylcysteine synthetase
 DN  Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
 RQ  1
-EV  IPR003382; PF02441; sufficient;
 EV  IPR005252; TIGR00521; sufficient;
-EV  IPR007085; PF04127; sufficient;
 --
 SN  3
 ID  Pantoate beta-alanine ligase
@@ -31,12 +29,10 @@ DN  Pantoate beta-alanine ligase (EC 6.3.2.1)
 RQ  1
 EV  IPR003721; PF02569; sufficient;
 EV  IPR003721; TIGR00018; sufficient;
-EV  IPR004821; TIGR00125; sufficient;
 --
 SN  4
 ID  Pantothenate kinase
 DN  Pantothenate kinase (EC 2.7.1.33)
 RQ  1
 EV  IPR004566; TIGR00554; sufficient;
-EV  IPR006083; PF00485; sufficient;
 //

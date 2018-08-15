@@ -41,17 +41,12 @@ ID  Isochorismate synthase
 DN  Isochorismate synthase (EC 5.4.4.2)
 RQ  1
 EV  IPR004561; TIGR00543; sufficient;
-EV  IPR015890; PF00425; sufficient;
 --
 SN  6
 ID  Aminodeoxychorismate synthase
 DN  Aminodeoxychorismate synthase (EC 2.6.1.85)
 RQ  1
 EV  IPR005802; TIGR00553; sufficient;
-EV  IPR006805; PF04715; sufficient;
-EV  IPR015890; PF00425; sufficient;
-EV  IPR006221; TIGR00566; sufficient;
-EV  IPR017926; PF00117; sufficient;
 --
 SN  7
 ID  1,4-Dihydroxy-2-naphthoyl-CoA thioesterase

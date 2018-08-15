@@ -15,27 +15,19 @@ ID  Aspartate carbamoyltransferase
 DN  Aspartate carbamoyltransferase (EC 2.1.3.2)
 RQ  1
 EV  IPR002082; TIGR00670; sufficient;
-EV  IPR006131; PF00185; sufficient;
-EV  IPR006132; PF02729; sufficient;
 --
 SN  2
 ID  Carbamoyl phosphate synthase
 DN  Carbamoyl phosphate synthase (EC 6.3.5.5)
 RQ  1
-EV  IPR002474; PF00988; sufficient;
 EV  IPR006274; TIGR01368; sufficient;
-EV  IPR017926; PF00117; sufficient;
-EV  IPR005479; PF02786; sufficient;
-EV  IPR005480; PF02787; sufficient;
 EV  IPR006275; TIGR01369; sufficient;
-EV  IPR011607; PF02142; sufficient;
 --
 SN  3
 ID  Dihydroorotase
 DN  Dihydroorotase (EC 3.5.2.3)
 RQ  1
 EV  IPR004722; TIGR00857; sufficient;
-EV  IPR006680; PF01979; sufficient;
 --
 SN  4
 ID  Orotate phosphoribosyltransferase
@@ -57,6 +49,5 @@ SN  6
 ID  Orotidine 5'-phosphate decarboxylase
 DN  Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
 RQ  1
-EV  IPR001754; PF00215; sufficient;
 EV  IPR014732; TIGR01740; sufficient;
 //
