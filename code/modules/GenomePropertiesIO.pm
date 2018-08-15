@@ -17,6 +17,7 @@ my %TYPES = ( METAPATH => 1,
               CATEGORY => 1,
               PATHWAY  => 1,
               SUMMARY  => 1,
+              COMPLEX  => 1,
               #ROOT     => 1
               );
 
@@ -589,7 +590,7 @@ sub parseDESC {
         for ( ; $i <= $#file ; $i++ ) {
           if ( $file[$i] =~ /^DC\s{2}(.*)/ ) {
             $com .= " " if ($com);
-            $com = $1;
+            $com .= $1;
           }
           else {
             last;
