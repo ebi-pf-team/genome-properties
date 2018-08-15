@@ -2,7 +2,7 @@ AC  GenProp1462
 DE  Yersiniabactin biosynthesis
 TP  PATHWAY
 AU  Caspi R
-
+TH  0
 DC  Yersiniabactin biosynthesis
 DR  MetaCyc; PWY-6407;
 CC  This property has been automatically generated from MetaCyc and has not

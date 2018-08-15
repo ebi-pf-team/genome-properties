@@ -2,7 +2,7 @@ AC  GenProp1238
 DE  L-cysteine biosynthesis IV (fungi)
 TP  PATHWAY
 AU  Caspi R
-
+TH  0
 DC  L-cysteine biosynthesis IV (fungi)
 DR  MetaCyc; PWY-6293;
 CC  This property has been automatically generated from MetaCyc and has not

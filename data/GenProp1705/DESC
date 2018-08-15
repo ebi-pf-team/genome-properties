@@ -2,7 +2,7 @@ AC  GenProp1705
 DE  Sedoheptulose bisphosphate bypass
 TP  PATHWAY
 AU  Keseler I
-
+TH  0
 DC  Sedoheptulose bisphosphate bypass
 DR  MetaCyc; PWY0-1517;
 CC  This property has been automatically generated from MetaCyc and has not

@@ -2,7 +2,7 @@ AC  GenProp1486
 DE  Oleate beta-oxidation
 TP  PATHWAY
 AU  Keseler I
-
+TH  0
 DC  Oleate beta-oxidation
 DR  MetaCyc; PWY0-1337;
 CC  This property has been automatically generated from MetaCyc and has not

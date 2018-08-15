@@ -2,7 +2,7 @@ AC  GenProp1433
 DE  Aminopropylcadaverine biosynthesis
 TP  PATHWAY
 AU  Johnson A
-
+TH  0
 DC  Aminopropylcadaverine biosynthesis
 DR  MetaCyc; PWY0-1303;
 CC  This property has been automatically generated from MetaCyc and has not

@@ -2,7 +2,7 @@ AC  GenProp1248
 DE  Fructose 2,6-bisphosphate biosynthesis
 TP  PATHWAY
 AU  Weerasinghe D
-
+TH  0
 DC  Fructose 2,6-bisphosphate biosynthesis
 DR  MetaCyc; PWY66-423;
 CC  This property has been automatically generated from MetaCyc and has not

@@ -2,7 +2,7 @@ AC  GenProp1296
 DE  NAD biosynthesis III
 TP  PATHWAY
 AU  Caspi R
-
+TH  0
 DC  NAD biosynthesis III
 DR  MetaCyc; NAD-BIOSYNTHESIS-III;
 CC  This property has been automatically generated from MetaCyc and has not

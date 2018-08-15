@@ -2,7 +2,7 @@ AC  GenProp1716
 DE  Superpathay of heme b biosynthesis from glutamate
 TP  PATHWAY
 AU  Caspi R
-
+TH  0
 DC  Superpathay of heme b biosynthesis from glutamate
 DR  MetaCyc; PWY-5918;
 CC  This property has been automatically generated from MetaCyc and has not

@@ -2,7 +2,7 @@ AC  GenProp1720
 DE  Superpathway of b heme biosynthesis from glycine
 TP  PATHWAY
 AU  Weerasinghe D, Caspi R
-
+TH  0
 DC  Superpathway of b heme biosynthesis from glycine
 DR  MetaCyc; PWY-5920;
 CC  This property has been automatically generated from MetaCyc and has not

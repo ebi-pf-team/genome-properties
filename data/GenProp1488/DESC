@@ -2,7 +2,7 @@ AC  GenProp1488
 DE  Oleate beta-oxidation (thioesterase-dependent, yeast)
 TP  PATHWAY
 AU  Foerster H
-
+TH  0
 DC  Oleate beta-oxidation (thioesterase-dependent, yeast)
 DR  MetaCyc; PWY-7292;
 CC  This property has been automatically generated from MetaCyc and has not

@@ -2,7 +2,7 @@ AC  GenProp1244
 DE  Myo-inositol biosynthesis
 TP  PATHWAY
 AU  Caspi R
-
+TH  0
 DC  Myo-inositol biosynthesis
 DR  MetaCyc; PWY-2301;
 CC  This property has been automatically generated from MetaCyc and has not

@@ -2,7 +2,7 @@ AC  GenProp1724
 DE  Chlorophyll a biosynthesis I
 TP  PATHWAY
 AU  Caspi R
-
+TH  0
 DC  Chlorophyll a biosynthesis I
 DR  MetaCyc; PWY-5086;
 CC  This property has been automatically generated from MetaCyc and has not

@@ -2,7 +2,7 @@ AC  GenProp1678
 DE  Beta-alanine biosynthesis IV
 TP  PATHWAY
 AU  Caspi R
-
+TH  0
 DC  Beta-alanine biosynthesis IV
 DR  MetaCyc; PWY-5760;
 CC  This property has been automatically generated from MetaCyc and has not

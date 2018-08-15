@@ -2,7 +2,7 @@ AC  GenProp1226
 DE  Pyruvate fermentation to ethanol II
 TP  PATHWAY
 AU  Caspi R
-
+TH  0
 DC  Pyruvate fermentation to ethanol II
 DR  MetaCyc; PWY-5486;
 CC  This property has been automatically generated from MetaCyc and has not

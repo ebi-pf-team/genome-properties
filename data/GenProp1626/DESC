@@ -2,7 +2,7 @@ AC  GenProp1626
 DE  L-alanine degradation I
 TP  PATHWAY
 AU  Riley M
-
+TH  0
 DC  L-alanine degradation I
 DR  MetaCyc; ALADEG-PWY;
 CC  This property has been automatically generated from MetaCyc and has not

@@ -2,7 +2,7 @@ AC  GenProp1429
 DE  GDP-L-fucose biosynthesis I (from GDP-D-mannose)
 TP  PATHWAY
 AU  N/A
-
+TH  0
 DC  GDP-L-fucose biosynthesis I (from GDP-D-mannose)
 DR  MetaCyc; PWY-66;
 CC  This property has been automatically generated from MetaCyc and has not

@@ -2,7 +2,7 @@ AC  GenProp1367
 DE  D-lactate to cytochrome bo oxidase electron transfer
 TP  PATHWAY
 AU  Mackie A
-
+TH  0
 DC  D-lactate to cytochrome bo oxidase electron transfer
 DR  MetaCyc; PWY0-1565;
 CC  This property has been automatically generated from MetaCyc and has not

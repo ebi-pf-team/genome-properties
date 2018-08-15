@@ -2,7 +2,7 @@ AC  GenProp1385
 DE  Progesterone biosynthesis
 TP  PATHWAY
 AU  Caspi R
-
+TH  0
 DC  Progesterone biosynthesis
 DR  MetaCyc; PWY-7299;
 CC  This property has been automatically generated from MetaCyc and has not

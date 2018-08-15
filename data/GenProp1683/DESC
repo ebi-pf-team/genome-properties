@@ -2,7 +2,7 @@ AC  GenProp1683
 DE  Epoxysqualene biosynthesis
 TP  PATHWAY
 AU  Caspi R
-
+TH  0
 DC  Epoxysqualene biosynthesis
 DR  MetaCyc; PWY-5670;
 CC  This property has been automatically generated from MetaCyc and has not

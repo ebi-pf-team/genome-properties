@@ -2,7 +2,7 @@ AC  GenProp1388
 DE  Pterostilbene biosynthesis
 TP  PATHWAY
 AU  Pujar A
-
+TH  0
 DC  Pterostilbene biosynthesis
 DR  MetaCyc; PWY-6665;
 CC  This property has been automatically generated from MetaCyc and has not

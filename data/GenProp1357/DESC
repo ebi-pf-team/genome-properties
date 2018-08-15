@@ -2,7 +2,7 @@ AC  GenProp1357
 DE  L-citrulline degradation
 TP  PATHWAY
 AU  Foerster H, Caspi R, Ying H
-
+TH  0
 DC  L-citrulline degradation
 DR  MetaCyc; CITRULLINE-DEG-PWY;
 CC  This property has been automatically generated from MetaCyc and has not

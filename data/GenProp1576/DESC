@@ -2,7 +2,7 @@ AC  GenProp1576
 DE  Pyrimidine ribonucleosides degradation
 TP  PATHWAY
 AU  Ingraham J
-
+TH  0
 DC  Pyrimidine ribonucleosides degradation
 DR  MetaCyc; PWY0-1295;
 CC  This property has been automatically generated from MetaCyc and has not

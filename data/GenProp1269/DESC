@@ -2,7 +2,7 @@ AC  GenProp1269
 DE  Pyruvate to cytochrome bd oxidase electron transfer
 TP  PATHWAY
 AU  Mackie A
-
+TH  0
 DC  Pyruvate to cytochrome bd oxidase electron transfer
 DR  MetaCyc; PWY-7545;
 CC  This property has been automatically generated from MetaCyc and has not

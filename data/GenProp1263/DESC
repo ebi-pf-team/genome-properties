@@ -2,7 +2,7 @@ AC  GenProp1263
 DE  Methylglyoxal degradation III
 TP  PATHWAY
 AU  Caspi R
-
+TH  0
 DC  Methylglyoxal degradation III
 DR  MetaCyc; PWY-5453;
 CC  This property has been automatically generated from MetaCyc and has not

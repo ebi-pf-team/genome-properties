@@ -2,7 +2,7 @@ AC  GenProp1394
 DE  Trehalose degradation I (low osmolarity)
 TP  PATHWAY
 AU  Caspi R, Riley M
-
+TH  0
 DC  Trehalose degradation I (low osmolarity)
 DR  MetaCyc; TREDEGLOW-PWY;
 CC  This property has been automatically generated from MetaCyc and has not

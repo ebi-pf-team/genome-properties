@@ -2,7 +2,7 @@ AC  GenProp1386
 DE  Superpathway of L-serine and glycine biosynthesis I
 TP  PATHWAY
 AU  Caspi R
-
+TH  0
 DC  Superpathway of L-serine and glycine biosynthesis I
 DR  MetaCyc; SER-GLYSYN-PWY;
 CC  This property has been automatically generated from MetaCyc and has not

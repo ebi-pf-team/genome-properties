@@ -2,7 +2,7 @@ AC  GenProp1219
 DE  Thiamine salvage I
 TP  PATHWAY
 AU  Caspi R
-
+TH  0
 DC  Thiamine salvage I
 DR  MetaCyc; PWY-6896;
 CC  This property has been automatically generated from MetaCyc and has not

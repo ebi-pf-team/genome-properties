@@ -2,7 +2,7 @@ AC  GenProp1424
 DE  Two-component alkanesulfonate monooxygenase
 TP  PATHWAY
 AU  Pellegrini-Toole A, Keseler I
-
+TH  0
 DC  Two-component alkanesulfonate monooxygenase
 DR  MetaCyc; ALKANEMONOX-PWY;
 CC  This property has been automatically generated from MetaCyc and has not

@@ -2,7 +2,7 @@ AC  GenProp1390
 DE  Choline degradation I
 TP  PATHWAY
 AU  Caspi R, Ying H
-
+TH  0
 DC  Choline degradation I
 DR  MetaCyc; CHOLINE-BETAINE-ANA-PWY;
 CC  This property has been automatically generated from MetaCyc and has not

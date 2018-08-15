@@ -2,7 +2,7 @@ AC  GenProp1615
 DE  Ammonia assimilation cycle III
 TP  PATHWAY
 AU  Pellegrini-Toole A
-
+TH  0
 DC  Ammonia assimilation cycle III
 DR  MetaCyc; AMMASSIM-PWY;
 CC  This property has been automatically generated from MetaCyc and has not

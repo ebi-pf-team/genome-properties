@@ -2,7 +2,7 @@ AC  GenProp1464
 DE  Indole-3-acetate biosynthesis I
 TP  PATHWAY
 AU  Caspi R, Schaeffer M
-
+TH  0
 DC  Indole-3-acetate biosynthesis I
 DR  MetaCyc; PWYDQC-4;
 CC  This property has been automatically generated from MetaCyc and has not

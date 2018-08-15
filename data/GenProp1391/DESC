@@ -2,7 +2,7 @@ AC  GenProp1391
 DE  Glycerol-3-phosphate to fumarate electron transfer
 TP  PATHWAY
 AU  Mackie A
-
+TH  0
 DC  Glycerol-3-phosphate to fumarate electron transfer
 DR  MetaCyc; PWY0-1582;
 CC  This property has been automatically generated from MetaCyc and has not

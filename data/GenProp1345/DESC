@@ -2,7 +2,7 @@ AC  GenProp1345
 DE  Acetate formation from acetyl-CoA I
 TP  PATHWAY
 AU  Caspi R
-
+TH  0
 DC  Acetate formation from acetyl-CoA I
 DR  MetaCyc; PWY0-1312;
 CC  This property has been automatically generated from MetaCyc and has not

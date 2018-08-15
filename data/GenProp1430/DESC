@@ -2,7 +2,7 @@ AC  GenProp1430
 DE  Adenine and adenosine salvage II
 TP  PATHWAY
 AU  Caspi R
-
+TH  0
 DC  Adenine and adenosine salvage II
 DR  MetaCyc; PWY-6605;
 CC  This property has been automatically generated from MetaCyc and has not

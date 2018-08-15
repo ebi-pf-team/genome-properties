@@ -2,7 +2,7 @@ AC  GenProp1331
 DE  Pyocyanin biosynthesis
 TP  PATHWAY
 AU  Fulcher C
-
+TH  0
 DC  Pyocyanin biosynthesis
 DR  MetaCyc; PWY-6666;
 CC  This property has been automatically generated from MetaCyc and has not

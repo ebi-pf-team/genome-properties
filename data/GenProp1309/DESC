@@ -2,7 +2,7 @@ AC  GenProp1309
 DE  Superpathway of L-phenylalanine biosynthesis
 TP  PATHWAY
 AU  Caspi R
-
+TH  0
 DC  Superpathway of L-phenylalanine biosynthesis
 DR  MetaCyc; PWY-6628;
 CC  This property has been automatically generated from MetaCyc and has not

@@ -2,7 +2,7 @@ AC  GenProp1669
 DE  CO2 fixation into oxaloacetate (anaplerotic)
 TP  PATHWAY
 AU  Tissier C, Caspi R
-
+TH  0
 DC  CO2 fixation into oxaloacetate (anaplerotic)
 DR  MetaCyc; PWYQT-4429;
 CC  This property has been automatically generated from MetaCyc and has not

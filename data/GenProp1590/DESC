@@ -2,7 +2,7 @@ AC  GenProp1590
 DE  4-Amino-2-methyl-5-diphosphomethylpyrimidine biosynthesis
 TP  PATHWAY
 AU  Caspi R
-
+TH  0
 DC  4-Amino-2-methyl-5-diphosphomethylpyrimidine biosynthesis
 DR  MetaCyc; PWY-6890;
 CC  This property has been automatically generated from MetaCyc and has not

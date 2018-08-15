@@ -2,7 +2,7 @@ AC  GenProp1482
 DE  S-methyl-5'-thioadenosine degradation I
 TP  PATHWAY
 AU  Caspi R
-
+TH  0
 DC  S-methyl-5'-thioadenosine degradation I
 DR  MetaCyc; PWY-6754;
 CC  This property has been automatically generated from MetaCyc and has not

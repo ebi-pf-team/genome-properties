@@ -2,7 +2,7 @@ AC  GenProp1274
 DE  D-serine metabolism
 TP  PATHWAY
 AU  Pujar A
-
+TH  0
 DC  D-serine metabolism
 DR  MetaCyc; PWY-6196;
 CC  This property has been automatically generated from MetaCyc and has not

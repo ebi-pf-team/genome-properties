@@ -2,7 +2,7 @@ AC  GenProp1552
 DE  Allopregnanolone biosynthesis
 TP  PATHWAY
 AU  Montanucci L
-
+TH  0
 DC  Allopregnanolone biosynthesis
 DR  MetaCyc; PWY-7455;
 CC  This property has been automatically generated from MetaCyc and has not

@@ -2,7 +2,7 @@ AC  GenProp1581
 DE  L-homoserine and L-methionine biosynthesis
 TP  PATHWAY
 AU  Paley S, Riley M
-
+TH  0
 DC  L-homoserine and L-methionine biosynthesis
 DR  MetaCyc; METSYN-PWY;
 CC  This property has been automatically generated from MetaCyc and has not

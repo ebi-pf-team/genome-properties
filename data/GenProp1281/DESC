@@ -2,7 +2,7 @@ AC  GenProp1281
 DE  Hydrogen sulfide biosynthesis I
 TP  PATHWAY
 AU  Keseler I
-
+TH  0
 DC  Hydrogen sulfide biosynthesis I
 DR  MetaCyc; PWY0-1534;
 CC  This property has been automatically generated from MetaCyc and has not

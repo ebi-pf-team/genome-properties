@@ -2,7 +2,7 @@ AC  GenProp1675
 DE  Superpathway of D-glucarate and D-galactarate degradation
 TP  PATHWAY
 AU  Caspi R, Riley M
-
+TH  0
 DC  Superpathway of D-glucarate and D-galactarate degradation
 DR  MetaCyc; GLUCARGALACTSUPER-PWY;
 CC  This property has been automatically generated from MetaCyc and has not

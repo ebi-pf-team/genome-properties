@@ -2,7 +2,7 @@ AC  GenProp1362
 DE  Putrescine degradation I
 TP  PATHWAY
 AU  Caspi R, Riley M
-
+TH  0
 DC  Putrescine degradation I
 DR  MetaCyc; PUTDEG-PWY;
 CC  This property has been automatically generated from MetaCyc and has not

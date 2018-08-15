@@ -2,7 +2,7 @@ AC  GenProp1587
 DE  Oleate biosynthesis II (animals and fungi)
 TP  PATHWAY
 AU  Caspi R
-
+TH  0
 DC  Oleate biosynthesis II (animals and fungi)
 DR  MetaCyc; PWY-5996;
 CC  This property has been automatically generated from MetaCyc and has not

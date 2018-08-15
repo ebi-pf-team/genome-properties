@@ -2,7 +2,7 @@ AC  GenProp1276
 DE  Putrescine degradation V
 TP  PATHWAY
 AU  Caspi R
-
+TH  0
 DC  Putrescine degradation V
 DR  MetaCyc; PWY-3;
 CC  This property has been automatically generated from MetaCyc and has not

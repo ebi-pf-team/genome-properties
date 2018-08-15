@@ -2,7 +2,7 @@ AC  GenProp1577
 DE  Biotin biosynthesis I
 TP  PATHWAY
 AU  Caspi R
-
+TH  0
 DC  Biotin biosynthesis I
 DR  MetaCyc; BIOTIN-BIOSYNTHESIS-PWY;
 CC  This property has been automatically generated from MetaCyc and has not

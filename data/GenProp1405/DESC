@@ -2,7 +2,7 @@ AC  GenProp1405
 DE  Superpathway of branched chain amino acid biosynthesis
 TP  PATHWAY
 AU  LaRossa R
-
+TH  0
 DC  Superpathway of branched chain amino acid biosynthesis
 DR  MetaCyc; BRANCHED-CHAIN-AA-SYN-PWY;
 CC  This property has been automatically generated from MetaCyc and has not

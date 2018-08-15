@@ -2,7 +2,7 @@ AC  GenProp1556
 DE  Glycolate and glyoxylate degradation II
 TP  PATHWAY
 AU  Riley M, Ingraham J
-
+TH  0
 DC  Glycolate and glyoxylate degradation II
 DR  MetaCyc; GLYOXDEG-PWY;
 CC  This property has been automatically generated from MetaCyc and has not

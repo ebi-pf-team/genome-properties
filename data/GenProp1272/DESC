@@ -2,7 +2,7 @@ AC  GenProp1272
 DE  Spermine and spermidine degradation III
 TP  PATHWAY
 AU  Zhang P
-
+TH  0
 DC  Spermine and spermidine degradation III
 DR  MetaCyc; PWY-6441;
 CC  This property has been automatically generated from MetaCyc and has not

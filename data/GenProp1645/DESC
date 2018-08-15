@@ -2,7 +2,7 @@ AC  GenProp1645
 DE  Zeaxanthin biosynthesis
 TP  PATHWAY
 AU  Caspi R
-
+TH  0
 DC  Zeaxanthin biosynthesis
 DR  MetaCyc; PWY-5944;
 CC  This property has been automatically generated from MetaCyc and has not

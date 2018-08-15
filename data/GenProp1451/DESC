@@ -2,7 +2,7 @@ AC  GenProp1451
 DE  Beta-carotene biosynthesis
 TP  PATHWAY
 AU  Caspi R
-
+TH  0
 DC  Beta-carotene biosynthesis
 DR  MetaCyc; PWY-5943;
 CC  This property has been automatically generated from MetaCyc and has not

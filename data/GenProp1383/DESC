@@ -2,7 +2,7 @@ AC  GenProp1383
 DE  Glutaminyl-tRNAgln biosynthesis via transamidation
 TP  PATHWAY
 AU  Fulcher C
-
+TH  0
 DC  Glutaminyl-tRNAgln biosynthesis via transamidation
 DR  MetaCyc; PWY-5921;
 CC  This property has been automatically generated from MetaCyc and has not

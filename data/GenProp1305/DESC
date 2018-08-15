@@ -2,7 +2,7 @@ AC  GenProp1305
 DE  NAD phosphorylation and transhydrogenation
 TP  PATHWAY
 AU  Weerasinghe D, Riley M
-
+TH  0
 DC  NAD phosphorylation and transhydrogenation
 DR  MetaCyc; NADPHOS-DEPHOS-PWY-1;
 CC  This property has been automatically generated from MetaCyc and has not

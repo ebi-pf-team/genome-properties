@@ -2,7 +2,7 @@ AC  GenProp1670
 DE  Di-trans,poly-cis-undecaprenyl phosphate biosynthesis
 TP  PATHWAY
 AU  Caspi R
-
+TH  0
 DC  Di-trans,poly-cis-undecaprenyl phosphate biosynthesis
 DR  MetaCyc; PWY-5785;
 CC  This property has been automatically generated from MetaCyc and has not

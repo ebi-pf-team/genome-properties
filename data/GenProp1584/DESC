@@ -2,7 +2,7 @@ AC  GenProp1584
 DE  L-aspartate degradation II
 TP  PATHWAY
 AU  Fulcher C
-
+TH  0
 DC  L-aspartate degradation II
 DR  MetaCyc; MALATE-ASPARTATE-SHUTTLE-PWY;
 CC  This property has been automatically generated from MetaCyc and has not

@@ -2,7 +2,7 @@ AC  GenProp1732
 DE  Pentose phosphate pathway (oxidative branch) II
 TP  PATHWAY
 AU  Caspi R
-
+TH  0
 DC  Pentose phosphate pathway (oxidative branch) II
 DR  MetaCyc; PWY-7796;
 CC  This property has been automatically generated from MetaCyc and has not

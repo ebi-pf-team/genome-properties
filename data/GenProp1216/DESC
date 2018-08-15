@@ -2,7 +2,7 @@ AC  GenProp1216
 DE  Tetrahydrofolate salvage from 5,10-methenyltetrahydrofolate
 TP  PATHWAY
 AU  Caspi R
-
+TH  0
 DC  Tetrahydrofolate salvage from 5,10-methenyltetrahydrofolate
 DR  MetaCyc; PWY-6613;
 CC  This property has been automatically generated from MetaCyc and has not

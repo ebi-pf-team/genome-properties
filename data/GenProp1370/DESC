@@ -2,7 +2,7 @@ AC  GenProp1370
 DE  Ethylene glycol degradation
 TP  PATHWAY
 AU  Ingraham J
-
+TH  0
 DC  Ethylene glycol degradation
 DR  MetaCyc; PWY0-1280;
 CC  This property has been automatically generated from MetaCyc and has not

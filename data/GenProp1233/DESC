@@ -2,7 +2,7 @@ AC  GenProp1233
 DE  L-glutamate degradation II
 TP  PATHWAY
 AU  Fulcher C, Caspi R
-
+TH  0
 DC  L-glutamate degradation II
 DR  MetaCyc; GLUTDEG-PWY;
 CC  This property has been automatically generated from MetaCyc and has not

@@ -2,7 +2,7 @@ AC  GenProp1561
 DE  Superpathway of coenzyme A biosynthesis III (mammals)
 TP  PATHWAY
 AU  Weerasinghe D, Keseler I, Arnaud M, Foerster H
-
+TH  0
 DC  Superpathway of coenzyme A biosynthesis III (mammals)
 DR  MetaCyc; COA-PWY-1;
 CC  This property has been automatically generated from MetaCyc and has not

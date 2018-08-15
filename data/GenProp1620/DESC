@@ -2,7 +2,7 @@ AC  GenProp1620
 DE  Pyruvate fermentation to acetate VIII
 TP  PATHWAY
 AU  Caspi R
-
+TH  0
 DC  Pyruvate fermentation to acetate VIII
 DR  MetaCyc; PWY-5768;
 CC  This property has been automatically generated from MetaCyc and has not

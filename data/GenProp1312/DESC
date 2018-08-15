@@ -2,7 +2,7 @@ AC  GenProp1312
 DE  Aminopropanol phosphate biosynthesis I
 TP  PATHWAY
 AU  Caspi R
-
+TH  0
 DC  Aminopropanol phosphate biosynthesis I
 DR  MetaCyc; PWY-5443;
 CC  This property has been automatically generated from MetaCyc and has not

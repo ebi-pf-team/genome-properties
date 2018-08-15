@@ -2,7 +2,7 @@ AC  GenProp1731
 DE  3-Dehydroquinate biosynthesis I
 TP  PATHWAY
 AU  Caspi R
-
+TH  0
 DC  3-Dehydroquinate biosynthesis I
 DR  MetaCyc; PWY-6164;
 CC  This property has been automatically generated from MetaCyc and has not
