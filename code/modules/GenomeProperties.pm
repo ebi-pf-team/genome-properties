@@ -1100,7 +1100,7 @@ sub toDESCHack {
     print D wrap( "AU  ", "AU  ", "Haft D");
 
     print D "\n";
-    print D wrap( "TH  ", "TH  ", $desc->threshold);
+    print D wrap( "TH  ", "TH  ", defined($desc->threshold));
     print D "\n";
     
     if($refs->{$desc->accession}){
