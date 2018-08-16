@@ -67,7 +67,7 @@ SN  6
 ID  SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily B member 1 (SMARCB1/BAF47)
 DN  SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily B member 1
 RQ  1
-EV  IPR006939; PF04855 ; sufficient;
+EV  IPR006939; PF04855; sufficient;
 EV  IPR006939; PTHR10019; sufficient;
 TG  GO:0016514;
 //
