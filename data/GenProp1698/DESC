@@ -34,8 +34,5 @@ SN  4
 ID  2-Phenylethanol dehydrogenase
 DN  2-Phenylethanol dehydrogenase (EC 1.1.1.1)
 RQ  1
-EV  IPR013149; PF00107; sufficient;
-EV  IPR013154; PF08240; sufficient;
 EV  IPR014183; TIGR02818; sufficient;
-EV  IPR001670; PF00465; sufficient;
 //

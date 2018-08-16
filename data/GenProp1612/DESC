@@ -15,8 +15,6 @@ ID  Enolase
 DN  Enolase (EC 4.2.1.11)
 RQ  1
 EV  IPR000941; TIGR01060; sufficient;
-EV  IPR020810; PF00113; sufficient;
-EV  IPR020811; PF03952; sufficient;
 --
 SN  2
 ID  Phosphoenolpyruvate carboxykinase
@@ -41,16 +39,12 @@ ID  Glyceraldehyde-3-phosphate dehydrogenase
 DN  Glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
 RQ  1
 EV  IPR006424; TIGR01534; sufficient;
-EV  IPR020828; PF00044; sufficient;
-EV  IPR020829; PF02800; sufficient;
 --
 SN  6
 ID  Malate dehydrogenase (NAD)
 DN  Malate dehydrogenase (NAD) (EC 1.1.1.37)
 RQ  1
-EV  IPR001236; PF00056; sufficient;
 EV  IPR010097; TIGR01772; sufficient;
-EV  IPR022383; PF02866; sufficient;
 EV  IPR010945; TIGR01759; sufficient;
 EV  IPR011274; TIGR01758; sufficient;
 --
@@ -70,12 +64,6 @@ SN  9
 ID  Pyruvate carboxylase
 DN  Pyruvate carboxylase (EC 6.4.1.1)
 RQ  1
-EV  IPR000089; PF00364; sufficient;
-EV  IPR000891; PF00682; sufficient;
-EV  IPR003379; PF02436; sufficient;
-EV  IPR005479; PF02786; sufficient;
-EV  IPR005481; PF00289; sufficient;
-EV  IPR005482; PF02785; sufficient;
 EV  IPR005930; TIGR01235; sufficient;
 --
 SN  10

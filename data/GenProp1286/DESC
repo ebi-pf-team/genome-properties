@@ -22,7 +22,6 @@ SN  2
 ID  5-Dehydro-2-deoxy-D-gluconate kinase
 DN  5-Dehydro-2-deoxy-D-gluconate kinase (EC 2.7.1.92)
 RQ  1
-EV  IPR011611; PF00294; sufficient;
 EV  IPR030830; TIGR04382; sufficient;
 --
 SN  3
@@ -36,16 +35,12 @@ SN  4
 ID  Scyllo-inosose dehydratase
 DN  Scyllo-inosose dehydratase (EC 4.2.1.44)
 RQ  1
-EV  IPR013022; PF01261; sufficient;
 EV  IPR030823; TIGR04379; sufficient;
 --
 SN  5
 ID  3D-(3,5/4)-trihydroxycyclohexane-1,2-dione hydrolase
 DN  3D-(3,5/4)-trihydroxycyclohexane-1,2-dione hydrolase (EC 3.7.1.22)
 RQ  1
-EV  IPR011766; PF02775; sufficient;
-EV  IPR012000; PF00205; sufficient;
-EV  IPR012001; PF02776; sufficient;
 EV  IPR030817; TIGR04377; sufficient;
 --
 SN  6
@@ -60,5 +55,4 @@ ID  Malonate semialdehyde dehydrogenase
 DN  Malonate semialdehyde dehydrogenase (EC 1.2.1.18)
 RQ  1
 EV  IPR010061; TIGR01722; sufficient;
-EV  IPR015590; PF00171; sufficient;
 //

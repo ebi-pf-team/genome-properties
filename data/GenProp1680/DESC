@@ -15,15 +15,11 @@ ID  L-fucose isomerase
 DN  L-fucose isomerase (EC 5.3.1.25)
 RQ  1
 EV  IPR005763; TIGR01089; sufficient;
-EV  IPR012888; PF07881; sufficient;
-EV  IPR012889; PF07882; sufficient;
-EV  IPR015888; PF02952; sufficient;
 --
 SN  2
 ID  Fuculose-1-phosphate aldolase
 DN  Fuculose-1-phosphate aldolase (EC 4.1.2.17)
 RQ  1
-EV  IPR001303; PF00596; sufficient;
 EV  IPR004782; TIGR01086; sufficient;
 --
 SN  3
@@ -31,8 +27,6 @@ ID  L-fuculokinase
 DN  L-fuculokinase (EC 2.7.1.51)
 RQ  1
 EV  IPR013450; TIGR02628; sufficient;
-EV  IPR018484; PF00370; sufficient;
-EV  IPR018485; PF02782; sufficient;
 --
 SN  4
 ID  L-fucose mutarotase

@@ -14,8 +14,6 @@ SN  1
 ID  Mannose-1-phosphate guanylyltransferase
 DN  Mannose-1-phosphate guanylyltransferase (EC 2.7.7.13)
 RQ  1
-EV  IPR001538; PF01050; sufficient;
-EV  IPR005835; PF00483; sufficient;
 EV  IPR006375; TIGR01479; sufficient;
 --
 SN  2
@@ -23,28 +21,22 @@ ID  GDP-mannose 4,6-dehydratase
 DN  GDP-mannose 4,6-dehydratase (EC 4.2.1.47)
 RQ  1
 EV  IPR006368; TIGR01472; sufficient;
-EV  IPR016040; PF16363; sufficient;
 --
 SN  3
 ID  UDP-glucose pyrophosphorylase
 DN  UDP-glucose pyrophosphorylase (EC 2.7.7.9)
 RQ  1
 EV  IPR005771; TIGR01099; sufficient;
-EV  IPR005835; PF00483; sufficient;
 --
 SN  4
 ID  UDP-galactose 4-epimerase
 DN  UDP-galactose 4-epimerase (EC 5.1.3.2)
 RQ  1
 EV  IPR005886; TIGR01179; sufficient;
-EV  IPR016040; PF16363; sufficient;
 --
 SN  5
 ID  UDP-glucose dehydrogenase
 DN  UDP-glucose dehydrogenase (EC 1.1.1.22)
 RQ  1
-EV  IPR001732; PF03721; sufficient;
-EV  IPR014026; PF00984; sufficient;
-EV  IPR014027; PF03720; sufficient;
 EV  IPR017476; TIGR03026; sufficient;
 //

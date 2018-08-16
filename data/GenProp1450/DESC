@@ -15,13 +15,7 @@ ID  Anthranilate synthase
 DN  Anthranilate synthase (EC 4.1.3.27)
 RQ  1
 EV  IPR005257; TIGR00565; sufficient;
-EV  IPR006805; PF04715; sufficient;
-EV  IPR015890; PF00425; sufficient;
-EV  IPR000312; PF00591; sufficient;
 EV  IPR005940; TIGR01245; sufficient;
-EV  IPR006221; TIGR00566; sufficient;
-EV  IPR017459; PF02885; sufficient;
-EV  IPR017926; PF00117; sufficient;
 EV  IPR010116; TIGR01820; sufficient;
 --
 SN  2
@@ -42,11 +36,7 @@ SN  4
 ID  Anthranilate phosphoribosyltransferase
 DN  Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
 RQ  1
-EV  IPR000312; PF00591; sufficient;
 EV  IPR005940; TIGR01245; sufficient;
-EV  IPR006221; TIGR00566; sufficient;
-EV  IPR017459; PF02885; sufficient;
-EV  IPR017926; PF00117; sufficient;
 --
 SN  5
 ID  Indole-3-glycerol phosphate lyase
@@ -59,7 +49,6 @@ SN  6
 ID  Tryptophan synthase
 DN  Tryptophan synthase (EC 4.2.1.122)
 RQ  1
-EV  IPR001926; PF00291; sufficient;
 EV  IPR006316; TIGR01415; sufficient;
 EV  IPR006654; TIGR00263; sufficient;
 //

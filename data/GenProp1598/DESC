@@ -14,13 +14,8 @@ SN  1
 ID  Catalase
 DN  Catalase (EC 1.11.1.21)
 RQ  1
-EV  IPR010582; PF06628; sufficient;
-EV  IPR011614; PF00199; sufficient;
 EV  IPR000763; TIGR00198; sufficient;
-EV  IPR002016; PF00141; sufficient;
 EV  IPR006679; TIGR01178; sufficient;
-EV  IPR006680; PF01979; sufficient;
-EV  IPR026912; PF13382; sufficient;
 --
 SN  2
 ID  Superoxide dismutase

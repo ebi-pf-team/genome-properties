@@ -14,10 +14,6 @@ SN  1
 ID  ADP reductase
 DN  ADP reductase (EC 1.17.4.1)
 RQ  1
-EV  IPR000788; PF02867; sufficient;
-EV  IPR005144; PF03477; sufficient;
-EV  IPR013346; TIGR02506; sufficient;
-EV  IPR013509; PF00317; sufficient;
 EV  IPR000358; PF00268; sufficient;
 --
 SN  2
@@ -30,7 +26,6 @@ SN  3
 ID  ATP reductase
 DN  ATP reductase (EC 1.1.98.6)
 RQ  1
-EV  IPR005144; PF03477; sufficient;
 EV  IPR012833; PF13597; sufficient;
 EV  IPR012833; TIGR02487; sufficient;
 --
@@ -38,10 +33,6 @@ SN  4
 ID  ADP reductase
 DN  ADP reductase (EC 1.17.4.1)
 RQ  1
-EV  IPR000788; PF02867; sufficient;
-EV  IPR013346; TIGR02506; sufficient;
-EV  IPR013509; PF00317; sufficient;
-EV  IPR013554; PF08343; sufficient;
 EV  IPR026459; TIGR04170; sufficient;
 EV  IPR000358; PF00268; sufficient;
 EV  IPR026494; TIGR04171; sufficient;

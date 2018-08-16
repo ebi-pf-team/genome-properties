@@ -27,6 +27,4 @@ ID  Lipoyl synthase
 DN  Lipoyl synthase (EC 2.8.1.8)
 RQ  1
 EV  IPR003698; TIGR00510; sufficient;
-EV  IPR007197; PF04055; sufficient;
-EV  IPR031691; PF16881; sufficient;
 //

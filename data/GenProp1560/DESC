@@ -15,16 +15,12 @@ ID  2-Succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
 DN  2-Succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase (EC 2.2.1.9)
 RQ  1
 EV  IPR004433; TIGR00173; sufficient;
-EV  IPR011766; PF02775; sufficient;
-EV  IPR012001; PF02776; sufficient;
-EV  IPR032264; PF16582; sufficient;
 --
 SN  2
 ID  Isochorismate synthase
 DN  Isochorismate synthase (EC 5.4.4.2)
 RQ  1
 EV  IPR004561; TIGR00543; sufficient;
-EV  IPR015890; PF00425; sufficient;
 --
 SN  3
 ID  Naphthoyl-CoA synthase
@@ -37,23 +33,18 @@ SN  4
 ID  O-succinylbenzoate-CoA ligase
 DN  O-succinylbenzoate-CoA ligase (EC 6.2.1.26)
 RQ  1
-EV  IPR000873; PF00501; sufficient;
 EV  IPR010192; TIGR01923; sufficient;
-EV  IPR025110; PF13193; sufficient;
 --
 SN  5
 ID  O-succinylbenzoate synthase
 DN  O-succinylbenzoate synthase (EC 4.2.1.113)
 RQ  1
 EV  IPR010197; TIGR01928; sufficient;
-EV  IPR013341; PF02746; sufficient;
-EV  IPR029065; PF13378; sufficient;
 --
 SN  6
 ID  (1R,6R)-2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
 DN  (1R,6R)-2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase (EC 4.2.99.20)
 RQ  1
-EV  IPR000073; PF12697; sufficient;
 EV  IPR022485; TIGR03695; sufficient;
 --
 SN  7

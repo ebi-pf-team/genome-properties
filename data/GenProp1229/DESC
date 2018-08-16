@@ -21,8 +21,6 @@ ID  Inositol-1,3,4,5-tetrakisphosphate 3-phosphatase
 DN  Inositol-1,3,4,5-tetrakisphosphate 3-phosphatase (EC 3.1.3.62)
 RQ  1
 EV  IPR000560; PF00328; sufficient;
-EV  IPR000340; PF00782; sufficient;
-EV  IPR014020; PF10409; sufficient;
 --
 SN  3
 ID  Inositol-1,3,4,5-tetrakisphosphate 5-phosphatase

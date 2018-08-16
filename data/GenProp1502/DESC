@@ -15,15 +15,12 @@ ID  Glucose-6-phosphate dehydrogenase
 DN  Glucose-6-phosphate dehydrogenase (EC 1.1.1.49)
 RQ  1
 EV  IPR001282; TIGR00871; sufficient;
-EV  IPR022674; PF00479; sufficient;
-EV  IPR022675; PF02781; sufficient;
 --
 SN  2
 ID  NADP+-dependent isocitrate dehydrogenase
 DN  NADP+-dependent isocitrate dehydrogenase (EC 1.1.1.42)
 RQ  1
 EV  IPR004790; TIGR00127; sufficient;
-EV  IPR024084; PF00180; sufficient;
 --
 SN  3
 ID  NAD kinase

@@ -15,20 +15,12 @@ ID  Adenylyl-sulfate kinase
 DN  Adenylyl-sulfate kinase (EC 2.7.1.25)
 RQ  1
 EV  IPR002891; TIGR00455; sufficient;
-EV  IPR002650; TIGR00339; sufficient;
-EV  IPR024951; PF01747; sufficient;
-EV  IPR025980; PF14306; sufficient;
 --
 SN  2
 ID  Sulfate adenylyltransferase
 DN  Sulfate adenylyltransferase (EC 2.7.7.4)
 RQ  1
-EV  IPR002650; TIGR00339; sufficient;
-EV  IPR024951; PF01747; sufficient;
-EV  IPR025980; PF14306; sufficient;
 EV  IPR002891; TIGR00455; sufficient;
-EV  IPR002500; PF01507; sufficient;
 EV  IPR011784; TIGR02039; sufficient;
-EV  IPR005225; TIGR00231; sufficient;
 EV  IPR011779; TIGR02034; sufficient;
 //

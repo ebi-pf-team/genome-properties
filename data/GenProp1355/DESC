@@ -31,7 +31,6 @@ RQ  1
 EV  IPR010253; TIGR02023; sufficient;
 EV  IPR011774; TIGR02028; sufficient;
 EV  IPR011777; TIGR02032; sufficient;
-EV  IPR023753; PF07992; sufficient;
 --
 SN  4
 ID  Dihydrogeranylgeranyl-chlorophyll a reductase
@@ -40,7 +39,6 @@ RQ  1
 EV  IPR010253; TIGR02023; sufficient;
 EV  IPR011774; TIGR02028; sufficient;
 EV  IPR011777; TIGR02032; sufficient;
-EV  IPR023753; PF07992; sufficient;
 --
 SN  5
 ID  Tetrahydrogeranylgeranyl-chlorophyll a reductase
@@ -49,5 +47,4 @@ RQ  1
 EV  IPR010253; TIGR02023; sufficient;
 EV  IPR011774; TIGR02028; sufficient;
 EV  IPR011777; TIGR02032; sufficient;
-EV  IPR023753; PF07992; sufficient;
 //

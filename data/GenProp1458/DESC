@@ -33,10 +33,6 @@ ID  Cinnamate dioxygenase
 DN  Cinnamate dioxygenase (EC 1.14.12.19)
 RQ  1
 EV  IPR000391; PF00866; sufficient;
-EV  IPR017941; PF00355; sufficient;
-EV  IPR023753; PF07992; sufficient;
-EV  IPR028202; PF14759; sufficient;
-EV  IPR015879; PF00848; sufficient;
 --
 SN  5
 ID  2,3-Dihydroxycinnamate dioxygenase

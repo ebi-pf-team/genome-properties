@@ -629,6 +629,12 @@ sub parseDESC {
           print STDERR "Please check the URL $2\n";
           push( @{ $params{DBREFS} }, { db_id => $1, db_link => $2 } );
         }
+        elsif ( $file[$i] =~ /^DR  (Complex Portal);\s+(CPX-\S+);$/ ) {
+          push( @{ $params{DBREFS} }, { db_id => $1, db_link => $2 } );
+        }
+        elsif ( $file[$i] =~ /^DR  (PDBe);\s+(\S{4});$/ ) {
+          push( @{ $params{DBREFS} }, { db_id => $1, db_link => $2 } );
+        }
         elsif ( $file[$i] =~ /^DR/ ) {
           confess( "Bad reference line: unknown database [$file[$i]].\n"
               . "This may be fine, but we need to know the URL of the xref."

@@ -21,7 +21,6 @@ SN  2
 ID  Apolipoprotein N-acyltransferase
 DN  Apolipoprotein N-acyltransferase
 RQ  1
-EV  IPR003010; PF00795; sufficient;
 EV  IPR004563; TIGR00546; sufficient;
 --
 SN  3
@@ -35,10 +34,6 @@ SN  4
 ID  Lipoprotein signal peptide peptidase
 DN  Lipoprotein signal peptide peptidase (EC 3.4.21)
 RQ  1
-EV  IPR002142; PF01343; sufficient;
 EV  IPR004634; TIGR00705; sufficient;
-EV  IPR004635; TIGR00706; sufficient;
-EV  IPR001478; PF00595; sufficient;
 EV  IPR004387; TIGR00054; sufficient;
-EV  IPR008915; PF02163; sufficient;
 //

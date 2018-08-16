@@ -21,8 +21,6 @@ SN  2
 ID  Cystathionine beta-synthase
 DN  Cystathionine beta-synthase (EC 4.2.1.22)
 RQ  1
-EV  IPR000644; PF00571; sufficient;
-EV  IPR001926; PF00291; sufficient;
 EV  IPR005857; TIGR01137; sufficient;
 --
 SN  3

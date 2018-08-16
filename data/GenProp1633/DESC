@@ -14,18 +14,14 @@ SN  1
 ID  1-Deoxy-D-xylulose 5-phosphate synthase
 DN  1-Deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
 RQ  1
-EV  IPR005475; PF02779; sufficient;
 EV  IPR005477; PF13292; sufficient;
 EV  IPR005477; TIGR00204; sufficient;
-EV  IPR033248; PF02780; sufficient;
 --
 SN  2
 ID  D-erythrose-4-phosphate dehydrogenase
 DN  D-erythrose-4-phosphate dehydrogenase (EC 1.2.1.72)
 RQ  1
 EV  IPR006422; TIGR01532; sufficient;
-EV  IPR020828; PF00044; sufficient;
-EV  IPR020829; PF02800; sufficient;
 --
 SN  3
 ID  Erythronate-4-phosphate dehydrogenase
@@ -47,14 +43,11 @@ ID  Pyridoxine 5'-phosphate oxidase II
 DN  Pyridoxine 5'-phosphate oxidase II (EC 1.4.3.5)
 RQ  1
 EV  IPR000659; TIGR00558; sufficient;
-EV  IPR011576; PF01243; sufficient;
-EV  IPR019576; PF10590; sufficient;
 --
 SN  6
 ID  Phosphohydroxythreonine aminotransferase
 DN  Phosphohydroxythreonine aminotransferase (EC 2.6.1.52)
 RQ  1
-EV  IPR000192; PF00266; sufficient;
 EV  IPR022278; TIGR01364; sufficient;
 --
 SN  7

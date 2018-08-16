@@ -13,11 +13,14 @@ CC  The SET1 complex is a methyltransferase that that produces
 CC  trimethylated histone H3 at Lys(4). It is composed of at least 
 CC  the catalytic subunit (SETD1A or SETD1B), WDR5, WDR82, RBBP5, 
 CC  ASH2L/ASH2, CXXC1/CFP1, HCFC1 and DPY30 [1].
-**  Evidence for step 2 is also used in GP2056, GP2061, GP2062, GP2063 and GP2067.
+**  Evidence for step 2 is also used in GP2056, GP2061, GP2062, 
+**  GP2063 and GP2067.
 **  Evidence for step 3 is alos used in GP2073.
 **  Evidence for step 4 is alos used in GP2073.
-**  Evidence for step 5 is also used in GP2060, GP2061, GP2062 and GP2067.
-**  Evidence for step 7 is also used in GP2061, GP2063, GP2067, GP2068 and GP2069.
+**  Evidence for step 5 is also used in GP2060, GP2061, GP2062 and 
+**  GP2067.
+**  Evidence for step 7 is also used in GP2061, GP2063, GP2067, 
+**  GP2068 and GP2069.
 **  Evidence for step 8 is also used in GP2061, GP2062 and GP2067.
 **  Threshold is set to 6.
 --

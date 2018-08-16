@@ -15,8 +15,6 @@ ID  Alanine racemase
 DN  Alanine racemase (EC 5.1.1.1)
 RQ  1
 EV  IPR000821; TIGR00492; sufficient;
-EV  IPR001608; PF01168; sufficient;
-EV  IPR011079; PF00842; sufficient;
 --
 SN  2
 ID  L-valine:2-oxoglutarate aminotransferase

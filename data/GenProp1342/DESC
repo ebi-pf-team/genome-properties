@@ -14,21 +14,14 @@ SN  1
 ID  (R)-2,3-dihydroxy-3-methylbutanoate isomeroreductase
 DN  (R)-2,3-dihydroxy-3-methylbutanoate isomeroreductase (EC 1.1.1.86)
 RQ  1
-EV  IPR000506; PF01450; sufficient;
 EV  IPR013023; TIGR00465; sufficient;
-EV  IPR013116; PF07991; sufficient;
 --
 SN  2
 ID  (S)-2-acetolactate synthase
 DN  (S)-2-acetolactate synthase (EC 2.2.1.6)
 RQ  1
-EV  IPR011766; PF02775; sufficient;
-EV  IPR012000; PF00205; sufficient;
-EV  IPR012001; PF02776; sufficient;
 EV  IPR012846; TIGR00118; sufficient;
-EV  IPR002912; PF01842; sufficient;
 EV  IPR004789; TIGR00119; sufficient;
-EV  IPR019455; PF10369; sufficient;
 --
 SN  3
 ID  2,3-Dihydroxy-isovalerate dehydratase

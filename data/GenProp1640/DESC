@@ -14,16 +14,12 @@ SN  1
 ID  3-Phosphoglycerate dehydrogenase
 DN  3-Phosphoglycerate dehydrogenase (EC 1.1.1.95)
 RQ  1
-EV  IPR006139; PF00389; sufficient;
-EV  IPR006140; PF02826; sufficient;
 EV  IPR006236; TIGR01327; sufficient;
-EV  IPR002912; PF01842; sufficient;
 --
 SN  2
 ID  Phosphoserine aminotransferase
 DN  Phosphoserine aminotransferase (EC 2.6.1.52)
 RQ  1
-EV  IPR000192; PF00266; sufficient;
 EV  IPR022278; TIGR01364; sufficient;
 --
 SN  3

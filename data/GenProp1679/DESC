@@ -26,7 +26,5 @@ SN  3
 ID  Phenylalanine hydroxylase
 DN  Phenylalanine hydroxylase (EC 1.14.16.1)
 RQ  1
-EV  IPR002912; PF01842; sufficient;
 EV  IPR005961; TIGR01268; sufficient;
-EV  IPR019774; PF00351; sufficient;
 //

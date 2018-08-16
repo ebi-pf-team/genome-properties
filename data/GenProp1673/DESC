@@ -14,15 +14,7 @@ SN  1
 ID  4-Methyl-2-oxopentanoate dehydrogenase (acylating)
 DN  4-Methyl-2-oxopentanoate dehydrogenase (acylating) (EC 1.2.1.25)
 RQ  1
-EV  IPR001017; PF00676; sufficient;
-EV  IPR005475; PF02779; sufficient;
-EV  IPR033248; PF02780; sufficient;
-EV  IPR000089; PF00364; sufficient;
-EV  IPR001078; PF00198; sufficient;
-EV  IPR004167; PF02817; sufficient;
-EV  IPR004099; PF02852; sufficient;
 EV  IPR006258; TIGR01350; sufficient;
-EV  IPR023753; PF07992; sufficient;
 --
 SN  2
 ID  Leucine transaminase
@@ -45,7 +37,6 @@ EV  IPR000089; PF00364; sufficient;
 EV  IPR005479; PF02786; sufficient;
 EV  IPR005481; PF00289; sufficient;
 EV  IPR005482; PF02785; sufficient;
-EV  IPR000022; PF01039; sufficient;
 --
 SN  5
 ID  3-Methylglutaconyl-CoA hydratase

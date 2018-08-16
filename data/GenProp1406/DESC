@@ -15,7 +15,6 @@ ID  AMP kinase
 DN  AMP kinase (EC 2.7.4.3)
 RQ  1
 EV  IPR006259; TIGR01351; sufficient;
-EV  IPR007862; PF05191; sufficient;
 EV  IPR006267; TIGR01360; sufficient;
 --
 SN  2
@@ -29,10 +28,6 @@ SN  3
 ID  ADP reductase
 DN  ADP reductase (EC 1.17.4.1)
 RQ  1
-EV  IPR000788; PF02867; sufficient;
-EV  IPR005144; PF03477; sufficient;
-EV  IPR013346; TIGR02506; sufficient;
-EV  IPR013509; PF00317; sufficient;
 EV  IPR000358; PF00268; sufficient;
 --
 SN  4
@@ -51,37 +46,24 @@ DN  Phosphoribosylformylglycinamide cyclo-ligase (EC 6.3.3.1)
 RQ  1
 EV  IPR000115; TIGR00877; sufficient;
 EV  IPR004733; TIGR00878; sufficient;
-EV  IPR010918; PF02769; sufficient;
-EV  IPR016188; PF00586; sufficient;
-EV  IPR020560; PF02843; sufficient;
-EV  IPR020561; PF01071; sufficient;
-EV  IPR020562; PF02844; sufficient;
-EV  IPR002376; PF00551; sufficient;
 EV  IPR004607; TIGR00639; sufficient;
 --
 SN  6
 ID  GDP reductase
 DN  GDP reductase (EC 1.17.4.1)
 RQ  1
-EV  IPR000788; PF02867; sufficient;
-EV  IPR005144; PF03477; sufficient;
-EV  IPR013346; TIGR02506; sufficient;
-EV  IPR013509; PF00317; sufficient;
 EV  IPR000358; PF00268; sufficient;
 --
 SN  7
 ID  Guanylate kinase
 DN  Guanylate kinase (EC 2.7.4.8)
 RQ  1
-EV  IPR008145; PF00625; sufficient;
 EV  IPR017665; TIGR03263; sufficient;
 --
 SN  8
 ID  Inosine-5'-monophosphate dehydrogenase
 DN  Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)
 RQ  1
-EV  IPR000644; PF00571; sufficient;
-EV  IPR001093; PF00478; sufficient;
 EV  IPR005990; TIGR01302; sufficient;
 --
 SN  9
@@ -90,5 +72,4 @@ DN  IMP cyclohydrolase (EC 3.5.4.10)
 RQ  1
 EV  IPR002695; PF01808; sufficient;
 EV  IPR002695; TIGR00355; sufficient;
-EV  IPR011607; PF02142; sufficient;
 //

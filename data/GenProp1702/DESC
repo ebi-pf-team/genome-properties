@@ -14,8 +14,6 @@ SN  1
 ID  Acid phosphatase
 DN  Acid phosphatase (EC 3.1.3.100)
 RQ  1
-EV  IPR004305; PF03070; sufficient;
-EV  IPR006383; TIGR01488; sufficient;
 EV  IPR006384; TIGR01489; sufficient;
 EV  IPR016965; PF06888; sufficient;
 --
@@ -25,16 +23,10 @@ DN  Thiamine monophosphate pyrophosphorylase (EC 2.5.1.3)
 RQ  1
 EV  IPR000417; PF02110; sufficient;
 EV  IPR000417; TIGR00694; sufficient;
-EV  IPR003733; PF02581; sufficient;
-EV  IPR003733; TIGR00693; sufficient;
-EV  IPR004399; TIGR00097; sufficient;
-EV  IPR013749; PF08543; sufficient;
 --
 SN  3
 ID  Thiamine pyrophosphokinase
 DN  Thiamine pyrophosphokinase (EC 2.7.6.2)
 RQ  1
-EV  IPR007371; PF04263; sufficient;
-EV  IPR007373; PF04265; sufficient;
 EV  IPR006282; TIGR01378; sufficient;
 //

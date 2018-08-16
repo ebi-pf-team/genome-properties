@@ -14,21 +14,14 @@ SN  1
 ID  3-Dehydroquinate synthase
 DN  3-Dehydroquinate synthase (EC 4.2.3.4)
 RQ  1
-EV  IPR016037; TIGR01357; sufficient;
-EV  IPR030960; PF01761; sufficient;
 EV  IPR001381; PF01487; sufficient;
 EV  IPR001381; TIGR01093; sufficient;
-EV  IPR001986; PF00275; sufficient;
-EV  IPR006151; PF01488; sufficient;
 EV  IPR006264; TIGR01356; sufficient;
-EV  IPR010110; TIGR01809; sufficient;
-EV  IPR013708; PF08501; sufficient;
 EV  IPR031322; PF01202; sufficient;
 --
 SN  2
 ID  DAHP synthase
 DN  DAHP synthase (EC 2.5.1.54)
 RQ  1
-EV  IPR006218; PF00793; sufficient;
 EV  IPR006219; TIGR00034; sufficient;
 //

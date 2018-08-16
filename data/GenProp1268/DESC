@@ -15,14 +15,11 @@ ID  Adenine deaminase
 DN  Adenine deaminase (EC 3.5.4.2)
 RQ  1
 EV  IPR006679; TIGR01178; sufficient;
-EV  IPR006680; PF01979; sufficient;
-EV  IPR026912; PF13382; sufficient;
 --
 SN  2
 ID  Adenine phosphoribosyltransferase
 DN  Adenine phosphoribosyltransferase (EC 2.4.2.7)
 RQ  1
-EV  IPR000836; PF00156; sufficient;
 EV  IPR005764; TIGR01090; sufficient;
 --
 SN  3

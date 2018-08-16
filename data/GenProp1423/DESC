@@ -47,14 +47,12 @@ SN  6
 ID  Inositol phosphorylceramide mannosyltransferase
 DN  Inositol phosphorylceramide mannosyltransferase (EC 2.4.1)
 RQ  1
-EV  IPR007577; PF04488; sufficient;
 EV  IPR031581; PF16965; sufficient;
 --
 SN  7
 ID  Mannosyl-inositol-phosphoceramide inositolphosphotransferase
 DN  Mannosyl-inositol-phosphoceramide inositolphosphotransferase (EC 2.7.1)
 RQ  1
-EV  IPR000326; PF01569; sufficient;
 EV  IPR026841; PF14378; sufficient;
 --
 SN  8

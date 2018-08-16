@@ -20,47 +20,29 @@ SN  2
 ID  Aspartate kinase
 DN  Aspartate kinase (EC 2.7.2.4)
 RQ  1
-EV  IPR001048; PF00696; sufficient;
-EV  IPR001341; TIGR00657; sufficient;
-EV  IPR001342; PF00742; sufficient;
-EV  IPR002912; PF01842; sufficient;
-EV  IPR005106; PF03447; sufficient;
-EV  IPR027795; PF13840; sufficient;
 EV  IPR005260; TIGR00656; sufficient;
 --
 SN  3
 ID  Cobalamin-independent homocysteine transmethylase
 DN  Cobalamin-independent homocysteine transmethylase (EC 2.1.1.14)
 RQ  1
-EV  IPR002629; PF01717; sufficient;
 EV  IPR006276; TIGR01371; sufficient;
-EV  IPR013215; PF08267; sufficient;
 --
 SN  4
 ID  Methionine synthase
 DN  Methionine synthase (EC 2.1.1.13)
 RQ  1
-EV  IPR000489; PF00809; sufficient;
-EV  IPR003726; PF02574; sufficient;
-EV  IPR003759; PF02607; sufficient;
-EV  IPR004223; PF02965; sufficient;
-EV  IPR006158; PF02310; sufficient;
 EV  IPR011822; TIGR02082; sufficient;
 --
 SN  5
 ID  L-aspartate oxidase
 DN  L-aspartate oxidase (EC 1.4.3.16)
 RQ  1
-EV  IPR003953; PF00890; sufficient;
 EV  IPR005288; TIGR00551; sufficient;
-EV  IPR015939; PF02910; sufficient;
 --
 SN  6
 ID  Methionine adenosyltransferase
 DN  Methionine adenosyltransferase (EC 2.5.1.6)
 RQ  1
 EV  IPR002133; TIGR01034; sufficient;
-EV  IPR022628; PF00438; sufficient;
-EV  IPR022629; PF02772; sufficient;
-EV  IPR022630; PF02773; sufficient;
 //

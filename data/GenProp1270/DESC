@@ -40,8 +40,5 @@ SN  5
 ID  UDP-N-acetyl-D-mannosamine dehydrogenase
 DN  UDP-N-acetyl-D-mannosamine dehydrogenase (EC 1.1.1.336)
 RQ  1
-EV  IPR001732; PF03721; sufficient;
-EV  IPR014026; PF00984; sufficient;
-EV  IPR014027; PF03720; sufficient;
 EV  IPR017476; TIGR03026; sufficient;
 //

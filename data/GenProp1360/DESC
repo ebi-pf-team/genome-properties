@@ -21,7 +21,6 @@ SN  2
 ID  RNase BN ribonuclease
 DN  RNase BN ribonuclease (EC 3.1.13.1)
 RQ  1
-EV  IPR001279; PF12706; sufficient;
 EV  IPR013469; TIGR02649; sufficient;
 EV  IPR013471; TIGR02651; sufficient;
 --
@@ -29,24 +28,16 @@ SN  3
 ID  Ribonuclease
 DN  Ribonuclease (EC 3.1.26.12)
 RQ  1
-EV  IPR003029; PF00575; sufficient;
 EV  IPR004659; TIGR00757; sufficient;
 EV  IPR019307; PF10150; sufficient;
-EV  IPR021968; PF12111; sufficient;
 --
 SN  4
 ID  Exoribonuclease
 DN  Exoribonuclease (EC 3.1.13.1)
 RQ  1
-EV  IPR001247; PF01138; sufficient;
-EV  IPR003029; PF00575; sufficient;
-EV  IPR004088; PF00013; sufficient;
 EV  IPR012162; TIGR03591; sufficient;
-EV  IPR015847; PF03725; sufficient;
-EV  IPR015848; PF03726; sufficient;
 EV  IPR004476; TIGR00358; sufficient;
 EV  IPR011804; TIGR02062; sufficient;
-EV  IPR013223; PF08206; sufficient;
 --
 SN  5
 ID  Ribonuclease
@@ -59,26 +50,19 @@ SN  6
 ID  Phosphate-dependent exonuclease
 DN  Phosphate-dependent exonuclease (EC 2.7.7.56)
 RQ  1
-EV  IPR001247; PF01138; sufficient;
 EV  IPR002381; TIGR01966; sufficient;
-EV  IPR015847; PF03725; sufficient;
 --
 SN  7
 ID  Phosphate-dependent exonuclease
 DN  Phosphate-dependent exonuclease (EC 2.7.7.56)
 RQ  1
-EV  IPR001247; PF01138; sufficient;
 EV  IPR002381; TIGR01966; sufficient;
-EV  IPR015847; PF03725; sufficient;
 --
 SN  8
 ID  RNase T exonuclease
 DN  RNase T exonuclease (EC 3.1.13.5)
 RQ  1
 EV  IPR005987; TIGR01298; sufficient;
-EV  IPR013520; PF00929; sufficient;
-EV  IPR002121; PF00570; sufficient;
-EV  IPR002562; PF01612; sufficient;
 EV  IPR006292; TIGR01388; sufficient;
 --
 SN  9
@@ -86,17 +70,12 @@ ID  RNase D exonuclease
 DN  RNase D exonuclease (EC 3.1.13.5)
 RQ  1
 EV  IPR005987; TIGR01298; sufficient;
-EV  IPR013520; PF00929; sufficient;
-EV  IPR002121; PF00570; sufficient;
-EV  IPR002562; PF01612; sufficient;
 EV  IPR006292; TIGR01388; sufficient;
 --
 SN  10
 ID  Ribonuclease
 DN  Ribonuclease (EC 3.1.26.12)
 RQ  1
-EV  IPR003029; PF00575; sufficient;
 EV  IPR004659; TIGR00757; sufficient;
 EV  IPR019307; PF10150; sufficient;
-EV  IPR021968; PF12111; sufficient;
 //

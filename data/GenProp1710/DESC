@@ -1,9 +1,9 @@
 AC  GenProp1710
-DE  Superpathway of glycolysis, pyruvate dehydrogenase, TCA, and glyoxylate
-DE  bypass
+DE  Superpathway of glycolysis, pyruvate dehydrogenase, TCA, and glyoxylate bypass
 TP  PATHWAY
 AU  Caspi R
 TH  1
+DC  Superpathway of glycolysis, pyruvate dehydrogenase, TCA, and glyoxylate 
 DC  bypass
 DR  MetaCyc; GLYCOLYSIS-TCA-GLYOX-BYPASS;
 CC  This property has been automatically generated from MetaCyc and has not
@@ -24,20 +24,12 @@ ID  Pyruvate kinase
 DN  Pyruvate kinase (EC 2.7.1.40)
 RQ  1
 EV  IPR001697; TIGR01064; sufficient;
-EV  IPR015793; PF00224; sufficient;
-EV  IPR015795; PF02887; sufficient;
 --
 SN  3
 ID  Pyruvate dehydrogenase
 DN  Pyruvate dehydrogenase (EC 1.2.1.M10)
 RQ  1
 EV  IPR004660; TIGR00759; sufficient;
-EV  IPR005474; PF00456; sufficient;
-EV  IPR000089; PF00364; sufficient;
-EV  IPR001078; PF00198; sufficient;
-EV  IPR004167; PF02817; sufficient;
 EV  IPR006256; TIGR01348; sufficient;
-EV  IPR004099; PF02852; sufficient;
 EV  IPR006258; TIGR01350; sufficient;
-EV  IPR023753; PF07992; sufficient;
 //

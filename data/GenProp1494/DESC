@@ -16,7 +16,6 @@ DN  DCDP kinase (EC 2.7.4.6)
 RQ  1
 EV  IPR001564; PF00334; sufficient;
 EV  IPR006259; TIGR01351; sufficient;
-EV  IPR007862; PF05191; sufficient;
 --
 SN  2
 ID  DTDP kinase
@@ -24,7 +23,6 @@ DN  DTDP kinase (EC 2.7.4.6)
 RQ  1
 EV  IPR001564; PF00334; sufficient;
 EV  IPR006259; TIGR01351; sufficient;
-EV  IPR007862; PF05191; sufficient;
 --
 SN  3
 ID  Thymidylate kinase
@@ -37,6 +35,5 @@ ID  DCMP kinase
 DN  DCMP kinase (EC 2.7.4.25)
 RQ  1
 EV  IPR003136; TIGR00017; sufficient;
-EV  IPR011994; PF02224; sufficient;
 EV  IPR006266; TIGR01359; sufficient;
 //

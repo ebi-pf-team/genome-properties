@@ -15,7 +15,6 @@ ID  GDP kinase
 DN  GDP kinase (EC 2.7.4.6)
 RQ  1
 EV  IPR006259; TIGR01351; sufficient;
-EV  IPR007862; PF05191; sufficient;
 EV  IPR001564; PF00334; sufficient;
 --
 SN  2
@@ -32,14 +31,11 @@ SN  3
 ID  Guanylate kinase
 DN  Guanylate kinase (EC 2.7.4.8)
 RQ  1
-EV  IPR008145; PF00625; sufficient;
 EV  IPR017665; TIGR03263; sufficient;
 --
 SN  4
 ID  Inosine-5'-monophosphate dehydrogenase
 DN  Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)
 RQ  1
-EV  IPR000644; PF00571; sufficient;
-EV  IPR001093; PF00478; sufficient;
 EV  IPR005990; TIGR01302; sufficient;
 //

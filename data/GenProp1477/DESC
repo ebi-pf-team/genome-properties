@@ -14,25 +14,13 @@ SN  1
 ID  Ferredoxin:CoB-CoM heterosulfide reductase
 DN  Ferredoxin:CoB-CoM heterosulfide reductase (EC 1.8.7.3)
 RQ  1
-EV  IPR003813; PF02662; sufficient;
-EV  IPR017896; PF00037; sufficient;
-EV  IPR017896; PF13187; sufficient;
-EV  IPR023753; PF07992; sufficient;
-EV  IPR004017; PF02754; sufficient;
 EV  IPR017678; TIGR03288; sufficient;
 EV  IPR017680; TIGR03290; sufficient;
-EV  IPR017896; PF13183; sufficient;
 --
 SN  2
 ID  Coenzyme F420:CoB-CoM heterosulfide,ferredoxin reductase
 DN  Coenzyme F420:CoB-CoM heterosulfide,ferredoxin reductase (EC 1.8.98.4)
 RQ  1
-EV  IPR003813; PF02662; sufficient;
-EV  IPR017896; PF00037; sufficient;
-EV  IPR017896; PF13187; sufficient;
-EV  IPR023753; PF07992; sufficient;
-EV  IPR004017; PF02754; sufficient;
 EV  IPR017678; TIGR03288; sufficient;
 EV  IPR017680; TIGR03290; sufficient;
-EV  IPR017896; PF13183; sufficient;
 //

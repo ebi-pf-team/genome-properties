@@ -21,7 +21,6 @@ SN  2
 ID  3-Hydroxy-L-kynurenine hydrolase
 DN  3-Hydroxy-L-kynurenine hydrolase (EC 3.7.1.3)
 RQ  1
-EV  IPR000192; PF00266; sufficient;
 EV  IPR010111; TIGR01814; sufficient;
 --
 SN  3

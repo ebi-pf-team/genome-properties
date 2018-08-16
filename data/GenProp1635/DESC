@@ -15,16 +15,11 @@ ID  CTP synthetase
 DN  CTP synthetase (EC 6.3.4.2)
 RQ  1
 EV  IPR004468; TIGR00337; sufficient;
-EV  IPR017456; PF06418; sufficient;
-EV  IPR017926; PF00117; sufficient;
 --
 SN  2
 ID  Orotidine 5'-phosphate decarboxylase
 DN  Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)
 RQ  1
-EV  IPR000836; PF00156; sufficient;
-EV  IPR001754; PF00215; sufficient;
-EV  IPR004467; TIGR00336; sufficient;
 EV  IPR014732; TIGR01740; sufficient;
 --
 SN  3
@@ -32,7 +27,6 @@ ID  UMP kinase
 DN  UMP kinase (EC 2.7.4.14)
 RQ  1
 EV  IPR006266; TIGR01359; sufficient;
-EV  IPR001048; PF00696; sufficient;
 EV  IPR015963; TIGR02075; sufficient;
 --
 SN  4
@@ -45,9 +39,5 @@ SN  5
 ID  UDP reductase
 DN  UDP reductase (EC 1.17.4.1)
 RQ  1
-EV  IPR000788; PF02867; sufficient;
-EV  IPR005144; PF03477; sufficient;
-EV  IPR013346; TIGR02506; sufficient;
-EV  IPR013509; PF00317; sufficient;
 EV  IPR000358; PF00268; sufficient;
 //

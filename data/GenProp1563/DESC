@@ -21,12 +21,9 @@ SN  2
 ID  Ubiquinol oxidase (H+-transporting)
 DN  Ubiquinol oxidase (H+-transporting) (EC 1.10.3.10)
 RQ  1
-EV  IPR002429; PF00116; sufficient;
 EV  IPR006333; TIGR01433; sufficient;
-EV  IPR010514; PF06481; sufficient;
 EV  IPR000883; PF00115; sufficient;
 EV  IPR014207; TIGR02843; sufficient;
-EV  IPR000298; PF00510; sufficient;
 EV  IPR014206; TIGR02842; sufficient;
 EV  IPR005171; PF03626; sufficient;
 EV  IPR014210; TIGR02847; sufficient;

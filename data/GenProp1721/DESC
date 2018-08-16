@@ -26,7 +26,5 @@ SN  3
 ID  Glutathione reductase
 DN  Glutathione reductase (EC 1.8.1.7)
 RQ  1
-EV  IPR004099; PF02852; sufficient;
 EV  IPR006322; TIGR01421; sufficient;
-EV  IPR023753; PF07992; sufficient;
 //

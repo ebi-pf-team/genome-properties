@@ -15,8 +15,6 @@ ID  Adenylosuccinate lyase
 DN  Adenylosuccinate lyase (EC 4.3.2.2)
 RQ  1
 EV  IPR004769; TIGR00928; sufficient;
-EV  IPR013539; PF08328; sufficient;
-EV  IPR022761; PF00206; sufficient;
 --
 SN  2
 ID  AICAR transformylase
@@ -24,7 +22,6 @@ DN  AICAR transformylase (EC 2.1.2.3)
 RQ  1
 EV  IPR002695; PF01808; sufficient;
 EV  IPR002695; TIGR00355; sufficient;
-EV  IPR011607; PF02142; sufficient;
 --
 SN  3
 ID  IMP cyclohydrolase
@@ -32,7 +29,6 @@ DN  IMP cyclohydrolase (EC 3.5.4.10)
 RQ  1
 EV  IPR002695; PF01808; sufficient;
 EV  IPR002695; TIGR00355; sufficient;
-EV  IPR011607; PF02142; sufficient;
 --
 SN  4
 ID  5-(Carboxyamino)imidazole ribonucleotide synthase
@@ -53,5 +49,4 @@ ID  Phosphoribosylaminoimidazole-succinocarboxamide synthase
 DN  Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
 RQ  1
 EV  IPR001636; TIGR00081; sufficient;
-EV  IPR028923; PF01259; sufficient;
 //

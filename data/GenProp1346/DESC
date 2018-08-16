@@ -14,9 +14,7 @@ SN  1
 ID  Glutathione hydrolase
 DN  Glutathione hydrolase (EC 3.4.19.13)
 RQ  1
-EV  IPR001680; PF00400; sufficient;
 EV  IPR002933; PF01546; sufficient;
-EV  IPR011650; PF07687; sufficient;
 EV  IPR026869; PF13230; sufficient;
 EV  IPR000101; PF01019; sufficient;
 EV  IPR000101; TIGR00066; sufficient;
@@ -26,5 +24,4 @@ ID  Cysteinylglycine dipeptidase
 DN  Cysteinylglycine dipeptidase (EC 3.4.13.18)
 RQ  1
 EV  IPR002933; PF01546; sufficient;
-EV  IPR011650; PF07687; sufficient;
 //

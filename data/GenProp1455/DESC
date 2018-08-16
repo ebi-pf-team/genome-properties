@@ -22,7 +22,6 @@ SN  2
 ID  Dolichyl-phosphate mannose synthase
 DN  Dolichyl-phosphate mannose synthase (EC 2.4.1.83)
 RQ  1
-EV  IPR001173; PF00535; sufficient;
 EV  IPR009914; PF07297; sufficient;
 EV  IPR013174; PF08285; sufficient;
 --

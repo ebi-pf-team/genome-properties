@@ -15,7 +15,6 @@ ID  Allantoicase
 DN  Allantoicase (EC 3.5.3.4)
 RQ  1
 EV  IPR005164; TIGR02961; sufficient;
-EV  IPR015908; PF03561; sufficient;
 --
 SN  2
 ID  Ureidoglycolate urea-lyase

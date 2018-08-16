@@ -15,16 +15,12 @@ ID  Cardiolipin synthase
 DN  Cardiolipin synthase (EC 2.7.8)
 RQ  1
 EV  IPR022924; TIGR04265; sufficient;
-EV  IPR025202; PF13091; sufficient;
-EV  IPR027379; PF13396; sufficient;
 --
 SN  2
 ID  Phosphatidylglycerolphosphate phosphatase
 DN  Phosphatidylglycerolphosphate phosphatase (EC 3.1.3.27)
 RQ  1
-EV  IPR000326; PF01569; sufficient;
 EV  IPR006435; TIGR01545; sufficient;
-EV  IPR007686; PF04608; sufficient;
 --
 SN  3
 ID  Phosphatidylglycerolphosphate synthase

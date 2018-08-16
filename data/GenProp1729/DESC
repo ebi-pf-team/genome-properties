@@ -14,14 +14,9 @@ SN  1
 ID  Glycerol-3-phosphate dehydrogenase, anaerobic
 DN  Glycerol-3-phosphate dehydrogenase, anaerobic (EC 1.1.5.3)
 RQ  1
-EV  IPR006076; PF01266; sufficient;
-EV  IPR007419; PF04324; sufficient;
 EV  IPR017752; TIGR03377; sufficient;
-EV  IPR003953; PF00890; sufficient;
 EV  IPR009158; TIGR03378; sufficient;
-EV  IPR004017; PF02754; sufficient;
 EV  IPR017753; TIGR03379; sufficient;
-EV  IPR017896; PF13183; sufficient;
 --
 SN  2
 ID  Cytochrome c peroxidase

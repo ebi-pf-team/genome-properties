@@ -14,13 +14,7 @@ SN  1
 ID  Glutamate synthase
 DN  Glutamate synthase (EC 1.4.1.14)
 RQ  1
-EV  IPR002489; PF01493; sufficient;
-EV  IPR002932; PF01645; sufficient;
 EV  IPR006005; TIGR01317; sufficient;
-EV  IPR006982; PF04898; sufficient;
-EV  IPR017932; PF00310; sufficient;
-EV  IPR023753; PF07992; sufficient;
-EV  IPR028261; PF14691; sufficient;
 --
 SN  2
 ID  Glutamine synthetase

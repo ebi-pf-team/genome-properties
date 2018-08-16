@@ -16,15 +16,10 @@ DN  DGDP kinase (EC 2.7.4.6)
 RQ  1
 EV  IPR001564; PF00334; sufficient;
 EV  IPR006259; TIGR01351; sufficient;
-EV  IPR007862; PF05191; sufficient;
 --
 SN  2
 ID  GDP reductase
 DN  GDP reductase (EC 1.17.4.1)
 RQ  1
-EV  IPR000788; PF02867; sufficient;
-EV  IPR005144; PF03477; sufficient;
-EV  IPR013346; TIGR02506; sufficient;
-EV  IPR013509; PF00317; sufficient;
 EV  IPR000358; PF00268; sufficient;
 //

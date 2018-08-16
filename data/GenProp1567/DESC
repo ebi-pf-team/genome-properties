@@ -15,8 +15,6 @@ ID  Glycerol kinase
 DN  Glycerol kinase (EC 2.7.1.30)
 RQ  1
 EV  IPR005999; TIGR01311; sufficient;
-EV  IPR018484; PF00370; sufficient;
-EV  IPR018485; PF02782; sufficient;
 --
 SN  2
 ID  Glycerol-3-phosphate dehydrogenase

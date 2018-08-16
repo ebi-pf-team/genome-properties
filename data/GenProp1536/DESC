@@ -14,17 +14,12 @@ SN  1
 ID  Dihydrolipoamide dehydrogenase
 DN  Dihydrolipoamide dehydrogenase (EC 1.8.1.4)
 RQ  1
-EV  IPR004099; PF02852; sufficient;
 EV  IPR006258; TIGR01350; sufficient;
-EV  IPR023753; PF07992; sufficient;
 --
 SN  2
 ID  Dihydrolipoyllysine-residue acetyltransferase
 DN  Dihydrolipoyllysine-residue acetyltransferase (EC 2.3.1.12)
 RQ  1
-EV  IPR000089; PF00364; sufficient;
-EV  IPR001078; PF00198; sufficient;
-EV  IPR004167; PF02817; sufficient;
 EV  IPR006256; TIGR01348; sufficient;
 EV  IPR006257; TIGR01349; sufficient;
 --
@@ -33,9 +28,5 @@ ID  Pyruvate dehydrogenase
 DN  Pyruvate dehydrogenase (EC 1.2.4.1)
 RQ  1
 EV  IPR004660; TIGR00759; sufficient;
-EV  IPR005474; PF00456; sufficient;
-EV  IPR001017; PF00676; sufficient;
 EV  IPR017597; TIGR03182; sufficient;
-EV  IPR005475; PF02779; sufficient;
-EV  IPR033248; PF02780; sufficient;
 //

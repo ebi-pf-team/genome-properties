@@ -21,16 +21,12 @@ ID  Glyceraldehyde-3-phosphate dehydrogenase
 DN  Glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
 RQ  1
 EV  IPR006424; TIGR01534; sufficient;
-EV  IPR020828; PF00044; sufficient;
-EV  IPR020829; PF02800; sufficient;
 --
 SN  3
 ID  Glucose-6-phosphate dehydrogenase
 DN  Glucose-6-phosphate dehydrogenase (EC 1.1.1.49)
 RQ  1
 EV  IPR001282; TIGR00871; sufficient;
-EV  IPR022674; PF00479; sufficient;
-EV  IPR022675; PF02781; sufficient;
 --
 SN  4
 ID  2-Dehydro-3-deoxy-phosphogluconate aldolase

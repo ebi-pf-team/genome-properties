@@ -21,6 +21,4 @@ ID  D-xylulokinase
 DN  D-xylulokinase (EC 2.7.1.17)
 RQ  1
 EV  IPR006000; TIGR01312; sufficient;
-EV  IPR018484; PF00370; sufficient;
-EV  IPR018485; PF02782; sufficient;
 //

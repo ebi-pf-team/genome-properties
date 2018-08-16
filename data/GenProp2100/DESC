@@ -50,7 +50,6 @@ EV  IPR002822; MF_01074; sufficient;
 EV  IPR002822; PF01969; sufficient;
 EV  IPR002822; PTHR36566; sufficient;
 EV  IPR002822; TIGR00299; sufficient;
-TG  
 --
 SN  4
 ID  Lactate racemase (LarA)

@@ -23,8 +23,5 @@ SN  2
 ID  Trehalose-6-phosphate hydrolase
 DN  Trehalose-6-phosphate hydrolase (EC 3.2.1.93)
 RQ  1
-EV  IPR006047; PF00128; sufficient;
 EV  IPR012769; TIGR02403; sufficient;
-EV  IPR032091; PF16657; sufficient;
-EV  IPR022567; PF11941; sufficient;
 //

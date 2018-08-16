@@ -32,19 +32,4 @@ ID  Acetyl-CoA:ACP transacylase
 DN  Acetyl-CoA:ACP transacylase (EC 2.3.1.86)
 RQ  1
 EV  IPR004655; TIGR00747; sufficient;
-EV  IPR013747; PF08541; sufficient;
-EV  IPR013751; PF08545; sufficient;
-EV  IPR001031; PF00975; sufficient;
-EV  IPR009081; PF00550; sufficient;
-EV  IPR013149; PF00107; sufficient;
-EV  IPR013217; PF08242; sufficient;
-EV  IPR013968; PF08659; sufficient;
-EV  IPR014030; PF00109; sufficient;
-EV  IPR014031; PF02801; sufficient;
-EV  IPR014043; PF00698; sufficient;
-EV  IPR020807; PF14765; sufficient;
-EV  IPR032821; PF16197; sufficient;
-EV  IPR002539; PF01575; sufficient;
-EV  IPR013565; PF08354; sufficient;
-EV  IPR032088; PF16073; sufficient;
 //

@@ -14,8 +14,6 @@ SN  1
 ID  D-galactarate dehydratase
 DN  D-galactarate dehydratase (EC 4.2.1.42)
 RQ  1
-EV  IPR007392; PF04295; sufficient;
-EV  IPR013974; PF08666; sufficient;
 EV  IPR017654; TIGR03248; sufficient;
 --
 SN  2
@@ -29,14 +27,11 @@ SN  3
 ID  Alpha-dehydro-beta-deoxy-D-glucarate aldolase
 DN  Alpha-dehydro-beta-deoxy-D-glucarate aldolase (EC 4.1.2.20)
 RQ  1
-EV  IPR005000; PF03328; sufficient;
 EV  IPR017648; TIGR03239; sufficient;
 --
 SN  4
 ID  Tartronate semialdehyde reductase
 DN  Tartronate semialdehyde reductase (EC 1.1.1.60)
 RQ  1
-EV  IPR006115; PF03446; sufficient;
 EV  IPR006398; TIGR01505; sufficient;
-EV  IPR029154; PF14833; sufficient;
 //

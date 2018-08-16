@@ -14,7 +14,6 @@ SN  1
 ID  Phosphoadenosine phosphosulfate reductase
 DN  Phosphoadenosine phosphosulfate reductase (EC 1.8.4.8)
 RQ  1
-EV  IPR002500; PF01507; sufficient;
 EV  IPR004511; TIGR00434; sufficient;
 EV  IPR011800; TIGR02057; sufficient;
 --
@@ -28,11 +27,6 @@ SN  3
 ID  Assimilatory sulfite reductase (NADPH)
 DN  Assimilatory sulfite reductase (NADPH) (EC 1.8.1.2)
 RQ  1
-EV  IPR001433; PF00175; sufficient;
-EV  IPR003097; PF00667; sufficient;
-EV  IPR008254; PF00258; sufficient;
 EV  IPR010199; TIGR01931; sufficient;
-EV  IPR005117; PF03460; sufficient;
-EV  IPR006067; PF01077; sufficient;
 EV  IPR011786; TIGR02041; sufficient;
 //

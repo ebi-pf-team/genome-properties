@@ -14,9 +14,7 @@ SN  1
 ID  Deoxycytidine deaminase
 DN  Deoxycytidine deaminase (EC 3.5.4.5)
 RQ  1
-EV  IPR002125; PF00383; sufficient;
 EV  IPR006263; TIGR01355; sufficient;
-EV  IPR013171; PF08211; sufficient;
 EV  IPR006262; TIGR01354; sufficient;
 --
 SN  2
@@ -29,14 +27,12 @@ SN  3
 ID  2'-Deoxyuridine kinase
 DN  2'-Deoxyuridine kinase (EC 2.7.1.145)
 RQ  1
-EV  IPR031314; PF01712; sufficient;
 EV  IPR001267; PF00265; sufficient;
 --
 SN  4
 ID  Thymidine kinase
 DN  Thymidine kinase (EC 2.7.1.21)
 RQ  1
-EV  IPR031314; PF01712; sufficient;
 EV  IPR001267; PF00265; sufficient;
 --
 SN  5
@@ -44,6 +40,4 @@ ID  Thymidylate synthase
 DN  Thymidylate synthase (EC 2.1.1.45)
 RQ  1
 EV  IPR000398; TIGR03284; sufficient;
-EV  IPR023451; PF00303; sufficient;
-EV  IPR001796; PF00186; sufficient;
 //

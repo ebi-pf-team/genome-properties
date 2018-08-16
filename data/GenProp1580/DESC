@@ -14,7 +14,6 @@ SN  1
 ID  6-Phosphofructokinase
 DN  6-Phosphofructokinase (EC 2.7.1.11)
 RQ  1
-EV  IPR000023; PF00365; sufficient;
 EV  IPR009161; TIGR02478; sufficient;
 --
 SN  2
@@ -28,17 +27,13 @@ SN  3
 ID  L-lactate dehydrogenase
 DN  L-lactate dehydrogenase (EC 1.1.1.27)
 RQ  1
-EV  IPR001236; PF00056; sufficient;
 EV  IPR011304; TIGR01771; sufficient;
-EV  IPR022383; PF02866; sufficient;
 --
 SN  4
 ID  Pyruvate kinase
 DN  Pyruvate kinase (EC 2.7.1.40)
 RQ  1
 EV  IPR001697; TIGR01064; sufficient;
-EV  IPR015793; PF00224; sufficient;
-EV  IPR015795; PF02887; sufficient;
 --
 SN  5
 ID  Glucose-6-phosphate isomerase

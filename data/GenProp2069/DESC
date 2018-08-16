@@ -4,7 +4,7 @@ TP  COMPLEX
 AU  Rawlings ND
 TH  2
 RN  [1]
-RM  20200153 
+RM  20200153
 RT  The THAP-zinc finger protein THAP1 associates with 
 RT  coactivator HCF-1 and O-GlcNAc transferase: a link 
 RT  between DYT6 and DYT3 dystonias. 
@@ -16,7 +16,8 @@ CC  THAP1/THAP3-HCFC1-OGT complex is required for the
 CC  regulation of the transcriptional activity of RRM1.  
 CC  The complex contains either THAP1 or THAP3, HCFC1 and 
 CC  OGT.
-**  Evidence for step 2 is also used for GP2059, GP2061, GP2063, GP2067 and GP2068
+**  Evidence for step 2 is also used for GP2059, GP2061, GP2063, 
+**  GP2067 and GP2068
 **  Evidence for step 3 is also used for GP2063 and GP2068.
 **  Threshold is therefore set to 2.
 --

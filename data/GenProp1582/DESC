@@ -15,23 +15,14 @@ ID  Menaquinone hydrogenase (acceptor)
 DN  Menaquinone hydrogenase (acceptor) (EC 1.12.99.6)
 RQ  1
 EV  IPR005614; PF03916; sufficient;
-EV  IPR017896; PF13247; sufficient;
-EV  IPR019546; TIGR01409; sufficient;
-EV  IPR001501; PF00374; sufficient;
 EV  IPR001821; TIGR00391; sufficient;
-EV  IPR006137; PF01058; sufficient;
-EV  IPR027394; PF14720; sufficient;
 EV  IPR000516; TIGR02125; sufficient;
-EV  IPR011577; PF01292; sufficient;
 --
 SN  2
 ID  Trimethylamine-N-oxide reductase (menaquinone)
 DN  Trimethylamine-N-oxide reductase (menaquinone) (EC 1.7.2.3)
 RQ  1
-EV  IPR005126; PF03264; sufficient;
 EV  IPR009154; TIGR02162; sufficient;
-EV  IPR006656; PF00384; sufficient;
-EV  IPR006657; PF01568; sufficient;
 EV  IPR006658; TIGR00509; sufficient;
 EV  IPR011887; TIGR02164; sufficient;
 //

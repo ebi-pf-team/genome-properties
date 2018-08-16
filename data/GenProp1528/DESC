@@ -14,14 +14,12 @@ SN  1
 ID  Guanine phosphoribosyltransferase
 DN  Guanine phosphoribosyltransferase (EC 2.4.2.8)
 RQ  1
-EV  IPR000836; PF00156; sufficient;
 EV  IPR005904; TIGR01203; sufficient;
 --
 SN  2
 ID  Guanosine phosphorylase
 DN  Guanosine phosphorylase (EC 2.4.2.15)
 RQ  1
-EV  IPR000845; PF01048; sufficient;
 EV  IPR011268; TIGR01697; sufficient;
 EV  IPR011270; TIGR01700; sufficient;
 EV  IPR010943; TIGR01699; sufficient;

@@ -21,26 +21,17 @@ SN  2
 ID  Glycolate oxidase
 DN  Glycolate oxidase (EC 1.1.99.14)
 RQ  1
-EV  IPR006094; PF01565; sufficient;
-EV  IPR004113; PF02913; sufficient;
 EV  IPR004490; TIGR00387; sufficient;
-EV  IPR004017; PF02754; sufficient;
-EV  IPR017896; PF13183; sufficient;
 --
 SN  3
 ID  Glyoxylate carboligase
 DN  Glyoxylate carboligase (EC 4.1.1.47)
 RQ  1
 EV  IPR006397; TIGR01504; sufficient;
-EV  IPR011766; PF02775; sufficient;
-EV  IPR012000; PF00205; sufficient;
-EV  IPR012001; PF02776; sufficient;
 --
 SN  4
 ID  Tartronate semialdehyde reductase
 DN  Tartronate semialdehyde reductase (EC 1.1.1)
 RQ  1
-EV  IPR006115; PF03446; sufficient;
 EV  IPR006398; TIGR01505; sufficient;
-EV  IPR029154; PF14833; sufficient;
 //

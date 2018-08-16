@@ -29,7 +29,6 @@ DN  TusA:TusD sulfurtransferase (EC 2.8.1)
 RQ  1
 EV  IPR007215; PF04077; sufficient;
 EV  IPR007215; TIGR03011; sufficient;
-EV  IPR003787; PF02635; sufficient;
 EV  IPR017462; TIGR03010; sufficient;
 EV  IPR017463; TIGR03012; sufficient;
 --
@@ -39,12 +38,7 @@ DN  5-Carboxymethylaminomethyluridine-tRNA synthase
 RQ  1
 EV  IPR002218; PF01134; sufficient;
 EV  IPR004416; TIGR00136; sufficient;
-EV  IPR026904; PF13932; sufficient;
 EV  IPR004520; TIGR00450; sufficient;
-EV  IPR005225; TIGR00231; sufficient;
-EV  IPR006073; PF01926; sufficient;
-EV  IPR018948; PF10396; sufficient;
-EV  IPR025867; PF12631; sufficient;
 --
 SN  5
 ID  tRNA-specific 2-thiouridylase
@@ -56,7 +50,6 @@ SN  6
 ID  Cysteine desulfurase
 DN  Cysteine desulfurase
 RQ  1
-EV  IPR000192; PF00266; sufficient;
 EV  IPR010240; TIGR02006; sufficient;
 --
 SN  7

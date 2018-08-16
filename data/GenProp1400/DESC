@@ -15,14 +15,11 @@ ID  Epoxyqueuosine reductase
 DN  Epoxyqueuosine reductase (EC 1.17.99.6)
 RQ  1
 EV  IPR004453; TIGR00276; sufficient;
-EV  IPR013542; PF08331; sufficient;
 --
 SN  2
 ID  tRNA-guanine transglycosylase
 DN  tRNA-guanine transglycosylase (EC 2.4.2.29)
 RQ  1
-EV  IPR002616; PF01702; sufficient;
-EV  IPR002616; TIGR00449; sufficient;
 EV  IPR004803; TIGR00430; sufficient;
 --
 SN  3
@@ -37,6 +34,5 @@ ID  7-Cyano-7-deazaguanine reductase
 DN  7-Cyano-7-deazaguanine reductase (EC 1.7.1.13)
 RQ  1
 EV  IPR016428; TIGR03138; sufficient;
-EV  IPR029139; PF14819; sufficient;
 EV  IPR029500; PF14489; sufficient;
 //

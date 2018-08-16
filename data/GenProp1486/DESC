@@ -21,7 +21,5 @@ ID  Delta3-cis-Delta2-trans-enoyl-CoA isomerase
 DN  Delta3-cis-Delta2-trans-enoyl-CoA isomerase (EC 5.3.3.8)
 RQ  1
 EV  IPR001753; PF00378; sufficient;
-EV  IPR006108; PF00725; sufficient;
-EV  IPR006176; PF02737; sufficient;
 EV  IPR012799; TIGR02437; sufficient;
 //

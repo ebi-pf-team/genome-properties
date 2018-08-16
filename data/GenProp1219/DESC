@@ -15,13 +15,10 @@ ID  Thiamine-monophosphate kinase
 DN  Thiamine-monophosphate kinase (EC 2.7.4.16)
 RQ  1
 EV  IPR006283; TIGR01379; sufficient;
-EV  IPR010918; PF02769; sufficient;
-EV  IPR016188; PF00586; sufficient;
 --
 SN  2
 ID  Thiamine kinase
 DN  Thiamine kinase (EC 2.7.1.89)
 RQ  1
-EV  IPR002575; PF01636; sufficient;
 EV  IPR014093; TIGR02721; sufficient;
 //

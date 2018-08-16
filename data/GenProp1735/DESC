@@ -14,12 +14,7 @@ SN  1
 ID  7-Cyano-7-deazaguanine tRNA-ribosyltransferase
 DN  7-Cyano-7-deazaguanine tRNA-ribosyltransferase (EC 2.4.2.48)
 RQ  1
-EV  IPR002478; PF01472; sufficient;
-EV  IPR002616; PF01702; sufficient;
-EV  IPR002616; TIGR00449; sufficient;
-EV  IPR004521; TIGR00451; sufficient;
 EV  IPR004804; TIGR00432; sufficient;
-EV  IPR029402; PF14810; sufficient;
 --
 SN  2
 ID  Archaeosine synthase

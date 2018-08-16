@@ -15,14 +15,10 @@ ID  Acetoacetyl-CoA transferase
 DN  Acetoacetyl-CoA transferase (EC 2.8.3.9)
 RQ  1
 EV  IPR004165; PF01144; sufficient;
-EV  IPR012791; TIGR02428; sufficient;
-EV  IPR012792; TIGR02429; sufficient;
 --
 SN  2
 ID  Acetoacetyl-CoA thiolase
 DN  Acetoacetyl-CoA thiolase (EC 2.3.1.9)
 RQ  1
 EV  IPR002155; TIGR01930; sufficient;
-EV  IPR020616; PF00108; sufficient;
-EV  IPR020617; PF02803; sufficient;
 //

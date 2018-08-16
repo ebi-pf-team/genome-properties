@@ -15,38 +15,25 @@ ID  GDP kinase
 DN  GDP kinase (EC 2.7.4.6)
 RQ  1
 EV  IPR006259; TIGR01351; sufficient;
-EV  IPR007862; PF05191; sufficient;
 EV  IPR001564; PF00334; sufficient;
 --
 SN  2
 ID  GDP diphosphokinase
 DN  GDP diphosphokinase (EC 2.7.6.5)
 RQ  1
-EV  IPR002912; PF13291; sufficient;
-EV  IPR003607; PF13328; sufficient;
-EV  IPR004095; PF02824; sufficient;
 EV  IPR004811; TIGR00691; sufficient;
-EV  IPR007685; PF04607; sufficient;
 --
 SN  3
 ID  GTP pyrophosphokinase
 DN  GTP pyrophosphokinase (EC 2.7.6.5)
 RQ  1
-EV  IPR002912; PF13291; sufficient;
-EV  IPR003607; PF13328; sufficient;
-EV  IPR004095; PF02824; sufficient;
 EV  IPR004811; TIGR00691; sufficient;
-EV  IPR007685; PF04607; sufficient;
 --
 SN  4
 ID  Guanosine-3',5'-bis(diphosphate) 3'-diphosphatase
 DN  Guanosine-3',5'-bis(diphosphate) 3'-diphosphatase (EC 3.1.7.2)
 RQ  1
-EV  IPR002912; PF13291; sufficient;
-EV  IPR003607; PF13328; sufficient;
-EV  IPR004095; PF02824; sufficient;
 EV  IPR004811; TIGR00691; sufficient;
-EV  IPR007685; PF04607; sufficient;
 --
 SN  5
 ID  Guanosine-5'-triphosphate,3'-diphosphate phosphatase
@@ -58,9 +45,5 @@ SN  6
 ID  Guanosine 3'-diphosphate 5'-triphosphate 3'-diphosphatase
 DN  Guanosine 3'-diphosphate 5'-triphosphate 3'-diphosphatase (EC 3.1.7.2)
 RQ  1
-EV  IPR002912; PF13291; sufficient;
-EV  IPR003607; PF13328; sufficient;
-EV  IPR004095; PF02824; sufficient;
 EV  IPR004811; TIGR00691; sufficient;
-EV  IPR007685; PF04607; sufficient;
 //

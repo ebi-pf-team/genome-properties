@@ -32,16 +32,12 @@ SN  4
 ID  L-serine beta-synthase
 DN  L-serine beta-synthase (EC 4.2.1.22)
 RQ  1
-EV  IPR000644; PF00571; sufficient;
-EV  IPR001926; PF00291; sufficient;
 EV  IPR005857; TIGR01137; sufficient;
 --
 SN  5
 ID  Lanthionine beta-synthase
 DN  Lanthionine beta-synthase (EC 4.2.1.22)
 RQ  1
-EV  IPR000644; PF00571; sufficient;
-EV  IPR001926; PF00291; sufficient;
 EV  IPR005857; TIGR01137; sufficient;
 EV  IPR000277; PF01053; sufficient;
 --
@@ -49,8 +45,6 @@ SN  6
 ID  L-cystathionine synthase
 DN  L-cystathionine synthase (EC 4.2.1.22)
 RQ  1
-EV  IPR000644; PF00571; sufficient;
-EV  IPR001926; PF00291; sufficient;
 EV  IPR005857; TIGR01137; sufficient;
 EV  IPR000277; PF01053; sufficient;
 //

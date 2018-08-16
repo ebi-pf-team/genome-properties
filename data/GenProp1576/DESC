@@ -14,9 +14,7 @@ SN  1
 ID  Cytidine deaminase
 DN  Cytidine deaminase (EC 3.5.4.5)
 RQ  1
-EV  IPR002125; PF00383; sufficient;
 EV  IPR006263; TIGR01355; sufficient;
-EV  IPR013171; PF08211; sufficient;
 EV  IPR006262; TIGR01354; sufficient;
 --
 SN  2
@@ -24,7 +22,6 @@ ID  Uridine phosphorylase
 DN  Uridine phosphorylase (EC 2.4.2.3)
 RQ  1
 EV  IPR009664; PF06865; sufficient;
-EV  IPR000845; PF01048; sufficient;
 EV  IPR010059; TIGR01719; sufficient;
 EV  IPR010058; TIGR01718; sufficient;
 //

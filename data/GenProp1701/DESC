@@ -15,16 +15,12 @@ ID  Glutamyl-tRNAGlu synthetase
 DN  Glutamyl-tRNAGlu synthetase (EC 6.1.1.17)
 RQ  1
 EV  IPR004527; TIGR00464; sufficient;
-EV  IPR020058; PF00749; sufficient;
 --
 SN  2
 ID  Glutamyl-tRNA reductase
 DN  Glutamyl-tRNA reductase (EC 1.2.1.70)
 RQ  1
 EV  IPR000343; TIGR01035; sufficient;
-EV  IPR006151; PF01488; sufficient;
-EV  IPR015895; PF05201; sufficient;
-EV  IPR015896; PF00745; sufficient;
 --
 SN  3
 ID  Glutamate-1-semialdehyde 2,1-aminomutase
@@ -38,8 +34,6 @@ ID  Porphobilinogen deaminase
 DN  Porphobilinogen deaminase (EC 2.5.1.61)
 RQ  1
 EV  IPR000860; TIGR00212; sufficient;
-EV  IPR022417; PF01379; sufficient;
-EV  IPR022418; PF03900; sufficient;
 --
 SN  5
 ID  Porphobilinogen synthase

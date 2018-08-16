@@ -22,8 +22,4 @@ ID  Aminodeoxychorismate synthase
 DN  Aminodeoxychorismate synthase (EC 2.6.1.85)
 RQ  1
 EV  IPR005802; TIGR00553; sufficient;
-EV  IPR006805; PF04715; sufficient;
-EV  IPR015890; PF00425; sufficient;
-EV  IPR017926; PF00117; sufficient;
-EV  IPR006221; TIGR00566; sufficient;
 //

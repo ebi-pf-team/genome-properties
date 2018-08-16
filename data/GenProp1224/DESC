@@ -14,15 +14,11 @@ SN  1
 ID  Lipoate-ATP adenylate transferase
 DN  Lipoate-ATP adenylate transferase
 RQ  1
-EV  IPR004143; PF03099; sufficient;
 EV  IPR004562; TIGR00545; sufficient;
-EV  IPR019491; PF10437; sufficient;
 --
 SN  2
 ID  Lipoate-protein ligase
 DN  Lipoate-protein ligase
 RQ  1
-EV  IPR004143; PF03099; sufficient;
 EV  IPR004562; TIGR00545; sufficient;
-EV  IPR019491; PF10437; sufficient;
 //

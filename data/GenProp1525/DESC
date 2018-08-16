@@ -23,8 +23,6 @@ ID  Porphobilinogen deaminase
 DN  Porphobilinogen deaminase (EC 2.5.1.61)
 RQ  1
 EV  IPR000860; TIGR00212; sufficient;
-EV  IPR022417; PF01379; sufficient;
-EV  IPR022418; PF03900; sufficient;
 --
 SN  3
 ID  Porphobilinogen synthase

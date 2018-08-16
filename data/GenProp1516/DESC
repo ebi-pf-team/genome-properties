@@ -15,19 +15,16 @@ ID  Phosphatidylethanolamine N-methyltransferase
 DN  Phosphatidylethanolamine N-methyltransferase (EC 2.1.1.17)
 RQ  1
 EV  IPR007318; PF04191; sufficient;
-EV  IPR013216; PF08241; sufficient;
 --
 SN  2
 ID  Phosphatidyl-N-methylethanolamine N-methyltransferase
 DN  Phosphatidyl-N-methylethanolamine N-methyltransferase (EC 2.1.1.71)
 RQ  1
 EV  IPR007318; PF04191; sufficient;
-EV  IPR013216; PF08241; sufficient;
 --
 SN  3
 ID  Phosphatidyl-N-dimethylethanolamine N-methyltransferase
 DN  Phosphatidyl-N-dimethylethanolamine N-methyltransferase (EC 2.1.1.71)
 RQ  1
 EV  IPR007318; PF04191; sufficient;
-EV  IPR013216; PF08241; sufficient;
 //

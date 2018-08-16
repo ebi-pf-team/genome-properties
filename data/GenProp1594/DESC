@@ -21,8 +21,6 @@ ID  2,3-Oxidosqualene-lanosterol cyclase
 DN  2,3-Oxidosqualene-lanosterol cyclase (EC 5.4.99.7)
 RQ  1
 EV  IPR018333; TIGR01787; sufficient;
-EV  IPR032696; PF13243; sufficient;
-EV  IPR032697; PF13249; sufficient;
 --
 SN  3
 ID  Squalene synthase

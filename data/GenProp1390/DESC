@@ -20,7 +20,5 @@ SN  2
 ID  Choline dehydrogenase
 DN  Choline dehydrogenase (EC 1.1.99.1)
 RQ  1
-EV  IPR000172; PF00732; sufficient;
-EV  IPR007867; PF05199; sufficient;
 EV  IPR011533; TIGR01810; sufficient;
 //

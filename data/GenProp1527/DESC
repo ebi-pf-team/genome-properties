@@ -14,8 +14,6 @@ SN  1
 ID  Myo-inositol 2-dehydrogenase
 DN  Myo-inositol 2-dehydrogenase (EC 1.1.1.18)
 RQ  1
-EV  IPR000683; PF01408; sufficient;
-EV  IPR004104; PF02894; sufficient;
 EV  IPR030827; TIGR04380; sufficient;
 --
 SN  2

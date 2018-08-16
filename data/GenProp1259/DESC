@@ -15,10 +15,6 @@ ID  Amylo-alpha-1,6-glucosidase
 DN  Amylo-alpha-1,6-glucosidase (EC 3.2.1.33)
 RQ  1
 EV  IPR006421; TIGR01531; sufficient;
-EV  IPR029436; PF14699; sufficient;
-EV  IPR032788; PF14702; sufficient;
-EV  IPR032790; PF06202; sufficient;
-EV  IPR032792; PF14701; sufficient;
 --
 SN  2
 ID  Glycogen phosphorylase
@@ -41,10 +37,6 @@ ID  4-Alpha-glucanotransferase
 DN  4-Alpha-glucanotransferase (EC 2.4.1.25)
 RQ  1
 EV  IPR006421; TIGR01531; sufficient;
-EV  IPR029436; PF14699; sufficient;
-EV  IPR032788; PF14702; sufficient;
-EV  IPR032790; PF06202; sufficient;
-EV  IPR032792; PF14701; sufficient;
 --
 SN  5
 ID  Glucan 1,4-alpha-glucosidase

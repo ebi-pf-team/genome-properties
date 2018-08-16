@@ -14,7 +14,6 @@ SN  1
 ID  Carbamate kinase
 DN  Carbamate kinase (EC 2.7.2.2)
 RQ  1
-EV  IPR001048; PF00696; sufficient;
 EV  IPR003964; TIGR00746; sufficient;
 --
 SN  2
@@ -22,6 +21,4 @@ ID  Ornithine carbamoyltransferase
 DN  Ornithine carbamoyltransferase (EC 2.1.3.3)
 RQ  1
 EV  IPR002292; TIGR00658; sufficient;
-EV  IPR006131; PF00185; sufficient;
-EV  IPR006132; PF02729; sufficient;
 //

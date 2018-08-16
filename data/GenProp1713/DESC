@@ -15,22 +15,16 @@ ID  UDP-4-keto-rhamnose-4-keto-reductase
 DN  UDP-4-keto-rhamnose-4-keto-reductase (EC 1.1.1)
 RQ  1
 EV  IPR005888; TIGR01181; sufficient;
-EV  IPR016040; PF16363; sufficient;
-EV  IPR029903; PF04321; sufficient;
 --
 SN  2
 ID  UDP-4-dehydro-6-deoxy-alpha-D-glucose 3,5-epimerase
 DN  UDP-4-dehydro-6-deoxy-alpha-D-glucose 3,5-epimerase (EC 5.1.3)
 RQ  1
 EV  IPR005888; TIGR01181; sufficient;
-EV  IPR016040; PF16363; sufficient;
-EV  IPR029903; PF04321; sufficient;
 --
 SN  3
 ID  UDP-glucose 4,6-dehydratase
 DN  UDP-glucose 4,6-dehydratase (EC 4.2.1.76)
 RQ  1
 EV  IPR005888; TIGR01181; sufficient;
-EV  IPR016040; PF16363; sufficient;
-EV  IPR029903; PF04321; sufficient;
 //

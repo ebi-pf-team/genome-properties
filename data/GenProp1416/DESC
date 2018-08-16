@@ -20,7 +20,5 @@ SN  2
 ID  Ureidoglycine aminohydrolase
 DN  Ureidoglycine aminohydrolase (EC 3.5.3.26)
 RQ  1
-EV  IPR008579; PF05899; sufficient;
-EV  IPR013096; PF07883; sufficient;
 EV  IPR017627; TIGR03214; sufficient;
 //

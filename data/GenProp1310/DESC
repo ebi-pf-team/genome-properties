@@ -22,26 +22,17 @@ ID  Galactokinase
 DN  Galactokinase (EC 2.7.1.6)
 RQ  1
 EV  IPR000705; TIGR00131; sufficient;
-EV  IPR006204; PF00288; sufficient;
-EV  IPR013750; PF08544; sufficient;
-EV  IPR019539; PF10509; sufficient;
 --
 SN  3
 ID  Galactose-1-phosphate uridylyltransferase
 DN  Galactose-1-phosphate uridylyltransferase (EC 2.7.7.12)
 RQ  1
 EV  IPR001937; TIGR00209; sufficient;
-EV  IPR005849; PF01087; sufficient;
-EV  IPR005850; PF02744; sufficient;
 --
 SN  4
 ID  Phosphoglucomutase
 DN  Phosphoglucomutase (EC 5.4.2.2)
 RQ  1
-EV  IPR005843; PF00408; sufficient;
-EV  IPR005844; PF02878; sufficient;
-EV  IPR005845; PF02879; sufficient;
-EV  IPR005846; PF02880; sufficient;
 EV  IPR005852; TIGR01132; sufficient;
 --
 SN  5
@@ -49,5 +40,4 @@ ID  UDP-galactose 4-epimerase
 DN  UDP-galactose 4-epimerase (EC 5.1.3.2)
 RQ  1
 EV  IPR005886; TIGR01179; sufficient;
-EV  IPR016040; PF16363; sufficient;
 //

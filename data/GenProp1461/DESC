@@ -14,17 +14,12 @@ SN  1
 ID  tRNA (carboxymethyluridine34-5-O)-methyltransferase
 DN  tRNA (carboxymethyluridine34-5-O)-methyltransferase (EC 2.1.1.229)
 RQ  1
-EV  IPR013216; PF08241; sufficient;
-EV  IPR015095; PF09004; sufficient;
-EV  IPR027450; PF13532; sufficient;
 EV  IPR005651; PF03966; sufficient;
 --
 SN  2
 ID  tRNA-5-(2-methoxy-2-oxoethyl)uridine 2-sulfurtransferase
 DN  tRNA-5-(2-methoxy-2-oxoethyl)uridine 2-sulfurtransferase (EC 2.8.1)
 RQ  1
-EV  IPR011063; PF01171; sufficient;
-EV  IPR032442; PF16503; sufficient;
 EV  IPR019407; PF10288; sufficient;
 --
 SN  3
@@ -58,6 +53,5 @@ SN  7
 ID  Cysteine desulfurase
 DN  Cysteine desulfurase
 RQ  1
-EV  IPR000192; PF00266; sufficient;
 EV  IPR010240; TIGR02006; sufficient;
 //

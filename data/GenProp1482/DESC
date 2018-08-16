@@ -14,13 +14,11 @@ SN  1
 ID  MTR kinase
 DN  MTR kinase (EC 2.7.1.100)
 RQ  1
-EV  IPR002575; PF01636; sufficient;
 EV  IPR009212; TIGR01767; sufficient;
 --
 SN  2
 ID  MTA nucleosidase
 DN  MTA nucleosidase (EC 3.2.2.16)
 RQ  1
-EV  IPR000845; PF01048; sufficient;
 EV  IPR010049; TIGR01704; sufficient;
 //

@@ -16,7 +16,6 @@ DN  Chorismate mutase (EC 5.4.99.5)
 RQ  1
 EV  IPR003099; PF02153; sufficient;
 EV  IPR011277; TIGR01799; sufficient;
-EV  IPR020822; PF01817; sufficient;
 EV  IPR001086; PF00800; sufficient;
 EV  IPR010952; TIGR01797; sufficient;
 --
@@ -26,7 +25,6 @@ DN  Prephenate dehydrogenase (EC 1.3.1.12)
 RQ  1
 EV  IPR003099; PF02153; sufficient;
 EV  IPR011277; TIGR01799; sufficient;
-EV  IPR020822; PF01817; sufficient;
 --
 SN  3
 ID  L-tyrosine:2-oxoglutarate aminotransferase

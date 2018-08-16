@@ -15,7 +15,6 @@ ID  N-acetylmannosamine kinase
 DN  N-acetylmannosamine kinase (EC 2.7.1.60)
 RQ  1
 EV  IPR000600; PF00480; sufficient;
-EV  IPR003331; PF02350; sufficient;
 EV  IPR020004; TIGR03568; sufficient;
 --
 SN  2
@@ -23,7 +22,6 @@ ID  UDP-N-acetylglucosamine 2-epimerase
 DN  UDP-N-acetylglucosamine 2-epimerase (EC 3.2.1.183)
 RQ  1
 EV  IPR000600; PF00480; sufficient;
-EV  IPR003331; PF02350; sufficient;
 EV  IPR020004; TIGR03568; sufficient;
 --
 SN  3
@@ -39,7 +37,6 @@ DN  N-acetylneuraminate-9-phosphate phosphatase (EC 3.1.3.29)
 RQ  1
 EV  IPR006439; TIGR01549; sufficient;
 EV  IPR011950; TIGR02253; sufficient;
-EV  IPR023214; PF13419; sufficient;
 --
 SN  5
 ID  Cytidine 5'-monophosphate N-acetylneuraminate synthetase

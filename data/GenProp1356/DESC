@@ -34,14 +34,9 @@ SN  4
 ID  Glycine decarboxylase
 DN  Glycine decarboxylase
 RQ  1
-EV  IPR004099; PF02852; sufficient;
 EV  IPR006258; TIGR01350; sufficient;
-EV  IPR023753; PF07992; sufficient;
 EV  IPR003437; TIGR00461; sufficient;
-EV  IPR020580; PF02347; sufficient;
-EV  IPR006222; PF01571; sufficient;
 EV  IPR006223; TIGR00528; sufficient;
-EV  IPR013977; PF08669; sufficient;
 EV  IPR002930; PF01597; sufficient;
 EV  IPR017453; TIGR00527; sufficient;
 --
@@ -55,11 +50,6 @@ SN  6
 ID  Methionine synthase
 DN  Methionine synthase (EC 2.1.1.13)
 RQ  1
-EV  IPR000489; PF00809; sufficient;
-EV  IPR003726; PF02574; sufficient;
-EV  IPR003759; PF02607; sufficient;
-EV  IPR004223; PF02965; sufficient;
-EV  IPR006158; PF02310; sufficient;
 EV  IPR011822; TIGR02082; sufficient;
 --
 SN  7
@@ -81,5 +71,4 @@ ID  Thymidylate synthase
 DN  Thymidylate synthase (EC 2.1.1.45)
 RQ  1
 EV  IPR000398; TIGR03284; sufficient;
-EV  IPR023451; PF00303; sufficient;
 //

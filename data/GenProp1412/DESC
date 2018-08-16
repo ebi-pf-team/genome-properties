@@ -35,10 +35,6 @@ SN  4
 ID  Phosphoglucomutase
 DN  Phosphoglucomutase (EC 5.4.2.2)
 RQ  1
-EV  IPR005843; PF00408; sufficient;
-EV  IPR005844; PF02878; sufficient;
-EV  IPR005845; PF02879; sufficient;
-EV  IPR005846; PF02880; sufficient;
 EV  IPR005852; TIGR01132; sufficient;
 --
 SN  5
@@ -52,8 +48,6 @@ SN  6
 ID  Limit dextrin alpha-1,6-glucohydrolase
 DN  Limit dextrin alpha-1,6-glucohydrolase (EC 3.2.1.196)
 RQ  1
-EV  IPR004193; PF02922; sufficient;
-EV  IPR006047; PF00128; sufficient;
 EV  IPR011837; TIGR02100; sufficient;
 --
 SN  7

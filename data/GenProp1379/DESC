@@ -14,10 +14,7 @@ SN  1
 ID  Acetyl CoA synthetase
 DN  Acetyl CoA synthetase (EC 6.2.1.1)
 RQ  1
-EV  IPR000873; PF00501; sufficient;
 EV  IPR011904; TIGR02188; sufficient;
-EV  IPR025110; PF13193; sufficient;
-EV  IPR032387; PF16177; sufficient;
 --
 SN  2
 ID  Ethanol peroxidase

@@ -14,7 +14,6 @@ SN  1
 ID  4-Hydroxyphenylpyruvate dioxygenase
 DN  4-Hydroxyphenylpyruvate dioxygenase (EC 1.13.11.27)
 RQ  1
-EV  IPR004360; PF00903; sufficient;
 EV  IPR005956; TIGR01263; sufficient;
 --
 SN  2
@@ -22,8 +21,6 @@ ID  Fumarylacetoacetate hydrolase
 DN  Fumarylacetoacetate hydrolase (EC 3.7.1.2)
 RQ  1
 EV  IPR005959; TIGR01266; sufficient;
-EV  IPR011234; PF01557; sufficient;
-EV  IPR015377; PF09298; sufficient;
 --
 SN  3
 ID  Homogentisate oxygenase
@@ -36,16 +33,12 @@ SN  4
 ID  Maleylacetoacetate isomerase
 DN  Maleylacetoacetate isomerase (EC 5.2.1.2)
 RQ  1
-EV  IPR004045; PF13417; sufficient;
-EV  IPR004046; PF14497; sufficient;
 EV  IPR005955; TIGR01262; sufficient;
 --
 SN  5
 ID  L-tyrosine:2-oxoglutarate aminotransferase
 DN  L-tyrosine:2-oxoglutarate aminotransferase (EC 2.6.1.5)
 RQ  1
-EV  IPR004839; PF00155; sufficient;
 EV  IPR005957; TIGR01264; sufficient;
 EV  IPR005958; TIGR01265; sufficient;
-EV  IPR011715; PF07706; sufficient;
 //

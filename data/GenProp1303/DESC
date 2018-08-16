@@ -15,12 +15,10 @@ ID  Glucosamine 6-phosphate isomerase
 DN  Glucosamine 6-phosphate isomerase (EC 3.5.99.6)
 RQ  1
 EV  IPR004547; TIGR00502; sufficient;
-EV  IPR006148; PF01182; sufficient;
 --
 SN  2
 ID  N-acetylglucosamine-6-phosphate deacetylase
 DN  N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)
 RQ  1
 EV  IPR003764; TIGR00221; sufficient;
-EV  IPR006680; PF01979; sufficient;
 //

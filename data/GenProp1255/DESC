@@ -14,7 +14,6 @@ SN  1
 ID  Adenosine deaminase
 DN  Adenosine deaminase (EC 3.5.4.4)
 RQ  1
-EV  IPR001365; PF00962; sufficient;
 EV  IPR006330; TIGR01430; sufficient;
 --
 SN  2
@@ -23,14 +22,11 @@ DN  5'-AMP nucleotidase (EC 3.1.3.5)
 RQ  1
 EV  IPR010394; PF06189; sufficient;
 EV  IPR001952; PF00245; sufficient;
-EV  IPR004843; PF00149; sufficient;
-EV  IPR008334; PF02872; sufficient;
 --
 SN  3
 ID  Inosine phosphorylase
 DN  Inosine phosphorylase (EC 2.4.2.1)
 RQ  1
-EV  IPR000845; PF01048; sufficient;
 EV  IPR011268; TIGR01697; sufficient;
 EV  IPR011270; TIGR01700; sufficient;
 EV  IPR010943; TIGR01699; sufficient;

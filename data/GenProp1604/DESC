@@ -15,35 +15,28 @@ ID  Pyridoxine-5'-phosphate oxidase
 DN  Pyridoxine-5'-phosphate oxidase (EC 1.4.3.5)
 RQ  1
 EV  IPR000659; TIGR00558; sufficient;
-EV  IPR011576; PF01243; sufficient;
-EV  IPR019576; PF10590; sufficient;
 --
 SN  2
 ID  Pyridoxal kinase
 DN  Pyridoxal kinase (EC 2.7.1.35)
 RQ  1
 EV  IPR004625; TIGR00687; sufficient;
-EV  IPR013749; PF08543; sufficient;
 --
 SN  3
 ID  Pyridoxine 5'-phosphate oxidase II
 DN  Pyridoxine 5'-phosphate oxidase II (EC 1.4.3.5)
 RQ  1
 EV  IPR000659; TIGR00558; sufficient;
-EV  IPR011576; PF01243; sufficient;
-EV  IPR019576; PF10590; sufficient;
 --
 SN  4
 ID  Pyridoxal kinase
 DN  Pyridoxal kinase (EC 2.7.1.35)
 RQ  1
 EV  IPR004625; TIGR00687; sufficient;
-EV  IPR013749; PF08543; sufficient;
 --
 SN  5
 ID  Pyridoxal kinase
 DN  Pyridoxal kinase (EC 2.7.1.35)
 RQ  1
 EV  IPR004625; TIGR00687; sufficient;
-EV  IPR013749; PF08543; sufficient;
 //

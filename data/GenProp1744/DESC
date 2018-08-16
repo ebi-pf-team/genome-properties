@@ -14,7 +14,6 @@ SN  1
 ID  2-Octaprenyl-6-methoxyphenol hydroxylase
 DN  2-Octaprenyl-6-methoxyphenol hydroxylase (EC 1.14.13.M56)
 RQ  1
-EV  IPR002938; PF01494; sufficient;
 EV  IPR010971; TIGR01988; sufficient;
 EV  IPR011295; TIGR01984; sufficient;
 --
@@ -35,7 +34,6 @@ SN  4
 ID  2-Octaprenylphenol hydroxylase
 DN  2-Octaprenylphenol hydroxylase
 RQ  1
-EV  IPR002938; PF01494; sufficient;
 EV  IPR010971; TIGR01988; sufficient;
 --
 SN  5
@@ -62,6 +60,5 @@ SN  8
 ID  5-Demethoxyubiquinol-8 5-hydroxylase
 DN  5-Demethoxyubiquinol-8 5-hydroxylase
 RQ  1
-EV  IPR002938; PF01494; sufficient;
 EV  IPR010971; TIGR01988; sufficient;
 //

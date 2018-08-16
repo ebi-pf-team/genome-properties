@@ -14,19 +14,13 @@ SN  1
 ID  Transketolase
 DN  Transketolase (EC 2.2.1.1)
 RQ  1
-EV  IPR005474; PF00456; sufficient;
-EV  IPR005475; PF02779; sufficient;
 EV  IPR005478; TIGR00232; sufficient;
-EV  IPR033248; PF02780; sufficient;
 --
 SN  2
 ID  Transketolase
 DN  Transketolase (EC 2.2.1.1)
 RQ  1
-EV  IPR005474; PF00456; sufficient;
-EV  IPR005475; PF02779; sufficient;
 EV  IPR005478; TIGR00232; sufficient;
-EV  IPR033248; PF02780; sufficient;
 --
 SN  3
 ID  Ribose-5-phosphate isomerase A

@@ -15,13 +15,11 @@ ID  L-arabinose isomerase
 DN  L-arabinose isomerase (EC 5.3.1.4)
 RQ  1
 EV  IPR003762; PF02610; sufficient;
-EV  IPR024664; PF11762; sufficient;
 --
 SN  2
 ID  L-ribulose-5-phosphate 4-epimerase
 DN  L-ribulose-5-phosphate 4-epimerase (EC 5.1.3.4)
 RQ  1
-EV  IPR001303; PF00596; sufficient;
 EV  IPR004661; TIGR00760; sufficient;
 --
 SN  3
@@ -29,5 +27,4 @@ ID  Ribulokinase
 DN  Ribulokinase (EC 2.7.1.16)
 RQ  1
 EV  IPR005929; TIGR01234; sufficient;
-EV  IPR018485; PF02782; sufficient;
 //

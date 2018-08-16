@@ -15,7 +15,6 @@ ID  Acyl-CoA thioesterase
 DN  Acyl-CoA thioesterase (EC 3.1.2)
 RQ  1
 EV  IPR003703; TIGR00189; sufficient;
-EV  IPR025652; PF02551; sufficient;
 --
 SN  2
 ID  Delta3-cis-Delta2-trans-enoyl-CoA isomerase

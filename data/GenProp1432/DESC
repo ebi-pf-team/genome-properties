@@ -16,8 +16,6 @@ DN  3-Hydroxy-3-methylglutaryl-coenzyme A reductase (EC 1.1.1.34)
 RQ  1
 EV  IPR002202; PF00368; sufficient;
 EV  IPR004554; TIGR00533; sufficient;
-EV  IPR000731; PF12349; sufficient;
-EV  IPR025583; PF13323; sufficient;
 EV  IPR004816; TIGR00920; sufficient;
 --
 SN  2
@@ -25,14 +23,11 @@ ID  Acetoacetyl-CoA thiolase
 DN  Acetoacetyl-CoA thiolase (EC 2.3.1.9)
 RQ  1
 EV  IPR002155; TIGR01930; sufficient;
-EV  IPR020616; PF00108; sufficient;
-EV  IPR020617; PF02803; sufficient;
 --
 SN  3
 ID  Mevalonate diphosphate decarboxylase
 DN  Mevalonate diphosphate decarboxylase (EC 4.1.1.33)
 RQ  1
-EV  IPR006204; PF00288; sufficient;
 EV  IPR029765; TIGR01240; sufficient;
 --
 SN  4
@@ -40,30 +35,23 @@ ID  Hydroxymethyl glutaryl-CoA synthase
 DN  Hydroxymethyl glutaryl-CoA synthase (EC 2.3.3.10)
 RQ  1
 EV  IPR010122; TIGR01833; sufficient;
-EV  IPR013528; PF01154; sufficient;
-EV  IPR013746; PF08540; sufficient;
 --
 SN  5
 ID  Isopentenyl pyrophosphate isomerase
 DN  Isopentenyl pyrophosphate isomerase (EC 5.3.3.2)
 RQ  1
-EV  IPR000086; PF00293; sufficient;
 EV  IPR011876; TIGR02150; sufficient;
 --
 SN  6
 ID  Mevalonate kinase
 DN  Mevalonate kinase (EC 2.7.1.36)
 RQ  1
-EV  IPR006204; PF00288; sufficient;
 EV  IPR006205; TIGR00549; sufficient;
-EV  IPR013750; PF08544; sufficient;
 --
 SN  7
 ID  Phosphomevalonate kinase
 DN  Phosphomevalonate kinase (EC 2.7.4.2)
 RQ  1
-EV  IPR006204; PF00288; sufficient;
-EV  IPR013750; PF08544; sufficient;
 EV  IPR016005; TIGR01219; sufficient;
 EV  IPR005919; PF04275; sufficient;
 EV  IPR005919; TIGR01223; sufficient;

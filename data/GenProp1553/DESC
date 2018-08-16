@@ -14,21 +14,13 @@ SN  1
 ID  Aspartate-semialdehyde dehydrogenase
 DN  Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)
 RQ  1
-EV  IPR000534; PF01118; sufficient;
 EV  IPR011534; TIGR01745; sufficient;
-EV  IPR012280; PF02774; sufficient;
 EV  IPR005676; TIGR00978; sufficient;
 --
 SN  2
 ID  Aspartate kinase
 DN  Aspartate kinase (EC 2.7.2.4)
 RQ  1
-EV  IPR001048; PF00696; sufficient;
-EV  IPR001341; TIGR00657; sufficient;
-EV  IPR001342; PF00742; sufficient;
-EV  IPR002912; PF01842; sufficient;
-EV  IPR005106; PF03447; sufficient;
-EV  IPR027795; PF13840; sufficient;
 EV  IPR005260; TIGR00656; sufficient;
 --
 SN  3

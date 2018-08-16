@@ -14,27 +14,23 @@ SN  1
 ID  D-deoxyribose 1,5-phosphomutase
 DN  D-deoxyribose 1,5-phosphomutase (EC 5.4.2.7)
 RQ  1
-EV  IPR006124; PF01676; sufficient;
 EV  IPR010045; TIGR01696; sufficient;
 --
 SN  2
 ID  Deoxyadenosine phosphorylase
 DN  Deoxyadenosine phosphorylase (EC 2.4.2.1)
 RQ  1
-EV  IPR000845; PF01048; sufficient;
 EV  IPR004402; TIGR00107; sufficient;
 --
 SN  3
 ID  Deoxyguanosine phosphorylase
 DN  Deoxyguanosine phosphorylase (EC 2.4.2.1)
 RQ  1
-EV  IPR000845; PF01048; sufficient;
 EV  IPR004402; TIGR00107; sufficient;
 --
 SN  4
 ID  Deoxyinosine phosphorylase
 DN  Deoxyinosine phosphorylase (EC 2.4.2.1)
 RQ  1
-EV  IPR000845; PF01048; sufficient;
 EV  IPR004402; TIGR00107; sufficient;
 //

@@ -15,8 +15,6 @@ ID  (S)-3-hydroxydecanoyl-CoA dehydrogenase
 DN  (S)-3-hydroxydecanoyl-CoA dehydrogenase (EC 1.1.1.35)
 RQ  1
 EV  IPR001753; PF00378; sufficient;
-EV  IPR006108; PF00725; sufficient;
-EV  IPR006176; PF02737; sufficient;
 EV  IPR012799; TIGR02437; sufficient;
 --
 SN  2
@@ -47,8 +45,6 @@ ID  Trans-Delta2-decenoyl-CoA hydratase
 DN  Trans-Delta2-decenoyl-CoA hydratase (EC 4.2.1.17)
 RQ  1
 EV  IPR001753; PF00378; sufficient;
-EV  IPR006108; PF00725; sufficient;
-EV  IPR006176; PF02737; sufficient;
 EV  IPR012799; TIGR02437; sufficient;
 --
 SN  6
@@ -57,6 +53,4 @@ DN  Acetyl-CoA C-octanoyltransferase (EC 2.3.1.16)
 RQ  1
 EV  IPR002155; TIGR01930; sufficient;
 EV  IPR012805; TIGR02445; sufficient;
-EV  IPR020616; PF00108; sufficient;
-EV  IPR020617; PF02803; sufficient;
 //

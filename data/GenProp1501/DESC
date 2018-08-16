@@ -15,12 +15,10 @@ ID  Allantoicase
 DN  Allantoicase (EC 3.5.3.4)
 RQ  1
 EV  IPR005164; TIGR02961; sufficient;
-EV  IPR015908; PF03561; sufficient;
 --
 SN  2
 ID  Allantoinase
 DN  Allantoinase (EC 3.5.2.5)
 RQ  1
-EV  IPR006680; PF01979; sufficient;
 EV  IPR017593; TIGR03178; sufficient;
 //

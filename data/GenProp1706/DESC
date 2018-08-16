@@ -21,21 +21,13 @@ SN  2
 ID  Glc2Man9GlcNAc2 alpha-1,3-glucosidase
 DN  Glc2Man9GlcNAc2 alpha-1,3-glucosidase
 RQ  1
-EV  IPR009011; PF13015; sufficient;
-EV  IPR028146; PF12999; sufficient;
 EV  IPR000322; PF01055; sufficient;
-EV  IPR025887; PF13802; sufficient;
-EV  IPR033403; PF17137; sufficient;
 --
 SN  3
 ID  Glc1Man9GlcNAc2 alpha-1,3-glucosidase
 DN  Glc1Man9GlcNAc2 alpha-1,3-glucosidase
 RQ  1
-EV  IPR009011; PF13015; sufficient;
-EV  IPR028146; PF12999; sufficient;
 EV  IPR000322; PF01055; sufficient;
-EV  IPR025887; PF13802; sufficient;
-EV  IPR033403; PF17137; sufficient;
 --
 SN  4
 ID  Endoplasmic reticulum mannosyl-oligosaccharide 1,2-alpha-mannosidase

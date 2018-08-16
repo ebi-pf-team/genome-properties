@@ -14,13 +14,11 @@ SN  1
 ID  F420-0-glutamyl ligase
 DN  F420-0-glutamyl ligase (EC 6.3.2.31)
 RQ  1
-EV  IPR002847; PF01996; sufficient;
 EV  IPR008225; TIGR01916; sufficient;
 --
 SN  2
 ID  F420-1:gamma-glutamyl ligase
 DN  F420-1:gamma-glutamyl ligase (EC 6.3.2.34)
 RQ  1
-EV  IPR002847; PF01996; sufficient;
 EV  IPR008225; TIGR01916; sufficient;
 //
