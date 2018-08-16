@@ -723,10 +723,11 @@ sub parseSteps {
     }elsif($l =~ /^EV\s{2}(GenProp\d{4});$/){
         my $gp = $1;
         my $nl = $file->[$$i + 1];
-        my $go = '';
-        if($nl =~ /^TG\s{2}(GO\:\d+);$/){
-          $go = $1;
+        my $go = [];
+        while($nl =~ /^TG\s{2}(GO\:\d+);$/){
+          push(@$go, $1);
           $$i++;
+          $nl = $file->[$$i + 1];
         }
         push(@{$step{EVID}}, { gp => $gp, go => $go });
     }elsif($l =~ /^--$/){  
