@@ -12,10 +12,13 @@ RA  Park J; Wood MA; Cole MD;
 RL  Mol Cell Biol. 2002;22:1307-1316.
 CC  The BAF53 complex is at least composed of ACTL6A/BAF53A, 
 CC  RUVBL1/TIP49, SMARCA2/BRM, and TRRAP/PAF400 [1].
-**  Evidence for step 1 is also used in GP2074, GP2075, GP2076, GP2077 and GP02080 (IPR004000).
-**  Evidence for step 2 is also used in GP2066, GP2075, GP2076 and GP2077 (IPR037938).
+**  Evidence for step 1 is also used in GP2074, GP2075, GP2076, GP2077 
+**  and GP02080 (IPR004000).
+**  Evidence for step 2 is also used in GP2066, GP2075, GP2076 and 
+**  GP2077 (IPR037938).
 **  Evidence for step 3 is also used in GP2081 and GP2082 (IPR030088).
-**  Evidence for step 4 is also used in GP2053, GP2057, GP2058, GP2074 and GP2075 (IPR033317).
+**  Evidence for step 4 is also used in GP2053, GP2057, GP2058, GP2074 and 
+**  GP2075 (IPR033317).
 **  Threshold is therefore set to 3.
 --
 SN  1
