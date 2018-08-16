@@ -25,13 +25,16 @@ CC  ACTL6A/BAF53A and actin.
 **  Evidence for step 1 is also used in GP2082 (IPR030094).
 **  Evidence for step 1 is also used in GP2082 (IPR038040).
 **  Evidence for step 2 is also used in GP2082 (IPR038041).
-**  Evidence for step 3 is also used in GP2080, GP2082, GP2083 and GP2084 (IPR030088).
-**  Evidence for step 4 is also used in GP2082, GP2083 and GP2084 (IPR030100).
+**  Evidence for step 3 is also used in GP2080, GP2082, GP2083 and 
+**  GP2084 (IPR030088).
+**  Evidence for step 4 is also used in GP2082, GP2083 and GP2084 
+**  (IPR030100).
 **  Evidence for step 5 is also used in GP2082 (IPR006939).
 **  Evidence for step 6 is also used in GP2082 (IPR030087).
 **  Evidence for step 7 is also used in GP2082 (IPR030089).
 **  Evidence for step 8 is also used in GP2082 (IPR038044).
-**  Evidence for step 10 is also used in GP2074, GP2075, GP2076, GP2077, GP2080 (IPR004000).
+**  Evidence for step 10 is also used in GP2074, GP2075, GP2076, 
+**  GP2077, GP2080 (IPR004000).
 **  Threshold therefore changed to 9.
 --
 SN  1
