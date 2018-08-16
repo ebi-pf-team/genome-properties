@@ -15,7 +15,8 @@ CC  The MLL-HCF complex is a SET1-like histone
 CC  methyltransferase complex that regulates Hox gene 
 CC  expression. The complex is at least composed of KMT2A/MLL1, 
 CC  MEN1, ASH2L, RBBP5, DPY30, WDR5, HCFC1 and HCFC2 [1]. 
-**  Evidence for step 2 is also used in GP2056, GP2059, GP2061, GP2062 and GP2063.
+**  Evidence for step 2 is also used in GP2056, GP2059, GP2061, 
+**  GP2062 and GP2063.
 **  Evidence for step 3 is also used in GP2059, GP2060, GP2061 and GP2062.
 **  Evidence for step 4 is also used in GP2059, GP2060, GP2061 and GP2062.
 **  Evidence for step 5 is also used in GP2059, GP2060, GP2061 and GP2062.

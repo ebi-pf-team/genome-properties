@@ -19,9 +19,11 @@ CC  MCRS1, PHF20, OGT1/OGT, WDR5 and HCFC1 [1].
 **  Is there a UniProt entry for the OGT 78 kDa subunit?
 **  Evidence for step 1 is also used in GP2064 and GP2065.
 **  Evidence for step 5 is also used in GP2065.
-**  Evidence for step 7 is also used in GP2056, GP2059, GP2061, GP2062 and GP2067.
+**  Evidence for step 7 is also used in GP2056, GP2059, GP2061, 
+**  GP2062 and GP2067.
 **  Evidence for step 8 is also used in GP2068 and GP2069.
-**  Evidence for step 9 is also used in GP2059, GP2061, GP2067, GP2068 and GP2069.
+**  Evidence for step 9 is also used in GP2059, GP2061, GP2067, 
+**  GP2068 and GP2069.
 **  Threshold is therefore set to 5.
 --
 SN  1

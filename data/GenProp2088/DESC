@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 AC  GenProp2088
 DE  Insulin signaling pathway - glycogenesis
 TP  PATHWAY
@@ -148,3 +149,155 @@ EV  IPR008631; PTHR10176; sufficient;
 EV  IPR008631; cd03793; sufficient;
 TG  GO:0004373;
 //
+=======
+AC  GenProp2088
+DE  Insulin signaling pathway - glycogenesis
+TP  PATHWAY
+AU  Rawlings ND
+TH  7
+RN  [1]
+RM  8276809
+RT  Direct activation of the phosphatidylinositol 3'-
+RT  kinase by the insulin receptor. 
+RA  Van Horn DJ; Myers MG Jr; Backer JM; 
+RL  J Biol Chem 1994;269:29-32.
+RN  [2]
+RM  15733744
+RT  Positive and negative regulation of insulin signaling 
+RT  through IRS-1 phosphorylation.
+RA  Gual P; Le Marchand-Brustel Y; Tanti JF; 
+RL  Biochimie 2005;87:99-109.
+RN  [3]
+RM  16314505
+RT  Tyrosine phosphorylation of phosphoinositide-
+RT  dependent kinase 1 by the insulin receptor is 
+RT  necessary for insulin metabolic signaling. 
+RA  Fiory F; Alberobello AT; Miele C; Oriente F; 
+RA  Esposito I; Corbo V; Ruvo M; Tizzano B; 
+RA  Rasmussen TE; Gammeltoft S; Formisano P; 
+RA  Beguinot F; 
+RL  Mol Cell Biol 2005;25:10803-10814.
+RN  [4]
+RM  9512493
+RT  Activation of protein kinase B beta and gamma 
+RT  isoforms by insulin in vivo and by 3-
+RT  phosphoinositide-dependent protein kinase-1 in 
+RT  vitro: comparison with protein kinase B alpha. 
+RA  Walker KS; Deak M; Paterson A; Hudson K; Cohen P; 
+RA  Alessi DR; 
+RL  Biochem J 1998;331:299-308.
+RN  [5]
+RM  9736715
+RT  Phosphoinositide-3-OH kinase-dependent regulation 
+RT  of glycogen synthase kinase 3 and protein kinase 
+RT  B/AKT by the integrin-linked kinase. 
+RA  Delcommenne M; Tan C; Gray V; Rue L; Woodgett J; 
+RA  Dedhar S; 
+RL  Proc Natl Acad Sci U S A 1998;95:11211-11216.
+RN  [6]
+RM  8226927
+RT  Inactivation of rabbit muscle glycogen synthase by 
+RT  glycogen synthase kinase-3. Dominant role of the 
+RT  phosphorylation of Ser-640 (site-3a). 
+RA  Wang Y; Roach PJ; 
+RL  J Biol Chem 1993;268:23876-23880.
+DC  Insulin signaling pathway
+DR  KEGG; map04910;
+CC  The binding of insulin to its receptor INSR leads to the
+CC  phosphorylation and activation of the receptor, which is 
+CC  also a tyrosine kinase [1].  INSR then phosphorylates  
+CC  various proteins known as insulin receptor substrates.
+CC  These then associate with the regulatory subunit of 
+CC  phosphoinositide 3-kinase (PI3K) [2].  PI3K activates 
+CC  3-phosphoinositide-dependent protein kinase 1 [3], which in
+CC  turn activates serine kinase Akt [4].  Akt deactivates 
+CC  glycogen synthase kinase 3 [5] which leads to the activation
+CC  of glycogen synthase and thus glycogen synthesis [6].
+**  PTHR10614 includes insulin receptor substrates 1, 2 and 4.
+**  PTHR10155 includes PIK3R1, PIK3R2 and PIK3R3, any of 
+**  which can form a heterodimer with PIK3CA.
+**  Phosphatidylinositol 4,5-bisphosphate 3-kinase could be a
+**  separate GenomeProperty.
+**  This GenomeProperty is derived from the central part of the 
+**  KEGG Insulin Signalling Pathway.  KEGG show the effects of
+**  INSR in glucose uptake and proliferation/differentiation 
+**  pathways; Akt on glycolysis, antilipolysis and antiapoptosis;
+**  and PDK1 on fatty acid biosynthesis.
+**  IPR004825 (SN1) is in 4 other props
+**  IPR016246 (SN2) is in 1 other prop
+**  IPR039011 (SN3) is in 1 other prop
+**  IPR015433 (SN4) is in 1 other prop
+**  IPR001720 (SN5) is in 1 other prop
+**  IPR039046 (SN6) is in 1 other prop
+**  IPR039027 (SN7) is in 1 other prop
+**  IPR039029 (SN7) is in 1 other prop
+**  Threshold adjusted to account for this
+--
+SN  1
+ID  Insulin
+DN  Insulin
+RQ  1
+EV  IPR004825; PR00277; sufficient;
+TG  GO:0005179;
+--
+SN  2
+ID  Insulin receptor (INSR)
+DN  Tyrosine-protein kinase, insulin-like receptor
+RQ  1
+EV  IPR016246; PIRSF000620; sufficient;
+TG  GO:0005009;
+TG  GO:0004713;
+--
+SN  3
+ID  Insulin receptor substrate
+DN  Insulin receptor substrate
+RQ  1
+EV  IPR039011; PTHR10614; sufficient;
+TG  GO:0005158;
+--
+SN  4
+ID  Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha (PIK3CA)
+DN  Phosphatidylinositol kinase (EC 2.7.1.153)
+RQ  1
+EV  IPR015433; PTHR10048; sufficient;
+TG  GO:0004674;
+--
+SN  5
+ID  Phosphatidylinositol 3-kinase regulatory subunit (PIK3R1)
+DN  PI3K p85/p55 subunit
+RQ  1
+EV  IPR001720; PTHR10155; sufficient;
+TG  GO:0001784;
+--
+SN  6
+ID  3-phosphoinositide-dependent protein kinase 1 (PDPK1)
+DN  PDPK1 family (EC 2.7.11.1)
+RQ  1
+EV  IPR039046; PTHR24356:SF163; sufficient;
+TG  GO:0004674;
+--
+SN  7
+ID  RAC-gamma serine/threonine-protein kinase (AKT1)
+DN  Serine/threonine-protein kinase RAC (EC 2.7.11.1)
+RQ  1
+EV  IPR039027; PTHR24356:SF176; sufficient;
+EV  IPR039029; PTHR24356:SF190; sufficient;
+TG  GO:0004674;
+--
+SN  8
+ID  Glycogen synthase kinase-3 beta (GSK3B)
+DN  Glycogen synthase kinase-3 beta (EC 2.7.11.26)
+RQ  1
+EV  IPR033573; PTHR24057:SF8; sufficient;
+TG  GO:0004674;
+--
+SN  9
+ID  Glycogen [starch] synthase, muscle (GYS1)
+DN  Glycogen synthase (EC 2.4.1.11)
+RQ  1
+EV  IPR008631; PF05693; sufficient;
+EV  IPR008631; PTHR10176; sufficient;
+EV  IPR008631; cd03793; sufficient;
+TG  GO:0004373;
+//
+>>>>>>> 344dc79a5244ae7f259c3da30dc86f5a598e34ce
