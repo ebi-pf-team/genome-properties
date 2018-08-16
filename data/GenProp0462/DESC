@@ -27,11 +27,6 @@ ID  UvrAB complex
 RQ  0
 EV  GenProp1109;
 --
-SN  5
-ID  HU complex
-RQ  0
-EV  GenProp1110;
---
 SN  6
 ID  ProVWX complex
 RQ  0
