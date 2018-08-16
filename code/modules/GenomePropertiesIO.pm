@@ -630,7 +630,9 @@ sub parseDESC {
           push( @{ $params{DBREFS} }, { db_id => $1, db_link => $2 } );
         }
         elsif ( $file[$i] =~ /^DR  (Complex Portal);\s+(CPX-\S+);$/ ) {
-          print STDERR "Please check the URL $2\n";
+          push( @{ $params{DBREFS} }, { db_id => $1, db_link => $2 } );
+        }
+        elsif ( $file[$i] =~ /^DR  (PDBe);\s+(\S{4});$/ ) {
           push( @{ $params{DBREFS} }, { db_id => $1, db_link => $2 } );
         }
         elsif ( $file[$i] =~ /^DR/ ) {
