@@ -50,9 +50,9 @@ SN  1
 ID  Peptide hormone initiated increase in cAMP
 DN  Peptide hormone initiated increase in cAMP
 RQ  1
-EV  GenProp2092; sufficient;
-EV  GenProp2093; sufficient;
-EV  GenProp2094; sufficient;
+EV  GenProp2092;
+EV  GenProp2093;
+EV  GenProp2094;
 --
 SN  5
 ID  cAMP-dependent protein kinase catalytic subunits
