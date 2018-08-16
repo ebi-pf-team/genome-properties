@@ -56,7 +56,7 @@ SN  3
 ID  Probable global transcription activator SNF2L2 (SMARCA2/BRM/BAF190B)
 DN  Probable global transcription activator SNF2L2 (EC 3.6.4.-)
 RQ  1
-EV  IPR030088; PTHR10799:SF541 ; sufficient;
+EV  IPR030088; PTHR10799:SF541; sufficient;
 TG  GO:0071564;
 --
 SN  4

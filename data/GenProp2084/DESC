@@ -32,7 +32,7 @@ ID  Transcription activator BRG1/SNF2L2 (SMARCA4/BRG1/BAF190A or SMARCA2/BRM/BAF
 DN  Transcription activator BRG1 (EC 3.6.4.-)
 RQ  1
 EV  IPR030100; PTHR10799:SF76; sufficient;
-EV  IPR030088; PTHR10799:SF541 ; sufficient;
+EV  IPR030088; PTHR10799:SF541; sufficient;
 TG  GO:0016514;
 --
 SN  2
