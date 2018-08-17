@@ -185,4 +185,9 @@ SN  36
 ID  Plasma membrane fumarate reductase complex
 RQ  0
 EV  GenProp1143;
+--
+SN  37
+ID  DMSO reductase complex
+RQ  0
+EV  GenProp1148;
 //
