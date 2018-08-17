@@ -63,4 +63,9 @@ SN  11
 ID  DnaB-DnaC complex
 RQ  0
 EV  GenProp1118;
+--
+SN  12
+ID  DnaB-DnaG complex
+RQ  0
+EV  GenProp1123;
 //
