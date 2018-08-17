@@ -65,4 +65,9 @@ SN  12
 ID  DnaA-DnaB complex
 RQ  0
 EV  GenProp1152;
+--
+SN  13
+ID  DNA polymerase III proofreading complex
+RQ  0
+EV  GenProp1155;
 //
