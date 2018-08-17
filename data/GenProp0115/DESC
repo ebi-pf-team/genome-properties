@@ -60,4 +60,9 @@ SN  13
 ID  Radical SAM/uracil DNA glycosylase system
 RQ  0
 EV  GenProp0903;
+--
+SN  14
+ID  Ribonucleoside-diphosphate reductase complex
+RQ  0
+EV  GenProp1191;
 //
