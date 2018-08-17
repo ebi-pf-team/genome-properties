@@ -230,4 +230,9 @@ SN  45
 ID  ThiG-ThiH thiazole phosphate synthase complex
 RQ  0
 EV  GenProp1127;
+--
+SN  46
+ID  Molybdopterin synthase
+RQ  0
+EV  GenProp1138;
 //
