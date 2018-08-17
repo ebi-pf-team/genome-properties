@@ -186,4 +186,24 @@ SN  36
 ID  Superpathway of b heme biosynthesis from glycine
 RQ  0
 EV  GenProp1720;
+--
+SN  37
+ID  Mitochondrial protein processing
+RQ  0
+EV  GenProp2039;
+--
+SN  38
+ID  Mitochondrial inner membrane peptidase complex
+RQ  0
+EV  GenProp2040;
+--
+SN  39
+ID  COP9 Signalosome, eukaryote
+RQ  0
+EV  GenProp2047;
+--
+SN  40
+ID  BAF53 complex
+RQ  0
+EV  GenProp2080;
 //
