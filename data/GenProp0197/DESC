@@ -74,4 +74,9 @@ SN  14
 ID  Ribosome biogenesis proteins, bacteria
 RQ  0
 EV  GenProp0802;
+--
+SN  15
+ID  YgjD-YeaZ-YjeE complex
+RQ  0
+EV  GenProp1171;
 //
