@@ -144,4 +144,19 @@ SN  28
 ID  Maltose transport complex
 RQ  0
 EV  GenProp1204;
+--
+SN  29
+ID  Nuclear pore complex, vertebrate
+RQ  0
+EV  GenProp2036;
+--
+SN  30
+ID  Nuclear pore subcomplex Nup107-160
+RQ  0
+EV  GenProp2037;
+--
+SN  31
+ID  Nuclear pore complex 107-120, Schizosaccharomyces
+RQ  0
+EV  GenProp2043;
 //
