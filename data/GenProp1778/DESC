@@ -7,7 +7,52 @@ CC  Properties related to hormone biosynthesis, activation, signalling
 CC  and secretion.
 --
 SN  1
-ID  
+ID  Renin-Angiotensin system
 RQ  0
-EV  ;
+EV  GenProp2085;
+--
+SN  2
+ID  Pro-insulin activation
+RQ  0
+EV  GenProp2086;
+--
+SN  3
+ID  Proglucagon activation
+RQ  0
+EV  GenProp2087;
+--
+SN  4
+ID  Insulin signaling pathway - glycogenesis
+RQ  0
+EV  GenProp2088;
+--
+SN  5
+ID  Glucagon signaling pathway for glycogenolysis
+RQ  0
+EV  GenProp2089;
+--
+SN  6
+ID  Insulin signaling pathway - glucose uptake
+RQ  0
+EV  GenProp2090;
+--
+SN  7
+ID  Insulin secretion via PKA
+RQ  0
+EV  GenProp2095;
+--
+SN  8
+ID  Insulin secretion via PKC
+RQ  0
+EV  GenProp2096;
+--
+SN  9
+ID  Insulin secretion via IP3
+RQ  0
+EV  GenProp2098;
+--
+SN  10
+ID  Insulin secretion via glucose
+RQ  0
+EV  GenProp2099;
 //
