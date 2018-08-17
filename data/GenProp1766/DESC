@@ -90,4 +90,14 @@ SN  17
 ID  Androgen biosynthesis
 RQ  0
 EV  GenProp1742;
+--
+SN  18
+ID  Superpathway of steroid hormone biosynthesis
+RQ  0
+EV  GenProp1217;
+--
+SN  19
+ID  Superpathway of gibberellin GA12 biosynthesis
+RQ  0
+EV  GenProp1760;
 //
