@@ -194,4 +194,69 @@ SN  38
 ID  Carbamoyl phosphate synthetase complex
 RQ  0
 EV  GenProp1129;
+--
+SN  39
+ID  Superpathway of L-tyrosine biosynthesis
+RQ  0
+EV  GenProp1234;
+--
+SN  40
+ID  Superpathway of L-phenylalanine biosynthesis
+RQ  0
+EV  GenProp1309;
+--
+SN  41
+ID  Superpathway of L-alanine biosynthesis
+RQ  0
+EV  GenProp1333;
+--
+SN  42
+ID  Superpathway of L-threonine biosynthesis
+RQ  0
+EV  GenProp1358;
+--
+SN  43
+ID  Superpathway of L-serine and glycine biosynthesis I
+RQ  0
+EV  GenProp1386;
+--
+SN  44
+ID  Superpathway of L-cysteine biosynthesis (mammalian)
+RQ  0
+EV  GenProp1399;
+--
+SN  45
+ID  Superpathway of L-aspartate and L-asparagine biosynthesis
+RQ  0
+EV  GenProp1404;
+--
+SN  46
+ID  Superpathway of branched chain amino acid biosynthesis
+RQ  0
+EV  GenProp1405;
+--
+SN  47
+ID  Superpathway of L-methionine biosynthesis (transsulfuration)
+RQ  0
+EV  GenProp1419;
+--
+SN  48
+ID  Superpathway of L-lysine, L-threonine and L-methionine biosynthesis I
+RQ  0
+EV  GenProp1475;
+--
+SN  49
+ID  Superpathway of L-citrulline metabolism
+RQ  0
+EV  GenProp1481;
+--
+SN  50
+ID  Superpathway of aromatic amino acid biosynthesis
+RQ  0
+EV  GenProp1538;
+--
+SN  51
+ID  Superpathway of L-tryptophan biosynthesis
+RQ  0
+EV  GenProp1550;
 //
