@@ -180,4 +180,9 @@ SN  35
 ID  Cytochrome bd-I ubiquinol oxidase complex
 RQ  0
 EV  GenProp1141;
+--
+SN  36
+ID  Plasma membrane fumarate reductase complex
+RQ  0
+EV  GenProp1143;
 //
