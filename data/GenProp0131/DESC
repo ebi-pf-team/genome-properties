@@ -165,4 +165,9 @@ SN  32
 ID  Respiratory chain complex II
 RQ  0
 EV  GenProp1112;
+--
+SN  33
+ID  Nitrate reductase A complex
+RQ  0
+EV  GenProp1122;
 //
