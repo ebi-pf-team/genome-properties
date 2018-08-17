@@ -60,4 +60,9 @@ SN  11
 ID  Topoisomerase IV
 RQ  0
 EV  GenProp1149;
+--
+SN  12
+ID  DnaA-DnaB complex
+RQ  0
+EV  GenProp1152;
 //
