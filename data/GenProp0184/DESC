@@ -235,4 +235,9 @@ SN  46
 ID  Molybdopterin synthase
 RQ  0
 EV  GenProp1138;
+--
+SN  47
+ID  Molybdopterin-synthase adenylyltransferase complex
+RQ  0
+EV  GenProp1158;
 //
