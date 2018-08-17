@@ -150,4 +150,9 @@ SN  29
 ID  Cus cation efflux complex
 RQ  0
 EV  GenProp1168;
+--
+SN  30
+ID  BtuCD complex
+RQ  0
+EV  GenProp1156;
 //
