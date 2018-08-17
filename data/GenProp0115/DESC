@@ -65,4 +65,9 @@ SN  14
 ID  Ribonucleoside-diphosphate reductase complex
 RQ  0
 EV  GenProp1191;
+--
+SN  15
+ID  TFIIH basal transcription factor
+RQ  0
+EV  GenProp2050;
 //
