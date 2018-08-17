@@ -341,4 +341,9 @@ SN  67
 ID  p-aminobenzoyl-glutamate hydrolase
 RQ  0
 EV  GenProp1119;
+--
+SN  68
+ID  Ethanolamine ammonia-lyase complex
+RQ  0
+EV  GenProp1167;
 //
