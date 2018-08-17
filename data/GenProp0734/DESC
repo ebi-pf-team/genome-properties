@@ -185,4 +185,9 @@ SN  36
 ID  IscS-ThiL complex
 RQ  0
 EV  GenProp1144;
+--
+SN  37
+ID  Superpathway of L-arginine, putrescine, and 4-aminobutanoate degradation
+RQ  0
+EV  GenProp1279;
 //
