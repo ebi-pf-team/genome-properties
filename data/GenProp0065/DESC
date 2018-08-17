@@ -73,4 +73,9 @@ SN  16
 ID  Defense systems
 RQ  0
 EV  GenProp1067;
+--
+SN  17
+ID  Endocrine system
+RQ  0
+EV  GenProp1778;
 //
