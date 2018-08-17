@@ -70,4 +70,9 @@ SN  13
 ID  DNA polymerase III proofreading complex
 RQ  0
 EV  GenProp1155;
+--
+SN  14
+ID  GyrA-GyrB complex
+RQ  0
+EV  GenProp1178;
 //
