@@ -50,4 +50,14 @@ SN  9
 ID  Transcription
 RQ  0
 EV  GenProp1214;
+--
+SN  10
+ID  DNA polymerase III clamp loader chi-psi subcomplex
+RQ  0
+EV  GenProp1117;
+--
+SN  11
+ID  DnaB-DnaC-DnaT-PriA-PriB complex
+RQ  0
+EV  GenProp1130;
 //

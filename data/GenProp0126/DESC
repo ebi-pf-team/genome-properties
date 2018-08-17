@@ -189,4 +189,9 @@ SN  37
 ID  2,3-Dihydroxybenzoate biosynthesis
 RQ  0
 EV  GenProp1336;
+--
+SN  38
+ID  Carbamoyl phosphate synthetase complex
+RQ  0
+EV  GenProp1129;
 //

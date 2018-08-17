@@ -336,4 +336,9 @@ SN  66
 ID  Nucleosides and nucleotides degradation
 RQ  0
 EV  GenProp1776;
+--
+SN  67
+ID  p-aminobenzoyl-glutamate hydrolase
+RQ  0
+EV  GenProp1119;
 //
