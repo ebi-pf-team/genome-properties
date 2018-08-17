@@ -225,4 +225,9 @@ SN  44
 ID  Tetrapyrrole biosynthesis I (from glutamate)
 RQ  0
 EV  GenProp1701;
+--
+SN  45
+ID  ThiG-ThiH thiazole phosphate synthase complex
+RQ  0
+EV  GenProp1127;
 //
