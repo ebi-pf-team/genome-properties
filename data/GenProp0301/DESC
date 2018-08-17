@@ -34,4 +34,9 @@ SN  6
 ID  FtsH/HflKC protease complex
 RQ  0
 EV  GenProp0684;
+--
+SN  7
+ID  Endopeptidase ClpXP complex
+RQ  0
+EV  GenProp1108;
 //
