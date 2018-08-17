@@ -185,4 +185,9 @@ SN  36
 ID  Staphyloferrin A biosynthesis
 RQ  0
 EV  GenProp1593;
+--
+SN  37
+ID  Dha Kinase
+RQ  0
+EV  GenProp1146;
 //
