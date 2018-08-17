@@ -185,4 +185,9 @@ SN  36
 ID  CMP phosphorylation
 RQ  0
 EV  GenProp1634;
+--
+SN  37
+ID  Aspartate carbamoyltransferase complex
+RQ  0
+EV  GenProp1172;
 //
