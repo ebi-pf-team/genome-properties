@@ -39,4 +39,9 @@ SN  7
 ID  Endopeptidase ClpXP complex
 RQ  0
 EV  GenProp1108;
+--
+SN  8
+ID  Endopeptidase ClpAP complex
+RQ  0
+EV  GenProp1137;
 //
