@@ -125,4 +125,14 @@ SN  24
 ID  Gadusol biosynthesis
 RQ  0
 EV  GenProp1668;
+--
+SN  25
+ID  Superpathway of D-myo-inositol (1,4,5)-trisphosphate metabolism
+RQ  0
+EV  GenProp1395;
+--
+SN  26
+ID  Superpathway of carotenoid biosynthesis in plants
+RQ  0
+EV  GenProp1763;
 //

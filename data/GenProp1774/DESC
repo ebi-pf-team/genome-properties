@@ -91,4 +91,9 @@ SN  17
 ID  Methanogenesis from methylthiopropanoate
 RQ  0
 EV  GenProp1447;
+--
+SN  18
+ID  Superpathway of sulfate assimilation and cysteine biosynthesis
+RQ  0
+EV  GenProp1301;
 //

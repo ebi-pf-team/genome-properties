@@ -74,4 +74,19 @@ SN  14
 ID  Ribosome biogenesis proteins, bacteria
 RQ  0
 EV  GenProp0802;
+--
+SN  15
+ID  YgjD-YeaZ-YjeE complex
+RQ  0
+EV  GenProp1171;
+--
+SN  16
+ID  mTORC1 activation
+RQ  0
+EV  GenProp2033;
+--
+SN  17
+ID  mTORC1 pathway
+RQ  0
+EV  GenProp2035;
 //

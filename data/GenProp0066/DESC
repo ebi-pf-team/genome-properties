@@ -71,4 +71,14 @@ SN  13
 ID  YoeB-YefM toxin-antitoxin complex
 RQ  0
 EV  GenProp1133;
+--
+SN  14
+ID  MqsRA toxin-antitoxin complex
+RQ  0
+EV  GenProp1189;
+--
+SN  15
+ID  RelBE toxin-antitoxin complex
+RQ  0
+EV  GenProp1193;
 //

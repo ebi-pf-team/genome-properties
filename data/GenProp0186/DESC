@@ -100,4 +100,9 @@ SN  19
 ID  Lipid IVA biosynthesis
 RQ  0
 EV  GenProp1290;
+--
+SN  20
+ID  Superpathway of (Kdo)2-lipid A biosynthesis
+RQ  0
+EV  GenProp1325;
 //

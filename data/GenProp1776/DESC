@@ -60,4 +60,19 @@ SN  11
 ID  S-methyl-5'-thioadenosine degradation I
 RQ  0
 EV  GenProp1482;
+--
+SN  12
+ID  Superpathway of pyrimidine ribonucleosides degradation
+RQ  0
+EV  GenProp1380;
+--
+SN  13
+ID  Superpathway of pyrimidine deoxyribonucleosides degradation
+RQ  0
+EV  GenProp1631;
+--
+SN  14
+ID  Superpathway of purine deoxyribonucleosides degradation
+RQ  0
+EV  GenProp1752;
 //

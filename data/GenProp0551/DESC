@@ -18,4 +18,9 @@ SN  2
 ID  Circadian clock system KaiABC
 RQ  0
 EV  GenProp0465;
+--
+SN  3
+ID  Regulation of biological processes
+RQ  0
+EV  GenProp1212;
 //

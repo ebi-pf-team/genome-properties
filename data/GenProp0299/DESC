@@ -84,4 +84,14 @@ SN  15
 ID  Acetyl-CoA carboxylase complex
 RQ  0
 EV  GenProp1111;
+--
+SN  16
+ID  Superpathway of fatty acid biosynthesis initiation (E. coli)
+RQ  0
+EV  GenProp1415;
+--
+SN  17
+ID  Superpathway of mycolate biosynthesis
+RQ  0
+EV  GenProp1436;
 //

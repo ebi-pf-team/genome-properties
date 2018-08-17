@@ -240,4 +240,24 @@ SN  47
 ID  NADH repair
 RQ  0
 EV  GenProp1736;
+--
+SN  48
+ID  Succinyl-CoA synthetase
+RQ  0
+EV  GenProp1201;
+--
+SN  49
+ID  Superpathway of photosynthetic hydrogen production
+RQ  0
+EV  GenProp1353;
+--
+SN  50
+ID  Superpathway of glycolysis and the Entner-Doudoroff pathway
+RQ  0
+EV  GenProp1691;
+--
+SN  51
+ID  Superpathway of glycolysis, pyruvate dehydrogenase, TCA, and glyoxylate bypass
+RQ  0
+EV  GenProp1710;
 //

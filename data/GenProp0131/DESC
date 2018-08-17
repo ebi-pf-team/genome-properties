@@ -170,4 +170,34 @@ SN  33
 ID  Nitrate reductase A complex
 RQ  0
 EV  GenProp1122;
+--
+SN  34
+ID  Formate dehydrogenase N complex
+RQ  0
+EV  GenProp1135;
+--
+SN  35
+ID  Cytochrome bd-I ubiquinol oxidase complex
+RQ  0
+EV  GenProp1141;
+--
+SN  36
+ID  Plasma membrane fumarate reductase complex
+RQ  0
+EV  GenProp1143;
+--
+SN  37
+ID  DMSO reductase complex
+RQ  0
+EV  GenProp1148;
+--
+SN  38
+ID  Respiratory chain complex I
+RQ  0
+EV  GenProp1198;
+--
+SN  39
+ID  Cytochrome bd-II ubiquinol oxidase complex
+RQ  0
+EV  GenProp1202;
 //

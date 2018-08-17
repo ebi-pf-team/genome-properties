@@ -183,4 +183,19 @@ SN  35
 ID  Epoxysqualene biosynthesis
 RQ  0
 EV  GenProp1683;
+--
+SN  36
+ID  Superpathway of cholesterol biosynthesis
+RQ  0
+EV  GenProp1530;
+--
+SN  37
+ID  Superpathway of ergosterol biosynthesis I
+RQ  0
+EV  GenProp1594;
+--
+SN  38
+ID  Superpathway of lipopolysaccharide biosynthesis
+RQ  0
+EV  GenProp1647;
 //

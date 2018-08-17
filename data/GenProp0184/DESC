@@ -230,4 +230,24 @@ SN  45
 ID  ThiG-ThiH thiazole phosphate synthase complex
 RQ  0
 EV  GenProp1127;
+--
+SN  46
+ID  Molybdopterin synthase
+RQ  0
+EV  GenProp1138;
+--
+SN  47
+ID  Molybdopterin-synthase adenylyltransferase complex
+RQ  0
+EV  GenProp1158;
+--
+SN  48
+ID  Superpathway of coenzyme A biosynthesis III (mammals)
+RQ  0
+EV  GenProp1561;
+--
+SN  49
+ID  Superpathway of coenzyme A biosynthesis I (bacteria)
+RQ  0
+EV  GenProp1601;
 //
