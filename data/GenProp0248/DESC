@@ -30,4 +30,9 @@ SN  5
 ID  OMP chaperone system: SurA-Skp-DegP
 RQ  0
 EV  GenProp0928;
+--
+SN  6
+ID  GroEL-GroES complex
+RQ  0
+EV  GenProp1181;
 //
