@@ -160,4 +160,9 @@ SN  31
 ID  NADH to cytochrome bo oxidase electron transfer I
 RQ  0
 EV  GenProp1751;
+--
+SN  32
+ID  Respiratory chain complex II
+RQ  0
+EV  GenProp1112;
 //
