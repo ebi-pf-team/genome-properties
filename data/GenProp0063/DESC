@@ -190,4 +190,34 @@ SN  37
 ID  Dha Kinase
 RQ  0
 EV  GenProp1146;
+--
+SN  38
+ID  Superpathway of arginine and polyamine biosynthesis
+RQ  0
+EV  GenProp1253;
+--
+SN  39
+ID  Superpathway of S-adenosyl-L-methionine biosynthesis
+RQ  0
+EV  GenProp1258;
+--
+SN  40
+ID  Nitric oxide biosynthesis II (mammals)
+RQ  0
+EV  GenProp1320;
+--
+SN  41
+ID  Superpathway of geranylgeranyl diphosphate biosynthesis II (via MEP)
+RQ  0
+EV  GenProp1322;
+--
+SN  42
+ID  Superpathway of geranylgeranyldiphosphate biosynthesis I (via mevalonate)
+RQ  0
+EV  GenProp1541;
+--
+SN  43
+ID  Superpathway of polyamine biosynthesis I
+RQ  0
+EV  GenProp1596;
 //
