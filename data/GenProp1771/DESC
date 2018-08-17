@@ -90,4 +90,14 @@ SN  17
 ID  Pyruvate decarboxylation to acetyl CoA
 RQ  0
 EV  GenProp1536;
+--
+SN  18
+ID  Superpathway of beta-D-glucuronosides degradation
+RQ  0
+EV  GenProp1387;
+--
+SN  19
+ID  Superpathway of acetate utilization and formation
+RQ  0
+EV  GenProp1749;
 //
