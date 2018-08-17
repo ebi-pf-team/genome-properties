@@ -79,4 +79,9 @@ SN  14
 ID  Very long chain fatty acid biosynthesis I
 RQ  0
 EV  GenProp1569;
+--
+SN  15
+ID  Acetyl-CoA carboxylase complex
+RQ  0
+EV  GenProp1111;
 //
