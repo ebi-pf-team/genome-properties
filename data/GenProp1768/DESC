@@ -40,4 +40,9 @@ SN  7
 ID  Ethylene glycol degradation
 RQ  0
 EV  GenProp1370;
+--
+SN  8
+ID  Superpathway of glycol metabolism and degradation
+RQ  0
+EV  GenProp1297;
 //
