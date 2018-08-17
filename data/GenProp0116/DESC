@@ -68,4 +68,9 @@ SN  12
 ID  DnaB-DnaG complex
 RQ  0
 EV  GenProp1123;
+--
+SN  13
+ID  DnaB-DnaC-DnaT-PriA-PriB complex
+RQ  0
+EV GenProp1130;
 //
