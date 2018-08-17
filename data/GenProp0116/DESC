@@ -58,4 +58,9 @@ SN  10
 ID  Replication initiation, bacterial
 RQ  0
 EV  GenProp0806;
+--
+SN  11
+ID  DnaB-DnaC complex
+RQ  0
+EV  GenProp1118;
 //
