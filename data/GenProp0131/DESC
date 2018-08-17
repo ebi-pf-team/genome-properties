@@ -175,4 +175,9 @@ SN  34
 ID  Formate dehydrogenase N complex
 RQ  0
 EV  GenProp1135;
+--
+SN  35
+ID  Cytochrome bd-I ubiquinol oxidase complex
+RQ  0
+EV  GenProp1141;
 //
