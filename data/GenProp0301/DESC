@@ -79,4 +79,9 @@ SN  15
 ID  Executor caspases of apoptosis
 RQ  0
 EV  GenProp2019;
+--
+SN  16
+ID  KICSTOR complex
+RQ  0
+EV  GenProp2026;
 //
