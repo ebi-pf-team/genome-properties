@@ -156,4 +156,34 @@ SN  30
 ID  Protein ubiquitination
 RQ  0
 EV  GenProp1754;
+--
+SN  31
+ID  Superpathway of heme b biosynthesis from uroporphyrinogen-III
+RQ  0
+EV  GenProp1470;
+--
+SN  32
+ID  Superpathway of menaquinol-8 biosynthesis I
+RQ  0
+EV  GenProp1498;
+--
+SN  33
+ID  Superpathway of ubiquinol-8 biosynthesis (prokaryotic)
+RQ  0
+EV  GenProp1585;
+--
+SN  34
+ID  Superpathway of demethylmenaquinol-8 biosynthesis I
+RQ  0
+EV  GenProp1694;
+--
+SN  35
+ID  Superpathay of heme b biosynthesis from glutamate
+RQ  0
+EV  GenProp1716;
+--
+SN  36
+ID  Superpathway of b heme biosynthesis from glycine
+RQ  0
+EV  GenProp1720;
 //
