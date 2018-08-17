@@ -100,4 +100,14 @@ SN  19
 ID  Fucose degradation
 RQ  0
 EV  GenProp1680;
+--
+SN  20
+ID  Superpathway of fucose and rhamnose degradation
+RQ  0
+EV  GenProp1529;
+--
+SN  21
+ID  Superpathway of D-glucarate and D-galactarate degradation
+RQ  0
+EV  GenProp1675;
 //
