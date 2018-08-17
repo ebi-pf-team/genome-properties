@@ -190,4 +190,14 @@ SN  37
 ID  DMSO reductase complex
 RQ  0
 EV  GenProp1148;
+--
+SN  38
+ID  Respiratory chain complex I
+RQ  0
+EV  GenProp1198;
+--
+SN  39
+ID  Cytochrome bd-II ubiquinol oxidase complex
+RQ  0
+EV  GenProp1202;
 //
