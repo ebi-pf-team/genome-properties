@@ -48,7 +48,7 @@ GenProp0302	Protein repair
 GenProp0303	Detoxification
 GenProp0462	Response to stress
 GenProp0475	Unknown biological process
-GenProp0551	Regulatory systems
+GenProp0551	Gene regulatory systems
 GenProp0603	Lifestyle
 GenProp0731	Amino acid metabolism
 GenProp0733	Amino acid salvage
@@ -67,3 +67,21 @@ GenProp1048	Quorum-sensing, biofilm formation, and developmental systems
 GenProp1067	Defense systems
 GenProp1106	CRISPR systems
 GenProp1107	Viral protein sets
+GenProp1211	Regulatory systems
+GenProp1212	Regulation of biological processes
+GenProp1213	Response to stimulus
+GenProp1214	Transcription
+GenProp1765	Vitamin Biosynthesis
+GenProp1766	Hormone biosynthesis
+GenProp1767	Secondary metabolites biosynthesis
+GenProp1768	Alcohols degradation
+GenProp1769	Amines and polyamines catabolism
+GenProp1770	Carbohydrates degradation
+GenProp1771	Carboxylates degradation
+GenProp1772	Fatty acids degradation
+GenProp1773	Lipid degradation
+GenProp1774	Inorganic nutrients metabolism
+GenProp1775	Secondary metabolites degradation
+GenProp1776	Nucleosides and nucleotides degradation
+GenProp1777	Nucleic acids processing
+GenProp1778	Endocrine system

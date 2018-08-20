@@ -1,2 +1,2 @@
-Genome Properties version: v1.1
-Dependency on InterProScan version: 5.27-66.0
+Genome Properties version: v2.0
+Dependency on InterProScan version: 5.30-69.0
