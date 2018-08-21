@@ -72,7 +72,7 @@ EV  GenProp1123;
 SN  13
 ID  DnaB-DnaC-DnaT-PriA-PriB complex
 RQ  0
-EV GenProp1130;
+EV  GenProp1130;
 --
 SN  14
 ID  MukBEF condensin complex

@@ -46,7 +46,7 @@ GenProp0144	Chlorophyllide a biosynthesis from protoporphyrin IX	NO
 GenProp0146	Bacteriochlorophyll biosynthesis from chlorophyllide a	NO
 GenProp0147	Glycine betaine biosynthesis from choline	NO
 GenProp0150	Chlorophyll biosynthesis from chlorophyllide a	NO
-GenProp0151	Resistance to mercury	PARTIAL
+GenProp0151	Resistance to mercury	NO
 GenProp0155	Dissimilatory sulfate reduction	NO
 GenProp0156	Cyanophycin-like storage polymers	NO
 GenProp0159	Threonine biosynthesis from aspartate semialdehyde	PARTIAL
@@ -98,7 +98,7 @@ GenProp0233	GABA utilization	NO
 GenProp0236	Phosphonates ABC transport	NO
 GenProp0238	2-aminoethylphosphonate catabolism to acetaldehyde	NO
 GenProp0240	Propionyl-CoA catabolism via methylcitric acid	NO
-GenProp0241	Phosphonate catabolism	YES
+GenProp0241	Phosphonate catabolism	NO
 GenProp0244	Chaperone system: DnaK-DnaJ-GrpE	YES
 GenProp0245	Chaperone system: GroEL/GroES	YES
 GenProp0246	Chaperone system: thermosome/prefoldin	NO
@@ -131,7 +131,7 @@ GenProp0289	Class I (aerobic) ribonucleotide reductase	NO
 GenProp0290	Class II (B12-dependent) ribonucleotide reductase	NO
 GenProp0291	Class III (anaerobic) ribonucleotide reductase	NO
 GenProp0292	Ethanolamine degradation organelle	PARTIAL
-GenProp0294	Ethanolamine degradation proteinaceous organelle	PARTIAL
+GenProp0294	Ethanolamine degradation proteinaceous organelle	NO
 GenProp0295	Prokaryotic N-terminal cleavage/methylation, type IV pilin-like	PARTIAL
 GenProp0304	Cysteine biosynthesis, tRNA-dependent	NO
 GenProp0305	Cysteine biosynthesis	YES
@@ -192,7 +192,7 @@ GenProp0614	Cytochrome c oxidase, mitochondrial, caa3-type	PARTIAL
 GenProp0615	Cytochrome c based oxygen reduction and quinone re-oxidation	YES
 GenProp0616	Single complex oxygen reduction and quinone re-oxidation	YES
 GenProp0617	Cytochrome (quinone) oxidase, bd type	YES
-GenProp0618	Cytochrome (quinone) oxidase, bo type	PARTIAL
+GenProp0618	Cytochrome (quinone) oxidase, bo type	NO
 GenProp0620	Cytochrome (quinone) oxidase, aa3 type, QoxABCD	NO
 GenProp0624	Sulfite reductase complex, Salmonella/Clostridium type	NO
 GenProp0626	Protein sorting system, sortase type, LPXTG/SrtA class	NO
@@ -244,7 +244,7 @@ GenProp0683	Cytochrome c nitrite reductase NrfHA	NO
 GenProp0684	FtsH/HflKC protease complex	PARTIAL
 GenProp0685	CRISPR system, I-D/Cyano subtype	PARTIAL
 GenProp0686	Allantoin catabolism to glyoxalate and urea	NO
-GenProp0687	Allantoin catabolism to oxamate and carbamoyl-phosphate	PARTIAL
+GenProp0687	Allantoin catabolism to oxamate and carbamoyl-phosphate	NO
 GenProp0688	Urate catabolism to allantoin	NO
 GenProp0689	Glyoxalate conversion to phosphoglycerate	PARTIAL
 GenProp0691	Glycolysis	YES
@@ -269,14 +269,14 @@ GenProp0709	Benzoate catabolism BoxABC pathway	NO
 GenProp0710	Generic phosphonates utilization	NO
 GenProp0711	Catechol ortho-cleavage upper pathway	NO
 GenProp0712	2-aminoethylphosphonate (AEP) ABC transporter, type I, PhnSTUV	NO
-GenProp0713	2-aminoethylphosphonate catabolism via phosphonoacetate	PARTIAL
+GenProp0713	2-aminoethylphosphonate catabolism via phosphonoacetate	NO
 GenProp0714	Galactarate utilization via tartronate semi-aldehyde	NO
 GenProp0715	Galactarate utilization via 2-oxoglutarate semialdehyde	PARTIAL
-GenProp0716	Glucarate utilization via tartronate semi-aldehyde	PARTIAL
+GenProp0716	Glucarate utilization via tartronate semi-aldehyde	NO
 GenProp0717	Glucarate utilization via 2-oxoglutarate semialdehyde	PARTIAL
 GenProp0718	Oxalate degradation	NO
 GenProp0719	Methyl-coenzyme M reductase	NO
-GenProp0720	2-aminoethylphosphonate utilization	PARTIAL
+GenProp0720	2-aminoethylphosphonate utilization	NO
 GenProp0721	2-aminoethylphosphonate (AEP) ABC transporter, type II	NO
 GenProp0722	Methanogenesis marker set	NO
 GenProp0723	Hydrogenase, nickel and F420-dependent	NO
@@ -307,7 +307,7 @@ GenProp0751	Acidobacterial ADOP/PadR gene pairs	NO
 GenProp0752	Ergothioneine biosynthesis	NO
 GenProp0753	Mycothiol biosynthesis	PARTIAL
 GenProp0754	Acetate production from acetylphosphate	NO
-GenProp0756	Fumarate reductase complex	PARTIAL
+GenProp0756	Fumarate reductase complex	NO
 GenProp0757	Quorum-sensing, autoinducer-2 system	NO
 GenProp0758	Lycopene biosynthesis from IPP	YES
 GenProp0759	Para-aminobenzoic acid (PABA) biosynthesis from chorismate	NO
@@ -319,7 +319,7 @@ GenProp0778	Protein sorting system, GlyGly-CTERM/rhombosortase	NO
 GenProp0781	Gliding motility, Bacteroidetes type	NO
 GenProp0786	Lysine biosynthesis via diaminopimelate (DAP), succinylated branch	PARTIAL
 GenProp0787	Lysine biosynthesis via diaminopimelate (DAP), acetylated branch	NO
-GenProp0788	Lysine biosynthesis via diaminopimelate (DAP) utilizing ammonia and NADPH	PARTIAL
+GenProp0788	Lysine biosynthesis via diaminopimelate (DAP) utilizing ammonia and NADPH	NO
 GenProp0789	Homocysteine regeneration from S-adenosylhomocysteine	YES
 GenProp0790	Sporadic pair TIGR03545/TIGR03546	NO
 GenProp0791	Coenzyme F420 biosynthesis	PARTIAL
@@ -510,6 +510,690 @@ GenProp1101	Quinoprotein cytochrome relay system	NO
 GenProp1102	Protein sorting system, CGP-CTERM/unknown of Thermococcaceae	NO
 GenProp1103	Protein sorting system, Synergist-CTERM/unknown of Synergistetes	NO
 GenProp1104	Acyl carrier protein phosphopantetheinylation	YES
+GenProp1108	Endopeptidase ClpXP complex	YES
+GenProp1109	UvrAB complex	YES
+GenProp1111	Acetyl-CoA carboxylase complex	NO
+GenProp1112	Respiratory chain complex II	NO
+GenProp1113	DnaA-Dps complex	NO
+GenProp1114	ATP-dependent methionine-importing complex	NO
+GenProp1115	LptDE outer membrane translocon complex	NO
+GenProp1116	Bam complex	NO
+GenProp1117	DNA polymerase III clamp loader chi-psi subcomplex	NO
+GenProp1118	DnaB-DnaC complex	YES
+GenProp1119	p-aminobenzoyl-glutamate hydrolase	NO
+GenProp1120	HipBA toxin-antitoxin complex	NO
+GenProp1121	ModE complex	NO
+GenProp1122	Nitrate reductase A complex	NO
+GenProp1123	DnaB-DnaG complex	YES
+GenProp1124	UgpAEC-UgpB complex	NO
+GenProp1125	DinJ-YafQ toxin-antitoxin complex	NO
+GenProp1126	ProVWX complex	NO
+GenProp1127	ThiG-ThiH thiazole phosphate synthase complex	NO
+GenProp1129	Carbamoyl phosphate synthetase complex	YES
+GenProp1130	DnaB-DnaC-DnaT-PriA-PriB complex	NO
+GenProp1131	Glutathione-regulated potassium-efflux system KefB-KefG complex	NO
+GenProp1132	Holo-translocon SecYEG-SecDF-YajC-YidC complex	NO
+GenProp1133	YoeB-YefM toxin-antitoxin complex	NO
+GenProp1134	TusBCDE complex	NO
+GenProp1135	Formate dehydrogenase N complex	NO
+GenProp1136	Twin-arginine translocation complex	NO
+GenProp1137	Endopeptidase ClpAP complex	NO
+GenProp1138	Molybdopterin synthase	NO
+GenProp1139	Chemotaxis phosphorelay complex CheY-CheZ	NO
+GenProp1140	IHF complex	NO
+GenProp1141	Cytochrome bd-I ubiquinol oxidase complex	NO
+GenProp1142	FtsQBL complex 	NO
+GenProp1143	Plasma membrane fumarate reductase complex	NO
+GenProp1144	IscS-ThiL complex	NO
+GenProp1146	Dha Kinase	NO
+GenProp1147	Chemotaxis phosphorelay complex CheA-CheY	YES
+GenProp1148	DMSO reductase complex	NO
+GenProp1149	Topoisomerase IV	NO
+GenProp1150	Cobalamin transport complex	NO
+GenProp1151	MacAB-TolC complex	NO
+GenProp1152	DnaA-DnaB complex	YES
+GenProp1153	TRCF-UvrA complex	YES
+GenProp1154	FtsBL complex	NO
+GenProp1155	DNA polymerase III proofreading complex	NO
+GenProp1156	BtuCD complex	NO
+GenProp1157	Vitamin B12 outer membrane transporter complex	NO
+GenProp1158	Molybdopterin-synthase adenylyltransferase complex	NO
+GenProp1159	Enzyme IIA-maltose transporter complex	NO
+GenProp1160	Glutathione-regulated potassium-efflux system KefC-KefF complex	NO
+GenProp1161	TusE-MnmA complex	NO
+GenProp1162	Hda-beta clamp complex	NO
+GenProp1163	IscS-IscU complex	NO
+GenProp1164	Cytochrome o ubiquinol oxidase complex	NO
+GenProp1165	PhnGHIJKL complex	NO
+GenProp1166	Degradosome	NO
+GenProp1167	Ethanolamine ammonia-lyase complex	NO
+GenProp1168	Cus cation efflux complex	NO
+GenProp1171	YgjD-YeaZ-YjeE complex	NO
+GenProp1172	Aspartate carbamoyltransferase complex	NO
+GenProp1173	HslUV protease complex	NO
+GenProp1174	CdsA-CdsE complex	NO
+GenProp1175	ThiF-ThiS complex	NO
+GenProp1176	Protein-conducting channel SecYEG complex	YES
+GenProp1178	GyrA-GyrB complex	NO
+GenProp1179	Cascade complex	YES
+GenProp1180	MukBEF condensin complex	NO
+GenProp1181	GroEL-GroES complex	YES
+GenProp1182	H-NS-Hha complex	NO
+GenProp1183	Flagellar Motor Switch Complex, CCW variant	YES
+GenProp1184	Sigma-E factor negative regulation complex	NO
+GenProp1186	DnaA-Hda complex	NO
+GenProp1187	DnaB-DnaC-DnaT-PriA-PriC complex	NO
+GenProp1188	Exodeoxyribonuclease V complex	NO
+GenProp1189	MqsRA toxin-antitoxin complex	NO
+GenProp1190	UvrBC complex	YES
+GenProp1191	Ribonucleoside-diphosphate reductase complex	NO
+GenProp1192	SufBCD complex	YES
+GenProp1193	RelBE toxin-antitoxin complex	NO
+GenProp1194	Flagellar Motor Switch Complex, CW variant	YES
+GenProp1195	DnaA-L2	YES
+GenProp1196	Cas1-Cas2 complex	YES
+GenProp1197	IscS-TusA complex	NO
+GenProp1198	Respiratory chain complex I	NO
+GenProp1199	MdtBC complex	NO
+GenProp1200	DnaA-DnaB-DnaC complex	YES
+GenProp1201	Succinyl-CoA synthetase	YES
+GenProp1202	Cytochrome bd-II ubiquinol oxidase complex	YES
+GenProp1204	Maltose transport complex	NO
+GenProp1205	Trimethylamine-N-oxide reductase TorAC complex	NO
+GenProp1206	H-NS-Cnu complex	NO
+GenProp1207	DnaA-HU complex variant 1	NO
+GenProp1208	DnaB-DnaC-Rep-PriC complex	NO
+GenProp1209	Hydrogenase-1 complex	NO
+GenProp1210	DnaA-DiaA complex	NO
+GenProp1215	Siroheme biosynthesis	YES
+GenProp1216	Tetrahydrofolate salvage from 5,10-methenyltetrahydrofolate	PARTIAL
+GenProp1217	Superpathway of steroid hormone biosynthesis	NO
+GenProp1218	Hydroxymethylpyrimidine salvage	NO
+GenProp1219	Thiamine salvage I	PARTIAL
+GenProp1220	Fatty acid biosynthesis initiation II	YES
+GenProp1221	Pyrimidine deoxyribonucleosides salvage	NO
+GenProp1222	UDP-N-acetyl-D-glucosamine biosynthesis II	PARTIAL
+GenProp1223	L-threonine degradation V	YES
+GenProp1224	Lipoate salvage I	NO
+GenProp1225	D-galactarate degradation I	NO
+GenProp1226	Pyruvate fermentation to ethanol II	YES
+GenProp1227	Guanosine deoxyribonucleotides de novo biosynthesis I	PARTIAL
+GenProp1228	L-idonate degradation	YES
+GenProp1229	D-myo-inositol (1,3,4)-trisphosphate biosynthesis	NO
+GenProp1230	Aerobic respiration III (alternative oxidase pathway)	PARTIAL
+GenProp1231	2-Hydroxypenta-2,4-dienoate degradation	NO
+GenProp1233	L-glutamate degradation II	PARTIAL
+GenProp1234	Superpathway of L-tyrosine biosynthesis	YES
+GenProp1235	Adenine and adenosine salvage III	NO
+GenProp1236	Retinoate biosynthesis II	NO
+GenProp1237	Lipoate biosynthesis and incorporation I	YES
+GenProp1238	L-cysteine biosynthesis IV (fungi)	PARTIAL
+GenProp1239	ADP-L-glycero-beta-D-manno-heptose biosynthesis	NO
+GenProp1240	Ketolysis	PARTIAL
+GenProp1241	Wybutosine biosynthesis	NO
+GenProp1242	Muropeptide degradation	NO
+GenProp1243	Salicylate biosynthesis I	NO
+GenProp1244	Myo-inositol biosynthesis	PARTIAL
+GenProp1245	L-tyrosine degradation III	YES
+GenProp1246	Zymosterol biosynthesis	NO
+GenProp1247	Glycogen biosynthesis I (from ADP-D-Glucose)	NO
+GenProp1248	Fructose 2,6-bisphosphate biosynthesis	YES
+GenProp1249	1D-myo-inositol hexakisphosphate biosynthesis I (from Ins(1,4,5)P3)	NO
+GenProp1250	Aspartate superpathway	NO
+GenProp1251	L-tyrosine biosynthesis I	YES
+GenProp1252	Cardiolipin biosynthesis III	NO
+GenProp1253	Superpathway of arginine and polyamine biosynthesis	PARTIAL
+GenProp1254	NADH to hydrogen peroxide electron transfer	YES
+GenProp1255	Adenosine nucleotides degradation II	NO
+GenProp1256	Pyruvate to cytochrome bo oxidase electron transfer	YES
+GenProp1257	Allantoin degradation to glyoxylate I	NO
+GenProp1258	Superpathway of S-adenosyl-L-methionine biosynthesis	PARTIAL
+GenProp1259	Glycogen degradation II	NO
+GenProp1260	UDP-alpha-D-xylose biosynthesis	PARTIAL
+GenProp1261	Cytokinins 7-N-glucoside biosynthesis	NO
+GenProp1262	UTP and CTP de novo biosynthesis	YES
+GenProp1263	Methylglyoxal degradation III	YES
+GenProp1264	Superpathway of pyrimidine deoxyribonucleoside salvage	NO
+GenProp1265	Glyoxylate cycle	NO
+GenProp1266	Superpathway of thiamine diphosphate biosynthesis II	YES
+GenProp1267	Mixed acid fermentation	NO
+GenProp1268	Adenine salvage	PARTIAL
+GenProp1269	Pyruvate to cytochrome bd oxidase electron transfer	YES
+GenProp1270	Enterobacterial common antigen biosynthesis	NO
+GenProp1271	Myo-, chiro- and scyllo-inositol degradation	NO
+GenProp1272	Spermine and spermidine degradation III	YES
+GenProp1273	Thymine degradation	PARTIAL
+GenProp1274	D-serine metabolism	YES
+GenProp1275	Glycine cleavage	PARTIAL
+GenProp1276	Putrescine degradation V	YES
+GenProp1277	Sphingosine and sphingosine-1-phosphate metabolism	NO
+GenProp1278	Purine ribonucleosides degradation	NO
+GenProp1279	Superpathway of L-arginine, putrescine, and 4-aminobutanoate degradation	NO
+GenProp1280	L-arginine degradation II (AST pathway)	NO
+GenProp1281	Hydrogen sulfide biosynthesis I	YES
+GenProp1282	L-arginine degradation III (arginine decarboxylase/agmatinase pathway)	PARTIAL
+GenProp1283	Sulfate reduction I (assimilatory)	NO
+GenProp1284	5-Aminoimidazole ribonucleotide biosynthesis I	PARTIAL
+GenProp1286	Myo-inositol degradation I	NO
+GenProp1287	3-Phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation to 2-hydroxypentadienoate	PARTIAL
+GenProp1288	GABA shunt	NO
+GenProp1289	Thiamine salvage II	PARTIAL
+GenProp1290	Lipid IVA biosynthesis	NO
+GenProp1291	Superpathway of chorismate metabolism	NO
+GenProp1292	L-tryptophan degradation VIII (to tryptophol)	PARTIAL
+GenProp1293	Chitobiose degradation	PARTIAL
+GenProp1294	Pentose phosphate pathway (non-oxidative branch)	YES
+GenProp1295	Methylerythritol phosphate pathway I	NO
+GenProp1296	NAD biosynthesis III	YES
+GenProp1297	Superpathway of glycol metabolism and degradation	PARTIAL
+GenProp1298	Lipoate biosynthesis and incorporation II	PARTIAL
+GenProp1299	2-O-alpha-mannosyl-D-glycerate degradation	PARTIAL
+GenProp1300	Urea cycle	PARTIAL
+GenProp1301	Superpathway of sulfate assimilation and cysteine biosynthesis	NO
+GenProp1302	Galactolipid biosynthesis I	NO
+GenProp1303	N-acetylglucosamine degradation I	NO
+GenProp1304	Globo-series glycosphingolipids biosynthesis	NO
+GenProp1305	NAD phosphorylation and transhydrogenation	YES
+GenProp1306	Glycolysis I (from glucose 6-phosphate)	NO
+GenProp1307	Superpathway of pyrimidine nucleobases salvage	PARTIAL
+GenProp1308	Fatty acid beta-oxidation VI (peroxisome)	YES
+GenProp1309	Superpathway of L-phenylalanine biosynthesis	YES
+GenProp1310	D-galactose degradation I (Leloir pathway)	NO
+GenProp1311	Protein NEDDylation	NO
+GenProp1312	Aminopropanol phosphate biosynthesis I	PARTIAL
+GenProp1313	tRNA-uridine 2-thiolation (mammalian mitochondria)	NO
+GenProp1315	Fatty acid biosynthesis initiation III	YES
+GenProp1316	Phosphatidate biosynthesis (yeast)	NO
+GenProp1317	Protein Pupylation and dePupylation	YES
+GenProp1318	Superpathway of pyrimidine ribonucleotides de novo biosynthesis	YES
+GenProp1320	Nitric oxide biosynthesis II (mammals)	YES
+GenProp1321	Retinoate biosynthesis I	NO
+GenProp1322	Superpathway of geranylgeranyl diphosphate biosynthesis II (via MEP)	YES
+GenProp1323	Purine deoxyribonucleosides degradation I	NO
+GenProp1324	Glycerol degradation V	PARTIAL
+GenProp1325	Superpathway of (Kdo)2-lipid A biosynthesis	NO
+GenProp1326	Allantoin degradation to ureidoglycolate II (ammonia producing)	NO
+GenProp1327	Lipoprotein posttranslational modification	NO
+GenProp1328	L-isoleucine degradation II	PARTIAL
+GenProp1329	Nitrate reduction III (dissimilatory)	NO
+GenProp1330	UDP-beta-L-arabinose biosynthesis II (from beta-L-arabinose)	PARTIAL
+GenProp1331	Pyocyanin biosynthesis	PARTIAL
+GenProp1332	Superpathway of tetrahydrofolate biosynthesis	YES
+GenProp1333	Superpathway of L-alanine biosynthesis	PARTIAL
+GenProp1334	L-leucine degradation III	PARTIAL
+GenProp1335	Ceramide degradation	PARTIAL
+GenProp1336	2,3-Dihydroxybenzoate biosynthesis	PARTIAL
+GenProp1337	Vitamin E biosynthesis (tocopherols)	NO
+GenProp1338	Estradiol biosynthesis I (via estrone)	NO
+GenProp1339	Alpha-linolenate biosynthesis I (plants and red algae)	NO
+GenProp1340	5-(Carboxymethoxy)uridine biosynthesis	NO
+GenProp1341	NADH to trimethylamine N-oxide electron transfer	PARTIAL
+GenProp1342	Pyruvate fermentation to isobutanol (engineered)	YES
+GenProp1343	Guanosine deoxyribonucleotides de novo biosynthesis II	NO
+GenProp1344	Gluconeogenesis I	NO
+GenProp1345	Acetate formation from acetyl-CoA I	NO
+GenProp1346	Glutathione degradation (DUG pathway - yeast)	YES
+GenProp1347	UDP-alpha-D-glucuronate biosynthesis (from myo-inositol)	NO
+GenProp1348	2-Oxoglutarate decarboxylation to succinyl-CoA	PARTIAL
+GenProp1349	Superpathway of adenosylcobalamin salvage from cobinamide I	YES
+GenProp1351	Phosphatidylcholine biosynthesis I	PARTIAL
+GenProp1352	Phosphatidylcholine resynthesis via glycerophosphocholine	YES
+GenProp1353	Superpathway of photosynthetic hydrogen production	NO
+GenProp1354	mRNA capping I	NO
+GenProp1355	Chlorophyll a biosynthesis II	PARTIAL
+GenProp1356	N10-formyl-tetrahydrofolate biosynthesis	NO
+GenProp1357	L-citrulline degradation	NO
+GenProp1358	Superpathway of L-threonine biosynthesis	PARTIAL
+GenProp1359	Glutathione biosynthesis	NO
+GenProp1360	tRNA processing	NO
+GenProp1361	Pyrimidine nucleobases salvage II	PARTIAL
+GenProp1362	Putrescine degradation I	PARTIAL
+GenProp1363	Sphingolipid recycling and degradation (yeast)	NO
+GenProp1364	Hentriaconta-3,6,9,12,15,19,22,25,28-nonaene biosynthesis	PARTIAL
+GenProp1365	L-asparagine degradation III (mammalian)	YES
+GenProp1366	2-Methyladeninyl adenosylcobamide biosynthesis from adenosylcobinamide-GDP	YES
+GenProp1367	D-lactate to cytochrome bo oxidase electron transfer	YES
+GenProp1368	L-arabinose degradation I	NO
+GenProp1369	Superpathway of pyrimidine ribonucleosides salvage	NO
+GenProp1370	Ethylene glycol degradation	PARTIAL
+GenProp1371	Uracil degradation I (reductive)	PARTIAL
+GenProp1372	Adenosine ribonucleotides de novo biosynthesis	YES
+GenProp1373	NADH to cytochrome bd oxidase electron transfer II	YES
+GenProp1374	Glycolate and glyoxylate degradation I	NO
+GenProp1375	L-tyrosine degradation I	NO
+GenProp1376	Very long chain fatty acid biosynthesis II	NO
+GenProp1377	Biotin biosynthesis from 8-amino-7-oxononanoate I	NO
+GenProp1378	Adeninyl adenosylcobamide biosynthesis from adenosylcobinamide-GDP	YES
+GenProp1379	Ethanol degradation IV	PARTIAL
+GenProp1380	Superpathway of pyrimidine ribonucleosides degradation	PARTIAL
+GenProp1381	Methylphosphonate degradation I	NO
+GenProp1382	Phytyl diphosphate biosynthesis	YES
+GenProp1383	Glutaminyl-tRNAgln biosynthesis via transamidation	YES
+GenProp1384	Pyrimidine ribonucleosides salvage I	NO
+GenProp1385	Progesterone biosynthesis	NO
+GenProp1386	Superpathway of L-serine and glycine biosynthesis I	YES
+GenProp1387	Superpathway of beta-D-glucuronosides degradation	NO
+GenProp1388	Pterostilbene biosynthesis	NO
+GenProp1389	Superpathway of guanosine nucleotides de novo biosynthesis I	NO
+GenProp1390	Choline degradation I	PARTIAL
+GenProp1391	Glycerol-3-phosphate to fumarate electron transfer	PARTIAL
+GenProp1392	Sulfate reduction II (assimilatory)	NO
+GenProp1393	Allantoin degradation to glyoxylate II	YES
+GenProp1394	Trehalose degradation I (low osmolarity)	PARTIAL
+GenProp1395	Superpathway of D-myo-inositol (1,4,5)-trisphosphate metabolism	PARTIAL
+GenProp1396	UTP and CTP dephosphorylation II	NO
+GenProp1397	(Kdo)2-lipid A biosynthesis I	YES
+GenProp1398	Poly(glycerol phosphate) wall teichoic acid biosynthesis	NO
+GenProp1399	Superpathway of L-cysteine biosynthesis (mammalian)	PARTIAL
+GenProp1400	Queuosine biosynthesis	PARTIAL
+GenProp1401	Proline to cytochrome bo oxidase electron transfer	YES
+GenProp1402	Phenylethylamine degradation I	PARTIAL
+GenProp1403	dTDP-N-acetylthomosamine biosynthesis	NO
+GenProp1404	Superpathway of L-aspartate and L-asparagine biosynthesis	NO
+GenProp1405	Superpathway of branched chain amino acid biosynthesis	YES
+GenProp1406	Superpathway of purine nucleotides de novo biosynthesis I	NO
+GenProp1407	Glycolysis II (from fructose 6-phosphate)	NO
+GenProp1408	2-Oxoisovalerate decarboxylation to isobutanoyl-CoA	YES
+GenProp1409	Bis(guanylyl molybdenum cofactor) biosynthesis	NO
+GenProp1410	Pyrimidine deoxyribonucleosides degradation	NO
+GenProp1411	All-trans-farnesol biosynthesis	NO
+GenProp1412	Glycogen degradation I	NO
+GenProp1413	Mitochondrial L-carnitine shuttle	NO
+GenProp1414	Glycine betaine degradation II (mammalian)	YES
+GenProp1415	Superpathway of fatty acid biosynthesis initiation (E. coli)	PARTIAL
+GenProp1416	Allantoin degradation to glyoxylate III	NO
+GenProp1417	Estradiol biosynthesis II	NO
+GenProp1418	UMP biosynthesis III	NO
+GenProp1419	Superpathway of L-methionine biosynthesis (transsulfuration)	PARTIAL
+GenProp1420	Gibberellin inactivation II (methylation)	NO
+GenProp1421	Heme b biosynthesis I (aerobic)	NO
+GenProp1423	Sphingolipid biosynthesis (yeast)	NO
+GenProp1424	Two-component alkanesulfonate monooxygenase	NO
+GenProp1425	Pyruvate fermentation to ethanol I	NO
+GenProp1426	Aerobic respiration II (cytochrome c) (yeast)	PARTIAL
+GenProp1427	UMP biosynthesis I	PARTIAL
+GenProp1428	L-arginine degradation I (arginase pathway)	PARTIAL
+GenProp1429	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	YES
+GenProp1430	Adenine and adenosine salvage II	NO
+GenProp1431	L-arginine degradation IV (arginine decarboxylase/agmatine deiminase pathway)	PARTIAL
+GenProp1432	Mevalonate pathway I	NO
+GenProp1433	Aminopropylcadaverine biosynthesis	NO
+GenProp1434	Putrescine degradation II	YES
+GenProp1436	Superpathway of mycolate biosynthesis	YES
+GenProp1437	Ethanol degradation III	PARTIAL
+GenProp1438	Pentose phosphate pathway	PARTIAL
+GenProp1439	2-Oxobutanoate degradation I	YES
+GenProp1441	Acetoacetate degradation (to acetyl CoA)	PARTIAL
+GenProp1442	Protein O-[N-acetyl]-glucosylation	NO
+GenProp1443	UDP-N-acetyl-D-glucosamine biosynthesis I	NO
+GenProp1444	Complex N-linked glycan biosynthesis (plants)	NO
+GenProp1445	L-threonine degradation IV	PARTIAL
+GenProp1446	Adenosine deoxyribonucleotides de novo biosynthesis II	NO
+GenProp1447	Methanogenesis from methylthiopropanoate	YES
+GenProp1448	UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)	NO
+GenProp1449	D-fructuronate degradation	NO
+GenProp1450	L-tryptophan biosynthesis	YES
+GenProp1451	Beta-carotene biosynthesis	NO
+GenProp1452	Gamma-linolenate biosynthesis II (animals)	PARTIAL
+GenProp1453	Cardiolipin and phosphatidylethanolamine biosynthesis (Xanthomonas)	NO
+GenProp1454	Adenosylcobalamin biosynthesis from adenosylcobinamide-GDP I	YES
+GenProp1455	Protein O-mannosylation III (mammals, core M3)	NO
+GenProp1457	Thiamine diphosphate biosynthesis I (E. coli)	YES
+GenProp1458	Cinnamate and 3-hydroxycinnamate degradation to 2-hydroxypentadienoate	PARTIAL
+GenProp1459	D-galactose detoxification	NO
+GenProp1460	D-myo-inositol (3,4,5,6)-tetrakisphosphate biosynthesis	NO
+GenProp1461	tRNA-uridine 2-thiolation (cytoplasmic)	NO
+GenProp1462	Yersiniabactin biosynthesis	PARTIAL
+GenProp1463	D-allose degradation	YES
+GenProp1464	Indole-3-acetate biosynthesis I	NO
+GenProp1465	Pyrimidine ribonucleosides salvage II	NO
+GenProp1466	L-ornithine biosynthesis I	PARTIAL
+GenProp1467	L-valine degradation II	PARTIAL
+GenProp1468	UDP-2,3-diacetamido-2,3-dideoxy-alpha-D-mannuronate biosynthesis	NO
+GenProp1469	Guanosine nucleotides degradation III	NO
+GenProp1470	Superpathway of heme b biosynthesis from uroporphyrinogen-III	NO
+GenProp1471	Beta-caryophyllene biosynthesis	NO
+GenProp1472	L-ornithine biosynthesis II	PARTIAL
+GenProp1473	Cis-alkene biosynthesis	PARTIAL
+GenProp1474	Nitrate reduction VIIIb (dissimilatory)	PARTIAL
+GenProp1475	Superpathway of L-lysine, L-threonine and L-methionine biosynthesis I	PARTIAL
+GenProp1476	Autoinducer AI-2 degradation	PARTIAL
+GenProp1477	Coenzyme B/coenzyme M regeneration III (coenzyme F420-dependent)	NO
+GenProp1478	Chorismate biosynthesis from 3-dehydroquinate	YES
+GenProp1479	Polyisoprenoid biosynthesis (E. coli)	YES
+GenProp1480	Peptidoglycan biosynthesis I (meso-diaminopimelate containing)	NO
+GenProp1481	Superpathway of L-citrulline metabolism	YES
+GenProp1482	S-methyl-5'-thioadenosine degradation I	NO
+GenProp1483	Glycogen biosynthesis II (from UDP-D-Glucose)	NO
+GenProp1484	Superpathway of guanosine nucleotides de novo biosynthesis II	NO
+GenProp1485	Pyruvate fermentation to acetoin III	YES
+GenProp1486	Oleate beta-oxidation	PARTIAL
+GenProp1487	L-lysine degradation XI (mammalian)	YES
+GenProp1488	Oleate beta-oxidation (thioesterase-dependent, yeast)	YES
+GenProp1489	Ammonia assimilation cycle I	YES
+GenProp1490	Indole-3-acetate inactivation VIII	NO
+GenProp1491	Ac/N-end rule pathway	NO
+GenProp1492	Sucrose degradation III (sucrose invertase)	NO
+GenProp1493	Succinate to cytochrome bo oxidase electron transfer	YES
+GenProp1494	Pyrimidine deoxyribonucleotide phosphorylation	PARTIAL
+GenProp1495	N-end rule pathway I (prokaryotic)	YES
+GenProp1496	Hydrogen production V	YES
+GenProp1497	Ethanol degradation I	PARTIAL
+GenProp1498	Superpathway of menaquinol-8 biosynthesis I	YES
+GenProp1499	L-selenocysteine biosynthesis I (bacteria)	NO
+GenProp1501	Allantoin degradation to ureidoglycolate I (urea producing)	NO
+GenProp1502	NAD/NADP-NADH/NADPH cytosolic interconversion (yeast)	PARTIAL
+GenProp1503	L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde	NO
+GenProp1504	Nitrate reduction X (dissimilatory, periplasmic)	NO
+GenProp1505	Bacillithiol biosynthesis	NO
+GenProp1506	4-Aminobutanoate degradation I	PARTIAL
+GenProp1507	L-homocysteine biosynthesis	PARTIAL
+GenProp1508	Violaxanthin, antheraxanthin and zeaxanthin interconversion	NO
+GenProp1509	1D-myo-inositol hexakisphosphate biosynthesis II (mammalian)	NO
+GenProp1510	Fatty acid beta-oxidation II (peroxisome)	YES
+GenProp1511	D-myo-inositol-5-phosphate metabolism	NO
+GenProp1512	Fatty acid biosynthesis initiation I	NO
+GenProp1513	Superpathway of thiamine diphosphate biosynthesis III (eukaryotes)	NO
+GenProp1514	D-glucarate degradation I	NO
+GenProp1515	Succinate to cytochrome bd oxidase electron transfer	YES
+GenProp1516	Phosphatidylcholine biosynthesis V	YES
+GenProp1517	Ganglio-series glycosphingolipids biosynthesis	NO
+GenProp1518	Lacto-series glycosphingolipids biosynthesis	NO
+GenProp1520	Pentose phosphate pathway (oxidative branch) I	NO
+GenProp1521	tRNA methylation (yeast)	NO
+GenProp1522	Chitin degradation I (archaea)	NO
+GenProp1523	4-Aminobutanoate degradation III	PARTIAL
+GenProp1524	Complex N-linked glycan biosynthesis (vertebrates)	NO
+GenProp1525	Tetrapyrrole biosynthesis II (from glycine)	YES
+GenProp1526	Chondroitin sulfate biosynthesis	NO
+GenProp1527	Myo-inositol degradation II	NO
+GenProp1528	Guanine and guanosine salvage	PARTIAL
+GenProp1529	Superpathway of fucose and rhamnose degradation	NO
+GenProp1530	Superpathway of cholesterol biosynthesis	PARTIAL
+GenProp1533	L-isoleucine degradation I	YES
+GenProp1534	Kanosamine biosynthesis II	NO
+GenProp1535	Formate to trimethylamine N-oxide electron transfer	NO
+GenProp1536	Pyruvate decarboxylation to acetyl CoA	PARTIAL
+GenProp1537	NADH to fumarate electron transfer	YES
+GenProp1538	Superpathway of aromatic amino acid biosynthesis	YES
+GenProp1539	Neolacto-series glycosphingolipids biosynthesis	NO
+GenProp1540	Pyrimidine ribonucleosides salvage III	PARTIAL
+GenProp1541	Superpathway of geranylgeranyldiphosphate biosynthesis I (via mevalonate)	YES
+GenProp1542	Phosphatidylethanolamine biosynthesis I	NO
+GenProp1543	Pyruvate fermentation to acetate IV	NO
+GenProp1544	Fatty acid beta-oxidation (peroxisome, yeast)	YES
+GenProp1545	i antigen and I antigen biosynthesis	NO
+GenProp1546	Sulfoquinovosyl diacylglycerol biosynthesis	YES
+GenProp1547	Anthocyanidin modification (Arabidopsis)	NO
+GenProp1548	D-myo-inositol (1,4,5)-trisphosphate biosynthesis	NO
+GenProp1549	UDP-N-acetyl-alpha-D-mannosaminouronate biosynthesis	NO
+GenProp1550	Superpathway of L-tryptophan biosynthesis	YES
+GenProp1551	L-tryptophan degradation X (mammalian, via tryptamine)	YES
+GenProp1552	Allopregnanolone biosynthesis	PARTIAL
+GenProp1553	L-homoserine biosynthesis	PARTIAL
+GenProp1554	Nitrate reduction V (assimilatory)	PARTIAL
+GenProp1555	tRNA-uridine 2-thiolation (bacteria)	NO
+GenProp1556	Glycolate and glyoxylate degradation II	NO
+GenProp1557	Entner-Doudoroff pathway I	PARTIAL
+GenProp1558	Sterol:steryl ester interconversion (yeast)	NO
+GenProp1559	2'-Deoxy-alpha-D-ribose 1-phosphate degradation	NO
+GenProp1560	2-Carboxy-1,4-naphthoquinol biosynthesis	NO
+GenProp1561	Superpathway of coenzyme A biosynthesis III (mammals)	PARTIAL
+GenProp1562	Fatty acid salvage	YES
+GenProp1563	Glycerol-3-phosphate to cytochrome bo oxidase electron transfer	YES
+GenProp1564	Trehalose degradation II (trehalase)	NO
+GenProp1565	N-acetylglucosamine degradation II	PARTIAL
+GenProp1566	D-galactonate degradation	NO
+GenProp1567	Glycerol degradation I	YES
+GenProp1568	Purine deoxyribonucleosides degradation II	NO
+GenProp1569	Very long chain fatty acid biosynthesis I	NO
+GenProp1570	N6-L-threonylcarbamoyladenosine37-modified tRNA biosynthesis	YES
+GenProp1571	Spermine biosynthesis	NO
+GenProp1572	L-carnitine degradation I	YES
+GenProp1573	Sulfate activation for sulfonation	NO
+GenProp1574	Inositol diphosphates biosynthesis	NO
+GenProp1575	Phospholipid remodeling (phosphatidylethanolamine, yeast)	NO
+GenProp1576	Pyrimidine ribonucleosides degradation	NO
+GenProp1577	Biotin biosynthesis I	PARTIAL
+GenProp1578	Methylglyoxal degradation I	NO
+GenProp1579	4-Aminobutanoate degradation II	PARTIAL
+GenProp1580	Homolactic fermentation	NO
+GenProp1581	L-homoserine and L-methionine biosynthesis	PARTIAL
+GenProp1582	Hydrogen to trimethylamine N-oxide electron transfer	PARTIAL
+GenProp1583	Nitrate reduction VIII (dissimilatory)	PARTIAL
+GenProp1584	L-aspartate degradation II	YES
+GenProp1585	Superpathway of ubiquinol-8 biosynthesis (prokaryotic)	PARTIAL
+GenProp1586	Adenosine deoxyribonucleotides de novo biosynthesis	PARTIAL
+GenProp1587	Oleate biosynthesis II (animals and fungi)	NO
+GenProp1588	Lipoxin biosynthesis	NO
+GenProp1589	D-arabinose degradation I	NO
+GenProp1590	4-Amino-2-methyl-5-diphosphomethylpyrimidine biosynthesis	YES
+GenProp1591	Heme degradation I	NO
+GenProp1592	Superpathway of purine nucleotides de novo biosynthesis II	PARTIAL
+GenProp1593	Staphyloferrin A biosynthesis	NO
+GenProp1594	Superpathway of ergosterol biosynthesis I	NO
+GenProp1595	Heparan sulfate biosynthesis	NO
+GenProp1596	Superpathway of polyamine biosynthesis I	NO
+GenProp1597	Pinolenate and coniferonate biosynthesis	NO
+GenProp1598	Superoxide radicals degradation	PARTIAL
+GenProp1599	Glycolysis III (from glucose)	PARTIAL
+GenProp1600	Abscisic acid degradation by glucosylation	NO
+GenProp1601	Superpathway of coenzyme A biosynthesis I (bacteria)	NO
+GenProp1602	PreQ0 biosynthesis	NO
+GenProp1603	C20 prostanoid biosynthesis	NO
+GenProp1604	Pyridoxal 5'-phosphate salvage I	NO
+GenProp1605	D-myo-inositol (1,4,5)-trisphosphate degradation	YES
+GenProp1606	Octopamine biosynthesis	PARTIAL
+GenProp1607	Purine deoxyribonucleosides salvage	NO
+GenProp1608	NADH to cytochrome bd oxidase electron transfer I	YES
+GenProp1609	Ergosterol biosynthesis I	NO
+GenProp1610	Spermine and spermidine degradation I	YES
+GenProp1611	Xanthine and xanthosine salvage	PARTIAL
+GenProp1612	Gluconeogenesis III	NO
+GenProp1613	Formate assimilation into 5,10-methylenetetrahydrofolate	NO
+GenProp1614	UMP biosynthesis II	PARTIAL
+GenProp1615	Ammonia assimilation cycle III	PARTIAL
+GenProp1616	Tetrahydrofolate biosynthesis	PARTIAL
+GenProp1617	Pyrimidine deoxyribonucleotides de novo biosynthesis I	NO
+GenProp1619	L-histidine degradation I	PARTIAL
+GenProp1620	Pyruvate fermentation to acetate VIII	YES
+GenProp1621	Pyrimidine deoxyribonucleotides de novo biosynthesis II	NO
+GenProp1622	Mycocyclosin biosynthesis	NO
+GenProp1623	Anhydromuropeptides recycling I	NO
+GenProp1624	Fructoselysine and psicoselysine degradation	YES
+GenProp1625	Lipoate biosynthesis and incorporation III (Bacillus)	YES
+GenProp1626	L-alanine degradation I	YES
+GenProp1627	Cardiolipin biosynthesis I	NO
+GenProp1628	5-Aminoimidazole ribonucleotide biosynthesis II	NO
+GenProp1629	Propanoyl CoA degradation I	YES
+GenProp1630	Aminomethylphosphonate degradation	NO
+GenProp1631	Superpathway of pyrimidine deoxyribonucleosides degradation	NO
+GenProp1632	Erythro-tetrahydrobiopterin biosynthesis I	NO
+GenProp1633	Pyridoxal 5'-phosphate biosynthesis I	NO
+GenProp1634	CMP phosphorylation	PARTIAL
+GenProp1635	Superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis	NO
+GenProp1636	D-galacturonate degradation I	NO
+GenProp1637	Aerobic respiration I (cytochrome c)	PARTIAL
+GenProp1638	(E,E)-4,8,12-trimethyltrideca-1,3,7,11-tetraene biosynthesis	NO
+GenProp1639	Sucrose degradation II (sucrose synthase)	NO
+GenProp1640	L-serine biosynthesis	PARTIAL
+GenProp1641	NADH to cytochrome bo oxidase electron transfer II	YES
+GenProp1643	Chorismate biosynthesis I	YES
+GenProp1644	Mineralocorticoid biosynthesis	NO
+GenProp1645	Zeaxanthin biosynthesis	YES
+GenProp1646	L-threonine degradation II	NO
+GenProp1647	Superpathway of lipopolysaccharide biosynthesis	NO
+GenProp1648	Colanic acid building blocks biosynthesis	NO
+GenProp1649	Dehydro-D-arabinono-1,4-lactone biosynthesis	PARTIAL
+GenProp1650	Guanosine ribonucleotides de novo biosynthesis	NO
+GenProp1651	Lipid A-core biosynthesis	NO
+GenProp1652	Urate conversion to allantoin I	NO
+GenProp1653	Leukotriene biosynthesis	NO
+GenProp1654	Homocysteine and cysteine interconversion	PARTIAL
+GenProp1655	L-methionine degradation III	PARTIAL
+GenProp1656	Xylose degradation I	NO
+GenProp1657	Ethylene biosynthesis I (plants)	PARTIAL
+GenProp1658	NAD salvage pathway III	NO
+GenProp1660	L-asparagine biosynthesis III (tRNA-dependent)	PARTIAL
+GenProp1661	D-galactose degradation V (Leloir pathway)	NO
+GenProp1662	L-lactaldehyde degradation (aerobic)	PARTIAL
+GenProp1663	Heme b biosynthesis IV (Gram-positive bacteria)	PARTIAL
+GenProp1664	Gamma-glutamyl cycle	NO
+GenProp1665	Sphingolipid biosynthesis (mammals)	NO
+GenProp1666	Glucocorticoid biosynthesis	NO
+GenProp1667	L-alanine biosynthesis I	YES
+GenProp1668	Gadusol biosynthesis	NO
+GenProp1669	CO2 fixation into oxaloacetate (anaplerotic)	PARTIAL
+GenProp1670	Di-trans,poly-cis-undecaprenyl phosphate biosynthesis	PARTIAL
+GenProp1671	Ceramide de novo biosynthesis	NO
+GenProp1672	Hydrogen to fumarate electron transfer	YES
+GenProp1673	L-leucine degradation I	YES
+GenProp1674	Thiamine formation from pyrithiamine and oxythiamine (yeast)	NO
+GenProp1675	Superpathway of D-glucarate and D-galactarate degradation	PARTIAL
+GenProp1676	Nitrate reduction IX (dissimilatory)	NO
+GenProp1677	NAD/NADP-NADH/NADPH mitochondrial interconversion (yeast)	YES
+GenProp1678	Beta-alanine biosynthesis IV	YES
+GenProp1679	L-phenylalanine degradation I (aerobic)	PARTIAL
+GenProp1680	Fucose degradation	NO
+GenProp1681	L-cysteine degradation III	YES
+GenProp1682	Factor 420 polyglutamylation	YES
+GenProp1683	Epoxysqualene biosynthesis	PARTIAL
+GenProp1684	Kdo transfer to lipid IVA I	YES
+GenProp1685	Hydrogen sulfide biosynthesis II (mammalian)	PARTIAL
+GenProp1686	Heme b biosynthesis II (anaerobic)	NO
+GenProp1687	2-Methylcitrate cycle I	NO
+GenProp1688	Heme degradation VII	NO
+GenProp1689	Superpathway of 5-aminoimidazole ribonucleotide biosynthesis	NO
+GenProp1690	Glycolipid desaturation	NO
+GenProp1691	Superpathway of glycolysis and the Entner-Doudoroff pathway	NO
+GenProp1692	D-myo-inositol (1,4,5,6)-tetrakisphosphate biosynthesis	NO
+GenProp1693	TCA cycle III (animals)	NO
+GenProp1694	Superpathway of demethylmenaquinol-8 biosynthesis I	YES
+GenProp1695	Serotonin and melatonin biosynthesis	NO
+GenProp1696	Curcumin degradation	YES
+GenProp1697	Thiazole biosynthesis III (eukaryotes)	NO
+GenProp1698	L-phenylalanine degradation III	PARTIAL
+GenProp1699	Glycosaminoglycan-protein linkage region biosynthesis	NO
+GenProp1701	Tetrapyrrole biosynthesis I (from glutamate)	YES
+GenProp1702	Thiamine diphosphate biosynthesis IV (eukaryotes)	NO
+GenProp1703	Retinol biosynthesis	NO
+GenProp1704	Trans, trans-farnesyl diphosphate biosynthesis	PARTIAL
+GenProp1705	Sedoheptulose bisphosphate bypass	NO
+GenProp1706	Protein N-glycosylation processing phase (yeast)	NO
+GenProp1707	tRNA splicing II	NO
+GenProp1708	L-phenylalanine biosynthesis I	YES
+GenProp1709	Trichome monoterpenes biosynthesis	NO
+GenProp1710	Superpathway of glycolysis, pyruvate dehydrogenase, TCA, and glyoxylate bypass	YES
+GenProp1711	Molybdenum cofactor biosynthesis	NO
+GenProp1712	Mucin core 1 and core 2 O-glycosylation	NO
+GenProp1713	UDP-beta-L-rhamnose biosynthesis	YES
+GenProp1715	Ethanol degradation II	YES
+GenProp1716	Superpathay of heme b biosynthesis from glutamate	YES
+GenProp1717	Fatty acid beta-oxidation I	YES
+GenProp1718	Phospholipid remodeling (phosphatidylcholine, yeast)	NO
+GenProp1719	L-methionine salvage from L-homocysteine	YES
+GenProp1720	Superpathway of b heme biosynthesis from glycine	YES
+GenProp1721	Glutathione-peroxide redox reactions	PARTIAL
+GenProp1722	Chitin degradation to ethanol	NO
+GenProp1723	Conversion of succinate to propanoate	PARTIAL
+GenProp1724	Chlorophyll a biosynthesis I	PARTIAL
+GenProp1725	Thiamine diphosphate biosynthesis II (Bacillus)	YES
+GenProp1726	Starch degradation II	NO
+GenProp1727	4-Aminobenzoate biosynthesis	PARTIAL
+GenProp1728	Thyroid hormone biosynthesis	NO
+GenProp1729	Glycerol-3-phosphate to hydrogen peroxide electron transport	PARTIAL
+GenProp1730	Inosine-5'-phosphate biosynthesis I	PARTIAL
+GenProp1731	3-Dehydroquinate biosynthesis I	PARTIAL
+GenProp1732	Pentose phosphate pathway (oxidative branch) II	NO
+GenProp1733	Putrescine biosynthesis II	NO
+GenProp1734	Flavin biosynthesis I (bacteria and plants)	PARTIAL
+GenProp1735	Archaeosine biosynthesis I	PARTIAL
+GenProp1736	NADH repair	YES
+GenProp1737	CMP-N-acetylneuraminate biosynthesis I (eukaryotes)	NO
+GenProp1739	Ent-kaurene biosynthesis I	NO
+GenProp1740	Pregnenolone biosynthesis	NO
+GenProp1741	Adenine and adenosine salvage V	NO
+GenProp1742	Androgen biosynthesis	NO
+GenProp1743	UDP-alpha-D-glucose biosynthesis I	PARTIAL
+GenProp1744	Ubiquinol-8 biosynthesis (prokaryotic)	NO
+GenProp1745	GA12 biosynthesis	NO
+GenProp1746	Alkylnitronates degradation	PARTIAL
+GenProp1747	Photorespiration	YES
+GenProp1748	Phosphopantothenate biosynthesis I	PARTIAL
+GenProp1749	Superpathway of acetate utilization and formation	NO
+GenProp1750	Glycerol-3-phosphate shuttle	PARTIAL
+GenProp1751	NADH to cytochrome bo oxidase electron transfer I	YES
+GenProp1752	Superpathway of purine deoxyribonucleosides degradation	NO
+GenProp1753	Inosine 5'-phosphate degradation	NO
+GenProp1754	Protein ubiquitination	NO
+GenProp1755	PpGpp biosynthesis	YES
+GenProp1756	Poly(3-O-beta-D-glucopyranosyl-N-acetylgalactosamine 1-phosphate) wall teichoic acid biosynthesis	NO
+GenProp1757	Inosine-5'-phosphate biosynthesis II	PARTIAL
+GenProp1758	3-Phosphoinositide biosynthesis	NO
+GenProp1759	Spermidine hydroxycinnamic acid conjugates biosynthesis	NO
+GenProp1760	Superpathway of gibberellin GA12 biosynthesis	NO
+GenProp1761	Linoleate biosynthesis I (plants)	NO
+GenProp1762	Ethanolamine utilization	NO
+GenProp1763	Superpathway of carotenoid biosynthesis in plants	NO
+GenProp1764	Flavin biosynthesis IV (mammalian)	YES
+GenProp2002	Fibrinogen	NO
+GenProp2007	Complement activation, common pathway 1	NO
+GenProp2010	Fibrinolysis	NO
+GenProp2011	Eukaryote 20S proteasome	NO
 GenProp2012	19S proteasome cap	NO
+GenProp2013	26S proteasome	NO
+GenProp2014	Immunoproteasome	NO
+GenProp2015	Thymoproteasome	NO
+GenProp2016	Mammalian spermatoproteasome	NO
 GenProp2017	Gamma secretase	NO
+GenProp2018	Initiator caspases of the apoptosis extrinsic pathway	NO
+GenProp2019	Executor caspases of apoptosis	NO
 GenProp2021	Apoptosome	NO
+GenProp2026	KICSTOR complex	NO
+GenProp2028	GATOR1 complex	NO
+GenProp2029	GATOR2 complex	NO
+GenProp2030	mTORC1 complex	NO
+GenProp2031	Ragulator complex	NO
+GenProp2032	Rag complex	NO
+GenProp2033	mTORC1 activation	NO
+GenProp2034	eIF4F complex	NO
+GenProp2035	mTORC1 pathway	NO
+GenProp2036	Nuclear pore complex, vertebrate	NO
+GenProp2037	Nuclear pore subcomplex Nup107-160	NO
+GenProp2038	Microsomal signal peptidase complex	NO
+GenProp2039	Mitochondrial protein processing	NO
+GenProp2040	Mitochondrial inner membrane peptidase complex	NO
+GenProp2043	Nuclear pore complex 107-120, Schizosaccharomyces	NO
+GenProp2047	COP9 Signalosome, eukaryote	NO
+GenProp2048	General transcription factor IIH	NO
+GenProp2049	CDK-activating kinase (CAK) complex	NO
+GenProp2050	TFIIH basal transcription factor	NO
+GenProp2052	SAGA-like (SLIK) complex	NO
+GenProp2053	SALSA complex	NO
+GenProp2054	TFIID complex	NO
+GenProp2055	ADA complex	NO
+GenProp2057	TFTC-HAT complex	NO
+GenProp2059	Set1B histone H3-Lys4 methyltransferase complex	NO
+GenProp2060	COMPASS methyltransferase complex	NO
+GenProp2063	NSL complex	NO
+GenProp2064	MSL complex	NO
+GenProp2066	RuvB-like helicase	NO
+GenProp2067	MLL-HCF complex	NO
+GenProp2069	THAP1/THAP3-HCFC1-OGT complex	NO
+GenProp2080	BAF53 complex	NO
+GenProp2081	npBAF complex	NO
+GenProp2084	SWI/SNF complex	NO
+GenProp2085	Renin-Angiotensin system	PARTIAL
+GenProp2086	Pro-insulin activation	NO
+GenProp2087	Proglucagon activation	NO
+GenProp2088	Insulin signaling pathway - glycogenesis	NO
+GenProp2089	Glucagon signaling pathway for glycogenolysis	NO
+GenProp2090	Insulin signaling pathway - glucose uptake	NO
+GenProp2092	GLP-1 signalled increase in cAMP	NO
+GenProp2093	GIP signalled increase in cAMP	NO
+GenProp2094	PACAP signalled increase in cAMP	NO
+GenProp2095	Insulin secretion via PKA	NO
+GenProp2096	Insulin secretion via PKC	NO
+GenProp2097	Insulin release from secretory granules	NO
+GenProp2098	Insulin secretion via IP3	NO
+GenProp2099	Insulin secretion via glucose	NO
