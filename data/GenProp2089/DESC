@@ -1,0 +1,171 @@
+AC  GenProp2089
+DE  Glucagon signaling pathway for glycogenolysis
+TP  PATHWAY
+AU  Rawlings ND
+TH  8
+RN  [1]
+RM  17110384
+RT  Conditional stimulation of type V and VI adenylyl 
+RT  cyclases by G protein betagamma subunits. 
+RA  Gao X; Sadana R; Dessauer CW; Patel TB; 
+RL  J Biol Chem 2007;282:294-302.
+RN  [2]
+RM  26206488
+RT  Adenylyl cyclase 5 regulation by Gbetagamma involves 
+RT  isoform-specific use of multiple interaction sites. 
+RA  Brand CS; Sadana R; Malik S; Smrcka AV; Dessauer CW; 
+RL  Mol Pharmacol 2015;88:758-767.
+RN  [3]
+RM  22796337
+RT  Emerging role of AMP-activated protein kinase in 
+RT  endocrine control of metabolism in the liver. 
+RA  Hasenour CM; Berglund ED; Wasserman DH; 
+RL  Mol Cell Endocrinol 2013;366:152-162.
+RN  [4]
+RM  10487978
+RT  Phosphorylase kinase: the complexity of its 
+RT  regulation is reflected in the complexity of its 
+RT  structure. 
+RA  Brushia RJ; Walsh DA; 
+RL  Front Biosci 1999;4:D618-D641.
+RN  [5]
+RM  29483195
+RT  The dynamic life of the glycogen granule. 
+RA  Prats C; Graham TE; Shearer J; 
+RL  J Biol Chem 2018 (in press).
+RN  [6]
+RM  1701966
+RT  Liver glucose transporter: a basolateral protein in 
+RT  hepatocytes and intestine and kidney cells. 
+RA  Thorens B; Cheng ZQ; Brown D; Lodish HF; 
+RL  Am J Physiol 1990;259:C279-C285.
+DC  Glucagon signaling pathway
+DR  KEGG; map04922;
+CC  Glucagon is counter-regulatory to insulin and increases the
+CC  levels of glucose in the blood by promoting its release from
+CC  stores of glycogen, increasing biosynthesis of glucose and
+CC  glycogen, and reducing glycolysis. The activation of 
+CC  adenylate cyclase is crucial to all these roles [1,2]. 
+CC  Production of cAMP activates protein kinase A [3], which
+CC  phosphorylates many cellular proteins including phosphorylase 
+CC  kinase [4]. Glycogenolysis [5] is brought about by 
+CC  phosphorylation of glycogen phosphorylase. Glucose-1-
+CC  phosphate is released from glycogen, converted to glucose by 
+CC  glucose-6-phosphatase and transported across the plasma 
+CC  membrane by facilitated glucose transporters [6].
+**  This pathway ends with glycogenolysis.  The KEGG pathway
+**  also includes gluconeogenesis.
+**  Calmodulin is the delta subunit of phosphorylase b kinase.
+**  Step 13: SLC2A2 (IPR002440) mediates bidirectional glucose 
+**  transport across the membrane; SLC2A1 (IPR002439) may just
+**  facilitate glucose uptake by the cell. 
+**  SN1 IPR015550 in 1 other prop
+**  SN3 IPR001019 in 2 other prop
+**  SN4 IPR016346 in 2 other prop
+**  SN5 IPR001770 in 2 other prop
+**  SN6 IPR030672 in 2 other prop
+**  SN7 IPR039035 in 1 other prop
+**  SN11 IPR011833 in 1 other prop
+**  SN13 IPR002439 & IPR002440 in 1 other prop
+**  Threshold adjusted to allow for this
+--
+SN  1
+ID  Glucagon
+DN  Glucagon
+RQ  1
+EV  IPR015550; PTHR11418; sufficient;
+TG  GO:0005179;
+--
+SN  2
+ID  Glucagon receptor
+DN  GPCR, family 2, glucagon receptor 
+RQ  1
+EV  IPR003291; PR01354; sufficient;
+TG  GO:0004967;
+TG  GO:0004930;
+--
+SN  3
+ID  Guanine nucleotide-binding protein G(s) subunit alpha
+DN  Guanine nucleotide binding protein (G-protein), alpha subunit
+RQ  1
+EV  IPR001019; PF00503; sufficient;
+EV  IPR001019; PR00318; sufficient;
+EV  IPR001019; PTHR10218; sufficient;
+EV  IPR001019; SM00275; sufficient;
+EV  IPR001019; cd00066; sufficient;
+TG  GO:0005525;
+--
+SN  4
+ID  Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta
+DN  Guanine nucleotide-binding protein, beta subunit
+RQ  1
+EV  IPR016346; PTHR19850; sufficient;
+TG  GO:0003924;
+--
+SN  5
+ID  Guanine nucleotide-binding protein G(T) subunit gamma-T1
+DN  G-protein, gamma subunit
+RQ  1
+EV  IPR001770; PR00321; sufficient;
+EV  IPR001770; PTHR13809; sufficient;
+TG  GO:0003924;
+--
+SN  6
+ID  Adenylate cyclase type 2
+DN  Adenylate cyclase (EC 4.6.1.1)
+RQ  1
+EV  IPR030672; PIRSF039050; sufficient;
+TG  GO:0004016;
+--
+SN  7
+ID  cAMP-dependent protein kinase catalytic subunit alpha
+DN  cAMP-dependent protein kinase catalytic subunit alpha (EC 2.7.11.11)
+RQ  1
+EV  IPR039035; PTHR24353:SF82; sufficient;
+TG  GO:0004674;
+--
+SN  8
+ID  Phosphorylase b kinase alpha/beta subunits
+DN  Phosphorylase kinase alpha/beta subunit
+RQ  1
+EV  IPR008734; PTHR10749; sufficient;
+TG  GO:0005964;
+--
+SN  9
+ID  Phosphorylase b kinase gamma subunit 
+DN  Phosphorylase kinase, gamma catalytic subunit (EC 2.7.11.19)
+RQ  1
+EV  IPR002291; PR01049; sufficient;
+TG  GO:0004689;
+TG  GO:0005964;
+--
+SN  10
+ID  Calmodulin 
+DN  Calmodulin
+RQ  1
+EV  IPR039030; PTHR23050:SF311; sufficient;
+TG  GO:0005964;
+--
+SN  11
+ID  Glycogen phosphorylase
+DN  Glycogen/starch/alpha-glucan phosphorylase (EC 2.4.1.1)
+RQ  1
+EV  IPR011833; TIGR02093; sufficient;
+EV  IPR011833; cd04300; sufficient;
+TG  GO:0008184;
+--
+SN  12
+ID  Glucose-6-phosphatase
+DN  Glucose-6-phosphatase (G6PC) (EC 3.1.3.9)
+RQ  1
+EV  IPR016275; PIRSF000905; sufficient;
+TG  GO:0004346;
+--
+SN  13
+ID  Solute carrier family 2, facilitated glucose transporter
+DN  Glucose transporter, type 1/2 (GLUT1/2) 
+RQ  1
+EV  IPR002439; PR01190; sufficient;
+EV  IPR002440; PR01191; sufficient;
+TG  GO:0005355;
+//

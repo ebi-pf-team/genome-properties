@@ -1,0 +1,42 @@
+AC  GenProp1751
+DE  NADH to cytochrome bo oxidase electron transfer I
+TP  PATHWAY
+AU  Mackie A, Nolan L, Krummenacker M
+TH  0
+DC  NADH to cytochrome bo oxidase electron transfer I
+DR  MetaCyc; PWY0-1335;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  NADH dehydrogenase
+DN  NADH dehydrogenase (EC 1.6.5.3)
+RQ  1
+EV  IPR000440; PF00507; sufficient;
+EV  IPR006138; TIGR01957; sufficient;
+EV  IPR010218; TIGR01961; sufficient;
+EV  IPR022885; TIGR01962; sufficient;
+EV  IPR002023; TIGR01958; sufficient;
+EV  IPR011537; TIGR01959; sufficient;
+EV  IPR010228; TIGR01973; sufficient;
+EV  IPR001694; PF00146; sufficient;
+EV  IPR010226; TIGR01971; sufficient;
+EV  IPR001457; PF00499; sufficient;
+EV  IPR001133; PF00420; sufficient;
+EV  IPR003945; TIGR01974; sufficient;
+EV  IPR010227; TIGR01972; sufficient;
+EV  IPR010096; TIGR01770; sufficient;
+--
+SN  2
+ID  Ubiquinol oxidase (H+-transporting)
+DN  Ubiquinol oxidase (H+-transporting) (EC 1.10.3.10)
+RQ  1
+EV  IPR006333; TIGR01433; sufficient;
+EV  IPR000883; PF00115; sufficient;
+EV  IPR014207; TIGR02843; sufficient;
+EV  IPR014206; TIGR02842; sufficient;
+EV  IPR005171; PF03626; sufficient;
+EV  IPR014210; TIGR02847; sufficient;
+//

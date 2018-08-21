@@ -1,0 +1,25 @@
+AC  GenProp1556
+DE  Glycolate and glyoxylate degradation II
+TP  PATHWAY
+AU  Riley M, Ingraham J
+TH  0
+DC  Glycolate and glyoxylate degradation II
+DR  MetaCyc; GLYOXDEG-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Glycolate oxidase
+DN  Glycolate oxidase (EC 1.1.99.14)
+RQ  1
+EV  IPR004490; TIGR00387; sufficient;
+--
+SN  2
+ID  Malate synthase
+DN  Malate synthase (EC 2.3.3.9)
+RQ  1
+EV  IPR001465; PF01274; sufficient;
+EV  IPR006253; TIGR01345; sufficient;
+//

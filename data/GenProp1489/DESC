@@ -1,0 +1,25 @@
+AC  GenProp1489
+DE  Ammonia assimilation cycle I
+TP  PATHWAY
+AU  Caspi R
+TH  0
+DC  Ammonia assimilation cycle I
+DR  MetaCyc; PWY-6963;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Glutamate synthase
+DN  Glutamate synthase (EC 1.4.1.14)
+RQ  1
+EV  IPR006005; TIGR01317; sufficient;
+--
+SN  2
+ID  Glutamine synthetase
+DN  Glutamine synthetase (EC 6.3.1.2)
+RQ  1
+EV  IPR008146; PF00120; sufficient;
+EV  IPR008147; PF03951; sufficient;
+//

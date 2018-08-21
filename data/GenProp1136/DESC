@@ -1,0 +1,36 @@
+AC  GenProp1136
+DE  Twin-arginine translocation complex
+TP  COMPLEX
+AU  Complex Portal
+TH  3
+DR  Complex Portal; CPX-3445;
+CC  Proton motive force dependent transporter of folded precursor proteins
+CC  containing a SRRxFLK (TAT) sequence motif in the N-terminal part of
+CC  their signal sequences across the cytoplasmic membrane.
+--
+SN  1
+ID  Sec-independent protein translocase protein TatE
+RQ  1
+EV  IPR024905; MF_00903; sufficient;
+--
+SN  2
+ID  Sec-independent protein translocase protein TatB
+RQ  1
+EV  IPR018448; MF_00237; sufficient;
+EV  IPR018448; TIGR01410; sufficient;
+--
+SN  3
+ID  Sec-independent protein translocase protein TatC
+RQ  1
+EV  IPR002033; MF_00902; sufficient;
+EV  IPR002033; PF00902; sufficient;
+EV  IPR002033; PR01840; sufficient;
+EV  IPR002033; PTHR30371; sufficient;
+EV  IPR002033; TIGR00945; sufficient;
+--
+SN  4
+ID  Sec-independent protein translocase protein TatA
+RQ  1
+EV  IPR006312; MF_00236; sufficient;
+EV  IPR006312; TIGR01411; sufficient;
+//

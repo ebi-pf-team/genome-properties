@@ -1,0 +1,34 @@
+AC  GenProp1251
+DE  L-tyrosine biosynthesis I
+TP  PATHWAY
+AU  Fulcher C, Ingraham J, Riley M
+TH  1
+DC  L-tyrosine biosynthesis I
+DR  MetaCyc; TYRSYN;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Chorismate mutase
+DN  Chorismate mutase (EC 5.4.99.5)
+RQ  1
+EV  IPR003099; PF02153; sufficient;
+EV  IPR011277; TIGR01799; sufficient;
+EV  IPR001086; PF00800; sufficient;
+EV  IPR010952; TIGR01797; sufficient;
+--
+SN  2
+ID  Prephenate dehydrogenase
+DN  Prephenate dehydrogenase (EC 1.3.1.12)
+RQ  1
+EV  IPR003099; PF02153; sufficient;
+EV  IPR011277; TIGR01799; sufficient;
+--
+SN  3
+ID  L-tyrosine:2-oxoglutarate aminotransferase
+DN  L-tyrosine:2-oxoglutarate aminotransferase (EC 2.6.1.5)
+RQ  1
+EV  IPR004839; PF00155; sufficient;
+//

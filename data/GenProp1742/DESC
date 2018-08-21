@@ -1,0 +1,48 @@
+AC  GenProp1742
+DE  Androgen biosynthesis
+TP  PATHWAY
+AU  Trupp M
+TH  4
+DC  Androgen biosynthesis
+DR  MetaCyc; PWY66-378;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Androstenedione reductase
+DN  Androstenedione reductase (EC 1.1.1.64)
+RQ  1
+EV  IPR002347; PF00106; sufficient;
+--
+SN  2
+ID  Pregnenolone 17-alpha-hydroxylase
+DN  Pregnenolone 17-alpha-hydroxylase (EC 1.14.14.19)
+RQ  1
+EV  IPR001128; PF00067; sufficient;
+--
+SN  3
+ID  17-Alpha-hydroxypregnenolone 17,20-lyase
+DN  17-Alpha-hydroxypregnenolone 17,20-lyase (EC 1.14.14.32)
+RQ  1
+EV  IPR001128; PF00067; sufficient;
+--
+SN  4
+ID  DHA dehydrogenase
+DN  DHA dehydrogenase (EC 1.1.1.145)
+RQ  1
+EV  IPR002225; PF01073; sufficient;
+--
+SN  5
+ID  Testosterone reductase
+DN  Testosterone reductase (EC 1.3.1.22)
+RQ  1
+EV  IPR001104; PF02544; sufficient;
+--
+SN  6
+ID  Androstenedione isomerase
+DN  Androstenedione isomerase (EC 5.3.3.1)
+RQ  1
+EV  IPR002225; PF01073; sufficient;
+//

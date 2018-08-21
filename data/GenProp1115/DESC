@@ -1,0 +1,29 @@
+AC  GenProp1115
+DE  LptDE outer membrane translocon complex
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+RN  [1]
+RM  26370939
+RT  Lipopolysaccharide transport to the cell surface: periplasmic transport
+RT  and assembly into the outer membrane.
+RA  May JM, Sherman DJ, Simpson BW, Ruiz N, Kahne D
+RL  Philos Trans R Soc Lond B Biol Sci. 2015;370:-
+DR  Complex Portal; CPX-1093;
+CC  A translocon complex responsible for inserting lipopolysaccharide (LPS)
+CC  into the outer membrane of the bacteria to maintain the asymmetric
+CC  bilayer, which consists of phospholipids in the inner leaflet and LPS
+CC  in the outer. 
+--
+SN  1
+ID  LPS-assembly lipoprotein LptE
+RQ  1
+EV  IPR007485; MF_01186; sufficient;
+EV  IPR007485; PF04390; sufficient;
+EV  IPR007485; PTHR38098; sufficient;
+--
+SN  2
+ID  LPS-assembly protein LptD
+RQ  1
+EV  IPR020889; MF_01411; sufficient;
+//

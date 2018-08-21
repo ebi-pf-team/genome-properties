@@ -45,3 +45,16 @@ GenProp0971	Biosynthesis of undecaprenyl phosphate (Und-P)
 GenProp0972	dTDP-4-acetamido-4,6-dideoxy-D-galactose (dTDP-Fuc4NAc) biosynthesis
 GenProp0975	Biosynthesis of UDP-N-acetyl-D-mannosamine (UDP-ManNAc)
 GenProp1032	dTDP-4-dehydro-L-rhamnose biosynthesis from dTDP-4-dehydro-6-deoxy-alpha-D-glucose
+GenProp1034	Decarboxylation/antiport proton-motive cycle: oxalate-formate
+GenProp2010	Fibrinolysis
+GenProp2013	26S proteasome
+GenProp2033	mTORC1 activation
+GenProp2035	mTORC1 pathway
+GenProp2050	TFIIH basal transcription factor
+GenProp2052	SAGA-like (SLIK) complex
+GenProp2086	Pro-insulin activation
+GenProp2087	Proglucagon activation
+GenProp2095	Insulin secretion via PKA
+GenProp2096	Insulin secretion via PKC
+GenProp2098	Insulin secretion via IP3
+GenProp2099	Insulin secretion via glucose

@@ -1,0 +1,50 @@
+AC  GenProp1353
+DE  Superpathway of photosynthetic hydrogen production
+TP  PATHWAY
+AU  Caspi R
+TH  2
+DC  Superpathway of photosynthetic hydrogen production
+DR  MetaCyc; PWY-7731;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Hydrogenase
+DN  Hydrogenase (EC 1.12.7.2)
+RQ  1
+EV  IPR003149; PF02256; sufficient;
+EV  IPR004108; PF02906; sufficient;
+--
+SN  2
+ID  Plastoquinol-plastocyanin reductase
+DN  Plastoquinol-plastocyanin reductase (EC 1.10.9.1)
+RQ  1
+EV  IPR005497; PF03742; sufficient;
+EV  IPR002325; PF01333; sufficient;
+EV  IPR005870; TIGR01156; sufficient;
+EV  IPR003683; PF02529; sufficient;
+EV  IPR007802; PF05115; sufficient;
+--
+SN  3
+ID  NAD(P)H dehydrogenase (plastoquinone)
+DN  NAD(P)H dehydrogenase (plastoquinone) (EC 1.6.5.2)
+RQ  1
+EV  IPR002048; PF13202; sufficient;
+EV  IPR023753; PF07992; sufficient;
+--
+SN  4
+ID  Photosystem I
+DN  Photosystem I (EC 1.97.1.12)
+RQ  1
+EV  IPR001302; PF00796; sufficient;
+EV  IPR001302; TIGR03052; sufficient;
+EV  IPR008796; PF05479; sufficient;
+EV  IPR017498; TIGR03059; sufficient;
+EV  IPR001280; PF00223; sufficient;
+EV  IPR006243; TIGR01335; sufficient;
+EV  IPR006244; TIGR01336; sufficient;
+EV  IPR002615; PF01701; sufficient;
+EV  IPR017491; TIGR03048; sufficient;
+//

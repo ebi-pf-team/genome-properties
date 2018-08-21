@@ -1,0 +1,36 @@
+AC  GenProp1426
+DE  Aerobic respiration II (cytochrome c) (yeast)
+TP  PATHWAY
+AU  Foerster H
+TH  1
+DC  Aerobic respiration II (cytochrome c) (yeast)
+DR  MetaCyc; PWY-7279;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Ubiquinol-cytochrome C oxidoreductase
+DN  Ubiquinol-cytochrome C oxidoreductase (EC 1.10.2.2)
+RQ  1
+EV  IPR019182; PF09796; sufficient;
+--
+SN  2
+ID  Cytochrome c oxidase
+DN  Cytochrome c oxidase (EC 1.9.3.1)
+RQ  1
+EV  IPR000883; PF00115; sufficient;
+EV  IPR002124; PF01215; sufficient;
+EV  IPR001349; PF02046; sufficient;
+EV  IPR003204; PF02284; sufficient;
+EV  IPR003213; PF02297; sufficient;
+EV  IPR004202; PF02935; sufficient;
+EV  IPR004203; PF02936; sufficient;
+--
+SN  3
+ID  NADH:ubiquinone oxidoreductase 1 (external)
+DN  NADH:ubiquinone oxidoreductase 1 (external) (EC 1.6.5.9)
+RQ  1
+EV  IPR023753; PF07992; sufficient;
+//

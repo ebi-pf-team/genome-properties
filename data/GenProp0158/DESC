@@ -118,14 +118,12 @@ TG  GO:0009252;
 --
 SN  trnsGly
 ID  Peptidoglycan biosynthetic transglycosylases
-DN  NOT APPLICABLE
 RQ  1
 EV  IPR001264; PF00912; sufficient;
 TG  GO:0009252;
 --
 SN  trnsPep
 ID  Peptidoglycan-biosynthetic transpeptidases
-DN  NOT APPLICABLE
 RQ  1
 EV  IPR001460; PF00905; sufficient;
 TG  GO:0009252;

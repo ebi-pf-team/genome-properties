@@ -1,0 +1,52 @@
+AC  GenProp1192
+DE  SufBCD complex
+TP  COMPLEX
+AU  Complex Portal
+TH  2
+RN  [1]
+RM  20857974
+RT  SufD and SufC ATPase activity are required for iron acquisition during
+RT  in vivo Fe-S cluster formation on SufB.
+RA  Saini A, Mapolelo DT, Chahal HK, Johnson MK, Outten FW
+RL  Biochemistry. 2010;49:9402-9412
+RN  [2]
+RM  12941942
+RT  The SufE protein and the SufBCD complex enhance SufS cysteine
+RT  desulfurase activity as part of a sulfur transfer pathway for Fe-S
+RT  cluster assembly in Escherichia coli.
+RA  Outten FW, Wood MJ, Munoz FM, Storz G
+RL  J Biol Chem. 2003;278:45713-45719
+DR  Complex Portal; CPX-2123;
+CC  Scaffold complex that assembles an Fe-S cluster. The SufB protomer of
+CC  the SufBCD complex accepts the atomic sulfur from the sulfur transfer
+CC  protein SufE (CPX-2125 [SufE dimer], EBI-8844754 [transfer
+CC  interaction]) and incorporates it into an [4Fe-4S] cluster in an as yet
+CC  undiscovered manner. SufBCD further transfers the Fe-S cluster to the
+CC  carrier protein SufA (CPX-2142 [dimer], EBI-8805910 [transfer
+CC  interaction]). SufBCD is a component of the sufABCDSE operon, which is
+CC  activated and required under specific conditions such as oxidative
+CC  stress and iron limitation. The SufBCD complex is a putative ATP-binding
+CC  cassette (ABC) transporter complex, inferred by its structural
+CC  similarity with other ABC transporters. SufC has been shown to be an
+CC  ATPase whose activity is enhanced by the presence of SufB and SufD [1].
+CC  The precise function of FADH2 is not yet clear. Under aerobic conditions 
+CC  FADH2 is oxidised to FAD and dissociates from SufBCD.
+--
+SN  1
+ID  Probable ATP-dependent transporter SufC
+RQ  1
+EV  IPR010230; PTHR43204:SF1; sufficient;
+EV  IPR010230; TIGR01978; sufficient;
+EV  IPR010230; cd03217; sufficient;
+--
+SN  2
+ID  FeS cluster assembly protein SufB
+RQ  1
+EV  IPR010231; TIGR01980; sufficient;
+--
+SN  3
+ID  FeS cluster assembly protein SufD
+RQ  1
+EV  IPR011542; PTHR43575; sufficient;
+EV  IPR011542; TIGR01981; sufficient;
+//

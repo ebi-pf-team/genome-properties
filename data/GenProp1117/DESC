@@ -1,0 +1,40 @@
+AC  GenProp1117
+DE  DNA polymerase III clamp loader chi-psi subcomplex
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+RN  [1]
+RM  20413500
+RT  Stoichiometry and architecture of active DNA replication machinery in
+RT  Escherichia coli.
+RA  Reyes-Lamothe R, Sherratt DJ, Leake MC
+RL  Science. 2010;328:498-501
+RN  [2]
+RM  21675919
+RT  DNA replicases from a bacterial perspective.
+RA  McHenry CS
+RL  Annu Rev Biochem. 2011;80:403-436
+DR  Complex Portal; CPX-1964;
+DR  PDBe; 1em8;
+CC  Required for replicative synthesis, forming a link between the DNA
+CC  polymerase III clamp loader complex (CPX-1926) and the DNA binding
+CC  protein tetramer SSB (CPX-1928). This aids in the tethering of the DNA
+CC  polymerase III holoenzyme to single-stranded DNA. A further 3
+CC  heterodimers co-localise at the replisome and are thought to interact
+CC  with other SSB protomers. It is possible that multimers of the gamma
+CC  subunit (P06710-2) are linked to the free end of these psi protomers.
+CC  The function of these subcomplexes is as yet unknown.
+--
+SN  1
+ID  DNA polymerase III subunit psi
+RQ  1
+EV  IPR004615; PD032475; sufficient;
+EV  IPR004615; PF03603; sufficient;
+EV  IPR004615; PIRSF029225; sufficient;
+--
+SN  2
+ID  DNA polymerase III subunit chi
+RQ  1
+EV  IPR007459; PF04364; sufficient;
+EV  IPR007459; PTHR38767; sufficient;
+//

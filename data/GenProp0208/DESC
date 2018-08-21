@@ -52,7 +52,6 @@ EV  IPR011855; PF06199; sufficient;
 --
 SN  4
 ID  Various structural components
-DN  NOT APPLICABLE
 RQ  0
 EV  IPR006487; TIGR01600; sufficient;
 EV  IPR006487; PF05100; sufficient;
@@ -109,7 +108,6 @@ EV  IPR019889; TIGR03600;
 --
 SN  8
 ID  More tail proteins
-DN  NOT APPLICABLE
 RQ  0
 EV  IPR005003; PF03335; sufficient;
 EV  IPR005068; PF03406; sufficient;
@@ -159,7 +157,6 @@ EV  IPR010789; PF07141; sufficient;
 --
 SN  12
 ID  Uncharacterized phage proteins
-DN  NOT APPLICABLE
 RQ  0
 EV  IPR006445; TIGR01555; sufficient;
 EV  IPR006505; TIGR01618; sufficient;

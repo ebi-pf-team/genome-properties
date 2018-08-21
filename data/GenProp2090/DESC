@@ -1,0 +1,144 @@
+AC  GenProp2090
+DE  Insulin signaling pathway - glucose uptake
+TP  PATHWAY
+AU  Rawlings ND
+TH  7
+RN  [1]
+RM  8276809
+RT  Direct activation of the phosphatidylinositol 3'-
+RT  kinase by the insulin receptor. 
+RA  Van Horn DJ; Myers MG Jr; Backer JM; 
+RL  J Biol Chem 1994;269:29-32.
+RN  [2]
+RM  15733744
+RT  Positive and negative regulation of insulin signaling 
+RT  through IRS-1 phosphorylation. 
+RA  Gual P; Le Marchand-Brustel Y; Tanti JF; 
+RL  Biochimie 2005;87:99-109.
+RN  [3]
+RM  16314505
+RT  Tyrosine phosphorylation of phosphoinositide-
+RT  dependent kinase 1 by the insulin receptor is 
+RT  necessary for insulin metabolic signaling. 
+RA  Fiory F; Alberobello AT; Miele C; Oriente F; 
+RA  Esposito I; Corbo V; Ruvo M; Tizzano B; 
+RA  Rasmussen TE; Gammeltoft S; Formisano P; 
+RA  Beguinot F; 
+RL  Mol Cell Biol 2005;25:10803-10814.
+RN  [4]
+RM  9512493
+RT  Activation of protein kinase B beta and gamma 
+RT  isoforms by insulin in vivo and by 3-
+RT  phosphoinositide-dependent protein kinase-1 in 
+RT  vitro: comparison with protein kinase B alpha. 
+RA  Walker KS; Deak M; Paterson A; Hudson K; Cohen P; 
+RA  Alessi DR; 
+RL  Biochem J 1998;331:299-308.
+RN  [5]
+RM  15971998
+RT  AS160, the Akt substrate regulating GLUT4 
+RT  translocation, has a functional Rab GTPase-
+RT  activating protein domain. 
+RA  Mîinea CP; Sano H; Kane S; Sano E; Fukuda M; 
+RA  Peränen J; Lane WS; Lienhard GE; 
+RL  Biochem J 2005;391:87-93.
+RN  [6]
+RM  12637568
+RT  Insulin-stimulated phosphorylation of a Rab GTPase-
+RT  activating protein regulates GLUT4 translocation. 
+RA  Sano H; Kane S; Sano E; Mîinea CP; Asara JM; Lane WS; 
+RA  Garner CW; Lienhard GE; 
+RL  J Biol Chem. 2003;278:14599-14602.
+DC  Insulin signaling pathway
+DR  KEGG; map04910;
+CC  The binding of insulin to its receptor INSR leads to the
+CC  phosphorylation and activation of the receptor, which is 
+CC  also a tyrosine kinase [1]. INSR then phosphorylates  
+CC  various proteins known as insulin receptor substrates.
+CC  These then associate with the regulatory subunit of 
+CC  phosphoinositide 3-kinase (PI3K) [2]. PI3K activates 
+CC  3-phosphoinositide-dependent protein kinase 1 [3], which in
+CC  turn activates serine kinase Akt [4]. Akt phosphorylates
+CC  the Rab protein TBC1D4, inhibiting its GTPase activating 
+CC  domain and allowing it to change from its GDP- to its GTP-
+CC  bound state. Other proteins in the cascade remain in their
+CC  activated state, stimulating the glucose transporter GLUT4 
+CC  to be expressed on the plasma membrane, leading to glucose
+CC  uptake.
+**  The first seven steps are the same as in Genprop2088.
+**  The KEGG pathway makes no mention of TBC1D4.
+**  SN1 IPR004825 in 4 other props
+**  SN2 IPR016246 in 1 other prop
+**  SN3 IPR039011 in 1 other prop
+**  SN4 IPR015433 in 1 other prop
+**  SN5 IPR001720 in 1 other prop
+**  SN6 IPR039046 in 1 other prop
+**  SN7 IPR039027 & IPR039029 in 1 other prop
+**  Threshold adjusted to allow for this
+--
+SN  1
+ID  Insulin
+DN  Insulin
+RQ  1
+EV  IPR004825; PR00277; sufficient;
+TG  GO:0005179;
+--
+SN  2
+ID  Insulin receptor
+DN  Tyrosine-protein kinase, insulin-like receptor
+RQ  1
+EV  IPR016246; PIRSF000620; sufficient;
+TG  GO:0005009;
+TG  GO:0004713;
+--
+SN  3
+ID  Insulin receptor substrate
+DN  Insulin receptor substrate
+RQ  1
+EV  IPR039011; PTHR10614; sufficient;
+TG  GO:0005158;
+--
+SN  4
+ID  Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha
+DN  Phosphatidylinositol kinase (EC 2.7.1.153)
+RQ  1
+EV  IPR015433; PTHR10048; sufficient;
+TG  GO:0004674;
+--
+SN  5
+ID  Phosphatidylinositol 3-kinase regulatory subunit
+DN  PI3K p85/p55 subunit
+RQ  1
+EV  IPR001720; PTHR10155; sufficient;
+TG  GO:0001784;
+--
+SN  6
+ID  3-phosphoinositide-dependent protein kinase 1
+DN  PDPK1 family (EC 2.7.11.1)
+RQ  1
+EV  IPR039046; PTHR24356:SF163; sufficient;
+TG  GO:0004674;
+--
+SN  7
+ID  RAC-gamma serine/threonine-protein kinase
+DN  Serine/threonine-protein kinase RAC (EC 2.7.11.1)
+RQ  1
+EV  IPR039027; PTHR24356:SF176; sufficient;
+EV  IPR039029; PTHR24356:SF190; sufficient;
+TG  GO:0004674;
+--
+SN  8
+ID  TBC1 domain family member 4
+DN  TBC1 domain family member 4
+RQ  1
+EV  IPR033564; PTHR22957:SF195; sufficient;
+TG  GO:0032869;
+--
+SN  9
+ID  Solute carrier family 2, facilitated glucose transporter member 4
+DN  Glucose transporter, type 4 (GLUT4) 
+RQ  1
+EV  IPR002441; PR01193; sufficient;
+TG  GO:0017137;
+TG  GO:0005355;
+//

@@ -1,0 +1,46 @@
+AC  GenProp1176
+DE  Protein-conducting channel SecYEG complex
+TP  COMPLEX
+AU  Complex Portal
+TH  2
+RN  [1]
+RM  16292303
+RT  Structure of the E. coli protein-conducting channel bound to a
+RT  translating ribosome.
+RA  Mitra K, Schaffitzel C, Shaikh T, Tama F, Jenni S, Brooks CL, Ban N,
+RA  Frank J
+RL  Nature. 2005;438:318-324
+DR  Complex Portal; CPX-1096;
+DR  PDBe; 2aki;
+CC  Functions in both protein secretion to the trans side of the plasma
+CC  membrane and insertion of membrane proteins into the lipid bilayer.
+CC  Associates with the motor ATPase SecA, which drives post-translational
+CC  translocation of pre-proteins across the membrane.Membrane proteins are
+CC  targeted to the membrane co-translationally by the signal recognition
+CC  particle (SRP) associating with its receptor at the cytosolic surface.
+CC  The ribosome nascent chain complex is then passed onto the dimeric
+CC  SecYEG complex and the nascent membrane protein is threaded through the
+CC  protein channel and into the bilayer via a lateral gate. Also forms a
+CC  holo-translocon super-complex comprising of the SecYEG core complex,
+CC  the accessory sub-complex SecDF-YajC and YidC.
+--
+SN  1
+ID  Protein translocase subunit SecY
+RQ  1
+EV  IPR026593; MF_01465; sufficient;
+--
+SN  2
+ID  Protein translocase subunit SecE
+RQ  1
+EV  IPR005807; PR01650; sufficient;
+EV  IPR005807; PTHR33910; sufficient;
+EV  IPR005807; TIGR00964; sufficient;
+--
+SN  3
+ID  Protein-export membrane protein SecG
+RQ  1
+EV  IPR004692; PF03840; sufficient;
+EV  IPR004692; PR01651; sufficient;
+EV  IPR004692; PTHR34182; sufficient;
+EV  IPR004692; TIGR00810; sufficient;
+//

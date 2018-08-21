@@ -1,0 +1,61 @@
+AC  GenProp1709
+DE  Trichome monoterpenes biosynthesis
+TP  PATHWAY
+AU  Pujar A
+TH  5
+DC  Trichome monoterpenes biosynthesis
+DR  MetaCyc; PWY-6447;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Neryl diphosphate synthase
+DN  Neryl diphosphate synthase (EC 2.5.1.28)
+RQ  1
+EV  IPR001441; PF01255; sufficient;
+EV  IPR001441; TIGR00055; sufficient;
+--
+SN  2
+ID  Alpha-terpinene synthase (neryl-diphosphate-cyclizing)
+DN  Alpha-terpinene synthase (neryl-diphosphate-cyclizing)
+RQ  1
+EV  IPR001906; PF01397; sufficient;
+EV  IPR005630; PF03936; sufficient;
+--
+SN  3
+ID  (+)-2-Carene synthase (neryl-diphosphate-cyclizing)
+DN  (+)-2-Carene synthase (neryl-diphosphate-cyclizing)
+RQ  1
+EV  IPR001906; PF01397; sufficient;
+EV  IPR005630; PF03936; sufficient;
+--
+SN  4
+ID  (-)-Alpha-pinene synthase (neryl-diphosphate-cyclizing)
+DN  (-)-Alpha-pinene synthase (neryl-diphosphate-cyclizing)
+RQ  1
+EV  IPR001906; PF01397; sufficient;
+EV  IPR005630; PF03936; sufficient;
+--
+SN  5
+ID  Phellandrene synthase
+DN  Phellandrene synthase
+RQ  1
+EV  IPR001906; PF01397; sufficient;
+EV  IPR005630; PF03936; sufficient;
+--
+SN  6
+ID  (4S)-limonene synthase (neryl-diphosphate-cyclizing)
+DN  (4S)-limonene synthase (neryl-diphosphate-cyclizing)
+RQ  1
+EV  IPR001906; PF01397; sufficient;
+EV  IPR005630; PF03936; sufficient;
+--
+SN  7
+ID  Beta-phellandrene synthase (neryl-diphosphate-cyclizing)
+DN  Beta-phellandrene synthase (neryl-diphosphate-cyclizing) (EC 4.2.3.51)
+RQ  1
+EV  IPR001906; PF01397; sufficient;
+EV  IPR005630; PF03936; sufficient;
+//

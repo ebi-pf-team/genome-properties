@@ -1,0 +1,71 @@
+AC  GenProp1726
+DE  Starch degradation II
+TP  PATHWAY
+AU  Dreher K
+TH  7
+DC  Starch degradation II
+DR  MetaCyc; PWY-6724;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Starch, water dikinase
+DN  Starch, water dikinase (EC 2.7.9.4)
+RQ  1
+EV  IPR002192; PF01326; sufficient;
+--
+SN  2
+ID  6-Phosphoglucan starch, water dikinase
+DN  6-Phosphoglucan starch, water dikinase (EC 2.7.9.5)
+RQ  1
+EV  IPR002044; PF00686; sufficient;
+EV  IPR002192; PF01326; sufficient;
+--
+SN  3
+ID  6-Phosophogluco-starch phosphatase
+DN  6-Phosophogluco-starch phosphatase (EC 3.1.3)
+RQ  1
+EV  IPR000340; PF00782; sufficient;
+EV  IPR032640; PF16561; sufficient;
+--
+SN  4
+ID  6-Phosophogluco-3-phosphogluco-starch phosphatase
+DN  6-Phosophogluco-3-phosphogluco-starch phosphatase (EC 3.1.3)
+RQ  1
+EV  IPR000340; PF00782; sufficient;
+EV  IPR032640; PF16561; sufficient;
+--
+SN  5
+ID  1,4-A-D-glucan maltohydrolase
+DN  1,4-A-D-glucan maltohydrolase (EC 3.2.1.2)
+RQ  1
+EV  IPR001554; PF01373; sufficient;
+--
+SN  6
+ID  1,4-Alpha-D-glucan maltohydrolase
+DN  1,4-Alpha-D-glucan maltohydrolase (EC 3.2.1.2)
+RQ  1
+EV  IPR001554; PF01373; sufficient;
+--
+SN  7
+ID  Isoamylase
+DN  Isoamylase (EC 3.2.1.68)
+RQ  1
+EV  IPR004193; PF02922; sufficient;
+EV  IPR006047; PF00128; sufficient;
+--
+SN  8
+ID  Beta-amylase
+DN  Beta-amylase (EC 3.2.1.2)
+RQ  1
+EV  IPR001554; PF01373; sufficient;
+--
+SN  9
+ID  Maltotriose alpha-1,4-glucanotransferase
+DN  Maltotriose alpha-1,4-glucanotransferase (EC 2.4.1.25)
+RQ  1
+EV  IPR003385; PF02446; sufficient;
+EV  IPR003385; TIGR00217; sufficient;
+//

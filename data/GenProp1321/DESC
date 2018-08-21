@@ -1,0 +1,36 @@
+AC  GenProp1321
+DE  Retinoate biosynthesis I
+TP  PATHWAY
+AU  Caspi R
+TH  2
+DC  Retinoate biosynthesis I
+DR  MetaCyc; PWY-6872;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Cellular retinol-binding protein
+DN  Cellular retinol-binding protein
+RQ  1
+EV  IPR000566; PF00061; sufficient;
+--
+SN  2
+ID  Plasma retinol-binding protein
+DN  Plasma retinol-binding protein
+RQ  1
+EV  IPR000566; PF00061; sufficient;
+--
+SN  3
+ID  All-trans-retinol dehydrogenase
+DN  All-trans-retinol dehydrogenase (EC 1.1.1.105)
+RQ  1
+EV  IPR002347; PF00106; sufficient;
+--
+SN  4
+ID  All-trans-retinal dehydrogenase
+DN  All-trans-retinal dehydrogenase (EC 1.2.1.36)
+RQ  1
+EV  IPR015590; PF00171; sufficient;
+//

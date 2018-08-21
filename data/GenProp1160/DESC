@@ -1,0 +1,29 @@
+AC  GenProp1160
+DE  Glutathione-regulated potassium-efflux system KefC-KefF complex
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+DR  Complex Portal; CPX-2543;
+DR  PDBe; 3eyw;
+DR  PDBe; 3l9w;
+CC  Potassium efflux pore which protects the bacteria from the toxic
+CC  effects of electrophilic compounds which react with nucleophiles found
+CC  in the bases of DNA and the side chains of proteins, especially
+CC  cysteine. Potassium efflux via KefC is accompanied by H+ and Na+ influx
+CC  and hence causes acidification of the cytoplasm. KefC is activated by
+CC  glutathione adducts and inactivated by glutathione which bind to the
+CC  cytosolic regulatory K+ transport and nucleotide binding domain of
+CC  KefC.
+--
+SN  1
+ID  Glutathione-regulated potassium-efflux system ancillary protein KefF
+RQ  1
+EV  IPR023948; MF_01414; sufficient;
+EV  IPR023948; PTHR10204:SF41; sufficient;
+--
+SN  2
+ID  Glutathione-regulated potassium-efflux system protein KefC
+RQ  1
+EV  IPR023941; MF_01413; sufficient;
+EV  IPR023941; PTHR16254:SF28; sufficient;
+//

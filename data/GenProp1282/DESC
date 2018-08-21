@@ -1,0 +1,25 @@
+AC  GenProp1282
+DE  L-arginine degradation III (arginine decarboxylase/agmatinase pathway)
+TP  PATHWAY
+AU  Caspi R, Arnaud M
+TH  0
+DC  L-arginine degradation III (arginine decarboxylase/agmatinase pathway)
+DR  MetaCyc; PWY0-823;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Agmatinase
+DN  Agmatinase (EC 3.5.3.11)
+RQ  1
+EV  IPR005925; TIGR01230; sufficient;
+EV  IPR006035; PF00491; sufficient;
+--
+SN  2
+ID  Arginine decarboxylase
+DN  Arginine decarboxylase (EC 4.1.1.19)
+RQ  1
+EV  IPR002985; TIGR01273; sufficient;
+//

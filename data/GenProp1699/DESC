@@ -1,0 +1,38 @@
+AC  GenProp1699
+DE  Glycosaminoglycan-protein linkage region biosynthesis
+TP  PATHWAY
+AU  Caspi R
+TH  2
+DC  Glycosaminoglycan-protein linkage region biosynthesis
+DR  MetaCyc; PWY-6557;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  UDP-galactose:beta-xylose beta-1,4-galactosyltransferase
+DN  UDP-galactose:beta-xylose beta-1,4-galactosyltransferase (EC 2.4.1.133)
+RQ  1
+EV  IPR027791; PF02709; sufficient;
+EV  IPR027995; PF13733; sufficient;
+--
+SN  2
+ID  Galactosylxylosylprotein 3-beta-galactosyltransferase
+DN  Galactosylxylosylprotein 3-beta-galactosyltransferase (EC 2.4.1.134)
+RQ  1
+EV  IPR002659; PF01762; sufficient;
+--
+SN  3
+ID  Galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase
+DN  Galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase (EC 2.4.1.135)
+RQ  1
+EV  IPR005027; PF03360; sufficient;
+--
+SN  4
+ID  Protein xylosyltransferase
+DN  Protein xylosyltransferase (EC 2.4.2.26)
+RQ  1
+EV  IPR003406; PF02485; sufficient;
+EV  IPR024448; PF12529; sufficient;
+//

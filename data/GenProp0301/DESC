@@ -34,4 +34,54 @@ SN  6
 ID  FtsH/HflKC protease complex
 RQ  0
 EV  GenProp0684;
+--
+SN  7
+ID  Endopeptidase ClpXP complex
+RQ  0
+EV  GenProp1108;
+--
+SN  8
+ID  Endopeptidase ClpAP complex
+RQ  0
+EV  GenProp1137;
+--
+SN  9
+ID  Fibrinolysis
+RQ  0
+EV  GenProp2010;
+--
+SN  10
+ID  26S proteasome
+RQ  0
+EV  GenProp2013;
+--
+SN  11
+ID  Immunoproteasome
+RQ  0
+EV  GenProp2014;
+--
+SN  12
+ID  Thymoproteasome
+RQ  0
+EV  GenProp2015;
+--
+SN  13
+ID  Mammalian spermatoproteasome
+RQ  0
+EV  GenProp2016;
+--
+SN  14
+ID  Initiator caspases of the apoptosis extrinsic pathway
+RQ  0
+EV  GenProp2018;
+--
+SN  15
+ID  Executor caspases of apoptosis
+RQ  0
+EV  GenProp2019;
+--
+SN  16
+ID  KICSTOR complex
+RQ  0
+EV  GenProp2026;
 //

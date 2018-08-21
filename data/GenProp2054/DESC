@@ -1,21 +1,23 @@
 AC  GenProp2054
 DE  TFIID complex
-TP  SYSTEM
+TP  COMPLEX
 AU  Rawlings ND
 TH  6
-RN  [1] 
+RN  [1]
 RM  12138208
 RT  Molecular characterization of Saccharomyces cerevisiae TFIID. 
 RA  Sanders SL; Garbett KA; Weil PA;   
 RL  Mol Cell Biol. 2002;22:6000-6013.
-RN  [2] 
+RN  [2]
 RM  10788514
 RT  Identification of two novel TAF subunits of the yeast 
 RT  Saccharomyces cerevisiae TFIID complex. 
 RA  Sanders SL; Weil PA;   
 RL  J Biol Chem. 2000;275:13895-13900.
+DC  Basal transcription factors
+DR  KEGG; map03022;
 CC  The TFIID complex is a general purpose translation initiator
-CC  factor.  It is composed of the TATA binding protein (TBP) and 
+CC  factor. It is composed of the TATA binding protein (TBP) and 
 CC  14 TBP-associated factors. One copy of each TAF1, TAF2, TAF3, 
 CC  TAF7, TAF8, TAF11, TAF13, two copies of each TAF4, TAF5, TAF6, 
 CC  TAF9, TAF10, TAF12, and three copies of TAF14 [1,2].
@@ -30,7 +32,7 @@ CC  TAF9, TAF10, TAF12, and three copies of TAF14 [1,2].
 --
 SN  1
 ID  TATA-box-binding protein 
-DN  TATA-box-binding protein/1
+DN  TATA-box-binding protein/TBP
 RQ  1
 EV  IPR033710; cd04516; sufficient;
 TG  GO:0005669;
@@ -38,28 +40,28 @@ TG  GO:0006352;
 --
 SN  2
 ID  Transcription initiation factor TFIID subunit 1 
-DN  Transcription initiation factor TFIID subunit 1 /2
+DN  Transcription initiation factor TFIID subunit 1/TAF1
 RQ  1
-EV  IPR037783; PTHR19879:SF1; sufficient;
+EV  IPR011177; PTHR19879:SF1; sufficient;
 TG  GO:0005669;
 --
 SN  3
 ID  Transcription initiation factor TFIID subunit 2 
-DN  Transcription initiation factor TFIID subunit 2 /3
+DN  Transcription initiation factor TFIID subunit 2/TAF2
 RQ  1
 EV  IPR037813; PTHR15137; sufficient;
 TG  GO:0005669;
 --
 SN  4
 ID  Transcription initiation factor TFIID subunit 3 
-DN  Transcription initiation factor TFIID subunit 3 /4
+DN  Transcription initiation factor TFIID subunit 3/TAF3
 RQ  1
 EV  IPR037815; PTHR12321:SF95; sufficient;
 TG  GO:0005669;
 --
 SN  5
 ID  Transcription initiation factor TFIID subunit 4 
-DN  Transcription initiation factor TFIID subunit 4 /5
+DN  Transcription initiation factor TFIID subunit 4/TAF4
 RQ  1
 EV  IPR007900; PF05236; sufficient;
 EV  IPR007900; cd08045; sufficient;
@@ -67,35 +69,35 @@ TG  GO:0005669;
 --
 SN  6
 ID  Transcription initiation factor TFIID subunit 5 
-DN  Transcription initiation factor TFIID subunit 5 /6
+DN  Transcription initiation factor TFIID subunit 5/TAF5
 RQ  1
 EV  IPR037783; PTHR19879:SF1; sufficient;
 TG  GO:0005669;
 --
 SN  7
 ID  Transcription initiation factor TFIID subunit 6
-DN  Transcription initiation factor TFIID subunit 6/7
+DN  Transcription initiation factor TFIID subunit 6/TAF6
 RQ  1
 EV  IPR037796; PTHR10221; sufficient;
 TG  GO:0005669;
 --
 SN  8
 ID  Transcription initiation factor TFIID subunit 7
-DN  Transcription initiation factor TFIID subunit 7/8
+DN  Transcription initiation factor TFIID subunit 7/TAF7
 RQ  1
 EV  IPR037817; PTHR12228; sufficient;
 TG  GO:0005669;
 --
 SN  9
 ID  Transcription initiation factor TFIID subunit 8
-DN  Transcription initiation factor TFIID subunit 8/9
+DN  Transcription initiation factor TFIID subunit 8/TAF8
 RQ  1
 EV  IPR037818; PTHR12321:SF102; sufficient;
 TG  GO:0005669;
 --
 SN  10
 ID  Transcription initiation factor TFIID subunit 9 
-DN  Transcription initiation factor TFIID subunit 9 /10
+DN  Transcription initiation factor TFIID subunit 9/TAF9
 RQ  1
 EV  IPR003162; PF02291; sufficient;
 EV  IPR003162; cd07979; sufficient;
@@ -103,7 +105,7 @@ TG  GO:0005669;
 --
 SN  11
 ID  Transcription initiation factor TFIID subunit 10 
-DN  Transcription initiation factor TFIID subunit 10 /11
+DN  Transcription initiation factor TFIID subunit 10/TAF10
 RQ  1
 EV  IPR003923; PIRSF017246; sufficient;
 EV  IPR003923; PR01443; sufficient;
@@ -113,7 +115,7 @@ TG  GO:0005669;
 --
 SN  12
 ID  Transcription initiation factor TFIID subunit 11 
-DN  Transcription initiation factor TFIID subunit 11 /12
+DN  Transcription initiation factor TFIID subunit 11/TAF11
 RQ  1
 EV  IPR006809; PTHR13218; sufficient;
 EV  IPR006809; PF04719; sufficient;
@@ -122,7 +124,7 @@ TG  GO:0005669;
 --
 SN  13
 ID  Transcription initiation factor TFIID subunit 12
-DN  Transcription initiation factor TFIID subunit 12/13
+DN  Transcription initiation factor TFIID subunit 12/TAF12
 RQ  1
 EV  IPR003228; PD012998; sufficient;
 EV  IPR003228; PF03847; sufficient;
@@ -131,7 +133,7 @@ TG  GO:0005669;
 --
 SN  14
 ID  Transcription initiation factor TFIID subunit 13
-DN  Transcription initiation factor TFIID subunit 13/14
+DN  Transcription initiation factor TFIID subunit 13/TAF13
 RQ  1
 EV  IPR003195; PF02269; sufficient;
 EV  IPR003195; PTHR11380; sufficient;
@@ -140,7 +142,7 @@ TG  GO:0005669;
 --
 SN  15
 ID  Transcription initiation factor TFIID subunit 14
-DN  Transcription initiation factor TFIID subunit 14/15
+DN  Transcription initiation factor TFIID subunit 14/TAF14
 RQ  1
 EV  IPR016665; PIRSF016551; sufficient;
 EV  IPR016665; PTHR23195:SF2; sufficient;

@@ -62,4 +62,9 @@ SN  11
 ID  Thiosulfate oxidation to sulfate
 RQ  0
 EV  GenProp1088;
+--
+SN  12
+ID  Sulfate activation for sulfonation
+RQ  0
+EV  GenProp1573;
 //

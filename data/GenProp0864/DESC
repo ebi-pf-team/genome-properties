@@ -16,4 +16,9 @@ SN  2
 ID  Response to acidic (low pH) environment
 RQ  0
 EV  GenProp0874;
+--
+SN  4
+ID  Cus cation efflux complex
+RQ  0
+EV  GenProp1168;
 //

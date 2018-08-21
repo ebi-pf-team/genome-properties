@@ -1,0 +1,25 @@
+AC  GenProp1465
+DE  Pyrimidine ribonucleosides salvage II
+TP  PATHWAY
+AU  Zhang P
+TH  0
+DC  Pyrimidine ribonucleosides salvage II
+DR  MetaCyc; PWY-6556;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Cytidine deaminase
+DN  Cytidine deaminase (EC 3.5.4.5)
+RQ  1
+EV  IPR006263; TIGR01355; sufficient;
+EV  IPR006262; TIGR01354; sufficient;
+--
+SN  2
+ID  Uridine nucleosidase
+DN  Uridine nucleosidase (EC 3.2.2.3)
+RQ  1
+EV  IPR001910; PF01156; sufficient;
+//

@@ -1,0 +1,92 @@
+AC  GenProp2095
+DE  Insulin secretion via PKA
+TP  METAPATH
+AU  Rawlings ND
+TH  1
+RN  [1]
+RM  9914469
+RT  Molecular mechanisms and regulation of insulin 
+RT  exocytosis as a paradigm of endocrine secretion. 
+RA  Lang J; 
+RL  Eur J Biochem 1999;259:3-17.
+RN  [2]
+RM  26206488
+RT  Adenylyl cyclase 5 regulation by Gbetagamma involves 
+RT  isoform-specific use of multiple interaction sites. 
+RA  Brand CS; Sadana R; Malik S; Smrcka AV; Dessauer CW; 
+RL  Mol Pharmacol 2015;88:758-767.
+RN  [3]
+RM  9715374
+RT  Protein kinases, protein phosphorylation, and the 
+RT  regulation of insulin secretion from pancreatic beta-
+RT  cells. 
+RA  Jones PMl Persaud SJ; 
+RL  Endocr Rev 1998;19:429-461.
+DC  Insulin secretion
+DR  KEGG; map04911;
+CC  Insulin is secreted by the pancreatic beta cells. Its
+CC  secretion can be stimulated by the import of glucose
+CC  via a surface transporter. Metabolism of glucose
+CC  increases intracellular ATP, inhibiting ATP-sensitive
+CC  potassium channels, causing an influx of calcium into
+CC  the cell [1]. Alternatively, there are surface 
+CC  receptors for peptide hormones such as glucagon-like 
+CC  peptide 1. Binding triggers an increase in cAMP, 
+CC  activation of G proteins, leading to insulin secretion
+CC  via binding of storage vesicles to the membrane [2].
+CC  Depolarization of the plasma membrane leads to an 
+CC  influx of calcium, activation of calcium/calmodulin-
+CC  dependent protein kinase and translocation of insulin-
+CC  containing vesicles to the cell surface [3].
+**  Protein kinase A is a tetramer of two catalytic subunits
+**  and two regulatory subunits (which bind cAMP).  There
+**  are three different human genes encoding a catalytic
+**  subunit (alpha, beta and gamma) and four genes that
+**  encode regulatory subunits.  The tetramer can be
+**  composed of any of these, provided two subunits are
+**  catalytic and two regulatory.
+--
+SN  1
+ID  Peptide hormone initiated increase in cAMP
+DN  Peptide hormone initiated increase in cAMP
+RQ  1
+EV  GenProp2092;
+EV  GenProp2093;
+EV  GenProp2094;
+--
+SN  5
+ID  cAMP-dependent protein kinase catalytic subunits
+DN  cAMP-dependent protein kinase catalytic subunits (PRKACA, PRKACB, PRKACG) (EC 2.7.11.11)
+RQ  1
+EV  IPR039035; PTHR24353:SF82; sufficient;
+EV  IPR039083; PTHR24353:SF116; sufficient;
+EV  IPR039084; PTHR24353:SF113; sufficient;
+TG  GO:0004674;
+TG  GO:0004691;
+--
+SN  6
+ID  cAMP-dependent protein kinase regulatory subunits
+DN  cAMP-dependent protein kinase regulatory subunits (PRKAR1A, PRKAR1B, PRKAR2A, PRKAR2B)
+RQ  1
+EV  IPR012198; PIRSF000548; sufficient;
+TG  GO:0000166;
+--
+SN  7
+ID  Voltage-dependent L-type calcium channel subunits alpha
+DN  Voltage-dependent L-type calcium channel subunits alpha (CACNA1C, CACNA1D, CACNA1F, CACNA1S)
+RQ  1
+EV  IPR005446; PR01630; sufficient;
+TG  GO:0005245;
+--
+SN  8
+ID  Calcium/calmodulin-dependent protein kinase type II
+DN  Calcium/calmodulin-dependent protein kinase type II (CAMK2A, CAMK2B, CAMK2D, CAMK2G)
+RQ  1
+EV  IPR039071; PTHR43940; sufficient;
+TG  GO:0004683;
+--
+SN  9
+ID  Insulin release from secretory granules
+RQ  1
+EV  GenProp2097;
+//

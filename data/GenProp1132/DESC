@@ -1,0 +1,73 @@
+AC  GenProp1132
+DE  Holo-translocon SecYEG-SecDF-YajC-YidC complex
+TP  COMPLEX
+AU  Complex Portal
+TH  6
+RN  [1]
+RM  27924919
+RT  A central cavity within the holo-translocon suggests a mechanism for
+RT  membrane protein insertion.
+RA  Botte M, Zaccai NR, Nijeholt JL, Martin R, Knoops K, Papai G, Zou J,
+RA  Deniaud A, Karuppasamy M, Jiang Q, Roy AS, Schulten K, Schultz P,
+RA  Rappsilber J, Zaccai G, Berger I, Collinson I, Schaffitzel C
+RL  Sci Rep. 2016;6:38399
+DR  Complex Portal; CPX-1095;
+DR  PDBe; 2akh;
+DR  PDBe; 2aki;
+CC  Functions in both protein secretion to the trans side of the plasma
+CC  membrane and insertion of membrane proteins into the lipid bilayer. The
+CC  HTL complex is more proficient in cotranslational membrane protein
+CC  insertion compared with SecYEG (CPX-1096) alone, and the
+CC  post-translational secretion of a beta-barreled outer-membrane protein
+CC  driven by secA and ATP becomes much more dependent on the proton-motive
+CC  force than is the case for SecYEG. The YidC periplasmic and SecD
+CC  periplasmic region P1-head domains are positioned to interact with
+CC  translocation substrates preventing backsliding of the polypeptide
+CC  through the translocation channel. 
+--
+SN  1
+ID  Protein translocase subunit SecD
+RQ  1
+EV  IPR005791; MF_01463_B; sufficient;
+EV  IPR005791; TIGR01129; sufficient;
+--
+SN  2
+ID  Sec translocon accessory complex subunit YajC
+RQ  1
+EV  IPR003849; PF02699; sufficient;
+EV  IPR003849; PR01853; sufficient;
+EV  IPR003849; PTHR33909; sufficient;
+EV  IPR003849; SM01323; sufficient;
+EV  IPR003849; TIGR00739; sufficient;
+--
+SN  3
+ID  Protein translocase subunit SecF
+RQ  1
+EV  IPR005665; MF_01464_B; sufficient;
+EV  IPR005665; TIGR00966; sufficient;
+--
+SN  4
+ID  Protein translocase subunit SecY
+RQ  1
+EV  IPR026593; MF_01465; sufficient;
+--
+SN  5
+ID  Protein translocase subunit SecE
+RQ  1
+EV  IPR005807; PR01650; sufficient;
+EV  IPR005807; PTHR33910; sufficient;
+EV  IPR005807; TIGR00964; sufficient;
+--
+SN  6
+ID  Membrane protein insertase YidC
+RQ  1
+EV  IPR019998; MF_01810; sufficient;
+--
+SN  7
+ID  Protein-export membrane protein SecG
+RQ  1
+EV  IPR004692; PF03840; sufficient;
+EV  IPR004692; PR01651; sufficient;
+EV  IPR004692; PTHR34182; sufficient;
+EV  IPR004692; TIGR00810; sufficient;
+//

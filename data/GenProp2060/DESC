@@ -1,6 +1,6 @@
 AC  GenProp2060
 DE  COMPASS methyltransferase complex
-TP  SYSTEM
+TP  COMPLEX
 AU  Rawlings ND
 TH  2
 RN  [1]
@@ -19,13 +19,13 @@ RL  EMBO J. 2001;20:7137-7148.
 RN  [3]
 RM  11687631
 RT  COMPASS: a complex of proteins associated with a trithorax-
-CC  related SET domain protein. 
+RT  related SET domain protein. 
 RA  Roguev A; Schaft D; Shevchenko A; Pijnappel WW; Wilm M; 
 RA  Aasland R; Stewart AF;   
 RL  Proc Natl Acad Sci U S A 2001;98:12902-12907.
 CC  The COMPASS (Complex Proteins Associated with Set1 or Set1C) 
 CC  complex mono-, di- and trimethylates histone H3 to form 
-CC  H3K4me1/2/3.  This is important for telomere length 
+CC  H3K4me1/2/3. This is important for telomere length 
 CC  maintenance and regulation of transcription elongation [1].  
 CC  The complex consists of SET1, BRE2, SPP1, SDC1, SHG1, SWD1, 
 CC  SWD2, and SWD3 [2,3].
@@ -37,7 +37,7 @@ CC  SWD2, and SWD3 [2,3].
 --
 SN  1
 ID  Histone-lysine N-methyltransferase SET1
-DN  Histone-lysine N-methyltransferase SET1 (EC 2.1.1.43)/1
+DN  Histone-lysine N-methyltransferase SET1 (EC 2.1.1.43)
 RQ  1
 EV  IPR017111; PIRSF037104; sufficient;
 EV  IPR017111; PS51572; sufficient;
@@ -46,49 +46,49 @@ TG  GO:0048188;
 --
 SN  2
 ID  WD40-repeat-containing protein SWD3-like
-DN  WD40-repeat-containing protein SWD3-like /2
+DN  WD40-repeat-containing protein SWD3-like
 RQ  1
 EV  IPR037866; PTHR22847:SF603; sufficient;
 TG  GO:0048188;
 --
 SN  3
 ID  COMPASS component SWD2
-DN  COMPASS component SWD2 /3
+DN  COMPASS component SWD2
 RQ  1
 EV  IPR037867; PTHR19861:SF0; sufficient;
 TG  GO:0048188;
 --
 SN  4
 ID  COMPASS component SWD1 
-DN  COMPASS component SWD1 /4
+DN  COMPASS component SWD1
 RQ  1
 EV  IPR037850; PTHR44040; sufficient;
 TG  GO:0048188;
 --
 SN  5
 ID  COMPASS component BRE2 
-DN  COMPASS component BRE2 /5
+DN  COMPASS component BRE2
 RQ  1
 EV  IPR037353; PTHR10598; sufficient;
 TG  GO:0048188;
 --
 SN  6
 ID  COMPASS component SPP1 
-DN  COMPASS component SPP1 /6
+DN  COMPASS component SPP1
 RQ  1
 EV  IPR037869; PTHR12321:SF97; sufficient;
 TG  GO:0048188;
 --
 SN  7
 ID  COMPASS component SHG1
-DN  COMPASS component SHG1 /7
+DN  COMPASS component SHG1
 RQ  1
 EV  IPR007870; PD086658; sufficient;
 TG  GO:0048188;
 --
 SN  8
 ID  COMPASS component SDC1
-DN  COMPASS component SDC1 /8
+DN  COMPASS component SDC1
 RQ  1
 EV  IPR037870; PTHR23356:SF8; sufficient;
 TG  GO:0048188;

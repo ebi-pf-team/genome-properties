@@ -1,0 +1,24 @@
+AC  GenProp1447
+DE  Methanogenesis from methylthiopropanoate
+TP  PATHWAY
+AU  Caspi R
+TH  0
+DC  Methanogenesis from methylthiopropanoate
+DR  MetaCyc; PWY-5260;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  [methyl-Co(III) methanethiol-specific corrinoid protein]:coenzyme M methyltransferase
+DN  [methyl-Co(III) methanethiol-specific corrinoid protein]:coenzyme M methyltransferase (EC 2.1.1.251)
+RQ  1
+EV  IPR000257; PF01208; sufficient;
+--
+SN  2
+ID  3-(Methylthio)propionate:MtpC protein methyltransferase
+DN  3-(Methylthio)propionate:MtpC protein methyltransferase (EC 2.1.1.251)
+RQ  1
+EV  IPR000257; PF01208; sufficient;
+//

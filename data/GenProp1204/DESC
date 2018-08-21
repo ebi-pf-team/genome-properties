@@ -1,0 +1,41 @@
+AC  GenProp1204
+DE  Maltose transport complex
+TP  COMPLEX
+AU  Complex Portal
+TH  3
+RN  [1]
+RM  18033289
+RT  Crystal structure of a catalytic intermediate of the maltose
+RT  transporter.
+RA  Oldham ML, Khare D, Quiocho FA, Davidson AL, Chen J
+RL  Nature. 2007;450:515-521
+DR  Complex Portal; CPX-1932;
+DR  PDBe; 3puy;
+CC  Transports maltose from the periplasmic space into the cytoplasm
+CC  through an ATP-dependent transmembrane channel. Maltose binds to malE
+CC  which attaches to the malFG dimer. Upon release of the maltose into the
+CC  transmembrane channel, the malK2 dimer binds ATP the hydrolysis of
+CC  which triggers the release of maltose into the cytoplasm.
+--
+SN  1
+ID  Maltose transport system permease protein MalF
+RQ  1
+EV  IPR030156; PTHR30193:SF22; sufficient;
+--
+SN  2
+ID  Maltose transport system permease protein MalG
+RQ  1
+EV  IPR000515; PF00528; sufficient;
+EV  IPR000515; PS50928; sufficient;
+EV  IPR000515; cd06261; sufficient;
+--
+SN  3
+ID  Maltose-binding periplasmic protein
+RQ  1
+EV  IPR006060; PR00181; sufficient;
+--
+SN  4
+ID  Maltose/maltodextrin import ATP-binding protein MalK
+RQ  1
+EV  IPR015855; PS51245; sufficient;
+//

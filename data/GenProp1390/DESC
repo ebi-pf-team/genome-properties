@@ -1,0 +1,24 @@
+AC  GenProp1390
+DE  Choline degradation I
+TP  PATHWAY
+AU  Caspi R, Ying H
+TH  0
+DC  Choline degradation I
+DR  MetaCyc; CHOLINE-BETAINE-ANA-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Betaine aldehyde dehydrogenase
+DN  Betaine aldehyde dehydrogenase (EC 1.2.1.8)
+RQ  1
+EV  IPR015590; PF00171; sufficient;
+--
+SN  2
+ID  Choline dehydrogenase
+DN  Choline dehydrogenase (EC 1.1.99.1)
+RQ  1
+EV  IPR011533; TIGR01810; sufficient;
+//

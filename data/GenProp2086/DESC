@@ -1,0 +1,68 @@
+AC  GenProp2086
+DE  Pro-insulin activation
+TP  METAPATH
+AU  Rawlings ND
+TH  3
+RN  [1]
+RM  14426955
+RT  Amino-acid sequence of human insulin. 
+RA  Nicol DS; Smith LF; 
+RL  Nature 1960;187:483-485.
+RN  [2]
+RM  7845206
+RT  Pro-protein convertases of subtilisin/kexin family. 
+RA  Seidah NG; Chrétien M; 
+RL  Methods Enzymol 1994;244:175-188.
+RN  [3]
+RM  10966857
+RT  Translational regulation of proinsulin biosynthesis and 
+RT  proinsulin conversion in the pancreatic beta-cell. 
+RA  Goodge KA; Hutton JC;
+RL  Semin Cell Dev Biol 2000;11:235-242.
+CC  Insulin is synthesized as a precursor. It is processed to
+CC  generate insulin A and B chains, which are disulfide-linked,
+CC  and the C-peptide [1]. Processing occurs at dibasic 
+CC  residues [2] and the C-terminal dibasics are removed 
+CC  sequentially by a carboxypeptidase [3].
+**  The signal peptidase complex MEROPS XS26.001.
+**  Neuroendocrine convertase 1 (PCSK1) is MEROPS S08.072.
+**  Carboxypeptidase E is MEROPS M14.005.
+**  Neuroendocrine convertase 1 (PCSK2) can perform some of the
+**  same cleavages as PCSK1, and both are included in the same
+**  InterPro entry.
+**  IPR004825 (SN1) is found in 4 other properties
+**  GenProp2038 (SN2) is found in 1 other property
+**  IPR022005 (SN3) is found in 1 other property
+**  IPR034232 (SN4) is found in 1 other property
+**  Threshold adjusted to account for this
+--
+SN  1
+ID  Pro-insulin
+DN  Insulin
+RQ  1
+EV  IPR004825; PR00277; sufficient;
+TG  GO:0005179;
+--
+SN  2
+ID  Microsomal signal peptidase complex
+RQ  1
+EV  GenProp2038;
+TG  GO:0005787;
+TG  GO:0006465;
+--
+SN  3
+ID  Neuroendocrine convertase 1
+DN  Prohormone convertase enzyme (EC 3.4.21.93)
+RQ  1
+EV  IPR022005; PF12177; sufficient;
+TG  GO:0004252;
+TG  GO:0016486;
+--
+SN  4
+ID  Carboxypeptidase E
+DN  Carboxypeptidase E (EC 3.4.17.10)
+RQ  1
+EV  IPR034232; cd03865; sufficient;
+TG  GO:0004181;
+TG  GO:0007218;
+//

@@ -1,0 +1,32 @@
+AC  GenProp1396
+DE  UTP and CTP dephosphorylation II
+TP  PATHWAY
+AU  Caspi R
+TH  1
+DC  UTP and CTP dephosphorylation II
+DR  MetaCyc; PWY-7177;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  CTP synthetase
+DN  CTP synthetase (EC 6.3.4.2)
+RQ  1
+EV  IPR004468; TIGR00337; sufficient;
+--
+SN  2
+ID  UTP phosphohydrolase
+DN  UTP phosphohydrolase (EC 3.6.1.5)
+RQ  1
+EV  IPR000407; PF01150; sufficient;
+EV  IPR014078; TIGR02705; sufficient;
+--
+SN  3
+ID  CTP diphosphatase
+DN  CTP diphosphatase (EC 3.6.1.5)
+RQ  1
+EV  IPR014078; TIGR02705; sufficient;
+EV  IPR000407; PF01150; sufficient;
+//

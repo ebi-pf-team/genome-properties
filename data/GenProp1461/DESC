@@ -1,0 +1,57 @@
+AC  GenProp1461
+DE  tRNA-uridine 2-thiolation (cytoplasmic)
+TP  PATHWAY
+AU  Caspi R
+TH  5
+DC  tRNA-uridine 2-thiolation (cytoplasmic)
+DR  MetaCyc; PWY-7888;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  tRNA (carboxymethyluridine34-5-O)-methyltransferase
+DN  tRNA (carboxymethyluridine34-5-O)-methyltransferase (EC 2.1.1.229)
+RQ  1
+EV  IPR005651; PF03966; sufficient;
+--
+SN  2
+ID  tRNA-5-(2-methoxy-2-oxoethyl)uridine 2-sulfurtransferase
+DN  tRNA-5-(2-methoxy-2-oxoethyl)uridine 2-sulfurtransferase (EC 2.8.1)
+RQ  1
+EV  IPR019407; PF10288; sufficient;
+--
+SN  3
+ID  URM1 adenylyltransferase
+DN  URM1 adenylyltransferase (EC 2.7.7)
+RQ  1
+EV  IPR000594; PF00899; sufficient;
+EV  IPR001763; PF00581; sufficient;
+--
+SN  4
+ID  URM1 sulfurtransferase
+DN  URM1 sulfurtransferase (EC 2.8.1)
+RQ  1
+EV  IPR000594; PF00899; sufficient;
+EV  IPR001763; PF00581; sufficient;
+--
+SN  5
+ID  TUM1:MOCS3 sulfurtransferase
+DN  TUM1:MOCS3 sulfurtransferase (EC 2.8.1)
+RQ  1
+EV  IPR000594; PF00899; sufficient;
+EV  IPR001763; PF00581; sufficient;
+--
+SN  6
+ID  Cysteine desulfurase:TUM1 sulfurtransferase
+DN  Cysteine desulfurase:TUM1 sulfurtransferase (EC 2.8.1)
+RQ  1
+EV  IPR001763; PF00581; sufficient;
+--
+SN  7
+ID  Cysteine desulfurase
+DN  Cysteine desulfurase
+RQ  1
+EV  IPR010240; TIGR02006; sufficient;
+//

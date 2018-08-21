@@ -1,0 +1,36 @@
+AC  GenProp1420
+DE  Gibberellin inactivation II (methylation)
+TP  PATHWAY
+AU  Dreher K
+TH  2
+DC  Gibberellin inactivation II (methylation)
+DR  MetaCyc; PWY-6477;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  GA9 carboxyl methyltransferase
+DN  GA9 carboxyl methyltransferase (EC 2.1.1.275)
+RQ  1
+EV  IPR005299; PF03492; sufficient;
+--
+SN  2
+ID  GA4 carboxyl methyltransferase
+DN  GA4 carboxyl methyltransferase (EC 2.1.1.276)
+RQ  1
+EV  IPR005299; PF03492; sufficient;
+--
+SN  3
+ID  GA20 carboxyl methyltransferase
+DN  GA20 carboxyl methyltransferase (EC 2.1.1)
+RQ  1
+EV  IPR005299; PF03492; sufficient;
+--
+SN  4
+ID  GA4 carboxyl methyltransferase
+DN  GA4 carboxyl methyltransferase (EC 2.1.1)
+RQ  1
+EV  IPR005299; PF03492; sufficient;
+//

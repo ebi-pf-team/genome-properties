@@ -1,0 +1,43 @@
+AC  GenProp1264
+DE  Superpathway of pyrimidine deoxyribonucleoside salvage
+TP  PATHWAY
+AU  Caspi R
+TH  3
+DC  Superpathway of pyrimidine deoxyribonucleoside salvage
+DR  MetaCyc; PWY-7200;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  2'-Deoxycytidine kinase
+DN  2'-Deoxycytidine kinase (EC 2.7.1.74)
+RQ  1
+EV  IPR031314; PF01712; sufficient;
+--
+SN  2
+ID  Thymidylate kinase
+DN  Thymidylate kinase (EC 2.7.4.12)
+RQ  1
+EV  IPR018094; TIGR00041; sufficient;
+--
+SN  3
+ID  DCMP kinase
+DN  DCMP kinase (EC 2.7.4.25)
+RQ  1
+EV  IPR006266; TIGR01359; sufficient;
+--
+SN  4
+ID  Thymidine kinase
+DN  Thymidine kinase (EC 2.7.1.21)
+RQ  1
+EV  IPR001267; PF00265; sufficient;
+--
+SN  5
+ID  Thymidylate synthase
+DN  Thymidylate synthase (EC 2.1.1.45)
+RQ  1
+EV  IPR003745; PF02593; sufficient;
+EV  IPR000398; TIGR03284; sufficient;
+//

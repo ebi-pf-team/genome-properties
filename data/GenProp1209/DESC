@@ -1,0 +1,47 @@
+AC  GenProp1209
+DE  Hydrogenase-1 complex
+TP  COMPLEX
+AU  Complex Portal
+TH  2
+DR  Complex Portal; CPX-281;
+DR  PDBe; 3uqy;
+DR  PDBe; 3use;
+DR  PDBe; 4ue3;
+DR  PDBe; 3usc;
+DR  PDBe; 5adu;
+DR  PDBe; 5a4m;
+DR  PDBe; 5a4f;
+DR  PDBe; 5a4i;
+CC  Catalyzes the reversible oxidation of hydrogen (H2) to protons and
+CC  electrons. Maximally produced during fermentation and under various
+CC  types of stress such as carbon and phosphate starvation, osmotic up
+CC  shift, and stationary phase conditions. Hydrogenase-1 is oxygen
+CC  tolerant and contains the special proximal (relative to the active
+CC  site) [Fe4S3] cluster that can rapidly undergo two successive
+CC  one-electron oxidations within a narrow potential range. The additional
+CC  two electrons required to reduce the attacking O2 to two water
+CC  molecules, can originate from either the two-electron oxidation of
+CC  Ni(I) to Ni(III), or the one-electron oxidation of Ni(II) to Ni(III) at
+CC  the active site, the latter coupled to the one-electron oxidation of
+CC  the [Fe4S4] medial cluster.
+--
+SN  1
+ID  Hydrogenase-1 large chain
+RQ  1
+EV  IPR001501; PF00374; sufficient;
+--
+SN  2
+ID  Hydrogenase-1 small chain
+RQ  1
+EV  IPR001821; PIRSF000310; sufficient;
+EV  IPR001821; PTHR30013; sufficient;
+EV  IPR001821; TIGR00391; sufficient;
+--
+SN  3
+ID  Probable Ni/Fe-hydrogenase 1 B-type cytochrome subunit
+RQ  1
+EV  IPR000516; PR00161; sufficient;
+EV  IPR000516; PS00882; sufficient;
+EV  IPR000516; PS00883; sufficient;
+EV  IPR000516; TIGR02125; sufficient;
+//

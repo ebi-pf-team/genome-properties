@@ -1,0 +1,37 @@
+AC  GenProp1133
+DE  YoeB-YefM toxin-antitoxin complex
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+RN  [1]
+RM  16109374
+RT  Conformational change in the catalytic site of the ribonuclease YoeB
+RT  toxin by YefM antitoxin.
+RA  Kamada K, Hanaoka F
+RL  Mol Cell. 2005;19:497-509
+RN  [2]
+RM  24561554
+RT  The binary protein-protein interaction landscape of Escherichia coli.
+RA  Rajagopala SV, Sikorski P, Kumar A, Mosca R, Vlasblom J, Arnold R,
+RA  Franca-Koh J, Pakala SB, Phanse S, Ceol A, Häuser R, Siszler G, Wuchty
+RA  S, Emili A, Babu M, Aloy P, Pieper R, Uetz P
+RL  Nat Biotechnol. 2014;32:285-290
+DR  Complex Portal; CPX-1087;
+CC  Toxin-antitoxin (TA) complex. Antitoxin YefM binding to toxin YoeB
+CC  suppresses YoeB toxicity and represses its own transcription by binding
+CC  to the yefM-yoeB operon. On its own, YoeB has translation-dependent
+CC  mRNA degradation activity and preferentially cleaves at 3' ends of
+CC  purine-rich ribonucleotides. 
+--
+SN  1
+ID  Toxin YoeB
+RQ  1
+EV  IPR009614; PF06769; sufficient;
+EV  IPR009614; PTHR38039; sufficient;
+EV  IPR009614; TIGR02116; sufficient;
+--
+SN  2
+ID  Antitoxin YefM
+RQ  1
+EV  IPR006442; PF02604; sufficient;
+//

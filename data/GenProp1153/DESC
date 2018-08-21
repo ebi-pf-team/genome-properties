@@ -1,0 +1,38 @@
+AC  GenProp1153
+DE  TRCF-UvrA complex
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+DR  Complex Portal; CPX-2155;
+CC  An SF2 ATPase that orchestrates a preferential pathway for nucleotide
+CC  excision repair (NER) called transcription-coupled repair (TCR) by
+CC  specific recognition of the transcription and NER assemblies. First,
+CC  TRCF relieves transcription-dependent NER inhibition due to occlusion
+CC  of the DNA lesion by RNAP. TRCF approaches the stalled RNAP from behind
+CC  and induces its forward translocation and subsequent release by
+CC  stepping on dsDNA using ATP hydrolysis. The consequent collapse of the
+CC  upstream end of the transcription bubble leads to a massive
+CC  destabilization of the otherwise stable ternary elongation complex,
+CC  consisting of the open DNA transcription fork and the newly-synthesised
+CC  RNA, and transcription termination. Second, TRCF recruits the UvrABC
+CC  repair system (CPX-2151, CPX-2152, CPX-2153) to the unmasked lesion by
+CC  binding to UvrA, a subunit of the UvrAB complex (CPX-2151). UvrA
+CC  binding to TRCF and UvrB are probably mutually exclusive owing to the
+CC  conserved interface on UvrA. Formation of the TRCF-UvrA complex
+CC  initiates a cascade of events resulting in lesion excision and gap
+CC  filling. TRCF also has roles beyond TCR - in the rescue of replication
+CC  forks stalled by head-on collisions with RNAPs, in the development of
+CC  antibiotic resistance, recombination, and transcriptional regulation.
+--
+SN  1
+ID  UvrABC system protein A
+RQ  1
+EV  IPR004602; MF_00205; sufficient;
+EV  IPR004602; TIGR00630; sufficient;
+--
+SN  2
+ID  Transcription-repair-coupling factor
+RQ  1
+EV  IPR004576; MF_00969; sufficient;
+EV  IPR004576; TIGR00580; sufficient;
+//

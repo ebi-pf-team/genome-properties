@@ -1,6 +1,6 @@
 AC  GenProp1034
 DE  Decarboxylation/antiport proton-motive cycle: oxalate-formate
-TP  SYSTEM
+TP  METAPATH
 AU  Haft DH
 TH  0
 RN  [1]

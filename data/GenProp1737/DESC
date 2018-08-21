@@ -1,0 +1,46 @@
+AC  GenProp1737
+DE  CMP-N-acetylneuraminate biosynthesis I (eukaryotes)
+TP  PATHWAY
+AU  Fulcher C
+TH  3
+DC  CMP-N-acetylneuraminate biosynthesis I (eukaryotes)
+DR  MetaCyc; PWY-6138;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  N-acetylmannosamine kinase
+DN  N-acetylmannosamine kinase (EC 2.7.1.60)
+RQ  1
+EV  IPR000600; PF00480; sufficient;
+EV  IPR020004; TIGR03568; sufficient;
+--
+SN  2
+ID  UDP-N-acetylglucosamine 2-epimerase
+DN  UDP-N-acetylglucosamine 2-epimerase (EC 3.2.1.183)
+RQ  1
+EV  IPR000600; PF00480; sufficient;
+EV  IPR020004; TIGR03568; sufficient;
+--
+SN  3
+ID  N-acetylneuraminate 9-phosphate synthase
+DN  N-acetylneuraminate 9-phosphate synthase (EC 2.5.1.57)
+RQ  1
+EV  IPR013132; PF03102; sufficient;
+EV  IPR013974; PF08666; sufficient;
+--
+SN  4
+ID  N-acetylneuraminate-9-phosphate phosphatase
+DN  N-acetylneuraminate-9-phosphate phosphatase (EC 3.1.3.29)
+RQ  1
+EV  IPR006439; TIGR01549; sufficient;
+EV  IPR011950; TIGR02253; sufficient;
+--
+SN  5
+ID  Cytidine 5'-monophosphate N-acetylneuraminate synthetase
+DN  Cytidine 5'-monophosphate N-acetylneuraminate synthetase (EC 2.7.7.43)
+RQ  1
+EV  IPR003329; PF02348; sufficient;
+//

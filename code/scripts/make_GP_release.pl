@@ -152,8 +152,9 @@ close(J);
 #Within the GP directiry, there should be a species list.
 #Get this an make an ncbi taxonomy tree, based on this subset of species
 
-system("ncbi_taxonomy.pl -out $releaseDir -taxList $flatdir/proteome_list.csv") and die "Failied to make taxonomy tree\n";
-
+if(! -e "$releaseDir/taxonomy/tree.json"){ 
+  system("ncbi_taxonomy.pl -out $releaseDir -taxList $flatdir/proteome_list.csv") and die "Failed to make taxonomy tree\n";
+}
 #Now download the the proteomes in the taxList and assign genome properties from the new assembled flatfile
 
 system("get_proteome.pl -out $releaseDir -taxlist $flatdir/proteome_list.csv -gpdir $releaseDir/$version") and die "Failed to run get_proteome script\n";;

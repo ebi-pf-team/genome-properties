@@ -170,4 +170,84 @@ SN  33
 ID  Cobalt import system (ABC transporter: 3.A.1.18.1)
 RQ  0
 EV  GenProp0277;
+--
+SN  34
+ID  Coenzyme B/coenzyme M regeneration III (coenzyme F420-dependent)
+RQ  0
+EV  GenProp1477;
+--
+SN  35
+ID  Bis(guanylyl molybdenum cofactor) biosynthesis
+RQ  0
+EV  GenProp1409;
+--
+SN  36
+ID  Factor 420 polyglutamylation
+RQ  0
+EV  GenProp1682;
+--
+SN  37
+ID  Lipoate salvage I
+RQ  0
+EV  GenProp1224;
+--
+SN  38
+ID  Lipoate biosynthesis and incorporation I
+RQ  0
+EV  GenProp1237;
+--
+SN  39
+ID  Lipoate biosynthesis and incorporation II
+RQ  0
+EV  GenProp1298;
+--
+SN  40
+ID  Lipoate biosynthesis and incorporation III (Bacillus)
+RQ  0
+EV  GenProp1625;
+--
+SN  41
+ID  Molybdenum cofactor biosynthesis
+RQ  0
+EV  GenProp1711;
+--
+SN  42
+ID  Erythro-tetrahydrobiopterin biosynthesis I
+RQ  0
+EV  GenProp1632;
+--
+SN  43
+ID  Tetrapyrrole biosynthesis II (from glycine)
+RQ  0
+EV  GenProp1525;
+--
+SN  44
+ID  Tetrapyrrole biosynthesis I (from glutamate)
+RQ  0
+EV  GenProp1701;
+--
+SN  45
+ID  ThiG-ThiH thiazole phosphate synthase complex
+RQ  0
+EV  GenProp1127;
+--
+SN  46
+ID  Molybdopterin synthase
+RQ  0
+EV  GenProp1138;
+--
+SN  47
+ID  Molybdopterin-synthase adenylyltransferase complex
+RQ  0
+EV  GenProp1158;
+--
+SN  48
+ID  Superpathway of coenzyme A biosynthesis III (mammals)
+RQ  0
+EV  GenProp1561;
+--
+SN  49
+ID  Superpathway of coenzyme A biosynthesis I (bacteria)
+RQ  0
+EV  GenProp1601;
 //

@@ -1,0 +1,25 @@
+AC  GenProp1561
+DE  Superpathway of coenzyme A biosynthesis III (mammals)
+TP  PATHWAY
+AU  Weerasinghe D, Keseler I, Arnaud M, Foerster H
+TH  0
+DC  Superpathway of coenzyme A biosynthesis III (mammals)
+DR  MetaCyc; COA-PWY-1;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Pantothenate kinase
+DN  Pantothenate kinase (EC 2.7.1.33)
+RQ  1
+EV  IPR004567; PF03630; sufficient;
+EV  IPR004567; TIGR00555; sufficient;
+--
+SN  2
+ID  Phosphopantothenate-cysteine ligase
+DN  Phosphopantothenate-cysteine ligase (EC 6.3.2.51)
+RQ  1
+EV  IPR007085; PF04127; sufficient;
+//

@@ -1,6 +1,6 @@
 AC  GenProp2038
 DE  Microsomal signal peptidase complex
-TP  SYSTEM
+TP  COMPLEX
 AU  Rawlings ND
 TH  1
 RN  [1]
@@ -23,7 +23,9 @@ RT  signal peptidase complex.
 RA  Liang H; VanValkenburgh C; Chen X; Mullins C; Van Kaer L; 
 RA  Green N; Fang H;
 RL  J Biol Chem. 2003;278:50932-50939.
-CC  Micosomal signal peptidase removes signal peptides from 
+DC  Protein export
+DR  KEGG; map03060;
+CC  Microsomal signal peptidase removes signal peptides from 
 CC  newly transcribed proteins that are destined for entry into
 CC  the secretory pathway.  Microsomal signal peptidase is a 
 CC  complex consisting of SEC11A, SEC11C, SPCS1, SPCS2 and SPCS3.  
@@ -35,28 +37,28 @@ CC  endopeptidases with overlapping specificities [3].
 --
 SN  1
 ID  Signal peptidase complex catalytic subunit SEC11A
-DN  Signal peptidase complex catalytic subunit SEC11A/1
+DN  Signal peptidase complex catalytic subunit SEC11A
 RQ  1
 EV  IPR037712; PTHR10806:SF8; sufficient;
 TG  GO:0031080
 --
 SN  2
 ID  Signal peptidase complex catalytic subunit SEC11C
-DN  Signal peptidase complex catalytic subunit SEC11C/2
+DN  Signal peptidase complex catalytic subunit SEC11C
 RQ  0
 EV  IPR037710; PTHR10806:SF12; sufficient;
 TG  GO:0006465
 --
 SN  3
 ID  Signal peptidase complex subunit 1
-DN  Signal peptidase complex subunit 1/3
+DN  Signal peptidase complex subunit 1
 RQ  1
 EV  IPR037713; PTHR13202:SF0; sufficient;
 TG  GO:0005787
 --
 SN  4
 ID  Signal peptidase complex subunit 2
-DN  Signal peptidase complex subunit 2/4
+DN  Signal peptidase complex subunit 2
 RQ  1
 EV  IPR009582; PF06703; sufficient;
 EV  IPR009582; PTHR13085; sufficient;
@@ -64,7 +66,7 @@ TG  GO:0005787
 --
 SN  5
 ID  Signal peptidase complex subunit 3
-DN  Signal peptidase complex subunit 3/5
+DN  Signal peptidase complex subunit 3
 RQ  1
 EV  IPR007653; PF04573; sufficient;
 EV  IPR007653; PIRSF016089; sufficient;

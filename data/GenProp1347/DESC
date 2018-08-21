@@ -1,0 +1,30 @@
+AC  GenProp1347
+DE  UDP-alpha-D-glucuronate biosynthesis (from myo-inositol)
+TP  PATHWAY
+AU  N/A
+TH  1
+DC  UDP-alpha-D-glucuronate biosynthesis (from myo-inositol)
+DR  MetaCyc; PWY-4841;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  UDP-D-glucuronate pyrophosphorylase
+DN  UDP-D-glucuronate pyrophosphorylase (EC 2.7.7.44)
+RQ  1
+EV  IPR002618; PF01704; sufficient;
+--
+SN  2
+ID  Glucuronokinase
+DN  Glucuronokinase (EC 2.7.1.43)
+RQ  1
+EV  IPR006204; PF00288; sufficient;
+--
+SN  3
+ID  Myo-inositol oxygenase
+DN  Myo-inositol oxygenase (EC 1.13.99.1)
+RQ  1
+EV  IPR007828; PF05153; sufficient;
+//

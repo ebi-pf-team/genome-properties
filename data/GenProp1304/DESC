@@ -1,0 +1,61 @@
+AC  GenProp1304
+DE  Globo-series glycosphingolipids biosynthesis
+TP  PATHWAY
+AU  Caspi R
+TH  6
+DC  Globo-series glycosphingolipids biosynthesis
+DR  MetaCyc; PWY-7838;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Lactosylceramide 4-alpha-galactosyltransferase
+DN  Lactosylceramide 4-alpha-galactosyltransferase (EC 2.4.1.228)
+RQ  1
+EV  IPR007652; PF04572; sufficient;
+--
+SN  2
+ID  Globotriaosylceramide 3-beta-N-acetylgalactosaminyltransferase
+DN  Globotriaosylceramide 3-beta-N-acetylgalactosaminyltransferase (EC 2.4.1.79)
+RQ  1
+EV  IPR002659; PF01762; sufficient;
+--
+SN  3
+ID  Globoside alpha-1,3-N-acetylgalactosaminyltransferase
+DN  Globoside alpha-1,3-N-acetylgalactosaminyltransferase (EC 2.4.1.88)
+RQ  1
+EV  IPR005076; PF03414; sufficient;
+--
+SN  4
+ID  Ceramide glucosyltransferase
+DN  Ceramide glucosyltransferase (EC 2.4.1.80)
+RQ  1
+EV  IPR025993; PF13506; sufficient;
+--
+SN  5
+ID  Glucosylceramide beta-1,4-galactosyltransferase
+DN  Glucosylceramide beta-1,4-galactosyltransferase (EC 2.4.1.274)
+RQ  1
+EV  IPR027791; PF02709; sufficient;
+EV  IPR027995; PF13733; sufficient;
+--
+SN  6
+ID  Globotetraosylceramide beta-1,3-galactosyltransferase
+DN  Globotetraosylceramide beta-1,3-galactosyltransferase (EC 2.4.1)
+RQ  1
+EV  IPR002659; PF01762; sufficient;
+--
+SN  7
+ID  SSEA-3 alpha-2,3-sialyltransferase
+DN  SSEA-3 alpha-2,3-sialyltransferase (EC 2.4.99.4)
+RQ  1
+EV  IPR001675; PF00777; sufficient;
+--
+SN  8
+ID  SSEA-3 alpha-2-fucosyltransferase
+DN  SSEA-3 alpha-2-fucosyltransferase (EC 2.4.1)
+RQ  1
+EV  IPR002516; PF01531; sufficient;
+//

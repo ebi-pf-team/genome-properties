@@ -11,4 +11,49 @@ SN  1
 ID  Phage shock protein regulon
 RQ  0
 EV  GenProp0648;
+--
+SN  2
+ID  Cascade complex
+RQ  0
+EV  GenProp1179;
+--
+SN  3
+ID  Cas1-Cas2 complex
+RQ  0
+EV  GenProp1196;
+--
+SN  4
+ID  UvrAB complex
+RQ  0
+EV  GenProp1109;
+--
+SN  6
+ID  ProVWX complex
+RQ  0
+EV  GenProp1126;
+--
+SN  7
+ID  TRCF-UvrA complex
+RQ  0
+EV  GenProp1153;
+--
+SN  8
+ID  HslUV protease complex
+RQ  0
+EV  GenProp1173;
+--
+SN  9
+ID  Exodeoxyribonuclease V complex
+RQ  0
+EV  GenProp1188;
+--
+SN  10
+ID  UvrBC complex
+RQ  0
+EV  GenProp1190;
+--
+SN  11
+ID  Hydrogenase-1 complex
+RQ  0
+EV  GenProp1209;
 //

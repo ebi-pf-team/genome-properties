@@ -1,0 +1,74 @@
+AC  GenProp1165
+DE  PhnGHIJKL complex
+TP  COMPLEX
+AU  Complex Portal
+TH  5
+RN  [1]
+RM  21705661
+RT  Five phosphonate operon gene products as components of a multi-subunit
+RT  complex of the carbon-phosphorus lyase pathway.
+RA  Jochimsen B, Lolle S, McSorley FR, Nabi M, Stougaard J, Zechel DL,
+RA  Hove-Jensen B
+RL  Proc Natl Acad Sci U S A. 2011;108:11393-11398
+RN  [2]
+RM  22089136
+RT  Intermediates in the transformation of phosphonates to phosphate by
+RT  bacteria.
+RA  Kamat SS, Williams HJ, Raushel FM
+RL  Nature. 2011;480:570-573
+RN  [3]
+RM  23830682
+RT  The enzymatic conversion of phosphonates to phosphate by bacteria.
+RA  Kamat SS, Raushel FM
+RL  Curr Opin Chem Biol. 2013;17:589-596
+DR  Complex Portal; CPX-1929;
+CC  Formed from components of the phn operon in gram-negative bacteria that
+CC  facilitates the internalization and degradation of organophosphonates.
+CC  Carbon-phosphorous lyase (CP lyase) and alpha-D-ribose
+CC  1-methylphosphonate 5-triphosphate synthase activites have been
+CC  attributed to at least the PhnG, PhnH, PhnI, PhnJ, PhnK and PhnL
+CC  components of the Phn operon. It is unclear which of the subunits are
+CC  absolutely necessary for each activity. PhnG, PhnH, PhnI and PhnL have
+CC  alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase activity and
+CC  PhnJ has alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase
+CC  activity in vitro. However, PhnJ can only be isolated in a complex of
+CC  at least PhnG, PhnH, PhnI, PhnJ and PhnK but this complex is
+CC  catalytically inactive, possibly because it lacks PhnL.
+--
+SN  1
+ID  Alpha-D-ribose 1-methylphosphonate 5-phosphate C-P lyase
+RQ  1
+EV  IPR010306; PF06007; sufficient;
+EV  IPR010306; PIRSF011468; sufficient;
+EV  IPR010306; SFLDF00379; sufficient;
+--
+SN  2
+ID  Alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase subunit PhnG
+RQ  1
+EV  IPR009609; PF06754; sufficient;
+EV  IPR009609; TIGR03293; sufficient;
+--
+SN  3
+ID  Putative phosphonates utilization ATP-binding protein PhnK
+RQ  1
+EV  IPR012700; PIRSF037116; sufficient;
+EV  IPR012700; TIGR02323; sufficient;
+--
+SN  4
+ID  Alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase subunit PhnL
+RQ  1
+EV  IPR012701; TIGR02324; sufficient;
+--
+SN  5
+ID  Alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase subunit PhnH
+RQ  1
+EV  IPR008772; PF05845; sufficient;
+EV  IPR008772; PIRSF020680; sufficient;
+EV  IPR008772; TIGR03292; sufficient;
+--
+SN  6
+ID  Alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase subunit PhnI
+RQ  1
+EV  IPR008773; PF05861; sufficient;
+EV  IPR008773; PIRSF007313; sufficient;
+//

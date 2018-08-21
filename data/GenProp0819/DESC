@@ -56,4 +56,9 @@ SN  10
 ID  16S rRNA C1402 m(4)Cm modification
 RQ  0
 EV  GenProp1082;
+--
+SN  11
+ID  Degradosome
+RQ  0
+EV  GenProp1166;
 //

@@ -1,0 +1,99 @@
+AC  GenProp1774
+DE  Inorganic nutrients metabolism
+TP  CATEGORY
+AU  Richardson L
+TH  0
+CC  The chemical reactions and pathways resulting in the utilisation and
+CC  metabolism of inorganic nutrients, including sulphur compounds and 
+CC  nitrogen compounds.
+--
+SN  1
+ID  Ammonia assimilation cycle I
+RQ  0
+EV  GenProp1489;
+--
+SN  2
+ID  Ammonia assimilation cycle III
+RQ  0
+EV  GenProp1615;
+--
+SN  3
+ID  Nitrate reduction III (dissimilatory)
+RQ  0
+EV  GenProp1329;
+--
+SN  4
+ID  Nitrate reduction VIIIb (dissimilatory)
+RQ  0
+EV  GenProp1474;
+--
+SN  5
+ID  Nitrate reduction X (dissimilatory, periplasmic)
+RQ  0
+EV  GenProp1504;
+--
+SN  6
+ID  Nitrate reduction V (assimilatory)
+RQ  0
+EV  GenProp1554;
+--
+SN  7
+ID  Nitrate reduction VIII (dissimilatory)
+RQ  0
+EV  GenProp1583;
+--
+SN  8
+ID  Nitrate reduction IX (dissimilatory)
+RQ  0
+EV  GenProp1676;
+--
+SN  9
+ID  Urea cycle
+RQ  0
+EV  GenProp1300;
+--
+SN  10
+ID  Methylphosphonate degradation I
+RQ  0
+EV  GenProp1381;
+--
+SN  11
+ID  Aminomethylphosphonate degradation
+RQ  0
+EV  GenProp1630;
+--
+SN  12
+ID  Hydrogen sulfide biosynthesis I
+RQ  0
+EV  GenProp1281;
+--
+SN  13
+ID  Hydrogen sulfide biosynthesis II (mammalian)
+RQ  0
+EV  GenProp1685;
+--
+SN  14
+ID  Sulfate reduction I (assimilatory)
+RQ  0
+EV  GenProp1283;
+--
+SN  15
+ID  Sulfate reduction II (assimilatory)
+RQ  0
+EV  GenProp1392;
+--
+SN  16
+ID  Two-component alkanesulfonate monooxygenase
+RQ  0
+EV  GenProp1424;
+--
+SN  17
+ID  Methanogenesis from methylthiopropanoate
+RQ  0
+EV  GenProp1447;
+--
+SN  18
+ID  Superpathway of sulfate assimilation and cysteine biosynthesis
+RQ  0
+EV  GenProp1301;
+//

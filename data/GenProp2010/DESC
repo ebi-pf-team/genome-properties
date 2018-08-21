@@ -1,5 +1,5 @@
 AC  GenProp2010
-DE  fibrinolysis
+DE  Fibrinolysis
 TP  METAPATH
 AU  Rawlings ND
 TH  1
@@ -25,22 +25,22 @@ CC  isopeptide bonds, which cross-link fibrin fibres, are formed [1].
 **  these are activated.
 --
 SN  1
-ID  plasminogen activator
-DN  plasminogen activator
+ID  Plasminogen activator
+DN  Plasminogen activator
 RQ  1
 EV  IPR034813; PTHR44459:SF2; sufficient;
 EV  IPR034814; PTHR24264:SF38; sufficient;
 EV  IPR034811; PTHR44617; sufficient;
 --
 SN  2
-ID  plasmin
-DN  plasmin (EC:3.4.21.7)
+ID  Plasmin
+DN  Plasmin (EC:3.4.21.7)
 RQ  1
 EV  IPR023317; PIRSF001150; sufficient;
 --
 SN  3
 ID  Fibrinogen
 RQ  1
-EV  GenProp2001;
+EV  GenProp2002;
 TG  GO:0005577;
 //

@@ -284,7 +284,6 @@ GenProp1012	Influenzae A virus protein set
 GenProp1013	Influenzae B virus protein set
 GenProp1016	Seadornavirus protein set
 GenProp1026	Nodulation factor production
-GenProp1034	Decarboxylation/antiport proton-motive cycle: oxalate-formate
 GenProp1037	Radical SAM/SPASM system GRRM
 GenProp1052	Geopeptide radical SAM/SPASM maturase system
 GenProp1053	RSAM/selenodomain system
@@ -321,6 +320,8 @@ GenProp1101	Quinoprotein cytochrome relay system
 GenProp1102	Protein sorting system, CGP-CTERM/unknown of Thermococcaceae
 GenProp1103	Protein sorting system, Synergist-CTERM/unknown of Synergistetes
 GenProp1104	Acyl carrier protein phosphopantetheinylation
-GenProp2012	19S proteasome cap
-GenProp2017	Gamma secretase
-GenProp2021	Apoptosome
+GenProp2039	Mitochondrial protein processing
+GenProp2085	Renin-Angiotensin system
+GenProp2092	GLP-1 signalled increase in cAMP
+GenProp2093	GIP signalled increase in cAMP
+GenProp2094	PACAP signalled increase in cAMP

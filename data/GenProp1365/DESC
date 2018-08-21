@@ -1,0 +1,31 @@
+AC  GenProp1365
+DE  L-asparagine degradation III (mammalian)
+TP  PATHWAY
+AU  Weerasinghe D, Fulcher C
+TH  1
+DC  L-asparagine degradation III (mammalian)
+DR  MetaCyc; ASPARAGINE-DEG1-PWY-1;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  L-asparaginase
+DN  L-asparaginase (EC 3.5.1.26)
+RQ  1
+EV  IPR000246; PF01112; sufficient;
+--
+SN  2
+ID  Aspartate aminotransferase
+DN  Aspartate aminotransferase (EC 2.6.1.1)
+RQ  1
+EV  IPR004839; PF00155; sufficient;
+--
+SN  3
+ID  L-asparaginase
+DN  L-asparaginase (EC 3.5.1.1)
+RQ  1
+EV  IPR000246; PF01112; sufficient;
+EV  IPR006033; TIGR00519; sufficient;
+//

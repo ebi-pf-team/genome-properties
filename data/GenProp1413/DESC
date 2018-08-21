@@ -1,0 +1,30 @@
+AC  GenProp1413
+DE  Mitochondrial L-carnitine shuttle
+TP  PATHWAY
+AU  Caspi R, Fulcher C
+TH  1
+DC  Mitochondrial L-carnitine shuttle
+DR  MetaCyc; PWY-6111;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Carnitine palmitoyltransferase
+DN  Carnitine palmitoyltransferase (EC 2.3.1.21)
+RQ  1
+EV  IPR000542; PF00755; sufficient;
+--
+SN  2
+ID  Carnitine O-palmitoyltransferase
+DN  Carnitine O-palmitoyltransferase (EC 2.3.1.21)
+RQ  1
+EV  IPR000542; PF00755; sufficient;
+--
+SN  3
+ID  Transport of L-carnitine and O-acyl-L-carnitine
+DN  Transport of L-carnitine and O-acyl-L-carnitine
+RQ  1
+EV  IPR018108; PF00153; sufficient;
+//

@@ -1,6 +1,6 @@
 AC  GenProp2016
 DE  Mammalian spermatoproteasome
-TP  SYSTEM
+TP  COMPLEX
 AU  Rawlings ND
 TH  13
 RN  [1]
@@ -20,6 +20,12 @@ RT  The unique functions of tissue-specific proteasomes.
 RA  Kniepert A; Groettrup M;
 RL  Trends Biochem Sci. 2014;39:17-24.
 RN  [4]
+RM  24668818
+RT  Characterization of the testis-specific proteasome subunit alpha4s in
+RT  mammals.
+RA  Uechi H, Hamazaki J, Murata S;
+RL  J Biol Chem. 2014;289:12365-12374.
+RN  [5]
 RM  23706739
 RT  Acetylation-mediated proteasomal degradation of core histones during 
 RT  DNA repair and spermatogenesis.
@@ -32,25 +38,27 @@ DC  Proteasome
 DR  KEGG; map03050;
 CC  The spermatoproteasome is a specialist version of the 20S proteasome 
 CC  [1,2] found in the mammalian testis where the alpha4 subunit is replaced
-CC  by the alpha4S subunit [3]. The spermatoprotasome degrades histones [4]. 
+CC  by the alpha4S subunit [3,4]. The spermatoprotasome degrades histones [5]. 
 CC  Ubiquitinated proteins are not degraded.
 **  In Drosophila, a more complex spermatoproteasome exists.
-**  There is evidence in reference 4 that different forms of the
+**  There is evidence in reference 5 that different forms of the
 **  mammalian spermatoproteasome exist, known as small and large.  The
 **  small form is a form of the immunoproteasome but with alpha4S, 
 **  whereas the large form is a form of the 26S proteasome with alpha4S.
 **  Presence of PA200 in the regulatory particle is crucial for
 **  degradation of histones.
-**  The Panther subfamily PTHR11599:SF47 fails to distinguish alpha 7-like
+**  SN4 - PTHR11599:SF47 fails to distinguish alpha 7-like
 **  from alpha 7 (PTHR11599:SF15) and the two are included in the same
-**  InterPro entry (IPR037560).
+**  InterPro entry (IPR037560). However there is another entry for
+**  Proteasome subunit alpha type-7 (IPR035190; PTHR11599:SF40) this
+**  does not opverlap.
 **  Evidence for step 1 is also used in GP2011, GP2014 and GP2015.
 **  Evidence for step 2 is also used in GP2011, GP2014 and GP2015.
 **  Evidence for step 3 is also used in GP2011, GP2014 and GP2015.
-**  Evidence for step 4 is also used in GP2011, GP2014 and GP2015.
+**  Evidence for step 7 is also used in GP2014 and GP2015.
 **  Evidence for step 5 is also used in GP2011, GP2014 and GP2015.
 **  Evidence for step 6 is also used in GP2011, GP2014 and GP2015.
-**  Evidence for step 7 is also used in GP2014 and GP2015.
+**  Evidence for step 4 is also used in GP2014 and GP2015.
 **  Evidence for step 8 is also used in GP2011, GP2014 and GP2015.
 **  Evidence for step 9 is also used in GP2011, GP2014 and GP2015.
 **  Evidence for step 10 is also used in GP2011, GP2014 and GP2015.
@@ -81,14 +89,12 @@ DN  Proteasome subunit alpha 3
 RQ  1
 EV  IPR037555; PTHR11599:SF10; sufficient;
 TG  GO:0000502;
-EV  IPR035150; PTHR11599:SF103; sufficient;
-TG  GO:0000502;
 --
 SN  4
-ID  Proteasome subunit alpha type-4
-DN  Proteasome subunit alpha4
+ID  Proteasome subunit alpha type-7-like/alpha 4s/PSMA8
+DN  Proteasome subunit alpha type-7-like
 RQ  1
-EV  IPR034647; PTHR11599:SF13; sufficient;
+EV  IPR037560; PTHR11599:SF47; sufficient;
 TG  GO:0000502;
 --
 SN  5
@@ -108,10 +114,10 @@ EV  IPR034642; cd03754; sufficient;
 TG  GO:0000502;
 --
 SN  7
-ID  Proteasome subunit alpha type-7-like
-DN  Proteasome subunit alpha type-7-like
+ID  Proteasome subunit alpha type-7
+DN  Proteasome subunit alpha type-7
 RQ  1
-EV  IPR037560; PTHR11599:SF47; sufficient;
+EV  IPR035190; PTHR11599:SF40; sufficient;
 TG  GO:0000502;
 --
 SN  8

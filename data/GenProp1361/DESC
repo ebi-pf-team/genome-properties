@@ -1,0 +1,25 @@
+AC  GenProp1361
+DE  Pyrimidine nucleobases salvage II
+TP  PATHWAY
+AU  Caspi R
+TH  0
+DC  Pyrimidine nucleobases salvage II
+DR  MetaCyc; PWY-7194;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Cytosine deaminase
+DN  Cytosine deaminase (EC 3.5.4.1)
+RQ  1
+EV  IPR013108; PF07969; sufficient;
+EV  IPR002125; PF00383; sufficient;
+--
+SN  2
+ID  Uracil phosphoribosyltransferase
+DN  Uracil phosphoribosyltransferase (EC 2.4.2.9)
+RQ  1
+EV  IPR005765; TIGR01091; sufficient;
+//

@@ -1,0 +1,26 @@
+AC  GenProp1557
+DE  Entner-Doudoroff pathway I
+TP  PATHWAY
+AU  Riley M, Ingraham J
+TH  0
+DC  Entner-Doudoroff pathway I
+DR  MetaCyc; ENTNER-DOUDOROFF-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  2-Dehydro-3-deoxy-phosphogluconate aldolase
+DN  2-Dehydro-3-deoxy-phosphogluconate aldolase (EC 4.1.2.14)
+RQ  1
+EV  IPR000887; PF01081; sufficient;
+EV  IPR000887; TIGR01182; sufficient;
+--
+SN  2
+ID  Phosphogluconate dehydratase
+DN  Phosphogluconate dehydratase (EC 4.2.1.12)
+RQ  1
+EV  IPR000581; PF00920; sufficient;
+EV  IPR004786; TIGR01196; sufficient;
+//

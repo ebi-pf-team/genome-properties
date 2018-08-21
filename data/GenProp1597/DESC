@@ -1,0 +1,26 @@
+AC  GenProp1597
+DE  Pinolenate and coniferonate biosynthesis
+TP  PATHWAY
+AU  Caspi R, Zhang P
+TH  0
+DC  Pinolenate and coniferonate biosynthesis
+DR  MetaCyc; PWY-7152;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Alpha-linolenate 5-desaturase
+DN  Alpha-linolenate 5-desaturase (EC 1.14.19.12)
+RQ  1
+EV  IPR001199; PF00173; sufficient;
+EV  IPR005804; PF00487; sufficient;
+--
+SN  2
+ID  Linoleate 5-desaturase
+DN  Linoleate 5-desaturase (EC 1.14.19.12)
+RQ  1
+EV  IPR001199; PF00173; sufficient;
+EV  IPR005804; PF00487; sufficient;
+//

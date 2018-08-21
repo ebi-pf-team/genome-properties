@@ -1,0 +1,31 @@
+AC  GenProp1152
+DE  DnaA-DnaB complex
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+RN  [1]
+RM  21856207
+RT  Replication initiation at the Escherichia coli chromosomal origin.
+RA  Kaguni JM
+RL  Curr Opin Chem Biol. 2011;15:606-613
+DR  Complex Portal; CPX-1935;
+CC  DnaA forms homo-oligomers (CPX-1943) on specific regions of the
+CC  replication origin oriC and initiates unwinding of a 13 nt region when
+CC  complexed with ATP. DnaA loads one DnaB-DnaC complex (CPX-1934) on the
+CC  top strand near the left border of oriC and a second DnaB-DnaC complex
+CC  on the lower strand next to DnaA box R1. After DnaB loads at oriC, DnaC
+CC  must dissociate so that DnaB can unwind the parental duplex DNA. DnaA
+CC  P46 is an essential residue for the binding to DnaB.
+--
+SN  1
+ID  Replicative DNA helicase
+RQ  1
+EV  IPR007692; TIGR00665; sufficient;
+--
+SN  2
+ID  Chromosomal replication initiator protein DnaA
+RQ  1
+EV  IPR001957; MF_00377; sufficient;
+EV  IPR001957; PTHR30050:SF2; sufficient;
+EV  IPR001957; TIGR00362; sufficient;
+//

@@ -1,0 +1,32 @@
+AC  GenProp1199
+DE  MdtBC complex
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+RN  [1]
+RM  12107133
+RT  The putative response regulator BaeR stimulates multidrug resistance of
+RT  Escherichia coli via a novel multidrug exporter system, MdtABC.
+RA  Nagakubo S, Nishino K, Hirata T, Yamaguchi A
+RL  J Bacteriol. 2002;184:4161-4167
+DR  Complex Portal; CPX-2119;
+CC  Involved in the resistance of gram negative bacteria to novobiocin,
+CC  deoxycholate and beta-lactams. MdtB and MdtC are transmembrane proteins
+CC  facilitating drug export while MdtA is the (cytoplasmic?) membrane
+CC  fusion protein associated with MdtBC (no binding data available yet).
+CC  MdtABC requires TolC (P02930), an outer membrane 'channel-tunnel'
+CC  trimer, for its function. The composition of the MdtABC
+CC  holo-transporter may be variably composed of the MdtA, MdtB and MdtC
+CC  subunits, however, either MdtB or MdtC must the present. The mdtABC
+CC  operon is transcriptionally activated by BaeR (P69228).
+--
+SN  1
+ID  Multidrug resistance protein MdtB
+RQ  1
+EV  IPR022831; MF_01423; sufficient;
+--
+SN  2
+ID  Multidrug resistance protein MdtC
+RQ  1
+EV  IPR023931; MF_01424; sufficient;
+//

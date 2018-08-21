@@ -1,0 +1,75 @@
+AC  GenProp1179
+DE  Cascade complex
+TP  COMPLEX
+AU  Complex Portal
+TH  4
+RN  [1]
+RM  26863189
+RT  Structural basis for promiscuous PAM recognition in type I-E Cascade
+RT  from E. coli.
+RA  Hayes RP, Xiao Y, Ding F, van Erp PB, Rajashankar K, Bailey S,
+RA  Wiedenheft B, Ke A
+RL  Nature. 2016;530:499-503
+RN  [2]
+RM  25118175
+RT  Crystal structure of the RNA-guided immune surveillance Cascade complex
+RT  in Escherichia coli.
+RA  Zhao H, Sheng G, Wang J, Wang M, Bunkoczi G, Gong W, Wei Z, Wang Y
+RL  Nature. 2014;515:147-150
+RN  [3]
+RM  27672148
+RT  CRISPR-Cas: biology, mechanisms and relevance.
+RA  Hille F, Charpentier E
+RL  Philos Trans R Soc Lond B Biol Sci. 2016;371:-
+DR  Complex Portal; CPX-1005;
+DR  PDBe; 5h9f;
+DR  PDBe; 5cd4;
+DR  PDBe; 5h9e;
+DR  PDBe; 4tvw;
+DR  PDBe; 4qyz;
+CC  CRISPR (clustered regularly interspaced short palindromic repeat), is
+CC  an adaptive immune system that provides protection against mobile
+CC  genetic elements (viruses, transposable elements and conjugative
+CC  plasmids). The system memorizes previous infections by integrating
+CC  short sequences of invading genomes (spacers) into the CRISPR locus.
+CC  The spacers, interspaced with repeats, are expressed as small guide
+CC  CRISPR RNAs (crRNAs) that are employed by Cas proteins to target
+CC  invaders sequence-specifically upon a reoccurring infection. Upon viral
+CC  invasion, the Cascade complex binds double-stranded DNA exhibiting
+CC  sequence complementary to the crRNA spacer sequence, while displacing
+CC  the non-target strand to form an R-loop, and then recruits the nuclease
+CC  Cas3/ygcB (P38036) for target degradation. 
+--
+SN  1
+ID  CRISPR system Cascade subunit CasB
+RQ  1
+EV  IPR013382; PF09485; sufficient;
+EV  IPR013382; TIGR02548; sufficient;
+EV  IPR013382; cd09670; sufficient;
+--
+SN  2
+ID  CRISPR system Cascade subunit CasC
+RQ  1
+EV  IPR010148; PF09344; sufficient;
+EV  IPR010148; TIGR01869; sufficient;
+EV  IPR010148; cd09646; sufficient;
+--
+SN  3
+ID  CRISPR system Cascade subunit CasE
+RQ  1
+EV  IPR010179; PF08798; sufficient;
+EV  IPR010179; SM01101; sufficient;
+EV  IPR010179; TIGR01907; sufficient;
+--
+SN  4
+ID  CRISPR system Cascade subunit CasA
+RQ  1
+EV  IPR013381; PF09481; sufficient;
+EV  IPR013381; TIGR02547; sufficient;
+EV  IPR013381; cd09669; sufficient;
+--
+SN  5
+ID  CRISPR system Cascade subunit CasD
+RQ  1
+EV  IPR010147; TIGR01868; sufficient;
+//

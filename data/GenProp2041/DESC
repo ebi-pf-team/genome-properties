@@ -1,6 +1,6 @@
 AC  GenProp2041
 DE  m-AAA protease complex
-TP  SYSTEM
+TP  COMPLEX
 AU  Rawlings ND
 TH  1
 RN  [1]
@@ -13,7 +13,7 @@ RN  [2]
 RM  9707443
 RT  The formation of respiratory chain complexes in 
 RT  mitochondria is under the proteolytic control of the 
-RT  m-AAA protease..
+RT  m-AAA protease.
 RA  Arlt H; Steglich G; Perryman R; Guiard B; Neupert W; 
 RA  Langer T;
 RL  EMBO J. 1998;17:4837-4847.

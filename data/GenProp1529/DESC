@@ -1,0 +1,36 @@
+AC  GenProp1529
+DE  Superpathway of fucose and rhamnose degradation
+TP  PATHWAY
+AU  N/A
+TH  2
+DC  Superpathway of fucose and rhamnose degradation
+DR  MetaCyc; FUC-RHAMCAT-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Fuculose-1-phosphate aldolase
+DN  Fuculose-1-phosphate aldolase (EC 4.1.2.17)
+RQ  1
+EV  IPR004782; TIGR01086; sufficient;
+--
+SN  2
+ID  NAD+ L-lactaldehyde dehydrogenase
+DN  NAD+ L-lactaldehyde dehydrogenase (EC 1.2.1.22)
+RQ  1
+EV  IPR015590; PF00171; sufficient;
+--
+SN  3
+ID  L-1,2-propanediol oxidoreductase
+DN  L-1,2-propanediol oxidoreductase (EC 1.1.1.77)
+RQ  1
+EV  IPR013460; TIGR02638; sufficient;
+--
+SN  4
+ID  Rhamnulose-1-phosphate aldolase
+DN  Rhamnulose-1-phosphate aldolase (EC 4.1.2.19)
+RQ  1
+EV  IPR013447; TIGR02624; sufficient;
+//

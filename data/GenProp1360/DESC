@@ -1,0 +1,81 @@
+AC  GenProp1360
+DE  tRNA processing
+TP  PATHWAY
+AU  Shearer A
+TH  8
+DC  tRNA processing
+DR  MetaCyc; PWY0-1479;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Ribonuclease
+DN  Ribonuclease (EC 3.1.26.5)
+RQ  1
+EV  IPR000100; PF00825; sufficient;
+EV  IPR000100; TIGR00188; sufficient;
+--
+SN  2
+ID  RNase BN ribonuclease
+DN  RNase BN ribonuclease (EC 3.1.13.1)
+RQ  1
+EV  IPR013469; TIGR02649; sufficient;
+EV  IPR013471; TIGR02651; sufficient;
+--
+SN  3
+ID  Ribonuclease
+DN  Ribonuclease (EC 3.1.26.12)
+RQ  1
+EV  IPR004659; TIGR00757; sufficient;
+EV  IPR019307; PF10150; sufficient;
+--
+SN  4
+ID  Exoribonuclease
+DN  Exoribonuclease (EC 3.1.13.1)
+RQ  1
+EV  IPR012162; TIGR03591; sufficient;
+EV  IPR004476; TIGR00358; sufficient;
+EV  IPR011804; TIGR02062; sufficient;
+--
+SN  5
+ID  Ribonuclease
+DN  Ribonuclease (EC 3.1.26.5)
+RQ  1
+EV  IPR000100; PF00825; sufficient;
+EV  IPR000100; TIGR00188; sufficient;
+--
+SN  6
+ID  Phosphate-dependent exonuclease
+DN  Phosphate-dependent exonuclease (EC 2.7.7.56)
+RQ  1
+EV  IPR002381; TIGR01966; sufficient;
+--
+SN  7
+ID  Phosphate-dependent exonuclease
+DN  Phosphate-dependent exonuclease (EC 2.7.7.56)
+RQ  1
+EV  IPR002381; TIGR01966; sufficient;
+--
+SN  8
+ID  RNase T exonuclease
+DN  RNase T exonuclease (EC 3.1.13.5)
+RQ  1
+EV  IPR005987; TIGR01298; sufficient;
+EV  IPR006292; TIGR01388; sufficient;
+--
+SN  9
+ID  RNase D exonuclease
+DN  RNase D exonuclease (EC 3.1.13.5)
+RQ  1
+EV  IPR005987; TIGR01298; sufficient;
+EV  IPR006292; TIGR01388; sufficient;
+--
+SN  10
+ID  Ribonuclease
+DN  Ribonuclease (EC 3.1.26.12)
+RQ  1
+EV  IPR004659; TIGR00757; sufficient;
+EV  IPR019307; PF10150; sufficient;
+//

@@ -1,0 +1,43 @@
+AC  GenProp1139
+DE  Chemotaxis phosphorelay complex CheY-CheZ
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+RN  [1]
+RM  12080332
+RT  Structure and catalytic mechanism of the E. coli chemotaxis phosphatase
+RT  CheZ.
+RA  Zhao R, Collins EJ, Bourret RB, Silversmith RE
+RL  Nat Struct Biol. 2002;9:570-575
+DR  Complex Portal; CPX-1088;
+DR  PDBe; 1kmi;
+CC  Plays a role in chemotaxis, the movement toward or away from chemicals.
+CC  The flagellar motor of bacteria is a rotary device energized by the
+CC  membrane ion gradient and the complex is required for the rotation and
+CC  directional switching of the flagellum and also functions in flagellar
+CC  assembly. Motor torque is produced at the top of the switch complex,
+CC  where the FliG C-terminal domain bears several conserved charged
+CC  residues that interact with charged groups of the stator protein MotA
+CC  (P09348). The directionality of the rotation is determined by binding
+CC  of CheY-P to the lower part of the C-ring which switches the
+CC  directionality from counter-clockwise to clockwise. The CheY-CheZ
+CC  complex enhances the dephosphorylation rate of P-CheY. This
+CC  dephosphorylation reduces the binding of CheY to the switch and ensures
+CC  rapid locomotor responses to changes in the supply of signaling
+CC  phosphoryl groups to CheY, thus enabling a continuous response to
+CC  environmental changes.
+--
+SN  1
+ID  Protein phosphatase CheZ
+RQ  1
+EV  IPR007439; PF04344; sufficient;
+EV  IPR007439; PIRSF002884; sufficient;
+--
+SN  2
+ID  Chemotaxis protein CheY
+RQ  1
+EV  IPR001789; PF00072; sufficient;
+EV  IPR001789; PS50110; sufficient;
+EV  IPR001789; SM00448; sufficient;
+EV  IPR001789; cd00156; sufficient;
+//

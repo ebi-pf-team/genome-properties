@@ -1,0 +1,33 @@
+AC  GenProp1631
+DE  Superpathway of pyrimidine deoxyribonucleosides degradation
+TP  PATHWAY
+AU  Ingraham J
+TH  1
+DC  Superpathway of pyrimidine deoxyribonucleosides degradation
+DR  MetaCyc; PWY0-1298;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  D-deoxyribose 1,5-phosphomutase
+DN  D-deoxyribose 1,5-phosphomutase (EC 5.4.2.7)
+RQ  1
+EV  IPR010045; TIGR01696; sufficient;
+--
+SN  2
+ID  Thymidine phosphorylase
+DN  Thymidine phosphorylase (EC 2.4.2.4)
+RQ  1
+EV  IPR009664; PF06865; sufficient;
+EV  IPR013465; TIGR02643; sufficient;
+EV  IPR018090; TIGR02644; sufficient;
+--
+SN  3
+ID  2'-Deoxyuridine phosphorylase
+DN  2'-Deoxyuridine phosphorylase (EC 2.4.2.2)
+RQ  1
+EV  IPR013465; TIGR02643; sufficient;
+EV  IPR018090; TIGR02644; sufficient;
+//

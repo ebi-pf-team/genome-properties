@@ -1,0 +1,25 @@
+AC  GenProp1218
+DE  Hydroxymethylpyrimidine salvage
+TP  PATHWAY
+AU  Caspi R
+TH  0
+DC  Hydroxymethylpyrimidine salvage
+DR  MetaCyc; PWY-6910;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  4-Amino-2-methyl-5-hydroxymethylpyrimidine kinase
+DN  4-Amino-2-methyl-5-hydroxymethylpyrimidine kinase (EC 2.7.1.49)
+RQ  1
+EV  IPR027574; TIGR04306; sufficient;
+EV  IPR004625; TIGR00687; sufficient;
+--
+SN  2
+ID  Phosphomethylpyrimidine kinase
+DN  Phosphomethylpyrimidine kinase (EC 2.7.4.7)
+RQ  1
+EV  IPR027574; TIGR04306; sufficient;
+//

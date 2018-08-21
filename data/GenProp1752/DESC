@@ -1,0 +1,36 @@
+AC  GenProp1752
+DE  Superpathway of purine deoxyribonucleosides degradation
+TP  PATHWAY
+AU  Ingraham J
+TH  2
+DC  Superpathway of purine deoxyribonucleosides degradation
+DR  MetaCyc; PWY0-1297;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  D-deoxyribose 1,5-phosphomutase
+DN  D-deoxyribose 1,5-phosphomutase (EC 5.4.2.7)
+RQ  1
+EV  IPR010045; TIGR01696; sufficient;
+--
+SN  2
+ID  Deoxyadenosine phosphorylase
+DN  Deoxyadenosine phosphorylase (EC 2.4.2.1)
+RQ  1
+EV  IPR004402; TIGR00107; sufficient;
+--
+SN  3
+ID  Deoxyguanosine phosphorylase
+DN  Deoxyguanosine phosphorylase (EC 2.4.2.1)
+RQ  1
+EV  IPR004402; TIGR00107; sufficient;
+--
+SN  4
+ID  Deoxyinosine phosphorylase
+DN  Deoxyinosine phosphorylase (EC 2.4.2.1)
+RQ  1
+EV  IPR004402; TIGR00107; sufficient;
+//

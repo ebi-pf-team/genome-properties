@@ -1,0 +1,60 @@
+AC  GenProp2100
+DE  LarA nickel-pincer cofactor biosynthesis
+TP  SYSTEM
+AU  Sangrador A
+TH  3
+RN  [1]
+RM  24710389
+RT  Lactate racemase is a nickel-dependent enzyme activated by a
+RT  widespread maturation system.
+RA  Desguin B, Goffin P, Viaene E, Kleerebezem M, Martin-Diaconescu V,
+RA  Maroney MJ, Declercq JP, Soumillion P, Hols P;
+RL  Nat Commun. 2014;5:3615.
+RN  [2]
+RM  27114550
+RT  Nickel-pincer cofactor biosynthesis involves LarB-catalyzed
+RT  pyridinium carboxylation and LarE-dependent sacrificial sulfur
+RT  insertion.
+RA  Desguin B, Soumillion P, Hols P, Hausinger RP;
+RL  Proc Natl Acad Sci U S A. 2016;113:5598-5603. 
+CC  LarB, LarE and LarC are involved in the synthesis of the nickel-pincer
+CC  cofactor of lactate racemase LarA. LarB converts nicotinic acid adenine
+CC  dinucleotide (NaAD) into pyridinium-3,5-biscarboxylic acid mononucleotide
+CC  (P2CMN). LarE incorporates two sulfur atoms to yield P2TMN, and LarC donates
+CC  Ni, so that the mature cofactor becomes covalently attached to LarA [2]. 
+**  In species where larA is absent, this pathway could be used to generate a
+**  pincer complex in other enzymes.
+--
+SN  1
+ID  Pyridinium-3,5-biscarboxylic acid mononucleotide synthase (LarB)
+DN  Pyridinium-3,5-biscarboxylic acid mononucleotide synthase (EC 3.-.-.-)
+RQ  1
+EV  IPR039476; PTHR43064; sufficient;
+TG  GO:0016787;
+--
+SN  2
+ID  Pyridinium-3,5-biscarboxylic acid mononucleotide sulfurtransferase (LarE)
+DN  Pyridinium-3,5-biscarboxylic acid mononucleotide sulfurtransferase (EC 2.8.1.-)
+RQ  1
+EV  IPR005232; PIRSF006661; sufficient;
+EV  IPR005232; PTHR43169:SF2; sufficient;
+EV  IPR005232; cd01990; sufficient;
+EV  IPR005232; TIGR00268; sufficient;
+TG  GO:0016783;
+--
+SN  3
+ID  Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein (LarC)
+DN  Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein (EC 4.99.1.12)
+RQ  1
+EV  IPR002822; MF_01074; sufficient;
+EV  IPR002822; PF01969; sufficient;
+EV  IPR002822; PTHR36566; sufficient;
+EV  IPR002822; TIGR00299; sufficient;
+--
+SN  4
+ID  Lactate racemase (LarA)
+DN  Lactate racemase (EC 5.1.2.1)
+RQ  1
+EV  IPR018657; PF09861; sufficient;
+TG  GO:0050043;
+//

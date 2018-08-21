@@ -1,0 +1,54 @@
+AC  GenProp1588
+DE  Lipoxin biosynthesis
+TP  PATHWAY
+AU  Weerasinghe D
+TH  4
+DC  Lipoxin biosynthesis
+DR  MetaCyc; PWY66-392;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Arachidonate 5-lipoxygenase
+DN  Arachidonate 5-lipoxygenase (EC 1.13.11.34)
+RQ  1
+EV  IPR001024; PF01477; sufficient;
+EV  IPR013819; PF00305; sufficient;
+--
+SN  2
+ID  Lipoxin A4 synthase
+DN  Lipoxin A4 synthase (EC 1.13.11)
+RQ  1
+EV  IPR001024; PF01477; sufficient;
+EV  IPR013819; PF00305; sufficient;
+--
+SN  3
+ID  15S-HETE synthase
+DN  15S-HETE synthase
+RQ  1
+EV  IPR001024; PF01477; sufficient;
+EV  IPR013819; PF00305; sufficient;
+--
+SN  4
+ID  Lipoxin A4 synthase
+DN  Lipoxin A4 synthase (EC 1.13.11)
+RQ  1
+EV  IPR001024; PF01477; sufficient;
+EV  IPR013819; PF00305; sufficient;
+--
+SN  5
+ID  Lipoxin B4 synthase
+DN  Lipoxin B4 synthase (EC 1.13.11)
+RQ  1
+EV  IPR001024; PF01477; sufficient;
+EV  IPR013819; PF00305; sufficient;
+--
+SN  6
+ID  Lipoxin B4 synthase
+DN  Lipoxin B4 synthase (EC 1.13.11)
+RQ  1
+EV  IPR001024; PF01477; sufficient;
+EV  IPR013819; PF00305; sufficient;
+//

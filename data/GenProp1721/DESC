@@ -1,0 +1,30 @@
+AC  GenProp1721
+DE  Glutathione-peroxide redox reactions
+TP  PATHWAY
+AU  Caspi R
+TH  1
+DC  Glutathione-peroxide redox reactions
+DR  MetaCyc; PWY-4081;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Glutathione peroxidase
+DN  Glutathione peroxidase (EC 1.11.1.12)
+RQ  1
+EV  IPR000889; PF00255; sufficient;
+--
+SN  2
+ID  Glutathione peroxidase
+DN  Glutathione peroxidase (EC 1.11.1.9)
+RQ  1
+EV  IPR000889; PF00255; sufficient;
+--
+SN  3
+ID  Glutathione reductase
+DN  Glutathione reductase (EC 1.8.1.7)
+RQ  1
+EV  IPR006322; TIGR01421; sufficient;
+//
