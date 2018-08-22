@@ -1,5 +1,5 @@
-Genome Properties Documentation
-===============================
+Help & Documentation
+====================
 
 You can learn more about Genome Properties data and how to use the website from this free online course:
 
