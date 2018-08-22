@@ -9,10 +9,6 @@ New additions in this release include automatically generated properties from Me
 
 Contents of this release
 ------------------------
-..table::Contents
-  :align: left
-  :widths: auto
-  :width: 30%
 
 +------------+-------+---------------------+
 |            | total | new in this release |
