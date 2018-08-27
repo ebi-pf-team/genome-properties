@@ -21,7 +21,7 @@ my %TYPES = ( METAPATH => 1,
               #ROOT     => 1
               );
 
-my @ORDER = qw(PATHWAY METAPATH SYSTEM GUILD CATEGORY);
+my @ORDER = qw(PATHWAY COMPLEX METAPATH SYSTEM GUILD CATEGORY);
 
 sub validateGP {
   my($gp, $options) = @_;
