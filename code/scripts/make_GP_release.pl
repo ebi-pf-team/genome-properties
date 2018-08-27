@@ -200,7 +200,7 @@ foreach my $f (@allfiles){
 #Copy all files across and commit in.
 copy("$releaseDir/$version/version.txt", "$flatdir/version.txt");
 copy("$releaseDir/$version/hierarchy.json", "$flatdir/hierarchy.json"); 
-
+copy("$releaseDir/$version/genomeProperties.txt", "$flatdir/genomePrperties.txt");
 #Git Tag...
 chdir("$scratch/genome-properties");
 system("git commit -a -m \"Updated release file for release $version\"");
