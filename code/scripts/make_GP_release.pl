@@ -153,7 +153,7 @@ close(J);
 #Get this an make an ncbi taxonomy tree, based on this subset of species
 
 if(! -e "$releaseDir/taxonomy/tree.json"){ 
-  system("ncbi_taxonomy.pl -out $releaseDir -taxList $flatdir/proteome_list.csv") and die "Failed to make taxonomy tree\n";
+  system("bsub -q production-rh7 -I -Rrusage[mem=8000] -M 8000 ncbi_taxonomy.pl -out $releaseDir -taxList $flatdir/proteome_list.csv") and die "Failed to make taxonomy tree\n";
 }
 #Now download the the proteomes in the taxList and assign genome properties from the new assembled flatfile
 
