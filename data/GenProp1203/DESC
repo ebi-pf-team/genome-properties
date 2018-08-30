@@ -1,0 +1,69 @@
+AC  GenProp1203
+DE  DNA polymerase III clamp loader complex
+TP  COMPLEX
+AU  Complex Portal
+TH  5
+RN  [1]
+RM  21820444
+RT  Polymerase chaperoning and multiple ATPase sites enable the E. coli DNA
+RT  polymerase III holoenzyme to rapidly form initiation complexes.
+RA  Downey CD, Crooke E, McHenry CS
+RL  J Mol Biol. 2011;412:340-353
+RN  [2]
+RM  20413500
+RT  Stoichiometry and architecture of active DNA replication machinery in
+RT  Escherichia coli.
+RA  Reyes-Lamothe R, Sherratt DJ, Leake MC
+RL  Science. 2010;328:498-501
+RN  [3]
+RM  21675919
+RT  DNA replicases from a bacterial perspective.
+RA  McHenry CS
+RL  Annu Rev Biochem. 2011;80:403-436
+DR  Complex Portal; CPX-1926;
+DR  PDBe; 3glh;
+DR  PDBe; 3glf;
+DR  PDBe; 3gli;
+DR  PDBe; 1em8;
+CC  Chaperones the DNA polymerase holoenzyme (CPX-1924) to the replication
+CC  fork in an ATP-dependent manner. Each of the three gamma/tau subunits
+CC  (P06710) can bind one molecule of ATP but the binding of a single
+CC  molecule of ATP per complex is sufficient. Binding of ATP opens the
+CC  pentameric ring of DnaX (see below) and allows interaction with the
+CC  open beta subunit sliding clamp (CPX-1927). Subsequent attachment of
+CC  the template-primer DNA to the pentameric ring triggers hydrolysis and
+CC  detachment of the DnaX complex from the beta clamp-DNA complex
+CC  (CPX-1927). The beta clamp closes and facilitates strand elongation via
+CC  the DNA polymerase III core subcomplex (CPX-1925).
+--
+SN  1
+ID  DNA polymerase III subunit tau
+RQ  1
+--
+SN  2
+ID  DNA polymerase III subunit chi
+RQ  1
+EV  IPR007459; PF04364; sufficient;
+EV  IPR007459; PTHR38767; sufficient;
+--
+SN  3
+ID  DNA polymerase III subunit delta
+RQ  1
+EV  IPR005790; TIGR01128; sufficient;
+--
+SN  4
+ID  DNA polymerase III subunit delta'
+RQ  1
+EV  IPR004622; TIGR00678; sufficient;
+--
+SN  5
+ID  DNA polymerase III subunit tau
+RQ  1
+--
+SN  6
+ID  DNA polymerase III subunit psi
+RQ  1
+EV  IPR004615; PD032475; sufficient;
+EV  IPR004615; PF03603; sufficient;
+EV  IPR004615; PIRSF029225; sufficient;
+//

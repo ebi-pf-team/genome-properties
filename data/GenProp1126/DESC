@@ -1,0 +1,28 @@
+AC  GenProp1126
+DE  ProVWX complex
+TP  COMPLEX
+AU  Complex Portal
+TH  2
+DR  Complex Portal; CPX-2126;
+CC  Belongs to the family of ATP-binding cassette (ABC) transporter
+CC  proteins complexes. It is capable of translocating a wide variety of
+CC  solutes (e.g. glycine betaine) across the plasma membrane. The proVWX
+CC  operon is activated under osmotic stress conditions.
+--
+SN  1
+ID  Glycine betaine/proline betaine transport system ATP-binding protein ProV
+RQ  1
+EV  IPR005892; TIGR01186; sufficient;
+--
+SN  2
+ID  Glycine betaine/proline betaine transport system permease protein ProW
+RQ  1
+EV  IPR000515; PF00528; sufficient;
+EV  IPR000515; PS50928; sufficient;
+EV  IPR000515; cd06261; sufficient;
+--
+SN  3
+ID  Glycine betaine/proline betaine-binding periplasmic protein
+RQ  1
+EV  IPR007210; PF04069; sufficient;
+//

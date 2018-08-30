@@ -1,0 +1,89 @@
+AC  GenProp1198
+DE  Respiratory chain complex I
+TP  COMPLEX
+AU  Complex Portal
+TH  12
+DR  Complex Portal; CPX-243;
+CC  Catalyses the first step of electron transport by the oxidation of
+CC  NADH, thus providing two electrons for the reduction of ubiquinone.
+CC  Electron transfer is coupled with the translocation of protons across
+CC  the membrane, generating a proton motive force. Preferred NADH
+CC  dehydrogenase under anaerobic conditions.
+--
+SN  1
+ID  NADH-quinone oxidoreductase subunit L
+RQ  1
+EV  IPR003945; TIGR01974; sufficient;
+--
+SN  2
+ID  NADH-quinone oxidoreductase subunit H
+RQ  1
+EV  IPR001694; MF_01350; sufficient;
+EV  IPR001694; PF00146; sufficient;
+EV  IPR001694; PTHR11432; sufficient;
+--
+SN  3
+ID  NADH-quinone oxidoreductase subunit K
+RQ  1
+EV  IPR001133; MF_01456; sufficient;
+EV  IPR001133; PTHR11434; sufficient;
+--
+SN  4
+ID  NADH-quinone oxidoreductase subunit M
+RQ  1
+EV  IPR010227; TIGR01972; sufficient;
+--
+SN  5
+ID  NADH-quinone oxidoreductase subunit E
+RQ  1
+EV  IPR002023; PIRSF000216; sufficient;
+EV  IPR002023; PS01099; sufficient;
+EV  IPR002023; PTHR10371; sufficient;
+EV  IPR002023; TIGR01958; sufficient;
+EV  IPR002023; cd03064; sufficient;
+--
+SN  6
+ID  NADH-quinone oxidoreductase subunit A
+RQ  1
+EV  IPR000440; PF00507; sufficient;
+EV  IPR000440; PTHR11058; sufficient;
+--
+SN  7
+ID  NADH-quinone oxidoreductase subunit B
+RQ  1
+EV  IPR006138; MF_01356; sufficient;
+EV  IPR006138; PS01150; sufficient;
+EV  IPR006138; TIGR01957; sufficient;
+--
+SN  8
+ID  NADH-quinone oxidoreductase subunit F
+RQ  1
+EV  IPR011537; TIGR01959; sufficient;
+--
+SN  9
+ID  NADH-quinone oxidoreductase subunit J
+RQ  1
+EV  IPR001457; PF00499; sufficient;
+--
+SN  10
+ID  NADH-quinone oxidoreductase subunit I
+RQ  1
+EV  IPR010226; MF_01351; sufficient;
+EV  IPR010226; TIGR01971; sufficient;
+--
+SN  11
+ID  NADH-quinone oxidoreductase subunit G
+RQ  1
+EV  IPR010228; TIGR01973; sufficient;
+--
+SN  12
+ID  NADH-quinone oxidoreductase subunit C/D
+RQ  1
+EV  IPR023062; MF_01359; sufficient;
+--
+SN  13
+ID  NADH-quinone oxidoreductase subunit N
+RQ  1
+EV  IPR010096; MF_00445; sufficient;
+EV  IPR010096; TIGR01770; sufficient;
+//

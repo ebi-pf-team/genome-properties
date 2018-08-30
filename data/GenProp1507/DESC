@@ -1,0 +1,25 @@
+AC  GenProp1507
+DE  L-homocysteine biosynthesis
+TP  PATHWAY
+AU  Caspi R
+TH  0
+DC  L-homocysteine biosynthesis
+DR  MetaCyc; PWY-5344;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  O-acetylhomoserine sulfhydrylase
+DN  O-acetylhomoserine sulfhydrylase (EC 2.5.1.49)
+RQ  1
+EV  IPR000277; PF01053; sufficient;
+EV  IPR006235; TIGR01326; sufficient;
+--
+SN  2
+ID  Homoserine O-acetyltransferase
+DN  Homoserine O-acetyltransferase (EC 2.3.1.31)
+RQ  1
+EV  IPR008220; TIGR01392; sufficient;
+//

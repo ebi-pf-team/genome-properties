@@ -1,0 +1,50 @@
+AC  GenProp1239
+DE  ADP-L-glycero-beta-D-manno-heptose biosynthesis
+TP  PATHWAY
+AU  Keseler I
+TH  3
+DC  ADP-L-glycero-beta-D-manno-heptose biosynthesis
+DR  MetaCyc; PWY0-1241;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  ADP-L-glycero-D-mannoheptose 6-epimerase
+DN  ADP-L-glycero-D-mannoheptose 6-epimerase (EC 5.1.3.20)
+RQ  1
+EV  IPR011912; TIGR02197; sufficient;
+--
+SN  2
+ID  D-sedoheptulose 7-phosphate isomerase
+DN  D-sedoheptulose 7-phosphate isomerase (EC 5.3.1.28)
+RQ  1
+EV  IPR004515; TIGR00441; sufficient;
+--
+SN  3
+ID  Heptose 7-phosphate kinase
+DN  Heptose 7-phosphate kinase (EC 2.7.1.167)
+RQ  1
+EV  IPR004821; PF01467; sufficient;
+EV  IPR004821; TIGR00125; sufficient;
+EV  IPR011611; PF00294; sufficient;
+EV  IPR011913; TIGR02198; sufficient;
+EV  IPR011914; TIGR02199; sufficient;
+--
+SN  4
+ID  Heptose 1-phosphate adenyltransferase
+DN  Heptose 1-phosphate adenyltransferase (EC 2.7.7.70)
+RQ  1
+EV  IPR004821; PF01467; sufficient;
+EV  IPR004821; TIGR00125; sufficient;
+EV  IPR011611; PF00294; sufficient;
+EV  IPR011913; TIGR02198; sufficient;
+EV  IPR011914; TIGR02199; sufficient;
+--
+SN  5
+ID  D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase
+DN  D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase (EC 3.1.3.82)
+RQ  1
+EV  IPR004446; TIGR00213; sufficient;
+//

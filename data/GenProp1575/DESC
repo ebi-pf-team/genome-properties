@@ -1,0 +1,39 @@
+AC  GenProp1575
+DE  Phospholipid remodeling (phosphatidylethanolamine, yeast)
+TP  PATHWAY
+AU  Foerster H
+TH  2
+DC  Phospholipid remodeling (phosphatidylethanolamine, yeast)
+DR  MetaCyc; PWY-7409;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Glycerophosphorylethanolamine phosphodiesterase
+DN  Glycerophosphorylethanolamine phosphodiesterase (EC 3.1.4.46)
+RQ  1
+EV  IPR004331; PF03105; sufficient;
+EV  IPR020683; PF12796; sufficient;
+EV  IPR030395; PF03009; sufficient;
+--
+SN  2
+ID  Lyso-phosphatidylethanolaminelipase
+DN  Lyso-phosphatidylethanolaminelipase (EC 3.1.1.5)
+RQ  1
+EV  IPR002642; PF01735; sufficient;
+--
+SN  3
+ID  Oleoyl-CoA:lysophosphatidylethanolamine acyltransferase
+DN  Oleoyl-CoA:lysophosphatidylethanolamine acyltransferase (EC 2.3.1.23)
+RQ  1
+EV  IPR021771; PF11815; sufficient;
+EV  IPR004299; PF03062; sufficient;
+--
+SN  4
+ID  Phospholipase A2
+DN  Phospholipase A2 (EC 3.1.1.4)
+RQ  1
+EV  IPR021771; PF11815; sufficient;
+//

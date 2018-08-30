@@ -1,0 +1,24 @@
+AC  GenProp1645
+DE  Zeaxanthin biosynthesis
+TP  PATHWAY
+AU  Caspi R
+TH  0
+DC  Zeaxanthin biosynthesis
+DR  MetaCyc; PWY-5944;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Beta-carotene hydroxylase
+DN  Beta-carotene hydroxylase
+RQ  1
+EV  IPR006694; PF04116; sufficient;
+--
+SN  2
+ID  Beta-cryptoxanthin 3'-hydroxylase
+DN  Beta-cryptoxanthin 3'-hydroxylase
+RQ  1
+EV  IPR006694; PF04116; sufficient;
+//

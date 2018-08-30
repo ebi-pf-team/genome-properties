@@ -1,0 +1,30 @@
+AC  GenProp1740
+DE  Pregnenolone biosynthesis
+TP  PATHWAY
+AU  Trupp M
+TH  1
+DC  Pregnenolone biosynthesis
+DR  MetaCyc; PWY66-377;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Cholesterol 22-beta-hydroxylase
+DN  Cholesterol 22-beta-hydroxylase
+RQ  1
+EV  IPR001128; PF00067; sufficient;
+--
+SN  2
+ID  22-Beta-hydroxycholesterol 20-alpha-hydroxylation
+DN  22-Beta-hydroxycholesterol 20-alpha-hydroxylation
+RQ  1
+EV  IPR001128; PF00067; sufficient;
+--
+SN  3
+ID  20-Alpha-22-beta-dihydroxycholesterol side-chain lyase
+DN  20-Alpha-22-beta-dihydroxycholesterol side-chain lyase
+RQ  1
+EV  IPR001128; PF00067; sufficient;
+//

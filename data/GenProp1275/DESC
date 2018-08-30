@@ -1,0 +1,30 @@
+AC  GenProp1275
+DE  Glycine cleavage
+TP  PATHWAY
+AU  Fulcher C, Caspi R, Riley M
+TH  1
+DC  Glycine cleavage
+DR  MetaCyc; GLYCLEAV-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Glycine dehydrogenase
+DN  Glycine dehydrogenase (EC 1.4.4.2)
+RQ  1
+EV  IPR003437; TIGR00461; sufficient;
+--
+SN  2
+ID  Aminomethyltransferase
+DN  Aminomethyltransferase (EC 2.1.2.10)
+RQ  1
+EV  IPR006223; TIGR00528; sufficient;
+--
+SN  3
+ID  Dihydrolipoyl dehydrogenase
+DN  Dihydrolipoyl dehydrogenase (EC 1.8.1.4)
+RQ  1
+EV  IPR006258; TIGR01350; sufficient;
+//

@@ -40,4 +40,14 @@ SN  7
 ID  Spore formation
 RQ  0
 EV  GenProp0049;
+--
+SN  8
+ID  FtsQBL complex
+RQ  0
+EV  GenProp1142;
+--
+SN  9
+ID  FtsBL complex
+RQ  0
+EV  GenProp1154;
 //

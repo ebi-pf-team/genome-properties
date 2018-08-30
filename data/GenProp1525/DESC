@@ -1,0 +1,38 @@
+AC  GenProp1525
+DE  Tetrapyrrole biosynthesis II (from glycine)
+TP  PATHWAY
+AU  Caspi R
+TH  2
+DC  Tetrapyrrole biosynthesis II (from glycine)
+DR  MetaCyc; PWY-5189;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  5-Aminolevulinate synthase
+DN  5-Aminolevulinate synthase (EC 2.3.1.37)
+RQ  1
+EV  IPR004839; PF00155; sufficient;
+EV  IPR010961; TIGR01821; sufficient;
+EV  IPR015118; PF09029; sufficient;
+--
+SN  2
+ID  Porphobilinogen deaminase
+DN  Porphobilinogen deaminase (EC 2.5.1.61)
+RQ  1
+EV  IPR000860; TIGR00212; sufficient;
+--
+SN  3
+ID  Porphobilinogen synthase
+DN  Porphobilinogen synthase (EC 4.2.1.24)
+RQ  1
+EV  IPR001731; PF00490; sufficient;
+--
+SN  4
+ID  Uroporphyrinogen III cosynthetase
+DN  Uroporphyrinogen III cosynthetase (EC 4.2.1.75)
+RQ  1
+EV  IPR003754; PF02602; sufficient;
+//

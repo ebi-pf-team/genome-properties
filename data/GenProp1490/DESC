@@ -1,0 +1,54 @@
+AC  GenProp1490
+DE  Indole-3-acetate inactivation VIII
+TP  PATHWAY
+AU  Dreher K
+TH  5
+DC  Indole-3-acetate inactivation VIII
+DR  MetaCyc; PWY-6219;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Indole-3-acetyl-alanine synthetase
+DN  Indole-3-acetyl-alanine synthetase (EC 6.3)
+RQ  1
+EV  IPR004993; PF03321; sufficient;
+--
+SN  2
+ID  Indole-3-acetyl-leucine synthetase
+DN  Indole-3-acetyl-leucine synthetase (EC 6.3)
+RQ  1
+EV  IPR004993; PF03321; sufficient;
+--
+SN  3
+ID  Indole-3-acetyl-aspatate synthetase
+DN  Indole-3-acetyl-aspatate synthetase (EC 6.3)
+RQ  1
+EV  IPR004993; PF03321; sufficient;
+--
+SN  4
+ID  Indole-3-acetyl-glutamate synthetase
+DN  Indole-3-acetyl-glutamate synthetase (EC 6.3)
+RQ  1
+EV  IPR004993; PF03321; sufficient;
+--
+SN  5
+ID  Indole-3-acetyl-glutamine synthetase
+DN  Indole-3-acetyl-glutamine synthetase (EC 6.3)
+RQ  1
+EV  IPR004993; PF03321; sufficient;
+--
+SN  6
+ID  Indole-3-acetyl-valine synthetase
+DN  Indole-3-acetyl-valine synthetase (EC 6.3)
+RQ  1
+EV  IPR004993; PF03321; sufficient;
+--
+SN  7
+ID  Indole-3-acetyl-phenylalanine synthetase
+DN  Indole-3-acetyl-phenylalanine synthetase (EC 6.3)
+RQ  1
+EV  IPR004993; PF03321; sufficient;
+//

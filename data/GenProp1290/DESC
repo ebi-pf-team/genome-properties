@@ -1,0 +1,51 @@
+AC  GenProp1290
+DE  Lipid IVA biosynthesis
+TP  PATHWAY
+AU  Riley M
+TH  4
+DC  Lipid IVA biosynthesis
+DR  MetaCyc; NAGLIPASYN-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Lipid A disaccharide synthase
+DN  Lipid A disaccharide synthase (EC 2.4.1.182)
+RQ  1
+EV  IPR003835; PF02684; sufficient;
+EV  IPR003835; TIGR00215; sufficient;
+--
+SN  2
+ID  UDP-2,3-diacylglucosamine diphosphatase
+DN  UDP-2,3-diacylglucosamine diphosphatase (EC 3.6.1.54)
+RQ  1
+EV  IPR010138; TIGR01854; sufficient;
+--
+SN  3
+ID  Tetraacyldisaccharide 4'-kinase
+DN  Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130)
+RQ  1
+EV  IPR003758; PF02606; sufficient;
+EV  IPR003758; TIGR00682; sufficient;
+--
+SN  4
+ID  UDP-3-O-acyl-N-acetylglucosamine deacetylase
+DN  UDP-3-O-acyl-N-acetylglucosamine deacetylase (EC 3.5.1.108)
+RQ  1
+EV  IPR004463; PF03331; sufficient;
+EV  IPR004463; TIGR00325; sufficient;
+--
+SN  5
+ID  UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase
+DN  UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase (EC 2.3.1.191)
+RQ  1
+EV  IPR007691; TIGR01853; sufficient;
+--
+SN  6
+ID  UDP-N-acetylglucosamine acyltransferase
+DN  UDP-N-acetylglucosamine acyltransferase (EC 2.3.1.129)
+RQ  1
+EV  IPR010137; TIGR01852; sufficient;
+//

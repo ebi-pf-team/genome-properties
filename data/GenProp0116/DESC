@@ -58,4 +58,44 @@ SN  10
 ID  Replication initiation, bacterial
 RQ  0
 EV  GenProp0806;
+--
+SN  11
+ID  DnaB-DnaC complex
+RQ  0
+EV  GenProp1118;
+--
+SN  12
+ID  DnaB-DnaG complex
+RQ  0
+EV  GenProp1123;
+--
+SN  13
+ID  DnaB-DnaC-DnaT-PriA-PriB complex
+RQ  0
+EV  GenProp1130;
+--
+SN  14
+ID  MukBEF condensin complex
+RQ  0
+EV  GenProp1180;
+--
+SN  15
+ID  DnaB-DnaC-DnaT-PriA-PriC complex
+RQ  0
+EV  GenProp1187;
+--
+SN  16
+ID  DnaA-DnaB-DnaC complex
+RQ  0
+EV  GenProp1200;
+--
+SN  17
+ID  DnaA-HU complex variant 1
+RQ  0
+EV  GenProp1207;
+--
+SN  18
+ID  DnaB-DnaC-Rep-PriC complex
+RQ  0
+EV  GenProp1208;
 //

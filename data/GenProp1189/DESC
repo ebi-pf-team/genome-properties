@@ -1,0 +1,55 @@
+AC  GenProp1189
+DE  MqsRA toxin-antitoxin complex
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+RN  [1]
+RM  26991085
+RT  Toxin-antitoxin systems in bacterial growth arrest and persistence.
+RA  Page R, Peti W
+RL  Nat Chem Biol. 2016;12:208-214
+RN  [2]
+RM  20041169
+RT  Three dimensional structure of the MqsR:MqsA complex: a novel TA pair
+RT  comprised of a toxin homologous to RelE and an antitoxin with unique
+RT  properties.
+RA  Brown BL, Grigoriu S, Kim Y, Arruda JM, Davenport A, Wood TK, Peti W,
+RA  Page R
+RL  PLoS Pathog. 2009;5:e1000706
+DR  Complex Portal; CPX-1084;
+DR  PDBe; 3gn5;
+DR  PDBe; 3fmy;
+DR  PDBe; 3o9x;
+CC  Type II toxin-antitoxin (TA) module consisting of MqsR toxins bound to
+CC  MqsA antitoxin dimer. TA systems act as effectors of dormancy and
+CC  persistence and are composed of a toxin, which causes growth arrest by
+CC  interfering with a vital cellular process, and a cognate antitoxin,
+CC  which neutralizes the toxin activity during normal growth conditions. 
+CC  Under conditions of stress the antitoxins are selectively degraded,
+CC  leaving the toxins to exert their toxic effects, leading to growth
+CC  arrest and dormancy. Type II TA complexes are small protein-protein
+CC  pairs; under growth conditions, the toxin is bound to the antitoxin,
+CC  which inhibits its activity. Both the antitoxin and, in most cases, the
+CC  TA complex bind the TA promoter to repress transcription. Under stress
+CC  conditions, cellular proteases such as Lon (P0A9M0) and ClpXP
+CC  (CPX-3176) are activated that preferentially cleave the antitoxins,
+CC  freeing the toxins to inhibit growth by inhibiting translation or
+CC  replication, enabling cells to enter a metabolically dormant state
+CC  until the stress is removed. MqsR toxin is the most up-regulated gene
+CC  in the persister phenotype of cells. When active, MqsA binds its
+CC  promoter with extremely tight affinity, however this is destabilized by
+CC  TA complex formation as the binding sites of MqsR and MqsA on DNA 
+CC  overlap and their binding is mutually exclusive. Plays a role in
+CC  biofilm formation.
+--
+SN  1
+ID  Antitoxin MqsA
+RQ  1
+EV  IPR022452; TIGR03830; sufficient;
+--
+SN  2
+ID  mRNA interferase toxin MqsR
+RQ  1
+EV  IPR031451; PF15723; sufficient;
+EV  IPR031451; cd12869; sufficient;
+//

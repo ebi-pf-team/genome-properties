@@ -1,0 +1,27 @@
+AC  GenProp1149
+DE  Topoisomerase IV
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+DR  Complex Portal; CPX-1104;
+CC  Type II DNA topoisomerase responsible for relaxing supercoiled DNA by
+CC  introducing a double-stranded break in DNA and passing a second duplex
+CC  segment of DNA through the break before resealing it. Acts on
+CC  topologically different substrates including (+) and negative (-)
+CC  supercoiled DNA and knotted and catenated DNA. Decatenates newly
+CC  replicated DNA, removing the majority of links behind the replication
+CC  forks.
+--
+SN  1
+ID  DNA topoisomerase 4 subunit B
+RQ  1
+EV  IPR005737; MF_00938; sufficient;
+EV  IPR005737; PR01098; sufficient;
+EV  IPR005737; PTHR10169:SF45; sufficient;
+EV  IPR005737; TIGR01055; sufficient;
+--
+SN  2
+ID  DNA topoisomerase 4 subunit A
+RQ  1
+EV  IPR005742; MF_00936; sufficient;
+//

@@ -1,0 +1,25 @@
+AC  GenProp1683
+DE  Epoxysqualene biosynthesis
+TP  PATHWAY
+AU  Caspi R
+TH  0
+DC  Epoxysqualene biosynthesis
+DR  MetaCyc; PWY-5670;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Squalene synthase
+DN  Squalene synthase (EC 2.5.1.21)
+RQ  1
+EV  IPR002060; PF00494; sufficient;
+EV  IPR006449; TIGR01559; sufficient;
+--
+SN  2
+ID  Squalene monooxygenase
+DN  Squalene monooxygenase (EC 1.14.14.17)
+RQ  1
+EV  IPR013698; PF08491; sufficient;
+//

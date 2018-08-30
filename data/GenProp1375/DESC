@@ -1,0 +1,44 @@
+AC  GenProp1375
+DE  L-tyrosine degradation I
+TP  PATHWAY
+AU  Fulcher C
+TH  3
+DC  L-tyrosine degradation I
+DR  MetaCyc; TYRFUMCAT-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  4-Hydroxyphenylpyruvate dioxygenase
+DN  4-Hydroxyphenylpyruvate dioxygenase (EC 1.13.11.27)
+RQ  1
+EV  IPR005956; TIGR01263; sufficient;
+--
+SN  2
+ID  Fumarylacetoacetate hydrolase
+DN  Fumarylacetoacetate hydrolase (EC 3.7.1.2)
+RQ  1
+EV  IPR005959; TIGR01266; sufficient;
+--
+SN  3
+ID  Homogentisate oxygenase
+DN  Homogentisate oxygenase (EC 1.13.11.5)
+RQ  1
+EV  IPR005708; PF04209; sufficient;
+EV  IPR005708; TIGR01015; sufficient;
+--
+SN  4
+ID  Maleylacetoacetate isomerase
+DN  Maleylacetoacetate isomerase (EC 5.2.1.2)
+RQ  1
+EV  IPR005955; TIGR01262; sufficient;
+--
+SN  5
+ID  L-tyrosine:2-oxoglutarate aminotransferase
+DN  L-tyrosine:2-oxoglutarate aminotransferase (EC 2.6.1.5)
+RQ  1
+EV  IPR005957; TIGR01264; sufficient;
+EV  IPR005958; TIGR01265; sufficient;
+//

@@ -1,0 +1,59 @@
+AC  GenProp1212
+DE  Regulation of biological processes
+TP  CATEGORY
+AU  Richardson L
+TH  0
+CC  Properties that describe systems involved in the regulation of
+CC  various biological processes, incluing both positive and negative
+CC  regulation.
+--
+SN  1
+ID  Chemotaxis phosphorelay complex CheY-CheZ
+RQ  0
+EV  GenProp1139;
+--
+SN  2
+ID  Trimethylamine-N-oxide reductase TorAC complex
+RQ  0
+EV  GenProp1205;
+--
+SN  3
+ID  DnaA-DiaA complex
+RQ  0
+EV  GenProp1210;
+--
+SN  4
+ID  DnaA-Dps complex
+RQ  0
+EV  GenProp1113;
+--
+SN  5
+ID  DinJ-YafQ toxin-antitoxin complex
+RQ  0
+EV  GenProp1125;
+--
+SN  6
+ID  Enzyme IIA-maltose transporter complex
+RQ  0
+EV  GenProp1159;
+--
+SN  7
+ID  Hda-beta clamp complex
+RQ  0
+EV  GenProp1162;
+--
+SN  8
+ID  Sigma-E factor negative regulation complex
+RQ  0
+EV  GenProp1184;
+--
+SN  9
+ID  DnaA-Hda complex
+RQ  0
+EV  GenProp1186;
+--
+SN  10
+ID  DnaA-L2
+RQ  0
+EV  GenProp1195;
+//

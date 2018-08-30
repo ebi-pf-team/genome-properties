@@ -1,0 +1,26 @@
+AC  GenProp1477
+DE  Coenzyme B/coenzyme M regeneration III (coenzyme F420-dependent)
+TP  PATHWAY
+AU  Caspi R
+TH  0
+DC  Coenzyme B/coenzyme M regeneration III (coenzyme F420-dependent)
+DR  MetaCyc; PWY-7866;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Ferredoxin:CoB-CoM heterosulfide reductase
+DN  Ferredoxin:CoB-CoM heterosulfide reductase (EC 1.8.7.3)
+RQ  1
+EV  IPR017678; TIGR03288; sufficient;
+EV  IPR017680; TIGR03290; sufficient;
+--
+SN  2
+ID  Coenzyme F420:CoB-CoM heterosulfide,ferredoxin reductase
+DN  Coenzyme F420:CoB-CoM heterosulfide,ferredoxin reductase (EC 1.8.98.4)
+RQ  1
+EV  IPR017678; TIGR03288; sufficient;
+EV  IPR017680; TIGR03290; sufficient;
+//

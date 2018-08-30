@@ -1,0 +1,28 @@
+AC  GenProp1329
+DE  Nitrate reduction III (dissimilatory)
+TP  PATHWAY
+AU  Mackie A, Nolan L, Krummenacker M
+TH  0
+DC  Nitrate reduction III (dissimilatory)
+DR  MetaCyc; PWY0-1321;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Formate dehydrogenase (menaquinone)
+DN  Formate dehydrogenase (menaquinone) (EC 1.17.5.3)
+RQ  1
+EV  IPR006443; TIGR01553; sufficient;
+EV  IPR006470; TIGR01582; sufficient;
+EV  IPR006471; TIGR01583; sufficient;
+--
+SN  2
+ID  Menaquinol:nitrate oxidoreductase
+DN  Menaquinol:nitrate oxidoreductase (EC 1.7.5.1)
+RQ  1
+EV  IPR006468; TIGR01580; sufficient;
+EV  IPR006547; TIGR01660; sufficient;
+EV  IPR003816; TIGR00351; sufficient;
+//

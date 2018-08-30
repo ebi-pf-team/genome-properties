@@ -49,5 +49,5 @@ ID  Heat shock gene repressor HrcA
 DN  Heat-inducible transcription repressor HrcA
 RQ  0
 EV  IPR002571; TIGR00331; sufficient;
-TG  GO:0016481;
+TG  GO:0045892;
 //

@@ -1,0 +1,138 @@
+AC  GenProp1767
+DE  Secondary metabolites biosynthesis
+TP  CATEGORY
+AU  Richardson L
+TH  0
+CC  The process of creating secondary metabolites from simpler starting
+CC  materials.
+--
+SN  1
+ID  Pyocyanin biosynthesis
+RQ  0
+EV  GenProp1331;
+--
+SN  2
+ID  Spermidine hydroxycinnamic acid conjugates biosynthesis
+RQ  0
+EV  GenProp1759;
+--
+SN  3
+ID  Anthocyanidin modification (Arabidopsis)
+RQ  0
+EV  GenProp1547;
+--
+SN  4
+ID  Pterostilbene biosynthesis
+RQ  0
+EV  GenProp1388;
+--
+SN  5
+ID  Kanosamine biosynthesis II
+RQ  0
+EV  GenProp1534;
+--
+SN  6
+ID  1D-myo-inositol hexakisphosphate biosynthesis I (from Ins(1,4,5)P3)
+RQ  0
+EV  GenProp1249;
+--
+SN  7
+ID  1D-myo-inositol hexakisphosphate biosynthesis II (mammalian)
+RQ  0
+EV  GenProp1509;
+--
+SN  8
+ID  D-myo-inositol (1,3,4)-trisphosphate biosynthesis
+RQ  0
+EV  GenProp1229;
+--
+SN  9
+ID  Myo-inositol biosynthesis
+RQ  0
+EV  GenProp1244;
+--
+SN  10
+ID  D-myo-inositol (3,4,5,6)-tetrakisphosphate biosynthesis
+RQ  0
+EV  GenProp1460;
+--
+SN  11
+ID  D-myo-inositol (1,4,5)-trisphosphate biosynthesis
+RQ  0
+EV  GenProp1548;
+--
+SN  12
+ID  Inositol diphosphates biosynthesis
+RQ  0
+EV  GenProp1574;
+--
+SN  13
+ID  D-myo-inositol (1,4,5,6)-tetrakisphosphate biosynthesis
+RQ  0
+EV  GenProp1692;
+--
+SN  14
+ID  Beta-carotene biosynthesis
+RQ  0
+EV  GenProp1451;
+--
+SN  15
+ID  Zeaxanthin biosynthesis
+RQ  0
+EV  GenProp1645;
+--
+SN  16
+ID  Phytyl diphosphate biosynthesis
+RQ  0
+EV  GenProp1382;
+--
+SN  17
+ID  Methylerythritol phosphate pathway I
+RQ  0
+EV  GenProp1295;
+--
+SN  18
+ID  Mevalonate pathway I
+RQ  0
+EV  GenProp1432;
+--
+SN  19
+ID  Trichome monoterpenes biosynthesis
+RQ  0
+EV  GenProp1709;
+--
+SN  20
+ID  Beta-caryophyllene biosynthesis
+RQ  0
+EV  GenProp1471;
+--
+SN  21
+ID  (E,E)-4,8,12-trimethyltrideca-1,3,7,11-tetraene biosynthesis
+RQ  0
+EV  GenProp1638;
+--
+SN  22
+ID  PreQ0 biosynthesis
+RQ  0
+EV  GenProp1602;
+--
+SN  23
+ID  Mycocyclosin biosynthesis
+RQ  0
+EV  GenProp1622;
+--
+SN  24
+ID  Gadusol biosynthesis
+RQ  0
+EV  GenProp1668;
+--
+SN  25
+ID  Superpathway of D-myo-inositol (1,4,5)-trisphosphate metabolism
+RQ  0
+EV  GenProp1395;
+--
+SN  26
+ID  Superpathway of carotenoid biosynthesis in plants
+RQ  0
+EV  GenProp1763;
+//

@@ -1,0 +1,50 @@
+AC  GenProp1369
+DE  Superpathway of pyrimidine ribonucleosides salvage
+TP  PATHWAY
+AU  Caspi R
+TH  4
+DC  Superpathway of pyrimidine ribonucleosides salvage
+DR  MetaCyc; PWY-7196;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Cytidine kinase
+DN  Cytidine kinase (EC 2.7.1.213)
+RQ  1
+EV  IPR000764; TIGR00235; sufficient;
+--
+SN  2
+ID  CMP kinase
+DN  CMP kinase (EC 2.7.4.25)
+RQ  1
+EV  IPR003136; TIGR00017; sufficient;
+EV  IPR006266; TIGR01359; sufficient;
+--
+SN  3
+ID  UMP kinase
+DN  UMP kinase (EC 2.7.4.14)
+RQ  1
+EV  IPR006266; TIGR01359; sufficient;
+EV  IPR015963; TIGR02075; sufficient;
+--
+SN  4
+ID  Uracil phosphoribosyltransferase
+DN  Uracil phosphoribosyltransferase (EC 2.4.2.9)
+RQ  1
+EV  IPR005765; TIGR01091; sufficient;
+--
+SN  5
+ID  Uridine nucleosidase
+DN  Uridine nucleosidase (EC 3.2.2.3)
+RQ  1
+EV  IPR001910; PF01156; sufficient;
+--
+SN  6
+ID  Uridine kinase
+DN  Uridine kinase (EC 2.7.1.48)
+RQ  1
+EV  IPR000764; TIGR00235; sufficient;
+//

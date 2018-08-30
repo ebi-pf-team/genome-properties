@@ -1,0 +1,57 @@
+AC  GenProp1155
+DE  DNA polymerase III proofreading complex
+TP  COMPLEX
+AU  Complex Portal
+TH  2
+RN  [1]
+RM  14630952
+RT  A peptide switch regulates DNA polymerase processivity.
+RA  López de Saro FJ, Georgescu RE, O'Donnell M
+RL  Proc Natl Acad Sci U S A. 2003;100:14689-14694
+RN  [2]
+RM  20413500
+RT  Stoichiometry and architecture of active DNA replication machinery in
+RT  Escherichia coli.
+RA  Reyes-Lamothe R, Sherratt DJ, Leake MC
+RL  Science. 2010;328:498-501
+RN  [3]
+RM  21675919
+RT  DNA replicases from a bacterial perspective.
+RA  McHenry CS
+RL  Annu Rev Biochem. 2011;80:403-436
+DR  Complex Portal; CPX-1925;
+CC  Functions as the leading- and lagging-strand replicase in DNA
+CC  replication. Pol III alone exhibits a very low processivity, additional
+CC  interactions stabilize the interaction of Pol III with the replication
+CC  fork and increase its processivity. The polymerase subunit of the DNA
+CC  polymerase III holoenzyme (CPX-1924) contains three participants: the
+CC  polymerase subunit alpha and the two proofreading subunits, epsilon and
+CC  theta. While two polymerase subcomplexes elongate the leading and
+CC  lagging strands the function of the third polymerase subcomplex - bound
+CC  to the third tau subunit of the clamp loading complex (CPX-1926) - is
+CC  as of yet unknown. The beta and tau subunits of the Pol III holoenzyme
+CC  appear to be competing for the same binding site on alpha. This
+CC  competition allows for the clamp loader (CPX-1926) to disengage from
+CC  the polymerase unit and facilitate binding of alpha to the sliding
+CC  clamp (CPX-1927) to commence strand elongation. At the end of
+CC  replication the tau subunit re-connects with alpha, displacing the
+CC  polymerase subcomplex from the newly-synthesised double-stranded DNA.
+--
+SN  1
+ID  DNA polymerase III subunit theta
+RQ  1
+EV  IPR009052; PD057609; sufficient;
+EV  IPR009052; PF06440; sufficient;
+--
+SN  2
+ID  DNA polymerase III subunit alpha
+RQ  1
+EV  IPR004805; PTHR32294; sufficient;
+EV  IPR004805; TIGR00594; sufficient;
+--
+SN  3
+ID  DNA polymerase III subunit epsilon
+RQ  1
+EV  IPR006309; TIGR01406; sufficient;
+EV  IPR006309; cd06131; sufficient;
+//

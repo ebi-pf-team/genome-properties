@@ -1,0 +1,20 @@
+AC  GenProp1206
+DE  H-NS-Cnu complex
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+DR  Complex Portal; CPX-1980;
+CC  Functions as transcription factor that negatively regulates a range of
+CC  bacterial genes.
+--
+SN  1
+ID  DNA-binding protein H-NS
+RQ  1
+EV  IPR001801; PF00816; sufficient;
+EV  IPR001801; PIRSF002096; sufficient;
+--
+SN  2
+ID  OriC-binding nucleoid-associated protein
+RQ  1
+EV  IPR007985; PF05321; sufficient;
+//

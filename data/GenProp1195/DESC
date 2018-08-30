@@ -1,0 +1,25 @@
+AC  GenProp1195
+DE  DnaA-L2
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+DR  Complex Portal; CPX-1944;
+CC  Contributes to the regulation of replication initiation preventing
+CC  multiple replication origins during one replication cycle: L2 interacts
+CC  with N-terminal domain of DnaA inhibiting DnaA multimerization and
+CC  therefore inhibiting further replication initiation.
+--
+SN  1
+ID  50S ribosomal protein L2
+RQ  1
+EV  IPR002171; PIRSF002158; sufficient;
+EV  IPR002171; PTHR13691; sufficient;
+EV  IPR002171; SM01383; sufficient;
+--
+SN  2
+ID  Chromosomal replication initiator protein DnaA
+RQ  1
+EV  IPR001957; MF_00377; sufficient;
+EV  IPR001957; PTHR30050:SF2; sufficient;
+EV  IPR001957; TIGR00362; sufficient;
+//

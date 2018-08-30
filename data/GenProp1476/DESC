@@ -1,0 +1,31 @@
+AC  GenProp1476
+DE  Autoinducer AI-2 degradation
+TP  PATHWAY
+AU  Caspi R, Keseler I
+TH  1
+DC  Autoinducer AI-2 degradation
+DR  MetaCyc; PWY0-1569;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  (4S)-4-hydroxy-5-phosphonooxypentane-2,3-dione isomerase
+DN  (4S)-4-hydroxy-5-phosphonooxypentane-2,3-dione isomerase (EC 5.3.1.32)
+RQ  1
+EV  IPR007138; PF03992; sufficient;
+--
+SN  2
+ID  3-Hydroxy-2,4-pentadione 5-phosphate thiolase
+DN  3-Hydroxy-2,4-pentadione 5-phosphate thiolase (EC 2.3.1.245)
+RQ  1
+EV  IPR002915; PF01791; sufficient;
+--
+SN  3
+ID  Autoinducer-2 kinase
+DN  Autoinducer-2 kinase (EC 2.7.1.189)
+RQ  1
+EV  IPR018484; PF00370; sufficient;
+EV  IPR018485; PF02782; sufficient;
+//

@@ -43,4 +43,159 @@ SN  7
 ID  Lycopene biosynthesis from IPP
 RQ  0
 EV  GenProp0758;
+--
+SN  8
+ID  Galactolipid biosynthesis I
+RQ  0
+EV  GenProp1302;
+--
+SN  9
+ID  Glycolipid desaturation
+RQ  0
+EV  GenProp1690;
+--
+SN  10
+ID  Cardiolipin biosynthesis III
+RQ  0
+EV  GenProp1252;
+--
+SN  11
+ID  Cardiolipin and phosphatidylethanolamine biosynthesis (Xanthomonas)
+RQ  0
+EV  GenProp1453;
+--
+SN  12
+ID  Cardiolipin biosynthesis I
+RQ  0
+EV  GenProp1627;
+--
+SN  13
+ID  Phosphatidylcholine biosynthesis I
+RQ  0
+EV  GenProp1351;
+--
+SN  14
+ID  Phosphatidylcholine biosynthesis V
+RQ  0
+EV  GenProp1516;
+--
+SN  15
+ID  Phospholipid remodeling (phosphatidylcholine, yeast)
+RQ  0
+EV  GenProp1718;
+--
+SN  16
+ID  Phosphatidylethanolamine biosynthesis I
+RQ  0
+EV  GenProp1542;
+--
+SN  17
+ID  Phospholipid remodeling (phosphatidylethanolamine, yeast)
+RQ  0
+EV  GenProp1575;
+--
+SN  18
+ID  Phosphatidate biosynthesis (yeast)
+RQ  0
+EV  GenProp1316;
+--
+SN  19
+ID  D-myo-inositol-5-phosphate metabolism
+RQ  0
+EV  GenProp1511;
+--
+SN  20
+ID  3-Phosphoinositide biosynthesis
+RQ  0
+EV  GenProp1758;
+--
+SN  21
+ID  Globo-series glycosphingolipids biosynthesis
+RQ  0
+EV  GenProp1304;
+--
+SN  22
+ID  Sphingolipid biosynthesis (yeast)
+RQ  0
+EV  GenProp1423;
+--
+SN  23
+ID  Ganglio-series glycosphingolipids biosynthesis
+RQ  0
+EV  GenProp1517;
+--
+SN  24
+ID  Lacto-series glycosphingolipids biosynthesis
+RQ  0
+EV  GenProp1518;
+--
+SN  25
+ID  Neolacto-series glycosphingolipids biosynthesis
+RQ  0
+EV  GenProp1539;
+--
+SN  26
+ID  Sphingolipid biosynthesis (mammals)
+RQ  0
+EV  GenProp1665;
+--
+SN  27
+ID  Ceramide de novo biosynthesis
+RQ  0
+EV  GenProp1671;
+--
+SN  28
+ID  Ergosterol biosynthesis I
+RQ  0
+EV  GenProp1609;
+--
+SN  29
+ID  Zymosterol biosynthesis
+RQ  0
+EV  GenProp1246;
+--
+SN  30
+ID  Allopregnanolone biosynthesis
+RQ  0
+EV  GenProp1552;
+--
+SN  31
+ID  Sterol:steryl ester interconversion (yeast)
+RQ  0
+EV  GenProp1558;
+--
+SN  32
+ID  (Kdo)2-lipid A biosynthesis I
+RQ  0
+EV  GenProp1397;
+--
+SN  33
+ID  Sulfoquinovosyl diacylglycerol biosynthesis
+RQ  0
+EV  GenProp1546;
+--
+SN  34
+ID  Lipid A-core biosynthesis
+RQ  0
+EV  GenProp1651;
+--
+SN  35
+ID  Epoxysqualene biosynthesis
+RQ  0
+EV  GenProp1683;
+--
+SN  36
+ID  Superpathway of cholesterol biosynthesis
+RQ  0
+EV  GenProp1530;
+--
+SN  37
+ID  Superpathway of ergosterol biosynthesis I
+RQ  0
+EV  GenProp1594;
+--
+SN  38
+ID  Superpathway of lipopolysaccharide biosynthesis
+RQ  0
+EV  GenProp1647;
 //

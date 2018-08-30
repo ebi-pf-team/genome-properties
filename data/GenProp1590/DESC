@@ -1,0 +1,26 @@
+AC  GenProp1590
+DE  4-Amino-2-methyl-5-diphosphomethylpyrimidine biosynthesis
+TP  PATHWAY
+AU  Caspi R
+TH  0
+DC  4-Amino-2-methyl-5-diphosphomethylpyrimidine biosynthesis
+DR  MetaCyc; PWY-6890;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  HMP-P synthase
+DN  HMP-P synthase (EC 4.1.99.17)
+RQ  1
+EV  IPR002817; PF01964; sufficient;
+EV  IPR002817; TIGR00190; sufficient;
+--
+SN  2
+ID  Phosphomethylpyrimidine kinase
+DN  Phosphomethylpyrimidine kinase (EC 2.7.4.7)
+RQ  1
+EV  IPR004399; TIGR00097; sufficient;
+EV  IPR013749; PF08543; sufficient;
+//

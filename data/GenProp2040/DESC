@@ -1,6 +1,6 @@
 AC  GenProp2040
 DE  Mitochondrial inner membrane peptidase complex
-TP  SYSTEM
+TP  COMPLEX
 AU  Rawlings ND
 TH  1
 RN  [1]
@@ -15,11 +15,13 @@ RT  SOM 1, a small new gene required for mitochondrial inner
 RT  membrane peptidase function in Saccharomyces cerevisiae.
 RA  Esser K; Pratje E; Michaelis G;
 RL  Mol Gen Genet. 1996;252:437-445.
+DC  Protein export
+DR  KEGG; map03060;
 CC  The mitochondrial inner membrane peptidase (MIP) complex 
 CC  removes the N-terminal signal peptide from proteins that
 CC  are synthesized in the mitochondrial matrix but destined for
-CC  the inter-membrane space.  There are two subunits that have
-CC  proteolytic activity, IMP1 and IMP2 [1].  SOM1 is required
+CC  the inter-membrane space. There are two subunits that have
+CC  proteolytic activity, IMP1 and IMP2 [1]. SOM1 is required
 CC  for correct processing of cytochrome oxidase subunit 2 and 
 CC  cytochrome b2 [2].
 **  IMP1 is a serine endopeptidase (MEROPS identifier S26.002).
@@ -27,21 +29,21 @@ CC  cytochrome b2 [2].
 --
 SN  1
 ID  Mitochondrial inner membrane protease subunit 1
-DN  Mitochondrial inner membrane protease subunit 1/1
+DN  Mitochondrial inner membrane protease subunit 1
 RQ  1
 EV  IPR026730; PTHR12383:SF16; sufficient;
 TG  GO:0042720
 --
 SN  2
 ID  Mitochondrial inner membrane protease subunit 2
-DN  Mitochondrial inner membrane protease subunit 2/2
+DN  Mitochondrial inner membrane protease subunit 2
 RQ  1
 EV  IPR037730; PTHR12383:SF3; sufficient;
 TG  GO:0042720
 --
 SN  3
 ID  Protein SOM1, mitochondrial
-DN  Protein SOM1, mitochondrial/3
+DN  Mitochondrial export protein Som1 
 RQ  1
 EV  IPR024645; PF11093; sufficient;
 TG  GO:0042720

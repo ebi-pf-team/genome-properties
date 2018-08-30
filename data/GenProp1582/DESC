@@ -1,0 +1,28 @@
+AC  GenProp1582
+DE  Hydrogen to trimethylamine N-oxide electron transfer
+TP  PATHWAY
+AU  Mackie A
+TH  0
+DC  Hydrogen to trimethylamine N-oxide electron transfer
+DR  MetaCyc; PWY0-1578;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Menaquinone hydrogenase (acceptor)
+DN  Menaquinone hydrogenase (acceptor) (EC 1.12.99.6)
+RQ  1
+EV  IPR005614; PF03916; sufficient;
+EV  IPR001821; TIGR00391; sufficient;
+EV  IPR000516; TIGR02125; sufficient;
+--
+SN  2
+ID  Trimethylamine-N-oxide reductase (menaquinone)
+DN  Trimethylamine-N-oxide reductase (menaquinone) (EC 1.7.2.3)
+RQ  1
+EV  IPR009154; TIGR02162; sufficient;
+EV  IPR006658; TIGR00509; sufficient;
+EV  IPR011887; TIGR02164; sufficient;
+//

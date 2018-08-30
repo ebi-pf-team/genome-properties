@@ -1,0 +1,71 @@
+AC  GenProp2096
+DE  Insulin secretion via PKC
+TP  METAPATH
+AU  Rawlings ND
+TH  3
+RN  [1]
+RM  9914469
+RT  Molecular mechanisms and regulation of insulin 
+RT  exocytosis as a paradigm of endocrine secretion. 
+RA  Lang J; 
+RL  Eur J Biochem 1999;259:3-17.
+RN  [2]
+RM  3014651
+RT  Studies and perspectives of protein kinase C. 
+RA  Nishizuka Y; 
+RL  Science 1986;233:305-312.
+DC  Insulin secretion
+DR  KEGG; map04911;
+CC  Insulin is secreted by the pancreatic beta cells. Its
+CC  secretion can be stimulated by the import of glucose
+CC  via a surface transporter, and metabolism of glucose
+CC  increases intracellular ATP, inhibiting ATP-sensitive
+CC  potassium channels, causing an influx of calcium into
+CC  the cell [1]. Alternatively, there are surface 
+CC  receptors for acetylcholine, CCK and FA. Binding 
+CC  leads to activation of PLC, which generates the second 
+CC  messenger diacylglycerol, and PKC [2], followed by 
+CC  release of insulin from insulin secretory granules.
+**  SN1 IPR000596, IPR001183, IPR013313 in 1 other prop
+**  SN2 IPR000654 in 1 other prop
+**  SN4 IPR016280 in 1 other prop
+**  SN6 GenProp2097 in 4 other prop
+**  Threshold adjusted to allow for this
+--
+SN  1
+ID  Cholecystokinin/acetylcholine/free fatty acid receptor
+DN  Cholecystokinin/acetylcholine/free fatty acid receptor (CCKAR/CHRM3/FFAR1)
+RQ  1
+EV  IPR000596; PR00524; sufficient;
+EV  IPR001183; PR00540; sufficient;
+EV  IPR001183; cd15299; sufficient;
+EV  IPR013313; PR01905; sufficient;
+EV  IPR013313; cd15169; sufficient;
+TG  GO:0007186;
+--
+SN  2
+ID  Guanine nucleotide-binding protein subunit alpha-11/G(q) subunit alpha
+DN  Guanine nucleotide-binding protein subunit alpha-11 (GNA11)/Guanine nucleotide-binding protein G(q) subunit alpha (GNAQ)
+RQ  1
+EV  IPR000654; PR00442; sufficient;
+TG  GO:0001664;
+--
+SN  4
+ID  1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta
+DN  1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta (PLCB1, PLCB2, PLCB3, PLCB4) (EC 3.1.4.11)
+RQ  1
+EV  IPR016280; PIRSF000956; sufficient;
+TG  GO:0004435;
+--
+SN  5
+ID  Protein kinase C
+DN  Protein kinase C (PRKCA, PRKCB, PRKCG) (EC 2.7.11.13)
+RQ  1
+EV  IPR014375; PIRSF000550; sufficient;
+TG  GO:0004697;
+--
+SN  6
+ID  Insulin release from secretory granules
+RQ  1
+EV  GenProp2097;
+//

@@ -1,0 +1,45 @@
+AC  GenProp1143
+DE  Plasma membrane fumarate reductase complex
+TP  COMPLEX
+AU  Complex Portal
+TH  3
+DR  Complex Portal; CPX-1967;
+CC  Catalyzes the terminal step of anaerobic respiration. Electrons are
+CC  donated to membrane-bound subunits FrdC and FrdD by 2 quinol
+CC  (hydroquinone) molecules and transferred to a flavin adenine nucleotide
+CC  (FAD, covalently-bound to subunit FrdA) through three distinct Fe-S
+CC  clusters (within subunit FrdB). Ultimately, the electrons are used to
+CC  reduce FAD-bound fumarate to succinate. Electrons can also be
+CC  transported in the opposite direction where they are donated by
+CC  succinate and ultimately reduce quinone to quinol. Member of the Complex
+CC  II family. The functionally inverse complex found in aerobic
+CC  respiration is the SQR complex (CPX-1931).
+--
+SN  1
+ID  Fumarate reductase flavoprotein subunit
+RQ  1
+EV  IPR005884; TIGR01176; sufficient;
+--
+SN  2
+ID  Fumarate reductase iron-sulfur subunit
+RQ  1
+EV  IPR004489; TIGR00384; sufficient;
+--
+SN  3
+ID  Fumarate reductase subunit D
+RQ  1
+EV  IPR003418; MF_00709; sufficient;
+EV  IPR003418; PD015693; sufficient;
+EV  IPR003418; PF02313; sufficient;
+EV  IPR003418; PIRSF000179; sufficient;
+EV  IPR003418; cd00547; sufficient;
+--
+SN  4
+ID  Fumarate reductase subunit C
+RQ  1
+EV  IPR003510; MF_00708; sufficient;
+EV  IPR003510; PD015900; sufficient;
+EV  IPR003510; PF02300; sufficient;
+EV  IPR003510; PIRSF000180; sufficient;
+EV  IPR003510; cd00546; sufficient;
+//

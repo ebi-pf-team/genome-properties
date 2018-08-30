@@ -1,0 +1,29 @@
+AC  GenProp1226
+DE  Pyruvate fermentation to ethanol II
+TP  PATHWAY
+AU  Caspi R
+TH  0
+DC  Pyruvate fermentation to ethanol II
+DR  MetaCyc; PWY-5486;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Alcohol dehydrogenase
+DN  Alcohol dehydrogenase (EC 1.1.1.1)
+RQ  1
+EV  IPR013149; PF00107; sufficient;
+EV  IPR013154; PF08240; sufficient;
+EV  IPR001670; PF00465; sufficient;
+EV  IPR015590; PF00171; sufficient;
+--
+SN  2
+ID  Pyruvate decarboxylase
+DN  Pyruvate decarboxylase (EC 4.1.1.1)
+RQ  1
+EV  IPR011766; PF02775; sufficient;
+EV  IPR012000; PF00205; sufficient;
+EV  IPR012001; PF02776; sufficient;
+//

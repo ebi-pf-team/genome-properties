@@ -1,0 +1,35 @@
+AC  GenProp1431
+DE  L-arginine degradation IV (arginine decarboxylase/agmatine deiminase pathway)
+TP  PATHWAY
+AU  Caspi R, Ying H
+TH  1
+DC  L-arginine degradation IV (arginine decarboxylase/agmatine deiminase
+DC  pathway)
+DR  MetaCyc; ARGDEG-III-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Agmatine deiminase
+DN  Agmatine deiminase (EC 3.5.3.12)
+RQ  1
+EV  IPR007466; PF04371; sufficient;
+EV  IPR017754; TIGR03380; sufficient;
+--
+SN  2
+ID  Arginine decarboxylase
+DN  Arginine decarboxylase (EC 4.1.1.19)
+RQ  1
+EV  IPR002985; TIGR01273; sufficient;
+EV  IPR022643; PF00278; sufficient;
+EV  IPR022644; PF02784; sufficient;
+--
+SN  3
+ID  N-carbamolyputrescine amidohydrolase
+DN  N-carbamolyputrescine amidohydrolase (EC 3.5.1.53)
+RQ  1
+EV  IPR003010; PF00795; sufficient;
+EV  IPR017755; TIGR03381; sufficient;
+//

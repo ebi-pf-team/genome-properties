@@ -1,0 +1,26 @@
+AC  GenProp1263
+DE  Methylglyoxal degradation III
+TP  PATHWAY
+AU  Caspi R
+TH  0
+DC  Methylglyoxal degradation III
+DR  MetaCyc; PWY-5453;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  L-1,2-propanediol dehydrogenase
+DN  L-1,2-propanediol dehydrogenase
+RQ  1
+EV  IPR023210; PF00248; sufficient;
+EV  IPR001670; PF00465; sufficient;
+--
+SN  2
+ID  Methylglyoxal reductase
+DN  Methylglyoxal reductase (EC 1.1.1)
+RQ  1
+EV  IPR023210; PF00248; sufficient;
+EV  IPR001670; PF00465; sufficient;
+//

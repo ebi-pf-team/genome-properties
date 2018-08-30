@@ -1,0 +1,24 @@
+AC  GenProp1409
+DE  Bis(guanylyl molybdenum cofactor) biosynthesis
+TP  PATHWAY
+AU  Caspi R
+TH  0
+DC  Bis(guanylyl molybdenum cofactor) biosynthesis
+DR  MetaCyc; PWY-7639;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Bis(molybdenum cofactor) guanylyltransferase
+DN  Bis(molybdenum cofactor) guanylyltransferase (EC 2.7.7.77)
+RQ  1
+EV  IPR013482; TIGR02665; sufficient;
+--
+SN  2
+ID  Bis(molybdenum cofactor) synthase
+DN  Bis(molybdenum cofactor) synthase
+RQ  1
+EV  IPR013482; TIGR02665; sufficient;
+//

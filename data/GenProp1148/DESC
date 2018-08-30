@@ -1,0 +1,27 @@
+AC  GenProp1148
+DE  DMSO reductase complex
+TP  COMPLEX
+AU  Complex Portal
+TH  2
+DR  Complex Portal; CPX-320;
+CC  Terminal reductase required for the reduction of dimethyl sulfoxide
+CC  (DMSO) to dimethyl sulfide (DMS) and that of a broad array of S- and
+CC  N-oxide compounds during anaerobic growth. Induced in the presence of
+CC  fumarate. The expression of the enzyme is dependent on molybdenum.
+--
+SN  1
+ID  Dimethyl sulfoxide reductase DmsA
+RQ  1
+EV  IPR011888; TIGR02166; sufficient;
+--
+SN  2
+ID  Anaerobic dimethyl sulfoxide reductase chain B
+RQ  1
+EV  IPR014297; TIGR02951; sufficient;
+--
+SN  3
+ID  Anaerobic dimethyl sulfoxide reductase chain C
+RQ  1
+EV  IPR007059; PF04976; sufficient;
+EV  IPR007059; PTHR38095; sufficient;
+//

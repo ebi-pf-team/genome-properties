@@ -1,0 +1,30 @@
+AC  GenProp1269
+DE  Pyruvate to cytochrome bd oxidase electron transfer
+TP  PATHWAY
+AU  Mackie A
+TH  0
+DC  Pyruvate to cytochrome bd oxidase electron transfer
+DR  MetaCyc; PWY-7545;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Pyruvate oxidase
+DN  Pyruvate oxidase (EC 1.2.5.1)
+RQ  1
+EV  IPR011766; PF02775; sufficient;
+EV  IPR012000; PF00205; sufficient;
+EV  IPR012001; PF02776; sufficient;
+--
+SN  2
+ID  Cytochrome bd-I ubiquinol oxidase
+DN  Cytochrome bd-I ubiquinol oxidase (EC 1.10.3.14)
+RQ  1
+EV  IPR002585; PF01654; sufficient;
+EV  IPR003317; PF02322; sufficient;
+EV  IPR003317; TIGR00203; sufficient;
+EV  IPR011724; TIGR02106; sufficient;
+EV  IPR012994; PF08173; sufficient;
+//

@@ -1,0 +1,25 @@
+AC  GenProp1186
+DE  DnaA-Hda complex
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+DR  Complex Portal; CPX-1945;
+CC  Role in chromosonal replication. DnaA-ATP-hydrolysis at oriC results in
+CC  replication initiation. Hda protein binds to inactive DnaA-ADP thereby
+CC  inhibiting multiple events of replication initiation in one replication
+CC  cycle. Although Hda can bind DnaA-ATP it has a far greater affinity for
+CC  DnaA-ADP. This prevents the DnaA from swapping ADP for ATP prior to the
+CC  completion of the current replication cycle.
+--
+SN  1
+ID  DnaA regulatory inactivator Hda
+RQ  1
+EV  IPR017788; TIGR03420; sufficient;
+--
+SN  2
+ID  Chromosomal replication initiator protein DnaA
+RQ  1
+EV  IPR001957; MF_00377; sufficient;
+EV  IPR001957; PTHR30050:SF2; sufficient;
+EV  IPR001957; TIGR00362; sufficient;
+//

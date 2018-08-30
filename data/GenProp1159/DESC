@@ -1,0 +1,40 @@
+AC  GenProp1159
+DE  Enzyme IIA-maltose transporter complex
+TP  COMPLEX
+AU  Complex Portal
+TH  3
+DR  Complex Portal; CPX-1978;
+CC  Binding of enzyme IIA (EIIA-Glc), a component of the glucose-specific
+CC  phosphotransferase system, inhibits maltose transport from the
+CC  periplasm to the cytoplasm. Two molecules of EIIA-Glc each bind
+CC  allosterically to both subunits of MalK thereby fastening the maltose
+CC  transporter in the open, inward-facing conformation which prevents the
+CC  binding of maltose-loaded maltose binding protein MBP (MalE)
+CC  (CPX-1932). Only the non-phosphorylated form of enzyme IIA functions
+CC  as a maltose uptake inhibitor.
+--
+SN  1
+ID  Maltose transport system permease protein MalF
+RQ  1
+EV  IPR030156; PTHR30193:SF22; sufficient;
+--
+SN  2
+ID  Maltose transport system permease protein MalG
+RQ  1
+EV  IPR000515; PF00528; sufficient;
+EV  IPR000515; PS50928; sufficient;
+EV  IPR000515; cd06261; sufficient;
+--
+SN  3
+ID  PTS system glucose-specific EIIA component
+RQ  1
+EV  IPR001127; PF00358; sufficient;
+EV  IPR001127; PS00371; sufficient;
+EV  IPR001127; PS51093; sufficient;
+EV  IPR001127; TIGR00830; sufficient;
+--
+SN  4
+ID  Maltose/maltodextrin import ATP-binding protein MalK
+RQ  1
+EV  IPR015855; PS51245; sufficient;
+//

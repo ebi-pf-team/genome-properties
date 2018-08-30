@@ -1,0 +1,38 @@
+AC  GenProp1772
+DE  Fatty acid degradation
+TP  CATEGORY
+AU  Richardson L
+TH  0
+CC  The chemical reactions and pathways resulting in the breakdown of 
+CC  fatty acids.
+--
+SN  1
+ID  Fatty acid beta-oxidation VI (peroxisome)
+RQ  0
+EV  GenProp1308;
+--
+SN  2
+ID  Oleate beta-oxidation
+RQ  0
+EV  GenProp1486;
+--
+SN  3
+ID  Oleate beta-oxidation (thioesterase-dependent, yeast)
+RQ  0
+EV  GenProp1488;
+--
+SN  4
+ID  Fatty acid beta-oxidation II (peroxisome)
+RQ  0
+EV  GenProp1510;
+--
+SN  5
+ID  Fatty acid beta-oxidation (peroxisome, yeast)
+RQ  0
+EV  GenProp1544;
+--
+SN  6
+ID  Fatty acid beta-oxidation I
+RQ  0
+EV  GenProp1717;
+//

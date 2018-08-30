@@ -1,0 +1,83 @@
+AC  GenProp2087
+DE  Proglucagon activation
+TP  METAPATH
+AU  Rawlings ND
+TH  4
+RN  [1]
+RM  2901414
+RT  Glucagon gene expression in vertebrate brain. 
+RA  Drucker DJ; Asa S; 
+RL  J Biol Chem 1988;263:13475-13478.
+RN  [2]
+RM  12651102
+RT  Expression, purification, and PC1-mediated processing of 
+RT  human proglucagon, glicentin, and major proglucagon 
+RT  fragment. 
+RA  Bonic A; Mackin RB; 
+RL  Protein Expr Purif 2003;28:15-24.
+RN  [3]
+RM  9287128
+RT  Role of the prohormone convertase PC2 in the processing 
+RT  of proglucagon to glucagon. 
+RA  Rouillé Y; Bianchi M; Irminger JC; Halban PA; 
+RL  FEBS Lett 1997;413:119-123.
+RN  [4]
+RM  11375130
+RT  Attenuated processing of proglucagon and glucagon-like 
+RT  peptide-1 in carboxypeptidase E-deficient mice. 
+RA  Friis-Hansen L; Lacourse KA; Samuelson LC; Holst JJ; 
+RL  J Endocrinol 2001;169:595-602.
+CC  Glucagon is synthesized as a precursor [1]. It is 
+CC  processed to generate glicentin, oxyntomodulin, 
+CC  glucagon and glucagon-like peptides 1 and 2. Processing 
+CC  occurs at dibasic residues [2,3] and the C-terminal 
+CC  dibasics are removed sequentially by a carboxypeptidase 
+CC  [4].
+**  The signal peptidase complex MEROPS XS26.001.
+**  Neuroendocrine convertase 1 (PCSK1) is MEROPS S08.072.
+**  Neuroendocrine convertase 1 (PCSK2) is MEROPS S08.073
+**  Carboxypeptidase E is MEROPS M14.005.
+**  IPR015550 (SN1) is found in 1 other propery
+**  GenProp2038 (SN2) is found in 1 other property
+**  IPR022005 (SN3) is found in 1 other property
+**  IPR034232 (SN5) is found in 1 other property
+**  Threshold adjusted to account for this
+--
+SN  1
+ID  Proglucagon
+DN  Glucagon
+RQ  1
+EV  IPR015550; PTHR11418; sufficient;
+TG  GO:0005179;
+--
+SN  2
+ID  Microsomal signal peptidase complex
+RQ  1
+EV  GenProp2038;
+TG  GO:0005787;
+TG  GO:0006465;
+--
+SN  3
+ID  Neuroendocrine convertase 1
+DN  Prohormone convertase enzyme (EC 3.4.21.93)
+RQ  1
+EV  IPR022005; PF12177; sufficient;
+TG  GO:0004252;
+TG  GO:0016486;
+--
+SN  4
+ID  Neuroendocrine convertase 2
+DN  Kexin/furin catalytic domain (EC 3.4.21.94)
+RQ  1
+EV  IPR034182; cd04059; sufficient;
+TG  GO:0004252;
+TG  GO:0016486;
+--
+SN  5
+ID  Carboxypeptidase E
+DN  Carboxypeptidase E, carboxypeptidase domain (EC 3.4.17.10)
+RQ  1
+EV  IPR034232; cd03865; sufficient;
+TG  GO:0004181;
+TG  GO:0007218;
+//

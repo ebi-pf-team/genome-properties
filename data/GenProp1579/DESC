@@ -1,0 +1,25 @@
+AC  GenProp1579
+DE  4-Aminobutanoate degradation II
+TP  PATHWAY
+AU  Caspi R, Hong E
+TH  0
+DC  4-Aminobutanoate degradation II
+DR  MetaCyc; PWY-6537;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  4-Aminobutyrate aminotransferase
+DN  4-Aminobutyrate aminotransferase (EC 2.6.1.19)
+RQ  1
+EV  IPR004632; TIGR00700; sufficient;
+EV  IPR005814; PF00202; sufficient;
+--
+SN  2
+ID  Succinate-semialdehyde dehydrogenase (NADP+)
+DN  Succinate-semialdehyde dehydrogenase (NADP+) (EC 1.2.1.79)
+RQ  1
+EV  IPR010102; TIGR01780; sufficient;
+//

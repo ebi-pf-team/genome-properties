@@ -1,0 +1,33 @@
+AC  GenProp1471
+DE  Beta-caryophyllene biosynthesis
+TP  PATHWAY
+AU  Pujar A
+TH  1
+DC  Beta-caryophyllene biosynthesis
+DR  MetaCyc; PWY-6275;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  (E)-beta-caryophyllene synthase
+DN  (E)-beta-caryophyllene synthase (EC 4.2.3.57)
+RQ  1
+EV  IPR001906; PF01397; sufficient;
+EV  IPR005630; PF03936; sufficient;
+--
+SN  2
+ID  Alpha-humulene synthase
+DN  Alpha-humulene synthase (EC 4.2.3.104)
+RQ  1
+EV  IPR001906; PF01397; sufficient;
+EV  IPR005630; PF03936; sufficient;
+--
+SN  3
+ID  Beta-elemene synthase
+DN  Beta-elemene synthase (EC 4.2.3)
+RQ  1
+EV  IPR001906; PF01397; sufficient;
+EV  IPR005630; PF03936; sufficient;
+//

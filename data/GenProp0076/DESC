@@ -45,4 +45,99 @@ SN  8
 ID  Competence-related genes
 RQ  0
 EV  GenProp0311;
+--
+SN  9
+ID  Transcription
+RQ  0
+EV  GenProp1214;
+--
+SN  10
+ID  DNA polymerase III clamp loader chi-psi subcomplex
+RQ  0
+EV  GenProp1117;
+--
+SN  11
+ID  Topoisomerase IV
+RQ  0
+EV  GenProp1149;
+--
+SN  12
+ID  DnaA-DnaB complex
+RQ  0
+EV  GenProp1152;
+--
+SN  13
+ID  DNA polymerase III proofreading complex
+RQ  0
+EV  GenProp1155;
+--
+SN  14
+ID  GyrA-GyrB complex
+RQ  0
+EV  GenProp1178;
+--
+SN  15
+ID  SAGA-like (SLIK) complex
+RQ  0
+EV  GenProp2052;
+--
+SN  16
+ID  TFIID complex
+RQ  0
+EV  GenProp2054;
+--
+SN  17
+ID  ADA complex
+RQ  0
+EV  GenProp2055;
+--
+SN  18
+ID  TFTC-HAT complex
+RQ  0
+EV  GenProp2057;
+--
+SN  19
+ID  Set1B histone H3-Lys4 methyltransferase complex
+RQ  0
+EV  GenProp2059;
+--
+SN  20
+ID  COMPASS methyltransferase complex
+RQ  0
+EV  GenProp2060;
+--
+SN  21
+ID  NSL complex
+RQ  0
+EV  GenProp2063;
+--
+SN  22
+ID  MSL complex
+RQ  0
+EV  GenProp2064;
+--
+SN  23
+ID  RuvB-like helicase
+RQ  0
+EV  GenProp2066;
+--
+SN  24
+ID  MLL-HCF complex
+RQ  0
+EV  GenProp2067;
+--
+SN  25
+ID  THAP1/THAP3-HCFC1-OGT complex
+RQ  0
+EV  GenProp2069;
+--
+SN  26
+ID  npBAF complex
+RQ  0
+EV  GenProp2081;
+--
+SN  27
+ID  SWI/SNF complex
+RQ  0
+EV  GenProp2084;
 //

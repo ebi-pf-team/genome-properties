@@ -25,4 +25,34 @@ SN  4
 ID  Citrate lyase system
 RQ  0
 EV  GenProp0672;
+--
+SN  5
+ID  Pyruvate fermentation to acetoin III
+RQ  0
+EV  GenProp1485;
+--
+SN  6
+ID  Pyruvate fermentation to ethanol II
+RQ  0
+EV  GenProp1226;
+--
+SN  7
+ID  Mixed acid fermentation
+RQ  0
+EV  GenProp1267;
+--
+SN  8
+ID  Pyruvate fermentation to ethanol I
+RQ  0
+EV  GenProp1425;
+--
+SN  9
+ID  Pyruvate fermentation to isobutanol (engineered)
+RQ  0
+EV  GenProp1342;
+--
+SN  10
+ID  Homolactic fermentation
+RQ  0
+EV  GenProp1580;
 //

@@ -1,0 +1,30 @@
+AC  GenProp1241
+DE  Wybutosine biosynthesis
+TP  PATHWAY
+AU  Caspi R
+TH  1
+DC  Wybutosine biosynthesis
+DR  MetaCyc; PWY-7283;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  tRNA(Phe) 7-[(3-amino-3-carboxypropyl)-4-demethylwyosine37-N4]-methyltransferase
+DN  tRNA(Phe) 7-[(3-amino-3-carboxypropyl)-4-demethylwyosine37-N4]-methyltransferase (EC 2.1.1.282)
+RQ  1
+EV  IPR003827; PF02676; sufficient;
+--
+SN  2
+ID  7-(3-Amino-3-methylcarboxypropyl)-wyosine carboxycarbonylase
+DN  7-(3-Amino-3-methylcarboxypropyl)-wyosine carboxycarbonylase (EC 2.3.1.231)
+RQ  1
+EV  IPR007213; PF04072; sufficient;
+--
+SN  3
+ID  7-(3-Amino-3-carboxypropyl)-wyosine methyltransferase
+DN  7-(3-Amino-3-carboxypropyl)-wyosine methyltransferase (EC 2.1.1.290)
+RQ  1
+EV  IPR007213; PF04072; sufficient;
+//

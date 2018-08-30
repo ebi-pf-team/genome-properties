@@ -1,6 +1,6 @@
 AC  GenProp2044
 DE  XPC complex
-TP  SYSTEM
+TP  COMPLEX
 AU  Rawlings ND
 TH  1
 RN  [1]
@@ -14,35 +14,37 @@ RL  J Biol Chem. 2001;276:18665-18672.
 RN  [2]
 RM  16627479
 RT  The structure of the human centrin 2-xeroderma pigmentosum group 
-RT  C protein complex..
+RT  C protein complex.
 RA  Thompson JR; Ryan ZC; Salisbury JL; Kumar R;
 RL  J Biol Chem. 2006;281:18746-18752.
+DC  Nucleotide excision repair
+DR  KEGG; map03420;
 CC  The XPC complex recognizes damaged DNA which is required for 
-CC  global genome nucleotide excision repair [1].  Once XPC 
+CC  global genome nucleotide excision repair [1]. Once XPC 
 CC  has interacted with unpaired bases on the undamaged DNA strand, 
 CC  the TFIH complex is recruited to find lesions on the opposite 
-CC  strand.  The XPC complex is composed of XPC, RAD23B and CETN2 
+CC  strand. The XPC complex is composed of XPC, RAD23B and CETN2 
 CC  [2].
 **  Evidence for step 3 is also used in GP2042 and GP2045.
 --
 SN  1
 ID  DNA repair protein complementing XP-C cells
-DN  DNA repair protein complementing XP-C cells/1
+DN  DNA repair protein Rad4, subgroup 
 RQ  1
 EV  IPR018026; TIGR00605; sufficient;
 TG  GO:0000715;
 --
 SN  2
 ID  UV excision repair protein RAD23 homolog B
-DN  UV excision repair protein RAD23 homolog B/2
+DN  UV excision repair protein Rad23 
 RQ  1
 EV  IPR004806; TIGR00601; sufficient;
 TG  GO:0000715;
 --
 SN  3
 ID  Centrin-2
-DN  Centrin-2/3
+DN  Centrin-2
 RQ  1
-EV  IPR037629; PTHR23050:SF305; sufficient;
+EV  -; PTHR23050:SF305; sufficient;
 TG  GO:0000715;
 //

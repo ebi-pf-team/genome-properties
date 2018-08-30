@@ -27,7 +27,7 @@ EV  GenProp2070;
 --
 SN  2
 ID  Paired amphipathic helix protein Sin3a
-DN  Paired amphipathic helix protein Sin3a /2
+DN  Paired amphipathic helix protein Sin3a
 RQ  1
 EV  IPR037969; PTHR12346:SF2; sufficient;
 TG  GO:0003714;
@@ -35,7 +35,7 @@ TG  GO:0016580;
 --
 SN  3
 ID  Sin3 histone deacetylase corepressor complex component SDS3 (SUDS3)
-DN  Sin3 histone deacetylase corepressor complex component SDS3 /3
+DN  Sin3 histone deacetylase corepressor complex component SDS3
 RQ  1
 EV  IPR013907; PF08598; sufficient;
 EV  IPR013907; PTHR21964; sufficient;

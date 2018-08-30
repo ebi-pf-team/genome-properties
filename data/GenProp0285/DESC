@@ -44,12 +44,6 @@ DN  Flagellar post-translational modification components/modif
 RQ  0
 EV  GenProp0885;
 --
-SN  6
-ID  Flagellar operon proteins found in restricted phylogenetic ranges
-DN  Flagellar operon proteins found in restricted phylogenetic ranges/narrow
-RQ  0
-EV  GenProp0887;
---
 SN  7
 ID  Flagellar regulation systems
 DN  Flagellar regulation systems/regulat

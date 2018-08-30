@@ -1,0 +1,36 @@
+AC  GenProp1434
+DE  Putrescine degradation II
+TP  PATHWAY
+AU  Keseler I, Caspi R
+TH  2
+DC  Putrescine degradation II
+DR  MetaCyc; PWY0-1221;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Glutamate-putrescine ligase
+DN  Glutamate-putrescine ligase (EC 6.3.1.11)
+RQ  1
+EV  IPR008146; PF00120; sufficient;
+--
+SN  2
+ID  Gamma-glutamylputrescine oxidase
+DN  Gamma-glutamylputrescine oxidase (EC 1.4.3.M3)
+RQ  1
+EV  IPR006076; PF01266; sufficient;
+--
+SN  3
+ID  Gamma-glutamyl-gamma-aminobutyraldehyde dehydrogenase
+DN  Gamma-glutamyl-gamma-aminobutyraldehyde dehydrogenase (EC 1.2.1.99)
+RQ  1
+EV  IPR015590; PF00171; sufficient;
+--
+SN  4
+ID  Gamma-glutamyl-gamma-aminobutyrate hydrolase
+DN  Gamma-glutamyl-gamma-aminobutyrate hydrolase (EC 3.5.1.94)
+RQ  1
+EV  IPR011697; PF07722; sufficient;
+//

@@ -1,0 +1,48 @@
+AC  GenProp1250
+DE  Aspartate superpathway
+TP  PATHWAY
+AU  Caspi R
+TH  4
+DC  Aspartate superpathway
+DR  MetaCyc; PWY0-781;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Aspartate aminotransferase
+DN  Aspartate aminotransferase (EC 2.6.1.1)
+RQ  1
+EV  IPR004839; PF00155; sufficient;
+--
+SN  2
+ID  Aspartate kinase
+DN  Aspartate kinase (EC 2.7.2.4)
+RQ  1
+EV  IPR005260; TIGR00656; sufficient;
+--
+SN  3
+ID  Cobalamin-independent homocysteine transmethylase
+DN  Cobalamin-independent homocysteine transmethylase (EC 2.1.1.14)
+RQ  1
+EV  IPR006276; TIGR01371; sufficient;
+--
+SN  4
+ID  Methionine synthase
+DN  Methionine synthase (EC 2.1.1.13)
+RQ  1
+EV  IPR011822; TIGR02082; sufficient;
+--
+SN  5
+ID  L-aspartate oxidase
+DN  L-aspartate oxidase (EC 1.4.3.16)
+RQ  1
+EV  IPR005288; TIGR00551; sufficient;
+--
+SN  6
+ID  Methionine adenosyltransferase
+DN  Methionine adenosyltransferase (EC 2.5.1.6)
+RQ  1
+EV  IPR002133; TIGR01034; sufficient;
+//

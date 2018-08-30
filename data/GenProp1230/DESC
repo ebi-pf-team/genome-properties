@@ -1,0 +1,41 @@
+AC  GenProp1230
+DE  Aerobic respiration III (alternative oxidase pathway)
+TP  PATHWAY
+AU  N/A
+TH  0
+DC  Aerobic respiration III (alternative oxidase pathway)
+DR  MetaCyc; PWY-4302;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  NADH dehydrogenase
+DN  NADH dehydrogenase (EC 1.6.5.3)
+RQ  1
+EV  IPR010226; TIGR01971; sufficient;
+EV  IPR008698; PF05676; sufficient;
+EV  IPR009346; PF06212; sufficient;
+EV  IPR019329; PF10183; sufficient;
+EV  IPR019342; PF10200; sufficient;
+EV  IPR007763; PF05071; sufficient;
+EV  IPR017384; PF15879; sufficient;
+EV  IPR010029; TIGR01676; sufficient;
+EV  IPR002023; TIGR01958; sufficient;
+EV  IPR011537; TIGR01959; sufficient;
+EV  IPR006138; TIGR01957; sufficient;
+EV  IPR010228; TIGR01973; sufficient;
+EV  IPR006806; PF04716; sufficient;
+EV  IPR006885; PF04800; sufficient;
+EV  IPR010218; TIGR01961; sufficient;
+EV  IPR022885; TIGR01962; sufficient;
+EV  IPR003945; TIGR01974; sufficient;
+EV  IPR001694; PF00146; sufficient;
+--
+SN  2
+ID  Ubiquinol:oxygen oxidoreductase
+DN  Ubiquinol:oxygen oxidoreductase (EC 1.10.3.11)
+RQ  1
+EV  IPR002680; PF01786; sufficient;
+//

@@ -1,0 +1,72 @@
+AC  GenProp1217
+DE  Superpathway of steroid hormone biosynthesis
+TP  PATHWAY
+AU  Caspi R
+TH  8
+DC  Superpathway of steroid hormone biosynthesis
+DR  MetaCyc; PWY-7305;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Androstenedione reductase
+DN  Androstenedione reductase (EC 1.1.1.64)
+RQ  1
+EV  IPR002347; PF00106; sufficient;
+--
+SN  2
+ID  20-Alpha-22-beta-dihydroxycholesterol side-chain lyase
+DN  20-Alpha-22-beta-dihydroxycholesterol side-chain lyase
+RQ  1
+EV  IPR001128; PF00067; sufficient;
+--
+SN  3
+ID  Pregnenolone 17-alpha-hydroxylase
+DN  Pregnenolone 17-alpha-hydroxylase (EC 1.14.14.19)
+RQ  1
+EV  IPR001128; PF00067; sufficient;
+--
+SN  4
+ID  Androstenedione 19-hydroxylase
+DN  Androstenedione 19-hydroxylase
+RQ  1
+EV  IPR001128; PF00067; sufficient;
+--
+SN  5
+ID  Testosterone 19-hydroxylase
+DN  Testosterone 19-hydroxylase
+RQ  1
+EV  IPR001128; PF00067; sufficient;
+--
+SN  6
+ID  Pregnenolone dehydrogenase
+DN  Pregnenolone dehydrogenase (EC 1.1.1.145)
+RQ  1
+EV  IPR002225; PF01073; sufficient;
+--
+SN  7
+ID  Preg-5-en-3,20-dione isomerase
+DN  Preg-5-en-3,20-dione isomerase (EC 5.3.3.1)
+RQ  1
+EV  IPR002225; PF01073; sufficient;
+--
+SN  8
+ID  Progesterone 17-hydroxylase
+DN  Progesterone 17-hydroxylase (EC 1.14.14.19)
+RQ  1
+EV  IPR001128; PF00067; sufficient;
+--
+SN  9
+ID  Progesterone 21-hydroxylase
+DN  Progesterone 21-hydroxylase (EC 1.14.13)
+RQ  1
+EV  IPR001128; PF00067; sufficient;
+--
+SN  10
+ID  Androstenedione isomerase
+DN  Androstenedione isomerase (EC 5.3.3.1)
+RQ  1
+EV  IPR002225; PF01073; sufficient;
+//

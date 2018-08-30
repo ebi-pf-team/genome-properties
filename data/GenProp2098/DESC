@@ -1,0 +1,87 @@
+AC  GenProp2098
+DE  Insulin secretion via IP3
+TP  METAPATH
+AU  Rawlings ND
+TH  5
+RN  [1]
+RM  9914469
+RT  Molecular mechanisms and regulation of insulin 
+RT  exocytosis as a paradigm of endocrine secretion. 
+RA  Lang J; 
+RL  Eur J Biochem 1999;259:3-17.
+RN  [2]
+RM  2541501
+RT  Studies of inositol phospholipid-specific phospholipase
+RT  C. 
+RA  Rhee SG; Suh PG; Ryu SH; Lee SY; 
+RL  Science 1989;244:546-550.
+DC  Insulin secretion
+DR  KEGG; map04911;
+CC  Insulin is secreted by the pancreatic beta cells. Its
+CC  secretion can be stimulated by the import of glucose
+CC  via a surface transporter, and metabolism of glucose
+CC  increases intracellular ATP, inhibiting ATP-sensitive
+CC  potassium channels, causing an influx of calcium into
+CC  the cell [1].  Alternatively, there are surface 
+CC  receptors for acetylcholine, CCK and FA.  Binding 
+CC  leads to activation of PLC, which generates the second 
+CC  messenger inositol 1,4,5-trisphosphate (IP3) [2].  The 
+CC  binding of IP3 to a receptor of the endoplasmic 
+CC  reticulum surface, leads to calcium release into the
+CC  cyoplasm and activation of CAMK.  This leads to release
+CC  of insulin from insulin secretory granules.
+**  The KEGG pathway shows release of calcium via the ER by
+**  ryanodine receptor 2, but the SwissProt entry describes
+**  this receptor as restricted to cardiac muscle, not
+**  pancreatic beta cells.
+**  SN1 IPR000596, IPR001183, IPR013313 in 1 other prop
+**  SN2 IPR000654 in 1 other prop
+**  SN4 IPR016280 in 1 other prop
+**  SN6 IPR039071 in 2 other prop
+**  SN7 GenProp2097 in 4 other prop
+**  Threshold adjusted to allow for this
+--
+SN  1
+ID  Cholecystokinin/acetylcholine/free fatty acid receptor
+DN  Cholecystokinin/acetylcholine/free fatty acid receptor (CCKAR/CHRM3/FFAR1)
+RQ  1
+EV  IPR000596; PR00524; sufficient;
+EV  IPR001183; PR00540; sufficient;
+EV  IPR001183; cd15299; sufficient;
+EV  IPR013313; PR01905; sufficient;
+EV  IPR013313; cd15169; sufficient;
+TG  GO:0007186;
+--
+SN  2
+ID  Guanine nucleotide-binding protein subunit alpha-11/G(q) subunit alpha
+DN  Guanine nucleotide-binding protein subunit alpha-11 (GNA11)/Guanine nucleotide-binding protein G(q) subunit alpha (GNAQ)
+RQ  1
+EV  IPR000654; PR00442; sufficient;
+TG  GO:0001664;
+--
+SN  4
+ID  1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta
+DN  1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta (PLCB1, PLCB2, PLCB3, PLCB4) (EC 3.1.4.11)
+RQ  1
+EV  IPR016280; PIRSF000956; sufficient;
+TG  GO:0004435;
+--
+SN  5
+ID  Inositol 1,4,5-trisphosphate receptor type 3
+DN  Inositol 1,4,5-trisphosphate receptor type 3 (ITPR3)
+RQ  1
+EV  IPR000493; PR00779; sufficient;
+TG  GO:0000822;
+TG  GO:0005220;
+--
+SN  6
+ID  Calcium/calmodulin-dependent protein kinase type II
+DN  Calcium/calmodulin-dependent protein kinase type II (CAMK2A, CAMK2B, CAMK2D, CAMK2G)
+EV  IPR039071; PTHR43940; sufficient;
+TG  GO:0004683;
+--
+SN  7
+ID  Insulin release from secretory granules
+RQ  1
+EV  GenProp2097;
+//

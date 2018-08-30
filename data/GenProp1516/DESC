@@ -1,0 +1,30 @@
+AC  GenProp1516
+DE  Phosphatidylcholine biosynthesis V
+TP  PATHWAY
+AU  Fulcher C
+TH  1
+DC  Phosphatidylcholine biosynthesis V
+DR  MetaCyc; PWY-6825;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Phosphatidylethanolamine N-methyltransferase
+DN  Phosphatidylethanolamine N-methyltransferase (EC 2.1.1.17)
+RQ  1
+EV  IPR007318; PF04191; sufficient;
+--
+SN  2
+ID  Phosphatidyl-N-methylethanolamine N-methyltransferase
+DN  Phosphatidyl-N-methylethanolamine N-methyltransferase (EC 2.1.1.71)
+RQ  1
+EV  IPR007318; PF04191; sufficient;
+--
+SN  3
+ID  Phosphatidyl-N-dimethylethanolamine N-methyltransferase
+DN  Phosphatidyl-N-dimethylethanolamine N-methyltransferase (EC 2.1.1.71)
+RQ  1
+EV  IPR007318; PF04191; sufficient;
+//

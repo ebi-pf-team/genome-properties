@@ -1,0 +1,48 @@
+AC  GenProp1294
+DE  Pentose phosphate pathway (non-oxidative branch)
+TP  PATHWAY
+AU  Riley M, Ingraham J
+TH  3
+DC  Pentose phosphate pathway (non-oxidative branch)
+DR  MetaCyc; NONOXIPENT-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Transketolase
+DN  Transketolase (EC 2.2.1.1)
+RQ  1
+EV  IPR005478; TIGR00232; sufficient;
+--
+SN  2
+ID  Transketolase
+DN  Transketolase (EC 2.2.1.1)
+RQ  1
+EV  IPR005478; TIGR00232; sufficient;
+--
+SN  3
+ID  Ribose-5-phosphate isomerase A
+DN  Ribose-5-phosphate isomerase A (EC 5.3.1.6)
+RQ  1
+EV  IPR004788; PF06026; sufficient;
+EV  IPR004788; TIGR00021; sufficient;
+EV  IPR003500; PF02502; sufficient;
+EV  IPR003500; TIGR00689; sufficient;
+EV  IPR004785; TIGR01120; sufficient;
+--
+SN  4
+ID  Ribulose-phosphate 3-epimerase
+DN  Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+RQ  1
+EV  IPR000056; PF00834; sufficient;
+EV  IPR000056; TIGR01163; sufficient;
+--
+SN  5
+ID  Transaldolase
+DN  Transaldolase (EC 2.2.1.2)
+RQ  1
+EV  IPR001585; PF00923; sufficient;
+EV  IPR004730; TIGR00874; sufficient;
+//

@@ -38,42 +38,42 @@ TG  GO:0000124;
 --
 SN  2
 ID  Chromo domain-containing protein 1 
-DN  Chromo domain-containing protein 1 (EC 3.6.4.-)/2
+DN  Chromo domain-containing protein 1 (EC 3.6.4.-)/CHD1
 RQ  1
 EV  IPR037780; PTHR10799:SF838; sufficient;
 TG  GO:0000124;
 --
 SN  3
 ID  SAGA-associated factor 73
-DN  SAGA-associated factor 73/3
+DN  SAGA-associated factor 73/SGF73
 RQ  1
 EV  IPR037804; PTHR15117:SF11; sufficient;
 TG  GO:0000124;
 --
 SN  4
 ID  Transcription factor SPT8
-DN  Transcription factor SPT8/4
+DN  Transcription factor SPT8
 RQ  1
 EV  -; PTHR22847; sufficient;
 TG  GO:0000124;
 --
 SN  5
 ID  Ubiquitin carboxyl-terminal hydrolase 8
-DN  Ubiquitin carboxyl-terminal hydrolase 8 (EC 3.4.19.12)/5
+DN  Ubiquitin carboxyl-terminal hydrolase 8 (EC 3.4.19.12)/UBP8
 RQ  1
 EV  IPR037798; PTHR43961:SF2; sufficient;
 TG  GO:0000124;
 --
 SN  6
 ID  SAGA-associated factor 29
-DN  SAGA-associated factor 29/6
+DN  SAGA-associated factor 29/SGF29
 RQ  1
 EV  IPR037802; PTHR21539; sufficient;
 TG  GO:0000124;
 --
 SN  7
 ID  Transcription initiation factor TFIID subunit 10 
-DN  Transcription initiation factor TFIID subunit 10 /7
+DN  Transcription initiation factor TFIID subunit 10/TAF10
 RQ  1
 EV  IPR003923; PIRSF017246; sufficient;
 EV  IPR003923; PR01443; sufficient;
@@ -83,7 +83,7 @@ TG  GO:0000124;
 --
 SN  8
 ID  Transcription initiation factor TFIID subunit 9 
-DN  Transcription initiation factor TFIID subunit 9 /8
+DN  Transcription initiation factor TFIID subunit 9/TAF9
 RQ  1
 EV  IPR003162; PF02291; sufficient;
 EV  IPR003162; cd07979; sufficient;
@@ -91,7 +91,7 @@ TG  GO:0000124;
 --
 SN  9
 ID  SAGA-associated factor 11
-DN  SAGA-associated factor 11/9
+DN  SAGA-associated factor 11/SGF11
 RQ  1
 EV  IPR013246; MF_03047; sufficient;
 EV  IPR013246; PF08209; sufficient;
@@ -99,7 +99,7 @@ TG  GO:0000124;
 --
 SN  10
 ID  Transcription and mRNA export factor SUS1
-DN  Transcription and mRNA export factor SUS1/20
+DN  Transcription and mRNA export factor SUS1
 RQ  1
 EV  IPR018783; MF_03046; sufficient;
 EV  IPR018783; PF10163; sufficient;

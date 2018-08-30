@@ -1,0 +1,25 @@
+AC  GenProp1307
+DE  Superpathway of pyrimidine nucleobases salvage
+TP  PATHWAY
+AU  Caspi R
+TH  0
+DC  Superpathway of pyrimidine nucleobases salvage
+DR  MetaCyc; PWY-7208;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  UMP kinase
+DN  UMP kinase (EC 2.7.4.14)
+RQ  1
+EV  IPR006266; TIGR01359; sufficient;
+EV  IPR015963; TIGR02075; sufficient;
+--
+SN  2
+ID  Uracil phosphoribosyltransferase
+DN  Uracil phosphoribosyltransferase (EC 2.4.2.9)
+RQ  1
+EV  IPR005765; TIGR01091; sufficient;
+//

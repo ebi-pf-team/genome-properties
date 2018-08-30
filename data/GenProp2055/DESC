@@ -1,6 +1,6 @@
-AC  GenProp2053
+AC  GenProp2055
 DE  ADA complex
-TP  SYSTEM
+TP  COMPLEX
 AU  Rawlings ND
 TH  1
 RN  [1]
@@ -22,14 +22,14 @@ CC  ADA complex [1].
 --
 SN  1
 ID  Transcriptional adapter 2 (ADA2)
-DN  Transcriptional adapter 2 (ADA2)/1
+DN  Transcriptional adapter 2 (ADA2)
 RQ  1
 EV  IPR016827; PIRSF025024; sufficient;
 TG  GO:0000124;
 --
 SN  2
 ID  Chromatin-remodeling complexes subunit NGG1 (ADA3)
-DN  Chromatin-remodeling complexes subunit NGG1 (ADA3)/2
+DN  Histone acetyltransferases subunit 3 (ADA3)
 RQ  1
 EV  IPR019340; PTHR13556; sufficient;
 EV  IPR019340; PF10198; sufficient;
@@ -37,14 +37,13 @@ TG  GO:0000124;
 --
 SN  3
 ID  Protein AHC1
-DN  Protein AHC1/3
+DN  Protein AHC1
 RQ  1
 EV  IPR037807; PTHR13585:SF19; sufficient;
-TG  ;
 --
 SN  4
 ID  Histone acetyltransferase GCN5 
-DN  Histone acetyltransferase GCN5 (EC 2.3.1.48)/4
+DN  Histone acetyltransferase GCN5 (EC 2.3.1.48)
 RQ  1
 EV  IPR037800; PTHR22880:SF124; sufficient;
 TG  GO:0000124;

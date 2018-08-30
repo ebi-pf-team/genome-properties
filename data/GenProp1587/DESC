@@ -1,0 +1,25 @@
+AC  GenProp1587
+DE  Oleate biosynthesis II (animals and fungi)
+TP  PATHWAY
+AU  Caspi R
+TH  0
+DC  Oleate biosynthesis II (animals and fungi)
+DR  MetaCyc; PWY-5996;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Stearoyl-CoA 9-desaturase
+DN  Stearoyl-CoA 9-desaturase (EC 1.14.19.1)
+RQ  1
+EV  IPR005804; PF00487; sufficient;
+--
+SN  2
+ID  Oleoyl-CoA hydrolase
+DN  Oleoyl-CoA hydrolase (EC 3.1.2.2)
+RQ  1
+EV  IPR006862; PF04775; sufficient;
+EV  IPR014940; PF08840; sufficient;
+//

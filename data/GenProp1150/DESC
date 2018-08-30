@@ -1,0 +1,27 @@
+AC  GenProp1150
+DE  Cobalamin transport complex
+TP  COMPLEX
+AU  Complex Portal
+TH  2
+DR  Complex Portal; CPX-2105;
+DR  PDBe; 2qi9;
+DR  PDBe; 4fi3;
+CC  Type II ABC importer catalysing the ATP-dependent uptake of cobalamin
+CC  (vitamin B12) from the periplasm across the plasma membrane into the
+CC  cytoplasm.
+--
+SN  1
+ID  Vitamin B12 import system permease protein BtuC
+RQ  1
+EV  IPR023691; MF_01004; sufficient;
+--
+SN  2
+ID  Vitamin B12 import ATP-binding protein BtuD
+RQ  1
+EV  IPR023693; MF_01005; sufficient;
+--
+SN  3
+ID  Vitamin B12-binding protein
+RQ  1
+EV  IPR023544; MF_01000; sufficient;
+//

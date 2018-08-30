@@ -1,6 +1,6 @@
 AC  GenProp2048
 DE  General transcription factor IIH
-TP  SYSTEM
+TP  COMPLEX
 AU  Rawlings ND
 TH  1
 RN  [1]
@@ -24,16 +24,17 @@ RT  cell lines that conditionally express epitope-tagged subunits of
 RT  the multiprotein complexes. 
 RA  Kershnar E; Wu SY; Chiang CM;   
 RL  J Biol Chem. 1998;273:34444-34453.
+DC  Basal transcription factors
+DR  KEGG; map03022;
 CC  The core-TFIIH basal transcription factor is involved in 
-CC  nucleotide excision repair (NER) of DNA [1].  The core-TFIIH 
-CC  basal transcription factor consists of six subunits.  The sixth 
-CC  component is a helicase, either XPB [2] or XPD [3].  The complex 
-CC  associates with the CAK complex to form the TFIIH basal 
-CC  transcription factor [2].
+CC  nucleotide excision repair (NER) of DNA [1]. It consists of six 
+CC  subunits where the sixth component is a helicase, either XPB [2] 
+CC  or XPD [3]. The complex associates with the CAK complex to form 
+CC  the TFIIH basal transcription factor [2].
 --
 SN  1
 ID  General transcription factor IIH subunit 1
-DN  General transcription factor IIH subunit 1/1
+DN  TFIIH subunit Tfb1/GTF2H1
 RQ  1
 EV  IPR027079; PTHR12856; sufficient;
 TG  GO:0006289;
@@ -41,7 +42,7 @@ TG  GO:0000439;
 --
 SN  2
 ID  General transcription factor IIH subunit 2
-DN  General transcription factor IIH subunit 2/2
+DN  TFIIH subunit Ssl1/p44
 RQ  1
 EV  IPR012170; PIRSF015919; sufficient;
 EV  IPR012170; PTHR12695; sufficient;
@@ -51,7 +52,7 @@ TG  GO:0000439;
 --
 SN  3
 ID  General transcription factor IIH subunit 3
-DN  General transcription factor IIH subunit 3/3
+DN  TFIIH subunit Tfb4/GTF2H3
 RQ  1
 EV  IPR004600; PF03850; sufficient;
 EV  IPR004600; PTHR12831; sufficient;
@@ -61,7 +62,7 @@ TG  GO:0000439;
 --
 SN  4
 ID  General transcription factor IIH subunit 4
-DN  General transcription factor IIH subunit 4/4
+DN  Transcription factor TFIIH subunit p52/Tfb2
 RQ  1
 EV  IPR004598; PF03849; sufficient;
 EV  IPR004598; PTHR13152; sufficient;
@@ -71,7 +72,7 @@ TG  GO:0000439;
 --
 SN  5
 ID  General transcription factor IIH subunit 5
-DN  General transcription factor IIH subunit 5/5
+DN  TFIIH subunit TTDA/Tfb5
 RQ  1
 EV  IPR009400; PF06331; sufficient;
 EV  IPR009400; PTHR28580; sufficient;
@@ -81,7 +82,7 @@ TG  GO:0000439;
 --
 SN  6
 ID  TFIIH basal transcription factor complex helicase XPB subunit
-DN  TFIIH basal transcription factor complex helicase XPB subunit (EC:3.6.4.12)/6
+DN  Helicase XPB/Ssl2 (EC:3.6.4.12)
 RQ  1
 EV  IPR001161; TIGR00603; sufficient;
 TG  GO:0006289;
@@ -89,7 +90,7 @@ TG  GO:0004003;
 --
 SN  7
 ID  TFIIH basal transcription factor complex helicase XPD subunit
-DN  TFIIH basal transcription factor complex helicase XPD subunit (EC:3.6.4.12)/7
+DN  RAD3/XPD family (EC:3.6.4.12)
 RQ  0
 EV  IPR001945; PR00852; sufficient;
 EV  IPR001945; PTHR11472:SF1; sufficient;

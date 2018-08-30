@@ -1,0 +1,78 @@
+AC  GenProp1754
+DE  Protein ubiquitination
+TP  PATHWAY
+AU  Caspi R
+TH  7
+DC  Protein ubiquitination
+DR  MetaCyc; PWY-7511;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Ubiquitin-conjugating enzyme E2
+DN  Ubiquitin-conjugating enzyme E2 (EC 2.3.2.23)
+RQ  1
+EV  IPR000608; PF00179; sufficient;
+--
+SN  2
+ID  HECT-type E3 ubiquitin transferase
+DN  HECT-type E3 ubiquitin transferase (EC 2.3.2.26)
+RQ  1
+EV  IPR000008; PF00168; sufficient;
+EV  IPR000569; PF00632; sufficient;
+EV  IPR001202; PF00397; sufficient;
+--
+SN  3
+ID  HECT-type E3 ubiquitin transferase
+DN  HECT-type E3 ubiquitin transferase (EC 2.3.2.26)
+RQ  1
+EV  IPR000008; PF00168; sufficient;
+EV  IPR000569; PF00632; sufficient;
+EV  IPR001202; PF00397; sufficient;
+--
+SN  4
+ID  RING-type E3 ubiquitin transferase
+DN  RING-type E3 ubiquitin transferase (EC 2.3.2.27)
+RQ  1
+EV  IPR003126; PF02207; sufficient;
+EV  IPR003769; PF02617; sufficient;
+EV  IPR001373; PF00888; sufficient;
+EV  IPR019559; PF10557; sufficient;
+EV  IPR024766; PF12678; sufficient;
+EV  IPR016072; PF01466; sufficient;
+EV  IPR016073; PF03931; sufficient;
+EV  IPR001810; PF12937; sufficient;
+EV  IPR011016; PF12906; sufficient;
+--
+SN  5
+ID  N-terminal E2 ubiquitin-conjugating enzyme
+DN  N-terminal E2 ubiquitin-conjugating enzyme
+RQ  1
+EV  IPR000608; PF00179; sufficient;
+--
+SN  6
+ID  N-terminal E2 ubiquitin-conjugating enzyme
+DN  N-terminal E2 ubiquitin-conjugating enzyme
+RQ  1
+EV  IPR000608; PF00179; sufficient;
+--
+SN  7
+ID  Ubiquitin-conjugating enzyme E2 (E3-independent)
+DN  Ubiquitin-conjugating enzyme E2 (E3-independent) (EC 2.3.2.24)
+RQ  1
+EV  IPR000608; PF00179; sufficient;
+--
+SN  8
+ID  Ubiquitin-conjugating enzyme E2 (E3-independent)
+DN  Ubiquitin-conjugating enzyme E2 (E3-independent) (EC 2.3.2.24)
+RQ  1
+EV  IPR000608; PF00179; sufficient;
+--
+SN  9
+ID  Ubiquitin-activating enzyme
+DN  Ubiquitin-activating enzyme (EC 6.2.1.45)
+RQ  1
+EV  IPR018075; TIGR01408; sufficient;
+//

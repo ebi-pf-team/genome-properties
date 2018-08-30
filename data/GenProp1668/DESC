@@ -1,0 +1,30 @@
+AC  GenProp1668
+DE  Gadusol biosynthesis
+TP  PATHWAY
+AU  Caspi R
+TH  1
+DC  Gadusol biosynthesis
+DR  MetaCyc; PWY-7752;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  2-Epi-5-epi-valiolone dehydrogenase
+DN  2-Epi-5-epi-valiolone dehydrogenase (EC 1.1.1.M23)
+RQ  1
+EV  IPR002935; PF01596; sufficient;
+--
+SN  2
+ID  Desmethyl gadusol O-methyltransferase
+DN  Desmethyl gadusol O-methyltransferase (EC 2.1.1.M22)
+RQ  1
+EV  IPR002935; PF01596; sufficient;
+--
+SN  3
+ID  2-Epi-5-epi-valiolone synthase
+DN  2-Epi-5-epi-valiolone synthase (EC 4.2.3.152)
+RQ  1
+EV  IPR030960; PF01761; sufficient;
+//

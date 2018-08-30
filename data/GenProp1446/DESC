@@ -1,0 +1,39 @@
+AC  GenProp1446
+DE  Adenosine deoxyribonucleotides de novo biosynthesis II
+TP  PATHWAY
+AU  Caspi R
+TH  2
+DC  Adenosine deoxyribonucleotides de novo biosynthesis II
+DR  MetaCyc; PWY-7220;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  ADP reductase
+DN  ADP reductase (EC 1.17.4.1)
+RQ  1
+EV  IPR000358; PF00268; sufficient;
+--
+SN  2
+ID  DADP kinase
+DN  DADP kinase (EC 2.7.4.6)
+RQ  1
+EV  IPR001564; PF00334; sufficient;
+--
+SN  3
+ID  ATP reductase
+DN  ATP reductase (EC 1.1.98.6)
+RQ  1
+EV  IPR012833; PF13597; sufficient;
+EV  IPR012833; TIGR02487; sufficient;
+--
+SN  4
+ID  ADP reductase
+DN  ADP reductase (EC 1.17.4.1)
+RQ  1
+EV  IPR026459; TIGR04170; sufficient;
+EV  IPR000358; PF00268; sufficient;
+EV  IPR026494; TIGR04171; sufficient;
+//

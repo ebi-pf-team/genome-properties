@@ -1,0 +1,34 @@
+AC  GenProp1723
+DE  Conversion of succinate to propanoate
+TP  PATHWAY
+AU  Keseler I, Pellegrini-Toole A
+TH  1
+DC  Conversion of succinate to propanoate
+DR  MetaCyc; PWY0-43;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Methylmalonyl-CoA mutase
+DN  Methylmalonyl-CoA mutase (EC 5.4.99.2)
+RQ  1
+EV  IPR006098; TIGR00641; sufficient;
+EV  IPR006099; PF01642; sufficient;
+EV  IPR006158; PF02310; sufficient;
+EV  IPR006159; TIGR00640; sufficient;
+--
+SN  2
+ID  Propionyl-CoA:succinate CoA transferase
+DN  Propionyl-CoA:succinate CoA transferase (EC 2.8.3)
+RQ  1
+EV  IPR003702; PF02550; sufficient;
+EV  IPR017821; TIGR03458; sufficient;
+--
+SN  3
+ID  Methylmalonyl-CoA decarboxylase
+DN  Methylmalonyl-CoA decarboxylase (EC 4.1.1.M5)
+RQ  1
+EV  IPR001753; PF00378; sufficient;
+//

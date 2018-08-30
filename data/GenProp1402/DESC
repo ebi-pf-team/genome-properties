@@ -1,0 +1,27 @@
+AC  GenProp1402
+DE  Phenylethylamine degradation I
+TP  PATHWAY
+AU  Pellegrini-Toole A
+TH  0
+DC  Phenylethylamine degradation I
+DR  MetaCyc; 2PHENDEG-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Monoamine oxidase
+DN  Monoamine oxidase (EC 1.4.3.21)
+RQ  1
+EV  IPR012854; PF07833; sufficient;
+EV  IPR015798; PF01179; sufficient;
+EV  IPR015800; PF02727; sufficient;
+EV  IPR015802; PF02728; sufficient;
+--
+SN  2
+ID  Phenylacetaldehyde dehydrogenase
+DN  Phenylacetaldehyde dehydrogenase (EC 1.2.1.39)
+RQ  1
+EV  IPR015590; PF00171; sufficient;
+//

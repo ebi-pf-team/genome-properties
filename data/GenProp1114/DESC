@@ -1,0 +1,31 @@
+AC  GenProp1114
+DE  ATP-dependent methionine-importing complex
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+DR  Complex Portal; CPX-2114;
+DR  PDBe; 3tuj;
+DR  PDBe; 3tuz;
+DR  PDBe; 3tui;
+CC  An ABC transporter complex that transports extracellular methionine
+CC  from the periplasm into the cytoplasm in an ATP-dependent manner. ATP
+CC  hydrolysis at the dimerization interface of the MetN subunit opens up
+CC  the dimerization interface of MetI and MetN allowing the methionine to
+CC  travel through the plasma membrane. MetQ (P28635) is thought to be the
+CC  periplasmic methionine-chaperon protein, although its interaction with
+CC  methionine or MetI has yet to be demonstrated.
+--
+SN  1
+ID  D-methionine transport system permease protein MetI
+RQ  1
+EV  IPR000515; PF00528; sufficient;
+EV  IPR000515; PS50928; sufficient;
+EV  IPR000515; cd06261; sufficient;
+--
+SN  2
+ID  Methionine import ATP-binding protein MetN
+RQ  1
+EV  IPR026253; PTHR43166:SF18; sufficient;
+EV  IPR026253; PTHR43166:SF3; sufficient;
+EV  IPR026253; PTHR43166:SF5; sufficient;
+//

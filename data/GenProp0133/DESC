@@ -38,4 +38,9 @@ SN  7
 ID  Ribonucleotide reduction
 RQ  0
 EV  GenProp0287;
+--
+SN  8
+ID  Nucleic acids processing
+RQ  0
+EV  GenProp1777;
 //

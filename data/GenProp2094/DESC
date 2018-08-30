@@ -1,0 +1,85 @@
+AC  GenProp2094
+DE  PACAP signalled increase in cAMP
+TP  SYSTEM
+AU  Rawlings ND
+TH  1
+RN  [1]
+RM  7902709
+RT  Molecular cloning and functional expression of a cDNA 
+RT  encoding a human pituitary adenylate cyclase activating 
+RT  polypeptide receptor. 
+RA  Ogi K; Miyamoto Y; Masuda Y; Habata Y; Hosoya M; Ohtaki 
+RA  T; Masuo Y; Onda H; Fujino M; 
+RL  Best Pract Res Clin Endocrinol Metab 2004;18:587-606.
+DC  Insulin secretion
+DR  KEGG; map04911;
+CC  Insulin is secreted by the pancreatic beta cells. Its
+CC  secretion can be stimulated by the import of glucose
+CC  via a surface transporter, and metabolism of glucose
+CC  increases intracellular ATP, inhibiting ATP-sensitive
+CC  potassium channels, causing an influx of calcium into
+CC  the cell.  Alternatively, there are surface receptors
+CC  for peptide hormones such as PACAP [1].  
+CC  Binding triggers adenylyl cyclase activation, an 
+CC  increase in cAMP, activation of cAMP-dependent second
+CC  messengers such as protein kinase A, and secretion of
+CC  insulin from vesicles [1].
+**  This Genome Property models the release of insulin
+**  stored in vesicles induced by peptide hormone GIP.
+**  It is difficult to model the pathway initiated by
+**  glucose, because it involves the TCA cycle and
+**  it is the increase in ATP that triggers Na+/K+ flux
+**  and an increase in intracellular Ca2+. 
+**  Part of the pathway induced by peptide hormones 
+**  requires de novo synthesis of insulin, so is also
+**  difficult to model.
+**  SN3 GenProp2091 in 2 other prop
+--
+SN  1
+ID  Pituitary adenylate cyclase-activating polypeptide
+DN  Pituitary adenylate cyclase-activating polypeptide (PACAP)
+RQ  1
+EV  IPR039080; PTHR11213:SF1; sufficient;
+TG  GO:0005184;
+--
+SN  2
+ID  Pituitary adenylate cyclase-activating polypeptide type I receptor
+DN  GPCR, family 2, pituitary adenylate cyclase activating polypeptide type 1 receptor (PACAPR)
+RQ  1
+EV  IPR002285; PR01156; sufficient;
+EV  IPR002285; PTHR12011:SF228; sufficient;
+TG  GO:0007166;
+--
+SN  3
+ID  Guanine nucleotide-binding protein G subunit alpha
+DN  Guanine nucleotide binding protein (G-protein), alpha subunit (GNA)
+RQ  1
+EV  IPR001019; PF00503; sufficient;
+EV  IPR001019; PR00318; sufficient;
+EV  IPR001019; PTHR10218; sufficient;
+EV  IPR001019; SM00275; sufficient;
+EV  IPR001019; cd00066; sufficient;
+TG  GO:0019001;
+--
+SN  4
+ID  Guanine nucleotide-binding protein G subunit beta
+DN  Guanine nucleotide-binding protein G subunit beta (GNB)
+RQ  1
+EV  IPR016346; PTHR19850; sufficient;
+TG  GO:0003924;
+--
+SN  5
+ID  Guanine nucleotide-binding protein G subunit gamma
+DN  Guanine nucleotide-binding protein G subunit gamma (GNG)
+RQ  1
+EV  IPR001770; PTHR13809; sufficient;
+EV  IPR001770; PR00321; sufficient;
+TG  GO:0003924;
+--
+SN  6
+ID  Adenylate cyclase
+DN  Adenylate cyclase (AC)
+RQ  1
+EV  IPR030672; PIRSF039050; sufficient;
+TG  GO:0004016;
+//

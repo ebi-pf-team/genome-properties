@@ -1,0 +1,28 @@
+AC  GenProp1309
+DE  Superpathway of L-phenylalanine biosynthesis
+TP  PATHWAY
+AU  Caspi R
+TH  0
+DC  Superpathway of L-phenylalanine biosynthesis
+DR  MetaCyc; PWY-6628;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Chorismate synthase
+DN  Chorismate synthase (EC 4.2.3.5)
+RQ  1
+EV  IPR000453; PF01264; sufficient;
+EV  IPR000453; TIGR00033; sufficient;
+--
+SN  2
+ID  Chorismate mutase
+DN  Chorismate mutase (EC 5.4.99.5)
+RQ  1
+EV  IPR003099; PF02153; sufficient;
+EV  IPR011277; TIGR01799; sufficient;
+EV  IPR001086; PF00800; sufficient;
+EV  IPR010952; TIGR01797; sufficient;
+//

@@ -1,0 +1,20 @@
+AC  GenProp1182
+DE  H-NS-Hha complex
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+DR  Complex Portal; CPX-1979;
+CC  Functions as transcription factor that negatively regulates a range of
+CC  genes in the Enterobacteriaceae.
+--
+SN  1
+ID  DNA-binding protein H-NS
+RQ  1
+EV  IPR001801; PF00816; sufficient;
+EV  IPR001801; PIRSF002096; sufficient;
+--
+SN  2
+ID  Hemolysin expression-modulating protein Hha
+RQ  1
+EV  IPR007985; PF05321; sufficient;
+//

@@ -1,0 +1,25 @@
+AC  GenProp1567
+DE  Glycerol degradation I
+TP  PATHWAY
+AU  Caspi R
+TH  0
+DC  Glycerol degradation I
+DR  MetaCyc; PWY-4261;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Glycerol kinase
+DN  Glycerol kinase (EC 2.7.1.30)
+RQ  1
+EV  IPR005999; TIGR01311; sufficient;
+--
+SN  2
+ID  Glycerol-3-phosphate dehydrogenase
+DN  Glycerol-3-phosphate dehydrogenase (EC 1.1.5.3)
+RQ  1
+EV  IPR006076; PF01266; sufficient;
+EV  IPR031656; PF16901; sufficient;
+//

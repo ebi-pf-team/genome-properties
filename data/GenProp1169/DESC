@@ -1,0 +1,45 @@
+AC  GenProp1169
+DE  Fimbrial Tip Complex FimFGH
+TP  COMPLEX
+AU  Complex Portal
+TH  2
+RN  [1]
+RM  21572990
+RT  The bacterial fimbrial tip acts as a mechanical force sensor.
+RA  Aprikian P, Interlandi G, Kidd BA, Le Trong I, Tchesnokova V, Yakovenko
+RA  O, Whitfield MJ, Bullitt E, Stenkamp RE, Thomas WE, Sokurenko EV
+RL  PLoS Biol. 2011;9:e1000617
+RN  [2]
+RM  20570733
+RT  Donor strand exchange and conformational changes during E. coli
+RT  fimbrial formation.
+RA  Le Trong I, Aprikian P, Kidd BA, Thomas WE, Sokurenko EV, Stenkamp RE
+RL  J Struct Biol. 2010;172:380-388
+DR  Complex Portal; CPX-2855;
+DR  PDBe; 3bfw;
+DR  PDBe; 3bfq;
+CC  Forms the linear tip of the Type1 fimbria, a macromolecular cell
+CC  surface structure required for cellular adhesion. The fimbria consists
+CC  of a 1-2 um long fimbrial rod, built by thousands of copies of the
+CC  non-adhesive major subunit, FimA (P04128). The tip is optimized to have
+CC  a dual functionality: flexible exploration and force sensing. The 
+CC  FimFGH subunits interact through donor strand complementation where a
+CC  beta-strand from one subunit completes the beta-sandwich structure of
+CC  the neighboring subunit. FimH contains a lectin domain which binds
+CC  mannose derivatives on the surface of neighboring cells. 
+--
+SN  1
+ID  Protein FimF
+RQ  1
+EV  IPR000259; PF00419; sufficient;
+--
+SN  2
+ID  Type 1 fimbrin D-mannose specific adhesin/FimH
+RQ  1
+EV  IPR015243; PF09160; sufficient;
+EV  IPR015243; cd10466; sufficient;
+--
+SN  3
+ID  Protein FimG
+RQ  1
+//

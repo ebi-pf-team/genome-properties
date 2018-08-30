@@ -1,0 +1,24 @@
+AC  GenProp1385
+DE  Progesterone biosynthesis
+TP  PATHWAY
+AU  Caspi R
+TH  0
+DC  Progesterone biosynthesis
+DR  MetaCyc; PWY-7299;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Pregnenolone dehydrogenase
+DN  Pregnenolone dehydrogenase (EC 1.1.1.145)
+RQ  1
+EV  IPR002225; PF01073; sufficient;
+--
+SN  2
+ID  Preg-5-en-3,20-dione isomerase
+DN  Preg-5-en-3,20-dione isomerase (EC 5.3.3.1)
+RQ  1
+EV  IPR002225; PF01073; sufficient;
+//

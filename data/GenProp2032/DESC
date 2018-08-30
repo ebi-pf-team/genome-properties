@@ -1,10 +1,10 @@
 AC  GenProp2032
 DE  Rag complex
-TP  SYSTEM
+TP  COMPLEX
 AU  Rawlings ND
 TH  1
 RN  [1]
-RM  20381137
+RM  23723238
 RT  A Tumor suppressor complex with GAP activity for the Rag GTPases 
 RT  that signal amino acid sufficiency to mTORC1. 
 RA  Bar-Peled L; Chantranupong L; Cherniack AD; Chen WW; Ottina KA; 
@@ -17,6 +17,8 @@ RT  and is necessary for its activation by amino acids.
 RA  Sancak Y; Bar-Peled L; Zoncu R; Markhard AL; Nada S;  
 RA  Sabatini DM; 
 RL  Cell. 2010;141:290-303.
+DC  mTOR signaling pathway
+DR  KEGG; map04150;
 CC  The RAG complex is a component of the the TORC1 sensor pathway  
 CC  which promotes protein synthesis in the presence of adequate
 CC  energy and amino acids.  The heterodimeric Rag complex 
@@ -30,15 +32,15 @@ CC  controlled by the GATOR1 and GATOR2 complexes.
 --
 SN  1
 ID  Ras-related GTP-binding protein A/B
-DN  Ras-related GTP-binding protein A/B
+DN  RagA-like
 RQ  1
-EV  IPR006762; PTHR11259; sufficient;
+EV  IPR039397; cd11384; sufficient;
 TG  GO:0003924;
 --
 SN  2
 ID  Ras-related GTP-binding protein C/D
-DN  Ras-related GTP-binding protein C/D
+DN  RagC-like
 RQ  1
-EV  IPR006762; PTHR11259; sufficient;
+EV  IPR039400; cd11385; sufficient;
 TG  GO:0003924;
 //
