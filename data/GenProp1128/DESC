@@ -1,0 +1,53 @@
+AC  GenProp1128
+DE  Formate hydrogenlyase-H/Hydrogenase-3 complex
+TP  COMPLEX
+AU  Complex Portal
+TH  6
+DR  Complex Portal; CPX-317;
+CC  Role in the  mixed-acid fermentation that takes place under anaerobic
+CC  conditions, ultimately producing molecular hydrogen. Consists of two
+CC  enzymatic activities: a formate dehydrogenase-H (encoded by fdhF) for
+CC  producing 2H+, 2e- and CO2 from formate and HycE for synthesizing
+CC  molecular hydrogen (H2) from 2H+ and 2e-. HycE catalyzes production of
+CC  H2 even at high partial pressures of H2.
+**  All steps overhit and SN2 and SN7 have the same evidence.
+--
+SN  1
+ID  Formate dehydrogenase H
+RQ  1
+EV  IPR006478; TIGR01591; sufficient;
+--
+SN  2
+ID  Formate hydrogenlyase subunit 6
+RQ  1
+EV  IPR017896; PF12838; sufficient;
+--
+SN  3
+ID  Formate hydrogenlyase subunit 3
+RQ  1
+EV  IPR003918; PR01437; sufficient;
+--
+SN  4
+ID  Formate hydrogenlyase subunit 5
+RQ  1
+EV  IPR001501; PF00374; sufficient;
+--
+SN  5
+ID  Formate hydrogenlyase subunit 4
+RQ  1
+EV  IPR001694; MF_01350; sufficient;
+EV  IPR001694; PF00146; sufficient;
+EV  IPR001694; PTHR11432; sufficient;
+--
+SN  6
+ID  Formate hydrogenlyase subunit 7
+RQ  1
+EV  IPR006138; MF_01356; sufficient;
+EV  IPR006138; PS01150; sufficient;
+EV  IPR006138; TIGR01957; sufficient;
+--
+SN  7
+ID  Formate hydrogenlyase subunit 2
+RQ  1
+EV  IPR017896; PF13247; sufficient;
+//

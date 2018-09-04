@@ -1,0 +1,103 @@
+AC  GenProp1771
+DE  Carboxylates degradation
+TP  CATEGORY
+AU  Richardson L
+TH  0
+CC  The chemical reactions and pathways resulting in the breakdown of 
+CC  carboxylates.
+--
+SN  1
+ID  2-Oxobutanoate degradation I
+RQ  0
+EV  GenProp1439;
+--
+SN  2
+ID  Pyruvate fermentation to acetate IV
+RQ  0
+EV  GenProp1543;
+--
+SN  3
+ID  Pyruvate fermentation to acetate VIII
+RQ  0
+EV  GenProp1620;
+--
+SN  4
+ID  Acetate formation from acetyl-CoA I
+RQ  0
+EV  GenProp1345;
+--
+SN  5
+ID  Glycolate and glyoxylate degradation I
+RQ  0
+EV  GenProp1374;
+--
+SN  6
+ID  Glycolate and glyoxylate degradation II
+RQ  0
+EV  GenProp1556;
+--
+SN  7
+ID  2-Methylcitrate cycle I
+RQ  0
+EV  GenProp1687;
+--
+SN  8
+ID  Propanoyl CoA degradation I
+RQ  0
+EV  GenProp1629;
+--
+SN  9
+ID  Conversion of succinate to propanoate
+RQ  0
+EV  GenProp1723;
+--
+SN  10
+ID  D-galactarate degradation I
+RQ  0
+EV  GenProp1225;
+--
+SN  11
+ID  D-galacturonate degradation I
+RQ  0
+EV  GenProp1636;
+--
+SN  12
+ID  D-glucarate degradation I
+RQ  0
+EV  GenProp1514;
+--
+SN  13
+ID  L-idonate degradation
+RQ  0
+EV  GenProp1228;
+--
+SN  14
+ID  D-fructuronate degradation
+RQ  0
+EV  GenProp1449;
+--
+SN  15
+ID  D-galactonate degradation
+RQ  0
+EV  GenProp1566;
+--
+SN  16
+ID  2-Hydroxypenta-2,4-dienoate degradation
+RQ  0
+EV  GenProp1231;
+--
+SN  17
+ID  Pyruvate decarboxylation to acetyl CoA
+RQ  0
+EV  GenProp1536;
+--
+SN  18
+ID  Superpathway of beta-D-glucuronosides degradation
+RQ  0
+EV  GenProp1387;
+--
+SN  19
+ID  Superpathway of acetate utilization and formation
+RQ  0
+EV  GenProp1749;
+//

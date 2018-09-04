@@ -1,0 +1,36 @@
+AC  GenProp1644
+DE  Mineralocorticoid biosynthesis
+TP  PATHWAY
+AU  Caspi R, Weerasinghe D, Trupp M
+TH  2
+DC  Mineralocorticoid biosynthesis
+DR  MetaCyc; PWY66-382;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Progesterone 21-hydroxylase
+DN  Progesterone 21-hydroxylase (EC 1.14.13)
+RQ  1
+EV  IPR001128; PF00067; sufficient;
+--
+SN  2
+ID  11-Deoxycorticosterone hydroxylase
+DN  11-Deoxycorticosterone hydroxylase (EC 1.14.15.4)
+RQ  1
+EV  IPR001128; PF00067; sufficient;
+--
+SN  3
+ID  Cytochrome P450 11B2, mitochondrial
+DN  Cytochrome P450 11B2, mitochondrial (EC 1.14.15.5)
+RQ  1
+EV  IPR001128; PF00067; sufficient;
+--
+SN  4
+ID  18-Hydroxycorticosterone 18-methyl oxidase
+DN  18-Hydroxycorticosterone 18-methyl oxidase (EC 1.14.15.5)
+RQ  1
+EV  IPR001128; PF00067; sufficient;
+//

@@ -1,0 +1,73 @@
+AC  GenProp1120
+DE  HipBA toxin-antitoxin complex
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+RN  [1]
+RM  25056321
+RT  The bacterial antitoxin HipB establishes a ternary complex with
+RT  operator DNA and phosphorylated toxin HipA to regulate bacterial
+RT  persistence.
+RA  Wen Y, Behiels E, Felix J, Elegheert J, Vergauwen B, Devreese B,
+RA  Savvides SN
+RL  Nucleic Acids Res. 2014;42:10134-10147
+RN  [2]
+RM  19150849
+RT  Molecular mechanisms of HipA-mediated multidrug tolerance and its
+RT  neutralization by HipB.
+RA  Schumacher MA, Piro KM, Xu W, Hansen S, Lewis K, Brennan RG
+RL  Science. 2009;323:396-401
+RN  [3]
+RM  26222023
+RT  HipBA-promoter structures reveal the basis of heritable multidrug
+RT  tolerance.
+RA  Schumacher MA, Balani P, Min J, Chinnam NB, Hansen S, Vulić M, Lewis
+RA  K, Brennan RG
+RL  Nature. 2015;524:59-64
+RN  [4]
+RM  1715862
+RT  Structure and organization of hip, an operon that affects lethality due
+RT  to inhibition of peptidoglycan or DNA synthesis.
+RA  Black DS, Kelly AJ, Mardis MJ, Moyed HS
+RL  J Bacteriol. 1991;173:5732-5739
+DR  Complex Portal; CPX-180;
+DR  PDBe; 3dnv;
+DR  PDBe; 4yg7;
+DR  PDBe; 3hzi;
+CC  Toxin-antitoxin (TA) complex. TA systems act as effectors of dormancy
+CC  and persistence and are composed of a toxin, which causes growth arrest
+CC  by interfering with a vital cellular process, and a cognate antitoxin,
+CC  which neutralizes the toxin activity during normal growth conditions. 
+CC  Under conditions of stress the antitoxins are selectively degraded,
+CC  leaving the toxins to exert their toxic effects, leading to growth
+CC  arrest and dormancy. Type II TA complexes are small protein-protein
+CC  pairs; under growth conditions, the toxin is bound to the antitoxin,
+CC  which inhibits its activity. Both the antitoxin and, in most cases, the
+CC  TA complex bind the TA promoter to repress transcription. Under stress
+CC  conditions, cellular proteases such as Lon (P0A9M0) and ClpXP
+CC  (CPX-3176) are activated that preferentially cleave the antitoxins,
+CC  freeing the toxins to inhibit growth by inhibiting translation or
+CC  replication, enabling cells to enter a metabolically dormant state
+CC  until the stress is removed. Complex formation prevents the protein
+CC  kinase HipA acting as a persistence factor, inducing multi-drug
+CC  tolerance by triggering growth arrest. HipA activity is inhibited upon
+CC  binding to HipB through sequestration to the nucleoid and binding to
+CC  DNA. HipB and HipAB act as transcriptional autoregulators of the
+CC  hipBA operon.  
+--
+SN  1
+ID  Antitoxin HipB
+RQ  1
+EV  IPR001387; PF01381; sufficient;
+EV  IPR001387; PF12844; sufficient;
+EV  IPR001387; PF13443; sufficient;
+EV  IPR001387; PS50943; sufficient;
+EV  IPR001387; SM00530; sufficient;
+EV  IPR001387; cd00093; sufficient;
+--
+SN  2
+ID  Serine/threonine-protein kinase toxin HipA
+RQ  1
+EV  IPR017508; PF13657; sufficient;
+EV  IPR017508; TIGR03071; sufficient;
+//

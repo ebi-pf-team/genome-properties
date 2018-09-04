@@ -1,0 +1,43 @@
+AC  GenProp1609
+DE  Ergosterol biosynthesis I
+TP  PATHWAY
+AU  Caspi R
+TH  3
+DC  Ergosterol biosynthesis I
+DR  MetaCyc; PWY-6075;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  C-24 sterol reductase
+DN  C-24 sterol reductase (EC 1.3.1.71)
+RQ  1
+EV  IPR001171; PF01222; sufficient;
+--
+SN  2
+ID  SAM:C-24 sterol methyltransferase
+DN  SAM:C-24 sterol methyltransferase (EC 2.1.1.41)
+RQ  1
+EV  IPR013216; PF08241; sufficient;
+EV  IPR013705; PF08498; sufficient;
+--
+SN  3
+ID  C-8 sterol isomerase
+DN  C-8 sterol isomerase
+RQ  1
+EV  IPR006716; PF04622; sufficient;
+--
+SN  4
+ID  Episterol C-5 desaturase
+DN  Episterol C-5 desaturase (EC 1.14.19.20)
+RQ  1
+EV  IPR006694; PF04116; sufficient;
+--
+SN  5
+ID  C-22 sterol desaturase
+DN  C-22 sterol desaturase (EC 1.14.19.41)
+RQ  1
+EV  IPR001128; PF00067; sufficient;
+//

@@ -1,0 +1,25 @@
+AC  GenProp1675
+DE  Superpathway of D-glucarate and D-galactarate degradation
+TP  PATHWAY
+AU  Caspi R, Riley M
+TH  0
+DC  Superpathway of D-glucarate and D-galactarate degradation
+DR  MetaCyc; GLUCARGALACTSUPER-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Glycerate 2-kinase
+DN  Glycerate 2-kinase (EC 2.7.1.165)
+RQ  1
+EV  IPR004381; PF02595; sufficient;
+EV  IPR004381; TIGR00045; sufficient;
+--
+SN  2
+ID  Tartronate semialdehyde reductase
+DN  Tartronate semialdehyde reductase (EC 1.1.1.60)
+RQ  1
+EV  IPR006398; TIGR01505; sufficient;
+//

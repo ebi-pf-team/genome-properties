@@ -1,0 +1,30 @@
+AC  GenProp1679
+DE  L-phenylalanine degradation I (aerobic)
+TP  PATHWAY
+AU  Fulcher C
+TH  1
+DC  L-phenylalanine degradation I (aerobic)
+DR  MetaCyc; PHENYLALANINE-DEG1-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Pterin-4alpha-carbinolamine dehydratase
+DN  Pterin-4alpha-carbinolamine dehydratase (EC 4.2.1.96)
+RQ  1
+EV  IPR001533; PF01329; sufficient;
+--
+SN  2
+ID  Dihydropteridine reductase
+DN  Dihydropteridine reductase (EC 1.5.1)
+RQ  1
+EV  IPR002347; PF00106; sufficient;
+--
+SN  3
+ID  Phenylalanine hydroxylase
+DN  Phenylalanine hydroxylase (EC 1.14.16.1)
+RQ  1
+EV  IPR005961; TIGR01268; sufficient;
+//

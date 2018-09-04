@@ -1,0 +1,24 @@
+AC  GenProp1261
+DE  Cytokinins 7-N-glucoside biosynthesis
+TP  PATHWAY
+AU  N/A
+TH  0
+DC  Cytokinins 7-N-glucoside biosynthesis
+DR  MetaCyc; PWY-2881;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  UDP-glucose:trans-zeatin 7-N-glucosyltransferase
+DN  UDP-glucose:trans-zeatin 7-N-glucosyltransferase (EC 2.4.1)
+RQ  1
+EV  IPR002213; PF00201; sufficient;
+--
+SN  2
+ID  UDP-glucose:cis-zeatin 7-N-glucosyltransferase
+DN  UDP-glucose:cis-zeatin 7-N-glucosyltransferase (EC 2.4.1)
+RQ  1
+EV  IPR002213; PF00201; sufficient;
+//

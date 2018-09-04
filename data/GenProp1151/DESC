@@ -1,0 +1,54 @@
+AC  GenProp1151
+DE  MacAB-TolC complex
+TP  COMPLEX
+AU  Complex Portal
+TH  2
+RN  [1]
+RM  20307498
+RT  The tip region of the MacA alpha-hairpin is important for the binding
+RT  to TolC to the Escherichia coli MacAB-TolC pump.
+RA  Xu Y, Sim SH, Song S, Piao S, Kim HM, Jin XL, Lee K, Ha NC
+RL  Biochem Biophys Res Commun. 2010;394:962-965
+DR  Complex Portal; CPX-2107;
+DR  PDBe; 5nik;
+DR  PDBe; 5nil;
+DR  PDBe; 3fpp;
+DR  PDBe; 1ek9;
+CC  Tripartite, ATP-dependent efflux pump spanning the entire cell membrane
+CC  system. Confers resistance to antibiotics and other toxins
+CC  (specifically macrolide compounds containing 14- and 15-membered
+CC  lactones) by transporting them out of the bacterial cell. MacB is the
+CC  dimeric, non-canonical ATP-binding cassette (ABC) transporter subunit
+CC  containing 4 transmembrane domains which span the entire inner
+CC  membrane, an N-terminal nucleotide binding domain, and a central
+CC  hydrophilic periplasmic domain. It binds to the periplasmic membrane
+CC  fusion protein MacA. Whether it also binds directly to TolC is unclear
+CC  (EBI-6305934 shows a very weak reaction). MacA is hexameric and binds
+CC  directly to MacB and TolC facilitating direct channelling of toxins out
+CC  of the cell. It consists of an alpha-helical, TolC-binding barrel
+CC  domain, an intermediate lipyl domain, and a beta-barrel domain which is
+CC  the likely MacB binding domain. It may also have a plasma membrane
+CC  binding domain (through its N and C termini), but does not bind
+CC  directly to the outer membrane. It appears to enhance the ATPase
+CC  activity of MacB. TolC is trimeric and has two major domains, a
+CC  transmembrane beta-barrel spanning the entire outer membrane, and an
+CC  alpha-helical periplasmic barrel domain through which it binds to
+CC  MacA. MacA and TolC appear to interact allosterically in a tip-to-tip
+CC  fashion through the 'cogwheel' alpha-hairpin tip regions of both
+CC  complexes.
+--
+SN  1
+ID  Macrolide export ATP-binding/permease protein MacB
+RQ  1
+EV  IPR025857; PF12704; sufficient;
+--
+SN  2
+ID  Macrolide export protein MacA
+RQ  1
+EV  IPR030190; PTHR30572:SF10; sufficient;
+--
+SN  3
+ID  Outer membrane protein TolC
+RQ  1
+EV  IPR010130; TIGR01844; sufficient;
+//

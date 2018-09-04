@@ -19,41 +19,39 @@ ID  Galactarate dehydratase (EC 4.2.1.42)
 DN  Galactarate dehydratase (EC 4.2.1.42)
 RQ  1
 EV  IPR007392; PF04295; sufficient;
-TG  GO:0019582;
+TG  GO:0046392;
 --
 SN  2
 ID  Glycerate kinase (EC 2.7.1.31)
 DN  Glycerate kinase (EC 2.7.1.31)
 RQ  1
 EV  IPR004381; TIGR00045;
-TG  GO:0019582;
+TG  GO:0046392;
 --
 SN  3
 ID  5-dehydro-4-deoxy-D-glucarate lyase (EC 4.1.2.20)
 DN  5-dehydro-4-deoxy-D-glucarate lyase (EC 4.1.2.20)
 RQ  1
 EV  IPR017648; TIGR03239; sufficient;
-TG  GO:0019582;
+TG  GO:0046392;
 --
 SN  4
 ID  Tartronate semialdehyde reductase (EC 1.1.1.60)
 DN  Tartronate semialdehyde reductase (EC 1.1.1.60)
 RQ  1
 EV  IPR006398; TIGR01505; sufficient;
-TG  GO:0019582;
+TG  GO:0046392;
 --
 SN  6
 ID  D-galactarate transporter, putative
 DN  D-galactarate transporter, putative
 RQ  0
 EV  IPR004681; TIGR00786;
-TG  GO:0019582;
-EV  IPR004681; TIGR00786;
-TG  GO:0019582;
+TG  GO:0046392;
 EV  IPR007387; PF04290;
-TG  GO:0019582;
+TG  GO:0046392;
 EV  IPR004682; TIGR00787;
-TG  GO:0019582;
+TG  GO:0046392;
 EV  IPR004744; TIGR00893;
-TG  GO:0019582;
+TG  GO:0046392;
 //

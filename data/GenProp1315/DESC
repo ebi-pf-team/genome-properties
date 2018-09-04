@@ -1,0 +1,26 @@
+AC  GenProp1315
+DE  Fatty acid biosynthesis initiation III
+TP  PATHWAY
+AU  Caspi R
+TH  0
+DC  Fatty acid biosynthesis initiation III
+DR  MetaCyc; PWY-5965;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Acetoacetyl-[acp] synthase
+DN  Acetoacetyl-[acp] synthase (EC 2.3.1.179)
+RQ  1
+EV  IPR014030; PF00109; sufficient;
+EV  IPR014031; PF02801; sufficient;
+--
+SN  2
+ID  Malonyl-ACP decarboxylase
+DN  Malonyl-ACP decarboxylase (EC 2.3.1)
+RQ  1
+EV  IPR014030; PF00109; sufficient;
+EV  IPR014031; PF02801; sufficient;
+//

@@ -10,4 +10,194 @@ SN  1
 ID  Rnf-type electron transport complex
 RQ  0
 EV  GenProp0130;
+--
+SN  2
+ID  NAD biosynthesis III
+RQ  0
+EV  GenProp1296;
+--
+SN  3
+ID  NAD salvage pathway III
+RQ  0
+EV  GenProp1658;
+--
+SN  4
+ID  NAD phosphorylation and transhydrogenation
+RQ  0
+EV  GenProp1305;
+--
+SN  5
+ID  NAD/NADP-NADH/NADPH cytosolic interconversion (yeast)
+RQ  0
+EV  GenProp1502;
+--
+SN  6
+ID  NAD/NADP-NADH/NADPH mitochondrial interconversion (yeast)
+RQ  0
+EV  GenProp1677;
+--
+SN  7
+ID  Trans, trans-farnesyl diphosphate biosynthesis
+RQ  0
+EV  GenProp1704;
+--
+SN  8
+ID  Polyisoprenoid biosynthesis (E. coli)
+RQ  0
+EV  GenProp1479;
+--
+SN  9
+ID  Di-trans,poly-cis-undecaprenyl phosphate biosynthesis
+RQ  0
+EV  GenProp1670;
+--
+SN  10
+ID  Aerobic respiration III (alternative oxidase pathway)
+RQ  0
+EV  GenProp1230;
+--
+SN  11
+ID  NADH to hydrogen peroxide electron transfer
+RQ  0
+EV  GenProp1254;
+--
+SN  12
+ID  Pyruvate to cytochrome bo oxidase electron transfer
+RQ  0
+EV  GenProp1256;
+--
+SN  13
+ID  Pyruvate to cytochrome bd oxidase electron transfer
+RQ  0
+EV  GenProp1269;
+--
+SN  14
+ID  NADH to trimethylamine N-oxide electron transfer
+RQ  0
+EV  GenProp1341;
+--
+SN  15
+ID  D-lactate to cytochrome bo oxidase electron transfer
+RQ  0
+EV  GenProp1367;
+--
+SN  16
+ID  NADH to cytochrome bd oxidase electron transfer II
+RQ  0
+EV  GenProp1373;
+--
+SN  17
+ID  Glycerol-3-phosphate to fumarate electron transfer
+RQ  0
+EV  GenProp1391;
+--
+SN  18
+ID  Proline to cytochrome bo oxidase electron transfer
+RQ  0
+EV  GenProp1401;
+--
+SN  19
+ID  Aerobic respiration II (cytochrome c) (yeast)
+RQ  0
+EV  GenProp1426;
+--
+SN  20
+ID  Succinate to cytochrome bo oxidase electron transfer
+RQ  0
+EV  GenProp1493;
+--
+SN  21
+ID  Succinate to cytochrome bd oxidase electron transfer
+RQ  0
+EV  GenProp1515;
+--
+SN  22
+ID  Formate to trimethylamine N-oxide electron transfer
+RQ  0
+EV  GenProp1535;
+--
+SN  23
+ID  NADH to fumarate electron transfer
+RQ  0
+EV  GenProp1537;
+--
+SN  24
+ID  Glycerol-3-phosphate to cytochrome bo oxidase electron transfer
+RQ  0
+EV  GenProp1563;
+--
+SN  25
+ID  Hydrogen to trimethylamine N-oxide electron transfer
+RQ  0
+EV  GenProp1582;
+--
+SN  26
+ID  NADH to cytochrome bd oxidase electron transfer I
+RQ  0
+EV  GenProp1608;
+--
+SN  27
+ID  Aerobic respiration I (cytochrome c)
+RQ  0
+EV  GenProp1637;
+--
+SN  28
+ID  NADH to cytochrome bo oxidase electron transfer II
+RQ  0
+EV  GenProp1641;
+--
+SN  29
+ID  Hydrogen to fumarate electron transfer
+RQ  0
+EV  GenProp1672;
+--
+SN  30
+ID  Glycerol-3-phosphate to hydrogen peroxide electron transport
+RQ  0
+EV  GenProp1729;
+--
+SN  31
+ID  NADH to cytochrome bo oxidase electron transfer I
+RQ  0
+EV  GenProp1751;
+--
+SN  32
+ID  Respiratory chain complex II
+RQ  0
+EV  GenProp1112;
+--
+SN  33
+ID  Nitrate reductase A complex
+RQ  0
+EV  GenProp1122;
+--
+SN  34
+ID  Formate dehydrogenase N complex
+RQ  0
+EV  GenProp1135;
+--
+SN  35
+ID  Cytochrome bd-I ubiquinol oxidase complex
+RQ  0
+EV  GenProp1141;
+--
+SN  36
+ID  Plasma membrane fumarate reductase complex
+RQ  0
+EV  GenProp1143;
+--
+SN  37
+ID  DMSO reductase complex
+RQ  0
+EV  GenProp1148;
+--
+SN  38
+ID  Respiratory chain complex I
+RQ  0
+EV  GenProp1198;
+--
+SN  39
+ID  Cytochrome bd-II ubiquinol oxidase complex
+RQ  0
+EV  GenProp1202;
 //

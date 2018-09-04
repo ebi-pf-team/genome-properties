@@ -1,0 +1,27 @@
+AC  GenProp1528
+DE  Guanine and guanosine salvage
+TP  PATHWAY
+AU  Caspi R
+TH  0
+DC  Guanine and guanosine salvage
+DR  MetaCyc; PWY-6620;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Guanine phosphoribosyltransferase
+DN  Guanine phosphoribosyltransferase (EC 2.4.2.8)
+RQ  1
+EV  IPR005904; TIGR01203; sufficient;
+--
+SN  2
+ID  Guanosine phosphorylase
+DN  Guanosine phosphorylase (EC 2.4.2.15)
+RQ  1
+EV  IPR011268; TIGR01697; sufficient;
+EV  IPR011270; TIGR01700; sufficient;
+EV  IPR010943; TIGR01699; sufficient;
+EV  IPR004402; TIGR00107; sufficient;
+//

@@ -1,0 +1,28 @@
+AC  GenProp1729
+DE  Glycerol-3-phosphate to hydrogen peroxide electron transport
+TP  PATHWAY
+AU  Mackie A
+TH  0
+DC  Glycerol-3-phosphate to hydrogen peroxide electron transport
+DR  MetaCyc; PWY0-1591;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Glycerol-3-phosphate dehydrogenase, anaerobic
+DN  Glycerol-3-phosphate dehydrogenase, anaerobic (EC 1.1.5.3)
+RQ  1
+EV  IPR017752; TIGR03377; sufficient;
+EV  IPR009158; TIGR03378; sufficient;
+EV  IPR017753; TIGR03379; sufficient;
+--
+SN  2
+ID  Cytochrome c peroxidase
+DN  Cytochrome c peroxidase (EC 1.11.1)
+RQ  1
+EV  IPR004852; PF03150; sufficient;
+EV  IPR009056; PF00034; sufficient;
+EV  IPR025992; PF14376; sufficient;
+//

@@ -17,37 +17,39 @@ RT  effectors S6K1 and 4E-BP1/eukaryotic translation initiation
 RT  factor 4E.   
 RA  Fingar DC; Richardson CJ; Tee AR; Cheatham L; Tsou C; Blenis J;   
 RL  Mol Cell Biol. 2004;24:200-216.
+DC  mTOR signaling pathway
+DR  KEGG; map04150;
 CC  The mTORC1 (mammalian target of rapamycin) complex is a sensor 
-CC  detecting energy levels and amino acid abundance.  Once activated, 
-CC  the mTORC1 complex leads to protein synthesis [1].  Activation of 
-CC  mTORC1 occurs on the surface of the lysosome membrane.  The mTORC1 
+CC  detecting energy levels and amino acid abundance. Once activated, 
+CC  the mTORC1 complex leads to protein synthesis [1]. Activation of 
+CC  mTORC1 occurs on the surface of the lysosome membrane. The mTORC1 
 CC  complex leads to activation of eukaryote initiation factor 4F via 
-CC  S6K1, and removes inhibition by EIF4EBP1.  EIF4EBP1 prevents 
+CC  S6K1, and removes inhibition by EIF4EBP1. EIF4EBP1 prevents 
 CC  assembly of the eIF4F complex [2].
 --
 SN  1
 ID  mTORC1 complex
-DN  mTORC1 complex/1
+DN  mTORC1 complex
 RQ  1
 EV  GenProp2030;
 --
 SN  2
 ID  Eukaryotic translation initiation factor 4E-binding protein 1
-DN  Eukaryotic translation initiation factor 4E-binding protein 1 /2
+DN  Eukaryotic translation initiation factor 4E-binding protein 1
 RQ  1
 EV  IPR037582; PTHR12669:SF14; sufficient;
 TG  GO:0008190;
 --
 SN  3
 ID  Ribosomal protein S6 kinase beta-1
-DN  Ribosomal protein S6 kinase beta-1 (EC:2.7.11.1) /3
+DN  Ribosomal protein S6 kinase beta-1 (EC:2.7.11.1)
 RQ  1
 EV  IPR016238; PIRSF000605; sufficient;
 TG  GO:0004674;
 --
 SN  4
 ID  eI4F complex
-DN  eI4F complex/4
+DN  eI4F complex
 RQ  1
 EV  GenProp2034;
 //

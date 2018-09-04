@@ -1,0 +1,24 @@
+AC  GenProp1158
+DE  Molybdopterin-synthase adenylyltransferase complex
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+DR  Complex Portal; CPX-1968;
+DR  PDBe; 1jw9;
+DR  PDBe; 1jwb;
+CC  Involved in molybdopterin cofactor (Moco) biosynthesis under anaerobic
+CC  conditions. MoeB catalyses the adenylation of MoaD by ATP, a
+CC  requirement for MoaD's activity in MPT synthase (CPX-1970). Receives
+CC  sulfur moiety from IscS (P0a6b7). This process is evolutionarily conserved
+CC  and is equivalent to REACT_25073.1
+--
+SN  1
+ID  Molybdopterin-synthase adenylyltransferase
+RQ  1
+EV  IPR012730; TIGR02355; sufficient;
+--
+SN  2
+ID  Molybdopterin synthase sulfur carrier subunit
+RQ  1
+EV  IPR010034; TIGR01682; sufficient;
+//

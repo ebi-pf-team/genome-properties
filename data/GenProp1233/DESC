@@ -1,0 +1,24 @@
+AC  GenProp1233
+DE  L-glutamate degradation II
+TP  PATHWAY
+AU  Fulcher C, Caspi R
+TH  0
+DC  L-glutamate degradation II
+DR  MetaCyc; GLUTDEG-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Aspartate aminotransferase
+DN  Aspartate aminotransferase (EC 2.6.1.1)
+RQ  1
+EV  IPR004839; PF00155; sufficient;
+--
+SN  2
+ID  Aspartate ammonia-lyase
+DN  Aspartate ammonia-lyase (EC 4.3.1.1)
+RQ  1
+EV  IPR004708; TIGR00839; sufficient;
+//

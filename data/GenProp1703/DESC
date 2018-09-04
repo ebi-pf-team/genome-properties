@@ -1,0 +1,55 @@
+AC  GenProp1703
+DE  Retinol biosynthesis
+TP  PATHWAY
+AU  Caspi R
+TH  5
+DC  Retinol biosynthesis
+DR  MetaCyc; PWY-6857;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Lecithin:all-trans retinol acyltransferase
+DN  Lecithin:all-trans retinol acyltransferase (EC 2.3.1.135)
+RQ  1
+EV  IPR007053; PF04970; sufficient;
+--
+SN  2
+ID  All-trans-retinol dehydrogenase
+DN  All-trans-retinol dehydrogenase (EC 1.1.1.300)
+RQ  1
+EV  IPR002347; PF00106; sufficient;
+--
+SN  3
+ID  Cellular retinol-binding protein
+DN  Cellular retinol-binding protein
+RQ  1
+EV  IPR000566; PF00061; sufficient;
+--
+SN  4
+ID  Plasma retinol-binding protein
+DN  Plasma retinol-binding protein
+RQ  1
+EV  IPR000566; PF00061; sufficient;
+--
+SN  5
+ID  All-trans retinyl-ester hydrolase
+DN  All-trans retinyl-ester hydrolase (EC 3.1.1.1)
+RQ  1
+EV  IPR002018; PF00135; sufficient;
+--
+SN  6
+ID  TriacylGlycerol Lipase
+DN  TriacylGlycerol Lipase (EC 3.1.1.3)
+RQ  1
+EV  IPR001024; PF01477; sufficient;
+EV  IPR013818; PF00151; sufficient;
+--
+SN  7
+ID  Beta,beta-carotene 15,15'-dioxygenase
+DN  Beta,beta-carotene 15,15'-dioxygenase (EC 1.13.11.63)
+RQ  1
+EV  IPR004294; PF03055; sufficient;
+//

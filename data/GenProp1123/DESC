@@ -1,0 +1,51 @@
+AC  GenProp1123
+DE  DnaB-DnaG complex
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+RN  [1]
+RM  17947583
+RT  Structure of hexameric DnaB helicase and its complex with a domain of
+RT  DnaG primase.
+RA  Bailey S, Eliason WK, Steitz TA
+RL  Science. 2007;318:459-463
+RN  [2]
+RM  6323419
+RT  Structural and functional studies of the dnaB protein using limited
+RT  proteolysis. Characterization of domains for DNA-dependent ATP
+RT  hydrolysis and for protein association in the primosome.
+RA  Nakayama N, Arai N, Kaziro Y, Arai K
+RL  J Biol Chem. 1984;259:88-96
+RN  [3]
+RM  8702920
+RT  The extreme C terminus of primase is required for interaction with DnaB
+RT  at the replication fork.
+RA  Tougu K, Marians KJ
+RL  J Biol Chem. 1996;271:21391-21397
+RN  [4]
+RM  21856207
+RT  Replication initiation at the Escherichia coli chromosomal origin.
+RA  Kaguni JM
+RL  Curr Opin Chem Biol. 2011;15:606-613
+DR  Complex Portal; CPX-1933;
+CC  Involved in the synthesis of RNA primer sequences used in DNA
+CC  replication. DnaG binding to DnaB displaces DnaC from DnaB (CPX-1934),
+CC  activates the helicase and transposition activity of DnaB and thereby
+CC  moves replication from the initiation to the priming phase. The
+CC  interaction of the DnaB helicase and DnaG primase at the replication
+CC  fork stimulates each others activities: As the helicase unwinds the
+CC  parental DNA, the primase synthesises Okasaki RNA primers. Finally, 
+CC  DNA Polymerase III holoenzyme docks onto the primer-ssDNA duplex and
+CC  initiates DNA synthesis.
+--
+SN  1
+ID  DNA primase (DnaG)
+RQ  1
+EV  IPR030846; MF_00974; sufficient;
+EV  IPR030846; PIRSF002811; sufficient;
+--
+SN  2
+ID  Replicative DNA helicase (DnaB)
+RQ  1
+EV  IPR007692; TIGR00665; sufficient;
+//

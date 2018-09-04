@@ -57,12 +57,12 @@ EV  GenProp0475;
 SN  13
 ID  Regulatory systems
 RQ  0
-EV  GenProp0551;
+EV  GenProp1211;
 --
 SN  14
-ID  Response to external environment
+ID  Response to stimulus
 RQ  0
-EV  GenProp0864;
+EV  GenProp1213;
 --
 SN  15
 ID  Quorum-sensing, biofilm formation, and developmental systems
@@ -73,4 +73,9 @@ SN  16
 ID  Defense systems
 RQ  0
 EV  GenProp1067;
+--
+SN  17
+ID  Hormone systems
+RQ  0
+EV  GenProp1778;
 //

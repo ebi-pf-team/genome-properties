@@ -82,4 +82,149 @@ SN  15
 ID  GDP-D-mannose biosynthesis from b-D-fructose-6-phosphate
 RQ  0
 EV  GenProp1017;
+--
+SN  16
+ID  Glycogen biosynthesis I (from ADP-D-Glucose)
+RQ  0
+EV  GenProp1247;
+--
+SN  17
+ID  Glycogen biosynthesis II (from UDP-D-Glucose)
+RQ  0
+EV  GenProp1483;
+--
+SN  18
+ID  Chondroitin sulfate biosynthesis
+RQ  0
+EV  GenProp1526;
+--
+SN  19
+ID  Heparan sulfate biosynthesis
+RQ  0
+EV  GenProp1595;
+--
+SN  20
+ID  Glycosaminoglycan-protein linkage region biosynthesis
+RQ  0
+EV  GenProp1699;
+--
+SN  21
+ID  Protein O-[N-acetyl]-glucosylation
+RQ  0
+EV  GenProp1442;
+--
+SN  22
+ID  Complex N-linked glycan biosynthesis (plants)
+RQ  0
+EV  GenProp1444;
+--
+SN  23
+ID  Protein O-mannosylation III (mammals, core M3)
+RQ  0
+EV  GenProp1455;
+--
+SN  24
+ID  Complex N-linked glycan biosynthesis (vertebrates)
+RQ  0
+EV  GenProp1524;
+--
+SN  25
+ID  i antigen and I antigen biosynthesis
+RQ  0
+EV  GenProp1545;
+--
+SN  26
+ID  Protein N-glycosylation processing phase (yeast)
+RQ  0
+EV  GenProp1706;
+--
+SN  27
+ID  Mucin core 1 and core 2 O-glycosylation
+RQ  0
+EV  GenProp1712;
+--
+SN  28
+ID  Cis-alkene biosynthesis
+RQ  0
+EV  GenProp1473;
+--
+SN  29
+ID  Hentriaconta-3,6,9,12,15,19,22,25,28-nonaene biosynthesis
+RQ  0
+EV  GenProp1364;
+--
+SN  30
+ID  Gluconeogenesis I
+RQ  0
+EV  GenProp1344;
+--
+SN  31
+ID  Gluconeogenesis III
+RQ  0
+EV  GenProp1612;
+--
+SN  32
+ID  ADP-L-glycero-&beta;-D-manno-heptose biosynthesis
+RQ  0
+EV  GenProp1239;
+--
+SN  33
+ID  dTDP-N-acetylthomosamine biosynthesis
+RQ  0
+EV  GenProp1403;
+--
+SN  34
+ID  GDP-L-fucose biosynthesis I (from GDP-D-mannose)
+RQ  0
+EV  GenProp1429;
+--
+SN  35
+ID  UDP-N-acetyl-D-glucosamine biosynthesis II
+RQ  0
+EV  GenProp1222;
+--
+SN  36
+ID  UDP-N-acetyl-D-glucosamine biosynthesis I
+RQ  0
+EV  GenProp1443;
+--
+SN  37
+ID  UDP-alpha-D-xylose biosynthesis
+RQ  0
+EV  GenProp1260;
+--
+SN  38
+ID  UDP-beta-L-arabinose biosynthesis II (from beta-L-arabinose)
+RQ  0
+EV  GenProp1330;
+--
+SN  39
+ID  UDP-alpha-D-glucuronate biosynthesis (from myo-inositol)
+RQ  0
+EV  GenProp1347;
+--
+SN  40
+ID  UDP-2,3-diacetamido-2,3-dideoxy-alpha-D-mannuronate biosynthesis
+RQ  0
+EV  GenProp1468;
+--
+SN  41
+ID  UDP-N-acetyl-alpha-D-mannosaminouronate biosynthesis
+RQ  0
+EV  GenProp1549;
+--
+SN  42
+ID  UDP-beta-L-rhamnose biosynthesis
+RQ  0
+EV  GenProp1713;
+--
+SN  43
+ID  UDP-alpha-D-glucose biosynthesis I
+RQ  0
+EV  GenProp1743;
+--
+SN  44
+ID  Colanic acid building blocks biosynthesis
+RQ  0
+EV  GenProp1648;
 //

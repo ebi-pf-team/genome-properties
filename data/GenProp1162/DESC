@@ -1,0 +1,26 @@
+AC  GenProp1162
+DE  Hda-beta clamp complex
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+DR  Complex Portal; CPX-1954;
+CC  Part of the replication initiation inhibiting machinery. The
+CC  interaction of Hda with the beta clamp of the DNA polymerase III
+CC  holoenzyme activates the ATPase activity of DnaA, transforming DnaA-ATP
+CC  to DnaA-ADP and thereby inhibiting further initiation of replication
+CC  events.
+--
+SN  1
+ID  DnaA regulatory inactivator Hda
+RQ  1
+EV  IPR017788; TIGR03420; sufficient;
+--
+SN  2
+ID  Beta sliding clamp
+RQ  1
+EV  IPR001001; PIRSF000804; sufficient;
+EV  IPR001001; PTHR30478; sufficient;
+EV  IPR001001; SM00480; sufficient;
+EV  IPR001001; TIGR00663; sufficient;
+EV  IPR001001; cd00140; sufficient;
+//

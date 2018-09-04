@@ -1,6 +1,6 @@
 AC  GenProp2056
 DE  ADA2A-containing complex (ATAC)
-TP  SYSTEM
+TP  COMPLEX
 AU  Rawlings ND
 TH  3
 RN  [1]
@@ -23,14 +23,14 @@ CC  DR1 [1].
 --
 SN  1
 ID  Cysteine-rich protein 2-binding protein (KAT14) 
-DN  Cysteine-rich protein 2-binding protein (KAT14)/1
+DN  Cysteine-rich protein 2-binding protein (KAT14)
 RQ  1
 EV  IPR037829; PTHR20916:SF0; sufficient;
 TG  GO:0005671;
 --
 SN  2
 ID  Histone acetyltransferase KAT2A 
-DN  Histone acetyltransferase KAT2A /2
+DN  Histone acetyltransferase GCN5 (KAT2A)
 RQ  1
 EV  IPR037800; PTHR22880:SF124; sufficient;
 TG  GO:0043966;
@@ -38,14 +38,14 @@ TG  GO:0005671;
 --
 SN  3
 ID  Transcriptional adapter 2-alpha (TADA2L)
-DN  Transcriptional adapter 2-alpha (TADA2L) /3
+DN  Transcriptional adapter 2-alpha (TADA2L)
 RQ  1
 EV  IPR034317; PTHR12374:SF38; sufficient;
 TG  GO:0005671;
 --
 SN  4
 ID  Transcriptional adapter 3 (TADA3L) 
-DN  Transcriptional adapter 3 (TADA3L) /4
+DN  Histone acetyltransferases subunit 3 (TADA3L)
 RQ  1
 EV  IPR019340; PF10198; sufficient;
 EV  IPR019340; PTHR13556; sufficient;
@@ -53,42 +53,42 @@ TG  GO:0005671;
 --
 SN  5
 ID  ZZ-type zinc finger-containing protein 3 (ZZZ3)
-DN  ZZ-type zinc finger-containing protein 3 (ZZZ3) /5
+DN  ZZ-type zinc finger-containing protein 3 (ZZZ3)
 RQ  1
 EV  IPR037830; PTHR22705:SF0; sufficient;
 TG  GO:0005671;
 --
 SN  6
 ID  MAP3K12-binding inhibitory protein 1 (MBIP) 
-DN  MAP3K12-binding inhibitory protein 1 (MBIP) /6
+DN  MAP3K12-binding inhibitory protein 1 (MBIP)
 RQ  1
 EV  IPR026062; PTHR23404:SF3; sufficient;
 TG  GO:0005671;
 --
 SN  7
 ID  WD repeat-containing protein 5 (WDR5)
-DN  WD repeat-containing protein 5 (WDR5)/7
+DN  WD repeat-containing protein 5 (WDR5)
 RQ  1
 EV  IPR037834; PTHR22847:SF560; sufficient;
 TG  GO:0005671;
 --
 SN  8
 ID  YEATS domain-containing protein 2 (YEATS2)
-DN  YEATS domain-containing protein 2 (YEATS2)/8
+DN  YEATS domain-containing protein 2 (YEATS2)
 RQ  1
 EV  -; PTHR23195:SF7; sufficient;
 TG  GO:0005671;
 --
 SN  9
 ID  SAGA-associated factor 29 (CCDC101)
-DN  SAGA-associated factor 29 (CCDC101)/9
+DN  SAGA-associated factor 29 (CCDC101)
 RQ  1
 EV  IPR037802; PTHR21539; sufficient;
 TG  GO:0005671;
 --
 SN  10
 ID  Protein Dr1 
-DN  Protein Dr1 /10
+DN  Protein Dr1
 RQ  1
 EV  -; PTHR11064:SF8; sufficient;
 TG  GO:0005671;

@@ -1,0 +1,33 @@
+AC  GenProp1146
+DE  Dha Kinase
+TP  COMPLEX
+AU  Complex Portal
+TH  2
+DR  Complex Portal; CPX-2634;
+DR  PDBe; 3pnl;
+CC  Catalyses the phosphorylation of dihydroxyacetone (Dha) using
+CC  phosphoenolpyruvate (PEP) as a phosphoryl donor. Dihydroxyacetone
+CC  phosphate (Dha-P) is an intermediate for the synthesis of pyruvate. The
+CC  E1 domain of DhaM catalyses the phosphoryl transfer from PEP to the
+CC  small (9 kDa) soluble HPr (histidine-containing phosphoryl carrier
+CC  protein) domain. Phosphorylated DhaM binds to ADP-bound DhaL and
+CC  transiently phosphorylates the ADP. ATP-loaded DhaL associates with
+CC  DhaK containing the Dha substrate covalently bound to His-218 through a
+CC  hemiaminal bond. Coenzyme, ATP-bound DhaL transfers a phosphate to Dha
+CC  yielding Dha-P.
+--
+SN  1
+ID  PEP-dependent dihydroxyacetone kinase, ADP-binding subunit DhaL
+RQ  1
+EV  IPR012737; TIGR02365; sufficient;
+--
+SN  2
+ID  PEP-dependent dihydroxyacetone kinase, dihydroxyacetone-binding subunit DhaK
+RQ  1
+EV  IPR012736; TIGR02363; sufficient;
+--
+SN  3
+ID  Protein-lysine deacetylase
+RQ  1
+EV  IPR012844; TIGR02364; sufficient;
+//

@@ -1,0 +1,33 @@
+AC  GenProp1578
+DE  Methylglyoxal degradation I
+TP  PATHWAY
+AU  Caspi R
+TH  1
+DC  Methylglyoxal degradation I
+DR  MetaCyc; PWY-5386;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  D-lactate dehydrogenase
+DN  D-lactate dehydrogenase (EC 1.1.5.12)
+RQ  1
+EV  IPR006094; PF01565; sufficient;
+EV  IPR015409; PF09330; sufficient;
+--
+SN  2
+ID  Glyoxalase I
+DN  Glyoxalase I (EC 4.4.1.5)
+RQ  1
+EV  IPR004361; TIGR00068; sufficient;
+--
+SN  3
+ID  Hydroxyacylglutathione hydrolase
+DN  Hydroxyacylglutathione hydrolase (EC 3.1.2.6)
+RQ  1
+EV  IPR000801; PF00756; sufficient;
+EV  IPR014186; TIGR02821; sufficient;
+EV  IPR017782; TIGR03413; sufficient;
+//

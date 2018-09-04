@@ -1,0 +1,30 @@
+AC  GenProp1367
+DE  D-lactate to cytochrome bo oxidase electron transfer
+TP  PATHWAY
+AU  Mackie A
+TH  0
+DC  D-lactate to cytochrome bo oxidase electron transfer
+DR  MetaCyc; PWY0-1565;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  D-lactate dehydrogenase
+DN  D-lactate dehydrogenase (EC 1.1.5.12)
+RQ  1
+EV  IPR006094; PF01565; sufficient;
+EV  IPR015409; PF09330; sufficient;
+--
+SN  2
+ID  Ubiquinol oxidase (H+-transporting)
+DN  Ubiquinol oxidase (H+-transporting) (EC 1.10.3.10)
+RQ  1
+EV  IPR006333; TIGR01433; sufficient;
+EV  IPR000883; PF00115; sufficient;
+EV  IPR014207; TIGR02843; sufficient;
+EV  IPR014206; TIGR02842; sufficient;
+EV  IPR005171; PF03626; sufficient;
+EV  IPR014210; TIGR02847; sufficient;
+//

@@ -1,0 +1,54 @@
+AC  GenProp1171
+DE  YgjD-YeaZ-YjeE complex
+TP  COMPLEX
+AU  Complex Portal
+TH  2
+RN  [1]
+RM  23242255
+RT  A cyclic form of N6-threonylcarbamoyladenosine as a widely distributed
+RT  tRNA hypermodification.
+RA  Miyauchi K, Kimura S, Suzuki T
+RL  Nat Chem Biol. 2013;9:105-111
+RN  [2]
+RM  25578970
+RT  The ATP-mediated formation of the YgjD-YeaZ-YjeE complex is required
+RT  for the biosynthesis of tRNA t6A in Escherichia coli.
+RA  Zhang W, Collinet B, Perrochia L, Durand D, van Tilbeurgh H
+RL  Nucleic Acids Res. 2015;43:1804-1817
+DR  Complex Portal; CPX-1094;
+DR  PDBe; 4wq4;
+DR  PDBe; 4ydu;
+DR  PDBe; 4wq5;
+CC  Catalyses the transfer of the threonylcarbamoyl-moiety of
+CC  threonylcarbamoyladenylate onto A37 of substrate tRNA in the cytoplasm,
+CC  or more probably in E.coli, the formation of 'cyclic t6A' (ct6A), which
+CC  is a cyclized active ester with an oxazolone ring. The
+CC  N6-threonylcarbamoyladenosine (t6A) modification is present at position
+CC  37 of tRNAs that recognize ANN-codons, with N being any nucleotide,
+CC  enhancing the codon-anti-codon interaction and is required for
+CC  recognition of the AUG start codon. The modification is thus important
+CC  for maintaining translational fidelity. A stable YgjD-YeaZ heterodimer
+CC  first forms, which has an atypical ADP-binding site at the YgjD-YeaZ
+CC  interface that may also be the binding site for YjeE as the ternary
+CC  complex only forms in the presence of ATP. An additional YrdC protein
+CC  is necessary for T6a activity.
+--
+SN  1
+ID  tRNA threonylcarbamoyladenosine biosynthesis protein TsaB (YeaZ)
+RQ  1
+EV  IPR022496; PTHR11735:SF11; sufficient;
+EV  IPR022496; TIGR03725; sufficient;
+--
+SN  2
+ID  tRNA threonylcarbamoyladenosine biosynthesis protein TsaE (YgjE)
+RQ  1
+EV  IPR003442; PF02367; sufficient;
+EV  IPR003442; TIGR00150; sufficient;
+--
+SN  3
+ID  tRNA N6-adenosine threonylcarbamoyltransferase (TsaD/YgjD)
+RQ  1
+EV  IPR022450; MF_01445; sufficient;
+EV  IPR022450; PTHR11735:SF6; sufficient;
+EV  IPR022450; TIGR03723; sufficient;
+//

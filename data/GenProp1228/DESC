@@ -1,0 +1,32 @@
+AC  GenProp1228
+DE  L-idonate degradation
+TP  PATHWAY
+AU  Keseler I, Pellegrini-Toole A
+TH  1
+DC  L-idonate degradation
+DR  MetaCyc; IDNCAT-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  L-idonate 5-dehydrogenase
+DN  L-idonate 5-dehydrogenase (EC 1.1.1.264)
+RQ  1
+EV  IPR013149; PF00107; sufficient;
+EV  IPR013154; PF08240; sufficient;
+--
+SN  2
+ID  5-Keto-D-gluconate 5-reductase
+DN  5-Keto-D-gluconate 5-reductase (EC 1.1.1.69)
+RQ  1
+EV  IPR002347; PF00106; sufficient;
+--
+SN  3
+ID  Gluconate kinase
+DN  Gluconate kinase (EC 2.7.1.12)
+RQ  1
+EV  IPR006001; TIGR01313; sufficient;
+EV  IPR031322; PF01202; sufficient;
+//

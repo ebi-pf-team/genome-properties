@@ -1,0 +1,66 @@
+AC  GenProp1412
+DE  Glycogen degradation I
+TP  PATHWAY
+AU  Riley M
+TH  6
+DC  Glycogen degradation I
+DR  MetaCyc; GLYCOCAT-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Maltotriose 4-alpha-glucanotransferase
+DN  Maltotriose 4-alpha-glucanotransferase (EC 2.4.1.25)
+RQ  1
+EV  IPR003385; PF02446; sufficient;
+EV  IPR003385; TIGR00217; sufficient;
+--
+SN  2
+ID  Glucokinase
+DN  Glucokinase (EC 2.7.1.2)
+RQ  1
+EV  IPR003836; PF02685; sufficient;
+EV  IPR003836; TIGR00749; sufficient;
+--
+SN  3
+ID  Glycogen phosphorylase
+DN  Glycogen phosphorylase (EC 2.4.1.1)
+RQ  1
+EV  IPR000811; PF00343; sufficient;
+EV  IPR011833; TIGR02093; sufficient;
+--
+SN  4
+ID  Phosphoglucomutase
+DN  Phosphoglucomutase (EC 5.4.2.2)
+RQ  1
+EV  IPR005852; TIGR01132; sufficient;
+--
+SN  5
+ID  Glycogen phosphorylase
+DN  Glycogen phosphorylase (EC 2.4.1.1)
+RQ  1
+EV  IPR000811; PF00343; sufficient;
+EV  IPR011833; TIGR02093; sufficient;
+--
+SN  6
+ID  Limit dextrin alpha-1,6-glucohydrolase
+DN  Limit dextrin alpha-1,6-glucohydrolase (EC 3.2.1.196)
+RQ  1
+EV  IPR011837; TIGR02100; sufficient;
+--
+SN  7
+ID  Maltodextrin phosphorylase
+DN  Maltodextrin phosphorylase (EC 2.4.1.1)
+RQ  1
+EV  IPR000811; PF00343; sufficient;
+EV  IPR011833; TIGR02093; sufficient;
+--
+SN  8
+ID  Maltodextrin glucosidase
+DN  Maltodextrin glucosidase (EC 3.2.1.20)
+RQ  1
+EV  IPR004185; PF02903; sufficient;
+EV  IPR006047; PF00128; sufficient;
+//

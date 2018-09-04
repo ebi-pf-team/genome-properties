@@ -5,6 +5,7 @@ use warnings;
 use Carp;
 use Clone 'clone';
 use JSON;
+use Try::Tiny;
 use DDP;
 use LWP::UserAgent;
 
@@ -16,10 +17,11 @@ my %TYPES = ( METAPATH => 1,
               CATEGORY => 1,
               PATHWAY  => 1,
               SUMMARY  => 1,
+              COMPLEX  => 1,
               #ROOT     => 1
               );
 
-my @ORDER = qw(PATHWAY METAPATH SYSTEM GUILD CATEGORY);
+my @ORDER = qw(PATHWAY COMPLEX METAPATH SYSTEM GUILD CATEGORY);
 
 sub validateGP {
   my($gp, $options) = @_;
@@ -588,7 +590,7 @@ sub parseDESC {
         for ( ; $i <= $#file ; $i++ ) {
           if ( $file[$i] =~ /^DC\s{2}(.*)/ ) {
             $com .= " " if ($com);
-            $com = $1;
+            $com .= $1;
           }
           else {
             last;
@@ -625,6 +627,12 @@ sub parseDESC {
         }
         elsif ( $file[$i] =~ /^DR  (URL);\s+(\S+);$/ ) {
           print STDERR "Please check the URL $2\n";
+          push( @{ $params{DBREFS} }, { db_id => $1, db_link => $2 } );
+        }
+        elsif ( $file[$i] =~ /^DR  (Complex Portal);\s+(CPX-\S+);$/ ) {
+          push( @{ $params{DBREFS} }, { db_id => $1, db_link => $2 } );
+        }
+        elsif ( $file[$i] =~ /^DR  (PDBe);\s+(\S{4});$/ ) {
           push( @{ $params{DBREFS} }, { db_id => $1, db_link => $2 } );
         }
         elsif ( $file[$i] =~ /^DR/ ) {
@@ -715,10 +723,11 @@ sub parseSteps {
     }elsif($l =~ /^EV\s{2}(GenProp\d{4});$/){
         my $gp = $1;
         my $nl = $file->[$$i + 1];
-        my $go = '';
-        if($nl =~ /^TG\s{2}(GO\:\d+);$/){
-          $go = $1;
+        my $go = [];
+        while($nl =~ /^TG\s{2}(GO\:\d+);$/){
+          push(@$go, $1);
           $$i++;
+          $nl = $file->[$$i + 1];
         }
         push(@{$step{EVID}}, { gp => $gp, go => $go });
     }elsif($l =~ /^--$/){  
@@ -827,6 +836,158 @@ sub stats {
   close(AS);
 
   return 1;
+}
+
+sub gp2db {
+  my ($gp, $schema) = @_;
+
+  my $retryMax;
+  if($gp->get_defs){
+     my @gps = sort keys %{$gp->get_defs};
+     
+
+
+     for (my $i=0; $i <= $#gps; $i++) {
+        my $prop_acc = $gps[$i]++;
+        my $prop = $gp->get_def($prop_acc);
+        
+        # Need to see if this has any deps.
+        
+        
+        my $row = 
+        $schema->resultset('GenomeProperty')->update_or_create( 'accession'   => $prop_acc,
+                                                                'description' => $prop->name,
+                                                                'type'        => $prop->type,
+                                                                'author'      => $prop->author,
+                                                                'threshold'   => $prop->threshold,
+                                                                'comment'     => $prop->comment,
+                                                                'private'     => defined($prop->private) ? $prop->private : undef,
+                                                                'ispublic'    => $prop->public,
+                                                                'checked'     => 1); #TODO - checked is hard coded to 1.
+        eval {  
+          addReferences2DB($prop->refs, $prop_acc, $schema); 
+          addDBrefs2DB($prop->dbrefs, $prop_acc, $schema); 
+          addSteps2DB( $prop->get_steps, $prop_acc, $schema);      
+        };
+        if($@) {
+          if(defined($retryMax->{$prop_acc}) and $retryMax->{$prop_acc}->{count} <5){
+            $retryMax->{$prop_acc}->{count}++;
+            $retryMax->{$prop_acc}->{reason} .= $@;
+            push(@gps, $prop_acc);
+          }elsif(!defined($retryMax->{$prop_acc})){
+            $retryMax->{$prop_acc}->{count}++;
+            $retryMax->{$prop_acc}->{reason} .= $@; 
+            push(@gps, $prop_acc);
+          }else{
+            die "Failed to add $prop_acc because ".$retryMax->{$prop_acc}->{reason}."\n";
+          }
+        }
+     }
+
+
+  }
+
+
+}
+
+sub addReferences2DB {
+  my ($refs, $prop_acc, $schema) = @_;
+  
+  #First add all of the articles to the database. We do not care if an article is not longer used,
+  #we just want to keep adding any new items.
+  foreach my $ref (@$refs){
+    $schema->resultset('LiteratureReference')->update_or_create('pmid'    => $ref->{RM},
+                                                                'title'   => $ref->{RT},
+                                                                'author'  => $ref->{RA},
+                                                                'journal' => $ref->{RL} );  
+  }
+
+  #Now delete all of the links between
+  $schema->resultset('GpLitRef')->search({'gp_accession' => $prop_acc})->delete;  
+  foreach my $ref (@$refs){
+    $schema->resultset('GpLitRef')->create({'gp_accession' => $prop_acc,
+                                           'literature_reference_pmid' => $ref->{RM},
+                                           'list_order' => $ref->{RN} });  
+  }
+}
+
+sub addDBrefs2DB {
+  my ($dbrefs, $prop_acc, $schema) = @_;
+
+  #Now delete all of the links between
+  $schema->resultset('GpDatabaseLink')->search({'gp_accession' => $prop_acc})->delete;  
+  foreach my $ref (@$dbrefs){
+    $schema->resultset('GpDatabaseLink')->create({'gp_accession' => $prop_acc,
+                                                  'db_id' => $ref->{db_id},
+                                                  'db_link' => $ref->{db_link},  
+                                                  'other_params' => defined($ref->{other_params})? $ref->{other_params} : undef,
+                                                  'comment' => defined($ref->{db_comment}) ? $ref->{db_comment} : undef });
+  }
+}
+
+sub addSteps2DB {
+  my ($steps, $prop_acc, $schema) = @_; 
+  
+  
+  $schema->resultset('GpStep')->search({'gp_accession' => $prop_acc})->delete;  
+  
+  foreach my $step (@$steps ){
+    #Insert the row....
+    my $GpStep = $schema->resultset('GpStep')->create({'gp_accession' => $prop_acc,  
+                                                       'required'     => $step->required,
+                                                       'step_number'  => $step->order,
+                                                       'step_id'      => $step->step_name,
+                                                       'step_display_name' => $step->alter_name});
+    
+   	my $ua = LWP::UserAgent->new;
+ 		$ua->timeout(10);
+ 		$ua->env_proxy;
+    $ua->ssl_opts( 'verify_hostname' => 0 );
+    
+    foreach my $evidence (@{$step->get_evidence}){
+      my $gos = $evidence->get_go;
+      foreach my $go ( @$gos ){
+        my $go_row = $schema->resultset('GoTerm')->find({ 'go_id' => $go } );
+        if(!$go_row){
+ 		      my $response = $ua->get("https://www.ebi.ac.uk/ols/api/ontologies/go/terms?obo_id=$go"); 
+		      if ($response->is_success) {
+            my $goInfo = from_json( $response->content );
+            my $cat = $goInfo->{_embedded}->{terms}->[0]->{annotation}->{has_obo_namespace};
+            if(!defined($cat)){
+              $cat = "obsolete";
+            }
+            my $text = $goInfo->{_embedded}->{terms}->[0]->{label};
+            $schema->resultset('GoTerm')->create({ 'go_id' => $go, 'term' => $text, 'category' => $cat});
+ 		      } else {
+            die "Failed to find the GO term $go in GP $prop_acc\n";
+          }
+        }
+      }
+      
+      #Find the GP terms and add them to the GO table
+      if($evidence->gp){
+        #Put this in the GP table....
+        my $GPevidence = $schema->resultset('GpStepEvidenceGp')->create({ 'auto_step' => $GpStep->auto_step,
+                                                                          'gp_accession' => $evidence->gp });
+        foreach my $go (@$gos){
+          $schema->resultset('GpStepToGo')->create({'auto_gp_step' => $GPevidence->auto_ipr_step,
+                                                    'go_id'        => $go });
+        }
+      }else{
+        #Put this evidence in the InterPro table
+        my $iprEvid = $schema->resultset('GpStepEvidenceIpr')->create({ 'auto_step' => $GpStep->auto_step,
+                                                                         'interpro_acc' => $evidence->interpro,
+                                                                         'sufficient' => (defined($evidence->type) and $evidence->type eq 'sufficient') ? 1 : 0,
+                                                                         'signature_acc' => $evidence->accession });
+        foreach my $go (@$gos){
+          $schema->resultset('IprStepToGo')->create({'auto_ipr_step' => $iprEvid->auto_ipr_step,
+                                                     'go_id'         => $go });
+        }
+      }
+    }
+  }
+
+
 }
 
 1;

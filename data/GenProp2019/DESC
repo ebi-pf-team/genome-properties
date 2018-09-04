@@ -1,8 +1,8 @@
 AC  GenProp2019
-DE  Executor caspases
-TP  SYSTEM
+DE  Executor caspases of apoptosis
+TP  GUILD
 AU  Rawlings ND
-TH  1
+TH  0
 RN  [1]
 RM  14499155
 RT  Apoptosis: the complex scenario for a silent cell death.
@@ -42,20 +42,13 @@ CC  apoptosis are of two kinds: initiators and executors. Initiator
 CC  caspases activate the executor caspases which cleave other proteins
 CC  in the cell [3,4]. This Genome Property includes the executor 
 CC  caspases.
-**  IPR015470 is caspase-3, but PTHR10454:SF31 contains caspase-7
-**  IPR015471 is caspase-7, but PTHR10454:SF31 contains caspase-3
-**  Neither are checked = Y.
+**  IPR015471 matches both caspase-3 and caspase-7, so these have been
+**  merged into a single step for now, and the threshold adjusted.
+**  
 --
 SN  1
-ID  Caspase-3
-DN  Caspase-3 (EC:3.4.22.56) 
-RQ  1
-EV  IPR015470; PTHR10454:SF31; sufficient;
-TG  GO:0097200;
---
-SN  2
-ID  Caspase-7
-DN  Caspase-7 (EC:3.4.22.60)
+ID  Caspase-3/7
+DN  Caspase-3/7 (EC:3.4.22.-) 
 RQ  1
 EV  IPR015471; PTHR10454:SF31; sufficient;
 TG  GO:0097200;

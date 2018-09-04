@@ -1,0 +1,78 @@
+AC  GenProp1776
+DE  Nucleosides and nucleotides degradation
+TP  CATEGORY
+AU  Richardson L
+TH  0
+CC  The chemical reactions and pathways resulting in the degradation of
+CC  nucleosides and nucleotides.
+--
+SN  1
+ID  Adenosine nucleotides degradation II
+RQ  0
+EV  GenProp1255;
+--
+SN  2
+ID  Guanosine nucleotides degradation III
+RQ  0
+EV  GenProp1469;
+--
+SN  3
+ID  Purine ribonucleosides degradation
+RQ  0
+EV  GenProp1278;
+--
+SN  4
+ID  Purine deoxyribonucleosides degradation I
+RQ  0
+EV  GenProp1323;
+--
+SN  5
+ID  Purine deoxyribonucleosides degradation II
+RQ  0
+EV  GenProp1568;
+--
+SN  6
+ID  Inosine 5'-phosphate degradation
+RQ  0
+EV  GenProp1753;
+--
+SN  7
+ID  Pyrimidine deoxyribonucleosides degradation
+RQ  0
+EV  GenProp1410;
+--
+SN  8
+ID  Thymine degradation
+RQ  0
+EV  GenProp1273;
+--
+SN  9
+ID  UTP and CTP dephosphorylation II
+RQ  0
+EV  GenProp1396;
+--
+SN  10
+ID  Pyrimidine ribonucleosides degradation
+RQ  0
+EV  GenProp1576;
+--
+SN  11
+ID  S-methyl-5'-thioadenosine degradation I
+RQ  0
+EV  GenProp1482;
+--
+SN  12
+ID  Superpathway of pyrimidine ribonucleosides degradation
+RQ  0
+EV  GenProp1380;
+--
+SN  13
+ID  Superpathway of pyrimidine deoxyribonucleosides degradation
+RQ  0
+EV  GenProp1631;
+--
+SN  14
+ID  Superpathway of purine deoxyribonucleosides degradation
+RQ  0
+EV  GenProp1752;
+//

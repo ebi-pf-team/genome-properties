@@ -1,0 +1,25 @@
+AC  GenProp1330
+DE  UDP-beta-L-arabinose biosynthesis II (from beta-L-arabinose)
+TP  PATHWAY
+AU  N/A
+TH  0
+DC  UDP-beta-L-arabinose biosynthesis II (from beta-L-arabinose)
+DR  MetaCyc; PWY-82;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Arabinose kinase
+DN  Arabinose kinase (EC 2.7.1.46)
+RQ  1
+EV  IPR006204; PF00288; sufficient;
+EV  IPR019539; PF10509; sufficient;
+--
+SN  2
+ID  UDP-L-arabinose pyrophosphorylase
+DN  UDP-L-arabinose pyrophosphorylase (EC 2.7.7.37)
+RQ  1
+EV  IPR002618; PF01704; sufficient;
+//

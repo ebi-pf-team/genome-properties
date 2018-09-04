@@ -25,4 +25,19 @@ SN  4
 ID  Homocysteine regeneration from S-adenosylhomocysteine
 RQ  0
 EV  GenProp0789;
+--
+SN  5
+ID  Aspartate superpathway
+RQ  0
+EV  GenProp1250;
+--
+SN  6
+ID  D-serine metabolism
+RQ  0
+EV  GenProp1274;
+--
+SN  7
+ID  Superpathway of chorismate metabolism
+RQ  0
+EV  GenProp1291;
 //

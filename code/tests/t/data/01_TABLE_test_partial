@@ -1,0 +1,4 @@
+acc	description	property_value	step_number	step_name	step_value	required?	evidence_type	evidence_name	best_HMM_hit	HMM_hit_count
+GenProp0111	Proline biosynthesis from glutamate	PARTIAL	1	Glutamate 5-kinase	0	1	InterPro
+GenProp0111	Proline biosynthesis from glutamate	PARTIAL	2	Glutamate-5-semialdehyde dehydrogenase	1	1	InterPro
+GenProp0111	Proline biosynthesis from glutamate	PARTIAL	3	Pyrroline-5-carboxylate reductase	1	1	InterPro

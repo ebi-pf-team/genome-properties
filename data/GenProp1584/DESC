@@ -1,0 +1,26 @@
+AC  GenProp1584
+DE  L-aspartate degradation II
+TP  PATHWAY
+AU  Fulcher C
+TH  0
+DC  L-aspartate degradation II
+DR  MetaCyc; MALATE-ASPARTATE-SHUTTLE-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Aspartate aminotransferase
+DN  Aspartate aminotransferase (EC 2.6.1.1)
+RQ  1
+EV  IPR004839; PF00155; sufficient;
+--
+SN  2
+ID  Malate dehydrogenase (NAD)
+DN  Malate dehydrogenase (NAD) (EC 1.1.1.37)
+RQ  1
+EV  IPR010945; TIGR01759; sufficient;
+EV  IPR011274; TIGR01758; sufficient;
+EV  IPR010097; TIGR01772; sufficient;
+//

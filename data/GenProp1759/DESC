@@ -1,0 +1,54 @@
+AC  GenProp1759
+DE  Spermidine hydroxycinnamic acid conjugates biosynthesis
+TP  PATHWAY
+AU  Zhang P
+TH  5
+DC  Spermidine hydroxycinnamic acid conjugates biosynthesis
+DR  MetaCyc; PWY-6442;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Spermidine:4-coumaroyl-CoA N-acyltransferase
+DN  Spermidine:4-coumaroyl-CoA N-acyltransferase (EC 2.3.1.M34)
+RQ  1
+EV  IPR003480; PF02458; sufficient;
+--
+SN  2
+ID  Spermidine:caffeoyl-CoA N-acyltransferase
+DN  Spermidine:caffeoyl-CoA N-acyltransferase (EC 2.3.1.M34)
+RQ  1
+EV  IPR003480; PF02458; sufficient;
+--
+SN  3
+ID  Spermidine:feruloyl-CoA N-acyltransferase
+DN  Spermidine:feruloyl-CoA N-acyltransferase (EC 2.3.1.M34)
+RQ  1
+EV  IPR003480; PF02458; sufficient;
+--
+SN  4
+ID  Tricoumaroyl spermidine hydroxylase
+DN  Tricoumaroyl spermidine hydroxylase (EC 1.14.99)
+RQ  1
+EV  IPR001128; PF00067; sufficient;
+--
+SN  5
+ID  Tricaffeoyl spermidine O-methyltransferase
+DN  Tricaffeoyl spermidine O-methyltransferase (EC 2.1.1)
+RQ  1
+EV  IPR002935; PF01596; sufficient;
+--
+SN  6
+ID  Triferuloyl spermidine hydroxylase
+DN  Triferuloyl spermidine hydroxylase (EC 1.14.99)
+RQ  1
+EV  IPR001128; PF00067; sufficient;
+--
+SN  7
+ID  Trihydroxyferuloyl spermidine O-methyltransferase
+DN  Trihydroxyferuloyl spermidine O-methyltransferase (EC 2.1.1)
+RQ  1
+EV  IPR002935; PF01596; sufficient;
+//

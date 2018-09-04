@@ -61,4 +61,24 @@ SN  11
 ID  Addiction module, ParE class
 RQ  0
 EV  GenProp0323;
+--
+SN  12
+ID  HipBA toxin-antitoxin complex
+RQ  0
+EV  GenProp1120;
+--
+SN  13
+ID  YoeB-YefM toxin-antitoxin complex
+RQ  0
+EV  GenProp1133;
+--
+SN  14
+ID  MqsRA toxin-antitoxin complex
+RQ  0
+EV  GenProp1189;
+--
+SN  15
+ID  RelBE toxin-antitoxin complex
+RQ  0
+EV  GenProp1193;
 //

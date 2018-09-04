@@ -1,6 +1,6 @@
 AC  GenProp2011
 DE  Eukaryote 20S proteasome
-TP  SYSTEM
+TP  COMPLEX
 AU  Rawlings ND
 TH  13
 RN  [1]
@@ -16,9 +16,9 @@ RA  Tsukihara T;
 RL  Structure 2002;10:609-618.
 RN  [3]
 RM  28460188
-RT  Proteasomal and Autophagy Degradation Systems.
+RT  Proteasomal and Autophagic Degradation Systems.
 RA  Dikic I;
-RL  Annu Rev Biochem. 2017; [Epub ahead of print]
+RL  Annu Rev Biochem. 2017;86:193-224.
 DC  Proteasome
 DR  KEGG; map03050;
 CC  The 20S proteasome is an intracellular complex of fourteen homologous

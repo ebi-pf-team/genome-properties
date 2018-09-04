@@ -1,0 +1,54 @@
+AC  GenProp1664
+DE  Gamma-glutamyl cycle
+TP  PATHWAY
+AU  Caspi R
+TH  4
+DC  Gamma-glutamyl cycle
+DR  MetaCyc; PWY-4041;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  5-Oxoprolinase
+DN  5-Oxoprolinase (EC 3.5.2.9)
+RQ  1
+EV  IPR002821; PF01968; sufficient;
+EV  IPR003692; PF02538; sufficient;
+EV  IPR008040; PF05378; sufficient;
+--
+SN  2
+ID  Gamma-glutamyl cyclotransferase
+DN  Gamma-glutamyl cyclotransferase (EC 4.3.2.9)
+RQ  1
+EV  IPR009288; PF06094; sufficient;
+--
+SN  3
+ID  Glutathione synthetase
+DN  Glutathione synthetase (EC 6.3.2.3)
+RQ  1
+EV  IPR005615; PF03917; sufficient;
+EV  IPR005615; TIGR01986; sufficient;
+--
+SN  4
+ID  Glutamate-cysteine ligase
+DN  Glutamate-cysteine ligase (EC 6.3.2.2)
+RQ  1
+EV  IPR004308; PF03074; sufficient;
+--
+SN  5
+ID  Gamma-glutamyl transpeptidase
+DN  Gamma-glutamyl transpeptidase (EC 2.3.2.2)
+RQ  1
+EV  IPR000101; PF01019; sufficient;
+--
+SN  6
+ID  Cysteinylglycine dipeptidase
+DN  Cysteinylglycine dipeptidase (EC 3.4.13.18)
+RQ  1
+EV  IPR014782; PF01433; sufficient;
+EV  IPR024571; PF11838; sufficient;
+EV  IPR000819; PF00883; sufficient;
+EV  IPR008283; PF02789; sufficient;
+//

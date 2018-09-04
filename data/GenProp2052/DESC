@@ -9,7 +9,7 @@ RT  Chd1 chromodomain links histone H3 methylation with SAGA- and
 RT  SLIK-dependent acetylation. 
 RA  Pray-Grant MG; Daniel JA; Schieltz D; Yates JR 3rd; Grant PA;   
 RL  Nature 2005;433:434-438.
-CC  The yeast SLIK (SAGA-like) is a multi-subunit histone 
+CC  The yeast SLIK (SAGA-like) complex is a multi-subunit histone 
 CC  acetyltransferase complex that preferentially acetylates 
 CC  histones H3 and H2B and deubiquitinates histone H2B. It is an 
 CC  embellishment of the SAGA complex. It consists of at least 
@@ -20,7 +20,6 @@ CC  UBP8, GCN5, ADA2, SPT3, SGF29, TAF10 and TAF9 [1].
 **  Evidence for step 4 is also used in GP2051.
 **  Evidence for step 5 is also used in GP2051 and GP2056.
 **  Threshold is therfore set to 3.
-
 --
 SN  1
 ID  SALSA complex
@@ -30,35 +29,35 @@ TG  GO:0000124;
 --
 SN  2
 ID  Chromo domain-containing protein 1 
-DN  Chromo domain-containing protein 1 (EC 3.6.4.-)/2
+DN  Chromo domain-containing protein 1 (EC 3.6.4.-)/CHD1
 RQ  1
 EV  IPR037780; PTHR10799:SF838; sufficient;
 TG  GO:0000124;
 --
 SN  3
 ID  High-affinity glucose transporter RGT2
-DN  High-affinity glucose transporter RGT2/3
+DN  High-affinity glucose transporter RGT2
 RQ  1
 EV  IPR037792; PTHR23500:SF343; sufficient;
 TG  GO:0000124;
 --
 SN  4
 ID  Ubiquitin carboxyl-terminal hydrolase 8
-DN  Ubiquitin carboxyl-terminal hydrolase 8 (EC 3.4.19.12)/4
+DN  Ubiquitin carboxyl-terminal hydrolase 8 (EC 3.4.19.12)/UBP8
 RQ  1
 EV  IPR037798; PTHR43961:SF2; sufficient;
 TG  GO:0000124;
 --
 SN  5
 ID  SAGA-associated factor 29
-DN  SAGA-associated factor 29/5
+DN  SAGA-associated factor 29/SGF29
 RQ  1
 EV  IPR037802; PTHR21539; sufficient;
 TG  GO:0000124;
 --
 SN  6
 ID  Transcription initiation factor TFIID subunit 10 
-DN  Transcription initiation factor TFIID subunit 10 /6
+DN  Transcription initiation factor TFIID subunit 10/TAF10
 RQ  1
 EV  IPR003923; PIRSF017246; sufficient;
 EV  IPR003923; PR01443; sufficient;
@@ -68,7 +67,7 @@ TG  GO:0000124;
 --
 SN  7
 ID  Transcription initiation factor TFIID subunit 9 
-DN  Transcription initiation factor TFIID subunit 9 /7
+DN  Transcription initiation factor TFIID subunit 9/TAF9
 RQ  1
 EV  IPR003162; PF02291; sufficient;
 EV  IPR003162; cd07979; sufficient;

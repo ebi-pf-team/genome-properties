@@ -1,0 +1,33 @@
+AC  GenProp1190
+DE  UvrBC complex
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+DR  Complex Portal; CPX-2153;
+CC  The UvrBC excinuclease repair complex is part of the UvrABC repair
+CC  system that catalyzes the recognition and processing of DNA lesions. It
+CC  scans the DNA for abnormalities. Upon binding of the UvrAB complex
+CC  (CPX-2151) to a putative damaged site, the DNA wraps around one of the
+CC  UvrB subunits. DNA wrapping is dependent on ATP binding by UvrB and
+CC  probably causes local melting of the DNA helix, facilitating insertion
+CC  of a UvrB beta-hairpin between the DNA strands. Then UvrB probes one
+CC  DNA strand for the presence of a lesion. If a lesion is found the UvrA
+CC  subunits dissociate and the UvrB-DNA preincision complex (CPX-2152) is
+CC  formed. This complex is subsequently bound by UvrC and one of the UvrB
+CC  monomers is released. UvrC incises both the 5' and 3' sides of the
+CC  lesion. The N-terminal half is responsible for the 3' incision and the
+CC  C-terminal half is responsible for the 5' incision.
+--
+SN  1
+ID  UvrABC system protein C
+RQ  1
+EV  IPR004791; MF_00203; sufficient;
+EV  IPR004791; TIGR00194; sufficient;
+--
+SN  2
+ID  UvrABC system protein B
+RQ  1
+EV  IPR004807; MF_00204; sufficient;
+EV  IPR004807; PTHR24029; sufficient;
+EV  IPR004807; TIGR00631; sufficient;
+//

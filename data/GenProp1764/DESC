@@ -1,0 +1,25 @@
+AC  GenProp1764
+DE  Flavin biosynthesis IV (mammalian)
+TP  PATHWAY
+AU  Trupp M
+TH  0
+DC  Flavin biosynthesis IV (mammalian)
+DR  MetaCyc; PWY66-366;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  FAD synthetase
+DN  FAD synthetase (EC 2.7.7.2)
+RQ  1
+EV  IPR001453; PF00994; sufficient;
+EV  IPR002500; PF01507; sufficient;
+--
+SN  2
+ID  Riboflavin kinase
+DN  Riboflavin kinase (EC 2.7.1.26)
+RQ  1
+EV  IPR015865; PF01687; sufficient;
+//

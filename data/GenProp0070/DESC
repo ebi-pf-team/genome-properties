@@ -145,4 +145,119 @@ SN  28
 ID  Anaerobic dimethyl sulfoxide reductase
 RQ  0
 EV  GenProp0637;
+--
+SN  29
+ID  Glycolysis I (from glucose 6-phosphate)
+RQ  0
+EV  GenProp1306;
+--
+SN  30
+ID  Glycolysis II (from fructose 6-phosphate)
+RQ  0
+EV  GenProp1407;
+--
+SN  31
+ID  Glycolysis III (from glucose)
+RQ  0
+EV  GenProp1599;
+--
+SN  32
+ID  Hydrogen production V
+RQ  0
+EV  GenProp1496;
+--
+SN  33
+ID  Ketolysis
+RQ  0
+EV  GenProp1240;
+--
+SN  34
+ID  Glycerol-3-phosphate shuttle
+RQ  0
+EV  GenProp1750;
+--
+SN  35
+ID  Pentose phosphate pathway (non-oxidative branch)
+RQ  0
+EV  GenProp1294;
+--
+SN  36
+ID  Pentose phosphate pathway
+RQ  0
+EV  GenProp1438;
+--
+SN  37
+ID  Pentose phosphate pathway (oxidative branch) I
+RQ  0
+EV  GenProp1520;
+--
+SN  38
+ID  Pentose phosphate pathway (oxidative branch) II
+RQ  0
+EV  GenProp1732;
+--
+SN  39
+ID  Photorespiration
+RQ  0
+EV  GenProp1747;
+--
+SN  40
+ID  2-Oxoglutarate decarboxylation to succinyl-CoA
+RQ  0
+EV  GenProp1348;
+--
+SN  41
+ID  2-Oxoisovalerate decarboxylation to isobutanoyl-CoA
+RQ  0
+EV  GenProp1408;
+--
+SN  42
+ID  TCA cycle III (animals)
+RQ  0
+EV  GenProp1693;
+--
+SN  43
+ID  Glyoxylate cycle
+RQ  0
+EV  GenProp1265;
+--
+SN  44
+ID  All-trans-farnesol biosynthesis
+RQ  0
+EV  GenProp1411;
+--
+SN  45
+ID  Sedoheptulose bisphosphate bypass
+RQ  0
+EV  GenProp1705;
+--
+SN  46
+ID  Chitin degradation to ethanol
+RQ  0
+EV  GenProp1722;
+--
+SN  47
+ID  NADH repair
+RQ  0
+EV  GenProp1736;
+--
+SN  48
+ID  Succinyl-CoA synthetase
+RQ  0
+EV  GenProp1201;
+--
+SN  49
+ID  Superpathway of photosynthetic hydrogen production
+RQ  0
+EV  GenProp1353;
+--
+SN  50
+ID  Superpathway of glycolysis and the Entner-Doudoroff pathway
+RQ  0
+EV  GenProp1691;
+--
+SN  51
+ID  Superpathway of glycolysis, pyruvate dehydrogenase, TCA, and glyoxylate bypass
+RQ  0
+EV  GenProp1710;
 //

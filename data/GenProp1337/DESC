@@ -1,0 +1,54 @@
+AC  GenProp1337
+DE  Vitamin E biosynthesis (tocopherols)
+TP  PATHWAY
+AU  Zhang P
+TH  5
+DC  Vitamin E biosynthesis (tocopherols)
+DR  MetaCyc; PWY-1422;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  4-Hydroxyphenylpyruvate dioxygenase
+DN  4-Hydroxyphenylpyruvate dioxygenase (EC 1.13.11.27)
+RQ  1
+EV  IPR005956; TIGR01263; sufficient;
+--
+SN  2
+ID  Homogentisate phytyltransferase
+DN  Homogentisate phytyltransferase (EC 2.5.1.115)
+RQ  1
+EV  IPR000537; PF01040; sufficient;
+--
+SN  3
+ID  2-Methyl-6-phytyl-1,4-benzoquinol methyltransferase
+DN  2-Methyl-6-phytyl-1,4-benzoquinol methyltransferase (EC 2.1.1.295)
+RQ  1
+EV  IPR013216; PF08241; sufficient;
+--
+SN  4
+ID  2,3-Dimethyl-6-phytyl-1,4-benzoquinone cyclase
+DN  2,3-Dimethyl-6-phytyl-1,4-benzoquinone cyclase (EC 5.5.1.24)
+RQ  1
+EV  IPR025893; PF14249; sufficient;
+--
+SN  5
+ID  2-Methyl-6-phytyl-1,4-benzoquinone cyclase
+DN  2-Methyl-6-phytyl-1,4-benzoquinone cyclase (EC 5.5.1.24)
+RQ  1
+EV  IPR025893; PF14249; sufficient;
+--
+SN  6
+ID  Delta-tocopherol methyltransferase
+DN  Delta-tocopherol methyltransferase (EC 2.1.1.95)
+RQ  1
+EV  IPR013216; PF08241; sufficient;
+--
+SN  7
+ID  Gamma-tocopherol methyltransferase
+DN  Gamma-tocopherol methyltransferase (EC 2.1.1.95)
+RQ  1
+EV  IPR013216; PF08241; sufficient;
+//

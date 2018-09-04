@@ -1,0 +1,42 @@
+AC  GenProp1502
+DE  NAD/NADP-NADH/NADPH cytosolic interconversion (yeast)
+TP  PATHWAY
+AU  Foerster H
+TH  3
+DC  NAD/NADP-NADH/NADPH cytosolic interconversion (yeast)
+DR  MetaCyc; PWY-7268;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Glucose-6-phosphate dehydrogenase
+DN  Glucose-6-phosphate dehydrogenase (EC 1.1.1.49)
+RQ  1
+EV  IPR001282; TIGR00871; sufficient;
+--
+SN  2
+ID  NADP+-dependent isocitrate dehydrogenase
+DN  NADP+-dependent isocitrate dehydrogenase (EC 1.1.1.42)
+RQ  1
+EV  IPR004790; TIGR00127; sufficient;
+--
+SN  3
+ID  NAD kinase
+DN  NAD kinase (EC 2.7.1.23)
+RQ  1
+EV  IPR002504; PF01513; sufficient;
+--
+SN  4
+ID  NADH kinase
+DN  NADH kinase (EC 2.7.1.86)
+RQ  1
+EV  IPR002504; PF01513; sufficient;
+--
+SN  5
+ID  Acetaldehyde:NADP+ oxidoreductase
+DN  Acetaldehyde:NADP+ oxidoreductase (EC 1.2.1.4)
+RQ  1
+EV  IPR015590; PF00171; sufficient;
+//

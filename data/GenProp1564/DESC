@@ -1,0 +1,25 @@
+AC  GenProp1564
+DE  Trehalose degradation II (trehalase)
+TP  PATHWAY
+AU  Fulcher C, Keseler I, Caspi R
+TH  0
+DC  Trehalose degradation II (trehalase)
+DR  MetaCyc; PWY0-1182;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Glucokinase
+DN  Glucokinase (EC 2.7.1.2)
+RQ  1
+EV  IPR003836; PF02685; sufficient;
+EV  IPR003836; TIGR00749; sufficient;
+--
+SN  2
+ID  Trehalase
+DN  Trehalase (EC 3.2.1.28)
+RQ  1
+EV  IPR001661; PF01204; sufficient;
+//

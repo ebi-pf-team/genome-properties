@@ -1,0 +1,26 @@
+AC  GenProp1207
+DE  DnaA-HU complex variant 1
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+DR  Complex Portal; CPX-1962;
+CC  HU dimers (alpha homodimers as well as alpha-beta dimers [CPX-1958])
+CC  are essential proteins during the DnaA-dependent initiation of
+CC  replication. They facilitate DnaA oligomerization and proper timing of
+CC  initiation of replication.
+--
+SN  1
+ID  DNA-binding protein HU-alpha
+RQ  1
+EV  IPR000119; PF00216; sufficient;
+EV  IPR000119; PR01727; sufficient;
+EV  IPR000119; PTHR33175; sufficient;
+EV  IPR000119; SM00411; sufficient;
+--
+SN  2
+ID  Chromosomal replication initiator protein DnaA
+RQ  1
+EV  IPR001957; MF_00377; sufficient;
+EV  IPR001957; PTHR30050:SF2; sufficient;
+EV  IPR001957; TIGR00362; sufficient;
+//

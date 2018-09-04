@@ -1,6 +1,6 @@
 AC  GenProp2079
 DE  E2F6.com-1 complex
-TP  SYSTEM
+TP  COMPLEX
 AU  Rawlings ND
 TH  4
 RN  [1]
@@ -20,42 +20,42 @@ CC  L3MBTL2 and YAF2 [1].
 --
 SN  1
 ID  Transcription factor E2F6
-DN  Transcription factor E2F6 /1
+DN  Transcription factor E2F6
 RQ  1
 EV  IPR015635; PTHR12081:SF19; sufficient;
 TG  GO:0005667;
 --
 SN  2
 ID  MAX gene-associated protein (MGA)
-DN  MAX gene-associated protein /2
+DN  MAX gene-associated protein
 RQ  1
 EV  IPR037935; PTHR11267:SF32; sufficient;
 TG  GO:0005667;
 --
 SN  3
 ID  Protein max (MAX)
-DN  Protein max /3
+DN  Protein max
 RQ  1
 EV  IPR037933; PTHR10328; sufficient;
 TG  GO:0005667;
 --
 SN  4
 ID  Transcription factor Dp-1 (TFDP1)
-DN  Transcription factor Dp-1 /4
+DN  Transcription factor Dp-1
 RQ  1
 EV  IPR028313; PTHR12548:SF4; sufficient;
 TG  GO:0005667;
 --
 SN  5
 ID  Chromobox protein homolog 3 (CBX3)
-DN  Chromobox protein homolog 3 /5
+DN  Chromobox protein homolog 3
 RQ  1
 EV  IPR038033; PTHR22812:SF110; sufficient;
 TG  GO:0005667;
 --
 SN  6
 ID  Histone-lysine N-methyltransferase EHMT2 (BAT8)
-DN  Histone-lysine N-methyltransferase EHMT2 (EC:2.1.1.43) /6
+DN  Histone-lysine N-methyltransferase EHMT2 (EC:2.1.1.43)
 RQ  1
 EV  IPR038034; PTHR22884:SF361; sufficient;
 TG  GO:0018024;
@@ -63,7 +63,7 @@ TG  GO:0005667;
 --
 SN  7
 ID  Histone-lysine N-methyltransferase EHMT1 (EUHMTASE1)
-DN  Histone-lysine N-methyltransferase EHMT1 (EC:2.1.1.43) /7
+DN  Histone-lysine N-methyltransferase EHMT1 (EC:2.1.1.43)
 RQ  1
 EV  IPR038035; PTHR22884:SF364; sufficient;
 TG  GO:0018024;
@@ -71,7 +71,7 @@ TG  GO:0005667;
 --
 SN  8
 ID  E3 ubiquitin-protein ligase RING1
-DN  E3 ubiquitin-protein ligase RING1 (EC 2.3.2.27) /8
+DN  E3 ubiquitin-protein ligase RING1 (EC 2.3.2.27)
 RQ  1
 EV  IPR038036; PTHR10825:SF6; sufficient;
 TG  GO:0000151;
@@ -79,16 +79,16 @@ TG  GO:0005667;
 --
 SN  9
 ID  E3 ubiquitin-protein ligase RING2 (RNF2)
-DN  E3 ubiquitin-protein ligase RING2 (EC 2.3.2.27) /9
+DN  E3 ubiquitin-protein ligase RING2 (EC 2.3.2.27)
 RQ  1
-EV  IPR037937; PTHR10825:SF41; sufficient;
+EV  -; PTHR10825:SF41; sufficient;
 TG  GO:0036353;
 TG  GO:0000151;
 TG  GO:0005667;
 --
 SN  10
 ID  Polycomb group RING finger protein 6 (PCGF6/MBLR)
-DN  Polycomb group RING finger protein 6 /10
+DN  Polycomb group RING finger protein 6
 RQ  1
 EV  IPR038037; PTHR10825:SF15; sufficient;
 TG  GO:0045892;
@@ -96,7 +96,7 @@ TG  GO:0005667;
 --
 SN  11
 ID  Lethal(3)malignant brain tumor-like protein 2 (L3MBTL2)
-DN  Lethal(3)malignant brain tumor-like protein 2 /11
+DN  Lethal(3)malignant brain tumor-like protein 2
 RQ  1
 EV  IPR038038; PTHR12247:SF64; sufficient;
 TG  GO:0042393;
@@ -104,7 +104,7 @@ TG  GO:0005667;
 --
 SN  12
 ID  YY1-associated factor 2 (YAF2)
-DN  YY1-associated factor 2 /12
+DN  YY1-associated factor 2
 RQ  1
 EV  IPR038039; PTHR12920:SF2; sufficient;
 TG  GO:0005667;

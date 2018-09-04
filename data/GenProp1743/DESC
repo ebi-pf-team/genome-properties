@@ -1,0 +1,25 @@
+AC  GenProp1743
+DE  UDP-alpha-D-glucose biosynthesis I
+TP  PATHWAY
+AU  Caspi R
+TH  0
+DC  UDP-alpha-D-glucose biosynthesis I
+DR  MetaCyc; PWY-7343;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  UDP-glucose pyrophosphorylase
+DN  UDP-glucose pyrophosphorylase (EC 2.7.7.9)
+RQ  1
+EV  IPR002618; PF01704; sufficient;
+EV  IPR005771; TIGR01099; sufficient;
+--
+SN  2
+ID  Phosphoglucomutase
+DN  Phosphoglucomutase (EC 5.4.2.2)
+RQ  1
+EV  IPR005852; TIGR01132; sufficient;
+//

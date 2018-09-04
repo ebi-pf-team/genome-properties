@@ -77,8 +77,10 @@ sub dbrefs {
 }
 
 sub type {
-  my ($self) = @_;
-
+  my ($self, $type) = @_;
+  if(defined($type)){
+    $self->{type} = $type;
+  }
   return($self->{type});
 
 }
@@ -107,7 +109,10 @@ sub public {
 
 
 sub threshold {
-  my ($self) = @_;
+  my ($self, $threshold) = @_;
+  if($threshold){
+    $self->{threshold} = $threshold;
+  }  
   return($self->{threshold});
 }
 
@@ -122,7 +127,10 @@ sub author {
 }
 
 sub comment {
-  my ($self) = @_;
+  my ($self, $comment) = @_;
+  if($comment){
+    $self->{comment} = $comment;
+  }
   return($self->{comment});
 }
 

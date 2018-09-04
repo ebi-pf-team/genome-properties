@@ -1,6 +1,6 @@
 AC  GenProp2030
 DE  mTORC1 complex
-TP  SYSTEM
+TP  COMPLEX
 AU  Rawlings ND
 TH  1
 RN  [1]
@@ -39,13 +39,15 @@ RT  multiple myeloma cells and required for their survival.
 RA  Peterson TR; Laplante M; Thoreen CC; Sancak Y; Kang SA; 
 RA  Kuehl WM; Gray NS; Sabatini DM;  
 RL  Cell. 2009;137:873-886.
+DC  mTOR signaling pathway
+DR  KEGG; map04150;
 CC  mTORC1 (mammalian target of rapamycin complex 1 or mechanistic 
 CC  target of rapamycin complex 1) is a nutrient sensor which  
 CC  controls protein synthesis by activating protein translation [1]. 
 CC  Protein synthesis requires a supply of amino acids, an energy
 CC  source, oxygen abundance and the required growth factors.  When
 CC  these conditons are met, Rag GTPase heterodimers are activated, 
-CC  interact with Raptor and mTORC1 is localized to the lysosomal
+CC  interact with Raptor, and mTORC1 is localized to the lysosomal
 CC  membrane surface where it can interact with the G protein Rheb
 CC  and ATP [2, 3].  The pathway is controlled by two complexes that
 CC  interact with the Rag GTPase, GATOR1 (inhibitor) and GATOR2
@@ -55,34 +57,34 @@ CC  (activator) [4].
 --
 SN  1
 ID  Serine/threonine-protein kinase mTOR
-DN  Serine/threonine-protein kinase mTOR (EC:2.7.11.1)/1
+DN  Serine/threonine-protein kinase mTOR (EC:2.7.11.1)
 RQ  1
 EV  IPR026683; PTHR11139:SF9; sufficient;
 TG  GO:0004674;
 --
 SN  2
 ID  Regulatory-associated protein of mTOR
-DN  Regulatory-associated protein of mTOR /2
+DN  Regulatory-associated protein of mTOR
 RQ  1
 EV  IPR004083; PTHR12848; sufficient;
 --
 SN  3
 ID  Target of rapamycin complex subunit LST8
-DN  Target of rapamycin complex subunit LST8 /3
+DN  Target of rapamycin complex subunit LST8
 RQ  1
 EV  IPR037588; PTHR19842; sufficient;
 TG  GO:0032008;
 --
 SN  4
 ID  Proline-rich AKT1 substrate 1
-DN  Proline-rich AKT1 substrate 1 /4
+DN  Proline-rich AKT1 substrate 1
 RQ  1
 EV  IPR026682; PF15798; sufficient;
 TG  GO:0032007;
 --
 SN  5
 ID  DEP domain-containing mTOR-interacting protein
-DN  DEP domain-containing mTOR-interacting protein /5
+DN  DEP domain-containing mTOR-interacting protein
 RQ  1
 EV  IPR037589; PTHR22829:SF18; sufficient;
 TG  GO:0032007;

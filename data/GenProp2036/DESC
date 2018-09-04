@@ -1,8 +1,8 @@
 AC  GenProp2036
 DE  Nuclear pore complex, vertebrate
-TP  SYSTEM
+TP  COMPLEX
 AU  Rawlings ND
-TH  2
+TH  3
 RN  [1]
 RM  15229283
 RT  Nucleoporins as components of the nuclear pore complex core 
@@ -49,16 +49,18 @@ RT  association and nuclear localization domains and a role in mRNA
 RT  export.
 RA  Bangs P; Burke B; Powers C; Craig R; Purohit A; Doxsey S;
 RL  J Cell Biol. 1998;143:1801-1812.
+DC  RNA transport
+DR  KEGG; map03013;
 CC  The vertebrate nuclear pore complex (NPC) has eight-fold radial
-CC  symmetry.  The core complex consists of globular subunits that
-CC  are sandwiched between two coaxial ring-like structures.  The 
+CC  symmetry. The core complex consists of globular subunits that
+CC  are sandwiched between two coaxial ring-like structures. The 
 CC  ring facing the nuclear interior is capped by a fibrous structure 
-CC  called the nuclear basket [1].  NUP160, NUP133, NUP107 and NUP96
+CC  called the nuclear basket [1]. NUP160, NUP133, NUP107 and NUP96
 CC  form the Nup160 subcomplex [4,5], which plays a role in RNA export 
-CC  and tethering NUP98 and NUP153 to the nucleus [2].  Nup98 must 
-CC  process itself autoproteolytically [3].  Tpr forms the nuclear
-CC  basket.  The Tpr N-terminus interacts with NUP153 in the NPC [6] 
-CC  while the acidic C-terminus is transported into the nuclear 
+CC  and tethering NUP98 and NUP153 to the nucleus [2]. Nup98 must 
+CC  process itself autoproteolytically [3]. Tpr forms the nuclear
+CC  basket. The Tpr N terminus interacts with NUP153 in the NPC [6] 
+CC  while the acidic C terminus is transported into the nuclear 
 CC  interior, where is interacts with soluble transport factors and 
 CC  can mediate export of macromolecules from the nucleus [7].
 **  The same precursor yields Nup96 and Nup98.
@@ -67,18 +69,19 @@ CC  can mediate export of macromolecules from the nucleus [7].
 **  Property.
 **  Evidence for step 1 is also used in GP2037 and GP2042.
 **  Evidence for step 3 is also used in GP2037, GP2042 and GP2043.
-**  Threshold is therefore set to 2.
+**  Evidence for SN6 is not very specific.
+**  Threshold is therefore set to 3.
 --
 SN  1
 ID  Nuclear pore complex protein Nup98-Nup96
-DN  Nuclear pore complex protein Nup98-Nup96/1
+DN  Nuclear pore complex protein Nup98-Nup96
 RQ  1
 EV  IPR037637; PTHR23198:SF6; sufficient;
 TG  GO:0017056
 --
 SN  2
 ID  Nuclear pore complex protein Nup107
-DN  Nuclear pore complex protein Nup107/2
+DN  Nuclear pore protein 84/107
 RQ  1
 EV  IPR007252; PF04121; sufficient;
 EV  IPR007252; PTHR13003; sufficient;
@@ -86,28 +89,28 @@ TG  GO:0017056;
 --
 SN  3
 ID  Nuclear pore complex protein Nup133
-DN  Nuclear pore complex protein Nup133/3
+DN  Nuclear pore complex protein Nup133-like
 RQ  1
 EV  IPR037624; PTHR13405; sufficient;
 TG  GO:0017056;
 --
 SN  4
 ID  Nuclear pore complex protein Nup160
-DN  Nuclear pore complex protein Nup160/4
+DN  Nucleoporin Nup120/160
 RQ  1
 EV  IPR021717; PF11715; sufficient;
 TG  GO:0031080;
 --
 SN  5
 ID  Nuclear pore complex protein Nup153
-DN  Nuclear pore complex protein Nup153/5
+DN  Nuclear pore complex protein Nup153
 RQ  1
 EV  IPR037625; PTHR23193:SF31; sufficient;
 TG  GO:0017056;
 --
 SN  6
 ID  Nucleoprotein TPR
-DN  Nucleoprotein TPR/6
+DN  Nucleoprotein TPR/MLP1
 RQ  1
 EV  IPR012929; PF07926; sufficient;
 TG  GO:0044615;

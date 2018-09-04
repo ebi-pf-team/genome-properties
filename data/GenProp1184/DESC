@@ -1,0 +1,36 @@
+AC  GenProp1184
+DE  Sigma-E factor negative regulation complex
+TP  COMPLEX
+AU  Complex Portal
+TH  2
+RN  [1]
+RM  23687042
+RT  Dual molecular signals mediate the bacterial response to outer-membrane
+RT  stress.
+RA  Lima S, Guo MS, Chaba R, Gross CA, Sauer RT
+RL  Science. 2013;340:837-841
+DR  Complex Portal; CPX-2532;
+CC  Inactive form of the sigma-E transcription factor. Sigma-E-mediated
+CC  envelope stress response is the major pathway to ensure homeostasis in
+CC  the envelope compartment of the cell. In response to stress, outer
+CC  membrane proteins accumulate in the periplasm and activate cleavage of
+CC  RseA periplasmic domain by DegS (P0AEE3), triggering a proteolytic
+CC  cascade that frees sigma-E to activate gene expression. RseB binding to
+CC  RseA prevents activated DegS from cleaving RseA.
+--
+SN  1
+ID  Sigma-E factor regulatory protein RseB
+RQ  1
+EV  IPR005588; PIRSF005427; sufficient;
+EV  IPR005588; PTHR38782; sufficient;
+--
+SN  2
+ID  ECF RNA polymerase sigma-E factor
+RQ  1
+EV  IPR014286; TIGR02939; sufficient;
+--
+SN  3
+ID  Anti-sigma-E factor RseA
+RQ  1
+EV  IPR026279; PIRSF016938; sufficient;
+//

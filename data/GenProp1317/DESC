@@ -1,0 +1,33 @@
+AC  GenProp1317
+DE  Protein Pupylation and dePupylation
+TP  PATHWAY
+AU  Caspi R
+TH  1
+DC  Protein Pupylation and dePupylation
+DR  MetaCyc; PWY-7893;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Pup deamidase
+DN  Pup deamidase (EC 3.5.1.119)
+RQ  1
+EV  IPR004347; PF03136; sufficient;
+EV  IPR022366; TIGR03688; sufficient;
+--
+SN  2
+ID  Prokaryotic ubiquitin-like protein ligase
+DN  Prokaryotic ubiquitin-like protein ligase (EC 6.3.1.19)
+RQ  1
+EV  IPR004347; PF03136; sufficient;
+EV  IPR022279; TIGR03686; sufficient;
+--
+SN  3
+ID  N6-([prokaryotic ubiquitin-like protein]-gamma-L-glutamyl)-[protein]-L-lysine hydrolase
+DN  N6-([prokaryotic ubiquitin-like protein]-gamma-L-glutamyl)-[protein]-L-lysine hydrolase (EC 3.4.11.M1)
+RQ  1
+EV  IPR004347; PF03136; sufficient;
+EV  IPR022366; TIGR03688; sufficient;
+//

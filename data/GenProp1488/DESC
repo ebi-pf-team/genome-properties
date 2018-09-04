@@ -1,0 +1,24 @@
+AC  GenProp1488
+DE  Oleate beta-oxidation (thioesterase-dependent, yeast)
+TP  PATHWAY
+AU  Foerster H
+TH  0
+DC  Oleate beta-oxidation (thioesterase-dependent, yeast)
+DR  MetaCyc; PWY-7292;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Acyl-CoA thioesterase
+DN  Acyl-CoA thioesterase (EC 3.1.2)
+RQ  1
+EV  IPR003703; TIGR00189; sufficient;
+--
+SN  2
+ID  Delta3-cis-Delta2-trans-enoyl-CoA isomerase
+DN  Delta3-cis-Delta2-trans-enoyl-CoA isomerase (EC 5.3.3.8)
+RQ  1
+EV  IPR001753; PF00378; sufficient;
+//

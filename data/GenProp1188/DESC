@@ -1,0 +1,47 @@
+AC  GenProp1188
+DE  Exodeoxyribonuclease V complex
+TP  COMPLEX
+AU  Complex Portal
+TH  2
+RN  [1]
+RM  15538360
+RT  Crystal structure of RecBCD enzyme reveals a machine for processing DNA
+RT  breaks.
+RA  Singleton MR, Dillingham MS, Gaudier M, Kowalczykowski SC, Wigley DB
+RL  Nature. 2004;432:187-193
+DR  Complex Portal; CPX-2197;
+DR  PDBe; 3k70;
+CC  An exonuclease complex essential in DNA double-strand break repair by
+CC  homologous recombination. It catalyzes the unwinding of double-stranded
+CC  DNA at DNA damage sites and cleaves the resulting single-stranded DNA
+CC  (through RecB activity). This process is ATP-hydrolysis-dependent which
+CC  is provided by the ATPase activity of RecD. The two helicases act with
+CC  opposite polarity: RecB is an SF1A enzyme with a 3'–5' polarity and
+CC  RecD an SF1B enzyme with a 5'–3' polarity. They cooperate to unwind
+CC  DNA in a highly processive manner where the DNA gets unwound in the
+CC  RecB-RecC interface with the 5'ssDNA single-strand fed into the RecD
+CC  subunit and the 3'ssDNA remaining in the RecB-RecC dimer. The nuclease
+CC  activity of the RecB subunit might be regulated by the RecD protein. A
+CC  mutant lacking the the N-terminal 1B domain of RecD loses its helicase
+CC  function completely.
+--
+SN  1
+ID  RecBCD enzyme subunit RecC
+RQ  1
+EV  IPR006697; MF_01486; sufficient;
+EV  IPR006697; PIRSF000980; sufficient;
+EV  IPR006697; TIGR01450; sufficient;
+--
+SN  2
+ID  RecBCD enzyme subunit RecD
+RQ  1
+EV  IPR006344; MF_01487; sufficient;
+EV  IPR006344; TIGR01447; sufficient;
+--
+SN  3
+ID  RecBCD enzyme subunit RecB
+RQ  1
+EV  IPR004586; MF_01485; sufficient;
+EV  IPR004586; PTHR11070:SF23; sufficient;
+EV  IPR004586; TIGR00609; sufficient;
+//

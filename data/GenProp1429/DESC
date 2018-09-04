@@ -1,0 +1,24 @@
+AC  GenProp1429
+DE  GDP-L-fucose biosynthesis I (from GDP-D-mannose)
+TP  PATHWAY
+AU  N/A
+TH  0
+DC  GDP-L-fucose biosynthesis I (from GDP-D-mannose)
+DR  MetaCyc; PWY-66;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  GDP-fucose synthase
+DN  GDP-fucose synthase (EC 1.1.1.271)
+RQ  1
+EV  IPR001509; PF01370; sufficient;
+--
+SN  2
+ID  GDP-mannose 4,6-dehydratase
+DN  GDP-mannose 4,6-dehydratase (EC 4.2.1.47)
+RQ  1
+EV  IPR006368; TIGR01472; sufficient;
+//

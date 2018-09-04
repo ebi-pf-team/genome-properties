@@ -1,0 +1,31 @@
+AC  GenProp1643
+DE  Chorismate biosynthesis I
+TP  PATHWAY
+AU  Caspi R, Ingraham J
+TH  0
+DC  Chorismate biosynthesis I
+DR  MetaCyc; ARO-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  3-Dehydroquinate dehydratase
+DN  3-Dehydroquinate dehydratase (EC 4.2.1.10)
+RQ  1
+EV  IPR001381; PF01487; sufficient;
+EV  IPR001381; TIGR01093; sufficient;
+EV  IPR011342; TIGR00507; sufficient;
+EV  IPR006264; TIGR01356; sufficient;
+EV  IPR031322; PF01202; sufficient;
+--
+SN  2
+ID  3-Dehydroquinate synthase
+DN  3-Dehydroquinate synthase (EC 4.2.3.4)
+RQ  1
+EV  IPR001381; PF01487; sufficient;
+EV  IPR001381; TIGR01093; sufficient;
+EV  IPR006264; TIGR01356; sufficient;
+EV  IPR031322; PF01202; sufficient;
+//

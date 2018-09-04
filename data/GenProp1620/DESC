@@ -1,0 +1,26 @@
+AC  GenProp1620
+DE  Pyruvate fermentation to acetate VIII
+TP  PATHWAY
+AU  Caspi R
+TH  0
+DC  Pyruvate fermentation to acetate VIII
+DR  MetaCyc; PWY-5768;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Pyruvate decarboxylase
+DN  Pyruvate decarboxylase (EC 4.1.1.1)
+RQ  1
+EV  IPR011766; PF02775; sufficient;
+EV  IPR012000; PF00205; sufficient;
+EV  IPR012001; PF02776; sufficient;
+--
+SN  2
+ID  Acetaldehyde:NADP+ oxidoreductase
+DN  Acetaldehyde:NADP+ oxidoreductase (EC 1.2.1.4)
+RQ  1
+EV  IPR015590; PF00171; sufficient;
+//

@@ -1,0 +1,87 @@
+AC  GenProp1693
+DE  TCA cycle III (animals)
+TP  PATHWAY
+AU  Weerasinghe D, Caspi R
+TH  9
+DC  TCA cycle III (animals)
+DR  MetaCyc; PWY66-398;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  2-Oxoglutarate decarboxylase
+DN  2-Oxoglutarate decarboxylase (EC 1.2.4.2)
+RQ  1
+EV  IPR011603; TIGR00239; sufficient;
+--
+SN  2
+ID  Aconitase
+DN  Aconitase
+RQ  1
+EV  IPR006248; TIGR01340; sufficient;
+--
+SN  3
+ID  Cis-aconitate hydratase
+DN  Cis-aconitate hydratase
+RQ  1
+EV  IPR006248; TIGR01340; sufficient;
+--
+SN  4
+ID  Citrate synthase
+DN  Citrate synthase (EC 2.3.3.1)
+RQ  1
+EV  IPR002020; PF00285; sufficient;
+EV  IPR010109; TIGR01793; sufficient;
+--
+SN  5
+ID  Fumarase B
+DN  Fumarase B (EC 4.2.1.2)
+RQ  1
+EV  IPR005677; TIGR00979; sufficient;
+--
+SN  6
+ID  Isocitrate dehydrogenase
+DN  Isocitrate dehydrogenase (EC 1.1.1.41)
+RQ  1
+EV  IPR004434; TIGR00175; sufficient;
+--
+SN  7
+ID  Malate dehydrogenase (NAD)
+DN  Malate dehydrogenase (NAD) (EC 1.1.1.37)
+RQ  1
+EV  IPR010097; TIGR01772; sufficient;
+EV  IPR010945; TIGR01759; sufficient;
+EV  IPR011274; TIGR01758; sufficient;
+--
+SN  8
+ID  Dihydrolipoyltranssuccinylase
+DN  Dihydrolipoyltranssuccinylase (EC 2.3.1.61)
+RQ  1
+EV  IPR006255; TIGR01347; sufficient;
+--
+SN  9
+ID  Succinyl-CoA synthetase
+DN  Succinyl-CoA synthetase (EC 6.2.1.5)
+RQ  1
+EV  IPR005809; TIGR01016; sufficient;
+EV  IPR005810; TIGR01019; sufficient;
+--
+SN  10
+ID  Succinyl-CoA synthetase
+DN  Succinyl-CoA synthetase (EC 6.2.1.4)
+RQ  1
+EV  IPR005810; TIGR01019; sufficient;
+EV  IPR005809; TIGR01016; sufficient;
+--
+SN  11
+ID  Succinate dehydrogenase
+DN  Succinate dehydrogenase (EC 1.3.5.1)
+RQ  1
+EV  IPR011281; TIGR01816; sufficient;
+EV  IPR014006; TIGR01812; sufficient;
+EV  IPR004489; TIGR00384; sufficient;
+EV  IPR000701; PF01127; sufficient;
+EV  IPR014314; TIGR02970; sufficient;
+//

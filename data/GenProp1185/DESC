@@ -1,0 +1,28 @@
+AC  GenProp1185
+DE  Hydrogenase-2 complex
+TP  COMPLEX
+AU  Complex Portal
+TH  3
+DR  Complex Portal; CPX-282;
+CC  Catalyzes the reversible oxidation of hydrogen (H2) to protons and
+CC  electrons. Strongly upregulated during microaerobic and anaerobic
+CC  respiration when H2 is used as an electron donor to reduce menaquinone
+CC  to its quinol, with subsequent electron transfer to fumarate.
+--
+SN  1
+ID  Hydrogenase-2 small chain
+RQ  1
+--
+SN  2
+ID  Probable Ni/Fe-hydrogenase 2 b-type cytochrome subunit
+RQ  1
+EV  IPR005614; PF03916; sufficient;
+--
+SN  3
+ID  Hydrogenase-2 large chain
+RQ  1
+--
+SN  4
+ID  Hydrogenase-2 operon protein HybA
+RQ  1
+//

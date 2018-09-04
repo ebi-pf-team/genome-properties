@@ -224,4 +224,9 @@ SN  44
 ID  Lycopene biosynthesis from IPP
 RQ  0
 EV  GenProp0758;
+--
+SN  45
+ID  ThiF-ThiS complex
+RQ  0
+EV  GenProp1175;
 //

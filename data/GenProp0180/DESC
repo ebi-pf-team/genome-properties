@@ -120,4 +120,39 @@ SN  23
 ID  Nickel import ABC transporter
 RQ  0
 EV  GenProp0494;
+--
+SN  24
+ID  ATP-dependent methionine-importing complex
+RQ  0
+EV  GenProp1114;
+--
+SN  25
+ID  ProVWX complex
+RQ  0
+EV  GenProp1126;
+--
+SN  26
+ID  Glutathione-regulated potassium-efflux system KefC-KefF complex
+RQ  0
+EV  GenProp1160;
+--
+SN  27
+ID  Glutathione-regulated potassium-efflux system KefB-KefG complex
+RQ  0
+EV  GenProp1131;
+--
+SN  28
+ID  Cytochrome o ubiquinol oxidase complex
+RQ  0
+EV  GenProp1164;
+--
+SN  29
+ID  Cus cation efflux complex
+RQ  0
+EV  GenProp1168;
+--
+SN  30
+ID  BtuCD complex
+RQ  0
+EV  GenProp1156;
 //

@@ -1,0 +1,36 @@
+AC  GenProp1382
+DE  Phytyl diphosphate biosynthesis
+TP  PATHWAY
+AU  Foerster H, Caspi R
+TH  1
+DC  Phytyl diphosphate biosynthesis
+DR  MetaCyc; PWY-5063;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  All-trans-geranyl-geranyl diphosphate reductase
+DN  All-trans-geranyl-geranyl diphosphate reductase
+RQ  1
+EV  IPR010253; TIGR02023; sufficient;
+EV  IPR011774; TIGR02028; sufficient;
+EV  IPR011777; TIGR02032; sufficient;
+--
+SN  2
+ID  Dihydrogeranylgeranyl diphosphate reductase
+DN  Dihydrogeranylgeranyl diphosphate reductase
+RQ  1
+EV  IPR010253; TIGR02023; sufficient;
+EV  IPR011774; TIGR02028; sufficient;
+EV  IPR011777; TIGR02032; sufficient;
+--
+SN  3
+ID  Tetrahydrogeranylgeranyl-PP reductase
+DN  Tetrahydrogeranylgeranyl-PP reductase
+RQ  1
+EV  IPR010253; TIGR02023; sufficient;
+EV  IPR011774; TIGR02028; sufficient;
+EV  IPR011777; TIGR02032; sufficient;
+//

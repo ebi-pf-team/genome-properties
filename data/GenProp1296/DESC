@@ -1,0 +1,26 @@
+AC  GenProp1296
+DE  NAD biosynthesis III
+TP  PATHWAY
+AU  Caspi R
+TH  0
+DC  NAD biosynthesis III
+DR  MetaCyc; NAD-BIOSYNTHESIS-III;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Nicotinamide phosphoribosyltransferase
+DN  Nicotinamide phosphoribosyltransferase (EC 2.4.2.12)
+RQ  1
+EV  IPR007229; PF04095; sufficient;
+--
+SN  2
+ID  Nicotinamide mononucleotide adenylyltransferase
+DN  Nicotinamide mononucleotide adenylyltransferase (EC 2.7.7.1)
+RQ  1
+EV  IPR000086; PF00293; sufficient;
+EV  IPR004821; PF01467; sufficient;
+EV  IPR004821; TIGR00125; sufficient;
+//

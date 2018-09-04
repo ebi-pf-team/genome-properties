@@ -1,0 +1,39 @@
+AC  GenProp1144
+DE  IscS-ThiL complex
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+RN  [1]
+RM  20404999
+RT  Structural basis for Fe-S cluster assembly and tRNA thiolation mediated
+RT  by IscS protein-protein interactions.
+RA  Shi R, Proteau A, Villarroya M, Moukadiri I, Zhang L, Trempe JF, Matte
+RA  A, Armengod ME, Cygler M
+RL  PLoS Biol. 2010;8:e1000354
+RN  [2]
+RM  16387657
+RT  Mechanistic insights into sulfur relay by multiple sulfur mediators
+RT  involved in thiouridine biosynthesis at tRNA wobble positions.
+RA  Ikeuchi Y, Shigi N, Kato J, Nishimura A, Suzuki T
+RL  Mol Cell. 2006;21:97-108
+DR  Complex Portal; CPX-2140;
+CC  IscS desulfurases L-cysteine and transfers the sulfur moiety to Cys456
+CC  on ThiI in a transpersulfidation reaction. Downstream, ThiL is involved
+CC  in thiamine-pyrophosphate biosynthesis, the active form of vitamin B1.
+--
+SN  1
+ID  Thiamine-monophosphate kinase
+RQ  1
+EV  IPR006283; MF_02128; sufficient;
+EV  IPR006283; PIRSF005303; sufficient;
+EV  IPR006283; PTHR30270; sufficient;
+EV  IPR006283; TIGR01379; sufficient;
+EV  IPR006283; cd02194; sufficient;
+--
+SN  2
+ID  Cysteine desulfurase IscS
+RQ  1
+EV  IPR010240; MF_00331; sufficient;
+EV  IPR010240; PTHR11601:SF34; sufficient;
+EV  IPR010240; TIGR02006; sufficient;
+//

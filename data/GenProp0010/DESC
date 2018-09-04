@@ -18,13 +18,11 @@ CC  regions may show endonuclease homology[1].
 --
 SN  1
 ID  Intein C-terminal splicing region
-DN  NOT APPLICABLE
 RQ  1
 EV  IPR030934; TIGR01443; sufficient;
 --
 SN  2
 ID  Intein N-terminal splicing region
-DN  NOT APPLICABLE
 RQ  1
 EV  IPR006141; TIGR01445; sufficient;
 //

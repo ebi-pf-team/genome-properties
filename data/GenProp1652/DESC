@@ -1,0 +1,32 @@
+AC  GenProp1652
+DE  Urate conversion to allantoin I
+TP  PATHWAY
+AU  Caspi R
+TH  1
+DC  Urate conversion to allantoin I
+DR  MetaCyc; PWY-5691;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Hydroxyisourate hydrolase
+DN  Hydroxyisourate hydrolase (EC 3.5.2.17)
+RQ  1
+EV  IPR001360; PF00232; sufficient;
+EV  IPR014306; TIGR02962; sufficient;
+--
+SN  2
+ID  OHCU decarboxylase
+DN  OHCU decarboxylase (EC 4.1.1.97)
+RQ  1
+EV  IPR014306; TIGR02962; sufficient;
+--
+SN  3
+ID  Urate hydroxylase
+DN  Urate hydroxylase (EC 1.7.3.3)
+RQ  1
+EV  IPR002042; PF01014; sufficient;
+EV  IPR002042; TIGR03383; sufficient;
+//

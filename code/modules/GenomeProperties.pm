@@ -48,17 +48,19 @@ sub write_results{
   #Only the table file has a header line
   if($self->tableFH){
     my $fh = $self->tableFH;
-    print $fh  "acc\tdescription\tproperty_value\tstep_number\tstep_name\tstep_value\trequired?\tevidence_type\tevidence_name\tbest_HMM_hit\tHMM_hit_count\tHMM_command\n";
+    print $fh  "acc\tdescription\tproperty_value\tstep_number\tstep_name\tstep_value\trequired?\tevidence_type\tevidence_name\tbest_HMM_hit\tHMM_hit_count\n";
   }
   
   foreach my $acc (sort{$a cmp $b}keys(% { $self->get_defs })){
     #next unless($acc eq 'GenProp0643' or $acc eq 'GenProp0001' or $acc eq 'GenProp0639');
     my $prop = $self->get_def($acc);
     next if(defined( $self->{_skip}->{ $prop->type } ));
-    $self->print_summary($prop) if($self->summaryFH);
+    $self->print_summary($prop) if($self->summaryFH and fileno($self->summaryFH));
     $self->print_long($prop) if($self->longFH);
     $self->print_table($prop) if($self->tableFH);
+    $self->print_compressed_table($prop) if($self->compTableFH);
   }
+  return(1);
 }
 
   
@@ -77,13 +79,50 @@ sub print_table {
 #acc     description     property_value  step_number     step_name       step_value      required?       evidence_type   evidence_name   best_HMM_hit    HMM_hit_count
 #GenProp0001     chorismate biosynthesis via shikimate   YES     5       shikimate kinase        yes     required        HMM     PF01202 tr|F4HBD8|F4HBD8_GALAU  2
   my ($row, $report); 
-  $row = join("\t", $prop->accession, $prop->accession, $prop->result);
- foreach my $step (sort { $a->order cmp $b->order} @{ $prop->get_steps }){
-         
-   
- }
-  my $fh = $self->tableFH;
-  print $fh $report;
+  $row = join("\t", $prop->accession, $prop->name, $prop->result);
+  foreach my $step (sort { $a->order cmp $b->order} @{ $prop->get_steps }){
+    next if($step->skip);
+    my $evRef = $step->get_evidence;
+    my %et; #Store evidence type
+    
+    foreach my $e (@{ $step->get_evidence }){
+      if($e->gp){
+        $et{"Genome Property"}++;
+      }else{
+        $et{"InterPro"}++;
+      }
+    }
+    my $evidence_type = join(",", keys(%et));
+    
+    $report .= $row."\t".$step->order."\t".$step->step_name."\t".$step->found."\t".$step->required."\t$evidence_type\n";
+  }
+  #Now write the report to the filehandle.
+  my $tfh = $self->tableFH;
+  print $tfh $report;
+  
+}
+
+sub print_compressed_table {
+
+  my ($self, $prop ) = @_; 
+  #acc     description     property_value [array of step values]
+  #GenProp0001     chorismate biosynthesis via shikimate   [0,1,1,1,1] 
+  my ($row, $report); 
+  $row = join("\t", $prop->accession, $prop->name, $prop->result);
+  my @stepRes;
+
+  foreach my $step (sort { $a->order cmp $b->order} @{ $prop->get_steps }){
+    if($step->skip){
+      push(@stepRes, -1);    
+    }else{
+      push(@stepRes, $step->found);
+    }
+  }
+  
+  $row .= "\t[".join(",", @stepRes)."]";
+  #Now write the report to the filehandle.
+  my $tfh = $self->compTableFH;
+  print $tfh $row;
   
 }
 
@@ -94,8 +133,8 @@ sub print_long {
   $report .= $prop->name."\n";
   #TODO switch sort to <=>, once orders are replaced.
   foreach my $step (sort { $a->order cmp $b->order} @{ $prop->get_steps }){
-	  #	print LONGFORM (".\tSTEP NUMBER: $steps{$step_p}[2]\n.\tSTEP NAME: $steps{$step_p}[3]\n");
-	  $report .= ".\tSTEP NUMBER: ".$step->order."\n";
+    #	print LONGFORM (".\tSTEP NUMBER: $steps{$step_p}[2]\n.\tSTEP NAME: $steps{$step_p}[3]\n");
+    $report .= ".\tSTEP NUMBER: ".$step->order."\n";
     $report .= ".\tSTEP NAME: ".$step->step_name."\n";  
     $report .= ".\t.\trequired\n" if ($step->required == 1);
     
@@ -111,87 +150,6 @@ sub print_long {
   
   }
     
-  
-
-  #print LONGFORM ("PROPERTY: $prop\n$properties{$prop_num}[1]\n\n");
-	#print SHORTFORM ("$prop\t$properties{$prop_num}[1]\t");
-	#foreach my $step_p (@{$def_step{$prop_num}})
-	#{
-	#	if ($debug) {print "PRINT: step: $step_p\n";}
-	#	print LONGFORM (".\tSTEP NUMBER: $steps{$step_p}[2]\n.\tSTEP NAME: $steps{$step_p}[3]\n");
-#		my $already_printed = 0;
-#		foreach my $ev_p (@{$step_ev{$step_p}})
-#		{
-#			$noev = 0;
-#			if ($debug) {print "PRINT: ev: $ev_p\n";}
-#			print TABLE ("$prop\t$properties{$prop_num}[1]\t");
-#			if ($results{$prop} == 2)
-#			{
-#				print TABLE ("YES\t");
-#				if (!$printed_result){print SHORTFORM ("YES\n"); $printed_result=1;}
-#			}
-#			if ($results{$prop} == 1)
-#			{
-#				print TABLE ("PARTIAL\t");
-#				if (!$printed_result){print SHORTFORM ("PARTIAL\n"); $printed_result=1;}
-#			}
-#			if ($results{$prop} == 0)
-#			{
-#				print TABLE ("NO\t");
-#				if (!$printed_result){print SHORTFORM ("NO\n"); $printed_result=1;}
-#			}
-#			print TABLE ("$steps{$step_p}[2]\t$steps{$step_p}[3]\t$steps{$step_p}[5]\t");
-#			if (@{$steps{$step_p}}[4])
-#			{
-#				print TABLE ("required\t");
-#				if (!$already_printed)
-#				{
-#					print LONGFORM (".\t.\trequired\n");
-#					$already_printed = 1;
-#				}
-#			}
-#			else
-#			{
-#				print TABLE ("not required\t");
-#				if (!$already_printed)
-#				{
-#					print LONGFORM (".\t.\tnot required\n");
-#					$already_printed = 1;
-#				}
-#			}
-#			print TABLE ("$ev{$ev_p}[3]\t$ev{$ev_p}[2]\t");
-#			if ($ev{$ev_p}[3] eq "HMM" || $ev{$ev_p}[3] eq "HMM-CLUST")
-#			{
-#				if ($ev{$ev_p}[5] ne "0")
-#				{
-#					my  @split_line = split(/\s+/, $ev{$ev_p}[4]);
-#					print TABLE ("$split_line[0]\t$ev{$ev_p}[5]\t$ev{$ev_p}[6]\n");
-#				}
-#				else
-#				{
-#					print TABLE ("$ev{$ev_p}[4]\t$ev{$ev_p}[5]\tN/A\n");
-#				}
-#				print LONGFORM (".\t.\t$ev{$ev_p}[3]: $ev{$ev_p}[2]\n.\t.\tBEST HIT: $ev{$ev_p}[4]\n.\t.\tHIT COUNT: $ev{$ev_p}[5]\n");
-#			}
-#			elsif ($ev{$ev_p}[3] eq "GENPROP")
-#			{
-#				print TABLE ("N/A\tN/A\tN/A\n");
-#				print LONGFORM (".\t.\t$ev{$ev_p}[3]: $ev{$ev_p}[2]\n");
-#			}		
-#			else 
-#			{
-#				print TABLE ("N/A\tN/A\tN/A\n");
-#				print LONGFORM (".\t.\t$ev{$ev_p}[3]\n");
-#			}
-#		}
-#		print LONGFORM (".\tSTEP RESULT: $steps{$step_p}[5]\n\n");
-#	}
-#	if ($noev)
-#	{
-#		print SHORTFORM ("NO\n");
-#	}
-
-
   $report .= "RESULT: ".$prop->result."\n";
   my $fh = $self->longFH;  
   print $fh $report;
@@ -205,11 +163,12 @@ sub open_outputfiles {
    if(!defined($self->{outdir})){
     $self->{outdir} = ".";  
    }
-   #print STDERR $self->{outdir}."\n";
    
    my $root = $self->{outdir};
+   
+   #Open 
    foreach my $f (@{$self->{outfiles}}){
-      print "$f\n";
+      warn "Opening filehandle based on $f\n";
       if($f eq 'long'){
         my $file = $root."/LONGFORM_REPORT_".$self->{name};
         my $fh;
@@ -225,9 +184,14 @@ sub open_outputfiles {
         my $fh;
         open($fh, '>', $file) or die "Failed to open $file:[$!]\n";
         $self->tableFH($fh);
+      }elsif($f eq 'comp_table'){
+        my $file = $root."/COMP_TABLE_".$self->{name};
+        my $fh;
+        open($fh, '>', $file) or die "Failed to open $file:[$!]\n";
+        $self->compTableFH($fh);
       }
    }
-   
+   return 1;
 }
 
 sub longFH {
@@ -269,11 +233,48 @@ sub tableFH {
   return ($self->{tableFH});
 }
 
+sub compTableFH {
+  my ( $self, $fh ) = @_;
+  
+  if($fh){
+    if(ref($fh) eq "GLOB"){
+      $self->{compTableFH} = $fh;    
+    }else{
+      croak("Filehandle not passed in\n"); 
+    }
+  }
+  return ($self->{compTableFH});
+}
+
+sub removeSummaryFH {
+  my ($self);
+  delete $self->{summaryFH};
+}
+
+sub removeCompTableFH {
+  my ($self);
+  delete $self->{compTableFH};
+}
+
+sub removeTableFH {
+  my ($self);
+  $self->{tableFH}=undef;
+}
+
+sub removeLongFH {
+  my ($self);
+  $self->{longFH}=undef;
+}
+
 sub close_outputfiles {
   my($self) = @_;
-  close($self->longFH) if ($self->longFH);
+  close($self->longFH) and $self->removeLongFH if ($self->longFH);
   close($self->summaryFH) if ($self->summaryFH); 
-  close($self->tableFH) if ($self->tableFH);
+  $self->removeSummaryFH;
+  close($self->tableFH) and $self->removeTableFH if ($self->tableFH);
+  close($self->compTableFH) if($self->compTableFH);
+  
+  return(1);
 }
 	
 sub debug{
@@ -286,7 +287,8 @@ sub set_options {
   my($self, $options, $role) = @_;
 
   #Check the inputs are logical. 
-  if(!$options->{seqs} and !$options->{matches} and $role eq 'cal'){
+  if(!$options->{seqs} and !$options->{matches} and 
+      !$self->{seqs} and !$self->{matches} and $role eq 'cal'){
     croak("Need either a sequence file or match file"); 
   }
 
@@ -301,6 +303,7 @@ sub set_options {
   if ($options->{property}){
     $input++;
   }
+
   if ($input > 1){
 	  die "Only one form of input please\n";
   }elsif($input == 0){
@@ -312,16 +315,28 @@ sub set_options {
   }
   
   #TODO: die on fatal option omitions.
+  return 1;
 }
 
 
 sub define_sequence_set {
-  my($self) = @_;
+  my($self, $seq_blob) = @_;
   
-  #open and read the sequence file
-  open(FH, '<', $self->{seqs}) or croak( "Failed to open ".$self->{seqs}."\n");
-  while(<FH>){
-    if(/^>(\S+)/){
+  my @sb;
+  if($seq_blob){
+    @sb = split(/\n/, $seq_blob);
+    foreach my $r (@sb){
+      
+    }
+  }else{
+    #open and read the sequence file
+    open(FH, '<', $self->{seqs}) or croak( "Failed to open ".$self->{seqs}."\n");
+    @sb = <FH>;
+  }
+
+
+  foreach my $l (@sb){
+    if($l =~ /^>(\S+)/){
       $self->{seqs_and_annotations}->{$1} = [];
     }
   }
@@ -330,7 +345,6 @@ sub define_sequence_set {
 
 sub get_sequence_set {
   my ($self) = @_;
-  
 
   return($self->{seqs_and_annotations});
 }
@@ -352,13 +366,23 @@ sub signature_matches {
   my ($self) = @_;
   
   if(!$self->{read_sig} && $self->{matches}){
-    open(FH, '<', $self->{matches}) or die "Could not open signature file\n";
-    while(<FH>){
-      chomp;
-      my @i5 = split(/\t/, $_);
+    my @mb;
+    #If we get matches passed as a blob on command line via CGI,
+    #split on carriage return, other than that, try and read
+    #from the command line
+    if(defined($self->{match_source}) and $self->{match_source} eq "inline"){
+      @mb = split(/\n/, $self->{matches});  
+    }else{
+      open(FH, '<', $self->{matches}) or die "Could not open signature matches file\n";
+      @mb = <FH>;
+      close(FH);
+    }
+    
+    foreach my $line (@mb){
+      chomp($line);
+      my @i5 = split(/\t/, $line);
       push(@{ $self->{seqs_and_annotations}->{$i5[0]} }, $i5[4]);
     }
-    close(FH);
     $self->{read_sig} =1;  
   }
   return $self->{read_sig};
@@ -367,7 +391,7 @@ sub signature_matches {
 
 sub transform_annotations {
   my ($self) = @_; 
-  
+
   my %fams;
   foreach my $seq (keys %{$self->{seqs_and_annotations} }){
     foreach my $fam (@{ $self->{seqs_and_annotations}->{$seq} }){
@@ -407,6 +431,7 @@ sub evaluate_properties {
   while ($self->incomplete) {
 	  $self->check_results();
   }
+  return 1;
 }
 
 
@@ -503,7 +528,7 @@ sub evaluate_property {
   
 
   #Three possible results for the evaluation
-  if($found == 0 or $found < $def->threshold){
+  if($found == 0 or $found <= $def->threshold){
     $def->result('NO'); #No required steps found
   }elsif($missing){
     $def->result('PARTIAL'); #One or more required steps found, but one or more required steps missing
@@ -516,62 +541,61 @@ sub evaluate_property {
 
 sub evaluate_step {
   my($self, $step) = @_;
-	my $succeed = 0;
-	my $some_evidence = 0; #Indicates whether the step is associated with some evidence, not really required.
+  my $succeed = 0;
+  my $some_evidence = 0; #Indicates whether the step is associated with some evidence, not really required.
   
   #We need to know if this step have been evaluated. If it has a dependency on the another GP, that
   #has not been tested at this point, we will set this to being 0. Note, for steps with no evidence,
   #this remains true, but there is nothing to evaluate against.
   $step->evaluated(1);
-	if ($self->debug) {
+  if ($self->debug) {
       print "Evaluating ".$step->step_name."\n";
   }
   my $evRef = $step->get_evidence;
-	
-	#
-	if (!scalar(@{$evRef})){
+  
+  if (!scalar(@{$evRef})){
     if($self->debug){
       print ("\tthis step has no evidence\n");
     }
     $step->skip(1);
-	} else {
-	
-		EV: foreach my $evObj (@{$evRef}){
-			#if (!$ev_id) {print RESULTS ("there is no ev_id\n"); next;} - Add to the object method
-			if ($self->debug) {print ("\tevidence is ".p($evObj)."\n");}
-			if ($self->debug) {print "\tev type is: ".$evObj->type."\n";}
-			
+  } else {
+  
+    EV: foreach my $evObj (@{$evRef}){
+    #if (!$ev_id) {print RESULTS ("there is no ev_id\n"); next;} - Add to the object method
+      if ($self->debug) {print ("\tevidence is ".p($evObj)."\n");}
+      if ($self->debug) {print "\tev type is: ".$evObj->type."\n";}
+      
       if($evObj->gp){
         if(defined($self->get_defs->{ $evObj->gp })){
           # For properties a PARTIAL or YES result is considered success           
           if( $self->get_defs->{ $evObj->gp }->result eq 'YES' or 
-                $self->get_defs->{ $evObj->gp }->result eq 'PARTIAL' ){
+              $self->get_defs->{ $evObj->gp }->result eq 'PARTIAL' ){
               $succeed++;
            }elsif($self->get_defs->{ $evObj->gp }->result eq 'UNTESTED'){
               $step->evaluated(0);  
 #Todo - need to check this bit. Some times a step can have two evidences, so need to check this is okay.               
            }
         }
-
       }elsif($evObj->interpro){
         #Need to annotated the sequences  
         if(!$self->annotated){  
-				  $self->annotate_sequences
+          $self->annotate_sequences
         }
         #See if the accession has been found  
         if($self->get_family( $evObj->accession ) ){
-						  $succeed++;
-						  last EV;
+          $succeed++;
+          last EV;
         }
-
       }else{
         die "unknown evidence object type\n";
       }
-	  }
+    }
   }
-	if ($succeed){
+  if ($succeed){
     $step->found(1);
-	}
+    #$step->matched_sequences($mSeqs);
+    #Need to get the sequences in here. 
+  }
 }
 
 sub read_properties {
@@ -607,6 +631,7 @@ sub write_properties {
   }else{
     croak("No source for genome properties.");
   }
+  return 1;
 }
 =head1 set_execution_order
 
@@ -689,8 +714,8 @@ sub _gp_step_ev_file {
 sub _write_properties_to_file {
   my ($self) = @_;
 
-  #$self->_write_defs;
-  #$self->_write_steps;  
+  $self->_write_defs;
+  $self->_write_steps;  
   $self->_write_step_evidences;
 }
 
@@ -701,10 +726,10 @@ sub _read_properties_from_flatfile{
    if( -s $self->_gp_flatfile ){ 
       GenomePropertiesIO::parseFlatfile($self, $self->_gp_flatfile);   
    }else{
-      croak("The genome properties file has no size ".$self->_gp_def_file."\n");
+      croak("The genome properties file has no size ".$self->_gp_flatfile."\n");
    }
   }else{
-    croak("The geneome properties file, ".$self->_gp_def_file." does not exist.\n");
+    croak("The geneome properties file, ".$self->_gp_flatfile." does not exist.\n");
   }
 }
 
@@ -853,14 +878,13 @@ sub toDESC {
     or die "Could not open $descfile file for writing to\n";
   $Text::Wrap::unexpand = 0;
   $Text::Wrap::columns = 76;
- 
+
+  #binmode(D, ":utf8");
 
   while (my ($acc, $desc) = each %$defs) {
-    p($acc);
     print D wrap( "AC  ", "AC  ", $desc->accession );
     print D "\n";
-    print D wrap( "DE  ", "DE  ", $desc->name);
-    print D "\n";
+    print D "DE  ".$desc->name."\n";
     print D wrap( "TP  ", "TP  ", $desc->type); 
     print D "\n";
 
@@ -907,9 +931,9 @@ sub toDESC {
       }
     }
     print D wrap( "CC  ", "CC  ", $desc->comment);
-    print D "\n";
+    print D "\n" if($desc->comment);
     print D wrap( "**  ", "**  ", $desc->private);
-    print D "\n";
+    print D "\n" if($desc->private);
 
     foreach my $step (@{ $desc->get_steps }){
       print D "--\n";
@@ -920,7 +944,9 @@ sub toDESC {
       foreach my $ev (@{ $step->get_evidence}){
         print D "EV  ".$ev->interpro."; ".$ev->accession."; ".$ev->type.";\n";
         if($ev->get_go){
-          print D  "TG  ".$ev->get_go.";\n";
+          foreach my $go (@{$ev->get_go}){
+            print D  "TG  ".$go.";\n";
+          }
         }
       }
     }
@@ -1074,7 +1100,7 @@ sub toDESCHack {
     print D wrap( "AU  ", "AU  ", "Haft D");
 
     print D "\n";
-    print D wrap( "TH  ", "TH  ", $desc->threshold);
+    print D wrap( "TH  ", "TH  ", defined($desc->threshold));
     print D "\n";
     
     if($refs->{$desc->accession}){

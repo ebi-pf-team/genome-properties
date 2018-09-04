@@ -1,0 +1,47 @@
+AC  GenProp1183
+DE  Flagellar Motor Switch Complex, CCW variant
+TP  COMPLEX
+AU  Complex Portal
+TH  2
+RN  [1]
+RM  24697492
+RT  Molecular architecture of the bacterial flagellar motor in cells.
+RA  Zhao X, Norris SJ, Liu J
+RL  Biochemistry. 2014;53:4323-4333
+RN  [2]
+RM  21673656
+RT  Architecture of the flagellar rotor.
+RA  Paul K, Gonzalez-Bonet G, Bilwes AM, Crane BR, Blair D
+RL  EMBO J. 2011;30:2962-2971
+DR  Complex Portal; CPX-1085;
+CC  Plays a role in chemotaxis, the movement toward or away from chemicals.
+CC  The flagellar motor of bacteria is a rotary device energized by the
+CC  membrane ion gradient and the complex is required for the rotation and
+CC  directional switching of the flagellum and also functions in flagellar
+CC  assembly. Motor torque is produced at the top of the switch complex,
+CC  where the FliG C-terminal domain bears several conserved charged
+CC  residues that interact with charged groups of the stator protein MotA
+CC  (P09348). The conformation of this complex is such that the flagellum
+CC  rotates in a counter-clockwise (CCW) direction.
+--
+SN  1
+ID  Flagellar motor switch protein FliG
+RQ  1
+EV  IPR000090; PIRSF003161; sufficient;
+EV  IPR000090; PR00954; sufficient;
+EV  IPR000090; PTHR30534; sufficient;
+EV  IPR000090; TIGR00207; sufficient;
+--
+SN  2
+ID  Flagellar motor switch protein FliN
+RQ  1
+EV  IPR012826; TIGR02480; sufficient;
+--
+SN  3
+ID  Flagellar motor switch protein FliM
+RQ  1
+EV  IPR001689; PF02154; sufficient;
+EV  IPR001689; PIRSF002888; sufficient;
+EV  IPR001689; PR00955; sufficient;
+EV  IPR001689; TIGR01397; sufficient;
+//

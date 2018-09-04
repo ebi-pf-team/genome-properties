@@ -1,0 +1,35 @@
+AC  GenProp1605
+DE  D-myo-inositol (1,4,5)-trisphosphate degradation
+TP  PATHWAY
+AU  Caspi R
+TH  1
+DC  D-myo-inositol (1,4,5)-trisphosphate degradation
+DR  MetaCyc; PWY-6363;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Ins(1,4,5)P3 5-phosphatase
+DN  Ins(1,4,5)P3 5-phosphatase (EC 3.1.3.56)
+RQ  1
+EV  IPR005135; PF03372; sufficient;
+EV  IPR002013; PF02383; sufficient;
+EV  IPR015047; PF08952; sufficient;
+EV  IPR000198; PF00620; sufficient;
+EV  IPR031995; PF16726; sufficient;
+EV  IPR031896; PF16776; sufficient;
+--
+SN  2
+ID  Inositol 1,4-bisphosphate 1-phosphatase
+DN  Inositol 1,4-bisphosphate 1-phosphatase (EC 3.1.3.57)
+RQ  1
+EV  IPR000760; PF00459; sufficient;
+--
+SN  3
+ID  Inositol-4-phosphate monophosphatase
+DN  Inositol-4-phosphate monophosphatase (EC 3.1.3.25)
+RQ  1
+EV  IPR000760; PF00459; sufficient;
+//

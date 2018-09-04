@@ -1,0 +1,27 @@
+AC  GenProp1113
+DE  DnaA-Dps complex
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+DR  Complex Portal; CPX-1948;
+CC  Complex formation reduces replication initiation on oriC under
+CC  oxidative stress conditions allowing DNA repair to proceed, prior to
+CC  new rounds of replication. The incomplete blockage of replication
+CC  initiation is thought to produce genetic variation in the bacterial
+CC  population.
+--
+SN  1
+ID  Chromosomal replication initiator protein DnaA
+RQ  1
+EV  IPR001957; MF_00377; sufficient;
+EV  IPR001957; PTHR30050:SF2; sufficient;
+EV  IPR001957; TIGR00362; sufficient;
+--
+SN  2
+ID  DNA protection during starvation protein
+RQ  1
+EV  IPR002177; PIRSF005900; sufficient;
+EV  IPR002177; PR01346; sufficient;
+EV  IPR002177; PTHR42932; sufficient;
+EV  IPR002177; cd01043; sufficient;
+//

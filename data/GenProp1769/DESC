@@ -1,0 +1,113 @@
+AC  GenProp1769
+DE  Amines and polyamines catabolism
+TP  CATEGORY
+AU  Richardson L
+TH  0
+CC  The chemical reactions and pathways resulting in the breakdown of amines
+CC  and polyamines.
+--
+SN  1
+ID  GABA shunt
+RQ  0
+EV  GenProp1288;
+--
+SN  2
+ID  4-Aminobutanoate degradation I
+RQ  0
+EV  GenProp1506;
+--
+SN  3
+ID  4-Aminobutanoate degradation III
+RQ  0
+EV  GenProp1523;
+--
+SN  4
+ID  4-Aminobutanoate degradation II
+RQ  0
+EV  GenProp1579;
+--
+SN  5
+ID  Allantoin degradation to glyoxylate I
+RQ  0
+EV  GenProp1257;
+--
+SN  6
+ID  Allantoin degradation to ureidoglycolate II (ammonia producing)
+RQ  0
+EV  GenProp1326;
+--
+SN  7
+ID  Allantoin degradation to glyoxylate II
+RQ  0
+EV  GenProp1393;
+--
+SN  8
+ID  Allantoin degradation to glyoxylate III
+RQ  0
+EV  GenProp1416;
+--
+SN  9
+ID  Allantoin degradation to ureidoglycolate I (urea producing)
+RQ  0
+EV  GenProp1501;
+--
+SN  10
+ID  L-carnitine degradation I
+RQ  0
+EV  GenProp1572;
+--
+SN  11
+ID  Choline degradation I
+RQ  0
+EV  GenProp1390;
+--
+SN  12
+ID  Glycine betaine degradation II (mammalian)
+RQ  0
+EV  GenProp1414;
+--
+SN  13
+ID  N-acetylglucosamine degradation I
+RQ  0
+EV  GenProp1303;
+--
+SN  14
+ID  N-acetylglucosamine degradation II
+RQ  0
+EV  GenProp1565;
+--
+SN  15
+ID  Phenylethylamine degradation I
+RQ  0
+EV  GenProp1402;
+--
+SN  16
+ID  Putrescine degradation V
+RQ  0
+EV  GenProp1276;
+--
+SN  17
+ID  Putrescine degradation I
+RQ  0
+EV  GenProp1362;
+--
+SN  18
+ID  Putrescine degradation II
+RQ  0
+EV  GenProp1434;
+--
+SN  19
+ID  Spermine and spermidine degradation III
+RQ  0
+EV  GenProp1272;
+--
+SN  20
+ID  Spermine and spermidine degradation I
+RQ  0
+EV  GenProp1610;
+--
+SN  21
+ID  Ethanolamine utilization
+RQ  0
+EV  GenProp1762;
+//

@@ -1,6 +1,6 @@
 AC  GenProp2045
 DE  TREX-2 complex
-TP  SYSTEM
+TP  COMPLEX
 AU  Rawlings ND
 TH  1
 RN  [1]
@@ -10,6 +10,8 @@ RT  TREX-2 complex that links transcription with nuclear messenger
 RT  RNA export. 
 RA  Jani D; Lutz S; Hurt E; Laskey RA; Stewart M; Wickramasinghe VO;   
 RL  Nucleic Acids Res. 2012;40:4562-4573.
+DC  Nucleotide excision repair
+DR  KEGG; map03420;
 CC  The TREX-2 complex helps dock export-competent ribonucleoprotein 
 CC  particles to the nuclear entrance of the nuclear pore complex [1].  
 CC  The TREX-2 complex consists of at least ENY2, GANP, PCID2, SEM1, 
@@ -43,7 +45,9 @@ SN  4
 ID  26S proteasome complex subunit SEM1
 DN  26S proteasome complex subunit SEM1/2
 RQ  1
-EV  -; PTHR16771:SF0; sufficient;
+EV  IPR007834; PTHR16771; sufficient;
+EV  IPR007834; SM01385; sufficient;
+EV  IPR007834; PF05160; sufficient;
 TG  GO:0006406;
 --
 SN  5

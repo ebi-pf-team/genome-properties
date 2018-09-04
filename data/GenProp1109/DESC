@@ -1,0 +1,43 @@
+AC  GenProp1109
+DE  UvrAB complex
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+RN  [1]
+RM  2546148
+RT  The (A)BC excinuclease of Escherichia coli has only the UvrB and UvrC
+RT  subunits in the incision complex.
+RA  Orren DK, Sancar A
+RL  Proc Natl Acad Sci U S A. 1989;86:5237-5241
+DR  Complex Portal; CPX-2151;
+CC  Part of the UvrABC repair system that catalyzes the recognition and
+CC  processing of DNA lesions. It scans the DNA for abnormalities. Upon
+CC  binding of the UvrAB complex to a putative damaged site, the DNA wraps
+CC  around one of the UvrB subunits. DNA wrapping is dependent on ATP
+CC  binding by UvrB and probably causes local melting of the DNA helix,
+CC  facilitating insertion of a UvrB beta-hairpin between the DNA strands.
+CC  Then UvrB probes one DNA strand for the presence of a lesion. If a
+CC  lesion is found the UvrA subunits dissociate and the UvrB-DNA
+CC  preincision complex (CPX-2152) is formed. This complex is subsequently
+CC  bound by UvrC (P0A8G0) and one of the UvrB monomers is released
+CC  (CPX-2153). If no lesion is found, the DNA wraps around the other UvrB
+CC  subunit that will check the other stand for damage. ATP hydrolysis by
+CC  UvrB is UvrA-dependent and initiates dissociation of UvrB from the DNA,
+CC  possibly because no lesion is found. The recruitment process of the
+CC  UvrAB complex to the DNA remains unknown. A UvrA dimer exists in vitro,
+CC  but it is uncertain if it also exists in vivo as UvrA is sequestered to
+CC  the DNA by Mfd (CPX-2155).
+--
+SN  1
+ID  UvrABC system protein B
+RQ  1
+EV  IPR004807; MF_00204; sufficient;
+EV  IPR004807; PTHR24029; sufficient;
+EV  IPR004807; TIGR00631; sufficient;
+--
+SN  2
+ID  UvrABC system protein A
+RQ  1
+EV  IPR004602; MF_00205; sufficient;
+EV  IPR004602; TIGR00630; sufficient;
+//

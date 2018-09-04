@@ -1,0 +1,24 @@
+AC  GenProp1678
+DE  Beta-alanine biosynthesis IV
+TP  PATHWAY
+AU  Caspi R
+TH  0
+DC  Beta-alanine biosynthesis IV
+DR  MetaCyc; PWY-5760;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  3-Aminopropanal:NAD(P)+ oxidoreductase
+DN  3-Aminopropanal:NAD(P)+ oxidoreductase (EC 1.2.1.-)
+RQ  1
+EV  IPR015590; PF00171; sufficient;
+--
+SN  2
+ID  Spermine oxidase
+DN  Spermine oxidase (EC 1.5.3.16)
+RQ  1
+EV  IPR002937; PF01593; sufficient;
+//

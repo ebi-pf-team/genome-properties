@@ -1,10 +1,10 @@
 AC  GenProp2067
 DE  MLL-HCF complex
-TP  SYSTEM
+TP  COMPLEX
 AU  Rawlings ND
 TH  5
 RN  [1]
-RM  15199122 
+RM  15199122
 RT  Leukemia proto-oncoprotein MLL forms a SET1-like histone 
 RT  methyltransferase complex with menin to regulate Hox 
 RT  gene expression. 
@@ -13,9 +13,10 @@ RA  Kitabayashi I; Herr W; Cleary ML;
 RL  Mol Cell Biol. 2004;24:5639-5649.
 CC  The MLL-HCF complex is a SET1-like histone 
 CC  methyltransferase complex that regulates Hox gene 
-CC  expression.  The complex is at least composed of KMT2A/MLL1, 
+CC  expression. The complex is at least composed of KMT2A/MLL1, 
 CC  MEN1, ASH2L, RBBP5, DPY30, WDR5, HCFC1 and HCFC2 [1]. 
-**  Evidence for step 2 is also used in GP2056, GP2059, GP2061, GP2062 and GP2063.
+**  Evidence for step 2 is also used in GP2056, GP2059, GP2061, 
+**  GP2062 and GP2063.
 **  Evidence for step 3 is also used in GP2059, GP2060, GP2061 and GP2062.
 **  Evidence for step 4 is also used in GP2059, GP2060, GP2061 and GP2062.
 **  Evidence for step 5 is also used in GP2059, GP2060, GP2061 and GP2062.
@@ -24,7 +25,7 @@ CC  MEN1, ASH2L, RBBP5, DPY30, WDR5, HCFC1 and HCFC2 [1].
 --
 SN  1
 ID  Histone-lysine N-methyltransferase 2A (EC 2.1.1.43)
-DN  Histone-lysine N-methyltransferase 2A (EC 2.1.1.43)/1
+DN  Histone-lysine N-methyltransferase 2A (EC 2.1.1.43)
 RQ  1
 EV  IPR037927; PTHR22884:SF387; sufficient;
 TG  GO:0071339;
@@ -32,35 +33,35 @@ TG  GO:0042800;
 --
 SN  2
 ID  WD repeat-containing protein 5 
-DN  WD repeat-containing protein 5 (WDR5) /2
+DN  WD repeat-containing protein 5 (WDR5)
 RQ  1
 EV  IPR037834; PTHR22847:SF560; sufficient;
 TG  GO:0071339;
 --
 SN  3
 ID  Retinoblastoma-binding protein 5 (RBBP5) 
-DN  Retinoblastoma-binding protein 5 (RBBP5) /3
+DN  Retinoblastoma-binding protein 5 (RBBP5)
 RQ  1
 EV  IPR037850; PTHR44040; sufficient;
 TG  GO:0071339;
 --
 SN  4
 ID  Set1/Ash2 histone methyltransferase complex subunit ASH2 
-DN  Set1/Ash2 histone methyltransferase complex subunit ASH2  /4
+DN  Set1/Ash2 histone methyltransferase complex subunit ASH2
 RQ  1
 EV  IPR037353; PTHR10598; sufficient;
 TG  GO:0071339;
 --
 SN  5
 ID  Protein dpy-30 homolog (DPY30)
-DN  Protein dpy-30 homolog (DPY30)/5
+DN  Protein dpy-30 homolog (DPY30)
 RQ  1
 EV  IPR037856; PTHR23356:SF0; sufficient;
 TG  GO:0071339;
 --
 SN  6
 ID  Menin (MEN1)
-DN  Menin /6
+DN  Menin
 RQ  1
 EV  IPR007747; PF05053; sufficient;
 EV  IPR007747; PTHR12693; sufficient;
@@ -69,14 +70,14 @@ TG  GO:0071339;
 --
 SN  7
 ID  Host cell factor 1 (HCFC1)
-DN  Host cell factor 1 /7
+DN  Host cell factor 1
 RQ  1
 EV  IPR037854; PTHR23244:SF339; sufficient;
 TG  GO:0071339;
 --
 SN  8
 ID  Host cell factor 2 (HCFC2)
-DN  Host cell factor 2 /8
+DN  Host cell factor 2
 RQ  1
 EV  IPR037932; PTHR23244:SF325; sufficient;
 TG  GO:0071339;

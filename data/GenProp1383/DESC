@@ -1,0 +1,27 @@
+AC  GenProp1383
+DE  Glutaminyl-tRNAgln biosynthesis via transamidation
+TP  PATHWAY
+AU  Fulcher C
+TH  0
+DC  Glutaminyl-tRNAgln biosynthesis via transamidation
+DR  MetaCyc; PWY-5921;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Aspartyl-tRNAAsn amidotransferase
+DN  Aspartyl-tRNAAsn amidotransferase (EC 6.3.5.7)
+RQ  1
+EV  IPR004412; TIGR00132; sufficient;
+EV  IPR004413; TIGR00133; sufficient;
+EV  IPR003837; PF02686; sufficient;
+EV  IPR003837; TIGR00135; sufficient;
+--
+SN  2
+ID  Glutamyl-tRNAGln synthetase
+DN  Glutamyl-tRNAGln synthetase (EC 6.1.1.24)
+RQ  1
+EV  IPR004527; TIGR00464; sufficient;
+//

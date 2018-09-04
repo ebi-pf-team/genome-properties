@@ -1,0 +1,32 @@
+AC  GenProp1283
+DE  Sulfate reduction I (assimilatory)
+TP  PATHWAY
+AU  Riley M, Caspi R
+TH  1
+DC  Sulfate reduction I (assimilatory)
+DR  MetaCyc; SO4ASSIM-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Phosphoadenosine phosphosulfate reductase
+DN  Phosphoadenosine phosphosulfate reductase (EC 1.8.4.8)
+RQ  1
+EV  IPR004511; TIGR00434; sufficient;
+EV  IPR011800; TIGR02057; sufficient;
+--
+SN  2
+ID  Adenylyl-sulfate kinase
+DN  Adenylyl-sulfate kinase (EC 2.7.1.25)
+RQ  1
+EV  IPR002891; TIGR00455; sufficient;
+--
+SN  3
+ID  Assimilatory sulfite reductase (NADPH)
+DN  Assimilatory sulfite reductase (NADPH) (EC 1.8.1.2)
+RQ  1
+EV  IPR010199; TIGR01931; sufficient;
+EV  IPR011786; TIGR02041; sufficient;
+//

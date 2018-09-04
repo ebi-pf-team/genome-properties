@@ -1,0 +1,32 @@
+AC  GenProp1536
+DE  Pyruvate decarboxylation to acetyl CoA
+TP  PATHWAY
+AU  Caspi R, Ingraham J
+TH  1
+DC  Pyruvate decarboxylation to acetyl CoA
+DR  MetaCyc; PYRUVDEHYD-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Dihydrolipoamide dehydrogenase
+DN  Dihydrolipoamide dehydrogenase (EC 1.8.1.4)
+RQ  1
+EV  IPR006258; TIGR01350; sufficient;
+--
+SN  2
+ID  Dihydrolipoyllysine-residue acetyltransferase
+DN  Dihydrolipoyllysine-residue acetyltransferase (EC 2.3.1.12)
+RQ  1
+EV  IPR006256; TIGR01348; sufficient;
+EV  IPR006257; TIGR01349; sufficient;
+--
+SN  3
+ID  Pyruvate dehydrogenase
+DN  Pyruvate dehydrogenase (EC 1.2.4.1)
+RQ  1
+EV  IPR004660; TIGR00759; sufficient;
+EV  IPR017597; TIGR03182; sufficient;
+//

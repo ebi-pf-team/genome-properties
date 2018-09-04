@@ -1,6 +1,6 @@
 AC  GenProp2078
 DE  Nucleosome remodeling factor (NuRF) complex
-TP  METAPATH
+TP  COMPLEX
 AU  Rawlings ND
 TH  1
 RN  [1]
@@ -34,17 +34,17 @@ RA  Shiekhattar R;
 RL  EMBO J. 2003;22:6089-6100.
 CC  The NURF (nucleosome remodeling factor) complex 
 CC  catalyzes ATP-dependent nucleosome sliding and 
-CC  facilitates transcription of chromatin [1].  It 
+CC  facilitates transcription of chromatin [1]. It 
 CC  recognizes H3 tails trimethylated on 'Lys-4' 
 CC  (H3K4me3), which mark transcription start sites of 
-CC  virtually all active genes [2].  In Drosophila
+CC  virtually all active genes [2]. In Drosophila
 CC  melanogaster, the complex is composed of Caf1, 
-CC  E(bx), Nurf-38 and Iswi [3].  In human the complex
+CC  E(bx), Nurf-38 and Iswi [3]. In human the complex
 CC  consists of SMARCA1; BPTF; RBBP4 and RBBP7 [4].
 --
 SN  1
 ID  Probable histone-binding protein Caf1 (Caf1/RBBP4/RBBP7)
-DN  Probable histone-binding protein Caf1 /1
+DN  Probable histone-binding protein Caf1
 RQ  1
 EV  -; PTHR22850:SF90; sufficient;
 EV  -; PTHR22850:SF82; sufficient;
@@ -52,7 +52,7 @@ TG  GO:0016589;
 --
 SN  2
 ID  Nucleosome-remodeling factor subunit NURF301 (E(bx)/BPTF)
-DN  Nucleosome-remodeling factor subunit NURF301 /2
+DN  Nucleosome-remodeling factor subunit NURF301
 RQ  1
 EV  IPR038028; PTHR22880:SF137; sufficient;
 TG  GO:0035064;
@@ -60,7 +60,7 @@ TG  GO:0016589;
 --
 SN  3
 ID  Inorganic pyrophosphatase (Nurf-38)
-DN  Inorganic pyrophosphatase (EC 3.6.1.1) /3
+DN  Inorganic pyrophosphatase (EC 3.6.1.1)
 RQ  0
 EV  -; PTHR10286:SF3; sufficient;
 TG  GO:0004427;
@@ -68,7 +68,7 @@ TG  GO:0016589;
 --
 SN  4
 ID  Chromatin-remodeling complex ATPase chain Iswi (SMARCA1)
-DN  Chromatin-remodeling complex ATPase chain Iswi (EC 3.6.4.-) /4
+DN  Chromatin-remodeling complex ATPase chain Iswi (EC 3.6.4.-)
 RQ  1
 EV  IPR029915; PTHR10799:SF887; sufficient;
 EV  IPR029915; PTHR10799:SF819; sufficient;

@@ -1,0 +1,37 @@
+AC  GenProp1761
+DE  Linoleate biosynthesis I (plants)
+TP  PATHWAY
+AU  Caspi R
+TH  2
+DC  Linoleate biosynthesis I (plants)
+DR  MetaCyc; PWY-5995;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Oleoyl-lipid 12-desaturase
+DN  Oleoyl-lipid 12-desaturase (EC 1.14.19.23)
+RQ  1
+EV  IPR005804; PF00487; sufficient;
+--
+SN  2
+ID  Lysophospholipid linoleoyltransferase
+DN  Lysophospholipid linoleoyltransferase (EC 2.3.1.23)
+RQ  1
+EV  IPR004299; PF03062; sufficient;
+--
+SN  3
+ID  Fatty acid desaturase
+DN  Fatty acid desaturase (EC 1.14.19.22)
+RQ  1
+EV  IPR005804; PF00487; sufficient;
+EV  IPR021863; PF11960; sufficient;
+--
+SN  4
+ID  Lysophospholipid oleoyltransferase
+DN  Lysophospholipid oleoyltransferase (EC 2.3.1.23)
+RQ  1
+EV  IPR004299; PF03062; sufficient;
+//

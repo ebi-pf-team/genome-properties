@@ -1,0 +1,33 @@
+AC  GenProp1324
+DE  Glycerol degradation V
+TP  PATHWAY
+AU  Keseler I, Riley M
+TH  0
+DC  Glycerol degradation V
+DR  MetaCyc; GLYCEROLMETAB-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Dihydroxyacetone kinase
+DN  Dihydroxyacetone kinase (EC 2.7.1.121)
+RQ  1
+EV  IPR000032; PF00381; sufficient;
+EV  IPR000032; TIGR01003; sufficient;
+EV  IPR004701; PF03610; sufficient;
+EV  IPR008279; PF00391; sufficient;
+EV  IPR008731; PF05524; sufficient;
+EV  IPR012844; TIGR02364; sufficient;
+EV  IPR004006; PF02733; sufficient;
+EV  IPR012736; TIGR02363; sufficient;
+EV  IPR004007; PF02734; sufficient;
+EV  IPR012737; TIGR02365; sufficient;
+--
+SN  2
+ID  Glycerol dehydrogenase
+DN  Glycerol dehydrogenase (EC 1.1.1.6)
+RQ  1
+EV  IPR001670; PF00465; sufficient;
+//

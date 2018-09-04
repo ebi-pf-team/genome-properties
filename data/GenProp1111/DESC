@@ -1,0 +1,47 @@
+AC  GenProp1111
+DE  Acetyl-CoA carboxylase complex
+TP  COMPLEX
+AU  Complex Portal
+TH  3
+RN  [1]
+RM  22869039
+RT  Structure and function of biotin-dependent carboxylases.
+RA  Tong L
+RL  Cell Mol Life Sci. 2013;70:863-891
+DR  Complex Portal; CPX-3206;
+CC  Biotin-dependent, multifunctional enzyme that catalyzes the first
+CC  committed step in fatty acid synthesis. The overall reaction is the
+CC  biotin-dependent carboxylation of acetyl-CoA to form malonyl-CoA. The
+CC  first half-reaction catalyzed by biotin carboxylase, is an
+CC  ATP-dependent carboxylation of biotin, which is covalently attached to
+CC  biotin carboxyl carrier protein. The second half-reaction, catalyzed by
+CC  carboxyl transferase, transfers the activated carboxyl group from
+CC  carboxy-biotin to acetyl-CoA to form malonyl-CoA.
+--
+SN  1
+ID  Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+RQ  1
+EV  IPR001095; MF_00823; sufficient;
+EV  IPR001095; PF03255; sufficient;
+EV  IPR001095; PR01069; sufficient;
+EV  IPR001095; PTHR42853; sufficient;
+EV  IPR001095; TIGR00513; sufficient;
+--
+SN  2
+ID  Biotin carboxylase
+RQ  1
+EV  IPR004549; TIGR00514; sufficient;
+--
+SN  3
+ID  Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+RQ  1
+EV  IPR001249; PR01071; sufficient;
+EV  IPR001249; TIGR00531; sufficient;
+--
+SN  4
+ID  Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+RQ  1
+EV  IPR000438; MF_01395; sufficient;
+EV  IPR000438; PR01070; sufficient;
+EV  IPR000438; TIGR00515; sufficient;
+//

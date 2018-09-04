@@ -1,0 +1,27 @@
+AC  GenProp1707
+DE  tRNA splicing II
+TP  PATHWAY
+AU  Caspi R
+TH  0
+DC  tRNA splicing II
+DR  MetaCyc; PWY-7803;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  tRNA-splicing endonuclease
+DN  tRNA-splicing endonuclease (EC 4.6.1.16)
+RQ  1
+EV  IPR006676; TIGR00324; sufficient;
+--
+SN  2
+ID  tRNA-splicing ligase
+DN  tRNA-splicing ligase (EC 6.5.1.8)
+RQ  1
+EV  IPR019265; PF10036; sufficient;
+EV  IPR001233; PF01139; sufficient;
+EV  IPR024887; PF15323; sufficient;
+EV  IPR018797; PF10239; sufficient;
+//
