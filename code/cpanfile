@@ -4,4 +4,4 @@ requires 'Clone', '==0.39';
 requires 'JSON', '==2.97001';
 requires 'LWP::UserAgent', '==6.33';
 requires 'Devel::Camelcadedb', '==2017.100.3';
-requires 'strict', '==1.11';
+requires 'strict', '>=1.08';

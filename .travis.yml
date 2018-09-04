@@ -5,6 +5,7 @@ perl:
 - "5.22"
 - "5.20"
 install:
+  - curl -L http://cpanmin.us | perl - App::cpanminus
   - cpanm --installdeps ./code/
   - export PERL5LIB=/root/code/modules
 script:
