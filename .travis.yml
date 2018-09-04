@@ -4,14 +4,9 @@ perl:
 - "5.24"
 - "5.22"
 - "5.20"
-before_install:
-  - PERL_VERSION=$(perl -v | grep -o "(v.*)" | tr -d '()v')
 install:
   - cpanm --installdeps ./code/
   - export PERL5LIB=./code/modules
 script:
   - perl ./code/scripts/assign_genome_properties.pl -all -gpdir ./flatfiles -gpff genomeProperties.txt -matches testing/testfiles/ecoli_k12_annotation.tsv -outdir ./ -outfiles summary -name ecoli_k12
   - test -s ./SUMMARY_FILE_ecoli_k12
-  - ls -l /home/travis/perl5/perlbrew/perls/${PERL_VERSION}/lib/${PERL_VERSION}/
-notifications:
-    email: false
