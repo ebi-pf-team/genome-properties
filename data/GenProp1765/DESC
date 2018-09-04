@@ -1,0 +1,168 @@
+AC  GenProp1765
+DE  Vitamin Biosynthesis
+TP  CATEGORY
+AU  Richardson L
+TH  0
+CC  The process of synthesising vitamins from simpler starting
+CC  materials.
+--
+SN  1
+ID  Biotin biosynthesis from 8-amino-7-oxononanoate I
+RQ  0
+EV  GenProp1377;
+--
+SN  2
+ID  Biotin biosynthesis I
+RQ  0
+EV  GenProp1577;
+--
+SN  3
+ID  2-Methyladeninyl adenosylcobamide biosynthesis from adenosylcobinamide-GDP
+RQ  0
+EV  GenProp1366;
+--
+SN  4
+ID  Adeninyl adenosylcobamide biosynthesis from adenosylcobinamide-GDP
+RQ  0
+EV  GenProp1378;
+--
+SN  5
+ID  Adenosylcobalamin biosynthesis from adenosylcobinamide-GDP I
+RQ  0
+EV  GenProp1454;
+--
+SN  6
+ID  Aminopropanol phosphate biosynthesis I
+RQ  0
+EV  GenProp1312;
+--
+SN  7
+ID  Flavin biosynthesis I (bacteria and plants)
+RQ  0
+EV  GenProp1734;
+--
+SN  8
+ID  Flavin biosynthesis IV (mammalian)
+RQ  0
+EV  GenProp1764;
+--
+SN  9
+ID  Tetrahydrofolate salvage from 5,10-methenyltetrahydrofolate
+RQ  0
+EV  GenProp1216;
+--
+SN  10
+ID  N10-formyl-tetrahydrofolate biosynthesis
+RQ  0
+EV  GenProp1356;
+--
+SN  11
+ID  Tetrahydrofolate biosynthesis
+RQ  0
+EV  GenProp1616;
+--
+SN  12
+ID  4-Aminobenzoate biosynthesis
+RQ  0
+EV  GenProp1727;
+--
+SN  13
+ID  Phosphopantothenate biosynthesis I
+RQ  0
+EV  GenProp1748;
+--
+SN  14
+ID  4-Amino-2-methyl-5-diphosphomethylpyrimidine biosynthesis
+RQ  0
+EV  GenProp1590;
+--
+SN  15
+ID  Thiamine diphosphate biosynthesis I (E. coli)
+RQ  0
+EV  GenProp1457;
+--
+SN  16
+ID  Thiamine diphosphate biosynthesis IV (eukaryotes)
+RQ  0
+EV  GenProp1702;
+--
+SN  17
+ID  Thiamine diphosphate biosynthesis II (Bacillus)
+RQ  0
+EV  GenProp1725;
+--
+SN  18
+ID  Hydroxymethylpyrimidine salvage
+RQ  0
+EV  GenProp1218;
+--
+SN  19
+ID  Thiamine salvage I
+RQ  0
+EV  GenProp1219;
+--
+SN  20
+ID  Thiamine salvage II
+RQ  0
+EV  GenProp1289;
+--
+SN  21
+ID  Thiazole biosynthesis III (eukaryotes)
+RQ  0
+EV  GenProp1697;
+--
+SN  22
+ID  Thiamine formation from pyrithiamine and oxythiamine (yeast)
+RQ  0
+EV  GenProp1674;
+--
+SN  23
+ID  Retinoate biosynthesis II
+RQ  0
+EV  GenProp1236;
+--
+SN  24
+ID  Retinoate biosynthesis I
+RQ  0
+EV  GenProp1321;
+--
+SN  25
+ID  Retinol biosynthesis
+RQ  0
+EV  GenProp1703;
+--
+SN  26
+ID  Pyridoxal 5'-phosphate salvage I
+RQ  0
+EV  GenProp1604;
+--
+SN  27
+ID  Pyridoxal 5'-phosphate biosynthesis I
+RQ  0
+EV  GenProp1633;
+--
+SN  28
+ID  Dehydro-D-arabinono-1,4-lactone biosynthesis
+RQ  0
+EV  GenProp1649;
+--
+SN  29
+ID  Superpathway of thiamine diphosphate biosynthesis II
+RQ  0
+EV  GenProp1266;
+--
+SN  30
+ID  Superpathway of tetrahydrofolate biosynthesis
+RQ  0
+EV  GenProp1332;
+--
+SN  31
+ID  Superpathway of adenosylcobalamin salvage from cobinamide I
+RQ  0
+EV  GenProp1349;
+--
+SN  32
+ID  Superpathway of thiamine diphosphate biosynthesis III (eukaryotes)
+RQ  0
+EV  GenProp1513;
+//

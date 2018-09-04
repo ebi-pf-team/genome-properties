@@ -1,0 +1,28 @@
+AC  GenProp1140
+DE  IHF complex
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+DR  Complex Portal; CPX-1957;
+DR  PDBe; 1OWF;
+DR  PDBe; 1OWG;
+DR  PDBe; 2ht0;
+DR  PDBe; 1ihf;
+CC  Histone-like, specific DNA-binding complex that functions in genetic
+CC  recombination as well as in transcriptional and translational control.
+CC  DNA-binding is both topology- or structural-dependent, and
+CC  sequence-specific.
+--
+SN  1
+ID  Integration host factor subunit beta
+RQ  1
+EV  IPR005685; MF_00381; sufficient;
+EV  IPR005685; TIGR00988; sufficient;
+--
+SN  2
+ID  Integration host factor subunit alpha
+RQ  1
+EV  IPR005684; MF_00380; sufficient;
+EV  IPR005684; TIGR00987; sufficient;
+EV  IPR005684; cd13835; sufficient;
+//

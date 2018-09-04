@@ -1,0 +1,28 @@
+AC  GenProp1373
+DE  NADH to cytochrome bd oxidase electron transfer II
+TP  PATHWAY
+AU  Mackie A
+TH  0
+DC  NADH to cytochrome bd oxidase electron transfer II
+DR  MetaCyc; PWY0-1568;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Cytochrome bd-I ubiquinol oxidase
+DN  Cytochrome bd-I ubiquinol oxidase (EC 1.10.3.14)
+RQ  1
+EV  IPR002585; PF01654; sufficient;
+EV  IPR003317; PF02322; sufficient;
+EV  IPR003317; TIGR00203; sufficient;
+EV  IPR011724; TIGR02106; sufficient;
+EV  IPR012994; PF08173; sufficient;
+--
+SN  2
+ID  NADH:ubiquinone oxidoreductase 1 (external)
+DN  NADH:ubiquinone oxidoreductase 1 (external) (EC 1.6.5.9)
+RQ  1
+EV  IPR023753; PF07992; sufficient;
+//

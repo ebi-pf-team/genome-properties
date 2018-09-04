@@ -1,0 +1,47 @@
+AC  GenProp1173
+DE  HslUV protease complex
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+DR  Complex Portal; CPX-2104;
+DR  PDBe; 1hqy;
+DR  PDBe; 1ht1;
+DR  PDBe; 1e94;
+DR  PDBe; 1g4a;
+DR  PDBe; 1g4b;
+DR  PDBe; 1ht2;
+DR  PDBe; 1g3i;
+CC  A proteasome-like degradation complex with two functional subunits: the
+CC  HslU hexamer forms the ATPase subunit which has chaperone activity and
+CC  the HslV duodecamer forms the protease subunit. The binding of ATP and
+CC  its subsequent hydrolysis by HslU are essential for unfolding of
+CC  protein substrates subsequently hydrolyzed by HslV. HslU recognizes the
+CC  N-terminal part of its protein substrates and unfolds these before they
+CC  are guided to HslV for hydrolysis. ATP hydrolysis causes a
+CC  conformational change in the HslU subunit 'closing' the central pore
+CC  and 'un-docking' the ATPase unit from the protease by way of flicking
+CC  the HslU C terminus from the HslV-HslV interface into the HslU-HslU
+CC  interface. The complex has been shown to be involved in the specific
+CC  degradation of heat shock induced transcription factors such as RpoH
+CC  and SulA. In addition, small hydrophobic peptides are also hydrolyzed
+CC  by HslV. HslV has weak protease activity even in the absence of HslU,
+CC  but this activity is induced more than 100-fold in the presence of
+CC  HslU. Owing to the size of the central pore of both subunits HslV is
+CC  not believed to degrade folded proteins.
+--
+SN  1
+ID  ATP-dependent protease ATPase subunit HslU
+RQ  1
+EV  IPR004491; MF_00249; sufficient;
+EV  IPR004491; PTHR43815; sufficient;
+EV  IPR004491; TIGR00390; sufficient;
+--
+SN  2
+ID  ATP-dependent protease subunit HslV
+RQ  1
+EV  IPR022281; MF_00248; sufficient;
+EV  IPR022281; PIRSF039093; sufficient;
+EV  IPR022281; PTHR32194; sufficient;
+EV  IPR022281; TIGR03692; sufficient;
+EV  IPR022281; cd01913; sufficient;
+//

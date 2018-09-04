@@ -1,0 +1,36 @@
+AC  GenProp1181
+DE  GroEL-GroES complex
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+DR  Complex Portal; CPX-2113;
+DR  PDBe; 1PCQ;
+CC  Member of the chaperonin class of molecular chaperones required for the
+CC  ATP-driven assisted folding of many proteins. Direct contact between
+CC  substrate proteins and the C-terminal tails of the GroEL subunits helps
+CC  prevent premature substrate protein escape during encapsulation.
+CC  Encapsulation seals the GroEL cavity and results in the release of the
+CC  substrate protein into an enlarged GroEL-GroES chamber. Protein folding
+CC  is initiated by a conformational shift within the GroEL-GroES complex.
+CC  Hydrolysis of ATP and binding of a new substrate protein to the
+CC  opposite cavity sends an allosteric signal causing GroES and the
+CC  encapsulated protein to be released into the cytosol.
+--
+SN  1
+ID  60 kDa chaperonin (GroEL)
+RQ  1
+EV  IPR001844; MF_00600; sufficient;
+EV  IPR001844; PR00298; sufficient;
+EV  IPR001844; TIGR02348; sufficient;
+EV  IPR001844; cd03344; sufficient;
+--
+SN  2
+ID  10 kDa chaperonin (GroES)
+RQ  1
+EV  IPR020818; MF_00580; sufficient;
+EV  IPR020818; PF00166; sufficient;
+EV  IPR020818; PR00297; sufficient;
+EV  IPR020818; PTHR10772; sufficient;
+EV  IPR020818; SM00883; sufficient;
+EV  IPR020818; cd00320; sufficient;
+//

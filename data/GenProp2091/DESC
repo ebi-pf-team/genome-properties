@@ -1,0 +1,93 @@
+AC  GenProp2091
+DE  Insulin secretion, EPAC pathway
+TP  METAPATH
+AU  Rawlings ND
+TH  1
+RN  [1]
+RM  9914469 
+RT  Molecular mechanisms and regulation of insulin 
+RT  exocytosis as a paradigm of endocrine secretion. 
+RA  Lang J; 
+RL  Eur J Biochem 1999;259:3-17.
+RN  [2]
+RM  26206488 
+RT  Adenylyl cyclase 5 regulation by Gbetagamma involves 
+RT  isoform-specific use of multiple interaction sites. 
+RA  Brand CS; Sadana R; Malik S; Smrcka AV; Dessauer CW; 
+RL  Mol Pharmacol 2015;88:758-767.
+RN  [3]
+RM  17084085 
+RT  Epac proteins: multi-purpose cAMP targets.
+RA  Bos JL; 
+RL  Trends Biochem Sci 2006;31:680-686.
+RN  [4]
+RM  14693691 
+RT  Epac: A new cAMP-binding protein in support of 
+RT  glucagon-like peptide-1 receptor-mediated signal 
+RT  transduction in the pancreatic beta-cell.
+RA  Holz GG; 
+RL  Diabetes 2004;53:5-13.
+DC  Insulin secretion
+DR  KEGG; map04911;
+CC  Insulin is secreted by the pancreatic beta cells. Its
+CC  secretion can be stimulated by the import of glucose
+CC  via a surface transporter, and metabolism of glucose
+CC  increases intracellular ATP, inhibiting ATP-sensitive
+CC  potassium channels, causing an influx of calcium into
+CC  the cell [1]. Alternatively, there are surface 
+CC  receptors for peptide hormones such as glucagon-like 
+CC  peptide 1. Binding triggers an increase in cAMP, 
+CC  activation of G proteins [2,3,4], leading to insulin 
+CC  secretion via binding of storage vesicles to the 
+CC  membrane [2].
+**  This Genome Property models the release of insulin
+**  stored in vesicles induced by peptide hormones.
+**  Part of the pathway induced by peptide hormones 
+**  requires de novo synthesis of insulin, so is also
+**  difficult to model.
+**  G protein is a heterotrimer of alpha, beta and gamma
+**  subunits.  The alpha chain has the nucleotide binding 
+**  site; beta and gamma are GTPases.
+**  Can this pathway can be a separate GenomeProperty for exocytosis?
+--
+SN  1
+ID  Peptide hormone initiated increase in cAMP
+DN  Peptide hormone initiated increase in cAMP
+RQ  1
+EV  GenProp2092; sufficient;
+EV  GenProp2093; sufficient;
+EV  GenProp2094; sufficient;
+--
+SN  5
+ID  Rap guanine nucleotide exchange
+DN  Rap guanine nucleotide exchange (EPAC/RAPGEF4)
+RQ  1
+EV  IPR008937; PTHR23113; sufficient;
+TG  GO:0005085;
+--
+SN  6
+ID  Regulating synaptic membrane exocytosis protein 2
+DN  Regulating synaptic membrane exocytosis protein 2 (Rim2)
+RQ  1
+EV  IPR030631; PTHR12157:SF15; sufficient;
+TG  GO:0017157;
+--
+SN  7
+ID  Protein piccolo
+DN  Protein piccolo
+RQ  1
+EV  IPR030629; PTHR14113:SF6; sufficient;
+TG  GO:0017157;
+--
+SN  8
+ID  Ras-related protein Rab-3A
+DN  Rab3
+RQ  1
+EV  IPR037872; cd01865; sufficient;
+TG  GO:0016079;
+--
+SN  9
+ID  Insulin release from secretory granules
+RQ  1
+EV  GenProp2097;
+//

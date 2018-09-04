@@ -1,0 +1,56 @@
+AC  GenProp1594
+DE  Superpathway of ergosterol biosynthesis I
+TP  PATHWAY
+AU  Caspi R, Hong E
+TH  5
+DC  Superpathway of ergosterol biosynthesis I
+DR  MetaCyc; ERGOSTEROL-SYN-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Omega,E,E-farnesyl diphosphate synthase
+DN  Omega,E,E-farnesyl diphosphate synthase (EC 2.5.1.10)
+RQ  1
+EV  IPR000092; PF00348; sufficient;
+--
+SN  2
+ID  2,3-Oxidosqualene-lanosterol cyclase
+DN  2,3-Oxidosqualene-lanosterol cyclase (EC 5.4.99.7)
+RQ  1
+EV  IPR018333; TIGR01787; sufficient;
+--
+SN  3
+ID  Squalene synthase
+DN  Squalene synthase (EC 2.5.1.21)
+RQ  1
+EV  IPR002060; PF00494; sufficient;
+EV  IPR006449; TIGR01559; sufficient;
+--
+SN  4
+ID  Lanosterol 14a-demethylase
+DN  Lanosterol 14a-demethylase (EC 1.14.13.70)
+RQ  1
+EV  IPR001128; PF00067; sufficient;
+--
+SN  5
+ID  SAM:C-24 sterol methyltransferase
+DN  SAM:C-24 sterol methyltransferase (EC 2.1.1.41)
+RQ  1
+EV  IPR013216; PF08241; sufficient;
+EV  IPR013705; PF08498; sufficient;
+--
+SN  6
+ID  Zymosterol 3-dehydrogenase
+DN  Zymosterol 3-dehydrogenase (EC 1.1.1.270)
+RQ  1
+EV  IPR002347; PF00106; sufficient;
+--
+SN  7
+ID  Squalene monooxygenase
+DN  Squalene monooxygenase (EC 1.14.14.17)
+RQ  1
+EV  IPR013698; PF08491; sufficient;
+//

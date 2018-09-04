@@ -1,0 +1,38 @@
+AC  GenProp1415
+DE  Superpathway of fatty acid biosynthesis initiation (E. coli)
+TP  PATHWAY
+AU  Caspi R, Riley M
+TH  2
+DC  Superpathway of fatty acid biosynthesis initiation (E. coli)
+DR  MetaCyc; FASYN-INITIAL-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Acetoacetyl-[acp] synthase
+DN  Acetoacetyl-[acp] synthase (EC 2.3.1.179)
+RQ  1
+EV  IPR014030; PF00109; sufficient;
+EV  IPR014031; PF02801; sufficient;
+--
+SN  2
+ID  Acetyl-CoA:ACP transacylase
+DN  Acetyl-CoA:ACP transacylase (EC 2.3.1.86)
+RQ  1
+EV  IPR004655; TIGR00747; sufficient;
+--
+SN  3
+ID  Malonyl-ACP decarboxylase
+DN  Malonyl-ACP decarboxylase (EC 2.3.1)
+RQ  1
+EV  IPR014030; PF00109; sufficient;
+EV  IPR014031; PF02801; sufficient;
+--
+SN  4
+ID  Malonyl CoA-acyl carrier protein transacylase, mitochondrial
+DN  Malonyl CoA-acyl carrier protein transacylase, mitochondrial (EC 2.3.1.86)
+RQ  1
+EV  IPR004410; TIGR00128; sufficient;
+//

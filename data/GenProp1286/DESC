@@ -1,0 +1,58 @@
+AC  GenProp1286
+DE  Myo-inositol degradation I
+TP  PATHWAY
+AU  Caspi R, Pellegrini-Toole A
+TH  5
+DC  Myo-inositol degradation I
+DR  MetaCyc; P562-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  2-Deoxy-5-keto-D-gluconate 6-phosphate aldolase
+DN  2-Deoxy-5-keto-D-gluconate 6-phosphate aldolase (EC 4.1.2.29)
+RQ  1
+EV  IPR000771; PF01116; sufficient;
+EV  IPR000771; TIGR00167; sufficient;
+EV  IPR011289; TIGR01859; sufficient;
+--
+SN  2
+ID  5-Dehydro-2-deoxy-D-gluconate kinase
+DN  5-Dehydro-2-deoxy-D-gluconate kinase (EC 2.7.1.92)
+RQ  1
+EV  IPR030830; TIGR04382; sufficient;
+--
+SN  3
+ID  Myo-inositol 2-dehydrogenase
+DN  Myo-inositol 2-dehydrogenase (EC 1.1.1.18)
+RQ  1
+EV  IPR000683; PF01408; sufficient;
+EV  IPR004104; PF02894; sufficient;
+--
+SN  4
+ID  Scyllo-inosose dehydratase
+DN  Scyllo-inosose dehydratase (EC 4.2.1.44)
+RQ  1
+EV  IPR030823; TIGR04379; sufficient;
+--
+SN  5
+ID  3D-(3,5/4)-trihydroxycyclohexane-1,2-dione hydrolase
+DN  3D-(3,5/4)-trihydroxycyclohexane-1,2-dione hydrolase (EC 3.7.1.22)
+RQ  1
+EV  IPR030817; TIGR04377; sufficient;
+--
+SN  6
+ID  5-Deoxy-D-glucuronate isomerase
+DN  5-Deoxy-D-glucuronate isomerase (EC 5.3.1.30)
+RQ  1
+EV  IPR021120; PF04962; sufficient;
+EV  IPR024203; TIGR04378; sufficient;
+--
+SN  7
+ID  Malonate semialdehyde dehydrogenase
+DN  Malonate semialdehyde dehydrogenase (EC 1.2.1.18)
+RQ  1
+EV  IPR010061; TIGR01722; sufficient;
+//

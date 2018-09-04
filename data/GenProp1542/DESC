@@ -1,0 +1,25 @@
+AC  GenProp1542
+DE  Phosphatidylethanolamine biosynthesis I
+TP  PATHWAY
+AU  Caspi R
+TH  0
+DC  Phosphatidylethanolamine biosynthesis I
+DR  MetaCyc; PWY-5669;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Phosphatidylserine decarboxylase
+DN  Phosphatidylserine decarboxylase (EC 4.1.1.65)
+RQ  1
+EV  IPR003817; PF02666; sufficient;
+EV  IPR033177; TIGR00163; sufficient;
+--
+SN  2
+ID  Phosphatidylserine synthase
+DN  Phosphatidylserine synthase (EC 2.7.8.8)
+RQ  1
+EV  IPR025202; PF13091; sufficient;
+//

@@ -1,0 +1,38 @@
+AC  GenProp1483
+DE  Glycogen biosynthesis II (from UDP-D-Glucose)
+TP  PATHWAY
+AU  Caspi R
+TH  2
+DC  Glycogen biosynthesis II (from UDP-D-Glucose)
+DR  MetaCyc; PWY-5067;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  UDP-alpha-D-glucose:glycogenin alpha-D-glucosyltransferase
+DN  UDP-alpha-D-glucose:glycogenin alpha-D-glucosyltransferase (EC 2.4.1.186)
+RQ  1
+EV  IPR002495; PF01501; sufficient;
+--
+SN  2
+ID  UDP-alpha-D-glucose:glucosyl-glycogenin alpha-D-glucosyltransferase
+DN  UDP-alpha-D-glucose:glucosyl-glycogenin alpha-D-glucosyltransferase (EC 2.4.1.186)
+RQ  1
+EV  IPR002495; PF01501; sufficient;
+--
+SN  3
+ID  UDP-glucose:glycogenin 4-alpha-D-glucosyltransferase
+DN  UDP-glucose:glycogenin 4-alpha-D-glucosyltransferase (EC 2.4.1.11)
+RQ  1
+EV  IPR008631; PF05693; sufficient;
+--
+SN  4
+ID  1,4-Alpha-glucan branching enzyme
+DN  1,4-Alpha-glucan branching enzyme (EC 2.4.1.18)
+RQ  1
+EV  IPR004193; PF02922; sufficient;
+EV  IPR006047; PF00128; sufficient;
+EV  IPR006048; PF02806; sufficient;
+//

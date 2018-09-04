@@ -1,0 +1,85 @@
+AC  GenProp2093
+DE  GIP signalled increase in cAMP
+TP  SYSTEM
+AU  Rawlings ND
+TH  1
+RN  [1]
+RM  15533777
+RT  Clinical endocrinology and metabolism. Glucose-
+RT  dependent insulinotropic polypeptide/gastric 
+RT  inhibitory polypeptide. 
+RA  Meier JJ; Nauck MA; 
+RL  Best Pract Res Clin Endocrinol Metab 2004;18:587-606.
+DC  Insulin secretion
+DR  KEGG; map04911;
+CC  Insulin is secreted by the pancreatic beta cells. Its
+CC  secretion can be stimulated by the import of glucose
+CC  via a surface transporter, and metabolism of glucose
+CC  increases intracellular ATP, inhibiting ATP-sensitive
+CC  potassium channels, causing an influx of calcium into
+CC  the cell. Alternatively, there are surface receptors
+CC  for peptide hormones such as GIP [1].  
+CC  Binding triggers adenylyl cyclase activation, an 
+CC  increase in cAMP, activation of cAMP-dependent second
+CC  messengers such as protein kinase A, and secretion of
+CC  insulin from vesicles [1]. This property describes
+CC  the steps of the pathway leading to an increase in 
+CC  cAMP.
+**  This Genome Property models the release of insulin
+**  stored in vesicles induced by peptide hormone GIP.
+**  It is difficult to model the pathway initiated by
+**  glucose, because it involves the TCA cycle and
+**  it is the increase in ATP that triggers Na+/K+ flux
+**  and an increase in intracellular Ca2+. 
+**  Part of the pathway induced by peptide hormones 
+**  requires de novo synthesis of insulin, so is also
+**  difficult to model.
+--
+SN  1
+ID  Gastric inhibitory polypeptide
+DN  Gastric inhibitory polypeptide (GIP)
+RQ  1
+EV  IPR039078; PTHR15211; sufficient;
+TG  GO:0005179;
+--
+SN  2
+ID  Glucose-dependent insulinotropic receptor
+DN  Glucose-dependent insulinotropic receptor (GIPR)
+RQ  1
+EV  IPR028336; PTHR22750:SF7; sufficient;
+EV  IPR028336; SF7cd15104; sufficient;
+TG  GO:0004930;
+--
+SN  3
+ID  Guanine nucleotide-binding protein G subunit alpha
+DN  Guanine nucleotide binding protein (G-protein), alpha subunit (GNA)
+RQ  1
+EV  IPR001019; PF00503; sufficient;
+EV  IPR001019; PR00318; sufficient;
+EV  IPR001019; PTHR10218; sufficient;
+EV  IPR001019; SM00275; sufficient;
+EV  IPR001019; cd00066; sufficient;
+TG  GO:0019001;
+--
+SN  4
+ID  Guanine nucleotide-binding protein G subunit beta
+DN  Guanine nucleotide-binding protein G subunit beta (GNB)
+RQ  1
+EV  IPR016346; PTHR19850; sufficient;
+TG  GO:0003924;
+--
+SN  5
+ID  Guanine nucleotide-binding protein G subunit gamma
+DN  Guanine nucleotide-binding protein G subunit gamma (GNG)
+RQ  1
+EV  IPR001770; PTHR13809; sufficient;
+EV  IPR001770; PR00321; sufficient;
+TG  GO:0003924;
+--
+SN  6
+ID  Adenylate cyclase
+DN  Adenylate cyclase (AC)
+RQ  1
+EV  IPR030672; PIRSF039050; sufficient;
+TG  GO:0004016;
+//

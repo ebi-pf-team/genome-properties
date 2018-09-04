@@ -52,14 +52,14 @@ TG  GO:0071339;
 --
 SN  2
 ID  Chromatin complexes subunit BAP18 
-DN  Chromatin complexes subunit BAP18 /2
+DN  Chromatin complexes subunit BAP18
 RQ  1
 EV  IPR037931; PTHR21397:SF2; sufficient;
 TG  GO:0071339;
 --
 SN  3
 ID  Chromodomain-helicase-DNA-binding protein 8 (CHD-8)
-DN  Chromodomain-helicase-DNA-binding protein 8 (CHD-8) (EC 3.6.4.12) /3
+DN  Chromodomain-helicase-DNA-binding protein 8 (CHD-8) (EC 3.6.4.12)
 RQ  1
 EV  IPR034724; MF_03071; sufficient;
 TG  GO:0071339;
@@ -67,14 +67,14 @@ TG  GO:0043044;
 --
 SN  4
 ID  Transcription factor E2F6
-DN  Transcription factor E2F6 /4
+DN  Transcription factor E2F6
 RQ  1
 EV  IPR015635; PTHR12081:SF19; sufficient;
 TG  GO:0071339;
 --
 SN  5
 ID  Heat shock 70 kDa protein 1A (HSP70)
-DN  Heat shock 70 kDa protein 1A /5
+DN  Heat shock 70 kDa protein 1A
 RQ  1
 EV  IPR013126; PF00012; sufficient;
 EV  IPR013126; PR00301; sufficient;
@@ -82,21 +82,21 @@ TG  GO:0071339;
 --
 SN  6
 ID  INO80 complex subunit C (INO80C)
-DN  INO80 complex subunit C /6
+DN  INO80 complex subunit C
 RQ  1
 EV  IPR029525; PTHR31200; sufficient;
 TG  GO:0071339;
 --
 SN  7
 ID  KAT8 regulatory NSL complex subunit 1 (KANSL1)
-DN  KAT8 regulatory NSL complex subunit 1 /7
+DN  KAT8 regulatory NSL complex subunit 1
 RQ  1
 EV  IPR026180; PTHR22443; sufficient;
 TG  GO:0071339;
 --
 SN  8
 ID  Ribosomal biogenesis protein LAS1L
-DN  Ribosomal biogenesis protein LAS1L /8
+DN  Ribosomal biogenesis protein LAS1L
 RQ  1
 EV  IPR007174; PTHR15002; sufficient;
 EV  IPR007174; PTHR15002; sufficient;
@@ -104,7 +104,7 @@ TG  GO:0071339;
 --
 SN  9
 ID  Protein max (MAX)         
-DN  Protein max /9
+DN  Protein max
 RQ  1
 EV  IPR037933; PTHR10328; sufficient;
 TG  GO:0071339;
@@ -112,14 +112,14 @@ TG  GO:0003700;
 --
 SN  10
 ID  Microspherule protein 1 (MCRS1)
-DN  Microspherule protein 1 /10
+DN  Microspherule protein 1
 RQ  1
 EV  IPR037912; PTHR13233; sufficient;
 TG  GO:0071339;
 --
 SN  11
 ID  MAX gene-associated protein (MGA)
-DN  MAX gene-associated protein /11
+DN  MAX gene-associated protein
 RQ  1
 EV  IPR037935; PTHR11267:SF32; sufficient;
 TG  GO:0071339;
@@ -127,7 +127,7 @@ TG  GO:0003700;
 --
 SN  12
 ID  Histone acetyltransferase KAT8
-DN  Histone acetyltransferase KAT8 (EC 2.3.1.48) /12
+DN  Histone acetyltransferase KAT8 (EC 2.3.1.48)
 RQ  1
 EV  IPR037906; PTHR10615:SF82; sufficient;
 TG  GO:0071339;
@@ -135,30 +135,30 @@ TG  GO:0004402;
 --
 SN  13
 ID  Proline-, glutamic acid- and leucine-rich protein 1 (PELP1) 
-DN  Proline-, glutamic acid- and leucine-rich protein 1 /13
+DN  Proline-, glutamic acid- and leucine-rich protein 1
 RQ  1
 EV  IPR031193; PTHR45115; sufficient;
 TG  GO:0071339;
 --
 SN  14
 ID  PHD finger protein 20 (PHF20) 
-DN  PHD finger protein 20 /14
+DN  PHD finger protein 20
 RQ  1
 EV  IPR037915; PTHR15856:SF27; sufficient;
 TG  GO:0071339;
 --
 SN  15
 ID  U4/U6 small nuclear ribonucleoprotein Prp31 (PRP31) 
-DN  U4/U6 small nuclear ribonucleoprotein Prp31 /15
+DN  U4/U6 small nuclear ribonucleoprotein Prp31
 RQ  1
 EV  IPR027105; PTHR13904; sufficient;
 TG  GO:0071339;
 --
 SN  16
 ID  E3 ubiquitin-protein ligase RING2 
-DN  E3 ubiquitin-protein ligase RING2 (EC 2.3.2.27) /16
+DN  E3 ubiquitin-protein ligase RING2 (EC 2.3.2.27)
 RQ  1
-EV  IPR037937; PTHR10825:SF41; sufficient;
+EV  -; PTHR10825:SF41; sufficient;
 TG  GO:0071339;
 TG  GO:0036353;
 --
@@ -170,8 +170,8 @@ TG  GO:0071339;
 TG  GO:0043141;
 --
 SN  18
-ID  Sentrin-specific protease 3 (SENP3) 
-DN  Sentrin-specific protease 3 (EC 3.4.22.-) /18
+ID  Sentrin-specific protease 3 (SENP3)
+DN  Sentrin-specific protease 3 (EC 3.4.22.-)
 RQ  1
 EV  IPR037945; PTHR12606:SF16; sufficient;
 TG  GO:0071339;
@@ -180,14 +180,14 @@ TG  GO:0016926;
 --
 SN  19
 ID  Transcription initiation factor TFIID subunit 1 (TAF1) 
-DN  Transcription initiation factor TFIID subunit 1 (EC 2.3.1.48) (EC 2.7.11.1) /19
+DN  Transcription initiation factor TFIID subunit 1 (EC 2.3.1.48) (EC 2.7.11.1)
 RQ  1
 EV  IPR011177; PIRSF003047; sufficient;
 TG  GO:0071339;
 --
 SN  20
 ID  Transcription initiation factor TFIID subunit 4 (TAF4) 
-DN  Transcription initiation factor TFIID subunit 4 /20
+DN  Transcription initiation factor TFIID subunit 4
 RQ  1
 EV  IPR007900; PF05236; sufficient;
 EV  IPR007900; cd08045; sufficient;
@@ -195,21 +195,21 @@ TG  GO:0071339;
 --
 SN  21
 ID  Transcription initiation factor TFIID subunit 6 (TAF6) 
-DN  Transcription initiation factor TFIID subunit 6 /21
+DN  Transcription initiation factor TFIID subunit 6
 RQ  1
 EV  IPR037796; PTHR10221; sufficient;
 TG  GO:0071339;
 --
 SN  22
 ID  Transcription initiation factor TFIID subunit 7 (TAF7) 
-DN  Transcription initiation factor TFIID subunit 7 /22
+DN  Transcription initiation factor TFIID subunit 7
 RQ  1
 EV  IPR037817; PTHR12228; sufficient;
 TG  GO:0071339;
 --
 SN  23
 ID  Transcription initiation factor TFIID subunit 9 (TAF9) 
-DN  Transcription initiation factor TFIID subunit 9 /23
+DN  Transcription initiation factor TFIID subunit 9
 RQ  1
 EV  IPR003162; PF02291; sufficient;
 EV  IPR003162; cd07979; sufficient;
@@ -217,7 +217,7 @@ TG  GO:0071339;
 --
 SN  24
 ID  Testis-expressed protein 10 (TEX10) 
-DN  Testis-expressed protein 10 /24
+DN  Testis-expressed protein 10
 RQ  1
 EV  IPR037947; PTHR16056:SF2; sufficient;
 TG  GO:0071339;

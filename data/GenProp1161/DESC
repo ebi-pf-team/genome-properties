@@ -1,0 +1,27 @@
+AC  GenProp1161
+DE  TusE-MnmA complex
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+DR  Complex Portal; CPX-2145;
+CC  Involved in the sulfur-relay system required for 2-thiolation of
+CC  5-methylaminomethyl-2-thiouridine (mnm5s2U) at tRNA wobble positions.
+CC  The TusE subunit transfers sulfur (most likely bound to Cys108 as
+CC  persulfide) from the TusBCDE complex (CPX-2144) to the tRNA.
+--
+SN  1
+ID  Sulfurtransferase TusE
+RQ  1
+EV  IPR007453; PF04358; sufficient;
+EV  IPR007453; PIRSF006223; sufficient;
+EV  IPR007453; PTHR37010; sufficient;
+EV  IPR007453; TIGR03342; sufficient;
+--
+SN  2
+ID  tRNA-specific 2-thiouridylase MnmA
+RQ  1
+EV  IPR004506; MF_00144; sufficient;
+EV  IPR004506; PTHR11933; sufficient;
+EV  IPR004506; TIGR00420; sufficient;
+EV  IPR004506; cd01998; sufficient;
+//

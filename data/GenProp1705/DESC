@@ -1,0 +1,26 @@
+AC  GenProp1705
+DE  Sedoheptulose bisphosphate bypass
+TP  PATHWAY
+AU  Keseler I
+TH  0
+DC  Sedoheptulose bisphosphate bypass
+DR  MetaCyc; PWY0-1517;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Sedoheptulose-7-phosphate kinase
+DN  Sedoheptulose-7-phosphate kinase (EC 2.7.1)
+RQ  1
+EV  IPR012828; TIGR02482; sufficient;
+--
+SN  2
+ID  Sedoheptulose-1,7-bisphosphate aldolase
+DN  Sedoheptulose-1,7-bisphosphate aldolase (EC 4.1.2)
+RQ  1
+EV  IPR000771; PF01116; sufficient;
+EV  IPR000771; TIGR00167; sufficient;
+EV  IPR006411; TIGR01520; sufficient;
+//

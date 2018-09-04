@@ -1,0 +1,36 @@
+AC  GenProp1551
+DE  L-tryptophan degradation X (mammalian, via tryptamine)
+TP  PATHWAY
+AU  Fulcher C
+TH  2
+DC  L-tryptophan degradation X (mammalian, via tryptamine)
+DR  MetaCyc; PWY-6307;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Tryptophan decarboxylase
+DN  Tryptophan decarboxylase (EC 4.1.1.105)
+RQ  1
+EV  IPR002129; PF00282; sufficient;
+--
+SN  2
+ID  Indole acetaldehyde dehydrogenase
+DN  Indole acetaldehyde dehydrogenase (EC 1.2.1.3)
+RQ  1
+EV  IPR015590; PF00171; sufficient;
+--
+SN  3
+ID  Indole acetaldehyde reductase
+DN  Indole acetaldehyde reductase (EC 1.1.1.2)
+RQ  1
+EV  IPR023210; PF00248; sufficient;
+--
+SN  4
+ID  Tryptamine oxidase
+DN  Tryptamine oxidase (EC 1.4.3.4)
+RQ  1
+EV  IPR002937; PF01593; sufficient;
+//

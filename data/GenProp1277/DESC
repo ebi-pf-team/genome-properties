@@ -1,0 +1,42 @@
+AC  GenProp1277
+DE  Sphingosine and sphingosine-1-phosphate metabolism
+TP  PATHWAY
+AU  Evsikov A
+TH  3
+DC  Sphingosine and sphingosine-1-phosphate metabolism
+DR  MetaCyc; PWY3DJ-11470;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  2-Alkenal reductase
+DN  2-Alkenal reductase (EC 1.3.1.27)
+RQ  1
+EV  IPR014190; TIGR02825; sufficient;
+--
+SN  2
+ID  N-acylsphingosine amidohydrolase (alkaline ceramidase)
+DN  N-acylsphingosine amidohydrolase (alkaline ceramidase) (EC 3.5.1.23)
+RQ  1
+EV  IPR008901; PF05875; sufficient;
+--
+SN  3
+ID  Sphingosine phosphate lyase
+DN  Sphingosine phosphate lyase (EC 4.3.2)
+RQ  1
+EV  IPR002129; PF00282; sufficient;
+--
+SN  4
+ID  Sphingosine kinase
+DN  Sphingosine kinase (EC 2.7.1.91)
+RQ  1
+EV  IPR001206; PF00781; sufficient;
+--
+SN  5
+ID  Sphingosine-1-phosphate phosphatase
+DN  Sphingosine-1-phosphate phosphatase
+RQ  1
+EV  IPR000326; PF01569; sufficient;
+//

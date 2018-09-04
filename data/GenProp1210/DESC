@@ -1,0 +1,27 @@
+AC  GenProp1210
+DE  DnaA-DiaA complex
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+DR  Complex Portal; CPX-1963;
+CC  Required for the timely initiation of chromosomal replication. DiaA
+CC  stimulates DnaA oligomerization (CPX-1943), DnaA-ATP binding to the
+CC  origin of replication, oriC and unwinding of DNA at oriC by DnaA.
+CC  Formation of DiaA tetramers (CPX-1938) is essential for properly timed
+CC  replication initiation. Each DiaA protomer binds to a DnaA molecule but
+CC  only a selection of DnaA molecules have to be bound for proper
+CC  replication initiation to occur. DiaA-DnaA dissociation facilitates
+CC  DnaA-DnaB binding (CPX-1935).
+--
+SN  1
+ID  Chromosomal replication initiator protein DnaA
+RQ  1
+EV  IPR001957; MF_00377; sufficient;
+EV  IPR001957; PTHR30050:SF2; sufficient;
+EV  IPR001957; TIGR00362; sufficient;
+--
+SN  2
+ID  DnaA initiator-associating protein DiaA
+RQ  1
+EV  IPR023070; MF_01157; sufficient;
+//

@@ -1,0 +1,39 @@
+AC  GenProp1341
+DE  NADH to trimethylamine N-oxide electron transfer
+TP  PATHWAY
+AU  Mackie A, Nolan L
+TH  0
+DC  NADH to trimethylamine N-oxide electron transfer
+DR  MetaCyc; PWY0-1347;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Trimethylamine-N-oxide reductase (menaquinone)
+DN  Trimethylamine-N-oxide reductase (menaquinone) (EC 1.7.2.3)
+RQ  1
+EV  IPR009154; TIGR02162; sufficient;
+EV  IPR006658; TIGR00509; sufficient;
+EV  IPR011887; TIGR02164; sufficient;
+--
+SN  2
+ID  NADH:menaquinone oxidoreductase (H+-transporting)
+DN  NADH:menaquinone oxidoreductase (H+-transporting) (EC 1.6.5)
+RQ  1
+EV  IPR000440; PF00507; sufficient;
+EV  IPR006138; TIGR01957; sufficient;
+EV  IPR010218; TIGR01961; sufficient;
+EV  IPR022885; TIGR01962; sufficient;
+EV  IPR002023; TIGR01958; sufficient;
+EV  IPR011537; TIGR01959; sufficient;
+EV  IPR010228; TIGR01973; sufficient;
+EV  IPR001694; PF00146; sufficient;
+EV  IPR010226; TIGR01971; sufficient;
+EV  IPR001457; PF00499; sufficient;
+EV  IPR001133; PF00420; sufficient;
+EV  IPR003945; TIGR01974; sufficient;
+EV  IPR010227; TIGR01972; sufficient;
+EV  IPR010096; TIGR01770; sufficient;
+//

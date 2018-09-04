@@ -1,0 +1,46 @@
+AC  GenProp1466
+DE  L-ornithine biosynthesis I
+TP  PATHWAY
+AU  Fulcher C, Caspi R, Irina Iourovitski I
+TH  3
+DC  L-ornithine biosynthesis I
+DR  MetaCyc; GLUTORN-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Acetylglutamate kinase
+DN  Acetylglutamate kinase (EC 2.7.2.8)
+RQ  1
+EV  IPR004662; TIGR00761; sufficient;
+--
+SN  2
+ID  N-acetylornithinase
+DN  N-acetylornithinase (EC 3.5.1.16)
+RQ  1
+EV  IPR002933; PF01546; sufficient;
+EV  IPR010169; TIGR01892; sufficient;
+--
+SN  3
+ID  N-acetylornithine aminotransferase
+DN  N-acetylornithine aminotransferase (EC 2.6.1.11)
+RQ  1
+EV  IPR004636; TIGR00707; sufficient;
+EV  IPR005814; PF00202; sufficient;
+EV  IPR017652; TIGR03246; sufficient;
+EV  IPR004632; TIGR00700; sufficient;
+--
+SN  4
+ID  N-acetylglutamylphosphate reductase
+DN  N-acetylglutamylphosphate reductase (EC 1.2.1.38)
+RQ  1
+EV  IPR000706; TIGR01850; sufficient;
+--
+SN  5
+ID  Acetylglutamate synthase
+DN  Acetylglutamate synthase (EC 2.3.1.1)
+RQ  1
+EV  IPR010167; TIGR01890; sufficient;
+//

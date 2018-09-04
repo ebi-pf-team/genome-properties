@@ -1,0 +1,37 @@
+AC  GenProp1135
+DE  Formate dehydrogenase N complex
+TP  COMPLEX
+AU  Complex Portal
+TH  2
+DR  Complex Portal; CPX-1975;
+DR  PDBe; 1kqg;
+CC  Involved in electron transport during anaerobic respiration: electrons
+CC  are passed from formate dehydrogenase-N (Fdh-N) complex to nitrate
+CC  reductase (NarGHI, CPX-1974) complex via a quinone-quinol
+CC  (hydroquinone) redox reaction. The molybdopterin cofactor Mo-bisMGD
+CC  receives electrons from formate, passes them down a Fe-S cluster chain
+CC  to the periplasmic heme, from there to the cytoplasmic heme from where
+CC  it is transferred to quinone on FdnH. Quinol transports the electrons
+CC  to the NarGHI complex. The collaboration of these two complexes
+CC  contributes to the proton motive force: electrons are ultimately
+CC  donated to Fdh-N by formate in the periplasm, transported to the
+CC  cytoplasm and accepted by nitrate. Hydrogen ions are transported in the
+CC  opposite direction: Quinone is reduced to quinol by cytoplasmic protons
+CC  which are in turn released into the periplasm when quinol is oxidized
+CC  to quinone.
+--
+SN  1
+ID  Formate dehydrogenase, nitrate-inducible, cytochrome b556(Fdn) subunit
+RQ  1
+EV  IPR006471; TIGR01583; sufficient;
+--
+SN  2
+ID  Formate dehydrogenase, nitrate-inducible, iron-sulfur subunit
+RQ  1
+EV  IPR014603; PIRSF036298; sufficient;
+--
+SN  3
+ID  Formate dehydrogenase, nitrate-inducible, major subunit
+RQ  1
+EV  IPR006443; TIGR01553; sufficient;
+//

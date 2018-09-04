@@ -1,0 +1,32 @@
+AC  GenProp1141
+DE  Cytochrome bd-I ubiquinol oxidase complex
+TP  COMPLEX
+AU  Complex Portal
+TH  2
+DR  Complex Portal; CPX-268;
+CC  A protein complex integral to the bacterial electron transport chain.
+CC  Electrons are donated by the oxidation of ubiquinol to ubiquinone and
+CC  used to reduce molecular oxygen, generating a proton motive force using
+CC  protons and electrons from opposite sides of the membrane to generate
+CC  water.
+--
+SN  1
+ID  Cytochrome bd-I ubiquinol oxidase subunit X
+RQ  1
+EV  IPR011724; TIGR02106; sufficient;
+--
+SN  2
+ID  Cytochrome bd-I ubiquinol oxidase subunit 1
+RQ  1
+EV  IPR002585; PF01654; sufficient;
+EV  IPR002585; PIRSF006446; sufficient;
+EV  IPR002585; PTHR30365; sufficient;
+--
+SN  3
+ID  Cytochrome bd-I ubiquinol oxidase subunit 2
+RQ  1
+EV  IPR003317; PF02322; sufficient;
+EV  IPR003317; PIRSF000267; sufficient;
+EV  IPR003317; PTHR43141; sufficient;
+EV  IPR003317; TIGR00203; sufficient;
+//

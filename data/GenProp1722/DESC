@@ -1,0 +1,53 @@
+AC  GenProp1722
+DE  Chitin degradation to ethanol
+TP  PATHWAY
+AU  Weerasinghe D
+TH  4
+DC  Chitin degradation to ethanol
+DR  MetaCyc; PWY-7118;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Malic enzyme (NAD)
+DN  Malic enzyme (NAD) (EC 1.1.1.39)
+RQ  1
+EV  IPR012301; PF00390; sufficient;
+EV  IPR012302; PF03949; sufficient;
+--
+SN  2
+ID  Acetyl CoA synthetase
+DN  Acetyl CoA synthetase (EC 6.2.1.1)
+RQ  1
+EV  IPR011904; TIGR02188; sufficient;
+--
+SN  3
+ID  Alcohol dehydrogenase
+DN  Alcohol dehydrogenase (EC 1.1.1.1)
+RQ  1
+EV  IPR013149; PF00107; sufficient;
+EV  IPR013154; PF08240; sufficient;
+--
+SN  4
+ID  Chitin deacetylase
+DN  Chitin deacetylase (EC 3.5.1.41)
+RQ  1
+EV  IPR002509; PF01522; sufficient;
+--
+SN  5
+ID  Malate synthase
+DN  Malate synthase (EC 2.3.3.9)
+RQ  1
+EV  IPR001465; PF01274; sufficient;
+EV  IPR006252; TIGR01344; sufficient;
+--
+SN  6
+ID  Pyruvate decarboxylase
+DN  Pyruvate decarboxylase (EC 4.1.1.1)
+RQ  1
+EV  IPR011766; PF02775; sufficient;
+EV  IPR012000; PF00205; sufficient;
+EV  IPR012001; PF02776; sufficient;
+//

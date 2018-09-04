@@ -52,7 +52,6 @@ EV  IPR010123; TIGR01834; sufficient;
 --
 SN  4
 ID  Esterase, PHB depolymerase family, or polyhydroxyalkanoate depolymerase, intracellular
-DN  NOT APPLICABLE
 RQ  1
 EV  IPR010126; TIGR01840; sufficient;
 EV  IPR010915; TIGR01849; sufficient;
@@ -61,7 +60,6 @@ TG  GO:0006112;
 --
 SN  5
 ID  Phasin family protein or poly(hydroxyalcanoate) granule-associated protein
-DN  NOT APPLICABLE
 RQ  1
 EV  IPR010127; TIGR01841; sufficient;
 EV  IPR008769; TIGR01837; sufficient;

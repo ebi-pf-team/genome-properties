@@ -36,7 +36,6 @@ CC  biosynthesis.
 --
 SN  1
 ID  ThiH (Tyr) or ThiO (Gly)
-DN  NOT APPLICABLE
 RQ  1
 EV  IPR012727; TIGR02352; sufficient;
 TG  GO:0018131;

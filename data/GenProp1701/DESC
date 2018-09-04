@@ -1,0 +1,49 @@
+AC  GenProp1701
+DE  Tetrapyrrole biosynthesis I (from glutamate)
+TP  PATHWAY
+AU  Caspi R
+TH  4
+DC  Tetrapyrrole biosynthesis I (from glutamate)
+DR  MetaCyc; PWY-5188;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Glutamyl-tRNAGlu synthetase
+DN  Glutamyl-tRNAGlu synthetase (EC 6.1.1.17)
+RQ  1
+EV  IPR004527; TIGR00464; sufficient;
+--
+SN  2
+ID  Glutamyl-tRNA reductase
+DN  Glutamyl-tRNA reductase (EC 1.2.1.70)
+RQ  1
+EV  IPR000343; TIGR01035; sufficient;
+--
+SN  3
+ID  Glutamate-1-semialdehyde 2,1-aminomutase
+DN  Glutamate-1-semialdehyde 2,1-aminomutase (EC 5.4.3.8)
+RQ  1
+EV  IPR004639; TIGR00713; sufficient;
+EV  IPR005814; PF00202; sufficient;
+--
+SN  4
+ID  Porphobilinogen deaminase
+DN  Porphobilinogen deaminase (EC 2.5.1.61)
+RQ  1
+EV  IPR000860; TIGR00212; sufficient;
+--
+SN  5
+ID  Porphobilinogen synthase
+DN  Porphobilinogen synthase (EC 4.2.1.24)
+RQ  1
+EV  IPR001731; PF00490; sufficient;
+--
+SN  6
+ID  Uroporphyrinogen III cosynthetase
+DN  Uroporphyrinogen III cosynthetase (EC 4.2.1.75)
+RQ  1
+EV  IPR003754; PF02602; sufficient;
+//

@@ -1,0 +1,41 @@
+AC  GenProp1650
+DE  Guanosine ribonucleotides de novo biosynthesis
+TP  PATHWAY
+AU  Caspi R
+TH  2
+DC  Guanosine ribonucleotides de novo biosynthesis
+DR  MetaCyc; PWY-7221;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  GDP kinase
+DN  GDP kinase (EC 2.7.4.6)
+RQ  1
+EV  IPR006259; TIGR01351; sufficient;
+EV  IPR001564; PF00334; sufficient;
+--
+SN  2
+ID  Xanthosine-5'-phosphate:L-glutamine amido-ligase (AMP-forming)
+DN  Xanthosine-5'-phosphate:L-glutamine amido-ligase (AMP-forming) (EC 6.3.5.2)
+RQ  1
+EV  IPR001674; PF00958; sufficient;
+EV  IPR001674; TIGR00884; sufficient;
+EV  IPR004739; TIGR00888; sufficient;
+EV  IPR017926; PF00117; sufficient;
+EV  IPR022310; PF02540; sufficient;
+--
+SN  3
+ID  Guanylate kinase
+DN  Guanylate kinase (EC 2.7.4.8)
+RQ  1
+EV  IPR017665; TIGR03263; sufficient;
+--
+SN  4
+ID  Inosine-5'-monophosphate dehydrogenase
+DN  Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)
+RQ  1
+EV  IPR005990; TIGR01302; sufficient;
+//

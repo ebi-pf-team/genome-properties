@@ -55,4 +55,9 @@ SN  10
 ID  Cohesin/dockerin (cellulosome-like) system
 RQ  0
 EV  GenProp0944;
+--
+SN  11
+ID  Bam complex
+RQ  0
+EV  GenProp1116;
 //

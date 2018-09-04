@@ -1,0 +1,43 @@
+AC  GenProp1302
+DE  Galactolipid biosynthesis I
+TP  PATHWAY
+AU  Caspi R, Zhang P
+TH  3
+DC  Galactolipid biosynthesis I
+DR  MetaCyc; PWY-401;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  UDP-galactose:DAG galactosyltransferase
+DN  UDP-galactose:DAG galactosyltransferase (EC 2.4.1.46)
+RQ  1
+EV  IPR007235; PF04101; sufficient;
+EV  IPR009695; PF06925; sufficient;
+--
+SN  2
+ID  UDP-galactose:MGDG galactosyltransferase
+DN  UDP-galactose:MGDG galactosyltransferase (EC 2.4.1.241)
+RQ  1
+EV  IPR001296; PF00534; sufficient;
+--
+SN  3
+ID  beta-monogalactosyldiacylglycerol galactosyltransferase
+DN  beta-monogalactosyldiacylglycerol galactosyltransferase (EC 2.4.1.184)
+RQ  1
+EV  IPR001360; PF00232; sufficient;
+--
+SN  4
+ID  beta,beta,beta-trigalactosyldiacylglycerol galactosyltransferase
+DN  beta,beta,beta-trigalactosyldiacylglycerol galactosyltransferase (EC 2.4.1.184)
+RQ  1
+EV  IPR001360; PF00232; sufficient;
+--
+SN  5
+ID  beta,beta-digalactosyldiacylglycerol galactosyltransferase
+DN  beta,beta-digalactosyldiacylglycerol galactosyltransferase (EC 2.4.1.184)
+RQ  1
+EV  IPR001360; PF00232; sufficient;
+//

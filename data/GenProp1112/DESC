@@ -1,0 +1,47 @@
+AC  GenProp1112
+DE  Respiratory chain complex II
+TP  COMPLEX
+AU  Complex Portal
+TH  3
+DR  Complex Portal; CPX-1931;
+DR  PDBe; 2ws3;
+DR  PDBe; 2wu5;
+DR  PDBe; 2wu2;
+DR  PDBe; 2acz;
+DR  PDBe; 2wdq;
+DR  PDBe; 1nek;
+DR  PDBe; 2wdr;
+DR  PDBe; 2wp9;
+CC  Key enzyme linking the Krebs cycle with the respiratory chain in
+CC  aerobic respiration. Catalyzes the oxidation of succinate to fumarate
+CC  and the reduction of quinone to quinol. Electrons flow from the
+CC  FAD-bound succinate through the Fe-S clusters to a b556 heme. Electrons
+CC  ultimately reduce quinone to quinol in the membrane bound part of the
+CC  enzyme. Under most conditions the electrons are used to reduce oxygen,
+CC  allowing ATP synthesis. Member of the Complex II family. The
+CC  functionally inverse complex found in anaerobic respiration is the QFR
+CC  complex (CPX-1967).
+--
+SN  1
+ID  Succinate dehydrogenase cytochrome b556 subunit
+RQ  1
+EV  IPR014314; PIRSF000178; sufficient;
+EV  IPR014314; TIGR02970; sufficient;
+--
+SN  2
+ID  Succinate dehydrogenase iron-sulfur subunit
+RQ  1
+EV  IPR004489; TIGR00384; sufficient;
+--
+SN  3
+ID  Succinate dehydrogenase hydrophobic membrane anchor subunit
+RQ  1
+EV  IPR014312; PIRSF000169; sufficient;
+EV  IPR014312; PTHR38689; sufficient;
+EV  IPR014312; TIGR02968; sufficient;
+--
+SN  4
+ID  Succinate dehydrogenase flavoprotein subunit
+RQ  1
+EV  IPR011281; TIGR01816; sufficient;
+//

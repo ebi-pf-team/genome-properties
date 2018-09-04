@@ -1,0 +1,46 @@
+AC  GenProp1168
+DE  Cus cation efflux complex
+TP  COMPLEX
+AU  Complex Portal
+TH  3
+RN  [1]
+RM  23122209
+RT  Evolution and diversity of periplasmic proteins involved in copper
+RT  homeostasis in gamma proteobacteria.
+RA  Hernández-Montes G, Argüello JM, Valderrama B
+RL  BMC Microbiol. 2012;12:249
+DR  Complex Portal; CPX-2254;
+DR  PDBe; 3ne5;
+CC  Transmembrane complex that mediates resistance to copper and silver by
+CC  cation efflux directly from the cell using the proton-motive force.
+CC  Spans the inner membrane, periplasm, and outer membrane. CusF delivers
+CC  metal ions to the CusCBA tripartite efflux system in the periplasm,
+CC  CusB then appears to deliver the bound metal ion from CusB  to the
+CC  three-methionine cluster (Met-573, Met-623 and Met-672) inside the
+CC  periplasmic cleft of CusA from where it is passed into the central
+CC  funnel of CusA and eventually the CusC channel for final extrusion.
+CC  Primarily activated under anaerobic conditions by CusR (P0ACZ8) and
+CC  CusS (P77485) but also expressed under extreme copper stress, in
+CC  aerobic growth.
+--
+SN  1
+ID  Cation efflux system protein CusF
+RQ  1
+EV  IPR021647; PF11604; sufficient;
+--
+SN  2
+ID  Cation efflux system protein CusA
+RQ  1
+EV  IPR004763; TIGR00914; sufficient;
+--
+SN  3
+ID  Cation efflux system protein CusC
+RQ  1
+EV  IPR010131; TIGR01845; sufficient;
+--
+SN  4
+ID  Cation efflux system protein CusB
+RQ  1
+EV  IPR006143; PF00529; sufficient;
+EV  IPR006143; TIGR01730; sufficient;
+//

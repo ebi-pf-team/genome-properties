@@ -1,0 +1,67 @@
+AC  GenProp1194
+DE  Flagellar Motor Switch Complex, CW variant
+TP  COMPLEX
+AU  Complex Portal
+TH  3
+RN  [1]
+RM  24697492
+RT  Molecular architecture of the bacterial flagellar motor in cells.
+RA  Zhao X, Norris SJ, Liu J
+RL  Biochemistry. 2014;53:4323-4333
+RN  [2]
+RM  15351654
+RT  Structure of the constitutively active double mutant CheYD13K Y106W
+RT  alone and in complex with a FliM peptide.
+RA  Dyer CM, Quillin ML, Campos A, Lu J, McEvoy MM, Hausrath AC, Westbrook
+RA  EM, Matsumura P, Matthews BW, Dahlquist FW
+RL  J Mol Biol. 2004;342:1325-1335
+DR  Complex Portal; CPX-1082;
+DR  PDBe; 2b1j;
+DR  PDBe; 1f4v;
+DR  PDBe; 1u8t;
+CC  Plays a role in chemotaxis, the movement toward or away from chemicals.
+CC  The flagellar motor of bacteria is a rotary device energized by the
+CC  membrane ion gradient and the complex is required for the rotation and
+CC  directional switching of the flagellum and also functions in flagellar
+CC  assembly. Motor torque is produced at the top of the switch complex,
+CC  where the FliG C-terminal domain bears several conserved charged
+CC  residues that interact with charged groups of the stator protein MotA
+CC  (P09348). The conformation of this complex is such that the flagellum
+CC  rotates in a clockwise (CW) direction, induced by binding of CheY-P to
+CC  the lower part of the C-ring. CheY-P interacts initially with the
+CC  N-terminal segment of FliM, which is flexible enough to allow
+CC  subsequent binding to a site on FliN. Coupled conformational
+CC  transitions in FliM  trigger large displacements of a distant
+CC  alpha-helix in FliG, involved in stator contacts, inducing the change
+CC  of the flagellar rotors from counterclocwise (smooth-swimming
+CC  phenotype) to clockwise rotation (tumbly phenotype). 
+--
+SN  1
+ID  Flagellar motor switch protein FliN
+RQ  1
+EV  IPR012826; TIGR02480; sufficient;
+--
+SN  2
+ID  Chemotaxis protein CheY
+RQ  1
+EV  IPR001789; PF00072; sufficient;
+EV  IPR001789; PS50110; sufficient;
+EV  IPR001789; SM00448; sufficient;
+EV  IPR001789; cd00156; sufficient;
+--
+SN  3
+ID  Flagellar motor switch protein FliG
+RQ  1
+EV  IPR000090; PIRSF003161; sufficient;
+EV  IPR000090; PR00954; sufficient;
+EV  IPR000090; PTHR30534; sufficient;
+EV  IPR000090; TIGR00207; sufficient;
+--
+SN  4
+ID  Flagellar motor switch protein FliM
+RQ  1
+EV  IPR001689; PF02154; sufficient;
+EV  IPR001689; PIRSF002888; sufficient;
+EV  IPR001689; PR00955; sufficient;
+EV  IPR001689; TIGR01397; sufficient;
+//

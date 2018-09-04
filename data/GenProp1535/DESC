@@ -1,0 +1,28 @@
+AC  GenProp1535
+DE  Formate to trimethylamine N-oxide electron transfer
+TP  PATHWAY
+AU  Mackie A, Nolan L
+TH  0
+DC  Formate to trimethylamine N-oxide electron transfer
+DR  MetaCyc; PWY0-1355;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Formate dehydrogenase (menaquinone)
+DN  Formate dehydrogenase (menaquinone) (EC 1.17.5.3)
+RQ  1
+EV  IPR006443; TIGR01553; sufficient;
+EV  IPR006470; TIGR01582; sufficient;
+EV  IPR006471; TIGR01583; sufficient;
+--
+SN  2
+ID  Trimethylamine-N-oxide reductase (menaquinone)
+DN  Trimethylamine-N-oxide reductase (menaquinone) (EC 1.7.2.3)
+RQ  1
+EV  IPR009154; TIGR02162; sufficient;
+EV  IPR006658; TIGR00509; sufficient;
+EV  IPR011887; TIGR02164; sufficient;
+//

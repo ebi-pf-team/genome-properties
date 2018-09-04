@@ -1,0 +1,53 @@
+AC  GenProp1265
+DE  Glyoxylate cycle
+TP  PATHWAY
+AU  Caspi R
+TH  4
+DC  Glyoxylate cycle
+DR  MetaCyc; GLYOXYLATE-BYPASS;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Aconitase
+DN  Aconitase
+RQ  1
+EV  IPR006249; TIGR01341; sufficient;
+EV  IPR004406; TIGR00117; sufficient;
+--
+SN  2
+ID  Cis-aconitate hydratase
+DN  Cis-aconitate hydratase
+RQ  1
+EV  IPR006249; TIGR01341; sufficient;
+EV  IPR004406; TIGR00117; sufficient;
+--
+SN  3
+ID  Citrate synthase
+DN  Citrate synthase (EC 2.3.3.1)
+RQ  1
+EV  IPR002020; PF00285; sufficient;
+EV  IPR010953; TIGR01798; sufficient;
+--
+SN  4
+ID  Isocitrate lyase
+DN  Isocitrate lyase (EC 4.1.3.1)
+RQ  1
+EV  IPR006254; PF00463; sufficient;
+EV  IPR006254; TIGR01346; sufficient;
+--
+SN  5
+ID  Malate dehydrogenase (NAD)
+DN  Malate dehydrogenase (NAD) (EC 1.1.1.37)
+RQ  1
+EV  IPR010097; TIGR01772; sufficient;
+--
+SN  6
+ID  Malate synthase
+DN  Malate synthase (EC 2.3.3.9)
+RQ  1
+EV  IPR001465; PF01274; sufficient;
+EV  IPR006252; TIGR01344; sufficient;
+//

@@ -1,6 +1,6 @@
 AC  GenProp2027
 DE  CatSper complex
-TP  SYSTEM
+TP  COMPLEX
 AU  Rawlings ND
 TH  1
 RN  [1]
@@ -33,7 +33,7 @@ CC  The CatSper complex is a voltage-gated calcium ion channel located
 CC  in the sperm tail [1].  It is required for sperm hypermotility and 
 CC  fertility [2, 3].  The complex is a heterotetramer the centre of which 
 CC  forms a pore for calcium ions. Two other subunits (delta and epsilon)  
-CC  are associated with thiscomplex [4].
+CC  are associated with this complex [4].
 **   
 --
 SN  1

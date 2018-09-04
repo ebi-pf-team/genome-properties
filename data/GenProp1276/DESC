@@ -1,0 +1,24 @@
+AC  GenProp1276
+DE  Putrescine degradation V
+TP  PATHWAY
+AU  Caspi R
+TH  0
+DC  Putrescine degradation V
+DR  MetaCyc; PWY-3;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  4-Aminobutyraldehyde dehydrogenase
+DN  4-Aminobutyraldehyde dehydrogenase (EC 1.2.1.19)
+RQ  1
+EV  IPR015590; PF00171; sufficient;
+--
+SN  2
+ID  Polyamine aminotransferase
+DN  Polyamine aminotransferase (EC 2.6.1.113)
+RQ  1
+EV  IPR005814; PF00202; sufficient;
+//

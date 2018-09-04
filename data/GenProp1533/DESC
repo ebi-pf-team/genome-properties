@@ -1,0 +1,51 @@
+AC  GenProp1533
+DE  L-isoleucine degradation I
+TP  PATHWAY
+AU  Caspi R, Ying H
+TH  4
+DC  L-isoleucine degradation I
+DR  MetaCyc; ILEUDEG-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  3-Hydroxy-2-methylbutyryl-CoA dehydrogenase
+DN  3-Hydroxy-2-methylbutyryl-CoA dehydrogenase (EC 1.1.1.178)
+RQ  1
+EV  IPR002347; PF00106; sufficient;
+--
+SN  2
+ID  S-2-methylbutryl-CoA:FAD oxidoreductase
+DN  S-2-methylbutryl-CoA:FAD oxidoreductase (EC 1.3.8.5)
+RQ  1
+EV  IPR006091; PF02770; sufficient;
+EV  IPR009075; PF00441; sufficient;
+EV  IPR013786; PF02771; sufficient;
+--
+SN  3
+ID  (S)-3-methyl-2-oxopentanoate dehydrogenase (acylating)
+DN  (S)-3-methyl-2-oxopentanoate dehydrogenase (acylating) (EC 1.2.1.25)
+RQ  1
+EV  IPR006258; TIGR01350; sufficient;
+--
+SN  4
+ID  L-isoleucine:2-oxoglutarate aminotransferase
+DN  L-isoleucine:2-oxoglutarate aminotransferase (EC 2.6.1.42)
+RQ  1
+EV  IPR001544; PF01063; sufficient;
+EV  IPR005785; TIGR01122; sufficient;
+--
+SN  5
+ID  2-Methylacetoacetyl-CoA thiolase
+DN  2-Methylacetoacetyl-CoA thiolase (EC 2.3.1.9)
+RQ  1
+EV  IPR002155; TIGR01930; sufficient;
+--
+SN  6
+ID  Tiglyl-CoA hydratase
+DN  Tiglyl-CoA hydratase (EC 4.2.1.17)
+RQ  1
+EV  IPR001753; PF00378; sufficient;
+//

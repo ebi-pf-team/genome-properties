@@ -1,0 +1,64 @@
+AC  GenProp2097
+DE  Insulin release from secretory granules
+TP  PATHWAY
+AU  Rawlings ND
+TH  1
+RN  [1]
+RM  9914469
+RT  Molecular mechanisms and regulation of insulin 
+RT  exocytosis as a paradigm of endocrine secretion. 
+RA  Lang J; 
+RL  Eur J Biochem 1999;259:3-17.
+RN  [2]
+RM  9715374
+RT  Protein kinases, protein phosphorylation, and the 
+RT  regulation of insulin secretion from pancreatic beta-
+RT  cells. 
+RA  Jones PMl Persaud SJ; 
+RL  Endocr Rev 1998;19:429-461.
+RN  [3]
+RM  9759724
+RT  Crystal structure of a SNARE complex involved in 
+RT  synaptic exocytosis at 2.4 A resolution. 
+RA  Sutton RB; Fasshauer D; Jahn R; Brunger AT; 
+RL  Nature 1998;395:347-353.
+DC  Insulin secretion
+DR  KEGG; map04911;
+CC  Insulin is secreted by the pancreatic beta cells. There
+CC  are numerous stilumi that promote release of the 
+CC  hormone from secretory granules [1,2]. Fusion of the 
+CC  granule and plasma membranes is brought about by the 
+CC  association of VAMP2 with the syntaxin/SNAP25 complex 
+CC  [3].
+**  SN4 IPR004825 in 4 other prop
+--
+SN  1
+ID  Vesicle-associated membrane protein 2
+DN  Vesicle-associated membrane protein 2 (VAMP2)
+RQ  1
+EV  IPR028717; PTHR21136:SF91; sufficient;
+TG  GO:0006887;
+TG  GO:0019905;
+--
+SN  2
+ID  Syntaxin-1A
+DN  Syntaxin 1A
+RQ  1
+EV  IPR028669; PTHR19957:SF84; sufficient;
+TG  GO:0031629;
+TG  GO:0045921;
+--
+SN  3
+ID  Synaptosomal-associated protein 25
+DN  Synaptosomal-associated protein 25 (SNAP25)
+RQ  1
+EV  IPR039077; PTHR19305:SF5; sufficient;
+TG  GO:0017075;
+--
+SN  4
+ID  Insulin
+DN  Insulin
+RQ  1
+EV  IPR004825; PR00277; sufficient;
+TG  GO:0005179;
+//

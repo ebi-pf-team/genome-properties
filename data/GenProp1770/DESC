@@ -1,0 +1,113 @@
+AC  GenProp1770
+DE  Carbohydrates degradation
+TP  CATEGORY
+AU  Richardson L
+TH  0
+CC  The chemical reactions and pathways resulting in the breakdown
+CC  of carbohydrates.
+--
+SN  1
+ID  Chitin degradation I (archaea)
+RQ  0
+EV  GenProp1522;
+--
+SN  2
+ID  Glycogen degradation II
+RQ  0
+EV  GenProp1259;
+--
+SN  3
+ID  Glycogen degradation I
+RQ  0
+EV  GenProp1412;
+--
+SN  4
+ID  Starch degradation II
+RQ  0
+EV  GenProp1726;
+--
+SN  5
+ID  D-arabinose degradation I
+RQ  0
+EV  GenProp1589;
+--
+SN  6
+ID  Entner-Doudoroff pathway I
+RQ  0
+EV  GenProp1557;
+--
+SN  7
+ID  D-galactose degradation I (Leloir pathway)
+RQ  0
+EV  GenProp1310;
+--
+SN  8
+ID  D-galactose degradation V (Leloir pathway)
+RQ  0
+EV  GenProp1661;
+--
+SN  9
+ID  L-arabinose degradation I
+RQ  0
+EV  GenProp1368;
+--
+SN  10
+ID  Sucrose degradation III (sucrose invertase)
+RQ  0
+EV  GenProp1492;
+--
+SN  11
+ID  Sucrose degradation II (sucrose synthase)
+RQ  0
+EV  GenProp1639;
+--
+SN  12
+ID  Trehalose degradation I (low osmolarity)
+RQ  0
+EV  GenProp1394;
+--
+SN  13
+ID  Trehalose degradation II (trehalase)
+RQ  0
+EV  GenProp1564;
+--
+SN  14
+ID  Xylose degradation I
+RQ  0
+EV  GenProp1656;
+--
+SN  15
+ID  Chitobiose degradation
+RQ  0
+EV  GenProp1293;
+--
+SN  16
+ID  2-O-alpha-mannosyl-D-glycerate degradation
+RQ  0
+EV  GenProp1299;
+--
+SN  17
+ID  D-allose degradation
+RQ  0
+EV  GenProp1463;
+--
+SN  18
+ID  2'-Deoxy-alpha-D-ribose 1-phosphate degradation
+RQ  0
+EV  GenProp1559;
+--
+SN  19
+ID  Fucose degradation
+RQ  0
+EV  GenProp1680;
+--
+SN  20
+ID  Superpathway of fucose and rhamnose degradation
+RQ  0
+EV  GenProp1529;
+--
+SN  21
+ID  Superpathway of D-glucarate and D-galactarate degradation
+RQ  0
+EV  GenProp1675;
+//

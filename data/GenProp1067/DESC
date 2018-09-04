@@ -25,4 +25,9 @@ SN  4
 ID  Abortive infection proteins
 RQ  0
 EV  GenProp1093;
+--
+SN  5
+ID  Complement activation, common pathway 1
+RQ  0
+EV  GenProp2007;
 //

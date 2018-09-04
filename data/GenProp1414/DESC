@@ -1,0 +1,42 @@
+AC  GenProp1414
+DE  Glycine betaine degradation II (mammalian)
+TP  PATHWAY
+AU  Weerasinghe D, Caspi R
+TH  2
+DC  Glycine betaine degradation II (mammalian)
+DR  MetaCyc; PWY-3661-1;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Betaine--homocysteine S-methyltransferase
+DN  Betaine--homocysteine S-methyltransferase (EC 2.1.1.5)
+RQ  1
+EV  IPR003726; PF02574; sufficient;
+--
+SN  2
+ID  Dimethylglycine dehydrogenase
+DN  Dimethylglycine dehydrogenase (EC 1.5.8.4)
+RQ  1
+EV  IPR006076; PF01266; sufficient;
+EV  IPR006222; PF01571; sufficient;
+EV  IPR013977; PF08669; sufficient;
+EV  IPR032503; PF16350; sufficient;
+--
+SN  3
+ID  5,10-Methylenetetrahydrofolate:glycine hydroxymethyltransferase
+DN  5,10-Methylenetetrahydrofolate:glycine hydroxymethyltransferase (EC 2.1.2.1)
+RQ  1
+EV  IPR001085; PF00464; sufficient;
+--
+SN  4
+ID  Sarcosine dehydrogenase
+DN  Sarcosine dehydrogenase (EC 1.5.8)
+RQ  1
+EV  IPR006076; PF01266; sufficient;
+EV  IPR006222; PF01571; sufficient;
+EV  IPR013977; PF08669; sufficient;
+EV  IPR032503; PF16350; sufficient;
+//

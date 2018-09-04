@@ -1,0 +1,60 @@
+AC  GenProp1279
+DE  Superpathway of L-arginine, putrescine, and 4-aminobutanoate degradation
+TP  PATHWAY
+AU  Caspi R
+TH  5
+DC  Superpathway of L-arginine, putrescine, and 4-aminobutanoate
+DC  degradation
+DR  MetaCyc; ARGDEG-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Agmatinase
+DN  Agmatinase (EC 3.5.3.11)
+RQ  1
+EV  IPR005925; TIGR01230; sufficient;
+EV  IPR006035; PF00491; sufficient;
+--
+SN  2
+ID  4-Aminobutyraldehyde dehydrogenase
+DN  4-Aminobutyraldehyde dehydrogenase (EC 1.2.1.19)
+RQ  1
+EV  IPR017749; TIGR03374; sufficient;
+--
+SN  3
+ID  Arginine decarboxylase
+DN  Arginine decarboxylase (EC 4.1.1.19)
+RQ  1
+EV  IPR000310; PF01276; sufficient;
+EV  IPR005308; PF03709; sufficient;
+EV  IPR008286; PF03711; sufficient;
+--
+SN  4
+ID  4-Aminobutyrate aminotransferase
+DN  4-Aminobutyrate aminotransferase (EC 2.6.1.19)
+RQ  1
+EV  IPR004632; TIGR00700; sufficient;
+EV  IPR005814; PF00202; sufficient;
+--
+SN  5
+ID  Putrescine aminotransferase
+DN  Putrescine aminotransferase
+RQ  1
+EV  IPR005814; PF00202; sufficient;
+EV  IPR017747; TIGR03372; sufficient;
+--
+SN  6
+ID  Glutamate-putrescine ligase
+DN  Glutamate-putrescine ligase (EC 6.3.1.11)
+RQ  1
+EV  IPR008146; PF00120; sufficient;
+--
+SN  7
+ID  Gamma-glutamyl-gamma-aminobutyrate hydrolase
+DN  Gamma-glutamyl-gamma-aminobutyrate hydrolase (EC 3.5.1.94)
+RQ  1
+EV  IPR011697; PF07722; sufficient;
+//

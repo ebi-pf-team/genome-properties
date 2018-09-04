@@ -1,0 +1,30 @@
+AC  GenProp1240
+DE  Ketolysis
+TP  PATHWAY
+AU  Trupp M
+TH  1
+DC  Ketolysis
+DR  MetaCyc; PWY66-368;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  3-Hydroxybutyrate dehydrogenase
+DN  3-Hydroxybutyrate dehydrogenase (EC 1.1.1.30)
+RQ  1
+EV  IPR002347; PF00106; sufficient;
+--
+SN  2
+ID  Acetoacetyl-CoA thiolase
+DN  Acetoacetyl-CoA thiolase (EC 2.3.1.9)
+RQ  1
+EV  IPR002155; TIGR01930; sufficient;
+--
+SN  3
+ID  Acetoacetate CoA-transferase
+DN  Acetoacetate CoA-transferase (EC 2.8.3.5)
+RQ  1
+EV  IPR004165; PF01144; sufficient;
+//

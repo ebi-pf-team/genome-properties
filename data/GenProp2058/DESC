@@ -1,8 +1,8 @@
 AC  GenProp2058
 DE  STAGA transcription coactivator-HAT complex
-TP  SYSTEM
+TP  COMPLEX
 AU  Rawlings ND
-TH  5
+TH  7
 RN  [1]
 RM  11564863
 RT  Human STAGA complex is a chromatin-acetylating transcription 
@@ -17,16 +17,18 @@ CC  interacts with pre-mRNA splicing and DNA damage-binding
 CC  factors. The STAGA complex is composed of at least SUPT3H, 
 CC  KAT2A, SUPT7L, TAF5L, TAF6L, TADA3L, TAD1L, TAF10, TAF12, 
 CC  TRRAP and TAF9 [1]. 
+**  Evidence for step 1 is also used in GP2057.
 **  Evidence for step 2 is also used in GP2053, GP2055, GP2056 and GP2057.
 **  Evidence for step 4 is also used in GP2057.
 **  Evidence for step 5 is also used in GP2053, GP2054, GP2057 and GP2065.
+**  Evidence for step 8 is also used in GP2057.
 **  Evidence for step 9 is also used in GP2053.
 **  Evidence for step 10 is also used in GP2053, GP2057, GP2074 and GP2075.
-**  Threshold is therefore set to 5.
+**  Threshold is therefore set to 7.
 --
 SN  1
 ID  Transcription initiation protein SPT3 homolog (SUPT3H)
-DN  Transcription initiation protein SPT3 homolog (SUPT3H)/1
+DN  Transcription initiation protein SPT3 homolog (SUPT3H)
 RQ  1
 EV  IPR003195; PF02269; sufficient;
 EV  IPR003195; PTHR11380; sufficient;
@@ -35,7 +37,7 @@ TG  GO:0030914;
 --
 SN  2
 ID  Histone acetyltransferase KAT2A 
-DN  Histone acetyltransferase KAT2A /2
+DN  Histone acetyltransferase KAT2A
 RQ  1
 EV  IPR037800; PTHR22880:SF124; sufficient;
 TG  GO:0030914;
@@ -43,30 +45,28 @@ TG  GO:0043966;
 --
 SN  3
 ID  STAGA complex 65 subunit gamma (SUPT7L)
-DN  STAGA complex 65 subunit gamma (SUPT7L) /3
+DN  STAGA complex 65 subunit gamma (SUPT7L)
 RQ  1
-EV  IPR003195; PF02269; sufficient;
-EV  IPR003195; PTHR11380; sufficient;
-EV  IPR003195; cd07978; sufficient;
+EV  -; PTHR28598; sufficient;
 TG  GO:0030914;
 --
 SN  4
 ID  TAF5-like RNA polymerase II p300/CBP-associated factor-associated factor 65 kDa subunit 5L (TAF5L) 
-DN  TAF5-like RNA polymerase II p300/CBP-associated factor-associated factor 65 kDa subunit 5L (TAF5L) /4
+DN  TAF5-like RNA polymerase II p300/CBP-associated factor-associated factor 65 kDa subunit 5L (TAF5L)
 RQ  1
 EV  IPR037826; PTHR19879:SF6; sufficient;
 TG  GO:0030914;
 --
 SN  5
 ID  TAF6-like RNA polymerase II p300/CBP-associated factor-associated factor 65 kDa subunit 6L (TAF6L)
-DN  TAF6-like RNA polymerase II p300/CBP-associated factor-associated factor 65 kDa subunit 6L (TAF6L) /5
+DN  TAF6-like RNA polymerase II p300/CBP-associated factor-associated factor 65 kDa subunit 6L (TAF6L)
 RQ  1
 EV  IPR037796; PTHR10221; sufficient;
 TG  GO:0030914;
 --
 SN  6
 ID  Transcriptional adapter 3 (TADA3L) 
-DN  Transcriptional adapter 3 (TADA3L) /4
+DN  Transcriptional adapter 3 (TADA3L)
 RQ  1
 EV  IPR019340; PF10198; sufficient;
 EV  IPR019340; PTHR13556; sufficient;
@@ -74,7 +74,7 @@ TG  GO:0030914;
 --
 SN  7
 ID  Transcriptional adapter 1 (TAD1L)
-DN  Transcriptional adapter 1 (TAD1L)/7
+DN  Transcriptional adapter 1/Hfi1 (TAD1L)
 RQ  1
 EV  IPR024738; PF12767; sufficient;
 EV  IPR024738; PTHR21277; sufficient;
@@ -82,7 +82,7 @@ TG  GO:0030914;
 --
 SN  8
 ID  Transcription initiation factor TFIID subunit 10 (TAF10)
-DN  Transcription initiation factor TFIID subunit 10 (TAF10)/8
+DN  Transcription initiation factor TFIID subunit 10 (TAF10)
 RQ  1
 EV  IPR003923; PIRSF017246; sufficient;
 EV  IPR003923; PR01443; sufficient;
@@ -92,21 +92,21 @@ TG  GO:0030914;
 --
 SN  9
 ID  Transcription initiation factor TFIID subunit 12 (TAF12)
-DN  Transcription initiation factor TFIID subunit 12 (TAF12)/9
+DN  Transcription initiation factor TFIID subunit 12 (TAF12)
 RQ  1
 EV  IPR037794; PTHR12264:SF21; sufficient;
 TG  GO:0030914;
 --
 SN  10
 ID  Transformation/transcription domain-associated protein (TRRAP) 
-DN  Transformation/transcription domain-associated protein (TRRAP) /10
+DN  Transformation/transcription domain-associated protein (TRRAP)
 RQ  1
 EV  IPR033317; PTHR11139:SF1; sufficient;
 TG  GO:0030914;
 --
 SN  11
 ID  Transcription initiation factor TFIID subunit 9 (TAF9) 
-DN  Transcription initiation factor TFIID subunit 9 (TAF9) /10
+DN  Transcription initiation factor TFIID subunit 9 (TAF9)
 RQ  1
 EV  IPR003162; PF02291; sufficient;
 EV  IPR003162; cd07979; sufficient;

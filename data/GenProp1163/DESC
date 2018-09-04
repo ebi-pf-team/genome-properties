@@ -1,0 +1,45 @@
+AC  GenProp1163
+DE  IscS-IscU complex
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+RN  [1]
+RM  22203963
+RT  Disordered form of the scaffold protein IscU is the substrate for
+RT  iron-sulfur cluster assembly on cysteine desulfurase.
+RA  Kim JH, Tonelli M, Markley JL
+RL  Proc Natl Acad Sci U S A. 2012;109:454-459
+RN  [2]
+RM  20404999
+RT  Structural basis for Fe-S cluster assembly and tRNA thiolation mediated
+RT  by IscS protein-protein interactions.
+RA  Shi R, Proteau A, Villarroya M, Moukadiri I, Zhang L, Trempe JF, Matte
+RA  A, Armengod ME, Cygler M
+RL  PLoS Biol. 2010;8:e1000354
+RN  [3]
+RM  16387657
+RT  Mechanistic insights into sulfur relay by multiple sulfur mediators
+RT  involved in thiouridine biosynthesis at tRNA wobble positions.
+RA  Ikeuchi Y, Shigi N, Kato J, Nishimura A, Suzuki T
+RL  Mol Cell. 2006;21:97-108
+DR  Complex Portal; CPX-2141;
+CC  Involved in the sulfur transfer during iron-sulfur cluster assembly and
+CC  in the modification of tRNA wobble positions. IscS desulfurases
+CC  L-cysteine and transfers sulfur on IscU while the latter is in the
+CC  D-state, a partly disordered state that contains an ordered domain that
+CC  stabilizes two cis peptidyl-prolyl peptide bonds. After Fe-S cluster
+CC  formation on IscU, IscU converts to the S-state, which has a lower
+CC  affinity for IscS and minimizes product inhibition.
+--
+SN  1
+ID  Cysteine desulfurase IscS
+RQ  1
+EV  IPR010240; MF_00331; sufficient;
+EV  IPR010240; PTHR11601:SF34; sufficient;
+EV  IPR010240; TIGR02006; sufficient;
+--
+SN  2
+ID  Iron-sulfur cluster assembly scaffold protein IscU
+RQ  1
+EV  IPR011339; TIGR01999; sufficient;
+//

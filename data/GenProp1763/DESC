@@ -1,0 +1,74 @@
+AC  GenProp1763
+DE  Superpathway of carotenoid biosynthesis in plants
+TP  PATHWAY
+AU  Lukas Mueller L, Tissier C
+TH  8
+DC  Superpathway of carotenoid biosynthesis in plants
+DR  MetaCyc; CAROTENOID-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Zeaxanthin epoxidase
+DN  Zeaxanthin epoxidase
+RQ  1
+EV  IPR000253; PF00498; sufficient;
+EV  IPR002938; PF01494; sufficient;
+--
+SN  2
+ID  Antheraxanthin epoxidase
+DN  Antheraxanthin epoxidase
+RQ  1
+EV  IPR000253; PF00498; sufficient;
+EV  IPR002938; PF01494; sufficient;
+--
+SN  3
+ID  Beta-carotene hydroxylase
+DN  Beta-carotene hydroxylase
+RQ  1
+EV  IPR006694; PF04116; sufficient;
+--
+SN  4
+ID  Beta-cryptoxanthin 3'-hydroxylase
+DN  Beta-cryptoxanthin 3'-hydroxylase
+RQ  1
+EV  IPR006694; PF04116; sufficient;
+--
+SN  5
+ID  Prolycopene isomerase
+DN  Prolycopene isomerase (EC 5.2.1.13)
+RQ  1
+EV  IPR014101; TIGR02730; sufficient;
+--
+SN  6
+ID  Lycopene epsilon cyclase
+DN  Lycopene epsilon cyclase (EC 5.5.1.18)
+RQ  1
+EV  IPR010108; TIGR01790; sufficient;
+--
+SN  7
+ID  Delta-carotene beta-cyclase
+DN  Delta-carotene beta-cyclase (EC 5.5.1.19)
+RQ  1
+EV  IPR010108; TIGR01790; sufficient;
+--
+SN  8
+ID  Lycopene beta-monocyclase
+DN  Lycopene beta-monocyclase (EC 5.5.1.19)
+RQ  1
+EV  IPR010108; TIGR01790; sufficient;
+--
+SN  9
+ID  Gamma-carotene beta-cyclase
+DN  Gamma-carotene beta-cyclase (EC 5.5.1.19)
+RQ  1
+EV  IPR010108; TIGR01790; sufficient;
+--
+SN  10
+ID  Neoxanthin synthase
+DN  Neoxanthin synthase (EC 5.3.99.9)
+RQ  1
+EV  IPR010108; TIGR01790; sufficient;
+//

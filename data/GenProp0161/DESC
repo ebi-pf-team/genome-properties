@@ -22,7 +22,6 @@ EV  IPR006235; TIGR01326; sufficient;
 --
 SN  2
 ID  Methylation of homocysteine (various)
-DN  NOT APPLICABLE/last
 RQ  1
 EV  IPR006276; TIGR01371; sufficient;
 TG  GO:0019279;

@@ -1,0 +1,24 @@
+AC  GenProp1121
+DE  ModE complex
+TP  COMPLEX
+AU  Complex Portal
+TH  0
+DR  Complex Portal; CPX-2115;
+DR  PDBe; 1h9r;
+DR  PDBe; 1o7l;
+CC  Transcriptional regulator involved in various aspects of molybdenum
+CC  metabolism by both limiting molybdate uptake by repressing the
+CC  molybdate transporter operon modABCD, and enhancing the transcription
+CC  of molybdenum-dependent, and of molybdenum cofactor biosynthesis
+CC  enzymes. It is activated by the binding of 2 molecules of molybdate to
+CC  the dimerization interface. Upon binding of molybdate, the conformation
+CC  of the dimer changes, probably enhancing the DNA affinity of the
+CC  complex. It recognizes an 8-base inverted repeat 5'-TAACGTTA-3' flanked
+CC  by two CAT boxes upstream of the modABCD operon. ModE also interacts
+CC  with tungstate.
+--
+SN  1
+ID  Transcriptional regulator ModE
+RQ  1
+EV  IPR016462; PIRSF005763; sufficient;
+//

@@ -1,0 +1,37 @@
+AC  GenProp1225
+DE  D-galactarate degradation I
+TP  PATHWAY
+AU  Keseler I, Riley M
+TH  2
+DC  D-galactarate degradation I
+DR  MetaCyc; GALACTARDEG-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  D-galactarate dehydratase
+DN  D-galactarate dehydratase (EC 4.2.1.42)
+RQ  1
+EV  IPR017654; TIGR03248; sufficient;
+--
+SN  2
+ID  Glycerate 2-kinase
+DN  Glycerate 2-kinase (EC 2.7.1.165)
+RQ  1
+EV  IPR004381; PF02595; sufficient;
+EV  IPR004381; TIGR00045; sufficient;
+--
+SN  3
+ID  Alpha-dehydro-beta-deoxy-D-glucarate aldolase
+DN  Alpha-dehydro-beta-deoxy-D-glucarate aldolase (EC 4.1.2.20)
+RQ  1
+EV  IPR017648; TIGR03239; sufficient;
+--
+SN  4
+ID  Tartronate semialdehyde reductase
+DN  Tartronate semialdehyde reductase (EC 1.1.1.60)
+RQ  1
+EV  IPR006398; TIGR01505; sufficient;
+//

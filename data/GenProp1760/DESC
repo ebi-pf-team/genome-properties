@@ -1,0 +1,25 @@
+AC  GenProp1760
+DE  Superpathway of gibberellin GA12 biosynthesis
+TP  PATHWAY
+AU  N/A
+TH  0
+DC  Superpathway of gibberellin GA12 biosynthesis
+DR  MetaCyc; PWY-5053;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Ent-kaurene 19-hydroxylase
+DN  Ent-kaurene 19-hydroxylase
+RQ  1
+EV  IPR001128; PF00067; sufficient;
+--
+SN  2
+ID  Ent-kaurene synthase
+DN  Ent-kaurene synthase (EC 4.2.3.19)
+RQ  1
+EV  IPR001906; PF01397; sufficient;
+EV  IPR005630; PF03936; sufficient;
+//

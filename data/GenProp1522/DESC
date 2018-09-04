@@ -1,0 +1,58 @@
+AC  GenProp1522
+DE  Chitin degradation I (archaea)
+TP  PATHWAY
+AU  Fulcher C
+TH  5
+DC  Chitin degradation I (archaea)
+DR  MetaCyc; PWY-6855;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Chitinase
+DN  Chitinase (EC 3.2.1.14)
+RQ  1
+EV  IPR001223; PF00704; sufficient;
+EV  IPR001919; PF00553; sufficient;
+EV  IPR003610; PF02839; sufficient;
+--
+SN  2
+ID  Glucosamine 6-phosphate isomerase
+DN  Glucosamine 6-phosphate isomerase (EC 3.5.99.6)
+RQ  1
+EV  IPR001347; PF01380; sufficient;
+--
+SN  3
+ID  N-acetyl-D-glucosamine deacetylase
+DN  N-acetyl-D-glucosamine deacetylase (EC 3.5.1.33)
+RQ  1
+EV  IPR003737; PF02585; sufficient;
+--
+SN  4
+ID  Exo-chitinase (non-reducing end)
+DN  Exo-chitinase (non-reducing end) (EC 3.2.1.200)
+RQ  1
+EV  IPR001223; PF00704; sufficient;
+EV  IPR001919; PF00553; sufficient;
+EV  IPR003610; PF02839; sufficient;
+--
+SN  5
+ID  N,N'-diacetylchitobiose deacetylase
+DN  N,N'-diacetylchitobiose deacetylase (EC 3.5.1)
+RQ  1
+EV  IPR003737; PF02585; sufficient;
+--
+SN  6
+ID  2-Acetamido-4-O-(2-amino-2-deoxy-beta-D-glucopyranosyl)-2-deoxy-D-glucose exo-beta-D-glucosaminidase
+DN  2-Acetamido-4-O-(2-amino-2-deoxy-beta-D-glucopyranosyl)-2-deoxy-D-glucose exo-beta-D-glucosaminidase (EC 3.2.1)
+RQ  1
+EV  IPR013529; PF02449; sufficient;
+--
+SN  7
+ID  ADP-dependent N-acetyl-D-glucosamine kinase
+DN  ADP-dependent N-acetyl-D-glucosamine kinase (EC 2.7.1.147)
+RQ  1
+EV  IPR007666; PF04587; sufficient;
+//

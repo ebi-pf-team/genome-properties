@@ -1,0 +1,132 @@
+GenProp1108	Endopeptidase ClpXP complex
+GenProp1109	UvrAB complex
+GenProp1111	Acetyl-CoA carboxylase complex
+GenProp1112	Respiratory chain complex II
+GenProp1113	DnaA-Dps complex
+GenProp1114	ATP-dependent methionine-importing complex
+GenProp1115	LptDE outer membrane translocon complex
+GenProp1116	Bam complex
+GenProp1117	DNA polymerase III clamp loader chi-psi subcomplex
+GenProp1118	DnaB-DnaC complex
+GenProp1119	p-aminobenzoyl-glutamate hydrolase
+GenProp1120	HipBA toxin-antitoxin complex
+GenProp1121	ModE complex
+GenProp1122	Nitrate reductase A complex
+GenProp1123	DnaB-DnaG complex
+GenProp1124	UgpAEC-UgpB complex
+GenProp1125	DinJ-YafQ toxin-antitoxin complex
+GenProp1126	ProVWX complex
+GenProp1127	ThiG-ThiH thiazole phosphate synthase complex
+GenProp1129	Carbamoyl phosphate synthetase complex
+GenProp1130	DnaB-DnaC-DnaT-PriA-PriB complex
+GenProp1131	Glutathione-regulated potassium-efflux system KefB-KefG complex
+GenProp1132	Holo-translocon SecYEG-SecDF-YajC-YidC complex
+GenProp1133	YoeB-YefM toxin-antitoxin complex
+GenProp1134	TusBCDE complex
+GenProp1135	Formate dehydrogenase N complex
+GenProp1136	Twin-arginine translocation complex
+GenProp1137	Endopeptidase ClpAP complex
+GenProp1138	Molybdopterin synthase
+GenProp1139	Chemotaxis phosphorelay complex CheY-CheZ
+GenProp1140	IHF complex
+GenProp1141	Cytochrome bd-I ubiquinol oxidase complex
+GenProp1142	FtsQBL complex 
+GenProp1143	Plasma membrane fumarate reductase complex
+GenProp1144	IscS-ThiL complex
+GenProp1146	Dha Kinase
+GenProp1147	Chemotaxis phosphorelay complex CheA-CheY
+GenProp1148	DMSO reductase complex
+GenProp1149	Topoisomerase IV
+GenProp1150	Cobalamin transport complex
+GenProp1151	MacAB-TolC complex
+GenProp1152	DnaA-DnaB complex
+GenProp1153	TRCF-UvrA complex
+GenProp1154	FtsBL complex
+GenProp1155	DNA polymerase III proofreading complex
+GenProp1156	BtuCD complex
+GenProp1157	Vitamin B12 outer membrane transporter complex
+GenProp1158	Molybdopterin-synthase adenylyltransferase complex
+GenProp1159	Enzyme IIA-maltose transporter complex
+GenProp1160	Glutathione-regulated potassium-efflux system KefC-KefF complex
+GenProp1161	TusE-MnmA complex
+GenProp1162	Hda-beta clamp complex
+GenProp1163	IscS-IscU complex
+GenProp1164	Cytochrome o ubiquinol oxidase complex
+GenProp1165	PhnGHIJKL complex
+GenProp1166	Degradosome
+GenProp1167	Ethanolamine ammonia-lyase complex
+GenProp1168	Cus cation efflux complex
+GenProp1171	YgjD-YeaZ-YjeE complex
+GenProp1172	Aspartate carbamoyltransferase complex
+GenProp1173	HslUV protease complex
+GenProp1174	CdsA-CdsE complex
+GenProp1175	ThiF-ThiS complex
+GenProp1176	Protein-conducting channel SecYEG complex
+GenProp1178	GyrA-GyrB complex
+GenProp1179	Cascade complex
+GenProp1180	MukBEF condensin complex
+GenProp1181	GroEL-GroES complex
+GenProp1182	H-NS-Hha complex
+GenProp1183	Flagellar Motor Switch Complex, CCW variant
+GenProp1184	Sigma-E factor negative regulation complex
+GenProp1186	DnaA-Hda complex
+GenProp1187	DnaB-DnaC-DnaT-PriA-PriC complex
+GenProp1188	Exodeoxyribonuclease V complex
+GenProp1189	MqsRA toxin-antitoxin complex
+GenProp1190	UvrBC complex
+GenProp1191	Ribonucleoside-diphosphate reductase complex
+GenProp1192	SufBCD complex
+GenProp1193	RelBE toxin-antitoxin complex
+GenProp1194	Flagellar Motor Switch Complex, CW variant
+GenProp1195	DnaA-L2
+GenProp1196	Cas1-Cas2 complex
+GenProp1197	IscS-TusA complex
+GenProp1198	Respiratory chain complex I
+GenProp1199	MdtBC complex
+GenProp1200	DnaA-DnaB-DnaC complex
+GenProp1201	Succinyl-CoA synthetase
+GenProp1202	Cytochrome bd-II ubiquinol oxidase complex
+GenProp1204	Maltose transport complex
+GenProp1205	Trimethylamine-N-oxide reductase TorAC complex
+GenProp1206	H-NS-Cnu complex
+GenProp1207	DnaA-HU complex variant 1
+GenProp1208	DnaB-DnaC-Rep-PriC complex
+GenProp1209	Hydrogenase-1 complex
+GenProp1210	DnaA-DiaA complex
+GenProp2002	Fibrinogen
+GenProp2011	Eukaryote 20S proteasome
+GenProp2012	19S proteasome cap
+GenProp2014	Immunoproteasome
+GenProp2015	Thymoproteasome
+GenProp2016	Mammalian spermatoproteasome
+GenProp2017	Gamma secretase
+GenProp2021	Apoptosome
+GenProp2026	KICSTOR complex
+GenProp2028	GATOR1 complex
+GenProp2029	GATOR2 complex
+GenProp2030	mTORC1 complex
+GenProp2031	Ragulator complex
+GenProp2032	Rag complex
+GenProp2034	eIF4F complex
+GenProp2036	Nuclear pore complex, vertebrate
+GenProp2037	Nuclear pore subcomplex Nup107-160
+GenProp2038	Microsomal signal peptidase complex
+GenProp2040	Mitochondrial inner membrane peptidase complex
+GenProp2043	Nuclear pore complex 107-120, Schizosaccharomyces
+GenProp2047	COP9 Signalosome, eukaryote
+GenProp2048	General transcription factor IIH
+GenProp2049	CDK-activating kinase (CAK) complex
+GenProp2053	SALSA complex
+GenProp2054	TFIID complex
+GenProp2055	ADA complex
+GenProp2057	TFTC-HAT complex
+GenProp2059	Set1B histone H3-Lys4 methyltransferase complex
+GenProp2060	COMPASS methyltransferase complex
+GenProp2063	NSL complex
+GenProp2064	MSL complex
+GenProp2066	RuvB-like helicase
+GenProp2067	MLL-HCF complex
+GenProp2069	THAP1/THAP3-HCFC1-OGT complex
+GenProp2080	BAF53 complex
+GenProp2081	npBAF complex
+GenProp2084	SWI/SNF complex

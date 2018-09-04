@@ -1,0 +1,74 @@
+AC  GenProp1356
+DE  N10-formyl-tetrahydrofolate biosynthesis
+TP  PATHWAY
+AU  Sarker M, Riley M
+TH  7
+DC  N10-formyl-tetrahydrofolate biosynthesis
+DR  MetaCyc; 1CMET2-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  5,10-Methylenetetrahydrofolate reductase
+DN  5,10-Methylenetetrahydrofolate reductase (EC 1.5.1.20)
+RQ  1
+EV  IPR003171; PF02219; sufficient;
+EV  IPR004620; TIGR00676; sufficient;
+--
+SN  2
+ID  5-Formyltetrahydrofolate cyclo-ligase
+DN  5-Formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+RQ  1
+EV  IPR002698; PF01812; sufficient;
+EV  IPR002698; TIGR02727; sufficient;
+--
+SN  3
+ID  Dihydrofolate reductase
+DN  Dihydrofolate reductase (EC 1.5.1.3)
+RQ  1
+EV  IPR001796; PF00186; sufficient;
+--
+SN  4
+ID  Glycine decarboxylase
+DN  Glycine decarboxylase
+RQ  1
+EV  IPR006258; TIGR01350; sufficient;
+EV  IPR003437; TIGR00461; sufficient;
+EV  IPR006223; TIGR00528; sufficient;
+EV  IPR002930; PF01597; sufficient;
+EV  IPR017453; TIGR00527; sufficient;
+--
+SN  5
+ID  5,10-Methylenetetrahydrofolate:glycine hydroxymethyltransferase
+DN  5,10-Methylenetetrahydrofolate:glycine hydroxymethyltransferase (EC 2.1.2.1)
+RQ  1
+EV  IPR001085; PF00464; sufficient;
+--
+SN  6
+ID  Methionine synthase
+DN  Methionine synthase (EC 2.1.1.13)
+RQ  1
+EV  IPR011822; TIGR02082; sufficient;
+--
+SN  7
+ID  Methenyltetrahydrofolate cyclohydrolase
+DN  Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9)
+RQ  1
+EV  IPR020630; PF00763; sufficient;
+EV  IPR020631; PF02882; sufficient;
+--
+SN  8
+ID  Methylenetetrahydrofolate dehydrogenase
+DN  Methylenetetrahydrofolate dehydrogenase (EC 1.5.1.5)
+RQ  1
+EV  IPR020630; PF00763; sufficient;
+EV  IPR020631; PF02882; sufficient;
+--
+SN  9
+ID  Thymidylate synthase
+DN  Thymidylate synthase (EC 2.1.1.45)
+RQ  1
+EV  IPR000398; TIGR03284; sufficient;
+//

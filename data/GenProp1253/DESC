@@ -1,0 +1,24 @@
+AC  GenProp1253
+DE  Superpathway of arginine and polyamine biosynthesis
+TP  PATHWAY
+AU  N/A
+TH  0
+DC  Superpathway of arginine and polyamine biosynthesis
+DR  MetaCyc; ARG+POLYAMINE-SYN;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Arginine decarboxylase
+DN  Arginine decarboxylase (EC 4.1.1.19)
+RQ  1
+EV  IPR002985; TIGR01273; sufficient;
+--
+SN  2
+ID  Argininosuccinase
+DN  Argininosuccinase (EC 4.3.2.1)
+RQ  1
+EV  IPR009049; TIGR00838; sufficient;
+//

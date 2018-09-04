@@ -1,6 +1,6 @@
 AC  GenProp2061
 DE  MLL3/4 complex
-TP  SYSTEM
+TP  COMPLEX
 AU  Rawlings ND
 TH  7
 RN  [1]
@@ -33,7 +33,7 @@ CC  The Drosophila orthologue of the vertebrate MML3/MML4 complex
 CC  is also known as trithorax related (trr) [1].  
 CC  The MLL3/4 complex is composed at least of the catalytic 
 CC  subunit trr, ash2, Rbbp5, Dpy-30L1, wds, hcf, ptip, Pa1, 
-CC  Utx, Lpt and Ncoa6 [2].  The trr and MLL3/4 complexes differ 
+CC  Utx, Lpt and Ncoa6 [2]. The trr and MLL3/4 complexes differ 
 CC  from other Set1/COMPASS complexes in that they include a  
 CC  demethylase, Utx [3,4].
 **  Neither Lpt nor Ncoa6 have SwissProt entries.
@@ -53,7 +53,7 @@ CC  demethylase, Utx [3,4].
 --
 SN  1
 ID  Histone-lysine N-methyltransferase trithorax (EC 2.1.1.43)
-DN  Histone-lysine N-methyltransferase trithorax (EC 2.1.1.43)/1
+DN  Histone-lysine N-methyltransferase trithorax (EC 2.1.1.43)
 RQ  1
 EV  IPR037877; PTHR22884:SF373; sufficient;
 TG  GO:0044666;
@@ -61,49 +61,49 @@ TG  GO:0042800;
 --
 SN  2
 ID  WD repeat-containing protein 5 
-DN  WD repeat-containing protein 5 (WDR5) /2
+DN  WD repeat-containing protein 5 (WDR5)
 RQ  1
 EV  IPR037834; PTHR22847:SF560; sufficient;
 TG  GO:0044666;
 --
 SN  3
 ID  Retinoblastoma-binding protein 5 (RBBP5) 
-DN  Retinoblastoma-binding protein 5 (RBBP5) /3
+DN  Retinoblastoma-binding protein 5 (RBBP5)
 RQ  1
 EV  IPR037850; PTHR44040; sufficient;
 TG  GO:0044666;
 --
 SN  4
 ID  Set1/Ash2 histone methyltransferase complex subunit ASH2 
-DN  Set1/Ash2 histone methyltransferase complex subunit ASH2  /4
+DN  Set1/Ash2 histone methyltransferase complex subunit ASH2
 RQ  1
 EV  IPR037353; PTHR10598; sufficient;
 TG  GO:0044666;
 --
 SN  5
 ID  Host cell factor 1 (HCFC1)
-DN  Host cell factor 1 (HCFC1)/5
+DN  Host cell factor 1 (HCFC1)
 RQ  1
 EV  IPR037854; PTHR23244:SF339; sufficient;
 TG  GO:0044666;
 --
 SN  6
 ID  Protein dpy-30 homolog (DPY30)
-DN  Protein dpy-30 homolog (DPY30)/6
+DN  Protein dpy-30 homolog (DPY30)
 RQ  1
 EV  IPR037856; PTHR23356:SF0; sufficient;
 TG  GO:0044666;
 --
 SN  7
 ID  PAX transcription activation domain interacting protein (ptip)
-DN  PAX transcription activation domain interacting protein (ptip)/7
+DN  PAX transcription activation domain interacting protein (ptip)
 RQ  1
-EV  IPR037886; PTHR23196:SF1; sufficient;
+EV  -; PTHR23196:SF1; sufficient;
 TG  GO:0044666;
 --
 SN  8
 ID  GEO08286p1 (PTIP associated 1) (Pa1)
-DN  GEO08286p1 (PTIP associated 1) (Pa1)/8
+DN  GEO08286p1 (PTIP associated 1) (Pa1)
 RQ  1
 EV  IPR028213; PF15364; sufficient;
 EV  IPR028213; PTHR28467; sufficient;
@@ -111,7 +111,7 @@ TG  GO:0044666;
 --
 SN  9
 ID  Utx histone demethylase
-DN  Utx histone demethylase (1.14.11.-)/9
+DN  Utx histone demethylase (1.14.11.-)
 RQ  1
 EV  IPR029516; PTHR14017:SF9; sufficient;
 TG  GO:0071558;
@@ -119,15 +119,15 @@ TG  GO:0044666;
 --
 SN  10
 ID  Lost PHDs of trr (Lpt)
-DN  Lost PHDs of trr (Lpt)/10
+DN  Lost PHDs of trr (Lpt)
 RQ  1
-EV  IPR037888; PTHR22884:SF472; sufficient;
+EV  -; PTHR22884:SF472; sufficient;
 TG  GO:0044666;
 --
 SN  11
 ID  Nuclear receptor coactivator 6 (Ncoa6)
-DN  Nuclear receptor coactivator 6 (Ncoa6)/11
+DN  Nuclear receptor coactivator 6 (Ncoa6)
 RQ  1
-EV  IPR015943; G3DSA:2.130.10.10; sufficient;
+EV  -; -; sufficient;
 TG  GO:0044666;
 //

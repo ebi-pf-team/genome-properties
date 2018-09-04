@@ -1,0 +1,31 @@
+AC  GenProp1377
+DE  Biotin biosynthesis from 8-amino-7-oxononanoate I
+TP  PATHWAY
+AU  Keseler I, Caspi R, Riley M
+TH  1
+DC  Biotin biosynthesis from 8-amino-7-oxononanoate I
+DR  MetaCyc; PWY0-1507;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Biotin synthase
+DN  Biotin synthase (EC 2.8.1.6)
+RQ  1
+EV  IPR002684; TIGR00433; sufficient;
+--
+SN  2
+ID  7,8-Diaminopelargonic acid aminotransferase
+DN  7,8-Diaminopelargonic acid aminotransferase (EC 2.6.1.62)
+RQ  1
+EV  IPR005814; PF00202; sufficient;
+EV  IPR005815; TIGR00508; sufficient;
+--
+SN  3
+ID  Dethiobiotin synthetase
+DN  Dethiobiotin synthetase (EC 6.3.3.3)
+RQ  1
+EV  IPR004472; TIGR00347; sufficient;
+//

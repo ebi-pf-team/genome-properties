@@ -28,4 +28,9 @@ SN  4
 ID  Iron-sulfur cluster assembly NIF system
 RQ  0
 EV  GenProp0742;
+--
+SN  5
+ID  SufBCD complex
+RQ  0
+EV  GenProp1192;
 //

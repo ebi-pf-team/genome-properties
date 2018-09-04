@@ -1,6 +1,6 @@
 AC  GenProp2053
 DE  SALSA complex
-TP  SYSTEM
+TP  COMPLEX
 AU  Rawlings ND
 TH  5
 RN  [1]
@@ -22,28 +22,28 @@ CC  SPT3 [1].
 --
 SN  1
 ID  Transcription-associated protein 1 
-DN  Transcription-associated protein 1/1
+DN  Transcription-associated protein 1/TRA1
 RQ  1
 EV  IPR033317; PTHR11139:SF1; sufficient;
 TG  GO:0000124;
 --
 SN  2
 ID  Transcriptional activator SPT7
-DN  Transcriptional activator SPT7/2
+DN  Transcriptional activator SPT7
 RQ  1
 EV  IPR037782; PTHR22880:SF223; sufficient;
 TG  GO:0000124;
 --
 SN  3
 ID  Transcription initiation factor TFIID subunit 5 
-DN  Transcription initiation factor TFIID subunit 5 /3
+DN  Transcription initiation factor TFIID subunit 5/TAF5
 RQ  1
 EV  IPR037783; PTHR19879:SF1; sufficient;
 TG  GO:0000124;
 --
 SN  4
 ID  Chromatin-remodeling complexes subunit NGG1 (ADA3)
-DN  Chromatin-remodeling complexes subunit NGG1 (ADA3)/4
+DN  Chromatin-remodeling complexes subunit NGG1 (ADA3)
 RQ  1
 EV  IPR019340; PTHR13556; sufficient;
 EV  IPR019340; PF10198; sufficient;
@@ -51,28 +51,28 @@ TG  GO:0000124;
 --
 SN  5
 ID  Transcription factor SPT20
-DN  Transcription factor SPT20/5
+DN  Transcription factor SPT20
 RQ  1
 EV  IPR021950; PF12090; sufficient;
 TG  GO:0000124;
 --
 SN  6
 ID  Transcription initiation factor TFIID subunit 12
-DN  Transcription initiation factor TFIID subunit 12/6
+DN  Transcription initiation factor TFIID subunit 12/TAF12
 RQ  1
 EV  IPR037794; PTHR12264:SF21; sufficient;
 TG  GO:0000124;
 --
 SN  7
 ID  Transcription initiation factor TFIID subunit 6
-DN  Transcription initiation factor TFIID subunit 6/7
+DN  Transcription initiation factor TFIID subunit 6/TAF6
 RQ  1
 EV  IPR037796; PTHR10221; sufficient;
 TG  GO:0000124;
 --
 SN  8
 ID  Transcriptional coactivator HFI1/ADA1
-DN  Transcriptional coactivator HFI1/ADA1/8
+DN  Transcriptional coactivator HFI1/ADA1
 RQ  1
 EV  IPR024738; PF12767; sufficient;
 EV  IPR024738; PTHR21277; sufficient;
@@ -80,21 +80,21 @@ TG  GO:0000124;
 --
 SN  9
 ID  Histone acetyltransferase GCN5 
-DN  Histone acetyltransferase GCN5 (EC 2.3.1.48)/9
+DN  Histone acetyltransferase GCN5 (EC 2.3.1.48)
 RQ  1
 EV  IPR037800; PTHR22880:SF124; sufficient;
 TG  GO:0000124;
 --
 SN  10
 ID  Transcriptional adapter 2 (ADA2)
-DN  Transcriptional adapter 2 (ADA2)/10
+DN  Transcriptional adapter 2 (ADA2)
 RQ  1
 EV  IPR016827; PIRSF025024; sufficient;
 TG  GO:0000124;
 --
 SN  11
 ID  Protein SPT3
-DN  Protein SPT3/11
+DN  Protein SPT3/TAF13
 RQ  1
 EV  IPR003195; PF02269; sufficient;
 EV  IPR003195; PTHR11380; sufficient;

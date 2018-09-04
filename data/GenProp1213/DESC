@@ -1,0 +1,13 @@
+AC  GenProp1213
+DE  Response to stimulus
+TP  CATEGORY
+AU  Richardson L
+TH  0
+CC  Properties that describe systems involved in the response to
+CC  various stimuli.
+--
+SN  1
+ID  Response to external environment
+RQ  0
+EV  GenProp0864;
+//

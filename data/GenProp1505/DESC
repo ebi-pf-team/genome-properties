@@ -1,0 +1,33 @@
+AC  GenProp1505
+DE  Bacillithiol biosynthesis
+TP  PATHWAY
+AU  Keseler I
+TH  1
+DC  Bacillithiol biosynthesis
+DR  MetaCyc; PWY8J2-1;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  L-malate glycosyltransferase
+DN  L-malate glycosyltransferase
+RQ  1
+EV  IPR023881; TIGR03999; sufficient;
+--
+SN  2
+ID  Malyl-N-acetyl-D-glucosamine N-acetyl hydrolase
+DN  Malyl-N-acetyl-D-glucosamine N-acetyl hydrolase
+RQ  1
+EV  IPR003737; PF02585; sufficient;
+EV  IPR023842; TIGR04001; sufficient;
+EV  IPR023841; TIGR04000; sufficient;
+--
+SN  3
+ID  Bacillithiol synthase
+DN  Bacillithiol synthase
+RQ  1
+EV  IPR011199; PF10079; sufficient;
+EV  IPR011199; TIGR03998; sufficient;
+//

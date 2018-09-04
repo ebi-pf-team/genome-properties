@@ -236,4 +236,119 @@ SN  46
 ID  Proposed phosphonate catabolism pathway HpnWXZ
 RQ  0
 EV  GenProp0736;
+--
+SN  47
+ID  Alcohols degradation
+RQ  0
+EV  GenProp1768;
+--
+SN  48
+ID  Amines and polyamines catabolism
+RQ  0
+EV  GenProp1769;
+--
+SN  49
+ID  L-lactaldehyde degradation (aerobic)
+RQ  0
+EV  GenProp1662;
+--
+SN  50
+ID  Methylglyoxal degradation III
+RQ  0
+EV  GenProp1263;
+--
+SN  51
+ID  Methylglyoxal degradation I
+RQ  0
+EV  GenProp1578;
+--
+SN  52
+ID  3-Phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation to 2-hydroxypentadienoate
+RQ  0
+EV  GenProp1287;
+--
+SN  53
+ID  Cinnamate and 3-hydroxycinnamate degradation to 2-hydroxypentadienoate
+RQ  0
+EV  GenProp1458;
+--
+SN  54
+ID  Urate conversion to allantoin I
+RQ  0
+EV  GenProp1652;
+--
+SN  55
+ID  CO2 fixation into oxaloacetate (anaplerotic)
+RQ  0
+EV  GenProp1669;
+--
+SN  56
+ID  Formate assimilation into 5,10-methylenetetrahydrofolate
+RQ  0
+EV  GenProp1613;
+--
+SN  57
+ID  Heme degradation I
+RQ  0
+EV  GenProp1591;
+--
+SN  58
+ID  Heme degradation VII
+RQ  0
+EV  GenProp1688;
+--
+SN  59
+ID  Glutathione degradation (DUG pathway - yeast)
+RQ  0
+EV  GenProp1346;
+--
+SN  60
+ID  Alkylnitronates degradation
+RQ  0
+EV  GenProp1746;
+--
+SN  61
+ID  Muropeptide degradation
+RQ  0
+EV  GenProp1242;
+--
+SN  62
+ID  Carbohydrates degradation
+RQ  0
+EV  GenProp1770;
+--
+SN  63
+ID  Fatty acid degradation
+RQ  0
+EV  GenProp1772;
+--
+SN  64
+ID  Lipid degradation
+RQ  0
+EV  GenProp1773;
+--
+SN  65
+ID  Secondary metabolites degradation
+RQ  0
+EV  GenProp1775;
+--
+SN  66
+ID  Nucleosides and nucleotides degradation
+RQ  0
+EV  GenProp1776;
+--
+SN  67
+ID  p-aminobenzoyl-glutamate hydrolase
+RQ  0
+EV  GenProp1119;
+--
+SN  68
+ID  Ethanolamine ammonia-lyase complex
+RQ  0
+EV  GenProp1167;
+--
+SN  69
+ID  Carboxylates degradation
+RQ  0
+EV  GenProp1771;
 //

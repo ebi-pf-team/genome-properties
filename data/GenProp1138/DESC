@@ -1,0 +1,27 @@
+AC  GenProp1138
+DE  Molybdopterin synthase
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+DR  Complex Portal; CPX-1970;
+DR  PDBe; 1fm0;
+DR  PDBe; 3bii;
+DR  PDBe; 1nvi;
+DR  PDBe; 1fma;
+CC  Involved in molybdopterin cofactor (Moco) biosynthesis under anaerobic
+CC  conditions converting molybdopterin precursor Z to molybdopterin. This
+CC  requires the incorporation of two sulfur atoms into precursor Z to
+CC  generate a dithiolene group. The sulfur is provided by MoaD. This
+CC  process is evolutionarily conserved and is equivalent to REACT_25073.1
+--
+SN  1
+ID  Molybdopterin synthase catalytic subunit (MoaE)
+RQ  1
+EV  IPR003448; PF02391; sufficient;
+EV  IPR003448; cd00756; sufficient;
+--
+SN  2
+ID  Molybdopterin synthase sulfur carrier subunit (MoaD)
+RQ  1
+EV  IPR010034; TIGR01682; sufficient;
+//

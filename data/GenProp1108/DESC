@@ -1,0 +1,30 @@
+AC  GenProp1108
+DE  Endopeptidase ClpXP complex
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+RN  [1]
+RM  22595189
+RT  ClpP: a structurally dynamic protease regulated by AAA+ proteins.
+RA  Alexopoulos JA, Guarné A, Ortega J
+RL  J Struct Biol. 2012;179:202-210
+DR  Complex Portal; CPX-3176;
+DR  Complex Portal; CPX-3175;
+CC  ATP-dependent serine protease which degrades intracellular unfolded or
+CC  misfolded proteins.
+--
+SN  1
+ID  ATP-dependent Clp protease proteolytic subunit
+RQ  1
+EV  IPR001907; MF_00444; sufficient;
+EV  IPR001907; PR00127; sufficient;
+EV  IPR001907; TIGR00493; sufficient;
+EV  IPR001907; cd07017; sufficient;
+--
+SN  2
+ID  ATP-dependent Clp protease ATP-binding subunit ClpX
+RQ  1
+EV  IPR004487; MF_00175; sufficient;
+EV  IPR004487; PTHR11262; sufficient;
+EV  IPR004487; TIGR00382; sufficient;
+//

@@ -1,0 +1,63 @@
+AC  GenProp1423
+DE  Sphingolipid biosynthesis (yeast)
+TP  PATHWAY
+AU  Caspi R, Hong E
+TH  6
+DC  Sphingolipid biosynthesis (yeast)
+DR  MetaCyc; SPHINGOLIPID-SYN-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  3-Ketodihydrosphingosine reductase
+DN  3-Ketodihydrosphingosine reductase (EC 1.1.1.102)
+RQ  1
+EV  IPR002347; PF00106; sufficient;
+--
+SN  2
+ID  Dihydrospingosine C-4 hydroxylase
+DN  Dihydrospingosine C-4 hydroxylase (EC 1.14.18.5)
+RQ  1
+EV  IPR006694; PF04116; sufficient;
+--
+SN  3
+ID  4-Hydroxysphinganine N-acyltransferase
+DN  4-Hydroxysphinganine N-acyltransferase (EC 2.3.1.24)
+RQ  1
+EV  IPR006634; PF03798; sufficient;
+EV  IPR013599; PF08390; sufficient;
+--
+SN  4
+ID  Ceramide very long chain fatty acid hydroxylase
+DN  Ceramide very long chain fatty acid hydroxylase (EC 1.14.18.6)
+RQ  1
+EV  IPR001199; PF00173; sufficient;
+EV  IPR006694; PF04116; sufficient;
+--
+SN  5
+ID  Inositol phosphoceramide synthase
+DN  Inositol phosphoceramide synthase (EC 2.7.1)
+RQ  1
+EV  IPR013862; PF08552; sufficient;
+EV  IPR026841; PF14378; sufficient;
+--
+SN  6
+ID  Inositol phosphorylceramide mannosyltransferase
+DN  Inositol phosphorylceramide mannosyltransferase (EC 2.4.1)
+RQ  1
+EV  IPR031581; PF16965; sufficient;
+--
+SN  7
+ID  Mannosyl-inositol-phosphoceramide inositolphosphotransferase
+DN  Mannosyl-inositol-phosphoceramide inositolphosphotransferase (EC 2.7.1)
+RQ  1
+EV  IPR026841; PF14378; sufficient;
+--
+SN  8
+ID  Serine palmitoyltransferase
+DN  Serine palmitoyltransferase (EC 2.3.1.50)
+RQ  1
+EV  IPR004839; PF00155; sufficient;
+//

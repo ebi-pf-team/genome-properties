@@ -1,0 +1,51 @@
+AC  GenProp1201
+DE  Succinyl-CoA synthetase
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+RN  [1]
+RM  9917402
+RT  A detailed structural description of Escherichia coli succinyl-CoA
+RT  synthetase.
+RA  Fraser ME, James MN, Bridger WA, Wolodko WT
+RL  J Mol Biol. 1999;285:1633-1653
+RN  [2]
+RM  10625475
+RT  ADP-binding site of Escherichia coli succinyl-CoA synthetase revealed
+RT  by x-ray crystallography.
+RA  Joyce MA, Fraser ME, James MN, Bridger WA, Wolodko WT
+RL  Biochemistry. 2000;39:17-25
+DR  Complex Portal; CPX-1092;
+DR  PDBe; 1scu;
+DR  PDBe; 1jll;
+DR  PDBe; 1jkj;
+DR  PDBe; 2nua;
+DR  PDBe; 2nu6;
+DR  PDBe; 2nu8;
+DR  PDBe; 2nu7;
+DR  PDBe; 2nu9;
+DR  PDBe; 2scu;
+DR  PDBe; 1cqi;
+CC  Succinyl-CoA synthetase functions in the citric acid cycle (TCA),
+CC  coupling the hydrolysis of succinyl-CoA to the synthesis of either ATP
+CC  or GTP and thus represents the only step of substrate-level
+CC  phosphorylation in the TCA. It catalyzes the reversible interchange of
+CC  purine nucleoside diphosphate, succinyl-CoA and phosphate with purine
+CC  nucleoside triphosphate, succinate, and CoA via a phosphorylated
+CC  histidine intermediate.
+--
+SN  1
+ID  Succinate--CoA ligase [ADP-forming] subunit alpha
+RQ  1
+EV  IPR005810; MF_01988; sufficient;
+EV  IPR005810; PIRSF001553; sufficient;
+EV  IPR005810; TIGR01019; sufficient;
+--
+SN  2
+ID  Succinate--CoA ligase [ADP-forming] subunit beta
+RQ  1
+EV  IPR005809; MF_00558; sufficient;
+EV  IPR005809; PIRSF001554; sufficient;
+EV  IPR005809; PTHR11815; sufficient;
+EV  IPR005809; TIGR01016; sufficient;
+//

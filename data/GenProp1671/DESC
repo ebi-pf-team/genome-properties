@@ -1,0 +1,37 @@
+AC  GenProp1671
+DE  Ceramide de novo biosynthesis
+TP  PATHWAY
+AU  Weerasinghe D, Evsikov A
+TH  2
+DC  Ceramide de novo biosynthesis
+DR  MetaCyc; PWY3DJ-12;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  3-Ketodihydrosphingosine reductase
+DN  3-Ketodihydrosphingosine reductase (EC 1.1.1.102)
+RQ  1
+EV  IPR002347; PF00106; sufficient;
+--
+SN  2
+ID  Dihydroceramide 4-desaturase
+DN  Dihydroceramide 4-desaturase (EC 1.14.19.17)
+RQ  1
+EV  IPR005804; PF00487; sufficient;
+EV  IPR013866; PF08557; sufficient;
+--
+SN  3
+ID  Sphinganine N-acyltransferase
+DN  Sphinganine N-acyltransferase (EC 2.3.1)
+RQ  1
+EV  IPR006634; PF03798; sufficient;
+--
+SN  4
+ID  Serine palmitoyltransferase
+DN  Serine palmitoyltransferase (EC 2.3.1.50)
+RQ  1
+EV  IPR024512; PF11779; sufficient;
+//

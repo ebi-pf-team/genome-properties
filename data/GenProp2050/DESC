@@ -10,11 +10,13 @@ RT  functions for the three enzymatic subunits, XPB, XPD, and cdk7.
 RA  Tirode F; Busso D; Coin F; Egly JM;   
 RL  Mol Cell. 1999;3:87-95.
 RN  [2]
-RM  15494306 
+RM  15494306
 RT  Selective regulation of vitamin D receptor-responsive genes by 
 RT  TFIIH. 
 RA  Drané P; Compe E; Catez P; Chymkowitch P; Egly JM;   
 RL  Mol Cell. 2004;16:187-197.
+DC  Basal transcription factors
+DR  KEGG; map03022;
 CC  The core-TFIIH basal transcription factor associates with the CAK 
 CC  complex to form the TFIIH basal transcription factor [1].  TFIIH 
 CC  is required for transcription initiation and nucleotide excision 

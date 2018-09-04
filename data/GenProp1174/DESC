@@ -1,0 +1,39 @@
+AC  GenProp1174
+DE  CdsA-CdsE complex
+TP  COMPLEX
+AU  Complex Portal
+TH  1
+RN  [1]
+RM  20054882
+RT  The CsdA cysteine desulphurase promotes Fe/S biogenesis  by recruiting
+RT  Suf components and participates to a new  sulphur transfer pathway by
+RT  recruiting CsdL (ex-YgdL),  a ubiquitin-modifying-like protein.
+RA  Trotter V, Vinella D, Loiseau L, Ollagnier de Choudens S, Fontecave M,
+RA  Barras F
+RL  Mol Microbiol. 2009;74:1527-1542
+RN  [2]
+RM  15901727
+RT  Analysis of the heteromeric CsdA-CsdE cysteine desulfurase, assisting
+RT  Fe-S cluster biogenesis in Escherichia coli.
+RA  Loiseau L, Ollagnier-de Choudens S, Lascoux D, Forest E, Fontecave M,
+RA  Barras F
+RL  J Biol Chem. 2005;280:26760-26769
+DR  Complex Portal; CPX-2138;
+DR  PDBe; 4lw4;
+CC  Acts as a L-cysteine desulfurase and sufurtransferase. CsdA
+CC  desulfurases L-cysteine to produce L-alanine atomic sulfur (in the form
+CC  of a persulfide). It transfers the sulfur to CsdE which increases the
+CC  cysteine desulfurase activity of CsdA. CsdE accepts the sulfur on
+CC  Cys61. While the CsdE dimer can be isolated in vitro it is uncertain
+CC  whether it also exists on its own in vivo.
+--
+SN  1
+ID  Sulfur acceptor protein CsdE
+RQ  1
+EV  IPR017763; TIGR03391; sufficient;
+--
+SN  2
+ID  Cysteine desulfurase CsdA
+RQ  1
+EV  IPR022471; TIGR03392; sufficient;
+//

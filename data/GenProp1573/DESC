@@ -1,0 +1,26 @@
+AC  GenProp1573
+DE  Sulfate activation for sulfonation
+TP  PATHWAY
+AU  Caspi R
+TH  0
+DC  Sulfate activation for sulfonation
+DR  MetaCyc; PWY-5340;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Adenylyl-sulfate kinase
+DN  Adenylyl-sulfate kinase (EC 2.7.1.25)
+RQ  1
+EV  IPR002891; TIGR00455; sufficient;
+--
+SN  2
+ID  Sulfate adenylyltransferase
+DN  Sulfate adenylyltransferase (EC 2.7.7.4)
+RQ  1
+EV  IPR002891; TIGR00455; sufficient;
+EV  IPR011784; TIGR02039; sufficient;
+EV  IPR011779; TIGR02034; sufficient;
+//

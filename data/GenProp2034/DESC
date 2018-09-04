@@ -1,8 +1,8 @@
 AC  GenProp2034
 DE  eIF4F complex
-TP  SYSTEM
+TP  COMPLEX
 AU  Rawlings ND
-TH  1
+TH  2
 RN  [1]
 RM  9372926
 RT  Human eukaryotic translation initiation factor 4G (eIF4G) possesses 
@@ -27,10 +27,12 @@ RM  9418880
 RT  A novel functional human eukaryotic translation initiation factor 4G. 
 RA  Gradi A; Imataka H; Svitkin YV; Rom E; Raught B; Morino S; Sonenberg N; 
 RL  Mol Cell Biol. 1998;18:334-342.
+DC  RNA transport
+DR  KEGG; map03013;
 CC  Eukaryote initiation factor 4F (eI4F) is a complex involved in 
 CC  protein translation [1,4]. It recognizes the mRNA cap, recruits mRNA to 
 CC  the ribosome and unwinds 5'-terminal secondary structure in an ATP- 
-CC  dependentmanner [3]. The composition of the complex varies with the
+CC  dependent manner [3]. The composition of the complex varies with the
 CC  external and internal conditions.
 **  Only the essential components are listed.
 **  eIF4A is a complex of three components all in the same InterPro entry.

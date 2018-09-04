@@ -1,8 +1,8 @@
 AC  GenProp2043
 DE  Nuclear pore complex 107-120, Schizosaccharomyces
-TP  SYSTEM
+TP  COMPLEX
 AU  Rawlings ND
-TH  2
+TH  3
 RN  [1]
 RM  15226438
 RT  The fission yeast Nup107-120 complex functionally interacts with 
@@ -17,6 +17,8 @@ RT  transport factors in the fission yeast Schizosaccharomyces pombe:
 RT  a deletion analysis. 
 RA  Chen XQ; Du X; Liu J; Balasubramanian MK; Balasundaram D;   
 RL  Yeast 2004;21:495-509.
+DC  RNA transport
+DR  KEGG; map03013;
 CC  The NPC107-120 nuclear pore complex (NPC) from Schizosaccharomyes 
 CC  is required for mRNA export, nuclear pore distribution, and cell 
 CC  division [1].  Components of the NPC have been identified by  
@@ -24,11 +26,11 @@ CC  mutation studies [2].
 **  Evidence for steps 4 and 5 is the same.
 **  Evidence for step 4 is also used in GP2036, GP2037 and GP2042.
 **  Evidence for step 6 is also used in GP2029, GP2037 and GP2042.
-**  Threshold is therefore set to 2.
+**  Threshold is therefore set to 3.
 --
 SN  1
 ID  Nucleoporin nup85
-DN  Nucleoporin nup85/1
+DN  Nucleoporin Nup85-like
 RQ  1
 EV  IPR011502; PF07575; sufficient;
 EV  IPR011502; PTHR13373; sufficient;
@@ -36,7 +38,7 @@ TG  GO:0017056;
 --
 SN  2
 ID  Nucleoporin nup107
-DN  Nucleoporin nup107/2
+DN  Nuclear pore protein 84/107
 RQ  1
 EV  IPR007252; PF04121; sufficient;
 EV  IPR007252; PTHR13003; sufficient;
@@ -44,28 +46,28 @@ TG  GO:0017056;
 --
 SN  3
 ID  Nucleoporin nup120
-DN  Nucleoporin nup120/3
+DN  Nucleoporin Nup120/160
 RQ  1
 EV  IPR021717; PF11715; sufficient;
 TG  GO:0031080;
 --
 SN  4
 ID  Nucleoporin nup131
-DN  Nucleoporin nup131/4
+DN  Nuclear pore complex protein Nup133-like
 RQ  1
 EV  IPR037624; PTHR13405; sufficient;
 TG  GO:0017056;
 --
 SN  5
 ID  Nucleoporin nup132
-DN  Nucleoporin nup132/5
+DN  Nuclear pore complex protein Nup133-like
 RQ  1
 EV  IPR037624; PTHR13405; sufficient;
 TG  GO:0017056;
 --
 SN  6
 ID  Nucleoporin seh1
-DN  Nucleoporin seh1
+DN  Nucleoporin Seh1
 RQ  1
 EV  IPR037597; PTHR11024:SF3; sufficient;
 TG  GO:0031080;

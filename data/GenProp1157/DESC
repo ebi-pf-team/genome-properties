@@ -1,0 +1,50 @@
+AC  GenProp1157
+DE  Vitamin B12 outer membrane transporter complex
+TP  COMPLEX
+AU  Complex Portal
+TH  3
+RN  [1]
+RM  16741124
+RT  Outer membrane active transport: structure of the BtuB:TonB complex.
+RA  Shultis DD, Purdy MD, Banchs CN, Wiener MC
+RL  Science. 2006;312:1396-1399
+DR  Complex Portal; CPX-1083;
+DR  PDBe; 2gsk;
+DR  PDBe; 5sv1;
+CC  A member of the TonB-dependent transporter family (TBDTs) which binds
+CC  and then transports cobalamine (vitamin B12) across the outer membrane.
+CC  TBDTs are energy-dependent gated channels that usually transport large
+CC  metal complexes which cannot fit through porins, and are too scarce to
+CC  enter by mass-action-driven transport. Energy-dependent uptake through
+CC  TBDTs requires interaction with TonB in complex with ExbB and ExbD in
+CC  the inner membrane, ExbBD. TonB undergoes rapid energized movement
+CC  driven by ExbBD which harvests the electrochemical force from the
+CC  proton gradient across the inner membrane and converts it into rotational 
+CC  motion. Hence, TonB may pull or twist the N-termini of TBDTs to promote 
+CC  transport of substrates into the periplasm. ATP-binding-cassette (ABC) 
+CC  transporters subsequently move the cyanocobalamine through the periplasm 
+CC  and inner membrane.
+--
+SN  1
+ID  Biopolymer transport protein ExbD
+RQ  1
+EV  IPR014170; TIGR02803; sufficient;
+EV  IPR014171; TIGR02804; sufficient;
+--
+SN  2
+ID  Vitamin B12 transporter BtuB
+RQ  1
+EV  IPR010101; MF_01531; sufficient;
+EV  IPR010101; TIGR01779; sufficient;
+--
+SN  3
+ID  Biopolymer transport protein ExbB
+RQ  1
+EV  IPR014164; TIGR02797; sufficient;
+EV  IPR014172; TIGR02805; sufficient;
+--
+SN  4
+ID  Protein TonB
+RQ  1
+EV  IPR003538; PR01374; sufficient;
+//

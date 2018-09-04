@@ -1,0 +1,24 @@
+AC  GenProp1600
+DE  Abscisic acid degradation by glucosylation
+TP  PATHWAY
+AU  Foerster H, Tissier C
+TH  0
+DC  Abscisic acid degradation by glucosylation
+DR  MetaCyc; PWY-5272;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Abscisic acid glucose ester beta-glucosidase
+DN  Abscisic acid glucose ester beta-glucosidase (EC 3.2.1.175)
+RQ  1
+EV  IPR001360; PF00232; sufficient;
+--
+SN  2
+ID  Abscisic acid glycosyltransferase
+DN  Abscisic acid glycosyltransferase (EC 2.4.1.263)
+RQ  1
+EV  IPR002213; PF00201; sufficient;
+//

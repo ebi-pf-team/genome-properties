@@ -1,0 +1,46 @@
+AC  GenProp1180
+DE  MukBEF condensin complex
+TP  COMPLEX
+AU  Complex Portal
+TH  2
+RN  [1]
+RM  26686641
+RT  The Localization and Action of Topoisomerase IV in Escherichia coli
+RT  Chromosome Segregation Is Coordinated by the SMC Complex, MukBEF.
+RA  Zawadzki P, Stracy M, Ginda K, Zawadzka K, Lesterlin C, Kapanidis AN,
+RA  Sherratt DJ
+RL  Cell Rep. 2015;13:2587-2596
+RN  [2]
+RM  24097060
+RT  Structural basis for the MukB-topoisomerase IV interaction and its
+RT  functional implications in vivo.
+RA  Vos SM, Stewart NK, Oakley MG, Berger JM
+RL  EMBO J. 2013;32:2950-2962
+DR  Complex Portal; CPX-1090;
+DR  PDBe; 3euh;
+CC  Key mediator of chromosome condensation, ensuring chromosomes are
+CC  efficiently separated during replication and are faithfully segregated
+CC  into daughter cells. A direct interaction between ParC of Topoisomerase
+CC  IV (CPX-1104) and MukB leads to a fraction of TopoIV molecules being
+CC  bound to MukBEF clusters. Involved in chromosome condensation and
+CC  segregation. MukB can stimulate the ability of topoisomerase IV to
+CC  relax negatively supercoiled DNA. 
+--
+SN  1
+ID  Chromosome partition protein MukE
+RQ  1
+EV  IPR007385; MF_01802; sufficient;
+EV  IPR007385; PF04288; sufficient;
+--
+SN  2
+ID  Chromosome partition protein MukF
+RQ  1
+EV  IPR005582; MF_01803; sufficient;
+EV  IPR005582; PIRSF018282; sufficient;
+--
+SN  3
+ID  Chromosome partition protein MukB
+RQ  1
+EV  IPR012090; MF_01800; sufficient;
+EV  IPR012090; PIRSF005246; sufficient;
+//

@@ -49,7 +49,6 @@ TG  GO:0009401;
 --
 SN  4
 ID  Phosphotransferase system, EIIA
-DN  NOT APPLICABLE
 RQ  1
 EV  IPR003188; PF02255; sufficient;
 TG  GO:0009401;
@@ -74,7 +73,6 @@ TG  GO:0009401;
 --
 SN  5
 ID  Phosphotransferase system, EIIB
-DN  NOT APPLICABLE
 RQ  1
 EV  IPR003501; PF02302; sufficient;
 TG  GO:0009401;
@@ -113,7 +111,6 @@ TG  GO:0009401;
 --
 SN  6
 ID  Phosphotransferase system, EIIC
-DN  NOT APPLICABLE
 RQ  1
 EV  IPR004703; PF03611; sufficient;
 TG  GO:0009401;
@@ -158,7 +155,6 @@ TG  GO:0009401;
 --
 SN  7
 ID  Phosphotransferase system, EIID
-DN  NOT APPLICABLE
 RQ  0
 EV  IPR004704; TIGR00828; sufficient;
 TG  GO:0009401;
