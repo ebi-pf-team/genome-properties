@@ -5,6 +5,8 @@ Release notes
 | **Date: August 2018**
 | **Dependency on InterProScan version: 5.30-69.0**
 
+
+
 This release contains 1286 genome properties, and their matches to 219 representative proteomes.
 Major new additions in this release include automatically generated properties from MetaCyc as well as E.coli complexes from the Complex Portal.
 
