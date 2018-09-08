@@ -13,6 +13,8 @@ my @files = grep{ $_ ne "." && $_ ne ".."} readdir(DIR);
 my $merged;
 
 foreach my $f (@files){
+  next if($f !~ /JSON/);
+  print "$f\n";
   my $j = read_file( $f );
   if(!defined($merged)){
     $merged = from_json( $j );
@@ -44,4 +46,7 @@ foreach my $f (@files){
   }
 }
 
-p($merged);
+my $mergedJ = to_json($merged, {ascii => 1});
+
+write_file('JSON_MERGED', $mergedJ);
+
