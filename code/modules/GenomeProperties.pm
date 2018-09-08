@@ -80,10 +80,10 @@ sub build_json {
   foreach my $step (sort { $a->order cmp $b->order} @{ $prop->get_steps }){
     next if($step->skip);
 
-    push(@{ $propj{steps} }, ( "step"       => $step->order,
+    push(@{ $propj{steps} }, { "step"       => $step->order,
                                "step_name"  => $step->step_name,
                                "required"   => defined($step->required) ? 1 : 0,
-                               "values"     => { $self->{name} => $step->found } ));
+                               "values"     => { $self->{name} => $step->found } });
   }
 
   $self->{_json}->{$prop->accession}= \%propj;
