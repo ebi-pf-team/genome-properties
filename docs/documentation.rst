@@ -3,6 +3,8 @@ Help & Documentation
 
 You can learn more about Genome Properties data and how to use the website from these free online courses:
 
+[Genome Properties Quick Tour] (https://www.ebi.ac.uk/training/online/course/genome-properties-quick-tour) = A brief overview (< 30 mins)
+
 `Genome Properties Quick Tour <https://www.ebi.ac.uk/training/online/course/genome-properties-quick-tour>`_ = A brief overview (< 30 mins)
 
 `https://www.ebi.ac.uk/training/online/course/genome-properties-tutorial <https://www.ebi.ac.uk/training/online/course/genome-properties-tutorial>`_ = A more in-depth course (> 30 mins)
