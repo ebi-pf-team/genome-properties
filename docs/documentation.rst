@@ -5,7 +5,7 @@ You can learn more about Genome Properties data and how to use the website from 
 
 `https://www.ebi.ac.uk/training/online/course/genome-properties-quick-tour <https://www.ebi.ac.uk/training/online/course/genome-properties-quick-tour>`_ = A brief overview (< 30 mins)
 
-`https://www.ebi.ac.uk/training/online/course/genome-properties-tutorial < https://www.ebi.ac.uk/training/online/course/genome-properties-tutorial>`_ = A more in-depth course (> 30 mins)
+`https://www.ebi.ac.uk/training/online/course/genome-properties-tutorial <https://www.ebi.ac.uk/training/online/course/genome-properties-tutorial>`_ = A more in-depth course (> 30 mins)
 
 Alternatively, we use readthedocs to store all our documentation. You can access the readthedocs for Genome Properties here:
 
