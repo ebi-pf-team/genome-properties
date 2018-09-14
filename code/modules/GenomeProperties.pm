@@ -60,6 +60,7 @@ sub write_results{
     $self->print_table($prop) if($self->tableFH);
     $self->print_compressed_table($prop) if($self->compTableFH);
     $self->build_json($prop) if($self->jsonFH);
+    $self->print_matches($prop) if($self->matchFH);
   }
 
   $self->print_json if($self->jsonFH);
@@ -192,7 +193,47 @@ sub print_long {
   print $fh $report;
 
 }	
-	
+
+sub print_matches {
+  my($self, $prop) = @_;
+
+  #Unlike the other views, which are genome property orientated,
+  #this one is gene orientated.
+
+  if($prop->result eq "YES" or $prop->result eq "PARTIAL"){
+    my $fh = $self->matchFH;  
+    my $pDESC = $prop->accession."\t".$prop->name;
+    
+    #TODO switch sort to <=>, once orders are replaced.
+    foreach my $step (sort { $a->order cmp $b->order} @{ $prop->get_steps }){
+      if($step->found == 1){
+        my $sDESC = $step->order."\t".$step->step_name."\t";
+        $sDESC .= "required" if (defined($step->required) and $step->required == 1);
+          
+        foreach my $ev (@{$step->get_evidence}){
+          my $eDESC;
+          my $seenSeq;
+          if($ev->interpro){
+            if($self->get_family( $ev->accession ) ){
+              my @seqs = @{ $self->get_family( $ev->accession ) };
+              next if(scalar(@seqs)>3);
+              foreach my $s (@seqs){
+                #next if($seenSeq->{$s});
+                my $report = $ev->interpro."\t".$ev->accession."\t$s\t".scalar(@seqs);
+                print $fh $pDESC."\t$sDESC\t$report\n";
+                #$seenSeq->{$s}++;
+                #last;
+                
+              }
+            }
+          }
+        }
+      }
+    } 
+  }
+}
+
+
 sub open_outputfiles {
   my ($self) = @_;
     
@@ -231,6 +272,11 @@ sub open_outputfiles {
         my $fh;
         open($fh, '>', $file) or die "Failed to open $file:[$!]\n";
         $self->jsonFH($fh);
+      }elsif($f eq 'protein'){
+        my $file = $root."/MATCHES_".$self->{name};
+        my $fh;
+        open($fh, '>', $file) or die "Failed to open $file:[$!]\n";
+        $self->matchFH($fh);
       }else{
         die "Unknown output type $f\n";
       }
@@ -303,6 +349,19 @@ sub jsonFH {
   return ($self->{jsonFH});
 }
 
+sub matchFH {
+  my ( $self, $fh ) = @_;
+  
+  if($fh){
+    if(ref($fh) eq "GLOB"){
+      $self->{matchFH} = $fh;    
+    }else{
+      croak("Filehandle not passed in\n"); 
+    }
+  }
+  return ($self->{matchFH});
+}
+
 sub removeSummaryFH {
   my ($self);
   delete $self->{summaryFH};
@@ -331,6 +390,7 @@ sub close_outputfiles {
   close($self->tableFH) and $self->removeTableFH if ($self->tableFH);
   close($self->compTableFH) if($self->compTableFH);
   close($self->jsonFH) if($self->jsonFH);
+  close($self->matchFH) if($self->matchFH);
   #TODO - remove these from the object.
   return(1);
 }
