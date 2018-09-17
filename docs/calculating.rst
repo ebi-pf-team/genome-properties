@@ -44,10 +44,13 @@ Users must first either clone, or download and uncompress a release bundle, from
   outdir <directory name>  : Name of the output directory (optional, default pwd).
   outfiles <format>        : Format can be one of the following [summary|long|table|protein|web_json]
                            : To get multiple output files use option multiple times
+                           
 ```
 
 Example command executed from within /code/scripts/ 
-```$ ./assign_genome_properties.pl -matches INPUT_FILE.tsv -all -name OUTPUT_FILE -gpdir ../../flatfiles/ -gpff genomeProperties.txt -outdir ~user/analysis/ -outfiles summary
+```
+$ ./assign_genome_properties.pl -matches INPUT_FILE.tsv -all -name OUTPUT_FILE -gpdir ../../flatfiles/ -gpff genomeProperties.txt -outdir ~user/analysis/ -outfiles summary
+
 ```
 
    
