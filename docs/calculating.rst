@@ -2,7 +2,7 @@ Calculating Genome Properties
 =============================
 
 
-The presence or absence of genome properties (GPs) within a given genome or proteome, is calculated based on the matches to the relevant InterPro entries and their associated protein signatures. The evidence (HMM) for each constituent step is tested against the proteome in question, and each step defined as a hit or a miss. The total number of hits is then compared with the threshold level defined for the GP, to determine if the GP resolves to a YES (all required steps are present), NO (too few required steps are present) or PARTIAL (the number of required steps present is greater than the threshold, indicating that some evidence of the presence of the GP can be assumed).
+The presence or absence of genome properties (GPs) within a given proteome, is calculated based on the matches to the relevant InterPro entries and their associated protein signatures. The evidence (HMM) for each constituent step is tested against the proteome in question, and each step defined as a hit or a miss. The total number of hits is then compared with the threshold level defined for the GP, to determine if the GP resolves to a YES (all required steps are present), NO (too few required steps are present) or PARTIAL (the number of required steps present is greater than the threshold, indicating that some evidence of the presence of the GP can be assumed).
 
 Calculating Genome Properties for user-defined data
 ---------------------------------------------------
@@ -15,16 +15,16 @@ Users simply need to upload the TSV file using the Browse/Choose File button on 
 
 Local analysis method
 ---------------------
-Users must first either clone, or download and uncompress a release bundle, from the GitHub repository (https://github.com/ebi-pf-team/genome-properties), and ensure that the perl modules are in the PERL5LIB (i.e $  export PERL5LIB=$PERL5LIB:<path to GPs clone>/code/modules). It is then possible to run **assign_genome_properties.pl** using the TSV file as the input, and specifying the required output format as detailed below.
+Users must first either clone, or download and uncompress a release bundle, from the GitHub repository (https://github.com/ebi-pf-team/genome-properties), and ensure that the perl modules are in the PERL5LIB (i.e $  ``export PERL5LIB=$PERL5LIB:<path to GPs clone>/code/modules``). It is then possible to run ``assign_genome_properties.pl`` using the TSV file as the input, and specifying the required output format as detailed below.
 
 e.g.
-$ <path to GPs clone>/code/scripts/assign_genome_properties.pl -matches INPUT_FILE.tsv -all -name OUTPUT_FILE -gpdir <path to GPs clone> -gpff genomeProperties.txt -outfiles summary
+$ ``<path to GPs clone>/code/scripts/assign_genome_properties.pl -matches INPUT_FILE.tsv -all -name OUTPUT_FILE -gpdir <path to GPs clone> -gpff genomeProperties.txt -outfiles summary``
 
 
-  Available output formats
+::Available output formats
   
   summary: lists only GPs results (YES/NO)
   table: includes individual step results (1/0) as well as GPs results (YES/NO)
   long: includes individual step information and results (YES/NO) as well as GPs results (YES/NO)
-  protein (matches): lists evidences and GPs with protein matches
   web_json: includes individual step results (1/0) as well as GPs results (YES/NO) in json format
+  protein (matches): lists only those evidences and GPs with protein matches
