@@ -20,7 +20,8 @@ Users must first either clone, or download and uncompress a release bundle, from
 e.g.
 ``$ <path to GPs clone>/code/scripts/assign_genome_properties.pl -matches INPUT_FILE.tsv -all -name OUTPUT_FILE -gpdir <path to GPs clone> -gpff genomeProperties.txt -outfiles summary``
 
-  
+
+   
 Available output formats
 
 +--------+------------------------------------------------------------------------------------------+
