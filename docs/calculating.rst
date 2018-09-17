@@ -22,7 +22,8 @@ $ <path to GPs clone>/code/scripts/assign_genome_properties.pl -matches INPUT_FI
 
 ::
 
-  **Available output formats**
+  Available output formats
+  
   summary: lists only GPs results (YES/NO)
   table: includes individual step results (1/0) as well as GPs results (YES/NO)
   long: includes individual step information and results (YES/NO) as well as GPs results (YES/NO)
