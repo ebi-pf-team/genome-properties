@@ -21,8 +21,8 @@ e.g.
 <path to GPs clone>/code/scripts/assign_genome_properties.pl -matches INPUT_FILE.tsv -all -name OUTPUT_FILE -gpdir <path to GPs clone> -gpff genomeProperties.txt -outfiles summary
 
 Available output formats:
-- summary: lists only GPs results (YES/NO)
-- table: includes individual step results (1/0) as well as GPs results (YES/NO)
-- long: includes individual step information and results (YES/NO) as well as GPs results (YES/NO)
-- protein (matches): lists evidences and GPs with protein matches
-- web_json: includes individual step results (1/0) as well as GPs results (YES/NO) in json format
+* summary: lists only GPs results (YES/NO)
+* table: includes individual step results (1/0) as well as GPs results (YES/NO)
+* long: includes individual step information and results (YES/NO) as well as GPs results (YES/NO)
+* protein (matches): lists evidences and GPs with protein matches
+* web_json: includes individual step results (1/0) as well as GPs results (YES/NO) in json format
