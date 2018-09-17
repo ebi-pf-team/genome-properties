@@ -4,8 +4,7 @@ Calculating Genome Properties
 
 The presence or absence of genome properties (GPs) within a given proteome, is calculated based on the matches to the relevant InterPro entries and their associated protein signatures. The evidence (HMM) for each constituent step is tested against the proteome in question, and each step defined as a hit or a miss. The total number of hits is then compared with the threshold level defined for the GP, to determine if the GP resolves to a YES (all required steps are present), NO (too few required steps are present) or PARTIAL (the number of required steps present is greater than the threshold, indicating that some evidence of the presence of the GP can be assumed).
 
-Calculating Genome Properties for user-defined data
----------------------------------------------------
+
 
 It is possible for users to calculate the GPs results for any novel proteome either using the website viewer, or by running the analysis locally using an available script. In either case, users begin with their own query "proteome" in the form of a list of sequences in FASTA format. The InterProScan matches for this proteome must then be calculated. This can either be done using EBI webservices, or by downloading InterProScan and running the calculation locally. By either method, the InterProScan matches must be output as TSV format.
 
