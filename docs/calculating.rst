@@ -18,6 +18,7 @@ Local analysis method
 Users must first either clone, or download and uncompress a release bundle, from the GitHub repository (https://github.com/ebi-pf-team/genome-properties), and ensure that the perl modules are in the PERL5LIB (i.e ``$  export PERL5LIB=$PERL5LIB:<path to GPs clone>/code/modules``). It is then possible to run ``assign_genome_properties.pl`` using the TSV file as the input, and specifying the required output (outfiles) format. The various flags/options are described here:
 
 .. code-block:: none
+
   == Sequence set ==
   One or both of these two options:
   matches <filename|TSV content> : TSV file of InterProScan5 output.
