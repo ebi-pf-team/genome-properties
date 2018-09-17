@@ -15,10 +15,10 @@ Users simply need to upload the TSV file using the Browse/Choose File button on 
 
 Local analysis method
 ---------------------
-Users must first either clone, or download and uncompress a release bundle, from the GitHub repository (https://github.com/ebi-pf-team/genome-properties), and ensure that the perl modules are in the PERL5LIB (i.e $  ``export PERL5LIB=$PERL5LIB:<path to GPs clone>/code/modules``). It is then possible to run ``assign_genome_properties.pl`` using the TSV file as the input, and specifying the required output format as detailed below.
+Users must first either clone, or download and uncompress a release bundle, from the GitHub repository (https://github.com/ebi-pf-team/genome-properties), and ensure that the perl modules are in the PERL5LIB (i.e $  export PERL5LIB=$PERL5LIB:<path to GPs clone>/code/modules). It is then possible to run ``assign_genome_properties.pl`` using the TSV file as the input, and specifying the required output format as detailed below.
 
 e.g.
-$ ``<path to GPs clone>/code/scripts/assign_genome_properties.pl -matches INPUT_FILE.tsv -all -name OUTPUT_FILE -gpdir <path to GPs clone> -gpff genomeProperties.txt -outfiles summary``
+$ <path to GPs clone>/code/scripts/assign_genome_properties.pl -matches INPUT_FILE.tsv -all -name OUTPUT_FILE -gpdir <path to GPs clone> -gpff genomeProperties.txt -outfiles summary
 
 
 ::Available output formats
