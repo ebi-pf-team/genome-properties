@@ -17,32 +17,33 @@ Local analysis method
 ---------------------
 Users must first either clone, or download and uncompress a release bundle, from the GitHub repository (https://github.com/ebi-pf-team/genome-properties), and ensure that the perl modules are in the PERL5LIB (i.e ``$  export PERL5LIB=$PERL5LIB:<path to GPs clone>/code/modules``). It is then possible to run ``assign_genome_properties.pl`` using the TSV file as the input, and specifying the required output (outfiles) format. The various flags/options are described here:
 
-== Sequence set ==
-One or both of these two options:
-matches <filename|TSV content> : TSV file of InterProScan5 output.
-match_source <file|inline> : file or inline. Default is to assume file.
-
-== Calculation options ==
-One of the following three:
-all                      : Calculate against all Genome Properties 
-property <accession>     : Calculate against 
-list     <filename>      : Filename containing a list of Genome Properties that need 
-                         : to be evaluatated.
-
-== Genome Properties files == 
-Both of these are required: 
-gpdir <directory name>   : Genome Properties release directory
-gpff  <filename>         : Name of the flatfile  
-
-Optional:
-eval_order <filename>    : File containing an optimal evaluation order.
-
-== Output options ==
-name <name>              : Output file tag name (required). This will be prefixed 
-                           depending on the outputs requested.
-outdir <directory name>  : Name of the output directory (optional, default pwd).
-outfiles <format>        : Format can be one of the following [summary|long|table|protein|web_json]
-                         : To get multiple output files use option multiple times
+.. code-block:: none
+  == Sequence set ==
+  One or both of these two options:
+  matches <filename|TSV content> : TSV file of InterProScan5 output.
+  match_source <file|inline> : file or inline. Default is to assume file.
+  
+  == Calculation options ==
+  One of the following three:
+  all                      : Calculate against all Genome Properties 
+  property <accession>     : Calculate against 
+  list     <filename>      : Filename containing a list of Genome Properties that need 
+                           : to be evaluatated.
+  
+  == Genome Properties files == 
+  Both of these are required: 
+  gpdir <directory name>   : Genome Properties release directory
+  gpff  <filename>         : Name of the flatfile  
+  
+  Optional:
+  eval_order <filename>    : File containing an optimal evaluation order.
+  
+  == Output options ==
+  name <name>              : Output file tag name (required). This will be prefixed 
+                             depending on the outputs requested.
+  outdir <directory name>  : Name of the output directory (optional, default pwd).
+  outfiles <format>        : Format can be one of the following [summary|long|table|protein|web_json]
+                           : To get multiple output files use option multiple times
 
 
 Example command executed from within /code/scripts/ 
