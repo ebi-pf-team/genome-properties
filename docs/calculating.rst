@@ -60,9 +60,9 @@ $ ./assign_genome_properties.pl -matches INPUT_FILE.tsv -all -name OUTPUT_FILE -
 +--------+------------------------------------------------------------------------------------------+
 |table   | includes individual step results (1/0) as well as GPs results (YES/NO)                   |
 +--------+------------------------------------------------------------------------------------------+
-|long    | includes individual step information and results (YES/NO) as well as GPs results (YES/NO)|
-+--------+------------------------------------------------------------------------------------------+
 |web_json| includes individual step results (1/0) as well as GPs results (YES/NO) in json format    |
++--------+------------------------------------------------------------------------------------------+
+|long    | includes individual step information and results (YES/NO) as well as GPs results (YES/NO)|
 +--------+------------------------------------------------------------------------------------------+
 |match   | lists only those evidences and GPs with protein matches                                  |
 +--------+------------------------------------------------------------------------------------------+
