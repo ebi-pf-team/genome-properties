@@ -12,7 +12,6 @@ use Text::Wrap;
 use LWP::Simple;
 use JSON;
 
-
 sub new {
   my $class = shift;
   
@@ -129,7 +128,7 @@ sub print_table {
     }
     my $evidence_type = join(",", keys(%et));
     
-    $report .= $row."\t".$step->order."\t".$step->step_name."\t".$step->found."\t".$step->required."\t$evidence_type\n";
+    $report .= $row."\t".$step->order."\t".$step->step_name."\t".$step->found."\t".(defined($step->required) ? "YES" : "NO")."\t$evidence_type\n";
   }
   #Now write the report to the filehandle.
   my $tfh = $self->tableFH;
@@ -216,10 +215,9 @@ sub print_matches {
           if($ev->interpro){
             if($self->get_family( $ev->accession ) ){
               my @seqs = @{ $self->get_family( $ev->accession ) };
-              next if(scalar(@seqs)>3);
               foreach my $s (@seqs){
                 #next if($seenSeq->{$s});
-                my $report = $ev->interpro."\t".$ev->accession."\t$s\t".scalar(@seqs);
+                my $report = $ev->interpro."\t".$ev->accession."\t$s\t";
                 print $fh $pDESC."\t$sDESC\t$report\n";
                 #$seenSeq->{$s}++;
                 #last;
@@ -272,7 +270,7 @@ sub open_outputfiles {
         my $fh;
         open($fh, '>', $file) or die "Failed to open $file:[$!]\n";
         $self->jsonFH($fh);
-      }elsif($f eq 'protein'){
+      }elsif($f eq 'match'){
         my $file = $root."/MATCHES_".$self->{name};
         my $fh;
         open($fh, '>', $file) or die "Failed to open $file:[$!]\n";

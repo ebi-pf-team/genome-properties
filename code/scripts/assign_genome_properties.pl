@@ -97,7 +97,7 @@ eval_order <filename>    : File containing an optimal evaluation order.
 name <name>              : Output file tag name (required). This will be prefixed 
                            depending on the outputs requested.
 outdir <directory name>  : Name of the output directory (optional, default pwd).
-outfiles <format>        : Format can be one of the following [summary|long|table|protein|web_json]
+outfiles <format>        : Format can be one of the following [summary|long|table|match|web_json]
                          : To get multiple output files use option multiple times
 
 
