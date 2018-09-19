@@ -10,7 +10,7 @@ It is possible for users to calculate the GPs results for any novel proteome eit
 
 Website/Viewer method
 ---------------------
-Users simply need to upload the TSV file using the Browse/Choose File button on the viewer page. This loads the GPs results into the matrix (with the file name displayed in red) allowing easy comparison of the pattern of assertions for the user-defined proteome, with the set of representative species results. For more information on how to use the viewer, see here #viewer.
+Users simply need to upload the TSV file using the Browse/Choose File button on the viewer page. This loads the GPs results into the matrix (with the file name displayed in red) allowing easy comparison of the pattern of assertions for the user-defined proteome, with the set of representative species results. For more information on how to use the viewer, see here `Viewer <#viewer>`_.
 
 Local analysis method
 ---------------------
