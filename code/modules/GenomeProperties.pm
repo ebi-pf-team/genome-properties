@@ -12,7 +12,6 @@ use Text::Wrap;
 use LWP::Simple;
 use JSON;
 
-
 sub new {
   my $class = shift;
   
@@ -59,11 +58,46 @@ sub write_results{
     $self->print_long($prop) if($self->longFH);
     $self->print_table($prop) if($self->tableFH);
     $self->print_compressed_table($prop) if($self->compTableFH);
+    $self->build_json($prop) if($self->jsonFH);
+    $self->print_matches($prop) if($self->matchFH);
   }
+
+  $self->print_json if($self->jsonFH);
   return(1);
 }
 
-  
+
+sub build_json {
+  my ( $self, $prop ) = @_;
+  my %propj = ( property => $prop->accession,
+                name     => $prop->{name},
+                values   => { $self->{name} => $prop->result,
+                              TOTAL       => { YES     => $prop->result eq 'YES'     ? 1 : 0,
+                                               PARTIAL => $prop->result eq 'PARTIAL' ? 1 : 0,
+                                               NO      => $prop->result eq 'NO'      ? 1 : 0      }});
+
+
+  foreach my $step (sort { $a->order cmp $b->order} @{ $prop->get_steps }){
+    next if($step->skip);
+
+    push(@{ $propj{steps} }, { "step"       => $step->order,
+                               "step_name"  => $step->step_name,
+                               "required"   => defined($step->required) ? 1 : 0,
+                               "values"     => { $self->{name} => $step->found } });
+  }
+
+  $self->{_json}->{$prop->accession}= \%propj;
+  return;
+}
+
+sub print_json {
+  my ($self) = shift;
+
+  my $jfh = $self->jsonFH;
+  print $jfh to_json($self->{_json}, { ascii => 1, pretty => 1 });
+  #print $self->jsonFH $j;
+  return;
+}
 
 sub print_summary {
   my ($self, $prop) = @_;
@@ -94,7 +128,7 @@ sub print_table {
     }
     my $evidence_type = join(",", keys(%et));
     
-    $report .= $row."\t".$step->order."\t".$step->step_name."\t".$step->found."\t".$step->required."\t$evidence_type\n";
+    $report .= $row."\t".$step->order."\t".$step->step_name."\t".$step->found."\t".(defined($step->required) ? "YES" : "NO")."\t$evidence_type\n";
   }
   #Now write the report to the filehandle.
   my $tfh = $self->tableFH;
@@ -136,13 +170,16 @@ sub print_long {
     #	print LONGFORM (".\tSTEP NUMBER: $steps{$step_p}[2]\n.\tSTEP NAME: $steps{$step_p}[3]\n");
     $report .= ".\tSTEP NUMBER: ".$step->order."\n";
     $report .= ".\tSTEP NAME: ".$step->step_name."\n";  
-    $report .= ".\t.\trequired\n" if ($step->required == 1);
+    $report .= ".\t.\trequired\n" if (defined($step->required) and $step->required == 1);
     
     foreach my $ev (@{$step->get_evidence}){
-      if($ev->type eq 'HMM' or $ev->type eq 'HMM-CLUST'){
-        $report .= ".\t.\t".$ev->type.": ".$ev->accession."\n";
-      }elsif($ev->type eq 'GENPROP'){
-        $report .= ".\t.\t".$ev->type.": ".$ev->accession."\n";
+      if($ev->interpro){
+        $report .= ".\t.\tINTERPRO: ".$ev->interpro."; ".$ev->accession."\n";
+      }elsif($ev->gp){
+        $report .= ".\t.\tGENPROP: ".$ev->gp."\n";
+      }else{
+        warn "Unknown step type\n";
+        p($ev);
       }
     }
     #TODO: Does this relate to the step or evidence
@@ -155,7 +192,46 @@ sub print_long {
   print $fh $report;
 
 }	
-	
+
+sub print_matches {
+  my($self, $prop) = @_;
+
+  #Unlike the other views, which are genome property orientated,
+  #this one is gene orientated.
+
+  if($prop->result eq "YES" or $prop->result eq "PARTIAL"){
+    my $fh = $self->matchFH;  
+    my $pDESC = $prop->accession."\t".$prop->name;
+    
+    #TODO switch sort to <=>, once orders are replaced.
+    foreach my $step (sort { $a->order cmp $b->order} @{ $prop->get_steps }){
+      if($step->found == 1){
+        my $sDESC = $step->order."\t".$step->step_name."\t";
+        $sDESC .= "required" if (defined($step->required) and $step->required == 1);
+          
+        foreach my $ev (@{$step->get_evidence}){
+          my $eDESC;
+          my $seenSeq;
+          if($ev->interpro){
+            if($self->get_family( $ev->accession ) ){
+              my @seqs = @{ $self->get_family( $ev->accession ) };
+              foreach my $s (@seqs){
+                #next if($seenSeq->{$s});
+                my $report = $ev->interpro."\t".$ev->accession."\t$s\t";
+                print $fh $pDESC."\t$sDESC\t$report\n";
+                #$seenSeq->{$s}++;
+                #last;
+                
+              }
+            }
+          }
+        }
+      }
+    } 
+  }
+}
+
+
 sub open_outputfiles {
   my ($self) = @_;
     
@@ -189,6 +265,18 @@ sub open_outputfiles {
         my $fh;
         open($fh, '>', $file) or die "Failed to open $file:[$!]\n";
         $self->compTableFH($fh);
+      }elsif($f eq 'web_json'){
+        my $file = $root."/JSON_".$self->{name};
+        my $fh;
+        open($fh, '>', $file) or die "Failed to open $file:[$!]\n";
+        $self->jsonFH($fh);
+      }elsif($f eq 'match'){
+        my $file = $root."/MATCHES_".$self->{name};
+        my $fh;
+        open($fh, '>', $file) or die "Failed to open $file:[$!]\n";
+        $self->matchFH($fh);
+      }else{
+        die "Unknown output type $f\n";
       }
    }
    return 1;
@@ -246,6 +334,32 @@ sub compTableFH {
   return ($self->{compTableFH});
 }
 
+sub jsonFH {
+  my ( $self, $fh ) = @_;
+  
+  if($fh){
+    if(ref($fh) eq "GLOB"){
+      $self->{jsonFH} = $fh;    
+    }else{
+      croak("Filehandle not passed in\n"); 
+    }
+  }
+  return ($self->{jsonFH});
+}
+
+sub matchFH {
+  my ( $self, $fh ) = @_;
+  
+  if($fh){
+    if(ref($fh) eq "GLOB"){
+      $self->{matchFH} = $fh;    
+    }else{
+      croak("Filehandle not passed in\n"); 
+    }
+  }
+  return ($self->{matchFH});
+}
+
 sub removeSummaryFH {
   my ($self);
   delete $self->{summaryFH};
@@ -273,7 +387,9 @@ sub close_outputfiles {
   $self->removeSummaryFH;
   close($self->tableFH) and $self->removeTableFH if ($self->tableFH);
   close($self->compTableFH) if($self->compTableFH);
-  
+  close($self->jsonFH) if($self->jsonFH);
+  close($self->matchFH) if($self->matchFH);
+  #TODO - remove these from the object.
   return(1);
 }
 	
