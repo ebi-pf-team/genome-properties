@@ -10,7 +10,7 @@ Genome properties (GP) is an annotation system whereby functional attributes can
 While it is possible to infer this kind of information through analysis of genomic sequence, using protein family models, like those utilised by InterPro, reduces the number of calculations while at the same time increasing the sensitivity of the query. Integrating the GP annotations into InterPro makes the process of calculating a genome property for any given genome/proteome faster and more accurate than by sequence comparison. The process is further streamlined by the fact that all UniProt sequences, already come with InterPro matches calculated.
 Each GP is defined as a numbered series of biochemical steps, which in turn have some form of evidence determining the presence of the protein required for that step (usually a profile hidden Markov model, or HMM). The property may include steps which are not strictly necessary, but often take place within the process being described. In the calculation of a GP, the evidence for each *required* step is tested against the genome/proteome under query. Where all steps can be encoded by the query genome, the output is a YES. Where some (above a defined threshold level) steps can be shown to be encoded, the output is a PARTIAL. Where no steps can be shown to be encoded (or fewer than the threshold level), the output is a NO.
 
-For more information about calculating Genome Properties, see here [link to Calculation]
+For more information about calculating Genome Properties, see `here <https://wwwdev.ebi.ac.uk/interpro/genomeproperties/#calculating>`_.
 
 
 How to access Genome Properties data
