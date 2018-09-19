@@ -6,15 +6,15 @@ The presence or absence of genome properties (GPs) within a given proteome, is c
 
 
 
-It is possible for users to calculate the GPs results for any novel proteome either using the website viewer, or by running the analysis locally using an available script. In either case, users begin with their own query "proteome" in the form of a list of sequences in FASTA format. The InterProScan matches for this proteome must then be calculated. This can either be done using EBI webservices, or by downloading InterProScan and running the calculation locally. By either method, the InterProScan matches must be output as TSV format.
+It is possible for users to calculate the GPs results for any novel proteome either using the website viewer, or by running the analysis locally using a script available from the GitHub repository. In either case, users begin with their own query "proteome" in the form of a list of protein sequences in FASTA format. The InterProScan matches for this proteome must then be calculated. This can either be done using EBI webservices, or by downloading InterProScan and running the calculation locally. By either method, the InterProScan matches must be output as TSV format. For more information on using InterProScan, please see `here <https://www.ebi.ac.uk/interpro/interproscan.html>`_.
 
 Website/Viewer method
 ---------------------
-Users simply need to upload the TSV file using the Browse/Choose File button on the viewer page. This loads the GPs results into the matrix (with the file name displayed in red) allowing easy comparison of the pattern of assertions for the user-defined proteome, with the set of representative species results. For more information on how to use the viewer, see here `Viewer <#viewer>`_.
+To display the GPs results for your proteome, navigate to the `Viewer <#viewer>`_ page, and upload the TSV file using the Browse/Choose File button at the top left of the page. The GPs results will be loaded into the matrix (with the file name displayed in red) allowing easy comparison of the pattern of assertions for the user-defined proteome, with the set of representative species results.
 
 Local analysis method
 ---------------------
-Users must first either clone, or download and uncompress a release bundle, from the GitHub repository (https://github.com/ebi-pf-team/genome-properties), and ensure that the perl modules are in the PERL5LIB (i.e $  export PERL5LIB=$PERL5LIB:<path to GPs clone>/code/modules). It is then possible to run ``assign_genome_properties.pl`` using the TSV file as the input, and specifying the required output (outfiles) format. 
+Users must first either clone, or download and uncompress a release bundle, from the `GitHub repository <https://github.com/ebi-pf-team/genome-properties>`_, and ensure that the perl modules are in the PERL5LIB (i.e $  export PERL5LIB=$PERL5LIB:<path to GPs clone>/code/modules). It is then possible to run ``assign_genome_properties.pl`` using the TSV file as the input, and specifying the required output (outfiles) format. 
 
 The various flags/options are described here:
 
