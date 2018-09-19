@@ -14,7 +14,7 @@ To display the GPs results for your proteome, navigate to the `Viewer <#viewer>`
 
 Local analysis method
 ---------------------
-Users must first either clone, or download and uncompress a release bundle, from the `GitHub repository <https://github.com/ebi-pf-team/genome-properties>`_, and ensure that the perl modules are in the PERL5LIB (i.e $  export PERL5LIB=$PERL5LIB:<path to GPs clone>/code/modules). It is then possible to run ``assign_genome_properties.pl`` using the TSV file as the input, and specifying the required output (outfiles) format. 
+Users must first either clone, or download and uncompress a release bundle, from the `GitHub repository<https://github.com/ebi-pf-team/genome-properties>`_, and ensure that the perl modules are in the PERL5LIB (i.e $  export PERL5LIB=$PERL5LIB:<path to GPs clone>/code/modules). It is then possible to run ``assign_genome_properties.pl`` using the TSV file as the input, and specifying the required output (outfiles) format. 
 
 The various flags/options are described here:
 
