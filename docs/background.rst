@@ -22,10 +22,10 @@ You can browse to your GP of interest using the hierarchy browser. GPs are arran
 You can also navigate to your GP of interest using the lists of various property types (PATHWAY, SYTEM, GUILD, etc) provided under the Browse tab.
 
 **Browse by Proteome/Genome:**
-You can browse GPs by species/genome/proteome using our customisable viewer. All GPs are calculated against a reference set of proteomes as provided by UniProt. The output of each GP calculation (yes, no or partial) is reported for each species, in the form of a colour coded matrix. This viewer is easily customisable by the user to allow only specified species/proteoms of interest, as well as GPs of interest, to be included and compared. This viewer allows you to quickly and easily compare the overall "fingerprint" of GP content for a set of species, or indeed the species distribution of a set of GPs.
+You can browse GPs by species/genome/proteome using our customisable viewer. All GPs are calculated against a representative set of proteomes as provided by UniProt. The output of each GP calculation (yes, no or partial) is reported for each species, in the form of a colour coded matrix. This viewer is easily customisable by the user to allow only specified species/proteoms of interest, as well as GPs of interest, to be included and compared. This viewer allows you to quickly and easily compare the overall "fingerprint" of GP content for a set of species, or indeed the species distribution of a set of GPs.
 
 **Upload your data:**
-Further to the features of our interactive viewer already described, you are also able to upload your own proteome data and compare this against the reference set of proteomes available. By analysing your proteome of interest using InterProScan, an output file of InterPro matches is produced. This file (tsv version) can be uploaded to the viewer page, allowing you to view the GP results for your proteome of interest in the colour-coded matrix viewer alongside your chosen comparison set of proteomes/species.
+Further to the features of our interactive viewer already described, you are also able to upload your own proteome data and compare this against the representative set of proteomes available. By analysing your proteome of interest using InterProScan, an output file of InterPro matches is produced. This file (tsv version) can be uploaded to the viewer page, allowing you to view the GP results for your proteome of interest in the colour-coded matrix viewer alongside your chosen comparison set of proteomes/species.
 
 Background
 ----------
