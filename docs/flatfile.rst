@@ -2,11 +2,12 @@
 Genome Property Types
 =====================
 
-There are five different types of Genome Properties (GP) represented.
+There are six different types of Genome Properties (GP) represented.
 
 :PATHWAY: These represent groups of proteins that perform biochemical steps in order within a recognised enzymatic pathway.
 :METAPATH: These represent a specific type of PATHWAY where one or more of the steps within the pathway are described by another Genome Property. For the purposes of calculation, METAPATHs are dependent on their respective GP steps.
 :SYSTEM: These represent groups of proteins that work together to fulfil a role, but do not necessarily represent a traditional enzymatic pathway (for example, transport systems).
+:COMPLEX: These represent stable macromolecular complexes.
 :GUILD: These represent groups of proteins sharing overall function, but which do not represent a system.
 :CATEGORY: These are organisational properties that allow the full set of genome properties to be arranged into a hierarchy. These properties are not calculated.
 
