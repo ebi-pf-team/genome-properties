@@ -4,7 +4,9 @@
 #               It allows users to rapidly determine an organism's genome properties when
 #               provided InterProScan output TSV in a isolated enviroment.
 #
-# Usage:        docker run --rm -v $PWD:/root/run leebergstrand/genome-properties:latest
+# Building:     docker build -t genome-properties .
+#
+# Usage:        docker run --rm -v $PWD:/root/run genome-propertie
 #               -matches ./run/ecoli_k12.tsv
 #               -outdir ./run/
 #               -outfiles summary
@@ -14,7 +16,7 @@
 
 FROM perl:latest
 
-MAINTAINER Lee Bergstrand
+MAINTAINER Genome Properties Team (GenProp@ebi.ac.uk)
 
 # Copy directories from the repository into the container.
 COPY code /root/code
