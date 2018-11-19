@@ -11,10 +11,13 @@ For a more in-depth course (> 30 mins) => [Genome Properties Tutorial] (https://
 
 Documentation
 -------------
-We use readthedocs to store all our documentation. You can access the readthedocs for Genome Properties here:
+We use GitHub as our data repository, and readthedocs to store our documentation. You can access the ReadMe file for the GitHub repositiry here:
 
-`http://genome-properties.readthedocs.io/en/latest/index.html <http://genome-properties.readthedocs.io/en/latest/index.html>`_
+[GitHub ReadMe] (https://github.com/ebi-pf-team/genome-properties/blob/master/README.md)
 
+and the documentation for Genome Properties here:
+
+[Genome Properties readthedocs] (http://genome-properties.readthedocs.io/en/latest/index.html)
 
 Publications
 ------------
