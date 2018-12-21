@@ -845,7 +845,7 @@ sub _read_properties_from_flatfile{
       croak("The genome properties file has no size ".$self->_gp_flatfile."\n");
    }
   }else{
-    croak("The geneome properties file, ".$self->_gp_flatfile." does not exist.\n");
+    croak("The genome properties file, ".$self->_gp_flatfile." does not exist.\n");
   }
 }
 
