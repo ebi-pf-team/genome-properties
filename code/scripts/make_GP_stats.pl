@@ -65,7 +65,7 @@ Usage: $0 <options>
 --status (public_and_checked|public|checked)
             : default mode is to ignore the status file and check  everything. 
             :
-            : <public> check all geneome properties that have public status,
+            : <public> check all genome properties that have public status,
             : regardless of their checked status.
             : <checked> check all genome properties that have checked status,
             : regardless of their public status.
