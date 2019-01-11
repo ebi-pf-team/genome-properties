@@ -5,8 +5,8 @@ AU  Haft DH
 TH  0
 RN  [1]
 RM  15629949
-RT  Evidence for two flagellar stators and their role in the motility of
-RT  Pseudomonas aeruginosa.
+RT  Evidence for two flagellar stators and their role in the motility
+RT  of Pseudomonas aeruginosa.
 RA  Toutain CM, Zegans ME, O'Toole GA;
 RL  J Bacteriol. 2005;187:771-777.
 CC  The MotAB complex functions as the stator producing torque in the
@@ -21,12 +21,13 @@ SN  1
 ID  Flagellar motor stator protein MotA
 DN  Flagellar motor stator protein MotA
 RQ  1
-EV  IPR002898; PF01618;
-EV  IPR022522; TIGR03818;
+EV  IPR000540; PS01307; sufficient;
+EV  IPR022522; TIGR03818; sufficient;
+EV  IPR022522; PTHR30433:SF4; sufficient;
 --
 SN  2
 ID  Flagellar motor stator protein MotB
 DN  Flagellar motor stator protein MotB
 RQ  1
-EV  IPR006665; PF00691;
+EV  IPR025713; PF13677; sufficient;
 //
