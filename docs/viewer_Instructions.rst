@@ -3,7 +3,7 @@ How to use the Genome Properties Viewer
 
 When you open the viewer page, you may see a temporary loading page initially. This should clear in a few seconds to display the loaded viewer ready to use.
 
-.. |fig1| image::  _static/images/viewer_landing_instructions.png
+.. |fig1| image::  _static/images/viewer_landing_instructions_small.png
 
 |fig1|
 
