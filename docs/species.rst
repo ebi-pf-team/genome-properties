@@ -6,4 +6,4 @@ Genome Properties results are calculated for a representative set of species for
 
 The list of species currently included in this set can be found within the GitHub repository, here:
 
-https://github.com/ebi-pf-team/genome-properties/blob/master/flatfiles/proteome_list.csv
+`proteome_list.csv <https://github.com/ebi-pf-team/genome-properties/blob/master/flatfiles/proteome_list.csv>`_.
