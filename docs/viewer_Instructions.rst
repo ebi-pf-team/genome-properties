@@ -3,11 +3,15 @@ How to use the Genome Properties Viewer
 
 When you open the viewer page, you may see a temporary loading page initially. This should clear in a few seconds to display the loaded viewer ready to use.
 
-.. |fig1| image::  _static/images/Instructions_figure.png
+.. |fig1| image::  _static/images/viewer_landing_instructions.png
 
 |fig1|
 
 The taxonomic tree is displayed in red below the search options at the top of the page (A). By default the root node will be open showing the first level of taxonomic classification, Archea, Eukaryota, and Bacteria. The numbers next to each node name indicate the number of species within that node. To drill down further into the tree, you can single click on the white 'plus' sign on any node to open up the next level of classification within that node. To close the node again, click on the white 'triangle' shown within the open node.
+
+.. |fig2| image::  _static/images/Instructions_figure.png
+
+|fig2|
 
 When you have selected a particular node or species that you are interested in, you can load the pre-calculated Genome Properties results for those species by double clicking on the node of interest. The data is loaded as a matrix, where each column represents a species, and each row represents a Genome Property. The colours indicate the result for that property in that species: dark blue - YES, light blue - PARTIAL, grey - NO. To see the individual step results, click on the double arrow after the property name on the left of the matrix (B). To see this in more detail (including the step names) click on the white 'plus' symbol that appears next to the expanded step matrix (C). Within the step results, the green boxes denote a step-match has been found.
 
