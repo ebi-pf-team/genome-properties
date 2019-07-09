@@ -17,7 +17,7 @@ When you have selected a particular node or species that you are interested in, 
 
 The individual species nodes can be manually rearranged within the tree by clicking and dragging. Additionally there are a selection of automatic ordering options available by clicking on the icon above the zoom controls at the top left of matrix window **(D)**.
 
-Above the tree, are various options to add to, or filter data included in the matrix. 
+Above the tree are various options to add to, or filter data included in the matrix. 
 
 * **Load Genome Properties** - **(E)** Rather than navigate through the tree, you can search for the name or taxonomic identifier of any species you would like to load data for, using the search box shown. The list of species available can be found under the *Species* tab or `here <https://github.com/ebi-pf-team/genome-properties/blob/master/flatfiles/proteome_list.csv>`_. You are also able to uplaod data for a novel genome/proteome/species using the 'Browse' button. To utilise this functionality, you must first analyse the FASTA files containined in your novel species using InterProScan. The tsv output provided by InterProScan can then be uploaded to the Genome Properties viewer for comparison with representative spcies. For more information on using InterProScan see `here <https://www.ebi.ac.uk/interpro/interproscan.html>`_.
 
