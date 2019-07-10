@@ -11,16 +11,19 @@ For a more in-depth course (> 30 mins) => [Genome Properties Tutorial] (https://
 
 Documentation
 -------------
-We use readthedocs to store all our documentation. You can access the readthedocs for Genome Properties here:
+We use GitHub as our data repository, and readthedocs to store our documentation. You can access the ReadMe file for the GitHub repositiry here:
 
-`http://genome-properties.readthedocs.io/en/latest/index.html <http://genome-properties.readthedocs.io/en/latest/index.html>`_
+[GitHub ReadMe] (https://github.com/ebi-pf-team/genome-properties/blob/master/README.md)
 
+and the documentation for Genome Properties here:
+
+[Genome Properties readthedocs] (http://genome-properties.readthedocs.io/en/latest/index.html)
 
 Publications
 ------------
 **To cite Genome Properties, please refer to the following publication:**
 
-Richardson LJ, Rawlings ND, Salazar GA, Almeida A, Haft DR, Ducq G, Sutton GG, Finn RD. Genome properties in 2019: a new companion database to InterPro for the inference of complete functional attributes. Nucleic Acids Res. 2018 Oct . doi:10.1093/nar/gky1013. PMID: 30364992.
+Richardson LJ, Rawlings ND, Salazar GA, Almeida A, Haft DR, Ducq G, Sutton GG, Finn RD. Genome properties in 2019: a new companion database to InterPro for the inference of complete functional attributes. Nucleic Acids Res. 2018 Oct. doi:10.1093/nar/gky1013. PMID: 30364992.
 [doi:10.1093/nar/gky1013] (https://doi.org/10.1093/nar/gky1013) 
 
 
