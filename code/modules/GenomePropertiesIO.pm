@@ -549,7 +549,6 @@ sub parseDESC {
             last REFLINE;
           }
           my ($nextTag) = $file[ $j + 1 ] =~ /^(\S{2})/;
-
           if(!defined($nextTag)){
             die "Bad reference format\n";
           }
@@ -569,7 +568,7 @@ sub parseDESC {
             last REFLINE;
           }
           else {
-            confess("Bad references fromat. Got $thisTag then $nextTag ");
+            confess("Bad references format. Got $thisTag then $nextTag ");
           }
         }
       }
@@ -679,7 +678,6 @@ sub parseSteps {
   my @steps;
   my %step;
   for (  ; $$i <scalar(@{$file}) ; $$i++ ) {
-      
     my $l = $file->[$$i];
     chomp($l);
     if ( length($l) > $expLen ) {
@@ -696,59 +694,102 @@ sub parseSteps {
       }
       $step{$1} = $2;
       next;
-    }elsif($l =~ /^EV\s{2}(IPR\d{6});\s(\S+);\s(\S+);$/){
-        my $ipr = $1;
-        my $sig = $2;
-        my $suf = $3;
-        my $nl = $file->[$$i + 1];
-        my $go = [];
-        while($nl =~ /^TG\s{2}(GO\:\d+)/){
-          push(@$go, $1);
-          $$i++;
-          $nl = $file->[$$i + 1];
+      }
+    elsif($l =~ /^EV\s{2}(IPR\d{6});\s(\S+);\s(\S+);$/){
+      my $ipr = $1;
+      my $sig = $2;
+      my $suf = $3;
+      my $nl = $file->[$$i + 1];
+      my $go = [];
+      while($nl =~ /^TG\s{2}(GO\:\d+)/){
+        push(@$go, $1);
+        $$i++;
+        $nl = $file->[$$i + 1];
         }
-        push(@{$step{EVID}}, { ipr => $ipr, sig => $sig, sc => $suf, go => $go });
-    }elsif($l =~ /^EV\s{2}(IPR\d{6});\s(\S+);$/){
-        my $ipr = $1;
-        my $sig = $2;
-        my $nl = $file->[$$i + 1];
-        my $go = [];
-        while($nl =~ /^TG\s{2}(GO\:\d+);$/){
-          push(@$go, $1);
-          $$i++;
-          $nl = $file->[$$i + 1];
+      push(@{$step{EVID}}, { ipr => $ipr, sig => $sig, sc => $suf, go => $go });
+      }
+    elsif($l =~ /^EV\s{2}(IPR\d{6});\s(\S+);$/){
+      my $ipr = $1;
+      my $sig = $2;
+      my $suf = "insufficient";
+      my $nl = $file->[$$i + 1];
+      my $go = [];
+      while($nl =~ /^TG\s{2}(GO\:\d+);$/){
+        push(@$go, $1);
+        $$i++;
+        $nl = $file->[$$i + 1];
         }
-        push(@{$step{EVID}}, { ipr => $ipr, sig => $sig, go => $go });
-
-    }elsif($l =~ /^EV\s{2}(GenProp\d{4});$/){
-        my $gp = $1;
-        my $nl = $file->[$$i + 1];
-        my $go = [];
-        while($nl =~ /^TG\s{2}(GO\:\d+);$/){
-          push(@$go, $1);
-          $$i++;
-          $nl = $file->[$$i + 1];
+      push(@{$step{EVID}}, { ipr => $ipr, sig => $sig, sc => $suf, go => $go });
+      }
+    elsif($l =~ /^EV\s{2}(GenProp\d{4});$/){
+      my $gp = $1;
+      my $nl = $file->[$$i + 1];
+      my $go = [];
+      while($nl =~ /^TG\s{2}(GO\:\d+);$/){
+        push(@$go, $1);
+        $$i++;
+        $nl = $file->[$$i + 1];
         }
-        push(@{$step{EVID}}, { gp => $gp, go => $go });
-    }elsif($l =~ /^--$/){  
+      push(@{$step{EVID}}, { gp => $gp, go => $go });
+      }
+    elsif($l =~ /^EV\s{2}(c[d|l]\d{5});$/){
+      my $sig = $1;
+      my $nl = $file->[$$i + 1];
+      my $go = [];
+      while($nl =~ /^TG\s{2}(GO\:\d+);$/){
+        push(@$go, $1);
+        $$i++;
+        $nl = $file->[$$i + 1];
+        }
+      push(@{$step{EVID}}, { sig => $sig, go => $go });
+      }
+    elsif($l =~ /^EV\s{2}(SSF\d{5});$/){
+      my $sig = $1;
+      my $nl = $file->[$$i + 1];
+      my $go = [];
+      while($nl =~ /^TG\s{2}(GO\:\d+);$/){
+        push(@$go, $1);
+        $$i++;
+        $nl = $file->[$$i + 1];
+        }
+      push(@{$step{EVID}}, { sig => $sig, go => $go });
+      }
+    elsif($l =~ /^EV\s{2}(G3DSA.*);$/){
+      my $sig = $1;
+      my $nl = $file->[$$i + 1];
+      my $go = [];
+      while($nl =~ /^TG\s{2}(GO\:\d+);$/){
+        push(@$go, $1);
+        $$i++;
+        $nl = $file->[$$i + 1];
+        }
+      push(@{$step{EVID}}, { sig => $sig, go => $go }); 
+      }
+    elsif($l =~ /^EV\s{2}(PTHR.*);$/){
+      my $sig = $1;
+      my $nl = $file->[$$i + 1];
+      my $go = [];
+      while($nl =~ /^TG\s{2}(GO\:\d+);$/){
+        push(@$go, $1);
+        $$i++;
+        $nl = $file->[$$i + 1];
+        }
+      push(@{$step{EVID}}, { sig => $sig, go => $go });
+      }
+    elsif($l =~ /^--$/){  
       push(@steps, clone(\%step));
       %step = ();
-    }elsif($l =~ /\/\//){
+      }
+    elsif($l =~ /\/\//){
       push(@steps, clone(\%step));
       last;
-    }else {
-      my $msg = "Failed to parse the DESC line (enclosed by |):|$l|\n\n"
-        . "-" x 80 . "\n";
-
-      #croak($msg);
-      die $msg;
-
-#confess("Failed to parse the DESC line (enclosed by |):|$file[$i]|\n\n". "-" x 80 ."\n");
+      }
+    else {
+      die "Failed to parse the DESC line (enclosed by |):|$l|\n\n". "-" x 80 . "\n";
+      }
     }
-  }
-  
   return(\@steps);
-}
+  }
 
 sub _checkStatus {
   my($dir, $options) = @_;
