@@ -220,7 +220,7 @@ sub _read_properties_from_flatfile{
 
   if( -e $self->_gp_flatfile){
     if( -s $self->_gp_flatfile ){ 
-      GenomePropertiesIO::parseFlatfile($self, $self->_gp_flatfile);   
+      GenomePropertiesIOMeta::parseFlatfile($self, $self->_gp_flatfile);   
       }
     else{
       croak("The genome properties file has no size ".$self->_gp_flatfile."\n");
