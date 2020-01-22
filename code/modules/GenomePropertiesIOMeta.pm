@@ -500,7 +500,7 @@ sub parseDESC {
   for ( my $i = 0 ; $i <= $#file ; $i++ ) {
    
    $ac = $2 if($file[$i] =~ /^(AC)\s{2}(.*)$/);
-   return if (!grep {/$ac/} @{$to_evaluate});
+   return if ((!grep {/$ac/} @{$to_evaluate}) && (scalar @{$to_evaluate} > 0));
     
     my $l = $file[$i];
     chomp($l);
