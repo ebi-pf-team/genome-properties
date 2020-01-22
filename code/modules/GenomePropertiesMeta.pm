@@ -7,7 +7,7 @@ use Carp;
 use GenomeProperties::DefinitionMeta;
 use GenomeProperties::StepMeta;
 use GenomeProperties::StepEvidence;
-use GenomePropertiesIO;
+use GenomePropertiesIOMeta;
 use Text::Wrap;
 use LWP::Simple;
 use JSON;
@@ -44,7 +44,8 @@ sub set_options {
   $input++ if (defined($options->{all}));
   $input++ if ($options->{list});
   $input++ if ($options->{property});
-   
+
+  
   if ($input > 1){
 	die "Only one form of input please\n";
     }
@@ -54,10 +55,31 @@ sub set_options {
   
   foreach my $k (keys %{$options}){
     $self->{$k} = $options->{$k};
+     }
+  
+  if (defined ($options->{list})){
+    my @to_evaluate;
+    open( my $lh, $options->{list} ) or die "Could not open list of GenProps\n";
+    while (<$lh>) {
+      chomp $_;
+      push (@to_evaluate, $_);
+      }
+    close $lh;
+    my @evaluating = @to_evaluate;
+    $self->{_to_evaluate}=\@to_evaluate;
+    $self->{_evaluating}=\@evaluating;
     }
-
+  elsif (defined ($options->{property})){
+    my @to_evaluate;
+    $to_evaluate[0]=$options->{property}; 
+    my @evaluating = @to_evaluate;
+    $self->{_to_evaluate}=\@to_evaluate;
+    $self->{_evaluating}=\@evaluating;
+    }
   die "Please provide a GenomeProperties path and flatfile\n" if(!$options->{gpdir} or !$options->{gpff});
   die "Please provide an output file\n" if(!$options->{name});
+  die "Invalid output folder\n" if (($options->{outdir}) && (! -e $options->{outdir}) && (! -d $options->{outdir}));
+  
   return 1;
   }
 
@@ -376,7 +398,7 @@ sub annotate_sequences {
   my($self) = @_;
 
   #Read from match file if defined
-  die "Can only run using pre-calculated i5 output\n" unless ($self->signature_matches);
+  die "Can only run using pre-calculated interpro output\n" unless ($self->signature_matches);
 
   $self->transform_annotations;
   $self->annotated(1);
@@ -389,18 +411,16 @@ sub signature_matches {
     my @mb;
     opendir my $dh, $self->{matches_dir} or crack ( "Failed to open ".$self->{matches_dir}."\n");
     while (my $file = readdir $dh) {
-      my $ext = $self->{ext};
-      next if ($file !~ /$ext$/);
+      next if ($file !~ /$self->{ext}$/);
       $file =  $self->{matches_dir}."/".$file;
       open(my $FH, '<', $file) or die "Could not open signature matches file: ".$file."\n";
-      $file =~ s/^$self->{matches_dir}\/(.*?)\.$self->{ext}$//;
-      my $prot = $1;
+      my $prot = $1 if ($file =~ /^$self->{matches_dir}\/(.*?)\.$self->{ext}$/);
       @mb = <$FH>;
       close($FH);
       foreach my $line (@mb){
         chomp($line);
         my @i5 = split(/\t/, $line);
-        push(@{ $self->{seqs_and_annotations}->{$prot}->{$i5[0]} }, $i5[4]);
+        push(@{$self->{seqs_and_annotations}->{$prot}->{$i5[0]}}, $i5[4]);
         }
       }
       $self->{read_sig} =1;  
@@ -462,7 +482,7 @@ sub check_results{
     #Some property types are not required to be evaluated.
     #The only ones that will be skipped as it is, are "CATEGORY", "ROOT" and "SUMMARY"
     next if ( $self->skip_def( $self->get_def($acc)->type )); 
-    
+    next if ((defined $self->{_to_evaluate}) && (scalar @{$self->{_to_evaluate}} > 0) && (!grep {/$acc/} @{$self->{_evaluating}}));
     #Evaluate the property, two scenarios, not tested, or tested and it had an unevaluated dependency
     if (!defined($self->get_def($acc)->evaluated) or $self->get_def($acc)->evaluated == 0 ){
       $self->evaluate_property($acc);	  
@@ -557,6 +577,7 @@ sub evaluate_property {
 sub evaluate_step {
   my($self, $step) = @_;
   my @succeed;
+ # print "In step: ".$step->order."\tTo evaluate: ".scalar @{$self->{_to_evaluate}}."\tEvaluating: ".@{$self->{_evaluating}}."\n";
 
   $step->evaluated(1);
   print "Evaluating ".$step->step_name."\n" if ($self->{debug});
@@ -574,6 +595,7 @@ sub evaluate_step {
         print "\tev type is: ".$evObj->type."\n" if ($self->{debug});
         }
       elsif (defined $evObj->gp){
+        push (@{$self->{_evaluating}}, $evObj->gp) if (defined $self->{_to_evaluate});
         print "\tevidence is ".$evObj->gp."\n" if ($self->{debug});
         }
       else {
@@ -634,10 +656,10 @@ sub write_results{
     my $fh = $self->tableFH;
     print $fh  "acc\tdescription\tproperty_value\tstep_number\tstep_name\tstep_value\trequired?\tevidence_type\tevidence_name\tbest_HMM_hit\tHMM_hit_count\n";
     }
-  
   foreach my $acc (sort{$a cmp $b}keys(% { $self->get_defs })){
     my $prop = $self->get_def($acc);
-    next if(defined( $self->{_skip}->{ $prop->type } ));
+    next if (defined( $self->{_skip}->{ $prop->type } ));
+    next if ((defined $self->{_to_evaluate}) && (!grep {/$acc/} @{$self->{_to_evaluate}}));
     $self->print_summary($prop) if($self->summaryFH and fileno($self->summaryFH));
     $self->print_long($prop) if($self->longFH);
     $self->print_table($prop) if($self->tableFH);
@@ -753,8 +775,7 @@ sub print_compressed_table {
       }
     }
   
-  $row .= "\t[".join(",", @stepRes)."]";
-  $row .= "\n";
+  $row .= "\t[".(join(",", @stepRes))."]\n";
   #Now write the report to the filehandle.
   my $tfh = $self->compTableFH;
   print $tfh $row;

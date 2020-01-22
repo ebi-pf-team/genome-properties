@@ -1,4 +1,4 @@
-package GenomePropertiesIO;
+package GenomePropertiesIOMeta;
 
 use strict;
 use warnings;
@@ -428,20 +428,7 @@ sub parseGpFASTA {
 
 sub parseFlatfile {
   my ($gp, $file) = @_;
-  my @to_evaluate;
   
-  if (defined ($gp->{list})){
-    open( my $lh, $gp->{list} ) or die "Could not open list of GenProps\n";
-    while (<$lh>) {
-      chomp $_;
-      push (@to_evaluate, $_);
-      }
-    close $lh;
-    }
-  elsif (defined ($gp->{property})){
-    $to_evaluate[0]=$gp->{property}; 
-    }
-    
   open(F, "<", $file) or die "Could not open $file\n";
   $/ = "//";
   while(<F>){
@@ -450,7 +437,7 @@ sub parseFlatfile {
       
     shift(@file) if(defined($file[0]) and $file[0] eq "");
     if(scalar(@file)){
-      parseDESC(\@file, $gp, {}, \@to_evaluate);
+      parseDESC(\@file, $gp, {});
     }
     $/ = "//";
   }
@@ -460,8 +447,7 @@ sub parseFlatfile {
 }
 
 sub parseDESC {
-  my ( $file, $gp, $options, $to_evaluate) = @_;
-
+  my ( $file, $gp, $options) = @_;
   my @file;
   if ( ref($file) eq "GLOB" ) {
     @file = <$file>;
@@ -477,8 +463,6 @@ sub parseDESC {
 
   my %params;
   my $expLen = 80;
-  my $ac = "";
-
   my $refTags = {
     RC => {
       RC => 1,
@@ -498,9 +482,6 @@ sub parseDESC {
   };
 
   for ( my $i = 0 ; $i <= $#file ; $i++ ) {
-   
-   $ac = $2 if($file[$i] =~ /^(AC)\s{2}(.*)$/);
-   return if ((!grep {/$ac/} @{$to_evaluate}) && (scalar @{$to_evaluate} > 0));
     
     my $l = $file[$i];
     chomp($l);
@@ -700,9 +681,7 @@ sub parseSteps {
 
     if ( $l =~ /^(SN|ID|DN|EC|RQ)\s{2}(.*)$/ ) {
       if(exists($step{$1})){
-        confess("\nFound more than one line containing the $1 tag\n\n"
-         . "-" x 80
-                . "\n" );  
+        confess("\nFound more than one line containing the $1 tag\n\n". "-" x 80 ."\n" );  
       }
       $step{$1} = $2;
       next;
@@ -766,7 +745,7 @@ sub parseSteps {
         }
       push(@{$step{EVID}}, { ipr => "Unintegrated", sig => $sig, go => $go });
       }
-    elsif($l =~ /^EV\s{2}(G3DSA.*);$/){
+    elsif($l =~ /^EV\s{2}(G3DSA\S+);$/){
       my $sig = $1;
       my $nl = $file->[$$i + 1];
       my $go = [];
@@ -777,7 +756,7 @@ sub parseSteps {
         }
       push(@{$step{EVID}}, { ipr => "Unintegrated", sig => $sig, go => $go }); 
       }
-    elsif($l =~ /^EV\s{2}(PTHR.*);$/){
+    elsif($l =~ /^EV\s{2}(PTHR\S+);$/){
       my $sig = $1;
       my $nl = $file->[$$i + 1];
       my $go = [];
