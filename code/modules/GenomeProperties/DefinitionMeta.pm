@@ -1,4 +1,5 @@
 package GenomeProperties::DefinitionMeta;
+use Array::Utils qw(:all);
 
 sub new {
   my $class = shift;
@@ -147,6 +148,33 @@ sub private {
   my ($self) = @_;
   return($self->{private});
 }
+
+sub minimum_subgroup {
+  my ($self, $hash_ref) =@_;
+  my %minimum = %$hash_ref;
+  my $counter=1;
+  my $chunk="chunk".$counter;
+  if ((%minimum) && (scalar (keys %minimum) >= 1)){
+    foreach my $k (sort {$a <=> $b} keys %minimum) {
+      if ($k == 1) {
+        @{$minimum{$chunk}{members}} = @{$minimum{$k}{members}};
+        }
+      elsif (intersect (@{$minimum{$k}{members}}, @{$minimum{$chunk}{members}})) {
+        my @intersect = intersect(@{$minimum{$k}{members}}, @{$minimum{$chunk}{members}});
+        @{$minimum{$chunk}{members}} = @intersect;
+        }
+      else {
+        $counter++;
+        $chunk="chunk".$counter;
+        @{$minimum{$chunk}{members}} = @{$minimum{$k}{members}};
+        } 
+      push (@{$minimum{$chunk}{steps}}, $k);
+      delete $minimum{$k};
+      }
+    }
+  $self->{_minimum_subgroup} = \%minimum;
+  return($self->{_minimum_subgroup});
+  }
 
 sub checkConnection {
   my ($self, $gps, $connect) = @_;
