@@ -76,6 +76,7 @@ sub set_options {
     $self->{_to_evaluate}=\@to_evaluate;
     $self->{_evaluating}=\@evaluating;
     }
+    
   die "Please provide a GenomeProperties path and flatfile\n" if(!$options->{gpdir} or !$options->{gpff});
   die "Please provide an output file\n" if(!$options->{name});
   die "Invalid output folder\n" if (($options->{outdir}) && (! -e $options->{outdir}) && (! -d $options->{outdir}));
@@ -125,11 +126,31 @@ sub open_outputfiles {
       open(my $fh, '>', $file) or die "Failed to open $file:[$!]\n";
       $self->matchFH($fh);
       }
+    elsif($f eq 'minimum'){
+      my $file = $root."/MINIMUM_META_".$self->{name};
+      open(my $fh, '>', $file) or die "Failed to open $file:[$!]\n";
+      $self->minimumFH($fh);
+      }      
     else{
       die "Unknown output type $f\n";
       }
     }
   }
+
+
+sub minimumFH {
+  my ( $self, $fh ) = @_;
+  if($fh){
+    if(ref($fh) eq "GLOB"){
+      $self->{minimumFH} = $fh;    
+      }
+    else{
+      croak("Filehandle not passed in\n"); 
+      }
+    }
+    return ($self->{minimumFH});
+  }
+
 
 sub longFH {
   my ( $self, $fh ) = @_;
@@ -534,6 +555,7 @@ sub evaluate_property {
   my %found;
   my @missing;
   my @members;
+  my %minimum;
   print "In evaluate property, $acc\n" if ($self->{debug});
 
   my $def = $self->get_def($acc);
@@ -549,10 +571,16 @@ sub evaluate_property {
       }
     if($step->{found}){
       $found{$step->{order}} = $step->found;
+      push (@members, $step->found);
+      push (@{$minimum{$step->{order}}{members}}, @{$step->found});
       }
     elsif($step->required and $step->skip != 1){
       push (@missing, $step);
-      }    
+      push (@{$minimum{$step->{order}}{members}}, "NO");
+      }
+    else {
+      push (@{$minimum{$step->{order}}{members}}, "NO");
+      }       
     }
   #Three possible results for the evaluation
   if(scalar (keys %found) == 0 or scalar (keys %found) <= $def->threshold){
@@ -564,14 +592,9 @@ sub evaluate_property {
   else{
     $def->result('YES'); #All steps found.
     }
-
-  if(scalar (keys %found) > $def->threshold){
-    foreach my $step (keys %found){
-      push (@members, @{$found{$step}});
-      }
-    @members = uniq(@members);
-    $def->members(@members);
-    }
+  @members = uniq(@members);
+  $def->members(@members);
+  $def->minimum_subgroup(\%minimum);
   } 
   
 sub evaluate_step {
@@ -666,6 +689,7 @@ sub write_results{
     $self->print_compressed_table($prop) if($self->compTableFH);
     $self->build_json($prop) if($self->jsonFH);
     $self->print_matches($prop) if($self->matchFH);
+    $self->print_minimum($prop) if($self->minimumFH);
     }
 
   $self->print_json if($self->jsonFH);
@@ -683,8 +707,7 @@ sub print_long {
   my($self, $prop) = @_;
   my $report = "PROPERTY: ".$prop->accession."\n";
   $report .= $prop->name."\n";
-  #TODO switch sort to <=>, once orders are replaced.
-  foreach my $step (sort { $a->order cmp $b->order} @{ $prop->get_steps }){
+  foreach my $step (sort { $a->order <=> $b->order} @{ $prop->get_steps }){
     #	print LONGFORM (".\tSTEP NUMBER: $steps{$step_p}[2]\n.\tSTEP NAME: $steps{$step_p}[3]\n");
     $report .= ".\tSTEP NUMBER: ".$step->order."\n";
     $report .= ".\tSTEP NAME: ".$step->step_name."\n";  
@@ -705,7 +728,7 @@ sub print_long {
       
     #TODO: Does this relate to the step or evidence
     if ($step->found) {
-      $report .= ".\tSTEP RESULT: ".(join ", ", @{$step->found})."\n";  
+      $report .= ".\tSTEP RESULT: ".(join ", ", sort @{$step->found})."\n";  
       }
     else {
       $report .= ".\tSTEP RESULT: NO\n";
@@ -714,7 +737,7 @@ sub print_long {
     
   $report .= "RESULT: ".$prop->result."\n";
   if (defined $prop->members) {
-    $report .= "MEMBERS: ".(join ",", @{$prop->members})."\n";
+    $report .= "MEMBERS: ".(join ",", sort @{$prop->members})."\n";
     }
   else {
     $report .= "MEMBERS: 0\n";   
@@ -837,6 +860,26 @@ sub print_matches {
         }
       }
     }
+  }
+
+sub print_minimum {
+  my($self, $prop) = @_;
+  my $report;
+  foreach my $chunk (sort keys %{$prop->{_minimum_subgroup}}) {
+    $report .= "PROPERTY: ".$prop->accession."\t";
+    print "PROPERTY: ".$prop->accession."\t";
+    my $range;
+    if (scalar @{$prop->{_minimum_subgroup}{$chunk}{steps}} > 1) {
+      $range = ${$prop->{_minimum_subgroup}{$chunk}{steps}}[0]."-".${$prop->{_minimum_subgroup}{$chunk}{steps}}[-1];
+       }
+    else {
+      $range = ${$prop->{_minimum_subgroup}{$chunk}{steps}}[0];
+      }  
+    $report .= "\tSTEP NUMBERS: ".$range."\tMEMBERS: ".(join ",", @{$prop->{_minimum_subgroup}{$chunk}{members}})."\n";    
+    print "\tSTEP NUMBERS: ".$range."\tMEMBERS: ".(join ",", @{$prop->{_minimum_subgroup}{$chunk}{members}})."\n";    
+    }
+  my $fh = $self->minimumFH;  
+  print $fh $report;
   }
   
 sub print_json {
