@@ -592,9 +592,11 @@ sub evaluate_property {
   else{
     $def->result('YES'); #All steps found.
     }
+  print "Members in prop: ".$acc."\n";
   @members = uniq(@members);
   $def->members(@members);
-  $def->minimum_subgroup(\%minimum);
+  print "Minimum in prop: ".$acc."\n";
+  $def->minimum_subgroup(\%minimum) if (($def->type eq "PATHWAY") || ($def->type eq "METAPATH") );
   } 
   
 sub evaluate_step {
@@ -628,7 +630,8 @@ sub evaluate_step {
         if(defined($self->get_defs->{ $evObj->gp })){
           # For properties a PARTIAL or YES result is considered success           
           if( $self->get_defs->{ $evObj->gp }->result eq 'YES' or $self->get_defs->{ $evObj->gp }->result eq 'PARTIAL' ){
-              push (@succeed, @{$self->get_defs->{ $evObj->gp }->members});
+            print "Step: ".$step->order."\tMembers: ".(join "; ", @{$self->get_defs->{ $evObj->gp }->members})."\n";
+            push (@succeed, @{$self->get_defs->{ $evObj->gp }->members});
             }
           elsif($self->get_defs->{ $evObj->gp }->result eq 'UNTESTED'){
             $step->evaluated(0);  
@@ -864,22 +867,17 @@ sub print_matches {
 
 sub print_minimum {
   my($self, $prop) = @_;
-  my $report;
-  foreach my $chunk (sort keys %{$prop->{_minimum_subgroup}}) {
-    $report .= "PROPERTY: ".$prop->accession."\t";
-    print "PROPERTY: ".$prop->accession."\t";
-    my $range;
-    if (scalar @{$prop->{_minimum_subgroup}{$chunk}{steps}} > 1) {
-      $range = ${$prop->{_minimum_subgroup}{$chunk}{steps}}[0]."-".${$prop->{_minimum_subgroup}{$chunk}{steps}}[-1];
-       }
-    else {
-      $range = ${$prop->{_minimum_subgroup}{$chunk}{steps}}[0];
-      }  
-    $report .= "\tSTEP NUMBERS: ".$range."\tMEMBERS: ".(join ",", @{$prop->{_minimum_subgroup}{$chunk}{members}})."\n";    
-    print "\tSTEP NUMBERS: ".$range."\tMEMBERS: ".(join ",", @{$prop->{_minimum_subgroup}{$chunk}{members}})."\n";    
-    }
   my $fh = $self->minimumFH;  
-  print $fh $report;
+  unless (($prop->type eq "PATHWAY") || ($prop->type eq "METAPATH")) {
+    warn "Can't calculate minimum group for".$prop->accession." because it's not a (meta)pathway\n";
+    return;
+    }
+  for (my $i=1; $i < (scalar @{$prop->{_minimum_subgroup}}); $i++) { 
+    my $report;
+    $report .= "PROPERTY: ".$prop->accession."\t";
+    $report .= $prop->{_minimum_subgroup}[$i]."\n"; 
+    print $fh $report;
+    }
   }
   
 sub print_json {
