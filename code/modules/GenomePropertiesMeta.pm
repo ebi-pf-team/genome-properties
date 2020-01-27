@@ -576,10 +576,10 @@ sub evaluate_property {
       }
     elsif($step->required and $step->skip != 1){
       push (@missing, $step);
-      push (@{$minimum{$step->{order}}{members}}, "NO");
+      push (@{$minimum{$step->{order}}{members}}, "MISSING");
       }
     else {
-      push (@{$minimum{$step->{order}}{members}}, "NO");
+      push (@{$minimum{$step->{order}}{members}}, "MISSING");
       }       
     if ($def->type eq "METAPATH") {
       my $evRef = $step->get_evidence;
@@ -612,9 +612,12 @@ sub evaluate_property {
   # Again, this hash is passed to the subroutine to find the new subgroup.
   elsif (($self->{minimumFH}) && ($def->type eq "METAPATH")) {
    foreach my $k (keys %minimum) {
-     my @aux=@{$self->get_defs->{$minimum{$k}{gp}}->{_minimum_subgroup}};
-     @{$minimum{$k}{members}}=@aux;
-     delete $minimum{$k}{gp};
+     if (defined $self->get_defs->{$minimum{$k}{gp}}->{_minimum_subgroup}) {
+       @{$minimum{$k}{members}}=@{$self->get_defs->{$minimum{$k}{gp}}->{_minimum_subgroup}};
+       }
+     else  {
+       @{$minimum{$k}{members}}=("MISSING");
+       }
      }
     $def->minimum_subgroup(\%minimum);
     }    
@@ -887,8 +890,7 @@ sub print_minimum {
   my($self, $prop) = @_;
   my $fh = $self->minimumFH;  
   if (($prop->type eq "PATHWAY") || ($prop->type eq "METAPATH")) {
-#  if ($prop->type eq "PATHWAY") {
-    for (my $i=1; $i < (scalar @{$prop->{_minimum_subgroup}}); $i++) { 
+    for (my $i=0; $i < (scalar @{$prop->{_minimum_subgroup}}); $i++) { 
       my @subgroup = split "; ", @{$prop->{_minimum_subgroup}}[$i];
       my %chunks; 
       my $chunk=1;
