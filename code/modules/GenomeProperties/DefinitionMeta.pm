@@ -174,6 +174,7 @@ sub minimum_subgroup {
       check_step_members($member, $hash_ref, 2, \@best_paths); 
       } 
     }
+  shift @best_paths;
   $self->{_minimum_subgroup} = \@best_paths;
   return($self->{_minimum_subgroup});
   }
@@ -197,7 +198,7 @@ sub check_step_members {
     }    
   else {
   # If it's the last step, calculate the final score and evaluate it.
-      foreach $m (@{$minimum{$index}{members}}) {
+    foreach $m (@{$minimum{$index}{members}}) {
       my $path = $string_members."; ".$m;
       my @path = split "; ", $path;
       my $path_score=0;
@@ -208,7 +209,7 @@ sub check_step_members {
         @{$out} = [];
         @{$out}[0] = $path_score;
         @{$out}[1] = $path;
-        }  
+        }   
       elsif ($path_score == @{$out}[0]) {
         push (@$out, $path);
         }
