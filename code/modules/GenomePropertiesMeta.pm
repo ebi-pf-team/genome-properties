@@ -592,11 +592,10 @@ sub evaluate_property {
   else{
     $def->result('YES'); #All steps found.
     }
-  print "Members in prop: ".$acc."\n";
   @members = uniq(@members);
   $def->members(@members);
-  print "Minimum in prop: ".$acc."\n";
-  $def->minimum_subgroup(\%minimum) if (($def->type eq "PATHWAY") || ($def->type eq "METAPATH") );
+  # Calculate the minimal subgroup only if it is a (meta)pathway and if the option was asked for.
+  $def->minimum_subgroup(\%minimum) if (($self->{minimumFH}) && (($def->type eq "PATHWAY") || ($def->type eq "METAPATH")));
   } 
   
 sub evaluate_step {
@@ -630,7 +629,6 @@ sub evaluate_step {
         if(defined($self->get_defs->{ $evObj->gp })){
           # For properties a PARTIAL or YES result is considered success           
           if( $self->get_defs->{ $evObj->gp }->result eq 'YES' or $self->get_defs->{ $evObj->gp }->result eq 'PARTIAL' ){
-            print "Step: ".$step->order."\tMembers: ".(join "; ", @{$self->get_defs->{ $evObj->gp }->members})."\n";
             push (@succeed, @{$self->get_defs->{ $evObj->gp }->members});
             }
           elsif($self->get_defs->{ $evObj->gp }->result eq 'UNTESTED'){
