@@ -559,6 +559,7 @@ sub evaluate_property {
   print "In evaluate property, $acc\n" if ($self->{debug});
 
   my $def = $self->get_def($acc);
+ # my @evidence_gps if ($def->type eq "METAPATH");
   $def->evaluated(1);
   foreach my $step (@{ $def->get_steps }){
     print "Working on step: ".$step->order."\n" if ($self->{debug});
@@ -581,7 +582,14 @@ sub evaluate_property {
     else {
       push (@{$minimum{$step->{order}}{members}}, "NO");
       }       
-    }
+    if ($def->type eq "METAPATH") {
+      my $evRef = $step->get_evidence;
+      foreach my $evObj (@{$evRef}){
+        $minimum{$step->order}{gp}=$evObj->gp;
+ #       push @evidence_gps,$evObj->gp if (defined $evObj->gp);
+        }
+      }
+    }  
   #Three possible results for the evaluation
   if(scalar (keys %found) == 0 or scalar (keys %found) <= $def->threshold){
     $def->result('NO'); #No required steps found
@@ -594,14 +602,40 @@ sub evaluate_property {
     }
   @members = uniq(@members);
   $def->members(@members);
-  # Calculate the minimal subgroup only if it is a (meta)pathway and if the option was asked for.
-  $def->minimum_subgroup(\%minimum) if (($self->{minimumFH}) && (($def->type eq "PATHWAY") || ($def->type eq "METAPATH")));
-  } 
-  
+  # If it's a pathway, calculate the minimum subgroup directly from the results of the GP
+  if (($self->{minimumFH}) && ($def->type eq "PATHWAY")) {
+    $def->minimum_subgroup(\%minimum);
+    }
+  # If it's a Metapath, first get the results of each GP.
+  # Then combine each result and retain the ones with the best score.
+  # If a GP doesn't have a result, it will be "NO EVIDENCE" for the moment.
+  elsif (($self->{minimumFH}) && ($def->type eq "METAPATH")) {
+   foreach my $k (keys %minimum) {
+     my @aux=@{$self->get_defs->{$minimum{$k}{gp}}->{_minimum_subgroup}};
+     @{$minimum{$k}{members}}=@aux;
+     delete $minimum{$k}{gp};
+     }
+    $def->minimum_subgroup(\%minimum);
+    }    
+## ------------------------------------------------------------------- ##
+#    @{$def->{_minimum_subgroup}}=@{$self->get_defs->{$evidence_gps[0]}->{_minimum_subgroup}};
+#    for (my $i=1; $i < scalar @evidence_gps; $i++) {
+#      my @new_subgroups;
+#      for (my $j=0; $j < @{$self->get_defs->{$evidence_gps[$i]}->{_minimum_subgroup}}; $j++) {
+#        for (my $k=0; $k < @{$def->{_minimum_subgroup}}; $k++) {
+#          push (@new_subgroups, @{$def->{_minimum_subgroup}}[$k]."; ".@{$self->get_defs->{$evidence_gps[$i]}->{_minimum_subgroup}}[$j]);
+#          }
+#        }
+#      @{$def->{_minimum_subgroup}} = @new_subgroups;
+#      foreach my $m (@{$def->{_minimum_subgroup}}) {print $m."\n";}
+#      }  
+## ------------------------------------------------------------------- ##
+#    }
+  }
+   
 sub evaluate_step {
   my($self, $step) = @_;
   my @succeed;
- # print "In step: ".$step->order."\tTo evaluate: ".scalar @{$self->{_to_evaluate}}."\tEvaluating: ".@{$self->{_evaluating}}."\n";
 
   $step->evaluated(1);
   print "Evaluating ".$step->step_name."\n" if ($self->{debug});
@@ -709,7 +743,6 @@ sub print_long {
   my $report = "PROPERTY: ".$prop->accession."\n";
   $report .= $prop->name."\n";
   foreach my $step (sort { $a->order <=> $b->order} @{ $prop->get_steps }){
-    #	print LONGFORM (".\tSTEP NUMBER: $steps{$step_p}[2]\n.\tSTEP NAME: $steps{$step_p}[3]\n");
     $report .= ".\tSTEP NUMBER: ".$step->order."\n";
     $report .= ".\tSTEP NAME: ".$step->step_name."\n";  
     $report .= ".\t.\trequired\n" if (defined($step->required) and $step->required == 1);
@@ -851,7 +884,7 @@ sub print_matches {
               foreach my $s (@seqs){
                 #next if($seenSeq->{$s});
                 my $report = $ev->interpro."\t".$ev->accession."\t".$s."[".@{$self->get_family( $ev->accession )->{$s}}[0]."]\t";
-                print $fh $pDESC."\t$sDESC\t$report\n";
+                print $fh $pDESC."\t".$sDESC."\t".$report."\n";
                 #$seenSeq->{$s}++;
                 #last;
                 }
@@ -866,16 +899,44 @@ sub print_matches {
 sub print_minimum {
   my($self, $prop) = @_;
   my $fh = $self->minimumFH;  
-  unless (($prop->type eq "PATHWAY") || ($prop->type eq "METAPATH")) {
-    warn "Can't calculate minimum group for".$prop->accession." because it's not a (meta)pathway\n";
+  if (($prop->type eq "PATHWAY") || ($prop->type eq "METAPATH")) {
+#  if ($prop->type eq "PATHWAY") {
+    for (my $i=1; $i < (scalar @{$prop->{_minimum_subgroup}}); $i++) { 
+      my @subgroup = split "; ", @{$prop->{_minimum_subgroup}}[$i];
+      my %chunks; 
+      my $chunk=1;
+      $chunks{$chunk}{member}=$subgroup[0];
+      $chunks{$chunk}{start}=1;
+      $chunks{$chunk}{end}=1;
+      for (my $j=1; $j < scalar @subgroup; $j++) {
+        if ($subgroup[$j] eq $subgroup[$j-1]) {
+          $chunks{$chunk}{end}=($j+1);
+          }
+        else {
+          $chunk++;
+          $chunks{$chunk}{member}=$subgroup[$j];
+          $chunks{$chunk}{start}=($j+1);
+          $chunks{$chunk}{end}=($j+1);
+          }
+        }
+      my $report;
+      $report .= "PROPERTY: ".$prop->accession."\t";
+      foreach my $c (sort {$a <=> $b} keys %chunks) {
+        if ($chunks{$c}{start} ==$chunks{$c}{end}) {
+          $report .= "STEP:".$chunks{$c}{start}.": ".$chunks{$c}{member}."\t";
+          }
+        else {
+          $report .= "STEPS:".$chunks{$c}{start}."-".$chunks{$c}{end}.": ".$chunks{$c}{member}."\t";
+          }
+        }
+      $report .= "\n";
+      print $fh $report;
+      }
+    }
+  else {
+    warn "Can't calculate minimum group for ".$prop->accession." because it's not a (meta)pathway\n";
     return;
-    }
-  for (my $i=1; $i < (scalar @{$prop->{_minimum_subgroup}}); $i++) { 
-    my $report;
-    $report .= "PROPERTY: ".$prop->accession."\t";
-    $report .= $prop->{_minimum_subgroup}[$i]."\n"; 
-    print $fh $report;
-    }
+    }  
   }
   
 sub print_json {
