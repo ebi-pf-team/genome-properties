@@ -151,31 +151,71 @@ sub private {
 
 sub minimum_subgroup {
   my ($self, $hash_ref) =@_;
-  my %minimum = %$hash_ref;
-  my $counter=1;
-  my $chunk="chunk".$counter;
-  if ((%minimum) && (scalar (keys %minimum) >= 1)){
-    foreach my $k (sort {$a <=> $b} keys %minimum) {
-      if ($k == 1) {
-        @{$minimum{$chunk}{members}} = @{$minimum{$k}{members}};
-        }
-      elsif (intersect (@{$minimum{$k}{members}}, @{$minimum{$chunk}{members}})) {
-        my @intersect = intersect(@{$minimum{$k}{members}}, @{$minimum{$chunk}{members}});
-        @{$minimum{$chunk}{members}} = @intersect;
-        }
-      else {
-        $counter++;
-        $chunk="chunk".$counter;
-        @{$minimum{$chunk}{members}} = @{$minimum{$k}{members}};
-        } 
-      push (@{$minimum{$chunk}{steps}}, $k);
-      delete $minimum{$k};
-      }
+  # We look for the combinations with the lower amount of jumps, the rest will be discarded.
+  # During the evaluation process, for each step of a pathway, we get the members of the community that can perform it.
+  # We will take every combination of these members (from step 1 to the last one) and calculate a score
+  # based on the number of jumps that combination requires. This is a recursive process, the script will take one
+  # member of the first step, construct one chain of members and evaluate its score. 
+  # Then change the member of the last step, and calculate the new score. When all the members of a level were 
+  # evaluated, the script will jump to the previous level and evaluate all the possibilities. Only the outcomes with
+  # the best score are stored. The number of jumps is also calculated for every "sub chain": if the number of jumps
+  # of a partial set of steps is bigger than the best score, it will be discarded and all the possible outcomes for
+  # sub chain will not be evaluated
+  
+  my @best_paths;  
+  
+  # Since the best score and the best combinations are needed in every call of the subroutine "check_step_members",
+  # we need to pass it by reference in each instance. To make things easier, I combined all that information in one array
+  # which will have the best score in the position 0 and the list of combination with that score after that.
+  $best_paths[0] = +Inf;
+  if ((%$hash_ref) && (scalar (keys %$hash_ref) >= 1)) {
+    my %minimum = %$hash_ref;
+    foreach my $member (@{$minimum{1}{members}})  { # for each member in the step 1, check the members in step 2
+      check_step_members($member, $hash_ref, 2, \@best_paths); 
+      } 
     }
-  $self->{_minimum_subgroup} = \%minimum;
+  $self->{_minimum_subgroup} = \@best_paths;
   return($self->{_minimum_subgroup});
   }
-
+  
+sub check_step_members {
+  my ($string_members, $hash_ref, $index, $out) =@_;
+  my %minimum = %$hash_ref;
+  if ($index < (scalar (keys %minimum))) { 
+  # If it's not the last step, calculate the score for that subset of steps. 
+  # If its greater than the best score, discard it. Else go on with the nest step
+    foreach $m (@{$minimum{$index}{members}}) {
+      my $sub_path = $string_members."; ".$m;
+      my @sub_path = split "; ", $sub_path;
+      my $sub_path_score =0;
+      for (my $i=1; $i < (scalar @sub_path); $i++) {
+        $sub_path_score++ if ($sub_path[$i] ne $sub_path[$i-1]);
+        }
+      next if ($sub_path_score > @{$out}[0]);
+      check_step_members($sub_path, $hash_ref, $index+1, $out);
+      }
+    }    
+  else {
+  # If it's the last step, calculate the final score and evaluate it.
+      foreach $m (@{$minimum{$index}{members}}) {
+      my $path = $string_members."; ".$m;
+      my @path = split "; ", $path;
+      my $path_score=0;
+      for (my $i=1; $i < (scalar @path); $i++) {
+        $path_score++ if ($path[$i] ne $path[$i-1]);
+        }
+      if ($path_score < @{$out}[0]) {
+        @{$out} = [];
+        @{$out}[0] = $path_score;
+        @{$out}[1] = $path;
+        }  
+      elsif ($path_score == @{$out}[0]) {
+        push (@$out, $path);
+        }
+      }
+    }    
+  }
+  
 sub checkConnection {
   my ($self, $gps, $connect) = @_;
   
