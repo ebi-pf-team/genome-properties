@@ -559,7 +559,6 @@ sub evaluate_property {
   print "In evaluate property, $acc\n" if ($self->{debug});
 
   my $def = $self->get_def($acc);
- # my @evidence_gps if ($def->type eq "METAPATH");
   $def->evaluated(1);
   foreach my $step (@{ $def->get_steps }){
     print "Working on step: ".$step->order."\n" if ($self->{debug});
@@ -586,7 +585,6 @@ sub evaluate_property {
       my $evRef = $step->get_evidence;
       foreach my $evObj (@{$evRef}){
         $minimum{$step->order}{gp}=$evObj->gp;
- #       push @evidence_gps,$evObj->gp if (defined $evObj->gp);
         }
       }
     }  
@@ -602,13 +600,16 @@ sub evaluate_property {
     }
   @members = uniq(@members);
   $def->members(@members);
-  # If it's a pathway, calculate the minimum subgroup directly from the results of the GP
+  # If it's a pathway, the results include an array with the members of the community able to
+  # perform each step. To make things easier, a hash is built with the steps and that array
+  # and this array is evaluated to find the minimum subgroup.
   if (($self->{minimumFH}) && ($def->type eq "PATHWAY")) {
     $def->minimum_subgroup(\%minimum);
     }
-  # If it's a Metapath, first get the results of each GP.
-  # Then combine each result and retain the ones with the best score.
-  # If a GP doesn't have a result, it will be "NO EVIDENCE" for the moment.
+  # If it's a Metapath, first we have to construct the hash. The "members" able to 
+  # perform a pathway are the minimum groups of that pathway. So we fill the hash
+  # with the steps of the metapath (each pathway) and the minimum subgroup of that step.
+  # Again, this hash is passed to the subroutine to find the new subgroup.
   elsif (($self->{minimumFH}) && ($def->type eq "METAPATH")) {
    foreach my $k (keys %minimum) {
      my @aux=@{$self->get_defs->{$minimum{$k}{gp}}->{_minimum_subgroup}};
@@ -617,20 +618,6 @@ sub evaluate_property {
      }
     $def->minimum_subgroup(\%minimum);
     }    
-## ------------------------------------------------------------------- ##
-#    @{$def->{_minimum_subgroup}}=@{$self->get_defs->{$evidence_gps[0]}->{_minimum_subgroup}};
-#    for (my $i=1; $i < scalar @evidence_gps; $i++) {
-#      my @new_subgroups;
-#      for (my $j=0; $j < @{$self->get_defs->{$evidence_gps[$i]}->{_minimum_subgroup}}; $j++) {
-#        for (my $k=0; $k < @{$def->{_minimum_subgroup}}; $k++) {
-#          push (@new_subgroups, @{$def->{_minimum_subgroup}}[$k]."; ".@{$self->get_defs->{$evidence_gps[$i]}->{_minimum_subgroup}}[$j]);
-#          }
-#        }
-#      @{$def->{_minimum_subgroup}} = @new_subgroups;
-#      foreach my $m (@{$def->{_minimum_subgroup}}) {print $m."\n";}
-#      }  
-## ------------------------------------------------------------------- ##
-#    }
   }
    
 sub evaluate_step {
