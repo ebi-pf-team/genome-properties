@@ -1,6 +1,6 @@
 package GenomeProperties::DefinitionMeta;
 use Array::Utils qw(:all);
-
+use Data::Dumper;
 sub new {
   my $class = shift;
   my $hashRef = shift;  
@@ -170,9 +170,7 @@ sub minimum_subgroup {
   $best_paths[0] = +Inf;
   if ((%$hash_ref) && (scalar (keys %$hash_ref) >= 1)) {
     my %minimum = %$hash_ref;
-    foreach my $member (@{$minimum{1}{members}})  { # for each member in the step 1, check the members in step 2
-      check_step_members($member, $hash_ref, 2, \@best_paths); 
-      } 
+    check_step_members($_, $hash_ref, 2, \@best_paths) for (@{$minimum{1}{members}}); # for each member in the step 1, check the members in step 2
     }
   shift @best_paths;
   $self->{_minimum_subgroup} = \@best_paths;
@@ -198,6 +196,10 @@ sub check_step_members {
     }    
   else {
   # If it's the last step, calculate the final score and evaluate it.
+    if (!$minimum{$index}{members}) { # In the case that there is only 1 step in the GP, it won't enter to the forach loop 
+      @{$out}[0]=0;
+      push (@$out, $string_members);
+      }
     foreach $m (@{$minimum{$index}{members}}) {
       my $path = $string_members."; ".$m;
       my @path = split "; ", $path;
