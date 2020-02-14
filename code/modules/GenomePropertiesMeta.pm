@@ -521,7 +521,6 @@ sub check_results{
   $self->incomplete(0) if ($miss == 0);
   }
 
-
 sub get_defs {
   my ($self) = @_;
   return($self->{properties});
@@ -569,19 +568,19 @@ sub evaluate_property {
       $def->evaluated(0);
       return;
       }
-    if($step->{found}){
+   if($step->{found}){
       $found{$step->{order}} = $step->found;
       push (@members, $step->found);
-      push (@{$minimum{$step->{order}}{members}}, @{$step->found});
+      push (@{$minimum{$step->{order}}{members}}, @{$step->found}) if ($self->{minimumFH});
       }
     elsif($step->required and $step->skip != 1){
       push (@missing, $step);
-      push (@{$minimum{$step->{order}}{members}}, "MISSING");
+      push (@{$minimum{$step->{order}}{members}}, "MISSING") if ($self->{minimumFH});
       }
     else {
-      push (@{$minimum{$step->{order}}{members}}, "MISSING");
-      }       
-    if ($def->type eq "METAPATH") {
+      push (@{$minimum{$step->{order}}{members}}, "MISSING") if ($self->{minimumFH});
+      }
+    if ($self->{minimumFH} && $def->type eq "METAPATH") {
       my $evRef = $step->get_evidence;
       foreach my $evObj (@{$evRef}){
         $minimum{$step->order}{gp}=$evObj->gp;
@@ -591,6 +590,7 @@ sub evaluate_property {
   #Three possible results for the evaluation
   if(scalar (keys %found) == 0 or scalar (keys %found) <= $def->threshold){
     $def->result('NO'); #No required steps found
+    return;
     }
   elsif(scalar @missing > 0){
     $def->result('PARTIAL'); #One or more required steps found, but one or more required steps missing
@@ -600,27 +600,21 @@ sub evaluate_property {
     }
   @members = uniq(@members);
   $def->members(@members);
-  # If it's a pathway, the results include an array with the members of the community able to
-  # perform each step. To make things easier, a hash is built with the steps and that array
-  # and this array is evaluated to find the minimum subgroup.
-  if (($self->{minimumFH}) && ($def->type eq "PATHWAY")) {
+  
+  if ($self->{minimumFH}) {
+    foreach my $k (keys %minimum) {
+      next if (!$minimum{$k}{gp});
+      if (defined $self->get_defs->{$minimum{$k}{gp}}->{_minimum_subgroup}) {
+        @{$self->get_defs->{$minimum{$k}{gp}}->{_minimum_subgroup}} = 
+            map { $minimum{$k}{gp}."; ". $_  } @{$self->get_defs->{$minimum{$k}{gp}}->{_minimum_subgroup}};
+        @{$minimum{$k}{members}}=@{$self->get_defs->{$minimum{$k}{gp}}->{_minimum_subgroup}};
+        }
+      else  {
+        @{$minimum{$k}{members}}=($minimum{$k}{gp}."; MISSING");
+        }
+      }
     $def->minimum_subgroup(\%minimum);
     }
-  # If it's a Metapath, first we have to construct the hash. The "members" able to 
-  # perform a pathway are the minimum groups of that pathway. So we fill the hash
-  # with the steps of the metapath (each pathway) and the minimum subgroup of that step.
-  # Again, this hash is passed to the subroutine to find the new subgroup.
-  elsif (($self->{minimumFH}) && ($def->type eq "METAPATH")) {
-   foreach my $k (keys %minimum) {
-     if (defined $self->get_defs->{$minimum{$k}{gp}}->{_minimum_subgroup}) {
-       @{$minimum{$k}{members}}=@{$self->get_defs->{$minimum{$k}{gp}}->{_minimum_subgroup}};
-       }
-     else  {
-       @{$minimum{$k}{members}}=("MISSING");
-       }
-     }
-    $def->minimum_subgroup(\%minimum);
-    }    
   }
    
 sub evaluate_step {
@@ -739,7 +733,7 @@ sub print_long {
     
     foreach my $ev (@{$step->get_evidence}){
       if($ev->interpro){
-        $report .= ".\t.\tINTERPRO: ".$ev->interpro."; ".$ev->accession."\n";
+        $report .= "\tEVIDENCE: ".$ev->interpro."; ".$ev->accession."\n";
         }
       elsif($ev->gp){
         $report .= ".\t.\tGENPROP: ".$ev->gp."\n";
@@ -864,7 +858,6 @@ sub print_matches {
       if($step->found != 0){
         my $sDESC = $step->order."\t".$step->step_name."\t";
         $sDESC .= "required" if (defined($step->required) and $step->required == 1);
-          
         foreach my $ev (@{$step->get_evidence}){
           my $eDESC;
           my $seenSeq;
@@ -872,11 +865,8 @@ sub print_matches {
             if($self->get_family( $ev->accession ) ){
               my @seqs = keys %{ $self->get_family( $ev->accession ) };
               foreach my $s (@seqs){
-                #next if($seenSeq->{$s});
                 my $report = $ev->interpro."\t".$ev->accession."\t".$s."[".@{$self->get_family( $ev->accession )->{$s}}[0]."]\t";
                 print $fh $pDESC."\t".$sDESC."\t".$report."\n";
-                #$seenSeq->{$s}++;
-                #last;
                 }
               }
             }
@@ -889,43 +879,67 @@ sub print_matches {
 sub print_minimum {
   my($self, $prop) = @_;
   my $fh = $self->minimumFH;  
-  if (($prop->type eq "PATHWAY") || ($prop->type eq "METAPATH")) {
+  if (!($prop->type eq "PATHWAY" || $prop->type eq "METAPATH")) {
+    warn "Can't calculate minimum group for ".$prop->accession." because it's not a (meta)pathway\n";
+    return;
+    }
+  elsif (!defined $prop->{_minimum_subgroup}) {
+    warn "No hits were found for ".$prop->accession."\n";
+    return;
+    }
+  else {
     for (my $i=0; $i < (scalar @{$prop->{_minimum_subgroup}}); $i++) { 
       my @subgroup = split "; ", @{$prop->{_minimum_subgroup}}[$i];
-      my %chunks; 
-      my $chunk=1;
-      $chunks{$chunk}{member}=$subgroup[0];
-      $chunks{$chunk}{start}=1;
-      $chunks{$chunk}{end}=1;
+      my $genprops = $prop->accession;
+      $genprops = shift @subgroup if ($subgroup[0] =~ /^GenProp/);
+      my $report = "(";
+      $report.="<" if ($subgroup[0] eq "MISSING");
+      my $species = "("; 
+      $species.=$subgroup[0];
+      my $start = 1;
+      my $end = 1;
       for (my $j=1; $j < scalar @subgroup; $j++) {
-        if ($subgroup[$j] eq $subgroup[$j-1]) {
-          $chunks{$chunk}{end}=($j+1);
+        if ($subgroup[$j] =~ /^GenProp/) {
+          $genprops.=",".$subgroup[$j];
+          $report.=$start;
+          $report.="-".$end if ($start = $end);
+          $report.=")(";
+          $start=1;
+          $end=1;
+          $j++;
+          $species.=")(".$subgroup[$j];
+          $report.="<" if ($subgroup[$j] eq "MISSING");
+          } 
+        elsif ($subgroup[$j] ne $subgroup[$j-1]) {
+          $report.=$start;
+          $report.="-".$end if ($start != $end);
+          $species.="|".$subgroup[$j];
+          if ($subgroup[$j] eq "MISSING") {
+            $report.="<";
+            }
+          elsif ($subgroup[$j-1] eq "MISSING") {
+            $report.=">";
+            }
+          else {
+            $report.="|";
+            }  
+          $end++;
+          $start=$end;
           }
         else {
-          $chunk++;
-          $chunks{$chunk}{member}=$subgroup[$j];
-          $chunks{$chunk}{start}=($j+1);
-          $chunks{$chunk}{end}=($j+1);
+          $end++;
           }
         }
-      my $report;
-      $report .= "PROPERTY: ".$prop->accession."\t";
-      foreach my $c (sort {$a <=> $b} keys %chunks) {
-        if ($chunks{$c}{start} ==$chunks{$c}{end}) {
-          $report .= "STEP:".$chunks{$c}{start}.": ".$chunks{$c}{member}."\t";
-          }
-        else {
-          $report .= "STEPS:".$chunks{$c}{start}."-".$chunks{$c}{end}.": ".$chunks{$c}{member}."\t";
-          }
-        }
-      $report .= "\n";
+      $report.=$start;
+      $report.="-".$end if ($start != $end);
+      $report.=">" if ($subgroup[-1] eq "MISSING");
+      $report.=")";
+      $species.=")"; 
+      $report.="\t".$species."\t".$genprops."\n";
+      print $report;
       print $fh $report;
       }
     }
-  else {
-    warn "Can't calculate minimum group for ".$prop->accession." because it's not a (meta)pathway\n";
-    return;
-    }  
   }
   
 sub print_json {
@@ -943,8 +957,8 @@ sub close_outputfiles {
   close($self->summaryFH)   and  $self->removeSummaryFH   if ($self->summaryFH); 
   close($self->tableFH)     and  $self->removeTableFH     if ($self->tableFH);
   close($self->compTableFH) and  $self->removeCompTableFH if($self->compTableFH);
-  close($self->jsonFH)      if($self->jsonFH);
-  close($self->matchFH)     if($self->matchFH);
+  close($self->jsonFH)                                    if($self->jsonFH);
+  close($self->matchFH)                                   if($self->matchFH);
   return(1);
   }
 
@@ -968,7 +982,22 @@ sub removeLongFH {
   $self->{longFH}=undef;
   }
 
-
+sub check_sub_gps {
+  my ($self, $acc, $out) = @_;
+  my $def = $self->get_def($acc);
+  return if ($def->type eq "CATEGORY");
+  foreach my $step (@{ $def->get_steps }){
+    my $evRef = $step->get_evidence;
+    foreach my $evObj (@{$evRef}){
+      if($evObj->gp){
+        next if ($self->get_defs->{ $evObj->gp }->type eq "CATEGORY");
+        push (@{$out}, $self->get_defs->{ $evObj->gp }->accession);
+        $self->check_sub_gps($self->get_defs->{ $evObj->gp }->accession, $out);
+        }
+      }
+    }
+  }
+  
 ##        Debug        ##
 sub debug{
   my($self, $bool) = @_; 
