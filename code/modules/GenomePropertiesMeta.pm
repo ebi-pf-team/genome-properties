@@ -12,6 +12,7 @@ use Text::Wrap;
 use LWP::Simple;
 use JSON;
 use List::Uniq ':all';
+use Array::Utils qw(:all);
 
 ##         New         ##
 
@@ -578,14 +579,13 @@ sub evaluate_property {
       push (@{$minimum{$step->{order}}{members}}, "MISSING") if ($self->{minimumFH});
       }
     else {
-      push (@{$minimum{$step->{order}}{members}}, "MISSING") if ($self->{minimumFH});
+      push (@{$minimum{$step->{order}}{members}}, "NOT_REQUIRED") if ($self->{minimumFH});
       }
     if ($self->{minimumFH} && $def->type eq "METAPATH") {
       my $evRef = $step->get_evidence;
-      foreach my $evObj (@{$evRef}){
-        $minimum{$step->order}{gp}=$evObj->gp;
-        }
+      $minimum{$step->order}{gp}=$_->gp for (@{$evRef});
       }
+#    print "Step: ".$step->{order}."\tMembers: ".(join "; ", @{$minimum{$step->{order}}{members}})."\n";
     }  
   #Three possible results for the evaluation
   if(scalar (keys %found) == 0 or scalar (keys %found) <= $def->threshold){
@@ -598,29 +598,19 @@ sub evaluate_property {
   else{
     $def->result('YES'); #All steps found.
     }
+  
   @members = uniq(@members);
   $def->members(@members);
-  
-  if ($self->{minimumFH}) {
-    foreach my $k (keys %minimum) {
-      next if (!$minimum{$k}{gp});
-      if (defined $self->get_defs->{$minimum{$k}{gp}}->{_minimum_subgroup}) {
-        @{$self->get_defs->{$minimum{$k}{gp}}->{_minimum_subgroup}} = 
-            map { $minimum{$k}{gp}."; ". $_  } @{$self->get_defs->{$minimum{$k}{gp}}->{_minimum_subgroup}};
-        @{$minimum{$k}{members}}=@{$self->get_defs->{$minimum{$k}{gp}}->{_minimum_subgroup}};
-        }
-      else  {
-        @{$minimum{$k}{members}}=($minimum{$k}{gp}."; MISSING");
-        }
-      }
-    $def->minimum_subgroup(\%minimum);
-    }
+  $def->minimum_subgroup(\%minimum) if ($self->{minimumFH});
   }
    
 sub evaluate_step {
   my($self, $step) = @_;
   my @succeed;
-
+  my @insufficients;
+  my $insufficientEvidence = 0;
+  my $number_evidences = 0;
+  
   $step->evaluated(1);
   print "Evaluating ".$step->step_name."\n" if ($self->{debug});
   my $evRef = $step->get_evidence;
@@ -630,8 +620,8 @@ sub evaluate_step {
     $step->skip(1);
     }
   else {
+    $number_evidences = scalar @{$evRef};
     EV: foreach my $evObj (@{$evRef}){
-    #if (!$ev_id) {print RESULTS ("there is no ev_id\n"); next;} - Add to the object method
       if (defined $evObj->interpro){
         print "\tevidence is ".$evObj->interpro."\n" if ($self->{debug});
         print "\tev type is: ".$evObj->type."\n" if ($self->{debug});
@@ -643,11 +633,12 @@ sub evaluate_step {
       else {
         print "\tevidence is ".$evObj->{sig}."\n" if ($self->{debug});
         }        
+      
       if($evObj->gp){
         if(defined($self->get_defs->{ $evObj->gp })){
           # For properties a PARTIAL or YES result is considered success           
           if( $self->get_defs->{ $evObj->gp }->result eq 'YES' or $self->get_defs->{ $evObj->gp }->result eq 'PARTIAL' ){
-            push (@succeed, @{$self->get_defs->{ $evObj->gp }->members});
+			push (@succeed, $self->get_defs->{ $evObj->gp }->accession);
             }
           elsif($self->get_defs->{ $evObj->gp }->result eq 'UNTESTED'){
             $step->evaluated(0);  
@@ -657,13 +648,21 @@ sub evaluate_step {
       elsif($evObj->interpro){
         #Need to annotated the sequences  
         $self->annotate_sequences if (!$self->annotated);
+        my @current_evidence;
         #See if the accession has been found  
+        $number_evidences-- if(defined($evObj->type) and $evObj->type eq 'sufficient');
         if($self->get_family($evObj->accession) and $self->{families}{$evObj->accession} != 0) {
-          foreach my $k (keys % {$self->{families}{$evObj->accession}}) {
-            push @succeed, $self->{families}{$evObj->accession}{$k}; 
+          push @current_evidence, $self->{families}{$evObj->accession}{$_} for (keys % {$self->{families}{$evObj->accession}});
+          if(defined($evObj->type) and $evObj->type eq 'sufficient'){ # if the evidence is sufficient, store in @succeed
+            push (@succeed, @current_evidence);
+            @succeed = uniq @succeed;
             }
-          @succeed = uniq(@succeed);
-          last EV;
+          else { # if the evidence is not sufficient, keep the number of evidences and how many were found
+            $insufficientEvidence++;
+            @current_evidence = uniq @current_evidence;
+            @insufficients = @current_evidence if ($insufficientEvidence == 1); # if it's the first evidence, store all the results.
+            @insufficients = intersect (@insufficients, @current_evidence); 
+            }    
           }
         }
       else{
@@ -671,12 +670,9 @@ sub evaluate_step {
         }
       }
     }
-  
-  if (scalar @succeed > 0){
-    $step->found(@succeed);
-    #$step->matched_sequences($mSeqs);
-    #Need to get the sequences in here. 
-    }
+        
+  @succeed = unique (@insufficients, @succeed) if ($insufficientEvidence == $number_evidences); # if all the insufficient evidences were found, add the proteome to succeed
+  $step->found(@succeed) if (scalar @succeed > 0);
   }
 
 sub get_family {
@@ -703,7 +699,10 @@ sub write_results{
     next if (defined( $self->{_skip}->{ $prop->type } ));
     next if ((defined $self->{_to_evaluate}) && (!grep {/$acc/} @{$self->{_to_evaluate}}));
     $self->print_summary($prop) if($self->summaryFH and fileno($self->summaryFH));
-    $self->print_long($prop) if($self->longFH);
+    if($self->longFH) {
+      my $fh = $self->longFH;
+      $self->print_long($fh, $prop);
+      }
     $self->print_table($prop) if($self->tableFH);
     $self->print_compressed_table($prop) if($self->compTableFH);
     $self->build_json($prop) if($self->jsonFH);
@@ -723,47 +722,65 @@ sub print_summary {
   }
 
 sub print_long {
-  my($self, $prop) = @_;
+  my($self, $fh, $prop) = @_;
+  my @gps_found;
   my $report = "PROPERTY: ".$prop->accession."\n";
   $report .= $prop->name."\n";
   foreach my $step (sort { $a->order <=> $b->order} @{ $prop->get_steps }){
+    my @species_found;
     $report .= ".\tSTEP NUMBER: ".$step->order."\n";
     $report .= ".\tSTEP NAME: ".$step->step_name."\n";  
     $report .= ".\t.\trequired\n" if (defined($step->required) and $step->required == 1);
     
     foreach my $ev (@{$step->get_evidence}){
       if($ev->interpro){
-        $report .= "\tEVIDENCE: ".$ev->interpro."; ".$ev->accession."\n";
+        $report .= ".\t.\tEVIDENCE: ".$ev->interpro."; ".$ev->accession."\n";
         }
       elsif($ev->gp){
-        $report .= ".\t.\tGENPROP: ".$ev->gp."\n";
+        $report .= ".\t.\tEVIDENCE: ".$ev->gp."\n";
         }
       else{
         warn "Unknown step type\n";
         p($ev);
         }
       }
-      
-    #TODO: Does this relate to the step or evidence
     if ($step->found) {
-      $report .= ".\tSTEP RESULT: ".(join ", ", sort @{$step->found})."\n";  
+      $self->found_long_results ($step, \@species_found, \@gps_found);
+      @species_found = uniq @species_found;
+      @gps_found = uniq @gps_found;
+      $report .= ".\tSTEP RESULT: ".(join ", ", @species_found)."\n";
       }
     else {
       $report .= ".\tSTEP RESULT: NO\n";
       }
     }
-    
   $report .= "RESULT: ".$prop->result."\n";
-  if (defined $prop->members) {
-    $report .= "MEMBERS: ".(join ",", sort @{$prop->members})."\n";
-    }
-  else {
-    $report .= "MEMBERS: 0\n";   
-    }
-  my $fh = $self->longFH;  
   print $fh $report;
+  if (scalar @gps_found > 0 ){
+    foreach my $gp (@gps_found) {
+      my $new_prop = $self->get_def($gp);
+      $self->print_long($fh, $new_prop);
+      }
+    }
   }
-
+  
+sub found_long_results {
+  my ($self, $step, $species_found, $gps_found) = @_;
+  return $species_found if (!$step->found);
+  foreach my $found (@{$step->found}) {
+    if ($found =~ /^GenProp/) {
+      push (@{$gps_found}, $found);
+      my $new_prop = $self->get_def($found);
+      foreach my $new_step (sort { $a->order <=> $b->order} @{ $new_prop->get_steps }){
+        $self->found_long_results ($new_step, $species_found, $gps_found);
+        }
+      }
+    else {
+      push (@{$species_found}, $found);
+      }    
+    }
+  }
+  
 sub print_table {
   my ($self, $prop ) = @_; 
 #acc     description     property_value  step_number     step_name       step_value      required?       evidence_type   evidence_name   best_HMM_hit    HMM_hit_count
@@ -876,9 +893,85 @@ sub print_matches {
     }
   }
 
+sub build_minimum {
+  my ($self, $prop, $report_hash) = @_;
+  $$report_hash{$prop->accession}{NAME} = $prop->name;
+  my @report;
+  my @species;
+  for (my $i=0; $i < (scalar @{$prop->{_minimum_subgroup}}); $i++) { 
+    my @subgroup = split "; ", @{$prop->{_minimum_subgroup}}[$i];
+    $report[$i].="(";
+    $species[$i].="(";
+    my $start = 1;
+    my $end = 1;
+    
+    if ($subgroup[0] =~ /^GenProp/) {
+      $species[$i].=$subgroup[0];
+      $self->build_minimum($self->get_def($subgroup[0]), $report_hash);
+      }
+    elsif($subgroup[0] eq "MISSING") {
+      $report[$i].="<";
+      $species[$i].="<".$subgroup[0];
+      }
+    elsif($subgroup[0] eq "NOT_REQUIRED") {
+      $report[$i].="{";
+      $species[$i].="{".$subgroup[0];
+      }
+    else {
+      $species[$i].=$subgroup[0];
+      }
+
+    for (my $j=1; $j < scalar @subgroup; $j++) {
+      $self->build_minimum($self->get_def($subgroup[$j]), $report_hash) if ($subgroup[$j] =~ /^GenProp/);
+      if ($subgroup[$j] ne $subgroup[$j-1]) {
+        $report[$i].=$start;
+        $report[$i].="-".$end if ($start != $end);
+       if ($subgroup[$j-1] eq "NOT_REQUIRED") {
+          $report[$i].="}";
+          $species[$i].="}";
+          }
+       elsif ($subgroup[$j-1] eq "MISSING") {
+          $report[$i].=">";
+          $species[$i].=">";
+          }
+       if ($subgroup[$j] eq "MISSING") {
+          $report[$i].="|<";
+          $species[$i].="|<";
+          }
+       elsif ($subgroup[$j] eq "NOT_REQUIRED") {
+          $report[$i].="|{";
+          $species[$i].="|{";
+          }        
+        else {
+          $report[$i].="|";
+          $species[$i].="|";
+          }
+        $end++;
+        $start=$end;
+        $species[$i].=$subgroup[$j];
+        }
+      else {
+        $end++;
+        }
+      }
+    $report[$i].=$start;
+    $report[$i].="-".$end if ($start != $end);
+    $report[$i].=">" if ($subgroup[-1] eq "MISSING");
+    $report[$i].="}" if ($subgroup[-1] eq "NOT_REQUIRED");
+    $report[$i].=")";
+    $species[$i].=">" if ($subgroup[-1] eq "MISSING");
+    $species[$i].="}" if ($subgroup[-1] eq "NOT_REQUIRED");
+    $species[$i].=")";
+    }
+  
+  @{$$report_hash{$prop->accession}{REPORT}}=@report;
+  @{$$report_hash{$prop->accession}{SPECIES}}=@species;
+  }
+
 sub print_minimum {
-  my($self, $prop) = @_;
-  my $fh = $self->minimumFH;  
+  my ($self, $prop) = @_;
+  my $fh = $self->minimumFH;
+  my $report;
   if (!($prop->type eq "PATHWAY" || $prop->type eq "METAPATH")) {
     warn "Can't calculate minimum group for ".$prop->accession." because it's not a (meta)pathway\n";
     return;
@@ -888,57 +981,27 @@ sub print_minimum {
     return;
     }
   else {
-    for (my $i=0; $i < (scalar @{$prop->{_minimum_subgroup}}); $i++) { 
-      my @subgroup = split "; ", @{$prop->{_minimum_subgroup}}[$i];
-      my $genprops = $prop->accession;
-      $genprops = shift @subgroup if ($subgroup[0] =~ /^GenProp/);
-      my $report = "(";
-      $report.="<" if ($subgroup[0] eq "MISSING");
-      my $species = "("; 
-      $species.=$subgroup[0];
-      my $start = 1;
-      my $end = 1;
-      for (my $j=1; $j < scalar @subgroup; $j++) {
-        if ($subgroup[$j] =~ /^GenProp/) {
-          $genprops.=",".$subgroup[$j];
-          $report.=$start;
-          $report.="-".$end if ($start = $end);
-          $report.=")(";
-          $start=1;
-          $end=1;
-          $j++;
-          $species.=")(".$subgroup[$j];
-          $report.="<" if ($subgroup[$j] eq "MISSING");
-          } 
-        elsif ($subgroup[$j] ne $subgroup[$j-1]) {
-          $report.=$start;
-          $report.="-".$end if ($start != $end);
-          $species.="|".$subgroup[$j];
-          if ($subgroup[$j] eq "MISSING") {
-            $report.="<";
-            }
-          elsif ($subgroup[$j-1] eq "MISSING") {
-            $report.=">";
-            }
-          else {
-            $report.="|";
-            }  
-          $end++;
-          $start=$end;
-          }
-        else {
-          $end++;
-          }
-        }
-      $report.=$start;
-      $report.="-".$end if ($start != $end);
-      $report.=">" if ($subgroup[-1] eq "MISSING");
-      $report.=")";
-      $species.=")"; 
-      $report.="\t".$species."\t".$genprops."\n";
-      print $report;
-      print $fh $report;
+    my %report_hash;
+    $self->build_minimum($prop, \%report_hash);
+    # We first print the results for the main GP, and then we print the rest
+    $report.=$prop->accession."\t".$prop->name."\n";
+    for (my $i=0; $i < scalar @{$report_hash{$prop->accession}{REPORT}}; $i++) {
+      $report.=$report_hash{$prop->accession}{REPORT}[$i]."\t".$report_hash{$prop->accession}{SPECIES}[$i]."\n"
       }
+    $report.="\n";
+    
+    foreach my $gp (keys %report_hash) {
+      next if ($gp eq $prop->accession);
+      $report.=$gp."\t".$report_hash{$gp}{NAME}."\n";
+      for (my $i=0; $i < scalar @{$report_hash{$gp}{REPORT}}; $i++) {
+        $report.=$report_hash{$gp}{REPORT}[$i]."\t".$report_hash{$gp}{SPECIES}[$i]."\n"
+        }
+      $report.="\n";
+      }
+    print $fh $report;
+    
+#     use Data::Dumper;
+#     print $fh Dumper %report_hash;
     }
   }
   

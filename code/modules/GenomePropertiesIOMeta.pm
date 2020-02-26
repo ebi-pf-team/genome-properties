@@ -482,9 +482,8 @@ sub parseDESC {
   };
 
   for ( my $i = 0 ; $i <= $#file ; $i++ ) {
-    
     my $l = $file[$i];
-    chomp($l);
+    chomp($l); 
     if ( length($l) > $expLen ) {
       #DE|DN|EV these are allowed to exceed length
       if($l !~ /^(DE|DN|EV)/){
@@ -501,7 +500,6 @@ sub parseDESC {
                 . "\n"; 
         warn($msg);
       }
-              
       $params{$1} = $2;
       #TODO - make sure type matechs oe of the recognised types.
       if($1 eq "TP"){
@@ -712,61 +710,102 @@ sub parseSteps {
         }
       push(@{$step{EVID}}, { ipr => $ipr, sig => $sig, sc => $suf, go => $go });
       }
-    elsif($l =~ /^EV\s{2}(GenProp\d{4});$/){
+    elsif($l =~ /^EV\s{2}(GenProp\d{4});\s(\S+);$/){
       my $gp = $1;
       my $nl = $file->[$$i + 1];
+      my $suf = $3;
       my $go = [];
       while($nl =~ /^TG\s{2}(GO\:\d+);$/){
         push(@$go, $1);
         $$i++;
         $nl = $file->[$$i + 1];
         }
-      push(@{$step{EVID}}, { gp => $gp, go => $go });
+      push(@{$step{EVID}}, { gp => $gp, sc => $suf, go => $go });
+      }    
+    elsif($l =~ /^EV\s{2}(GenProp\d{4});$/){
+      my $gp = $1;
+      my $nl = $file->[$$i + 1];
+      my $suf = "insufficient";
+      my $go = [];
+      while($nl =~ /^TG\s{2}(GO\:\d+);$/){
+        push(@$go, $1);
+        $$i++;
+        $nl = $file->[$$i + 1];
+        }
+      push(@{$step{EVID}}, { gp => $gp, sc => $suf, go => $go });
       }
     elsif($l =~ /^EV\s{2}(c[d|l]\d{5});$/){
       my $sig = $1;
       my $nl = $file->[$$i + 1];
+      my $suf = "insufficient";
       my $go = [];
       while($nl =~ /^TG\s{2}(GO\:\d+);$/){
         push(@$go, $1);
         $$i++;
         $nl = $file->[$$i + 1];
         }
-      push(@{$step{EVID}}, { ipr => "Unintegrated", sig => $sig, go => $go });
+      push(@{$step{EVID}}, { ipr => "Unintegrated", sig => $sig, sc => $suf, go => $go });
       }
     elsif($l =~ /^EV\s{2}(SSF\d{5});$/){
       my $sig = $1;
       my $nl = $file->[$$i + 1];
+      my $suf = "insufficient";
       my $go = [];
       while($nl =~ /^TG\s{2}(GO\:\d+);$/){
         push(@$go, $1);
         $$i++;
         $nl = $file->[$$i + 1];
         }
-      push(@{$step{EVID}}, { ipr => "Unintegrated", sig => $sig, go => $go });
+      push(@{$step{EVID}}, { ipr => "Unintegrated", sig => $sig, sc => $suf,go => $go });
       }
     elsif($l =~ /^EV\s{2}(G3DSA\S+);$/){
       my $sig = $1;
       my $nl = $file->[$$i + 1];
+      my $suf = "insufficient";
       my $go = [];
       while($nl =~ /^TG\s{2}(GO\:\d+);$/){
         push(@$go, $1);
         $$i++;
         $nl = $file->[$$i + 1];
         }
-      push(@{$step{EVID}}, { ipr => "Unintegrated", sig => $sig, go => $go }); 
+      push(@{$step{EVID}}, { ipr => "Unintegrated", sig => $sig, sc => $suf, go => $go }); 
       }
     elsif($l =~ /^EV\s{2}(PTHR\S+);$/){
       my $sig = $1;
       my $nl = $file->[$$i + 1];
+      my $suf = "insufficient";
       my $go = [];
       while($nl =~ /^TG\s{2}(GO\:\d+);$/){
         push(@$go, $1);
         $$i++;
         $nl = $file->[$$i + 1];
         }
-      push(@{$step{EVID}}, { ipr => "Unintegrated", sig => $sig, go => $go });
+      push(@{$step{EVID}}, { ipr => "Unintegrated", sig => $sig, sc => $suf, go => $go });
       }
+    elsif($l =~ /^EV\s{2}(PIR\S+);\s(\S+);$/){
+      my $sig = $1;
+      my $nl = $file->[$$i + 1];
+      my $suf = $2;
+      my $go = [];
+      while($nl =~ /^TG\s{2}(GO\:\d+);$/){
+        push(@$go, $1);
+        $$i++;
+        $nl = $file->[$$i + 1];
+        }
+      push(@{$step{EVID}}, { ipr => "Unintegrated", sig => $sig, sc => $suf, go => $go });
+      }  
+    elsif($l =~ /^EV\s{2}(PIR\S+);$/){
+      my $sig = $1;
+      my $nl = $file->[$$i + 1];
+      my $suf = "insufficient";
+      my $go = [];
+      while($nl =~ /^TG\s{2}(GO\:\d+);$/){
+        push(@$go, $1);
+        $$i++;
+        $nl = $file->[$$i + 1];
+        }
+      push(@{$step{EVID}}, { ipr => "Unintegrated", sig => $sig, sc => $suf, go => $go });
+      }  
     elsif($l =~ /^--$/){  
       push(@steps, clone(\%step));
       %step = ();
