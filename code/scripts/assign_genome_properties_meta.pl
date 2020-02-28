@@ -23,9 +23,10 @@ GetOptions ( \%options,
               'outdir=s',
               'outfiles=s@',
               'property=s',
-			        'list=s',
-			        'all',
-			        'name=s',
+			  'list=s',
+			  'all',
+			  'name=s',
+			  'transporters',
               'debug',
               'help',
               'eval_order=s') or die "Failed to parse options\n";;
@@ -40,6 +41,7 @@ $gp->read_properties;
 $gp->define_sequence_set if ($options{seqs_dir});
 $gp->annotate_sequences;
 $gp->evaluate_properties;
+$gp->evaluate_transporters if ($options{transporters});
 $gp->write_results;
 $gp->close_outputfiles;
 
