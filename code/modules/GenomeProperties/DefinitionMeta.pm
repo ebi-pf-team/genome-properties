@@ -1,6 +1,6 @@
 package GenomeProperties::DefinitionMeta;
-use Array::Utils qw(:all);
-use Data::Dumper;
+use GenomeProperties::StepMeta;
+
 sub new {
   my $class = shift;
   my $hashRef = shift;  
@@ -27,7 +27,6 @@ sub get_steps{
   return $self->{steps};
 }
 
-
 sub evaluated {
   my ($self, $ev) = @_;
 
@@ -37,7 +36,6 @@ sub evaluated {
 
   return($self->{_evaluated});
 }
-
 
 sub result {
   my ($self, $result) =@_;
@@ -77,7 +75,6 @@ sub parents {
   return ($self->{parents});
 }
 
-
 sub dbrefs {
   my ($self, $dbrefs) = @_;
   if($dbrefs){
@@ -105,18 +102,15 @@ sub accession {
   return($self->{accession});
 }
 
-
 sub name {
   my ($self) = @_;
   return($self->{name});
 }
 
-
 sub public {
   my ($self) = @_;
   return($self->{public});
 }
-
 
 sub threshold {
   my ($self, $threshold) = @_;
@@ -168,9 +162,13 @@ sub minimum_subgroup {
   # we need to pass it by reference in each instance. To make things easier, I combined all that information in one array
   # which will have the best score in the position 0 and the list of combination with that score after that.
   $best_paths[0] = +Inf;
-  if ((%$hash_ref) && (scalar (keys %$hash_ref) >= 1)) {
+  if ((%$hash_ref) && (scalar (keys %$hash_ref) > 1)) {
     my %minimum = %$hash_ref;
     check_step_members($_, $hash_ref, 2, \@best_paths) for (@{$minimum{1}{members}}); # for each member in the step 1, check the members in step 2
+    }
+  elsif ((%$hash_ref) && (scalar (keys %$hash_ref) > 1)) { # In the case that there is only 1 step in the GP
+    $best_paths[0]=0;
+    push (@$best_paths, @{$minimum{1}{members}});
     }
   shift @best_paths;
   $self->{_minimum_subgroup} = \@best_paths;
@@ -180,53 +178,58 @@ sub minimum_subgroup {
 sub check_step_members {
   my ($string_members, $hash_ref, $index, $out) =@_;
   my %minimum = %$hash_ref;
-  if ($index < (scalar (keys %minimum))) { 
-  # If it's not the last step, calculate the score for that subset of steps. 
-  # If its greater than the best score, discard it. Else go on with the nest step
-    foreach $m (@{$minimum{$index}{members}}) {
-      my $sub_path = $string_members."; ".$m;
-      my @sub_path = split "; ", $sub_path;
-      my $sub_path_score =0;
-      # There could be several consecutive not required steps in pathway.
-      # To avoid counting a jump after a not required step/s, we store the last required result and compare against it
-      my $last_required = $sub_path[0];
-      $last_required = $sub_path[1] if ($sub_path[0] eq "NOT_REQUIRED");
-      for (my $i=1; $i < (scalar @sub_path); $i++) {
-        $sub_path_score++ if ($sub_path[$i] ne $last_required);
-        $last_required = $sub_path[$i] if ($sub_path[$i] ne "NOT_REQUIRED")
+
+  foreach $m (@{$minimum{$index}{members}}) {
+    my $required=1;
+    my $last_required=1;
+    my $sub_path = $string_members."; ".$m;
+    my @sub_path = split "; ", $sub_path;
+    my $sub_path_score =0;
+    # There could be several consecutive not required steps in pathway.
+    # To avoid counting a jump after a not required step/s, we store the last required result and compare against it
+
+    $last_required = 0 if ($sub_path[0] =~ /\*$/);
+    for (my $i=1; $i < (scalar @sub_path); $i++) {
+      $required = 0 if ($sub_path[$i] =~ /\*$/);
+      
+      if ($sub_path[$i] ne $sub_path[$i-1]) {
+        if ($required == 1 && $last_required == 1) { # If both steps are required, count it as a jump
+          $sub_path_score+=1; 
+          }
+        else{ # If one of the steps is not required, compare the members and count it as a jump, but with a lower penalisation.
+          my $prev_step = $sub_path[$i-1];
+          $prev_step =~ s/\*$//;
+          my $curr_step = $sub_path[$i];
+          $curr_step =~ s/\*$//;
+          $sub_path_score+=0.01 if ($prev_step ne $curr_step); 
+          }
         }
-      next if ($sub_path_score > @{$out}[0]);
+      $last_required = $required;
+      $required = 1;
+      }
+    
+    if ($index < (scalar (keys %minimum))) { # If it's not the last step, calculate the score for that subset of steps. 
+      next if ($sub_path_score > @{$out}[0]); # If its greater than the best score, discard it. Else go on with the nest step
       check_step_members($sub_path, $hash_ref, $index+1, $out);
       }
-    }    
-  else {
-  # If it's the last step, calculate the final score and evaluate it.
-    if (!$minimum{$index}{members}) { # In the case that there is only 1 step in the GP, it won't enter to the foreach loop 
-      @{$out}[0]=0;
-      push (@$out, $string_members);
-      }
-    foreach $m (@{$minimum{$index}{members}}) {
-      my $path = $string_members."; ".$m;
-      my @path = split "; ", $path;
-      my $path_score=0;
-      my $last_required = $path[0];
-      $last_required = $path[1] if ($path[0] eq "NOT_REQUIRED");
-      for (my $i=1; $i < (scalar @path); $i++) {
-        $path_score++ if ($path[$i] ne $last_required);
-        $last_required = $path[$i] if ($path[$i] ne "NOT_REQUIRED")
-        }
-      if ($path_score < @{$out}[0]) {
+    else { # If it's the last step, calculate the final score and evaluate it.
+      if ($sub_path_score < @{$out}[0]) {
         @{$out} = [];
-        @{$out}[0] = $path_score;
-        @{$out}[1] = $path;
+        @{$out}[0] = $sub_path_score;
+        @{$out}[1] = $sub_path;
         }   
-      elsif ($path_score == @{$out}[0]) {
-        push (@$out, $path);
+      elsif ($sub_path_score == @{$out}[0]) {
+        push (@$out, $sub_path);
         }
       }
     }    
   }
-  
+
+sub required_number {
+  my ($self) = @_;
+  return $$self->{required_number};
+  }
+
 sub checkConnection {
   my ($self, $gps, $connect) = @_;
   
