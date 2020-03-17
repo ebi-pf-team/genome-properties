@@ -1,5 +1,4 @@
 package GenomeProperties::DefinitionMeta;
-use GenomeProperties::StepMeta;
 
 sub new {
   my $class = shift;
