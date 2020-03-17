@@ -134,12 +134,6 @@ sub open_outputfiles {
       die "Unknown output type $f\n";
       }
     }
-  if($self->{transporters}){
-    warn "Opening filehandle based on transporters\n"; 
-    my $file = $root."/TRANSPORTS_".$self->{name};
-    open(my $fh, '>', $file) or die "Failed to open $file:[$!]\n";
-    $self->transportsFH($fh);
-    }      
   }
 
 sub minimumFH {
@@ -233,19 +227,6 @@ sub matchFH {
     return ($self->{matchFH});
   }
   
-sub transportsFH {
-  my ( $self, $fh ) = @_;
-  if($fh){
-    if(ref($fh) eq "GLOB"){
-      $self->{transportsFH} = $fh;    
-      }
-    else{
-      croak("Filehandle not passed in\n"); 
-      }
-    }
-    return ($self->{transportsFH});
-  }  
-
 ##   Read properties   ##
 
 sub read_properties {
@@ -663,7 +644,7 @@ sub evaluate_step {
         if(defined($self->get_defs->{ $evObj->gp })){
           # For properties a PARTIAL or YES result is considered success           
           if( $self->get_defs->{ $evObj->gp }->result eq 'YES' or $self->get_defs->{ $evObj->gp }->result eq 'PARTIAL' ){
-			push (@succeed, $self->get_defs->{ $evObj->gp }->accession);
+ 			push (@succeed, $self->get_defs->{ $evObj->gp }->accession);
             print "\tevidence is ".$self->get_defs->{ $evObj->gp }->result."\n" if ($self->{debug});
             }
           elsif($self->get_defs->{ $evObj->gp }->result eq 'UNTESTED'){
@@ -712,85 +693,6 @@ sub get_family {
     }
   }
   
-##     Transporters    ##
-
-sub evaluate_transporters {
-  # GenProp0071 is the category that includes all transport systems.
-  # It can't be directly analysed, because it's a category (and has steps
-  # that are also categories). So, if this option is selected, we first allow
-  # the evaluation of categories, we evaluate GP0071 and then turn them of again.
-  my ($self) = @_;
-  push (@{$self->{_evaluating}}, "GenProp0071");
-  $self->incomplete(1);
-  while ($self->incomplete) {
-    $self->evaluate_property("GenProp0071");	  
-	$self->check_transporters;
-    }
-  $self->transform_transporters_annotation;
-  }
-  
-sub check_transporters {
-  # Similar to "check_results", but it doesn't skip "CATEGORY"
-  my($self) = @_;
-  my @prop_list;
-  $self->get_evidence_gps("GenProp0071", \@prop_list);
-  my $miss = 0;
-  foreach my $acc (@prop_list){
-    if (!defined($self->get_def($acc)->evaluated) or $self->get_def($acc)->evaluated == 0 ){
-      $self->evaluate_property($acc);	  
-      if ($self->get_def($acc)->evaluated == 0 ){
-	    $miss++;
-        if ($self->{debug}) {
-          print "$acc is still missing\n";
-          print "value of missing: $miss\n";
-         }
-	    }
-      }
-    }   
-  print "MISSING is $miss <-----------------------------------\n" if ($self->{debug});
-  $self->incomplete(0) if ($miss == 0);
-  }
-  
-sub get_evidence_gps {
-  # Th original "check_results" sub evaluates all the entire set of GPs.
-  # To evaluate only the transporters, and avoid going through the whole thing,
-  # we construct an array with all the GPs that are included as evidences in any
-  # part of the Transports Category.
-  my ($self, $acc, $prop_list) = @_;
-  my $def = $self->get_def($acc);
-  foreach my $step (@{ $def->get_steps }){
-    my $evRef = $step->get_evidence;
-    foreach my $evObj (@{$evRef}){
-      if($evObj->gp){
-        push (@{$prop_list}, $self->get_defs->{ $evObj->gp }->accession); 
-        $self->get_evidence_gps ($self->get_defs->{ $evObj->gp }->accession, $prop_list);
-        }
-      }
-    }
-  }
-  
-sub transform_transporters_annotation {
-  my($self) = @_;
-  my %species;
-  my $main_prop = $self->get_def("GenProp0179");
-  foreach my $main_step (sort { $a->order cmp $b->order} @{ $main_prop->get_steps }){
-    foreach my $main_e (@{ $main_step->get_evidence }){
-      my $prop = $self->get_defs->{$main_e->gp};
-      if ($prop->result eq "YES") {
-        foreach my $s (@{$prop->{_members}}) {
-          push (@{$species{$s}}, $prop->accession);
-          } 
-        }
-      elsif ($prop->result eq "PARTIAL")  {
-        foreach my $s (@{$prop->{_members}}) {
-          push (@{$species{$s}}, $prop->accession."*");
-          } 
-        }
-      }
-    }
-  $self->{_transporters} = \%species;
-  }        
-  
 ##        Write        ##
 
 sub write_results{
@@ -815,8 +717,6 @@ sub write_results{
     $self->print_matches($prop) if($self->matchFH);
     $self->print_minimum($prop) if($self->minimumFH);
     }
-
-  $self->print_transports if($self->transportsFH);
   $self->print_json if($self->jsonFH);
   return(1);
   }
@@ -1157,24 +1057,6 @@ sub print_json {
   print $jfh to_json($self->{_json}, { ascii => 1, pretty => 1 });
   return;
   }
-  
-sub print_transports {
-  my ($self) = @_; 
-  my $report;
-  my @gps;
-  foreach my $s (keys %{$self->{_transporters}}) {
-    $report .= $s."\t".(join "; ", @{$self->{_transporters}{$s}})."\n";
-    for (@{$self->{_transporters}{$s}}){
-      $_ =~ s/\*$//;
-      push (@gps, $_);
-      }
-    }
-  @gps = uniq (@gps);
-  $report .= "\n\n";
-  $report .= $_."\t".$self->get_defs->{$_}->name."\n" for (@gps);
-  my $tfh = $self->transportsFH;
-  print $tfh $report;
-  }  
 
 ##    Close output     ##
 
@@ -1185,7 +1067,6 @@ sub close_outputfiles {
   close($self->tableFH)      and $self->removeTableFH      if ($self->tableFH);
   close($self->compTableFH)  and $self->removeCompTableFH  if($self->compTableFH);
   close($self->matchFH)      and $self->removeMatchFH      if($self->matchFH);
-  close($self->transportsFH) and $self->removeTransportsFH if($self->transportsFH);
   close($self->jsonFH)                                     if($self->jsonFH);
   return(1);
   }
@@ -1214,11 +1095,6 @@ sub removeMatchFH {
   my ($self);
   $self->{matchFH}=undef;
   }    
-
-sub removeTransportsFH {
-  my ($self);
-  $self->{transportsFH}=undef;
-  }
   
 ##        Debug        ##
 sub debug{
