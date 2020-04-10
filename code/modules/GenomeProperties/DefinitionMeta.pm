@@ -47,15 +47,6 @@ sub result {
     
 }
 
-sub members {
-  my ($self, @members) =@_;
-  if (@members){
-    $self->{_members} = \@members;
-    }
-  
-  return($self->{_members});
-  }
-
 sub refs {
   my ($self, $refs) = @_;
   if($refs){
