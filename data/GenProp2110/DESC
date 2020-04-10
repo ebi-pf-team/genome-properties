@@ -1,0 +1,44 @@
+AC  GenProp2110
+DE  L-glutamate degradation VI (to pyruvate)
+TP  PATHWAY
+AU  Caspi R
+TH  0
+DC  L-glutamate degradation VI (to pyruvate)
+DR  MetaCyc; PWY-5087;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  glutamate mutase
+DN  glutamate mutase (5.4.99.1)
+RQ  1
+EV  IPR006396; cd00245; sufficient;
+EV  IPR006396; MF_01923; sufficient;
+EV  IPR006396; TIGR01503; sufficient;
+EV  IPR006396; PIRSF001495; sufficient;
+EV  IPR006396; PF06368; sufficient;
+--
+SN  2
+ID  3-methylaspartase
+DN  3-methylaspartase (4.3.1.2)
+RQ  1
+EV  IPR006395; SFLDG00151; sufficient;
+EV  IPR006395; PIRSF017107; sufficient;
+EV  IPR006395; TIGR01502; sufficient;
+EV  IPR022662; PF07476; sufficient;
+EV  IPR022665; PF05034; sufficient;
+--
+SN  3
+ID  citramalate hydrolyase
+DN  citramalate hydrolyase (4.2.1.34)
+RQ  0
+--
+SN  4
+ID  citramalate lyase
+DN  citramalate lyase (4.1.3.22(4.1.3.25 for β +2.8.3.11 for α))
+RQ  1
+EV  IPR005675; PTHR43538; sufficient;
+EV  IPR005675; TIGR00977; sufficient;
+//

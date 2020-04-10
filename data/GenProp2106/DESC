@@ -1,0 +1,72 @@
+AC  GenProp2106
+DE  L-lysine fermentation to acetate and butanoate (sub-path I)
+TP  PATHWAY
+AU  Pellegrini-Toole A, Caspi R
+TH  3
+DC  L-lysine fermentation to acetate and butanoate
+DR  MetaCyc; P163-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  L-lysine 2,3-aminomutase	
+DN  L-lysine 2,3-aminomutase	 (5.4.3.2)
+RQ  1
+EV  IPR003739; PTHR30538; sufficient;
+EV  IPR003739; TIGR00238; sufficient;
+--
+SN  2
+ID  lysine-5,6-aminomutase
+DN  lysine-5,6-aminomutase (5.4.3.3)
+RQ  1
+EV  IPR015130; PF09043; sufficient;
+EV  IPR028991; PF16554; sufficient;
+--
+SN  3
+ID  L-erythro-3,5-diaminohexanoate dehydrogenase
+DN  L-erythro-3,5-diaminohexanoate dehydrogenase (1.4.1.11)
+RQ  1
+EV  IPR000000; KDDhmmjl; sufficient;
+--
+SN  4
+ID  3-keto-5-aminohexanoate cleavage enzyme
+DN  3-keto-5-aminohexanoate cleavage enzyme (2.3.1.247)
+RQ  1
+EV  IPR008567; PTHR37418; sufficient;
+EV  IPR008567; PF05853; sufficient;
+--
+SN  5
+ID  butyryl-CoA:acetoacetate CoA-transferase
+DN  butyryl-CoA:acetoacetate CoA-transferase (2.8.3.9)
+RQ  1
+EV  IPR004165; SM00882; sufficient;
+EV  IPR004165; PF01144; sufficient;
+--
+SN  6
+ID  acetyl-CoA C-acetyltransferase
+DN  acetyl-CoA C-acetyltransferase (2.3.1.9/2.3.1.16)
+RQ  1
+EV  IPR002155; PIRSF000429; sufficient;
+EV  IPR002155; TIGR01930; sufficient;
+--
+SN  7
+ID  phosphotransacetylase
+DN  phosphotransacetylase (2.3.1.8)
+RQ  1
+EV  IPR000000; PTHR43356; sufficient;
+EV  IPR012147; PIRSF000428; sufficient;
+EV  IPR002505; PF01515; sufficient;
+--
+SN  8
+ID  acetate kinase
+DN  acetate kinase (2.7.2.1/2.7.2.15)
+RQ  1
+EV  IPR000890; PR00471; sufficient;
+EV  IPR000890; PTHR21060; sufficient;
+EV  IPR000890; PF00871; sufficient;
+EV  IPR004372; MF_00020; sufficient;
+EV  IPR004372; TIGR00016; sufficient;
+EV  IPR004372; PIRSF000722; sufficient;
+//

@@ -1,0 +1,58 @@
+AC  GenProp2107
+DE  L-lysine fermentation to acetate and butanoate (sub-path II)
+TP  PATHWAY
+AU  Pellegrini-Toole A, Caspi R
+TH  2
+DC  L-lysine fermentation to acetate and butanoate
+DR  MetaCyc; P163-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  L-lysine 2,3-aminomutase	
+DN  L-lysine 2,3-aminomutase	 (5.4.3.2)
+RQ  1
+EV  IPR003739; PTHR30538; sufficient;
+EV  IPR003739; TIGR00238; sufficient;
+--
+SN  2
+ID  lysine-5,6-aminomutase
+DN  lysine-5,6-aminomutase (5.4.3.3)
+RQ  1
+EV  IPR015130; PF09043; sufficient;
+EV  IPR028991; PF16554; sufficient;
+--
+SN  3
+ID  L-erythro-3,5-diaminohexanoate dehydrogenase
+DN  L-erythro-3,5-diaminohexanoate dehydrogenase (1.4.1.11)
+RQ  1
+EV  IPR000000; KDDhmmjl; sufficient;
+--
+SN  4
+ID  3-keto-5-aminohexanoate cleavage enzyme
+DN  3-keto-5-aminohexanoate cleavage enzyme (2.3.1.247)
+RQ  1
+EV  IPR008567; PF05853; sufficient;
+EV  IPR008567; PTHR37418; sufficient;
+--
+SN  5
+ID  L-3-aminobutyryl coenzyme A deaminase
+DN  L-3-aminobutyryl coenzyme A deaminase (4.3.1.14)
+RQ  1
+EV  IPR006683; PF03061; sufficient;
+--
+SN  6
+ID  butyryl-CoA dehydrogenase, acyl-CoA dehydrogenase
+DN  butyryl-CoA dehydrogenase, acyl-CoA dehydrogenase (1.3.8.1)
+RQ  1
+EV  IPR000000; PIRSF016578; sufficient;
+--
+SN  7
+ID  butyryl-CoA:acetoacetate CoA-transferase
+DN  butyryl-CoA:acetoacetate CoA-transferase (2.8.3.9)
+RQ  1
+EV  IPR004165; SM00882; sufficient;
+EV  IPR004165; PF01144; sufficient;
+//

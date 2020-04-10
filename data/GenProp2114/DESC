@@ -1,0 +1,30 @@
+AC  GenProp2114
+DE  L-glutamate degradation IX (via 4-aminobutanoate) (sub-path II)
+TP  PATHWAY
+AU  Hong E
+TH  1
+DC  L-glutamate degradation IX (via 4-aminobutanoate)
+DR  MetaCyc; PWY0-1305;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  glutamate decarboxylase A / glutamate decarboxylase B 
+DN  glutamate decarboxylase A / glutamate decarboxylase B  (4.1.1.15)
+RQ  1
+EV  IPR002129; PF00282; sufficient;
+--
+SN  2
+ID  4-aminobutyrate aminotransferase /4-aminobutyrate transaminase	
+DN  4-aminobutyrate aminotransferase /4-aminobutyrate transaminase	 (2.6.1.19)
+RQ  1
+EV  IPR004632; TIGR00700; sufficient;
+--
+SN  3
+ID  NAD(P)-dependent succinate-semialdehyde dehydrogenase  / NAD(P)+-dependent succinate semialdehyde dehydrogenase
+DN  NAD(P)-dependent succinate-semialdehyde dehydrogenase  / NAD(P)+-dependent succinate semialdehyde dehydrogenase (1.2.1.16)
+RQ  1
+EV  IPR000000; PTHR43353; sufficient;
+//

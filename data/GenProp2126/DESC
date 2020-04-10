@@ -1,0 +1,42 @@
+AC  GenProp2126
+DE  superpathway of brached chain amino acid biosynthesis (from pyruvate) (sub-path III)
+TP  PATHWAY
+AU  LaRossa R
+TH  1
+DC  superpathway of brached chain amino acid biosynthesis (from pyruvate)
+DR  MetaCyc; BRANCHED-CHAIN-AA-SYN-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  acetolactate synthase
+DN  acetolactate synthase (2.2.1.6)
+RQ  1
+EV  IPR012846; TIGR00118; sufficient;
+EV  IPR004789; PTHR30239; sufficient;
+EV  IPR012782; TIGR02418; sufficient;
+--
+SN  2
+ID  ketol-acid reductoisomerase/acetohydroxy acid isomeroreductase
+DN  ketol-acid reductoisomerase/acetohydroxy acid isomeroreductase (1.1.1.86)
+RQ  1
+EV  IPR013023; MF_00435; sufficient;
+EV  IPR014359; PIRSF000116; sufficient;
+--
+SN  3
+ID  dihydroxyacid dehydratase
+DN  dihydroxyacid dehydratase (4.2.1.9)
+RQ  1
+EV  IPR004404; TIGR00110; sufficient;
+EV  IPR004404; MF_00012; sufficient;
+--
+SN  4
+ID  branched-chain-amino-acid aminotransferase
+DN  branched-chain-amino-acid aminotransferase (2.6.1.42)
+RQ  1
+EV  IPR001544; PF01063; sufficient;
+EV  IPR005785; TIGR01122; sufficient;
+EV  IPR033939; cd01557; sufficient;
+//

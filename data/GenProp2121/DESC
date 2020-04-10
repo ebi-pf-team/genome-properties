@@ -1,0 +1,30 @@
+AC  GenProp2121
+DE  glycocholate metabolism (bacteria) (sub-path I)
+TP  PATHWAY
+AU  Fulcher CA
+TH  0
+DC  glycocholate metabolism (bacteria)
+DR  MetaCyc; PWY-6518;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  choloylglycine hydrolase
+DN  choloylglycine hydrolase (3.5.1.24)
+RQ  1
+EV  IPR000000; PTHR35527; sufficient;
+--
+SN  2
+ID  7α-hydroxysteroid dehydrogenase
+DN  7α-hydroxysteroid dehydrogenase (1.1.1.159)
+RQ  1
+EV  IPR002347; PF00106; sufficient;
+--
+SN  3
+ID  7β-hydroxysteroid dehydrogenase
+DN  7β-hydroxysteroid dehydrogenase (1.1.1.201)
+RQ  1
+EV  IPR002347; PF00106; sufficient;
+//

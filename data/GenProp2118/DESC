@@ -1,0 +1,40 @@
+AC  GenProp2118
+DE  L-alanine fermentation to propanoate and acetate (sub-path II)
+TP  PATHWAY
+AU  Fulcher CA, Caspi R
+TH  1
+DC  L-alanine fermentation to propanoate and acetate
+DR  MetaCyc; PROPFERM-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  alanine aminotransferase
+DN  alanine aminotransferase (2.6.1.2)
+RQ  1
+EV  IPR000000; PTHR43488; sufficient;
+--
+SN  2
+ID  pyruvate-ferredoxin oxidoreductase
+DN  pyruvate-ferredoxin oxidoreductase (1.2.7.1)
+RQ  1
+EV  IPR011895; TIGR02176; sufficient;
+--
+SN  3
+ID  phosphotransacetylase
+DN  phosphotransacetylase (2.3.1.8)
+RQ  1
+EV  IPR000000; PTHR43356; sufficient;
+EV  IPR012147; PIRSF000428; sufficient;
+--
+SN  4
+ID  acetate kinase
+DN  acetate kinase (2.7.2.1/2.7.2.15)
+RQ  1
+EV  IPR000890; PTHR21060; sufficient;
+EV  IPR000890; PF00871; sufficient;
+EV  IPR004372; TIGR00016; sufficient;
+EV  IPR004372; MF_00020; sufficient;
+//
