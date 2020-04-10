@@ -1,0 +1,46 @@
+AC  GenProp2102
+DE  Bifidobacterium shunt (sub-path I)
+TP  PATHWAY
+AU  Pellegrini-Toole A, Caspi R
+TH  3
+DC  Bifidobacterium shunt
+DR  MetaCyc; P124-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  Hexokinase / glucokinase
+DN  Hexokinase / glucokinase (2.7.1.1/2.7.1.2)
+RQ  1
+EV  IPR001312; PS51748; sufficient;
+EV  IPR001312; PTHR19443; sufficient;
+EV  IPR000600; PTHR18964; sufficient;
+EV  IPR000600; PF00480; sufficient;
+EV  IPR004654; TIGR00744; sufficient;
+--
+SN  2
+ID  glucose-6-phosphate isomerase
+DN  glucose-6-phosphate isomerase (5.3.1.9)
+RQ  1
+EV  IPR001672; PTHR11469; sufficient;
+EV  IPR001672; PF00342; sufficient;
+--
+SN  3
+ID  D-xylulose 5-phosphate phosphoketolase / D-fructose 6-phosphate phosphoketolase
+DN  D-xylulose 5-phosphate phosphoketolase / D-fructose 6-phosphate phosphoketolase (4.1.2.22)
+RQ  1
+EV  IPR005593; PTHR31273; sufficient;
+EV  IPR005593; PF03894; sufficient;
+EV  IPR023962; MF_01403; sufficient;
+--
+SN  4
+ID  acetate kinase / propionate kinase
+DN  acetate kinase / propionate kinase (2.7.2.1/2.7.2.15)
+RQ  1
+EV  IPR000890; PTHR21060; sufficient;
+EV  IPR000890; PF00871; sufficient;
+EV  IPR004372; TIGR00016; sufficient;
+EV  IPR004372; MF_00020; sufficient;
+//
