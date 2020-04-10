@@ -403,9 +403,9 @@ sub define_sequence_set {
       open(my $FH, '<', $file) or croak( "Failed to open ".$file."\n");
       @sb = <$FH>; 
       $file =~ s/^$self->{seqs_dir}(.*?)\.$self->{ext}$//;
-      my $prot = $1;
+      my $species = $1;
       foreach my $l (@sb){
-        $self->{seqs_and_annotations}->{$prot}->{$1} = [] if($l =~ /^>(\S+)/);
+        $self->{seqs_and_annotations}->{$species}->{$1} = [] if($l =~ /^>(\S+)/);
         }
       }  
     }
@@ -432,13 +432,13 @@ sub signature_matches {
       next if ($file !~ /$self->{ext}$/);
       $file =  $self->{matches_dir}."/".$file;
       open(my $FH, '<', $file) or die "Could not open signature matches file: ".$file."\n";
-      my $prot = $1 if ($file =~ /^$self->{matches_dir}\/(.*?)\.$self->{ext}$/);
+      my $species = $1 if ($file =~ /^$self->{matches_dir}\/(.*?)\.$self->{ext}$/);
       @mb = <$FH>;
       close($FH);
       foreach my $line (@mb){
         chomp($line);
         my @i5 = split(/\t/, $line);
-        push(@{$self->{seqs_and_annotations}->{$prot}->{$i5[0]}}, $i5[4]);
+        push(@{$self->{seqs_and_annotations}->{$species}->{$i5[0]}}, $i5[4]);
         }
       }
       $self->{read_sig} =1;  
@@ -449,10 +449,10 @@ sub signature_matches {
 sub transform_annotations {
   my ($self) = @_; 
   my %fams;
-  foreach my $prot (keys %{$self->{seqs_and_annotations} }){
-    foreach my $seq (keys %{$self->{seqs_and_annotations}->{$prot} }){
-      foreach my $fam (@{ $self->{seqs_and_annotations}->{$prot}->{$seq} }){
-        push (@{$fams{$fam}->{$seq}}, $prot);
+  foreach my $species (keys %{$self->{seqs_and_annotations} }){
+    foreach my $seq (keys %{$self->{seqs_and_annotations}->{$species} }){
+      foreach my $fam (@{ $self->{seqs_and_annotations}->{$species}->{$seq} }){
+        push (@{$fams{$fam}->{$seq}}, $species);
         }
       }
     }
@@ -558,7 +558,6 @@ sub evaluate_property {
   my($self, $acc) = @_; 
   my %found;
   my @missing;
-  my @members;
   my %minimum;
   print "In evaluate property, $acc\n" if ($self->{debug});
   $self->evaluation_order($acc);
@@ -575,7 +574,6 @@ sub evaluate_property {
    
    if($step->{found}){
       $found{$step->{order}} = $step->found;
-      push (@members, $step->found);
       if ($self->{minimumFH}) {
         push (@{$minimum{$step->{order}}{members}}, @{$step->found});
         @{$minimum{$step->{order}}{members}} = map {$_.'*'} @{$minimum{$step->{order}}{members}} if (!$step->required);
@@ -605,8 +603,6 @@ sub evaluate_property {
     $def->result('YES'); #All steps found.
     }
   
-  @members = uniq(@members);
-  $def->members(@members);
   $def->minimum_subgroup(\%minimum) if ($self->{minimumFH});
   }
    
@@ -773,9 +769,6 @@ sub print_long {
       }
    elsif ($species_prop{$s} >= $prop->{threshold}) {
      $report .= ".\t$s: PARTIAL\n";
-      }
-    else {
-      $report .= ".\t$s: NO\n";
       }
     }
   print $fh $report;
