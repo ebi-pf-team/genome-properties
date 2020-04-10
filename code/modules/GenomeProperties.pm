@@ -667,18 +667,23 @@ sub evaluate_step {
   }
   my $evRef = $step->get_evidence;
   
+  #Some times we need more than one piece of evidence to assert a 
+  #step, so this will provide a counter. If a step is sufficient, this
+  #will essentially be ifnored.
+  
+  my $insufficientEvidence =0;
+  
   if (!scalar(@{$evRef})){
     if($self->debug){
       print ("\tthis step has no evidence\n");
     }
     $step->skip(1);
   } else {
-  
+ 
     EV: foreach my $evObj (@{$evRef}){
     #if (!$ev_id) {print RESULTS ("there is no ev_id\n"); next;} - Add to the object method
       if ($self->debug) {print ("\tevidence is ".p($evObj)."\n");}
       if ($self->debug) {print "\tev type is: ".$evObj->type."\n";}
-      
       if($evObj->gp){
         if(defined($self->get_defs->{ $evObj->gp })){
           # For properties a PARTIAL or YES result is considered success           
@@ -695,10 +700,17 @@ sub evaluate_step {
         if(!$self->annotated){  
           $self->annotate_sequences
         }
+        $insufficientEvidence++;
+
+
+
         #See if the accession has been found  
         if($self->get_family( $evObj->accession ) ){
           $succeed++;
-          last EV;
+          if(defined($evObj->type) and $evObj->type eq 'sufficient'){
+            $insufficientEvidence = 0;
+            last EV;
+          }
         }
       }else{
         die "unknown evidence object type\n";
@@ -706,7 +718,12 @@ sub evaluate_step {
     }
   }
   if ($succeed){
-    $step->found(1);
+    if($insufficientEvidence>0){
+      #Have we met all of the necessary steps? i.e. we can not have seen a sufficient step.
+      $step->found(1) if($insufficientEvidence <= $succeed);
+    }else{
+      $step->found(1);
+    }
     #$step->matched_sequences($mSeqs);
     #Need to get the sequences in here. 
   }

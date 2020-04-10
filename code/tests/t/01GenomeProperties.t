@@ -1,4 +1,4 @@
-use Test::More tests => 11;
+use Test::More tests => 13;
 use Cwd 'abs_path';
 use File::Basename;
 use File::Slurp;
@@ -70,7 +70,7 @@ $gp3->set_options({matches => $inline,
                    name => "test_partial", 
                    outfiles => ["table", "comp_table"],
                    outdir   => $tempdir,
-                    match_source => "inline",
+                   match_source => "inline",
                    gpdir   => $data_dir,
                    gpff    => "01_gpff",
                    all => 1}, "cal");
@@ -81,6 +81,52 @@ $gp3->write_results;
 $gp3->close_outputfiles;
 
 
+#------------------------------------------------------------------------------
+#Writing fix to Github issue #30. At the moment, when there are two steps,
+#and both need to be found, it is currently evaluating either, not both.
 
+#This should be insufficient to calculate the GP.
+$inline = join("", @inline[3..4]);
+
+my $gp4 = GenomeProperties->new;
+$gp4->set_options({matches => $inline,
+                   name => "test_insufficient", 
+                   outfiles => ["table", "comp_table"],
+                   outdir   => $tempdir,
+                   match_source => "inline",
+                   gpdir   => $data_dir,
+                   gpff    => "01_gpff",
+                   all => 1}, "cal");
+
+$gp4->open_outputfiles;
+$gp4->read_properties;
+$gp4->evaluate_properties;
+$gp4->write_results;
+$gp4->close_outputfiles;
+my $expt = read_file("$data_dir/02_insufficient_check");
+my $got  = read_file("$tempdir/TABLE_test_insufficient");
+cmp_ok($got, 'eq', $expt, "Equivalent results for evaulating insufficient matches for a step");
+
+#Now lets include all of the necessary matches.
+$inline = join("", @inline[3..6]);
+$gp4 = GenomeProperties->new;
+$gp4->set_options({matches => $inline,
+                   name => "test_sufficient", 
+                   outfiles => ["table", "comp_table"],
+                   outdir   => $tempdir,
+                   match_source => "inline",
+                   gpdir   => $data_dir,
+                   gpff    => "01_gpff",
+                   all => 1}, "cal");
+
+$gp4->open_outputfiles;
+$gp4->read_properties;
+$gp4->evaluate_properties;
+$gp4->write_results;
+$gp4->close_outputfiles;
+$expt = read_file("$data_dir/02_sufficient_check");
+$got  = read_file("$tempdir/TABLE_test_sufficient");
+cmp_ok($got, 'eq', $expt, "Equivalent results for evaulating sufficient");
+#------------------------------------------------------------------------------
 
 

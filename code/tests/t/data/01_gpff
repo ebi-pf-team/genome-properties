@@ -35,3 +35,35 @@ RQ  1
 EV  IPR000304; TIGR00112; sufficient;
 TG  GO:0006561;
 //
+AC  GenProp0877
+DE  Flagellar motor stator complex
+TP  SYSTEM
+AU  Haft DH
+TH  0
+RN  [1]
+RM  15629949
+RT  Evidence for two flagellar stators and their role in the motility of
+RT  Pseudomonas aeruginosa.
+RA  Toutain CM, Zegans ME, O'Toole GA;
+RL  J Bacteriol. 2005;187:771-777.
+CC  The MotAB complex functions as the stator producing torque in the
+CC  mobile flagellar rotor complex. The stator changes conformation in
+CC  response to the passage of protons across the cytoplasmic membrane.
+CC  This complex is also necessarily a force-generating proton transporter.
+CC  The stator complex contains MotA and MotB subunits in a 4:2 ratio and
+CC  several stators are associated with each motor, each generating torque
+CC  independently.
+--
+SN  1
+ID  Flagellar motor stator protein MotA
+DN  Flagellar motor stator protein MotA
+RQ  1
+EV  IPR002898; PF01618;
+EV  IPR022522; TIGR03818;
+--
+SN  2
+ID  Flagellar motor stator protein MotB
+DN  Flagellar motor stator protein MotB
+RQ  1
+EV  IPR006665; PF00691;
+//

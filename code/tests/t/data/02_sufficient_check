@@ -1,0 +1,6 @@
+acc	description	property_value	step_number	step_name	step_value	required?	evidence_type	evidence_name	best_HMM_hit	HMM_hit_count
+GenProp0111	Proline biosynthesis from glutamate	NO	1	Glutamate 5-kinase	0	YES	InterPro
+GenProp0111	Proline biosynthesis from glutamate	NO	2	Glutamate-5-semialdehyde dehydrogenase	0	YES	InterPro
+GenProp0111	Proline biosynthesis from glutamate	NO	3	Pyrroline-5-carboxylate reductase	0	YES	InterPro
+GenProp0877	Flagellar motor stator complex	YES	1	Flagellar motor stator protein MotA	1	YES	InterPro
+GenProp0877	Flagellar motor stator complex	YES	2	Flagellar motor stator protein MotB	1	YES	InterPro
