@@ -2,7 +2,6 @@ package GenomeProperties;
 
 use strict;
 use warnings;
-use Data::Printer;
 use Carp;
 use GenomeProperties::Definition;
 use GenomeProperties::Step;
@@ -179,7 +178,6 @@ sub print_long {
         $report .= ".\t.\tGENPROP: ".$ev->gp."\n";
       }else{
         warn "Unknown step type\n";
-        p($ev);
       }
     }
     #TODO: Does this relate to the step or evidence
@@ -624,7 +622,7 @@ sub evaluate_property {
   $def->evaluated(1);
   foreach my $step (@{ $def->get_steps }){
     if($self->debug){
-      print "Working on step:".p($step)."\n";
+      print "Working on step:".$step->step_name."\n";
     }
 
     $self->evaluate_step($step);

@@ -8,7 +8,6 @@ use warnings;
 $|=1;
 use FileHandle;
 use Getopt::Long;
-use Data::Printer;
 use List::Util qw[min max];
 use GenomeProperties;
 use GenomeProperties::Definition;
