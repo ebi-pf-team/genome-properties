@@ -1,0 +1,86 @@
+AC  GenProp2104
+DE  L-glutamate degradation V (via hydroxyglutarate) (sub-path I)
+TP  PATHWAY
+AU  Pellegrini-Toole A, Caspi R
+TH  3
+DC  L-glutamate degradation V (via hydroxyglutarate)
+DR  MetaCyc; P162-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  glutamate dehydrogenase (NAD-dependent)
+DN  glutamate dehydrogenase (NAD-dependent) (1.4.1.2)
+RQ  1
+EV  IPR006095; PR00082; sufficient;
+EV  IPR014362; PIRSF000185; sufficient;
+EV  IPR000000; PTHR11606; sufficient;
+--
+SN  2
+ID  2-oxoglutarate reductase
+DN  2-oxoglutarate reductase (1.1.1.399)
+RQ  0
+--
+SN  3
+ID  glutaconate CoA-transferase
+DN  glutaconate CoA-transferase (2.8.3.12)
+RQ  1
+EV  IPR004165; PTHR13707; sufficient;
+EV  IPR004165; PF01144; sufficient;
+EV  IPR000000; PTHR43293; sufficient;
+--
+SN  4
+ID  active (R)-2-hydroxyglutaryl-CoA dehydratase
+DN  active (R)-2-hydroxyglutaryl-CoA dehydratase (4.2.1.167)
+RQ  1
+EV  IPR010327; PF06050; sufficient;
+--
+SN  5
+ID  glutaconyl-CoA decarboxylase
+DN  glutaconyl-CoA decarboxylase (7.2.4.5 (4.1.1.70))
+RQ  1
+EV  IPR000000; PTHR22855; sufficient;
+EV  IPR005661; TIGR01109; sufficient;
+EV  IPR005661; PTHR35806; sufficient;
+EV  IPR005661; PF03977; sufficient;
+EV  IPR000000; PTHR45266; sufficient;
+EV  IPR005899; PF04277; sufficient;
+EV  IPR005899; TIGR01195; sufficient;
+--
+SN  6
+ID  3-hydroxybutyryl-CoA dehydratase, crotonase, 3-hydroxyacyl-CoA dehydrogenase FadJ, enoyl-CoA hydratase, fatty acid oxidation complex, α component	
+DN  3-hydroxybutyryl-CoA dehydratase, crotonase, 3-hydroxyacyl-CoA dehydrogenase FadJ, enoyl-CoA hydratase, fatty acid oxidation complex, α component	 (4.2.1.150)
+RQ  1
+EV  IPR001753; PF00378; sufficient;
+EV  IPR012802; TIGR02440; sufficient;
+EV  IPR012802; MF_01617; sufficient;
+EV  IPR012799; TIGR02437; sufficient;
+EV  IPR012799; MF_01621; sufficient;
+--
+SN  7
+ID  3-hydroxybutyryl-CoA dehydrogenase, 3-hydroxyacyl-CoA dehydrogenase FadJ, (S)-3-hydroxybutanoyl-CoA dehydrogeanse, fatty acid oxidation complex, α component
+DN  3-hydroxybutyryl-CoA dehydrogenase, 3-hydroxyacyl-CoA dehydrogenase FadJ, (S)-3-hydroxybutanoyl-CoA dehydrogeanse, fatty acid oxidation complex, α component (1.1.1.35)
+RQ  1
+EV  IPR022694; PIRSF000105; sufficient;
+EV  IPR000000; PTHR43145; sufficient;
+EV  IPR012802; TIGR02440; sufficient;
+EV  IPR012802; MF_01617; sufficient;
+EV  IPR012799; TIGR02437; sufficient;
+EV  IPR012799; MF_01621; sufficient;
+--
+SN  8
+ID  acetyl-CoA C-acetyltransferase
+DN  acetyl-CoA C-acetyltransferase (2.3.1.9/2.3.1.16)
+RQ  1
+EV  IPR002155; PIRSF000429; sufficient;
+EV  IPR002155; TIGR01930; sufficient;
+--
+SN  9
+ID  acetate-CoA ligase (ADP-forming)
+DN  acetate-CoA ligase (ADP-forming) (6.2.1.13)
+RQ  1
+EV  IPR000000; PTHR43334; sufficient;
+EV  IPR000000; PF13549; sufficient;
+//

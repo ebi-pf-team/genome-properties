@@ -1,0 +1,30 @@
+AC  GenProp2123
+DE  glycocholate metabolism (bacteria) (sub-path III)
+TP  PATHWAY
+AU  Fulcher CA
+TH  0
+DC  glycocholate metabolism (bacteria)
+DR  MetaCyc; PWY-6518;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  choloylglycine hydrolase
+DN  choloylglycine hydrolase (3.5.1.24)
+RQ  1
+EV  IPR000000; PTHR35527; sufficient;
+--
+SN  2
+ID  3α-hydroxysteroid dehydrogenase
+DN  3α-hydroxysteroid dehydrogenase (1.1.1.52)
+RQ  1
+EV  IPR002347; PF00106; sufficient;
+--
+SN  3
+ID  NAD-dependent bile acid 3β-dehydrogenase
+DN  NAD-dependent bile acid 3β-dehydrogenase (1.1.1.391)
+RQ  1
+EV  IPR002347; PF00106; sufficient;
+//

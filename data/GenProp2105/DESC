@@ -1,0 +1,63 @@
+AC  GenProp2105
+DE  L-glutamate degradation V (via hydroxyglutarate) (sub-path II)
+TP  PATHWAY
+AU  Pellegrini-Toole A, Caspi R
+TH  2
+DC  L-glutamate degradation V (via hydroxyglutarate)
+DR  MetaCyc; P162-PWY;
+CC  This property has been automatically generated from MetaCyc and has not
+CC  been manually verified to check the validity of the InterPro signatures
+CC  used for the evidence. See MetaCyc for additional information and
+CC  references relating to this property.
+--
+SN  1
+ID  glutamate dehydrogenase (NAD-dependent)
+DN  glutamate dehydrogenase (NAD-dependent) (1.4.1.2)
+RQ  1
+EV  IPR006095; PR00082; sufficient;
+EV  IPR014362; PIRSF000185; sufficient;
+EV  IPR000000; PTHR11606; sufficient;
+--
+SN  2
+ID  2-oxoglutarate reductase
+DN  2-oxoglutarate reductase (1.1.1.399)
+RQ  0
+--
+SN  3
+ID  glutaconate CoA-transferase
+DN  glutaconate CoA-transferase (2.8.3.12)
+RQ  1
+EV  IPR004165; PTHR13707; sufficient;
+EV  IPR004165; PF01144; sufficient;
+EV  IPR000000; PTHR43293; sufficient;
+--
+SN  4
+ID  active (R)-2-hydroxyglutaryl-CoA dehydratase
+DN  active (R)-2-hydroxyglutaryl-CoA dehydratase (4.2.1.167)
+RQ  1
+EV  IPR010327; PF06050; sufficient;
+--
+SN  5
+ID  glutaconyl-CoA decarboxylase
+DN  glutaconyl-CoA decarboxylase (7.2.4.5 (4.1.1.70))
+RQ  1
+EV  IPR000000; PTHR22855; sufficient;
+EV  IPR005661; TIGR01109; sufficient;
+EV  IPR005661; PTHR35806; sufficient;
+EV  IPR005661; PF03977; sufficient;
+EV  IPR000000; PTHR45266; sufficient;
+EV  IPR005899; PF04277; sufficient;
+EV  IPR005899; TIGR01195; sufficient;
+--
+SN  6
+ID  butyryl-CoA dehydrogenase, acyl-CoA dehydrogenase
+DN  butyryl-CoA dehydrogenase, acyl-CoA dehydrogenase (1.3.8.1)
+RQ  1
+EV  IPR000000; PIRSF016578; sufficient;
+--
+SN  7
+ID  propinoate CoA-transferase / acetate CoA-transferase	
+DN  propinoate CoA-transferase / acetate CoA-transferase	 (2.8.3.1/2.8.3.8)
+RQ  1
+EV  IPR003702; PF02550; sufficient;
+//
