@@ -1,0 +1,42 @@
+AC  GenProp2103
+DE  Acetoacetate degradation (to acetyl CoA)
+TP  METAPATH
+AU  Irazoqui, JM
+TH  2
+RN  [1]
+RM  4563344
+RT  ato Operon: a highly inducible system for acetoacetate and butyrate
+RT  degradation in Escherichia coli
+RA  Pauli G; Overath P;
+RL  Eur J Biochem 29(3);553-62
+DC  Pathway: acetoacetate degradation (to acetyl CoA)
+DR  MetaCyc; ACETOACETATE-DEG-PWY;
+CC  Escherichia coli is able to utilize acetoacetate as a total source of
+CC  carbon and energy via the two-step pathway shown here. As end-product, the
+CC  pathway has a net yield of one molecule of acetyl-CoA which feeds into
+CC  central metabolism via the TCA cycle. Use of acetoacetate as a substrate
+CC  increases the levels of these two enzymes 200- to 300-fold [1].
+--
+SN  1
+ID  Acetate CoA-transferase subunit alpha
+DN  Acetate CoA-transferase subunit alpha (EC:2.8.3.8)
+RQ  1
+EV  IPR004165; PTHR13707;
+EV  IPR012792; TIGR02429;
+TG  GO:0008775;
+--
+SN  2
+ID  Acetate CoA-transferase subunit beta
+DN  Acetate CoA-transferase subunit beta (EC:2.8.3.8)
+RQ  1
+EV  IPR004165; PTHR13707;
+EV  IPR012791; TIGR02428;
+TG  GO:0008775;
+--
+SN  3
+ID  Acetyl-CoA acetyltransferase
+DN  Acetyl-CoA acetyltransferase (EC:2.3.1.9)
+RQ  1
+EV  IPR002155; TIGR01930;
+TG  GO:0003985;
+//

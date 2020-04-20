@@ -1,0 +1,80 @@
+AC  GenProp2116
+DE  L-lysine degradation V
+TP  PATHWAY
+AU  Irazoqui, JM
+TH  5
+RN  [1]
+RM  914858
+RT  Factors influencing growth on L-lysine by Pseudomonas. Regulation of
+RT  terminal enzymes in the delta-aminovalerate pathway and growth stimulation
+RT  by alpha ketoglutarate
+RA  Chang YF; Adams E;
+RL  J Biol Chem 252(22);7987-91
+RN  [2]
+RM  16237033
+RT  Multiple and interconnected pathways for L-lysine catabolism in Pseudomonas
+RT  putida KT2440
+RA  Revelles O; Espinosa-Urgel M; Fuhrer T; Sauer U; Ramos JL;
+RL  J Bacteriol 187(21);7500-10
+DC  L-lysine degradation V
+DR  MetaCyc; PWY-5283;
+CC  L-lysine can be catabolized via a pipecolate pathway. This pathway involves
+CC  a lysine racemase that converts L-lysine to D-lysine, which is then
+CC  converted to cyclic, six-carbon intermediates [1, 2]. This pathway is also
+CC  known as the α-aminoadipate ( L-2-aminoadipate) (AMA) pathway, and some of
+CC  the enzymes, as well as a transporter, may be encoded on the OCT plasmid.
+--
+SN  1
+ID  Broad specificity amino-acid racemase
+DN  Broad specificity amino-acid racemase (EC:5.1.1.10)
+RQ  1
+EV  IPR000821; TIGR00492;
+EV  cd06826;
+TG  GO:0008784;
+--
+SN  2
+ID  D-lysine oxidase
+DN  D-lysine oxidase (EC:1.4.3.-)
+RQ  1
+EV  IPR006076; PF01266;
+EV  PTHR13847;
+TG  GO:0016491;
+--
+SN  3
+ID  Delta(1)-piperideine-2-carboxylate reductase
+DN  Delta(1)-piperideine-2-carboxylate reductase (EC:1.5.1.21)
+RQ  1
+EV  IPR003767; PTHR11091;
+TG  GO:0047125;
+--
+SN  4
+ID  L-pipecolate oxidase
+DN  L-pipecolate oxidase (EC:1.5.3.7)
+RQ  1
+EV  PTHR13847:SF254;
+EV  IPR006076; PF01266;
+TG  GO:0050031;
+--
+SN  5
+ID  L-piperidine-6-carboxylate dehydrogenase
+DN  L-piperidine-6-carboxylate dehydrogenase (EC:1.2.1.21)
+RQ  1
+EV  IPR015590; PF00171;
+EV  PTHR43521;
+TG  GO:0050569;
+--
+SN  6
+ID  2-aminoadipate transaminase
+DN  2-aminoadipate transaminase (EC:2.6.1.39)
+RQ  1
+EV  IPR004839; PF00155;
+EV  PTHR42790:SF15;
+TG  GO:0047536;
+--
+SN  7
+ID  Succinate-hydroxymethylglutarate CoA-transferase
+DN  Succinate-hydroxymethylglutarate CoA-transferase (EC:2.8.3.13)
+RQ  1
+EV  IPR003673; PF02515;
+TG  GO:0047369;
+//

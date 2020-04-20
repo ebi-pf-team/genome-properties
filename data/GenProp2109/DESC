@@ -1,0 +1,54 @@
+AC  GenProp2109
+DE  Glutaryl-CoA degradation
+TP  SYSTEM
+AU  Irazoqui, JM
+TH  3
+RN  [1]
+RM  8436125
+RT  Products of enzymatic reduction of benzoyl‐CoA, a key reaction in anaerobic
+RT  aromatic metabolism
+RA  KOCH J; EISENREICH W; BACHER A; FUCHS G;
+RL  Eur J Biochem. 1993 Feb 1;211(3):649-61.
+DC  Lysine degradation;
+DR  KEGG; map00310;
+DC  Tryptophan degradation;
+DR  KEGG; map00380;
+CC  Glutaryl-CoA is a common intermediate in the degradation of aromatic
+CC  compounds, but it is also present in the degradation the amino acids like
+CC  lysine. This compound is proposed to be oxidazed via crotonyl-CoA to
+CC  acetyl-CoA and carbon dioxyde.
+--
+SN  1
+ID  Glutaryl-CoA dehydrogenase
+DN  Glutaryl-CoA dehydrogenase (EC:1.3.8.6)
+RQ  1
+EV  cd01151;
+EV  IPR006091; PF02770;
+EV  IPR009075; PF00441;
+EV  IPR013786; PF02771;
+TG  GO:0004361;
+--
+SN  2
+ID  enoyl-CoA hydratase
+DN  enoyl-CoA hydratase (EC:4.2.1.17)
+RQ  1
+EV  IPR001753; PF00378;
+EV  IPR029045; SSF52096; sufficient;
+TG  GO:0004300;
+--
+SN  3
+ID  3-hydroxyacyl-CoA dehydrogenase
+DN  3-hydroxyacyl-CoA dehydrogenase (EC:1.1.1.35)
+RQ  1
+EV  IPR012799; TIGR02437; sufficient;
+EV  IPR006108; PF00725;
+EV  IPR006176; PF02737;
+TG  GO:0003857;
+--
+SN  4
+ID  Acetyl-CoA C-acetyltransferase
+DN  Acetyl-CoA C-acetyltransferase (EC:2.3.1.9)
+RQ  1
+EV  IPR002155; TIGR01930;
+TG  GO:0003985;
+//

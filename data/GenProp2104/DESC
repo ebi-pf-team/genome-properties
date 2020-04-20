@@ -1,0 +1,108 @@
+AC  GenProp2104
+DE  Methanogenesis from acetate
+TP  PATHWAY
+AU  Irazoqui, JM
+TH  6
+RN  [1]
+RM  1512186
+RT  Methane from acetate
+RA  Ferry JG
+RL  J Bacteriol 1992;174(17);5489-95
+DC  Pathway to the obtention of methyl-CoM from acetate
+DR  MetaCyc; METH-ACETATE-PWY;
+CC  Pathway for the obtention of methyl-CoM, which can be converted in methane.
+CC  Most of the methane in nature originates from acetate.
+--
+SN  1
+ID  acetate kinase
+DN  Acetate kinase (EC:2.7.2.1)
+RQ  1
+EV  IPR004372; TIGR00016; sufficient;
+TG  GO:0008776;
+--
+SN  2
+ID  Phosphate acetyltransferase
+DN  Phosphate acetyltransferase (EC:2.3.1.8)
+RQ  1
+EV  IPR012147; PIRSF000428; sufficient;
+TG  GO:0006085;
+--
+SN  3
+ID  Acetyl-CoA decarbonylase/synthase complex subunit alpha
+DN  Acetyl-CoA decarbonylase/synthase complex subunit alpha (EC:1.2.7.4)
+RQ  1
+EV  IPR004460; TIGR00314;
+TG  GO:0018492;
+--
+SN  4
+ID  Acetyl-CoA decarbonylase/synthase complex subunit beta
+DN  Acetyl-CoA decarbonylase/synthase complex subunit beta
+RQ  1
+EV  IPR004461; TIGR00316;
+TG  GO:0018492;
+--
+SN  5
+ID  Acetyl-CoA decarbonylase/synthase complex subunit gamma
+DN  Acetyl-CoA decarbonylase/synthase complex subunit gamma (EC:2.1.1.245)
+RQ  1
+EV  IPR016218; PIRSF000376;
+EV  IPR023427; MF_01136;
+TG  GO:0018492;
+--
+SN  6
+ID  Tetrahydromethanopterin S-methyltransferase subunit A
+DN  Tetrahydromethanopterin S-methyltransferase subunit A (EC:2.1.1.86)
+RQ  1
+EV  IPR005778; TIGR01111;
+TG  GO:0030269;
+--
+SN  7
+ID  Tetrahydromethanopterin S-methyltransferase subunit B
+DN  Tetrahydromethanopterin S-methyltransferase subunit B (EC:2.1.1.86)
+RQ  1
+EV  IPR008690; PIRSF005518; sufficient;
+TG  GO:0030269;
+--
+SN  8
+ID  Tetrahydromethanopterin S-methyltransferase subunit C
+DN  Tetrahydromethanopterin S-methyltransferase subunit C (EC:2.1.1.86)
+RQ  1
+EV  IPR005865; PF04211; sufficient;
+TG  GO:0030269;
+--
+SN  9
+ID  Tetrahydromethanopterin S-methyltransferase subunit D
+DN  Tetrahydromethanopterin S-methyltransferase subunit D (EC:2.1.1.86)
+RQ  1
+EV  IPR005779; PIRSF016552; sufficient;
+TG  GO:0030269;
+--
+SN  10
+ID  Tetrahydromethanopterin S-methyltransferase subunit E
+DN  Tetrahydromethanopterin S-methyltransferase subunit E (EC:2.1.1.86)
+RQ  1
+EV  IPR005780; PIRSF016509; sufficient;
+TG  GO:0030269;
+--
+SN  11
+ID  Tetrahydromethanopterin S-methyltransferase subunit F
+DN  Tetrahydromethanopterin S-methyltransferase subunit F (EC:2.1.1.86)
+RQ  1
+EV  IPR011307; PIRSF006523; sufficient;
+TG  GO:0030269;
+--
+SN  12
+ID  Tetrahydromethanopterin S-methyltransferase subunit G
+DN  Tetrahydromethanopterin S-methyltransferase subunit G (EC:2.1.1.86)
+RQ  1
+EV  IPR005866; PIRSF006500; sufficient;
+TG  GO:0030269;
+--
+SN  13
+ID  Tetrahydromethanopterin S-methyltransferase subunit H
+DN  Tetrahydromethanopterin S-methyltransferase subunit H (EC:2.1.1.86)
+RQ  1
+EV  IPR023467; TIGR01114;
+EV  IPR028342; MF_01501;
+TG  GO:0030269;
+//

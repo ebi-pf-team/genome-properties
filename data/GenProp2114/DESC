@@ -1,0 +1,74 @@
+AC  GenProp2114
+DE  L-leucine degradation II
+TP  PATHWAY
+AU  Irazoqui, JM
+TH  1
+RN  [1]
+RM  4150714
+RT  Regulation of leucine catabolism in Pseudomonas putida
+RA  Massey LK; Conrad RS; Sokatch JR;
+RL  J Bacteriol 118(1);112-20.
+DC  L-leucine degradation I
+DR  MetaCyc; LEU-DEG2-PWY;
+CC  The catabolism of L-leucine begins with its transamination to
+CC  4-methyl-2-oxopentanoate, followed by oxidative decarboxylation to
+CC  isovaleryl-CoA. isovaleryl-CoA then undergoes a four-step process,
+CC  involving dehydrogenation to 3-methylcrotonyl-CoA, carboxylation to
+CC  3-methylglutaconyl-CoA, hydration to (S)-3-hydroxy-3-methylglutaryl-CoA,
+CC  and finally a thioester hydrolysis forming acetyl-CoA and acetoacetate [1].
+CC  Leucine degradation is different from the degradation of the other
+CC  branched-chain amino acids, in that it includes a carboxylation step. The
+CC  CO2 fixing enzyme, methylcrotonyl-CoA carboxylase, requires a biotin
+CC  cofactor.
+--
+SN  1
+ID  Branched-chain-amino-acid aminotransferase
+DN  Branched-chain-amino-acid aminotransferase, BCAT, (EC:2.6.1.42)
+RQ  1
+EV  IPR005786; PIRSF006468; sufficient;
+TG  GO:0004084;
+--
+SN  2
+ID  Branched-chain alpha-keto acid dehydrogenase complex, alpha subunit
+DN  Branched-chain alpha-keto acid dehydrogenase complex, alpha subunit (EC:1.2.1.25)
+RQ  1
+EV  IPR001017; PF00676;
+EV  IPR022593; PF12573;
+TG  GO:0047101;
+--
+SN  3
+ID  Branched-chain alpha-keto acid dehydrogenase complex, beta subunit
+DN  Branched-chain alpha-keto acid dehydrogenase complex, beta subunit (EC:1.2.1.25)
+RQ  1
+EV  IPR005475; PF02779;
+EV  IPR033248; PF02780;
+TG  GO:0047101;
+--
+SN  4
+ID  Isovaleryl-CoA dehydrogenase
+DN  Isovaleryl-CoA dehydrogenase (EC:1.3.8.4)
+RQ  1
+EV  IPR034183; cd01156; sufficient;
+TG  GO:0008470;
+--
+SN  5
+ID  Methylcrotonoyl-CoA carboxylase
+DN  Methylcrotonoyl-CoA carboxylase (EC:6.4.1.4)
+RQ  1
+EV  PTHR18866:SF33;
+TG  GO:0004485;
+--
+SN  6
+ID  Methylglutaconyl-CoA hydratase
+DN  Methylglutaconyl-CoA hydratase (EC:4.2.1.18)
+RQ  1
+EV  IPR001753; PF00378;
+TG  GO:0004490;
+--
+SN  7
+ID  Hydroxy-methylglutaryl-CoA lyase
+DN  Hydroxy-methylglutaryl-CoA lyase (EC:4.1.3.26)
+RQ  1
+EV  cd07938;
+TG  GO:0047445;
+//

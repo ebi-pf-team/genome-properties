@@ -1,0 +1,45 @@
+AC  GenProp2112
+DE  Glycine degradation (Stickland reaction)
+TP  METAPATH
+AU  Irazoqui, JM
+TH  1
+RN  [1]
+RM  7747933
+RT  Glycine metabolism in anaerobes
+RA  Andreesen JR
+RL  Antonie Van Leeuwenhoek. 1994;66(1-3):223-37.
+DC  Glycine degradation (Stickland reaction)
+DR  MetaCyc; PWY-8015;
+CC  Reduction of glycine to acetate, the main substrate to
+CC  methanogenic archaea
+--
+SN  1
+ID  Glycine reductase complex component A
+DN  Glycine reductase complex component A (EC:1.21.4.2)
+RQ  1
+EV  IPR006812; PIRSF000181;
+TG  GO:0030699;
+--
+SN  2
+ID  Glycine reductase complex component B
+DN  Glycine reductase complex component B (EC:1.21.4.2)
+RQ  1
+EV  IPR010186; TIGR01917;
+TG  GO:0030699;
+--
+SN  3
+ID  Glycine reductase complex component C
+DN  Glycine reductase complex component C (EC:1.21.4.2)
+RQ  1
+EV  IPR017236; PIRSF037559;
+TG  GO:0030699;
+TG  GO:0004315;
+--
+SN  4
+ID  Acetate kinase
+DN  Acetate kinase (EC 2.7.2.1)
+RQ  1
+EV  IPR004372; TIGR00016; sufficient;
+TG  GO:0006085;
+TG  GO:0008776;
+//

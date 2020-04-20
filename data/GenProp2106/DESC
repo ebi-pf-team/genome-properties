@@ -1,0 +1,166 @@
+AC  GenProp2106
+DE  Methanogenesis from CO2 and H2
+TP  PATHWAY
+AU  Irazoqui, JM
+TH  16
+RN  [1]
+RM  18587410
+RT  Methanogenic archaea: ecologically relevant differences in energy
+RT  conservation
+RA  Thauer RK; Kaster AK; Seedorf H; Buckel W; Hedderich R;
+RL  Nat Rev Microbiol. 2008 Aug;6(8):579-91.
+DC  Methanogenesis from H2 and CO2
+DR  MetaCyc; METHANOGENESIS-PWY;
+CC  Most methanogenic archaea can reduce CO2 with H2 to methane, and it is
+CC  generally assumed that the reactions and mechanisms of energy conservation
+CC  that are involved are largely the same in all methanogens, although 
+CC  differences can be observed between methanogens with and without 
+CC  cytochromes [1].
+--
+SN  1
+ID  Formate dehydrogenase subunit alpha
+DN  Formate dehydrogenase subunit alpha (EC:1.17.1.9)
+RQ  1
+EV  IPR006478; TIGR01591; sufficient;
+TG  GO:0008863;
+--
+SN  2
+ID  Formate dehydrogenase subunit beta
+DN  Formate dehydrogenase subunit beta (EC:1.17.1.9)
+RQ  1
+EV  IPR007516; PF04422;
+EV  IPR007525; PF04432;
+EV  IPR017896; PS51379;
+TG  GO:0008863;
+--
+SN  3
+ID  Formylmethanofuran dehydrogenase, subunit A
+DN  Formylmethanofuran dehydrogenase, subunit A (EC:1.2.7.12)
+RQ  1
+EV  IPR012027; TIGR03121; sufficient;
+TG  GO:0018493;
+--
+SN  4
+ID  Formylmethanofuran dehydrogenase, subunit B
+DN  Formylmethanofuran dehydrogenase, subunit B (EC:1.2.7.12)
+RQ  1
+EV  IPR016457; PIRSF005646; sufficient;
+TG  GO:0018493;
+--
+SN  5
+ID  Formylmethanofuran dehydrogenase, subunit C
+DN  Formylmethanofuran dehydrogenase, subunit C (EC:1.2.7.12)
+RQ  1
+EV  IPR017550; TIGR03122; sufficient;
+TG  GO:0018493;
+--
+SN  6
+ID  Formylmethanofuran dehydrogenase, subunit D
+DN  Formylmethanofuran dehydrogenase, subunit D (EC:1.2.7.12)
+RQ  1
+EV  IPR012040; PIRSF015873; sufficient;
+TG  GO:0018493;
+--
+SN  7
+ID  Formylmethanofuran dehydrogenase, subunit E
+DN  Formylmethanofuran dehydrogenase, subunit E (EC:1.2.7.12)
+RQ  1
+EV  IPR017896; PS51379;
+TG  GO:0051539;
+--
+SN  8
+ID  Formylmethanofuran dehydrogenase, subunit F
+DN  Formylmethanofuran dehydrogenase, subunit F (EC:1.2.7.12)
+RQ  1
+EV  IPR017896; PS51379;
+EV  PIRSF005658; sufficient;
+TG  GO:0051539;
+--
+SN  9
+ID  Formylmethanofuran--tetrahydromethanopterin formyltransferase
+DN  Formylmethanofuran--tetrahydromethanopterin formyltransferase (EC:2.3.1.101)
+RQ  1
+EV  IPR014053; TIGR03119; sufficient;
+TG  GO:0030270;
+--
+SN  10
+ID  Methenyltetrahydromethanopterin cyclohydrolase
+DN  Methenyltetrahydromethanopterin cyclohydrolase (EC:3.5.4.27)
+RQ  1
+EV  IPR003209; PF02289; sufficient;
+TG  GO:0018759;
+--
+SN  11
+ID  5,10-methenyltetrahydromethanopterin breakdown
+RQ  1
+EV  IPR010062; TIGR01723; sufficient;
+TG  GO:0047068;
+EV  IPR024190; PIRSF016158; sufficient;
+TG  GO:0047068;
+EV  IPR002844; PF01993; sufficient;
+TG  GO:0008901;
+--
+SN  12
+ID  5,10-methylenetetrahydromethanopterin reductase
+DN  5,10-methylenetetrahydromethanopterin reductase (EC:1.5.98.2)
+RQ  1
+EV  IPR019946; TIGR03555; sufficient;
+TG  GO:0018537;
+--
+SN  13
+ID  Tetrahydromethanopterin S-methyltransferase subunit A
+DN  Tetrahydromethanopterin S-methyltransferase subunit A (EC:2.1.1.86)
+RQ  1
+EV  IPR005778; PF04208; sufficient;
+TG  GO:0030269;
+TG  GO:0050897;
+--
+SN  14
+ID  Tetrahydromethanopterin S-methyltransferase subunit B
+DN  Tetrahydromethanopterin S-methyltransferase subunit B (EC:2.1.1.86)
+RQ  1
+EV  IPR008690; TIGR04166; sufficient;
+TG  GO:0030269;
+--
+SN  15
+ID  Tetrahydromethanopterin S-methyltransferase subunit C
+DN  Tetrahydromethanopterin S-methyltransferase subunit C (EC:2.1.1.86)
+RQ  1
+EV  IPR005865; TIGR01148; sufficient;
+TG  GO:0030269;
+--
+SN  16
+ID  Tetrahydromethanopterin S-methyltransferase subunit D
+DN  Tetrahydromethanopterin S-methyltransferase subunit D (EC:2.1.1.86)
+RQ  1
+EV  IPR005779; TIGR01112; sufficient;
+TG  GO:0030269;
+--
+SN  17
+ID  Tetrahydromethanopterin S-methyltransferase subunit E
+DN  Tetrahydromethanopterin S-methyltransferase subunit E (EC:2.1.1.86)
+RQ  1
+EV  IPR005780; PF04206; sufficient;
+TG  GO:0030269;
+--
+SN  18
+ID  Tetrahydromethanopterin S-methyltransferase subunit F
+DN  Tetrahydromethanopterin S-methyltransferase subunit F (EC:2.1.1.86)
+RQ  1
+EV  IPR011307; PF09472; sufficient;
+TG  GO:0030269;
+--
+SN  19
+ID  Tetrahydromethanopterin S-methyltransferase subunit G
+DN  Tetrahydromethanopterin S-methyltransferase subunit G (EC:2.1.1.86)
+RQ  1
+EV  IPR005866; PF04210; sufficient;
+TG  GO:0030269;
+--
+SN  20
+ID  Tetrahydromethanopterin S-methyltransferase subunit H
+DN  Tetrahydromethanopterin S-methyltransferase subunit H (EC:2.1.1.86)
+RQ  1
+EV  IPR023467; PF02007; sufficient;
+TG  GO:0030269;
+//

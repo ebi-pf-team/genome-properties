@@ -1,0 +1,43 @@
+AC  GenProp2107
+DE  Methanogenesis from methanol
+TP  PATHWAY
+AU  Irazoqui, JM
+TH  2
+RN  [1]
+RM  14824081
+RT  Studies on the methane fermentation. IX. The origin of methane in the
+RT  acetate and methanol fermentations by methanosarcina.
+RA  Stadman TC; Barker HA;
+RL  J Bacteriol. 1951 Jan;61(1):81-6.
+DC  Methanogenesis from methanol
+DR  MetaCyc; CO2FORM-PWY;
+CC  Methane production from methanol was first observed in Methanosarcina [1].
+CC  Methanosarcina barkeri is a methanogenic archeon that can grow on acetate
+CC  and various one-carbon compounds such as CO2, methylamine, and carbon
+CC  monoxide, as well as methanol, as a sole energy source. Growth on methanol
+CC  has been reported both in the presence and absence of H2.
+--
+SN  1
+ID  Methanol--corrinoid protein co-methyltransferase
+DN  Methanol--corrinoid protein co-methyltransferase (EC:2.1.1.90)
+RQ  1
+EV  IPR021079; PF12176; sufficient;
+TG  GO:0047152;
+--
+SN  2
+ID  Methanol--corrinoid protein
+DN  Methanol--corrinoid protein
+RQ  1
+EV  IPR003759; PF02607;
+EV  IPR006158; PF02310;
+EV  IPR012741; TIGR02370;
+TG  GO:0031419;
+--
+SN  3
+ID  Methylcobamide:CoM methyltransferase MtaA
+DN  Methylcobamide:CoM methyltransferase MtaA (EC:2.1.1.246)
+RQ  1
+EV  IPR006360; TIGR01463; sufficient;
+TG  GO:1990088;
+TG  GO:0015948;
+//
