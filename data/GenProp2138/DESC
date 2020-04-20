@@ -1,0 +1,24 @@
+AC  GenProp2138
+DE  L-Alanine degradation IV
+TP  PATHWAY
+AU  Irazoqui, JM
+TH  1
+RN  [1]
+RM  10792736
+RT  Identification of alanine dehydrogenase and its role in mixed secretion of
+RT  ammonium and alanine by pea bacteroids
+RA  Allaway D; Lodwig E; Crompton L; Wood M; Parsons R; Wheeler T; Poole P;
+RL  Mol Microbiol. 2000 Apr;36(2):508-15.
+DC  Glycine degradation (Stickland reaction)
+DR  MetaCyc; PWY1-2;
+CC  Alanine dehydrogenase catalyzes the reversible deamination of L-alanine
+CC  to pyruvate.
+--
+SN  1
+ID  Alanine dehydrogenase
+DN  Alanine dehydrogenase (EC:1.4.1.1)
+RQ  1
+EV  IPR008141; TIGR00518;
+TG  GO:0042853;
+TG  GO:0000286;
+//

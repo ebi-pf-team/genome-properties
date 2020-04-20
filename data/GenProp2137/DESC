@@ -1,0 +1,26 @@
+AC  GenProp2137
+DE  Ammonia transporter
+TP  SYSTEM
+AU  Irazoqui, JM
+TH  1
+RN  [1]
+RM  15361618
+RT  Mechanism of ammonia transport by Amt/MEP/Rh: structure of AmtB at 1.35 A.
+RA  Khademi S; O'Connell J; Remis J; Robles-Colmenares Y; Miercke LJ;
+RA  Stroud RM;
+RL  Science. 2004 Sep 10;305(5690):1587-94.
+CC  The ammonia transporters (Amt proteins) are typically assembled as trimers
+CC  of proteins. Plant, bacterial Amt, and yeast MEP familymembers show a
+CC  range of concentration dependence for ammonia conductance up to “high 
+CC  affinity”, as reflected in their ability to grow on very low 
+CC  concentrations of ammonium salts as sole nitrogen source. 
+--
+SN  1
+ID  Ammonium transporter AmtB domain
+DN  Ammonium transporter AmtB domain (TC: 1.A.11.1.1)
+RQ  1
+EV  IPR001905; TIGR00836; sufficient;
+EV  IPR024041; PF00909; sufficient;
+TG  GO:0008519;
+TG  GO:0015696;
+//

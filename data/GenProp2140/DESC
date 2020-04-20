@@ -1,0 +1,28 @@
+AC  GenProp2140
+DE  L-proline degradation
+TP  PATHWAY
+AU  Irazoqui, JM
+TH  1
+RN  [1]
+RM  10715000
+RT  Sinorhizobium meliloti putA Gene Regulation: a New Model within the Family
+RT  Rhizobiaceae
+RA  Soto MJ; Jiménez-Zurdo JI; van Dillewijn P; Toro N;
+RL  J Bacteriol. 2000 Apr; 182(7): 1935–1941
+DC  L-proline degradation
+DR  MetaCyc; PROUT-PWY;
+CC  Proline can be catabolized to glutamate by the action of two enzymatic
+CC  activities: proline dehydrogenase (PDH) andD-pyr-roline-5-carboxylate
+CC  dehydrogenase (P5CDH) [1]. In several types of bacteria both steps for
+CC  proline utilization are catalyzed by a single polypeptide encoded by the
+CC  putA gene.
+--
+SN  1
+ID  Bifunctional protein PutA
+DN  Bifunctional protein PutA (EC:1.5.5.2; EC:1.2.1.88)
+RQ  1
+EV  IPR025703; PIRSF000197;
+TG  GO:0010133;
+TG  GO:0004657;
+TG  GO:0016620;
+//

@@ -1,0 +1,67 @@
+AC  GenProp2126
+DE  Naphthalene degradation
+TP  METAPATH
+AU  Irazoqui, JM
+TH  4
+DC  Naphthalene degradation (aerobic)
+DR  MetaCyc; PWY-5427;
+RN  [1]
+RM  15288784
+RT  Complete sequence and genetic organization of pDTG1, the 83 kilobase
+RT  naphthalene degradation plasmid from Pseudomonas putida strain NCIB 9816-4
+RA  Dennis, JJ; Zylstra, GJ;
+RL  J. Mol. Biol. 341 (3), 753-768 (2004)
+CC  The naphthalene dioxygenase (NDO) multicomponent enzyme system which
+CC  catalyzes the incorporation of both atoms of molecular oxygen into
+CC  naphthalene to form cis-(1R,2S)-dihydroxy-1,2-dihydronaphthalene.
+--
+SN  1
+ID  Naphthalene 1,2-dioxygenase system, large oxygenase component
+DN  Naphthalene 1,2-dioxygenase system, large oxygenase component (EC 1.14.12.24)
+RQ  1
+EV  IPR001663; PR00090;
+EV  IPR015879; PF00848;
+EV  IPR017941; PF00355;
+EV  cd08881;
+TG  GO:0018625;
+TG  GO:0051537;
+--
+SN  2
+ID  Naphthalene 1,2-dioxygenase system, small oxygenase component
+DN  Naphthalene 1,2-dioxygenase system, small oxygenase component (EC 1.14.12.24)
+RQ  1
+EV  IPR000391; PF00866;
+TG  GO:0051213;
+--
+SN  3
+ID  Naphthalene 1,2-dioxygenase system, ferredoxin component
+DN  Naphthalene 1,2-dioxygenase system, ferredoxin component
+RQ  1
+EV  IPR017941; PS51296;
+TG  GO:0016491;
+TG  GO:0051537;
+--
+SN  4
+ID  Naphthalene 1,2-dioxygenase system ferredoxin--NAD(P)(+), reductase component
+DN  Naphthalene 1,2-dioxygenase system ferredoxin--NAD(P)(+), reductase component (EC 1.18.1.7)
+RQ  0
+EV  IPR001041; PS51085;
+EV  IPR001433; PF00175;
+EV  IPR017927; PS51384;
+TG  GO:0051537;
+TG  GO:0071949;
+TG  GO:0008937;
+--
+SN  5
+ID  1,2-dihydroxy-1,2-dihydronaphthalene dehydrogenase
+DN  1,2-dihydroxy-1,2-dihydronaphthalene dehydrogenase (EC 1.3.1.29)
+RQ  1
+EV  IPR036291; SSF51735;
+TG  GO:0018505;
+--
+SN  6
+ID  1-Hydroxy-2-naphthoate cleavage
+RQ  1
+EV  GenProp2127; sufficient;
+EV  GenProp2128; sufficient;
+//

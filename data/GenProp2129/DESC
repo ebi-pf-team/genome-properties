@@ -1,0 +1,126 @@
+AC  GenProp2129
+DE  Phthalate degradation
+TP  PATHWAY
+AU  Irazoqui, JM
+TH  13
+DC  Phthalate degradation pathway
+DR  MetaCyc; PWY5F9-3233;
+DR  MetaCyc; PROTOCATECHUATE-ORTHO-CLEAVAGE-PWY;
+DR  MetaCyc; PWY-2361;
+RN  [1]
+RM  15937168
+RT  Catabolism of benzoate and phthalate in Rhodococcus sp. strain RHA1:
+RT  redundancies and convergence
+RA  Patrauchan MA; Florizone C; Dosanjh M; Mohn WW; Davies J; Eltis LD;
+RL  J Bacteriol 187(12);4050-63 (2005)
+RN  [2]
+RM  7961399
+RT  Identification of the pcaRKF gene cluster from Pseudomonas putida:
+RT  involvement in chemotaxis, biodegradation, and transport of
+RT  4-hydroxybenzoate
+RA  Harwood CS; Nichols NN; Kim MK; Ditty JL; Parales RE;
+RL  J Bacteriol 176(21);6479-88. (1994)
+--
+SN  1
+ID  Phthalate 3,4-dioxygenase, alpha subunit
+DN  Phthalate 3,4-dioxygenase, alpha subunit [EC:1.14.12.-]
+RQ  1
+EV  IPR001663; PR00090;
+EV  IPR015879; PF00848;
+EV  IPR017941; PS51296;
+EV  cd08881;
+TG  GO:0005506;
+TG  GO:0051537;
+TG  GO:0051213;
+--
+SN  2
+ID  Phthalate 3,4-dioxygenase, beta subunit
+DN  Phthalate 3,4-dioxygenase, beta subunit [EC:1.14.12.-]
+RQ  1
+EV  IPR000391; PF00866;
+TG  GO:0051213;
+TG  GO:0006725;
+--
+SN  3
+ID  phthalate 3,4-cis-dihydrodiol dehydrogenase
+DN  phthalate 3,4-cis-dihydrodiol dehydrogenase [EC:1.3.1.-]
+RQ  1
+EV  IPR002347; PF00106;
+TG  GO:0016491;
+--
+SN  4
+ID  3,4-dihydroxyphthalate decarboxylase
+DN  3,4-dihydroxyphthalate decarboxylase [EC:4.1.1.69]
+RQ  1
+EV  IPR001303; PF00596;
+TG  GO:0047556;
+--
+SN  5
+ID  Protocatechuate 3,4-dioxygenase alpha chain
+DN  Protocatechuate 3,4-dioxygenase alpha chain (EC:1.13.11.3)
+RQ  1
+EV  IPR012786; TIGR02423;
+TG  GO:0018578;
+TG  GO:0042952;
+TG  GO:0008199;
+--
+SN  6
+ID  Protocatechuate 3,4-dioxygenase beta chain
+DN  Protocatechuate 3,4-dioxygenase beta chain (EC:1.13.11.3)
+RQ  1
+EV  IPR012785; TIGR02422;
+TG  GO:0008199;
+TG  GO:0019619;
+TG  GO:0018578;
+TG  GO:0042952;
+--
+SN  7
+ID  3-carboxy-cis,cis-muconate cycloisomerase
+DN  3-carboxy-cis,cis-muconate cycloisomerase [EC 5.5.1.2]
+RQ  1
+EV  IPR012789; TIGR02426;
+TG  GO:0019619;
+TG  GO:0018842;
+TG  GO:0047472;
+--
+SN  8
+ID  4-carboxymuconolactone decarboxylase
+DN  4-carboxymuconolactone decarboxylase, CMD, EC 4.1.1.44
+RQ  1
+EV  IPR012788; TIGR02425;
+TG  GO:0019439;
+TG  GO:0047575;
+--
+SN  9
+ID  3-oxoadipate enol-lactonase
+DN  3-oxoadipate enol-lactonase [EC 3.1.1.24 ]
+RQ  1
+EV  IPR026968; TIGR02427;
+TG  GO:0047570;
+TG  GO:0042952;
+--
+SN  10
+ID  3-oxoadipate CoA-transferase subunit A
+DN  3-oxoadipate CoA-transferase subunit A [EC 2.8.3.6]
+RQ  1
+EV  IPR004165; PF01144;
+TG  GO:0047569;
+TG  GO:0042952;
+--
+SN  11
+ID  3-oxoadipate CoA-transferase subunit B
+DN  3-oxoadipate CoA-transferase subunit B [EC 2.8.3.6]
+RQ  1
+EV  IPR004165; PF01144;
+TG  GO:0047569;
+TG  GO:0042952;
+--
+SN  12
+ID  Beta-ketoadipyl-CoA thiolase
+DN  Beta-ketoadipyl-CoA thiolase [EC 2.3.1.174 ]
+RQ  1
+EV  IPR002155; TIGR01930;
+TG  GO:0019619;
+TG  GO:0042952;
+TG  GO:0033812;
+//

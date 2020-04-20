@@ -1,0 +1,48 @@
+AC  GenProp2122
+DE  Nitrogen Cycle
+TP  METAPATH
+AU  Irazoqui, JM
+TH  3
+RN  [1]
+RM  18973618
+RT  The microbial nitrogen cycle
+RA  Jetten MS;
+RL  Environ Microbiol. 2008 Nov;10(11):2903-9
+RN  [1]
+RM  18973618
+RT  Ecology of Nitrogen Fixing, Nitrifying, and Denitrifying Microorganisms
+RT  in Tropical Forest Soils
+RA  Pajares S; Bohannan BJ;
+RL  Front Microbiol. 2016 Jul 5;7:1045
+DC  Nitrogen metabolism
+DR  KEGG; map00910;
+CC  Nitrogen is an important component of proteins and nucleic acids, and thus
+CC  is an essential nutrient for all organisms. N exists in multiple oxidation
+CC  states and chemical forms in nature, and transformations among these
+CC  different forms are typically catalyzed by microorganisms
+--
+SN  1
+ID  N Fixation
+DN  N Fixation
+RQ  1
+EV  GenProp0029;
+TG  GO:0009399;
+--
+SN  3
+ID  Nitrate reduction
+DN  Nitrate reduction
+RQ  0
+EV  GenProp1554;
+--
+SN  2
+ID  Nitrification
+DN  Nitrification
+RQ  1
+EV  GenProp2123;
+--
+SN  4
+ID  Denitrification
+DN  Denitrification
+RQ  1
+EV  GenProp2124;
+//

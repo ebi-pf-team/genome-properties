@@ -1,0 +1,163 @@
+AC  GenProp2132
+DE  Type IX secretion
+TP  SYSTEM
+AU  Irazoqui, JM
+TH  10
+RN  [1]
+RM  28714554
+RT  Type IX secretion: the generation of bacterial cell surface coatings
+RT  involved in virulence, gliding motility and the degradation of complex biopolymers
+RA  Veith PD, Glew MD, Gorasia DG, Reynolds EC;
+RL  Mol Microbiol. 2017 Oct;106(1):35-53
+RN  [2]
+RM  30405243
+RT  Type 9 secretion system structures reveal a new protein transport mechanism.
+RA  Lauber F; Deme JC; Lea SM; Berks BC;
+RL  Nature. 2018 Dec;564(7734):77-82
+RN  [3]
+RM  28603700
+RT  The Type IX Secretion System (T9SS): Highlights and Recent Insights
+RT  into Its Structure and Function
+RA  Lasica AM; Ksiazek M; Madej M; Potempa J;
+RL  Front Cell Infect Microbiol. 2017 May 26;7:215
+RN  [4]
+RM  27509186
+RT  Structural Insights into the PorK and PorN Components of the Porphyromonas
+RT  gingivalis Type IX Secretion System
+RA  Gorasia DG; Veith PD; Hanssen EG; Glew MD; Sato K; Yukitake H;
+RA  Nakayama K; Reynolds EC;
+RL  PLoS Pathog. 2016 Aug 10;12(8):e1005820
+CC  Type 9 secretion system (T9SS) is a complex translocon found in bacteria
+CC  of the gram-negative Fibrobacteres–Chlorobi–Bacteroidetes superphylum.
+CC  T9SS plays two roles, depending on the lifestyle of the bacteria.
+CC  It provides either a means of movement (called gliding motility), but also
+CC  can translocate proteins, especially virulence factors, across the outer
+CC  membrane. T9SS contain at least 15 proteins, as well as a small number of
+CC  proteins that might interact with the complex. Proteins secreted by the
+CC  T9SS have an N‐terminal signal peptide for translocation across the inner
+CC  membrane and a C‐terminal signal for secretion across the outer membrane
+CC  [1,2,3,4].
+**  There's a number of genes that may or may not be present in the complex, 
+**  like gldO, and 3 genes that do not have names yet, that it is been 
+**  predicted that they could interact with the complex, but their involvement
+**  with T9SS needs to be confirmed
+--
+SN  1
+ID  Sov/SprA
+DN  Type IX secretion protein sov/SprA
+RQ  1
+EV  IPR026377; TIGR04189;
+--
+SN  2
+ID  PorK/GldK
+DN  Type IX secretion protein porK/gldK
+RQ  1
+EV  IPR005532; PF03781;
+--
+SN  3
+ID  PorL/GldL
+DN  Type IX secretion protein porL/gldL
+RQ  1
+EV  IPR019852; TIGR03513;
+--
+SN  4
+ID  PorM/GldM
+DN  Type IX secretion protein porM/gldM
+RQ  1
+EV  IPR019859; TIGR03517;
+EV  IPR022719; PF12080;
+EV  IPR022720; PF12081;
+--
+SN  5
+ID  PorN/GldN
+DN  Type IX secretion protein porN/gldN
+RQ  1
+EV  IPR019847; TIGR03523;
+--
+SN  6
+ID  GldO
+DN  GldO
+RQ  0
+EV  IPR019847; TIGR03523;
+--
+SN  7
+ID  PorP/SprF
+DN  Type IX secretion protein porP
+RQ  1
+EV  IPR019861; PF11751;
+--
+SN  8
+ID  PorQ
+DN  Type IX secretion protein porQ
+RQ  0
+--
+SN  9
+ID  SigP
+DN  Putative RNA polymerase sigma-70 factor ECF subfamily
+RQ  1
+EV  IPR039425; PTHR43133;
+--
+SN  10
+ID  PorT/SprT
+DN  Type IX secretion protein porT/sprT
+RQ  1
+EV  IPR025665; PF13568;
+--
+SN  11
+ID  PorU
+DN  Type IX secretion protein porU
+RQ  1
+EV  IPR001769; PF01364;
+--
+SN  12
+ID  PorV/LptO
+DN  Type IX secretion protein porV (Pg27, lptO)
+RQ  0
+--
+SN  13
+ID  PorW/SprE
+DN  Type IX secretion protein porW/sprE
+RQ  1
+EV  IPR013026; PF13174;
+--
+SN  14
+ID  PorX
+DN  Por secretion system response regulatr protein porX
+RQ  1
+EV  IPR013973; PF08665;
+EV  IPR001789; PF00072;
+--
+SN  15
+ID  PorY
+DN  Type IX secretion protein porY/putative sensor histidine kinase
+RQ  1
+EV  IPR005467; PS50109;
+--
+SN  16
+ID  PorZ
+DN  Immunoreactive 84 kDa antigen
+RQ  1
+EV  IPR015943; G3DSA:2.130.10.10;
+--
+SN  17
+ID  PG0189
+DN  Predicted OM beta barrel protein associated with PorK and PorN
+RQ  0
+EV  IPR027385; PF13505;
+--
+SN  18
+ID  PG_1058
+DN  Putative OM lipoprotein
+RQ  0
+EV  IPR013026; PS50293;
+EV  IPR006665; PF00691;
+EV  IPR011042; G3DSA:2.120.10.30;
+EV  IPR008969; SSF49464;
+--
+SN  19
+ID  PG_0534
+DN  Predicted TonB‐dependent receptor
+RQ  0
+EV  IPR012910; PF07715;
+EV  IPR008969; SSF49464;
+//

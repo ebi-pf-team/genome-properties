@@ -1,0 +1,106 @@
+AC  GenProp2131
+DE  Aerobic alkane degradation
+TP  METAPATH
+AU  Irazoqui, JM
+TH  5
+RN  [1]
+RM  11390693
+RT  Analysis of Pseudomonas putida alkane-degradation gene clusters and
+RT  flanking insertion sequences: evolution and regulation of the alk genes
+RA  van Beilen J; Panke S; Lucchini S; Franchini A; Röthlisberger M; Witholt B;
+RL  Microbiology. 2001 Jun;147(Pt 6):1621-1630
+RN  [2]
+RM  9647833
+RT  Biodegradation of variable-chain-length alkanes at low temperatures by a
+RT  psychrotrophic Rhodococcus sp.
+RA  Whyte LG; Hawari J; Zhou E; Bourbonnière L; Inniss WE; Greer CW;
+RL  Appl Environ Microbiol. 1998 Jul;64(7):2578-84.
+CC  The alkane degradation (alk) genes of Pseudomonas putida (oleovorans)
+CC  encode the proteins for the conversion of n-alkanes to fatty acids [1].
+CC  Aerobic degradation usually starts by the oxidation of a terminal methyl
+CC  group to render a primary alcohol, which is further oxidized to the
+CC  corresponding aldehyde, and finally converted into a fatty acid. 
+CC  Subterminal oxidation of n‐alkanes has also been reported [3], where a
+CC  secondary alcohol is generated and then converted to the corresponding
+CC  ketone, which is oxidized by a Baeyer–Villiger monooxygenase to render an
+CC  ester. The ester is hydrolysed by an esterase, generating an alcohol and a
+CC  fatty acid
+--
+SN  1
+ID  Alkane 1-monooxygenase
+DN  Alkane 1-monooxygenase AlkB (EC 1.14.15.3)
+RQ  1
+EV  IPR033885; PTHR38674; sufficient;
+TG  GO:0018685;
+TG  GO:0043448;
+--
+SN  2
+ID  Rubredoxin-2
+DN  Rubredoxin-2 AlkG 
+RQ  1
+EV  IPR024935; PF00301; sufficient;
+TG  GO:0005506;
+TG  GO:0043448;
+--
+SN  3
+ID  Rubredoxin-NAD(+) reductase
+DN  Rubredoxin-NAD(+) reductase AlkT (EC 1.18.1.1)
+RQ  1
+EV  IPR023753; PF07992;
+EV  IPR016156; SSF55424;
+TG  GO:0015044;
+--
+SN  4
+ID  Alcohol dehydrogenase
+DN  Alcohol dehydrogenase AlkJ (EC 1.1.99.-)
+RQ  1
+EV  IPR012132; PIRSF000137; sufficient;
+TG  GO:0016614;
+TG  GO:0050660;
+--
+SN  5
+ID  Aldehyde dehydrogenase
+DN  Aldehyde dehydrogenase AlkH (EC:1.2.1.3)
+RQ  1
+EV  IPR012394; PIRSF036492; sufficient;
+TG  GO:0004029;
+TG  GO:0043878;
+--
+SN  6
+ID  Medium-chain-fatty-acid--CoA ligase
+DN  Medium-chain-fatty-acid--CoA ligase AlkK (EC 6.2.1.-)
+RQ  1
+EV  IPR000873; PF00501;
+EV  IPR025110; PF13193;
+TG  GO:0006631;
+TG  GO:0016874;
+--
+SN  7
+ID  Outer membrane protein
+DN  Outer membrane protein AlkL
+RQ  0
+EV  IPR005618; PTHR36920; sufficient;
+TG  GO:0016021;
+--
+SN  8
+ID  Rubredoxin-1
+DN  Rubredoxin-1 AlkF
+RQ  0
+EV  IPR024934; PS50903; sufficient;
+EV  IPR024935; PF00301; sufficient;
+TG  GO:0005506;
+--
+SN  9
+ID  HTH-type transcriptional regulator
+DN  HTH-type transcriptional regulator AlkS 
+RQ  0
+EV  IPR000792; PS50043;
+EV  IPR011990; G3DSA:1.25.40.10;
+TG  GO:0003677;
+TG  GO:0006355;
+--
+SN  10
+ID  Fatty acid beta-oxidation I
+RQ  1
+EV  GenProp1717;
+//

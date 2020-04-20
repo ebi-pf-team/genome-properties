@@ -1,0 +1,47 @@
+AC  GenProp2134
+DE  emhABC efflux system
+TP  SYSTEM
+AU  Irazoqui, JM
+TH  2
+RN  [1]
+RM  14563857
+RT  Identification and characterization of the emhABC efflux system for
+RT  polycyclic aromatic hydrocarbons in Pseudomonas fluorescens cLP6a.
+RA  Hearn EM; Dennis JJ; Gray MR; Foght JM;
+RL  J Bacteriol. 2003 Nov;185(21):6233-40.
+CC  The hydrocarbon-degrading environmental isolate Pseudomonas fluorescens
+CC  LP6a possesses an active efflux mechanism to transport non toxic growth
+CC  substrates, which displays an unusual hydrocarbon substrate selectivity
+CC  [1]. The emhABC system is involved in the efflux of both polycyclic
+CC  aromatic hydrocarbons and in resistance to certain antibiotics.
+--
+SN  1
+ID  Membrane fusion protein
+DN  Membrane fusion protein emhA
+RQ  1
+EV  IPR006143; TIGR01730; sufficient;
+TG  GO:0022857;
+--
+SN  2
+ID  Efflux pump membrane transporter
+DN  Efflux pump membrane transporter emhB
+RQ  1
+EV  IPR004764; TIGR00915; sufficient;
+TG  GO:0015562;
+TG  GO:0042908;
+--
+SN  3
+ID  Outer membrane protein
+DN  Outer membrane protein emhC
+RQ  1
+EV  IPR010131; TIGR01845; sufficient;
+TG  GO:0015562;
+--
+SN  4
+ID  TetR-like regulatory protein
+DN  TetR-like regulatory protein emhR
+RQ  0
+EV  IPR001647; PF00440;
+EV  IPR013572; PF08361;
+TG  GO:0003677;
+//
