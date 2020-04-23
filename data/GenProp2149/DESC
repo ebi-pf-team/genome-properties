@@ -1,0 +1,63 @@
+AC  GenProp2149
+DE  L-tyrosine degradation
+TP  PATHWAY
+AU  Irazoqui, JM
+TH  4
+RN  [1]
+RM  15262943
+RT  The Homogentisate Pathway: a Central Catabolic Pathway Involved in the
+RT  Degradation of l-Phenylalanine, l-Tyrosine, and 3-Hydroxyphenylacetate in
+RT  Pseudomonas putida
+RA  Arias-Barrau E; Olivera ER; Luengo JM; Fernández C; Galán B; García JL;
+RA  Díaz E; Miñambres B;
+RL  J Bacteriol. 2004 Aug; 186(15): 5062–5077. 
+DC  L-tyrosine degradation I
+DR  MetaCyc; TYRFUMCAT-PWY;
+CC  Eukaryotic organisms and some prokaryots, like some members of the 
+CC  Pseudomonas genus, metabolizes Phe and Tyr through a peripheral pathway [1]
+CC  Homogentisate is the central intermediate obtained, which is then
+CC  catabolized by a central catabolic pathway that involves three enzymes,
+CC  homogentisate dioxygenase (HmgA), fumarylacetoacetate hydrolase (HmgB), and
+CC  maleylacetoacetate isomerase (HmgC), finally yielding fumarate and 
+CC  acetoacetate.
+--
+SN  1
+ID  Aromatic-amino-acid aminotransferase
+DN  Aromatic-amino-acid aminotransferase [EC:2.6.1.57]
+RQ  1
+EV  IPR000796; PTHR11879; sufficient;
+TG  GO:0006572;
+TG  GO:0004838;
+--
+SN  2
+ID  4-hydroxyphenylpyruvate dioxygenase
+DN  4-hydroxyphenylpyruvate dioxygenase [EC:1.13.11.27]
+RQ  1
+EV  IPR005956; TIGR01263; sufficient;
+TG  GO:0003868;
+TG  GO:0006572;
+--
+SN  3
+ID  Homogentisate 1,2-dioxygenase
+DN  Homogentisate 1,2-dioxygenase [EC:1.13.11.5]
+RQ  1
+EV  IPR005708; PTHR11056;
+EV  IPR022950; MF_00334;
+TG  GO:0004411;
+--
+SN  4
+ID  Maleylacetoacetate isomerase
+DN  Maleylacetoacetate isomerase [EC:5.2.1.2]
+RQ  1
+EV  IPR005955; TIGR01262;
+EV  IPR040079; SFLDS00019;
+TG  GO:0016034;
+--
+SN  5
+ID  Fumarylacetoacetase
+DN  Fumarylacetoacetase [EC:3.7.1.2]
+RQ  1
+EV  IPR005959; TIGR01266;
+TG  GO:0004334;
+TG  GO:0009072;
+//

@@ -1,0 +1,35 @@
+AC  GenProp2136
+DE  D-ornithine 4,5-aminomutase
+TP  SYSTEM
+AU  Irazoqui, JM
+TH  2
+RN  [1]
+RM  11577113
+RT  Cloning, sequencing, heterologous expression, purification, and
+RT  characterization of adenosylcobalamin-dependent D-ornithine aminomutase
+RT  from Clostridium sticklandii.
+RA  Chen HP; Wu SH; Lin YL; Chen CM; Tsay SS;
+RL  J Biol Chem. 2001 Nov 30;276(48):44744-50. Epub 2001 Sep 27.
+CC  This enzyme catalyzes the reversible migration of the omega amino group of
+CC  D-ornithine to C-4 to form (2R,4S)-2,4-diaminopentanoic acid. The role of
+CC  OraS remains obscure; however, it seems to be required for a correct
+CC  folding of the OraE subunit. The complex is active only on D-ornithine and
+CC  2,4-diaminopentanoic acid and not active on L-ornithine, L-beta-lysine,
+CC  L-alpha-lysine or D-alpha-lysine.
+--
+SN  1
+ID  D-ornithine 4,5-aminomutase subunit alpha
+DN  D-ornithine 4,5-aminomutase subunit alpha oraS (EC:5.4.3.5)
+RQ  1
+EV  IPR015130; PF16552; sufficient;
+TG  GO:0047831;
+--
+SN  2
+ID  D-ornithine 4,5-aminomutase subunit beta
+DN  D-ornithine 4,5-aminomutase subunit beta oraE (EC:5.4.3.5)
+RQ  1
+EV  IPR006158; PS51332;
+EV  IPR015130; PF09043;
+EV  IPR028991; PF16554;
+TG  GO:0047831;
+//

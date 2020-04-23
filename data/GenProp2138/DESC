@@ -1,0 +1,42 @@
+AC  GenProp2138
+DE  L-glutamate degradation IV
+TP  METAPATH
+AU  Irazoqui, JM
+TH  2
+RN  [1]
+RM  4813895
+RT  Two pathways of glutamate fermentation by anaerobic bacteria
+RA  Buckel W; Barker HA;
+RL  J Bacteriol. 1974 Mar;117(3):1248-60.
+DC  L-glutamate degradation VI (to pyruvate)
+DR  MetaCyc; PWY-5087;
+CC  The methylaspartate pathway is one of the major pathways by which glutamate
+CC  is fermented and has been first described in a closely related group of
+CC  soil Clostridia. It includes two documented varieties - one in which
+CC  L-glutamate is degraded to butanoate ( L-glutamate degradation VII (to
+CC  butanoate)) and one in which L-glutamate is degraded into propanoate
+CC  ( L-glutamate degradation VIII (to propanoate)).
+--
+SN  1
+ID  Glutamate mutase epsilon subunit
+DN  Glutamate mutase epsilon subunit
+RQ  1
+EV  IPR006396; TIGR01503;
+TG  GO:0050097;
+TG  GO:0019553;
+--
+SN  2
+ID  Glutamate mutase sigma subunit
+DN  Glutamate mutase sigma subunit (EC:5.4.99.1)
+RQ  1
+EV  IPR006394; TIGR01501;
+TG  GO:0050097;
+TG  GO:0019553;
+--
+SN  3
+ID  Methylaspartate ammonia-lyase
+DN  Methylaspartate ammonia-lyase (EC:4.3.1.2)
+RQ  1
+EV  IPR006395; TIGR01502;
+TG  GO:0050096;
+//

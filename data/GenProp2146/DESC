@@ -1,0 +1,95 @@
+AC  GenProp2146
+DE  L-ornithine degradation
+TP  METAPATH
+AU  Irazoqui, JM
+TH  6
+RN  [1]
+RM  10220161
+RT  Proline biosynthesis from L-ornithine in Clostridium sticklandii:
+RT  purification of delta1-pyrroline-5-carboxylate reductase, and sequence and
+RT  expression of the encoding gene, proC.
+RA  Kenklies J, Ziehn R, Fritsche K, Pich A, Andreesen JR
+RL  Microbiology 1999;145 ( Pt 4);819-26
+DC  L-ornithine degradation II (Stickland reaction)
+DR  MetaCyc; PWY-6344;
+CC  Acetoanaerobium sticklandii and other Clostridium species can utilize
+CC  combinations of amino acids for growth using Stickland reactions.
+CC  A. sticklandii can grow on L-arginine by converting it to L-ornithine, and
+CC  then utilizing a special Stickland reaction in which L-ornithine is
+CC  converted into both an electron donor and an electron acceptor. The
+CC  oxidation branch leads to production of acetate, alanine and ammonia and
+CC  generates ATP, while producing 4 reducing equivalents. The reductive branch
+CC  utilizes these reducing equivalents by production of 5-aminopentanoate via
+CC  proline [1, 2]. The oxidation route compromises the conversion of
+CC  L-ornithine into acetyl phosphate. In the reductive route, the
+CC  L-glutamate-5-semialdehyde is reduced to 5-aminopentanoate.
+--
+SN  1
+ID  Ornithine aminotransferase
+DN  Ornithine aminotransferase (EC:2.6.1.13)
+RQ  1
+EV  IPR005814; PF00202;
+EV  IPR010164; TIGR01885;
+EV  IPR034757; PTHR11986:SF94;
+TG  GO:0004587;
+TG  GO:0006591;
+--
+SN  2
+ID  Pyrroline-5-carboxylate reductase
+DN  Pyrroline-5-carboxylate reductase (EC:1.5.1.2)
+RQ  1
+EV  IPR000304; TIGR00112;
+TG  GO:0004735;
+--
+SN  3
+ID  Proline racemase
+DN  Proline racemase (EC:5.1.1.4)
+RQ  1
+EV  IPR008794; PTHR33442;
+TG  GO:0018112;
+--
+SN  4
+ID  D-proline reductase proprotein PrdA
+DN  D-proline reductase proprotein PrdA (EC:1.21.4.1)
+RQ  1
+EV  IPR031002; TIGR04480;
+TG  GO:0050002;
+--
+SN  5
+ID  D-proline reductase subunit gamma
+DN  D-proline reductase subunit gamma PrdB (EC:1.21.4.1)
+RQ  1
+EV  IPR022787; TIGR04483;
+TG  GO:0050002;
+--
+SN  6
+ID  Ornithine racemase
+DN  Ornithine racemase (EC:5.1.1.12)
+RQ  1
+EV  IPR001608; PF01168;
+EV  cd06815;
+TG  GO:0006591;
+TG  GO:0050157;
+--
+SN  7
+ID  D-ornithine 4,5-aminomutase subunit alpha
+DN  D-ornithine 4,5-aminomutase subunit alpha (EC:5.4.3.5)
+RQ  1
+EV  IPR015130; PF16552;
+TG  GO:0047831;
+--
+SN  8
+ID  D-ornithine 4,5-aminomutase subunit beta
+DN  D-ornithine 4,5-aminomutase subunit beta (EC:5.4.3.5)
+RQ  1
+EV  IPR015130; PF09043;
+EV  IPR028991; PF16554;
+TG  GO:0047831;
+--
+SN  9
+ID  2,4-diaminopentanoate dehydrogenase
+DN  2,4-diaminopentanoate dehydrogenase (EC:1.4.1.12)
+RQ  1
+EV  IPR000846; PF01113;
+TG  GO:0047530;
+//

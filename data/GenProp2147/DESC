@@ -1,0 +1,41 @@
+AC  GenProp2147
+DE  L-threonine degradation II
+TP  PATHWAY
+AU  Irazoqui, JM
+TH  1
+RN  [1]
+RM  5821726
+RT  Utilization of L-threonine by a species of Arthrobacter. A novel catabolic
+RT  role for "aminoacetone synthase"
+RA  McGilvray D; Morris JG
+RL  Biochem J 112(5);657-71
+RN  [2]
+RM  5076220
+RT  Patterns of microbial threonine catabolism: a survey
+RA  Bell SC; Turner JM; Collins J; Gray TR;
+RL  Biochem J 127(3);77P
+DC  L-threonine degradation II
+DR  MetaCyc; THREONINE-DEG2-PWY;
+CC  The threonine dehydrogenase-based pathway is the primary route of
+CC  L-threonine degradation in both prokaryotes and eukaryotes. Threonine
+CC  dehydrogenase catalyzes the oxidation of threonine by NAD+ to
+CC  L-2-amino-3-oxobutanoate. The later is converted by 2-amino-3-ketobutyrate
+CC  CoA ligase into glycine and acetyl-CoA [1]. In a study of 75 soil bacteria
+CC  capable of growth on L-threonine, the threonine dehydrogenase pathway was
+CC  predominant, being the main route in 46 organisms [2].
+--
+SN  1
+ID  L-threonine 3-dehydrogenase
+DN  L-threonine 3-dehydrogenase (EC:1.1.1.103)
+RQ  1
+EV  IPR004627; MF_00627;
+TG  GO:0008743;
+TG  GO:0019518;
+--
+SN  2
+ID  2-amino-3-ketobutyrate coenzyme A ligase
+DN  2-amino-3-ketobutyrate coenzyme A ligase (EC:2.3.1.29)
+RQ  1
+EV  IPR011282; MF_00985;
+TG  GO:0008890;
+//

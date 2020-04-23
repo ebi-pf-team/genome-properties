@@ -1,0 +1,46 @@
+AC  GenProp2151
+DE  Nitrification
+TP  PATHWAY
+AU  Irazoqui, JM
+TH  3
+RN  [1]
+RM  26610025
+RT  Complete nitrification by a single microorganism
+RA  van Kessel MA; Speth DR; Albertsen M; Nielsen PH; Op den Camp HJ; 
+RA  Kartal B; Jetten MS; Lucker S;
+RL  Nature 528:555-9
+DC  Complete nitrification
+DR  KEGG; M00804;
+CC  Nitrification, the oxidation of ammonia via nitrite to nitrate, is usually
+CC  catalysed by two different types of organisms: ammonia-oxidizing bacteria
+CC  (AOB)1 or archaea (AOA)2 and nitrite-oxidizing bacteria (NOB)[1], although 
+CC  genomes encoding all steps of this process have been identified.
+--
+SN  1
+ID  Ammonia monooxygenase alpha subunit
+DN  Ammonia monooxygenase alpha subunit (EC:1.14.99.39)
+RQ  1
+EV  IPR003393; TIGR03080; sufficient;
+TG  GO:0018597;
+--
+SN  2
+ID  Ammonia monooxygenase beta subunit
+DN  Ammonia monooxygenase beta subunit (EC:1.14.99.39)
+RQ  1
+EV  IPR006833; TIGR03079; sufficient;
+TG  GO:0018597;
+--
+SN  3
+ID  Ammonia monooxygenase gamma subunit
+DN  Ammonia monooxygenase gamma subunit
+RQ  1
+EV  IPR002326; PTHR10266; sufficient;
+TG  GO:0020037;
+--
+SN  4
+ID  Hydroxylamine oxidoreductase
+DN  Hydroxylamine oxidoreductase (EC:1.7.2.6)
+RQ  1
+EV  IPR012138; PIRSF000242; sufficient;
+TG  GO:0047991;
+//

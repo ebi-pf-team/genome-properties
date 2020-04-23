@@ -1,0 +1,35 @@
+AC  GenProp2139
+DE  L-glutamine degradation II
+TP  PATHWAY
+AU  Irazoqui, JM
+TH  1
+RN  [1]
+RM  770440
+RT  Active Subunits of Escherichia coli Glutamate Synthase
+RA  Mantsala P; Zalkin H;
+RL  J Bacteriol. 1976 Apr; 126(1): 539–541
+DC  L-glutamine degradation II
+DR  MetaCyc; GLUTAMINEFUM-PWY;
+CC  In bacteria and archaea, glutamine can be converted to glutamate by the
+CC  reversible, NADPH-utilizing glutamate synthase.
+--
+SN  1
+ID  Glutamate synthase [NADPH] large chain
+DN  Glutamate synthase [NADPH] large chain (EC:1.4.1.13)
+RQ  1
+EV  IPR002489; PF01493;
+EV  IPR002932; PF01645;
+EV  IPR006982; PF04898;
+EV  IPR017932; PF00310;
+TG  GO:0004355;
+TG  GO:0006541;
+--
+SN  2
+ID  Glutamate synthase [NADPH] small chain
+DN  Glutamate synthase [NADPH] small chain (EC:1.4.1.13)
+RQ  1
+EV  IPR006006; TIGR01318; sufficient;
+EV  IPR006005; TIGR01317; sufficient;
+TG  GO:0004355;
+TG  GO:0006541;
+//

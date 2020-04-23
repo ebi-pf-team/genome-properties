@@ -1,0 +1,113 @@
+AC  GenProp2145
+DE  L-lysine fermentation
+TP  PATHWAY
+AU  Irazoqui, JM
+TH  8
+RN  [1]
+RM  6811551
+RT  Pathway of lysine degradation in Fusobacterium nucleatum
+RA  Barker HA; Kahn JM; Hedrick L;
+RL  J Bacteriol 152(1);201-7
+DC  L-lysine fermentation
+DR  MetaCyc; P163-PWY;
+CC  Several genera of bacteria have been shown to ferment L-lysine as a sole
+CC  source of carbon and nitrogen, producing butanoate and acetate as well as
+CC  ammonia. This pathway is often referred to as the lysine fermentation
+CC  pathway, or the 3-keto-5-aminohexanoate pathway [1].
+--
+SN  1
+ID  L-lysine 2,3-aminomutase
+DN  L-lysine 2,3-aminomutase (EC:5.4.3.2)
+RQ  1
+EV  IPR003739; PIRSF004911;
+EV  IPR022459; TIGR03820;
+TG  GO:0050066;
+TG  GO:0019475;
+--
+SN  2
+ID  Lysine 5,6-aminomutase alpha subunit
+DN  Lysine 5,6-aminomutase alpha subunit (EC:5.4.3.3)
+RQ  1
+EV  IPR015130; PF09043; sufficient;
+TG  GO:0047702;
+--
+SN  3
+ID  Lysine 5,6-aminomutase beta subunit
+DN  Lysine 5,6-aminomutase beta subunit (EC:5.4.3.3)
+RQ  1
+EV  IPR006158; PS51332;
+EV  IPR028991; PF16554;
+TG  GO:0047702;
+--
+SN  4
+ID  L-erythro-3,5-diaminohexanoate dehydrogenase
+DN  L-erythro-3,5-diaminohexanoate dehydrogenase (EC:1.4.1.11)
+RQ  0
+--
+SN  5
+ID  3-keto-5-aminohexanoate cleavage enzyme
+DN  3-keto-5-aminohexanoate cleavage enzyme (EC:2.3.1.247)
+RQ  1
+EV  IPR008567; PTHR37418;
+TG  GO:0003824;
+TG  GO:0016740;
+TG  GO:0019475;
+--
+SN  6
+ID  3-aminobutyryl-CoA ammonia lyase
+DN  3-aminobutyryl-CoA ammonia lyase (EC:4.3.1.14)
+RQ  1
+EV  IPR029069; SSF54637;
+EV  IPR006683; PF03061;
+TG  GO:0047459;
+--
+SN  7
+ID  Butyryl-CoA dehydrogenase
+DN  Butyryl-CoA dehydrogenase (EC:1.3.8.1)
+RQ  1
+EV  IPR006091; PF02770;
+EV  IPR009075; PF00441;
+EV  IPR013786; PF02771;
+TG  GO:0004085;
+--
+SN  8
+ID  Butyrate--acetoacetate CoA-transferase subunit A
+DN  Butyrate--acetoacetate CoA-transferase subunit A (EC:2.8.3.9)
+RQ  1
+EV  IPR012792; TIGR02429; sufficient;
+TG  GO:0047371;
+--
+SN  9
+ID  Butyrate--acetoacetate CoA-transferase subunit B
+DN  Butyrate--acetoacetate CoA-transferase subunit B (EC:2.8.3.9)
+RQ  1
+EV  IPR012791; TIGR02428; sufficient;
+TG  GO:0047371;
+--
+SN  10
+ID  Acetyl-CoA acetyltransferase
+DN  Acetyl-CoA acetyltransferase (EC:2.3.1.9)
+RQ  1
+EV  IPR002155; TIGR01930; sufficient;
+EV  IPR020616; PF00108;
+EV  IPR020617; PF02803;
+TG  GO:0003985;
+--
+SN  11
+ID  Phosphate acetyltransferase
+DN  Phosphate acetyltransferase (EC:2.3.1.8)
+RQ  1
+EV  IPR016475; PIRSF006107; sufficient;
+EV  IPR012147; PIRSF000428; sufficient;
+TG  GO:0008959;
+TG  GO:0006085;
+--
+SN  12
+ID  Acetate kinase
+DN  Acetate kinase (EC:2.7.2.1)
+RQ  1
+EV  IPR000890; PF00871;
+EV  IPR004372; TIGR00016;
+TG  GO:0008776;
+TG  GO:0006082;
+//
