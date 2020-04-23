@@ -1,0 +1,25 @@
+AC  GenProp2164
+DE  Cation/acetate symporter
+TP  SYSTEM
+AU  Irazoqui, JM
+TH  1
+RN  [1]
+RM  1456388
+RT  The gene yjcG, cotranscribed with the gene acs, encodes an acetate permease
+RT  in Escherichia coli.
+RA  Gimenez R; Nunez MF; Badia J; Aguilar J; Baldoma L;
+RL  J. Bacteriol. 185, 6448-55
+CC  ActP is a member of the Solute:Sodium Symporter family and is cotranscribed
+CC  with its neighbor, acs, encoding acetyl coenzyme A synthetase, which is
+CC  involved in the scavenging acetate [1]. The specificity of ActP is rather
+CC  narrow, a common feature of most bacterial carboxylate permeases, being
+CC  highly specific for short-chain aliphatic monocarboxylates.
+--
+SN  1
+ID  Cation/acetate symporter ActP
+DN  Cation/acetate symporter ActP (TC: 2.A.21.7.2)
+RQ  1
+EV  IPR014083; TIGR02711; sufficient;
+TG  GO:0015123;
+TG  GO:0006847;
+//

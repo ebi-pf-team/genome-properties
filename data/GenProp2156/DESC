@@ -1,0 +1,76 @@
+AC  GenProp2156
+DE  1-Hydroxy-2-naphthoate meta-cleavage
+TP  METAPATH
+AU  Irazoqui, JM
+TH  4
+RN  [1]
+RM  18662317
+RT  Microbial biodegradation of polyaromatic hydrocarbons
+RA  Peng RH; Xiong AS; Xue Y; Fu XY; Gao F: Zhao W; Tian YS; Yao QH;
+RL  FEMS Microbiol Rev. 2008 Nov;32(6):927-55.
+CC  1-Hydroxy-2-naphthoate is an intermediate of the degradation of different
+CC  aromtic compouns, like phenanthrene. This compound can be degraded via two
+CC  paths, the ortho-cleavage, which leads to the formation of phthalate, or
+CC  the meta-cleavage, which leads to the obtention of salicylic acid. The
+CC  first step of this pathway is not required for the degradation of
+CC  naphthalene.
+--
+SN  1
+ID  1-hydroxy-2-naphthoate hydroxylase
+DN  1-hydroxy-2-naphthoate hydroxylase (EC:1.14.13.135)
+RQ  0
+EV  IPR002938; PF01494;
+TG  GO:0071949;
+--
+SN  2
+ID  1,2-dihydroxynaphthalene dioxygenase
+DN  1,2-dihydroxynaphthalene dioxygenase, 1,2-DHN dioxygenase, DHNDO (EC 1.13.11.56)
+RQ  1
+EV  IPR017626; TIGR03213;
+EV  IPR004360; PF00903;
+EV  IPR037523; PS51819;
+TG  GO:0018554;
+TG  GO:1901170;
+TG  GO:0016702;
+TG  GO:0008198;
+--
+SN  3
+ID  2-hydroxychromene-2-carboxylate isomerase
+DN  2-hydroxychromene-2-carboxylate isomerase, HCCA isomerase (EC 5.99.1.4)
+RQ  1
+EV  IPR014440; PIRSF006386;
+TG  GO:1901170;
+TG  GO:0018845;
+TG  GO:0015035;
+--
+SN  4
+ID  Trans-O-hydroxybenzylidenepyruvate hydratase-aldolase
+DN  Trans-O-hydroxybenzylidenepyruvate hydratase-aldolase, THBPA hydratase-aldolase (EC 4.1.2.45)
+RQ  1
+EV  IPR002220; SM01130;
+TG  GO:0018813;
+--
+SN  5
+ID  Salicylaldehyde dehydrogenase
+DN  Salicylaldehyde dehydrogenase (EC 1.2.1.65)
+RQ  1
+EV  IPR015590; PF00171;
+TG  GO:0018485;
+--
+SN  6
+ID  Salicylate cleavage to Gentisate
+RQ  0
+EV  GenProp2158; sufficient;
+--
+SN  7
+ID  Salicylate cleavage to Catechol
+DN  Salicylate hydrogenase
+RQ  0
+EV  IPR017631; TIGR03219; sufficient;
+--
+SN  8
+ID  Catechol degradation
+RQ  0
+EV  GenProp0711;
+EV  GenProp0708;
+//

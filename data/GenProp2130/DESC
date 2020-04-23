@@ -1,0 +1,68 @@
+AC  GenProp2130
+DE  Methanogenesis Meta-pathway
+TP  METAPATH
+AU  Irazoqui, JM
+TH  3
+RN  [1]
+RM  27380183
+RT  Reviewing the anaerobic digestion and co-digestion process of food waste
+RT  from the perspectives on biogas production performance and environmental
+RT  impacts
+RA  Chiu SLH;, Lo IMC;
+RL  Environ Sci Pollut Res Int. 2016 Dec;23(24):24435-24450
+DC  Multiple pathways that lead to the generation of methane from glucose
+DR  MetaCyc; GLYCOLYSIS;
+DR  MetaCyc; PWY-5484;
+DR  MetaCyc; FAO-PWY;
+DR  MetaCyc; PWY-5485;
+DR  MetaCyc; PWY-5768;
+DR  MetaCyc; METH-ACETATE-PWY;
+DR  MetaCyc; METHFORM-PWY;
+CC  The production of biogas (methane) involves the anaerobic digestion and
+CC  co-digestion process of food waste. These waste is composed by different
+CC  types of biomolecules, such as lipids, proteins and carbohydrates. Each
+CC  kind of biomolecule is hydrolysed in several ways to obtain small molecules
+CC  as fatty acids, amino acids and glucose. Thes are then transformed in
+CC  volatile fatty acids (VFA). The VFA can be converted in acetate, which is
+CC  the main compound used by archaeas to produce methane.
+**  The PWY-5768 pathway was found only in fungi.
+--
+SN  1
+ID  Glucose break down (via Glycolys or ED pathway)
+RQ  0
+EV  GenProp1599; sufficient;
+EV  GenProp0691; sufficient;
+EV  GenProp1306; sufficient;
+EV  GenProp0468; sufficient;
+--
+SN  2
+ID  Pyruvate formate-lyase system
+RQ  0
+EV  GenProp0943;
+--
+SN  3
+ID  Methanogenesis from CO2 and H2
+RQ  0
+EV  GenProp2134;
+--
+SN  4
+ID  Pyruvate fermentation to acetate
+RQ  0
+EV  GenProp1543; sufficient;
+EV  GenProp2133; sufficient;
+--
+SN  5
+ID  Methanogenesis from acetate
+RQ  0
+EV  GenProp2132;
+--
+SN  6
+ID  Methanogenesis from methanol
+RQ  0
+EV  GenProp2135;
+--
+SN  7
+ID  Methyl-coenzyme M reduction to methane
+RQ  1
+EV  GenProp0719;
+//

@@ -1,0 +1,34 @@
+AC  GenProp2148
+DE  L-threonine degradation IV
+TP  PATHWAY
+AU  Irazoqui, JM
+TH  1
+RN  [1]
+RM  911318
+RT  Bacterial catabolism of threonine. Threonine degradation initiated by
+RT  l-threonine acetaldehyde-lyase (aldolase) in species of Pseudomonas
+RA  Bell SC; Turner JM;
+RL  Biochem J. 1977 Aug 15; 166(2): 209–216.
+DC  L-threonine degradation IV
+DR  MetaCyc; PWY-5436;
+CC  The catabolism of L-threonine is unusual in that several routes are known
+CC  to operate [1]. One of the routes is via the action of the enzyme
+CC  L-threonine aldolase, which cleaves threonine in glycine and acetaldehyde.
+CC  The latter is then converted in acetyl-CoA.
+--
+SN  1
+ID  Low specificity L-threonine aldolase
+DN  Low specificity L-threonine aldolase (EC:4.1.2.48)
+RQ  1
+EV  IPR026273; PIRSF038940; sufficient;
+EV  IPR023603; PIRSF017617; sufficient;
+TG  GO:0008732;
+TG  GO:0006567;
+--
+SN  2
+ID  Aldehyde-alcohol dehydrogenase
+DN  Aldehyde-alcohol dehydrogenase (EC:1.2.1.10)
+RQ  1
+EV  IPR003361; PIRSF015689; sufficient;
+TG  GO:0008774;
+//

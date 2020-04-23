@@ -1,0 +1,32 @@
+AC  GenProp2161
+DE  Nitrate transporter
+TP  SYSTEM
+AU  Irazoqui, JM
+TH  1
+RN  [1]
+RM  11967075
+RT  The roles of the polytopic membrane proteins NarK, NarU and NirC in
+RT  Escherichia coli K-12: two nitrate and three nitrite transporters.
+RA  Clegg S; Yu F; Griffiths L; Cole JA;
+RL  Mol Microbiol. 2002 Apr;44(1):143-55.
+CC  Two polytopic membrane proteins of the major facilitator family, NarK and
+CC  NarU, catalyse nitrate uptake into the Escherichia coli cytoplasm [1]. Both
+CC  proteins also catalyse nitrite extrusion and nitrite uptake. A third
+CC  protein, NirC, catalyses nitrite uptake, but it is unknown whether NirC
+CC  also facilitates nitrite export
+--
+SN  1
+ID  Nitrate/nitrite transporters NarK/NarU
+DN  Nitrate/nitrite transporters NarK/NarU (TC: 2.A.1.8.-)
+RQ  1
+EV  IPR004737; TIGR00886; sufficient;
+TG  GO:0015706;
+TG  GO:0015707;
+--
+SN  2
+ID  Nitrite transporter NirC
+RQ  0
+EV  IPR000292; TIGR00790; sufficient;
+TG  GO:0042128;
+TG  GO:0015707;
+//

@@ -1,0 +1,49 @@
+AC  GenProp2141
+DE  L-histidine degradation I
+TP  PATHWAY
+AU  Irazoqui, JM
+TH  3
+RN  [1]
+RM  4290562
+RT  Formation and Operation of the Histidine-degrading Pathway in Pseudomonas
+RT  aeruginosa
+RA  Lessie TG; Neidhardt FC;
+RL  J Bacteriol. 1967 Jun; 93(6): 1800–1810.
+DC  L-histidine degradation I
+DR  MetaCyc; HISDEG-PWY;
+CC  L-histidine can be catabolized by both prokaryotic and eukaryotic organisms
+CC  in two principal routes. The first step is the main difference between these
+CC  two routes. In this pathway, the first step L-histidine is split into
+CC  urocanate and ammonia by a histidase. In all routes described to moment,
+CC  N-formimino-L-glutamate is further degraded to L-glutamate.
+--
+SN  1
+ID  Histidine ammonia-lyase
+DN  Histidine ammonia-lyase (EC:4.3.1.3)
+RQ  1
+EV  IPR001106; PTHR10362;
+TG  GO:0019557;
+TG  GO:0004397;
+--
+SN  2
+ID  Urocanate hydratase
+DN  Urocanate hydratase (EC:4.2.1.49)
+RQ  1
+EV  IPR023637; TIGR01228;
+TG  GO:0016153;
+TG  GO:0006548;
+--
+SN  3
+ID  Imidazolonepropionase
+DN  Imidazolonepropionase (EC:3.5.2.7)
+RQ  1
+EV  IPR005920; PTHR42752;
+TG  GO:0050480;
+--
+SN  4
+ID  Formimidoylglutamase
+DN  Formimidoylglutamase (EC:3.5.3.8)
+RQ  1
+EV  IPR005923; TIGR01227;
+TG  GO:0050415;
+//

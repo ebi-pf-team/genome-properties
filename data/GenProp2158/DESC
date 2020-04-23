@@ -1,0 +1,72 @@
+AC  GenProp2158
+DE  Gentisate degradation
+TP  PATHWAY
+AU  Irazoqui, JM
+TH  4
+RN  [1]
+RM  5704827
+RT  Enzymic formation of D-malate
+RA  Hopper DJ; Chapman PJ; Dagley S;
+RL  Biochem J 110(4);798-800
+DC  Gentisate degradation I;
+DR  MetaCyc; PWY-6223;
+DC  Gentisate degradation II;
+DR  MetaCyc; PWY-7469;
+CC  Two pathway variants are known for the degradation of gentisate. Both
+CC  pathways start with the ring-cleavage oxidation of gentisate to yield
+CC  3-maleylpyruvate. However, in one pathway variant maleylpyruvate is
+CC  isomerized to 3-fumarylpyruvate, with the subsequent hydrolysis to fumarate
+CC  and pyruvate, while in the other variant maleylpyruvate is hydrolyzed
+CC  directly to maleate and pyruvate [1]. 
+--
+SN  1
+ID  Salicylate 5-hydroxylase, large oxygenase component
+DN  Salicylate 5-hydroxylase, large oxygenase component (EC 1.14.13.172)
+RQ  1
+EV  IPR001663; PR00090;
+TG  GO:0004497;
+TG  GO:0051537;
+EV  IPR015879; PF00848;
+TG  GO:0004497;
+TG  GO:0051537;
+EV  IPR017941; PS51296;
+EV  cd08880;
+TG  GO:0004497;
+TG  GO:0051537;
+--
+SN  2
+ID  Salicylate 5-hydroxylase, small oxygenase component
+DN  Salicylate 5-hydroxylase, small oxygenase component (EC 1.14.13.172)
+RQ  1
+EV  IPR000391; cd00667;
+TG  GO:0004497;
+--
+SN  3
+ID  Gentisate 1,2-dioxygenase
+DN  Gentisate 1,2-dioxygenase (EC 1.13.11.4)
+RQ  1
+EV  IPR011051; SSF51182;
+TG  GO:0047922;
+--
+SN  4
+ID  Maleylpyruvate isomerase
+DN  Maleylpyruvate isomerase (EC 5.2.1.4)
+RQ  0
+EV  IPR005955; TIGR01262;
+TG  GO:0050077;
+--
+SN  5
+ID  Fumarylpyruvate hydrolase
+DN  Fumarylpyruvate hydrolase (EC 3.7.1.20 )
+RQ  0
+EV  IPR011234; PF01557;
+EV  PTHR11820:SF90;
+TG  GO:0034545;
+--
+SN  6
+ID  Maleylpyruvate hydrolase
+DN  Maleylpyruvate hydrolase (EC 3.7.1.23)
+RQ  0
+EV  IPR011234; PF01557;
+TG  GO:0016853;
+//

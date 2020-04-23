@@ -1,0 +1,53 @@
+AC  GenProp2152
+DE  Denitrification
+TP  PATHWAY
+AU  Irazoqui, JM
+TH  3
+RN  [1]
+RM  9409151
+RT  Cell Biology and Molecular Basis of Denitrification
+RA  Zumft WG;
+RL  Microbiol Mol Biol Rev. 1997 Dec;61(4):533-616.
+DC  Nitrate reduction I (denitrification)
+DR  MetaCyc; DENITRIFICATION-PWY;
+CC  Denitrification constitutes one of the main branches of the global 
+CC  nitrogen cycle sustained by bacteria. It compromises the dissimilatory
+CC  transformation of nitrate or nitrite into gaseous N2. The bacterial
+CC  process is nearly exclusively a facultative trait. Its expression is
+CC  triggered in the cell by low oxygen tension and availability of an N oxide
+--
+SN  1
+ID  Nitrite reductase
+DN  Nitrite reductase
+RQ  1
+EV  IPR011048; SSF51004;
+EV  IPR036909; SSF46626;
+EV  IPR003143; G3DSA:2.140.10.20;
+TG  GO:0020037;
+TG  GO:0009055;
+EV  IPR001287; TIGR02376; sufficient;
+TG  GO:0005507;
+TG  GO:0050421;
+--
+SN  2
+ID  Nitric oxide reductase subunit B
+DN  Nitric oxide reductase subunit B (EC:1.7.2.5)
+RQ  1
+EV  IPR000883; PF00115; sufficient;
+TG  GO:0004129;
+TG  GO:0020037;
+--
+SN  3
+ID  Nitric oxide reductase subunit C
+DN  Nitric oxide reductase subunit C (EC:1.7.2.5)
+RQ  1
+EV  IPR009056; PF00034;
+TG  GO:0020037;
+--
+SN  4
+ID  Nitrous-oxide reductase
+DN  Nitrous-oxide reductase (EC:1.7.2.4)
+RQ  1
+EV  IPR023644; TIGR04244; sufficient;
+TG  GO:0050304;
+//

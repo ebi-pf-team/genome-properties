@@ -1,0 +1,40 @@
+AC  GenProp2155
+DE  1-Hydroxy-2-naphthoate ortho-cleavage
+TP  METAPATH
+AU  Irazoqui, JM
+TH  3
+RN  [1]
+RM  18662317
+RT  Microbial biodegradation of polyaromatic hydrocarbons
+RA  Peng RH; Xiong AS; Xue Y; Fu XY; Gao F: Zhao W; Tian YS; Yao QH;
+RL  FEMS Microbiol Rev. 2008 Nov;32(6):927-55.
+CC  1-Hydroxy-2-naphthoate is an intermediate of the degradation of different
+CC  aromtic compouns, like phenanthrene. This compound can be degraded via two
+CC  paths, the ortho-cleavage, which leads to the formation of phthalate, or
+CC  the meta-cleavage, which leads to the obtention of salicylic acid.
+--
+SN  1
+ID  1-hydroxy-2-naphthoate 1,2-dioxygenase
+DN  1-hydroxy-2-naphthoate 1,2-dioxygenase (EC:1.13.11.38)
+RQ  1
+EV  IPR013096; PF07883;
+TG  GO:0018582;
+--
+SN  2
+ID  Trans-2'-carboxybenzalpyruvate hydratase-aldolase
+DN  Trans-2'-carboxybenzalpyruvate hydratase-aldolase (EC:4.1.2.34)
+RQ  0
+EV  IPR002220; SM01130;
+TG  GO:0018803;
+--
+SN  3
+ID  2-formylbenzoate dehydrogenase
+DN  2-formylbenzoate dehydrogenase (EC:1.2.1.78)
+RQ  0
+EV  IPR016161; SSF53720;
+TG  GO:0016620;
+--
+SN  4
+ID  Phthalate degradation
+EV  GenProp2157;
+//

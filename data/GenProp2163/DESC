@@ -1,0 +1,22 @@
+AC  GenProp2163
+DE  Acetate/succinate transporter
+TP  SYSTEM
+AU  Irazoqui, JM
+TH  1
+RN  [1]
+RM  23844911
+RT  SATP (YaaH), a succinate-acetate transporter protein in Escherichia coli.
+RA  Sá-Pessoa J; Paiva S; Ribas D; Silva IJ; Viegas SC; Arraiano CM; Casal M;  
+RL  Biochem J. 2013 Sep 15;454(3):585-95.
+CC  Acetate transport in E. coli occurs via, at least, two distinct proteins:
+CC  ActP, a Sodium:Solute Symporter, and SatP, a member of the YaaH family [1].
+CC  StP behaves as a secondary active acetate–proton symporter. 
+--
+SN  1
+ID  Acetate/succinate transporter
+DN  Acetate/succinate transporter SatP (TC: 2.A.96.1.1)
+RQ  1
+EV  IPR000791; PF01184; sufficient;
+TG  GO:0015360;
+TG  GO:0035433;
+//

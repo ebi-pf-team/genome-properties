@@ -1,0 +1,85 @@
+AC  GenProp2153
+DE  Phenanthrene degradation
+TP  METAPATH
+AU  Irazoqui, JM
+TH  6
+DC  Polycyclic aromatic hydrocarbon degradation
+RN  [1]
+RM  8074523
+RT  Evidence for a novel pathway in the degradation of fluorine by Pseudomonas
+RT  sp. strain F274
+RA  Grifoll M; Selifonov SA; Chapman PJ;
+RL  Appl. Environ. Microbiol. 1994, 60, 2438-2449.
+RN  [2]
+RM  19440284
+RT  Bacterial degradation of aromatic compounds
+RA  Seo JS; Keum YS; Li QX;
+RL  Int J Environ Res Public Health. 2009 Jan;6(1):278-309
+RN  [3]
+RM  16777186
+RT  Phenanthrene degradation in Arthrobacter sp. P1-1: Initial 1,2-, 3,4- and
+RT  9,10-dioxygenation, and meta- and ortho-cleavages of naphthalene- 1,2-diol
+RT  after its formation from naphthalene-1,2-dicarboxylic acid and hydroxyl
+RT  naphthoic acids
+RA  Seo JS; Keum YS; Hu Y; Lee SE; Li QX.
+RL  Chemosphere 2006, 65, 2388-2394.
+DR  KEGG; map00624;
+CC  Phenanthrene, a three aromatic ring system, is found in high concentrations
+CC  in PAH-contaminated sediments, surface soils, and waste sites [1]. In
+CC  general, bacterial degradation of phenanthrene is initiated by
+CC  3,4-dioxygenation [2]. The diol is subsequently catabolized to
+CC  naphthalene-1,2-diol through both ortho-cleavage and meta-cleavage [3].
+--
+SN  1
+ID  PAH dioxygenase large subunit
+DN  PAH dioxygenase large subunit  (EC:1.13.11.-)
+RQ  1
+EV  IPR001663; PR00090;
+TG  GO:0006725;
+EV  IPR015879; PF00848;
+TG  GO:0006725;
+EV  IPR017941; PF00355;
+TG  GO:0006725;
+EV  cd08881;
+TG  GO:0006725;
+--
+SN  2
+ID  PAH dioxygenase small subunit
+DN  PAH dioxygenase small subunit  (EC:1.13.11.-)
+RQ  1
+EV  IPR000391; PTHR41534;
+TG  GO:0006725;
+--
+SN  3
+ID  cis-3,4-dihydrophenanthrene-3,4-diol dehydrogenase
+DN  cis-3,4-dihydrophenanthrene-3,4-diol dehydrogenase (EC:1.3.1.49)
+RQ  1
+EV  IPR002347; PF00106;
+TG  GO:0016491;
+--
+SN  4
+ID  extradiol dioxygenase
+DN  extradiol dioxygenase (EC:1.13.11.-)
+RQ  1
+EV  IPR029068; SSF54593;
+TG  GO:0019439;
+--
+SN  5
+ID  hydratase-aldolase
+DN  hydratase-aldolase(EC:4.1.2.-)
+RQ  1
+EV  IPR002220; SM01130;
+TG  GO:0016829;
+--
+SN  6
+ID  aldehyde dehydrogenase
+DN  aldehyde dehydrogenase (EC:1.2.1.-)
+RQ  1
+EV  IPR015590; PF00171;
+TG  GO:0004029;
+--
+SN  7
+ID  1-Hydroxy-2-naphthoate cleavege
+EV  GenProp2155; sufficient;
+EV  GenProp2156; sufficient;
+//

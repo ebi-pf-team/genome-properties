@@ -1,0 +1,65 @@
+AC  GenProp2143
+DE  L-lysine degradation IV
+TP  PATHWAY
+AU  Irazoqui, JM
+TH  3
+RN  [1]
+RM  14257627
+RT  Enzymic studies on the metabolism of glutarate in Pseudomonas
+RA  Numa S; Ishimura Y; Nakazawa T; Ooazaki T; Hayaishi O;
+RL  J Biol Chem 239;3915-26
+RN  [2]
+RM  5019949
+RT  Metabolism of basic amino acids in Pseudomonas putida. Transport of lysine,
+RT  ornithine, and arginine
+RA  Fan CL; Miller DL; Rodwell VW;
+RL  J Biol Chem 247(8);2283-8
+DC  L-lysine degradation IV
+DR  MetaCyc; PWY-5280;
+CC  Pseudomonas putida can catabolize L-lysine via the 5-aminopentanoate
+CC  (δ-aminovalerate) pathway to glutarate. In this pathway, L-lysine is
+CC  transported into the cell by basic amino acid transport systems [2]. It is
+CC  oxidatively decarboxylated to 5-aminopentanamide (δ-aminovaleramide), which
+CC  is then hydrolyzed to 5-aminopentanoate (δ-aminovalerate) and ammonia. The
+CC  conversion of 5-aminopentanoate to glutarate involves gene products of the
+CC  davDT operon (in [Revelles05]). Activation of glutarate to glutaryl-CoA by
+CC  an as yet uncharacterized reaction(s) and further metabolism of
+CC  glutaryl-CoA to carbon dioxide and acetyl-CoA have been demonstrated in
+CC  Pseudomonas fluorescens [1].
+--
+SN  1
+ID  Lysine 2-monooxygenase
+DN  Lysine 2-monooxygenase (EC:1.13.12.2)
+RQ  1
+EV  IPR002937; PF01593;
+TG  GO:0050067;
+--
+SN  2
+ID  5-aminopentanamidase
+DN  5-aminopentanamidase (EC:3.5.1.30)
+RQ  1
+EV  IPR003010; PF00795; sufficient;
+TG  GO:0047588;
+--
+SN  3
+ID  5-aminovalerate aminotransferase
+DN  5-aminovalerate aminotransferase DavT, (EC:2.6.1.48)
+RQ  1
+EV  IPR004632; TIGR00700;
+EV  IPR005814; PIRSF000521;
+TG  GO:0047589;
+--
+SN  4
+ID  Glutarate-semialdehyde dehydrogenase
+DN  Glutarate-semialdehyde dehydrogenase (EC:1.2.1.-)
+RQ  1
+EV  IPR010102; TIGR01780;
+TG  GO:0047949;
+--
+SN  5
+ID  Succinate--hydroxymethylglutarate CoA-transferase
+DN  Succinate--hydroxymethylglutarate CoA-transferase (EC:2.8.3.13)
+RQ  1
+EV  IPR023606; SSF89796;
+TG  GO:0047369;
+//
