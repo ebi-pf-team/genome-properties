@@ -1,0 +1,26 @@
+AC  GenProp2167
+DE  L-phenylalanine degradation
+TP  PATHWAY
+AU  Irazoqui, JM
+TH  1
+RN  [1]
+RM  33985
+RT  Phenylalanine hydroxylase from Chromobacterium violaceum. Purification
+RT  and characterization
+RA  Nakata H; Yamauchi T; Fujisawa H;
+RL  J Biol Chem 254(6);1829-33
+DC  L-phenylalanine degradation I (aerobic)
+DR  MetaCyc; PHENYLALANINE-DEG1-PWY;
+CC  Phenylalanine hydroxylase is a monooxygenase which catalyzes the conversion
+CC  of L-phenylalanine to L-tyrosine using tetrahydropterin as a reducing agent
+CC  and molecular oxygen as an oxidizing agent [1].
+--
+SN  1
+ID  Phenylalanine-4-hydroxylase
+DN  Phenylalanine-4-hydroxylase (EC:1.14.16.1)
+RQ  1
+EV  IPR001273; PTHR11473;
+EV  IPR005960; TIGR01267;
+TG  GO:0004505;
+TG  GO:0006559;
+//

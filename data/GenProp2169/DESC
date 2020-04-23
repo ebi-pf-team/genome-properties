@@ -1,0 +1,28 @@
+AC  GenProp2169
+DE  L-serine degradation
+TP  PATHWAY
+AU  Irazoqui, JM
+TH  1
+RN  [1]
+RM  4882014
+RT  L-serine deaminase of Escherichia coli.
+RA  Alfoldi L; Raskó I; Kerekes E;
+RL  J Bacteriol. 1968 Nov;96(5):1512-8.
+DC  L-serine degradation
+DR  MetaCyc; SERDEG-PWY;
+CC  The L-serine degradation pathway consists of a single enzymatic reaction,
+CC  catalyzed by EC 4.3.1.17, L-serine ammonia-lyase. The enzyme, which is
+CC  pyridoxal 5'-phosphate-dependent, dehydrates L-serine to the enamine
+CC  intermediate 2-aminoprop-2-enoate. This intermediate is very unstable. It
+CC  tautomerizes immediately and spontaneously to the imine form
+CC  2-iminopropanoate, which is then non-enzymatically hydrolyzed to form
+CC  pyruvate and free ammonium [1].
+--
+SN  1
+ID  L-serine dehydratase
+DN  L-serine dehydratase (EC:4.3.1.17)
+RQ  1
+EV  IPR004644; TIGR00720;
+TG  GO:0006565;
+TG  GO:0003941;
+//

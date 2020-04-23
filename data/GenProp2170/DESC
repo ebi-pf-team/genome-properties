@@ -1,0 +1,34 @@
+AC  GenProp2170
+DE  L-tryptophan degradation
+TP  PATHWAY
+AU  Irazoqui, JM
+TH  1
+RN  [1]
+RM  236639
+RT  Tryptophanase: structure, catalytic activities, and mechanism of action
+RA  Snell EE
+RL  Adv Enzymol Relat Areas Mol Biol 1975;42;287-333
+RN  [2]
+RM  9485457
+RT  Analysis of the pH- and ligand-induced spectral transitions of
+RT  tryptophanase: activation of the coenzyme at the early steps of the
+RT  catalytic cycle
+RA  Ikushiro H; Hayashi H; Kawata Y; Kagamiyama H;
+RL  Biochemistry 37(9);3043-52
+DC  L-tryptophan degradation II (via pyruvate)
+DR  MetaCyc; TRYPDEG-PWY;
+CC  Tryptophanase (tryptophan indole-lyase; EC 4.1.99.1) is a catabolic enzyme
+CC  that catalyzes the reversible conversion of tryptophan to indole, pyruvate,
+CC  and ammonia, in an α,β-elimination reaction. The action of this enzyme
+CC  leads to the release of 2-aminoprop-2-enoate, which spontaneously
+CC  tautomerizes to form the imine form 2-iminopropanoate, which is
+CC  spontaneously hydrolyzed to to pyruvate and ammonia [1, 2].
+--
+SN  1
+ID  Tryptophanase
+DN  Tryptophanase (EC:4.1.99.1)
+RQ  1
+EV  IPR011166; PIRSF001386;
+EV  IPR013440; TIGR02617;
+TG  GO:0009034;
+//
