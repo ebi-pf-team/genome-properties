@@ -10,7 +10,6 @@ sub new {
   $self->{skip}     = 0;
   $self->{found}    = 0;
   bless( $self, $class);
-  
   return $self;
 
 }
@@ -58,10 +57,10 @@ sub get_evidence {
 }
 
 sub found {
-  my ($self, $found) = @_;
-  if(defined($found)){
-    $self->{found} = 1;
-  }
+  my ($self, @found) = @_;
+  if(@found){
+    $self->{found} = \@found;
+    }
   return($self->{found});
 }
 
