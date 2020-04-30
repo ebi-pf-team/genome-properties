@@ -1,6 +1,7 @@
 #!/usr/bin/env perl
 #
-# Re-worked version of Genome Properties
+# Re-worked version of Genome Properties to work with several inputs and
+# calculate the cross-talk between these proteomes
 #
 
 use strict;
@@ -11,42 +12,33 @@ use Getopt::Long;
 use Data::Printer;
 use List::Util qw[min max];
 use GenomeProperties;
-use GenomeProperties::Definition;
-use GenomeProperties::Step;
-use GenomeProperties::StepEvidence;
-
 
 my(%options);
 GetOptions ( \%options, 
-              'seqs=s',
+              'seqs_dir=s',
               'matches=s',
-              'match_source=s',
+              'matches_dir=s',
+              'ext=s',
               'gpdir=s',
               'gpff=s',
               'outdir=s',
               'outfiles=s@',
               'property=s',
-			        'list=s',
-			        'all',
-			        'name=s',
+			  'list=s',
+			  'all',
+			  'name=s',
               'debug',
               'help',
               'eval_order=s') or die "Failed to parse options\n";;
 
 
-if($options{help}){
-  help();
-}
+help() if ($options{help});
 
 my $gp = GenomeProperties->new;
-
 $gp->set_options(\%options, 'cal');
 $gp->open_outputfiles;
-
-#Read in the GP definitions file.
 $gp->read_properties;
-
-$gp->define_sequence_set;
+$gp->define_sequence_set if ($options{seqs_dir});
 $gp->annotate_sequences;
 $gp->evaluate_properties;
 $gp->write_results;
@@ -69,45 +61,43 @@ sub help{
 Options:
 
 == Sequence set ==
+matches <file>                  : file with InterProScan annotation.
 
-One or both of these two options:
-matches <filename|TSV content> : TSV file of InterProScan5 output.
-match_source <file|inline> : file or inline. Default is to assume file.
-seq <filename>           : FASTA file of sequences that need to be analysed.
-
+matches_dir <directory>  		: folder with InterProScan annotations.
+seqs_dir <directory>           	: folder with FASTA files of sequences that need to be analysed.
+ext <extension>					: extension of the files to analyse (other files will be ignored)
 
 == Calculation options ==
 
 One of the the following three:
-all                      : Calculate against all Genome Properties 
-property <accession>     : Calculate against 
-list     <filename>      : Filename containing a list of Genome Properties that need 
-                         : to be evaluatated.
+all                      		: Calculate against all Genome Properties 
+property <accession>     		: Calculate against 
+list     <filename>      		: Filename containing a list of Genome Properties that need to be evaluatated.
 
 == Genome Properties files == 
 Both of these are required: 
-gpdir <directory name>   : Genome Properties release directory
-gpff  <filename>         : Name of the flatfile  
+gpdir <directory name>   		: Genome Properties release directory
+gpff  <filename>         		: Name of the flatfile  
 
 Optional:
-eval_order <filename>    : File containing an optimal evaluation order.
+eval_order <filename>    		: File containing an optimal evaluation order.
 
 == Output options ==
 
-name <name>              : Output file tag name (required). This will be prefixed 
-                           depending on the outputs requested.
-outdir <directory name>  : Name of the output directory (optional, default pwd).
-outfiles <format>        : Format can be one of the following [summary|long|table|match|web_json]
-                         : To get multiple output files use option multiple times
+name <name>              		: Output file tag name (required). This will be prefixed 
+                         		  depending on the outputs requested.
+outdir <directory name> 		: Name of the output directory (optional, default pwd).
+outfiles <format>       		: Format can be one of the following [summary|long|comptable|table|match|web_json]
+                         		: To get multiple output files use option multiple times
 
 
 -- Other --
-help                     : Prints this help message
-debug                    : Turn on verbose debugging
-
+help                    		: Prints this help message
+debug                    		: Turn on verbose debugging
+		
 
 Example: 
-$0 -matches /Users/rdf/Projects/InterPro/GenomeProperties/EcoliExample/83333.fasta.tsv  -all -name 83333.test -gpdir /tmp/release/testv0.1 -gpff genomeProperties.txt -outfiles summary
+$0 -matches_dir /Users/rdf/Projects/InterPro/GenomeProperties/EcoliExample/ -ext tsv -all -name 83333.test -gpdir /tmp/release/testv0.1 -gpff genomeProperties.txt -outfiles summary
 
 
 EOF
