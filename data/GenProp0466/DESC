@@ -52,7 +52,7 @@ SN  4
 ID  Molybdopterin converting factor, subunit 1
 DN  Molybdopterin converting factor, subunit 1/moaD
 RQ  1
-EV  IPR010034; TIGR01682; sufficient;
+EV  IPR028887; TIGR01682; sufficient;
 TG  GO:0032324;
 --
 SN  5
