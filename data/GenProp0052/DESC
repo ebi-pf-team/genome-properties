@@ -330,7 +330,7 @@ SN  43
 ID  Type III secretion chaperone YscW
 DN  Type III secretion system chaperone, YscW 
 RQ  0
-EV  IPR013400; TIGR02567; sufficient;
+EV  IPR039366; TIGR02567; sufficient;
 TG  GO:0030254;
 --
 SN  44
