@@ -19,7 +19,7 @@ EV  IPR006059; PF13416; sufficient;
 SN  2
 ID  sn-glycerol-3-phosphate transport system permease protein UgpE
 RQ  1
-EV  IPR030165; PTHR43744:SF8; sufficient;
+EV  IPR065569; NF008210; sufficient;
 --
 SN  3
 ID  sn-glycerol-3-phosphate transport system permease protein UgpA
