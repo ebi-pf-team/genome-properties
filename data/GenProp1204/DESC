@@ -20,7 +20,7 @@ CC  which triggers the release of maltose into the cytoplasm.
 SN  1
 ID  Maltose transport system permease protein MalF
 RQ  1
-EV  IPR030156; PTHR30193:SF22; sufficient;
+EV  IPR065570; NF008232; sufficient;
 --
 SN  2
 ID  Maltose transport system permease protein MalG
