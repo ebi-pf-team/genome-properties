@@ -42,6 +42,6 @@ SN  3
 ID  Methanobactin biosynthesis cassette protein MbnC
 DN  Methanobactin biosynthesis cassette protein MbnC
 RQ  1
-EV  IPR026434; TIGR04160;
+EV  IPR023973; PF27805;
 TG  GO:0015677;
 //
