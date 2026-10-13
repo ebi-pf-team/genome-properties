@@ -25,7 +25,7 @@ EV  IPR000515; cd06261; sufficient;
 SN  2
 ID  Methionine import ATP-binding protein MetN
 RQ  1
-EV  IPR026253; PTHR43166:SF18; sufficient;
-EV  IPR026253; PTHR43166:SF3; sufficient;
-EV  IPR026253; PTHR43166:SF5; sufficient;
+EV  IPR050086; PTHR43166; sufficient;
+EV  IPR050086; PTHR43166; sufficient;
+EV  IPR050086; PTHR43166; sufficient;
 //
