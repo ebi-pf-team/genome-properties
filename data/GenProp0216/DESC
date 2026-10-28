@@ -44,19 +44,19 @@ ID  Exodeoxyribonuclease V, beta subunit
 DN  RecBCD enzyme subunit RecB (EC:3.1.11.5)
 RQ  1
 EV  IPR004586; TIGR00609; sufficient;
-TG  GO:0000738;
+TG  GO:0006308;
 --
 SN  2
 ID  Exodeoxyribonuclease V, gamma subunit
 DN  RecBCD enzyme subunit RecC (EC:3.1.11.5)
 RQ  1
 EV  IPR006697; TIGR01450; sufficient;
-TG  GO:0000738;
+TG  GO:0006308;
 --
 SN  3
 ID  Exodeoxyribonuclease V, alpha subunit
 DN  RecBCD enzyme subunit RecD (EC:3.1.11.5)
 RQ  1
 EV  IPR006344; TIGR01447; sufficient;
-TG  GO:0000738;
+TG  GO:0006308;
 //
