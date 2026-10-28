@@ -15,19 +15,19 @@ ID  Cyclohexa-1,5-dienecarbonyl-CoA hydratase
 DN  Cyclohexa-1,5-dienecarbonyl-CoA hydratase
 RQ  1
 EV  IPR017602; TIGR03189; sufficient;
-TG  GO:0019439;
+TG  GO:0009056;
 --
 SN  2
 ID  6-hydroxycyclohex-1-ene-1-carbonyl-CoA dehydrogenase
 DN  6-hydroxycyclohex-1-ene-1-carbonyl-CoA dehydrogenase
 RQ  1
 EV  IPR017614; TIGR03201; sufficient;
-TG  GO:0019439;
+TG  GO:0009056;
 --
 SN  3
 ID  6-oxocyclohex-1-ene-1-carbonyl-CoA hydrolase
 DN  6-oxocyclohex-1-ene-1-carbonyl-CoA hydrolase
 RQ  1
 EV  IPR017613; TIGR03200; sufficient;
-TG  GO:0019439;
+TG  GO:0009056;
 //
