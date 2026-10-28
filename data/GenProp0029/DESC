@@ -77,14 +77,12 @@ ID  Nitrogenase iron-molybdenum cofactor biosynthesis protein
 DN  Nitrogenase cofactor biosynthesis protein NifB
 RQ  1
 EV  IPR005980; TIGR01290; sufficient;
-TG  GO:0009108;
 --
 SN  8
 ID  Nitrogenase iron-molybdenum cofactor biosynthesis protein
 DN  Nitrogenase MoFe cofactor biosynthesis protein NifE
 RQ  1
 EV  IPR005973; TIGR01283; sufficient;
-TG  GO:0009108;
 --
 SN  9
 ID  Nitrogen fixation positive activator protein
