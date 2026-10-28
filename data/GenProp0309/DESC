@@ -18,33 +18,33 @@ ID  Arginine N-succinyltransferase
 DN  Arginine N-succinyltransferase
 RQ  1
 EV  IPR017650; TIGR03244; sufficient;
-TG  GO:0019544;
+TG  GO:0006527;
 --
 SN  2
 ID  Succinylarginine dihydrolase
 DN  Succinylarginine dihydrolase
 RQ  1
 EV  IPR007079; TIGR03241; sufficient;
-TG  GO:0019544;
+TG  GO:0006527;
 --
 SN  3
 ID  Succinylornithine transaminase
 DN  Acetyl/Succinylornithine transaminase
 RQ  1
 EV  IPR017652; TIGR03246;
-TG  GO:0019544;
+TG  GO:0006527;
 --
 SN  4
 ID  Succinylglutamic semialdehyde dehydrogenase
 DN  Succinylglutamate-semialdehyde dehydrogenase
 RQ  1
 EV  IPR017649; TIGR03240; sufficient;
-TG  GO:0019544;
+TG  GO:0006527;
 --
 SN  5
 ID  Succinylglutamate desuccinylase
 DN  Succinylglutamate desuccinylase
 RQ  1
 EV  IPR016681; TIGR03242; sufficient;
-TG  GO:0019544;
+TG  GO:0006527;
 //
