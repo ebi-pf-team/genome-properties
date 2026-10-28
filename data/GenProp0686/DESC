@@ -34,44 +34,44 @@ ID  Source of (S)-allantoin
 DN  Source of (S)-allantoin
 RQ  0
 EV  IPR012681; TIGR00800;
-TG  GO:0009442;
+TG  GO:0000256;
 EV  GenProp0688;
-TG  GO:0009442;
+TG  GO:0000256;
 --
 SN  2
 ID  Ureidoglycolate lyase (4.3.2.3)
 DN  Ureidoglycolate lyase (4.3.2.3)
 RQ  1
 EV  IPR007247; PF04115; sufficient;
-TG  GO:0009442;
+TG  GO:0000256;
 --
 SN  3
 ID  Allantoinase (3.5.2.5)
 DN  Allantoinase (3.5.2.5)
 RQ  1
 EV  IPR017593; TIGR03178; sufficient;
-TG  GO:0009442;
+TG  GO:0000256;
 --
 SN  4
 ID  Allantoin hydrolysis, final
 DN  Allantoin hydrolysis, final
 RQ  0
 EV  IPR005164; TIGR02961; sufficient;
-TG  GO:0009442;
+TG  GO:0000256;
 --
 SN  5
 ID  Allantoin hydrolysis, initial
 DN  Allantoin hydrolysis, initial
 RQ  1
 EV  IPR005164; TIGR02961; sufficient;
-TG  GO:0009442;
+TG  GO:0000256;
 EV  IPR017591; TIGR03176; sufficient;
-TG  GO:0009442;
+TG  GO:0000256;
 --
 SN  6
 ID  Cupin domain protein, unknown function
 DN  Cupin domain protein, unknown function
 RQ  0
 EV  IPR017627; TIGR03214; sufficient;
-TG  GO:0009442;
+TG  GO:0000256;
 //
