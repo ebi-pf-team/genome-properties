@@ -24,9 +24,9 @@ SN  2
 ID  Methylation of homocysteine (various)
 RQ  1
 EV  IPR006276; TIGR01371; sufficient;
-TG  GO:0019279;
+TG  GO:0071266;
 EV  IPR011822; TIGR02082; sufficient;
-TG  GO:0019279;
+TG  GO:0071266;
 --
 SN  3
 ID  Homoserine O-succinyltransferase
@@ -52,35 +52,35 @@ ID  Cystathionine beta-lyase
 DN  Cystathionine beta-lyase/metC
 RQ  1
 EV  IPR006233; TIGR01324; sufficient;
-TG  GO:0019279;
+TG  GO:0071266;
 EV  IPR006238; TIGR01329; sufficient;
-TG  GO:0019279;
+TG  GO:0071266;
 --
 SN  7
 ID  5,10-methyleneTHF reductase
 DN  5,10-methylenetetrahydrofolate reductase/metF
 RQ  0
 EV  IPR004620; TIGR00676; sufficient;
-TG  GO:0019279;
+TG  GO:0071266;
 --
 SN  8
 ID  Methionine biosynthesis protein MetW
 DN  Methionine biosynthesis protein MetW/metW
 RQ  0
 EV  IPR010743; TIGR02081; sufficient;
-TG  GO:0019279;
+TG  GO:0071266;
 --
 SN  9
 ID  Homoserine O-acetyltransferase
 DN  Homoserine O-acetyltransferase/metX
 RQ  1
 EV  IPR008220; TIGR01392; sufficient;
-TG  GO:0019280;
+TG  GO:0071266;
 --
 SN  10
 ID  O-succinylhomoserine sulfhydrylase
 DN  O-succinylhomoserine sulfhydrylase/metZ
 RQ  0
 EV  IPR006234; TIGR01325; sufficient;
-TG  GO:0019281;
+TG  GO:0071266;
 //
