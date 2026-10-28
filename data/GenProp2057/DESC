@@ -99,7 +99,6 @@ DN  Histone acetyltransferase KAT2A
 RQ  1
 EV  IPR037800; PTHR22880:SF124; sufficient;
 TG  GO:0033276;
-TG  GO:0016573;
 --
 SN  10
 ID  Transcription initiation factor TFIID subunit 10 (TAF10) 
