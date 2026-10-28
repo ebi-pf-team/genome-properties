@@ -29,7 +29,7 @@ ID  Poly-beta-1,6-N-acetyl-D-glucosamine N-deacetylase
 DN  Poly-beta-1,6-N-acetyl-D-glucosamine N-deacetylase/PgaB
 RQ  1
 EV  IPR023854; TIGR03938;
-TG  GO:0045226;
+TG  GO:0000271;
 --
 SN  3
 ID  Poly-beta-1,6 N-acetyl-D-glucosamine synthase
