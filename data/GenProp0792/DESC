@@ -39,12 +39,10 @@ ID  7,8-didemethyl-8-hydroxy-5-deazariboflavin (FO) synthase, CofG subunit
 DN  CofG family (EC 2.5.1.77)
 RQ  1
 EV  IPR019939; TIGR03550;
-TG  GO:0009108;
 --
 SN  2
 ID  7,8-didemethyl-8-hydroxy-5-deazariboflavin (FO) synthase, CofH subunit 
 DN  CofH family (EC 2.5.1.77)
 RQ  1
 EV  IPR019940; TIGR03551;
-TG  GO:0009108;
 //
