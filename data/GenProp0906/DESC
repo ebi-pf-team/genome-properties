@@ -19,28 +19,28 @@ ID  Intercellular adhesin protein A
 DN  Intercellular adhesin protein A/icaA
 RQ  1
 EV  IPRXXXX; 2726;
-TG  GO:0045226;
+TG  GO:0000271;
 --
 SN  2
 ID  Intercellular adhesin protein B
 DN  Intercellular adhesin protein B/icaB
 RQ  1
 EV  IPR023872; TIGR03933;
-TG  GO:0045226;
+TG  GO:00002716;
 --
 SN  3
 ID  Intercellular adhesin protein C
 DN  Intercellular adhesin protein C/icaC
 RQ  1
 EV  IPRXXXX; 2728;
-TG  GO:0045226;
+TG  GO:0000271;
 --
 SN  4
 ID  Intercellular adhesin protein D
 DN  Intercellular adhesin protein D/icaD
 RQ  1
 EV  IPR020510; TIGR03932;
-TG  GO:0045226;
+TG  GO:0000271;
 --
 SN  5
 ID  Intercellular adhesin regulator
