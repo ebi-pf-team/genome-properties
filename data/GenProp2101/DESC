@@ -79,7 +79,7 @@ DN  Alpha-1,3/1,6-mannosyltransferase ALG2 (EC 2.4.1.132, EC 2.4.1.257)
 RQ  1
 EV  IPR027054; cd03805; sufficient;
 TG  GO:0004378;
-TG  GO:0006486;
+TG  GO:0009101;
 --
 SN  6
 ID  GDP-Man:Man(3)GlcNAc(2)-PP-Dol alpha-1,2-mannosyltransferase (ALG11)
@@ -97,7 +97,7 @@ EV  IPR007594; PF04506; sufficient;
 EV  IPR007594; PTHR13117; sufficient;
 TG  GO:0005319;
 TG  GO:0006869;
-TG  GO:0016021;
+TG  GO:0016020;
 --
 SN  8
 ID  Dol-P-Man:Man(5)GlcNAc(2)-PP-Dol alpha-1,3-mannosyltransferase (ALG3)
@@ -106,7 +106,7 @@ RQ  1
 EV  IPR007873; PF05208; sufficient;
 EV  IPR007873; PTHR12646; sufficient;
 TG  GO:0000030;
-TG  GO:0030176;
+TG  GO:0005789;
 --
 SN  9
 ID  Alpha-1,2-mannosyltransferase ALG9
@@ -114,7 +114,7 @@ DN  Alpha-1,2-mannosyltransferase ALG9 (EC 2.4.1.259, EC 2.4.1.261)
 RQ  1
 EV  IPR039484; PTHR22760:SF2; sufficient;
 TG  GO:0000030;
-TG  GO:0030176;
+TG  GO:0005789;
 --
 SN  10
 ID  Dol-P-Man:Man(7)GlcNAc(2)-PP-Dol alpha-1,6-mannosyltransferase (ALG12)
@@ -141,7 +141,7 @@ RQ  1
 EV  IPR039487; PTHR12413:SF2; sufficient;
 TG  GO:0005783;
 TG  GO:0042283;
-TG  GO:0006490;
+TG  GO:0006488;
 --
 SN  13
 ID  Dol-P-Glc:Glc(2)Man(9)GlcNAc(2)-PP-Dol alpha-1,2-glucosyltransferase (ALG10)
