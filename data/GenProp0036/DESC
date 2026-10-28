@@ -82,7 +82,6 @@ ID  Biotin ligase domain protein
 DN  Biotin-[acetyl-CoA-carboxylase] ligase (EC 6.3.4.15)
 RQ  0
 EV  IPR004408; TIGR00121; sufficient;
-TG  GO:0018065;
 --
 SN  9
 ID  Biotin repressor
