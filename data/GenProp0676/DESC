@@ -22,14 +22,14 @@ ID  Subunit C
 DN  Subunit C/ahpC
 RQ  1
 EV  IPR017559; TIGR03137; sufficient;
-TG  GO:0006800;
+TG  GO:0072593;
 --
 SN  2
 ID  Subunit F
 DN  Subunit F/ahpF
 RQ  1
 EV  IPR012081; TIGR03140; sufficient;
-TG  GO:0006800;
+TG  GO:0072593;
 EV  IPR017561; TIGR03143; sufficient;
-TG  GO:0006800;
+TG  GO:0072593;
 //
