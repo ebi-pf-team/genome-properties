@@ -139,6 +139,6 @@ ID  Solute carrier family 2, facilitated glucose transporter member 4
 DN  Glucose transporter, type 4 (GLUT4) 
 RQ  1
 EV  IPR002441; PR01193; sufficient;
-TG  GO:0017137;
-TG  GO:0005355;
+TG  GO:0031267;
+TG  GO:0055056;
 //
