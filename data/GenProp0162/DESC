@@ -33,46 +33,46 @@ ID  Threonine dehydratase
 DN  Threonine dehydratase (EC 4.3.1.19)
 RQ  1
 EV  IPR005789; TIGR01127; sufficient;
-TG  GO:0009097;
+TG  GO:1901705;
 EV  IPR005787; TIGR01124; sufficient;
-TG  GO:0009097;
+TG  GO:1901705;
 EV  IPR011820; TIGR02079; sufficient;
-TG  GO:0009097;
+TG  GO:1901705;
 --
 SN  2
 ID  Acetohydroxyacid synthase, large subunit
 DN  Acetolactate synthase, large subunit (EC 2.2.1.6)
 RQ  1
 EV  IPR012846; TIGR00118; sufficient;
-TG  GO:0009097;
+TG  GO:1901705;
 --
 SN  3
 ID  Acetohydroxyacid synthase, small subunit
 DN  Acetolactate synthase, small subunit (EC 2.2.1.6)
 RQ  0
 EV  IPR004789; TIGR00119; sufficient;
-TG  GO:0009097;
+TG  GO:1901705;
 --
 SN  4
 ID  Ketol-acid reductoisomerase
 DN  Ketol-acid reductoisomerase (EC 1.1.1.86)
 RQ  1
 EV  IPR013023; TIGR00465; sufficient;
-TG  GO:0009097;
+TG  GO:1901705;
 --
 SN  5
 ID  Dihydroxy-acid dehydratase
 DN  Dihydroxy-acid dehydratase (EC 4.2.1.9)
 RQ  1
 EV  IPR004404; TIGR00110; sufficient;
-TG  GO:0009097;
+TG  GO:1901705;
 --
 SN  6
 ID  Branched-chain amino acid aminotransferase
 DN  Branched-chain amino acid aminotransferase (EC 2.6.1.42)
 RQ  0
 EV  IPR005785; TIGR01122; sufficient;
-TG  GO:0009097;
+TG  GO:1901705;
 EV  IPR005786; TIGR01123; sufficient;
-TG  GO:0009097;
+TG  GO:1901705;
 //
