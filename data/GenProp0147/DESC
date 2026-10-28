@@ -52,18 +52,18 @@ ID  Choline dehydrogenase
 DN  Choline dehydrogenase/BetA (EC 1.1.99.1)
 RQ  1
 EV  IPR011533; TIGR01810; sufficient;
-TG  GO:0019285;
+TG  GO:0031456;
 --
 SN  2
 ID  Glycine betaine dehydrogenase
 DN  Betaine aldehyde dehydrogenase/BetB (EC 1.2.1.8)
 RQ  1
 EV  IPR011264; TIGR01804; sufficient;
-TG  GO:0019285;
+TG  GO:0031456;
 --
 SN  3
 ID  Choline-responsive transcriptional repressor BetI
 RQ  0
 EV  IPR017757; TIGR03384;
-TG  GO:0019285;
+TG  GO:0031456;
 //
