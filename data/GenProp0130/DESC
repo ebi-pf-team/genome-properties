@@ -36,40 +36,40 @@ ID  A subunit
 DN  Electron transport complex, RnfABCDGE type, A subunit
 RQ  1
 EV  IPR011293; TIGR01943; sufficient;
-TG  GO:0006118;
+TG  GO:0022900;
 --
 SN  2
 ID  B subunit
 DN  Electron transport complex, RnfABCDGE type, B subunit
 RQ  1
 EV  IPR010207; TIGR01944; sufficient;
-TG  GO:0006118;
+TG  GO:0022900;
 --
 SN  3
 ID  C subunit
 DN  Electron transport complex, RnfABCDGE type, C subunit
 RQ  1
 EV  IPR010208; TIGR01945; sufficient;
-TG  GO:0006118;
+TG  GO:0022900;
 --
 SN  4
 ID  D subunit
 DN  Electron transport complex, RnfABCDGE type, D subunit
 RQ  1
 EV  IPR011303; TIGR01946; sufficient;
-TG  GO:0006118;
+TG  GO:0022900;
 --
 SN  5
 ID  E subunit
 DN  Electron transport complex, RnfABCDGE type, E subunit
 RQ  1
 EV  IPR010968; TIGR01948; sufficient;
-TG  GO:0006118;
+TG  GO:0022900;
 --
 SN  6
 ID  G subunit
 DN  Electron transport complex, RnfABCDGE type, G subunit
 RQ  1
 EV  IPR010209; TIGR01947; sufficient;
-TG  GO:0006118;
+TG  GO:0022900;
 //
