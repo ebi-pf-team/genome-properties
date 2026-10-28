@@ -20,12 +20,10 @@ ID  Cell-cell signalling protein PapR
 DN  Cell-cell signalling protein PapR/papR
 RQ  1
 EV  IPR009239; PF05968;
-TG  GO:0052100;
 --
 SN  2
 ID  Global transcriptional regulator PlcR
 DN  Global transcriptional regulator PlcR/plcR
 RQ  1
 EV  IPRXXXX; 2403;
-TG  GO:0052100;
 //
