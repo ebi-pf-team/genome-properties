@@ -25,7 +25,6 @@ ID  Nicotinate dehydrogenase, FAD subunit
 DN  Nicotinate dehydrogenase, FAD subunit/n1_ndhF
 RQ  1
 EV  IPRXXXX; 2080;
-TG  GO:0046497;
 --
 SN  2
 ID  Nicotinate dehydrogenase, NdhL subunit
@@ -42,7 +41,6 @@ ID  Nicotinate dehydrogenase, 2x[2Fe-2S] subunit
 DN  Nicotinate dehydrogenase, 2x[2Fe-2S] subunit/n1_ndhS
 RQ  1
 EV  IPRXXXX; 2081;
-TG  GO:0046497;
 --
 SN  5
 ID  6-hydroxynicotinate reductase (1.3.7.1)
@@ -54,7 +52,6 @@ ID  Enamidase (3.5.2.18)
 DN  Enamidase (3.5.2.18)/nic_3
 RQ  1
 EV  IPRXXXX; 2082;
-TG  GO:0046497;
 --
 SN  7
 ID  2-hydroxymethylglutarate dehydrogenase (1.1.1.291)
@@ -71,7 +68,6 @@ ID  2-methyleneglutarate mutase (5.4.99.4)
 DN  2-methyleneglutarate mutase (5.4.99.4)/nic_6
 RQ  1
 EV  IPRXXXX; 2079;
-TG  GO:0046497;
 --
 SN  10
 ID  Methylitaconate Delta-isomerase (5.3.3.6)
