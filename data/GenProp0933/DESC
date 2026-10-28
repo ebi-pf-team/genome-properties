@@ -21,19 +21,16 @@ ID  Putative bacillithiol TDOR, YpdA family
 DN  Putative bacillithiol TDOR, YpdA family
 RQ  0
 EV  IPR023856; TIGR04018;
-TG  GO:0071792;
 --
 SN  2
 ID  Putative bacillithiol TDOR, YphP/YqiW family
 DN  Putative bacillithiol TDOR, YphP/YqiW family
 RQ  0
 EV  IPR009474; PF06491;
-TG  GO:0071792;
 --
 SN  3
 ID  Putative bacillithiol TDOR, YtxJ family
 DN  Putative bacillithiol TDOR, YtxJ family
 RQ  0
 EV  IPR022551; TIGR04019;
-TG  GO:0071792;
 //
