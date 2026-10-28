@@ -22,5 +22,5 @@ ID  Glutaminyl-tRNA synthetase
 DN  Glutamine-tRNA ligase (EC 6.1.1.18)
 RQ  1
 EV  IPR004514; TIGR00440; sufficient;
-TG  GO:0006425;
+TG  GO:0006418;
 //
