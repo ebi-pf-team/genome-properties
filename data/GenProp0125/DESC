@@ -51,48 +51,48 @@ SN  1
 ID  Source of aspartate-semialdehyde
 RQ  1
 EV  GenProp0160;
-TG  GO:0009089;
+TG  GO:0009085;
 --
 SN  2
 ID  Dihydrodipicolinate synthase
 DN  Dihydrodipicolinate synthase (EC 4.3.3.7)
 RQ  1
 EV  IPR005263; TIGR00674; sufficient;
-TG  GO:0009089;
+TG  GO:0009085;
 --
 SN  3
 ID  Dihydrodipicolinate reductase
 DN  Dihydrodipicolinate reductase (EC 1.17.1.8)
 RQ  1
 EV  IPR023940; TIGR00036; sufficient;
-TG  GO:0009089;
+TG  GO:0009085;
 EV  IPR011859; TIGR02130; sufficient;
-TG  GO:0009089;
+TG  GO:0009085;
 --
 SN  4
 ID  Aminotransferase pathways
 DN  LL-diaminopimelate aminotransferase (EC 2.6.1.83)
 RQ  0
 EV  GenProp0787;
-TG  GO:0009089;
+TG  GO:0009085;
 EV  GenProp0786;
-TG  GO:0009089;
+TG  GO:0009085;
 EV  IPR019881; TIGR03540;
-TG  GO:0009089;
+TG  GO:0009085;
 EV  IPR019942; TIGR03542;
-TG  GO:0009089;
+TG  GO:0009085;
 --
 SN  5
 ID  Diaminopimelate epimerase
 DN  Diaminopimelate epimerase (EC 5.1.1.7)
 RQ  1
 EV  IPR001653; TIGR00652; sufficient;
-TG  GO:0009089;
+TG  GO:0009085;
 --
 SN  6
 ID  Diaminopimelate decarboxylase
 DN  Diaminopimelate decarboxylase (EC 4.1.1.20)
 RQ  1
 EV  IPR002986; TIGR01048; sufficient;
-TG  GO:0009089;
+TG  GO:0009085;
 //
