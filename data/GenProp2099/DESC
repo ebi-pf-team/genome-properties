@@ -50,7 +50,7 @@ ID  Solute carrier family 2, facilitated glucose transporter
 DN  Glucose transporter, type 1/2 (GLUT1/SLC2A1, GLUT2/SLC2A2)
 EV  IPR002439; PR01190; sufficient;
 EV  IPR002440; PR01191; sufficient;
-TG  GO:0005355;
+TG  GO:0055056;
 --
 SN  2
 ID  Glucokinase
