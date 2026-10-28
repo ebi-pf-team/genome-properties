@@ -29,35 +29,35 @@ ID  Glycerate kinase (EC 2.7.1.31)
 DN  Glycerate kinase (EC 2.7.1.31)
 RQ  0
 EV  IPR004381; TIGR00045; sufficient;
-TG  GO:0019394;
+TG  GO:0042838;
 EV  IPR004381; TIGR00045; sufficient;
-TG  GO:0019394;
+TG  GO:0042838;
 --
 SN  2
 ID  5-dehydro-4-deoxy-D-glucarate lyase (EC 4.1.2.20)
 DN  5-dehydro-4-deoxy-D-glucarate lyase (EC 4.1.2.20)
 RQ  1
 EV  IPR017648; TIGR03239; sufficient;
-TG  GO:0019394;
+TG  GO:0042838;
 --
 SN  3
 ID  Tartronate semialdehyde reductase (EC 1.1.1.60)
 DN  Tartronate semialdehyde reductase (EC 1.1.1.60)
 RQ  1
 EV  IPR006398; TIGR01505; sufficient;
-TG  GO:0019394;
+TG  GO:0042838;
 --
 SN  4
 ID  Glucarate dehydratase (EC 4.2.1.40)
 DN  Glucarate dehydratase (EC 4.2.1.40)
 RQ  1
 EV  IPR017653; TIGR03247; sufficient;
-TG  GO:0019394;
+TG  GO:0042838;
 --
 SN  5
 ID  D-glucarate transporter, putative
 DN  D-glucarate transporter, putative
 RQ  0
 EV  IPR064890; cd17319;
-TG  GO:0019394;
+TG  GO:0042838;
 //
