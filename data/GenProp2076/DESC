@@ -66,7 +66,7 @@ ID  RuvB-like protein 1 (RVB1)
 DN  RuvB-like protein 1 (EC 3.6.4.12)
 RQ  1
 EV  IPR037938; PTHR11093:SF6; sufficient;
-TG  GO:0043140;
+TG  GO:0043138;
 TG  GO:0031011;
 --
 SN  5
@@ -74,7 +74,7 @@ ID  RuvB-like protein 2 (RVB2)
 DN  RuvB-like protein 2 (EC 3.6.4.12)
 RQ  1
 EV  IPR037942; PTHR11093:SF2; sufficient;
-TG  GO:0043140;
+TG  GO:0043138;
 TG  GO:0031011;
 --
 SN  6
@@ -97,7 +97,6 @@ ID  Ino eighty subunit 1 (IES1)
 DN  Ino eighty subunit 1
 RQ  1
 EV  IPR038014; PTHR37287; sufficient;
-EV  -; PTHR19818:SF86; sufficient;
 TG  GO:0031011;
 --
 SN  9
@@ -151,6 +150,6 @@ ID  DNA helicase INO80 (INO80)
 DN  DNA helicase INO80 (EC 3.6.4.12)
 RQ  1
 EV  IPR031047; PTHR10799:SF868; sufficient;
-TG  GO:0043140;
+TG  GO:0043138;
 TG  GO:0031011;
 //
