@@ -63,7 +63,7 @@ DN  Chromodomain-helicase-DNA-binding protein 8 (CHD-8) (EC 3.6.4.12)
 RQ  1
 EV  IPR034724; MF_03071; sufficient;
 TG  GO:0071339;
-TG  GO:0043044;
+TG  GO:0006338;
 --
 SN  4
 ID  Transcription factor E2F6
@@ -167,7 +167,7 @@ ID  RuvB-like helicase
 RQ  1
 EV  GenProp2066;
 TG  GO:0071339;
-TG  GO:0043141;
+TG  GO:0043139;
 --
 SN  18
 ID  Sentrin-specific protease 3 (SENP3)
