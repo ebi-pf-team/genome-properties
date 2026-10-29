@@ -36,7 +36,7 @@ ID  Mitochondrial-processing peptidase subunit alpha
 DN  Mitochondrial-processing peptidase subunit alpha
 RQ  1
 EV  IPR037715; PTHR11851:SF183; sufficient;
-TG  GO:0006627
+TG  GO:0070585
 --
 SN  2
 ID  Mitochondrial-processing peptidase subunit beta
@@ -51,5 +51,5 @@ DN  Mitochondrial intermediate peptidase
 RQ  0
 EV  IPR033851; PTHR11804:SF5; sufficient;
 EV  IPR033851; cd06457; sufficient;
-TG  GO:0006627
+TG  GO:0070585
 //
