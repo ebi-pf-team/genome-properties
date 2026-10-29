@@ -57,23 +57,23 @@ SN  6
 ID  Histone-lysine N-methyltransferase EHMT2 (BAT8)
 DN  Histone-lysine N-methyltransferase EHMT2 (EC:2.1.1.43)
 RQ  1
-EV  IPR038034; PTHR22884:SF361; sufficient;
-TG  GO:0018024;
+EV  IPR043550; PTHR46307; sufficient;
+TG  GO:0140938;
 TG  GO:0005667;
 --
 SN  7
 ID  Histone-lysine N-methyltransferase EHMT1 (EUHMTASE1)
 DN  Histone-lysine N-methyltransferase EHMT1 (EC:2.1.1.43)
 RQ  1
-EV  IPR038035; PTHR22884:SF364; sufficient;
-TG  GO:0018024;
+EV  IPR043550; PTHR46307; sufficient;
+TG  GO:0140938;
 TG  GO:0005667;
 --
 SN  8
 ID  E3 ubiquitin-protein ligase RING1
 DN  E3 ubiquitin-protein ligase RING1 (EC 2.3.2.27)
 RQ  1
-EV  IPR038036; PTHR10825:SF6; sufficient;
+EV  IPR043540; PTHR46076; sufficient;
 TG  GO:0000151;
 TG  GO:0005667;
 --
@@ -81,8 +81,7 @@ SN  9
 ID  E3 ubiquitin-protein ligase RING2 (RNF2)
 DN  E3 ubiquitin-protein ligase RING2 (EC 2.3.2.27)
 RQ  1
-EV  -; PTHR10825:SF41; sufficient;
-TG  GO:0036353;
+EV  IPR043540; PTHR46076; sufficient;
 TG  GO:0000151;
 TG  GO:0005667;
 --
@@ -90,7 +89,7 @@ SN  10
 ID  Polycomb group RING finger protein 6 (PCGF6/MBLR)
 DN  Polycomb group RING finger protein 6
 RQ  1
-EV  IPR038037; PTHR10825:SF15; sufficient;
+EV  IPR051507; PTHR45893; sufficient;
 TG  GO:0045892;
 TG  GO:0005667;
 --
@@ -98,7 +97,7 @@ SN  11
 ID  Lethal(3)malignant brain tumor-like protein 2 (L3MBTL2)
 DN  Lethal(3)malignant brain tumor-like protein 2
 RQ  1
-EV  IPR038038; PTHR12247:SF64; sufficient;
+EV  IPR050548; PTHR12247; sufficient;
 TG  GO:0042393;
 TG  GO:0005667;
 --
@@ -106,6 +105,6 @@ SN  12
 ID  YY1-associated factor 2 (YAF2)
 DN  YY1-associated factor 2
 RQ  1
-EV  IPR038039; PTHR12920:SF2; sufficient;
+EV  IPR039958; PTHR12920; sufficient;
 TG  GO:0005667;
 //
