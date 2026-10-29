@@ -51,12 +51,12 @@ ID  Caspase-3/7
 DN  Caspase-3/7 (EC:3.4.22.-) 
 RQ  1
 EV  IPR015471; PTHR10454:SF31; sufficient;
-TG  GO:0097200;
+TG  GO:0004197;
 --
 SN  3
 ID  Caspase-6
 DN  Caspase-6 (EC:3.4.22.59)
 RQ  1
 EV  IPR037554; PTHR10454:SF164; sufficient;
-TG  GO:0097200;
+TG  GO:0004197;
 //
