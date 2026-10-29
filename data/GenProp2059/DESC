@@ -32,7 +32,7 @@ EV  IPR037841; PTHR22884:SF295; sufficient;
 EV  IPR037842; PTHR22884:SF475; sufficient;
 EV  IPR037861; PTHR22884:SF464; sufficient;
 TG  GO:0048188;
-TG  GO:0018024;
+TG  GO:0140938;
 --
 SN  2
 ID  WD repeat-containing protein 5 
