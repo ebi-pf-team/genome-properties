@@ -86,7 +86,7 @@ DN  Helicase XPB/Ssl2 (EC:3.6.4.12)
 RQ  1
 EV  IPR001161; TIGR00603; sufficient;
 TG  GO:0006289;
-TG  GO:0004003;
+TG  GO:0003678;
 --
 SN  7
 ID  TFIIH basal transcription factor complex helicase XPD subunit
@@ -95,5 +95,5 @@ RQ  0
 EV  IPR001945; PR00852; sufficient;
 EV  IPR001945; PTHR11472:SF1; sufficient;
 TG  GO:0006289;
-TG  GO:0004003;
+TG  GO:0003678;
 //
