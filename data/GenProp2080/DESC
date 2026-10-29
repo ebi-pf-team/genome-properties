@@ -32,7 +32,7 @@ ID  RuvB-like helicase 1 (RUVBL1/TIP49)
 DN  RuvB-like helicase 1 (EC 3.6.4.12)
 RQ  1
 EV  IPR037938; PTHR11093:SF6; sufficient;
-TG  GO:0043141;
+TG  GO:0043139;
 --
 SN  3
 ID  Probable global transcription activator SNF2L2 (SMARCA2/BRM)
