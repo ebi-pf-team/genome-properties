@@ -20,12 +20,12 @@ ID  ATP-dependent protease HslVU, ATPase subunit
 DN  ATP-dependent protease HslVU, ATPase subunit
 RQ  1
 EV  IPR004491; TIGR00390;
-TG  GO:0006510;
+TG  GO:0030163;
 --
 SN  2
 ID  ATP-dependent protease HslVU, peptidase subunit
 DN  ATP-dependent protease HslVU, peptidase subunit
 RQ  1
 EV  IPR022281; TIGR03692;
-TG  GO:0006510;
+TG  GO:0030163;
 //
