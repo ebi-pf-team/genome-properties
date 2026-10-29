@@ -55,7 +55,7 @@ ID  Microsomal signal peptidase complex
 RQ  1
 EV  GenProp2038;
 TG  GO:0005787;
-TG  GO:0006465;
+TG  GO:0051604;
 --
 SN  3
 ID  Neuroendocrine convertase 1
