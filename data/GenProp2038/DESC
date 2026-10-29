@@ -47,7 +47,7 @@ ID  Signal peptidase complex catalytic subunit SEC11C
 DN  Signal peptidase complex catalytic subunit SEC11C
 RQ  0
 EV  IPR037710; PTHR10806:SF12; sufficient;
-TG  GO:0006465
+TG  GO:0051604
 --
 SN  3
 ID  Signal peptidase complex subunit 1
