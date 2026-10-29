@@ -25,19 +25,19 @@ ID  Ferrous iron transport protein A
 DN  Ferrous iron transport protein A
 RQ  1
 EV  IPR007167; PF04023;
-TG  GO:0015684;
+TG  GO:0006826;
 --
 SN  2
 ID  Ferrous iron transport protein B
 DN  Ferrous iron transport protein B
 RQ  1
 EV  IPR003373; TIGR00437;
-TG  GO:0015684;
+TG  GO:0006826;
 --
 SN  3
 ID  Ferrous iron transport protein C
 DN  Ferrous iron transport protein C
 RQ  0
 EV  IPR015102; PF09012;
-TG  GO:1900390;
+TG  GO:0034756;
 //
