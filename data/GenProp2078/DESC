@@ -46,8 +46,7 @@ SN  1
 ID  Probable histone-binding protein Caf1 (Caf1/RBBP4/RBBP7)
 DN  Probable histone-binding protein Caf1
 RQ  1
-EV  -; PTHR22850:SF90; sufficient;
-EV  -; PTHR22850:SF82; sufficient;
+EV  IPR050459; PTHR22850; sufficient;
 TG  GO:0016589;
 --
 SN  2
@@ -55,14 +54,14 @@ ID  Nucleosome-remodeling factor subunit NURF301 (E(bx)/BPTF)
 DN  Nucleosome-remodeling factor subunit NURF301
 RQ  1
 EV  IPR038028; PTHR22880:SF137; sufficient;
-TG  GO:0035064;
+TG  GO:0140566;
 TG  GO:0016589;
 --
 SN  3
 ID  Inorganic pyrophosphatase (Nurf-38)
 DN  Inorganic pyrophosphatase (EC 3.6.1.1)
 RQ  0
-EV  -; PTHR10286:SF3; sufficient;
+EV  IPR008162; PTHR10286; sufficient;
 TG  GO:0004427;
 TG  GO:0016589;
 --
@@ -72,7 +71,7 @@ DN  Chromatin-remodeling complex ATPase chain Iswi (EC 3.6.4.-)
 RQ  1
 EV  IPR029915; PTHR10799:SF887; sufficient;
 EV  IPR029915; PTHR10799:SF819; sufficient;
-TG  GO:0043044;
+TG  GO:0006338;
 TG  GO:0016887;
 TG  GO:0016589;
 //
