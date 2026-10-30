@@ -26,6 +26,5 @@ SN  3
 ID  D-galactonate dehydratase
 DN  D-galactonate dehydratase (EC 4.2.1.6)
 RQ  1
-EV  IPR013341; PF02746; sufficient;
-EV  IPR029065; PF13378; sufficient;
+EV  IPR023592; MF_01289; sufficient;
 //
