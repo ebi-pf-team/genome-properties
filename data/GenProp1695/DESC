@@ -14,8 +14,7 @@ SN  1
 ID  Acetylserotonin O-methyltransferase
 DN  Acetylserotonin O-methyltransferase (EC 2.1.1.4)
 RQ  1
-EV  IPR001077; PF00891; sufficient;
-EV  IPR031725; PF16864; sufficient;
+EV  IPR016461; PS51683; sufficient;
 --
 SN  2
 ID  5-Hydroxy-L-tryptophan decarboxylase
