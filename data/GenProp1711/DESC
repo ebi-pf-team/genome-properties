@@ -41,7 +41,7 @@ DN  Molybdopterin synthase (EC 2.8.1.12)
 RQ  1
 EV  IPR003448; PF02391; sufficient;
 EV  IPR003749; PF02597; sufficient;
-EV  IPR010034; TIGR01682; sufficient;
+EV  IPR028887; TIGR01682; sufficient;
 --
 SN  6
 ID  Molybdopterin adenylyltransferase
