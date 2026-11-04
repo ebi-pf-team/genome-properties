@@ -43,13 +43,13 @@ SN  4
 ID  Protein SEC13 homolog
 DN  Protein SEC13 homolog
 RQ  1
-EV  IPR037596; PTHR11024:SF2; sufficient;
+EV  IPR037363; PTHR11024; sufficient;
 TG  GO:0032008;
 --
 SN  5
 ID  Nucleoporin SEH1
 DN  Nucleoporin SEH1
 RQ  1
-EV  IPR037597; PTHR11024:SF3; sufficient;
+EV  IPR037363; PTHR11024; sufficient;
 TG  GO:0032008;
 //
