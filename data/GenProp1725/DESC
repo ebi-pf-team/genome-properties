@@ -14,7 +14,7 @@ SN  1
 ID  Thiamine phosphate synthase
 DN  Thiamine phosphate synthase (EC 2.5.1.3)
 RQ  1
-EV  IPR003733; PF02581; sufficient;
+EV  IPR034291; MF_00097; sufficient;
 EV  IPR003733; TIGR00693; sufficient;
 --
 SN  2
