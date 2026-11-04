@@ -86,6 +86,6 @@ SN  5
 ID  DEP domain-containing mTOR-interacting protein
 DN  DEP domain-containing mTOR-interacting protein
 RQ  1
-EV  IPR037589; PTHR22829:SF18; sufficient;
+EV  IPR051832; PTHR22829; sufficient;
 TG  GO:0032007;
 //
