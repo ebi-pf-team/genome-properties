@@ -31,14 +31,14 @@ SN  1
 ID  Mitochondrial inner membrane protease subunit 1
 DN  Mitochondrial inner membrane protease subunit 1
 RQ  1
-EV  IPR026730; PTHR12383:SF16; sufficient;
+EV  IPR052064; PTHR12383; sufficient;
 TG  GO:0042720
 --
 SN  2
 ID  Mitochondrial inner membrane protease subunit 2
 DN  Mitochondrial inner membrane protease subunit 2
 RQ  1
-EV  IPR037730; PTHR12383:SF3; sufficient;
+EV  IPR037730; PTHR46041; sufficient;
 TG  GO:0042720
 --
 SN  3
