@@ -53,7 +53,7 @@ SN  2
 ID  Nucleoporin Nup43
 DN  Nucleoporin Nup43
 RQ  1
-EV  IPR037628; PTHR22652; sufficient;
+EV  IPR001680; PF00400; sufficient;
 TG  GO:0031080
 --
 SN  3
@@ -68,7 +68,7 @@ SN  4
 ID  Nuclear pore complex protein Nup98-Nup96
 DN  Nuclear pore complex protein NUP98-NUP96
 RQ  1
-EV  IPR037637; PTHR23198:SF6; sufficient;
+EV  IPR037665; PTHR23198; sufficient;
 TG  GO:0017056
 --
 SN  5
@@ -97,13 +97,13 @@ SN  8
 ID  Nucleoporin SEH1
 DN  Nucleoporin Seh1
 RQ  1
-EV  IPR037597; PTHR11024:SF3; sufficient;
+EV  IPR037363; PTHR11024; sufficient;
 TG  GO:0006999;
 --
 SN  9
 ID  Protein SEC13 homolog
 DN  Protein Sec13
 RQ  1
-EV  IPR037596; PTHR11024:SF2; sufficient;
+EV  IPR037363; PTHR11024; sufficient;
 TG  GO:0031080;
 //
