@@ -31,21 +31,26 @@ SN  2
 ID  Chromo domain-containing protein 1 
 DN  Chromo domain-containing protein 1 (EC 3.6.4.-)/CHD1
 RQ  1
-EV  IPR037780; PTHR10799:SF838; sufficient;
+EV  IPR023780; PF00385; sufficient;
+EV  IPR000330; PF00176; sufficient;
+EV  IPR014001; PS51192; sufficient;
+EV  IPR001650; PF00271; sufficient;
+EV  IPR025260; PF13907; sufficient;
+EV  IPR056302; PF23588; sufficient;
 TG  GO:0000124;
 --
 SN  3
 ID  High-affinity glucose transporter RGT2
 DN  High-affinity glucose transporter RGT2
 RQ  1
-EV  IPR037792; PTHR23500:SF343; sufficient;
+EV  IPR050360; PTHR48022; sufficient;
 TG  GO:0000124;
 --
 SN  4
 ID  Ubiquitin carboxyl-terminal hydrolase 8
 DN  Ubiquitin carboxyl-terminal hydrolase 8 (EC 3.4.19.12)/UBP8
 RQ  1
-EV  IPR037798; PTHR43961:SF2; sufficient;
+EV  IPR050185; PTHR21646; sufficient;
 TG  GO:0000124;
 --
 SN  5
