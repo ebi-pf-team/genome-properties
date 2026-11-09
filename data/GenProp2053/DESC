@@ -24,7 +24,7 @@ SN  1
 ID  Transcription-associated protein 1 
 DN  Transcription-associated protein 1/TRA1
 RQ  1
-EV  IPR033317; PTHR11139:SF1; sufficient;
+EV  IPR050517; PTHR11139; sufficient;
 TG  GO:0000124;
 --
 SN  2
@@ -38,7 +38,8 @@ SN  3
 ID  Transcription initiation factor TFIID subunit 5 
 DN  Transcription initiation factor TFIID subunit 5/TAF5
 RQ  1
-EV  IPR037783; PTHR19879:SF1; sufficient;
+EV  IPR007582; cd08044; sufficient;
+EV  IPR001680; PF00400; sufficient;
 TG  GO:0000124;
 --
 SN  4
