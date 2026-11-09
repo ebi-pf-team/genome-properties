@@ -39,7 +39,9 @@ SN  3
 ID  Protein AHC1
 DN  Protein AHC1
 RQ  1
-EV  IPR037807; PTHR13585:SF19; sufficient;
+EV  IPR058707; PF25910; sufficient;
+EV  IPR058706; PF25909; sufficient;
+EV  IPR058708; PF25911; sufficient;
 --
 SN  4
 ID  Histone acetyltransferase GCN5 
