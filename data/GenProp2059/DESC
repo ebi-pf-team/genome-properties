@@ -28,9 +28,7 @@ SN  1
 ID  Histone-lysine N-methyltransferase SET1
 DN  Histone-lysine N-methyltransferase SET1 (EC 2.1.1.43)
 RQ  1
-EV  IPR037841; PTHR22884:SF295; sufficient;
-EV  IPR037842; PTHR22884:SF475; sufficient;
-EV  IPR037861; PTHR22884:SF464; sufficient;
+EV  IPR044570; PTHR45814; sufficient;
 TG  GO:0048188;
 TG  GO:0140938;
 --
@@ -38,14 +36,14 @@ SN  2
 ID  WD repeat-containing protein 5 
 DN  WD repeat-containing protein 5 (WDR5)
 RQ  1
-EV  IPR037834; PTHR22847:SF560; sufficient;
+EV  IPR059122; PF25175; sufficient;
 TG  GO:0048188;
 --
 SN  3
 ID  WD repeat-containing protein 82 (WDR82)
 DN  WD repeat-containing protein 82 (WDR82)
 RQ  1
-EV  IPR037846; PTHR19861:SF2; sufficient;
+EV  IPR037867; PTHR19861; sufficient;
 TG  GO:0048188;
 --
 SN  4
@@ -66,15 +64,14 @@ SN  6
 ID  CXXC-type zinc finger protein 1 (CXXC1) 
 DN  CXXC-type zinc finger protein 1 (CXXC1)
 RQ  1
-EV  IPR037852; PTHR12321:SF58; sufficient;
-EV  IPR037852; PTHR12321:SF99; sufficient;
+EV  IPR037869; PTHR46174; sufficient;
 TG  GO:0048188;
 --
 SN  7
 ID  Host cell factor 1 (HCFC1)
 DN  Host cell factor 1 (HCFC1)
 RQ  1
-EV  IPR037854; PTHR23244:SF339; sufficient;
+EV  IPR043536; PTHR46003; sufficient;
 TG  GO:0048188;
 --
 SN  8
