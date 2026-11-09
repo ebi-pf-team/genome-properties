@@ -25,14 +25,15 @@ SN  1
 ID  THAP domain-containing protein (THAP1/THAP3)
 DN  THAP domain-containing protein (THAP1/THAP3)
 RQ  1
-EV  IPR026516; PTHR23080:SF85; sufficient;
-EV  IPR026520; PTHR23080:SF64; sufficient;
+EV  IPR006612; PF05485; sufficient;
+EV  IPR006612; PS50950; sufficient;
+EV  IPR026520; PTHR47120; sufficient;
 --
 SN  2
 ID  Host cell factor 1 (HCFC1)
 DN  Host cell factor 1
 RQ  1
-EV  IPR037854; PTHR23244:SF339; sufficient;
+EV  IPR043536; PTHR46003; sufficient;
 --
 SN  3
 ID  UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase 110 kDa subunit (OGT)
