@@ -56,7 +56,7 @@ SN  4
 ID  Transcription initiation factor TFIID subunit 3 
 DN  Transcription initiation factor TFIID subunit 3/TAF3
 RQ  1
-EV  IPR037815; PTHR12321:SF95; sufficient;
+EV  IPR037815; PTHR46452; sufficient;
 TG  GO:0005669;
 --
 SN  5
@@ -71,7 +71,8 @@ SN  6
 ID  Transcription initiation factor TFIID subunit 5 
 DN  Transcription initiation factor TFIID subunit 5/TAF5
 RQ  1
-EV  IPR037783; PTHR19879:SF1; sufficient;
+EV  IPR007582; PF04494; sufficient;
+EV  IPR001680; PF00400; sufficient;
 TG  GO:0005669;
 --
 SN  7
