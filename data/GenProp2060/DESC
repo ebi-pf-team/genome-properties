@@ -48,7 +48,8 @@ SN  2
 ID  WD40-repeat-containing protein SWD3-like
 DN  WD40-repeat-containing protein SWD3-like
 RQ  1
-EV  IPR037866; PTHR22847:SF603; sufficient;
+EV  IPR001680; PF00400; sufficient;
+EV  IPR001680; SM00320; sufficient;
 TG  GO:0048188;
 --
 SN  3
@@ -83,13 +84,13 @@ SN  7
 ID  COMPASS component SHG1
 DN  COMPASS component SHG1
 RQ  1
-EV  IPR007870; PD086658; sufficient;
+EV  IPR055264; PF05205; sufficient;
 TG  GO:0048188;
 --
 SN  8
 ID  COMPASS component SDC1
 DN  COMPASS component SDC1
 RQ  1
-EV  IPR037870; PTHR23356:SF8; sufficient;
+EV  IPR049629; cd22965; sufficient;
 TG  GO:0048188;
 //
