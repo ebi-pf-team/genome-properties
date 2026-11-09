@@ -29,7 +29,7 @@ SN  1
 ID  COP9 signalosome complex subunit 1/GPS1
 DN  COP9 signalosome complex subunit 1
 RQ  1
-EV  IPR033008; PTHR14145:SF2; sufficient;
+EV  IPR019585; PTHR14145; sufficient;
 TG  GO:0008180;
 TG  GO:0000338;
 --
@@ -37,28 +37,28 @@ SN  2
 ID  COP9 signalosome complex subunit 2 
 DN  COP9 signalosome complex subunit 2
 RQ  1
-EV  IPR037750; PTHR10678:SF3; sufficient;
+EV  IPR050871; PTHR10678; sufficient;
 TG  GO:0008180;
 --
 SN  3
 ID  COP9 signalosome complex subunit 3
 DN  COP9 signalosome complex subunit 3
 RQ  1
-EV  IPR037753; PTHR10758:SF1; sufficient;
+EV  IPR050756; PTHR10758; sufficient;
 TG  GO:0008180;
 --
 SN  4
 ID  COP9 signalosome complex subunit 4 
 DN  COP9 signalosome complex subunit 4
 RQ  1
-EV  IPR037754; PTHR10855:SF2; sufficient;
+EV  IPR040134; PTHR10855; sufficient;
 TG  GO:0008180;
 --
 SN  5
 ID  COP9 signalosome complex subunit 5
 DN  COP9 signalosome complex subunit 5
 RQ  1
-EV  IPR037740; PTHR10410:SF6; sufficient;
+EV  IPR050242; PTHR10410; sufficient;
 TG  GO:0008180;
 --
 SN  6
@@ -73,8 +73,7 @@ SN  7
 ID  COP9 signalosome complex subunit 7
 DN  COP9 signalosome complex subunit 7a/b
 RQ  1
-EV  IPR037757; PTHR15350:SF7; sufficient;
-EV  IPR027530; PTHR15350:SF8; sufficient;
+EV  IPR0452377; PTHR15350; sufficient;
 TG  GO:0008180;
 --
 SN  8
