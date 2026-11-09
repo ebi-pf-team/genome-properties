@@ -25,25 +25,29 @@ SN  1
 ID  Actin-like protein 6A (ACTL6A/BAF53A)
 DN  Actin-like protein 6A
 RQ  1
-EV  IPR029912; PTHR11937:SF191; sufficient;
+EV  IPR004000; PTHR11937; sufficient;
 --
 SN  2
 ID  RuvB-like helicase 1 (RUVBL1/TIP49)
 DN  RuvB-like helicase 1 (EC 3.6.4.12)
 RQ  1
-EV  IPR037938; PTHR11093:SF6; sufficient;
+EV  IPR027238; PTHR11093; sufficient;
 TG  GO:0043139;
 --
 SN  3
 ID  Probable global transcription activator SNF2L2 (SMARCA2/BRM)
 DN  Probable global transcription activator SNF2L2 (EC 3.6.4.-)
 RQ  1
-EV  IPR030088; PTHR10799:SF541; sufficient;
+EV  IPR000330; PF00176; sufficient;
+EV  IPR001650; PF00271; sufficient;
+EV  IPR001650; PS51194; sufficient;
+EV  IPR006576; PF07533; sufficient;
+EV  IPR029295; PF14619; sufficient;
 TG  GO:0016887;
 --
 SN  4
 ID  Transformation/transcription domain-associated protein (TRRAP/PAF400)
 DN  Transformation/transcription domain-associated protein
 RQ  1
-EV  IPR033317; PTHR11139:SF1; sufficient;
+EV  IPR050517; PTHR11139; sufficient;
 //
