@@ -69,6 +69,6 @@ SN  6
 ID  Nucleoporin seh1
 DN  Nucleoporin Seh1
 RQ  1
-EV  IPR037597; PTHR11024:SF3; sufficient;
+EV  IPR037363; PTHR11024; sufficient;
 TG  GO:0031080;
 //
