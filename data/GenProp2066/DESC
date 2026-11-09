@@ -24,7 +24,7 @@ SN  1
 ID  RuvB-like 1 (RUVBL1/TIP49a) 
 DN  RuvB-like 1 (EC 3.6.4.12)
 RQ  1
-EV  IPR037938; PTHR11093:SF6; sufficient;
+EV  IPR027238; PTHR11093; sufficient;
 TG  GO:0071339;
 TG  GO:0043139;
 --
@@ -32,7 +32,7 @@ SN  2
 ID  RuvB-like 2 (RUVBL2/TIP49b)
 DN  RuvB-like 2 (EC 3.6.4.12)
 RQ  1
-EV  IPR037942; PTHR11093:SF2; sufficient;
+EV  IPR027238; PTHR11093; sufficient;
 TG  GO:0071339;
 TG  GO:0043139;
 //
