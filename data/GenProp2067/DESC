@@ -27,7 +27,7 @@ SN  1
 ID  Histone-lysine N-methyltransferase 2A (EC 2.1.1.43)
 DN  Histone-lysine N-methyltransferase 2A (EC 2.1.1.43)
 RQ  1
-EV  IPR037927; PTHR22884:SF387; sufficient;
+EV  IPR016569; PIRSF010354; sufficient;
 TG  GO:0071339;
 TG  GO:0042800;
 --
@@ -35,7 +35,7 @@ SN  2
 ID  WD repeat-containing protein 5 
 DN  WD repeat-containing protein 5 (WDR5)
 RQ  1
-EV  IPR037834; PTHR22847:SF560; sufficient;
+EV  IPR059122; PF25175; sufficient;
 TG  GO:0071339;
 --
 SN  3
@@ -72,13 +72,13 @@ SN  7
 ID  Host cell factor 1 (HCFC1)
 DN  Host cell factor 1
 RQ  1
-EV  IPR037854; PTHR23244:SF339; sufficient;
+EV  IPR043536; PTHR46003; sufficient;
 TG  GO:0071339;
 --
 SN  8
 ID  Host cell factor 2 (HCFC2)
 DN  Host cell factor 2
 RQ  1
-EV  IPR037932; PTHR23244:SF325; sufficient;
+EV  IPR043536; PTHR46003; sufficient;
 TG  GO:0071339;
 //
