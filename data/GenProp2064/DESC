@@ -20,7 +20,7 @@ SN  1
 ID  Histone acetyltransferase KAT8 
 DN  Histone acetyltransferase KAT8 (EC 2.3.1.48) (MOF/KAT8)
 RQ  1
-EV  IPR037906; PTHR10615:SF82; sufficient;
+EV  IPR050603; PTHR10615; sufficient;
 TG  GO:0004402;
 TG  GO:0000123;
 TG  GO:0072487;
@@ -43,6 +43,6 @@ SN  4
 ID  Male-specific lethal 3 homolog (MSL3) 
 DN  Male-specific lethal 3 homolog (MSL3)
 RQ  1
-EV  IPR037921; PTHR10880:SF26; sufficient;
+EV  IPR008676; PTHR10880; sufficient;
 TG  GO:0072487;
 //
