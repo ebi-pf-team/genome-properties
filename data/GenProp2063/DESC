@@ -30,7 +30,7 @@ SN  1
 ID  Histone acetyltransferase KAT8 
 DN  Histone acetyltransferase KAT8 (EC 2.3.1.48) (MOF/KAT8)
 RQ  1
-EV  IPR037906; PTHR10615:SF82; sufficient;
+EV  IPR050603; PTHR10615; sufficient;
 TG  GO:0004402;
 TG  GO:0000123;
 --
@@ -66,14 +66,14 @@ SN  6
 ID  PHD finger protein 20  
 DN  PHD finger protein 20 (PHF20)
 RQ  1
-EV  IPR037915; PTHR15856:SF27; sufficient;
+EV  IPR043449; PTHR15856; sufficient;
 TG  GO:0000123;
 --
 SN  7
 ID  WD repeat-containing protein 5 
 DN  WD repeat-containing protein 5 (WDR5)
 RQ  1
-EV  IPR037834; PTHR22847:SF560; sufficient;
+EV  IPR059122; PF25175; sufficient;
 TG  GO:0000123;
 --
 SN  8
@@ -88,6 +88,6 @@ SN  9
 ID  Host cell factor 1 
 DN  Host cell factor 1 (HCFC1)
 RQ  1
-EV  IPR037854; PTHR23244:SF339; sufficient;
+EV  IPR043536; PTHR46003; sufficient;
 TG  GO:0000123;
 //
