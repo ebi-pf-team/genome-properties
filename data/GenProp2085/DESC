@@ -97,7 +97,6 @@ ID  Angiotensinogen
 DN  Angiotensinogen
 RQ  1
 EV  IPR000227; PR00654; sufficient;
-EV  IPR000227; PTHR11461:SF13; sufficient;
 TG  GO:0002016;
 --
 SN  2
@@ -130,7 +129,7 @@ SN  5
 ID  Glutamyl aminopeptidase
 DN  Glutamyl aminopeptidase (EC 3.4.11.7)
 RQ  1
-EV  IPR033508; PTHR11533:SF242; sufficient;
+EV  IPR050344; PTHR11533; sufficient;
 TG  GO:0002016;
 TG  GO:0070006;
 --
@@ -146,14 +145,14 @@ SN  7
 ID  Cystinyl aminopeptidase
 DN  Cystinyl aminopeptidase (EC 3.4.11.3)
 RQ  1
-EV  IPR034017; PTHR11533:SF42; sufficient;
+EV  IPR050344; PTHR11533; sufficient;
 TG  GO:0001595;
 --
 SN  8
 ID  Neprilysin
 DN  Neprilysin (EC 3.4.24.11)
 RQ  1
-EV  IPR029727; PTHR11733:SF114; sufficient;
+EV  IPR000718; PTHR11733; PS51885; cd08662; sufficient;
 TG  GO:0004222;
 --
 SN  9
