@@ -1,0 +1,55 @@
+AC  GenPropNEW
+DE  Type IX secretion system (T9SS)
+TP  SYSTEM
+AU  Chuguransky S
+TH  6
+RN  [1]
+RM  20805503
+RT  A protein secretion system linked to bacteroidete gliding motility and
+RT  pathogenesis.
+RA  Sato K, Naito M, Yukitake H, Hirakawa H, Shoji M, McBride MJ, Rhodes RG,
+RA  Nakayama K;
+RL  Proc Natl Acad Sci U S A. 2010;107:276-281.
+RN  [2]
+RM  28385969
+RT  The Type IX Secretion System (T9SS): Highlights and Recent Insights into
+RT  Its Structure and Function.
+RA  Lasica AM, Ksiazek M, Madej M, Potempa J;
+RL  Front Cell Infect Microbiol. 2017;7:215.
+RN  [3]
+RM  28467915
+RT  Type IX secretion: the generation of bacterial cell surface coatings
+RT  involved in virulence, gliding motility and the degradation of complex
+RT  biopolymers.
+RA  Veith PD, Glew MD, Gorasia DG, Reynolds EC;
+RL  Mol Microbiol. 2017;106:35-53.
+RN  [4]
+RM  33837138
+RT  Structure and mechanism of the proton-driven motor that powers Type 9
+RT  secretion and gliding motility.
+RA  Hennell James R, Deme JC, Kjaer A, Alcock F, Silale A, Lauber F,
+RA  Johnson S, Berks BC, Lea SM;
+RL  Nat Microbiol. 2021;6:221-233.
+DC  Bacterial secretion system
+DR  KEGG; map03070;
+CC  The type IX secretion system (T9SS), also known as the Por secretion
+CC  system (PorSS), is a protein export apparatus restricted to the
+CC  Fibrobacteres-Chlorobi-Bacteroidetes (FCB) superphylum and most
+CC  prominently characterised in the Bacteroidota. The system was first
+CC  defined in the periodontal pathogen Porphyromonas gingivalis, where
+CC  it secretes the gingipain virulence proteases, and in the gliding
+CC  bacterium Flavobacterium johnsoniae, where it exports cell-surface
+CC  motility adhesins (SprB, RemA) and biopolymer-degrading enzymes.
+CC  T9SS substrates carry an N-terminal Sec signal peptide that targets
+CC  them to the periplasm, plus a conserved C-terminal domain (CTD) of
+CC  either type A (TIGR04183) or type B (TIGR04131; Pfam PF13585) that
+CC  serves as the T9SS-specific outer-membrane translocation signal.
+CC  Translocation is performed by the SprA/Sov outer-membrane beta-barrel
+CC  translocon, energised via the proton-motive force harvested by the
+CC  PorL/GldL-PorM/GldM motor at the inner membrane and transmitted
+CC  through the periplasmic PorK/GldK-PorN/GldN ring complex (with
+CC  PorW/SprE bridging the ring to the translocon). At the cell surface,
+CC  an attachment complex of PorU (sortase / C-terminal signal
+CC  peptidase), PorV (shuttle), PorQ and PorZ cleaves the CTD and, in
+CC  P. gingivalis, conjugates the cargo to anionic lipopolysaccharide
+CC  (A-LPS). Most species additionally encode PorT/SprT and PorP/SprF.
