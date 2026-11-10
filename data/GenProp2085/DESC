@@ -152,7 +152,9 @@ SN  8
 ID  Neprilysin
 DN  Neprilysin (EC 3.4.24.11)
 RQ  1
-EV  IPR000718; PTHR11733; PS51885; cd08662; sufficient;
+EV  IPR000718; PTHR11733; sufficient;
+EV  IPR000718; PS51885; sufficient;
+EV  IPR000718; cd08662; sufficient;
 TG  GO:0004222;
 --
 SN  9
@@ -167,7 +169,7 @@ SN  10
 ID  Acidic amino acid decarboxylase GADL1
 DN  Acidic amino acid decarboxylase GADL1 (EC 4.1.1.11)
 RQ  1
-EV  IPR039025; PTHR11999:SF95; sufficient;
+EV  IPR002129; PF00282; sufficient;
 TG  GO:0004068;
 --
 SN  11
