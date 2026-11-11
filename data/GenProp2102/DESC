@@ -128,6 +128,6 @@ EV  IPR083895; NF033711; sufficient;
 SN  12
 ID  PorZ, surface-exposed A-LPS-binding protein
 DN  Type IX secretion system cell-surface protein PorZ
-RQ  0
+RQ  1
 EV  IPR083896; NF052228; sufficient;
 //
