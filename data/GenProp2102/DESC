@@ -111,7 +111,7 @@ SN  9
 ID  PorT/SprT, outer membrane beta-barrel
 DN  Type IX secretion system outer membrane protein PorT/SprT
 RQ  0
-EV  IPR040663; NF052311; sufficient;
+EV  IPR064309; NF052311; sufficient;
 
 SN  10
 ID  PorU, outer membrane sortase and CTD signal peptidase
