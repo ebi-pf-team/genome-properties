@@ -61,43 +61,44 @@ SN  1
 ID  PorL/GldL, inner membrane motor protein
 DN  Type IX secretion system inner membrane motor PorL/GldL
 RQ  1
-EV  IPR019864; PF11543; sufficient;
+EV  IPR019852; TIGR03513; sufficient;
 --
 SN  2
 ID  PorM/GldM, inner membrane motor with periplasmic arch domains
 DN  Type IX secretion system inner membrane protein PorM/GldM
 RQ  1
-EV  IPR019865; PF12677; sufficient;
+EV  IPR019859; TIGR03517; sufficient;
 --
 SN  3
 ID  PorN/GldN, periplasmic component of core ring complex
 DN  Type IX secretion system periplasmic protein PorN/GldN
 RQ  1
-EV  IPR019866; PF09829; sufficient;
+EV  IPR019847; PF19841; sufficient;
+EV  IPR019847; TIGR03523; sufficient;
 --
 SN  4
 ID  PorK/GldK, outer membrane lipoprotein, core ring complex
 DN  Type IX secretion system lipoprotein PorK/GldK
 RQ  1
-EV  IPR019863; PF11544; sufficient;
+EV  IPR019866; TIGR03525; sufficient;
 --
 SN  5
 ID  PorW/SprE, lipoprotein linking core ring complex to translocon
 DN  Type IX secretion system lipoprotein PorW/SprE
 RQ  0
-EV  IPR027494; PF13373; sufficient;
+EV  IPR064310; NF052312; sufficient;
 --
 SN  6
 ID  Sov/SprA, outer membrane beta-barrel translocon
 DN  Type IX secretion system translocon Sov/SprA
 RQ  1
-EV  IPR038466; PF13534; sufficient;
+EV  IPR026377; TIGR04189; sufficient;
 -
 SN  7
 ID  PorV, outer membrane type-A cargo shuttle
 DN  Type IX secretion system outer membrane protein PorV
 RQ  0
-EV  IPR041665; PF18746; sufficient;
+EV  IPR047799; NF033710; sufficient;
 --
 SN  8
 ID  PorP/SprF, outer membrane beta-barrel, type-B cargo shuttle
@@ -110,23 +111,23 @@ SN  9
 ID  PorT/SprT, outer membrane beta-barrel
 DN  Type IX secretion system outer membrane protein PorT/SprT
 RQ  0
-EV  IPR040663; PF18393; sufficient;
+EV  IPR040663; NF052311; sufficient;
 
 SN  10
 ID  PorU, outer membrane sortase and CTD signal peptidase
 DN  Type IX secretion system sortase PorU
 RQ  1
-EV  IPR038122; PF18113; sufficient;
+EV  IPR064189; NF033707; sufficient;
 --
 SN  11
 ID  PorQ, outer membrane beta-barrel, attachment complex
 DN  Type IX secretion system outer membrane protein PorQ
 RQ  0
-EV  IPR040662; PF18389; sufficient;
+EV  IPR083895; NF033711; sufficient;
 --
 SN  12
 ID  PorZ, surface-exposed A-LPS-binding protein
 DN  Type IX secretion system cell-surface protein PorZ
 RQ  0
-EV  IPR038123; PF18114; sufficient;
+EV  IPR083896; NF052228; sufficient;
 //
