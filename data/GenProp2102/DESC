@@ -2,7 +2,7 @@ AC  GenProp2102
 DE  Type IX secretion system (T9SS)
 TP  SYSTEM
 AU  Chuguransky S
-TH  5
+TH  6
 RN  [1]
 RM  32752268
 RT  The Type IX Secretion System: Advances in Structure, Function and
@@ -85,7 +85,7 @@ EV  IPR019866; TIGR03525; sufficient;
 SN  5
 ID  PorW/SprE, lipoprotein linking core ring complex to translocon
 DN  Type IX secretion system lipoprotein PorW/SprE
-RQ  0
+RQ  1
 EV  IPR064310; NF052312; sufficient;
 --
 SN  6
