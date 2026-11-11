@@ -97,7 +97,7 @@ EV  IPR026377; TIGR04189; sufficient;
 SN  7
 ID  PorV, outer membrane type-A cargo shuttle
 DN  Type IX secretion system outer membrane protein PorV
-RQ  0
+RQ  1
 EV  IPR047799; NF033710; sufficient;
 --
 SN  8
@@ -110,7 +110,7 @@ EV  IPR019861; TIGR03519; sufficient;
 SN  9
 ID  PorT/SprT, outer membrane beta-barrel
 DN  Type IX secretion system outer membrane protein PorT/SprT
-RQ  0
+RQ  1
 EV  IPR064309; NF052311; sufficient;
 
 SN  10
