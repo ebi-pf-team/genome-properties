@@ -1,0 +1,132 @@
+AC  GenProp2102
+DE  Type IX secretion system (T9SS)
+TP  SYSTEM
+AU  Chuguransky S
+TH  5
+RN  [1]
+RM  32752268
+RT  The Type IX Secretion System: Advances in Structure, Function and
+RT  Organisation.
+RA  Gorasia DG, Veith PD, Reynolds EC;
+RL  Microorganisms. 2020;8(8):1173.
+RN  [2]
+RM  28603700
+RT  The Type IX Secretion System (T9SS): Highlights and Recent Insights
+RT  into Its Structure and Function.
+RA  Lasica AM, Ksiazek M, Madej M, Potempa J;
+RL  Front Cell Infect Microbiol. 2017;7:215.
+RN  [3]
+RM  30767845
+RT  Bacteroidetes Gliding Motility and the Type IX Secretion System.
+RA  McBride MJ;
+RL  Microbiol Spectr. 2019;7(1):psib-0002-2018.
+RN  [4]
+RM  35019767
+RT  Protein Interactome Analysis of the Type IX Secretion System
+RT  Identifies PorW as the Missing Link between the PorK/N Ring Complex
+RT  and the Sov Translocon.
+RA  Gorasia DG, Lunar Silva I, Butler CA, Chabalier M, Doan T,
+RA  Cascales E, Veith PD, Reynolds EC;
+RL  Microbiol Spectr. 2022;10(1):e0160221.
+RN  [5]
+RM  29382829
+RT  Type IX secretion system PorM and gliding machinery GldM form arches
+RT  spanning the periplasmic space.
+RA  Leone P, Roche J, Vincent MS, Tran QH, Desmyter A, Cascales E,
+RA  Kellenberger C, Cambillau C, Roussel A;
+RL  Nat Commun. 2018;9(1):429.
+CC  The type IX secretion system (T9SS), also known as the Por secretion
+CC  system (PorSS), is a protein export apparatus restricted to the
+CC  Fibrobacteres-Chlorobi-Bacteroidetes (FCB) superphylum and most
+CC  prominently characterised in the Bacteroidota. The system was first
+CC  defined in the periodontal pathogen Porphyromonas gingivalis, where
+CC  it secretes the gingipain virulence proteases, and in the gliding
+CC  bacterium Flavobacterium johnsoniae, where it exports cell-surface
+CC  motility adhesins (SprB, RemA) and biopolymer-degrading enzymes.
+CC  T9SS substrates carry an N-terminal Sec signal peptide that targets
+CC  them to the periplasm, plus a conserved C-terminal domain (CTD) of
+CC  either type A (TIGR04183) or type B (TIGR04131; Pfam PF13585) that
+CC  serves as the T9SS-specific outer-membrane translocation signal.
+CC  Translocation is performed by the SprA/Sov outer-membrane beta-barrel
+CC  translocon, energised via the proton-motive force harvested by the
+CC  PorL/GldL-PorM/GldM motor at the inner membrane and transmitted
+CC  through the periplasmic PorK/GldK-PorN/GldN ring complex (with
+CC  PorW/SprE bridging the ring to the translocon). At the cell surface,
+CC  an attachment complex of PorU (sortase / C-terminal signal
+CC  peptidase), PorV (shuttle), PorQ and PorZ cleaves the CTD and, in
+CC  P. gingivalis, conjugates the cargo to anionic lipopolysaccharide
+CC  (A-LPS). Most species additionally encode PorT/SprT and PorP/SprF.
+--
+SN  1 
+ID  PorL/GldL, inner membrane motor protein
+DN  Type IX secretion system inner membrane motor PorL/GldL
+RQ  1
+EV  IPR019864; PF11543; sufficient;
+--
+SN  2
+ID  PorM/GldM, inner membrane motor with periplasmic arch domains
+DN  Type IX secretion system inner membrane protein PorM/GldM
+RQ  1
+EV  IPR019865; PF12677; sufficient;
+--
+SN  3
+ID  PorN/GldN, periplasmic component of core ring complex
+DN  Type IX secretion system periplasmic protein PorN/GldN
+RQ  1
+EV  IPR019866; PF09829; sufficient;
+--
+SN  4
+ID  PorK/GldK, outer membrane lipoprotein, core ring complex
+DN  Type IX secretion system lipoprotein PorK/GldK
+RQ  1
+EV  IPR019863; PF11544; sufficient;
+--
+SN  5
+ID  PorW/SprE, lipoprotein linking core ring complex to translocon
+DN  Type IX secretion system lipoprotein PorW/SprE
+RQ  0
+EV  IPR027494; PF13373; sufficient;
+--
+SN  6
+ID  Sov/SprA, outer membrane beta-barrel translocon
+DN  Type IX secretion system translocon Sov/SprA
+RQ  1
+EV  IPR038466; PF13534; sufficient;
+-
+SN  7
+ID  PorV, outer membrane type-A cargo shuttle
+DN  Type IX secretion system outer membrane protein PorV
+RQ  0
+EV  IPR041665; PF18746; sufficient;
+--
+SN  8
+ID  PorP/SprF, outer membrane beta-barrel, type-B cargo shuttle
+DN  Type IX secretion system membrane protein PorP/SprF
+RQ  0
+EV  IPR019861; PF11751; sufficient;
+EV  IPR019861; TIGR03519; sufficient;
+--
+SN  9
+ID  PorT/SprT, outer membrane beta-barrel
+DN  Type IX secretion system outer membrane protein PorT/SprT
+RQ  0
+EV  IPR040663; PF18393; sufficient;
+
+SN  10
+ID  PorU, outer membrane sortase and CTD signal peptidase
+DN  Type IX secretion system sortase PorU
+RQ  1
+EV  IPR038122; PF18113; sufficient;
+--
+SN  11
+ID  PorQ, outer membrane beta-barrel, attachment complex
+DN  Type IX secretion system outer membrane protein PorQ
+RQ  0
+EV  IPR040662; PF18389; sufficient;
+--
+SN  12
+ID  PorZ, surface-exposed A-LPS-binding protein
+DN  Type IX secretion system cell-surface protein PorZ
+RQ  0
+EV  IPR038123; PF18114; sufficient;
+//
