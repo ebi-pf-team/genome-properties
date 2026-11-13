@@ -70,12 +70,6 @@ EV  IPR007450; PF04355;
 TG  GO:0006457;
 --
 SN  6
-ID  OMP insertion C-terminal signal
-DN  OMP insertion C-terminal signal
-RQ  0
-EV  IPR017690; TIGR03304; sufficient;
---
-SN  7
 ID  OMP chaperone system: SurA-Skp-DegP
 DN  OMP chaperone system: SurA-Skp-DegP
 RQ  1
