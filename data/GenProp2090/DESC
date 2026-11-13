@@ -109,7 +109,10 @@ SN  5
 ID  Phosphatidylinositol 3-kinase regulatory subunit
 DN  PI3K p85/p55 subunit
 RQ  1
-EV  IPR001720; PTHR10155; sufficient;
+EV  IPR035591; cd11910; sufficient;
+EV  IPR035022; cd09942; sufficient;
+EV  IPR035020; cd09930; sufficient;
+EV  IPR044124; cd12924; sufficient;
 TG  GO:0001784;
 --
 SN  6
