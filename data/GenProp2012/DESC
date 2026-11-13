@@ -164,7 +164,7 @@ SN  16
 ID  26S proteasome non-ATPase regulatory subunit 10/PSMD10
 DN  26S proteasome non-ATPase regulatory subunit 10-like 
 RQ  0
-EV  IPR039334; PTHR44187; sufficient;
+EV  IPR002110; PF12796; sufficient;
 TG  GO:0070682
 --
 SN  17
