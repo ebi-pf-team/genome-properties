@@ -11,8 +11,10 @@ SN  1
 ID  Neurotoxin component
 DN  Neurotoxin component/BoNT
 RQ  1
+EV  IPR000395; PF01742; sufficient;
 EV  IPR013104; PF07951; sufficient;
 EV  IPR012500; PF07952; sufficient;
+EV  IPR012928; PF07953; sufficient;
 --
 SN  2
 ID  Sigma-70 factor regulator
@@ -24,13 +26,15 @@ SN  3
 ID  Haemagglutinin HA17
 DN  Haemagglutinin HA17
 RQ  1
-EV  IPR033982; PF05588; sufficient;
+EV  IPR008903; PIRSF037660; sufficient;
+EV  IPR008903; cd23494; sufficient;
 --
 SN  4
 ID  Haemagglutinin HA33
 DN  Haemagglutinin HA33
 RQ  1
-EV  IPR000772; cd00161; sufficient;
+EV  IPR000772; SM00458; sufficient;
+EV  IPR000772; PF14200; sufficient;
 --
 SN  5
 ID  Haemagglutinin HA70
@@ -42,5 +46,5 @@ SN  6
 ID  Non-toxin, non-haemaglutinin component
 DN  Non-toxin, non-haemaglutinin component
 RQ  1
-EV  IPR013677; PF08470; sufficient;
+EV  IPR058583; NF033911; sufficient;
 //
