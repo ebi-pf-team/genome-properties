@@ -14,14 +14,14 @@ SN  1
 ID  Muramoyltetrapeptide carboxypeptidase
 DN  Muramoyltetrapeptide carboxypeptidase (EC 3.4.17.13)
 RQ  1
-EV  IPR003507; PF02016; sufficient;
+EV  IPR003507; PTHR30237; sufficient;
+EV  IPR003507; PIRSF028757; sufficient;
 --
 SN  2
 ID  L-Ala-D/L-Glu epimerase
 DN  L-Ala-D/L-Glu epimerase (EC 5.1.1.20)
 RQ  1
-EV  IPR013341; PF02746; sufficient;
-EV  IPR029065; PF13378; sufficient;
+EV  IPR034603; cd03319; sufficient;
 --
 SN  3
 ID  Alanylglutamate dipeptidase
