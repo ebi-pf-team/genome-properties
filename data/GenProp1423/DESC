@@ -27,14 +27,13 @@ ID  4-Hydroxysphinganine N-acyltransferase
 DN  4-Hydroxysphinganine N-acyltransferase (EC 2.3.1.24)
 RQ  1
 EV  IPR006634; PF03798; sufficient;
-EV  IPR013599; PF08390; sufficient;
 --
 SN  4
 ID  Ceramide very long chain fatty acid hydroxylase
 DN  Ceramide very long chain fatty acid hydroxylase (EC 1.14.18.6)
 RQ  1
-EV  IPR001199; PF00173; sufficient;
-EV  IPR006694; PF04116; sufficient;
+EV  IPR014430; PTHR12863; sufficient;
+EV  IPR014430; PIRSF005149; sufficient;
 --
 SN  5
 ID  Inositol phosphoceramide synthase
