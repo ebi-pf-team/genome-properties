@@ -71,7 +71,8 @@ SN  8
 ID  Lipopolysaccharide core biosynthesis protein RfaP
 DN  Lipopolysaccharide core biosynthesis protein RfaP/WaaP
 RQ  0
-EV  IPR010440; PF06293;
+EV  IPR017172; NF011703; sufficient;
+EV  IPR017172; PIRSF037318; sufficient;
 --
 SN  9
 ID  Heptosyltransferase III
