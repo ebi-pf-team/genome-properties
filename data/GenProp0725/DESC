@@ -52,7 +52,7 @@ SN  3
 ID  OMP insertion complex lipoprotein BamC/NlpB
 DN  OMP insertion complex lipoprotein BamC/NlpB
 RQ  0
-EV  IPR010653; PF06804; sufficient;
+EV  IPR014524; MF_00924; sufficient;
 TG  GO:0006457;
 --
 SN  4
