@@ -1,0 +1,117 @@
+AC  GenPropXXXX
+DE  Eukaryotic translation initiation factor 3 complex
+TP  COMPLEX
+AU  Complex Portal
+TH  4
+RN  [1]
+RM  17322308
+RT  Structural characterization of the human eukaryotic initiation factor 3
+RT  protein complex by mass spectrometry.
+RA  Damoc E, Fraser CS, Zhou M, Videler H, Mayeur GL, Hershey JW, Doudna JA,
+RA  Robinson CV, Leary JA;
+RL  Mol Cell Proteomics. 2007;6:1135-1146.
+RN  [2]
+RM  16920360
+RT  eIF3: a versatile scaffold for translation initiation complexes.
+RA  Hinnebusch AG;
+RL  Trends Biochem Sci. 2006;31:553-562.
+DR  Complex Portal; CPX-6036;
+DR  Complex Portal; CPX-1831;
+CC  Eukaryotic translation initiation factor 3 (eIF3) is the largest of the
+CC  translation initiation factors. It binds the 40S ribosomal subunit and
+CC  promotes recruitment of eIF1, eIF1A, eIF5 and the eIF2-GTP-Met-tRNAi ternary
+CC  complex to form the 43S pre-initiation complex, and it stimulates attachment
+CC  of this complex to mRNA and scanning for the start codon [2]. It also takes
+CC  part in recycling post-termination ribosomes and prevents premature joining
+CC  of the 40S and 60S subunits. Mammalian eIF3 contains 13 subunits, eIF3a to
+CC  eIF3m [1]. Subunits a, b, c, g and i form a conserved core, and the eIF3 of
+CC  Saccharomyces cerevisiae consists of this core plus subunit j [2]. Only the
+CC  five core subunits are required steps in this property; the other eight are
+CC  optional.
+**  Created from Complex Portal CPX-6036 (human) as a discovery-pipeline
+**  candidate (discovery/candidates/complexportal). Evidence is the HAMAP rule
+**  for each subunit (MF_03000 to MF_03012), checked against InterPro 110.0.
+**  Required steps limited to the a/b/c/g/i core so that eIF3 of budding yeast,
+**  which lacks d, e, f, h, k, l and m, is called YES. Not yet placed in the
+**  hierarchy; a parent CATEGORY needs choosing. Needs curator review before
+**  being made public.
+--
+SN  1
+ID  Eukaryotic translation initiation factor 3 subunit A
+DN  eIF3a
+RQ  1
+EV  IPR027512; MF_03000; sufficient;
+--
+SN  2
+ID  Eukaryotic translation initiation factor 3 subunit B
+DN  eIF3b
+RQ  1
+EV  IPR011400; MF_03001; sufficient;
+--
+SN  3
+ID  Eukaryotic translation initiation factor 3 subunit C
+DN  eIF3c
+RQ  1
+EV  IPR027516; MF_03002; sufficient;
+--
+SN  4
+ID  Eukaryotic translation initiation factor 3 subunit D
+DN  eIF3d
+RQ  0
+EV  IPR007783; MF_03003; sufficient;
+--
+SN  5
+ID  Eukaryotic translation initiation factor 3 subunit E
+DN  eIF3e
+RQ  0
+EV  IPR016650; MF_03004; sufficient;
+--
+SN  6
+ID  Eukaryotic translation initiation factor 3 subunit F
+DN  eIF3f
+RQ  0
+EV  IPR027531; MF_03005; sufficient;
+--
+SN  7
+ID  Eukaryotic translation initiation factor 3 subunit G
+DN  eIF3g
+RQ  1
+EV  IPR017334; MF_03006; sufficient;
+--
+SN  8
+ID  Eukaryotic translation initiation factor 3 subunit H
+DN  eIF3h
+RQ  0
+EV  IPR027524; MF_03007; sufficient;
+--
+SN  9
+ID  Eukaryotic translation initiation factor 3 subunit I
+DN  eIF3i
+RQ  1
+EV  IPR027525; MF_03008; sufficient;
+--
+SN  10
+ID  Eukaryotic translation initiation factor 3 subunit J
+DN  eIF3j
+RQ  0
+EV  IPR013906; MF_03009; sufficient;
+--
+SN  11
+ID  Eukaryotic translation initiation factor 3 subunit K
+DN  eIF3k
+RQ  0
+EV  IPR009374; MF_03010; sufficient;
+--
+SN  12
+ID  Eukaryotic translation initiation factor 3 subunit L
+DN  eIF3l
+RQ  0
+EV  IPR019382; MF_03011; sufficient;
+--
+SN  13
+ID  Eukaryotic translation initiation factor 3 subunit M
+DN  eIF3m
+RQ  0
+EV  IPR027528; MF_03012; sufficient;
+//
+
